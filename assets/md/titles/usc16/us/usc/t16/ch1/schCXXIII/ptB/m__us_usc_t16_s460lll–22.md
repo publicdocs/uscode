@@ -85,7 +85,7 @@
 
         Section 14(a)(2) of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Advisory Board.
 
-([Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title V, § 522\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–314.)
+([Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title V, § 522\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–314.)
 
  __References in Text__ 
 
@@ -98,7 +98,7 @@
 ----------
 ----------
 
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 [/us/pl/92/463/s14/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14%2Fa%2F2
 

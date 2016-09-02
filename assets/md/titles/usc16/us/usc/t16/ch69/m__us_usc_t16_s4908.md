@@ -21,7 +21,7 @@
 
     (2) submitting a written request for such information through the Secretary of State to each country that exports exotic birds.
 
-([Pub. L. 102–440, title I, § 109][/us/pl/102/440/s109], Oct. 23, 1992, [106 Stat. 2229][/us/stat/106/2229].)
+([Pub. L. 102–440, title I][/us/pl/102/440/tI], § 109, Oct. 23, 1992, [106 Stat. 2229][/us/stat/106/2229].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/102/440/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2Fs109
+[/us/pl/102/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2FtI
 [/us/stat/106/2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2229
 
 

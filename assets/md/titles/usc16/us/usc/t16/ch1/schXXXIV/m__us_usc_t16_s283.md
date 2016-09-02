@@ -19,7 +19,7 @@
 
     (b) The boundary of Guadalupe Mountains National Park is hereby modified to include the area which comprises approximately 10,123 acres as generally depicted on the map entitled “Boundary Proposal” and dated August 1986, which shall be on file and available for public inspection in the office of the Director of the National Park Service and in the office of the Superintendent of the Guadalupe Mountains National Park.
 
-([Pub. L. 89–667, § 1][/us/pl/89/667/s1], Oct. 15, 1966, [80 Stat. 920][/us/stat/80/920]; [Pub. L. 100–541, § 1][/us/pl/100/541/s1], Oct. 28, 1988, [102 Stat. 2720][/us/stat/102/2720].)
+([Pub. L. 89–667][/us/pl/89/667], § 1, Oct. 15, 1966, [80 Stat. 920][/us/stat/80/920]; [Pub. L. 100–541][/us/pl/100/541], § 1, Oct. 28, 1988, [102 Stat. 2720][/us/stat/102/2720].)
 
  __Amendments__ 
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/89/667/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F667%2Fs1
+[/us/pl/89/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F667
 [/us/stat/80/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F920
-[/us/pl/100/541/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F541%2Fs1
+[/us/pl/100/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F541
 [/us/stat/102/2720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2720
 [/us/pl/100/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F541
 

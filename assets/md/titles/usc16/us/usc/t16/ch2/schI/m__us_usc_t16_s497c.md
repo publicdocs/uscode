@@ -81,7 +81,7 @@
 
         Subject to valid existing rights, all lands located within the boundaries of ski area permits issued prior to, on or after November 12, 1996, pursuant to authority of the Act of March 4, 1915 ([38 Stat. 1101][/us/stat/38/1101], chapter 144; [16 U.S.C. 497][/us/usc/t16/s497]), and the Act of June 4, 1897, or the National Forest Ski Area Permit Act of 1986 ([16 U.S.C. 497b][/us/usc/t16/s497b]) are hereby and henceforth automatically withdrawn from all forms of appropriation under the mining laws and from disposition under all laws pertaining to mineral and geothermal leasing and all amendments thereto. Such withdrawal shall continue for the full term of the permit and any modification, reissuance, or renewal thereof. Unless the Secretary requests otherwise of the Secretary of the Interior, such withdrawal shall be canceled automatically upon expiration or other termination of the permit and the land automatically restored to all appropriation not otherwise restricted under the public land laws.
 
-([Pub. L. 104–333, div. I, title VII, § 701][/us/pl/104/333/s701], Nov. 12, 1996, [110 Stat. 4182][/us/stat/110/4182]; [Pub. L. 106–176, title I, § 117][/us/pl/106/176/s117], Mar. 10, 2000, [114 Stat. 27][/us/stat/114/27].)
+([Pub. L. 104–333, div. I, title VII][/us/pl/104/333/dI/tVII], § 701, Nov. 12, 1996, [110 Stat. 4182][/us/stat/110/4182]; [Pub. L. 106–176, title I][/us/pl/106/176/tI], § 117, Mar. 10, 2000, [114 Stat. 27][/us/stat/114/27].)
 
  __References in Text__ 
 
@@ -95,13 +95,13 @@
 
  __Amendments__ 
 
-    2000—Subsec. (b)(3). [Pub. L. 106–176, § 117(1)][/us/pl/106/176/s117/1], substituted “required by this section” for “legislated by this Act”.
+    2000—Subsec. (b)(3). [Pub. L. 106–176][/us/pl/106/176], § 117(1), substituted “required by this section” for “legislated by this Act”.
 
-    Subsec. (d). [Pub. L. 106–176, § 117(2)][/us/pl/106/176/s117/2], in introductory provisions, substituted “formula of this section” for “formula of this Act”, in pars. (1) to (3), substituted “this section” for “this Act”, and, in concluding provisions, inserted “adjusted gross revenue for the” before “1994–1995 base year” and substituted “this section” for “this Act”.
+    Subsec. (d). [Pub. L. 106–176][/us/pl/106/176], § 117(2), in introductory provisions, substituted “formula of this section” for “formula of this Act”, in pars. (1) to (3), substituted “this section” for “this Act”, and, in concluding provisions, inserted “adjusted gross revenue for the” before “1994–1995 base year” and substituted “this section” for “this Act”.
 
-    Subsec. (f). [Pub. L. 106–176, § 117(3)][/us/pl/106/176/s117/3], inserted “offered for commercial or other promotional purposes” after “complimentary lift tickets”.
+    Subsec. (f). [Pub. L. 106–176][/us/pl/106/176], § 117(3), inserted “offered for commercial or other promotional purposes” after “complimentary lift tickets”.
 
-    Subsec. (i). [Pub. L. 106–176, § 117(4)][/us/pl/106/176/s117/4], substituted “this section” for “this Act”.
+    Subsec. (i). [Pub. L. 106–176][/us/pl/106/176], § 117(4), substituted “this section” for “this Act”.
 
  __Change of Name__ 
 
@@ -122,9 +122,9 @@
 [/us/stat/38/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F1101
 [/us/usc/t16/s497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs497
 [/us/usc/t16/s497b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs497b
-[/us/pl/104/333/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs701
+[/us/pl/104/333/dI/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtVII
 [/us/stat/110/4182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4182
-[/us/pl/106/176/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs117
+[/us/pl/106/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2FtI
 [/us/stat/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F27
 [/us/act/1915-03-04/ch144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-04%2Fch144
 [/us/stat/38/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F1086
@@ -138,9 +138,9 @@
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/106/176/s117/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs117%2F1
-[/us/pl/106/176/s117/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs117%2F2
-[/us/pl/106/176/s117/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs117%2F3
-[/us/pl/106/176/s117/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs117%2F4
+[/us/pl/106/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176
+[/us/pl/106/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176
+[/us/pl/106/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176
+[/us/pl/106/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176
 
 

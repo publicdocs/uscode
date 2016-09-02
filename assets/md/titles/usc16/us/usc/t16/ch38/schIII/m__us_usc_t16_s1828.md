@@ -31,7 +31,7 @@
 
         The Secretary shall provide biannual reports updating the Coast Guard’s progress in detecting or interdicting such incursions to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-([Pub. L. 109–241, title VIII, § 804][/us/pl/109/241/s804], July 11, 2006, [120 Stat. 563][/us/stat/120/563].)
+([Pub. L. 109–241, title VIII][/us/pl/109/241/tVIII], § 804, July 11, 2006, [120 Stat. 563][/us/stat/120/563].)
 
  __Codification__ 
 
@@ -39,7 +39,7 @@
 
  __Combination of Fisheries Enforcement Plans and Foreign Fishing Incursion Reports__ 
 
-[Pub. L. 111–207, § 4(b)][/us/pl/111/207/s4/b], July 27, 2010, [124 Stat. 2251][/us/stat/124/2251], as amended by [Pub. L. 113–281, title II, § 221(a)(5)][/us/pl/113/281/s221/a/5], Dec. 18, 2014, [128 Stat. 3037][/us/stat/128/3037], provided that: 
+[Pub. L. 111–207][/us/pl/111/207], § 4(b), July 27, 2010, [124 Stat. 2251][/us/stat/124/2251], as amended by [Pub. L. 113–281, title II][/us/pl/113/281/tII], § 221(a)(5), Dec. 18, 2014, [128 Stat. 3037][/us/stat/128/3037], provided that: 
 
 > “The Secretary of the department in which the Coast Guard is operating shall combine the reports required under section 224 of the Coast Guard and Maritime Transportation Act of 2004 ([16 U.S.C. 1861b][/us/usc/t16/s1861b]) and section 804 of the Coast Guard and Maritime Transportation Act of 2006 ([16 U.S.C. 1828][/us/usc/t16/s1828]) into a single annual report for fiscal years beginning after fiscal year 2010. No report shall be required under this subsection, including that no report shall be required under section 224 of the Coast Guard and Maritime Transportation Act of 2004 or section 804 of the Coast Guard and Maritime Transportation Act of 2006, for fiscal years beginning after fiscal year 2014.”
 
@@ -50,11 +50,11 @@
 ----------
 ----------
 
-[/us/pl/109/241/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs804
+[/us/pl/109/241/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtVIII
 [/us/stat/120/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F563
-[/us/pl/111/207/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F207%2Fs4%2Fb
+[/us/pl/111/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F207
 [/us/stat/124/2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2251
-[/us/pl/113/281/s221/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs221%2Fa%2F5
+[/us/pl/113/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtII
 [/us/stat/128/3037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3037
 [/us/usc/t16/s1861b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1861b
 [/us/usc/t16/s1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1828

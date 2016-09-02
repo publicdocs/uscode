@@ -125,7 +125,7 @@
 
         (2) an assignment arranged by the Secretary under [section 3372 of title 5][/us/usc/t5/s3372] of a Federal or State employee for work in any Federal or State of California lands, or an extension of such assignment, may be for any period of time determined by the Secretary or the State of California, as appropriate, to be mutually beneficial.
 
-([Pub. L. 105–83, title V, § 501][/us/pl/105/83/s501], Nov. 14, 1997, [111 Stat. 1610][/us/stat/111/1610].)
+([Pub. L. 105–83, title V][/us/pl/105/83/tV], § 501, Nov. 14, 1997, [111 Stat. 1610][/us/stat/111/1610].)
 
  __References in Text__ 
 
@@ -141,7 +141,7 @@
 
  __Timing of Acquisitions__ 
 
-[Pub. L. 105–83, title V, § 504][/us/pl/105/83/s504], Nov. 14, 1997, [111 Stat. 1617][/us/stat/111/1617], provided that: 
+[Pub. L. 105–83, title V][/us/pl/105/83/tV], § 504, Nov. 14, 1997, [111 Stat. 1617][/us/stat/111/1617], provided that: 
 
 > “The acquisitions authorized by sections 501 \[[16 U.S.C. 471j][/us/usc/t16/s471j]\] and 502 \[[111 Stat. 1614][/us/stat/111/1614]\] of this title may not occur prior to the earlier of: (1) 180 days after enactment of this Act \[Nov. 14, 1997\]; or (2) enactment of separate authorizing legislation that modifies section 501, 502, or 503 \[[111 Stat. 1616][/us/stat/111/1616]\] of this title. Within 120 days of enactment, the Secretary of the Interior and the Secretary of Agriculture, respectively, shall submit to the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives, the Senate Committee on Energy and Natural Resources and the House and Senate Committees on Appropriations, reports detailing the status of efforts to meet the conditions set forth in this title imposed on the acquisition of the interests to protect and preserve the Headwaters Forest and the acquisition of interests to protect and preserve Yellowstone National Park. For every day beyond 120 days after the enactment of this Act that the appraisals required in subsections \[sic\] 501(b)(5) and 502(b)(2) are not provided to the Committee on Resources \[now Committee on Natural Resources\] of the House, the Committee on Energy and Natural Resources of the Senate and the House and Senate Committees on Appropriations in accordance with such subsections, the 180-day period referenced in this section shall be extended by one day.”
 
@@ -160,7 +160,7 @@
 [/us/usc/t31/s6905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6905
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t5/s3372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3372
-[/us/pl/105/83/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs501
+[/us/pl/105/83/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtV
 [/us/stat/111/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1610
 [/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
 [/us/stat/111/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1543
@@ -170,7 +170,7 @@
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F884
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
-[/us/pl/105/83/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs504
+[/us/pl/105/83/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtV
 [/us/stat/111/1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1617
 [/us/usc/t16/s471j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs471j
 [/us/stat/111/1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1614

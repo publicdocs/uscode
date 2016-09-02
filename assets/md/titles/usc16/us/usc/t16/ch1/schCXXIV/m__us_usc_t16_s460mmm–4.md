@@ -171,7 +171,7 @@
 
                 (iii) the operation of the mineral leasing, mineral materials, and geothermal leasing laws.
 
-([Pub. L. 106–353, § 6][/us/pl/106/353/s6], Oct. 24, 2000, [114 Stat. 1375][/us/stat/114/1375].)
+([Pub. L. 106–353][/us/pl/106/353], § 6, Oct. 24, 2000, [114 Stat. 1375][/us/stat/114/1375].)
 
  __References in Text__ 
 
@@ -192,7 +192,7 @@
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
 [/us/usc/t16/s1133/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1133%2Fd%2F4
 [/us/usc/t16/s460mmm/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460mmm%2Fb
-[/us/pl/106/353/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F353%2Fs6
+[/us/pl/106/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F353
 [/us/stat/114/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1375
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
 [/us/stat/90/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2743

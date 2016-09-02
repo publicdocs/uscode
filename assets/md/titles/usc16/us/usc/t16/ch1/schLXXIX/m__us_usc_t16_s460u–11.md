@@ -19,7 +19,7 @@
 
     (b) The authorization of lands to be added to the lakeshore by the Ninety-fourth Congress and the administration of such lands as part of the lakeshore shall in and of itself in no way operate to render more restrictive the application of Federal, State, or local air and water pollution standards to the uses of property outside the boundaries of the lakeshore, nor shall it be construed to augment the control of water and air pollution sources in the State of Indiana beyond that required pursuant to applicable Federal, State, or local law.
 
-([Pub. L. 89–761, § 11][/us/pl/89/761/s11], formerly § 12, as added and renumbered [Pub. L. 94–549, § 1(8)][/us/pl/94/549/s1/8], (9), Oct. 18, 1976, [90 Stat. 2531][/us/stat/90/2531], 2533.)
+([Pub. L. 89–761][/us/pl/89/761], § 11, formerly § 12, as added and renumbered [Pub. L. 94–549][/us/pl/94/549], § 1(8), (9), Oct. 18, 1976, [90 Stat. 2531][/us/stat/90/2531], 2533.)
 
 ----------
 
@@ -28,8 +28,8 @@
 ----------
 ----------
 
-[/us/pl/89/761/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761%2Fs11
-[/us/pl/94/549/s1/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549%2Fs1%2F8
+[/us/pl/89/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761
+[/us/pl/94/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549
 [/us/stat/90/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2531
 
 

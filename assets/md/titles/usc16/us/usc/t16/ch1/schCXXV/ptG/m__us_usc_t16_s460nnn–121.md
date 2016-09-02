@@ -17,7 +17,7 @@
 
     Except as provided in sections 460nnn–91(c) and 460nnn–122 of this title, there is hereby authorized to be appropriated such sums as may be necessary to carry out this subchapter.
 
-([Pub. L. 106–399, title VII, § 701][/us/pl/106/399/s701], Oct. 30, 2000, [114 Stat. 1673][/us/stat/114/1673].)
+([Pub. L. 106–399, title VII][/us/pl/106/399/tVII], § 701, Oct. 30, 2000, [114 Stat. 1673][/us/stat/114/1673].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/106/399/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2Fs701
+[/us/pl/106/399/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2FtVII
 [/us/stat/114/1673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1673
 [/us/pl/106/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399
 [/us/stat/114/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1655

@@ -33,7 +33,7 @@
 
         (5) to promote and foster cooperation, communication, and understanding and to reduce conflict between Steens Mountain users and interests.
 
-([Pub. L. 106–399, title I, § 102][/us/pl/106/399/s102], Oct. 30, 2000, [114 Stat. 1658][/us/stat/114/1658].)
+([Pub. L. 106–399, title I][/us/pl/106/399/tI], § 102, Oct. 30, 2000, [114 Stat. 1658][/us/stat/114/1658].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/106/399/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2Fs102
+[/us/pl/106/399/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2FtI
 [/us/stat/114/1658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1658
 
 

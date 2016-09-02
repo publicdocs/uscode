@@ -49,7 +49,7 @@
 
         Nothing in this subchapter shall preclude such reasonable measures as the Secretary considers necessary to protect the land and resources from fire or insect or disease infestation in the Recreation Area.
 
-([Pub. L. 103–63, § 5][/us/pl/103/63/s5], Aug. 4, 1993, [107 Stat. 298][/us/stat/107/298].)
+([Pub. L. 103–63][/us/pl/103/63], § 5, Aug. 4, 1993, [107 Stat. 298][/us/stat/107/298].)
 
 ----------
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/103/63/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F63%2Fs5
+[/us/pl/103/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F63
 [/us/stat/107/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F298
 
 

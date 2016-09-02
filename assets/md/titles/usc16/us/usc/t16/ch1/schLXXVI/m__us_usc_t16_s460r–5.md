@@ -17,7 +17,7 @@
 
     The Secretary shall permit hunting and fishing on lands and waters under his jurisdiction within the Mount Rogers National Recreation Area in accordance with applicable Federal and State laws. The Secretary may designate zones where, and establish periods when, no hunting shall be permitted for reasons of public safety, administration, or public use and enjoyment, and shall issue regulations after consultation with the Commission of Game and Inland Fisheries of the State of Virginia.
 
-([Pub. L. 89–438, § 6][/us/pl/89/438/s6], May, 31, 1966, [80 Stat. 191][/us/stat/80/191].)
+([Pub. L. 89–438][/us/pl/89/438], § 6, May, 31, 1966, [80 Stat. 191][/us/stat/80/191].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/438/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F438%2Fs6
+[/us/pl/89/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F438
 [/us/stat/80/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F191
 
 

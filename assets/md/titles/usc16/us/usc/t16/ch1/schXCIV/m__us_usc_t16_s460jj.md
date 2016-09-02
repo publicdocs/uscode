@@ -35,7 +35,7 @@
 
         The Secretary shall develop an overall management plan for the Arapaho National Recreation Area. This plan shall be developed in consultation with State and local political subdivisions and other interested persons.
 
-([Pub. L. 95–450, § 4][/us/pl/95/450/s4], Oct. 11, 1978, [92 Stat. 1095][/us/stat/92/1095]; [Pub. L. 111–11, title I, § 1955(b)][/us/pl/111/11/s1955/b], Mar. 30, 2009, [123 Stat. 1075][/us/stat/123/1075].)
+([Pub. L. 95–450][/us/pl/95/450], § 4, Oct. 11, 1978, [92 Stat. 1095][/us/stat/92/1095]; [Pub. L. 111–11, title I][/us/pl/111/11/tI], § 1955(b), Mar. 30, 2009, [123 Stat. 1075][/us/stat/123/1075].)
 
  __Amendments__ 
 
@@ -43,13 +43,13 @@
 
  __Short Title__ 
 
-[Pub. L. 95–450, § 1][/us/pl/95/450/s1], Oct. 11, 1978, [92 Stat. 1095][/us/stat/92/1095], provided that: 
+[Pub. L. 95–450][/us/pl/95/450], § 1, Oct. 11, 1978, [92 Stat. 1095][/us/stat/92/1095], provided that: 
 
 > “This Act \[enacting this subchapter and enacting notes set out under this section and [section 1132 of this title][/us/usc/t16/s1132]\] may be cited as the ‘Indian Peaks Wilderness Area, the Arapaho National Recreation Area and the Oregon Islands Wilderness Area Act’.”
 
  __Legislative Findings; Purposes__ 
 
-[Pub. L. 95–450, § 2][/us/pl/95/450/s2], Oct. 11, 1978, [92 Stat. 1095][/us/stat/92/1095], provided that: 
+[Pub. L. 95–450][/us/pl/95/450], § 2, Oct. 11, 1978, [92 Stat. 1095][/us/stat/92/1095], provided that: 
 
 > “The Congress finds that it is in the national interest—
 
@@ -64,15 +64,15 @@
 ----------
 ----------
 
-[/us/pl/95/450/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F450%2Fs4
+[/us/pl/95/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F450
 [/us/stat/92/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1095
-[/us/pl/111/11/s1955/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs1955%2Fb
+[/us/pl/111/11/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtI
 [/us/stat/123/1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1075
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
-[/us/pl/95/450/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F450%2Fs1
+[/us/pl/95/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F450
 [/us/stat/92/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1095
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132
-[/us/pl/95/450/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F450%2Fs2
+[/us/pl/95/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F450
 [/us/stat/92/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1095
 
 

@@ -17,7 +17,7 @@
 
     The said park is established as a game refuge, and no person shall kill any game in said park except under an order from the Secretary of the Interior for the protection of persons or to protect or prevent the extermination of other animals or birds.
 
-([Feb. 26, 1917, ch. 121, § 6][/us/act/1917-02-26/ch121/s6], [39 Stat. 939][/us/stat/39/939]; [May 21, 1928, ch. 654, § 2][/us/act/1928-05-21/ch654/s2], [45 Stat. 622][/us/stat/45/622].)
+([Feb. 26, 1917, ch. 121][/us/act/1917-02-26/ch121], § 6, [39 Stat. 939][/us/stat/39/939]; [May 21, 1928, ch. 654][/us/act/1928-05-21/ch654], § 2, [45 Stat. 622][/us/stat/45/622].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1917-02-26/ch121/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-02-26%2Fch121%2Fs6
+[/us/act/1917-02-26/ch121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-02-26%2Fch121
 [/us/stat/39/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F939
-[/us/act/1928-05-21/ch654/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-21%2Fch654%2Fs2
+[/us/act/1928-05-21/ch654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-21%2Fch654
 [/us/stat/45/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F622
 
 

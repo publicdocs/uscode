@@ -43,7 +43,7 @@
 
         (2) The Wright Company factory and associated land and buildings, Dayton, Ohio.
 
-([Pub. L. 102–419, title I, § 101][/us/pl/102/419/s101], Oct. 16, 1992, [106 Stat. 2141][/us/stat/106/2141]; [Pub. L. 106–356, § 2(a)][/us/pl/106/356/s2/a], Oct. 24, 2000, [114 Stat. 1391][/us/stat/114/1391]; [Pub. L. 111–11, title VII, § 7117(a)][/us/pl/111/11/s7117/a], Mar. 30, 2009, [123 Stat. 1204][/us/stat/123/1204].)
+([Pub. L. 102–419, title I][/us/pl/102/419/tI], § 101, Oct. 16, 1992, [106 Stat. 2141][/us/stat/106/2141]; [Pub. L. 106–356][/us/pl/106/356], § 2(a), Oct. 24, 2000, [114 Stat. 1391][/us/stat/114/1391]; [Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7117(a), Mar. 30, 2009, [123 Stat. 1204][/us/stat/123/1204].)
 
  __Amendments__ 
 
@@ -61,19 +61,19 @@
 
  __Short Title of 2000 Amendment__ 
 
-[Pub. L. 106–356, § 1][/us/pl/106/356/s1], Oct. 24, 2000, [114 Stat. 1391][/us/stat/114/1391], provided that: 
+[Pub. L. 106–356][/us/pl/106/356], § 1, Oct. 24, 2000, [114 Stat. 1391][/us/stat/114/1391], provided that: 
 
 > “This Act \[amending this section and sections 410ww–6 and 410ww–8 of this title\] may be cited as the ‘Dayton Aviation Heritage Preservation Amendments Act of 2000’.”
 
  __Short Title__ 
 
-[Pub. L. 102–419, § 1][/us/pl/102/419/s1], Oct. 16, 1992, [106 Stat. 2141][/us/stat/106/2141], provided that: 
+[Pub. L. 102–419][/us/pl/102/419], § 1, Oct. 16, 1992, [106 Stat. 2141][/us/stat/106/2141], provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘Dayton Aviation Heritage Preservation Act of 1992’.”
 
  __Purposes__ 
 
-[Pub. L. 102–419, § 2][/us/pl/102/419/s2], Oct. 16, 1992, [106 Stat. 2141][/us/stat/106/2141], provided that: 
+[Pub. L. 102–419][/us/pl/102/419], § 2, Oct. 16, 1992, [106 Stat. 2141][/us/stat/106/2141], provided that: 
 
 > “The purposes of this Act \[this subchapter\] are—
 
@@ -88,19 +88,19 @@
 ----------
 ----------
 
-[/us/pl/102/419/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F419%2Fs101
+[/us/pl/102/419/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F419%2FtI
 [/us/stat/106/2141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2141
-[/us/pl/106/356/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F356%2Fs2%2Fa
+[/us/pl/106/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F356
 [/us/stat/114/1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1391
-[/us/pl/111/11/s7117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7117%2Fa
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1204
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 [/us/pl/106/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F356
-[/us/pl/106/356/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F356%2Fs1
+[/us/pl/106/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F356
 [/us/stat/114/1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1391
-[/us/pl/102/419/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F419%2Fs1
+[/us/pl/102/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F419
 [/us/stat/106/2141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2141
-[/us/pl/102/419/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F419%2Fs2
+[/us/pl/102/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F419
 [/us/stat/106/2141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2141
 
 

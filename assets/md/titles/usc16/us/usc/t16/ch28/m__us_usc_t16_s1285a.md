@@ -23,7 +23,7 @@
 
         Any land to be leased by the Secretary under this section shall be offered first for such lease to the person who owned such land immediately before its acquisition by the United States.
 
-([Pub. L. 90–542, § 14A][/us/pl/90/542/s14A], as added [Pub. L. 95–625, title VII, § 764][/us/pl/95/625/s764], Nov. 10, 1978, [92 Stat. 3534][/us/stat/92/3534].)
+([Pub. L. 90–542][/us/pl/90/542], § 14A, as added [Pub. L. 95–625, title VII][/us/pl/95/625/tVII], § 764, Nov. 10, 1978, [92 Stat. 3534][/us/stat/92/3534].)
 
 ----------
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/90/542/s14A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F542%2Fs14A
-[/us/pl/95/625/s764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs764
+[/us/pl/90/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F542
+[/us/pl/95/625/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtVII
 [/us/stat/92/3534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3534
 
 

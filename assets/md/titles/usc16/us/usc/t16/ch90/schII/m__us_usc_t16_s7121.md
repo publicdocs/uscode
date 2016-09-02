@@ -41,11 +41,11 @@
 
         (B) a land and resource management plan prepared by the Forest Service for units of the National Forest System pursuant to [section 1604 of this title][/us/usc/t16/s1604].
 
-([Pub. L. 106–393, title II, § 201][/us/pl/106/393/s201], as added [Pub. L. 110–343, div. C, title VI, § 601(a)][/us/pl/110/343/s601/a], Oct. 3, 2008, [122 Stat. 3900][/us/stat/122/3900].)
+([Pub. L. 106–393, title II][/us/pl/106/393/tII], § 201, as added [Pub. L. 110–343, div. C, title VI][/us/pl/110/343/dC/tVI], § 601(a), Oct. 3, 2008, [122 Stat. 3900][/us/stat/122/3900].)
 
  __Prior Provisions__ 
 
-    A prior [section 201 of Pub. L. 106–393][/us/pl/106/393/s201] was set out in a note under [section 500 of this title][/us/usc/t16/s500] prior to repeal by [Pub. L. 110–343, div. C, title VI, § 601(a)][/us/pl/110/343/s601/a], Oct. 3, 2008, [122 Stat. 3893][/us/stat/122/3893].
+    A prior [section 201 of Pub. L. 106–393][/us/pl/106/393/s201] was set out in a note under [section 500 of this title][/us/usc/t16/s500] prior to repeal by [Pub. L. 110–343, div. C, title VI][/us/pl/110/343/dC/tVI], § 601(a), Oct. 3, 2008, [122 Stat. 3893][/us/stat/122/3893].
 
 ----------
 
@@ -62,12 +62,12 @@
 [/us/usc/t16/s7102/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7102%2F7%2FB
 [/us/usc/t43/s1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1712
 [/us/usc/t16/s1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1604
-[/us/pl/106/393/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393%2Fs201
-[/us/pl/110/343/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs601%2Fa
+[/us/pl/106/393/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393%2FtII
+[/us/pl/110/343/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtVI
 [/us/stat/122/3900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3900
 [/us/pl/106/393/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393%2Fs201
 [/us/usc/t16/s500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs500
-[/us/pl/110/343/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs601%2Fa
+[/us/pl/110/343/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtVI
 [/us/stat/122/3893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3893
 
 

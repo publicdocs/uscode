@@ -29,7 +29,7 @@ Salt Lake Meridian
 
     Township 38 south, range 12 west: Section 29, those portions of lot 2 and of the southwest quarter lying east of the easterly right-of-way line of United States Highway 91, identified as project numbered I–01–1(1), Washington County, Utah, said line being 150 feet from and parallel the centerline of such highway, as constructed.
 
-([Pub. L. 86–387, § 1][/us/pl/86/387/s1], Feb. 20, 1960, [74 Stat. 4][/us/stat/74/4].)
+([Pub. L. 86–387][/us/pl/86/387], § 1, Feb. 20, 1960, [74 Stat. 4][/us/stat/74/4].)
 
 ----------
 
@@ -38,7 +38,7 @@ Salt Lake Meridian
 ----------
 ----------
 
-[/us/pl/86/387/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F387%2Fs1
+[/us/pl/86/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F387
 [/us/stat/74/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F4
 
 

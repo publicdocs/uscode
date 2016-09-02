@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated such funds as may be necessary to carry out the purposes of [section 760–11 of this title][/us/usc/t16/s760–11].
 
-([Pub. L. 86–572, § 2][/us/pl/86/572/s2], July 5, 1960, [74 Stat. 311][/us/stat/74/311].)
+([Pub. L. 86–572][/us/pl/86/572], § 2, July 5, 1960, [74 Stat. 311][/us/stat/74/311].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s760–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs760%E2%80%9311
-[/us/pl/86/572/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F572%2Fs2
+[/us/pl/86/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F572
 [/us/stat/74/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F311
 
 

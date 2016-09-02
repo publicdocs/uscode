@@ -27,7 +27,7 @@
 
         In addition to recommendations made by the Panel to the responsible management entities in accordance with any agreement with Canada regarding management of salmon stocks originating from the Yukon River in Canada, the Panel may make recommendations concerning the conservation and management of salmon originating in the Yukon River to the Department of the Interior, the Department of Commerce, the Department of State, the North Pacific Fishery Management Council, and other Federal or State entities as appropriate. Recommendations by the Panel shall be advisory in nature.
 
-([Pub. L. 106–450, title II, § 205][/us/pl/106/450/s205], Nov. 7, 2000, [114 Stat. 1943][/us/stat/114/1943].)
+([Pub. L. 106–450, title II][/us/pl/106/450/tII], § 205, Nov. 7, 2000, [114 Stat. 1943][/us/stat/114/1943].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/106/450/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F450%2Fs205
+[/us/pl/106/450/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F450%2FtII
 [/us/stat/114/1943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1943
 
 

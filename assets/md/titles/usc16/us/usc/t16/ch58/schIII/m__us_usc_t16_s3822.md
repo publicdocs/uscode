@@ -223,11 +223,11 @@
 
             The Secretary shall develop the appropriate policy and criteria that will allow willing persons to access existing mitigation banks, under this section or any other authority, that will serve the purposes of this section without requiring the Secretary to hold an easement, in whole or in part, in a mitigation bank.
 
-([Pub. L. 99–198, title XII, § 1222][/us/pl/99/198/s1222], Dec. 23, 1985, [99 Stat. 1508][/us/stat/99/1508]; [Pub. L. 101–624, title XIV, § 1422][/us/pl/101/624/s1422], Nov. 28, 1990, [104 Stat. 3573][/us/stat/104/3573]; [Pub. L. 104–127, title III, § 322][/us/pl/104/127/s322], Apr. 4, 1996, [110 Stat. 987][/us/stat/110/987]; [Pub. L. 110–234, title II, § 2003][/us/pl/110/234/s2003], May 22, 2008, [122 Stat. 1028][/us/stat/122/1028]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2003, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1756; [Pub. L. 113–79, title II, § 2609][/us/pl/113/79/s2609], Feb. 7, 2014, [128 Stat. 761][/us/stat/128/761].)
+([Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1222, Dec. 23, 1985, [99 Stat. 1508][/us/stat/99/1508]; [Pub. L. 101–624, title XIV][/us/pl/101/624/tXIV], § 1422, Nov. 28, 1990, [104 Stat. 3573][/us/stat/104/3573]; [Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 322, Apr. 4, 1996, [110 Stat. 987][/us/stat/110/987]; [Pub. L. 110–234, title II][/us/pl/110/234/tII], § 2003, May 22, 2008, [122 Stat. 1028][/us/stat/122/1028]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title II, § 2003, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1756; [Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2609, Feb. 7, 2014, [128 Stat. 761][/us/stat/128/761].)
 
  __References in Text__ 
 
-    [Section 3843 of this title][/us/usc/t16/s3843], referred to in subsec. (g), was omitted and a new section 3843 was added in the general amendment of subchapter V of this chapter by [Pub. L. 104–127, title III, § 341][/us/pl/104/127/s341], Apr. 4, 1996, [110 Stat. 1008][/us/stat/110/1008]. The new section 3843, which did not relate to appeal procedures, was subsequently repealed by [Pub. L. 113–79, title II, § 2710(a)][/us/pl/113/79/s2710/a], Feb. 7, 2014, [128 Stat. 770][/us/stat/128/770].
+    [Section 3843 of this title][/us/usc/t16/s3843], referred to in subsec. (g), was omitted and a new section 3843 was added in the general amendment of subchapter V of this chapter by [Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 341, Apr. 4, 1996, [110 Stat. 1008][/us/stat/110/1008]. The new section 3843, which did not relate to appeal procedures, was subsequently repealed by [Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2710(a), Feb. 7, 2014, [128 Stat. 770][/us/stat/128/770].
 
  __Codification__ 
 
@@ -237,25 +237,25 @@
 
     2014—Subsec. (k). [Pub. L. 113–79][/us/pl/113/79] amended subsec. (k) generally. Prior to amendment, text read as follows: “Using authorities available to the Secretary, the Secretary may operate a pilot program for mitigation banking of wetlands to assist persons to increase the efficiency of agricultural operations while protecting wetland functions and values. Subsection (f)(2)(C) of this section shall not apply to this subsection.”
 
-    2008—Subsec. (h)(2), (3). [Pub. L. 110–246, § 2003][/us/pl/110/246/s2003], added par. (2), redesignated former par. (2) as (3), and inserted “be” before “actively”.
+    2008—Subsec. (h)(2), (3). [Pub. L. 110–246][/us/pl/110/246], § 2003, added par. (2), redesignated former par. (2) as (3), and inserted “be” before “actively”.
 
-    1996—Subsec. (a). [Pub. L. 104–127, § 322(a)][/us/pl/104/127/s322/a], added subsec. (a) and struck out heading and text of former subsec. (a). Text consisted of pars. (1) to (4) relating to delineation of wetlands.
+    1996—Subsec. (a). [Pub. L. 104–127][/us/pl/104/127], § 322(a), added subsec. (a) and struck out heading and text of former subsec. (a). Text consisted of pars. (1) to (4) relating to delineation of wetlands.
 
-    Subsec. (b). [Pub. L. 104–127, § 322(b)][/us/pl/104/127/s322/b], added subsec. (b) and struck out heading and text of former subsec. (b). Text consisted of pars. (1)(A) to (D) and (2)(A) and (B) relating to exemptions.
+    Subsec. (b). [Pub. L. 104–127][/us/pl/104/127], § 322(b), added subsec. (b) and struck out heading and text of former subsec. (b). Text consisted of pars. (1)(A) to (D) and (2)(A) and (B) relating to exemptions.
 
-    Subsec. (d). [Pub. L. 104–127, § 322(c)][/us/pl/104/127/s322/c], added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “[Section 3821 of this title][/us/usc/t16/s3821] shall not apply to a loan described in [section 3821 of this title][/us/usc/t16/s3821] made before December 23, 1985.”
+    Subsec. (d). [Pub. L. 104–127][/us/pl/104/127], § 322(c), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “[Section 3821 of this title][/us/usc/t16/s3821] shall not apply to a loan described in [section 3821 of this title][/us/usc/t16/s3821] made before December 23, 1985.”
 
-    Subsec. (f). [Pub. L. 104–127, § 322(d)][/us/pl/104/127/s322/d], added subsec. (f) and struck out heading and text of former subsec. (f). Text consisted of pars. (1) to (3) relating to minimal effect and mitigation exemptions.
+    Subsec. (f). [Pub. L. 104–127][/us/pl/104/127], § 322(d), added subsec. (f) and struck out heading and text of former subsec. (f). Text consisted of pars. (1) to (3) relating to minimal effect and mitigation exemptions.
 
-    Subsec. (g). [Pub. L. 104–127, § 322(e)][/us/pl/104/127/s322/e], which directed substitution of “person” for “producer”, was executed by making the substitution in two places.
+    Subsec. (g). [Pub. L. 104–127][/us/pl/104/127], § 322(e), which directed substitution of “person” for “producer”, was executed by making the substitution in two places.
 
-    Subsec. (h). [Pub. L. 104–127, § 322(f)][/us/pl/104/127/s322/f], added subsec. (h) and struck out heading and text of former subsec. (h). Text consisted of pars. (1) to (3) relating to good faith exemptions to ineligibility under [section 3821 of this title][/us/usc/t16/s3821] and graduated sanctions.
+    Subsec. (h). [Pub. L. 104–127][/us/pl/104/127], § 322(f), added subsec. (h) and struck out heading and text of former subsec. (h). Text consisted of pars. (1) to (3) relating to good faith exemptions to ineligibility under [section 3821 of this title][/us/usc/t16/s3821] and graduated sanctions.
 
-    Subsec. (i). [Pub. L. 104–127, § 322(g)][/us/pl/104/127/s322/g], inserted before period at end “or has otherwise mitigated for the loss of wetland values, as determined by the Secretary, through the restoration, enhancement, or creation of wetland values in the same general area of the local watershed as the converted wetland”.
+    Subsec. (i). [Pub. L. 104–127][/us/pl/104/127], § 322(g), inserted before period at end “or has otherwise mitigated for the loss of wetland values, as determined by the Secretary, through the restoration, enhancement, or creation of wetland values in the same general area of the local watershed as the converted wetland”.
 
-    Subsec. (j). [Pub. L. 104–127, § 322(h)][/us/pl/104/127/s322/h], added subsec. (j) and struck out heading and text of former subsec. (j). Text provided that technical determinations and the development of restoration and mitigation plans be made through agreement of local representative of Soil Conservation Service and representative of the Fish and Wildlife Service and required reporting of determinations and monitoring.
+    Subsec. (j). [Pub. L. 104–127][/us/pl/104/127], § 322(h), added subsec. (j) and struck out heading and text of former subsec. (j). Text provided that technical determinations and the development of restoration and mitigation plans be made through agreement of local representative of Soil Conservation Service and representative of the Fish and Wildlife Service and required reporting of determinations and monitoring.
 
-    Subsec. (k). [Pub. L. 104–127, § 322(i)][/us/pl/104/127/s322/i], added subsec. (k).
+    Subsec. (k). [Pub. L. 104–127][/us/pl/104/127], § 322(i), added subsec. (k).
 
     1990—[Pub. L. 101–624][/us/pl/101/624] amended section generally, substituting present provisions for provisions relating to eligibility for program benefits in connection with production of crops on certain wetlands, making program ineligibility inapplicable to pre-Dec. 23, 1985, section 3821 loans, and providing for personal exemptions from program ineligibility for actions associated with production of commodities having minimal wetland effect.
 
@@ -282,41 +282,41 @@
 [/us/usc/t33/s1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1344
 [/us/usc/t16/s3821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3821
 [/us/usc/t16/s3821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3821
-[/us/pl/99/198/s1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1222
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
 [/us/stat/99/1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1508
-[/us/pl/101/624/s1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1422
+[/us/pl/101/624/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIV
 [/us/stat/104/3573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3573
-[/us/pl/104/127/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs322
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F987
-[/us/pl/110/234/s2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2003
+[/us/pl/110/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtII
 [/us/stat/122/1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1028
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s2609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2609
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F761
 [/us/usc/t16/s3843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3843
-[/us/pl/104/127/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs341
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1008
-[/us/pl/113/79/s2710/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2710%2Fa
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F770
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/110/246/s2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2003
-[/us/pl/104/127/s322/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs322%2Fa
-[/us/pl/104/127/s322/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs322%2Fb
-[/us/pl/104/127/s322/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs322%2Fc
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/usc/t16/s3821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3821
 [/us/usc/t16/s3821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3821
-[/us/pl/104/127/s322/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs322%2Fd
-[/us/pl/104/127/s322/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs322%2Fe
-[/us/pl/104/127/s322/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs322%2Ff
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/usc/t16/s3821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3821
-[/us/pl/104/127/s322/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs322%2Fg
-[/us/pl/104/127/s322/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs322%2Fh
-[/us/pl/104/127/s322/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs322%2Fi
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

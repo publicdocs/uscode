@@ -59,7 +59,7 @@
 
             In order to facilitate the implementation of any activity described in paragraph (2) over which the Secretary does not have jurisdiction, the Secretary shall enter into a memorandum of agreement with the Federal, State, and local agencies having jurisdiction over such activities, and the Area Indian tribes. The memorandum of agreement shall specify the program activities for which the respective signatories to the agreement are responsible and shall contain such provisions as are necessary to ensure the coordinated implementation of the program.
 
-([Pub. L. 99–552, § 2][/us/pl/99/552/s2], Oct. 27, 1986, [100 Stat. 3081][/us/stat/100/3081].)
+([Pub. L. 99–552][/us/pl/99/552], § 2, Oct. 27, 1986, [100 Stat. 3081][/us/stat/100/3081].)
 
 ----------
 
@@ -71,7 +71,7 @@
 [/us/usc/t16/s460ss–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460ss%E2%80%933
 [/us/usc/t16/s460ss/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460ss%2F6
 [/us/usc/t16/s460ss–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460ss%E2%80%933
-[/us/pl/99/552/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F552%2Fs2
+[/us/pl/99/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F552
 [/us/stat/100/3081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3081
 
 

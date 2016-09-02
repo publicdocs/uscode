@@ -17,7 +17,7 @@
 
     The Secretary shall administer the Redwood National Park in accordance with the provisions of the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535], [16 U.S.C. 1–4][/us/usc/t16/s1–4]), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended and supplemented.
 
-([Pub. L. 90–545, § 9][/us/pl/90/545/s9], Oct. 2, 1968, [82 Stat. 934][/us/stat/82/934].)
+([Pub. L. 90–545][/us/pl/90/545], § 9, Oct. 2, 1968, [82 Stat. 934][/us/stat/82/934].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1%E2%80%934
-[/us/pl/90/545/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F545%2Fs9
+[/us/pl/90/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F545
 [/us/stat/82/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F934
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1%E2%80%934

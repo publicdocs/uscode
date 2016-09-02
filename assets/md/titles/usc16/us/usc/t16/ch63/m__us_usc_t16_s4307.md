@@ -39,7 +39,7 @@
 
         The Secretary may issue subpoenas in connection with proceedings under this subsection compelling the attendance and testimony of witnesses and subpoenas duces tecum, and may request the Attorney General to bring an action to enforce any subpoena under this section. The district courts shall have jurisdiction to enforce such subpoenas and impose sanctions.
 
-([Pub. L. 100–691, § 8][/us/pl/100/691/s8], Nov. 18, 1988, [102 Stat. 4550][/us/stat/102/4550].)
+([Pub. L. 100–691][/us/pl/100/691], § 8, Nov. 18, 1988, [102 Stat. 4550][/us/stat/102/4550].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/100/691/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F691%2Fs8
+[/us/pl/100/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F691
 [/us/stat/102/4550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4550
 
 

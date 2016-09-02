@@ -67,7 +67,7 @@
 
         Within six months after the effective date of this chapter and every twelve months thereafter, the Secretary shall report to the public through publication in the Federal Register and to the Congress on the current status of all marine mammal species and population stocks subject to the provisions of this chapter. His report shall describe those actions taken and those measures believed necessary, including where appropriate, the issuance of permits pursuant to this subchapter to assure the well-being of such marine mammals.
 
-([Pub. L. 92–522, title I, § 103][/us/pl/92/522/s103], Oct. 21, 1972, [86 Stat. 1033][/us/stat/86/1033].)
+([Pub. L. 92–522, title I][/us/pl/92/522/tI], § 103, Oct. 21, 1972, [86 Stat. 1033][/us/stat/86/1033].)
 
  __References in Text__ 
 
@@ -79,7 +79,7 @@
 
  __Marine Mammal Populations Report__ 
 
-    [Pub. L. 101–627, title XI, § 1101][/us/pl/101/627/s1101], Nov. 28, 1990, [104 Stat. 4468][/us/stat/104/4468], directed Secretary of Commerce, in consultation with Secretary of the Interior, to provide to Congress within 12 months after Nov. 28, 1990, a report assessing population sizes and trends of harbor seals, sea otters, California sea lions, and northern sea lions off the coast of the State of Washington; assessing the effectiveness of [16 U.S.C. 1371(a)(3)(A)][/us/usc/t16/s1371/a/3/A] and 1379(h); and specifying long range management plans for the species of marine mammals listed.
+    [Pub. L. 101–627, title XI][/us/pl/101/627/tXI], § 1101, Nov. 28, 1990, [104 Stat. 4468][/us/stat/104/4468], directed Secretary of Commerce, in consultation with Secretary of the Interior, to provide to Congress within 12 months after Nov. 28, 1990, a report assessing population sizes and trends of harbor seals, sea otters, California sea lions, and northern sea lions off the coast of the State of Washington; assessing the effectiveness of [16 U.S.C. 1371(a)(3)(A)][/us/usc/t16/s1371/a/3/A] and 1379(h); and specifying long range management plans for the species of marine mammals listed.
 
 ----------
 
@@ -91,14 +91,14 @@
 [/us/usc/t16/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1361
 [/us/usc/t16/s1374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1374
 [/us/usc/t16/s1371/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1371%2Fa%2F3%2FA
-[/us/pl/92/522/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs103
+[/us/pl/92/522/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtI
 [/us/stat/86/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1033
 [/us/pl/92/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522
 [/us/pl/92/522/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs4
 [/us/usc/t16/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1361
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/101/627/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs1101
+[/us/pl/101/627/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtXI
 [/us/stat/104/4468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4468
 [/us/usc/t16/s1371/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1371%2Fa%2F3%2FA
 

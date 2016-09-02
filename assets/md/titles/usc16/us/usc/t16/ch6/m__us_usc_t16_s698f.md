@@ -37,31 +37,31 @@
 
         (4) For purposes of this subsection, the term “total cost” means that amount of the total acquisition costs (including the value of exchanged or donated lands) less the amount of the costs incurred by the Federal Highway Administration and the Florida Department of Transportation, including severance damages paid to private property owners as a result of the construction of Interstate 75.
 
-([Pub. L. 93–440, § 1][/us/pl/93/440/s1], Oct. 11, 1974, [88 Stat. 1258][/us/stat/88/1258]; [Pub. L. 100–301, § 4(a)][/us/pl/100/301/s4/a]–(e), Apr. 29, 1988, [102 Stat. 444][/us/stat/102/444], 445; [Pub. L. 108–483, § 2][/us/pl/108/483/s2], Dec. 23, 2004, [118 Stat. 3920][/us/stat/118/3920].)
+([Pub. L. 93–440][/us/pl/93/440], § 1, Oct. 11, 1974, [88 Stat. 1258][/us/stat/88/1258]; [Pub. L. 100–301][/us/pl/100/301], § 4(a)–(e), Apr. 29, 1988, [102 Stat. 444][/us/stat/102/444], 445; [Pub. L. 108–483][/us/pl/108/483], § 2, Dec. 23, 2004, [118 Stat. 3920][/us/stat/118/3920].)
 
  __Amendments__ 
 
     2004—Subsec. (d)(3). [Pub. L. 108–483][/us/pl/108/483] substituted “The amount described in paragraph (2)” for “The amount described in paragraph (1)”.
 
-    1988—Subsec. (c). [Pub. L. 100–301, § 4(b)][/us/pl/100/301/s4/b], inserted in provisions before first proviso “or the Addition” after “boundaries of the preserve” and in first proviso “in the preserve” after “subdivisions,” and “and, any land acquired by the State of Florida, or any of its subdivisions, in the Addition shall be acquired in accordance with subsection (d)” before the colon.
+    1988—Subsec. (c). [Pub. L. 100–301][/us/pl/100/301], § 4(b), inserted in provisions before first proviso “or the Addition” after “boundaries of the preserve” and in first proviso “in the preserve” after “subdivisions,” and “and, any land acquired by the State of Florida, or any of its subdivisions, in the Addition shall be acquired in accordance with subsection (d)” before the colon.
 
-    [Pub. L. 100–301, § 4(e)][/us/pl/100/301/s4/e], inserted “and the Addition” after “for the purposes of the preserve” and after “any lands within the preserve” in third sentence.
+    [Pub. L. 100–301][/us/pl/100/301], § 4(e), inserted “and the Addition” after “for the purposes of the preserve” and after “any lands within the preserve” in third sentence.
 
-    [Pub. L. 100–301, § 4(c)][/us/pl/100/301/s4/c], inserted “or the Addition” after “land within the preserve” and after “property within the preserve” in fourth sentence.
+    [Pub. L. 100–301][/us/pl/100/301], § 4(c), inserted “or the Addition” after “land within the preserve” and after “property within the preserve” in fourth sentence.
 
-    [Pub. L. 100–301, § 4(d)][/us/pl/100/301/s4/d], inserted at end “Nothing in sections 698f to 698m–4 of this title shall be construed to interfere with the right of the State of Florida to acquire such property rights as may be necessary for Interstate 75.”
+    [Pub. L. 100–301][/us/pl/100/301], § 4(d), inserted at end “Nothing in sections 698f to 698m–4 of this title shall be construed to interfere with the right of the State of Florida to acquire such property rights as may be necessary for Interstate 75.”
 
-    Subsec. (d). [Pub. L. 100–301, § 4(a)][/us/pl/100/301/s4/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 100–301][/us/pl/100/301], § 4(a), added subsec. (d).
 
  __Short Title of 1988 Amendment__ 
 
-[Pub. L. 100–301, § 1(a)][/us/pl/100/301/s1/a], Apr. 29, 1988, [102 Stat. 443][/us/stat/102/443], provided that: 
+[Pub. L. 100–301][/us/pl/100/301], § 1(a), Apr. 29, 1988, [102 Stat. 443][/us/stat/102/443], provided that: 
 
 > “This Act \[enacting sections 698m–1 to 698m–4 of this title, amending this section and sections 698h and 698j to 698m of this title, and enacting provisions set out below\] may be cited as the ‘Big Cypress National Preserve Addition Act’.”
 
  __Findings and Purpose__ 
 
-[Pub. L. 100–301, § 2][/us/pl/100/301/s2], Apr. 29, 1988, [102 Stat. 443][/us/stat/102/443], provided that:
+[Pub. L. 100–301][/us/pl/100/301], § 2, Apr. 29, 1988, [102 Stat. 443][/us/stat/102/443], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -87,21 +87,21 @@
 ----------
 
 [/us/usc/t42/s4651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4651
-[/us/pl/93/440/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F440%2Fs1
+[/us/pl/93/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F440
 [/us/stat/88/1258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1258
-[/us/pl/100/301/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301%2Fs4%2Fa
+[/us/pl/100/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301
 [/us/stat/102/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F444
-[/us/pl/108/483/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F483%2Fs2
+[/us/pl/108/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F483
 [/us/stat/118/3920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3920
 [/us/pl/108/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F483
-[/us/pl/100/301/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301%2Fs4%2Fb
-[/us/pl/100/301/s4/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301%2Fs4%2Fe
-[/us/pl/100/301/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301%2Fs4%2Fc
-[/us/pl/100/301/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301%2Fs4%2Fd
-[/us/pl/100/301/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301%2Fs4%2Fa
-[/us/pl/100/301/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301%2Fs1%2Fa
+[/us/pl/100/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301
+[/us/pl/100/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301
+[/us/pl/100/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301
+[/us/pl/100/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301
+[/us/pl/100/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301
+[/us/pl/100/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301
 [/us/stat/102/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F443
-[/us/pl/100/301/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301%2Fs2
+[/us/pl/100/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301
 [/us/stat/102/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F443
 
 

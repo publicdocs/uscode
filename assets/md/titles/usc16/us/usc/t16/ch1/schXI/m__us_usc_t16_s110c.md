@@ -41,7 +41,7 @@
 
         (3) Effective upon acceptance thereof by the State of Washington, the jurisdiction which the United States acquired over those lands excluded from the boundaries of the Mount Rainier National Park by this Act is hereby retroceded to the State.
 
-([Pub. L. 100–668, title III, § 302][/us/pl/100/668/s302], Nov. 16, 1988, [102 Stat. 3965][/us/stat/102/3965].)
+([Pub. L. 100–668, title III][/us/pl/100/668/tIII], § 302, Nov. 16, 1988, [102 Stat. 3965][/us/stat/102/3965].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 
  __Codification__ 
 
-    In subsec. (d)(2), “sections 100506(c) and 200306 of title 54” substituted for “section 7 of the Land and Water Conservation Fund Act of 1965 ([78 Stat. 903][/us/stat/78/903], as amended; [16 U.S.C. 460][/us/usc/t16/s460]l–9)” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (d)(2), “sections 100506(c) and 200306 of title 54” substituted for “section 7 of the Land and Water Conservation Fund Act of 1965 ([78 Stat. 903][/us/stat/78/903], as amended; [16 U.S.C. 460][/us/usc/t16/s460]l–9)” on authority of [Pub. L. 113–287][/us/pl/113/287], § 6(e), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
 ----------
 
@@ -62,7 +62,7 @@
 
 [/us/stat/30/993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F993
 [/us/usc/t16/s91–110b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs91%E2%80%93110b
-[/us/pl/100/668/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F668%2Fs302
+[/us/pl/100/668/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F668%2FtIII
 [/us/stat/102/3965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3965
 [/us/stat/30/993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F993
 [/us/act/1899-03-02/ch377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-02%2Fch377
@@ -74,7 +74,7 @@
 [/us/usc/t16/s90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs90
 [/us/stat/78/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F903
 [/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
-[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 
 

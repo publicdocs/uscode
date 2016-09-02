@@ -19,7 +19,7 @@
 
     All lands in Del Muerto, De Chelly, and Monument Canyons, in the canyons tributary thereto, and the lands within one-half mile of the rims of the said canyons, situated in unsurveyed townships 4 and 5 north, range 7 west; townships 4, 5, and 6 north, range 8 west; townships 4 and 5 north, range 9 west; and in surveyed townships 4 and 5 north, range 6 west; townships 3, 6, and 7 north, range 7 west; township 6 north, range 9 west; and township 5 north, range 10 west; embracing about eighty-three thousand eight hundred and forty acres, all of the Navajo meridian, in Arizona.
 
-([Feb. 14, 1931, ch. 188, § 1][/us/act/1931-02-14/ch188/s1], [46 Stat. 1161][/us/stat/46/1161]; [Mar. 1, 1933, ch. 161][/us/act/1933-03-01/ch161], [47 Stat. 1419][/us/stat/47/1419].)
+([Feb. 14, 1931, ch. 188][/us/act/1931-02-14/ch188], § 1, [46 Stat. 1161][/us/stat/46/1161]; [Mar. 1, 1933, ch. 161][/us/act/1933-03-01/ch161], [47 Stat. 1419][/us/stat/47/1419].)
 
  __Amendments__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/act/1931-02-14/ch188/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-02-14%2Fch188%2Fs1
+[/us/act/1931-02-14/ch188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-02-14%2Fch188
 [/us/stat/46/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1161
 [/us/act/1933-03-01/ch161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-01%2Fch161
 [/us/stat/47/1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F1419

@@ -17,7 +17,7 @@
 
     Except as herein provided, the provisions of this subchapter shall not be construed as repealing or affecting any of the provisions of this chapter.
 
-([Aug. 15, 1953, ch. 503, § 4][/us/act/1953-08-15/ch503/s4], [67 Stat. 587][/us/stat/67/587].)
+([Aug. 15, 1953, ch. 503][/us/act/1953-08-15/ch503], § 4, [67 Stat. 587][/us/stat/67/587].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1953-08-15/ch503/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-15%2Fch503%2Fs4
+[/us/act/1953-08-15/ch503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-15%2Fch503
 [/us/stat/67/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F587
 
 

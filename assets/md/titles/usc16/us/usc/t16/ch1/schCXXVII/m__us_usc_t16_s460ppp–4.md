@@ -17,7 +17,7 @@
 
     Subject to valid existing rights, all Federal lands within the conservation area and all lands and interests therein which are hereafter acquired by the United States are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws, from location, entry, and patent under the mining laws, from operation of the mineral leasing and geothermal leasing laws and from the minerals materials laws and all amendments thereto.
 
-([Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 125 \[§ 6\]\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–229, 2763A–355.)
+([Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 125 \[§ 6\]\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–229, 2763A–355.)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

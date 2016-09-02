@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall be construed to affect the jurisdiction or responsibilities of the State of California with respect to fish and wildlife, including the regulation of hunting, fishing, and trapping on any lands managed by the Secretary under this subchapter, except that the Secretary may designate zones where, and establish periods when, no hunting, fishing, or trapping shall be permitted for reasons of protecting nongame species and their habitats, public safety, administration, or public use and enjoyment. Except in emergencies, any regulation of the Secretary pursuant to this section shall be put into effect only after consultation with the fish and wildlife agency of the State of California.
 
-([Pub. L. 101–612, § 7][/us/pl/101/612/s7], Nov. 16, 1990, [104 Stat. 3214][/us/stat/104/3214].)
+([Pub. L. 101–612][/us/pl/101/612], § 7, Nov. 16, 1990, [104 Stat. 3214][/us/stat/104/3214].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/101/612/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612%2Fs7
+[/us/pl/101/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612
 [/us/stat/104/3214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3214
 [/us/pl/101/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612
 [/us/stat/104/3209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3209

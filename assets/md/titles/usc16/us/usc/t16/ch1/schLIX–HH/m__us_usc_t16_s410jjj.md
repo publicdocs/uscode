@@ -61,7 +61,7 @@
 
         The total acreage of the park shall not exceed 26,776 acres.
 
-([Pub. L. 94–545, § 1][/us/pl/94/545/s1], Oct. 18, 1976, [90 Stat. 2517][/us/stat/90/2517]; [Pub. L. 100–524, § 5][/us/pl/100/524/s5], Oct. 24, 1988, [102 Stat. 2607][/us/stat/102/2607]; [Pub. L. 108–108, title I][/us/pl/108/108], §§ 135, 148, Nov. 10, 2003, [117 Stat. 1270][/us/stat/117/1270], 1281; [Pub. L. 108–199, div. H, § 139(a)][/us/pl/108/199/s139/a], Jan. 23, 2004, [118 Stat. 442][/us/stat/118/442].)
+([Pub. L. 94–545][/us/pl/94/545], § 1, Oct. 18, 1976, [90 Stat. 2517][/us/stat/90/2517]; [Pub. L. 100–524][/us/pl/100/524], § 5, Oct. 24, 1988, [102 Stat. 2607][/us/stat/102/2607]; [Pub. L. 108–108, title I][/us/pl/108/108/tI], §§ 135, 148, Nov. 10, 2003, [117 Stat. 1270][/us/stat/117/1270], 1281; [Pub. L. 108–199, div. H][/us/pl/108/199/dH], § 139(a), Jan. 23, 2004, [118 Stat. 442][/us/stat/118/442].)
 
  __References in Text__ 
 
@@ -69,7 +69,7 @@
 
  __Amendments__ 
 
-    2004—Subsec. (c)(6). [Pub. L. 108–199, § 139(a)][/us/pl/108/199/s139/a], added par. (6) and struck out former par. (6) which read: “Nothing in this section—
+    2004—Subsec. (c)(6). [Pub. L. 108–199][/us/pl/108/199], § 139(a), added par. (6) and struck out former par. (6) which read: “Nothing in this section—
 
     “(A) affects the use of private land adjacent to the park;
 
@@ -77,17 +77,17 @@
 
     “(C) negatively affects the economic development of the areas surrounding the park.”
 
-    2003—Subsec. (b). [Pub. L. 108–108, § 148(1)][/us/pl/108/108/s148/1], struck out last sentence which read “The total acreage of the monument including lands described in subsection (a) and this subsection shall not exceed 22,200 acres.”
+    2003—Subsec. (b). [Pub. L. 108–108][/us/pl/108/108], § 148(1), struck out last sentence which read “The total acreage of the monument including lands described in subsection (a) and this subsection shall not exceed 22,200 acres.”
 
-    Subsecs. (c), (d). [Pub. L. 108–108, § 148(2)][/us/pl/108/108/s148/2], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 108–108][/us/pl/108/108], § 148(2), added subsecs. (c) and (d).
 
     1988—[Pub. L. 100–524][/us/pl/100/524] designated existing provisions as subsec. (a), struck out “, but the total area may not exceed fifteen thousand, two hundred acres” after “Federal Register”, and added subsec. (b).
 
  __Change of Name__ 
 
-    “Congaree National Park”, “park”, and “Park” substituted in text for “Congaree Swamp National Monument”, “monument”, and “Monument”, respectively, pursuant to [Pub. L. 108–108, § 135][/us/pl/108/108/s135], which is set out below and which redesignated the Congaree Swamp National Monument as the Congaree National Park.
+    “Congaree National Park”, “park”, and “Park” substituted in text for “Congaree Swamp National Monument”, “monument”, and “Monument”, respectively, pursuant to [Pub. L. 108–108][/us/pl/108/108], § 135, which is set out below and which redesignated the Congaree Swamp National Monument as the Congaree National Park.
 
-[Pub. L. 108–108, title I, § 135][/us/pl/108/108/s135], Nov. 10, 2003, [117 Stat. 1270][/us/stat/117/1270], provided that: 
+[Pub. L. 108–108, title I][/us/pl/108/108/tI], § 135, Nov. 10, 2003, [117 Stat. 1270][/us/stat/117/1270], provided that: 
 
 > “Upon enactment of this Act, the Congaree Swamp National Monument shall be designated the Congaree National Park.”
 
@@ -97,7 +97,7 @@
 
  __Short Title of 1988 Amendment__ 
 
-[Pub. L. 100–524, § 1][/us/pl/100/524/s1], Oct. 24, 1988, [102 Stat. 2606][/us/stat/102/2606], provided that: 
+[Pub. L. 100–524][/us/pl/100/524], § 1, Oct. 24, 1988, [102 Stat. 2606][/us/stat/102/2606], provided that: 
 
 > “This Act \[enacting [section 191a of Title 30][/us/usc/t30/s191a], Mineral Lands and Mining, amending this section and [section 410jjj–4 of this title][/us/usc/t16/s410jjj–4], and enacting provisions listed in a table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132]\] may be cited as the ‘Congaree Swamp National Monument Expansion and Wilderness Act’.”
 
@@ -109,24 +109,24 @@
 ----------
 
 [/us/usc/t42/s7472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7472
-[/us/pl/94/545/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F545%2Fs1
+[/us/pl/94/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F545
 [/us/stat/90/2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2517
-[/us/pl/100/524/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F524%2Fs5
+[/us/pl/100/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F524
 [/us/stat/102/2607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2607
-[/us/pl/108/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108
+[/us/pl/108/108/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2FtI
 [/us/stat/117/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1270
-[/us/pl/108/199/s139/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs139%2Fa
+[/us/pl/108/199/dH]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdH
 [/us/stat/118/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F442
 [/us/pl/94/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F545
 [/us/pl/94/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F545
-[/us/pl/108/199/s139/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs139%2Fa
-[/us/pl/108/108/s148/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2Fs148%2F1
-[/us/pl/108/108/s148/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2Fs148%2F2
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108
+[/us/pl/108/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108
 [/us/pl/100/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F524
-[/us/pl/108/108/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2Fs135
-[/us/pl/108/108/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2Fs135
+[/us/pl/108/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108
+[/us/pl/108/108/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2FtI
 [/us/stat/117/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1270
-[/us/pl/100/524/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F524%2Fs1
+[/us/pl/100/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F524
 [/us/stat/102/2606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2606
 [/us/usc/t30/s191a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs191a
 [/us/usc/t16/s410jjj–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410jjj%E2%80%934

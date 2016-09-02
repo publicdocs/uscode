@@ -63,7 +63,7 @@
 
         (2) the funding and/or other contributions provided by each party for each project agreement.
 
-([Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title III, § 323\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–290; [Pub. L. 107–63, title III, § 330][/us/pl/107/63/s330], Nov. 5, 2001, [115 Stat. 471][/us/stat/115/471]; [Pub. L. 109–54, title IV, § 434][/us/pl/109/54/s434], Aug. 2, 2005, [119 Stat. 557][/us/stat/119/557]; [Pub. L. 111–11, title III, § 3001][/us/pl/111/11/s3001], Mar. 30, 2009, [123 Stat. 1126][/us/stat/123/1126].)
+([Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title III, § 323\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–290; [Pub. L. 107–63, title III][/us/pl/107/63/tIII], § 330, Nov. 5, 2001, [115 Stat. 471][/us/stat/115/471]; [Pub. L. 109–54, title IV][/us/pl/109/54/tIV], § 434, Aug. 2, 2005, [119 Stat. 557][/us/stat/119/557]; [Pub. L. 111–11, title III][/us/pl/111/11/tIII], § 3001, Mar. 30, 2009, [123 Stat. 1126][/us/stat/123/1126].)
 
  __Codification__ 
 
@@ -73,9 +73,9 @@
 
  __Amendments__ 
 
-    2009—Subsec. (a). [Pub. L. 111–11, § 3001(1)][/us/pl/111/11/s3001/1], substituted “fiscal year 2006 and each fiscal year thereafter” for “each of fiscal years 2006 through 2011”.
+    2009—Subsec. (a). [Pub. L. 111–11][/us/pl/111/11], § 3001(1), substituted “fiscal year 2006 and each fiscal year thereafter” for “each of fiscal years 2006 through 2011”.
 
-    Subsecs. (d), (e). [Pub. L. 111–11, § 3001(2)][/us/pl/111/11/s3001/2], (3), added subsec. (d) and redesignated former subsec. (d) as (e).
+    Subsecs. (d), (e). [Pub. L. 111–11][/us/pl/111/11], § 3001(2), (3), added subsec. (d) and redesignated former subsec. (d) as (e).
 
     2005—Subsec. (a). [Pub. L. 109–54][/us/pl/109/54] substituted “each of fiscal years 2006 through 2011” for “fiscal year 1999, 2000 and 2001, and fiscal years 2002 through 2005”.
 
@@ -85,7 +85,7 @@
 
     Similar provisions were contained in the following prior appropriation act:
 
-    [Pub. L. 105–83, title III, § 334][/us/pl/105/83/s334], Nov. 14, 1997, [111 Stat. 1601][/us/stat/111/1601].
+    [Pub. L. 105–83, title III][/us/pl/105/83/tIII], § 334, Nov. 14, 1997, [111 Stat. 1601][/us/stat/111/1601].
 
 ----------
 
@@ -95,20 +95,20 @@
 ----------
 
 [/us/usc/t16/s565a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs565a%E2%80%931
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
-[/us/pl/107/63/s330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63%2Fs330
+[/us/pl/107/63/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63%2FtIII
 [/us/stat/115/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F471
-[/us/pl/109/54/s434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54%2Fs434
+[/us/pl/109/54/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54%2FtIV
 [/us/stat/119/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F557
-[/us/pl/111/11/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs3001
+[/us/pl/111/11/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtIII
 [/us/stat/123/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1126
 [/us/usc/t16/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1011
-[/us/pl/111/11/s3001/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs3001%2F1
-[/us/pl/111/11/s3001/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs3001%2F2
+[/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
+[/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 [/us/pl/109/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54
 [/us/pl/107/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63
-[/us/pl/105/83/s334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs334
+[/us/pl/105/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtIII
 [/us/stat/111/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1601
 
 

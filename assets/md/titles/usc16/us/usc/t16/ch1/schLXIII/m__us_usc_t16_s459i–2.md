@@ -17,7 +17,7 @@
 
     For the purpose of providing access from Interstate 95 to the mainland administrative and visitor facilities of the seashore, the Secretary may designate as the Cumberland Island Parkway a right-of-way, together with adjacent or related sites for public noncommercial recreational use and for interpretation of scenic and historic values, of not more than one thousand acres of lands, waters, and interests therein. The Secretary is authorized to acquire only by donation those lands and interests therein, and other property comprising such right-of-way, and adjacent or related sites as he may designate pursuant to sections 459i to 459i–9 of this title for the development, hereby authorized, of a roadway of parkway standards, including necessary bridges, spurs, connecting roads, access roads, and other facilities, and for the development and interpretation of recreation areas and historic sites in connection therewith. Lands acquired for the parkway shall be administered as a part of the seashore, subject to all laws and regulations applicable thereto, and subject to such special regulations as the Secretary may promulgate for the parkway.
 
-([Pub. L. 92–536, § 3][/us/pl/92/536/s3], Oct. 23, 1972, [86 Stat. 1066][/us/stat/86/1066].)
+([Pub. L. 92–536][/us/pl/92/536], § 3, Oct. 23, 1972, [86 Stat. 1066][/us/stat/86/1066].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/536/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F536%2Fs3
+[/us/pl/92/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F536
 [/us/stat/86/1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1066
 
 

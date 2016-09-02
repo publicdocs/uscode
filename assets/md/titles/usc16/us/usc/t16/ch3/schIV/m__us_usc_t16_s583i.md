@@ -17,7 +17,7 @@
 
     Funds available for the protection or management of Federally owned or administered forest land within the unit concerned may also be expended in carrying out the purposes of this subchapter, and there are authorized to be appropriated such additional sums for the purposes of this subchapter as the Congress may from time to time deem necessary, but such additional sums shall not exceed $150,000 for the Department of Agriculture and $50,000 for the Department of the Interior, for any fiscal year.
 
-([Mar. 29, 1944, ch. 146, § 10][/us/act/1944-03-29/ch146/s10], [58 Stat. 135][/us/stat/58/135].)
+([Mar. 29, 1944, ch. 146][/us/act/1944-03-29/ch146], § 10, [58 Stat. 135][/us/stat/58/135].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1944-03-29/ch146/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-03-29%2Fch146%2Fs10
+[/us/act/1944-03-29/ch146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-03-29%2Fch146
 [/us/stat/58/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F135
 
 

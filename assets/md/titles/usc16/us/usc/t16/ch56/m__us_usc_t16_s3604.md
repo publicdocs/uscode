@@ -23,7 +23,7 @@
 
         The Secretary of Commerce, in cooperation with the Secretary of the Interior, shall prepare all statements, reports, and notifications, required by articles 14 and 15 of the Convention and submit such documents to the Secretary of State for transmission to the Organization.
 
-([Pub. L. 97–389, title III, § 305][/us/pl/97/389/s305], Dec. 29, 1982, [96 Stat. 1953][/us/stat/96/1953].)
+([Pub. L. 97–389, title III][/us/pl/97/389/tIII], § 305, Dec. 29, 1982, [96 Stat. 1953][/us/stat/96/1953].)
 
  __Transfer of Functions__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/97/389/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F389%2Fs305
+[/us/pl/97/389/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F389%2FtIII
 [/us/stat/96/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1953
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

@@ -17,7 +17,7 @@
 
     The boundary of Zion National Park is hereby revised to include the area as generally depicted on the map entitled “Land Ownership Types, Zion National Park, Utah”, numbered 116–80,003, which map shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior. The Secretary of the Interior may acquire the property included by this section by donation only.
 
-([Pub. L. 94–578, title III, § 318][/us/pl/94/578/s318], Oct. 21, 1976, [90 Stat. 2738][/us/stat/90/2738].)
+([Pub. L. 94–578, title III][/us/pl/94/578/tIII], § 318, Oct. 21, 1976, [90 Stat. 2738][/us/stat/90/2738].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/578/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2Fs318
+[/us/pl/94/578/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2FtIII
 [/us/stat/90/2738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2738
 
 

@@ -35,7 +35,7 @@
 
         (3) the Secretary may construct, operate, and maintain such permanent and temporary buildings and facilities as he deems appropriate on land which is within, or in the vicinity of, any conservation system unit and with respect to which the Secretary has acquired authority under this subsection to use the property for the purpose of establishing an administrative site or visitor facility under subsection (a), except that the Secretary may not begin construction of buildings and facilities on land not owned by the United States until the owner of such land has entered into an agreement with the Secretary, the terms of which assure the continued use of such buildings and facilities in furtherance of the purposes of this Act.
 
-([Pub. L. 96–487, title XIII, § 1306][/us/pl/96/487/s1306], Dec. 2, 1980, [94 Stat. 2479][/us/stat/94/2479].)
+([Pub. L. 96–487, title XIII][/us/pl/96/487/tXIII], § 1306, Dec. 2, 1980, [94 Stat. 2479][/us/stat/94/2479].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/96/487/s1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1306
+[/us/pl/96/487/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXIII
 [/us/stat/94/2479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2479
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371

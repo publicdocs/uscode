@@ -17,7 +17,7 @@
 
     Unsurveyed sections 28 and 33, township 36 south, range 3 west, and section 20, township 37 south, range 3 west, Salt Lake meridian, public lands of the United States, are added to and made a part of the Bryce Canyon National Park subject to the provisions of sections 346, 401, and 402 of this title.
 
-([Feb. 25, 1928, ch. 102, § 3][/us/act/1928-02-25/ch102/s3], [45 Stat. 147][/us/stat/45/147].)
+([Feb. 25, 1928, ch. 102][/us/act/1928-02-25/ch102], § 3, [45 Stat. 147][/us/stat/45/147].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1928-02-25/ch102/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-02-25%2Fch102%2Fs3
+[/us/act/1928-02-25/ch102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-02-25%2Fch102
 [/us/stat/45/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F147
 
 

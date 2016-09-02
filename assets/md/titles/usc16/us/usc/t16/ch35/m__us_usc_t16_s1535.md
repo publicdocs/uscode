@@ -131,7 +131,7 @@
 
         (2) Amounts deposited into the special fund are authorized to be appropriated annually and allocated in accordance with subsection (d) of this section.
 
-([Pub. L. 93–205, § 6][/us/pl/93/205/s6], Dec. 28, 1973, [87 Stat. 889][/us/stat/87/889]; [Pub. L. 95–212][/us/pl/95/212], Dec. 19, 1977, [91 Stat. 1493][/us/stat/91/1493]; [Pub. L. 95–632, § 10][/us/pl/95/632/s10], Nov. 10, 1978, [92 Stat. 3762][/us/stat/92/3762]; [Pub. L. 96–246][/us/pl/96/246], May 23, 1980, [94 Stat. 348][/us/stat/94/348]; [Pub. L. 97–304][/us/pl/97/304], §§ 3, 8(b), Oct. 13, 1982, [96 Stat. 1416][/us/stat/96/1416], 1426; [Pub. L. 100–478, title I, § 1005][/us/pl/100/478/s1005], Oct. 7, 1988, [102 Stat. 2307][/us/stat/102/2307].)
+([Pub. L. 93–205][/us/pl/93/205], § 6, Dec. 28, 1973, [87 Stat. 889][/us/stat/87/889]; [Pub. L. 95–212][/us/pl/95/212], Dec. 19, 1977, [91 Stat. 1493][/us/stat/91/1493]; [Pub. L. 95–632][/us/pl/95/632], § 10, Nov. 10, 1978, [92 Stat. 3762][/us/stat/92/3762]; [Pub. L. 96–246][/us/pl/96/246], May 23, 1980, [94 Stat. 348][/us/stat/94/348]; [Pub. L. 97–304][/us/pl/97/304], §§ 3, 8(b), Oct. 13, 1982, [96 Stat. 1416][/us/stat/96/1416], 1426; [Pub. L. 100–478, title I][/us/pl/100/478/tI], § 1005, Oct. 7, 1988, [102 Stat. 2307][/us/stat/102/2307].)
 
  __References in Text__ 
 
@@ -141,7 +141,7 @@
 
  __Amendments__ 
 
-    1988—Subsec. (d)(1). [Pub. L. 100–478, § 1005(a)][/us/pl/100/478/s1005/a], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary is authorized to provide financial assistance to any State, through its respective State agency, which has entered into a cooperative agreement pursuant to subsection (c) of this section to assist in development of programs for the conservation of endangered and threatened species. The Secretary shall make an allocation of appropriated funds to such States based on consideration of—
+    1988—Subsec. (d)(1). [Pub. L. 100–478][/us/pl/100/478], § 1005(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary is authorized to provide financial assistance to any State, through its respective State agency, which has entered into a cooperative agreement pursuant to subsection (c) of this section to assist in development of programs for the conservation of endangered and threatened species. The Secretary shall make an allocation of appropriated funds to such States based on consideration of—
 
     “(A) the international commitments of the United States to protect endangered species or threatened species;
 
@@ -155,21 +155,21 @@
 
     So much of any appropriated funds allocated for obligation to any State for any fiscal year as remains unobligated at the close thereof is authorized to be made available to that State until the close of the succeeding fiscal year. Any amount allocated to any State which is unobligated at the end of the period during which it is available for expenditure is authorized to be made available for expenditure by the Secretary in conducting programs under this section.”
 
-    Subsec. (i). [Pub. L. 100–478, § 1005(b)][/us/pl/100/478/s1005/b], added subsec. (i).
+    Subsec. (i). [Pub. L. 100–478][/us/pl/100/478], § 1005(b), added subsec. (i).
 
-    1982—Subsec. (d)(2)(i). [Pub. L. 97–304, § 3(1)][/us/pl/97/304/s3/1], substituted “75 percent” for “66⅔ per centum”.
+    1982—Subsec. (d)(2)(i). [Pub. L. 97–304][/us/pl/97/304], § 3(1), substituted “75 percent” for “66⅔ per centum”.
 
-    Subsec. (d)(2)(ii). [Pub. L. 97–304, § 3(2)][/us/pl/97/304/s3/2], substituted “90 percent” for “75 per centum”.
+    Subsec. (d)(2)(ii). [Pub. L. 97–304][/us/pl/97/304], § 3(2), substituted “90 percent” for “75 per centum”.
 
-    Subsec. (i). [Pub. L. 97–304, § 8(b)][/us/pl/97/304/s8/b], struck out subsec. (i) which authorized appropriations to carry out this section of $10,000,000 through the period ending Sept. 30, 1977, $12,000,000 for the period Oct. 1, 1977, through Sept. 30, 1980, and $12,000,000 for the period Oct. 1, 1980, through Sept. 30, 1982. See [section 1542(b) of this title][/us/usc/t16/s1542/b].
+    Subsec. (i). [Pub. L. 97–304][/us/pl/97/304], § 8(b), struck out subsec. (i) which authorized appropriations to carry out this section of $10,000,000 through the period ending Sept. 30, 1977, $12,000,000 for the period Oct. 1, 1977, through Sept. 30, 1980, and $12,000,000 for the period Oct. 1, 1980, through Sept. 30, 1982. See [section 1542(b) of this title][/us/usc/t16/s1542/b].
 
     1980—Subsec. (i). [Pub. L. 96–246][/us/pl/96/246] in par. (2) substituted “$12,000,000” for “$16,000,000” and “1980” for “1981”, and added par. (3).
 
     1978—Subsec. (c). [Pub. L. 95–632][/us/pl/95/632] designated existing provision as par. (1), and in par. (1) as so designated, redesignated pars. (1) to (5) as subpars. (A) to (E), respectively, and subpars. (A) and (B) of subpar. (E), as so redesignated, as cls. (i) and (ii), respectively, substituted “paragraph” for “subsection” in provision preceding subpar. (A), as so redesignated, “endangered or threatened species of fish or wildlife” for “endangered species or threatened species” in subpar. (D), as so redesignated, “subparagraphs (C), (D), and (E) of this paragraph” for “paragraphs (3), (4), and (5) of this subsection” in cl. (i) of subpar. (E), as so redesignated, “clause (i) and this clause” for “subparagraph (A) and this subparagraph” in cl. (ii) of subpar. (E), as so redesignated, and added par. (2).
 
-    1977—Subsec. (c). [Pub. L. 95–212, § 1(1)][/us/pl/95/212/s1/1], inserted provisions that States in which the State fish and wildlife agencies do not possess the broad authority to conserve all resident species of fish and wildlife which the Secretary determines to be threatened or endangered may nevertheless qualify for cooperative agreement funds if they satisfy all other requirements and have plans to devote immediate attention to those species most urgently in need of conservation programs.
+    1977—Subsec. (c). [Pub. L. 95–212][/us/pl/95/212], § 1(1), inserted provisions that States in which the State fish and wildlife agencies do not possess the broad authority to conserve all resident species of fish and wildlife which the Secretary determines to be threatened or endangered may nevertheless qualify for cooperative agreement funds if they satisfy all other requirements and have plans to devote immediate attention to those species most urgently in need of conservation programs.
 
-    Subsec. (i). [Pub. L. 95–212, § 1(2)][/us/pl/95/212/s1/2], substituted provisions authorizing appropriations of $10,000,000 to cover the period ending Sept. 30, 1977, and $16,000,000 to cover the period beginning Oct. 1, 1977, and ending Sept. 30, 1981, for provisions authorizing appropriations of not to exceed $10,000,000 through the fiscal year ending June 30, 1977.
+    Subsec. (i). [Pub. L. 95–212][/us/pl/95/212], § 1(2), substituted provisions authorizing appropriations of $10,000,000 to cover the period ending Sept. 30, 1977, and $16,000,000 to cover the period beginning Oct. 1, 1977, and ending Sept. 30, 1981, for provisions authorizing appropriations of not to exceed $10,000,000 through the fiscal year ending June 30, 1977.
 
  __Cooperative Agreements With States Unaffected by 1981 Amendment of Marine Mammal Protection Act__ 
 
@@ -190,17 +190,17 @@
 [/us/usc/t16/s1533/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1533%2Fg
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t16/s669b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs669b
-[/us/pl/93/205/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205%2Fs6
+[/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F889
 [/us/pl/95/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F212
 [/us/stat/91/1493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1493
-[/us/pl/95/632/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F632%2Fs10
+[/us/pl/95/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F632
 [/us/stat/92/3762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3762
 [/us/pl/96/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F246
 [/us/stat/94/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F348
 [/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
 [/us/stat/96/1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1416
-[/us/pl/100/478/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2Fs1005
+[/us/pl/100/478/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2FtI
 [/us/stat/102/2307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2307
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/81/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F884
@@ -209,16 +209,16 @@
 [/us/usc/t26/s9504/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9504%2Fa%2F2%2FA
 [/us/pl/98/369/s1016/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1016%2Fa
 [/us/stat/98/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1019
-[/us/pl/100/478/s1005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2Fs1005%2Fa
-[/us/pl/100/478/s1005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2Fs1005%2Fb
-[/us/pl/97/304/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs3%2F1
-[/us/pl/97/304/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs3%2F2
-[/us/pl/97/304/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs8%2Fb
+[/us/pl/100/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478
+[/us/pl/100/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
 [/us/usc/t16/s1542/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1542%2Fb
 [/us/pl/96/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F246
 [/us/pl/95/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F632
-[/us/pl/95/212/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F212%2Fs1%2F1
-[/us/pl/95/212/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F212%2Fs1%2F2
+[/us/pl/95/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F212
+[/us/pl/95/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F212
 [/us/usc/t16/s1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1379
 [/us/pl/97/58/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58%2Fs4%2Fa
 [/us/pl/97/58/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58%2Fs4%2Fb

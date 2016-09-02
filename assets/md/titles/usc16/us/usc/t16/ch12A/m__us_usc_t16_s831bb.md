@@ -17,7 +17,7 @@
 
     The right to alter, amend, or repeal this chapter is expressly declared and reserved, but no such amendment or repeal shall operate to impair the obligation of any contract made by said Corporation under any power conferred by this chapter.
 
-([May 18, 1933, ch. 32, § 29][/us/act/1933-05-18/ch32/s29], [48 Stat. 72][/us/stat/48/72].)
+([May 18, 1933, ch. 32][/us/act/1933-05-18/ch32], § 29, [48 Stat. 72][/us/stat/48/72].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1933-05-18/ch32/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32%2Fs29
+[/us/act/1933-05-18/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32
 [/us/stat/48/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F72
 
 

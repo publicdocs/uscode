@@ -27,7 +27,7 @@
 
         No moneys appropriated pursuant to subsection (a) or (b) may be used for the operation and maintenance of enhancement programs and related facilities as they existed on or before the date of the approval by the Secretary under [section 3321 of this title][/us/usc/t16/s3321] of the enhancement plan for the conservation area concerned.
 
-([Pub. L. 96–561, title I, § 124][/us/pl/96/561/s124], Dec. 22, 1980, [94 Stat. 3283][/us/stat/94/3283].)
+([Pub. L. 96–561, title I][/us/pl/96/561/tI], § 124, Dec. 22, 1980, [94 Stat. 3283][/us/stat/94/3283].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t16/s3321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3321
-[/us/pl/96/561/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs124
+[/us/pl/96/561/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtI
 [/us/stat/94/3283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3283
 
 

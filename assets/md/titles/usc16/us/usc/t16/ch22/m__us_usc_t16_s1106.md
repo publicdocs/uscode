@@ -17,7 +17,7 @@
 
     The Commission may employ both United States and Canadian citizens.
 
-([Pub. L. 88–363, § 7][/us/pl/88/363/s7], July 7, 1964, [78 Stat. 300][/us/stat/78/300].)
+([Pub. L. 88–363][/us/pl/88/363], § 7, July 7, 1964, [78 Stat. 300][/us/stat/78/300].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/363/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F363%2Fs7
+[/us/pl/88/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F363
 [/us/stat/78/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F300
 
 

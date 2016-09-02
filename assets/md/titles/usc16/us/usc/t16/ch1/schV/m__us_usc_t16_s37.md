@@ -21,7 +21,7 @@
 
     (b) Acquire by purchase, or by acceptance of donations or bequests, such lands in private or State ownership within the townships above described as he may deem necessary to carry out the purpose of sections 37 to 40 of this title.
 
-([May 26, 1926, ch. 399, § 1][/us/act/1926-05-26/ch399/s1], [44 Stat. 655][/us/stat/44/655].)
+([May 26, 1926, ch. 399][/us/act/1926-05-26/ch399], § 1, [44 Stat. 655][/us/stat/44/655].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1926-05-26/ch399/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-26%2Fch399%2Fs1
+[/us/act/1926-05-26/ch399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-26%2Fch399
 [/us/stat/44/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F655
 
 

@@ -17,7 +17,7 @@
 
     Valid mining claims within the said lands, existing on May 24, 1949, and thereafter maintained in compliance with the law under which they were initiated and the laws of the State of Arizona, may be perfected under sections 482n to 482n–3 of this title, or under the laws under which they were initiated, as the claimant may desire.
 
-([May 24, 1949, ch. 136, § 3][/us/act/1949-05-24/ch136/s3], [63 Stat. 76][/us/stat/63/76].)
+([May 24, 1949, ch. 136][/us/act/1949-05-24/ch136], § 3, [63 Stat. 76][/us/stat/63/76].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1949-05-24/ch136/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch136%2Fs3
+[/us/act/1949-05-24/ch136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch136
 [/us/stat/63/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F76
 [/us/usc/t16/s482n–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs482n%E2%80%933
 [/us/usc/t16/s482n–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs482n%E2%80%933

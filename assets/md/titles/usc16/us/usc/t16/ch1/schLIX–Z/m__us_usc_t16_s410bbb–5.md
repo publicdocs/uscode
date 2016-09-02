@@ -91,7 +91,7 @@
 
         The Commission shall submit an annual report to the Secretary identifying its expenses and income and the entities to which any grants or technical assistance were made during the year for which the report is made.
 
-([Pub. L. 103–433, title XII, § 1207][/us/pl/103/433/s1207], Oct. 31, 1994, [108 Stat. 4522][/us/stat/108/4522].)
+([Pub. L. 103–433, title XII][/us/pl/103/433/tXII], § 1207, Oct. 31, 1994, [108 Stat. 4522][/us/stat/108/4522].)
 
 ----------
 
@@ -101,7 +101,7 @@
 ----------
 
 [/us/usc/t16/s410bbb–1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410bbb%E2%80%931%2Fb%2F3
-[/us/pl/103/433/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs1207
+[/us/pl/103/433/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtXII
 [/us/stat/108/4522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4522
 
 

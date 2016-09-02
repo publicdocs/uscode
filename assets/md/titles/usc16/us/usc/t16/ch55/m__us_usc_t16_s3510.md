@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated to the Secretary to carry out this chapter $2,000,000 for each of fiscal years 2006 through 2010.
 
-([Pub. L. 97–348, § 10][/us/pl/97/348/s10], formerly § 12, Oct. 18, 1982, [96 Stat. 1659][/us/stat/96/1659]; [Pub. L. 101–591, § 13(a)][/us/pl/101/591/s13/a], Nov. 16, 1990, [104 Stat. 2941][/us/stat/104/2941]; [Pub. L. 103–461, § 1(c)][/us/pl/103/461/s1/c], Nov. 2, 1994, [108 Stat. 4804][/us/stat/108/4804]; renumbered § 10 and amended [Pub. L. 106–514, § 5][/us/pl/106/514/s5], Nov. 13, 2000, [114 Stat. 2396][/us/stat/114/2396]; [Pub. L. 109–226, § 5][/us/pl/109/226/s5], May 25, 2006, [120 Stat. 384][/us/stat/120/384].)
+([Pub. L. 97–348][/us/pl/97/348], § 10, formerly § 12, Oct. 18, 1982, [96 Stat. 1659][/us/stat/96/1659]; [Pub. L. 101–591][/us/pl/101/591], § 13(a), Nov. 16, 1990, [104 Stat. 2941][/us/stat/104/2941]; [Pub. L. 103–461][/us/pl/103/461], § 1(c), Nov. 2, 1994, [108 Stat. 4804][/us/stat/108/4804]; renumbered § 10 and amended [Pub. L. 106–514][/us/pl/106/514], § 5, Nov. 13, 2000, [114 Stat. 2396][/us/stat/114/2396]; [Pub. L. 109–226][/us/pl/109/226], § 5, May 25, 2006, [120 Stat. 384][/us/stat/120/384].)
 
  __Prior Provisions__ 
 
@@ -40,15 +40,15 @@
 ----------
 ----------
 
-[/us/pl/97/348/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F348%2Fs10
+[/us/pl/97/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F348
 [/us/stat/96/1659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1659
-[/us/pl/101/591/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591%2Fs13%2Fa
+[/us/pl/101/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591
 [/us/stat/104/2941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2941
-[/us/pl/103/461/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F461%2Fs1%2Fc
+[/us/pl/103/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F461
 [/us/stat/108/4804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4804
-[/us/pl/106/514/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F514%2Fs5
+[/us/pl/106/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F514
 [/us/stat/114/2396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2396
-[/us/pl/109/226/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F226%2Fs5
+[/us/pl/109/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F226
 [/us/stat/120/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F384
 [/us/pl/97/348/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F348%2Fs10
 [/us/usc/t16/s3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3509

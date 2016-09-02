@@ -17,7 +17,7 @@
 
     No exclusive privilege shall be granted within said park, or on or over the roads and trails therein, except upon ground leased for the erection of buildings or camps thereon.
 
-([July 3, 1926, ch. 744, § 4][/us/act/1926-07-03/ch744/s4], [44 Stat. 820][/us/stat/44/820].)
+([July 3, 1926, ch. 744][/us/act/1926-07-03/ch744], § 4, [44 Stat. 820][/us/stat/44/820].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1926-07-03/ch744/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-03%2Fch744%2Fs4
+[/us/act/1926-07-03/ch744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-03%2Fch744
 [/us/stat/44/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F820
 
 

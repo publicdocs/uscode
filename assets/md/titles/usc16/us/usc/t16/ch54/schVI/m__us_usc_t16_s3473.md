@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture shall prescribe such regulations as may be necessary to carry out the provisions of this chapter.
 
-([Pub. L. 97–98, title XV, § 1554][/us/pl/97/98/s1554], Dec. 22, 1981, [95 Stat. 1345][/us/stat/95/1345].)
+([Pub. L. 97–98, title XV][/us/pl/97/98/tXV], § 1554, Dec. 22, 1981, [95 Stat. 1345][/us/stat/95/1345].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/97/98/s1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1554
+[/us/pl/97/98/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXV
 [/us/stat/95/1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1345
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/stat/95/1328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1328

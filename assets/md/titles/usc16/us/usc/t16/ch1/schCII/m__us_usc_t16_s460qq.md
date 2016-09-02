@@ -55,7 +55,7 @@
 
         Nothing in this section shall be construed to apply to or have any effect on any other management area of the National Forest System, including any wilderness area or any other national recreation area.
 
-([Pub. L. 98–585, § 6][/us/pl/98/585/s6], Oct. 30, 1984, [98 Stat. 3101][/us/stat/98/3101].)
+([Pub. L. 98–585][/us/pl/98/585], § 6, Oct. 30, 1984, [98 Stat. 3101][/us/stat/98/3101].)
 
  __References in Text__ 
 
@@ -77,7 +77,7 @@
 ----------
 
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/98/585/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F585%2Fs6
+[/us/pl/98/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F585
 [/us/stat/98/3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3101
 [/us/pl/98/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F585
 [/us/stat/98/3100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3100

@@ -45,7 +45,7 @@
 
     (7) The term “State” means any of the fifty States, the District of Columbia, Puerto Rico, Guam, and the Virgin Islands.
 
-([Pub. L. 96–95, § 3][/us/pl/96/95/s3], Oct. 31, 1979, [93 Stat. 721][/us/stat/93/721]; [Pub. L. 100–588, § 1(a)][/us/pl/100/588/s1/a], Nov. 3, 1988, [102 Stat. 2983][/us/stat/102/2983].)
+([Pub. L. 96–95][/us/pl/96/95], § 3, Oct. 31, 1979, [93 Stat. 721][/us/stat/93/721]; [Pub. L. 100–588][/us/pl/100/588], § 1(a), Nov. 3, 1988, [102 Stat. 2983][/us/stat/102/2983].)
 
  __References in Text__ 
 
@@ -64,9 +64,9 @@
 
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/96/95/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95%2Fs3
+[/us/pl/96/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95
 [/us/stat/93/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F721
-[/us/pl/100/588/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F588%2Fs1%2Fa
+[/us/pl/100/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F588
 [/us/stat/102/2983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2983
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688

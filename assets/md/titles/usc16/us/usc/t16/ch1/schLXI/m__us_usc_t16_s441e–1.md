@@ -17,7 +17,7 @@
 
     The area formerly known as the “Badlands National Monument”, established by Presidential Proclamation of January 25, 1939 ([53 Stat. 2521][/us/stat/53/2521]), shall henceforth be known as the “Badlands National Park”.
 
-([Pub. L. 95–625, title VI, § 611][/us/pl/95/625/s611], Nov. 10, 1978, [92 Stat. 3521][/us/stat/92/3521].)
+([Pub. L. 95–625, title VI][/us/pl/95/625/tVI], § 611, Nov. 10, 1978, [92 Stat. 3521][/us/stat/92/3521].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/stat/53/2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F2521
-[/us/pl/95/625/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs611
+[/us/pl/95/625/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtVI
 [/us/stat/92/3521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3521
 
 

@@ -47,17 +47,17 @@
 
                 (ii) has any direct or indirect financial interest.
 
-([Pub. L. 101–593, title IV, § 402][/us/pl/101/593/s402], Nov. 16, 1990, [104 Stat. 2970][/us/stat/104/2970].)
+([Pub. L. 101–593, title IV][/us/pl/101/593/tIV], § 402, Nov. 16, 1990, [104 Stat. 2970][/us/stat/104/2970].)
 
  __Short Title of 1993 Amendment__ 
 
-[Pub. L. 103–106, § 1][/us/pl/103/106/s1], Oct. 12, 1993, [107 Stat. 1031][/us/stat/107/1031], provided that: 
+[Pub. L. 103–106][/us/pl/103/106], § 1, Oct. 12, 1993, [107 Stat. 1031][/us/stat/107/1031], provided that: 
 
 > “This Act \[amending sections 583j–3 and 583j–8 of this title and enacting provisions set out as a note under [section 583j–3 of this title][/us/usc/t16/s583j–3]\] may be cited as the ‘National Forest Foundation Act Amendment Act of 1993’.”
 
  __Short Title__ 
 
-[Pub. L. 101–593, title IV, § 401][/us/pl/101/593/s401], Nov. 16, 1990, [104 Stat. 2969][/us/stat/104/2969], provided that: 
+[Pub. L. 101–593, title IV][/us/pl/101/593/tIV], § 401, Nov. 16, 1990, [104 Stat. 2969][/us/stat/104/2969], provided that: 
 
 > “This title \[enacting this subchapter\] may be cited as the ‘National Forest Foundation Act’.”
 
@@ -68,12 +68,12 @@
 ----------
 ----------
 
-[/us/pl/101/593/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2Fs402
+[/us/pl/101/593/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2FtIV
 [/us/stat/104/2970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2970
-[/us/pl/103/106/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F106%2Fs1
+[/us/pl/103/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F106
 [/us/stat/107/1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1031
 [/us/usc/t16/s583j–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs583j%E2%80%933
-[/us/pl/101/593/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2Fs401
+[/us/pl/101/593/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2FtIV
 [/us/stat/104/2969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2969
 
 

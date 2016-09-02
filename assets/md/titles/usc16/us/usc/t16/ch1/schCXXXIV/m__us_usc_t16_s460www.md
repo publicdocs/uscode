@@ -169,7 +169,7 @@
 
         (2) any other applicable law (including regulations).
 
-([Pub. L. 111–11, title I, § 1974][/us/pl/111/11/s1974], Mar. 30, 2009, [123 Stat. 1081][/us/stat/123/1081].)
+([Pub. L. 111–11, title I][/us/pl/111/11/tI], § 1974, Mar. 30, 2009, [123 Stat. 1081][/us/stat/123/1081].)
 
  __References in Text__ 
 
@@ -177,7 +177,7 @@
 
  __Definitions__ 
 
-[Pub. L. 111–11, title I, § 1971][/us/pl/111/11/s1971], Mar. 30, 2009, [123 Stat. 1075][/us/stat/123/1075], as amended by [Pub. L. 111–88, div. A, title IV, § 436][/us/pl/111/88/s436], Oct. 30, 2009, [123 Stat. 2965][/us/stat/123/2965], provided that: 
+[Pub. L. 111–11, title I][/us/pl/111/11/tI], § 1971, Mar. 30, 2009, [123 Stat. 1075][/us/stat/123/1075], as amended by [Pub. L. 111–88, div. A, title IV][/us/pl/111/88/dA/tIV], § 436, Oct. 30, 2009, [123 Stat. 2965][/us/stat/123/2965], provided that: 
 
 > “In this subtitle \[subtitle O (§§ 1971–1983) of title I of [Pub. L. 111–11][/us/pl/111/11], enacting this subchapter, subchapter CXXXV of this chapter, and [section 346a–6 of this title][/us/usc/t16/s346a–6], amending [section 1274 of this title][/us/usc/t16/s1274], enacting provisions set out as notes under [section 1274 of this title][/us/usc/t16/s1274] and [section 766 of Title 25][/us/usc/t25/s766], Indians, and enacting provisions listed in a table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132]\]:
 
@@ -231,14 +231,14 @@
 [/us/usc/t16/s1533/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1533%2Fc%2F1
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
-[/us/pl/111/11/s1974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs1974
+[/us/pl/111/11/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtI
 [/us/stat/123/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1081
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
 [/us/stat/90/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2743
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
-[/us/pl/111/11/s1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs1971
+[/us/pl/111/11/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtI
 [/us/stat/123/1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1075
-[/us/pl/111/88/s436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F88%2Fs436
+[/us/pl/111/88/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F88%2FdA%2FtIV
 [/us/stat/123/2965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2965
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 [/us/usc/t16/s346a–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs346a%E2%80%936

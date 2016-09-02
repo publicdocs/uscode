@@ -23,7 +23,7 @@
 
         There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2004 through 2008.
 
-([Pub. L. 108–148, title II, § 203][/us/pl/108/148/s203], Dec. 3, 2003, [117 Stat. 1902][/us/stat/117/1902].)
+([Pub. L. 108–148, title II][/us/pl/108/148/tII], § 203, Dec. 3, 2003, [117 Stat. 1902][/us/stat/117/1902].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/108/148/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2Fs203
+[/us/pl/108/148/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2FtII
 [/us/stat/117/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1902
 
 

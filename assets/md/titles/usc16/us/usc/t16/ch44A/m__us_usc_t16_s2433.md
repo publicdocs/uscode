@@ -27,7 +27,7 @@
 
         The United States representatives to the Commission and the Scientific Committee shall receive no additional compensation by reason of their services as such representatives.
 
-([Pub. L. 98–623, title III, § 304][/us/pl/98/623/s304], Nov. 8, 1984, [98 Stat. 3400][/us/stat/98/3400].)
+([Pub. L. 98–623, title III][/us/pl/98/623/tIII], § 304, Nov. 8, 1984, [98 Stat. 3400][/us/stat/98/3400].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/98/623/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs304
+[/us/pl/98/623/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtIII
 [/us/stat/98/3400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3400
 
 

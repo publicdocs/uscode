@@ -39,7 +39,7 @@
 
         (4) establish the United State’s  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  share of the total allowable catch based on paragraph 2 of Article III of the Agreement and make any adjustments necessary under section 5 of Article II of the Agreement.
 
-([Pub. L. 109–479, title VI, § 608][/us/pl/109/479/s608], Jan. 12, 2007, [120 Stat. 3647][/us/stat/120/3647].)
+([Pub. L. 109–479, title VI][/us/pl/109/479/tVI], § 608, Jan. 12, 2007, [120 Stat. 3647][/us/stat/120/3647].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
-[/us/pl/109/479/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs608
+[/us/pl/109/479/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtVI
 [/us/stat/120/3647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3647
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331

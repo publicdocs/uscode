@@ -27,7 +27,7 @@
 
         Not later than April 1, 1993, the Secretary of Commerce shall submit to the Committees on Agriculture, Natural Resources, and Foreign Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report describing the volume and value of unprocessed timber grown and harvested from Federal lands or public lands east of the 100th meridian that is exported from the United States during the 2-year period beginning on January 1, 1991, the country to which such timber is exported, and the State in which such timber was grown and harvested.
 
-([Pub. L. 101–382, title IV, § 498][/us/pl/101/382/s498], Aug. 20, 1990, [104 Stat. 725][/us/stat/104/725]; [Pub. L. 103–437, § 6(d)(35)][/us/pl/103/437/s6/d/35], Nov. 2, 1994, [108 Stat. 4585][/us/stat/108/4585].)
+([Pub. L. 101–382, title IV][/us/pl/101/382/tIV], § 498, Aug. 20, 1990, [104 Stat. 725][/us/stat/104/725]; [Pub. L. 103–437][/us/pl/103/437], § 6(d)(35), Nov. 2, 1994, [108 Stat. 4585][/us/stat/108/4585].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/101/382/s498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs498
+[/us/pl/101/382/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtIV
 [/us/stat/104/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F725
-[/us/pl/103/437/s6/d/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fd%2F35
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4585
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 

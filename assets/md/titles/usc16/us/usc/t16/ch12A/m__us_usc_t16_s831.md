@@ -17,7 +17,7 @@
 
     For the purpose of maintaining and operating the properties now owned by the United States in the vicinity of Muscle Shoals, Alabama, in the interest of the National defense and for agricultural and industrial development, and to improve navigation in the Tennessee River and to control the destructive flood waters in the Tennessee River and Mississippi River Basins, there is created a body corporate by the name of the “Tennessee Valley Authority” (hereinafter referred to as the “Corporation”). The Board of Directors first appointed shall be deemed the incorporators, and the incorporation shall be held to have been effected from the date of the first meeting of the Board. This chapter may be cited as the “Tennessee Valley Authority Act of 1933.”
 
-([May 18, 1933, ch. 32, § 1][/us/act/1933-05-18/ch32/s1], [48 Stat. 58][/us/stat/48/58]; [Pub. L. 108–447, div. C, title VI, § 603(a)][/us/pl/108/447/s603/a], Dec. 8, 2004, [118 Stat. 2966][/us/stat/118/2966].)
+([May 18, 1933, ch. 32][/us/act/1933-05-18/ch32], § 1, [48 Stat. 58][/us/stat/48/58]; [Pub. L. 108–447, div. C, title VI][/us/pl/108/447/dC/tVI], § 603(a), Dec. 8, 2004, [118 Stat. 2966][/us/stat/118/2966].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/act/1933-05-18/ch32/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32%2Fs1
+[/us/act/1933-05-18/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32
 [/us/stat/48/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F58
-[/us/pl/108/447/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs603%2Fa
+[/us/pl/108/447/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdC%2FtVI
 [/us/stat/118/2966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2966
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447

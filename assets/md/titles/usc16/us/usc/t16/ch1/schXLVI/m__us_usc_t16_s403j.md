@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated, out of any moneys in the Treasury not otherwise appropriated, the sum of $743,265.29 to complete the acquisition of lands within the limits of said park, such funds to be available until expended.
 
-([Feb. 12, 1938, ch. 27, § 6][/us/act/1938-02-12/ch27/s6], [52 Stat. 29][/us/stat/52/29].)
+([Feb. 12, 1938, ch. 27][/us/act/1938-02-12/ch27], § 6, [52 Stat. 29][/us/stat/52/29].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1938-02-12/ch27/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-12%2Fch27%2Fs6
+[/us/act/1938-02-12/ch27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-12%2Fch27
 [/us/stat/52/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F29
 
 

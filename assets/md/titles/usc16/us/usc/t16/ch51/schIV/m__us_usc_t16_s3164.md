@@ -73,7 +73,7 @@
 
             (H) the short- and long-term public values which may be adversely affected by approval of the transportation or utility system versus the short- and long-term public benefits which may accrue from such approval.
 
-([Pub. L. 96–487, title XI, § 1104][/us/pl/96/487/s1104], Dec. 2, 1980, [94 Stat. 2459][/us/stat/94/2459].)
+([Pub. L. 96–487, title XI][/us/pl/96/487/tXI], § 1104, Dec. 2, 1980, [94 Stat. 2459][/us/stat/94/2459].)
 
  __References in Text__ 
 
@@ -92,7 +92,7 @@
 [/us/usc/t43/s1734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1734
 [/us/usc/t43/s1734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1734
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/96/487/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1104
+[/us/pl/96/487/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXI
 [/us/stat/94/2459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2459
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

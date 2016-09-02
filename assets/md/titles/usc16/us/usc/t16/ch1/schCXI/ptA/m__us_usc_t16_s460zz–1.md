@@ -23,7 +23,7 @@
 
         The Secretary of the Interior (hereinafter referred to as the “Secretary”) shall publish in the Federal Register, as soon as practicable after November 18, 1988, a detailed description and map of the boundaries established under subsection (a).
 
-([Pub. L. 100–696, title VII, § 702][/us/pl/100/696/s702], Nov. 18, 1988, [102 Stat. 4600][/us/stat/102/4600].)
+([Pub. L. 100–696, title VII][/us/pl/100/696/tVII], § 702, Nov. 18, 1988, [102 Stat. 4600][/us/stat/102/4600].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/100/696/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2Fs702
+[/us/pl/100/696/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2FtVII
 [/us/stat/102/4600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4600
 
 

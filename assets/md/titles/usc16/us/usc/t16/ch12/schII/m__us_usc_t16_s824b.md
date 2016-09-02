@@ -49,7 +49,7 @@
 
         The Commission may grant any application for an order under this section in whole or in part and upon such terms and conditions as it finds necessary or appropriate to secure the maintenance of adequate service and the coordination in the public interest of facilities subject to the jurisdiction of the Commission. The Commission may from time to time for good cause shown make such orders supplemental to any order made under this section as it may find necessary or appropriate.
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 203, as added [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, § 213, [49 Stat. 849][/us/stat/49/849]; amended [Pub. L. 109–58, title XII, § 1289(a)][/us/pl/109/58/s1289/a], Aug. 8, 2005, [119 Stat. 982][/us/stat/119/982].)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 203, as added [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, § 213, [49 Stat. 849][/us/stat/49/849]; amended [Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1289(a), Aug. 8, 2005, [119 Stat. 982][/us/stat/119/982].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–58, title XII, § 1289(b)][/us/pl/109/58/s1289/b], (c), Aug. 8, 2005, [119 Stat. 983][/us/stat/119/983], provided that:
+[Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1289(b), (c), Aug. 8, 2005, [119 Stat. 983][/us/stat/119/983], provided that:
 
 >     “(b)  __Effective Date__  __.—__ 
 
@@ -82,13 +82,13 @@
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
 [/us/act/1935-08-26/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-26%2Fch687
 [/us/stat/49/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F849
-[/us/pl/109/58/s1289/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1289%2Fa
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F982
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/stat/119/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F972
 [/us/usc/t42/s15801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15801
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
-[/us/pl/109/58/s1289/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1289%2Fb
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F983
 [/us/usc/t16/s824b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824b
 

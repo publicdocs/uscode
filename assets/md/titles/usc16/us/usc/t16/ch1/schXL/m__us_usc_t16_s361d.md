@@ -41,7 +41,7 @@
 
     All or any part of such lands above described, when acquired by the Secretary of the Interior on behalf of the United States, shall be and remain a part of the Hot Springs National Park, subject to all laws and regulations applicable thereto.
 
-([June 24, 1938, ch. 649, § 1][/us/act/1938-06-24/ch649/s1], [52 Stat. 1038][/us/stat/52/1038].)
+([June 24, 1938, ch. 649][/us/act/1938-06-24/ch649], § 1, [52 Stat. 1038][/us/stat/52/1038].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/act/1938-06-24/ch649/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-24%2Fch649%2Fs1
+[/us/act/1938-06-24/ch649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-24%2Fch649
 [/us/stat/52/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1038
 
 

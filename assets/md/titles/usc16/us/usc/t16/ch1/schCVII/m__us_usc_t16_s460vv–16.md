@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall be construed as affecting the jurisdiction or responsibilities of the State with respect to wildlife and fish in the areas designated by this subchapter.
 
-([Pub. L. 100–499, § 18][/us/pl/100/499/s18], Oct. 18, 1988, [102 Stat. 2499][/us/stat/102/2499].)
+([Pub. L. 100–499][/us/pl/100/499], § 18, Oct. 18, 1988, [102 Stat. 2499][/us/stat/102/2499].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/499/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F499%2Fs18
+[/us/pl/100/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F499
 [/us/stat/102/2499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2499
 
 

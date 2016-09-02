@@ -25,7 +25,7 @@
 
     (d) To reimburse owners for loss, damage, or destruction of horses, vehicles, and other equipment obtained by the Forest Service for the use of that service from employees or other private owners: Provided, That payments or reimbursements herein authorized may be made from the applicable appropriations for the Forest Service: And provided further, That except for fire fighting emergencies no reimbursement herein authorized shall be made in an amount in excess of $50 to persons who were employees of the Forest Service prior to the time the equipment was obtained or $2,500 in any other case, unless the equipment was made available under a written agreement, contract, or lease.
 
-([Mar. 4, 1913, ch. 145, § 1][/us/act/1913-03-04/ch145/s1] (part), [37 Stat. 843][/us/stat/37/843]; [Jan. 31, 1931, ch. 76][/us/act/1931-01-31/ch76], [46 Stat. 1052][/us/stat/46/1052]; [Pub. L. 85–464, § 1][/us/pl/85/464/s1], June 20, 1958, [72 Stat. 216][/us/stat/72/216]; [Pub. L. 89–270][/us/pl/89/270], Oct. 19, 1965, [79 Stat. 991][/us/stat/79/991]; [Pub. L. 97–375, title I, § 103(b)][/us/pl/97/375/s103/b], Dec. 21, 1982, [96 Stat. 1819][/us/stat/96/1819].)
+([Mar. 4, 1913, ch. 145][/us/act/1913-03-04/ch145], § 1 (part), [37 Stat. 843][/us/stat/37/843]; [Jan. 31, 1931, ch. 76][/us/act/1931-01-31/ch76], [46 Stat. 1052][/us/stat/46/1052]; [Pub. L. 85–464][/us/pl/85/464], § 1, June 20, 1958, [72 Stat. 216][/us/stat/72/216]; [Pub. L. 89–270][/us/pl/89/270], Oct. 19, 1965, [79 Stat. 991][/us/stat/79/991]; [Pub. L. 97–375, title I][/us/pl/97/375/tI], § 103(b), Dec. 21, 1982, [96 Stat. 1819][/us/stat/96/1819].)
 
  __Amendments__ 
 
@@ -46,15 +46,15 @@
 ----------
 ----------
 
-[/us/act/1913-03-04/ch145/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145%2Fs1
+[/us/act/1913-03-04/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145
 [/us/stat/37/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F843
 [/us/act/1931-01-31/ch76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-01-31%2Fch76
 [/us/stat/46/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1052
-[/us/pl/85/464/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F464%2Fs1
+[/us/pl/85/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F464
 [/us/stat/72/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F216
 [/us/pl/89/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F270
 [/us/stat/79/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F991
-[/us/pl/97/375/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2Fs103%2Fb
+[/us/pl/97/375/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2FtI
 [/us/stat/96/1819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1819
 [/us/pl/97/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375
 [/us/pl/89/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F270

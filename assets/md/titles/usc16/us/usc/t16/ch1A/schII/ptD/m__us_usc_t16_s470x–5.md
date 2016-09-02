@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t16/ch1A/schII/ptD/m__us_usc_t16_s470x–4.md) | [Next](./../../../../../..//us/usc/t16/ch1A/schII/ptD/m__us_usc_t16_s470x–6.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470x%E2%80%935)
 
-## § 470x–5. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
+## § 470x–5. Repealed. [Pub. L. 113–287][/us/pl/113/287], § 7, Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [Pub. L. 89–665, title IV, § 406][/us/pl/89/665/s406], as added [Pub. L. 102–575, title XL, § 4022][/us/pl/102/575/s4022], Oct. 30, 1992, [106 Stat. 4767][/us/stat/106/4767], related to grants and transfers, contracts and cooperative agreements, and appropriations. See [section 305305 of Title 54][/us/usc/t54/s305305], National Park Service and Related Programs.
+    Section, [Pub. L. 89–665, title IV][/us/pl/89/665/tIV], § 406, as added [Pub. L. 102–575, title XL][/us/pl/102/575/tXL], § 4022, Oct. 30, 1992, [106 Stat. 4767][/us/stat/106/4767], related to grants and transfers, contracts and cooperative agreements, and appropriations. See [section 305305 of Title 54][/us/usc/t54/s305305], National Park Service and Related Programs.
 
 ----------
 
@@ -24,10 +24,10 @@
 ----------
 ----------
 
-[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
-[/us/pl/89/665/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665%2Fs406
-[/us/pl/102/575/s4022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575%2Fs4022
+[/us/pl/89/665/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665%2FtIV
+[/us/pl/102/575/tXL]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575%2FtXL
 [/us/stat/106/4767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4767
 [/us/usc/t54/s305305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs305305
 

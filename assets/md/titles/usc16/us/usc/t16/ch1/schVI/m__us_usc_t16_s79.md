@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Feb. 15, 1901, ch. 372][/us/act/1901-02-15/ch372], [31 Stat. 790][/us/stat/31/790]; [Pub. L. 94–579, title VII, § 706(a)][/us/pl/94/579/s706/a], Oct. 21, 1976, [90 Stat. 2793][/us/stat/90/2793]; [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which authorized the Secretary of the Interior to permit the use of rights-of-way through the public lands, forest and other reservations of the United States, and the Yosemite, Sequoia, and General Grant National Parks, California, for various public utility purposes, was omitted in view of the repeal of its provisions by [Pub. L. 94–579][/us/pl/94/579] as they relate to public lands and lands in the National Forest System and by [Pub. L. 113–287][/us/pl/113/287] as they relate to National Park System units. See [section 100902(a) of Title 54][/us/usc/t54/s100902/a], National Park Service and Related Programs. Act Feb. 15, 1901, is also classified to [section 959 of Title 43][/us/usc/t43/s959], Public Lands, and was also classified to [section 522 of this title][/us/usc/t16/s522] prior to its omission from the Code. Section was formerly classified to [section 419 of this title][/us/usc/t16/s419].
+    Section, [act Feb. 15, 1901, ch. 372][/us/act/1901-02-15/ch372], [31 Stat. 790][/us/stat/31/790]; [Pub. L. 94–579, title VII][/us/pl/94/579/tVII], § 706(a), Oct. 21, 1976, [90 Stat. 2793][/us/stat/90/2793]; [Pub. L. 113–287][/us/pl/113/287], § 7, Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which authorized the Secretary of the Interior to permit the use of rights-of-way through the public lands, forest and other reservations of the United States, and the Yosemite, Sequoia, and General Grant National Parks, California, for various public utility purposes, was omitted in view of the repeal of its provisions by [Pub. L. 94–579][/us/pl/94/579] as they relate to public lands and lands in the National Forest System and by [Pub. L. 113–287][/us/pl/113/287] as they relate to National Park System units. See [section 100902(a) of Title 54][/us/usc/t54/s100902/a], National Park Service and Related Programs. Act Feb. 15, 1901, is also classified to [section 959 of Title 43][/us/usc/t43/s959], Public Lands, and was also classified to [section 522 of this title][/us/usc/t16/s522] prior to its omission from the Code. Section was formerly classified to [section 419 of this title][/us/usc/t16/s419].
 
 ----------
 
@@ -28,9 +28,9 @@
 
 [/us/act/1901-02-15/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-02-15%2Fch372
 [/us/stat/31/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F790
-[/us/pl/94/579/s706/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2Fs706%2Fa
+[/us/pl/94/579/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2FtVII
 [/us/stat/90/2793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2793
-[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287

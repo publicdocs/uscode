@@ -29,7 +29,7 @@
 
         (3) Recreational river areas—Those rivers or sections of rivers that are readily accessible by road or railroad, that may have some development along their shorelines, and that may have undergone some impoundment or diversion in the past.
 
-([Pub. L. 90–542, § 2][/us/pl/90/542/s2], Oct. 2, 1968, [82 Stat. 906][/us/stat/82/906]; [Pub. L. 94–407, § 1(1)][/us/pl/94/407/s1/1], Sept. 11, 1976, [90 Stat. 1238][/us/stat/90/1238]; [Pub. L. 95–625, title VII, § 761][/us/pl/95/625/s761], Nov. 10, 1978, [92 Stat. 3533][/us/stat/92/3533]; [Pub. L. 113–287, § 5(d)(29)][/us/pl/113/287/s5/d/29], Dec. 19, 2014, [128 Stat. 3267][/us/stat/128/3267].)
+([Pub. L. 90–542][/us/pl/90/542], § 2, Oct. 2, 1968, [82 Stat. 906][/us/stat/82/906]; [Pub. L. 94–407][/us/pl/94/407], § 1(1), Sept. 11, 1976, [90 Stat. 1238][/us/stat/90/1238]; [Pub. L. 95–625, title VII][/us/pl/95/625/tVII], § 761, Nov. 10, 1978, [92 Stat. 3533][/us/stat/92/3533]; [Pub. L. 113–287][/us/pl/113/287], § 5(d)(29), Dec. 19, 2014, [128 Stat. 3267][/us/stat/128/3267].)
 
  __Amendments__ 
 
@@ -47,13 +47,13 @@
 ----------
 
 [/us/usc/t16/s1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1271
-[/us/pl/90/542/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F542%2Fs2
+[/us/pl/90/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F542
 [/us/stat/82/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F906
-[/us/pl/94/407/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F407%2Fs1%2F1
+[/us/pl/94/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F407
 [/us/stat/90/1238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1238
-[/us/pl/95/625/s761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs761
+[/us/pl/95/625/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtVII
 [/us/stat/92/3533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3533
-[/us/pl/113/287/s5/d/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F29
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3267
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625

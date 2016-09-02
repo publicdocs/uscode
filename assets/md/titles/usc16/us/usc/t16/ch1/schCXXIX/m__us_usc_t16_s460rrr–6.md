@@ -29,7 +29,7 @@
 
     (6) prevents the State of Colorado from acquiring an instream flow through the Natural Area under the terms, conditions, and limitations of State law to assist in protecting the natural environment to the extent and for the purposes authorized by State law.
 
-([Pub. L. 109–337, § 8][/us/pl/109/337/s8], Oct. 12, 2006, [120 Stat. 1781][/us/stat/120/1781].)
+([Pub. L. 109–337][/us/pl/109/337], § 8, Oct. 12, 2006, [120 Stat. 1781][/us/stat/120/1781].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/stat/53/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F785
-[/us/pl/109/337/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F337%2Fs8
+[/us/pl/109/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F337
 [/us/stat/120/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1781
 [/us/act/1939-05-31/ch155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-05-31%2Fch155
 [/us/stat/53/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F785

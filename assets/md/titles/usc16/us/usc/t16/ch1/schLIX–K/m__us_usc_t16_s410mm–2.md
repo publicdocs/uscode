@@ -19,7 +19,7 @@
 
     (b) Lands and waters, and interests therein, within the boundaries of the park which were administered by the Forest Service, United States Department of Agriculture prior to October 27, 1986, are hereby transferred to the administrative jurisdiction of the Secretary to be administered in accordance with this subchapter. The boundaries of the Humboldt National Forest shall be adjusted accordingly.
 
-([Pub. L. 99–565, § 4][/us/pl/99/565/s4], Oct. 27, 1986, [100 Stat. 3183][/us/stat/100/3183].)
+([Pub. L. 99–565][/us/pl/99/565], § 4, Oct. 27, 1986, [100 Stat. 3183][/us/stat/100/3183].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/99/565/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F565%2Fs4
+[/us/pl/99/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F565
 [/us/stat/100/3183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3183
 
 

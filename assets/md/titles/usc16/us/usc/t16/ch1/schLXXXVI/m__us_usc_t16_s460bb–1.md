@@ -43,7 +43,7 @@
 
         The maps referred to in this section shall be on file and available for public inspection in the Offices of the National Park Service, Department of the Interior, Washington, District of Columbia. After advising the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate (hereinafter referred to as the “committees”) in writing, the Secretary may make minor revisions of the boundaries of the recreation area when necessary by publication of a revised drawing or other boundary description in the Federal Register.
 
-([Pub. L. 92–589, § 2][/us/pl/92/589/s2], Oct. 27, 1972, [86 Stat. 1299][/us/stat/86/1299]; [Pub. L. 93–544][/us/pl/93/544], Dec. 26, 1974, [88 Stat. 1741][/us/stat/88/1741]; [Pub. L. 95–625, title III, § 317(a)][/us/pl/95/625/s317/a], Nov. 10, 1978, [92 Stat. 3484][/us/stat/92/3484]; [Pub. L. 96–199, title I, § 103(a)][/us/pl/96/199/s103/a], Mar. 5, 1980, [94 Stat. 68][/us/stat/94/68]; [Pub. L. 96–344, § 4(1)][/us/pl/96/344/s4/1], Sept. 8, 1980, [94 Stat. 1134][/us/stat/94/1134]; [Pub. L. 96–607, title X, § 1001(1)][/us/pl/96/607/s1001/1], (2), Dec. 28, 1980, [94 Stat. 3544][/us/stat/94/3544]; [Pub. L. 102–299, § 2(b)(1)][/us/pl/102/299/s2/b/1], June 9, 1992, [106 Stat. 236][/us/stat/106/236]; [Pub. L. 103–437, § 6(n)(2)][/us/pl/103/437/s6/n/2], Nov. 2, 1994, [108 Stat. 4586][/us/stat/108/4586]; [Pub. L. 106–350, § 2][/us/pl/106/350/s2], Oct. 24, 2000, [114 Stat. 1361][/us/stat/114/1361]; [Pub. L. 109–131, title II, § 202][/us/pl/109/131/s202], Dec. 20, 2005, [119 Stat. 2568][/us/stat/119/2568].)
+([Pub. L. 92–589][/us/pl/92/589], § 2, Oct. 27, 1972, [86 Stat. 1299][/us/stat/86/1299]; [Pub. L. 93–544][/us/pl/93/544], Dec. 26, 1974, [88 Stat. 1741][/us/stat/88/1741]; [Pub. L. 95–625, title III][/us/pl/95/625/tIII], § 317(a), Nov. 10, 1978, [92 Stat. 3484][/us/stat/92/3484]; [Pub. L. 96–199, title I][/us/pl/96/199/tI], § 103(a), Mar. 5, 1980, [94 Stat. 68][/us/stat/94/68]; [Pub. L. 96–344][/us/pl/96/344], § 4(1), Sept. 8, 1980, [94 Stat. 1134][/us/stat/94/1134]; [Pub. L. 96–607, title X][/us/pl/96/607/tX], § 1001(1), (2), Dec. 28, 1980, [94 Stat. 3544][/us/stat/94/3544]; [Pub. L. 102–299][/us/pl/102/299], § 2(b)(1), June 9, 1992, [106 Stat. 236][/us/stat/106/236]; [Pub. L. 103–437][/us/pl/103/437], § 6(n)(2), Nov. 2, 1994, [108 Stat. 4586][/us/stat/108/4586]; [Pub. L. 106–350][/us/pl/106/350], § 2, Oct. 24, 2000, [114 Stat. 1361][/us/stat/114/1361]; [Pub. L. 109–131, title II][/us/pl/109/131/tII], § 202, Dec. 20, 2005, [119 Stat. 2568][/us/stat/119/2568].)
 
  __References in Text__ 
 
@@ -57,15 +57,15 @@
 
     1994—Subsec. (b). [Pub. L. 103–437][/us/pl/103/437] substituted “Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate” for “Committees on Interior and Insular Affairs of the United States House of Representatives and the United States Senate”.
 
-    1992—Subsec. (a). [Pub. L. 102–299, § 2(b)(1)][/us/pl/102/299/s2/b/1], inserted at end “The recreation area shall also include those lands acquired pursuant to the Golden Gate National Recreation Area Addition Act of 1992.”
+    1992—Subsec. (a). [Pub. L. 102–299][/us/pl/102/299], § 2(b)(1), inserted at end “The recreation area shall also include those lands acquired pursuant to the Golden Gate National Recreation Area Addition Act of 1992.”
 
-    1980—Subsec. (a). [Pub. L. 96–607, § 1001(1)][/us/pl/96/607/s1001/1], included within the recreation area the lands and waters in San Mateo County depicted on the map entitled Sweeney Ridge Addition, Golden Gate National Recreation Area, numbered NRA GG–80,000–A, dated May 1980.
+    1980—Subsec. (a). [Pub. L. 96–607][/us/pl/96/607], § 1001(1), included within the recreation area the lands and waters in San Mateo County depicted on the map entitled Sweeney Ridge Addition, Golden Gate National Recreation Area, numbered NRA GG–80,000–A, dated May 1980.
 
     [Pub. L. 96–344][/us/pl/96/344] designated the southern end of the town of Marshall as the Marshall Boat Works and specified additional lands to be included within the boundaries of the recreation area.
 
     [Pub. L. 96–199][/us/pl/96/199] inserted “, plus those areas depicted on the map entitled ‘Point Reyes and GGNRA Amendments and dated October 25, 1979’ ” after “and dated October 1978”.
 
-    Subsec. (b). [Pub. L. 96–607, § 1001(2)][/us/pl/96/607/s1001/2], substituted “maps” for “map”.
+    Subsec. (b). [Pub. L. 96–607][/us/pl/96/607], § 1001(2), substituted “maps” for “map”.
 
     1978—Subsec. (a). [Pub. L. 95–625][/us/pl/95/625] substituted as a description of the recreation area the lands, etc., generally  depicted  on  Revised  Boundary  Map,  Golden Gate National Recreation Area, numbered NRA–GG–80,003–K and dated October 1978 for prior such depiction on predecessor Boundary Map numbered NRA–GG–80,003–G, and dated September 1974; limited amount of acquisition in the tract known as San Francisco Assessor’s Block number 1592; prohibited acquisition of Marin County Assessor’s parcels located in the Muir Beach area; and deleted provisions including certain Marin and San Francisco County properties and excluding certain Marin County properties.
 
@@ -84,36 +84,36 @@
 
 [/us/usc/t16/s460bb–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460bb%E2%80%931
 [/us/pl/102/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F299
-[/us/pl/92/589/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F589%2Fs2
+[/us/pl/92/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F589
 [/us/stat/86/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1299
 [/us/pl/93/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F544
 [/us/stat/88/1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1741
-[/us/pl/95/625/s317/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs317%2Fa
+[/us/pl/95/625/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtIII
 [/us/stat/92/3484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3484
-[/us/pl/96/199/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199%2Fs103%2Fa
+[/us/pl/96/199/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199%2FtI
 [/us/stat/94/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F68
-[/us/pl/96/344/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F344%2Fs4%2F1
+[/us/pl/96/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F344
 [/us/stat/94/1134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1134
-[/us/pl/96/607/s1001/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607%2Fs1001%2F1
+[/us/pl/96/607/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607%2FtX
 [/us/stat/94/3544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3544
-[/us/pl/102/299/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F299%2Fs2%2Fb%2F1
+[/us/pl/102/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F299
 [/us/stat/106/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F236
-[/us/pl/103/437/s6/n/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fn%2F2
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4586
-[/us/pl/106/350/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F350%2Fs2
+[/us/pl/106/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F350
 [/us/stat/114/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1361
-[/us/pl/109/131/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F131%2Fs202
+[/us/pl/109/131/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F131%2FtII
 [/us/stat/119/2568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2568
 [/us/pl/102/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F299
 [/us/stat/106/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F236
 [/us/pl/109/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F131
 [/us/pl/106/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F350
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
-[/us/pl/102/299/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F299%2Fs2%2Fb%2F1
-[/us/pl/96/607/s1001/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607%2Fs1001%2F1
+[/us/pl/102/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F299
+[/us/pl/96/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607
 [/us/pl/96/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F344
 [/us/pl/96/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199
-[/us/pl/96/607/s1001/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607%2Fs1001%2F2
+[/us/pl/96/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607
 [/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
 [/us/pl/93/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F544
 [/us/pl/102/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F299

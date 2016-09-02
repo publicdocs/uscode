@@ -27,7 +27,7 @@
 
     (5) incur such necessary expenses and exercise such other powers, as are consistent with and reasonably required to perform its functions under this subchapter; except that no fewer than 11 employees must be employed under paragraph (1) at any time. Financial and administrative services (including those related to budgeting, accounting, financial reporting, personnel, and procurement) shall be provided the Commission by the General Services Administration, for which payment shall be made in advance, or by reimbursement from funds of the Commission in such amounts as may be agreed upon by the Chairman and the Administrator of General Services.
 
-([Pub. L. 92–522, title II, § 206][/us/pl/92/522/s206], Oct. 21, 1972, [86 Stat. 1045][/us/stat/86/1045]; [Pub. L. 97–58, § 6(2)][/us/pl/97/58/s6/2], Oct. 9, 1981, [95 Stat. 987][/us/stat/95/987]; [Pub. L. 98–364, title I, § 103(b)][/us/pl/98/364/s103/b], July 17, 1984, [98 Stat. 442][/us/stat/98/442].)
+([Pub. L. 92–522, title II][/us/pl/92/522/tII], § 206, Oct. 21, 1972, [86 Stat. 1045][/us/stat/86/1045]; [Pub. L. 97–58][/us/pl/97/58], § 6(2), Oct. 9, 1981, [95 Stat. 987][/us/stat/95/987]; [Pub. L. 98–364, title I][/us/pl/98/364/tI], § 103(b), July 17, 1984, [98 Stat. 442][/us/stat/98/442].)
 
  __Amendments__ 
 
@@ -43,11 +43,11 @@
 ----------
 
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
-[/us/pl/92/522/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs206
+[/us/pl/92/522/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtII
 [/us/stat/86/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1045
-[/us/pl/97/58/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58%2Fs6%2F2
+[/us/pl/97/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58
 [/us/stat/95/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F987
-[/us/pl/98/364/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2Fs103%2Fb
+[/us/pl/98/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2FtI
 [/us/stat/98/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F442
 [/us/pl/98/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364
 [/us/pl/97/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58

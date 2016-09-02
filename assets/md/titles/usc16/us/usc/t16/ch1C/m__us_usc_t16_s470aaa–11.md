@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as may be necessary to carry out this chapter.
 
-([Pub. L. 111–11, title VI, § 6312][/us/pl/111/11/s6312], Mar. 30, 2009, [123 Stat. 1177][/us/stat/123/1177].)
+([Pub. L. 111–11, title VI][/us/pl/111/11/tVI], § 6312, Mar. 30, 2009, [123 Stat. 1177][/us/stat/123/1177].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s6312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs6312
+[/us/pl/111/11/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVI
 [/us/stat/123/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1177
 
 

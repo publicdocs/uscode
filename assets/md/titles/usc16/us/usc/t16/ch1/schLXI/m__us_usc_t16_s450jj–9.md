@@ -23,7 +23,7 @@
 
     (3) to the maximum extent practicable, conduct or support such activities in a manner which the Secretary determines will not have an adverse effect on the Memorial.
 
-([May 17, 1954, ch. 204, § 10][/us/act/1954-05-17/ch204/s10], as added [Pub. L. 98–398, title II, § 201(a)][/us/pl/98/398/s201/a], Aug. 24, 1984, [98 Stat. 1471][/us/stat/98/1471].)
+([May 17, 1954, ch. 204][/us/act/1954-05-17/ch204], § 10, as added [Pub. L. 98–398, title II][/us/pl/98/398/tII], § 201(a), Aug. 24, 1984, [98 Stat. 1471][/us/stat/98/1471].)
 
 ----------
 
@@ -33,8 +33,8 @@
 ----------
 
 [/us/usc/t16/s450jj–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450jj%E2%80%933
-[/us/act/1954-05-17/ch204/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-17%2Fch204%2Fs10
-[/us/pl/98/398/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F398%2Fs201%2Fa
+[/us/act/1954-05-17/ch204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-17%2Fch204
+[/us/pl/98/398/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F398%2FtII
 [/us/stat/98/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1471
 
 

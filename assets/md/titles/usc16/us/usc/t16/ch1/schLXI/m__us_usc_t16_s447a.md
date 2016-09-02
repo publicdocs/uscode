@@ -17,7 +17,7 @@
 
     When title to lands commonly known as the “Old Ocmulgee Fields”, upon which certain Indian mounds of great historical importance are located, comprising approximately two thousand acres, in and around the city of Macon, County of Bibb, State of Georgia, as shall be designated by the Secretary of the Interior, in the exercise of his judgment and discretion as necessary for national-monument purposes, shall have been vested in the United States, said area shall be set aside as a national monument, by proclamation of the President, and shall be known as the “Ocmulgee National Monument”: Provided, That the United States shall not purchase by appropriation of public moneys any lands within the aforesaid area, but such lands shall be secured by the United States only by public or private donation.
 
-([June 14, 1934, ch. 519, § 1][/us/act/1934-06-14/ch519/s1], [48 Stat. 958][/us/stat/48/958].)
+([June 14, 1934, ch. 519][/us/act/1934-06-14/ch519], § 1, [48 Stat. 958][/us/stat/48/958].)
 
  __Establishment of Monument; Boundaries__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1934-06-14/ch519/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-14%2Fch519%2Fs1
+[/us/act/1934-06-14/ch519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-14%2Fch519
 [/us/stat/48/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F958
 [/us/stat/50/1798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F1798
 [/us/stat/55/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F1655

@@ -55,7 +55,7 @@
 
         (2) the need to avoid any serious adverse environmental impacts on such bycatch species or the ecology of the affected area.
 
-([Pub. L. 94–265, title IV, § 405][/us/pl/94/265/s405], as added [Pub. L. 104–297, title II, § 206][/us/pl/104/297/s206], Oct. 11, 1996, [110 Stat. 3611][/us/stat/110/3611].)
+([Pub. L. 94–265, title IV][/us/pl/94/265/tIV], § 405, as added [Pub. L. 104–297, title II][/us/pl/104/297/tII], § 206, Oct. 11, 1996, [110 Stat. 3611][/us/stat/110/3611].)
 
  __References in Text__ 
 
@@ -76,8 +76,8 @@
 ----------
 ----------
 
-[/us/pl/94/265/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs405
-[/us/pl/104/297/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs206
+[/us/pl/94/265/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2FtIV
+[/us/pl/104/297/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtII
 [/us/stat/110/3611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3611
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331

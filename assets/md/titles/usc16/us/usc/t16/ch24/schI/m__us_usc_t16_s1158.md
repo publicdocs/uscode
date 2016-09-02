@@ -17,7 +17,7 @@
 
     The Secretary of State, with the concurrence of the Secretary, is authorized to accept or reject, on behalf of the United States, recommendations made by the Commission pursuant to article V of the Convention.
 
-([Pub. L. 89–702, title I, § 108][/us/pl/89/702/s108], Nov. 2, 1966, [80 Stat. 1093][/us/stat/80/1093]; [Pub. L. 98–129, § 2][/us/pl/98/129/s2], Oct. 14, 1983, [97 Stat. 838][/us/stat/97/838].)
+([Pub. L. 89–702, title I][/us/pl/89/702/tI], § 108, Nov. 2, 1966, [80 Stat. 1093][/us/stat/80/1093]; [Pub. L. 98–129][/us/pl/98/129], § 2, Oct. 14, 1983, [97 Stat. 838][/us/stat/97/838].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/89/702/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2Fs108
+[/us/pl/89/702/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2FtI
 [/us/stat/80/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1093
-[/us/pl/98/129/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129%2Fs2
+[/us/pl/98/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129
 [/us/stat/97/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F838
 [/us/pl/98/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129
 [/us/usc/t16/s1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1157

@@ -27,17 +27,17 @@
 
         The study required by this section shall be conducted in cooperation and consultation with the State, affected Native Corporations, the southeast Alaska timber industry, the Southeast Alaska Conservation Council, the southeast Alaska commercial fishing industry, and the Alaska Land Use Council.. <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup> 
 
-([Pub. L. 96–487, title VII, § 706][/us/pl/96/487/s706], Dec. 2, 1980, [94 Stat. 2420][/us/stat/94/2420]; [Pub. L. 101–626, title I, § 104][/us/pl/101/626/s104], Nov. 28, 1990, [104 Stat. 4427][/us/stat/104/4427]; [Pub. L. 103–437, § 6(d)(31)][/us/pl/103/437/s6/d/31], Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
+([Pub. L. 96–487, title VII][/us/pl/96/487/tVII], § 706, Dec. 2, 1980, [94 Stat. 2420][/us/stat/94/2420]; [Pub. L. 101–626, title I][/us/pl/101/626/tI], § 104, Nov. 28, 1990, [104 Stat. 4427][/us/stat/104/4427]; [Pub. L. 103–437][/us/pl/103/437], § 6(d)(31), Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
 
  __Amendments__ 
 
     1994—Subsec. (a). [Pub. L. 103–437][/us/pl/103/437] substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
-    1990—Subsec. (a). [Pub. L. 101–626, § 104(a)][/us/pl/101/626/s104/a], struck out at end “If, at any time after December 2, 1980, the Secretary finds that the available land base in the Tongass National Forest is inadequate to maintain the timber supply from the Tongass National Forest to dependent industry at the rate of four billion five hundred million foot board measure per decade, he shall include such information in his report.”
+    1990—Subsec. (a). [Pub. L. 101–626][/us/pl/101/626], § 104(a), struck out at end “If, at any time after December 2, 1980, the Secretary finds that the available land base in the Tongass National Forest is inadequate to maintain the timber supply from the Tongass National Forest to dependent industry at the rate of four billion five hundred million foot board measure per decade, he shall include such information in his report.”
 
-    Subsec. (b). [Pub. L. 101–626, § 104(a)][/us/pl/101/626/s104/a], added cl. (5).
+    Subsec. (b). [Pub. L. 101–626][/us/pl/101/626], § 104(a), added cl. (5).
 
-    Subsec. (c). [Pub. L. 101–626, § 104(b)][/us/pl/101/626/s104/b], substituted “the southeast Alaska commercial fishing industry, and the Alaska Land Use Council.” for “and the Alaska Land Use Council”.
+    Subsec. (c). [Pub. L. 101–626][/us/pl/101/626], § 104(b), substituted “the southeast Alaska commercial fishing industry, and the Alaska Land Use Council.” for “and the Alaska Land Use Council”.
 
  __Termination of Reporting Requirements__ 
 
@@ -54,16 +54,16 @@
 ----------
 ----------
 
-[/us/pl/96/487/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs706
+[/us/pl/96/487/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtVII
 [/us/stat/94/2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2420
-[/us/pl/101/626/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F626%2Fs104
+[/us/pl/101/626/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F626%2FtI
 [/us/stat/104/4427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4427
-[/us/pl/103/437/s6/d/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fd%2F31
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4584
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
-[/us/pl/101/626/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F626%2Fs104%2Fa
-[/us/pl/101/626/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F626%2Fs104%2Fa
-[/us/pl/101/626/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F626%2Fs104%2Fb
+[/us/pl/101/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F626
+[/us/pl/101/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F626
+[/us/pl/101/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F626
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/pl/101/626/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F626%2Fs501

@@ -17,7 +17,7 @@
 
     The process contained in this subchapter shall apply to all public lands within Alaska except for lands within units of the National Park System and the Arctic National Wildlife Refuge.
 
-([Pub. L. 96–487, title XV, § 1501][/us/pl/96/487/s1501], Dec. 2, 1980, [94 Stat. 2549][/us/stat/94/2549].)
+([Pub. L. 96–487, title XV][/us/pl/96/487/tXV], § 1501, Dec. 2, 1980, [94 Stat. 2549][/us/stat/94/2549].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/487/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1501
+[/us/pl/96/487/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXV
 [/us/stat/94/2549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2549
 
 

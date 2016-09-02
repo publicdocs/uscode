@@ -25,11 +25,11 @@
 
         The term “participating county” means an eligible county that elects under [section 7112(d) of this title][/us/usc/t16/s7112/d] to expend a portion of the Federal funds received under [section 7112 of this title][/us/usc/t16/s7112] in accordance with this subchapter.
 
-([Pub. L. 106–393, title III, § 301][/us/pl/106/393/s301], as added [Pub. L. 110–343, div. C, title VI, § 601(a)][/us/pl/110/343/s601/a], Oct. 3, 2008, [122 Stat. 3909][/us/stat/122/3909].)
+([Pub. L. 106–393, title III][/us/pl/106/393/tIII], § 301, as added [Pub. L. 110–343, div. C, title VI][/us/pl/110/343/dC/tVI], § 601(a), Oct. 3, 2008, [122 Stat. 3909][/us/stat/122/3909].)
 
  __Prior Provisions__ 
 
-    A prior [section 301 of Pub. L. 106–393][/us/pl/106/393/s301] was set out in a note under [section 500 of this title][/us/usc/t16/s500] prior to repeal by [Pub. L. 110–343, div. C, title VI, § 601(a)][/us/pl/110/343/s601/a], Oct. 3, 2008, [122 Stat. 3893][/us/stat/122/3893].
+    A prior [section 301 of Pub. L. 106–393][/us/pl/106/393/s301] was set out in a note under [section 500 of this title][/us/usc/t16/s500] prior to repeal by [Pub. L. 110–343, div. C, title VI][/us/pl/110/343/dC/tVI], § 601(a), Oct. 3, 2008, [122 Stat. 3893][/us/stat/122/3893].
 
 ----------
 
@@ -41,12 +41,12 @@
 [/us/usc/t16/s7112/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7112%2Fd
 [/us/usc/t16/s7112/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7112%2Fd
 [/us/usc/t16/s7112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7112
-[/us/pl/106/393/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393%2Fs301
-[/us/pl/110/343/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs601%2Fa
+[/us/pl/106/393/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393%2FtIII
+[/us/pl/110/343/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtVI
 [/us/stat/122/3909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3909
 [/us/pl/106/393/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393%2Fs301
 [/us/usc/t16/s500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs500
-[/us/pl/110/343/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs601%2Fa
+[/us/pl/110/343/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtVI
 [/us/stat/122/3893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3893
 
 

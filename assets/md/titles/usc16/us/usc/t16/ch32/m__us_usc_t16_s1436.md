@@ -33,15 +33,15 @@
 
     (4) violate any provision of this chapter or any regulation or permit issued pursuant to this chapter.
 
-([Pub. L. 92–532, title III, § 306][/us/pl/92/532/s306], as added [Pub. L. 98–498, title I, § 102][/us/pl/98/498/s102], Oct. 19, 1984, [98 Stat. 2302][/us/stat/98/2302]; amended [Pub. L. 102–587, title II, § 2106][/us/pl/102/587/s2106], Nov. 4, 1992, [106 Stat. 5043][/us/stat/106/5043]; [Pub. L. 106–513, § 7][/us/pl/106/513/s7], Nov. 13, 2000, [114 Stat. 2386][/us/stat/114/2386].)
+([Pub. L. 92–532, title III][/us/pl/92/532/tIII], § 306, as added [Pub. L. 98–498, title I][/us/pl/98/498/tI], § 102, Oct. 19, 1984, [98 Stat. 2302][/us/stat/98/2302]; amended [Pub. L. 102–587, title II][/us/pl/102/587/tII], § 2106, Nov. 4, 1992, [106 Stat. 5043][/us/stat/106/5043]; [Pub. L. 106–513][/us/pl/106/513], § 7, Nov. 13, 2000, [114 Stat. 2386][/us/stat/114/2386].)
 
  __Amendments__ 
 
-    2000—[Pub. L. 106–513, § 7(1)][/us/pl/106/513/s7/1], inserted “for any person” after “unlawful” in introductory provision.
+    2000—[Pub. L. 106–513][/us/pl/106/513], § 7(1), inserted “for any person” after “unlawful” in introductory provision.
 
-    Par. (2). [Pub. L. 106–513, § 7(2)][/us/pl/106/513/s7/2], inserted “offer for sale, purchase, import, export,” after “sell,”.
+    Par. (2). [Pub. L. 106–513][/us/pl/106/513], § 7(2), inserted “offer for sale, purchase, import, export,” after “sell,”.
 
-    Par. (3). [Pub. L. 106–513, § 7(3)][/us/pl/106/513/s7/3], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “interfere with the enforcement of this chapter; or”.
+    Par. (3). [Pub. L. 106–513][/us/pl/106/513], § 7(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “interfere with the enforcement of this chapter; or”.
 
     1992—[Pub. L. 102–587][/us/pl/102/587] amended section generally. Prior to amendment, section read as follows: “The Secretary shall conduct research and educational programs as are necessary and reasonable to carry out the purposes and policies of this chapter.”
 
@@ -56,16 +56,16 @@
 ----------
 ----------
 
-[/us/pl/92/532/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs306
-[/us/pl/98/498/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2Fs102
+[/us/pl/92/532/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2FtIII
+[/us/pl/98/498/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2FtI
 [/us/stat/98/2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2302
-[/us/pl/102/587/s2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2106
+[/us/pl/102/587/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtII
 [/us/stat/106/5043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5043
-[/us/pl/106/513/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513%2Fs7
+[/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
 [/us/stat/114/2386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2386
-[/us/pl/106/513/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513%2Fs7%2F1
-[/us/pl/106/513/s7/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513%2Fs7%2F2
-[/us/pl/106/513/s7/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513%2Fs7%2F3
+[/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
+[/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
+[/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
 [/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

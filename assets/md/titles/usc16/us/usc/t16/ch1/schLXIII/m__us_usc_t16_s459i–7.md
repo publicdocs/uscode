@@ -17,7 +17,7 @@
 
     The authority of the Secretary of the Army to undertake or contribute to water resource developments, including shore erosion control, beach protection and navigation improvements on land and/or waters within the Cumberland Island National Seashore shall be exercised in accordance with plans which are mutually acceptable to the Secretary of the Interior and the Secretary of the Army and which are consistent with both the purpose of sections 459i to 459i–9 of this title and the purpose of existing statutes dealing with water and related land resource development.
 
-([Pub. L. 92–536, § 8][/us/pl/92/536/s8], Oct. 23, 1972, [86 Stat. 1068][/us/stat/86/1068].)
+([Pub. L. 92–536][/us/pl/92/536], § 8, Oct. 23, 1972, [86 Stat. 1068][/us/stat/86/1068].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/536/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F536%2Fs8
+[/us/pl/92/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F536
 [/us/stat/86/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1068
 
 

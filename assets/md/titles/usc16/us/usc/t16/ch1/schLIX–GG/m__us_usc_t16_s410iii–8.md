@@ -33,7 +33,7 @@
 
         (3) is likely to provide for full public participation in order to consider the views of all interested parties.
 
-([Pub. L. 107–373, § 10][/us/pl/107/373/s10], Dec. 19, 2002, [116 Stat. 3108][/us/stat/116/3108].)
+([Pub. L. 107–373][/us/pl/107/373], § 10, Dec. 19, 2002, [116 Stat. 3108][/us/stat/116/3108].)
 
 ----------
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t16/s410iii–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410iii%E2%80%936
-[/us/pl/107/373/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F373%2Fs10
+[/us/pl/107/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F373
 [/us/stat/116/3108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3108
 
 

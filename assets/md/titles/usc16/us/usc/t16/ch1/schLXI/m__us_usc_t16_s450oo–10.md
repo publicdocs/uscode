@@ -17,7 +17,7 @@
 
     In the event the Grand Portage National Monument is abandoned at any time after its establishment, title to the lands relinquished by the Minnesota Chippewa Tribe and the Grand Portage Band of Chippewa Indians, Minnesota, pursuant to section 450oo–1 of this title shall thereupon automatically revert to the Minnesota Chippewa Tribe and the Grand Portage Band of Chippewa Indians, Minnesota, their successors or assigns. In such event, the title will be taken in a fee simple status unless the United States holds other lands in trust for the Minnesota Chippewa Tribe or the Grand Portage Band of Chippewa Indians, Minnesota, in which event the title shall revert to the United States in trust for the Minnesota Chippewa Tribe or the Grand Portage Band of Chippewa Indians, Minnesota.
 
-([Pub. L. 85–910, § 11][/us/pl/85/910/s11], Sept. 2, 1958, [72 Stat. 1753][/us/stat/72/1753].)
+([Pub. L. 85–910][/us/pl/85/910], § 11, Sept. 2, 1958, [72 Stat. 1753][/us/stat/72/1753].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/85/910/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F910%2Fs11
+[/us/pl/85/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F910
 [/us/stat/72/1753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1753
 
 

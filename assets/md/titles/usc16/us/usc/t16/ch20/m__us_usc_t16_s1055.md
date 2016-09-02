@@ -35,7 +35,7 @@
 
         Any vacancy in the Advisory Board shall be filled in the same manner as in the case of the original appointment.
 
-([Pub. L. 87–758, § 5][/us/pl/87/758/s5], Oct. 9, 1962, [76 Stat. 753][/us/stat/76/753].)
+([Pub. L. 87–758][/us/pl/87/758], § 5, Oct. 9, 1962, [76 Stat. 753][/us/stat/76/753].)
 
  __Termination of Advisory Boards__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/87/758/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F758%2Fs5
+[/us/pl/87/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F758
 [/us/stat/76/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F753
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

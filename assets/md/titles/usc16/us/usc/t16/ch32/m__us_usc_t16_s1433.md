@@ -81,7 +81,7 @@
 
             (E) other interested persons.
 
-([Pub. L. 92–532, title III, § 303][/us/pl/92/532/s303], Oct. 23, 1972, [86 Stat. 1062][/us/stat/86/1062]; [Pub. L. 98–498, title I, § 102][/us/pl/98/498/s102], Oct. 19, 1984, [98 Stat. 2297][/us/stat/98/2297]; [Pub. L. 102–587, title II, § 2103][/us/pl/102/587/s2103], Nov. 4, 1992, [106 Stat. 5041][/us/stat/106/5041]; [Pub. L. 106–513][/us/pl/106/513], §§ 5, 19(a)(1), (b)(3), Nov. 13, 2000, [114 Stat. 2383][/us/stat/114/2383], 2392, 2393; [Pub. L. 106–555, title II, § 205(a)][/us/pl/106/555/s205/a], Dec. 21, 2000, [114 Stat. 2769][/us/stat/114/2769].)
+([Pub. L. 92–532, title III][/us/pl/92/532/tIII], § 303, Oct. 23, 1972, [86 Stat. 1062][/us/stat/86/1062]; [Pub. L. 98–498, title I][/us/pl/98/498/tI], § 102, Oct. 19, 1984, [98 Stat. 2297][/us/stat/98/2297]; [Pub. L. 102–587, title II][/us/pl/102/587/tII], § 2103, Nov. 4, 1992, [106 Stat. 5041][/us/stat/106/5041]; [Pub. L. 106–513][/us/pl/106/513], §§ 5, 19(a)(1), (b)(3), Nov. 13, 2000, [114 Stat. 2383][/us/stat/114/2383], 2392, 2393; [Pub. L. 106–555, title II][/us/pl/106/555/tII], § 205(a), Dec. 21, 2000, [114 Stat. 2769][/us/stat/114/2769].)
 
  __Amendments__ 
 
@@ -115,21 +115,21 @@
 
     “(D) the area is of a size and nature that will permit comprehensive and coordinated conservation and management.”
 
-    Subsec. (a)(1). [Pub. L. 106–513, § 5(a)][/us/pl/106/513/s5/a], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “determines that the designation will fulfill the purposes and policies of this chapter; and”.
+    Subsec. (a)(1). [Pub. L. 106–513][/us/pl/106/513], § 5(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “determines that the designation will fulfill the purposes and policies of this chapter; and”.
 
-    Subsec. (b)(1)(J) to (L). [Pub. L. 106–513, § 5(b)(1)][/us/pl/106/513/s5/b/1], added subpars. (J) to (L).
+    Subsec. (b)(1)(J) to (L). [Pub. L. 106–513][/us/pl/106/513], § 5(b)(1), added subpars. (J) to (L).
 
-    Subsec. (b)(2)(A). [Pub. L. 106–513, § 19(a)(1)][/us/pl/106/513/s19/a/1], substituted “Resources” for “Merchant Marine and Fisheries”.
+    Subsec. (b)(2)(A). [Pub. L. 106–513][/us/pl/106/513], § 19(a)(1), substituted “Resources” for “Merchant Marine and Fisheries”.
 
-    Subsec. (b)(2)(D). [Pub. L. 106–513, § 19(b)(3)][/us/pl/106/513/s19/b/3], substituted “Magnuson-Stevens Act” for “Magnuson Act”.
+    Subsec. (b)(2)(D). [Pub. L. 106–513][/us/pl/106/513], § 19(b)(3), substituted “Magnuson-Stevens Act” for “Magnuson Act”.
 
-    Subsec. (b)(3). [Pub. L. 106–513, § 5(b)(2)][/us/pl/106/513/s5/b/2], struck out heading and text of par. (3). Prior to amendment, text read as follows: “In making determinations and findings, the Secretary shall draft, as part of the environmental impact statement referred to in [section 1434(a)(2) of this title][/us/usc/t16/s1434/a/2], a resource assessment report documenting present and potential uses of the area, including commercial and recreational fishing, research and education, minerals and energy development, subsistence uses, and other commercial, governmental, or recreational uses. The Secretary, in consultation with the Secretary of the Interior, shall draft a resource assessment section for the report regarding any commercial, governmental, or recreational resource uses in the area under consideration that are subject to the primary jurisdiction of the Department of the Interior. The Secretary, in consultation with the Secretary of Defense, the Secretary of Energy, and the Administrator, shall draft a resource assessment section for the report, including information on any past, present, or proposed future disposal or discharge of materials in the vicinity of the proposed sanctuary. Public disclosure by the Secretary of such information shall be consistent with national security regulations.”
+    Subsec. (b)(3). [Pub. L. 106–513][/us/pl/106/513], § 5(b)(2), struck out heading and text of par. (3). Prior to amendment, text read as follows: “In making determinations and findings, the Secretary shall draft, as part of the environmental impact statement referred to in [section 1434(a)(2) of this title][/us/usc/t16/s1434/a/2], a resource assessment report documenting present and potential uses of the area, including commercial and recreational fishing, research and education, minerals and energy development, subsistence uses, and other commercial, governmental, or recreational uses. The Secretary, in consultation with the Secretary of the Interior, shall draft a resource assessment section for the report regarding any commercial, governmental, or recreational resource uses in the area under consideration that are subject to the primary jurisdiction of the Department of the Interior. The Secretary, in consultation with the Secretary of Defense, the Secretary of Energy, and the Administrator, shall draft a resource assessment section for the report, including information on any past, present, or proposed future disposal or discharge of materials in the vicinity of the proposed sanctuary. Public disclosure by the Secretary of such information shall be consistent with national security regulations.”
 
-    1992—Subsec. (a)(2)(B). [Pub. L. 102–587, § 2103(a)][/us/pl/102/587/s2103/a], inserted “or should be supplemented” after “inadequate”.
+    1992—Subsec. (a)(2)(B). [Pub. L. 102–587][/us/pl/102/587], § 2103(a), inserted “or should be supplemented” after “inadequate”.
 
-    Subsec. (b)(1)(A). [Pub. L. 102–587, § 2103(b)(1)][/us/pl/102/587/s2103/b/1], inserted “maintenance of critical habitat of endangered species,” after “assemblages,”.
+    Subsec. (b)(1)(A). [Pub. L. 102–587][/us/pl/102/587], § 2103(b)(1), inserted “maintenance of critical habitat of endangered species,” after “assemblages,”.
 
-    Subsec. (b)(3). [Pub. L. 102–587, § 2103(b)(2)][/us/pl/102/587/s2103/b/2], substituted “1434(a)(2)” for “1434(a)(1)”, inserted “, governmental,” after “other commercial” and after “any commercial”, and inserted at end: “The Secretary, in consultation with the Secretary of Defense, the Secretary of Energy, and the Administrator, shall draft a resource assessment section for the report, including information on any past, present, or proposed future disposal or discharge of materials in the vicinity of the proposed sanctuary. Public disclosure by the Secretary of such information shall be consistent with national security regulations.”
+    Subsec. (b)(3). [Pub. L. 102–587][/us/pl/102/587], § 2103(b)(2), substituted “1434(a)(2)” for “1434(a)(1)”, inserted “, governmental,” after “other commercial” and after “any commercial”, and inserted at end: “The Secretary, in consultation with the Secretary of Defense, the Secretary of Energy, and the Administrator, shall draft a resource assessment section for the report, including information on any past, present, or proposed future disposal or discharge of materials in the vicinity of the proposed sanctuary. Public disclosure by the Secretary of such information shall be consistent with national security regulations.”
 
     1984—[Pub. L. 98–498][/us/pl/98/498] amended section generally, substituting provisions relating to sanctuary designation standards for provisions relating to penalties. See [section 1437(b) of this title][/us/usc/t16/s1437/b].
 
@@ -139,7 +139,7 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–555, title II, § 205(c)][/us/pl/106/555/s205/c], Dec. 21, 2000, [114 Stat. 2770][/us/stat/114/2770], provided that: 
+[Pub. L. 106–555, title II][/us/pl/106/555/tII], § 205(c), Dec. 21, 2000, [114 Stat. 2770][/us/stat/114/2770], provided that: 
 
 > “This section \[amending this section and [section 1434 of this title][/us/usc/t16/s1434]\] shall take effect immediately after the National Marine Sanctuaries Amendments Act of 2000 \[[Pub. L. 106–513][/us/pl/106/513]\] takes effect.”
 
@@ -267,7 +267,7 @@ Thunder Bay National Marine Sanctuary and Underwater Preserve.—65 F.R. 39042, 
 
  __Northwest Straits__ 
 
-[Pub. L. 104–283, § 10][/us/pl/104/283/s10], Oct. 11, 1996, [110 Stat. 3368][/us/stat/110/3368], provided that: 
+[Pub. L. 104–283][/us/pl/104/283], § 10, Oct. 11, 1996, [110 Stat. 3368][/us/stat/110/3368], provided that: 
 
 > “No designation of an area in the Northwest Straits in the State of Washington as a national marine sanctuary under the National Marine Sanctuaries Act \[[16 U.S.C. 1431][/us/usc/t16/s1431] et seq.\] shall take effect unless that designation is specifically authorized by a law enacted after the date of enactment of this Act \[Oct. 11, 1996\].”
 
@@ -279,33 +279,33 @@ Thunder Bay National Marine Sanctuary and Underwater Preserve.—65 F.R. 39042, 
 ----------
 
 [/us/usc/t16/s1852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1852
-[/us/pl/92/532/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs303
+[/us/pl/92/532/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2FtIII
 [/us/stat/86/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1062
-[/us/pl/98/498/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2Fs102
+[/us/pl/98/498/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2FtI
 [/us/stat/98/2297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2297
-[/us/pl/102/587/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2103
+[/us/pl/102/587/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtII
 [/us/stat/106/5041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5041
 [/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
 [/us/stat/114/2383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2383
-[/us/pl/106/555/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F555%2Fs205%2Fa
+[/us/pl/106/555/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F555%2FtII
 [/us/stat/114/2769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2769
 [/us/pl/106/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F555
-[/us/pl/106/513/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513%2Fs5%2Fa
-[/us/pl/106/513/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513%2Fs5%2Fb%2F1
-[/us/pl/106/513/s19/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513%2Fs19%2Fa%2F1
-[/us/pl/106/513/s19/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513%2Fs19%2Fb%2F3
-[/us/pl/106/513/s5/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513%2Fs5%2Fb%2F2
+[/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
+[/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
+[/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
+[/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
+[/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
 [/us/usc/t16/s1434/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1434%2Fa%2F2
-[/us/pl/102/587/s2103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2103%2Fa
-[/us/pl/102/587/s2103/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2103%2Fb%2F1
-[/us/pl/102/587/s2103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2103%2Fb%2F2
+[/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
+[/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
+[/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
 [/us/pl/98/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498
 [/us/usc/t16/s1437/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1437%2Fb
-[/us/pl/106/555/s205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F555%2Fs205%2Fc
+[/us/pl/106/555/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F555%2FtII
 [/us/stat/114/2770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2770
 [/us/usc/t16/s1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1434
 [/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
-[/us/pl/104/283/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283%2Fs10
+[/us/pl/104/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283
 [/us/stat/110/3368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3368
 [/us/usc/t16/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1431
 

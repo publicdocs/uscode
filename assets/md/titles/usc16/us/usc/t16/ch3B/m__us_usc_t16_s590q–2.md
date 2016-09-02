@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, the Secretary may provide for the reduction or cancellation of any allotment or base when the owner of the farm states in writing that he has no further use of such allotment or base.
 
-([Pub. L. 91–524, title VIII, § 803][/us/pl/91/524/s803], Nov. 30, 1970, [84 Stat. 1381][/us/stat/84/1381].)
+([Pub. L. 91–524, title VIII][/us/pl/91/524/tVIII], § 803, Nov. 30, 1970, [84 Stat. 1381][/us/stat/84/1381].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/91/524/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2Fs803
+[/us/pl/91/524/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524%2FtVIII
 [/us/stat/84/1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1381
 
 

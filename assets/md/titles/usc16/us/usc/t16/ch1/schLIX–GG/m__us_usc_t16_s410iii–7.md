@@ -105,7 +105,7 @@
 
         The Commission may, for purposes of carrying out this subchapter, hold such hearings, sit and act at such times and places, take such public testimony, and receive such evidence, as the Commission considers appropriate. The Commission may not issue subpoenas or exercise any subpoena authority.
 
-([Pub. L. 107–373, § 9][/us/pl/107/373/s9], Dec. 19, 2002, [116 Stat. 3107][/us/stat/116/3107].)
+([Pub. L. 107–373][/us/pl/107/373], § 9, Dec. 19, 2002, [116 Stat. 3107][/us/stat/116/3107].)
 
  __Termination of Advisory Commissions__ 
 
@@ -120,7 +120,7 @@
 
 [/us/usc/t16/s410iii–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410iii%E2%80%936
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/107/373/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F373%2Fs9
+[/us/pl/107/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F373
 [/us/stat/116/3107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3107
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

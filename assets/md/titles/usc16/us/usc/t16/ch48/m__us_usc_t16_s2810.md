@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed to amend, repeal, or otherwise modify the authority of any Federal officer, department, or agency to perform any function, responsibility, or activity authorized under any other provision of law.
 
-([Pub. L. 96–362, § 11][/us/pl/96/362/s11], Sept. 26, 1980, [94 Stat. 1206][/us/stat/94/1206].)
+([Pub. L. 96–362][/us/pl/96/362], § 11, Sept. 26, 1980, [94 Stat. 1206][/us/stat/94/1206].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/362/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F362%2Fs11
+[/us/pl/96/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F362
 [/us/stat/94/1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1206
 
 

@@ -63,7 +63,7 @@
 
             For a critical conservation area described in subsection (b)(1)(D), the Secretary may use authorities under the Watershed Protection and Flood Prevention Act ([16 U.S.C. 1001][/us/usc/t16/s1001] et seq.), other than section 14 of such Act ([16 U.S.C. 1012][/us/usc/t16/s1012]), to carry out projects for the purposes of this section.
 
-([Pub. L. 99–198, title XII, § 1271F][/us/pl/99/198/s1271F], as added [Pub. L. 113–79, title II, § 2401][/us/pl/113/79/s2401], Feb. 7, 2014, [128 Stat. 750][/us/stat/128/750].)
+([Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1271F, as added [Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2401, Feb. 7, 2014, [128 Stat. 750][/us/stat/128/750].)
 
  __References in Text__ 
 
@@ -79,8 +79,8 @@
 [/us/usc/t16/s3871d/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3871d%2Fd%2F3
 [/us/usc/t16/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1001
 [/us/usc/t16/s1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1012
-[/us/pl/99/198/s1271F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1271F
-[/us/pl/113/79/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2401
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F750
 [/us/act/1954-08-04/ch656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-04%2Fch656
 [/us/stat/68/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F666

@@ -21,7 +21,7 @@
 
     (2) The term “Secretary” means the Secretary of the Interior.
 
-([Pub. L. 99–552, § 7][/us/pl/99/552/s7], Oct. 27, 1986, [100 Stat. 3086][/us/stat/100/3086].)
+([Pub. L. 99–552][/us/pl/99/552], § 7, Oct. 27, 1986, [100 Stat. 3086][/us/stat/100/3086].)
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t16/s460ss–1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460ss%E2%80%931%2Fb
-[/us/pl/99/552/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F552%2Fs7
+[/us/pl/99/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F552
 [/us/stat/100/3086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3086
 
 

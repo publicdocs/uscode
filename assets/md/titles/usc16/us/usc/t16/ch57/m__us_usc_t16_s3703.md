@@ -147,47 +147,47 @@
 
         The Foundation shall not make a grant of Federal funds in an amount greater than $10,000 unless, by not later than 30 days before the grant is made, the Foundation provides notice of the grant to the Member of Congress for the congressional district in which the project to be funded with the grant will be carried out.
 
-([Pub. L. 98–244, § 4][/us/pl/98/244/s4], Mar. 26, 1984, [98 Stat. 108][/us/stat/98/108]; [Pub. L. 100–240][/us/pl/100/240], §§ 1(b), 2(a), (b)(1), Jan. 11, 1988, [101 Stat. 1785][/us/stat/101/1785], 1786; [Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title IX, § 903\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–120; [Pub. L. 106–408, title II][/us/pl/106/408], §§ 203(c)(1), 204(a)–(c), (e)–(g), 206, Nov. 1, 2000, [114 Stat. 1779][/us/stat/114/1779], 1780; [Pub. L. 109–363, title II, § 203][/us/pl/109/363/s203], Oct. 17, 2006, [120 Stat. 2075][/us/stat/120/2075].)
+([Pub. L. 98–244][/us/pl/98/244], § 4, Mar. 26, 1984, [98 Stat. 108][/us/stat/98/108]; [Pub. L. 100–240][/us/pl/100/240], §§ 1(b), 2(a), (b)(1), Jan. 11, 1988, [101 Stat. 1785][/us/stat/101/1785], 1786; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(b) \[title IX, § 903\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–120; [Pub. L. 106–408, title II][/us/pl/106/408/tII], §§ 203(c)(1), 204(a)–(c), (e)–(g), 206, Nov. 1, 2000, [114 Stat. 1779][/us/stat/114/1779], 1780; [Pub. L. 109–363, title II][/us/pl/109/363/tII], § 203, Oct. 17, 2006, [120 Stat. 2075][/us/stat/120/2075].)
 
  __Amendments__ 
 
     2006—Subsec. (i). [Pub. L. 109–363][/us/pl/109/363] substituted “grant of Federal funds in an amount greater than $10,000” for “grant of funds”.
 
-    2000—Subsec. (a)(3). [Pub. L. 106–408, § 204(a)][/us/pl/106/408/s204/a], inserted “or in a county in the State of Maryland or Virginia that borders on the District of Columbia” after “the District of Columbia”.
+    2000—Subsec. (a)(3). [Pub. L. 106–408][/us/pl/106/408], § 204(a), inserted “or in a county in the State of Maryland or Virginia that borders on the District of Columbia” after “the District of Columbia”.
 
-    Subsec. (c)(3), (4). [Pub. L. 106–408, § 204(b)(2)][/us/pl/106/408/s204/b/2], added pars. (3) and (4). Former pars. (3) and (4) redesignated (7) and (8), respectively.
+    Subsec. (c)(3), (4). [Pub. L. 106–408][/us/pl/106/408], § 204(b)(2), added pars. (3) and (4). Former pars. (3) and (4) redesignated (7) and (8), respectively.
 
-    Subsec. (c)(5). [Pub. L. 106–408, § 204(b)(2)][/us/pl/106/408/s204/b/2], added par. (5). Former par. (5) redesignated (9).
+    Subsec. (c)(5). [Pub. L. 106–408][/us/pl/106/408], § 204(b)(2), added par. (5). Former par. (5) redesignated (9).
 
-    [Pub. L. 106–408, § 203(c)(1)][/us/pl/106/408/s203/c/1], substituted “Directors of the Foundation” for “Directors of the Board”.
+    [Pub. L. 106–408][/us/pl/106/408], § 203(c)(1), substituted “Directors of the Foundation” for “Directors of the Board”.
 
-    Subsec. (c)(6) to (11). [Pub. L. 106–408, § 204(b)][/us/pl/106/408/s204/b], added par. (6) and redesignated former pars. (3) to (7) as (7) to (11), respectively.
+    Subsec. (c)(6) to (11). [Pub. L. 106–408][/us/pl/106/408], § 204(b), added par. (6) and redesignated former pars. (3) to (7) as (7) to (11), respectively.
 
-    Subsec. (e)(1)(B). [Pub. L. 106–408, § 204(c)][/us/pl/106/408/s204/c], added subpar. (B) and struck out former subpar. (B) which read as follows: “the Director of the United States Fish and Wildlife Service (hereafter in this subsection referred to as the ‘Director’) consents to the acquisition in writing.”
+    Subsec. (e)(1)(B). [Pub. L. 106–408][/us/pl/106/408], § 204(c), added subpar. (B) and struck out former subpar. (B) which read as follows: “the Director of the United States Fish and Wildlife Service (hereafter in this subsection referred to as the ‘Director’) consents to the acquisition in writing.”
 
-    Subsec. (e)(3)(B)(ii). [Pub. L. 106–408, § 204(e)][/us/pl/106/408/s204/e], added cl. (ii) and struck out former cl. (ii) which read as follows: “the Director finds that conveyance or provision of Federal funds meets the requirements of clause (i) and consents to it in writing.”
+    Subsec. (e)(3)(B)(ii). [Pub. L. 106–408][/us/pl/106/408], § 204(e), added cl. (ii) and struck out former cl. (ii) which read as follows: “the Director finds that conveyance or provision of Federal funds meets the requirements of clause (i) and consents to it in writing.”
 
-    Subsec. (e)(5). [Pub. L. 106–408, § 204(f)][/us/pl/106/408/s204/f], added par. (5) and struck out former par. (5) which read as follows: “The Foundation shall convey at not less than fair-market value any real property acquired by it in whole or in part with Federal funds if the Foundation and the Director determine, in writing, that—
+    Subsec. (e)(5). [Pub. L. 106–408][/us/pl/106/408], § 204(f), added par. (5) and struck out former par. (5) which read as follows: “The Foundation shall convey at not less than fair-market value any real property acquired by it in whole or in part with Federal funds if the Foundation and the Director determine, in writing, that—
 
     “(A) the land is no longer valuable for the purposes of fish and wildlife conservation or management, and
 
     “(B) the purposes of the Foundation would be better served by the use of the Federal funds for other authorized activities of the Foundation.”
 
-    Subsec. (h). [Pub. L. 106–408, § 204(g)][/us/pl/106/408/s204/g], added subsec. (h).
+    Subsec. (h). [Pub. L. 106–408][/us/pl/106/408], § 204(g), added subsec. (h).
 
-    Subsec. (i). [Pub. L. 106–408, § 206][/us/pl/106/408/s206], added subsec. (i).
+    Subsec. (i). [Pub. L. 106–408][/us/pl/106/408], § 206, added subsec. (i).
 
     1998—Subsecs. (f), (g). [Pub. L. 105–277][/us/pl/105/277] added subsecs. (f) and (g).
 
-    1988—Subsec. (a)(2). [Pub. L. 100–240, § 1(b)][/us/pl/100/240/s1/b], inserted “and abroad” after “United States”.
+    1988—Subsec. (a)(2). [Pub. L. 100–240][/us/pl/100/240], § 1(b), inserted “and abroad” after “United States”.
 
-    Subsec. (c)(2). [Pub. L. 100–240, § 2(b)][/us/pl/100/240/s2/b], inserted “, subject to subsection (e)” after “therein”.
+    Subsec. (c)(2). [Pub. L. 100–240][/us/pl/100/240], § 2(b), inserted “, subject to subsection (e)” after “therein”.
 
-    Subsec. (e). [Pub. L. 100–240, § 2(a)][/us/pl/100/240/s2/a], added subsec. (e).
+    Subsec. (e). [Pub. L. 100–240][/us/pl/100/240], § 2(a), added subsec. (e).
 
  __Congressional Findings—National Whale Conservation__ 
 
-[Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title IX, § 902\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–119, provided that: 
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(b) \[title IX, § 902\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–119, provided that: 
 
 > “Congress finds that—
 
@@ -235,7 +235,7 @@
 
  __Draw Down of Federal Funds; Exemption From Audit Requirements__ 
 
-    [Pub. L. 102–440, title III, § 304][/us/pl/102/440/s304], Oct. 23, 1992, [106 Stat. 2235][/us/stat/106/2235], which provided that the National Fish and Wildlife Foundation could continue to draw down Federal funds when matching requirements had been met, that interest earned on funds already drawn down was to be used to fund all activities as approved by the Board of Directors, and that Foundation subgrantees would be exempt from the audit reporting and compliance requirements of OMB Circular A–133, for all grants of $100,000 or less, was repealed by [Pub. L. 106–408, title II, § 204(d)][/us/pl/106/408/s204/d], Nov. 1, 2000, [114 Stat. 1779][/us/stat/114/1779].
+    [Pub. L. 102–440, title III][/us/pl/102/440/tIII], § 304, Oct. 23, 1992, [106 Stat. 2235][/us/stat/106/2235], which provided that the National Fish and Wildlife Foundation could continue to draw down Federal funds when matching requirements had been met, that interest earned on funds already drawn down was to be used to fund all activities as approved by the Board of Directors, and that Foundation subgrantees would be exempt from the audit reporting and compliance requirements of OMB Circular A–133, for all grants of $100,000 or less, was repealed by [Pub. L. 106–408, title II][/us/pl/106/408/tII], § 204(d), Nov. 1, 2000, [114 Stat. 1779][/us/stat/114/1779].
 
 ----------
 
@@ -247,39 +247,39 @@
 [/us/usc/t16/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3701
 [/us/usc/t16/s3701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3701%2Fb
 [/us/usc/t16/s1375/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1375%2Fa%2F1
-[/us/pl/98/244/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F244%2Fs4
+[/us/pl/98/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F244
 [/us/stat/98/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F108
 [/us/pl/100/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F240
 [/us/stat/101/1785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1785
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-50
-[/us/pl/106/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408
+[/us/pl/106/408/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2FtII
 [/us/stat/114/1779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1779
-[/us/pl/109/363/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2Fs203
+[/us/pl/109/363/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2FtII
 [/us/stat/120/2075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2075
 [/us/pl/109/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363
-[/us/pl/106/408/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2Fs204%2Fa
-[/us/pl/106/408/s204/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2Fs204%2Fb%2F2
-[/us/pl/106/408/s204/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2Fs204%2Fb%2F2
-[/us/pl/106/408/s203/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2Fs203%2Fc%2F1
-[/us/pl/106/408/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2Fs204%2Fb
-[/us/pl/106/408/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2Fs204%2Fc
-[/us/pl/106/408/s204/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2Fs204%2Fe
-[/us/pl/106/408/s204/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2Fs204%2Ff
-[/us/pl/106/408/s204/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2Fs204%2Fg
-[/us/pl/106/408/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2Fs206
+[/us/pl/106/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408
+[/us/pl/106/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408
+[/us/pl/106/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408
+[/us/pl/106/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408
+[/us/pl/106/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408
+[/us/pl/106/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408
+[/us/pl/106/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408
+[/us/pl/106/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408
+[/us/pl/106/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408
+[/us/pl/106/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/100/240/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F240%2Fs1%2Fb
-[/us/pl/100/240/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F240%2Fs2%2Fb
-[/us/pl/100/240/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F240%2Fs2%2Fa
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
+[/us/pl/100/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F240
+[/us/pl/100/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F240
+[/us/pl/100/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F240
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-50
 [/us/usc/t16/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1361
 [/us/usc/t16/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1401
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
-[/us/pl/102/440/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2Fs304
+[/us/pl/102/440/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2FtIII
 [/us/stat/106/2235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2235
-[/us/pl/106/408/s204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2Fs204%2Fd
+[/us/pl/106/408/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2FtII
 [/us/stat/114/1779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1779
 
 

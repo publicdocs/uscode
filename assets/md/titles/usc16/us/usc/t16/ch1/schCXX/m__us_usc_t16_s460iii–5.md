@@ -43,7 +43,7 @@
 
         (4) The Secretary and all other officers of the United States shall take all steps necessary to protect all water rights claimed by the United States in the Snake River adjudication now pending in the district court of the State of Idaho in which the United States is joined under [section 666 of title 43][/us/usc/t43/s666].
 
-([Pub. L. 103–64, § 6][/us/pl/103/64/s6], Aug. 4, 1993, [107 Stat. 308][/us/stat/107/308].)
+([Pub. L. 103–64][/us/pl/103/64], § 6, Aug. 4, 1993, [107 Stat. 308][/us/stat/107/308].)
 
  __References in Text__ 
 
@@ -71,7 +71,7 @@
 [/us/usc/t43/s1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1782
 [/us/usc/t43/s1782/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1782%2Fc
 [/us/usc/t43/s666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs666
-[/us/pl/103/64/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F64%2Fs6
+[/us/pl/103/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F64
 [/us/stat/107/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F308
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F884

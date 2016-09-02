@@ -57,7 +57,7 @@
 
         (2) a description of actions taken by electric utilities with respect to such recommendations.
 
-([Pub. L. 95–617, title II, § 209][/us/pl/95/617/s209], Nov. 9, 1978, [92 Stat. 3143][/us/stat/92/3143].)
+([Pub. L. 95–617, title II][/us/pl/95/617/tII], § 209, Nov. 9, 1978, [92 Stat. 3143][/us/stat/92/3143].)
 
  __Codification__ 
 
@@ -75,7 +75,7 @@
 ----------
 
 [/us/usc/t16/s824a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824a%2Fa
-[/us/pl/95/617/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs209
+[/us/pl/95/617/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtII
 [/us/stat/92/3143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3143
 [/us/usc/t16/s2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2602
 

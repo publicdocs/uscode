@@ -31,7 +31,7 @@
 
     (7) to such additional provisions as the Secretary determines are desirable and includes in the agreement to effectuate the purposes of the program or to facilitate its administration.
 
-([Pub. L. 91–559, § 4][/us/pl/91/559/s4], Dec. 19, 1970, [84 Stat. 1470][/us/stat/84/1470].)
+([Pub. L. 91–559][/us/pl/91/559], § 4, Dec. 19, 1970, [84 Stat. 1470][/us/stat/84/1470].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t16/s1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1306
-[/us/pl/91/559/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F559%2Fs4
+[/us/pl/91/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F559
 [/us/stat/84/1470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1470
 
 

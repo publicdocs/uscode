@@ -47,15 +47,15 @@
 
         (3) public ceremonies to acknowledge such awards.
 
-([Pub. L. 89–454, title III, § 314][/us/pl/89/454/s314], formerly § 313, as added [Pub. L. 101–508, title VI, § 6213][/us/pl/101/508/s6213], Nov. 5, 1990, [104 Stat. 1388–312][/us/stat/104/1388-312]; renumbered § 314 and amended [Pub. L. 102–587, title II, § 2205(b)(20)][/us/pl/102/587/s2205/b/20], Nov. 4, 1992, [106 Stat. 5052][/us/stat/106/5052].)
+([Pub. L. 89–454, title III][/us/pl/89/454/tIII], § 314, formerly § 313, as added [Pub. L. 101–508, title VI][/us/pl/101/508/tVI], § 6213, Nov. 5, 1990, [104 Stat. 1388–312][/us/stat/104/1388-312]; renumbered § 314 and amended [Pub. L. 102–587, title II][/us/pl/102/587/tII], § 2205(b)(20), Nov. 4, 1992, [106 Stat. 5052][/us/stat/106/5052].)
 
  __Prior Provisions__ 
 
-    A prior section 1460, [Pub. L. 89–454, title III, § 314][/us/pl/89/454/s314], formerly § 311, as added [Pub. L. 92–583][/us/pl/92/583], Oct. 27, 1972, [86 Stat. 1287][/us/stat/86/1287]; renumbered § 314, [Pub. L. 94–370, § 7][/us/pl/94/370/s7], July 26, 1976, [90 Stat. 1019][/us/stat/90/1019], related to establishment, etc., of Coastal Zone Management Advisory Committee, prior to repeal by [Pub. L. 99–272, title VI, § 6045(2)][/us/pl/99/272/s6045/2], Apr. 7, 1986, [100 Stat. 127][/us/stat/100/127].
+    A prior section 1460, [Pub. L. 89–454, title III][/us/pl/89/454/tIII], § 314, formerly § 311, as added [Pub. L. 92–583][/us/pl/92/583], Oct. 27, 1972, [86 Stat. 1287][/us/stat/86/1287]; renumbered § 314, [Pub. L. 94–370][/us/pl/94/370], § 7, July 26, 1976, [90 Stat. 1019][/us/stat/90/1019], related to establishment, etc., of Coastal Zone Management Advisory Committee, prior to repeal by [Pub. L. 99–272, title VI][/us/pl/99/272/tVI], § 6045(2), Apr. 7, 1986, [100 Stat. 127][/us/stat/100/127].
 
  __Amendments__ 
 
-    1992—Subsecs. (a), (e). [Pub. L. 102–587, § 2205(b)(20)(B)][/us/pl/102/587/s2205/b/20/B], (C), after “under [section 1456a of this title][/us/usc/t16/s1456a]” inserted “and other amounts available to carry out this chapter (other than amounts appropriated to carry out sections 1454, 1455, 1455a, 1456b, 1456c, and 1461 of this title)”.
+    1992—Subsecs. (a), (e). [Pub. L. 102–587][/us/pl/102/587], § 2205(b)(20)(B), (C), after “under [section 1456a of this title][/us/usc/t16/s1456a]” inserted “and other amounts available to carry out this chapter (other than amounts appropriated to carry out sections 1454, 1455, 1455a, 1456b, 1456c, and 1461 of this title)”.
 
 ----------
 
@@ -66,19 +66,19 @@
 
 [/us/usc/t16/s1456a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1456a
 [/us/usc/t16/s1456a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1456a
-[/us/pl/89/454/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2Fs314
-[/us/pl/101/508/s6213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6213
+[/us/pl/89/454/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2FtIII
+[/us/pl/101/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVI
 [/us/stat/104/1388-312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-312
-[/us/pl/102/587/s2205/b/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2205%2Fb%2F20
+[/us/pl/102/587/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtII
 [/us/stat/106/5052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5052
-[/us/pl/89/454/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2Fs314
+[/us/pl/89/454/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2FtIII
 [/us/pl/92/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F583
 [/us/stat/86/1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1287
-[/us/pl/94/370/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F370%2Fs7
+[/us/pl/94/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F370
 [/us/stat/90/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1019
-[/us/pl/99/272/s6045/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs6045%2F2
+[/us/pl/99/272/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtVI
 [/us/stat/100/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F127
-[/us/pl/102/587/s2205/b/20/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2205%2Fb%2F20%2FB
+[/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
 [/us/usc/t16/s1456a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1456a
 
 

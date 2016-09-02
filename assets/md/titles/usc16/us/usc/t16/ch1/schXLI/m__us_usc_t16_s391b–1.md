@@ -17,7 +17,7 @@
 
     The provisions of the Act of August 1, 1916 ([39 Stat. 432][/us/stat/39/432]), entitled “An Act to establish a national park in the Territory of Hawaii”; the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]), entitled “An Act to establish a National Park Service, and for other purposes”;  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  the Act of February 27, 1920 ([41 Stat. 452][/us/stat/41/452]), entitled “An Act to authorize the Governor of the Territory of Hawaii to acquire privately owned lands and rights-of-way within the boundaries of the Hawaii National Park”; and all Acts supplementary to and amendatory of said Acts are made applicable to and extended over the lands hereby added to the park: Provided, That the provisions of the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\] shall not apply to or extend over such lands.
 
-([June 20, 1938, ch. 530, § 4][/us/act/1938-06-20/ch530/s4], [52 Stat. 785][/us/stat/52/785].)
+([June 20, 1938, ch. 530][/us/act/1938-06-20/ch530], § 4, [52 Stat. 785][/us/stat/52/785].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/stat/41/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F452
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
-[/us/act/1938-06-20/ch530/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-20%2Fch530%2Fs4
+[/us/act/1938-06-20/ch530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-20%2Fch530
 [/us/stat/52/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F785
 [/us/stat/39/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F432
 [/us/act/1916-08-01/ch264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-01%2Fch264

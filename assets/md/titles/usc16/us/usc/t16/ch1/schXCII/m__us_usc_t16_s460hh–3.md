@@ -19,7 +19,7 @@
 
     (b) Nothing contained in this subchapter shall affect or interfere with the authority of the Secretary by the Act of August 24, 1962 ([76 Stat. 395][/us/stat/76/395]) \[[43 U.S.C. 616k][/us/usc/t43/s616k] et seq.\], to operate the Arbuckle Dam and Reservoir in accordance with and for the purposes set forth in that Act.
 
-([Pub. L. 94–235, § 4][/us/pl/94/235/s4], Mar. 17, 1976, [90 Stat. 236][/us/stat/90/236].)
+([Pub. L. 94–235][/us/pl/94/235], § 4, Mar. 17, 1976, [90 Stat. 236][/us/stat/90/236].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/stat/76/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F395
 [/us/usc/t43/s616k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs616k
-[/us/pl/94/235/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F235%2Fs4
+[/us/pl/94/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F235
 [/us/stat/90/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F236
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1

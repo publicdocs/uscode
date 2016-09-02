@@ -49,17 +49,17 @@
 
         (2) improve the quality of, and maintain the opportunities for, salmon and steelhead recreational fishing.
 
-([Pub. L. 96–561, title I, § 102][/us/pl/96/561/s102], Dec. 22, 1980, [94 Stat. 3275][/us/stat/94/3275].)
+([Pub. L. 96–561, title I][/us/pl/96/561/tI], § 102, Dec. 22, 1980, [94 Stat. 3275][/us/stat/94/3275].)
 
  __Short Title__ 
 
-[Pub. L. 96–561, title I, § 101][/us/pl/96/561/s101], Dec. 22, 1980, [94 Stat. 3275][/us/stat/94/3275], provided that: 
+[Pub. L. 96–561, title I][/us/pl/96/561/tI], § 101, Dec. 22, 1980, [94 Stat. 3275][/us/stat/94/3275], provided that: 
 
 > “This title \[enacting this chapter and provisions set out as a note under [section 1823 of this title][/us/usc/t16/s1823]\] may be cited as the ‘Salmon and Steelhead Conservation and Enhancement Act of 1980’.”
 
  __Research and Development Program To Improve Salmon Survival__ 
 
-[Pub. L. 104–303, title V, § 511][/us/pl/104/303/s511], Oct. 12, 1996, [110 Stat. 3761][/us/stat/110/3761], as amended by [Pub. L. 106–53, title V, § 582][/us/pl/106/53/s582], Aug. 17, 1999, [113 Stat. 375][/us/stat/113/375]; [Pub. L. 110–114, title V, § 5025][/us/pl/110/114/s5025], Nov. 8, 2007, [121 Stat. 1203][/us/stat/121/1203]; [Pub. L. 113–235, div. D, title I, § 104][/us/pl/113/235/s104], Dec. 16, 2014, [128 Stat. 2307][/us/stat/128/2307], provided that:
+[Pub. L. 104–303, title V][/us/pl/104/303/tV], § 511, Oct. 12, 1996, [110 Stat. 3761][/us/stat/110/3761], as amended by [Pub. L. 106–53, title V][/us/pl/106/53/tV], § 582, Aug. 17, 1999, [113 Stat. 375][/us/stat/113/375]; [Pub. L. 110–114, title V][/us/pl/110/114/tV], § 5025, Nov. 8, 2007, [121 Stat. 1203][/us/stat/121/1203]; [Pub. L. 113–235, div. D, title I][/us/pl/113/235/dD/tI], § 104, Dec. 16, 2014, [128 Stat. 2307][/us/stat/128/2307], provided that:
 
 >     “(a) __Salmon Survival Activities.—__ 
 
@@ -140,18 +140,18 @@
 ----------
 ----------
 
-[/us/pl/96/561/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs102
+[/us/pl/96/561/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtI
 [/us/stat/94/3275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3275
-[/us/pl/96/561/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs101
+[/us/pl/96/561/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtI
 [/us/stat/94/3275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3275
 [/us/usc/t16/s1823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1823
-[/us/pl/104/303/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs511
+[/us/pl/104/303/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtV
 [/us/stat/110/3761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3761
-[/us/pl/106/53/s582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs582
+[/us/pl/106/53/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2FtV
 [/us/stat/113/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F375
-[/us/pl/110/114/s5025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs5025
+[/us/pl/110/114/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtV
 [/us/stat/121/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1203
-[/us/pl/113/235/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs104
+[/us/pl/113/235/dD/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdD%2FtI
 [/us/stat/128/2307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2307
 
 

@@ -33,7 +33,7 @@
 
         The Secretary shall consider any proposal submitted by a county to provide services described in subsection (a). If the Secretary decides not to enter into a fee management agreement with the county under subsection (a), the Secretary shall notify the county in writing of the decision, identifying the reasons for the decision. The fee management agreement may include cooperative site planning and management provisions.
 
-([Pub. L. 108–447, div. J, title VIII, § 806][/us/pl/108/447/s806], Dec. 8, 2004, [118 Stat. 3387][/us/stat/118/3387].)
+([Pub. L. 108–447, div. J, title VIII][/us/pl/108/447/dJ/tVIII], § 806, Dec. 8, 2004, [118 Stat. 3387][/us/stat/118/3387].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/108/447/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs806
+[/us/pl/108/447/dJ/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtVIII
 [/us/stat/118/3387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3387
 
 

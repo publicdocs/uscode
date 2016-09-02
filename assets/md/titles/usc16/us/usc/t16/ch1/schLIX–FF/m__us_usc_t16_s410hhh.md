@@ -77,11 +77,11 @@
 
     (8) preservation of this diversity of resources would ensure the perpetuation of the entire ecosystem for the enjoyment of future generations.
 
-([Pub. L. 106–530, § 2][/us/pl/106/530/s2], Nov. 22, 2000, [114 Stat. 2527][/us/stat/114/2527].)
+([Pub. L. 106–530][/us/pl/106/530], § 2, Nov. 22, 2000, [114 Stat. 2527][/us/stat/114/2527].)
 
  __Short Title__ 
 
-[Pub. L. 106–530, § 1][/us/pl/106/530/s1], Nov. 22, 2000, [114 Stat. 2527][/us/stat/114/2527], provided that: 
+[Pub. L. 106–530][/us/pl/106/530], § 1, Nov. 22, 2000, [114 Stat. 2527][/us/stat/114/2527], provided that: 
 
 > “This Act \[enacting this subchapter and provisions listed in a table of National Wildlife Refuges set out under [section 668dd of this title][/us/usc/t16/s668dd]\] may be cited as the ‘Great Sand Dunes National Park and Preserve Act of 2000’.”
 
@@ -92,9 +92,9 @@
 ----------
 ----------
 
-[/us/pl/106/530/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F530%2Fs2
+[/us/pl/106/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F530
 [/us/stat/114/2527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2527
-[/us/pl/106/530/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F530%2Fs1
+[/us/pl/106/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F530
 [/us/stat/114/2527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2527
 [/us/usc/t16/s668dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd
 

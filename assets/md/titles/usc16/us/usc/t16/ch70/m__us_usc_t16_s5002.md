@@ -65,7 +65,7 @@
 
     (17) “United States Section” means the United States Commissioners of the Commission.
 
-([Pub. L. 102–567, title VIII, § 803][/us/pl/102/567/s803], Oct. 29, 1992, [106 Stat. 4309][/us/stat/106/4309]; [Pub. L. 102–587, title VIII, § 8003][/us/pl/102/587/s8003], Nov. 4, 1992, [106 Stat. 5098][/us/stat/106/5098]; [Pub. L. 104–43, title IV, § 404(b)][/us/pl/104/43/s404/b], Nov. 3, 1995, [109 Stat. 391][/us/stat/109/391]; [Pub. L. 106–562, title III, § 304(a)][/us/pl/106/562/s304/a], Dec. 23, 2000, [114 Stat. 2806][/us/stat/114/2806].)
+([Pub. L. 102–567, title VIII][/us/pl/102/567/tVIII], § 803, Oct. 29, 1992, [106 Stat. 4309][/us/stat/106/4309]; [Pub. L. 102–587, title VIII][/us/pl/102/587/tVIII], § 8003, Nov. 4, 1992, [106 Stat. 5098][/us/stat/106/5098]; [Pub. L. 104–43, title IV][/us/pl/104/43/tIV], § 404(b), Nov. 3, 1995, [109 Stat. 391][/us/stat/109/391]; [Pub. L. 106–562, title III][/us/pl/106/562/tIII], § 304(a), Dec. 23, 2000, [114 Stat. 2806][/us/stat/114/2806].)
 
  __References in Text__ 
 
@@ -87,13 +87,13 @@
 ----------
 
 [/us/usc/t16/s5008/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5008%2Fa
-[/us/pl/102/567/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs803
+[/us/pl/102/567/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtVIII
 [/us/stat/106/4309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4309
-[/us/pl/102/587/s8003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs8003
+[/us/pl/102/587/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtVIII
 [/us/stat/106/5098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5098
-[/us/pl/104/43/s404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs404%2Fb
+[/us/pl/104/43/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtIV
 [/us/stat/109/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F391
-[/us/pl/106/562/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs304%2Fa
+[/us/pl/106/562/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2FtIII
 [/us/stat/114/2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2806
 [/us/usc/t16/s1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1453
 [/us/pl/102/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567

@@ -23,7 +23,7 @@
 
         Agencies of the United States may cooperate in the conduct of scientific and other programs, and may furnish facilities and personnel, for the purposes of assisting the Commission and Panels in carrying out their responsibilities under the Treaty. Such agencies may accept reimbursement from the Commission for providing such services, facilities, and personnel.
 
-([Pub. L. 99–5, § 5][/us/pl/99/5/s5], Mar. 15, 1985, [99 Stat. 11][/us/stat/99/11].)
+([Pub. L. 99–5][/us/pl/99/5], § 5, Mar. 15, 1985, [99 Stat. 11][/us/stat/99/11].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/99/5/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5%2Fs5
+[/us/pl/99/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5
 [/us/stat/99/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F11
 
 

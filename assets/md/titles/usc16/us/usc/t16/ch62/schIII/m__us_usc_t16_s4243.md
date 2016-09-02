@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t16/ch62/schIII/m__us_usc_t16_s4242.md) | [Next](./../../../../..//us/usc/t16/ch62/schIII/m__us_usc_t16_s4244.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4243)
 
-## § 4243. Repealed. [Pub. L. 107–111, § 6(a)(3)][/us/pl/107/111/s6/a/3], Jan. 8, 2002, [115 Stat. 2096][/us/stat/115/2096]
+## § 4243. Repealed. [Pub. L. 107–111][/us/pl/107/111], § 6(a)(3), Jan. 8, 2002, [115 Stat. 2096][/us/stat/115/2096]
 
-    Section, [Pub. L. 100–478, title II, § 2304][/us/pl/100/478/s2304], Oct. 7, 1988, [102 Stat. 2322][/us/stat/102/2322], directed Secretary to determine within 3 months after the 8th Conference of the Parties to CITES whether the importation of illegally harvested ivory into the United States had been substantially stopped, and upon a determination that it had not been substantially stopped, to recommend to Congress necessary legislation or other actions to achieve the purposes of this chapter.
+    Section, [Pub. L. 100–478, title II][/us/pl/100/478/tII], § 2304, Oct. 7, 1988, [102 Stat. 2322][/us/stat/102/2322], directed Secretary to determine within 3 months after the 8th Conference of the Parties to CITES whether the importation of illegally harvested ivory into the United States had been substantially stopped, and upon a determination that it had not been substantially stopped, to recommend to Congress necessary legislation or other actions to achieve the purposes of this chapter.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/107/111/s6/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F111%2Fs6%2Fa%2F3
+[/us/pl/107/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F111
 [/us/stat/115/2096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2096
-[/us/pl/100/478/s2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2Fs2304
+[/us/pl/100/478/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2FtII
 [/us/stat/102/2322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2322
 
 

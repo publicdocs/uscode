@@ -31,7 +31,7 @@
 
         No lands or interests therein outside of the boundaries of the recreation area may be added to the recreation area without specific authorization by Congress.
 
-([Pub. L. 103–104, § 1][/us/pl/103/104/s1], Oct. 12, 1993, [107 Stat. 1025][/us/stat/107/1025]; [Pub. L. 103–437, § 6(q)][/us/pl/103/437/s6/q], Nov. 2, 1994, [108 Stat. 4587][/us/stat/108/4587].)
+([Pub. L. 103–104][/us/pl/103/104], § 1, Oct. 12, 1993, [107 Stat. 1025][/us/stat/107/1025]; [Pub. L. 103–437][/us/pl/103/437], § 6(q), Nov. 2, 1994, [108 Stat. 4587][/us/stat/108/4587].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/103/104/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F104%2Fs1
+[/us/pl/103/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F104
 [/us/stat/107/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1025
-[/us/pl/103/437/s6/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fq
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4587
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 

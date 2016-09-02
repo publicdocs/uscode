@@ -101,7 +101,7 @@
 
         (3) pursuant to an inspection or other enforcement action.
 
-([Pub. L. 114–81, title III, § 305][/us/pl/114/81/s305], Nov. 5, 2015, [129 Stat. 666][/us/stat/129/666].)
+([Pub. L. 114–81, title III][/us/pl/114/81/tIII], § 305, Nov. 5, 2015, [129 Stat. 666][/us/stat/129/666].)
 
 ----------
 
@@ -110,7 +110,7 @@
 ----------
 ----------
 
-[/us/pl/114/81/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs305
+[/us/pl/114/81/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2FtIII
 [/us/stat/129/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F666
 
 

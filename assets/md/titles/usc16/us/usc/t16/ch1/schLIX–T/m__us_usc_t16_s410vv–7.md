@@ -17,7 +17,7 @@
 
     Not later than 3 complete fiscal years after August 26, 1992, the Secretary shall develop and transmit a general management plan for the park to the Committee on Natural Resources of the United States House of Representatives and to the Committee on Energy and Natural Resources of the United States Senate.
 
-([Pub. L. 102–350, § 9][/us/pl/102/350/s9], Aug. 26, 1992, [106 Stat. 936][/us/stat/106/936]; [Pub. L. 103–437, § 6(d)(14)][/us/pl/103/437/s6/d/14], Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
+([Pub. L. 102–350][/us/pl/102/350], § 9, Aug. 26, 1992, [106 Stat. 936][/us/stat/106/936]; [Pub. L. 103–437][/us/pl/103/437], § 6(d)(14), Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/102/350/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F350%2Fs9
+[/us/pl/102/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F350
 [/us/stat/106/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F936
-[/us/pl/103/437/s6/d/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fd%2F14
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4584
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 

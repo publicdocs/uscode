@@ -43,7 +43,7 @@
 
         (C) are not marine mammals within the meaning of [section 1362(6) of this title][/us/usc/t16/s1362/6].
 
-([Pub. L. 102–587, title VII, § 7104][/us/pl/102/587/s7104], Nov. 4, 1992, [106 Stat. 5096][/us/stat/106/5096]; [Pub. L. 103–375, § 6(2)][/us/pl/103/375/s6/2], (3), Oct. 19, 1994, [108 Stat. 3495][/us/stat/108/3495].)
+([Pub. L. 102–587, title VII][/us/pl/102/587/tVII], § 7104, Nov. 4, 1992, [106 Stat. 5096][/us/stat/106/5096]; [Pub. L. 103–375][/us/pl/103/375], § 6(2), (3), Oct. 19, 1994, [108 Stat. 3495][/us/stat/108/3495].)
 
  __References in Text__ 
 
@@ -51,15 +51,15 @@
 
  __Amendments__ 
 
-    1994—Par. (2). [Pub. L. 103–375, § 6(2)(A)][/us/pl/103/375/s6/2/A], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘designated State agency’ means the State fish and wildlife agency, which shall be construed to mean any department, or any division of any department of another name, of a State that is empowered under its laws to exercise the functions ordinarily exercised by a State fish and wildlife agency.”
+    1994—Par. (2). [Pub. L. 103–375][/us/pl/103/375], § 6(2)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘designated State agency’ means the State fish and wildlife agency, which shall be construed to mean any department, or any division of any department of another name, of a State that is empowered under its laws to exercise the functions ordinarily exercised by a State fish and wildlife agency.”
 
-    Par. (4). [Pub. L. 103–375, § 6(2)(B)][/us/pl/103/375/s6/2/B], made technical amendment to reference to [section 3744(g) of this title][/us/usc/t16/s3744/g] to correct reference to corresponding provision of original act.
+    Par. (4). [Pub. L. 103–375][/us/pl/103/375], § 6(2)(B), made technical amendment to reference to [section 3744(g) of this title][/us/usc/t16/s3744/g] to correct reference to corresponding provision of original act.
 
-    Par. (8). [Pub. L. 103–375, § 6(3)(B)][/us/pl/103/375/s6/3/B], added par. (8). Former par. (8) redesignated (9).
+    Par. (8). [Pub. L. 103–375][/us/pl/103/375], § 6(3)(B), added par. (8). Former par. (8) redesignated (9).
 
-    [Pub. L. 103–375, § 6(2)(C)][/us/pl/103/375/s6/2/C], (D), substituted semicolon for period at end of subpar. (A) and “section 1362(6)” for “section 1362(5)” in subpar. (C).
+    [Pub. L. 103–375][/us/pl/103/375], § 6(2)(C), (D), substituted semicolon for period at end of subpar. (A) and “section 1362(6)” for “section 1362(5)” in subpar. (C).
 
-    Par. (9). [Pub. L. 103–375, § 6(3)(A)][/us/pl/103/375/s6/3/A], redesignated par. (8) as (9).
+    Par. (9). [Pub. L. 103–375][/us/pl/103/375], § 6(3)(A), redesignated par. (8) as (9).
 
 ----------
 
@@ -72,18 +72,18 @@
 [/us/usc/t16/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3701
 [/us/usc/t16/s1531–154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531%E2%80%93154
 [/us/usc/t16/s1362/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1362%2F6
-[/us/pl/102/587/s7104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs7104
+[/us/pl/102/587/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtVII
 [/us/stat/106/5096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5096
-[/us/pl/103/375/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375%2Fs6%2F2
+[/us/pl/103/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375
 [/us/stat/108/3495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3495
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F884
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
-[/us/pl/103/375/s6/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375%2Fs6%2F2%2FA
-[/us/pl/103/375/s6/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375%2Fs6%2F2%2FB
+[/us/pl/103/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375
+[/us/pl/103/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375
 [/us/usc/t16/s3744/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3744%2Fg
-[/us/pl/103/375/s6/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375%2Fs6%2F3%2FB
-[/us/pl/103/375/s6/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375%2Fs6%2F2%2FC
-[/us/pl/103/375/s6/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375%2Fs6%2F3%2FA
+[/us/pl/103/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375
+[/us/pl/103/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375
+[/us/pl/103/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375
 
 

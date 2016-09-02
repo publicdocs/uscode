@@ -27,7 +27,7 @@
 
         All mining and mineral activities and commercial water power development within the boundaries of the park shall be prohibited, and further, any conveyance from the State of Minnesota shall contain a covenant that the State of Minnesota, its licensees, permittees, lessees, assigns, or successors in interest shall not engage in or permit any mining activity nor water power development.
 
-([Pub. L. 91–661, § 301][/us/pl/91/661/s301], Jan. 8, 1971, [84 Stat. 1972][/us/stat/84/1972]; [Pub. L. 97–405, § 1(3)][/us/pl/97/405/s1/3], Jan. 3, 1983, [96 Stat. 2029][/us/stat/96/2029].)
+([Pub. L. 91–661][/us/pl/91/661], § 301, Jan. 8, 1971, [84 Stat. 1972][/us/stat/84/1972]; [Pub. L. 97–405][/us/pl/97/405], § 1(3), Jan. 3, 1983, [96 Stat. 2029][/us/stat/96/2029].)
 
  __References in Text__ 
 
@@ -47,9 +47,9 @@
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1%E2%80%934
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132
-[/us/pl/91/661/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F661%2Fs301
+[/us/pl/91/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F661
 [/us/stat/84/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1972
-[/us/pl/97/405/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F405%2Fs1%2F3
+[/us/pl/97/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F405
 [/us/stat/96/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2029
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1%E2%80%934

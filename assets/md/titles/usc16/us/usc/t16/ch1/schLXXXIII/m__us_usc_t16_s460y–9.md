@@ -27,7 +27,7 @@
 
         such sums to remain available until expended.
 
-([Pub. L. 91–476, § 10][/us/pl/91/476/s10], Oct. 21, 1970, [84 Stat. 1071][/us/stat/84/1071]; [Pub. L. 95–352, § 2(2)][/us/pl/95/352/s2/2], (3), Aug. 20, 1978, [92 Stat. 516][/us/stat/92/516].)
+([Pub. L. 91–476][/us/pl/91/476], § 10, Oct. 21, 1970, [84 Stat. 1071][/us/stat/84/1071]; [Pub. L. 95–352][/us/pl/95/352], § 2(2), (3), Aug. 20, 1978, [92 Stat. 516][/us/stat/92/516].)
 
  __References in Text__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/usc/t16/s460y–4/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460y%E2%80%934%2F3%2FB
-[/us/pl/91/476/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F476%2Fs10
+[/us/pl/91/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F476
 [/us/stat/84/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1071
-[/us/pl/95/352/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F352%2Fs2%2F2
+[/us/pl/95/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F352
 [/us/stat/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F516
 [/us/pl/88/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F578
 [/us/stat/78/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F897

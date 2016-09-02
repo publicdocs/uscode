@@ -17,7 +17,7 @@
 
     Any agreement may be renewed or extended at the end of the agreement period for an additional period of ten years by mutual agreement of the Secretary and the owner or operator, subject to any rate redetermination by the Secretary. If during the agreement period the owner or operator sells or otherwise divests himself of the ownership or right of occupancy of such land, the new owner or operator may continue such agreement under the same terms or conditions, or enter into a new agreement in accordance with the provisions of this chapter, including the provisions for renewal and adjustment of payment rates, or he may choose not to participate in such program.
 
-([Pub. L. 91–559, § 6][/us/pl/91/559/s6], Dec. 19, 1970, [84 Stat. 1471][/us/stat/84/1471].)
+([Pub. L. 91–559][/us/pl/91/559], § 6, Dec. 19, 1970, [84 Stat. 1471][/us/stat/84/1471].)
 
  __One-Year Extension of Agreements__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/91/559/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F559%2Fs6
+[/us/pl/91/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F559
 [/us/stat/84/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1471
 [/us/pl/103/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F393
 [/us/stat/108/4105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4105

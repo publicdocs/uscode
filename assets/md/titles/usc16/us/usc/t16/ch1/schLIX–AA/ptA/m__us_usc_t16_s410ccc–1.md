@@ -31,7 +31,7 @@
 
         (4) Not to exceed 10 acres of land that the Secretary may designate for an interpretive visitor center complex to serve the needs of the historical park and heritage area established in part B of this subchapter.
 
-([Pub. L. 103–449, title III, § 303][/us/pl/103/449/s303], Nov. 2, 1994, [108 Stat. 4758][/us/stat/108/4758].)
+([Pub. L. 103–449, title III][/us/pl/103/449/tIII], § 303, Nov. 2, 1994, [108 Stat. 4758][/us/stat/108/4758].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/103/449/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F449%2Fs303
+[/us/pl/103/449/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F449%2FtIII
 [/us/stat/108/4758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4758
 
 

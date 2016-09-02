@@ -31,7 +31,7 @@
 
         (3) provide for full public participation in order to consider the views of all interested parties.
 
-([Pub. L. 102–543, § 5][/us/pl/102/543/s5], Oct. 27, 1992, [106 Stat. 3571][/us/stat/106/3571].)
+([Pub. L. 102–543][/us/pl/102/543], § 5, Oct. 27, 1992, [106 Stat. 3571][/us/stat/106/3571].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t16/s410yy–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410yy%E2%80%935
-[/us/pl/102/543/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F543%2Fs5
+[/us/pl/102/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F543
 [/us/stat/106/3571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3571
 
 

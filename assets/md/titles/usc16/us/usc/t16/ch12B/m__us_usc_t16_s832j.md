@@ -17,7 +17,7 @@
 
     All receipts from transmission and sale of electric energy generated at the Bonneville project shall be covered into the Treasury of the United States to the credit of miscellaneous receipts, save and except that the Treasury shall set up and maintain from such receipts a continuing fund of $500,000, to the credit of the administrator and subject to check by him, to defray emergency expenses and to insure continuous operation. There is authorized to be appropriated from time to time, out of moneys in the Treasury not otherwise appropriated, such sums as may be necessary to carry out the provisions of this chapter, including installation of equipment and machinery for the generation of electric energy and facilities for its transmission and sale.
 
-([Aug. 20, 1937, ch. 720, § 11][/us/act/1937-08-20/ch720/s11], [50 Stat. 736][/us/stat/50/736].)
+([Aug. 20, 1937, ch. 720][/us/act/1937-08-20/ch720], § 11, [50 Stat. 736][/us/stat/50/736].)
 
  __Transfer of Functions__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1937-08-20/ch720/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-20%2Fch720%2Fs11
+[/us/act/1937-08-20/ch720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-20%2Fch720
 [/us/stat/50/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F736
 
 

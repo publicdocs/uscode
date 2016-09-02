@@ -25,7 +25,7 @@
 
     (b) Therefore, it is hereby declared to be the policy of Congress that, to further the purposes of the Wilderness Act of 1964 ([16 U.S.C. 1131][/us/usc/t16/s1131]) and the National Forest Management Act of 1976 ([16 U.S.C. 1600][/us/usc/t16/s1600]), the people of the Nation and Montana would best be served by national recreation area designation of the Rattlesnake area to include the permanent preservation of certain of these lands under established statutory designation as wilderness, and to promote the watershed, recreational, wildlife, and educational values of the remainder of these lands.
 
-([Pub. L. 96–476, § 1][/us/pl/96/476/s1], Oct. 19, 1980, [94 Stat. 2271][/us/stat/94/2271].)
+([Pub. L. 96–476][/us/pl/96/476], § 1, Oct. 19, 1980, [94 Stat. 2271][/us/stat/94/2271].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 
  __Short Title__ 
 
-[Pub. L. 96–476, § 1][/us/pl/96/476/s1], Oct. 19, 1980, [94 Stat. 2271][/us/stat/94/2271], provided in part: 
+[Pub. L. 96–476][/us/pl/96/476], § 1, Oct. 19, 1980, [94 Stat. 2271][/us/stat/94/2271], provided in part: 
 
 > “That this Act \[enacting this subchapter\] may be cited as the ‘Rattlesnake National Recreation Area and Wilderness Act of 1980’.”
 
@@ -48,7 +48,7 @@
 
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
 [/us/usc/t16/s1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1600
-[/us/pl/96/476/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F476%2Fs1
+[/us/pl/96/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F476
 [/us/stat/94/2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2271
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
@@ -58,7 +58,7 @@
 [/us/pl/94/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588
 [/us/stat/90/2949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2949
 [/us/usc/t16/s1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1600
-[/us/pl/96/476/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F476%2Fs1
+[/us/pl/96/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F476
 [/us/stat/94/2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2271
 
 

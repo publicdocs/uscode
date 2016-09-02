@@ -53,11 +53,11 @@
 
             In the case of disapproval of such research plan, the Administrator of the National Oceanic and Atmospheric Administration and the Administrator of the Environmental Protection Agency shall jointly notify the appropriate Board in writing, stating in detail the revisions necessary to obtain approval of the plan. Such Administrators shall approve or disapprove the revised plan within 90 days after receiving the revised plan from the Board.
 
-([Pub. L. 92–532, title IV, § 404][/us/pl/92/532/s404], as added [Pub. L. 101–593, title III, § 301][/us/pl/101/593/s301], Nov. 16, 1990, [104 Stat. 2966][/us/stat/104/2966].)
+([Pub. L. 92–532, title IV][/us/pl/92/532/tIV], § 404, as added [Pub. L. 101–593, title III][/us/pl/101/593/tIII], § 301, Nov. 16, 1990, [104 Stat. 2966][/us/stat/104/2966].)
 
  __References in Text__ 
 
-    The National Ocean Pollution Planning Act of 1978, referred to in subsec. (a)(2), is [Pub. L. 95–273][/us/pl/95/273], May 8, 1978, [92 Stat. 228][/us/stat/92/228], as amended, which was classified generally to chapter 31 (§ 1701 et seq.) of Title 33, Navigation and Navigable Waters, and was repealed by [Pub. L. 102–567, title II, § 204][/us/pl/102/567/s204], Oct. 29, 1992, [106 Stat. 4282][/us/stat/106/4282].
+    The National Ocean Pollution Planning Act of 1978, referred to in subsec. (a)(2), is [Pub. L. 95–273][/us/pl/95/273], May 8, 1978, [92 Stat. 228][/us/stat/92/228], as amended, which was classified generally to chapter 31 (§ 1701 et seq.) of Title 33, Navigation and Navigable Waters, and was repealed by [Pub. L. 102–567, title II][/us/pl/102/567/tII], § 204, Oct. 29, 1992, [106 Stat. 4282][/us/stat/106/4282].
 
 ----------
 
@@ -69,12 +69,12 @@
 [/us/usc/t33/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1701
 [/us/usc/t33/s1330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1330
 [/us/usc/t16/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1461
-[/us/pl/92/532/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs404
-[/us/pl/101/593/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2Fs301
+[/us/pl/92/532/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2FtIV
+[/us/pl/101/593/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2FtIII
 [/us/stat/104/2966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2966
 [/us/pl/95/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F273
 [/us/stat/92/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F228
-[/us/pl/102/567/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs204
+[/us/pl/102/567/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtII
 [/us/stat/106/4282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4282
 
 

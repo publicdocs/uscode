@@ -27,7 +27,7 @@
 
         With respect to any electric utility which is a Federal agency, and with respect to the Tennessee Valley Authority when it is treated as a State regulatory authority as provided in [section 2602(17) of this title][/us/usc/t16/s2602/17], any reference in section 2621 or 2623 of this title to State law shall be treated as a reference to Federal law.
 
-([Pub. L. 95–617, title I, § 117][/us/pl/95/617/s117], Nov. 9, 1978, [92 Stat. 3128][/us/stat/92/3128].)
+([Pub. L. 95–617, title I][/us/pl/95/617/tI], § 117, Nov. 9, 1978, [92 Stat. 3128][/us/stat/92/3128].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t16/s2602/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2602%2F17
-[/us/pl/95/617/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs117
+[/us/pl/95/617/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtI
 [/us/stat/92/3128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3128
 [/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
 [/us/stat/92/3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3120

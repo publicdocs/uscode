@@ -27,7 +27,7 @@
 
         The Secretary is authorized to acquire by any of the foregoing methods except condemnation, lands, waters, and interests therein outside the boundary of the park and outside the boundaries of any other unit of the National Park System but within the State of Hawaii, and to convey the same to the Department of Hawaiian Home Lands in exchange for lands, waters, and interests therein within the park owned by that Department. Any such exchange shall be accomplished in accordance with the provisions defined in subsection (a) of this section.
 
-([Pub. L. 96–565, title I, § 104][/us/pl/96/565/s104], Dec. 22, 1980, [94 Stat. 3321][/us/stat/94/3321]; [Pub. L. 100–202, § 101(g)][/us/pl/100/202/s101/g] \[title I, § 100\], Dec. 22, 1987, [101 Stat. 1329–213][/us/stat/101/1329-213], 1329–220.)
+([Pub. L. 96–565, title I][/us/pl/96/565/tI], § 104, Dec. 22, 1980, [94 Stat. 3321][/us/stat/94/3321]; [Pub. L. 100–202][/us/pl/100/202], § 101(g) \[title I, § 100\], Dec. 22, 1987, [101 Stat. 1329–213][/us/stat/101/1329-213], 1329–220.)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 
  __Codification__ 
 
-    In subsec. (a), “sections 102901(b) and (c) of title 54” substituted for “sections 5(b) and (c) of the Act approved July 15, 1968 ([82 Stat. 354][/us/stat/82/354])” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs. Subsection (c) of section 5 of the Act approved July 15, 1968, meaning [section 5(c) of Pub. L. 90–401][/us/pl/90/401/s5/c], was redesignated subsection (d) and a new subsection (c) was added by [Pub. L. 98–506, § 2][/us/pl/98/506/s2], Oct. 19, 1984, [98 Stat. 2338][/us/stat/98/2338].
+    In subsec. (a), “sections 102901(b) and (c) of title 54” substituted for “sections 5(b) and (c) of the Act approved July 15, 1968 ([82 Stat. 354][/us/stat/82/354])” on authority of [Pub. L. 113–287][/us/pl/113/287], § 6(e), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs. Subsection (c) of section 5 of the Act approved July 15, 1968, meaning [section 5(c) of Pub. L. 90–401][/us/pl/90/401/s5/c], was redesignated subsection (d) and a new subsection (c) was added by [Pub. L. 98–506][/us/pl/98/506], § 2, Oct. 19, 1984, [98 Stat. 2338][/us/stat/98/2338].
 
  __Amendments__ 
 
@@ -48,17 +48,17 @@
 ----------
 ----------
 
-[/us/pl/96/565/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F565%2Fs104
+[/us/pl/96/565/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F565%2FtI
 [/us/stat/94/3321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3321
-[/us/pl/100/202/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fg
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-213
 [/us/act/1921-07-09/ch42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-07-09%2Fch42
 [/us/stat/42/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F108
 [/us/stat/82/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F354
-[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/90/401/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F401%2Fs5%2Fc
-[/us/pl/98/506/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F506%2Fs2
+[/us/pl/98/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F506
 [/us/stat/98/2338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2338
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 

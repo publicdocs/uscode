@@ -17,7 +17,7 @@
 
     The boundaries of the Isle Royale National Park are hereby extended to include any submerged lands within the territorial jurisdiction of the United States within four and one-half miles of the shoreline of Isle Royale and the surrounding islands, including Passage Island and the Gull Islands, and the Secretary of the Interior is hereby authorized, in his discretion, to acquire title by donation to any such lands not now owned by the United States, the title to be satisfactory to him.
 
-([Mar. 6, 1942, ch. 152, § 3][/us/act/1942-03-06/ch152/s3], [56 Stat. 138][/us/stat/56/138]; [Pub. L. 94–567, § 4(a)(2)][/us/pl/94/567/s4/a/2], Oct. 20, 1976, [90 Stat. 2694][/us/stat/90/2694].)
+([Mar. 6, 1942, ch. 152][/us/act/1942-03-06/ch152], § 3, [56 Stat. 138][/us/stat/56/138]; [Pub. L. 94–567][/us/pl/94/567], § 4(a)(2), Oct. 20, 1976, [90 Stat. 2694][/us/stat/90/2694].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1942-03-06/ch152/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-03-06%2Fch152%2Fs3
+[/us/act/1942-03-06/ch152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-03-06%2Fch152
 [/us/stat/56/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F138
-[/us/pl/94/567/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F567%2Fs4%2Fa%2F2
+[/us/pl/94/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F567
 [/us/stat/90/2694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2694
 [/us/pl/94/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F567
 

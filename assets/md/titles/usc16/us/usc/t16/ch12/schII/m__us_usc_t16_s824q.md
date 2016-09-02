@@ -87,11 +87,11 @@
 
         An entity that to the extent required to meet its service obligations exercises rights described in subsection (b) shall not be considered by such action as engaging in undue discrimination or preference under this chapter.
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 217, as added [Pub. L. 109–58, title XII, § 1233(a)][/us/pl/109/58/s1233/a], Aug. 8, 2005, [119 Stat. 957][/us/stat/119/957].)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 217, as added [Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1233(a), Aug. 8, 2005, [119 Stat. 957][/us/stat/119/957].)
 
  __FERC Rulemaking on Long-Term Transmission Rights in Organized Markets__ 
 
-[Pub. L. 109–58, title XII, § 1233(b)][/us/pl/109/58/s1233/b], Aug. 8, 2005, [119 Stat. 960][/us/stat/119/960], provided that: 
+[Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1233(b), Aug. 8, 2005, [119 Stat. 960][/us/stat/119/960], provided that: 
 
 > “Within 1 year after the date of enactment of this section \[Aug. 8, 2005\] and after notice and an opportunity for comment, the \[Federal Energy Regulatory\] Commission shall by rule or order, implement section 217(b)(4) of the Federal Power Act \[[16 U.S.C. 824q(b)(4)][/us/usc/t16/s824q/b/4]\] in Transmission Organizations, as defined by that Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\] with organized electricity markets.”
 
@@ -107,9 +107,9 @@
 [/us/usc/t16/s824k/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824k%2Fj
 [/us/usc/t16/s824k/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824k%2Fj
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
-[/us/pl/109/58/s1233/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1233%2Fa
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F957
-[/us/pl/109/58/s1233/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1233%2Fb
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F960
 [/us/usc/t16/s824q/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824q%2Fb%2F4
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a

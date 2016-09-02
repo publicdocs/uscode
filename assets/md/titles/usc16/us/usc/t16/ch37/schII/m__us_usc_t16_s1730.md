@@ -27,7 +27,7 @@
 
         Notwithstanding any other provision of law, amounts appropriated for any fiscal year to carry out this subchapter shall remain available for obligation and expenditure until the end of the fiscal year following the fiscal year for which the amounts are appropriated.
 
-([Pub. L. 91–378, title II, § 211][/us/pl/91/378/s211], as added [Pub. L. 109–154, § 2(f)(2)][/us/pl/109/154/s2/f/2], Dec. 30, 2005, [119 Stat. 2892][/us/stat/119/2892].)
+([Pub. L. 91–378, title II][/us/pl/91/378/tII], § 211, as added [Pub. L. 109–154][/us/pl/109/154], § 2(f)(2), Dec. 30, 2005, [119 Stat. 2892][/us/stat/119/2892].)
 
 ----------
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/91/378/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F378%2Fs211
-[/us/pl/109/154/s2/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F154%2Fs2%2Ff%2F2
+[/us/pl/91/378/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F378%2FtII
+[/us/pl/109/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F154
 [/us/stat/119/2892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2892
 
 

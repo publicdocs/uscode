@@ -99,7 +99,7 @@
 
             (C) A foreign fishing vessel shall be treated as qualified for purposes of paragraph (1) if the foreign nation under which it is flagged will be a party to (i) a governing international fishery agreement or (ii) a treaty described in [section 1821(b) of this title][/us/usc/t16/s1821/b] during the time the vessel will engage in the fish processing for which permission is sought under paragraph (1)(B).
 
-([Pub. L. 94–265, title III, § 306][/us/pl/94/265/s306], Apr. 13, 1976, [90 Stat. 355][/us/stat/90/355]; [Pub. L. 97–191, § 1][/us/pl/97/191/s1], June 1, 1982, [96 Stat. 107][/us/stat/96/107]; [Pub. L. 97–453, § 9][/us/pl/97/453/s9], Jan. 12, 1983, [96 Stat. 2491][/us/stat/96/2491]; [Pub. L. 98–623, title IV, § 404(4)][/us/pl/98/623/s404/4], Nov. 8, 1984, [98 Stat. 3408][/us/stat/98/3408]; [Pub. L. 99–659, title I, § 101(c)(2)][/us/pl/99/659/s101/c/2], Nov. 14, 1986, [100 Stat. 3707][/us/stat/100/3707]; [Pub. L. 101–627, title I, § 112][/us/pl/101/627/s112], Nov. 28, 1990, [104 Stat. 4453][/us/stat/104/4453]; [Pub. L. 104–297, title I, § 112(a)][/us/pl/104/297/s112/a]–(c), Oct. 11, 1996, [110 Stat. 3595][/us/stat/110/3595], 3596.)
+([Pub. L. 94–265, title III][/us/pl/94/265/tIII], § 306, Apr. 13, 1976, [90 Stat. 355][/us/stat/90/355]; [Pub. L. 97–191][/us/pl/97/191], § 1, June 1, 1982, [96 Stat. 107][/us/stat/96/107]; [Pub. L. 97–453][/us/pl/97/453], § 9, Jan. 12, 1983, [96 Stat. 2491][/us/stat/96/2491]; [Pub. L. 98–623, title IV][/us/pl/98/623/tIV], § 404(4), Nov. 8, 1984, [98 Stat. 3408][/us/stat/98/3408]; [Pub. L. 99–659, title I][/us/pl/99/659/tI], § 101(c)(2), Nov. 14, 1986, [100 Stat. 3707][/us/stat/100/3707]; [Pub. L. 101–627, title I][/us/pl/101/627/tI], § 112, Nov. 28, 1990, [104 Stat. 4453][/us/stat/104/4453]; [Pub. L. 104–297, title I][/us/pl/104/297/tI], § 112(a)–(c), Oct. 11, 1996, [110 Stat. 3595][/us/stat/110/3595], 3596.)
 
  __References in Text__ 
 
@@ -107,17 +107,17 @@
 
  __Amendments__ 
 
-    1996—Subsec. (a)(3). [Pub. L. 104–297, § 112(a)][/us/pl/104/297/s112/a], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Except as otherwise provided by paragraph (2), a State may not directly or indirectly regulate any fishing vessel outside its boundaries, unless the vessel is registered under the law of that State.”
+    1996—Subsec. (a)(3). [Pub. L. 104–297][/us/pl/104/297], § 112(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Except as otherwise provided by paragraph (2), a State may not directly or indirectly regulate any fishing vessel outside its boundaries, unless the vessel is registered under the law of that State.”
 
-    Subsec. (b)(3). [Pub. L. 104–297, § 112(b)][/us/pl/104/297/s112/b], added par. (3).
+    Subsec. (b)(3). [Pub. L. 104–297][/us/pl/104/297], § 112(b), added par. (3).
 
-    Subsec. (c)(1)(A). [Pub. L. 104–297, § 112(c)(1)][/us/pl/104/297/s112/c/1], substituted “(4)(C) or has received a permit under [section 1824(d) of this title][/us/usc/t16/s1824/d];” for “(4)(C); and”.
+    Subsec. (c)(1)(A). [Pub. L. 104–297][/us/pl/104/297], § 112(c)(1), substituted “(4)(C) or has received a permit under [section 1824(d) of this title][/us/usc/t16/s1824/d];” for “(4)(C); and”.
 
-    Subsec. (c)(1)(C). [Pub. L. 104–297, § 112(c)(2)][/us/pl/104/297/s112/c/2], (3), added subpar. (C).
+    Subsec. (c)(1)(C). [Pub. L. 104–297][/us/pl/104/297], § 112(c)(2), (3), added subpar. (C).
 
-    1990—Subsec. (c)(1)(B). [Pub. L. 101–627, § 112(1)][/us/pl/101/627/s112/1], inserted before period at end “and the application specifies the species to be processed”.
+    1990—Subsec. (c)(1)(B). [Pub. L. 101–627][/us/pl/101/627], § 112(1), inserted before period at end “and the application specifies the species to be processed”.
 
-    Subsec. (c)(2). [Pub. L. 101–627, § 112(2)][/us/pl/101/627/s112/2], added par. (2) and struck out former par. (2) which read as follows: “The Governor of a State may not grant permission for a foreign fishing vessel to engage in fish processing under paragraph (1)(B) if he determines that fish processors within the State have adequate capacity, and will utilize such capacity, to process all of the United States harvested fish from the fishery concerned that are landed in the State.”
+    Subsec. (c)(2). [Pub. L. 101–627][/us/pl/101/627], § 112(2), added par. (2) and struck out former par. (2) which read as follows: “The Governor of a State may not grant permission for a foreign fishing vessel to engage in fish processing under paragraph (1)(B) if he determines that fish processors within the State have adequate capacity, and will utilize such capacity, to process all of the United States harvested fish from the fishery concerned that are landed in the State.”
 
     1986—Subsec. (b)(1)(A). [Pub. L. 99–659][/us/pl/99/659] substituted “exclusive economic zone” for “fishery conservation zone”.
 
@@ -129,13 +129,13 @@
 
  __Effective Date of 1982 Amendment__ 
 
-[Pub. L. 97–191, § 3][/us/pl/97/191/s3], June 1, 1982, [96 Stat. 108][/us/stat/96/108], provided that: 
+[Pub. L. 97–191][/us/pl/97/191], § 3, June 1, 1982, [96 Stat. 108][/us/stat/96/108], provided that: 
 
 > “This Act \[amending this section and [section 1857 of this title][/us/usc/t16/s1857]\] shall take effect on June 1, 1982.”
 
  __Authority of States of Washington, Oregon, and California To Manage Dungeness Crab Fishery__ 
 
-[Pub. L. 105–384, title II, § 203][/us/pl/105/384/s203], Nov. 13, 1998, [112 Stat. 3453][/us/stat/112/3453], as amended by [Pub. L. 107–77, title VI, § 624][/us/pl/107/77/s624], Nov. 28, 2001, [115 Stat. 803][/us/stat/115/803]; [Pub. L. 109–479, title III, § 302(e)][/us/pl/109/479/s302/e], Jan. 12, 2007, [120 Stat. 3624][/us/stat/120/3624], provided that:
+[Pub. L. 105–384, title II][/us/pl/105/384/tII], § 203, Nov. 13, 1998, [112 Stat. 3453][/us/stat/112/3453], as amended by [Pub. L. 107–77, title VI][/us/pl/107/77/tVI], § 624, Nov. 28, 2001, [115 Stat. 803][/us/stat/115/803]; [Pub. L. 109–479, title III][/us/pl/109/479/tIII], § 302(e), Jan. 12, 2007, [120 Stat. 3624][/us/stat/120/3624], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -189,11 +189,11 @@
 
 >         “(3) measures implemented or planned that are designed to prevent or end overfishing in the fishery.”
 
-    [Pub. L. 104–297, title I, § 112(d)][/us/pl/104/297/s112/d], Oct. 11, 1996, [110 Stat. 3596][/us/stat/110/3596], as amended by [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, which provided interim authority to the States of Washington, Oregon, and California to enforce State laws and regulations governing fish harvesting and processing against any vessel operating in the exclusive economic zone off each respective State in a fishery for Dungeness crab (Cancer magister) for which there is no fishery management plan implemented under this chapter, was repealed by [Pub. L. 105–384, title II, § 203(g)][/us/pl/105/384/s203/g], Nov. 13, 1998, [112 Stat. 3454][/us/stat/112/3454].
+    [Pub. L. 104–297, title I][/us/pl/104/297/tI], § 112(d), Oct. 11, 1996, [110 Stat. 3596][/us/stat/110/3596], as amended by [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, which provided interim authority to the States of Washington, Oregon, and California to enforce State laws and regulations governing fish harvesting and processing against any vessel operating in the exclusive economic zone off each respective State in a fishery for Dungeness crab (Cancer magister) for which there is no fishery management plan implemented under this chapter, was repealed by [Pub. L. 105–384, title II][/us/pl/105/384/tII], § 203(g), Nov. 13, 1998, [112 Stat. 3454][/us/stat/112/3454].
 
  __Foreign Fish Processing in Norton Sound__ 
 
-    [Pub. L. 99–509, title V, § 5004][/us/pl/99/509/s5004], Oct. 21, 1986, [100 Stat. 1912][/us/stat/100/1912], provided that for purposes of processing pink salmon within the internal waters of the State of Alaska, the geographic area bounded on the north by a parallel of latitude of 64 degrees, 23 minutes, on the south by a parallel of latitude of 63 degrees, 51 minutes, on the east by the baseline from which the territorial sea was measured, and on the west by the outer limit of the territorial sea, was to be considered to be internal waters of the State of Alaska for the purposes of subsec. (c)(4)(B) of this section until Sept. 30, 1993.
+    [Pub. L. 99–509, title V][/us/pl/99/509/tV], § 5004, Oct. 21, 1986, [100 Stat. 1912][/us/stat/100/1912], provided that for purposes of processing pink salmon within the internal waters of the State of Alaska, the geographic area bounded on the north by a parallel of latitude of 64 degrees, 23 minutes, on the south by a parallel of latitude of 63 degrees, 51 minutes, on the east by the baseline from which the territorial sea was measured, and on the west by the outer limit of the territorial sea, was to be considered to be internal waters of the State of Alaska for the purposes of subsec. (c)(4)(B) of this section until Sept. 30, 1993.
 
  __Territorial Sea and Contiguous Zone of United States__ 
 
@@ -209,42 +209,42 @@
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
 [/us/usc/t16/s1824/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1824%2Fd
 [/us/usc/t16/s1821/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1821%2Fb
-[/us/pl/94/265/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs306
+[/us/pl/94/265/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2FtIII
 [/us/stat/90/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F355
-[/us/pl/97/191/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F191%2Fs1
+[/us/pl/97/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F191
 [/us/stat/96/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F107
-[/us/pl/97/453/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453%2Fs9
+[/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
 [/us/stat/96/2491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2491
-[/us/pl/98/623/s404/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs404%2F4
+[/us/pl/98/623/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtIV
 [/us/stat/98/3408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3408
-[/us/pl/99/659/s101/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs101%2Fc%2F2
+[/us/pl/99/659/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtI
 [/us/stat/100/3707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3707
-[/us/pl/101/627/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs112
+[/us/pl/101/627/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtI
 [/us/stat/104/4453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4453
-[/us/pl/104/297/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs112%2Fa
+[/us/pl/104/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtI
 [/us/stat/110/3595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3595
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
-[/us/pl/104/297/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs112%2Fa
-[/us/pl/104/297/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs112%2Fb
-[/us/pl/104/297/s112/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs112%2Fc%2F1
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
 [/us/usc/t16/s1824/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1824%2Fd
-[/us/pl/104/297/s112/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs112%2Fc%2F2
-[/us/pl/101/627/s112/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs112%2F1
-[/us/pl/101/627/s112/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs112%2F2
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
 [/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
 [/us/pl/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623
 [/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
 [/us/pl/97/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F191
-[/us/pl/97/191/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F191%2Fs3
+[/us/pl/97/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F191
 [/us/stat/96/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F108
 [/us/usc/t16/s1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1857
-[/us/pl/105/384/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2Fs203
+[/us/pl/105/384/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2FtII
 [/us/stat/112/3453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3453
-[/us/pl/107/77/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2Fs624
+[/us/pl/107/77/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2FtVI
 [/us/stat/115/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F803
-[/us/pl/109/479/s302/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs302%2Fe
+[/us/pl/109/479/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtIII
 [/us/stat/120/3624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3624
 [/us/usc/t16/s1856/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1856%2Fa
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
@@ -252,13 +252,13 @@
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
 [/us/pl/104/297/s112/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs112%2Fd
 [/us/usc/t16/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1802
-[/us/pl/104/297/s112/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs112%2Fd
+[/us/pl/104/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtI
 [/us/stat/110/3596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3596
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
-[/us/pl/105/384/s203/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2Fs203%2Fg
+[/us/pl/105/384/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2FtII
 [/us/stat/112/3454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3454
-[/us/pl/99/509/s5004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs5004
+[/us/pl/99/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtV
 [/us/stat/100/1912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1912
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
 

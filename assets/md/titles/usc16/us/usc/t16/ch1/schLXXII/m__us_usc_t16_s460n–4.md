@@ -17,7 +17,7 @@
 
     The Secretary of the Interior shall permit hunting, fishing, and trapping on the lands and waters under his jurisdiction within the recreation area in accordance with the applicable laws and regulations of the United States and the respective States: Provided, That the Secretary, after consultation with the respective State fish and game commissions, may issue regulations designating zones where and establishing periods when no hunting, fishing, or trapping shall be permitted for reasons of public safety, administration, or public use and enjoyment.
 
-([Pub. L. 88–639, § 5][/us/pl/88/639/s5], Oct. 8, 1964, [78 Stat. 1040][/us/stat/78/1040].)
+([Pub. L. 88–639][/us/pl/88/639], § 5, Oct. 8, 1964, [78 Stat. 1040][/us/stat/78/1040].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/639/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F639%2Fs5
+[/us/pl/88/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F639
 [/us/stat/78/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1040
 
 

@@ -17,7 +17,7 @@
 
     The Secretary may convey to the State of Tennessee for road purposes a right-of-way located in Hardin County, Tennessee, as shown on National Park Service map NMP–SH–7006, revised June 1956, being a minimum of one hundred and twenty feet and a maximum of one hundred and forty feet in width, and a length of approximately eighteen thousand and nine hundred feet, said right-of-way containing approximately fifty-one acres: Provided, That, in exchange, the State constructs and thereafter maintains a roadway on said lands and thereupon releases those portions of the present highways within the park designated State Routes Numbered 22 and 142 from such designation and subsequent use for State highway purposes.
 
-([Pub. L. 85–406, § 2][/us/pl/85/406/s2], May 16, 1958, [72 Stat. 114][/us/stat/72/114].)
+([Pub. L. 85–406][/us/pl/85/406], § 2, May 16, 1958, [72 Stat. 114][/us/stat/72/114].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/85/406/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F406%2Fs2
+[/us/pl/85/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F406
 [/us/stat/72/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F114
 
 

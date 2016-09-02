@@ -17,7 +17,7 @@
 
     The Secretary is authorized to make provision for such roads within the park as are, or will be, necessary to assure access from present and future State roads to public facilities within the park.
 
-([Pub. L. 91–661, § 305][/us/pl/91/661/s305], Jan. 8, 1971, [84 Stat. 1973][/us/stat/84/1973].)
+([Pub. L. 91–661][/us/pl/91/661], § 305, Jan. 8, 1971, [84 Stat. 1973][/us/stat/84/1973].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/661/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F661%2Fs305
+[/us/pl/91/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F661
 [/us/stat/84/1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1973
 
 

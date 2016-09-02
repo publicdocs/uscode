@@ -31,7 +31,7 @@
 
         The Secretary may provide technical assistance to the Commonwealth of Virginia, its political subdivisions, nonprofit entities, and private property owners for the development of comprehensive plans, land use guidelines, special studies, and other activities that are consistent with the identification, protection, interpretation, and commemoration of historically significant Civil War resources located inside and outside of the boundaries of the battlefield park. The technical assistance does not authorize the Secretary to own or manage any of the resources outside the battlefield park boundaries.
 
-([Pub. L. 106–511, title V, § 505][/us/pl/106/511/s505], Nov. 13, 2000, [114 Stat. 2375][/us/stat/114/2375].)
+([Pub. L. 106–511, title V][/us/pl/106/511/tV], § 505, Nov. 13, 2000, [114 Stat. 2375][/us/stat/114/2375].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
-[/us/pl/106/511/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F511%2Fs505
+[/us/pl/106/511/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F511%2FtV
 [/us/stat/114/2375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2375
 [/us/pl/106/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F511
 [/us/stat/114/2373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2373

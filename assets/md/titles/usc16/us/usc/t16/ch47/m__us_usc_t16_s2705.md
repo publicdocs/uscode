@@ -37,7 +37,7 @@
 
         The Commission may in its discretion (by rule or order) grant an exemption in whole or in part from the requirements (including the licensing requirements) of part I of the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\] to small hydroelectric power projects having a proposed installed capacity of 10,000 kilowatts or less, on a case-by-case basis or on the basis of classes or categories of projects, subject to the same limitations (to ensure protection for fish and wildlife as well as other environmental concerns) as those which are set forth in subsections (c) and (d) of section 30 of the Federal Power Act \[[16 U.S.C. 823a][/us/usc/t16/s823a] (c) and (d)\] with respect to determinations made and exemptions granted under subsection (b) of such section 30 \[[16 U.S.C. 823a(b)][/us/usc/t16/s823a/b]\]; and subsections (c) and (d) of such section 30 shall apply with respect to actions taken and exemptions granted under this subsection. Except as specifically provided in this subsection, the granting of an exemption to a project under this subsection shall in no case have the effect of waiving or limiting the application (to such project) of the second sentence of subsection (b) of this section.
 
-([Pub. L. 95–617, title IV, § 405][/us/pl/95/617/s405], Nov. 9, 1978, [92 Stat. 3156][/us/stat/92/3156]; [Pub. L. 96–294, title IV, § 408(b)][/us/pl/96/294/s408/b], June 30, 1980, [94 Stat. 718][/us/stat/94/718]; [Pub. L. 113–23][/us/pl/113/23], §§ 3, 4(b), Aug. 9, 2013, [127 Stat. 493][/us/stat/127/493], 495.)
+([Pub. L. 95–617, title IV][/us/pl/95/617/tIV], § 405, Nov. 9, 1978, [92 Stat. 3156][/us/stat/92/3156]; [Pub. L. 96–294, title IV][/us/pl/96/294/tIV], § 408(b), June 30, 1980, [94 Stat. 718][/us/stat/94/718]; [Pub. L. 113–23][/us/pl/113/23], §§ 3, 4(b), Aug. 9, 2013, [127 Stat. 493][/us/stat/127/493], 495.)
 
  __References in Text__ 
 
@@ -72,9 +72,9 @@
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/usc/t16/s823a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs823a
 [/us/usc/t16/s823a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs823a%2Fb
-[/us/pl/95/617/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs405
+[/us/pl/95/617/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtIV
 [/us/stat/92/3156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3156
-[/us/pl/96/294/s408/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs408%2Fb
+[/us/pl/96/294/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtIV
 [/us/stat/94/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F718
 [/us/pl/113/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F23
 [/us/stat/127/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F493

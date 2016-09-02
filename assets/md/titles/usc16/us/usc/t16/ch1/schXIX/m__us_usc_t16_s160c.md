@@ -31,7 +31,7 @@
 
         The term “improved property”, as used in this section, shall mean a detached, noncommercial residential dwelling, the construction of which was begun before January 1, 1969, together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
 
-([Pub. L. 91–661, § 202][/us/pl/91/661/s202], Jan. 8, 1971, [84 Stat. 1971][/us/stat/84/1971].)
+([Pub. L. 91–661][/us/pl/91/661], § 202, Jan. 8, 1971, [84 Stat. 1971][/us/stat/84/1971].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/91/661/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F661%2Fs202
+[/us/pl/91/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F661
 [/us/stat/84/1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1971
 
 

@@ -17,7 +17,7 @@
 
     There is hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of sections 426n to 426p of this title.
 
-([Pub. L. 100–205, § 4][/us/pl/100/205/s4], formerly § 3, Dec. 23, 1987, [101 Stat. 1433][/us/stat/101/1433]; renumbered § 4, [Pub. L. 102–225, § 1(4)][/us/pl/102/225/s1/4], Dec. 11, 1991, [105 Stat. 1683][/us/stat/105/1683].)
+([Pub. L. 100–205][/us/pl/100/205], § 4, formerly § 3, Dec. 23, 1987, [101 Stat. 1433][/us/stat/101/1433]; renumbered § 4, [Pub. L. 102–225][/us/pl/102/225], § 1(4), Dec. 11, 1991, [105 Stat. 1683][/us/stat/105/1683].)
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/pl/100/205/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F205%2Fs4
+[/us/pl/100/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F205
 [/us/stat/101/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1433
-[/us/pl/102/225/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F225%2Fs1%2F4
+[/us/pl/102/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F225
 [/us/stat/105/1683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1683
 
 

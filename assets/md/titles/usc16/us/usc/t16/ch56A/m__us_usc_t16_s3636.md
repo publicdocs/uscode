@@ -27,11 +27,11 @@
 
         Regulations promulgated by the Secretary under this chapter shall be subject to judicial review by the district courts of the United States to the extent authorized by, and in accordance with, chapter 7 of title 5; except that section 705 of such title is not applicable, and the appropriate court shall only set aside any such regulation on a ground specified in section 706(2)(A), (B), (C), or (D) of such title. A civil action filed pursuant to this section shall be assigned for hearing at the earliest possible date, shall take precedence over other matters pending on the docket of the United States district court at that time, and shall be expedited in every way by such court and any appellate court.
 
-([Pub. L. 99–5, § 7][/us/pl/99/5/s7], Mar. 15, 1985, [99 Stat. 12][/us/stat/99/12]; [Pub. L. 102–251, title III, § 306(b)][/us/pl/102/251/s306/b], Mar. 9, 1992, [106 Stat. 66][/us/stat/106/66].)
+([Pub. L. 99–5][/us/pl/99/5], § 7, Mar. 15, 1985, [99 Stat. 12][/us/stat/99/12]; [Pub. L. 102–251, title III][/us/pl/102/251/tIII], § 306(b), Mar. 9, 1992, [106 Stat. 66][/us/stat/106/66].)
 
  __Amendment of Subsection (a)__ 
 
-    [Pub. L. 102–251, title III][/us/pl/102/251], §§ 306(b), 308, Mar. 9, 1992, [106 Stat. 66][/us/stat/106/66], provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (a) is amended by inserting “and special areas” after “Exclusive Economic Zone”.
+    [Pub. L. 102–251, title III][/us/pl/102/251/tIII], §§ 306(b), 308, Mar. 9, 1992, [106 Stat. 66][/us/stat/106/66], provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (a) is amended by inserting “and special areas” after “Exclusive Economic Zone”.
 
  __References in Text__ 
 
@@ -54,11 +54,11 @@
 
 [/us/usc/t16/s3635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3635
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/99/5/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5%2Fs7
+[/us/pl/99/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5
 [/us/stat/99/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F12
-[/us/pl/102/251/s306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2Fs306%2Fb
+[/us/pl/102/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2FtIII
 [/us/stat/106/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F66
-[/us/pl/102/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251
+[/us/pl/102/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2FtIII
 [/us/stat/106/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F66
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

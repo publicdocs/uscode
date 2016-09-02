@@ -117,7 +117,7 @@
 
         The provisions of this section shall be in addition to, and not in lieu of, any restrictions on timber harvesting or other activities applicable to the streamside protection zones established by this section under any other applicable provision of this subchapter.
 
-([Pub. L. 101–612, § 11][/us/pl/101/612/s11], Nov. 16, 1990, [104 Stat. 3219][/us/stat/104/3219].)
+([Pub. L. 101–612][/us/pl/101/612], § 11, Nov. 16, 1990, [104 Stat. 3219][/us/stat/104/3219].)
 
  __References in Text__ 
 
@@ -133,7 +133,7 @@
 [/us/usc/t16/s460bbb–3/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460bbb%E2%80%933%2Fa%2F7
 [/us/usc/t16/s460bbb–3/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460bbb%E2%80%933%2Fa%2F7
 [/us/usc/t16/s460bbb–3/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460bbb%E2%80%933%2Fa%2F7
-[/us/pl/101/612/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612%2Fs11
+[/us/pl/101/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612
 [/us/stat/104/3219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3219
 [/us/pl/101/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612
 [/us/stat/104/3209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3209

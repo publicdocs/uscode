@@ -27,7 +27,7 @@
 
         In exercising his authority to acquire lands by exchange the Secretary may accept title to non-Federal property within the recreation area and convey to the grantor of such property any federally owned property in the State of Virginia under his jurisdiction.
 
-([Pub. L. 89–438, § 3][/us/pl/89/438/s3], May 31, 1966, [80 Stat. 190][/us/stat/80/190].)
+([Pub. L. 89–438][/us/pl/89/438], § 3, May 31, 1966, [80 Stat. 190][/us/stat/80/190].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/89/438/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F438%2Fs3
+[/us/pl/89/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F438
 [/us/stat/80/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F190
 
 

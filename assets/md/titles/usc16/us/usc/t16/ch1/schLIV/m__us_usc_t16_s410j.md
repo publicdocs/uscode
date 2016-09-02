@@ -25,7 +25,7 @@
 
     (3) After the termination of the reserved rights of owners as set forth in subsections (1) and (2) of this section, a further reservation of the right to customary royalties, applying at the time of production, in any oil, gas, or other minerals which may be produced from such land and water at any time before January 1, 1985, should production ever be authorized by the Federal Government or its assigns.
 
-([Pub. L. 85–482, § 2][/us/pl/85/482/s2], July 2, 1958, [72 Stat. 284][/us/stat/72/284]; [Pub. L. 91–428, § 2][/us/pl/91/428/s2], Sept. 26, 1970, [84 Stat. 885][/us/stat/84/885].)
+([Pub. L. 85–482][/us/pl/85/482], § 2, July 2, 1958, [72 Stat. 284][/us/stat/72/284]; [Pub. L. 91–428][/us/pl/91/428], § 2, Sept. 26, 1970, [84 Stat. 885][/us/stat/84/885].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 [/us/usc/t16/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410
 [/us/usc/t16/s410i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410i
 [/us/usc/t16/s410i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410i
-[/us/pl/85/482/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F482%2Fs2
+[/us/pl/85/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F482
 [/us/stat/72/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F284
-[/us/pl/91/428/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F428%2Fs2
+[/us/pl/91/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F428
 [/us/stat/84/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F885
 [/us/pl/91/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F428
 

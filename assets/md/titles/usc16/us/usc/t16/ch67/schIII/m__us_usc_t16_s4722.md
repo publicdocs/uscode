@@ -185,7 +185,7 @@
 
         (2) On an annual basis after the submission of the report under paragraph (1), the Task Force shall submit a report to the Congress detailing progress in carrying out this section.
 
-([Pub. L. 101–646, title I, § 1202][/us/pl/101/646/s1202], Nov. 29, 1990, [104 Stat. 4766][/us/stat/104/4766]; [Pub. L. 104–332, § 2(e)(3)][/us/pl/104/332/s2/e/3], (4), (g), (h)(1), Oct. 26, 1996, [110 Stat. 4085][/us/stat/110/4085], 4087, 4091; [Pub. L. 109–234, title II, § 2309][/us/pl/109/234/s2309], June 15, 2006, [120 Stat. 457][/us/stat/120/457].)
+([Pub. L. 101–646, title I][/us/pl/101/646/tI], § 1202, Nov. 29, 1990, [104 Stat. 4766][/us/stat/104/4766]; [Pub. L. 104–332][/us/pl/104/332], § 2(e)(3), (4), (g), (h)(1), Oct. 26, 1996, [110 Stat. 4085][/us/stat/110/4085], 4087, 4091; [Pub. L. 109–234, title II][/us/pl/109/234/tII], § 2309, June 15, 2006, [120 Stat. 457][/us/stat/120/457].)
 
  __References in Text__ 
 
@@ -195,15 +195,15 @@
 
     2006—Subsec. (i)(3)(C). [Pub. L. 109–234][/us/pl/109/234] substituted “such sums as are necessary to carry out the dispersal barrier demonstration project directed by this paragraph” for “, to carry out this paragraph, $750,000”.
 
-    1996—[Pub. L. 104–332, § 2(h)(1)][/us/pl/104/332/s2/h/1], made technical amendment to [Pub. L. 101–646, § 1202][/us/pl/101/646/s1202], which enacted this section.
+    1996—[Pub. L. 104–332][/us/pl/104/332], § 2(h)(1), made technical amendment to [Pub. L. 101–646][/us/pl/101/646], § 1202, which enacted this section.
 
-    Subsec. (f)(1)(A). [Pub. L. 104–332, § 2(e)(3)(A)][/us/pl/104/332/s2/e/3/A], inserted “and impacts” after “economic risks”.
+    Subsec. (f)(1)(A). [Pub. L. 104–332][/us/pl/104/332], § 2(e)(3)(A), inserted “and impacts” after “economic risks”.
 
-    Subsec. (i). [Pub. L. 104–332, § 2(e)(3)(B)][/us/pl/104/332/s2/e/3/B], designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and former subpars. (A) to (D) of par. (1) as cls. (i) to (iv), respectively, of subpar. (A), inserted new par. (1) heading, substituted “The Assistant Secretary, in consultation with the Task Force, shall develop a program of research, technology development, and demonstration for the environmentally sound control of zebra mussels in and around public facilities.” for “The Assistant Secretary, in consultation with the Task Force, shall develop a program of research and technology development for the environmentally sound control of zebra mussels in and around public facilities.” in subpar. (B), and added subpar. (C) and pars. (2) to (5).
+    Subsec. (i). [Pub. L. 104–332][/us/pl/104/332], § 2(e)(3)(B), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and former subpars. (A) to (D) of par. (1) as cls. (i) to (iv), respectively, of subpar. (A), inserted new par. (1) heading, substituted “The Assistant Secretary, in consultation with the Task Force, shall develop a program of research, technology development, and demonstration for the environmentally sound control of zebra mussels in and around public facilities.” for “The Assistant Secretary, in consultation with the Task Force, shall develop a program of research and technology development for the environmentally sound control of zebra mussels in and around public facilities.” in subpar. (B), and added subpar. (C) and pars. (2) to (5).
 
-    Subsec. (j)(1). [Pub. L. 104–332, § 2(e)(4)][/us/pl/104/332/s2/e/4], substituted “The Director, the Secretary,” for “Not later than 18 months after November 29, 1990, the Director”.
+    Subsec. (j)(1). [Pub. L. 104–332][/us/pl/104/332], § 2(e)(4), substituted “The Director, the Secretary,” for “Not later than 18 months after November 29, 1990, the Director”.
 
-    Subsec. (k). [Pub. L. 104–332, § 2(g)][/us/pl/104/332/s2/g], substituted “Congress” for “appropriate Committees” in pars. (1) and (2).
+    Subsec. (k). [Pub. L. 104–332][/us/pl/104/332], § 2(g), substituted “Congress” for “appropriate Committees” in pars. (1) and (2).
 
 ----------
 
@@ -212,21 +212,21 @@
 ----------
 ----------
 
-[/us/pl/101/646/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs1202
+[/us/pl/101/646/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2FtI
 [/us/stat/104/4766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4766
-[/us/pl/104/332/s2/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fe%2F3
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
 [/us/stat/110/4085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4085
-[/us/pl/109/234/s2309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F234%2Fs2309
+[/us/pl/109/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F234%2FtII
 [/us/stat/120/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F457
 [/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
 [/us/stat/104/4761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4761
 [/us/usc/t16/s4701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4701
 [/us/pl/109/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F234
-[/us/pl/104/332/s2/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fh%2F1
-[/us/pl/101/646/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs1202
-[/us/pl/104/332/s2/e/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fe%2F3%2FA
-[/us/pl/104/332/s2/e/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fe%2F3%2FB
-[/us/pl/104/332/s2/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fe%2F4
-[/us/pl/104/332/s2/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fg
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
 
 

@@ -17,7 +17,7 @@
 
     After October 24, 1992, the Federal Energy Regulatory Commission may not issue an original license under Part I of the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\] (nor an exemption from such Part) for any new hydroelectric power project located within the boundaries of any unit of the National Park System that would have a direct adverse effect on Federal lands within any such unit. Nothing in this section shall be construed as repealing any existing provision of law (or affecting any treaty) explicitly authorizing a hydroelectric power project.
 
-([Pub. L. 102–486, title XXIV, § 2402][/us/pl/102/486/s2402], Oct. 24, 1992, [106 Stat. 3097][/us/stat/106/3097].)
+([Pub. L. 102–486, title XXIV][/us/pl/102/486/tXXIV], § 2402, Oct. 24, 1992, [106 Stat. 3097][/us/stat/106/3097].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
-[/us/pl/102/486/s2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2402
+[/us/pl/102/486/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXIV
 [/us/stat/106/3097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3097
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
 [/us/stat/41/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1063

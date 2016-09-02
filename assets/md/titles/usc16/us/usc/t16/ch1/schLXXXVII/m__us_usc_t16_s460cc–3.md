@@ -49,7 +49,7 @@
 
         The Secretary or his designee shall, from time to time, consult with the members of the Commission with respect to matters relating to the development of the recreation area.
 
-([Pub. L. 92–592, § 4][/us/pl/92/592/s4], Oct. 27, 1972, [86 Stat. 1310][/us/stat/86/1310]; [Pub. L. 96–344, § 11(2)][/us/pl/96/344/s11/2], Sept. 8, 1980, [94 Stat. 1136][/us/stat/94/1136]; [Pub. L. 97–232, § 2][/us/pl/97/232/s2], Aug. 9, 1982, [96 Stat. 259][/us/stat/96/259].)
+([Pub. L. 92–592][/us/pl/92/592], § 4, Oct. 27, 1972, [86 Stat. 1310][/us/stat/86/1310]; [Pub. L. 96–344][/us/pl/96/344], § 11(2), Sept. 8, 1980, [94 Stat. 1136][/us/stat/94/1136]; [Pub. L. 97–232][/us/pl/97/232], § 2, Aug. 9, 1982, [96 Stat. 259][/us/stat/96/259].)
 
  __Amendments__ 
 
@@ -64,11 +64,11 @@
 ----------
 ----------
 
-[/us/pl/92/592/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F592%2Fs4
+[/us/pl/92/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F592
 [/us/stat/86/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1310
-[/us/pl/96/344/s11/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F344%2Fs11%2F2
+[/us/pl/96/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F344
 [/us/stat/94/1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1136
-[/us/pl/97/232/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F232%2Fs2
+[/us/pl/97/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F232
 [/us/stat/96/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F259
 [/us/pl/97/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F232
 [/us/pl/96/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F344

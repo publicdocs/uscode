@@ -83,7 +83,7 @@
 
         The Secretary shall use funds provided under this section to reimburse landowners for approved reforestation practices that were implemented before November 28, 1990. The Secretary shall not make reimbursements for reforestation practices that were implemented prior to September 1, 1989.
 
-([Pub. L. 101–624, title XII, § 1271][/us/pl/101/624/s1271], Nov. 28, 1990, [104 Stat. 3557][/us/stat/104/3557]; [Pub. L. 102–237, title X, § 1018(f)][/us/pl/102/237/s1018/f], Dec. 13, 1991, [105 Stat. 1906][/us/stat/105/1906]; [Pub. L. 104–127, title III, § 336(a)(2)(E)][/us/pl/104/127/s336/a/2/E], Apr. 4, 1996, [110 Stat. 1005][/us/stat/110/1005]; [Pub. L. 110–234, title I, § 1603(g)(5)][/us/pl/110/234/s1603/g/5], May 22, 2008, [122 Stat. 1011][/us/stat/122/1011]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1603(g)(5), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1740; [Pub. L. 113–79, title I, § 1609(b)(1)][/us/pl/113/79/s1609/b/1], Feb. 7, 2014, [128 Stat. 709][/us/stat/128/709].)
+([Pub. L. 101–624, title XII][/us/pl/101/624/tXII], § 1271, Nov. 28, 1990, [104 Stat. 3557][/us/stat/104/3557]; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1018(f), Dec. 13, 1991, [105 Stat. 1906][/us/stat/105/1906]; [Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 336(a)(2)(E), Apr. 4, 1996, [110 Stat. 1005][/us/stat/110/1005]; [Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1603(g)(5), May 22, 2008, [122 Stat. 1011][/us/stat/122/1011]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1603(g)(5), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1740; [Pub. L. 113–79, title I][/us/pl/113/79/tI], § 1609(b)(1), Feb. 7, 2014, [128 Stat. 709][/us/stat/128/709].)
 
  __References in Text__ 
 
@@ -101,9 +101,9 @@
 
  __Amendments__ 
 
-    2014—Subsec. (c)(3)(A). [Pub. L. 113–79, § 1609(b)(1)][/us/pl/113/79/s1609/b/1], amended language inserted by [Pub. L. 110–246, § 1603(g)(5)][/us/pl/110/246/s1603/g/5]. See 2008 Amendment note below.
+    2014—Subsec. (c)(3)(A). [Pub. L. 113–79][/us/pl/113/79], § 1609(b)(1), amended language inserted by [Pub. L. 110–246][/us/pl/110/246], § 1603(g)(5). See 2008 Amendment note below.
 
-    2008—Subsec. (c)(3)(A). [Pub. L. 110–246, § 1603(g)(5)][/us/pl/110/246/s1603/g/5], as amended by [Pub. L. 113–79, § 1609(b)(1)][/us/pl/113/79/s1609/b/1], inserted “(before the amendment made by section 1603(a) of the Food, Conservation, and Energy Act of 2008)” after “[section 1308 of title 7][/us/usc/t7/s1308]”.
+    2008—Subsec. (c)(3)(A). [Pub. L. 110–246][/us/pl/110/246], § 1603(g)(5), as amended by [Pub. L. 113–79][/us/pl/113/79], § 1609(b)(1), inserted “(before the amendment made by section 1603(a) of the Food, Conservation, and Energy Act of 2008)” after “[section 1308 of title 7][/us/usc/t7/s1308]”.
 
     1996—Subsec. (c)(3)(C). [Pub. L. 104–127][/us/pl/104/127] substituted “environmental quality incentives program established under chapter 4 of subtitle D of title XII of the Food Security Act of 1985” for “Agricultural Conservation Program established under [section 590p(b) of this title][/us/usc/t16/s590p/b]”.
 
@@ -126,17 +126,17 @@
 
 [/us/usc/t16/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2101
 [/us/usc/t16/s3839aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3839aa
-[/us/pl/101/624/s1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1271
+[/us/pl/101/624/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXII
 [/us/stat/104/3557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3557
-[/us/pl/102/237/s1018/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1018%2Ff
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1906
-[/us/pl/104/127/s336/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs336%2Fa%2F2%2FE
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1005
-[/us/pl/110/234/s1603/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1603%2Fg%2F5
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1011
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s1609/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1609%2Fb%2F1
+[/us/pl/113/79/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtI
 [/us/stat/128/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F709
 [/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
 [/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
@@ -153,10 +153,10 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s1609/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1609%2Fb%2F1
-[/us/pl/110/246/s1603/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603%2Fg%2F5
-[/us/pl/110/246/s1603/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1603%2Fg%2F5
-[/us/pl/113/79/s1609/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1609%2Fb%2F1
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/usc/t16/s590p/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590p%2Fb

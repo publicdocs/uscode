@@ -17,7 +17,7 @@
 
     The Secretary shall furnish to any interested person requesting the same a certificate indicating, with respect to any property which the Secretary has been prohibited from acquiring by condemnation in accordance with provisions of this subchapter, that such authority is prohibited and the reasons therefor.
 
-([Pub. L. 91–479, § 14][/us/pl/91/479/s14], Oct. 21, 1970, [84 Stat. 1080][/us/stat/84/1080].)
+([Pub. L. 91–479][/us/pl/91/479], § 14, Oct. 21, 1970, [84 Stat. 1080][/us/stat/84/1080].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/479/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F479%2Fs14
+[/us/pl/91/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F479
 [/us/stat/84/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1080
 
 

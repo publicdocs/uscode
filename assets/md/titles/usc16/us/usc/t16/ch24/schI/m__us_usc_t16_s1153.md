@@ -19,7 +19,7 @@
 
     (b) Indians, Aleuts, and Eskimos who live on the Pribilof Islands are authorized to take fur seals for subsistence purposes as defined in [section 1379(f)(2) of this title][/us/usc/t16/s1379/f/2], under such conditions as recommended by the Commission and accepted by the Secretary of State pursuant to regulations promulgated by the Secretary.
 
-([Pub. L. 89–702, title I, § 103][/us/pl/89/702/s103], Nov. 2, 1966, [80 Stat. 1091][/us/stat/80/1091]; [Pub. L. 98–129, § 2][/us/pl/98/129/s2], Oct. 14, 1983, [97 Stat. 836][/us/stat/97/836].)
+([Pub. L. 89–702, title I][/us/pl/89/702/tI], § 103, Nov. 2, 1966, [80 Stat. 1091][/us/stat/80/1091]; [Pub. L. 98–129][/us/pl/98/129], § 2, Oct. 14, 1983, [97 Stat. 836][/us/stat/97/836].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 
 [/us/usc/t16/s1379/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1379%2Ff%2F2
 [/us/usc/t16/s1379/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1379%2Ff%2F2
-[/us/pl/89/702/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2Fs103
+[/us/pl/89/702/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2FtI
 [/us/stat/80/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1091
-[/us/pl/98/129/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129%2Fs2
+[/us/pl/98/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129
 [/us/stat/97/836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F836
 [/us/pl/98/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129
 [/us/usc/t16/s1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1152

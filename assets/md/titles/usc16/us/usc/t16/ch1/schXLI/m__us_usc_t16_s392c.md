@@ -43,7 +43,7 @@
 
         There is hereby authorized to be appropriated up to $700,000 to carry out the purpose of this section.
 
-([June 20, 1938, ch. 530, § 5][/us/act/1938-06-20/ch530/s5], as added [Pub. L. 99–564, § 1][/us/pl/99/564/s1], Oct. 27, 1986, [100 Stat. 3179][/us/stat/100/3179]; amended [Pub. L. 108–352, § 3][/us/pl/108/352/s3], Oct. 21, 2004, [118 Stat. 1395][/us/stat/118/1395].)
+([June 20, 1938, ch. 530][/us/act/1938-06-20/ch530], § 5, as added [Pub. L. 99–564][/us/pl/99/564], § 1, Oct. 27, 1986, [100 Stat. 3179][/us/stat/100/3179]; amended [Pub. L. 108–352][/us/pl/108/352], § 3, Oct. 21, 2004, [118 Stat. 1395][/us/stat/118/1395].)
 
  __Amendments__ 
 
@@ -56,10 +56,10 @@
 ----------
 ----------
 
-[/us/act/1938-06-20/ch530/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-20%2Fch530%2Fs5
-[/us/pl/99/564/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F564%2Fs1
+[/us/act/1938-06-20/ch530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-20%2Fch530
+[/us/pl/99/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F564
 [/us/stat/100/3179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3179
-[/us/pl/108/352/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F352%2Fs3
+[/us/pl/108/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F352
 [/us/stat/118/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1395
 [/us/pl/108/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F352
 

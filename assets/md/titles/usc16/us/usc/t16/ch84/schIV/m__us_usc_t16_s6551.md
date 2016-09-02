@@ -101,7 +101,7 @@
 
         (3) to carry out applied silvicultural assessments.
 
-([Pub. L. 108–148, title IV, § 401][/us/pl/108/148/s401], Dec. 3, 2003, [117 Stat. 1907][/us/stat/117/1907].)
+([Pub. L. 108–148, title IV][/us/pl/108/148/tIV], § 401, Dec. 3, 2003, [117 Stat. 1907][/us/stat/117/1907].)
 
 ----------
 
@@ -110,7 +110,7 @@
 ----------
 ----------
 
-[/us/pl/108/148/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2Fs401
+[/us/pl/108/148/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2FtIV
 [/us/stat/117/1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1907
 
 

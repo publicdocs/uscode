@@ -25,7 +25,7 @@
 
     Upon establishment of the Petrified Forest National Park, as authorized by this section and [section 119a of this title][/us/usc/t16/s119a], any remaining balance of funds that may be available for purposes of the Petrified Forest National Monument shall thereafter be available for expenditure for purposes of the Petrified Forest National Park.
 
-([Pub. L. 85–358, § 1][/us/pl/85/358/s1], Mar. 28, 1958, [72 Stat. 69][/us/stat/72/69].)
+([Pub. L. 85–358][/us/pl/85/358], § 1, Mar. 28, 1958, [72 Stat. 69][/us/stat/72/69].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 
  __Petrified Forest National Park Expansion__ 
 
-[Pub. L. 108–430][/us/pl/108/430], Dec. 3, 2004, [118 Stat. 2606][/us/stat/118/2606], as amended by [Pub. L. 111–11, title VII, § 7116(d)][/us/pl/111/11/s7116/d], Mar. 30, 2009, [123 Stat. 1203][/us/stat/123/1203], provided that:
+[Pub. L. 108–430][/us/pl/108/430], Dec. 3, 2004, [118 Stat. 2606][/us/stat/118/2606], as amended by [Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7116(d), Mar. 30, 2009, [123 Stat. 1203][/us/stat/123/1203], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -127,7 +127,7 @@
 
  __Transfer of Jurisdiction, Air Force Housing at Radar Bomb Scoring Site, Holbrook, Arizona__ 
 
-[Pub. L. 103–337, div. B, title XXVIII, § 2844][/us/pl/103/337/s2844], Oct. 5, 1994, [108 Stat. 3068][/us/stat/108/3068], provided that:
+[Pub. L. 103–337, div. B, title XXVIII][/us/pl/103/337/dB/tXXVIII], § 2844, Oct. 5, 1994, [108 Stat. 3068][/us/stat/108/3068], provided that:
 
 >     “(a)  __Transfer Authorized__  __.—__ 
 
@@ -152,7 +152,7 @@
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s119a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs119a
 [/us/usc/t16/s119a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs119a
-[/us/pl/85/358/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F358%2Fs1
+[/us/pl/85/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F358
 [/us/stat/72/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F69
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
@@ -164,9 +164,9 @@
 [/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/108/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F430
 [/us/stat/118/2606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2606
-[/us/pl/111/11/s7116/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7116%2Fd
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1203
-[/us/pl/103/337/s2844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs2844
+[/us/pl/103/337/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdB%2FtXXVIII
 [/us/stat/108/3068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3068
 
 

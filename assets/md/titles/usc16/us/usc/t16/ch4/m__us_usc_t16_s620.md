@@ -49,7 +49,7 @@
 
         (5) to effect measures aimed at meeting these objectives in conformity with the obligations of the United States under the WTO Agreement and the multilateral trade agreements (as such terms are defined in paragraphs (9) and (4), respectively, of [section 3501 of title 19][/us/usc/t19/s3501]).
 
-([Pub. L. 101–382, title IV, § 488][/us/pl/101/382/s488], Aug. 20, 1990, [104 Stat. 714][/us/stat/104/714]; [Pub. L. 106–36, title I, § 1002(a)(1)][/us/pl/106/36/s1002/a/1], June 25, 1999, [113 Stat. 132][/us/stat/113/132].)
+([Pub. L. 101–382, title IV][/us/pl/101/382/tIV], § 488, Aug. 20, 1990, [104 Stat. 714][/us/stat/104/714]; [Pub. L. 106–36, title I][/us/pl/106/36/tI], § 1002(a)(1), June 25, 1999, [113 Stat. 132][/us/stat/113/132].)
 
  __References in Text__ 
 
@@ -61,31 +61,31 @@
 
  __Amendments__ 
 
-    1999—Subsec. (b)(3). [Pub. L. 106–36, § 1002(a)(1)(A)][/us/pl/106/36/s1002/a/1/A], substituted “GATT 1994 (as defined in [section 3501(1)(B) of title 19][/us/usc/t19/s3501/1/B])” for “General Agreement on Tariffs and Trade”.
+    1999—Subsec. (b)(3). [Pub. L. 106–36][/us/pl/106/36], § 1002(a)(1)(A), substituted “GATT 1994 (as defined in [section 3501(1)(B) of title 19][/us/usc/t19/s3501/1/B])” for “General Agreement on Tariffs and Trade”.
 
-    Subsec. (b)(5). [Pub. L. 106–36, § 1002(a)(1)(B)][/us/pl/106/36/s1002/a/1/B], substituted “WTO Agreement and the multilateral trade agreements (as such terms are defined in paragraphs (9) and (4), respectively, of [section 3501 of title 19][/us/usc/t19/s3501])” for “General Agreement on Tariffs and Trade”.
+    Subsec. (b)(5). [Pub. L. 106–36][/us/pl/106/36], § 1002(a)(1)(B), substituted “WTO Agreement and the multilateral trade agreements (as such terms are defined in paragraphs (9) and (4), respectively, of [section 3501 of title 19][/us/usc/t19/s3501])” for “General Agreement on Tariffs and Trade”.
 
  __Effective Date__ 
 
-[Pub. L. 101–382, title IV, § 494][/us/pl/101/382/s494], Aug. 20, 1990, [104 Stat. 725][/us/stat/104/725], provided that: 
+[Pub. L. 101–382, title IV][/us/pl/101/382/tIV], § 494, Aug. 20, 1990, [104 Stat. 725][/us/stat/104/725], provided that: 
 
 > “Except as otherwise provided in this title, the provisions of this title \[enacting this section and sections 620a to 620j of this title and provisions set out as a note below\] take effect on the date of the enactment of this Act \[Aug. 20, 1990\].”
 
  __Short Title of 1997 Amendment__ 
 
-[Pub. L. 105–83, title VI, § 601][/us/pl/105/83/s601], Nov. 14, 1997, [111 Stat. 1617][/us/stat/111/1617], provided that: 
+[Pub. L. 105–83, title VI][/us/pl/105/83/tVI], § 601, Nov. 14, 1997, [111 Stat. 1617][/us/stat/111/1617], provided that: 
 
 > “This title \[amending sections 620b to 620f of this title\] may be cited as the ‘Forest Resources Conservation and Shortage Relief Act of 1997’.”
 
  __Short Title of 1993 Amendment__ 
 
-[Pub. L. 103–45, § 1][/us/pl/103/45/s1], July 1, 1993, [107 Stat. 223][/us/stat/107/223], provided that: 
+[Pub. L. 103–45][/us/pl/103/45], § 1, July 1, 1993, [107 Stat. 223][/us/stat/107/223], provided that: 
 
 > “This Act \[amending sections 620c and 620d of this title and enacting provisions set out as a note under [section 620c of this title][/us/usc/t16/s620c]\] may be cited as the ‘Forest Resources Conservation and Shortage Relief Amendments Act of 1993’.”
 
  __Short Title__ 
 
-[Pub. L. 101–382, title IV, § 487][/us/pl/101/382/s487], Aug. 20, 1990, [104 Stat. 714][/us/stat/104/714], provided that: 
+[Pub. L. 101–382, title IV][/us/pl/101/382/tIV], § 487, Aug. 20, 1990, [104 Stat. 714][/us/stat/104/714], provided that: 
 
 > “This title \[enacting this section and sections 620a to 620j of this title and provisions set out as a note above\] may be cited as the ‘Forest Resources Conservation and Shortage Relief Act of 1990’.”
 
@@ -99,9 +99,9 @@
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/usc/t19/s3501/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F1%2FB
 [/us/usc/t19/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501
-[/us/pl/101/382/s488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs488
+[/us/pl/101/382/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtIV
 [/us/stat/104/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F714
-[/us/pl/106/36/s1002/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs1002%2Fa%2F1
+[/us/pl/106/36/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtI
 [/us/stat/113/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F132
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F884
@@ -111,18 +111,18 @@
 [/us/usc/t16/s1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1600
 [/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
 [/us/stat/104/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F714
-[/us/pl/106/36/s1002/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs1002%2Fa%2F1%2FA
+[/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
 [/us/usc/t19/s3501/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501%2F1%2FB
-[/us/pl/106/36/s1002/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs1002%2Fa%2F1%2FB
+[/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
 [/us/usc/t19/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3501
-[/us/pl/101/382/s494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs494
+[/us/pl/101/382/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtIV
 [/us/stat/104/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F725
-[/us/pl/105/83/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs601
+[/us/pl/105/83/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtVI
 [/us/stat/111/1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1617
-[/us/pl/103/45/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F45%2Fs1
+[/us/pl/103/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F45
 [/us/stat/107/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F223
 [/us/usc/t16/s620c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs620c
-[/us/pl/101/382/s487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs487
+[/us/pl/101/382/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtIV
 [/us/stat/104/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F714
 
 

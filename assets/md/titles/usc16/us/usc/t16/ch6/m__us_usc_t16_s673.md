@@ -17,7 +17,7 @@
 
     There is established a winter game (elk) reserve in the State of Wyoming, which shall be located in that section of Wyoming lying south of the Yellowstone Park, and shall include not less than two thousand acres in township 41 north, ranges 115 and 116 west, and the Secretary of the Interior is authorized to purchase said lands with improvements, to erect necessary buildings and inclosures, and to incur other expenses necessary for the maintenance of the reserve. The Secretary of the Interior is authorized to include in said refuge and to inclose not more than one thousand acres of unoccupied public lands, which when selected shall be made to conform to the lines of the public surveys, and shall be adjacent to or partly inclosed by said refuge.
 
-([Aug. 10, 1912, ch. 284][/us/act/1912-08-10/ch284], [37 Stat. 293][/us/stat/37/293]; [Mar. 4, 1913, ch. 145, § 1][/us/act/1913-03-04/ch145/s1] (part), [37 Stat. 847][/us/stat/37/847]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433].)
+([Aug. 10, 1912, ch. 284][/us/act/1912-08-10/ch284], [37 Stat. 293][/us/stat/37/293]; [Mar. 4, 1913, ch. 145][/us/act/1913-03-04/ch145], § 1 (part), [37 Stat. 847][/us/stat/37/847]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433].)
 
  __Codification__ 
 
@@ -42,7 +42,7 @@ As originally enacted, the first sentence was in the form of an appropriation fo
 
 [/us/act/1912-08-10/ch284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-10%2Fch284
 [/us/stat/37/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F293
-[/us/act/1913-03-04/ch145/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145%2Fs1
+[/us/act/1913-03-04/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145
 [/us/stat/37/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F847
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
 [/us/act/1927-02-25/ch205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-25%2Fch205

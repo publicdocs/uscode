@@ -23,7 +23,7 @@
 
         No flow requirements of any kind may be imposed on the waters of the Snake River below Hells Canyon Dam under the provisions of the Wild and Scenic Rivers Act \[[16 U.S.C. 1271][/us/usc/t16/s1271] et seq.\], of this subchapter, or any guidelines, rules, or regulations adopted pursuant thereto.
 
-([Pub. L. 94–199, § 6][/us/pl/94/199/s6], Dec. 31, 1975, [89 Stat. 1118][/us/stat/89/1118].)
+([Pub. L. 94–199][/us/pl/94/199], § 6, Dec. 31, 1975, [89 Stat. 1118][/us/stat/89/1118].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t16/s1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1271
 [/us/usc/t16/s1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1271
-[/us/pl/94/199/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F199%2Fs6
+[/us/pl/94/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F199
 [/us/stat/89/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1118
 [/us/pl/90/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F542
 [/us/stat/82/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F906

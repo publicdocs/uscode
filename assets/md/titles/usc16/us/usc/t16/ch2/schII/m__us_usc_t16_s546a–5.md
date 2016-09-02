@@ -23,7 +23,7 @@
 
         In addition to the amounts authorized to be appropriated under subsection (a), there are authorized to be appropriated such sums as may be necessary for the development and implementation of the management plan under [section 546a–1(b) of this title][/us/usc/t16/s546a–1/b].
 
-([Pub. L. 106–431, § 8][/us/pl/106/431/s8], Nov. 6, 2000, [114 Stat. 1907][/us/stat/114/1907].)
+([Pub. L. 106–431][/us/pl/106/431], § 8, Nov. 6, 2000, [114 Stat. 1907][/us/stat/114/1907].)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t16/s546a–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs546a%E2%80%934
 [/us/usc/t16/s546a–1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs546a%E2%80%931%2Fb
-[/us/pl/106/431/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F431%2Fs8
+[/us/pl/106/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F431
 [/us/stat/114/1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1907
 
 

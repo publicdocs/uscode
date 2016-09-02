@@ -31,7 +31,7 @@
 
         Under an agreement entered into pursuant to subsection (a) of this section, the Administrator may transfer funds appropriated to carry out this chapter to an organization. Amounts received by an organization under this subsection may be used for matching, in whole or in part, contributions (whether in money, services, or property) made to the organization by private persons and State and local government agencies.
 
-([Pub. L. 106–562, title II, § 205][/us/pl/106/562/s205], Dec. 23, 2000, [114 Stat. 2803][/us/stat/114/2803].)
+([Pub. L. 106–562, title II][/us/pl/106/562/tII], § 205, Dec. 23, 2000, [114 Stat. 2803][/us/stat/114/2803].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t16/s6402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6402
 [/us/usc/t16/s6402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6402
-[/us/pl/106/562/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs205
+[/us/pl/106/562/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2FtII
 [/us/stat/114/2803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2803
 [/us/pl/106/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562
 

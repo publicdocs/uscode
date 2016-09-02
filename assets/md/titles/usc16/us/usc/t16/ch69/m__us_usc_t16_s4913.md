@@ -43,7 +43,7 @@
 
         (2) report to the Congress the results of this review within 2 years after October 23, 1992.
 
-([Pub. L. 102–440, title I, § 114][/us/pl/102/440/s114], Oct. 23, 1992, [106 Stat. 2232][/us/stat/106/2232].)
+([Pub. L. 102–440, title I][/us/pl/102/440/tI], § 114, Oct. 23, 1992, [106 Stat. 2232][/us/stat/106/2232].)
 
 ----------
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/usc/t16/s4912/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4912%2Fc
-[/us/pl/102/440/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2Fs114
+[/us/pl/102/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2FtI
 [/us/stat/106/2232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2232
 
 

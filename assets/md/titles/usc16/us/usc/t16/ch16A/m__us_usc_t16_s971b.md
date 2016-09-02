@@ -43,7 +43,7 @@
 
         (6) The advisory committee shall, to the maximum extent practicable, consist of an equitable balance among the various groups concerned with the fisheries covered by the Convention and shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
 
-([Pub. L. 94–70, § 4][/us/pl/94/70/s4], Aug. 5, 1975, [89 Stat. 386][/us/stat/89/386]; [Pub. L. 96–339, § 1(1)][/us/pl/96/339/s1/1], Sept. 4, 1980, [94 Stat. 1069][/us/stat/94/1069]; [Pub. L. 96–561, title II, § 238(b)][/us/pl/96/561/s238/b], Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300]; [Pub. L. 101–627, title II, § 204][/us/pl/101/627/s204], Nov. 28, 1990, [104 Stat. 4460][/us/stat/104/4460]; [Pub. L. 104–43, title III, § 304][/us/pl/104/43/s304], Nov. 3, 1995, [109 Stat. 384][/us/stat/109/384]; [Pub. L. 105–384, title II, § 202(b)(1)(F)][/us/pl/105/384/s202/b/1/F], Nov. 13, 1998, [112 Stat. 3453][/us/stat/112/3453].)
+([Pub. L. 94–70][/us/pl/94/70], § 4, Aug. 5, 1975, [89 Stat. 386][/us/stat/89/386]; [Pub. L. 96–339][/us/pl/96/339], § 1(1), Sept. 4, 1980, [94 Stat. 1069][/us/stat/94/1069]; [Pub. L. 96–561, title II][/us/pl/96/561/tII], § 238(b), Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300]; [Pub. L. 101–627, title II][/us/pl/101/627/tII], § 204, Nov. 28, 1990, [104 Stat. 4460][/us/stat/104/4460]; [Pub. L. 104–43, title III][/us/pl/104/43/tIII], § 304, Nov. 3, 1995, [109 Stat. 384][/us/stat/109/384]; [Pub. L. 105–384, title II][/us/pl/105/384/tII], § 202(b)(1)(F), Nov. 13, 1998, [112 Stat. 3453][/us/stat/112/3453].)
 
  __References in Text__ 
 
@@ -69,7 +69,7 @@
 
  __Effective Date of 1980 Amendment__ 
 
-    [Pub. L. 96–561, title II, § 238(b)][/us/pl/96/561/s238/b], Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300], provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
+    [Pub. L. 96–561, title II][/us/pl/96/561/tII], § 238(b), Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300], provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 
 ----------
 
@@ -80,17 +80,17 @@
 
 [/us/usc/t16/s1852/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1852%2Fa
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
-[/us/pl/94/70/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F70%2Fs4
+[/us/pl/94/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F70
 [/us/stat/89/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F386
-[/us/pl/96/339/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F339%2Fs1%2F1
+[/us/pl/96/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F339
 [/us/stat/94/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1069
-[/us/pl/96/561/s238/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs238%2Fb
+[/us/pl/96/561/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtII
 [/us/stat/94/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3300
-[/us/pl/101/627/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs204
+[/us/pl/101/627/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtII
 [/us/stat/104/4460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4460
-[/us/pl/104/43/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs304
+[/us/pl/104/43/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtIII
 [/us/stat/109/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F384
-[/us/pl/105/384/s202/b/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2Fs202%2Fb%2F1%2FF
+[/us/pl/105/384/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2FtII
 [/us/stat/112/3453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3453
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331
@@ -102,7 +102,7 @@
 [/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
 [/us/pl/96/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F339
 [/us/pl/96/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561
-[/us/pl/96/561/s238/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs238%2Fb
+[/us/pl/96/561/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtII
 [/us/stat/94/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3300
 
 

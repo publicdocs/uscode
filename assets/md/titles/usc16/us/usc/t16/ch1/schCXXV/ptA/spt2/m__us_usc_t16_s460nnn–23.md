@@ -93,7 +93,7 @@
 
         Subject to valid existing rights, the Federal lands and interests in lands included in the Cooperative Management and Protection Areas are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws, except in the case of land exchanges if the Secretary determines that the exchange furthers the purpose and objectives specified in [section 460nnn–12 of this title][/us/usc/t16/s460nnn–12] and so certifies to Congress.
 
-([Pub. L. 106–399, title I, § 113][/us/pl/106/399/s113], Oct. 30, 2000, [114 Stat. 1661][/us/stat/114/1661].)
+([Pub. L. 106–399, title I][/us/pl/106/399/tI], § 113, Oct. 30, 2000, [114 Stat. 1661][/us/stat/114/1661].)
 
  __References in Text__ 
 
@@ -109,7 +109,7 @@
 [/us/usc/t16/s460nnn–64/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460nnn%E2%80%9364%2Fa
 [/us/usc/t16/s460nnn–11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460nnn%E2%80%9311%2Fa
 [/us/usc/t16/s460nnn–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460nnn%E2%80%9312
-[/us/pl/106/399/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2Fs113
+[/us/pl/106/399/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2FtI
 [/us/stat/114/1661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1661
 [/us/pl/106/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399
 [/us/stat/114/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1655

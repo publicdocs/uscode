@@ -35,7 +35,7 @@
 
         (2) The Secretary may provide to any owner of property within the park or preservation district, the Commission, the Commonwealth of Massachusetts, the city of Lowell, and any other Federal entity or any institution such technical assistance as the Secretary considers appropriate to carry out the purpose of this subchapter.
 
-([Pub. L. 95–290, title II, § 203][/us/pl/95/290/s203], June 5, 1978, [92 Stat. 294][/us/stat/92/294].)
+([Pub. L. 95–290, title II][/us/pl/95/290/tII], § 203, June 5, 1978, [92 Stat. 294][/us/stat/92/294].)
 
 ----------
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t16/s410cc–32/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410cc%E2%80%9332%2Fe
 [/us/usc/t16/s410cc–32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410cc%E2%80%9332
-[/us/pl/95/290/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F290%2Fs203
+[/us/pl/95/290/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F290%2FtII
 [/us/stat/92/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F294
 
 

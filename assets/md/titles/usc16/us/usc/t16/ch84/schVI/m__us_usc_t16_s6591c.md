@@ -175,7 +175,7 @@
 
         (3) the role of local communities in the development of agreements or contract plans.
 
-([Pub. L. 108–148, title VI, § 604][/us/pl/108/148/s604], as added [Pub. L. 113–79, title VIII, § 8205(a)][/us/pl/113/79/s8205/a], Feb. 7, 2014, [128 Stat. 918][/us/stat/128/918].)
+([Pub. L. 108–148, title VI][/us/pl/108/148/tVI], § 604, as added [Pub. L. 113–79, title VIII][/us/pl/113/79/tVIII], § 8205(a), Feb. 7, 2014, [128 Stat. 918][/us/stat/128/918].)
 
  __References in Text__ 
 
@@ -199,8 +199,8 @@
 [/us/usc/t16/s490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs490
 [/us/usc/t16/s498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs498
 [/us/usc/t16/s576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs576
-[/us/pl/108/148/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2Fs604
-[/us/pl/113/79/s8205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8205%2Fa
+[/us/pl/108/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2FtVI
+[/us/pl/113/79/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVIII
 [/us/stat/128/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F918
 [/us/act/1930-06-09/ch416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-09%2Fch416
 [/us/stat/46/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F527

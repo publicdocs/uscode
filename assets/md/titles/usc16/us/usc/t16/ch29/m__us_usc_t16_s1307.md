@@ -17,7 +17,7 @@
 
     In carrying out the program, the Secretary may utilize the services of local, county, and State committees established under [section 590h of this title][/us/usc/t16/s590h]. The Secretary is authorized to utilize the facilities and services of the Commodity Credit Corporation in discharging his functions and responsibilities under this program.
 
-([Pub. L. 91–559, § 8][/us/pl/91/559/s8], Dec. 19, 1970, [84 Stat. 1471][/us/stat/84/1471].)
+([Pub. L. 91–559][/us/pl/91/559], § 8, Dec. 19, 1970, [84 Stat. 1471][/us/stat/84/1471].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s590h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h
-[/us/pl/91/559/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F559%2Fs8
+[/us/pl/91/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F559
 [/us/stat/84/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1471
 
 

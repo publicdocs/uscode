@@ -17,7 +17,7 @@
 
     When title to all alienated lands within Isle Royale in Lake Superior, Keweenaw County, Michigan, and immediately surrounding islands as shall be designated by the Secretary of the Interior in the exercise of his judgment and discretion as necessary or desirable for national-park purposes, shall have been vested in the United States, and exclusive jurisdiction over the same shall have been ceded by the State of Michigan to the United States, said area shall be, and is established, dedicated, and set apart as a public park for the benefit and enjoyment of the people, and shall be known as the Isle Royale National Park: Provided, That the United States shall not purchase by appropriation of public moneys any lands within the aforesaid area, but such lands shall be secured by the United States only by public or private donation.
 
-([Mar. 3, 1931, ch. 448, § 1][/us/act/1931-03-03/ch448/s1], [46 Stat. 1514][/us/stat/46/1514].)
+([Mar. 3, 1931, ch. 448][/us/act/1931-03-03/ch448], § 1, [46 Stat. 1514][/us/stat/46/1514].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1931-03-03/ch448/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-03%2Fch448%2Fs1
+[/us/act/1931-03-03/ch448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-03%2Fch448
 [/us/stat/46/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1514
 
 

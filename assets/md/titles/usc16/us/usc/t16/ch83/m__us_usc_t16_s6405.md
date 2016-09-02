@@ -17,7 +17,7 @@
 
     The Administrator may make grants to any State, local, or territorial government agency with jurisdiction over coral reefs for emergencies to address unforeseen or disaster-related circumstance  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  pertaining to coral reefs or coral reef ecosystems.
 
-([Pub. L. 106–562, title II, § 206][/us/pl/106/562/s206], Dec. 23, 2000, [114 Stat. 2804][/us/stat/114/2804].)
+([Pub. L. 106–562, title II][/us/pl/106/562/tII], § 206, Dec. 23, 2000, [114 Stat. 2804][/us/stat/114/2804].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/562/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs206
+[/us/pl/106/562/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2FtII
 [/us/stat/114/2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2804
 
 

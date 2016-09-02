@@ -49,7 +49,7 @@
 
                 The Executive Director shall be knowledgeable and experienced in matters relating to natural resources conservation.
 
-([Pub. L. 104–127, title III, § 355][/us/pl/104/127/s355], Apr. 4, 1996, [110 Stat. 1012][/us/stat/110/1012].)
+([Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 355, Apr. 4, 1996, [110 Stat. 1012][/us/stat/110/1012].)
 
 ----------
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs355
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1012
 
 

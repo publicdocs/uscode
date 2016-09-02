@@ -17,11 +17,11 @@
 
     In the form provided by existing law the Secretary of the Interior may file and approve surveys and plats of any right of way for a wagon road, railroad, or other highway over and across any national forest when in his judgment the public interests will not be injuriously affected thereby.
 
-([Mar. 3, 1899, ch. 427, § 1][/us/act/1899-03-03/ch427/s1], [30 Stat. 1233][/us/stat/30/1233].)
+([Mar. 3, 1899, ch. 427][/us/act/1899-03-03/ch427], § 1, [30 Stat. 1233][/us/stat/30/1233].)
 
  __Repeals__ 
 
-    Section repealed by [Pub. L. 94–579, title VII, § 706(a)][/us/pl/94/579/s706/a], Oct. 21, 1976, [90 Stat. 2793][/us/stat/90/2793], effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
+    Section repealed by [Pub. L. 94–579, title VII][/us/pl/94/579/tVII], § 706(a), Oct. 21, 1976, [90 Stat. 2793][/us/stat/90/2793], effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 
  __Savings Provision__ 
 
-    Repeal by [Pub. L. 94–579, title VII, § 706(a)][/us/pl/94/579/s706/a], Oct. 21, 1976, [90 Stat. 2793][/us/stat/90/2793], insofar as applicable to the issuance of rights-of-way, not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see note set out under [section 1701 of Title 43][/us/usc/t43/s1701], Public Lands.
+    Repeal by [Pub. L. 94–579, title VII][/us/pl/94/579/tVII], § 706(a), Oct. 21, 1976, [90 Stat. 2793][/us/stat/90/2793], insofar as applicable to the issuance of rights-of-way, not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see note set out under [section 1701 of Title 43][/us/usc/t43/s1701], Public Lands.
 
 ----------
 
@@ -40,13 +40,13 @@
 ----------
 ----------
 
-[/us/act/1899-03-03/ch427/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-03%2Fch427%2Fs1
+[/us/act/1899-03-03/ch427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-03%2Fch427
 [/us/stat/30/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F1233
-[/us/pl/94/579/s706/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2Fs706%2Fa
+[/us/pl/94/579/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2FtVII
 [/us/stat/90/2793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2793
 [/us/act/1907-03-04/ch2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2907
 [/us/stat/34/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F1269
-[/us/pl/94/579/s706/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2Fs706%2Fa
+[/us/pl/94/579/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2FtVII
 [/us/stat/90/2793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2793
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
 

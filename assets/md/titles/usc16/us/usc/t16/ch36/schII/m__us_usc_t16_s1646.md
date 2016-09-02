@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated annually such sums as may be needed to implement this subchapter. Funds appropriated under this subchapter shall remain available until expended.
 
-([Pub. L. 95–307, § 7][/us/pl/95/307/s7], June 30, 1978, [92 Stat. 356][/us/stat/92/356].)
+([Pub. L. 95–307][/us/pl/95/307], § 7, June 30, 1978, [92 Stat. 356][/us/stat/92/356].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/307/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F307%2Fs7
+[/us/pl/95/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F307
 [/us/stat/92/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F356
 
 

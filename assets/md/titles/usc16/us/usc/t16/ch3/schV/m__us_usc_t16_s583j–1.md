@@ -47,7 +47,7 @@
 
         Officers and employees may not be appointed until the Foundation has sufficient funds to pay for their services. Officers and employees of the Foundation shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
 
-([Pub. L. 101–593, title IV, § 403][/us/pl/101/593/s403], Nov. 16, 1990, [104 Stat. 2970][/us/stat/104/2970]; [Pub. L. 107–63, title II][/us/pl/107/63], Nov. 5, 2001, [115 Stat. 450][/us/stat/115/450]; [Pub. L. 111–88, div. A, title IV, § 432][/us/pl/111/88/s432], Oct. 30, 2009, [123 Stat. 2964][/us/stat/123/2964].)
+([Pub. L. 101–593, title IV][/us/pl/101/593/tIV], § 403, Nov. 16, 1990, [104 Stat. 2970][/us/stat/104/2970]; [Pub. L. 107–63, title II][/us/pl/107/63/tII], Nov. 5, 2001, [115 Stat. 450][/us/stat/115/450]; [Pub. L. 111–88, div. A, title IV][/us/pl/111/88/dA/tIV], § 432, Oct. 30, 2009, [123 Stat. 2964][/us/stat/123/2964].)
 
  __References in Text__ 
 
@@ -67,11 +67,11 @@
 ----------
 
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/101/593/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2Fs403
+[/us/pl/101/593/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2FtIV
 [/us/stat/104/2970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2970
-[/us/pl/107/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63
+[/us/pl/107/63/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63%2FtII
 [/us/stat/115/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F450
-[/us/pl/111/88/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F88%2Fs432
+[/us/pl/111/88/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F88%2FdA%2FtIV
 [/us/stat/123/2964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2964
 [/us/pl/101/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593
 [/us/stat/104/2969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2969

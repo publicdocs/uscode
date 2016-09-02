@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to exchange, in his discretion, alienated lands in Zion National Park for unappropriated and unreserved public lands of equal value and approximately equal area in the State of Utah outside of said park.
 
-([June 7, 1924, ch. 305, § 3][/us/act/1924-06-07/ch305/s3], [43 Stat. 594][/us/stat/43/594].)
+([June 7, 1924, ch. 305][/us/act/1924-06-07/ch305], § 3, [43 Stat. 594][/us/stat/43/594].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1924-06-07/ch305/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch305%2Fs3
+[/us/act/1924-06-07/ch305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch305
 [/us/stat/43/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F594
 
 

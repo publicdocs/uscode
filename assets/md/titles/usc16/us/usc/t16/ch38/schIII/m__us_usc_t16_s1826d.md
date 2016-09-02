@@ -17,7 +17,7 @@
 
     The United States, or any agency or official acting on behalf of the United States, may not enter into any international agreement with respect to the conservation and management of living marine resources or the use of the high seas by fishing vessels that would prevent full implementation of the global moratorium on large-scale driftnet fishing on the high seas, as such moratorium is expressed in Resolution 46/215 of the United Nations General Assembly.
 
-([Pub. L. 104–43, title VI, § 603][/us/pl/104/43/s603], Nov. 3, 1995, [109 Stat. 392][/us/stat/109/392].)
+([Pub. L. 104–43, title VI][/us/pl/104/43/tVI], § 603, Nov. 3, 1995, [109 Stat. 392][/us/stat/109/392].)
 
  __Codification__ 
 
@@ -25,7 +25,7 @@
 
  __Congressional Findings__ 
 
-[Pub. L. 104–43, title VI, § 602][/us/pl/104/43/s602], Nov. 3, 1995, [109 Stat. 391][/us/stat/109/391], provided that: 
+[Pub. L. 104–43, title VI][/us/pl/104/43/tVI], § 602, Nov. 3, 1995, [109 Stat. 391][/us/stat/109/391], provided that: 
 
 > “The Congress finds that—
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/104/43/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs603
+[/us/pl/104/43/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtVI
 [/us/stat/109/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F392
-[/us/pl/104/43/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs602
+[/us/pl/104/43/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtVI
 [/us/stat/109/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F391
 [/us/pl/100/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220
 [/us/usc/t16/s1822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1822

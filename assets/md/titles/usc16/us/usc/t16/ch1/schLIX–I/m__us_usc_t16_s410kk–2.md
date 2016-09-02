@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this subchapter, but not more than $4,100,000 for development and not more than $1,400,000 for the acquisition of lands and interests therein for the Lyndon B. Johnson National Historical Park.
 
-([Pub. L. 91–134, § 3][/us/pl/91/134/s3], Dec. 2, 1969, [83 Stat. 274][/us/stat/83/274]; [Pub. L. 96–87, title IV, § 403][/us/pl/96/87/s403], Oct. 12, 1979, [93 Stat. 667][/us/stat/93/667]; [Pub. L. 96–607, title VI, § 601(2)][/us/pl/96/607/s601/2], (3), Dec. 28, 1980, [94 Stat. 3540][/us/stat/94/3540].)
+([Pub. L. 91–134][/us/pl/91/134], § 3, Dec. 2, 1969, [83 Stat. 274][/us/stat/83/274]; [Pub. L. 96–87, title IV][/us/pl/96/87/tIV], § 403, Oct. 12, 1979, [93 Stat. 667][/us/stat/93/667]; [Pub. L. 96–607, title VI][/us/pl/96/607/tVI], § 601(2), (3), Dec. 28, 1980, [94 Stat. 3540][/us/stat/94/3540].)
 
  __Amendments__ 
 
@@ -32,11 +32,11 @@
 ----------
 ----------
 
-[/us/pl/91/134/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F134%2Fs3
+[/us/pl/91/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F134
 [/us/stat/83/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F274
-[/us/pl/96/87/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F87%2Fs403
+[/us/pl/96/87/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F87%2FtIV
 [/us/stat/93/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F667
-[/us/pl/96/607/s601/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607%2Fs601%2F2
+[/us/pl/96/607/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607%2FtVI
 [/us/stat/94/3540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3540
 [/us/pl/96/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607
 [/us/pl/96/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F87

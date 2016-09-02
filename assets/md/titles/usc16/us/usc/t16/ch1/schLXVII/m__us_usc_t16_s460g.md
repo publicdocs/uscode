@@ -17,7 +17,7 @@
 
     The Secretary of the Army may, by quitclaim deed, deed of easement, or otherwise, transfer to the State in which lands sold for cottage site development and use pursuant to this subchapter are located, or to any political subdivision thereof, or to any organization consisting of not less than 50 per centum of the owners of cottage sites in the area, without monetary consideration, any lands being used or to be used for roads primarily to serve the cottage site areas: Provided, however, That the deed or other instrument transferring such land shall specifically provide for appropriate use and maintenance of the property by the State, political subdivision, or organization, and any deed conveying title to such lands for roadway purposes shall contain the condition and limitation that in the event the land conveyed shall fail or cease to be used for roadway purposes the same shall immediately revert to and vest in the United States.
 
-([Aug. 6, 1956, ch. 987, § 3][/us/act/1956-08-06/ch987/s3], [70 Stat. 1065][/us/stat/70/1065].)
+([Aug. 6, 1956, ch. 987][/us/act/1956-08-06/ch987], § 3, [70 Stat. 1065][/us/stat/70/1065].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1956-08-06/ch987/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch987%2Fs3
+[/us/act/1956-08-06/ch987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch987
 [/us/stat/70/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1065
 
 

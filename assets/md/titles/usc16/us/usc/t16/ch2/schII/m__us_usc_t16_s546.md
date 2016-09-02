@@ -31,7 +31,7 @@
 
         Subsection (b) shall be effective upon conveyance of satisfactory title to the United States of the whole of Saint Helena Island, except that portion conveyed to the Great Lakes Lighthouse Keepers Association pursuant to section 1001 of the Coast Guard Authorization Act of 1996 ([Public Law 104–324][/us/pl/104/324]; [110 Stat. 3948][/us/stat/110/3948]).
 
-([Pub. L. 106–431, § 2][/us/pl/106/431/s2], Nov. 6, 2000, [114 Stat. 1905][/us/stat/114/1905].)
+([Pub. L. 106–431][/us/pl/106/431], § 2, Nov. 6, 2000, [114 Stat. 1905][/us/stat/114/1905].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
  __Short Title__ 
 
-[Pub. L. 106–431, § 1][/us/pl/106/431/s1], Nov. 6, 2000, [114 Stat. 1905][/us/stat/114/1905], provided that: 
+[Pub. L. 106–431][/us/pl/106/431], § 1, Nov. 6, 2000, [114 Stat. 1905][/us/stat/114/1905], provided that: 
 
 > “This Act \[enacting sections 546 to 546a–5 of this title\] may be cited as the ‘Saint Helena Island National Scenic Area Act’.”
 
@@ -52,11 +52,11 @@
 
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
 [/us/stat/110/3948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3948
-[/us/pl/106/431/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F431%2Fs2
+[/us/pl/106/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F431
 [/us/stat/114/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1905
 [/us/pl/104/324/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1001
 [/us/stat/110/3948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3948
-[/us/pl/106/431/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F431%2Fs1
+[/us/pl/106/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F431
 [/us/stat/114/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1905
 
 

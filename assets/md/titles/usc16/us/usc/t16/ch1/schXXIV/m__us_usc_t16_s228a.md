@@ -17,7 +17,7 @@
 
     It is the object of sections 228a to 228j of this title to provide for the recognition by Congress that the entire Grand Canyon, from the mouth of the Paria River to the Grand Wash Cliffs, including tributary side canyons and surrounding plateaus, is a natural feature of national and international significance. Congress therefore recognizes the need for, and in sections 228a to 228j of this title provides for, the further protection and interpretation of the Grand Canyon in accordance with its true significance.
 
-([Pub. L. 93–620, § 2][/us/pl/93/620/s2], Jan. 3, 1975, [88 Stat. 2089][/us/stat/88/2089].)
+([Pub. L. 93–620][/us/pl/93/620], § 2, Jan. 3, 1975, [88 Stat. 2089][/us/stat/88/2089].)
 
  __Short Title__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/93/620/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F620%2Fs2
+[/us/pl/93/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F620
 [/us/stat/88/2089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2089
 [/us/usc/t16/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs221
 

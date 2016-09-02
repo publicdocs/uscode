@@ -107,7 +107,7 @@
 
         (2) modify the existing boundary of the Pueblo grant.
 
-([Pub. L. 108–7, div. F, title IV, § 404][/us/pl/108/7/s404], Feb. 20, 2003, [117 Stat. 282][/us/stat/117/282].)
+([Pub. L. 108–7, div. F, title IV][/us/pl/108/7/dF/tIV], § 404, Feb. 20, 2003, [117 Stat. 282][/us/stat/117/282].)
 
  __References in Text__ 
 
@@ -137,7 +137,7 @@
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
 [/us/usc/t16/s539m–3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs539m%E2%80%933%2Fa%2F3
 [/us/usc/t30/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs23
-[/us/pl/108/7/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs404
+[/us/pl/108/7/dF/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtIV
 [/us/stat/117/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F282
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/stat/117/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F279

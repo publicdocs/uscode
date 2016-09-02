@@ -17,7 +17,7 @@
 
     The revision of boundaries of the national park, as authorized in [section 441f of this title][/us/usc/t16/s441f], shall be accomplished by the issuance, by the Secretary of the Interior, of an appropriate order, or orders, such order or orders to be effective upon publication in the Federal Register: Provided, That federally owned land under the administrative jurisdiction of any other department or agency of the Federal Government shall be included within the park only with the approval of the head of such department or agency.
 
-([May 7, 1952, ch. 244, § 2][/us/act/1952-05-07/ch244/s2], [66 Stat. 65][/us/stat/66/65]; [Pub. L. 95–625, title VI, § 611][/us/pl/95/625/s611], Nov. 10, 1978, [92 Stat. 3521][/us/stat/92/3521].)
+([May 7, 1952, ch. 244][/us/act/1952-05-07/ch244], § 2, [66 Stat. 65][/us/stat/66/65]; [Pub. L. 95–625, title VI][/us/pl/95/625/tVI], § 611, Nov. 10, 1978, [92 Stat. 3521][/us/stat/92/3521].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Change of Name__ 
 
-    Word “park” substituted in text for “monument” pursuant to [Pub. L. 95–625, § 611][/us/pl/95/625/s611], which is classified to [section 441e–1 of this title][/us/usc/t16/s441e–1] and which redesignated Badlands National Monument as Badlands National Park.
+    Word “park” substituted in text for “monument” pursuant to [Pub. L. 95–625][/us/pl/95/625], § 611, which is classified to [section 441e–1 of this title][/us/usc/t16/s441e–1] and which redesignated Badlands National Monument as Badlands National Park.
 
 ----------
 
@@ -35,13 +35,13 @@
 ----------
 
 [/us/usc/t16/s441f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs441f
-[/us/act/1952-05-07/ch244/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-05-07%2Fch244%2Fs2
+[/us/act/1952-05-07/ch244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-05-07%2Fch244
 [/us/stat/66/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F65
-[/us/pl/95/625/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs611
+[/us/pl/95/625/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtVI
 [/us/stat/92/3521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3521
 [/us/usc/t16/s441f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs441f
 [/us/usc/t16/s441f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs441f
-[/us/pl/95/625/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs611
+[/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
 [/us/usc/t16/s441e–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs441e%E2%80%931
 
 

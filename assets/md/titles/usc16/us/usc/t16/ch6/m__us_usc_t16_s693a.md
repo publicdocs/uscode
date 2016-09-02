@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture shall execute the provisions of this section and [section 693 of this title][/us/usc/t16/s693], and he is authorized to prescribe all general rules and regulations for the administration of such game sanctuaries and refuges, and violation of such rules and regulations shall be punished by fine of not more than $500 or imprisonment for not more than six months or both.
 
-([June 13, 1933, ch. 63, § 2][/us/act/1933-06-13/ch63/s2], [48 Stat. 128][/us/stat/48/128].)
+([June 13, 1933, ch. 63][/us/act/1933-06-13/ch63], § 2, [48 Stat. 128][/us/stat/48/128].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs693
-[/us/act/1933-06-13/ch63/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch63%2Fs2
+[/us/act/1933-06-13/ch63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch63
 [/us/stat/48/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F128
 
 

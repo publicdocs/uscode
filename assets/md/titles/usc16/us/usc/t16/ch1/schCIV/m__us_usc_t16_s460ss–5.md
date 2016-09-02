@@ -37,13 +37,13 @@
 
         (5) The Secretary may not consider the expenditure, either directly or indirectly, with respect to the program of Federal moneys received by a State or local government to be a financial contribution by a non-Federal source to carry out the program.
 
-([Pub. L. 99–552, § 6][/us/pl/99/552/s6], Oct. 27, 1986, [100 Stat. 3085][/us/stat/100/3085]; [Pub. L. 100–653, title VI, § 603(3)][/us/pl/100/653/s603/3], (4), Nov. 14, 1988, [102 Stat. 3830][/us/stat/102/3830].)
+([Pub. L. 99–552][/us/pl/99/552], § 6, Oct. 27, 1986, [100 Stat. 3085][/us/stat/100/3085]; [Pub. L. 100–653, title VI][/us/pl/100/653/tVI], § 603(3), (4), Nov. 14, 1988, [102 Stat. 3830][/us/stat/102/3830].)
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–653, § 603(3)][/us/pl/100/653/s603/3], inserted “and for the payment of travel expenses under sections 460ss–2(j) and 460ss–3(i) of this title” before period at end of first sentence.
+    1988—Subsec. (a). [Pub. L. 100–653][/us/pl/100/653], § 603(3), inserted “and for the payment of travel expenses under sections 460ss–2(j) and 460ss–3(i) of this title” before period at end of first sentence.
 
-    Subsec. (b)(3). [Pub. L. 100–653, § 603(4)][/us/pl/100/653/s603/4], struck out “in carrying out surveys, censuses, and other scientific studies” after “volunteers”.
+    Subsec. (b)(3). [Pub. L. 100–653][/us/pl/100/653], § 603(4), struck out “in carrying out surveys, censuses, and other scientific studies” after “volunteers”.
 
 ----------
 
@@ -52,11 +52,11 @@
 ----------
 ----------
 
-[/us/pl/99/552/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F552%2Fs6
+[/us/pl/99/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F552
 [/us/stat/100/3085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3085
-[/us/pl/100/653/s603/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2Fs603%2F3
+[/us/pl/100/653/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2FtVI
 [/us/stat/102/3830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3830
-[/us/pl/100/653/s603/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2Fs603%2F3
-[/us/pl/100/653/s603/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2Fs603%2F4
+[/us/pl/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653
+[/us/pl/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653
 
 

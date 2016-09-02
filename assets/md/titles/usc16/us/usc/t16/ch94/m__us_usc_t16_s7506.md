@@ -29,7 +29,7 @@
 
         (3) a description of the expenditures made from the Fund for the fiscal year, including the purpose of the expenditures.
 
-([Pub. L. 114–113, div. O, title IX, § 907][/us/pl/114/113/s907], Dec. 18, 2015, [129 Stat. 3034][/us/stat/129/3034].)
+([Pub. L. 114–113, div. O, title IX][/us/pl/114/113/dO/tIX], § 907, Dec. 18, 2015, [129 Stat. 3034][/us/stat/129/3034].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/114/113/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs907
+[/us/pl/114/113/dO/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdO%2FtIX
 [/us/stat/129/3034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3034
 
 

@@ -31,7 +31,7 @@
 
         Not later than 6 months after April 30, 1994, the Secretary of the Interior, acting through the Secretary of State and in consultation with the Marine Mammal Commission and the State of Alaska, shall consult with the appropriate officials of the Russian Federation on the development and implementation of enhanced cooperative research and management programs for the conservation of polar bears in Alaska and Russia. The Secretary shall report the results of this consultation and provide periodic progress reports on the research and management programs to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science and Transportation of the Senate.
 
-([Pub. L. 92–522, title I, § 113][/us/pl/92/522/s113], Oct. 21, 1972, [86 Stat. 1042][/us/stat/86/1042]; [Pub. L. 103–238, § 7(b)][/us/pl/103/238/s7/b], Apr. 30, 1994, [108 Stat. 542][/us/stat/108/542].)
+([Pub. L. 92–522, title I][/us/pl/92/522/tI], § 113, Oct. 21, 1972, [86 Stat. 1042][/us/stat/86/1042]; [Pub. L. 103–238][/us/pl/103/238], § 7(b), Apr. 30, 1994, [108 Stat. 542][/us/stat/108/542].)
 
  __Codification__ 
 
@@ -39,9 +39,9 @@
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–238, § 7(b)(1)][/us/pl/103/238/s7/b/1], directed the amendment of this section by “designating the existing paragraph” as subsec. (a), notwithstanding the existing first par. of this section was already designated (a).
+    1994—Subsec. (a). [Pub. L. 103–238][/us/pl/103/238], § 7(b)(1), directed the amendment of this section by “designating the existing paragraph” as subsec. (a), notwithstanding the existing first par. of this section was already designated (a).
 
-    Subsecs. (b) to (d). [Pub. L. 103–238, § 7(b)(2)][/us/pl/103/238/s7/b/2], added subsecs. (b) to (d). See Codification note above.
+    Subsecs. (b) to (d). [Pub. L. 103–238][/us/pl/103/238], § 7(b)(2), added subsecs. (b) to (d). See Codification note above.
 
  __Abolition of House Committee on Merchant Marine and Fisheries__ 
 
@@ -55,14 +55,14 @@
 ----------
 
 [/us/usc/t16/s1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1375
-[/us/pl/92/522/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs113
+[/us/pl/92/522/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtI
 [/us/stat/86/1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1042
-[/us/pl/103/238/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs7%2Fb
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
 [/us/stat/108/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F542
 [/us/pl/92/522/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs113
 [/us/usc/t16/s659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs659
-[/us/pl/103/238/s7/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs7%2Fb%2F1
-[/us/pl/103/238/s7/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs7%2Fb%2F2
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
 [/us/pl/104/14/s1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fb%2F3
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
 

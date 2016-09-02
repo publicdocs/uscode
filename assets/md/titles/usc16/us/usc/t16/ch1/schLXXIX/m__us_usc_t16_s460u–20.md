@@ -27,7 +27,7 @@
 
         To inform the public of the contributions of Paul H. Douglas to the creation of the lakeshore, the Secretary of the Interior shall provide such signs, markers, maps, interpretive materials, literature, and programs as he deems appropriate.
 
-([Pub. L. 89–761, § 20][/us/pl/89/761/s20], as added [Pub. L. 96–612, § 1(1)][/us/pl/96/612/s1/1], Dec. 28, 1980, [94 Stat. 3575][/us/stat/94/3575].)
+([Pub. L. 89–761][/us/pl/89/761], § 20, as added [Pub. L. 96–612][/us/pl/96/612], § 1(1), Dec. 28, 1980, [94 Stat. 3575][/us/stat/94/3575].)
 
 ----------
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/89/761/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761%2Fs20
-[/us/pl/96/612/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F612%2Fs1%2F1
+[/us/pl/89/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761
+[/us/pl/96/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F612
 [/us/stat/94/3575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3575
 
 

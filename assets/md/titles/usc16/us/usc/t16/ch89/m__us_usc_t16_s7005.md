@@ -29,7 +29,7 @@
 
             An individual appointed under paragraph (1) shall be appointed for a term of not to exceed 4 years, but shall be eligible for reappointment. An individual appointed to fill a vacancy occurring prior to the expiration of the term of office of that individual’s predecessor shall be appointed for the remainder of that term.
 
-([Pub. L. 109–479, title VI, § 606][/us/pl/109/479/s606], Jan. 12, 2007, [120 Stat. 3646][/us/stat/120/3646].)
+([Pub. L. 109–479, title VI][/us/pl/109/479/tVI], § 606, Jan. 12, 2007, [120 Stat. 3646][/us/stat/120/3646].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/109/479/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs606
+[/us/pl/109/479/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtVI
 [/us/stat/120/3646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3646
 
 

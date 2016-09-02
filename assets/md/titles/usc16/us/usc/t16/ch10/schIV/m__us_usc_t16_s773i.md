@@ -79,7 +79,7 @@
 
             (C) by mailing a copy thereof by registered or certified mail addressed to such individual, partnership, or corporation at his or its residence or principal office or place of business. The verified return by the individual so serving such complaint, order, or other process setting forth the manner of service shall be proof of same, and the returned post office receipt for such complaint, order, or other process mailed by registered or certified mail shall be proof of the service of the same.
 
-([Pub. L. 97–176, § 11][/us/pl/97/176/s11], May 17, 1982, [96 Stat. 82][/us/stat/96/82].)
+([Pub. L. 97–176][/us/pl/97/176], § 11, May 17, 1982, [96 Stat. 82][/us/stat/96/82].)
 
  __Transfer of Functions__ 
 
@@ -97,7 +97,7 @@
 [/us/usc/t16/s773e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs773e
 [/us/usc/t16/s773e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs773e
 [/us/usc/t16/s773e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs773e
-[/us/pl/97/176/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F176%2Fs11
+[/us/pl/97/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F176
 [/us/stat/96/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F82
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

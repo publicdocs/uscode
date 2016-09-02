@@ -29,7 +29,7 @@
 
     The determination required by paragraph (5) shall incorporate the results of any related studies of the State of Florida Department of Transportation and other Florida State agencies. Any recommendation for significant changes in the approved recreational access points, including any proposed additions, shall be accompanied by an assessment of the environmental impact of such changes.
 
-([Pub. L. 93–440, § 11][/us/pl/93/440/s11], as added [Pub. L. 100–301, § 6][/us/pl/100/301/s6], Apr. 29, 1988, [102 Stat. 446][/us/stat/102/446].)
+([Pub. L. 93–440][/us/pl/93/440], § 11, as added [Pub. L. 100–301][/us/pl/100/301], § 6, Apr. 29, 1988, [102 Stat. 446][/us/stat/102/446].)
 
 ----------
 
@@ -39,8 +39,8 @@
 ----------
 
 [/us/usc/t16/s698m–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs698m%E2%80%932
-[/us/pl/93/440/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F440%2Fs11
-[/us/pl/100/301/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301%2Fs6
+[/us/pl/93/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F440
+[/us/pl/100/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301
 [/us/stat/102/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F446
 
 

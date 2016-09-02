@@ -23,7 +23,7 @@
 
     (3) Provide, directly or by contract, subject to the provisions of the Act of June 7, 1974, an interpretive shuttle transportation service within, between, and among lands acquired for the purpose of sections 450bb to 450bb–2 of this title for such times and upon such terms as in his judgment will best accomplish the purposes of sections 450bb to 450bb–2 of this title.
 
-([June 30, 1944, ch. 328, § 3][/us/act/1944-06-30/ch328/s3], [58 Stat. 646][/us/stat/58/646]; [Pub. L. 88–33][/us/pl/88/33], May 29, 1963, [77 Stat. 52][/us/stat/77/52]; [Pub. L. 93–466, § 1(2)][/us/pl/93/466/s1/2], Oct. 24, 1974, [88 Stat. 1420][/us/stat/88/1420]; [Pub. L. 108–307, § 3][/us/pl/108/307/s3], Sept. 24, 2004, [118 Stat. 1134][/us/stat/118/1134].)
+([June 30, 1944, ch. 328][/us/act/1944-06-30/ch328], § 3, [58 Stat. 646][/us/stat/58/646]; [Pub. L. 88–33][/us/pl/88/33], May 29, 1963, [77 Stat. 52][/us/stat/77/52]; [Pub. L. 93–466][/us/pl/93/466], § 1(2), Oct. 24, 1974, [88 Stat. 1420][/us/stat/88/1420]; [Pub. L. 108–307][/us/pl/108/307], § 3, Sept. 24, 2004, [118 Stat. 1134][/us/stat/118/1134].)
 
  __References in Text__ 
 
@@ -47,13 +47,13 @@
 ----------
 
 [/us/usc/t16/s450bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450bb
-[/us/act/1944-06-30/ch328/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-30%2Fch328%2Fs3
+[/us/act/1944-06-30/ch328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-30%2Fch328
 [/us/stat/58/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F646
 [/us/pl/88/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F33
 [/us/stat/77/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F52
-[/us/pl/93/466/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F466%2Fs1%2F2
+[/us/pl/93/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F466
 [/us/stat/88/1420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1420
-[/us/pl/108/307/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F307%2Fs3
+[/us/pl/108/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F307
 [/us/stat/118/1134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1134
 [/us/pl/93/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F303
 [/us/stat/88/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F192

@@ -17,7 +17,7 @@
 
     A decision by the Secretary denying any application for a  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “an”. </sup></sup>  obsolete ship under this chapter is final.
 
-([Pub. L. 92–402, § 6][/us/pl/92/402/s6], Aug. 22, 1972, [86 Stat. 618][/us/stat/86/618]; [Pub. L. 98–623, title II, § 207(1)][/us/pl/98/623/s207/1], Nov. 8, 1984, [98 Stat. 3397][/us/stat/98/3397].)
+([Pub. L. 92–402][/us/pl/92/402], § 6, Aug. 22, 1972, [86 Stat. 618][/us/stat/86/618]; [Pub. L. 98–623, title II][/us/pl/98/623/tII], § 207(1), Nov. 8, 1984, [98 Stat. 3397][/us/stat/98/3397].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/92/402/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F402%2Fs6
+[/us/pl/92/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F402
 [/us/stat/86/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F618
-[/us/pl/98/623/s207/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs207%2F1
+[/us/pl/98/623/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtII
 [/us/stat/98/3397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3397
 [/us/pl/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623
 

@@ -79,7 +79,7 @@
 
         (2) to comply with applicable wetland protection requirements under subchapter III.
 
-([Pub. L. 99–198, title XII, § 1265D][/us/pl/99/198/s1265D], as added [Pub. L. 113–79, title II, § 2301(a)][/us/pl/113/79/s2301/a], Feb. 7, 2014, [128 Stat. 742][/us/stat/128/742].)
+([Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1265D, as added [Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2301(a), Feb. 7, 2014, [128 Stat. 742][/us/stat/128/742].)
 
  __References in Text__ 
 
@@ -93,8 +93,8 @@
 ----------
 
 [/us/usc/t16/s3831/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3831%2Fa
-[/us/pl/99/198/s1265D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1265D
-[/us/pl/113/79/s2301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2301%2Fa
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F742
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/stat/128/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F649

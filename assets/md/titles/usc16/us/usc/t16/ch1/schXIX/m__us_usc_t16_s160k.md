@@ -31,11 +31,11 @@
 
         For purposes of [section 200306(a)(4) of title 54][/us/usc/t54/s200306/a/4], the statutory ceilings on appropriations established by this section shall be deemed to be statutory ceilings contained in a provision of law enacted prior to the convening of the Ninety-fifth Congress.
 
-([Pub. L. 91–661, § 401][/us/pl/91/661/s401], Jan. 8, 1971, [84 Stat. 1973][/us/stat/84/1973]; [Pub. L. 97–405, § 1(4)][/us/pl/97/405/s1/4], Jan. 3, 1983, [96 Stat. 2029][/us/stat/96/2029].)
+([Pub. L. 91–661][/us/pl/91/661], § 401, Jan. 8, 1971, [84 Stat. 1973][/us/stat/84/1973]; [Pub. L. 97–405][/us/pl/97/405], § 1(4), Jan. 3, 1983, [96 Stat. 2029][/us/stat/96/2029].)
 
  __Codification__ 
 
-    In subsec. (d), “[section 200306(a)(4) of title 54][/us/usc/t54/s200306/a/4]” substituted for “section 7(a)(3) of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 4601–9(a)(3)][/us/usc/t16/s4601–9/a/3]) \[sic\]” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (d), “[section 200306(a)(4) of title 54][/us/usc/t54/s200306/a/4]” substituted for “section 7(a)(3) of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 4601–9(a)(3)][/us/usc/t16/s4601–9/a/3]) \[sic\]” on authority of [Pub. L. 113–287][/us/pl/113/287], § 6(e), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
  __Amendments__ 
 
@@ -53,13 +53,13 @@
 ----------
 
 [/us/usc/t54/s200306/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs200306%2Fa%2F4
-[/us/pl/91/661/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F661%2Fs401
+[/us/pl/91/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F661
 [/us/stat/84/1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1973
-[/us/pl/97/405/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F405%2Fs1%2F4
+[/us/pl/97/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F405
 [/us/stat/96/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2029
 [/us/usc/t54/s200306/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs200306%2Fa%2F4
 [/us/usc/t16/s4601–9/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4601%E2%80%939%2Fa%2F3
-[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/97/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F405
 

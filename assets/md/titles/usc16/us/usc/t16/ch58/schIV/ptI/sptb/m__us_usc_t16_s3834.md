@@ -159,7 +159,7 @@
 
         In addition to any payment under this subpart, an owner or operator may receive cost share assistance, rental payments, or tax benefits from a State or subdivision thereof for enrolling land in the conservation reserve program.
 
-([Pub. L. 99–198, title XII, § 1234][/us/pl/99/198/s1234], as added [Pub. L. 107–171, title II, § 2101(a)][/us/pl/107/171/s2101/a], May 13, 2002, [116 Stat. 245][/us/stat/116/245]; amended [Pub. L. 110–234, title II][/us/pl/110/234], §§ 2109, 2110(a), (b)(1), (c), May 22, 2008, [122 Stat. 1034][/us/stat/122/1034], 1035; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, §§ 2109, 2110(a), (b)(1), (c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1762, 1763; [Pub. L. 113–79, title II, § 2005][/us/pl/113/79/s2005], Feb. 7, 2014, [128 Stat. 718][/us/stat/128/718].)
+([Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1234, as added [Pub. L. 107–171, title II][/us/pl/107/171/tII], § 2101(a), May 13, 2002, [116 Stat. 245][/us/stat/116/245]; amended [Pub. L. 110–234, title II][/us/pl/110/234/tII], §§ 2109, 2110(a), (b)(1), (c), May 22, 2008, [122 Stat. 1034][/us/stat/122/1034], 1035; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title II, §§ 2109, 2110(a), (b)(1), (c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1762, 1763; [Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2005, Feb. 7, 2014, [128 Stat. 718][/us/stat/128/718].)
 
  __Codification__ 
 
@@ -167,13 +167,13 @@
 
  __Prior Provisions__ 
 
-    A prior section 3834, [Pub. L. 99–198, title XII, § 1234][/us/pl/99/198/s1234], Dec. 23, 1985, [99 Stat. 1511][/us/stat/99/1511]; [Pub. L. 100–387, title III, § 322][/us/pl/100/387/s322], Aug. 11, 1988, [102 Stat. 950][/us/stat/102/950]; [Pub. L. 101–624, title XIV][/us/pl/101/624], §§ 1434, 1447(a), Nov. 28, 1990, [104 Stat. 3581][/us/stat/104/3581], 3605, related to payments for obligations, prior to the general amendment of this subpart by [Pub. L. 107–171][/us/pl/107/171].
+    A prior section 3834, [Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1234, Dec. 23, 1985, [99 Stat. 1511][/us/stat/99/1511]; [Pub. L. 100–387, title III][/us/pl/100/387/tIII], § 322, Aug. 11, 1988, [102 Stat. 950][/us/stat/102/950]; [Pub. L. 101–624, title XIV][/us/pl/101/624/tXIV], §§ 1434, 1447(a), Nov. 28, 1990, [104 Stat. 3581][/us/stat/104/3581], 3605, related to payments for obligations, prior to the general amendment of this subpart by [Pub. L. 107–171][/us/pl/107/171].
 
  __Amendments__ 
 
-    2014—Subsec. (b). [Pub. L. 113–79, § 2005(b)(1)(A)][/us/pl/113/79/s2005/b/1/A], struck out “Federal percentage of” before “cost sharing payments” in heading.
+    2014—Subsec. (b). [Pub. L. 113–79][/us/pl/113/79], § 2005(b)(1)(A), struck out “Federal percentage of” before “cost sharing payments” in heading.
 
-    Subsec. (b)(3)(A). [Pub. L. 113–79, § 2005(a)][/us/pl/113/79/s2005/a], amended subpar. (A) generally. Prior to amendment, text read as follows: “This paragraph applies to—
+    Subsec. (b)(3)(A). [Pub. L. 113–79][/us/pl/113/79], § 2005(a), amended subpar. (A) generally. Prior to amendment, text read as follows: “This paragraph applies to—
 
     “(i) land devoted to the production of hardwood trees, windbreaks, shelterbelts, or wildlife corridors under a contract entered into under this subpart after November 28, 1990;
 
@@ -181,57 +181,57 @@
 
     “(iii) land on which an owner or operator agrees to conduct thinning authorized by [section 3832(a)(9) of this title][/us/usc/t16/s3832/a/9], if the thinning is necessary to improve the condition of resources on the land.”
 
-    Subsec. (b)(3)(B)(i). [Pub. L. 113–79, § 2005(b)(1)(B)(i)][/us/pl/113/79/s2005/b/1/B/i], struck out “or thinning” before period at end.
+    Subsec. (b)(3)(B)(i). [Pub. L. 113–79][/us/pl/113/79], § 2005(b)(1)(B)(i), struck out “or thinning” before period at end.
 
-    Subsec. (b)(3)(B)(ii). [Pub. L. 113–79, § 2005(b)(1)(B)(ii)][/us/pl/113/79/s2005/b/1/B/ii], amended cl. (ii) generally. Prior to amendment, text read as follows: “The Secretary shall make payments as described in clause (i) for a period of not less than 2 years, but not more than 4 years, beginning on the date of—
+    Subsec. (b)(3)(B)(ii). [Pub. L. 113–79][/us/pl/113/79], § 2005(b)(1)(B)(ii), amended cl. (ii) generally. Prior to amendment, text read as follows: “The Secretary shall make payments as described in clause (i) for a period of not less than 2 years, but not more than 4 years, beginning on the date of—
 
     “(I) the planting of the trees or shrubs; or
 
     “(II) the thinning of existing stands to improve the condition of resources on the land.”
 
-    Subsecs. (c), (d). [Pub. L. 113–79, § 2005(b)(2)][/us/pl/113/79/s2005/b/2], (3), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
+    Subsecs. (c), (d). [Pub. L. 113–79][/us/pl/113/79], § 2005(b)(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (d)(1). [Pub. L. 113–79, § 2005(c)(1)][/us/pl/113/79/s2005/c/1], inserted “or other eligible lands” after “highly erodible cropland” in two places.
+    Subsec. (d)(1). [Pub. L. 113–79][/us/pl/113/79], § 2005(c)(1), inserted “or other eligible lands” after “highly erodible cropland” in two places.
 
-    Subsec. (d)(2). [Pub. L. 113–79, § 2005(c)(2)][/us/pl/113/79/s2005/c/2], added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The amounts payable to owners or operators in the form of rental payments under contracts entered into under this subpart may be determined through—
+    Subsec. (d)(2). [Pub. L. 113–79][/us/pl/113/79], § 2005(c)(2), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The amounts payable to owners or operators in the form of rental payments under contracts entered into under this subpart may be determined through—
 
     “(A) the submission of bids for such contracts by owners and operators in such manner as the Secretary may prescribe; or
 
     “(B) such other means as the Secretary determines are appropriate.”
 
-    Subsec. (d)(5)(A). [Pub. L. 113–79, § 2005(c)(3)(A)][/us/pl/113/79/s2005/c/3/A], substituted “, not less frequently than once every other year, conduct a survey” for “conduct an annual survey”.
+    Subsec. (d)(5)(A). [Pub. L. 113–79][/us/pl/113/79], § 2005(c)(3)(A), substituted “, not less frequently than once every other year, conduct a survey” for “conduct an annual survey”.
 
-    Subsec. (d)(5)(B). [Pub. L. 113–79, § 2005(c)(3)(B)][/us/pl/113/79/s2005/c/3/B], struck out “annual” before “survey”.
+    Subsec. (d)(5)(B). [Pub. L. 113–79][/us/pl/113/79], § 2005(c)(3)(B), struck out “annual” before “survey”.
 
-    Subsec. (d)(5)(C). [Pub. L. 113–79, § 2005(c)(3)(C)][/us/pl/113/79/s2005/c/3/C], added subpar. (C).
+    Subsec. (d)(5)(C). [Pub. L. 113–79][/us/pl/113/79], § 2005(c)(3)(C), added subpar. (C).
 
-    Subsec. (e). [Pub. L. 113–79, § 2005(d)][/us/pl/113/79/s2005/d], amended subsec. (e) generally. Prior to amendment, subsec. (e) related to cash or in-kind payments.
+    Subsec. (e). [Pub. L. 113–79][/us/pl/113/79], § 2005(d), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to cash or in-kind payments.
 
-    [Pub. L. 113–79, § 2005(b)(2)][/us/pl/113/79/s2005/b/2], redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+    [Pub. L. 113–79][/us/pl/113/79], § 2005(b)(2), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-    Subsecs. (f), (g). [Pub. L. 113–79, § 2005(b)(2)][/us/pl/113/79/s2005/b/2], redesignated subsecs. (e) and (f) as (f) and (g), respectively. Former subsec. (g) redesignated (h).
+    Subsecs. (f), (g). [Pub. L. 113–79][/us/pl/113/79], § 2005(b)(2), redesignated subsecs. (e) and (f) as (f) and (g), respectively. Former subsec. (g) redesignated (h).
 
-    Subsec. (g)(1). [Pub. L. 113–79, § 2005(e)(1)][/us/pl/113/79/s2005/e/1], struck out “, including rental payments made in the form of in-kind commodities,” after “total amount of rental payments”.
+    Subsec. (g)(1). [Pub. L. 113–79][/us/pl/113/79], § 2005(e)(1), struck out “, including rental payments made in the form of in-kind commodities,” after “total amount of rental payments”.
 
-    Subsec. (g)(2) to (4). [Pub. L. 113–79, § 2005(e)(2)][/us/pl/113/79/s2005/e/2], (3), redesignated par. (4) as (2) and struck out par. (3). Prior to amendment, text of par. (3) read as follows: “Rental payments received by an owner or operator shall be in addition to, and not affect, the total amount of payments that the owner or operator is otherwise eligible to receive under the Farm Security and Rural Investment Act of 2002.”
+    Subsec. (g)(2) to (4). [Pub. L. 113–79][/us/pl/113/79], § 2005(e)(2), (3), redesignated par. (4) as (2) and struck out par. (3). Prior to amendment, text of par. (3) read as follows: “Rental payments received by an owner or operator shall be in addition to, and not affect, the total amount of payments that the owner or operator is otherwise eligible to receive under the Farm Security and Rural Investment Act of 2002.”
 
-    Subsec. (h). [Pub. L. 113–79, § 2005(b)(2)][/us/pl/113/79/s2005/b/2], redesignated subsec. (g) as (h).
+    Subsec. (h). [Pub. L. 113–79][/us/pl/113/79], § 2005(b)(2), redesignated subsec. (g) as (h).
 
-    2008—Subsec. (b)(3). [Pub. L. 110–246, § 2109][/us/pl/110/246/s2109], added par. (3) and struck out former par. (3) which related to the making of payments to an owner or operator of land devoted to the production of hardwood trees, windbreaks, shelterbelts, or wildlife corridors.
+    2008—Subsec. (b)(3). [Pub. L. 110–246][/us/pl/110/246], § 2109, added par. (3) and struck out former par. (3) which related to the making of payments to an owner or operator of land devoted to the production of hardwood trees, windbreaks, shelterbelts, or wildlife corridors.
 
-    Subsec. (c)(3). [Pub. L. 110–246, § 2110(a)][/us/pl/110/246/s2110/a], added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “In determining the acceptability of contract offers, the Secretary may—
+    Subsec. (c)(3). [Pub. L. 110–246][/us/pl/110/246], § 2110(a), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “In determining the acceptability of contract offers, the Secretary may—
 
     “(A) take into consideration the extent to which enrollment of the land that is the subject of the contract offer would improve soil resources, water quality, wildlife habitat, or provide other environmental benefits; and
 
     “(B) establish different criteria in various States and regions of the United States based on the extent to which water quality or wildlife habitat may be improved or erosion may be abated.”
 
-    Subsec. (c)(5). [Pub. L. 110–246, § 2110(b)(1)][/us/pl/110/246/s2110/b/1], added par. (5).
+    Subsec. (c)(5). [Pub. L. 110–246][/us/pl/110/246], § 2110(b)(1), added par. (5).
 
-    Subsec. (f)(1). [Pub. L. 110–246, § 2110(c)(1)][/us/pl/110/246/s2110/c/1], substituted “received by a person or legal entity, directly or indirectly,” for “made to a person”.
+    Subsec. (f)(1). [Pub. L. 110–246][/us/pl/110/246], § 2110(c)(1), substituted “received by a person or legal entity, directly or indirectly,” for “made to a person”.
 
-    Subsec. (f)(2). [Pub. L. 110–246, § 2110(c)(2)][/us/pl/110/246/s2110/c/2], struck out par. (2) which related to promulgation of regulations defining the term “person” as used in subsec. (f) and providing terms and conditions determined necessary to ensure a fair and reasonable application of the subsec. (f) limitation.
+    Subsec. (f)(2). [Pub. L. 110–246][/us/pl/110/246], § 2110(c)(2), struck out par. (2) which related to promulgation of regulations defining the term “person” as used in subsec. (f) and providing terms and conditions determined necessary to ensure a fair and reasonable application of the subsec. (f) limitation.
 
-    Subsec. (f)(4)(A). [Pub. L. 110–246, § 2110(c)(3)][/us/pl/110/246/s2110/c/3], substituted “any person or legal entity” for “any person”.
+    Subsec. (f)(4)(A). [Pub. L. 110–246][/us/pl/110/246], § 2110(c)(3), substituted “any person or legal entity” for “any person”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -239,7 +239,7 @@
 
  __First Survey Pursuant to Subsection (c)(5)__ 
 
-[Pub. L. 110–234, title II, § 2110(b)(2)][/us/pl/110/234/s2110/b/2], May 22, 2008, [122 Stat. 1035][/us/stat/122/1035], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2110(b)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1763, provided that: 
+[Pub. L. 110–234, title II][/us/pl/110/234/tII], § 2110(b)(2), May 22, 2008, [122 Stat. 1035][/us/stat/122/1035], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title II, § 2110(b)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1763, provided that: 
 
 > “The first survey required by paragraph (5) of section 1234(c) \[now 1234(d)\] of the Food Security Act of 1985 ([16 U.S.C. 3834(c)][/us/usc/t16/s3834/c] \[now [16 U.S.C. 3834(d)][/us/usc/t16/s3834/d]\]), as added by subsection (a), shall be conducted not later than 1 year after the date of enactment of this Act \[June 18, 2008\].”
 
@@ -259,58 +259,58 @@
 [/us/usc/t16/s3831/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3831%2Fb%2F3
 [/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
-[/us/pl/99/198/s1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1234
-[/us/pl/107/171/s2101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2101%2Fa
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/107/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtII
 [/us/stat/116/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F245
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtII
 [/us/stat/122/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1034
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2005
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F718
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/99/198/s1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1234
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
 [/us/stat/99/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1511
-[/us/pl/100/387/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2Fs322
+[/us/pl/100/387/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2FtIII
 [/us/stat/102/950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F950
-[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIV
 [/us/stat/104/3581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3581
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
-[/us/pl/113/79/s2005/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2005%2Fb%2F1%2FA
-[/us/pl/113/79/s2005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2005%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/usc/t16/s3835a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3835a
 [/us/usc/t16/s3832/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3832%2Fa%2F9
-[/us/pl/113/79/s2005/b/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2005%2Fb%2F1%2FB%2Fi
-[/us/pl/113/79/s2005/b/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2005%2Fb%2F1%2FB%2Fii
-[/us/pl/113/79/s2005/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2005%2Fb%2F2
-[/us/pl/113/79/s2005/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2005%2Fc%2F1
-[/us/pl/113/79/s2005/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2005%2Fc%2F2
-[/us/pl/113/79/s2005/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2005%2Fc%2F3%2FA
-[/us/pl/113/79/s2005/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2005%2Fc%2F3%2FB
-[/us/pl/113/79/s2005/c/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2005%2Fc%2F3%2FC
-[/us/pl/113/79/s2005/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2005%2Fd
-[/us/pl/113/79/s2005/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2005%2Fb%2F2
-[/us/pl/113/79/s2005/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2005%2Fb%2F2
-[/us/pl/113/79/s2005/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2005%2Fe%2F1
-[/us/pl/113/79/s2005/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2005%2Fe%2F2
-[/us/pl/113/79/s2005/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2005%2Fb%2F2
-[/us/pl/110/246/s2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2109
-[/us/pl/110/246/s2110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2110%2Fa
-[/us/pl/110/246/s2110/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2110%2Fb%2F1
-[/us/pl/110/246/s2110/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2110%2Fc%2F1
-[/us/pl/110/246/s2110/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2110%2Fc%2F2
-[/us/pl/110/246/s2110/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2110%2Fc%2F3
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/110/234/s2110/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2110%2Fb%2F2
+[/us/pl/110/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtII
 [/us/stat/122/1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1035
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t16/s3834/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3834%2Fc
 [/us/usc/t16/s3834/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3834%2Fd

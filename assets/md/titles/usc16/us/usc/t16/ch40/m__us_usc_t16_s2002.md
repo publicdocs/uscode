@@ -23,7 +23,7 @@
 
     (3) The term “soil and water conservation program” means a set of guidelines for attaining the purposes of this chapter.
 
-([Pub. L. 95–192, § 3][/us/pl/95/192/s3], Nov. 18, 1977, [91 Stat. 1407][/us/stat/91/1407]; [Pub. L. 103–354, title II, § 246(f)(2)(B)][/us/pl/103/354/s246/f/2/B], Oct. 13, 1994, [108 Stat. 3225][/us/stat/108/3225].)
+([Pub. L. 95–192][/us/pl/95/192], § 3, Nov. 18, 1977, [91 Stat. 1407][/us/stat/91/1407]; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 246(f)(2)(B), Oct. 13, 1994, [108 Stat. 3225][/us/stat/108/3225].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/95/192/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F192%2Fs3
+[/us/pl/95/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F192
 [/us/stat/91/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1407
-[/us/pl/103/354/s246/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs246%2Ff%2F2%2FB
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3225
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/stat/93/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1373

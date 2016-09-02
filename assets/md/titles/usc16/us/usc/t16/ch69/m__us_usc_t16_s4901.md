@@ -45,11 +45,11 @@
 
     (14) This chapter provides a series of nondiscriminatory measures that are necessary for the conservation of exotic birds, and furthers the obligations of the United States under the Convention.
 
-([Pub. L. 102–440, title I, § 102][/us/pl/102/440/s102], Oct. 23, 1992, [106 Stat. 2224][/us/stat/106/2224].)
+([Pub. L. 102–440, title I][/us/pl/102/440/tI], § 102, Oct. 23, 1992, [106 Stat. 2224][/us/stat/106/2224].)
 
  __Short Title__ 
 
-[Pub. L. 102–440, title I, § 101][/us/pl/102/440/s101], Oct. 23, 1992, [106 Stat. 2224][/us/stat/106/2224], provided that: 
+[Pub. L. 102–440, title I][/us/pl/102/440/tI], § 101, Oct. 23, 1992, [106 Stat. 2224][/us/stat/106/2224], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Wild Bird Conservation Act of 1992’.”
 
@@ -60,9 +60,9 @@
 ----------
 ----------
 
-[/us/pl/102/440/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2Fs102
+[/us/pl/102/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2FtI
 [/us/stat/106/2224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2224
-[/us/pl/102/440/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2Fs101
+[/us/pl/102/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2FtI
 [/us/stat/106/2224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2224
 
 

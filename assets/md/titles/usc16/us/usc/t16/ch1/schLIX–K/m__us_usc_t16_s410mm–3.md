@@ -19,7 +19,7 @@
 
     (b) Not more than $200,000 are authorized to be appropriated for acquisition of lands and interests in land within the park.
 
-([Pub. L. 99–565, § 5][/us/pl/99/565/s5], Oct. 27, 1986, [100 Stat. 3183][/us/stat/100/3183].)
+([Pub. L. 99–565][/us/pl/99/565], § 5, Oct. 27, 1986, [100 Stat. 3183][/us/stat/100/3183].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/99/565/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F565%2Fs5
+[/us/pl/99/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F565
 [/us/stat/100/3183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3183
 
 

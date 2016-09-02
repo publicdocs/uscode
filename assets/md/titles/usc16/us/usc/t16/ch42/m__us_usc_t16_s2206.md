@@ -65,7 +65,7 @@
 
         There are authorized to be appropriated to the Secretary such funds as may be necessary to carry out this section. Amounts so appropriated shall remain available until expended.
 
-([Pub. L. 95–334, title IV, § 407][/us/pl/95/334/s407], as added [Pub. L. 110–234, title VIII, § 8203(a)][/us/pl/110/234/s8203/a], May 22, 2008, [122 Stat. 1290][/us/stat/122/1290], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VIII, § 8203(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2051.)
+([Pub. L. 95–334, title IV][/us/pl/95/334/tIV], § 407, as added [Pub. L. 110–234, title VIII][/us/pl/110/234/tVIII], § 8203(a), May 22, 2008, [122 Stat. 1290][/us/stat/122/1290], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VIII, § 8203(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2051.)
 
  __Codification__ 
 
@@ -77,7 +77,7 @@
 
  __Regulations__ 
 
-[Pub. L. 110–234, title VIII, § 8203(b)][/us/pl/110/234/s8203/b], May 22, 2008, [122 Stat. 1291][/us/stat/122/1291], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VIII, § 8203(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2052, provided that: 
+[Pub. L. 110–234, title VIII][/us/pl/110/234/tVIII], § 8203(b), May 22, 2008, [122 Stat. 1291][/us/stat/122/1291], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VIII, § 8203(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2052, provided that: 
 
 > “Not later than one year after the date of the enactment of this Act \[June 18, 2008\], the Secretary of Agriculture shall issue regulations to carry out section 407 of the Agricultural Credit Act of 1978 \[[16 U.S.C. 2206][/us/usc/t16/s2206]\], as added by subsection (a).”
 
@@ -90,10 +90,10 @@
 ----------
 ----------
 
-[/us/pl/95/334/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334%2Fs407
-[/us/pl/110/234/s8203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs8203%2Fa
+[/us/pl/95/334/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334%2FtIV
+[/us/pl/110/234/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVIII
 [/us/stat/122/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1290
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -104,9 +104,9 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/110/234/s8203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs8203%2Fb
+[/us/pl/110/234/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVIII
 [/us/stat/122/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1291
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t16/s2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2206
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

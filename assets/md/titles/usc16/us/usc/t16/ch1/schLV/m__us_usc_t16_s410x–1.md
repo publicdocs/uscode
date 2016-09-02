@@ -35,7 +35,7 @@
 
         The extension of any such residential special use permit shall be conditional upon the payment by the individual holding such permit of an annual fee in the same amount as required as of July 1, 1991.
 
-([Pub. L. 86–321, § 7][/us/pl/86/321/s7], as added [Pub. L. 102–488, § 2(5)][/us/pl/102/488/s2/5]\[(4)\], Oct. 24, 1992, [106 Stat. 3136][/us/stat/106/3136].)
+([Pub. L. 86–321][/us/pl/86/321], § 7, as added [Pub. L. 102–488][/us/pl/102/488], § 2(5)\[(4)\], Oct. 24, 1992, [106 Stat. 3136][/us/stat/106/3136].)
 
 ----------
 
@@ -44,8 +44,8 @@
 ----------
 ----------
 
-[/us/pl/86/321/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F321%2Fs7
-[/us/pl/102/488/s2/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F488%2Fs2%2F5
+[/us/pl/86/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F321
+[/us/pl/102/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F488
 [/us/stat/106/3136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3136
 
 

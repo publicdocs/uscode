@@ -17,7 +17,7 @@
 
     The Secretary of the Smithsonian Institution, in conjunction with other affected agencies, is authorized and directed to review (1) species of plants which are now or may become endangered or threatened and (2) methods of adequately conserving such species, and to report to Congress, within one year after December 28, 1973, the results of such review including recommendations for new legislation or the amendment of existing legislation.
 
-([Pub. L. 93–205, § 12][/us/pl/93/205/s12], Dec. 28, 1973, [87 Stat. 901][/us/stat/87/901].)
+([Pub. L. 93–205][/us/pl/93/205], § 12, Dec. 28, 1973, [87 Stat. 901][/us/stat/87/901].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/205/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205%2Fs12
+[/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F901
 
 

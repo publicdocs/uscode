@@ -55,7 +55,7 @@ new mexico principal meridian, new mexico
 
         Notwithstanding subsection (a) of this section, when an exchange involves lands in section 32, township 24 south, range 24 east, New Mexico principal meridian, which the State of New Mexico has leased, the Secretary may compensate a lessee for the reasonable value of his improvements to the lands. Reasonable value shall be determined by the Secretary of the Interior by obtaining an impartial appraisal.
 
-([Pub. L. 88–249, § 2][/us/pl/88/249/s2], Dec. 30, 1963, [77 Stat. 818][/us/stat/77/818].)
+([Pub. L. 88–249][/us/pl/88/249], § 2, Dec. 30, 1963, [77 Stat. 818][/us/stat/77/818].)
 
 ----------
 
@@ -66,7 +66,7 @@ new mexico principal meridian, new mexico
 
 [/us/usc/t16/s407e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs407e
 [/us/usc/t16/s407e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs407e
-[/us/pl/88/249/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F249%2Fs2
+[/us/pl/88/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F249
 [/us/stat/77/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F818
 
 

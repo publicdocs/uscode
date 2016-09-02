@@ -17,7 +17,7 @@
 
     The administration, protection, and development of the aforesaid national historic site shall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]), entitled “An Act to establish a National Park Service, and for other purposes”, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended.
 
-([Aug. 29, 1935, ch. 801, § 3][/us/act/1935-08-29/ch801/s3], [49 Stat. 958][/us/stat/49/958]; [Pub. L. 88–197, § 1][/us/pl/88/197/s1], Dec. 11, 1963, [77 Stat. 349][/us/stat/77/349].)
+([Aug. 29, 1935, ch. 801][/us/act/1935-08-29/ch801], § 3, [49 Stat. 958][/us/stat/49/958]; [Pub. L. 88–197][/us/pl/88/197], § 1, Dec. 11, 1963, [77 Stat. 349][/us/stat/77/349].)
 
  __References in Text__ 
 
@@ -39,9 +39,9 @@
 ----------
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
-[/us/act/1935-08-29/ch801/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch801%2Fs3
+[/us/act/1935-08-29/ch801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch801
 [/us/stat/49/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F958
-[/us/pl/88/197/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F197%2Fs1
+[/us/pl/88/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F197
 [/us/stat/77/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F349
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408

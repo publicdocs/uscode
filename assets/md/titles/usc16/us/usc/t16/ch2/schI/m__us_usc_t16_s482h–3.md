@@ -17,7 +17,7 @@
 
     Valid mining claims within the said lands, existing on June 11, 1946, and thereafter maintained in compliance with the law under which they were initiated and the laws of the State of Arizona, may be perfected under sections 482h–1 to 482h–3 of this title, or under the laws under which they were initiated, as the claimant may desire.
 
-([June 11, 1946, ch. 377, § 3][/us/act/1946-06-11/ch377/s3], [60 Stat. 255][/us/stat/60/255].)
+([June 11, 1946, ch. 377][/us/act/1946-06-11/ch377], § 3, [60 Stat. 255][/us/stat/60/255].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1946-06-11/ch377/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-11%2Fch377%2Fs3
+[/us/act/1946-06-11/ch377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-11%2Fch377
 [/us/stat/60/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F255
 
 

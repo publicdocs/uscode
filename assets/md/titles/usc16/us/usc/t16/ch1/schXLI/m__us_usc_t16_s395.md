@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXLI/m__us_usc_t16_s394.md) | [Next](./../../../../..//us/usc/t16/ch1/schXLI/m__us_usc_t16_s395c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs395)
+[Previous](./../../../../..//us/usc/t16/ch1/schXLI/m__us_usc_t16_s394.md) | [Next](./../../../../..//us/usc/t16/ch1/schXLI/m__us_usc_t16_s395a _us_usc_t16_s395b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs395)
 
 ## § 395. Exclusive jurisdiction in United States; exceptions; laws applicable; fugitives from justice
 
     Sole and exclusive jurisdiction shall be exercised by the United States over the territory which is now or may hereafter be included in the Hawaii National Park in the Territory of Hawaii, saving, however, to the Territory of Hawaii the right to serve civil or criminal process within the limits of the aforesaid park in suits or prosecutions for or on account of rights acquired, obligations incurred, or crimes committed outside of said park, and saving further to the Territory of Hawaii the right to tax persons and corporations, their franchises and property on the lands included in said park. All the laws applicable to places under the sole and exclusive jurisdiction of the United States shall have force and effect in said park. All fugitives from justice taking refuge in said park shall be subject to the same laws as refugees from justice found in the Territory of Hawaii.
 
-([Apr. 19, 1930, ch. 200, § 1][/us/act/1930-04-19/ch200/s1], [46 Stat. 227][/us/stat/46/227].)
+([Apr. 19, 1930, ch. 200][/us/act/1930-04-19/ch200], § 1, [46 Stat. 227][/us/stat/46/227].)
 
  __Admission of Hawaii as State__ 
 
@@ -31,33 +31,19 @@
 
     Establishment of detached portion of Hawaii National Park lying on island of Maui as Haleakala̅ National Park, effective July 1, 1961, see [section 396b of this title][/us/usc/t16/s396b].
 
-§§ 395a, 395b. __Repealed.__  __[__  __June 25, 1948, ch. 646, § 39__  __][/us/act/1948-06-25/ch646/s39]__  __,__  __[__  __62 Stat. 992__  __][/us/stat/62/992]__  __, eff.__  __Sept. 1, 1948__ 
-
-    Section 395a, [act Apr. 19, 1930, ch. 200, § 2][/us/act/1930-04-19/ch200/s2], [46 Stat. 227][/us/stat/46/227], related to courts having jurisdiction of offenses. See [section 3231 of Title 18][/us/usc/t18/s3231], Crimes and Criminal Procedure, and rule 18 of Federal Rules of Criminal Procedure, Title 18, Appendix.
-
-    Section 395b, [act Apr. 19, 1930, ch. 200, § 3][/us/act/1930-04-19/ch200/s3], [46 Stat. 227][/us/stat/46/227], related to applicability of Hawaiian laws to offenses. See [section 13 of Title 18][/us/usc/t18/s13].
-
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXLI/m__us_usc_t16_s394.md) | [Next](./../../../../..//us/usc/t16/ch1/schXLI/m__us_usc_t16_s395c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs395)
+[Previous](./../../../../..//us/usc/t16/ch1/schXLI/m__us_usc_t16_s394.md) | [Next](./../../../../..//us/usc/t16/ch1/schXLI/m__us_usc_t16_s395a _us_usc_t16_s395b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs395)
 
 ----------
 ----------
 
-[/us/act/1930-04-19/ch200/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-04-19%2Fch200%2Fs1
+[/us/act/1930-04-19/ch200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-04-19%2Fch200
 [/us/stat/46/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F227
 [/us/pl/86/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F3
 [/us/stat/73/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F4
 [/us/usc/t48/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs491
 [/us/usc/t16/s391d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs391d
 [/us/usc/t16/s396b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs396b
-[/us/act/1948-06-25/ch646/s39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs39
-[/us/stat/62/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F992
-[/us/act/1930-04-19/ch200/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-04-19%2Fch200%2Fs2
-[/us/stat/46/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F227
-[/us/usc/t18/s3231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3231
-[/us/act/1930-04-19/ch200/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-04-19%2Fch200%2Fs3
-[/us/stat/46/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F227
-[/us/usc/t18/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs13
 
 

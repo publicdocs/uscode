@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t16/ch1A/schII/ptC/m__us_usc_t16_ch1A_schII_ptC.md) | [Next](./../../../../../..//us/usc/t16/ch1A/schII/ptC/m__us_usc_t16_s470w–1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470w)
 
-## § 470w. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
+## § 470w. Repealed. [Pub. L. 113–287][/us/pl/113/287], § 7, Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [Pub. L. 89–665, title III, § 301][/us/pl/89/665/s301], as added [Pub. L. 96–515, title V, § 501][/us/pl/96/515/s501], Dec. 12, 1980, [94 Stat. 3001][/us/stat/94/3001]; amended [Pub. L. 102–575, title XL, § 4019(a)][/us/pl/102/575/s4019/a], Oct. 30, 1992, [106 Stat. 4763][/us/stat/106/4763]; [Pub. L. 106–208, § 5(a)(10)][/us/pl/106/208/s5/a/10], May 26, 2000, [114 Stat. 319][/us/stat/114/319], provided definitions for this subchapter. Provisions of section were restated in numerous sections in chapter 3003 of Title 54, National Park Service and Related Programs. For disposition of section, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
+    Section, [Pub. L. 89–665, title III][/us/pl/89/665/tIII], § 301, as added [Pub. L. 96–515, title V][/us/pl/96/515/tV], § 501, Dec. 12, 1980, [94 Stat. 3001][/us/stat/94/3001]; amended [Pub. L. 102–575, title XL][/us/pl/102/575/tXL], § 4019(a), Oct. 30, 1992, [106 Stat. 4763][/us/stat/106/4763]; [Pub. L. 106–208][/us/pl/106/208], § 5(a)(10), May 26, 2000, [114 Stat. 319][/us/stat/114/319], provided definitions for this subchapter. Provisions of section were restated in numerous sections in chapter 3003 of Title 54, National Park Service and Related Programs. For disposition of section, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
 
 ----------
 
@@ -24,14 +24,14 @@
 ----------
 ----------
 
-[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
-[/us/pl/89/665/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665%2Fs301
-[/us/pl/96/515/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F515%2Fs501
+[/us/pl/89/665/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665%2FtIII
+[/us/pl/96/515/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F515%2FtV
 [/us/stat/94/3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3001
-[/us/pl/102/575/s4019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575%2Fs4019%2Fa
+[/us/pl/102/575/tXL]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575%2FtXL
 [/us/stat/106/4763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4763
-[/us/pl/106/208/s5/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F208%2Fs5%2Fa%2F10
+[/us/pl/106/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F208
 [/us/stat/114/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F319
 [/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 

@@ -33,7 +33,7 @@
 
         The Secretary may not close any State roads within the park unless action permitting the closing of such roads has been taken by appropriate officials of the Commonwealth of Virginia.
 
-([Apr. 17, 1954, ch. 153, § 2][/us/act/1954-04-17/ch153/s2], as added [Pub. L. 96–442, § 2][/us/pl/96/442/s2], Oct. 13, 1980, [94 Stat. 1885][/us/stat/94/1885]; amended [Pub. L. 100–647, title X, § 10003][/us/pl/100/647/s10003], Nov. 10, 1988, [102 Stat. 3811][/us/stat/102/3811].)
+([Apr. 17, 1954, ch. 153][/us/act/1954-04-17/ch153], § 2, as added [Pub. L. 96–442][/us/pl/96/442], § 2, Oct. 13, 1980, [94 Stat. 1885][/us/stat/94/1885]; amended [Pub. L. 100–647, title X][/us/pl/100/647/tX], § 10003, Nov. 10, 1988, [102 Stat. 3811][/us/stat/102/3811].)
 
  __Amendments__ 
 
@@ -48,10 +48,10 @@
 
 [/us/usc/t16/s429b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs429b
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
-[/us/act/1954-04-17/ch153/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-04-17%2Fch153%2Fs2
-[/us/pl/96/442/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F442%2Fs2
+[/us/act/1954-04-17/ch153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-04-17%2Fch153
+[/us/pl/96/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F442
 [/us/stat/94/1885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1885
-[/us/pl/100/647/s10003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs10003
+[/us/pl/100/647/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtX
 [/us/stat/102/3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3811
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 

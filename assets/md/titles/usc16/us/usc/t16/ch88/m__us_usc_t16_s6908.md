@@ -17,7 +17,7 @@
 
     The Secretary of State shall ensure participation in the Commission and its subsidiary bodies by American Samoa, Guam, and the Northern Mariana Islands to the same extent provided to the territories of other nations.
 
-([Pub. L. 109–479, title V, § 509][/us/pl/109/479/s509], Jan. 12, 2007, [120 Stat. 3643][/us/stat/120/3643].)
+([Pub. L. 109–479, title V][/us/pl/109/479/tV], § 509, Jan. 12, 2007, [120 Stat. 3643][/us/stat/120/3643].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/479/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs509
+[/us/pl/109/479/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtV
 [/us/stat/120/3643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3643
 
 

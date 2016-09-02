@@ -99,7 +99,7 @@
 
             As part of the development of the general management plan, the Secretary shall prepare a financial analysis indicating how the management of the Preserve may be fully supported through fees, private donations, and other forms of non-Federal funding.
 
-([Pub. L. 104–333, div. I, title X, § 1005][/us/pl/104/333/s1005], Nov. 12, 1996, [110 Stat. 4205][/us/stat/110/4205]; [Pub. L. 106–176, title I, § 122(3)][/us/pl/106/176/s122/3], Mar. 10, 2000, [114 Stat. 29][/us/stat/114/29].)
+([Pub. L. 104–333, div. I, title X][/us/pl/104/333/dI/tX], § 1005, Nov. 12, 1996, [110 Stat. 4205][/us/stat/110/4205]; [Pub. L. 106–176, title I][/us/pl/106/176/tI], § 122(3), Mar. 10, 2000, [114 Stat. 29][/us/stat/114/29].)
 
  __References in Text__ 
 
@@ -111,13 +111,13 @@
 
  __Codification__ 
 
-    In subsec. (e), “[section 100904 of title 54][/us/usc/t54/s100904]” substituted for “section 4 of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–6a)” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (e), “[section 100904 of title 54][/us/usc/t54/s100904]” substituted for “section 4 of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–6a)” on authority of [Pub. L. 113–287][/us/pl/113/287], § 6(e), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
  __Amendments__ 
 
-    2000—Subsec. (d)(1). [Pub. L. 106–176, § 122(3)(A)][/us/pl/106/176/s122/3/A], made technical amendment to reference in original act which appears in text as reference to sections 698u to 698u–7 of this title.
+    2000—Subsec. (d)(1). [Pub. L. 106–176][/us/pl/106/176], § 122(3)(A), made technical amendment to reference in original act which appears in text as reference to sections 698u to 698u–7 of this title.
 
-    Subsec. (g)(3)(A). [Pub. L. 106–176, § 122(3)(B)][/us/pl/106/176/s122/3/B], substituted “the tallgrass prairie” for “the tall grass prairie”.
+    Subsec. (g)(3)(A). [Pub. L. 106–176][/us/pl/106/176], § 122(3)(B), substituted “the tallgrass prairie” for “the tall grass prairie”.
 
  __Change of Name__ 
 
@@ -137,9 +137,9 @@
 [/us/usc/t54/s100904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100904
 [/us/usc/t16/s698u–2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs698u%E2%80%932%2Fb
 [/us/usc/t16/s698u–2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs698u%E2%80%932%2Fb
-[/us/pl/104/333/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs1005
+[/us/pl/104/333/dI/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtX
 [/us/stat/110/4205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4205
-[/us/pl/106/176/s122/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs122%2F3
+[/us/pl/106/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2FtI
 [/us/stat/114/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F29
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
@@ -163,9 +163,9 @@
 [/us/stat/62/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F992
 [/us/usc/t54/s100904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100904
 [/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
-[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
-[/us/pl/106/176/s122/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs122%2F3%2FA
-[/us/pl/106/176/s122/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs122%2F3%2FB
+[/us/pl/106/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176
+[/us/pl/106/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176
 
 

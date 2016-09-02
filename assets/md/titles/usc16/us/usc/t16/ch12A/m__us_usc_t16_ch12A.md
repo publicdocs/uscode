@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs831" data-uslm-ref="/us/usc/t16/s831">831</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs831l" data-uslm-ref="/us/usc/t16/s831l">831l.</a>  </td>
 
     <td> Financial assistance to States and local governments in lieu of taxation; apportionment; limitation on contracts for sale of power to municipalities; report to Congress.  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs831" data-uslm-ref="/us/usc/t16/s831">831</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs831o" data-uslm-ref="/us/usc/t16/s831o">831o.</a>  </td>
 
     <td> Completion of unfinished plants authorized.  </td>
 

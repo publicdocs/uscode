@@ -27,7 +27,7 @@
 
         If the corrective action is not fully implemented not later than 1 year after the responsible persons receive the information, the Secretary may conduct a review of the status of compliance of the persons with the conservation plan and this subchapter.
 
-([Pub. L. 99–198, title XII, § 1215][/us/pl/99/198/s1215], as added [Pub. L. 104–127, title III, § 316][/us/pl/104/127/s316], Apr. 4, 1996, [110 Stat. 985][/us/stat/110/985].)
+([Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1215, as added [Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 316, Apr. 4, 1996, [110 Stat. 985][/us/stat/110/985].)
 
 ----------
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/99/198/s1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1215
-[/us/pl/104/127/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs316
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F985
 
 

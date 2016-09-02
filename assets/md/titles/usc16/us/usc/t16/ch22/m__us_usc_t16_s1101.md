@@ -21,11 +21,11 @@
 
     (b) The term “United States members” means members of the Commission appointed by the President. The term “Canadian members” means members of the Commission appointed by the appropriate authorities in Canada.
 
-([Pub. L. 88–363, § 2][/us/pl/88/363/s2], July 7, 1964, [78 Stat. 299][/us/stat/78/299].)
+([Pub. L. 88–363][/us/pl/88/363], § 2, July 7, 1964, [78 Stat. 299][/us/stat/78/299].)
 
  __Short Title__ 
 
-[Pub. L. 88–363, § 1][/us/pl/88/363/s1], July 7, 1964, [78 Stat. 299][/us/stat/78/299], provided: 
+[Pub. L. 88–363][/us/pl/88/363], § 1, July 7, 1964, [78 Stat. 299][/us/stat/78/299], provided: 
 
 > “That this Act \[enacting this chapter\] may be cited as the ‘Roosevelt Campobello International Park Act’.”
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/88/363/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F363%2Fs2
+[/us/pl/88/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F363
 [/us/stat/78/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F299
-[/us/pl/88/363/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F363%2Fs1
+[/us/pl/88/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F363
 [/us/stat/78/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F299
 
 

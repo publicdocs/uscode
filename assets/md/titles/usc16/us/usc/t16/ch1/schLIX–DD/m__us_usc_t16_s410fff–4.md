@@ -23,11 +23,11 @@
 
         The Black Canyon of the Gunnison Wilderness shall be administered as a component of the Park.
 
-([Pub. L. 106–76, § 6][/us/pl/106/76/s6], Oct. 21, 1999, [113 Stat. 1129][/us/stat/113/1129].)
+([Pub. L. 106–76][/us/pl/106/76], § 6, Oct. 21, 1999, [113 Stat. 1129][/us/stat/113/1129].)
 
  __References in Text__ 
 
-    Subsection (b) of the first section of [Public Law 94–567][/us/pl/94/567], referred to in subsec. (a), is [Pub. L. 94–567, § 1(b)][/us/pl/94/567/s1/b], Oct. 20, 1976, [90 Stat. 2692][/us/stat/90/2692], which enacted provisions listed in a table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132].
+    Subsection (b) of the first section of [Public Law 94–567][/us/pl/94/567], referred to in subsec. (a), is [Pub. L. 94–567][/us/pl/94/567], § 1(b), Oct. 20, 1976, [90 Stat. 2692][/us/stat/90/2692], which enacted provisions listed in a table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132].
 
 ----------
 
@@ -38,10 +38,10 @@
 
 [/us/pl/94/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F567
 [/us/stat/90/2692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2692
-[/us/pl/106/76/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F76%2Fs6
+[/us/pl/106/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F76
 [/us/stat/113/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1129
 [/us/pl/94/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F567
-[/us/pl/94/567/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F567%2Fs1%2Fb
+[/us/pl/94/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F567
 [/us/stat/90/2692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2692
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132
 

@@ -19,7 +19,7 @@
 
     (b) Upon the filing of the legal descriptions and maps as provided for in subsection (a) of this section the Pasayten Wilderness and the additions to the Glacier Peak Wilderness shall be administered by the Secretary of Agriculture in accordance with the provisions of the Wilderness Act \[[16 U.S.C. 1131][/us/usc/t16/s1131] et seq.\] and thereafter shall be subject to the provisions of the Wilderness Act governing areas designated by that Act as wilderness areas, except that any reference in such provisions to the effective date of the Wilderness Act shall be deemed to be a reference to the effective date of this subchapter.
 
-([Pub. L. 90–544, title VI, § 603][/us/pl/90/544/s603], Oct. 2, 1968, [82 Stat. 930][/us/stat/82/930]; [Pub. L. 103–437, § 6(e)][/us/pl/103/437/s6/e], Nov. 2, 1994, [108 Stat. 4585][/us/stat/108/4585].)
+([Pub. L. 90–544, title VI][/us/pl/90/544/tVI], § 603, Oct. 2, 1968, [82 Stat. 930][/us/stat/82/930]; [Pub. L. 103–437][/us/pl/103/437], § 6(e), Nov. 2, 1994, [108 Stat. 4585][/us/stat/108/4585].)
 
  __References in Text__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
-[/us/pl/90/544/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F544%2Fs603
+[/us/pl/90/544/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F544%2FtVI
 [/us/stat/82/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F930
-[/us/pl/103/437/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fe
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4585
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890

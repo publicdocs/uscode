@@ -31,7 +31,7 @@
 
     (7) guidelines for the application of cooperative agreements that will be used to assist in the management of historical park facilities and programs.
 
-([Pub. L. 103–433, title XII, § 1206][/us/pl/103/433/s1206], Oct. 31, 1994, [108 Stat. 4522][/us/stat/108/4522].)
+([Pub. L. 103–433, title XII][/us/pl/103/433/tXII], § 1206, Oct. 31, 1994, [108 Stat. 4522][/us/stat/108/4522].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t16/s410bbb–1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410bbb%E2%80%931%2Fb%2F3
-[/us/pl/103/433/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs1206
+[/us/pl/103/433/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtXII
 [/us/stat/108/4522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4522
 
 

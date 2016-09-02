@@ -17,7 +17,7 @@
 
     The Secretary of the Interior or the Secretary of Commerce may accept, without regard to the civil service classification laws, rules, or regulations, the services of the Foundation, the Board, and the officers and employees of the Board, without compensation from the Department of the Interior or the Department of Commerce, as volunteers in the performance of the functions authorized herein, in the manner provided for under [section 742f(c) of this title][/us/usc/t16/s742f/c].
 
-([Pub. L. 98–244, § 6][/us/pl/98/244/s6], Mar. 26, 1984, [98 Stat. 109][/us/stat/98/109]; [Pub. L. 106–408, title II, § 203(c)(2)][/us/pl/106/408/s203/c/2], Nov. 1, 2000, [114 Stat. 1779][/us/stat/114/1779].)
+([Pub. L. 98–244][/us/pl/98/244], § 6, Mar. 26, 1984, [98 Stat. 109][/us/stat/98/109]; [Pub. L. 106–408, title II][/us/pl/106/408/tII], § 203(c)(2), Nov. 1, 2000, [114 Stat. 1779][/us/stat/114/1779].)
 
  __Amendments__ 
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/usc/t16/s742f/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs742f%2Fc
-[/us/pl/98/244/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F244%2Fs6
+[/us/pl/98/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F244
 [/us/stat/98/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F109
-[/us/pl/106/408/s203/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2Fs203%2Fc%2F2
+[/us/pl/106/408/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2FtII
 [/us/stat/114/1779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1779
 [/us/pl/106/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408
 

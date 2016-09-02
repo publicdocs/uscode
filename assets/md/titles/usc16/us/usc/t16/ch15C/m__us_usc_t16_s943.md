@@ -29,11 +29,11 @@
 
         (3) appropriate scientific use of the tissues in the Great Lakes Fish and Wildlife Tissue Bank.
 
-([Pub. L. 102–440, title II, § 202][/us/pl/102/440/s202], Oct. 23, 1992, [106 Stat. 2233][/us/stat/106/2233].)
+([Pub. L. 102–440, title II][/us/pl/102/440/tII], § 202, Oct. 23, 1992, [106 Stat. 2233][/us/stat/106/2233].)
 
  __Short Title__ 
 
-[Pub. L. 102–440, title II, § 201][/us/pl/102/440/s201], Oct. 23, 1992, [106 Stat. 2233][/us/stat/106/2233], provided that: 
+[Pub. L. 102–440, title II][/us/pl/102/440/tII], § 201, Oct. 23, 1992, [106 Stat. 2233][/us/stat/106/2233], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as ‘The Great Lakes Fish and Wildlife Tissue Bank Act’.”
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/102/440/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2Fs202
+[/us/pl/102/440/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2FtII
 [/us/stat/106/2233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2233
-[/us/pl/102/440/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2Fs201
+[/us/pl/102/440/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2FtII
 [/us/stat/106/2233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2233
 
 

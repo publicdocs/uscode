@@ -23,7 +23,7 @@
 
         Except as specifically provided otherwise by this section, nothing in this subchapter is intended to enlarge or diminish the authority of the Secretary to designate areas where, and establish periods when, no taking of fish and wildlife shall be permitted on the public lands for reasons of public safety, administration, or to assure the continued viability of a particular fish or wildlife population. Notwithstanding any other provision of this Act or other law, the Secretary, after consultation with the State and adequate notice and public hearing, may temporarily close any public lands (including those within any conservation system unit), or any portion thereof, to subsistence uses of a particular fish or wildlife population only if necessary for reasons of public safety, administration, or to assure the continued viability of such population. If the Secretary determines that an emergency situation exists and that extraordinary measures must be taken for public safety or to assure the continued viability of a particular fish or wildlife population, the Secretary may immediately close the public lands, or any portion thereof, to the subsistence uses of such population and shall publish the reasons justifying the closure in the Federal Register. Such emergency closure shall be effective when made, shall not extend for a period exceeding sixty days, and may not subsequently be extended unless the Secretary affirmatively establishes, after notice and public hearing, that such closure should be extended.
 
-([Pub. L. 96–487, title VIII, § 816][/us/pl/96/487/s816], Dec. 2, 1980, [94 Stat. 2430][/us/stat/94/2430].)
+([Pub. L. 96–487, title VIII][/us/pl/96/487/tVIII], § 816, Dec. 2, 1980, [94 Stat. 2430][/us/stat/94/2430].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/96/487/s816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs816
+[/us/pl/96/487/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtVIII
 [/us/stat/94/2430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2430
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371

@@ -23,7 +23,7 @@
 
         The establishment, operation, and maintenance within any conservation system unit of new air and water navigation aids and related facilities, facilities for national defense purposes, and related air and water navigation aids, and facilities for weather, climate, and fisheries research and monitoring shall be permitted but only (1) after consultation with the Secretary or the Secretary of Agriculture, as appropriate, by the head of the Federal department or agency undertaking such establishment, operation, or maintenance, and (2) in accordance with such terms and conditions as may be mutually agreed in order to minimize the adverse effects of such activities within such unit.
 
-([Pub. L. 96–487, title XIII, § 1310][/us/pl/96/487/s1310], Dec. 2, 1980, [94 Stat. 2481][/us/stat/94/2481].)
+([Pub. L. 96–487, title XIII][/us/pl/96/487/tXIII], § 1310, Dec. 2, 1980, [94 Stat. 2481][/us/stat/94/2481].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
-[/us/pl/96/487/s1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1310
+[/us/pl/96/487/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXIII
 [/us/stat/94/2481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2481
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371

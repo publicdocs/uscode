@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch81/m__us_usc_t16_ch81.md) | [Next](./../../../..//us/usc/t16/ch81A/m__us_usc_t16_ch81A.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6214)
+[Previous](./../../../..//us/usc/t16/ch81/m__us_usc_t16_s6201...6213.md) | [Next](./../../../..//us/usc/t16/ch81A/m__us_usc_t16_ch81A.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6214)
 
 ## § 6214. Cabin user and transfer fees
 
@@ -309,7 +309,7 @@
 
         Effective on the date of the assessment of annual permit fees in accordance with subsection (f) (as certified to Congress by the Secretary), the Cabin User Fee Fairness Act of 2000 ([16 U.S.C. 6201][/us/usc/t16/s6201] et seq.) is repealed.
 
-([Pub. L. 113–291, div. B, title XXX, § 3024][/us/pl/113/291/s3024], Dec. 19, 2014, [128 Stat. 3764][/us/stat/128/3764].)
+([Pub. L. 113–291, div. B, title XXX][/us/pl/113/291/dB/tXXX], § 3024, Dec. 19, 2014, [128 Stat. 3764][/us/stat/128/3764].)
 
  __References in Text__ 
 
@@ -321,7 +321,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch81/m__us_usc_t16_ch81.md) | [Next](./../../../..//us/usc/t16/ch81A/m__us_usc_t16_ch81A.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6214)
+[Previous](./../../../..//us/usc/t16/ch81/m__us_usc_t16_s6201...6213.md) | [Next](./../../../..//us/usc/t16/ch81A/m__us_usc_t16_ch81A.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6214)
 
 ----------
 ----------
@@ -331,7 +331,7 @@
 [/us/usc/t16/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6201
 [/us/usc/t16/s3193/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3193%2Fd
 [/us/usc/t16/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6201
-[/us/pl/113/291/s3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3024
+[/us/pl/113/291/dB/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXX
 [/us/stat/128/3764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3764
 [/us/pl/106/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291
 [/us/stat/114/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1014

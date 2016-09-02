@@ -27,7 +27,7 @@ Township 36 North, Range 14 West
 
     Section 33: That portion of the northwest quarter northwest quarter, more particularly described as follows: Beginning at a point on the west line of section 33 which is 456.5 feet south of the northwest corner of section 33, thence running south along the west line of section 33 for a distance of 373.0 feet, thence running east for a distance of 516.8 feet, thence running north for a distance of 132.7 feet, thence running north 65 degrees 06 minutes west for a distance of 570.0 feet along the southwesterly right-of-way of Highway 160 to the point of beginning.
 
-([Pub. L. 88–235, § 1][/us/pl/88/235/s1], Dec. 23, 1963, [77 Stat. 473][/us/stat/77/473].)
+([Pub. L. 88–235][/us/pl/88/235], § 1, Dec. 23, 1963, [77 Stat. 473][/us/stat/77/473].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@ Township 36 North, Range 14 West
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
-[/us/pl/88/235/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F235%2Fs1
+[/us/pl/88/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F235
 [/us/stat/77/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F473
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1

@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t16/ch44B/m__us_usc_t16_s2463.md) | [Next](./../../../..//us/usc/t16/ch44B/m__us_usc_t16_s2465.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2464)
 
-## § 2464. Repealed. [Pub. L. 104–227, title II, § 202(b)][/us/pl/104/227/s202/b], Oct. 2, 1996, [110 Stat. 3044][/us/stat/110/3044]
+## § 2464. Repealed. [Pub. L. 104–227, title II][/us/pl/104/227/tII], § 202(b), Oct. 2, 1996, [110 Stat. 3044][/us/stat/110/3044]
 
-    Section, [Pub. L. 101–594, § 5][/us/pl/101/594/s5], Nov. 16, 1990, [104 Stat. 2977][/us/stat/104/2977], declared the sense of Congress that Secretary of State should negotiate international agreements relating to protection of Antarctic environment and that any such international agreement be consistent with purpose and provisions of this chapter.
+    Section, [Pub. L. 101–594][/us/pl/101/594], § 5, Nov. 16, 1990, [104 Stat. 2977][/us/stat/104/2977], declared the sense of Congress that Secretary of State should negotiate international agreements relating to protection of Antarctic environment and that any such international agreement be consistent with purpose and provisions of this chapter.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/104/227/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2Fs202%2Fb
+[/us/pl/104/227/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2FtII
 [/us/stat/110/3044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3044
-[/us/pl/101/594/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F594%2Fs5
+[/us/pl/101/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F594
 [/us/stat/104/2977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2977
 
 

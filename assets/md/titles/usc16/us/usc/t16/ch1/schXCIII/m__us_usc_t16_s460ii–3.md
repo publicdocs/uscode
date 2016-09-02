@@ -35,7 +35,7 @@
 
         (3) If lands as described in paragraph (2) are not available for acquisition, other lands within the State of Georgia may be acquired as replacement lands under paragraph (1) if such lands are transferred to the State of Georgia for permanent management for public outdoor recreation.
 
-([Pub. L. 95–344, title I, § 104][/us/pl/95/344/s104], Aug. 15, 1978, [92 Stat. 476][/us/stat/92/476]; [Pub. L. 98–568, § 1(d)][/us/pl/98/568/s1/d], Oct. 30, 1984, [98 Stat. 2928][/us/stat/98/2928]; [Pub. L. 103–437, § 6(d)(18)][/us/pl/103/437/s6/d/18], Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584]; [Pub. L. 106–154, § 2(e)(2)][/us/pl/106/154/s2/e/2], (3), Dec. 9, 1999, [113 Stat. 1739][/us/stat/113/1739].)
+([Pub. L. 95–344, title I][/us/pl/95/344/tI], § 104, Aug. 15, 1978, [92 Stat. 476][/us/stat/92/476]; [Pub. L. 98–568][/us/pl/98/568], § 1(d), Oct. 30, 1984, [98 Stat. 2928][/us/stat/98/2928]; [Pub. L. 103–437][/us/pl/103/437], § 6(d)(18), Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584]; [Pub. L. 106–154][/us/pl/106/154], § 2(e)(2), (3), Dec. 9, 1999, [113 Stat. 1739][/us/stat/113/1739].)
 
  __References in Text__ 
 
@@ -43,9 +43,9 @@
 
  __Amendments__ 
 
-    1999—Subsec. (b). [Pub. L. 106–154, § 2(e)(2)][/us/pl/106/154/s2/e/2], substituted “this subchapter” for “this subchapter and chapter 43 of this title” wherever appearing.
+    1999—Subsec. (b). [Pub. L. 106–154][/us/pl/106/154], § 2(e)(2), substituted “this subchapter” for “this subchapter and chapter 43 of this title” wherever appearing.
 
-    Subsec. (d)(2). [Pub. L. 106–154, § 2(e)(3)][/us/pl/106/154/s2/e/3], substituted “under this subchapter” for “under this subchapter and chapter 43 of this title”.
+    Subsec. (d)(2). [Pub. L. 106–154][/us/pl/106/154], § 2(e)(3), substituted “under this subchapter” for “under this subchapter and chapter 43 of this title”.
 
     1994—Subsec. (b). [Pub. L. 103–437][/us/pl/103/437] substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
@@ -60,20 +60,20 @@
 
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/usc/t16/s460ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460ii
-[/us/pl/95/344/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F344%2Fs104
+[/us/pl/95/344/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F344%2FtI
 [/us/stat/92/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F476
-[/us/pl/98/568/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F568%2Fs1%2Fd
+[/us/pl/98/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F568
 [/us/stat/98/2928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2928
-[/us/pl/103/437/s6/d/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fd%2F18
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4584
-[/us/pl/106/154/s2/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154%2Fs2%2Fe%2F2
+[/us/pl/106/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154
 [/us/stat/113/1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1739
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
 [/us/stat/41/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1063
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
-[/us/pl/106/154/s2/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154%2Fs2%2Fe%2F2
-[/us/pl/106/154/s2/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154%2Fs2%2Fe%2F3
+[/us/pl/106/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154
+[/us/pl/106/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/98/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F568
 

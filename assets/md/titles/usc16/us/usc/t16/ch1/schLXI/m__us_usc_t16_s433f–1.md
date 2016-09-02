@@ -17,7 +17,7 @@
 
     The Perry’s Victory and International Peace Memorial National Monument, established in accordance with [section 433a of this title][/us/usc/t16/s433a], is redesignated the Perry’s Victory and International Peace Memorial.
 
-([Pub. L. 92–568, § 1][/us/pl/92/568/s1], Oct. 26, 1972, [86 Stat. 1181][/us/stat/86/1181].)
+([Pub. L. 92–568][/us/pl/92/568], § 1, Oct. 26, 1972, [86 Stat. 1181][/us/stat/86/1181].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s433a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs433a
-[/us/pl/92/568/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F568%2Fs1
+[/us/pl/92/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F568
 [/us/stat/86/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1181
 
 

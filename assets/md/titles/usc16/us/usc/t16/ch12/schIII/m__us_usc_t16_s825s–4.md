@@ -17,7 +17,7 @@
 
     Notwithstanding [section 3302 of title 31][/us/usc/t31/s3302], beginning in fiscal year 2005 and thereafter, such funds as are received by the Southwestern Power Administration from any State, municipality, corporation, association, firm, district, or individual as advance payment for work that is associated with Southwestern’s transmission facilities, consistent with that authorized in [section 825s of this title][/us/usc/t16/s825s], shall be credited to this account and be available until expended.
 
-([Pub. L. 108–447, div. C, title III][/us/pl/108/447], Dec. 8, 2004, [118 Stat. 2956][/us/stat/118/2956].)
+([Pub. L. 108–447, div. C, title III][/us/pl/108/447/dC/tIII], Dec. 8, 2004, [118 Stat. 2956][/us/stat/118/2956].)
 
  __Codification__ 
 
@@ -27,7 +27,7 @@
 
     Provisions similar to those in this section were contained in the following prior appropriation act:
 
-    [Pub. L. 108–137, title III][/us/pl/108/137], Dec. 1, 2003, [117 Stat. 1858][/us/stat/117/1858].
+    [Pub. L. 108–137, title III][/us/pl/108/137/tIII], Dec. 1, 2003, [117 Stat. 1858][/us/stat/117/1858].
 
 ----------
 
@@ -38,10 +38,10 @@
 
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
 [/us/usc/t16/s825s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs825s
-[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdC%2FtIII
 [/us/stat/118/2956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2956
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
-[/us/pl/108/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F137
+[/us/pl/108/137/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F137%2FtIII
 [/us/stat/117/1858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1858
 
 

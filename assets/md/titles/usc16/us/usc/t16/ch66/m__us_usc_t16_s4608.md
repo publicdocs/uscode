@@ -23,7 +23,7 @@
 
         There are authorized to be appropriated to other Federal departments and agencies such sums as may be necessary to carry out the provisions of any other Take Pride in America programs established by such departments or agencies.
 
-([Pub. L. 101–628, title XI, § 1109][/us/pl/101/628/s1109], Nov. 28, 1990, [104 Stat. 4503][/us/stat/104/4503].)
+([Pub. L. 101–628, title XI][/us/pl/101/628/tXI], § 1109, Nov. 28, 1990, [104 Stat. 4503][/us/stat/104/4503].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/101/628/s1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628%2Fs1109
+[/us/pl/101/628/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628%2FtXI
 [/us/stat/104/4503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4503
 
 

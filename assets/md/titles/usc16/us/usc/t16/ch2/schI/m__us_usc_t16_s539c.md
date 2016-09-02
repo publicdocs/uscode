@@ -19,7 +19,7 @@
 
     (b) Each subsequent revision of National Forest management plans under the Forest and Rangeland Renewable Resources Planning Act of 1974 \[[16 U.S.C. 1600][/us/usc/t16/s1600] et seq.\] and the National Forest Management Act of 1976 shall contain a report on the status of the planning process undertaken under this paragraph, including, but not limited to, a description of current hatchery and aquaculture projects, an analysis of the success of these projects, and a prioritized list of projects anticipated for the duration of the management plan. The report shall be submitted by the Secretary to the Congress with recommendations for any legislative action which the Secretary may deem necessary to implement the proposed hatchery and aquaculture projects.
 
-([Pub. L. 96–487, title V, § 507][/us/pl/96/487/s507], Dec. 2, 1980, [94 Stat. 2412][/us/stat/94/2412].)
+([Pub. L. 96–487, title V][/us/pl/96/487/tV], § 507, Dec. 2, 1980, [94 Stat. 2412][/us/stat/94/2412].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t16/s1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1600
-[/us/pl/96/487/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs507
+[/us/pl/96/487/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtV
 [/us/stat/94/2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2412
 [/us/pl/93/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F378
 [/us/stat/88/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F476

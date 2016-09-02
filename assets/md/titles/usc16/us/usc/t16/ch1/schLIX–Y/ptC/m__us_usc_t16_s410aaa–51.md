@@ -51,7 +51,7 @@
 
         Nothing in this part shall have the effect of terminating any validly issued right-of-way or customary operation, maintenance, repair, and replacement activities of existing facilities issued, granted, or permitted to Molybdenum Corporation of America; Molycorp, Incorporated; or Union Oil Company of California (d/b/a Unocal Corporation); or its successors or assigns, or prohibiting renewal of such right-of-way, which is located on lands included in the Mojave National Preserve, but outside lands designated as wilderness under section 601(a)(3). Such activities shall be conducted in a manner which will minimize the impact on preserve resources.
 
-([Pub. L. 103–433, title V, § 511][/us/pl/103/433/s511], Oct. 31, 1994, [108 Stat. 4492][/us/stat/108/4492].)
+([Pub. L. 103–433, title V][/us/pl/103/433/tV], § 511, Oct. 31, 1994, [108 Stat. 4492][/us/stat/108/4492].)
 
  __References in Text__ 
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/103/433/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs511
+[/us/pl/103/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtV
 [/us/stat/108/4492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4492
 [/us/pl/103/433/s601/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs601%2Fa%2F3
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132

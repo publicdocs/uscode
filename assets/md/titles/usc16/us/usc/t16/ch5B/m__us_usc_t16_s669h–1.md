@@ -53,7 +53,7 @@
 
             At the end of the period of availability under paragraph (1), the Secretary of the Interior shall apportion amounts made available that have not been used to make grants under this section among the States described in subsection (a)(1)(B) for use by those States in accordance with this chapter.
 
-([Sept. 2, 1937, ch. 899, § 10][/us/act/1937-09-02/ch899/s10], as added [Pub. L. 106–408, title I, § 112(2)][/us/pl/106/408/s112/2], Nov. 1, 2000, [114 Stat. 1766][/us/stat/114/1766].)
+([Sept. 2, 1937, ch. 899][/us/act/1937-09-02/ch899], § 10, as added [Pub. L. 106–408, title I][/us/pl/106/408/tI], § 112(2), Nov. 1, 2000, [114 Stat. 1766][/us/stat/114/1766].)
 
  __Prior Provisions__ 
 
@@ -69,8 +69,8 @@
 [/us/usc/t16/s669g/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs669g%2Fb
 [/us/usc/t16/s669g/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs669g%2Fb
 [/us/usc/t16/s669g/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs669g%2Fb
-[/us/act/1937-09-02/ch899/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-02%2Fch899%2Fs10
-[/us/pl/106/408/s112/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2Fs112%2F2
+[/us/act/1937-09-02/ch899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-02%2Fch899
+[/us/pl/106/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2FtI
 [/us/stat/114/1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1766
 [/us/usc/t16/s669i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs669i
 

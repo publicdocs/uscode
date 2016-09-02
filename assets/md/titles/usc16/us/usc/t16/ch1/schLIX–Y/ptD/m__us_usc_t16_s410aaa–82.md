@@ -27,7 +27,7 @@
 
         Nothing in this section shall be construed to modify, expand, or diminish any authority under other Federal law.
 
-([Pub. L. 103–433, title VIII, § 802][/us/pl/103/433/s802], Oct. 31, 1994, [108 Stat. 4501][/us/stat/108/4501].)
+([Pub. L. 103–433, title VIII][/us/pl/103/433/tVIII], § 802, Oct. 31, 1994, [108 Stat. 4501][/us/stat/108/4501].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 
  __Short Title and Findings__ 
 
-[Pub. L. 103–433, title VIII, § 801][/us/pl/103/433/s801], Oct. 31, 1994, [108 Stat. 4501][/us/stat/108/4501], provided that:
+[Pub. L. 103–433, title VIII][/us/pl/103/433/tVIII], § 801, Oct. 31, 1994, [108 Stat. 4501][/us/stat/108/4501], provided that:
 
 >     “(a)  __Short Title__  __.—__ 
 
@@ -66,13 +66,13 @@
 
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
-[/us/pl/103/433/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs802
+[/us/pl/103/433/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtVIII
 [/us/stat/108/4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4501
 [/us/usc/t16/s410aaa–81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410aaa%E2%80%9381
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
-[/us/pl/103/433/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs801
+[/us/pl/103/433/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtVIII
 [/us/stat/108/4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4501
 [/us/usc/t16/s410aaa–81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410aaa%E2%80%9381
 

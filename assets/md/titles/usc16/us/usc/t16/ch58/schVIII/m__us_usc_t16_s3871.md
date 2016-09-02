@@ -49,11 +49,11 @@
 
             (B) implementing projects that will result in the installation and maintenance of eligible activities that affect multiple agricultural or nonindustrial private forest operations on a local, regional, State, or multistate basis.
 
-([Pub. L. 99–198, title XII, § 1271][/us/pl/99/198/s1271], as added [Pub. L. 113–79, title II, § 2401][/us/pl/113/79/s2401], Feb. 7, 2014, [128 Stat. 744][/us/stat/128/744].)
+([Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1271, as added [Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2401, Feb. 7, 2014, [128 Stat. 744][/us/stat/128/744].)
 
  __References in Text__ 
 
-    Sections 3839aa–9, 3839bb–3, 3839bb–4, and 3843 of this title, referred to in subsec. (b)(1), were repealed by [Pub. L. 113–79, title II][/us/pl/113/79], §§ 2706(a), 2708, 2709(a), 2710(a), Feb. 7, 2014, [128 Stat. 768][/us/stat/128/768], 770.
+    Sections 3839aa–9, 3839bb–3, 3839bb–4, and 3843 of this title, referred to in subsec. (b)(1), were repealed by [Pub. L. 113–79, title II][/us/pl/113/79/tII], §§ 2706(a), 2708, 2709(a), 2710(a), Feb. 7, 2014, [128 Stat. 768][/us/stat/128/768], 770.
 
 ----------
 
@@ -62,10 +62,10 @@
 ----------
 ----------
 
-[/us/pl/99/198/s1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1271
-[/us/pl/113/79/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2401
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F744
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F768
 
 

@@ -17,7 +17,7 @@
 
     It is hereby declared to be the policy of the Congress to stabilize the ownership of the land in the Klamath Federal reclamation project, Oregon and California, as well as the administration and management of the Klamath Federal reclamation project and the Tule Lake National Wildlife Refuge, Lower Klamath National Wildlife Refuge, Upper Klamath National Wildlife Refuge, and Clear Lake National Wildlife Refuge, to preserve intact the necessary existing habitat for migratory waterfowl in this vital area of the Pacific flyway, and to prevent depredations of migratory waterfowl on agricultural crops in the Pacific Coast States.
 
-([Pub. L. 88–567, § 1][/us/pl/88/567/s1], Sept. 2, 1964, [78 Stat. 850][/us/stat/78/850].)
+([Pub. L. 88–567][/us/pl/88/567], § 1, Sept. 2, 1964, [78 Stat. 850][/us/stat/78/850].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/567/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F567%2Fs1
+[/us/pl/88/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F567
 [/us/stat/78/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F850
 
 

@@ -31,11 +31,11 @@
 
     (7) the Tucson Mountain unit should be enlarged by the addition of adjacent lands of National Park caliber and Saguaro National Monument should be afforded full recognition and statutory protection as a National Park.
 
-([Pub. L. 103–364, § 2][/us/pl/103/364/s2], Oct. 14, 1994, [108 Stat. 3467][/us/stat/108/3467].)
+([Pub. L. 103–364][/us/pl/103/364], § 2, Oct. 14, 1994, [108 Stat. 3467][/us/stat/108/3467].)
 
  __Short Title__ 
 
-[Pub. L. 103–364, § 1][/us/pl/103/364/s1], Oct. 14, 1994, [108 Stat. 3467][/us/stat/108/3467], provided that: 
+[Pub. L. 103–364][/us/pl/103/364], § 1, Oct. 14, 1994, [108 Stat. 3467][/us/stat/108/3467], provided that: 
 
 > “This Act \[enacting this subchapter and amending provisions listed in a table of National Monuments Established Under Presidential Proclamation set out under [section 431 of this title][/us/usc/t16/s431]\] may be cited as the ‘Saguaro National Park Establishment Act of 1994’.”
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/103/364/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F364%2Fs2
+[/us/pl/103/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F364
 [/us/stat/108/3467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3467
-[/us/pl/103/364/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F364%2Fs1
+[/us/pl/103/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F364
 [/us/stat/108/3467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3467
 [/us/usc/t16/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs431
 

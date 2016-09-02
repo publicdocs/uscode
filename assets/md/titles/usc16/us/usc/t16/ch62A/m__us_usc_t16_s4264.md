@@ -83,7 +83,7 @@
 
         Amounts provided as a grant under this chapter may not be used for captive breeding of Asian elephants other than for release in the wild.
 
-([Pub. L. 105–96, § 5][/us/pl/105/96/s5], Nov. 19, 1997, [111 Stat. 2151][/us/stat/111/2151]; [Pub. L. 110–133, § 2(a)][/us/pl/110/133/s2/a], Dec. 6, 2007, [121 Stat. 1362][/us/stat/121/1362].)
+([Pub. L. 105–96][/us/pl/105/96], § 5, Nov. 19, 1997, [111 Stat. 2151][/us/stat/111/2151]; [Pub. L. 110–133][/us/pl/110/133], § 2(a), Dec. 6, 2007, [121 Stat. 1362][/us/stat/121/1362].)
 
  __Amendments__ 
 
@@ -96,9 +96,9 @@
 ----------
 ----------
 
-[/us/pl/105/96/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F96%2Fs5
+[/us/pl/105/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F96
 [/us/stat/111/2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2151
-[/us/pl/110/133/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F133%2Fs2%2Fa
+[/us/pl/110/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F133
 [/us/stat/121/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1362
 [/us/pl/110/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F133
 

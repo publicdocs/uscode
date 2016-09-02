@@ -17,7 +17,7 @@
 
     No bonds shall be issued by the Corporation after the date of enactment of this section under section 831n or 831n–1 of this title.
 
-([May 18, 1933, ch. 32, § 15b][/us/act/1933-05-18/ch32/s15b], as added [July 26, 1939, ch. 366][/us/act/1939-07-26/ch366], [53 Stat. 1083][/us/stat/53/1083].)
+([May 18, 1933, ch. 32][/us/act/1933-05-18/ch32], § 15b, as added [July 26, 1939, ch. 366][/us/act/1939-07-26/ch366], [53 Stat. 1083][/us/stat/53/1083].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1933-05-18/ch32/s15b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32%2Fs15b
+[/us/act/1933-05-18/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32
 [/us/act/1939-07-26/ch366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-07-26%2Fch366
 [/us/stat/53/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1083
 

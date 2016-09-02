@@ -19,11 +19,11 @@
 
     (b) Judgments against the United States, including final partial judgments and compromise settlements of claims referred to the Attorney General for defense of suits against the United States, for amounts in excess of the deposit in court in actions under [section 79c of this title][/us/usc/t16/s79c] shall be paid in accordance with the provisions of [section 1304 of title 31][/us/usc/t31/s1304], and [section 2414 of title 28][/us/usc/t28/s2414]. Final partial judgments and compromise settlements are payable only after certification by the Attorney General to the Comptroller General that it is in the interest of the United States to do so.
 
-([Pub. L. 90–545, § 7][/us/pl/90/545/s7], Oct. 2, 1968, [82 Stat. 934][/us/stat/82/934]; [Pub. L. 99–151, title II, § 203][/us/pl/99/151/s203], Nov. 13, 1985, [99 Stat. 807][/us/stat/99/807].)
+([Pub. L. 90–545][/us/pl/90/545], § 7, Oct. 2, 1968, [82 Stat. 934][/us/stat/82/934]; [Pub. L. 99–151, title II][/us/pl/99/151/tII], § 203, Nov. 13, 1985, [99 Stat. 807][/us/stat/99/807].)
 
  __Codification__ 
 
-    “[Section 3171 of title 40][/us/usc/t40/s3171]” substituted in subsec. (a) for “[section 34 of the Act of May 30, 1908][/us/act/1908-05-30/s34] ([35 Stat. 545][/us/stat/35/545]; [40 U.S.C. 261][/us/usc/t40/s261])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    “[Section 3171 of title 40][/us/usc/t40/s3171]” substituted in subsec. (a) for “[section 34 of the Act of May 30, 1908][/us/act/1908-05-30/s34] ([35 Stat. 545][/us/stat/35/545]; [40 U.S.C. 261][/us/usc/t40/s261])” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
  __Amendments__ 
 
@@ -40,15 +40,15 @@
 [/us/usc/t16/s79c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs79c
 [/us/usc/t31/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1304
 [/us/usc/t28/s2414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2414
-[/us/pl/90/545/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F545%2Fs7
+[/us/pl/90/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F545
 [/us/stat/82/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F934
-[/us/pl/99/151/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F151%2Fs203
+[/us/pl/99/151/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F151%2FtII
 [/us/stat/99/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F807
 [/us/usc/t40/s3171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3171
 [/us/act/1908-05-30/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-05-30%2Fs34
 [/us/stat/35/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F545
 [/us/usc/t40/s261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs261
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/pl/99/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F151
 [/us/usc/t16/s79c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs79c

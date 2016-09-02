@@ -17,7 +17,7 @@
 
     After notifying the Committees on Interior and Insular Affairs of the United States Congress, in writing, of his intentions to do so and of the reasons therefor, the Secretary may, if he finds that such lands would make a significant contribution to the purposes for which the lakeshore was established, accept title to any lands, or interests in lands, located outside the present boundaries of the lakeshore but contiguous thereto or to lands acquired under this section, such lands the State of Indiana or its political subdivisions may acquire and offer to donate to the United States or which any private person, organization, or public or private corporation may offer to donate to the United States and he shall administer such lands as a part of the lakeshore after publishing notice to that effect in the Federal Register.
 
-([Pub. L. 89–761, § 19][/us/pl/89/761/s19], formerly § 20, as added and renumbered [Pub. L. 94–549, § 1(8)][/us/pl/94/549/s1/8], (9), Oct. 18, 1976, [90 Stat. 2532][/us/stat/90/2532], 2533.)
+([Pub. L. 89–761][/us/pl/89/761], § 19, formerly § 20, as added and renumbered [Pub. L. 94–549][/us/pl/94/549], § 1(8), (9), Oct. 18, 1976, [90 Stat. 2532][/us/stat/90/2532], 2533.)
 
  __Change of Name__ 
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/89/761/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761%2Fs19
-[/us/pl/94/549/s1/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549%2Fs1%2F8
+[/us/pl/89/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761
+[/us/pl/94/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549
 [/us/stat/90/2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2532
 
 

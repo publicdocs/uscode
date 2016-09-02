@@ -55,7 +55,7 @@
 
         (2) It is further declared to be the policy of Congress that Federal agencies shall cooperate with State and local agencies to resolve water resource issues in concert with conservation of endangered species.
 
-([Pub. L. 93–205, § 2][/us/pl/93/205/s2], Dec. 28, 1973, [87 Stat. 884][/us/stat/87/884]; [Pub. L. 96–159, § 1][/us/pl/96/159/s1], Dec. 28, 1979, [93 Stat. 1225][/us/stat/93/1225]; [Pub. L. 97–304, § 9(a)][/us/pl/97/304/s9/a], Oct. 13, 1982, [96 Stat. 1426][/us/stat/96/1426]; [Pub. L. 100–478, title I, § 1013(a)][/us/pl/100/478/s1013/a], Oct. 7, 1988, [102 Stat. 2315][/us/stat/102/2315].)
+([Pub. L. 93–205][/us/pl/93/205], § 2, Dec. 28, 1973, [87 Stat. 884][/us/stat/87/884]; [Pub. L. 96–159][/us/pl/96/159], § 1, Dec. 28, 1979, [93 Stat. 1225][/us/stat/93/1225]; [Pub. L. 97–304][/us/pl/97/304], § 9(a), Oct. 13, 1982, [96 Stat. 1426][/us/stat/96/1426]; [Pub. L. 100–478, title I][/us/pl/100/478/tI], § 1013(a), Oct. 7, 1988, [102 Stat. 2315][/us/stat/102/2315].)
 
  __References in Text__ 
 
@@ -71,31 +71,31 @@
 
  __Effective Date__ 
 
-[Pub. L. 93–205, § 16][/us/pl/93/205/s16], Dec. 28, 1973, [87 Stat. 903][/us/stat/87/903], provided that: 
+[Pub. L. 93–205][/us/pl/93/205], § 16, Dec. 28, 1973, [87 Stat. 903][/us/stat/87/903], provided that: 
 
 > “This Act \[enacting this chapter, amending sections 460k–1, 460l–9, 668dd, 715i, 715s, 1362, 1371, 1372, and 1402 of this title and [section 136 of Title 7][/us/usc/t7/s136], Agriculture, repealing sections 668aa to 668cc–6 of this title, and enacting provisions set out as notes under this section\] shall take effect on the date of its enactment \[Dec. 28, 1973\].”
 
  __Short Title of 1982 Amendment__ 
 
-[Pub. L. 97–304, § 1][/us/pl/97/304/s1], Oct. 13, 1982, [96 Stat. 1411][/us/stat/96/1411], provided: 
+[Pub. L. 97–304][/us/pl/97/304], § 1, Oct. 13, 1982, [96 Stat. 1411][/us/stat/96/1411], provided: 
 
 > “That this Act \[amending this section and sections 1532, 1533, 1535, 1536, 1537a, 1538, 1539, 1540, and 1542 of this title and enacting provisions set out as notes under sections 1533, 1537a, and 1539 of this title\] may be cited as the ‘Endangered Species Act Amendments of 1982’.”
 
  __Short Title of 1978 Amendment__ 
 
-[Pub. L. 95–632, § 1][/us/pl/95/632/s1], Nov. 10, 1978, [92 Stat. 3751][/us/stat/92/3751], provided: 
+[Pub. L. 95–632][/us/pl/95/632], § 1, Nov. 10, 1978, [92 Stat. 3751][/us/stat/92/3751], provided: 
 
 > “That this Act \[amending sections 1532 to 1536, 1538 to 1540, and 1542 of this title\] may be cited as the ‘Endangered Species Act Amendments of 1978’.”
 
  __Short Title__ 
 
-[Pub. L. 93–205, § 1][/us/pl/93/205/s1], Dec. 28, 1973, [87 Stat. 884][/us/stat/87/884], provided: 
+[Pub. L. 93–205][/us/pl/93/205], § 1, Dec. 28, 1973, [87 Stat. 884][/us/stat/87/884], provided: 
 
 > “That this Act \[enacting this chapter, amending sections 460k–1, 460l–9, 668dd, 715i, 715s, 1362, 1371, 1372, and 1402 of this title and [section 136 of Title 7][/us/usc/t7/s136], Agriculture, repealing sections 668aa to 668cc–6 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Endangered Species Act of 1973’.”
 
  __Relationship to Endangered Species Act of 1973__ 
 
-[Pub. L. 102–251, title III, § 305][/us/pl/102/251/s305], Mar. 9, 1992, [106 Stat. 66][/us/stat/106/66], as amended by [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that: 
+[Pub. L. 102–251, title III][/us/pl/102/251/tIII], § 305, Mar. 9, 1992, [106 Stat. 66][/us/stat/106/66], as amended by [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that: 
 
 > “The special areas defined in section 3(24) of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1802(24)][/us/usc/t16/s1802/24]) shall be considered places that are subject to the jurisdiction of the United States for the purposes of the Endangered Species Act of 1973 ([16 U.S.C. 1531][/us/usc/t16/s1531] et seq.).”
 
@@ -195,6 +195,10 @@
 
     \[Reference to the National Security Staff to be understood to refer to the staff of the National Security Council, see Ex. Ord. No. 13657, set out as a note under [section 3021 of Title 50][/us/usc/t50/s3021], War and National Defense.\]
 
+ __Extension of Term of Advisory Council on Wildlife Trafficking__ 
+
+    Term of Advisory Council on Wildlife Trafficking extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
 ----------
 
 [Previous](./../../../..//us/usc/t16/ch35/m__us_usc_t16_ch35.md) | [Next](./../../../..//us/usc/t16/ch35/m__us_usc_t16_s1532.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531)
@@ -202,32 +206,32 @@
 ----------
 ----------
 
-[/us/pl/93/205/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205%2Fs2
+[/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F884
-[/us/pl/96/159/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159%2Fs1
+[/us/pl/96/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159
 [/us/stat/93/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1225
-[/us/pl/97/304/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs9%2Fa
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
 [/us/stat/96/1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1426
-[/us/pl/100/478/s1013/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2Fs1013%2Fa
+[/us/pl/100/478/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2FtI
 [/us/stat/102/2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2315
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/81/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F884
 [/us/pl/100/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478
 [/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
 [/us/pl/96/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159
-[/us/pl/93/205/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205%2Fs16
+[/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F903
 [/us/usc/t7/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136
-[/us/pl/97/304/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs1
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
 [/us/stat/96/1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1411
-[/us/pl/95/632/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F632%2Fs1
+[/us/pl/95/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F632
 [/us/stat/92/3751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3751
-[/us/pl/93/205/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205%2Fs1
+[/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F884
 [/us/usc/t7/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136
-[/us/pl/102/251/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2Fs305
+[/us/pl/102/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2FtIII
 [/us/stat/106/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F66
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
 [/us/usc/t16/s1802/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1802%2F24
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531

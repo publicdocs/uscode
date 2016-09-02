@@ -17,7 +17,7 @@
 
     The provisions of the act of the Legislature of the State of Washington, approved March 8, 1941 (Chapter 51 of the Laws of 1941 of the State of Washington), ceding to the United States exclusive jurisdiction over and within all the territory included on March 8, 1941, in the tract of land in the State of Washington, set aside for the purposes of a national park and known as the Olympic National Park, are accepted. Subject to the reservations made by the State in the act of cession, the United States assumes sole and exclusive jurisdiction over such territory.
 
-([Mar. 6, 1942, ch. 151, § 1][/us/act/1942-03-06/ch151/s1], [56 Stat. 135][/us/stat/56/135].)
+([Mar. 6, 1942, ch. 151][/us/act/1942-03-06/ch151], § 1, [56 Stat. 135][/us/stat/56/135].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1942-03-06/ch151/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-03-06%2Fch151%2Fs1
+[/us/act/1942-03-06/ch151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-03-06%2Fch151
 [/us/stat/56/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F135
 
 

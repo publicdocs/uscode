@@ -17,7 +17,7 @@
 
     Funds available to the Forest Service shall be available for expenses of, or payment of assessment for, construction of sidewalks, curbs, or street paving along the boundary of Government-owned residential or otherwise improved lots.
 
-([Pub. L. 87–869, § 9][/us/pl/87/869/s9], Oct. 23, 1962, [76 Stat. 1157][/us/stat/76/1157].)
+([Pub. L. 87–869][/us/pl/87/869], § 9, Oct. 23, 1962, [76 Stat. 1157][/us/stat/76/1157].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/869/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F869%2Fs9
+[/us/pl/87/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F869
 [/us/stat/76/1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1157
 
 

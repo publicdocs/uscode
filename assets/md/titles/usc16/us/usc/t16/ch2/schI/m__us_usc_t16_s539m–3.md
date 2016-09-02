@@ -63,7 +63,7 @@
 
             Any compensation made to the Pueblo under paragraph (c)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be paragraph “(1)”. </sup></sup>  shall not affect the extinguishment of claims under [section 539m–8 of this title][/us/usc/t16/s539m–8].
 
-([Pub. L. 108–7, div. F, title IV, § 405][/us/pl/108/7/s405], Feb. 20, 2003, [117 Stat. 283][/us/stat/117/283].)
+([Pub. L. 108–7, div. F, title IV][/us/pl/108/7/dF/tIV], § 405, Feb. 20, 2003, [117 Stat. 283][/us/stat/117/283].)
 
  __References in Text__ 
 
@@ -83,7 +83,7 @@
 [/us/usc/t16/s539m–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs539m%E2%80%935
 [/us/usc/t16/s539m–2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs539m%E2%80%932%2Fe
 [/us/usc/t16/s539m–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs539m%E2%80%938
-[/us/pl/108/7/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs405
+[/us/pl/108/7/dF/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtIV
 [/us/stat/117/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F283
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890

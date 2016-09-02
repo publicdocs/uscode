@@ -47,7 +47,7 @@
 
     (15) Many States, which are experiencing declining revenues, are finding it increasingly difficult to carry out projects to conserve the entire array of diverse fish and wildlife species and to provide opportunities for the public to associate with, enjoy, and appreciate fish and wildlife through nonconsumptive activities.
 
-([Pub. L. 102–587, title VII, § 7102][/us/pl/102/587/s7102], Nov. 4, 1992, [106 Stat. 5094][/us/stat/106/5094].)
+([Pub. L. 102–587, title VII][/us/pl/102/587/tVII], § 7102, Nov. 4, 1992, [106 Stat. 5094][/us/stat/106/5094].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 
  __Short Title__ 
 
-[Pub. L. 102–587, title VII, § 7101][/us/pl/102/587/s7101], Nov. 4, 1992, [106 Stat. 5094][/us/stat/106/5094], provided that: 
+[Pub. L. 102–587, title VII][/us/pl/102/587/tVII], § 7101, Nov. 4, 1992, [106 Stat. 5094][/us/stat/106/5094], provided that: 
 
 > “This Title \[enacting this chapter\] may be cited as the ‘Partnerships for Wildlife Act’.”
 
@@ -70,7 +70,7 @@
 
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/usc/t16/s4401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4401
-[/us/pl/102/587/s7102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs7102
+[/us/pl/102/587/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtVII
 [/us/stat/106/5094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5094
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F884
@@ -78,7 +78,7 @@
 [/us/pl/101/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F233
 [/us/stat/103/1968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1968
 [/us/usc/t16/s4401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4401
-[/us/pl/102/587/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs7101
+[/us/pl/102/587/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtVII
 [/us/stat/106/5094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5094
 
 

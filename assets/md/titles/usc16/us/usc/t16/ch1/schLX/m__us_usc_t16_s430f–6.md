@@ -83,11 +83,11 @@
 
             (C) are considered appropriate for inclusion in the Unit.
 
-([Pub. L. 106–271, § 2][/us/pl/106/271/s2], Sept. 22, 2000, [114 Stat. 792][/us/stat/114/792].)
+([Pub. L. 106–271][/us/pl/106/271], § 2, Sept. 22, 2000, [114 Stat. 792][/us/stat/114/792].)
 
  __Short Title__ 
 
-[Pub. L. 106–271, § 1][/us/pl/106/271/s1], Sept. 22, 2000, [114 Stat. 792][/us/stat/114/792], provided that: 
+[Pub. L. 106–271][/us/pl/106/271], § 1, Sept. 22, 2000, [114 Stat. 792][/us/stat/114/792], provided that: 
 
 > “This Act \[enacting this section and sections 430f–7 to 430f–12 of this title\] may be cited as the ‘Corinth Battlefield Preservation Act of 2000’.”
 
@@ -98,9 +98,9 @@
 ----------
 ----------
 
-[/us/pl/106/271/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F271%2Fs2
+[/us/pl/106/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F271
 [/us/stat/114/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F792
-[/us/pl/106/271/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F271%2Fs1
+[/us/pl/106/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F271
 [/us/stat/114/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F792
 
 

@@ -61,7 +61,7 @@
 
         Nothing in this section affects or restricts any rights of any participant or intervenor in any proceeding under any other applicable law or rule of law.
 
-([Pub. L. 95–617, title I, § 122][/us/pl/95/617/s122], Nov. 9, 1978, [92 Stat. 3129][/us/stat/92/3129].)
+([Pub. L. 95–617, title I][/us/pl/95/617/tI], § 122, Nov. 9, 1978, [92 Stat. 3129][/us/stat/92/3129].)
 
 ----------
 
@@ -70,7 +70,7 @@
 ----------
 ----------
 
-[/us/pl/95/617/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs122
+[/us/pl/95/617/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtI
 [/us/stat/92/3129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3129
 
 

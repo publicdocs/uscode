@@ -23,7 +23,7 @@
 
         Any reference in a law, map, regulation, document, paper, or other record of the United States to the Abraham Lincoln Birthplace National Historic Site shall be deemed to be a reference to the “Abraham Lincoln Birthplace National Historical Park”.
 
-([Pub. L. 111–11, title VII, § 7114][/us/pl/111/11/s7114], Mar. 30, 2009, [123 Stat. 1202][/us/stat/123/1202].)
+([Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7114, Mar. 30, 2009, [123 Stat. 1202][/us/stat/123/1202].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s7114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7114
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1202
 
 

@@ -33,7 +33,7 @@
 
         Civil forfeitures under this section shall be governed by the provisions of chapter 46 of title 18.
 
-([Pub. L. 97–79, § 5][/us/pl/97/79/s5], Nov. 16, 1981, [95 Stat. 1076][/us/stat/95/1076]; [Pub. L. 110–234, title VIII, § 8204(d)][/us/pl/110/234/s8204/d], May 22, 2008, [122 Stat. 1294][/us/stat/122/1294]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VIII, § 8204(d), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2056.)
+([Pub. L. 97–79][/us/pl/97/79], § 5, Nov. 16, 1981, [95 Stat. 1076][/us/stat/95/1076]; [Pub. L. 110–234, title VIII][/us/pl/110/234/tVIII], § 8204(d), May 22, 2008, [122 Stat. 1294][/us/stat/122/1294]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VIII, § 8204(d), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2056.)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (d). [Pub. L. 110–246, § 8204(d)][/us/pl/110/246/s8204/d], added subsec. (d).
+    2008—Subsec. (d). [Pub. L. 110–246][/us/pl/110/246], § 8204(d), added subsec. (d).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -68,11 +68,11 @@
 [/us/usc/t16/s3372/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3372%2Fb
 [/us/usc/t16/s3373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3373
 [/us/usc/t16/s3373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3373
-[/us/pl/97/79/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F79%2Fs5
+[/us/pl/97/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F79
 [/us/stat/95/1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1076
-[/us/pl/110/234/s8204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs8204%2Fd
+[/us/pl/110/234/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVIII
 [/us/stat/122/1294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1294
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/97/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F79
 [/us/stat/95/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1073
@@ -81,7 +81,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s8204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs8204%2Fd
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

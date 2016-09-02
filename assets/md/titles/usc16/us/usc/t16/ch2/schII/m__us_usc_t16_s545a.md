@@ -73,7 +73,7 @@
 
         Subject to valid existing rights, all federally owned lands in the scenic area are hereby withdrawn from location, entry, and patent under the mining laws of the United States and from leasing claims under the mineral and geothermal leasing laws of the United States, including amendments to such laws.
 
-([Pub. L. 103–314, § 3][/us/pl/103/314/s3], Aug. 26, 1994, [108 Stat. 1703][/us/stat/108/1703]; [Pub. L. 104–127, title IX, § 915][/us/pl/104/127/s915], Apr. 4, 1996, [110 Stat. 1187][/us/stat/110/1187].)
+([Pub. L. 103–314][/us/pl/103/314], § 3, Aug. 26, 1994, [108 Stat. 1703][/us/stat/108/1703]; [Pub. L. 104–127, title IX][/us/pl/104/127/tIX], § 915, Apr. 4, 1996, [110 Stat. 1187][/us/stat/110/1187].)
 
  __References in Text__ 
 
@@ -91,9 +91,9 @@
 ----------
 
 [/us/usc/t16/s1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1604
-[/us/pl/103/314/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F314%2Fs3
+[/us/pl/103/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F314
 [/us/stat/108/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1703
-[/us/pl/104/127/s915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs915
+[/us/pl/104/127/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIX
 [/us/stat/110/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1187
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 

@@ -43,7 +43,7 @@
 
         The Secretary is authorized to enter into negotiations with the Secretary of Defense for the berthing and interpretation of a naval vessel of World War II vintage which shall be accessible to the public on the island of Guam.
 
-    (h) __Repealed.__  __[__  __Pub. L. 103–437, § 6(i)(2)__  __][/us/pl/103/437/s6/i/2]__  __,__  __Nov. 2, 1994__  __,__  __[__  __108 Stat. 4585__  __][/us/stat/108/4585]__ 
+    (h) __Repealed.__  __[__  __Pub. L. 103–437__  __][/us/pl/103/437]__  __, § 6(i)(2),__  __Nov. 2, 1994__  __,__  __[__  __108 Stat. 4585__  __][/us/stat/108/4585]__ 
 
     (i) __Employment and training of residents of Guam or Northern Mariana Islands for development, maintenance, and administration__ 
 
@@ -73,21 +73,21 @@
 
         The Secretary may take such steps as may be necessary to preserve and protect various World War II vintage weapons and fortifications which exist within the boundaries of the park.
 
-([Pub. L. 95–348, § 6][/us/pl/95/348/s6], Aug. 18, 1978, [92 Stat. 492][/us/stat/92/492]; [Pub. L. 103–197, § 3][/us/pl/103/197/s3], Dec. 17, 1993, [107 Stat. 2302][/us/stat/107/2302]; [Pub. L. 103–437, § 6(i)][/us/pl/103/437/s6/i], Nov. 2, 1994, [108 Stat. 4585][/us/stat/108/4585].)
+([Pub. L. 95–348][/us/pl/95/348], § 6, Aug. 18, 1978, [92 Stat. 492][/us/stat/92/492]; [Pub. L. 103–197][/us/pl/103/197], § 3, Dec. 17, 1993, [107 Stat. 2302][/us/stat/107/2302]; [Pub. L. 103–437][/us/pl/103/437], § 6(i), Nov. 2, 1994, [108 Stat. 4585][/us/stat/108/4585].)
 
  __Amendments__ 
 
-    1994—Subsec. (b). [Pub. L. 103–437, § 6(i)(1)][/us/pl/103/437/s6/i/1], substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+    1994—Subsec. (b). [Pub. L. 103–437][/us/pl/103/437], § 6(i)(1), substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
-    Subsec. (h). [Pub. L. 103–437, § 6(i)(2)][/us/pl/103/437/s6/i/2], struck out subsec. (h) which directed Secretary, within two years from Aug. 18, 1978, to develop and transmit to Congressional committees, a general management plan for War in the Pacific National Historic Park, and to transmit within 5 years of Aug. 18, 1978, a study of additional sites associated with Pacific Campaign of World War II.
+    Subsec. (h). [Pub. L. 103–437][/us/pl/103/437], § 6(i)(2), struck out subsec. (h) which directed Secretary, within two years from Aug. 18, 1978, to develop and transmit to Congressional committees, a general management plan for War in the Pacific National Historic Park, and to transmit within 5 years of Aug. 18, 1978, a study of additional sites associated with Pacific Campaign of World War II.
 
-    1993—Subsec. (k). [Pub. L. 103–197, § 3(a)][/us/pl/103/197/s3/a], substituted “$8,000,000” for “$500,000”.
+    1993—Subsec. (k). [Pub. L. 103–197][/us/pl/103/197], § 3(a), substituted “$8,000,000” for “$500,000”.
 
-    Subsecs. (l) to (o). [Pub. L. 103–197, § 3(b)][/us/pl/103/197/s3/b], added subsecs. (l) to (o).
+    Subsecs. (l) to (o). [Pub. L. 103–197][/us/pl/103/197], § 3(b), added subsecs. (l) to (o).
 
  __Congressional Findings__ 
 
-[Pub. L. 103–197, § 1][/us/pl/103/197/s1], Dec. 17, 1993, [107 Stat. 2301][/us/stat/107/2301], provided that: 
+[Pub. L. 103–197][/us/pl/103/197], § 1, Dec. 17, 1993, [107 Stat. 2301][/us/stat/107/2301], provided that: 
 
 > “Congress finds that—
 
@@ -121,7 +121,7 @@
 
  __Transfer of Excess Land to National Park Service__ 
 
-[Pub. L. 100–202, § 101(g)][/us/pl/100/202/s101/g] \[title I\], Dec. 22, 1987, [101 Stat. 1329–213][/us/stat/101/1329-213], 1329–222, provided in part: 
+[Pub. L. 100–202][/us/pl/100/202], § 101(g) \[title I\], Dec. 22, 1987, [101 Stat. 1329–213][/us/stat/101/1329-213], 1329–222, provided in part: 
 
 > “That any Federally-owned land in War in the Pacific National Historical Park that hereafter becomes excess to the needs of the administering agency shall be transferred to the jurisdiction of the National Park Service, without reimbursement, for purposes of the park.”
 
@@ -132,21 +132,21 @@
 ----------
 ----------
 
-[/us/pl/103/437/s6/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fi%2F2
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4585
-[/us/pl/95/348/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F348%2Fs6
+[/us/pl/95/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F348
 [/us/stat/92/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F492
-[/us/pl/103/197/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F197%2Fs3
+[/us/pl/103/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F197
 [/us/stat/107/2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2302
-[/us/pl/103/437/s6/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fi
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4585
-[/us/pl/103/437/s6/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fi%2F1
-[/us/pl/103/437/s6/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fi%2F2
-[/us/pl/103/197/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F197%2Fs3%2Fa
-[/us/pl/103/197/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F197%2Fs3%2Fb
-[/us/pl/103/197/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F197%2Fs1
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
+[/us/pl/103/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F197
+[/us/pl/103/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F197
+[/us/pl/103/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F197
 [/us/stat/107/2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2301
-[/us/pl/100/202/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fg
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-213
 
 

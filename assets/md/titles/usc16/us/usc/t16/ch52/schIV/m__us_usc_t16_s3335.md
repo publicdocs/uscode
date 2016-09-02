@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the Secretary, for the purposes of carrying out the provisions of this subchapter, $37,500,000 for the 5-year period beginning October 1, 1981.
 
-([Pub. L. 96–561, title I, § 134][/us/pl/96/561/s134], Dec. 22, 1980, [94 Stat. 3285][/us/stat/94/3285].)
+([Pub. L. 96–561, title I][/us/pl/96/561/tI], § 134, Dec. 22, 1980, [94 Stat. 3285][/us/stat/94/3285].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/561/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs134
+[/us/pl/96/561/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtI
 [/us/stat/94/3285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3285
 
 

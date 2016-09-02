@@ -73,7 +73,7 @@
 
         (2) declares that those parcels are no longer subject to the requirement of subsection (c) of that section pertaining to the management of wilderness study areas in a manner that does not impair the suitability of such areas for preservation as wilderness.
 
-([Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 125 \[§ 8\]\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–229, 2763A–356; [Pub. L. 107–63, title I, § 135(a)][/us/pl/107/63/s135/a], (c)–(e), Nov. 5, 2001, [115 Stat. 443][/us/stat/115/443].)
+([Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 125 \[§ 8\]\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–229, 2763A–356; [Pub. L. 107–63, title I][/us/pl/107/63/tI], § 135(a), (c)–(e), Nov. 5, 2001, [115 Stat. 443][/us/stat/115/443].)
 
  __References in Text__ 
 
@@ -89,9 +89,9 @@
 
  __Amendments__ 
 
-    2001—Subsec. (a). [Pub. L. 107–63, § 135(a)][/us/pl/107/63/s135/a], substituted “October 3, 2001” for “July 19, 2000” wherever appearing.
+    2001—Subsec. (a). [Pub. L. 107–63][/us/pl/107/63], § 135(a), substituted “October 3, 2001” for “July 19, 2000” wherever appearing.
 
-    Subsecs. (e) to (g). [Pub. L. 107–63, § 135(c)][/us/pl/107/63/s135/c]–(e), added subsecs. (e) to (g).
+    Subsecs. (e) to (g). [Pub. L. 107–63][/us/pl/107/63], § 135(c)–(e), added subsecs. (e) to (g).
 
 ----------
 
@@ -106,9 +106,9 @@
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
 [/us/usc/t43/s1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1782
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/63/s135/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63%2Fs135%2Fa
+[/us/pl/107/63/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63%2FtI
 [/us/stat/115/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F443
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890
@@ -120,7 +120,7 @@
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132
-[/us/pl/107/63/s135/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63%2Fs135%2Fa
-[/us/pl/107/63/s135/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63%2Fs135%2Fc
+[/us/pl/107/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63
+[/us/pl/107/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63
 
 

@@ -17,7 +17,7 @@
 
     The administration, protection, development, and regulation of use of the Area shall be by the Secretary of Agriculture (hereinafter referred to as the “Secretary”) in accordance with the laws, rules, and regulations applicable to national forests, in such manner as in his judgment will best contribute to attainment of the purpose of this subchapter.
 
-([Pub. L. 93–535, § 2][/us/pl/93/535/s2], Dec. 22, 1974, [88 Stat. 1732][/us/stat/88/1732].)
+([Pub. L. 93–535][/us/pl/93/535], § 2, Dec. 22, 1974, [88 Stat. 1732][/us/stat/88/1732].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/535/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F535%2Fs2
+[/us/pl/93/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F535
 [/us/stat/88/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1732
 
 

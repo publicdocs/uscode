@@ -17,7 +17,7 @@
 
     The Secretary shall furnish to any interested person requesting the same a certificate indicating, with respect to any property which the Secretary has been prohibited from acquiring by condemnation in accordance with provisions of this subchapter, that such authority is prohibited and the reasons therefor.
 
-([Pub. L. 89–668, § 13][/us/pl/89/668/s13], Oct. 15, 1966, [80 Stat. 925][/us/stat/80/925].)
+([Pub. L. 89–668][/us/pl/89/668], § 13, Oct. 15, 1966, [80 Stat. 925][/us/stat/80/925].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/668/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F668%2Fs13
+[/us/pl/89/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F668
 [/us/stat/80/925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F925
 
 

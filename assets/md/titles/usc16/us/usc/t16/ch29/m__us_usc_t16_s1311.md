@@ -17,7 +17,7 @@
 
     The Secretary shall prescribe such regulations as he determines necessary and desirable to carry out the provisions of this chapter.
 
-([Pub. L. 91–559, § 12][/us/pl/91/559/s12], Dec. 19, 1970, [84 Stat. 1471][/us/stat/84/1471].)
+([Pub. L. 91–559][/us/pl/91/559], § 12, Dec. 19, 1970, [84 Stat. 1471][/us/stat/84/1471].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/559/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F559%2Fs12
+[/us/pl/91/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F559
 [/us/stat/84/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1471
 
 

@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated from time to time, out of any moneys in the Treasury not otherwise appropriated, such sums, not in excess of $250,000 per annum, as may be necessary to carry out the purposes and objectives of sections 760a to 760c of this title.
 
-([Aug. 25, 1950, ch. 782, § 3][/us/act/1950-08-25/ch782/s3], [64 Stat. 474][/us/stat/64/474].)
+([Aug. 25, 1950, ch. 782][/us/act/1950-08-25/ch782], § 3, [64 Stat. 474][/us/stat/64/474].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1950-08-25/ch782/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-25%2Fch782%2Fs3
+[/us/act/1950-08-25/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-25%2Fch782
 [/us/stat/64/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F474
 
 

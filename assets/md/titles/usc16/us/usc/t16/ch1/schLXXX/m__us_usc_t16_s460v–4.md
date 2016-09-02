@@ -19,7 +19,7 @@
 
     All receipts derived from permits and leases issued under the authority of this section for removal of nonleasable minerals shall be paid into the same funds or accounts in the Treasury of the United States and shall be distributed in the same manner as provided for receipts from national forests. Any receipts derived from permits or leases issued on lands in the recreation area under the Mineral Leasing Act of February 25, 1920, as amended, or the Act of August 7, 1947, shall be disposed of as provided in the applicable Act.
 
-([Pub. L. 90–540, § 5][/us/pl/90/540/s5], Oct. 1, 1968, [82 Stat. 904][/us/stat/82/904].)
+([Pub. L. 90–540][/us/pl/90/540], § 5, Oct. 1, 1968, [82 Stat. 904][/us/stat/82/904].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 [/us/usc/t43/s387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs387
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
 [/us/usc/t30/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs351
-[/us/pl/90/540/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F540%2Fs5
+[/us/pl/90/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F540
 [/us/stat/82/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F904
 [/us/act/1947-08-07/ch513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-07%2Fch513
 [/us/stat/61/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F913

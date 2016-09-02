@@ -23,7 +23,7 @@
 
         The Secretary may permit hunting and fishing on lands and waters under his jurisdiction within the seashore in such areas and under such regulations as he may prescribe during open seasons prescribed by applicable local, State, and Federal law. The Secretary shall consult with officials of the State of California and any political subdivision thereof who have jurisdiction of hunting and fishing prior to the issuance of any such regulations, and the Secretary is authorized to enter into cooperative agreements with such officials regarding such hunting and fishing as he may deem desirable.
 
-([Pub. L. 87–657, § 6][/us/pl/87/657/s6], formerly § 7, Sept. 13, 1962, [76 Stat. 541][/us/stat/76/541]; renumbered § 6, [Pub. L. 91–223, § 2(c)][/us/pl/91/223/s2/c], Apr. 3, 1970, [84 Stat. 90][/us/stat/84/90]; amended [Pub. L. 94–544, § 4(a)][/us/pl/94/544/s4/a], Oct. 18, 1976, [90 Stat. 2515][/us/stat/90/2515]; [Pub. L. 94–567, § 7(a)][/us/pl/94/567/s7/a], Oct. 20, 1976, [90 Stat. 2695][/us/stat/90/2695].)
+([Pub. L. 87–657][/us/pl/87/657], § 6, formerly § 7, Sept. 13, 1962, [76 Stat. 541][/us/stat/76/541]; renumbered § 6, [Pub. L. 91–223][/us/pl/91/223], § 2(c), Apr. 3, 1970, [84 Stat. 90][/us/stat/84/90]; amended [Pub. L. 94–544][/us/pl/94/544], § 4(a), Oct. 18, 1976, [90 Stat. 2515][/us/stat/90/2515]; [Pub. L. 94–567][/us/pl/94/567], § 7(a), Oct. 20, 1976, [90 Stat. 2695][/us/stat/90/2695].)
 
  __References in Text__ 
 
@@ -44,13 +44,13 @@
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/stat/67/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F496
-[/us/pl/87/657/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F657%2Fs6
+[/us/pl/87/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F657
 [/us/stat/76/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F541
-[/us/pl/91/223/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F223%2Fs2%2Fc
+[/us/pl/91/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F223
 [/us/stat/84/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F90
-[/us/pl/94/544/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F544%2Fs4%2Fa
+[/us/pl/94/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F544
 [/us/stat/90/2515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2515
-[/us/pl/94/567/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F567%2Fs7%2Fa
+[/us/pl/94/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F567
 [/us/stat/90/2695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2695
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408

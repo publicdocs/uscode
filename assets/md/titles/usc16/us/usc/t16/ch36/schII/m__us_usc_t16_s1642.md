@@ -187,7 +187,7 @@
 
             (F) the process for employing, in coordination with the Secretary of Energy and the Administrator of the National Aeronautics and Space Administration, remote sensing, global positioning systems, and other advanced technologies to carry out this subsection, and the subsequent use of the technologies.
 
-([Pub. L. 95–307, § 3][/us/pl/95/307/s3], June 30, 1978, [92 Stat. 353][/us/stat/92/353]; [Pub. L. 96–294, title II, § 254][/us/pl/96/294/s254], June 30, 1980, [94 Stat. 707][/us/stat/94/707]; [Pub. L. 100–521, § 3][/us/pl/100/521/s3], Oct. 24, 1988, [102 Stat. 2601][/us/stat/102/2601]; [Pub. L. 101–624, title XII, § 1241(a)][/us/pl/101/624/s1241/a], Nov. 28, 1990, [104 Stat. 3544][/us/stat/104/3544]; [Pub. L. 105–185, title II, § 253(b)][/us/pl/105/185/s253/b], (c), June 23, 1998, [112 Stat. 559][/us/stat/112/559]; [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VII, § 753(a)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–32.)
+([Pub. L. 95–307][/us/pl/95/307], § 3, June 30, 1978, [92 Stat. 353][/us/stat/92/353]; [Pub. L. 96–294, title II][/us/pl/96/294/tII], § 254, June 30, 1980, [94 Stat. 707][/us/stat/94/707]; [Pub. L. 100–521][/us/pl/100/521], § 3, Oct. 24, 1988, [102 Stat. 2601][/us/stat/102/2601]; [Pub. L. 101–624, title XII][/us/pl/101/624/tXII], § 1241(a), Nov. 28, 1990, [104 Stat. 3544][/us/stat/104/3544]; [Pub. L. 105–185, title II][/us/pl/105/185/tII], § 253(b), (c), June 23, 1998, [112 Stat. 559][/us/stat/112/559]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(a) \[title VII, § 753(a)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–32.)
 
  __References in Text__ 
 
@@ -195,7 +195,7 @@
 
  __Amendments__ 
 
-    1998—Subsec. (d). [Pub. L. 105–185, § 253(b)][/us/pl/105/185/s253/b], added subsec. (d) and struck out former subsec. (d) which read as follows: “The Secretary is authorized to conduct, support, and cooperate in studies and other activities the Secretary deems necessary to—
+    1998—Subsec. (d). [Pub. L. 105–185][/us/pl/105/185], § 253(b), added subsec. (d) and struck out former subsec. (d) which read as follows: “The Secretary is authorized to conduct, support, and cooperate in studies and other activities the Secretary deems necessary to—
 
     “(1) evaluate renewable resource management problems associated with urban-forest interface;
 
@@ -205,19 +205,19 @@
 
     Subsec. (d)(3). [Pub. L. 105–277][/us/pl/105/277] substituted “At the request of the Governor of the State of Maine, New Hampshire, New York, or Vermont, the Secretary” for “The Secretary”.
 
-    Subsec. (e). [Pub. L. 105–185, § 253(c)][/us/pl/105/185/s253/c], added subsec. (e).
+    Subsec. (e). [Pub. L. 105–185][/us/pl/105/185], § 253(c), added subsec. (e).
 
-    1990—Subsec. (a)(1). [Pub. L. 101–624, § 1241(a)(1)][/us/pl/101/624/s1241/a/1], inserted “, including activities for encouraging improved reforestation of forest lands from which timber has been harvested” after “purposes”.
+    1990—Subsec. (a)(1). [Pub. L. 101–624][/us/pl/101/624], § 1241(a)(1), inserted “, including activities for encouraging improved reforestation of forest lands from which timber has been harvested” after “purposes”.
 
-    Subsec. (b). [Pub. L. 101–624, § 1241(a)(2)][/us/pl/101/624/s1241/a/2], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (b). [Pub. L. 101–624][/us/pl/101/624], § 1241(a)(2), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (d). [Pub. L. 101–624, § 1241(a)(3)][/us/pl/101/624/s1241/a/3], added subsec. (d).
+    Subsec. (d). [Pub. L. 101–624][/us/pl/101/624], § 1241(a)(3), added subsec. (d).
 
     1988—Subsec. (c). [Pub. L. 100–521][/us/pl/100/521] added subsec. (c).
 
-    1980—Subsec. (a)(1). [Pub. L. 96–294, § 254(1)][/us/pl/96/294/s254/1], inserted applicability to energy production and energy conservation activities.
+    1980—Subsec. (a)(1). [Pub. L. 96–294][/us/pl/96/294], § 254(1), inserted applicability to energy production and energy conservation activities.
 
-    Subsec. (a)(4). [Pub. L. 96–294, § 254(2)][/us/pl/96/294/s254/2], inserted applicability to producing and conserving energy.
+    Subsec. (a)(4). [Pub. L. 96–294][/us/pl/96/294], § 254(2), inserted applicability to producing and conserving energy.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -225,7 +225,7 @@
 
  __Revision of Strategic Plan for Forest Inventory and Analysis__ 
 
-[Pub. L. 113–79, title VIII, § 8301][/us/pl/113/79/s8301], Feb. 7, 2014, [128 Stat. 922][/us/stat/128/922], provided that:
+[Pub. L. 113–79, title VIII][/us/pl/113/79/tVIII], § 8301, Feb. 7, 2014, [128 Stat. 922][/us/stat/128/922], provided that:
 
 >     “(a)  __Revision Required__  __.—__ 
 
@@ -263,7 +263,7 @@
 
  __Southern Forest Regeneration Program__ 
 
-[Pub. L. 101–624, title XII, § 1242][/us/pl/101/624/s1242], Nov. 28, 1990, [104 Stat. 3545][/us/stat/104/3545], provided that:
+[Pub. L. 101–624, title XII][/us/pl/101/624/tXII], § 1242, Nov. 28, 1990, [104 Stat. 3545][/us/stat/104/3545], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -289,7 +289,7 @@
 
  __Semiarid Agroforestry Research Center__ 
 
-[Pub. L. 101–624, title XII, § 1243][/us/pl/101/624/s1243], Nov. 28, 1990, [104 Stat. 3546][/us/stat/104/3546], provided that:
+[Pub. L. 101–624, title XII][/us/pl/101/624/tXII], § 1243, Nov. 28, 1990, [104 Stat. 3546][/us/stat/104/3546], provided that:
 
 >     “(a)  __Semiarid Agroforestry Research, Development, and Demonstration Center__  __.—__ 
 
@@ -335,7 +335,7 @@
 
  __Forest Ecosystems and Atmospheric Pollution Research; Congressional Findings__ 
 
-[Pub. L. 100–521, § 2][/us/pl/100/521/s2], Oct. 24, 1988, [102 Stat. 2601][/us/stat/102/2601], provided that: 
+[Pub. L. 100–521][/us/pl/100/521], § 2, Oct. 24, 1988, [102 Stat. 2601][/us/stat/102/2601], provided that: 
 
 > “Congress finds that—
 
@@ -359,38 +359,38 @@
 ----------
 
 [/us/usc/t16/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1601
-[/us/pl/95/307/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F307%2Fs3
+[/us/pl/95/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F307
 [/us/stat/92/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F353
-[/us/pl/96/294/s254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs254
+[/us/pl/96/294/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtII
 [/us/stat/94/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F707
-[/us/pl/100/521/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F521%2Fs3
-[/us/stat/102/2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2601
-[/us/pl/101/624/s1241/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1241%2Fa
-[/us/stat/104/3544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3544
-[/us/pl/105/185/s253/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs253%2Fb
-[/us/stat/112/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F559
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
-[/us/stat/112/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681
-[/us/pl/105/185/s253/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs253%2Fb
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/105/185/s253/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs253%2Fc
-[/us/pl/101/624/s1241/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1241%2Fa%2F1
-[/us/pl/101/624/s1241/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1241%2Fa%2F2
-[/us/pl/101/624/s1241/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1241%2Fa%2F3
 [/us/pl/100/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F521
-[/us/pl/96/294/s254/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs254%2F1
-[/us/pl/96/294/s254/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs254%2F2
+[/us/stat/102/2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2601
+[/us/pl/101/624/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXII
+[/us/stat/104/3544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3544
+[/us/pl/105/185/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtII
+[/us/stat/112/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F559
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
+[/us/stat/112/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/100/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F521
+[/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
+[/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t7/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs343
-[/us/pl/113/79/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8301
+[/us/pl/113/79/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVIII
 [/us/stat/128/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F922
 [/us/usc/t16/s1642/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1642%2Fe
-[/us/pl/101/624/s1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1242
+[/us/pl/101/624/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXII
 [/us/stat/104/3545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3545
-[/us/pl/101/624/s1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1243
+[/us/pl/101/624/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXII
 [/us/stat/104/3546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3546
-[/us/pl/100/521/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F521%2Fs2
+[/us/pl/100/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F521
 [/us/stat/102/2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2601
 
 

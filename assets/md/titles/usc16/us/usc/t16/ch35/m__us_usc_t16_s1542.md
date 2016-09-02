@@ -33,7 +33,7 @@
 
         There are authorized to be appropriated to the Department of the Interior for purposes of carrying out [section 1537a(e) of this title][/us/usc/t16/s1537a/e] not to exceed $400,000 for each of fiscal years 1988, 1989, and 1990, and $500,000 for each of fiscal years 1991 and 1992, and such sums shall remain available until expended.
 
-([Pub. L. 93–205, § 15][/us/pl/93/205/s15], Dec. 28, 1973, [87 Stat. 903][/us/stat/87/903]; [Pub. L. 94–325][/us/pl/94/325], June 30, 1976, [90 Stat. 724][/us/stat/90/724]; [Pub. L. 95–632, § 9][/us/pl/95/632/s9], Nov. 10, 1978, [92 Stat. 3762][/us/stat/92/3762]; [Pub. L. 96–159, § 8][/us/pl/96/159/s8], Dec. 28, 1979, [93 Stat. 1230][/us/stat/93/1230]; [Pub. L. 97–304, § 8][/us/pl/97/304/s8]\[(a)\], Oct. 13, 1982, [96 Stat. 1425][/us/stat/96/1425]; [Pub. L. 100–478, title I, § 1009][/us/pl/100/478/s1009], Oct. 7, 1988, [102 Stat. 2312][/us/stat/102/2312].)
+([Pub. L. 93–205][/us/pl/93/205], § 15, Dec. 28, 1973, [87 Stat. 903][/us/stat/87/903]; [Pub. L. 94–325][/us/pl/94/325], June 30, 1976, [90 Stat. 724][/us/stat/90/724]; [Pub. L. 95–632][/us/pl/95/632], § 9, Nov. 10, 1978, [92 Stat. 3762][/us/stat/92/3762]; [Pub. L. 96–159][/us/pl/96/159], § 8, Dec. 28, 1979, [93 Stat. 1230][/us/stat/93/1230]; [Pub. L. 97–304][/us/pl/97/304], § 8\[(a)\], Oct. 13, 1982, [96 Stat. 1425][/us/stat/96/1425]; [Pub. L. 100–478, title I][/us/pl/100/478/tI], § 1009, Oct. 7, 1988, [102 Stat. 2312][/us/stat/102/2312].)
 
  __References in Text__ 
 
@@ -57,9 +57,9 @@
 
     Par. (2). [Pub. L. 95–632][/us/pl/95/632] substituted provision authorizing appropriations of not to exceed $5,000,000 for the fiscal year ending Sept. 30, 1977 and the fiscal year ending Sept. 30, 1978, of not to exceed $2,500,000 for the fiscal year ending Sept. 30, 1979, and of not to exceed $12,500,000 for the period beginning Oct. 1, 1979 and ending Mar. 31, 1980 for provision authorizing appropriations of not to exceed $2,000,000 for the fiscal year ending June 30, 1976, of not to exceed $500,000 for the fiscal transitional period ending Sept. 30, 1976 and of not to exceed a total of $5,000,000 for the fiscal year Sept. 30, 1977 and the fiscal year ending Sept. 30, 1978.
 
-    1976—Par. (1). [Pub. L. 94–325, § 1(1)][/us/pl/94/325/s1/1], redesignated par. (A) as (1), inserted provisions authorizing appropriations for the fiscal year transitional period ending Sept. 30, 1976, fiscal year ending Sept. 30, 1977, and fiscal year ending Sept. 30, 1978, and struck out provisions authorizing appropriations of not to exceed $4,000,000 for fiscal year 1974, and not to exceed $8,000,000 for fiscal year 1975.
+    1976—Par. (1). [Pub. L. 94–325][/us/pl/94/325], § 1(1), redesignated par. (A) as (1), inserted provisions authorizing appropriations for the fiscal year transitional period ending Sept. 30, 1976, fiscal year ending Sept. 30, 1977, and fiscal year ending Sept. 30, 1978, and struck out provisions authorizing appropriations of not to exceed $4,000,000 for fiscal year 1974, and not to exceed $8,000,000 for fiscal year 1975.
 
-    Par. (2). [Pub. L. 94–325, § 1(2)][/us/pl/94/325/s1/2], redesignated par. (B) as (2), inserted provisions authorizing appropriation for the fiscal year transitional period ending Sept. 30, 1976, fiscal year ending Sept. 30, 1977, and fiscal year ending Sept. 30, 1978, and struck out provisions authorizing appropriations of not to exceed $2,000,000 for fiscal year 1974, and not to exceed $1,500,000 for fiscal year 1975.
+    Par. (2). [Pub. L. 94–325][/us/pl/94/325], § 1(2), redesignated par. (B) as (2), inserted provisions authorizing appropriation for the fiscal year transitional period ending Sept. 30, 1976, fiscal year ending Sept. 30, 1977, and fiscal year ending Sept. 30, 1978, and struck out provisions authorizing appropriations of not to exceed $2,000,000 for fiscal year 1974, and not to exceed $1,500,000 for fiscal year 1975.
 
 ----------
 
@@ -69,17 +69,17 @@
 ----------
 
 [/us/usc/t16/s1537a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1537a%2Fe
-[/us/pl/93/205/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205%2Fs15
+[/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F903
 [/us/pl/94/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F325
 [/us/stat/90/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F724
-[/us/pl/95/632/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F632%2Fs9
+[/us/pl/95/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F632
 [/us/stat/92/3762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3762
-[/us/pl/96/159/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159%2Fs8
+[/us/pl/96/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159
 [/us/stat/93/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1230
-[/us/pl/97/304/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs8
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
 [/us/stat/96/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1425
-[/us/pl/100/478/s1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2Fs1009
+[/us/pl/100/478/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2FtI
 [/us/stat/102/2312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2312
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/81/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F884
@@ -93,7 +93,7 @@
 [/us/usc/t16/s1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1535
 [/us/pl/95/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F632
 [/us/pl/95/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F632
-[/us/pl/94/325/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F325%2Fs1%2F1
-[/us/pl/94/325/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F325%2Fs1%2F2
+[/us/pl/94/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F325
+[/us/pl/94/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F325
 
 

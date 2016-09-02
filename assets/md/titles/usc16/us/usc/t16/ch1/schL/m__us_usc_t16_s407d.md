@@ -17,11 +17,11 @@
 
     Any admission fee charged for entrance to Carlsbad Caverns and any fee charged for guide service therein shall be exempt from all taxes on admissions.
 
-([June 22, 1936, ch. 691, § 1][/us/act/1936-06-22/ch691/s1], [49 Stat. 1792][/us/stat/49/1792].)
+([June 22, 1936, ch. 691][/us/act/1936-06-22/ch691], § 1, [49 Stat. 1792][/us/stat/49/1792].)
 
  __Codification__ 
 
-    [Act Sept. 20, 1941, ch. 412][/us/act/1941-09-20/ch412], title V, § 541(c), [55 Stat. 710][/us/stat/55/710], amended [act May 9, 1935, ch. 101, § 1][/us/act/1935-05-09/ch101/s1], [49 Stat. 207][/us/stat/49/207], which had been classified to this section of the Code, “by striking out that part thereof” upon which this section was based. Said act Sept. 20, 1941, however, made no mention of act June 22, 1936, which reenacted those same provisions. Such act Sept. 20, 1941, was made effective on, and applicable only with respect to the period beginning with, Oct. 1, 1941, by section 550(a) thereof.
+    [Act Sept. 20, 1941, ch. 412, title V][/us/act/1941-09-20/ch412/tV], § 541(c), [55 Stat. 710][/us/stat/55/710], amended [act May 9, 1935, ch. 101][/us/act/1935-05-09/ch101], § 1, [49 Stat. 207][/us/stat/49/207], which had been classified to this section of the Code, “by striking out that part thereof” upon which this section was based. Said act Sept. 20, 1941, however, made no mention of act June 22, 1936, which reenacted those same provisions. Such act Sept. 20, 1941, was made effective on, and applicable only with respect to the period beginning with, Oct. 1, 1941, by section 550(a) thereof.
 
 ----------
 
@@ -30,11 +30,11 @@
 ----------
 ----------
 
-[/us/act/1936-06-22/ch691/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch691%2Fs1
+[/us/act/1936-06-22/ch691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-22%2Fch691
 [/us/stat/49/1792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1792
-[/us/act/1941-09-20/ch412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-09-20%2Fch412
+[/us/act/1941-09-20/ch412/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-09-20%2Fch412%2FtV
 [/us/stat/55/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F710
-[/us/act/1935-05-09/ch101/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-05-09%2Fch101%2Fs1
+[/us/act/1935-05-09/ch101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-05-09%2Fch101
 [/us/stat/49/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F207
 
 

@@ -25,7 +25,7 @@
 
         (2) the Secretary of the Interior may utilize such statutory authorities relating to areas of the national park system and such statutory authority otherwise available to him for the conservation and development of natural resources as he deems appropriate to carry out the purposes of this subchapter.
 
-([Pub. L. 89–336, § 4][/us/pl/89/336/s4], Nov. 8, 1965, [79 Stat. 1298][/us/stat/79/1298].)
+([Pub. L. 89–336][/us/pl/89/336], § 4, Nov. 8, 1965, [79 Stat. 1298][/us/stat/79/1298].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/89/336/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F336%2Fs4
+[/us/pl/89/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F336
 [/us/stat/79/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1298
 
 

@@ -17,7 +17,7 @@
 
     The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Panel or to an advisory committee established under [section 5722 of this title][/us/usc/t16/s5722].
 
-([Pub. L. 106–450, title II, § 204][/us/pl/106/450/s204], Nov. 7, 2000, [114 Stat. 1943][/us/stat/114/1943].)
+([Pub. L. 106–450, title II][/us/pl/106/450/tII], § 204, Nov. 7, 2000, [114 Stat. 1943][/us/stat/114/1943].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t16/s5722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5722
-[/us/pl/106/450/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F450%2Fs204
+[/us/pl/106/450/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F450%2FtII
 [/us/stat/114/1943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1943
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

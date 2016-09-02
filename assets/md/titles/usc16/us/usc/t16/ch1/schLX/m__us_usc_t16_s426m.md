@@ -17,7 +17,7 @@
 
     The administration, protection and development of the Stones River National Battlefield shall be exercised by the Secretary of the Interior in accordance with the provisions of the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]), entitled “An Act to establish a National Park Service, and for other purposes”, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended.
 
-([Pub. L. 86–443, § 3][/us/pl/86/443/s3], Apr. 22, 1960, [74 Stat. 82][/us/stat/74/82].)
+([Pub. L. 86–443][/us/pl/86/443], § 3, Apr. 22, 1960, [74 Stat. 82][/us/stat/74/82].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
-[/us/pl/86/443/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F443%2Fs3
+[/us/pl/86/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F443
 [/us/stat/74/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F82
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408

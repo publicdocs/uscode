@@ -17,11 +17,11 @@
 
     The Secretary shall administer the fur seal rookeries and other Federal real and personal property on the Pribilof Islands, with the exception of lands purchased by the U.S. Fish and Wildlife Service under section 1417 of the Alaska National Interest Lands Conservation Act ([Public Law 96–487][/us/pl/96/487]) or acquired or purchased by any other authority after October 14, 1983, and, in consultation with the Secretary of the Interior, shall ensure that activities on such property are consistent with the purposes of conserving, managing, and protecting the North Pacific fur seals and other wildlife and for other purposes consistent with that primary purpose.
 
-([Pub. L. 89–702, title II, § 201][/us/pl/89/702/s201], Nov. 2, 1966, [80 Stat. 1093][/us/stat/80/1093]; [Pub. L. 98–129, § 2][/us/pl/98/129/s2], Oct. 14, 1983, [97 Stat. 838][/us/stat/97/838]; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 144(e)(6)(B)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–248; [Pub. L. 106–562, title I, § 106(b)][/us/pl/106/562/s106/b], Dec. 23, 2000, [114 Stat. 2799][/us/stat/114/2799].)
+([Pub. L. 89–702, title II][/us/pl/89/702/tII], § 201, Nov. 2, 1966, [80 Stat. 1093][/us/stat/80/1093]; [Pub. L. 98–129][/us/pl/98/129], § 2, Oct. 14, 1983, [97 Stat. 838][/us/stat/97/838]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 144(e)(6)(B)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–248; [Pub. L. 106–562, title I][/us/pl/106/562/tI], § 106(b), Dec. 23, 2000, [114 Stat. 2799][/us/stat/114/2799].)
 
  __References in Text__ 
 
-    Section 1417 of the Alaska National Interest Lands Conservation Act, referred to in text, is [Pub. L. 96–487, title XIV, § 1417][/us/pl/96/487/s1417], Dec. 2, 1980, [94 Stat. 2500][/us/stat/94/2500], which is not classified to the Code.
+    Section 1417 of the Alaska National Interest Lands Conservation Act, referred to in text, is [Pub. L. 96–487, title XIV][/us/pl/96/487/tXIV], § 1417, Dec. 2, 1980, [94 Stat. 2500][/us/stat/94/2500], which is not classified to the Code.
 
  __Amendments__ 
 
@@ -31,21 +31,21 @@
 
  __Purpose__ 
 
-[Pub. L. 106–562, title I, § 102][/us/pl/106/562/s102], Dec. 23, 2000, [114 Stat. 2794][/us/stat/114/2794], provided that: 
+[Pub. L. 106–562, title I][/us/pl/106/562/tI], § 102, Dec. 23, 2000, [114 Stat. 2794][/us/stat/114/2794], provided that: 
 
 > “The purpose of this title \[see Short Title of 2000 Amendments note set out under [section 1151 of this title][/us/usc/t16/s1151]\] is to complete the orderly withdrawal of the National Oceanic and Atmospheric Administration from the civil administration of the Pribilof Islands, Alaska.”
 
-    Substantially identical provisions were contained in [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 144(e)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–244.
+    Substantially identical provisions were contained in [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 144(e)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–244.
 
  __Termination of Responsibilities__ 
 
-[Pub. L. 106–562, title I, § 105][/us/pl/106/562/s105], Dec. 23, 2000, [114 Stat. 2796][/us/stat/114/2796], provided that:
+[Pub. L. 106–562, title I][/us/pl/106/562/tI], § 105, Dec. 23, 2000, [114 Stat. 2796][/us/stat/114/2796], as amended by [Pub. L. 114–120, title V][/us/pl/114/120/tV], § 523, Feb. 8, 2016, [130 Stat. 71][/us/stat/130/71], provided that:
 
 >     “(a) __Future Obligation.—__ 
 
 >         “(1)  __In general__  __.—__ 
 
->         The Secretary of Commerce shall not be considered to have any obligation to promote or otherwise provide for the development of any form of an economy not dependent on sealing on the Pribilof Islands, Alaska, including any obligation under section 206 of the Fur Seal Act of 1966 ([16 U.S.C. 1166][/us/usc/t16/s1166]) or [section 3(c)(1)(A) of Public Law 104–91][/us/pl/104/91/s3/c/1/A] ([16 U.S.C. 1165][/us/usc/t16/s1165] note).
+>         Notwithstanding paragraph (2) and effective beginning on the date the Secretary publishes the notice of certification required by subsection (b)(5), the Secretary of Commerce shall not be considered to have any obligation to promote or otherwise provide for the development of any form of an economy not dependent on sealing on the Pribilof Islands, Alaska, including any obligation under section 206 of the Fur Seal Act of 1966 ([16 U.S.C. 1166][/us/usc/t16/s1166]) or [section 3(c)(1)(A) of Public Law 104–91][/us/pl/104/91/s3/c/1/A] ([16 U.S.C. 1165][/us/usc/t16/s1165] note).
 
 >         “(2)  __Savings__  __.—__ 
 
@@ -73,7 +73,7 @@
 
 >         Subject to paragraph (2), there are terminated all obligations of the Secretary of Commerce and the United States to—
 
->             “(A) convey property under section 205 of the Fur Seal Act of 1966 ([16 U.S.C. 1165][/us/usc/t16/s1165]); and
+>             “(A) convey property under section 205(a) of the Fur Seal Act of 1966 ([16 U.S.C. 1165(a)][/us/usc/t16/s1165/a]); and
 
 >             “(B) carry out cleanup activities, including assessment, response, remediation, and monitoring, except for postremedial measures such as monitoring and operation and maintenance activities, related to National Oceanic and Atmospheric Administration administration of the Pribilof Islands, Alaska, under [section 3 of Public Law 104–91][/us/pl/104/91/s3] ([16 U.S.C. 1165][/us/usc/t16/s1165] note) and the Pribilof Islands Environmental Restoration Agreement between the National Oceanic and Atmospheric Administration and the State of Alaska, signed January 26, 1996.
 
@@ -109,9 +109,13 @@
 
 >             “(E) The terms of the documents described in subsection (d)(2).
 
+>         “(5)  __Notice of certification__  __.—__ 
+
+>         The Secretary shall promptly publish and submit to the Committee on Natural Resources of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate notice that the certification described in paragraph (2) has been made.
+
 >     “(c)  __Repeals__  __.—__ 
 
->     Effective on the date on which the Secretary of Commerce makes the certification described in subsection (b)(2), the following provisions are repealed:
+>     Effective on the date on which the Secretary of Commerce publishes the notice of certification required by subsection (b)(5), the following provisions are repealed:
 
 >         “(1) Section 205 of the Fur Seal Act of 1966 ([16 U.S.C. 1165][/us/usc/t16/s1165]).
 
@@ -133,7 +137,47 @@
 
 >             “(C) The Memorandum of Understanding between Tanadgusix Corporation, Tanaq Corporation, and the Secretary of Commerce, dated December 22, 1976.
 
->     “(e) __Definitions.—__ 
+>     “(e) __Notifications.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Not later than 30 days after the Secretary makes a determination under subsection (f) that land on St. Paul Island, Alaska, not specified for transfer in the document entitled ‘Transfer of Property on the Pribilof Islands: Descriptions, Terms and Conditions’ or section 522 of the Pribilof Island Transition Completion Act of 2015 \[[130 Stat. 70][/us/stat/130/70]\] is in excess of the needs of the Secretary and the Federal Government, the Secretary shall notify the Alaska native village corporation for St. Paul Island of the determination.
+
+>         “(2)  __Election to receive__  __.—__ 
+
+>         Not later than 60 days after the date receipt of the notification of the Secretary under subsection (a), the Alaska native village corporation for St. Paul Island shall notify the Secretary in writing whether the Alaska native village corporation elects to receive all right, title, and interest in the land or a portion of the land.
+
+>         “(3)  __Transfer__  __.—__ 
+
+>         If the Alaska native village corporation provides notice under paragraph (2) that the Alaska native village corporation elects to receive all right, title and interest in the land or a portion of the land, the Secretary shall transfer all right, title, and interest in the land or portion to the Alaska native village corporation at no cost.
+
+>         “(4)  __Other disposition__  __.—__ 
+
+>         If the Alaska native village corporation does not provide notice under paragraph (2) that the Alaska native village corporation elects to receive all right, title, and interest in the land or a portion of the land, the Secretary may dispose of the land in accordance with other applicable law.
+
+>     “(f) __Determination.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Not later than 2 years after the date of the enactment of this subsection \[Feb. 8, 2016\] and not less than once every 5 years thereafter, the Secretary shall determine whether property located on St. Paul Island and not transferred to the Natives of the Pribilof Islands is in excess of the smallest practicable tract enclosing land—
+
+>             “(A) needed by the Secretary for the purposes of carrying out the Fur Seal Act of 1966 ([16 U.S.C. 1151][/us/usc/t16/s1151] et seq.);
+
+>             “(B) in the case of land withdrawn by the Secretary on behalf of other Federal agencies, needed for carrying out the missions of those agencies for which land was withdrawn; or
+
+>             “(C) actually used by the Federal Government in connection with the administration of any Federal installation on St. Paul Island.
+
+>         “(2)  __Report of determination__  __.—__ 
+
+>         When a determination is made under subsection (a), the Secretary shall report the determination to—
+
+>             “(A) the Committee on Natural Resources of the House of Representatives;
+
+>             “(B) the Committee on Commerce, Science, and Transportation of the Senate; and
+
+>             “(C) the Alaska native village corporation for St. Paul Island.
+
+>     “(g) __Definitions.—__ 
 
 >         “(1)  __In general__  __.—__ 
 
@@ -143,7 +187,7 @@
 
 >         For purposes of this section, the term ‘Natives of the Pribilof Islands’ includes the Tanadgusix Corporation, the St. George Tanaq Corporation, and the city governments and tribal councils of St. Paul and St. George, Alaska.”
 
-    Substantially similar provisions were contained in [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 144(e)(5)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–246.
+    Substantially similar provisions were contained in [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 144(e)(5)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–246.
 
 ----------
 
@@ -153,26 +197,28 @@
 ----------
 
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
-[/us/pl/89/702/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2Fs201
+[/us/pl/89/702/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2FtII
 [/us/stat/80/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1093
-[/us/pl/98/129/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129%2Fs2
+[/us/pl/98/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129
 [/us/stat/97/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F838
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/106/562/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs106%2Fb
+[/us/pl/106/562/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2FtI
 [/us/stat/114/2799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2799
-[/us/pl/96/487/s1417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1417
+[/us/pl/96/487/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXIV
 [/us/stat/94/2500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2500
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/106/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562
 [/us/pl/98/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129
-[/us/pl/106/562/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs102
+[/us/pl/106/562/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2FtI
 [/us/stat/114/2794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2794
 [/us/usc/t16/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1151
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/106/562/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs105
+[/us/pl/106/562/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2FtI
 [/us/stat/114/2796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2796
+[/us/pl/114/120/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtV
+[/us/stat/130/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F71
 [/us/usc/t16/s1166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1166
 [/us/pl/104/91/s3/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F91%2Fs3%2Fc%2F1%2FA
 [/us/usc/t16/s1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1165
@@ -185,7 +231,7 @@
 [/us/usc/t16/s1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1165
 [/us/pl/104/91/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F91%2Fs3%2Fc%2F1
 [/us/usc/t16/s1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1165
-[/us/usc/t16/s1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1165
+[/us/usc/t16/s1165/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1165%2Fa
 [/us/pl/104/91/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F91%2Fs3
 [/us/usc/t16/s1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1165
 [/us/pl/104/91/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F91%2Fs3%2Fa
@@ -198,8 +244,10 @@
 [/us/usc/t16/s1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1165
 [/us/pl/104/91/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F91%2Fs3
 [/us/usc/t16/s1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1165
+[/us/stat/130/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F70
 [/us/usc/t16/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1151
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/usc/t16/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1151
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to construct a visitor center and such other related facilities as may be deemed necessary to facilitate visitor understanding and enjoyment of the New River Gorge National River and the Gauley River National Recreation Area in the vicinity of the confluence of the New and Gauley Rivers. Such center and related facilities are authorized to be constructed at a site outside of the boundary of the New River Gorge National River or Gauley River National Recreation Area unless a suitable site is available within the boundaries of either unit.
 
-([Pub. L. 104–333, div. I, title IV, § 406(b)][/us/pl/104/333/s406/b], Nov. 12, 1996, [110 Stat. 4150][/us/stat/110/4150].)
+([Pub. L. 104–333, div. I, title IV][/us/pl/104/333/dI/tIV], § 406(b), Nov. 12, 1996, [110 Stat. 4150][/us/stat/110/4150].)
 
  __Codification__ 
 
@@ -25,7 +25,7 @@
 
  __New River Visitor Center__ 
 
-[Pub. L. 105–178, title I, § 1214(c)][/us/pl/105/178/s1214/c], June 9, 1998, [112 Stat. 205][/us/stat/112/205], provided that:
+[Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1214(c), June 9, 1998, [112 Stat. 205][/us/stat/112/205], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/104/333/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs406%2Fb
+[/us/pl/104/333/dI/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtIV
 [/us/stat/110/4150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4150
-[/us/pl/105/178/s1214/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1214%2Fc
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F205
 
 

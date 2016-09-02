@@ -113,7 +113,7 @@
 
             Any decision required to be made under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.) with respect to any authorized restoration services to be provided under this section on Federal land shall not be delegated to a Governor.
 
-([Pub. L. 113–79, title VIII, § 8206][/us/pl/113/79/s8206], Feb. 7, 2014, [128 Stat. 921][/us/stat/128/921].)
+([Pub. L. 113–79, title VIII][/us/pl/113/79/tVIII], § 8206, Feb. 7, 2014, [128 Stat. 921][/us/stat/128/921].)
 
  __References in Text__ 
 
@@ -133,7 +133,7 @@
 [/us/usc/t43/s1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1702
 [/us/usc/t16/s472a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs472a
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/113/79/s8206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8206
+[/us/pl/113/79/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVIII
 [/us/stat/128/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F921
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

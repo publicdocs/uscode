@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, any Federal property located within any of the areas described in sections 79b and 79c of this title may, with the concurrence of the head of the agency having custody thereof, be transferred without consideration to the administrative jurisdiction of the Secretary for use by him in carrying out the provisions of this subchapter.
 
-([Pub. L. 90–545, § 6][/us/pl/90/545/s6], Oct. 2, 1968, [82 Stat. 934][/us/stat/82/934].)
+([Pub. L. 90–545][/us/pl/90/545], § 6, Oct. 2, 1968, [82 Stat. 934][/us/stat/82/934].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/545/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F545%2Fs6
+[/us/pl/90/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F545
 [/us/stat/82/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F934
 
 

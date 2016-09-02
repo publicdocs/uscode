@@ -195,7 +195,7 @@
 
             (B) is not in compliance with the Organic Foods Production Act of 1990 ([7 U.S.C. 6501][/us/usc/t7/s6501] et seq).
 
-([Pub. L. 99–198, title XII, § 1240B][/us/pl/99/198/s1240B], as added [Pub. L. 107–171, title II, § 2301][/us/pl/107/171/s2301], May 13, 2002, [116 Stat. 254][/us/stat/116/254]; amended [Pub. L. 108–447, div. A, title VII, § 794(a)][/us/pl/108/447/s794/a], Dec. 8, 2004, [118 Stat. 2852][/us/stat/118/2852]; [Pub. L. 109–171, title I, § 1203(a)][/us/pl/109/171/s1203/a], Feb. 8, 2006, [120 Stat. 6][/us/stat/120/6]; [Pub. L. 110–234, title II, § 2503][/us/pl/110/234/s2503], May 22, 2008, [122 Stat. 1059][/us/stat/122/1059]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2503, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1787; [Pub. L. 112–55, div. A, title VII, § 716(c)][/us/pl/112/55/s716/c], Nov. 18, 2011, [125 Stat. 582][/us/stat/125/582]; [Pub. L. 113–76, div. A, title VII, § 750(a)][/us/pl/113/76/s750/a], Jan. 17, 2014, [128 Stat. 42][/us/stat/128/42]; [Pub. L. 113–79, title II, § 2203][/us/pl/113/79/s2203], Feb. 7, 2014, [128 Stat. 729][/us/stat/128/729].)
+([Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1240B, as added [Pub. L. 107–171, title II][/us/pl/107/171/tII], § 2301, May 13, 2002, [116 Stat. 254][/us/stat/116/254]; amended [Pub. L. 108–447, div. A, title VII][/us/pl/108/447/dA/tVII], § 794(a), Dec. 8, 2004, [118 Stat. 2852][/us/stat/118/2852]; [Pub. L. 109–171, title I][/us/pl/109/171/tI], § 1203(a), Feb. 8, 2006, [120 Stat. 6][/us/stat/120/6]; [Pub. L. 110–234, title II][/us/pl/110/234/tII], § 2503, May 22, 2008, [122 Stat. 1059][/us/stat/122/1059]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title II, § 2503, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1787; [Pub. L. 112–55, div. A, title VII][/us/pl/112/55/dA/tVII], § 716(c), Nov. 18, 2011, [125 Stat. 582][/us/stat/125/582]; [Pub. L. 113–76, div. A, title VII][/us/pl/113/76/dA/tVII], § 750(a), Jan. 17, 2014, [128 Stat. 42][/us/stat/128/42]; [Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2203, Feb. 7, 2014, [128 Stat. 729][/us/stat/128/729].)
 
  __References in Text__ 
 
@@ -207,21 +207,21 @@
 
  __Prior Provisions__ 
 
-    A prior section 3839aa–2, [Pub. L. 99–198, title XII, § 1240B][/us/pl/99/198/s1240B], as added [Pub. L. 104–127, title III, § 334][/us/pl/104/127/s334], Apr. 4, 1996, [110 Stat. 998][/us/stat/110/998], related to establishment and administration of environmental quality incentives program, prior to the general amendment of this part by [Pub. L. 107–171][/us/pl/107/171].
+    A prior section 3839aa–2, [Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1240B, as added [Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 334, Apr. 4, 1996, [110 Stat. 998][/us/stat/110/998], related to establishment and administration of environmental quality incentives program, prior to the general amendment of this part by [Pub. L. 107–171][/us/pl/107/171].
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–79, § 2203(1)][/us/pl/113/79/s2203/1], which directed substitution of “2018” for “2014”, was executed by making the substitution for “2015” to reflect the probable intent of Congress and the intervening amendment by [Pub. L. 113–76][/us/pl/113/76]. See below.
+    2014—Subsec. (a). [Pub. L. 113–79][/us/pl/113/79], § 2203(1), which directed substitution of “2018” for “2014”, was executed by making the substitution for “2015” to reflect the probable intent of Congress and the intervening amendment by [Pub. L. 113–76][/us/pl/113/76]. See below.
 
     [Pub. L. 113–76][/us/pl/113/76] substituted “2015” for “2014”.
 
-    Subsec. (b)(2). [Pub. L. 113–79, § 2203(2)][/us/pl/113/79/s2203/2], added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “A contract under the program shall have a term that—
+    Subsec. (b)(2). [Pub. L. 113–79][/us/pl/113/79], § 2203(2), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “A contract under the program shall have a term that—
 
     “(A) at a minimum, is equal to the period beginning on the date on which the contract is entered into and ending on the date that is one year after the date on which all practices under the contract have been implemented; but
 
     “(B) not to exceed 10 years.”
 
-    Subsec. (d)(3)(A) to (G). [Pub. L. 113–79, § 2203(3)(A)][/us/pl/113/79/s2203/3/A], added subpars. (A) to (G) and struck out former subpars. (A) to (G) which read as follows:
+    Subsec. (d)(3)(A) to (G). [Pub. L. 113–79][/us/pl/113/79], § 2203(3)(A), added subpars. (A) to (G) and struck out former subpars. (A) to (G) which read as follows:
 
     “(A) residue management;
 
@@ -237,17 +237,17 @@
 
     “(G) pest management.”
 
-    Subsec. (d)(4)(A). [Pub. L. 113–79, § 2203(3)(B)(i)][/us/pl/113/79/s2203/3/B/i], in introductory provisions, inserted “, a veteran farmer or rancher (as defined in [section 2279(e) of title 7][/us/usc/t7/s2279/e]),” before “or a beginning farmer or rancher”.
+    Subsec. (d)(4)(A). [Pub. L. 113–79][/us/pl/113/79], § 2203(3)(B)(i), in introductory provisions, inserted “, a veteran farmer or rancher (as defined in [section 2279(e) of title 7][/us/usc/t7/s2279/e]),” before “or a beginning farmer or rancher”.
 
-    Subsec. (d)(4)(B). [Pub. L. 113–79, § 2203(3)(B)(ii)][/us/pl/113/79/s2203/3/B/ii], added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “Not more than 30 percent of the amount determined under subparagraph (A) may be provided in advance for the purpose of purchasing materials or contracting.”
+    Subsec. (d)(4)(B). [Pub. L. 113–79][/us/pl/113/79], § 2203(3)(B)(ii), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “Not more than 30 percent of the amount determined under subparagraph (A) may be provided in advance for the purpose of purchasing materials or contracting.”
 
-    Subsec. (f). [Pub. L. 113–79, § 2203(4)][/us/pl/113/79/s2203/4], added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: “For each of fiscal years 2002 through 2012, 60 percent of the funds made available for payments under the program shall be targeted at practices relating to livestock production.”
+    Subsec. (f). [Pub. L. 113–79][/us/pl/113/79], § 2203(4), added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: “For each of fiscal years 2002 through 2012, 60 percent of the funds made available for payments under the program shall be targeted at practices relating to livestock production.”
 
-    Subsec. (g). [Pub. L. 113–79, § 2203(5)][/us/pl/113/79/s2203/5], added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “The Secretary may enter into alternative funding arrangements with federally recognized Native American Indian Tribes and Alaska Native Corporations (including their affiliated membership organizations) if the Secretary determines that the goals and objectives of the program will be met by such arrangements, and that statutory limitations regarding contracts with individual producers will not be exceeded by any Tribal or Native Corporation member.”
+    Subsec. (g). [Pub. L. 113–79][/us/pl/113/79], § 2203(5), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “The Secretary may enter into alternative funding arrangements with federally recognized Native American Indian Tribes and Alaska Native Corporations (including their affiliated membership organizations) if the Secretary determines that the goals and objectives of the program will be met by such arrangements, and that statutory limitations regarding contracts with individual producers will not be exceeded by any Tribal or Native Corporation member.”
 
     2011—Subsec. (a). [Pub. L. 112–55][/us/pl/112/55] substituted “2014” for “2012”.
 
-    2008—[Pub. L. 110–246, § 2503][/us/pl/110/246/s2503], amended section generally. Prior to amendment, section consisted of subsecs. (a) to (h) relating to provision of cost-share payments and incentive payments, application and term of a contract, bidding down, payment amounts, incentive payments, modification or termination of contracts, allocation of funding for fiscal years 2002 through 2007, and funding for federally recognized Native American Indian Tribes and Alaska Native Corporations.
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 2503, amended section generally. Prior to amendment, section consisted of subsecs. (a) to (h) relating to provision of cost-share payments and incentive payments, application and term of a contract, bidding down, payment amounts, incentive payments, modification or termination of contracts, allocation of funding for fiscal years 2002 through 2007, and funding for federally recognized Native American Indian Tribes and Alaska Native Corporations.
 
     2006—Subsec. (a)(1). [Pub. L. 109–171][/us/pl/109/171] substituted “2010” for “2007”.
 
@@ -267,22 +267,22 @@
 [/us/usc/t7/s2279/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2279%2Fe
 [/us/usc/t7/s6523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6523
 [/us/usc/t7/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6501
-[/us/pl/99/198/s1240B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1240B
-[/us/pl/107/171/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2301
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/107/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtII
 [/us/stat/116/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F254
-[/us/pl/108/447/s794/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs794%2Fa
+[/us/pl/108/447/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdA%2FtVII
 [/us/stat/118/2852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2852
-[/us/pl/109/171/s1203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs1203%2Fa
+[/us/pl/109/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtI
 [/us/stat/120/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F6
-[/us/pl/110/234/s2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2503
+[/us/pl/110/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtII
 [/us/stat/122/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1059
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/112/55/s716/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs716%2Fc
+[/us/pl/112/55/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2FdA%2FtVII
 [/us/stat/125/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F582
-[/us/pl/113/76/s750/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs750%2Fa
+[/us/pl/113/76/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdA%2FtVII
 [/us/stat/128/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F42
-[/us/pl/113/79/s2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2203
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F729
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/stat/104/3935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3935
@@ -291,22 +291,22 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/99/198/s1240B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1240B
-[/us/pl/104/127/s334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs334
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F998
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
-[/us/pl/113/79/s2203/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2203%2F1
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
-[/us/pl/113/79/s2203/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2203%2F2
-[/us/pl/113/79/s2203/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2203%2F3%2FA
-[/us/pl/113/79/s2203/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2203%2F3%2FB%2Fi
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/usc/t7/s2279/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2279%2Fe
-[/us/pl/113/79/s2203/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2203%2F3%2FB%2Fii
-[/us/pl/113/79/s2203/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2203%2F4
-[/us/pl/113/79/s2203/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2203%2F5
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/112/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55
-[/us/pl/110/246/s2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2503
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

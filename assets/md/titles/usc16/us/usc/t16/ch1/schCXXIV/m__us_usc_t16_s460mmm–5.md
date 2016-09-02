@@ -39,7 +39,7 @@
 
         Subject to section 460mmm–4(l)(3)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be section “460mmm–4(l)(5)”. </sup></sup>  of this title, in the case of a discrepancy between the Map and the descriptions, the Map shall control.
 
-([Pub. L. 106–353, § 7][/us/pl/106/353/s7], Oct. 24, 2000, [114 Stat. 1379][/us/stat/114/1379].)
+([Pub. L. 106–353][/us/pl/106/353], § 7, Oct. 24, 2000, [114 Stat. 1379][/us/stat/114/1379].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/106/353/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F353%2Fs7
+[/us/pl/106/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F353
 [/us/stat/114/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1379
 
 

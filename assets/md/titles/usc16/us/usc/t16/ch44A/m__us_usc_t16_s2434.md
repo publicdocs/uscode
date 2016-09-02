@@ -41,7 +41,7 @@
 
         The Secretary of State is further authorized to receive, on behalf of the United States Government, reports, requests, and other communications from the Commission and to take appropriate action on them, either directly or by reference to the appropriate authority.
 
-([Pub. L. 98–623, title III, § 305][/us/pl/98/623/s305], Nov. 8, 1984, [98 Stat. 3400][/us/stat/98/3400].)
+([Pub. L. 98–623, title III][/us/pl/98/623/tIII], § 305, Nov. 8, 1984, [98 Stat. 3400][/us/stat/98/3400].)
 
  __Transfer of Functions__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/98/623/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs305
+[/us/pl/98/623/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtIII
 [/us/stat/98/3400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3400
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

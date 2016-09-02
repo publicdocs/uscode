@@ -149,7 +149,7 @@
 
             (B) The Secretary, after determining on a preliminary basis, that an amendment, modification, or other change which has been submitted for approval under this subsection is likely to meet the program approval standards in this section, may permit the State to expend funds awarded under this section to begin implementing the proposed amendment, modification, or change. This preliminary approval shall not extend for more than 6 months and may not be renewed. A proposed amendment, modification, or change which has been given preliminary approval and is not finally approved under this paragraph shall not be considered an enforceable policy for purposes of [section 1456 of this title][/us/usc/t16/s1456].
 
-([Pub. L. 89–454, title III, § 306][/us/pl/89/454/s306], as added [Pub. L. 92–583][/us/pl/92/583], Oct. 27, 1972, [86 Stat. 1283][/us/stat/86/1283]; amended [Pub. L. 93–612, § 1(2)][/us/pl/93/612/s1/2], Jan. 2, 1975, [88 Stat. 1974][/us/stat/88/1974]; [Pub. L. 94–370, § 5][/us/pl/94/370/s5], July 26, 1976, [90 Stat. 1017][/us/stat/90/1017]; [Pub. L. 96–464, § 5(a)][/us/pl/96/464/s5/a], Oct. 17, 1980, [94 Stat. 2062][/us/stat/94/2062]; [Pub. L. 99–272, title VI, § 6043(b)(1)][/us/pl/99/272/s6043/b/1], (c), Apr. 7, 1986, [100 Stat. 124][/us/stat/100/124], 125; [Pub. L. 101–508, title VI, § 6206(a)][/us/pl/101/508/s6206/a], Nov. 5, 1990, [104 Stat. 1388–303][/us/stat/104/1388-303]; [Pub. L. 102–587, title II, § 2205(b)(1)(A)][/us/pl/102/587/s2205/b/1/A], (B), (8), Nov. 4, 1992, [106 Stat. 5050][/us/stat/106/5050], 5051.)
+([Pub. L. 89–454, title III][/us/pl/89/454/tIII], § 306, as added [Pub. L. 92–583][/us/pl/92/583], Oct. 27, 1972, [86 Stat. 1283][/us/stat/86/1283]; amended [Pub. L. 93–612][/us/pl/93/612], § 1(2), Jan. 2, 1975, [88 Stat. 1974][/us/stat/88/1974]; [Pub. L. 94–370][/us/pl/94/370], § 5, July 26, 1976, [90 Stat. 1017][/us/stat/90/1017]; [Pub. L. 96–464][/us/pl/96/464], § 5(a), Oct. 17, 1980, [94 Stat. 2062][/us/stat/94/2062]; [Pub. L. 99–272, title VI][/us/pl/99/272/tVI], § 6043(b)(1), (c), Apr. 7, 1986, [100 Stat. 124][/us/stat/100/124], 125; [Pub. L. 101–508, title VI][/us/pl/101/508/tVI], § 6206(a), Nov. 5, 1990, [104 Stat. 1388–303][/us/stat/104/1388-303]; [Pub. L. 102–587, title II][/us/pl/102/587/tII], § 2205(b)(1)(A), (B), (8), Nov. 4, 1992, [106 Stat. 5050][/us/stat/106/5050], 5051.)
 
  __References in Text__ 
 
@@ -161,35 +161,35 @@
 
     1990—[Pub. L. 101–508][/us/pl/101/508] amended section generally, substituting present provisions for provisions which authorized grants for administering a state management program, provided for a ratio of Federal to State contributions, allocation of grants, program requirements, required authority for management of coastal zone, required findings prior to approval of grants, allocation to other political subdivisions, program modification, segmental development, and inventory and designation of areas of national significance and standards for protection of coastal resources.
 
-    1986—Subsec. (a). [Pub. L. 99–272, § 6043(b)(1)][/us/pl/99/272/s6043/b/1], amended introductory text generally, which prior to amendment read as follows: “The Secretary may make grants to any coastal state for not more than 80 per centum of the costs of administering such state’s management program if the Secretary—”.
+    1986—Subsec. (a). [Pub. L. 99–272][/us/pl/99/272], § 6043(b)(1), amended introductory text generally, which prior to amendment read as follows: “The Secretary may make grants to any coastal state for not more than 80 per centum of the costs of administering such state’s management program if the Secretary—”.
 
-    Subsec. (g). [Pub. L. 99–272, § 6043(c)][/us/pl/99/272/s6043/c], inserted “, and subject to the following conditions:” in provisions preceding par. (1), added pars. (1) to (3), and struck out provision that except with respect to any management program amendment which was made before Oct. 1, 1978, for the purpose of complying with the requirements of section 1454(b)(7), (8) and (9) of this title, no grant was to be made under this section to any coastal state after the date of such amendment or modification, until the Secretary approved such amendment or modification.
+    Subsec. (g). [Pub. L. 99–272][/us/pl/99/272], § 6043(c), inserted “, and subject to the following conditions:” in provisions preceding par. (1), added pars. (1) to (3), and struck out provision that except with respect to any management program amendment which was made before Oct. 1, 1978, for the purpose of complying with the requirements of section 1454(b)(7), (8) and (9) of this title, no grant was to be made under this section to any coastal state after the date of such amendment or modification, until the Secretary approved such amendment or modification.
 
-    1980—Subsec. (a). [Pub. L. 96–464, § 5(a)(1)][/us/pl/96/464/s5/a/1], in opening text, substituted “The Secretary may make grants” for “The Secretary may make a grant annually”, added par. (3), and provision following par. (3) which defined the costs of administering a management program.
+    1980—Subsec. (a). [Pub. L. 96–464][/us/pl/96/464], § 5(a)(1), in opening text, substituted “The Secretary may make grants” for “The Secretary may make a grant annually”, added par. (3), and provision following par. (3) which defined the costs of administering a management program.
 
-    Subsec. (b). [Pub. L. 96–464, § 5(2)][/us/pl/96/464/s5/2], struck out proviso that no annual grant made under this section shall be in excess of $2,000,000 for fiscal year 1975, in excess of $2,500,000 for fiscal year 1976, and in excess of $3,000,000 for fiscal year 1977.
+    Subsec. (b). [Pub. L. 96–464][/us/pl/96/464], § 5(2), struck out proviso that no annual grant made under this section shall be in excess of $2,000,000 for fiscal year 1975, in excess of $2,500,000 for fiscal year 1976, and in excess of $3,000,000 for fiscal year 1977.
 
-    Subsec. (i). [Pub. L. 96–464, § 5(a)(3)][/us/pl/96/464/s5/a/3], added subsec. (i).
+    Subsec. (i). [Pub. L. 96–464][/us/pl/96/464], § 5(a)(3), added subsec. (i).
 
-    1976—Subsec. (a). [Pub. L. 94–370, § 5(1)][/us/pl/94/370/s5/1], raised the federal share of grants to 80 per centum from 66⅔ per centum of the cost of administering a state’s management program, substituted requirement that Secretary approve state’s management program in accordance with subsecs. (c), (d), and (e) and find that such programs meet requirements under [section 1454(b) of this title][/us/usc/t16/s1454/b] for requirement that Secretary approve state’s management programs in accordance with subsec. (c), and struck out proviso that Federal funds from other sources shall not be used to pay the state’s share of costs.
+    1976—Subsec. (a). [Pub. L. 94–370][/us/pl/94/370], § 5(1), raised the federal share of grants to 80 per centum from 66⅔ per centum of the cost of administering a state’s management program, substituted requirement that Secretary approve state’s management program in accordance with subsecs. (c), (d), and (e) and find that such programs meet requirements under [section 1454(b) of this title][/us/usc/t16/s1454/b] for requirement that Secretary approve state’s management programs in accordance with subsec. (c), and struck out proviso that Federal funds from other sources shall not be used to pay the state’s share of costs.
 
-    Subsec. (c)(2)(B). [Pub. L. 94–370, § 5(2)][/us/pl/94/370/s5/2], inserted provisions that mechanism not be found to be effective by Secretary until management agency meets certain requirement such as notice to affected zoning authority, 30-day period for zoning authority to respond with recommendations, and action to be taken by management agency where zoning authority does submit recommendations.
+    Subsec. (c)(2)(B). [Pub. L. 94–370][/us/pl/94/370], § 5(2), inserted provisions that mechanism not be found to be effective by Secretary until management agency meets certain requirement such as notice to affected zoning authority, 30-day period for zoning authority to respond with recommendations, and action to be taken by management agency where zoning authority does submit recommendations.
 
-    Subsec. (c)(8). [Pub. L. 94–370, § 5(3)][/us/pl/94/370/s5/3], inserted “planning for, and” before “in the siting of” and reference to energy facilities in, or which significantly affect, such state’s coastal zone and inserted proviso that in the case of energy facilities, the Secretary shall find that the state has given consideration to any applicable interstate energy plan or program.
+    Subsec. (c)(8). [Pub. L. 94–370][/us/pl/94/370], § 5(3), inserted “planning for, and” before “in the siting of” and reference to energy facilities in, or which significantly affect, such state’s coastal zone and inserted proviso that in the case of energy facilities, the Secretary shall find that the state has given consideration to any applicable interstate energy plan or program.
 
-    Subsec. (g). [Pub. L. 94–370, § 5(4)][/us/pl/94/370/s5/4], inserted requirement that except for pre-Oct. 1, 1978 amendments of management programs, for purposes of complying with section 1454(b)(7), (8), and (9) of this title, no grant shall be made under this section to any coastal state after the date of an amendment until approved by Secretary.
+    Subsec. (g). [Pub. L. 94–370][/us/pl/94/370], § 5(4), inserted requirement that except for pre-Oct. 1, 1978 amendments of management programs, for purposes of complying with section 1454(b)(7), (8), and (9) of this title, no grant shall be made under this section to any coastal state after the date of an amendment until approved by Secretary.
 
     1975—Subsec. (b). [Pub. L. 93–612][/us/pl/93/612] substituted provisos establishing maximum amount of annual grant for fiscal years 1975, 1976, and 1977, establishing a minimum of 1 per centum of the total appropriated amount, and providing for waiver of the 1 per centum minimum upon request of the coastal State, for proviso limiting an annual administrative grant to a maximum of 10 per centum and a minimum of 1 per centum of the total appropriated amount.
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–464, § 5(b)][/us/pl/96/464/s5/b], Oct. 17, 1980, [94 Stat. 2062][/us/stat/94/2062], provided that: 
+[Pub. L. 96–464][/us/pl/96/464], § 5(b), Oct. 17, 1980, [94 Stat. 2062][/us/stat/94/2062], provided that: 
 
 > “The amendments made by subsection (a)(1) and (2) of this section \[amending this section\] apply with respect to grants made after September 30, 1980, under section 306 of the Coastal Zone Management Act of 1972 \[this section\] and, within two hundred and seventy days after such date, the Secretary of Commerce shall issue regulations relating to the administration of subsection (a) of such section 306 (as so amended by such subsection (a)(1).”
 
  __Additional Program Requirements__ 
 
-[Pub. L. 101–508, title VI, § 6206(b)][/us/pl/101/508/s6206/b], Nov. 5, 1990, [104 Stat. 1388–306][/us/stat/104/1388-306], provided that: 
+[Pub. L. 101–508, title VI][/us/pl/101/508/tVI], § 6206(b), Nov. 5, 1990, [104 Stat. 1388–306][/us/stat/104/1388-306], provided that: 
 
 > “Each State which submits a management program for approval under section 306 of the Coastal Zone Management Act of 1972 \[[16 U.S.C. 1455][/us/usc/t16/s1455]\], as amended by this subtitle (including a State which submitted a program before the date of enactment of this Act \[Nov. 5, 1990\]), shall demonstrate to the Secretary—
 
@@ -208,40 +208,40 @@
 [/us/usc/t16/s1455b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1455b
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t16/s1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1456
-[/us/pl/89/454/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2Fs306
+[/us/pl/89/454/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2FtIII
 [/us/pl/92/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F583
 [/us/stat/86/1283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1283
-[/us/pl/93/612/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F612%2Fs1%2F2
+[/us/pl/93/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F612
 [/us/stat/88/1974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1974
-[/us/pl/94/370/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F370%2Fs5
+[/us/pl/94/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F370
 [/us/stat/90/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1017
-[/us/pl/96/464/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F464%2Fs5%2Fa
+[/us/pl/96/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F464
 [/us/stat/94/2062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2062
-[/us/pl/99/272/s6043/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs6043%2Fb%2F1
+[/us/pl/99/272/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtVI
 [/us/stat/100/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F124
-[/us/pl/101/508/s6206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6206%2Fa
+[/us/pl/101/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVI
 [/us/stat/104/1388-303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-303
-[/us/pl/102/587/s2205/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2205%2Fb%2F1%2FA
+[/us/pl/102/587/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtII
 [/us/stat/106/5050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5050
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/99/272/s6043/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs6043%2Fb%2F1
-[/us/pl/99/272/s6043/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs6043%2Fc
-[/us/pl/96/464/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F464%2Fs5%2Fa%2F1
-[/us/pl/96/464/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F464%2Fs5%2F2
-[/us/pl/96/464/s5/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F464%2Fs5%2Fa%2F3
-[/us/pl/94/370/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F370%2Fs5%2F1
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/96/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F464
+[/us/pl/96/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F464
+[/us/pl/96/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F464
+[/us/pl/94/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F370
 [/us/usc/t16/s1454/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1454%2Fb
-[/us/pl/94/370/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F370%2Fs5%2F2
-[/us/pl/94/370/s5/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F370%2Fs5%2F3
-[/us/pl/94/370/s5/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F370%2Fs5%2F4
+[/us/pl/94/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F370
+[/us/pl/94/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F370
+[/us/pl/94/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F370
 [/us/pl/93/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F612
-[/us/pl/96/464/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F464%2Fs5%2Fb
+[/us/pl/96/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F464
 [/us/stat/94/2062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2062
-[/us/pl/101/508/s6206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6206%2Fb
+[/us/pl/101/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVI
 [/us/stat/104/1388-306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-306
 [/us/usc/t16/s1455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1455
 [/us/usc/t16/s1455b/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1455b%2Fg

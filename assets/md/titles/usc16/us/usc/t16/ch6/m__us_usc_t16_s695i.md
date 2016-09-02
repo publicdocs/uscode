@@ -33,7 +33,7 @@
 
         in accordance with existing or future contracts, the use of lands located within the boundaries of the public organizations or agencies shall be restricted by covenants requiring that such lands be used only for the purpose of waterfowl and wildlife habitat conservation or other uses as may be mutually agreed upon by the public organizations or agencies and the Service.
 
-([Aug. 27, 1954, ch. 1012, § 6][/us/act/1954-08-27/ch1012/s6], [68 Stat. 879][/us/stat/68/879]; [Pub. L. 95–616, § 10(a)][/us/pl/95/616/s10/a], Nov. 8, 1978, [92 Stat. 3115][/us/stat/92/3115].)
+([Aug. 27, 1954, ch. 1012][/us/act/1954-08-27/ch1012], § 6, [68 Stat. 879][/us/stat/68/879]; [Pub. L. 95–616][/us/pl/95/616], § 10(a), Nov. 8, 1978, [92 Stat. 3115][/us/stat/92/3115].)
 
  __References in Text__ 
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/act/1954-08-27/ch1012/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1012%2Fs6
+[/us/act/1954-08-27/ch1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1012
 [/us/stat/68/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F879
-[/us/pl/95/616/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616%2Fs10%2Fa
+[/us/pl/95/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616
 [/us/stat/92/3115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3115
 [/us/usc/t16/s695f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs695f
 [/us/pl/95/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616

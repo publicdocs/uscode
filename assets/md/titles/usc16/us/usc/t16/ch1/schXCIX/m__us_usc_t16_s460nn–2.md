@@ -17,7 +17,7 @@
 
     As soon as practicable after June 19, 1984, the Secretary of Agriculture shall file a map and legal description of the national recreation area designated by this subchapter with the Committee on Interior and Insular Affairs and the Committee on Agriculture of the United States House of Representatives and with the Committee on Agriculture, Nutrition, and Forestry of the United States Senate. Such map and description shall have the same force and effect as if included in this subchapter, except that correction of clerical and typographical errors in such map and description may be made by the Secretary. Such map and description shall be on file and available for public inspection in the Office of the Chief of the Forest Service, Department of Agriculture.
 
-([Pub. L. 98–322, title II, § 203][/us/pl/98/322/s203], June 19, 1984, [98 Stat. 257][/us/stat/98/257].)
+([Pub. L. 98–322, title II][/us/pl/98/322/tII], § 203, June 19, 1984, [98 Stat. 257][/us/stat/98/257].)
 
  __Change of Name__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/98/322/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F322%2Fs203
+[/us/pl/98/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F322%2FtII
 [/us/stat/98/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F257
 
 

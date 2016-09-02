@@ -41,7 +41,7 @@
 
         Within the Jamaica Bay Unit, (1) the Secretary may accept title to lands donated by the city of New York subject to a retained right to continue existing uses for a specifically limited period of time if such uses conform to plans agreed to by the Secretary, and (2) the Secretary may accept title to the area known as Broad Channel Community only if, within five years after October 27, 1972, all improvements have been removed from the area and a clear title to the area is tendered to the United States.
 
-([Pub. L. 92–592, § 2][/us/pl/92/592/s2], Oct. 27, 1972, [86 Stat. 1308][/us/stat/86/1308].)
+([Pub. L. 92–592][/us/pl/92/592], § 2, Oct. 27, 1972, [86 Stat. 1308][/us/stat/86/1308].)
 
 ----------
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t16/s460cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460cc
-[/us/pl/92/592/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F592%2Fs2
+[/us/pl/92/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F592
 [/us/stat/86/1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1308
 
 

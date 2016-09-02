@@ -67,31 +67,31 @@
 
             (D) A motion in the Senate to further limit debate is not debatable. A motion to recommit any fishery agreement resolution is not in order.
 
-([Pub. L. 94–265, title II, § 203][/us/pl/94/265/s203], Apr. 13, 1976, [90 Stat. 340][/us/stat/90/340]; [Pub. L. 103–437, § 6(x)][/us/pl/103/437/s6/x], Nov. 2, 1994, [108 Stat. 4587][/us/stat/108/4587]; [Pub. L. 104–297, title I, § 105(c)][/us/pl/104/297/s105/c], Oct. 11, 1996, [110 Stat. 3564][/us/stat/110/3564].)
+([Pub. L. 94–265, title II][/us/pl/94/265/tII], § 203, Apr. 13, 1976, [90 Stat. 340][/us/stat/90/340]; [Pub. L. 103–437][/us/pl/103/437], § 6(x), Nov. 2, 1994, [108 Stat. 4587][/us/stat/108/4587]; [Pub. L. 104–297, title I][/us/pl/104/297/tI], § 105(c), Oct. 11, 1996, [110 Stat. 3564][/us/stat/110/3564].)
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–297, § 105(c)(1)][/us/pl/104/297/s105/c/1], substituted “international” for “governing international” in section catchline.
+    1996—[Pub. L. 104–297][/us/pl/104/297], § 105(c)(1), substituted “international” for “governing international” in section catchline.
 
-    Subsec. (a). [Pub. L. 104–297, § 105(c)(2)][/us/pl/104/297/s105/c/2], (3), inserted “, bycatch reduction agreement, or Pacific Insular Area fishery agreement” after “international fishery agreement” in two places and substituted “120 days (excluding any days in a period for which the Congress is adjourned sine die)” for “60 calendar days of continuous session of the Congress”.
+    Subsec. (a). [Pub. L. 104–297][/us/pl/104/297], § 105(c)(2), (3), inserted “, bycatch reduction agreement, or Pacific Insular Area fishery agreement” after “international fishery agreement” in two places and substituted “120 days (excluding any days in a period for which the Congress is adjourned sine die)” for “60 calendar days of continuous session of the Congress”.
 
-    Subsec. (c). [Pub. L. 104–297, § 105(c)(4)][/us/pl/104/297/s105/c/4], (5), redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “For purposes of subsection (a) of this section—
+    Subsec. (c). [Pub. L. 104–297][/us/pl/104/297], § 105(c)(4), (5), redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “For purposes of subsection (a) of this section—
 
     “(1) continuity of session is broken only by an adjournment of Congress sine die; and
 
     “(2) the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of the 60-day period.”
 
-    Subsec. (c)(2)(A). [Pub. L. 104–297, § 105(c)(6)][/us/pl/104/297/s105/c/6], substituted “agreement, bycatch reduction agreement, or Pacific Insular Area fishery agreement” for “agreement”.
+    Subsec. (c)(2)(A). [Pub. L. 104–297][/us/pl/104/297], § 105(c)(6), substituted “agreement, bycatch reduction agreement, or Pacific Insular Area fishery agreement” for “agreement”.
 
-    Subsec. (d). [Pub. L. 104–297, § 105(c)(5)][/us/pl/104/297/s105/c/5], redesignated subsec. (d) as (c).
+    Subsec. (d). [Pub. L. 104–297][/us/pl/104/297], § 105(c)(5), redesignated subsec. (d) as (c).
 
-    1994—Subsec. (b). [Pub. L. 103–437, § 6(x)(1)][/us/pl/103/437/s6/x/1], substituted “Commerce, Science, and Transportation and on” for “Commerce and”.
+    1994—Subsec. (b). [Pub. L. 103–437][/us/pl/103/437], § 6(x)(1), substituted “Commerce, Science, and Transportation and on” for “Commerce and”.
 
-    Subsec. (d)(2)(B). [Pub. L. 103–437, § 6(x)(2)][/us/pl/103/437/s6/x/2], substituted “Commerce, Science, and Transportation” for “Commerce”.
+    Subsec. (d)(2)(B). [Pub. L. 103–437][/us/pl/103/437], § 6(x)(2), substituted “Commerce, Science, and Transportation” for “Commerce”.
 
  __Short Title of 1995 Amendment__ 
 
-[Pub. L. 104–43, title V, § 501][/us/pl/104/43/s501], Nov. 3, 1995, [109 Stat. 391][/us/stat/109/391], provided that: 
+[Pub. L. 104–43, title V][/us/pl/104/43/tV], § 501, Nov. 3, 1995, [109 Stat. 391][/us/stat/109/391], provided that: 
 
 > “This title \[amending provisions set out below\] may be cited as the ‘Sea of Okhotsk Fisheries Enforcement Act of 1995’.”
 
@@ -101,21 +101,21 @@
 
  __Governing International Fishery Agreement With Poland__ 
 
-[Pub. L. 105–384, title I, § 101][/us/pl/105/384/s101], Nov. 13, 1998, [112 Stat. 3451][/us/stat/112/3451], provided that: 
+[Pub. L. 105–384, title I][/us/pl/105/384/tI], § 101, Nov. 13, 1998, [112 Stat. 3451][/us/stat/112/3451], provided that: 
 
 > “Notwithstanding section 203 of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1823][/us/usc/t16/s1823]), the governing international fishery agreement between the Government of the United States of America and the Government of the Republic of Poland, as contained in the message to Congress from the President of the United States dated February 5, 1998, is approved as a governing international fishery agreement for the purposes of such Act \[[16 U.S.C. 1801][/us/usc/t16/s1801] et seq.\] and shall enter into force and effect with respect to the United States on the date of the enactment of this Act \[Nov. 13, 1998\].”
 
  __Governing International Fishery Agreement With Republic of Estonia__ 
 
-    [Pub. L. 102–587, title I, § 1001][/us/pl/102/587/s1001], Nov. 4, 1992, [106 Stat. 5039][/us/stat/106/5039], provided that the governing international fishery agreement between the Government of the United States of America and the Government of the Republic of Estonia, was approved by Congress as a governing international fishery agreement for purposes of this chapter and was to enter into force and effect with respect to the United States on Nov. 4, 1992.
+    [Pub. L. 102–587, title I][/us/pl/102/587/tI], § 1001, Nov. 4, 1992, [106 Stat. 5039][/us/stat/106/5039], provided that the governing international fishery agreement between the Government of the United States of America and the Government of the Republic of Estonia, was approved by Congress as a governing international fishery agreement for purposes of this chapter and was to enter into force and effect with respect to the United States on Nov. 4, 1992.
 
  __Fisheries Enforcement in Central Bering Sea and Central Sea of Okhotsk__ 
 
-    [Pub. L. 102–582, title III][/us/pl/102/582], Nov. 2, 1992, [106 Stat. 4906][/us/stat/106/4906], as amended by [Pub. L. 104–43, title V, § 502][/us/pl/104/43/s502], Nov. 3, 1995, [109 Stat. 391][/us/stat/109/391]; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, which provided that this title was to be cited as the “Central Bering Sea Fisheries Enforcement Act of 1992”, prohibited vessels and nationals of United States from conducting fishing operations in Central Bering Sea and Central Sea of Okhotsk, except where such fishing operations were conducted in accordance with international fishery agreement to which United States and Russian Federation were parties, further provided for civil penalties and permit sanctions for violations of these provisions as well as authority to deny port privileges for fishing in Central Bering Sea, further authorized Secretary of Commerce to issue regulations restricting fishing in United States exclusive economic zone, and further provided for definition of terms and that this title would cease to have force and effect after the date that is seven years after Nov. 2, 1992, except that any proceeding with respect to violations occurring prior to such date was to be conducted as if these provisions were still in effect.
+    [Pub. L. 102–582, title III][/us/pl/102/582/tIII], Nov. 2, 1992, [106 Stat. 4906][/us/stat/106/4906], as amended by [Pub. L. 104–43, title V][/us/pl/104/43/tV], § 502, Nov. 3, 1995, [109 Stat. 391][/us/stat/109/391]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, which provided that this title was to be cited as the “Central Bering Sea Fisheries Enforcement Act of 1992”, prohibited vessels and nationals of United States from conducting fishing operations in Central Bering Sea and Central Sea of Okhotsk, except where such fishing operations were conducted in accordance with international fishery agreement to which United States and Russian Federation were parties, further provided for civil penalties and permit sanctions for violations of these provisions as well as authority to deny port privileges for fishing in Central Bering Sea, further authorized Secretary of Commerce to issue regulations restricting fishing in United States exclusive economic zone, and further provided for definition of terms and that this title would cease to have force and effect after the date that is seven years after Nov. 2, 1992, except that any proceeding with respect to violations occurring prior to such date was to be conducted as if these provisions were still in effect.
 
  __North Pacific and Bering Sea Fisheries Advisory Body__ 
 
-[Pub. L. 100–629, § 5][/us/pl/100/629/s5], Nov. 7, 1988, [102 Stat. 3287][/us/stat/102/3287], provided that:
+[Pub. L. 100–629][/us/pl/100/629], § 5, Nov. 7, 1988, [102 Stat. 3287][/us/stat/102/3287], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -149,19 +149,19 @@
 
  __Governing International Fishery Agreement With Russian Federation__ 
 
-[Pub. L. 103–206, title VII, § 701][/us/pl/103/206/s701], Dec. 20, 1993, [107 Stat. 2446][/us/stat/107/2446], as amended by [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that: 
+[Pub. L. 103–206, title VII][/us/pl/103/206/tVII], § 701, Dec. 20, 1993, [107 Stat. 2446][/us/stat/107/2446], as amended by [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that: 
 
 > “The Agreement between the Government of the United States of America and the Government of the Russian Federation on Mutual Fisheries Relations which was entered into on May 31, 1988, and which expired by its terms on October 28, 1993, may be brought into force again for the United States through an exchange of notes between the United States of America and the Russian Federation and may remain in force and effect on the part of the United States until May 1, 1994, and may be amended or extended by a subsequent agreement to which section 203 of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1823][/us/usc/t16/s1823]) applies.”
 
-    [Pub. L. 100–629, § 1][/us/pl/100/629/s1], Nov. 7, 1988, [102 Stat. 3286][/us/stat/102/3286], provided that the governing international fishery agreement entered into between the Government of the United States and the Government of the Union of Soviet Socialist Republics was approved by Congress and was to enter into force and effect with respect to the United States on Nov. 7, 1988.
+    [Pub. L. 100–629][/us/pl/100/629], § 1, Nov. 7, 1988, [102 Stat. 3286][/us/stat/102/3286], provided that the governing international fishery agreement entered into between the Government of the United States and the Government of the Union of Soviet Socialist Republics was approved by Congress and was to enter into force and effect with respect to the United States on Nov. 7, 1988.
 
  __Governing International Fishery Agreement With German Democratic Republic__ 
 
-    [Pub. L. 100–350, § 1][/us/pl/100/350/s1], June 27, 1988, [102 Stat. 660][/us/stat/102/660], provided that extension of governing international fishery agreement between the Government of the United States of America and the Government of the German Democratic Republic was approved by Congress as a governing international fishery agreement for purposes of this chapter, and was to enter into force and effect with respect to the United States on June 27, 1988.
+    [Pub. L. 100–350][/us/pl/100/350], § 1, June 27, 1988, [102 Stat. 660][/us/stat/102/660], provided that extension of governing international fishery agreement between the Government of the United States of America and the Government of the German Democratic Republic was approved by Congress as a governing international fishery agreement for purposes of this chapter, and was to enter into force and effect with respect to the United States on June 27, 1988.
 
  __Governing International Fishery Agreements With Iceland and the European Economic Community__ 
 
-[Pub. L. 98–623, title I][/us/pl/98/623], Nov. 8, 1984, [98 Stat. 3394][/us/stat/98/3394], as amended by [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that: 
+[Pub. L. 98–623, title I][/us/pl/98/623/tI], Nov. 8, 1984, [98 Stat. 3394][/us/stat/98/3394], as amended by [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that: 
 
 > “Notwithstanding section 203 of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1823][/us/usc/t16/s1823]) \[this section\]—
 
@@ -171,7 +171,7 @@
 
  __Governing International Fishery Agreement With Faroe Islands and Denmark__ 
 
-[Pub. L. 98–498, title IV, § 440][/us/pl/98/498/s440], Oct. 19, 1984, [98 Stat. 2310][/us/stat/98/2310], as amended by [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that: 
+[Pub. L. 98–498, title IV][/us/pl/98/498/tIV], § 440, Oct. 19, 1984, [98 Stat. 2310][/us/stat/98/2310], as amended by [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that: 
 
 > “Notwithstanding section 203 of the Magnuson-Stevens Fishery Conservation and Management Act of 1976 \[this section\], the Governing International Fishery Agreement between the Government of the United States of America of the One Part and the Home Government of the Faroe Islands and the Government of Denmark of the Other Part Concerning Faroese Fishing in Fisheries Off the Coasts of the United States, as contained in the message to Congress from the President of the United States dated July 13, 1984—
 
@@ -181,31 +181,31 @@
 
  __Governing International Fishery Agreement With Japan__ 
 
-    [Pub. L. 101–224, § 7][/us/pl/101/224/s7], Dec. 12, 1989, [103 Stat. 1907][/us/stat/103/1907], provided that the governing international fishery agreement entered into between the Government of the United States and the Government of Japan was approved by Congress and was to enter into force and effect with respect to the United States on Dec. 12, 1989.
+    [Pub. L. 101–224][/us/pl/101/224], § 7, Dec. 12, 1989, [103 Stat. 1907][/us/stat/103/1907], provided that the governing international fishery agreement entered into between the Government of the United States and the Government of Japan was approved by Congress and was to enter into force and effect with respect to the United States on Dec. 12, 1989.
 
-    [Pub. L. 100–220, title I, § 1001][/us/pl/100/220/s1001], Dec. 29, 1987, [101 Stat. 1459][/us/stat/101/1459], provided that the governing international fishery agreement between the Government of the United States of America and the Government of Japan Concerning Fisheries Off the Coasts of the United States was approved by Congress as a governing international fishery agreement for the purposes of this chapter, and was to enter into force and effect with respect to the United States on Dec. 29, 1987.
+    [Pub. L. 100–220, title I][/us/pl/100/220/tI], § 1001, Dec. 29, 1987, [101 Stat. 1459][/us/stat/101/1459], provided that the governing international fishery agreement between the Government of the United States of America and the Government of Japan Concerning Fisheries Off the Coasts of the United States was approved by Congress as a governing international fishery agreement for the purposes of this chapter, and was to enter into force and effect with respect to the United States on Dec. 29, 1987.
 
-    [Pub. L. 97–389, title IV, § 401][/us/pl/97/389/s401], Dec. 29, 1982, [96 Stat. 1954][/us/stat/96/1954], provided that the governing international fishery agreement entered into between the Government of the United States and the Government of Japan pursuant to this chapter, signed at Washington on Sept. 10, 1982, was approved, and was effective on Jan. 1, 1983.
+    [Pub. L. 97–389, title IV][/us/pl/97/389/tIV], § 401, Dec. 29, 1982, [96 Stat. 1954][/us/stat/96/1954], provided that the governing international fishery agreement entered into between the Government of the United States and the Government of Japan pursuant to this chapter, signed at Washington on Sept. 10, 1982, was approved, and was effective on Jan. 1, 1983.
 
  __Governing International Fishery Agreement With Spain__ 
 
-    [Pub. L. 97–389, title IV, § 402][/us/pl/97/389/s402], Dec. 29, 1982, [96 Stat. 1954][/us/stat/96/1954], provided for approval of the governing international fishery agreement entered into between the Government of the United States and the Government of Spain pursuant to this chapter.
+    [Pub. L. 97–389, title IV][/us/pl/97/389/tIV], § 402, Dec. 29, 1982, [96 Stat. 1954][/us/stat/96/1954], provided for approval of the governing international fishery agreement entered into between the Government of the United States and the Government of Spain pursuant to this chapter.
 
  __Governing International Fishery Agreement With Portugal__ 
 
-    [Pub. L. 96–561, title I, § 145][/us/pl/96/561/s145], title II, § 238(b), Dec. 22, 1980, [94 Stat. 3287][/us/stat/94/3287], 3300, provided that the governing international fishery agreement between the Government of the United States of America and the Government of Portugal Concerning Fisheries Off the Coasts of the United States was approved by Congress as a governing international fishery agreement for the purposes of this chapter, and was to enter into force and effect with respect to the United States on Dec. 22, 1980.
+    [Pub. L. 96–561, title I][/us/pl/96/561/tI], § 145, title II, § 238(b), Dec. 22, 1980, [94 Stat. 3287][/us/stat/94/3287], 3300, provided that the governing international fishery agreement between the Government of the United States of America and the Government of Portugal Concerning Fisheries Off the Coasts of the United States was approved by Congress as a governing international fishery agreement for the purposes of this chapter, and was to enter into force and effect with respect to the United States on Dec. 22, 1980.
 
  __Extension of International Fishery Agreements__ 
 
-    [Pub. L. 100–66, § 1][/us/pl/100/66/s1], July 10, 1987, [101 Stat. 384][/us/stat/101/384], provided that the governing international fishery agreement entered into between the Government of the United States and the Government of the Republic of Korea on July 26, 1982, was to remain in force and effect with respect to the United States until the closing date of the sixty-day period referred to in subsec. (a) of this section that applied with respect to any new governing international fishery agreement between the United States and the Republic of Korea that was transmitted to the Congress under subsec. (a) of this section after May 1, 1987, or Nov. 1, 1987, whichever was earlier.
+    [Pub. L. 100–66][/us/pl/100/66], § 1, July 10, 1987, [101 Stat. 384][/us/stat/101/384], provided that the governing international fishery agreement entered into between the Government of the United States and the Government of the Republic of Korea on July 26, 1982, was to remain in force and effect with respect to the United States until the closing date of the sixty-day period referred to in subsec. (a) of this section that applied with respect to any new governing international fishery agreement between the United States and the Republic of Korea that was transmitted to the Congress under subsec. (a) of this section after May 1, 1987, or Nov. 1, 1987, whichever was earlier.
 
-    [Pub. L. 98–364, title I, § 106][/us/pl/98/364/s106], July 17, 1984, [98 Stat. 442][/us/stat/98/442], provided that upon certification by Secretary of State to President of the Senate and Speaker of the House of Representatives that a new governing international fishery agreement in conformity with this chapter had been negotiated by the United States and the European Economic Community, the existing governing international fishery agreement referred to in [section 2(a)(7) of Pub. L. 95–6][/us/pl/95/6/s2/a/7], formerly set out below, could be extended or reinstated and could be in force and effect with respect to the United States, for the period of time ending on the earlier of (1) the effective date of the new governing international fishery agreement, or (2) Sept. 30, 1984.
+    [Pub. L. 98–364, title I][/us/pl/98/364/tI], § 106, July 17, 1984, [98 Stat. 442][/us/stat/98/442], provided that upon certification by Secretary of State to President of the Senate and Speaker of the House of Representatives that a new governing international fishery agreement in conformity with this chapter had been negotiated by the United States and the European Economic Community, the existing governing international fishery agreement referred to in [section 2(a)(7) of Pub. L. 95–6][/us/pl/95/6/s2/a/7], formerly set out below, could be extended or reinstated and could be in force and effect with respect to the United States, for the period of time ending on the earlier of (1) the effective date of the new governing international fishery agreement, or (2) Sept. 30, 1984.
 
-    [Pub. L. 97–212, § 10(b)][/us/pl/97/212/s10/b], June 30, 1982, [96 Stat. 148][/us/stat/96/148], provided that the governing international fishery agreements referred to in section 2(a)(9) and (10) of [Pub. L. 95–6][/us/pl/95/6], formerly set out below, were to be extended, and were to be in force and effect with respect to the United States, for the period of time ending on the deadline for completion of congressional review, pursuant to subsec. (a) of this section, of any new governing international fishery agreement signed, on or before July 31, 1982, by the United States and the respective foreign government that was a party to the agreement in question, or July 31, 1982, if the United States and the respective foreign government that was a party to the agreement in question failed to sign a new governing international fishery agreement on or before that date.
+    [Pub. L. 97–212][/us/pl/97/212], § 10(b), June 30, 1982, [96 Stat. 148][/us/stat/96/148], provided that the governing international fishery agreements referred to in section 2(a)(9) and (10) of [Pub. L. 95–6][/us/pl/95/6], formerly set out below, were to be extended, and were to be in force and effect with respect to the United States, for the period of time ending on the deadline for completion of congressional review, pursuant to subsec. (a) of this section, of any new governing international fishery agreement signed, on or before July 31, 1982, by the United States and the respective foreign government that was a party to the agreement in question, or July 31, 1982, if the United States and the respective foreign government that was a party to the agreement in question failed to sign a new governing international fishery agreement on or before that date.
 
  __Congressional Approval of Certain Governing International Fishery Agreements__ 
 
-    [Pub. L. 95–6, § 2][/us/pl/95/6/s2], Feb. 21, 1977, [91 Stat. 15][/us/stat/91/15], as amended by [Pub. L. 95–8, § 1][/us/pl/95/8/s1], Mar. 3, 1977, [91 Stat. 18][/us/stat/91/18]; [Pub. L. 95–219, § 1][/us/pl/95/219/s1], Dec. 28, 1977, [91 Stat. 1613][/us/stat/91/1613]; [Pub. L. 96–561, title II, § 238(b)][/us/pl/96/561/s238/b], Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300]; [Pub. L. 97–212, § 10(a)][/us/pl/97/212/s10/a], June 30, 1982, [96 Stat. 148][/us/stat/96/148]; [Pub. L. 98–44, title I, § 105][/us/pl/98/44/s105], July 12, 1983, [97 Stat. 217][/us/stat/97/217]; [Pub. L. 98–364, title I, § 105][/us/pl/98/364/s105], July 17, 1984, [98 Stat. 442][/us/stat/98/442], provided for the approval by Congress, as a governing international fishery agreement for purposes of this chapter, of the governing international fishery agreement between—
+    [Pub. L. 95–6][/us/pl/95/6], § 2, Feb. 21, 1977, [91 Stat. 15][/us/stat/91/15], as amended by [Pub. L. 95–8][/us/pl/95/8], § 1, Mar. 3, 1977, [91 Stat. 18][/us/stat/91/18]; [Pub. L. 95–219][/us/pl/95/219], § 1, Dec. 28, 1977, [91 Stat. 1613][/us/stat/91/1613]; [Pub. L. 96–561, title II][/us/pl/96/561/tII], § 238(b), Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300]; [Pub. L. 97–212][/us/pl/97/212], § 10(a), June 30, 1982, [96 Stat. 148][/us/stat/96/148]; [Pub. L. 98–44, title I][/us/pl/98/44/tI], § 105, July 12, 1983, [97 Stat. 217][/us/stat/97/217]; [Pub. L. 98–364, title I][/us/pl/98/364/tI], § 105, July 17, 1984, [98 Stat. 442][/us/stat/98/442], provided for the approval by Congress, as a governing international fishery agreement for purposes of this chapter, of the governing international fishery agreement between—
 
     (1) the Government of the United States and the Government of the People’s Republic of Bulgaria Concerning Fisheries Off the Coasts of the United States;
 
@@ -245,7 +245,7 @@
 
  __Reciprocal Fisheries Agreement Between United States and Canada__ 
 
-    [Pub. L. 95–6, § 5][/us/pl/95/6/s5], as added [Pub. L. 95–73][/us/pl/95/73], July 27, 1977, [91 Stat. 283][/us/stat/91/283]; amended [Pub. L. 95–314][/us/pl/95/314], July 1, 1978, [92 Stat. 376][/us/stat/92/376]; [Pub. L. 96–561, title II, § 238(b)][/us/pl/96/561/s238/b], Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300], provided for congressional approval of the Reciprocal Fisheries Agreement for 1978 between the Government of the United States and the Government of Canada, and that the Agreement was to be in force and effect with respect to the United States from Jan. 1, 1978, until such later date in 1978 as was to be determined pursuant to the terms of the Agreement.
+    [Pub. L. 95–6][/us/pl/95/6], § 5, as added [Pub. L. 95–73][/us/pl/95/73], July 27, 1977, [91 Stat. 283][/us/stat/91/283]; amended [Pub. L. 95–314][/us/pl/95/314], July 1, 1978, [92 Stat. 376][/us/stat/92/376]; [Pub. L. 96–561, title II][/us/pl/96/561/tII], § 238(b), Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300], provided for congressional approval of the Reciprocal Fisheries Agreement for 1978 between the Government of the United States and the Government of Canada, and that the Agreement was to be in force and effect with respect to the United States from Jan. 1, 1978, until such later date in 1978 as was to be determined pursuant to the terms of the Agreement.
 
 ----------
 
@@ -254,93 +254,93 @@
 ----------
 ----------
 
-[/us/pl/94/265/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs203
+[/us/pl/94/265/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2FtII
 [/us/stat/90/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F340
-[/us/pl/103/437/s6/x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fx
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4587
-[/us/pl/104/297/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs105%2Fc
+[/us/pl/104/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtI
 [/us/stat/110/3564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3564
-[/us/pl/104/297/s105/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs105%2Fc%2F1
-[/us/pl/104/297/s105/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs105%2Fc%2F2
-[/us/pl/104/297/s105/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs105%2Fc%2F4
-[/us/pl/104/297/s105/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs105%2Fc%2F6
-[/us/pl/104/297/s105/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs105%2Fc%2F5
-[/us/pl/103/437/s6/x/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fx%2F1
-[/us/pl/103/437/s6/x/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fx%2F2
-[/us/pl/104/43/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs501
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
+[/us/pl/104/43/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtV
 [/us/stat/109/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F391
 [/us/pl/104/14/s1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fb%2F3
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
-[/us/pl/105/384/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2Fs101
+[/us/pl/105/384/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2FtI
 [/us/stat/112/3451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3451
 [/us/usc/t16/s1823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1823
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
-[/us/pl/102/587/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs1001
+[/us/pl/102/587/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtI
 [/us/stat/106/5039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5039
-[/us/pl/102/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582
+[/us/pl/102/582/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2FtIII
 [/us/stat/106/4906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4906
-[/us/pl/104/43/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs502
+[/us/pl/104/43/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtV
 [/us/stat/109/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F391
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
-[/us/pl/100/629/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F629%2Fs5
+[/us/pl/100/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F629
 [/us/stat/102/3287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3287
-[/us/pl/103/206/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs701
+[/us/pl/103/206/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtVII
 [/us/stat/107/2446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2446
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
 [/us/usc/t16/s1823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1823
-[/us/pl/100/629/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F629%2Fs1
+[/us/pl/100/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F629
 [/us/stat/102/3286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3286
-[/us/pl/100/350/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F350%2Fs1
+[/us/pl/100/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F350
 [/us/stat/102/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F660
-[/us/pl/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623
+[/us/pl/98/623/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtI
 [/us/stat/98/3394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3394
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
 [/us/usc/t16/s1823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1823
-[/us/pl/98/498/s440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2Fs440
+[/us/pl/98/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2FtIV
 [/us/stat/98/2310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2310
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
-[/us/pl/101/224/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F224%2Fs7
+[/us/pl/101/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F224
 [/us/stat/103/1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1907
-[/us/pl/100/220/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2Fs1001
+[/us/pl/100/220/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2FtI
 [/us/stat/101/1459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1459
-[/us/pl/97/389/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F389%2Fs401
+[/us/pl/97/389/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F389%2FtIV
 [/us/stat/96/1954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1954
-[/us/pl/97/389/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F389%2Fs402
+[/us/pl/97/389/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F389%2FtIV
 [/us/stat/96/1954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1954
-[/us/pl/96/561/s145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs145
+[/us/pl/96/561/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtI
 [/us/stat/94/3287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3287
-[/us/pl/100/66/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F66%2Fs1
+[/us/pl/100/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F66
 [/us/stat/101/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F384
-[/us/pl/98/364/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2Fs106
+[/us/pl/98/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2FtI
 [/us/stat/98/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F442
 [/us/pl/95/6/s2/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F6%2Fs2%2Fa%2F7
-[/us/pl/97/212/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F212%2Fs10%2Fb
+[/us/pl/97/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F212
 [/us/stat/96/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F148
 [/us/pl/95/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F6
-[/us/pl/95/6/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F6%2Fs2
+[/us/pl/95/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F6
 [/us/stat/91/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F15
-[/us/pl/95/8/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F8%2Fs1
+[/us/pl/95/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F8
 [/us/stat/91/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F18
-[/us/pl/95/219/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F219%2Fs1
+[/us/pl/95/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F219
 [/us/stat/91/1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1613
-[/us/pl/96/561/s238/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs238%2Fb
+[/us/pl/96/561/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtII
 [/us/stat/94/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3300
-[/us/pl/97/212/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F212%2Fs10%2Fa
+[/us/pl/97/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F212
 [/us/stat/96/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F148
-[/us/pl/98/44/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F44%2Fs105
+[/us/pl/98/44/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F44%2FtI
 [/us/stat/97/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F217
-[/us/pl/98/364/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2Fs105
+[/us/pl/98/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2FtI
 [/us/stat/98/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F442
-[/us/pl/95/6/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F6%2Fs5
+[/us/pl/95/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F6
 [/us/pl/95/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F73
 [/us/stat/91/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F283
 [/us/pl/95/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F314
 [/us/stat/92/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F376
-[/us/pl/96/561/s238/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs238%2Fb
+[/us/pl/96/561/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtII
 [/us/stat/94/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3300
 
 

@@ -17,7 +17,7 @@
 
     A person claiming ownership of a horse or burro on the public lands shall be entitled to recover it only if recovery is permissible under the branding and estray laws of the State in which the animal is found.
 
-([Pub. L. 92–195, § 5][/us/pl/92/195/s5], Dec. 15, 1971, [85 Stat. 650][/us/stat/85/650].)
+([Pub. L. 92–195][/us/pl/92/195], § 5, Dec. 15, 1971, [85 Stat. 650][/us/stat/85/650].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/195/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F195%2Fs5
+[/us/pl/92/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F195
 [/us/stat/85/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F650
 
 

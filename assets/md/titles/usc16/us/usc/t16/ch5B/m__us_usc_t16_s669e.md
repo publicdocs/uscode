@@ -31,7 +31,7 @@
 
         Administrative costs in the form of overhead or indirect costs for services provided by State central service activities outside of the State agency having primary jurisdiction over the wildlife resources of the State which may be charged against programs or projects supported by the fund established by [section 669b of this title][/us/usc/t16/s669b] shall not exceed in any one fiscal year 3 per centum of the annual apportionment to the State.
 
-([Sept. 2, 1937, ch. 899, § 6][/us/act/1937-09-02/ch899/s6], [50 Stat. 918][/us/stat/50/918]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; [Pub. L. 91–503, title I, § 102][/us/pl/91/503/s102], Oct. 23, 1970, [84 Stat. 1099][/us/stat/84/1099].)
+([Sept. 2, 1937, ch. 899][/us/act/1937-09-02/ch899], § 6, [50 Stat. 918][/us/stat/50/918]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; [Pub. L. 91–503, title I][/us/pl/91/503/tI], § 102, Oct. 23, 1970, [84 Stat. 1099][/us/stat/84/1099].)
 
  __Amendments__ 
 
@@ -51,10 +51,10 @@
 ----------
 
 [/us/usc/t16/s669b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs669b
-[/us/act/1937-09-02/ch899/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-02%2Fch899%2Fs6
+[/us/act/1937-09-02/ch899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-02%2Fch899
 [/us/stat/50/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F918
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
-[/us/pl/91/503/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F503%2Fs102
+[/us/pl/91/503/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F503%2FtI
 [/us/stat/84/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1099
 [/us/pl/91/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F503
 [/us/pl/91/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F503

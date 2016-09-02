@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture shall not enter into an agreement in the States of North Dakota, South Dakota, and Minnesota to provide financial or technical assistance for wetland drainage on a farm under authority of this chapter, if the Secretary of the Interior has made a finding that wildlife preservation will be materially harmed on that farm by such drainage and that preservation of such land in its undrained status will materially contribute to wildlife preservation and such finding, identifying specifically the farm and the land on that farm with respect to which the finding was made, has been filed with the Secretary of Agriculture within ninety days after the filing of the application for drainage assistance: Provided, That the limitation against furnishing such financial or technical assistance shall terminate (1) at such time as the Secretary of the Interior notifies the Secretary of Agriculture that such limitation should not be applicable, (2) one year after the date on which the adverse finding of the Secretary of the Interior was filed unless during that time an offer has been made by the Secretary of the Interior or a State government agency to lease or to purchase the wetland area from the owner thereof as a waterfowl resource, or (3) five years after the date on which such adverse finding was filed if such an offer to lease or to purchase such wetland area has not been accepted by the owner thereof: Provided further, That upon any change in the ownership of the land with respect to which such adverse finding was filed, the eligibility of such land for such financial or technical assistance shall be redetermined in accordance with the provisions of this section.
 
-([Apr. 27, 1935, ch. 85, § 16A][/us/act/1935-04-27/ch85/s16A], as added [Pub. L. 87–732][/us/pl/87/732], Oct. 2, 1962, [76 Stat. 696][/us/stat/76/696].)
+([Apr. 27, 1935, ch. 85][/us/act/1935-04-27/ch85], § 16A, as added [Pub. L. 87–732][/us/pl/87/732], Oct. 2, 1962, [76 Stat. 696][/us/stat/76/696].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1935-04-27/ch85/s16A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-04-27%2Fch85%2Fs16A
+[/us/act/1935-04-27/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-04-27%2Fch85
 [/us/pl/87/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F732
 [/us/stat/76/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F696
 

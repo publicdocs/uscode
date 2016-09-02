@@ -29,17 +29,17 @@
 
     (6) to establish a formal mechanism for collecting and allocating monetary donations from the private sector to be used for coral reef conservation projects.
 
-([Pub. L. 106–562, title II, § 202][/us/pl/106/562/s202], Dec. 23, 2000, [114 Stat. 2800][/us/stat/114/2800].)
+([Pub. L. 106–562, title II][/us/pl/106/562/tII], § 202, Dec. 23, 2000, [114 Stat. 2800][/us/stat/114/2800].)
 
  __Short Title__ 
 
-[Pub. L. 106–562, title II, § 201][/us/pl/106/562/s201], Dec. 23, 2000, [114 Stat. 2800][/us/stat/114/2800], provided that: 
+[Pub. L. 106–562, title II][/us/pl/106/562/tII], § 201, Dec. 23, 2000, [114 Stat. 2800][/us/stat/114/2800], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Coral Reef Conservation Act of 2000’.”
 
  __Northwestern Hawaiian Islands Coral Reef Reserve__ 
 
-[Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 144(f)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–249, provided that:
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 144(f)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–249, provided that:
 
 >     “(1) The President, after consultation with the Governor of the State of Hawaii, may designate any Northwestern Hawaiian Islands coral reef or coral reef ecosystem as a coral reef reserve to be managed by the Secretary of Commerce.
 
@@ -63,7 +63,7 @@
 
 >     “(7) There are authorized to be appropriated to the Secretary of Commerce to carry out the provisions of this subsection such sums, not exceeding $4,000,000 for each of fiscal years 2001, 2002, 2003, 2004, and 2005, as are reported under paragraph (5) \[(6)\] to be reflected in the Budget of the United States Government.”
 
-    Substantially identical provisions were contained in [Pub. L. 106–513, § 6(g)][/us/pl/106/513/s6/g], Dec. 21, 2000, [114 Stat. 2385][/us/stat/114/2385].
+    Substantially identical provisions were contained in [Pub. L. 106–513][/us/pl/106/513], § 6(g), Dec. 21, 2000, [114 Stat. 2385][/us/stat/114/2385].
 
  __Ex. Ord. No. 13089. Coral Reef Protection__ 
 
@@ -370,11 +370,11 @@ By the authority vested in me as President by the Constitution and the laws of t
 ----------
 ----------
 
-[/us/pl/106/562/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs202
+[/us/pl/106/562/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2FtII
 [/us/stat/114/2800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2800
-[/us/pl/106/562/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs201
+[/us/pl/106/562/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2FtII
 [/us/stat/114/2800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2800
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t16/s1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1433
 [/us/usc/t16/s1445a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1445a
@@ -382,7 +382,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t16/s1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1433
 [/us/usc/t16/s1434/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1434%2Fe
 [/us/usc/t31/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1104
-[/us/pl/106/513/s6/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513%2Fs6%2Fg
+[/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
 [/us/stat/114/2385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2385
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/usc/t16/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1451

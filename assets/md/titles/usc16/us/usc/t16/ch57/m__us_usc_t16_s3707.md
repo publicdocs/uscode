@@ -17,7 +17,7 @@
 
     The United States shall not be liable for any debts, defaults, acts, or omissions of the Foundation nor shall the full faith and credit of the United States extend to any obligation of the Foundation.
 
-([Pub. L. 98–244, § 8][/us/pl/98/244/s8], Mar. 26, 1984, [98 Stat. 110][/us/stat/98/110].)
+([Pub. L. 98–244][/us/pl/98/244], § 8, Mar. 26, 1984, [98 Stat. 110][/us/stat/98/110].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/98/244/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F244%2Fs8
+[/us/pl/98/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F244
 [/us/stat/98/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F110
 
 

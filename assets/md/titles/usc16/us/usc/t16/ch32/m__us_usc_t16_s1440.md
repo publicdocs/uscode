@@ -59,7 +59,7 @@
 
         In conducting, supporting, and coordinating research, monitoring, evaluation, and education programs under subsection (a) and developing interpretive facilities under subsection (d), the Secretary may consult or coordinate with Federal, interstate, or regional agencies, States or local governments.
 
-([Pub. L. 92–532, title III, § 309][/us/pl/92/532/s309], as added [Pub. L. 100–627, title II, § 203(3)][/us/pl/100/627/s203/3], Nov. 7, 1988, [102 Stat. 3214][/us/stat/102/3214]; amended [Pub. L. 102–587, title II, § 2108][/us/pl/102/587/s2108], Nov. 4, 1992, [106 Stat. 5045][/us/stat/106/5045]; [Pub. L. 106–513, § 10][/us/pl/106/513/s10], Nov. 13, 2000, [114 Stat. 2388][/us/stat/114/2388].)
+([Pub. L. 92–532, title III][/us/pl/92/532/tIII], § 309, as added [Pub. L. 100–627, title II][/us/pl/100/627/tII], § 203(3), Nov. 7, 1988, [102 Stat. 3214][/us/stat/102/3214]; amended [Pub. L. 102–587, title II][/us/pl/102/587/tII], § 2108, Nov. 4, 1992, [106 Stat. 5045][/us/stat/106/5045]; [Pub. L. 106–513][/us/pl/106/513], § 10, Nov. 13, 2000, [114 Stat. 2388][/us/stat/114/2388].)
 
  __Prior Provisions__ 
 
@@ -86,12 +86,12 @@
 ----------
 ----------
 
-[/us/pl/92/532/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs309
-[/us/pl/100/627/s203/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F627%2Fs203%2F3
+[/us/pl/92/532/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2FtIII
+[/us/pl/100/627/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F627%2FtII
 [/us/stat/102/3214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3214
-[/us/pl/102/587/s2108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2108
+[/us/pl/102/587/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtII
 [/us/stat/106/5045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5045
-[/us/pl/106/513/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513%2Fs10
+[/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
 [/us/stat/114/2388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2388
 [/us/pl/92/532/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs309
 [/us/usc/t16/s1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1439

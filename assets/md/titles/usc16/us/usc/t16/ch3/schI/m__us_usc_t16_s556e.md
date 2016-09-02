@@ -17,7 +17,7 @@
 
     Beginning in fiscal year 1993, and in each year thereafter, only amounts for emergency rehabilitation and wildfire suppression activities that are in excess of the average of such costs for the previous ten years shall be considered “emergency requirements” pursuant to section 901(b)(2)(D)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 2, and such amounts shall on and after November 13, 1991, be so designated.
 
-([Pub. L. 102–154, title II][/us/pl/102/154], Nov. 13, 1991, [105 Stat. 1015][/us/stat/105/1015].)
+([Pub. L. 102–154, title II][/us/pl/102/154/tII], Nov. 13, 1991, [105 Stat. 1015][/us/stat/105/1015].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/102/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154
+[/us/pl/102/154/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154%2FtII
 [/us/stat/105/1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1015
 [/us/usc/t2/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901
 

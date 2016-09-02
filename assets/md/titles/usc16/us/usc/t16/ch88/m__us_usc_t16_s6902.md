@@ -91,7 +91,7 @@
 
         (4) recommending those domestic fishing regulations that are consistent with the actions of the international fishery organization, for approval and implementation under the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801][/us/usc/t16/s1801] et seq.)
 
-([Pub. L. 109–479, title V, § 503][/us/pl/109/479/s503], Jan. 12, 2007, [120 Stat. 3636][/us/stat/120/3636]; [Pub. L. 111–348, title III, § 301][/us/pl/111/348/s301], Jan. 4, 2011, [124 Stat. 3672][/us/stat/124/3672].)
+([Pub. L. 109–479, title V][/us/pl/109/479/tV], § 503, Jan. 12, 2007, [120 Stat. 3636][/us/stat/120/3636]; [Pub. L. 111–348, title III][/us/pl/111/348/tIII], § 301, Jan. 4, 2011, [124 Stat. 3672][/us/stat/124/3672].)
 
  __References in Text__ 
 
@@ -103,9 +103,9 @@
 
  __Amendments__ 
 
-    2011—Subsec. (a). [Pub. L. 111–348, § 301(1)][/us/pl/111/348/s301/1], substituted “Management Council, and one of whom shall be the chairman or a member of” for “Management Council and”.
+    2011—Subsec. (a). [Pub. L. 111–348][/us/pl/111/348], § 301(1), substituted “Management Council, and one of whom shall be the chairman or a member of” for “Management Council and”.
 
-    Subsec. (c)(1). [Pub. L. 111–348, § 301(2)][/us/pl/111/348/s301/2], added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Individuals serving as such Commissioners, other than officers or employees of the United States Government, shall be considered to be Federal employees while performing such service, only for purposes of—
+    Subsec. (c)(1). [Pub. L. 111–348][/us/pl/111/348], § 301(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Individuals serving as such Commissioners, other than officers or employees of the United States Government, shall be considered to be Federal employees while performing such service, only for purposes of—
 
     “(A) injury compensation under chapter 81 of title 5;
 
@@ -113,7 +113,7 @@
 
     “(C) any other criminal or civil statute or regulation governing the conduct of Federal employees.”
 
-    Subsec. (d)(2)(B)(ii). [Pub. L. 111–348, § 301(3)][/us/pl/111/348/s301/3], added cl. (ii) and struck out former cl. (ii) which read as follows: “shall be considered Federal employees while performing service as members of an advisory committee only for purposes of—
+    Subsec. (d)(2)(B)(ii). [Pub. L. 111–348][/us/pl/111/348], § 301(3), added cl. (ii) and struck out former cl. (ii) which read as follows: “shall be considered Federal employees while performing service as members of an advisory committee only for purposes of—
 
     “(I) injury compensation under chapter 81 of title 5;
 
@@ -131,9 +131,9 @@
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
-[/us/pl/109/479/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs503
+[/us/pl/109/479/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtV
 [/us/stat/120/3636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3636
-[/us/pl/111/348/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F348%2Fs301
+[/us/pl/111/348/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F348%2FtIII
 [/us/stat/124/3672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3672
 [/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
@@ -141,8 +141,8 @@
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/111/348/s301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F348%2Fs301%2F1
-[/us/pl/111/348/s301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F348%2Fs301%2F2
-[/us/pl/111/348/s301/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F348%2Fs301%2F3
+[/us/pl/111/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F348
+[/us/pl/111/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F348
+[/us/pl/111/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F348
 
 

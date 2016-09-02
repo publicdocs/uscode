@@ -17,7 +17,7 @@
 
     Regulations of the Commission approved and effective in accordance with [section 916b of this title][/us/usc/t16/s916b] and article V of the convention shall be submitted for appropriate action or publication in the Federal Register by the Secretary of Commerce and shall become effective with respect to all persons and vessels subject to the jurisdiction of the United States in accordance with the terms of such regulations and the provisions of article V of the convention.
 
-([Aug. 9, 1950, ch. 653, § 13][/us/act/1950-08-09/ch653/s13], [64 Stat. 425][/us/stat/64/425]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
+([Aug. 9, 1950, ch. 653][/us/act/1950-08-09/ch653], § 13, [64 Stat. 425][/us/stat/64/425]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
 
  __Transfer of Functions__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t16/s916b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs916b
-[/us/act/1950-08-09/ch653/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch653%2Fs13
+[/us/act/1950-08-09/ch653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch653
 [/us/stat/64/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F425
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
 [/us/usc/t16/s916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs916

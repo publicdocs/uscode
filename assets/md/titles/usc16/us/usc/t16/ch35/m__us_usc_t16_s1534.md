@@ -27,7 +27,7 @@
 
         Funds made available pursuant to chapter 2003 of title 54 may be used for the purpose of acquiring lands, waters, or interests therein under subsection (a) of this section.
 
-([Pub. L. 93–205, § 5][/us/pl/93/205/s5], Dec. 28, 1973, [87 Stat. 889][/us/stat/87/889]; [Pub. L. 95–632, § 12][/us/pl/95/632/s12], Nov. 10, 1978, [92 Stat. 3766][/us/stat/92/3766]; [Pub. L. 113–287, § 5(d)(32)][/us/pl/113/287/s5/d/32], Dec. 19, 2014, [128 Stat. 3267][/us/stat/128/3267].)
+([Pub. L. 93–205][/us/pl/93/205], § 5, Dec. 28, 1973, [87 Stat. 889][/us/stat/87/889]; [Pub. L. 95–632][/us/pl/95/632], § 12, Nov. 10, 1978, [92 Stat. 3766][/us/stat/92/3766]; [Pub. L. 113–287][/us/pl/113/287], § 5(d)(32), Dec. 19, 2014, [128 Stat. 3267][/us/stat/128/3267].)
 
  __References in Text__ 
 
@@ -54,11 +54,11 @@
 [/us/usc/t16/s742a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs742a
 [/us/usc/t16/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs661
 [/us/usc/t16/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs715
-[/us/pl/93/205/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205%2Fs5
+[/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F889
-[/us/pl/95/632/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F632%2Fs12
+[/us/pl/95/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F632
 [/us/stat/92/3766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3766
-[/us/pl/113/287/s5/d/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F32
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3267
 [/us/act/1956-08-08/ch1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1036
 [/us/stat/70/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F119

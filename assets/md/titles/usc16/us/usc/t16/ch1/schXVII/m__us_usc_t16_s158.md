@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXVII/m__us_usc_t16_s157d.md) | [Next](./../../../../..//us/usc/t16/ch1/schXVIII/m__us_usc_t16_ch1_schXVIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs158)
+[Previous](./../../../../..//us/usc/t16/ch1/schXVII/m__us_usc_t16_s157d.md) | [Next](./../../../../..//us/usc/t16/ch1/schXVII/m__us_usc_t16_s158a...158d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs158)
 
 ## § 158. Administration, protection, and development
 
     The administration, protection, and development of the Big Bend National Park shall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]), entitled “An Act to establish a National Park Service, and for other purposes”, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended: Provided, That the provisions of the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\] shall not apply to this park.
 
-([June 20, 1935, ch. 283, § 3][/us/act/1935-06-20/ch283/s3], [49 Stat. 394][/us/stat/49/394].)
+([June 20, 1935, ch. 283][/us/act/1935-06-20/ch283], § 3, [49 Stat. 394][/us/stat/49/394].)
 
  __References in Text__ 
 
@@ -29,26 +29,16 @@
 
     For transfer of functions of officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, [64 Stat. 1262][/us/stat/64/1262], set out in the Appendix to Title 5, Government Organization and Employees.
 
-§§ 158a to 158d. __Repealed.__  __[__  __June 25, 1948, ch. 646, § 39__  __][/us/act/1948-06-25/ch646/s39]__  __,__  __[__  __62 Stat. 992__  __][/us/stat/62/992]__  __, eff.__  __Sept. 1, 1948__ 
-
-    Section 158a, [act May 15, 1947, ch. 55, § 1][/us/act/1947-05-15/ch55/s1], [61 Stat. 91][/us/stat/61/91], related to appointment and compensation of commissioner. See provisions covering United States magistrate judges in section 631 et seq. of Title 28, Judiciary and Judicial Procedure.
-
-    Section 158b, [act May 15, 1947, ch. 55, § 2][/us/act/1947-05-15/ch55/s2], [61 Stat. 91][/us/stat/61/91], related to jurisdiction of commissioner \[now magistrate judge\] over petty offenses.
-
-    Section 158c, [act May 15, 1947, ch. 55, § 3][/us/act/1947-05-15/ch55/s3], [61 Stat. 91][/us/stat/61/91], related to jurisdiction of commissioner \[now magistrate judge\] over criminal offenses.
-
-    Section 158d, [act May 15, 1947, ch. 55, § 4][/us/act/1947-05-15/ch55/s4], [61 Stat. 91][/us/stat/61/91], related to disposition of fees, costs, and expenses.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXVII/m__us_usc_t16_s157d.md) | [Next](./../../../../..//us/usc/t16/ch1/schXVIII/m__us_usc_t16_ch1_schXVIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs158)
+[Previous](./../../../../..//us/usc/t16/ch1/schXVII/m__us_usc_t16_s157d.md) | [Next](./../../../../..//us/usc/t16/ch1/schXVII/m__us_usc_t16_s158a...158d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs158)
 
 ----------
 ----------
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
-[/us/act/1935-06-20/ch283/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-06-20%2Fch283%2Fs3
+[/us/act/1935-06-20/ch283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-06-20%2Fch283
 [/us/stat/49/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F394
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
@@ -63,15 +53,5 @@
 [/us/stat/41/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1063
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
-[/us/act/1948-06-25/ch646/s39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs39
-[/us/stat/62/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F992
-[/us/act/1947-05-15/ch55/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-05-15%2Fch55%2Fs1
-[/us/stat/61/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F91
-[/us/act/1947-05-15/ch55/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-05-15%2Fch55%2Fs2
-[/us/stat/61/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F91
-[/us/act/1947-05-15/ch55/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-05-15%2Fch55%2Fs3
-[/us/stat/61/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F91
-[/us/act/1947-05-15/ch55/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-05-15%2Fch55%2Fs4
-[/us/stat/61/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F91
 
 

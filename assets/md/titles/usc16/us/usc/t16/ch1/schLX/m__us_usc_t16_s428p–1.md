@@ -35,7 +35,7 @@
 
         The total area encompassed by the Fort Donelson National Battlefield may not exceed 2,000 acres.
 
-([Pub. L. 108–367, § 3][/us/pl/108/367/s3], Oct. 25, 2004, [118 Stat. 1743][/us/stat/118/1743].)
+([Pub. L. 108–367][/us/pl/108/367], § 3, Oct. 25, 2004, [118 Stat. 1743][/us/stat/118/1743].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t16/s428p/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs428p%2Fb
-[/us/pl/108/367/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F367%2Fs3
+[/us/pl/108/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F367
 [/us/stat/118/1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1743
 
 

@@ -57,7 +57,7 @@
 
         (2) does not include the species Xiphias gladius (swordfish).
 
-([Pub. L. 112–183, § 4][/us/pl/112/183/s4], Oct. 5, 2012, [126 Stat. 1422][/us/stat/126/1422].)
+([Pub. L. 112–183][/us/pl/112/183], § 4, Oct. 5, 2012, [126 Stat. 1422][/us/stat/126/1422].)
 
  __Codification__ 
 
@@ -65,7 +65,7 @@
 
  __Findings__ 
 
-[Pub. L. 112–183, § 2][/us/pl/112/183/s2], Oct. 5, 2012, [126 Stat. 1422][/us/stat/126/1422], provided that: 
+[Pub. L. 112–183][/us/pl/112/183], § 2, Oct. 5, 2012, [126 Stat. 1422][/us/stat/126/1422], provided that: 
 
 > “Congress finds the following:
 
@@ -85,9 +85,9 @@
 [/us/usc/t16/s1858/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1858%2Fa
 [/us/usc/t16/s1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1857
 [/us/usc/t16/s1802/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1802%2F35
-[/us/pl/112/183/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F183%2Fs4
+[/us/pl/112/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F183
 [/us/stat/126/1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1422
-[/us/pl/112/183/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F183%2Fs2
+[/us/pl/112/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F183
 [/us/stat/126/1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1422
 
 

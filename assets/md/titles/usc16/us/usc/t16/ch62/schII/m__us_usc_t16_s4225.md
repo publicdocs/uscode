@@ -27,7 +27,7 @@
 
         An officer or employee of the United States or of any State or local government who furnishes information or renders service in the performance of his or her official duties shall not be eligible for a reward under this section.
 
-([Pub. L. 100–478, title II, § 2205][/us/pl/100/478/s2205], Oct. 7, 1988, [102 Stat. 2320][/us/stat/102/2320].)
+([Pub. L. 100–478, title II][/us/pl/100/478/tII], § 2205, Oct. 7, 1988, [102 Stat. 2320][/us/stat/102/2320].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/100/478/s2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2Fs2205
+[/us/pl/100/478/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2FtII
 [/us/stat/102/2320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2320
 
 

@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated for the acquisition of lands, waters, and interests therein such sums as are necessary, not to exceed $5,750,000. For development of the recreation area, not more than $12,700,000 is authorized to be appropriated.
 
-([Pub. L. 92–260, § 15][/us/pl/92/260/s15], Mar. 23, 1972, [86 Stat. 102][/us/stat/86/102]; [Pub. L. 94–578, title III, § 316][/us/pl/94/578/s316], Oct. 21, 1976, [90 Stat. 2737][/us/stat/90/2737].)
+([Pub. L. 92–260][/us/pl/92/260], § 15, Mar. 23, 1972, [86 Stat. 102][/us/stat/86/102]; [Pub. L. 94–578, title III][/us/pl/94/578/tIII], § 316, Oct. 21, 1976, [90 Stat. 2737][/us/stat/90/2737].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/92/260/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F260%2Fs15
+[/us/pl/92/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F260
 [/us/stat/86/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F102
-[/us/pl/94/578/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2Fs316
+[/us/pl/94/578/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2FtIII
 [/us/stat/90/2737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2737
 [/us/pl/94/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578
 

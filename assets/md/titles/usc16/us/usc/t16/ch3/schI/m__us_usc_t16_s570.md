@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture is authorized to ascertain and determine the location of public lands chiefly valuable for stream-flow protection or for timber production, which can be economically administered as parts of national forests, and to report his findings to the National Forest Reservation Commission established under the Act of March 1, 1911, and if the commission shall determine that the administration of said lands by the Federal Government will protect the flow of streams used for navigation or for irrigation, or will promote a future timber supply, the President shall lay the findings of the commission before the Congress of the United States.
 
-([June 7, 1924, ch. 348, § 8][/us/act/1924-06-07/ch348/s8], [43 Stat. 655][/us/stat/43/655].)
+([June 7, 1924, ch. 348][/us/act/1924-06-07/ch348], § 8, [43 Stat. 655][/us/stat/43/655].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1924-06-07/ch348/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch348%2Fs8
+[/us/act/1924-06-07/ch348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch348
 [/us/stat/43/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F655
 [/us/usc/t16/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs513
 [/us/pl/94/588/s17/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588%2Fs17%2Fa%2F1

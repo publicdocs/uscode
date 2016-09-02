@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t16/ch12A/m__us_usc_t16_s831h–1.md) | [Next](./../../../..//us/usc/t16/ch12A/m__us_usc_t16_s831i.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs831h%E2%80%932)
 
-## § 831h–2. Repealed. [Pub. L. 86–137, § 1][/us/pl/86/137/s1], Aug. 6, 1959, [73 Stat. 280][/us/stat/73/280]
+## § 831h–2. Repealed. [Pub. L. 86–137][/us/pl/86/137], § 1, Aug. 6, 1959, [73 Stat. 280][/us/stat/73/280]
 
-    Section, [act July 30, 1947, ch. 358][/us/act/1947-07-30/ch358], title II, § 201, [61 Stat. 574][/us/stat/61/574], placed a limitation on use of power revenues of the Tennessee Valley Authority. See [section 831n–4 of this title][/us/usc/t16/s831n–4].
+    Section, [act July 30, 1947, ch. 358, title II][/us/act/1947-07-30/ch358/tII], § 201, [61 Stat. 574][/us/stat/61/574], placed a limitation on use of power revenues of the Tennessee Valley Authority. See [section 831n–4 of this title][/us/usc/t16/s831n–4].
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/86/137/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F137%2Fs1
+[/us/pl/86/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F137
 [/us/stat/73/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F280
-[/us/act/1947-07-30/ch358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-30%2Fch358
+[/us/act/1947-07-30/ch358/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-30%2Fch358%2FtII
 [/us/stat/61/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F574
 [/us/usc/t16/s831n–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs831n%E2%80%934
 

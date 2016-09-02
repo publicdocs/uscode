@@ -17,7 +17,7 @@
 
     The words used in this subchapter shall have the same meanings ascribed to them in this chapter.
 
-([Aug. 15, 1953, ch. 503, § 2][/us/act/1953-08-15/ch503/s2], [67 Stat. 587][/us/stat/67/587].)
+([Aug. 15, 1953, ch. 503][/us/act/1953-08-15/ch503], § 2, [67 Stat. 587][/us/stat/67/587].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1953-08-15/ch503/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-15%2Fch503%2Fs2
+[/us/act/1953-08-15/ch503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-15%2Fch503
 [/us/stat/67/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F587
 
 

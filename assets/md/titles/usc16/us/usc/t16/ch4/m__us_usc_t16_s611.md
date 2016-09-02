@@ -17,7 +17,7 @@
 
     It shall be lawful for the Secretary of the Interior to grant permits under the provisions of [section 607 of this title][/us/usc/t16/s607], to citizens of Idaho and Wyoming to cut timber in the State of Wyoming west of the Continental Divide on the Snake River and its tributaries to the boundary line of Idaho, for agricultural, mining, or other domestic purposes, and to remove the timber so cut to the State of Idaho.
 
-([Mar. 3, 1891, ch. 561, § 8][/us/act/1891-03-03/ch561/s8] (part), as added [July 1, 1898, ch. 546, § 1][/us/act/1898-07-01/ch546/s1], [30 Stat. 618][/us/stat/30/618].)
+([Mar. 3, 1891, ch. 561][/us/act/1891-03-03/ch561], § 8 (part), as added [July 1, 1898, ch. 546][/us/act/1898-07-01/ch546], § 1, [30 Stat. 618][/us/stat/30/618].)
 
  __Codification__ 
 
@@ -31,8 +31,8 @@
 ----------
 
 [/us/usc/t16/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs607
-[/us/act/1891-03-03/ch561/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch561%2Fs8
-[/us/act/1898-07-01/ch546/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1898-07-01%2Fch546%2Fs1
+[/us/act/1891-03-03/ch561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch561
+[/us/act/1898-07-01/ch546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1898-07-01%2Fch546
 [/us/stat/30/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F618
 [/us/usc/t16/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs607
 

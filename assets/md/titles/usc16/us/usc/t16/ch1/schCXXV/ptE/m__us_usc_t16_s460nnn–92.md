@@ -17,7 +17,7 @@
 
     The Federal lands included in the Wildlands Juniper Management Area established under [section 460nnn–91 of this title][/us/usc/t16/s460nnn–91] are no longer subject to the requirement of [section 1782(c) of title 43][/us/usc/t43/s1782/c] pertaining to managing the lands so as not to impair the suitability of the lands for preservation as wilderness.
 
-([Pub. L. 106–399, title V, § 502][/us/pl/106/399/s502], Oct. 30, 2000, [114 Stat. 1670][/us/stat/114/1670].)
+([Pub. L. 106–399, title V][/us/pl/106/399/tV], § 502, Oct. 30, 2000, [114 Stat. 1670][/us/stat/114/1670].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t16/s460nnn–91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460nnn%E2%80%9391
 [/us/usc/t43/s1782/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1782%2Fc
-[/us/pl/106/399/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2Fs502
+[/us/pl/106/399/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2FtV
 [/us/stat/114/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1670
 
 

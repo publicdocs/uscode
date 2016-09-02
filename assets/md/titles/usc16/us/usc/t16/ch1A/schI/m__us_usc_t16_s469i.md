@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t16/ch1A/schI/m__us_usc_t16_s469h.md) | [Next](./../../../../..//us/usc/t16/ch1A/schI/m__us_usc_t16_s469j.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs469i)
 
-## § 469i. Repealed. [Pub. L. 91–483, § 1(4)][/us/pl/91/483/s1/4], Oct. 21, 1970, [84 Stat. 1083][/us/stat/84/1083]
+## § 469i. Repealed. [Pub. L. 91–483][/us/pl/91/483], § 1(4), Oct. 21, 1970, [84 Stat. 1083][/us/stat/84/1083]
 
-    Section, [Pub. L. 88–655, § 6][/us/pl/88/655/s6], Oct. 13, 1964, [78 Stat. 1088][/us/stat/78/1088], authorized appropriations of up to $800,000 for carrying out provisions of sections 469d to 469i of this title.
+    Section, [Pub. L. 88–655][/us/pl/88/655], § 6, Oct. 13, 1964, [78 Stat. 1088][/us/stat/78/1088], authorized appropriations of up to $800,000 for carrying out provisions of sections 469d to 469i of this title.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/91/483/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F483%2Fs1%2F4
+[/us/pl/91/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F483
 [/us/stat/84/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1083
-[/us/pl/88/655/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F655%2Fs6
+[/us/pl/88/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F655
 [/us/stat/78/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1088
 
 

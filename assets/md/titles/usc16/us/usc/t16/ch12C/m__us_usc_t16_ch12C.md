@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs833" data-uslm-ref="/us/usc/t16/s833">833</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs833l" data-uslm-ref="/us/usc/t16/s833l">833l.</a>  </td>
 
     <td> Acquisition of Indian lands.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs833" data-uslm-ref="/us/usc/t16/s833">833</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs833o" data-uslm-ref="/us/usc/t16/s833o">833o.</a>  </td>
 
     <td> Authority of Secretary of the Interior for acquisition of Indian land.  </td>
 

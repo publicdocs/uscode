@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized and directed, through the United States Bureau of Mines, the United States Geological Survey, and the National Park Service, to cause a survey to be made of the area within the revised boundaries of the Joshua Tree National Monument with a view to determining to what extent the said area is more valuable for minerals than for the National Monument purposes for which it was created. Report of said survey shall be filed with the President of the United States Senate and the Speaker of the House of Representatives on or before February 1, 1951.
 
-([Sept. 25, 1950, ch. 1030, § 4][/us/act/1950-09-25/ch1030/s4], [64 Stat. 1035][/us/stat/64/1035]; [Pub. L. 102–154, title I][/us/pl/102/154], Nov. 13, 1991, [105 Stat. 1000][/us/stat/105/1000]; [Pub. L. 102–285, § 10(b)][/us/pl/102/285/s10/b], May 18, 1992, [106 Stat. 172][/us/stat/106/172].)
+([Sept. 25, 1950, ch. 1030][/us/act/1950-09-25/ch1030], § 4, [64 Stat. 1035][/us/stat/64/1035]; [Pub. L. 102–154, title I][/us/pl/102/154/tI], Nov. 13, 1991, [105 Stat. 1000][/us/stat/105/1000]; [Pub. L. 102–285][/us/pl/102/285], § 10(b), May 18, 1992, [106 Stat. 172][/us/stat/106/172].)
 
  __Change of Name__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/act/1950-09-25/ch1030/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-25%2Fch1030%2Fs4
+[/us/act/1950-09-25/ch1030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-25%2Fch1030
 [/us/stat/64/1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1035
-[/us/pl/102/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154
+[/us/pl/102/154/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154%2FtI
 [/us/stat/105/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1000
-[/us/pl/102/285/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285%2Fs10%2Fb
+[/us/pl/102/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285
 [/us/stat/106/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F172
 [/us/pl/102/285/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285%2Fs10%2Fb
 [/us/usc/t30/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1

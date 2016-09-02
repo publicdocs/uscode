@@ -17,7 +17,7 @@
 
     For the purpose of establishing an appropriate memorial to Hernando De Soto, the Secretary of the Interior is authorized, in his discretion, to acquire on behalf of the United States, by donation, by purchase with donated funds when purchaseable  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “purchasable”. </sup></sup>  at prices deemed by him reasonable, or by condemnation with donated funds, such lands and interests in land within an area of not to exceed thirty acres as he may select in the vicinity of Tampa Bay and Bradenton, Florida, and to construct thereon a suitable memorial structure, together with such connecting roads and public facilities as may be desirable.
 
-([Mar. 11, 1948, ch. 109, § 1][/us/act/1948-03-11/ch109/s1], [62 Stat. 78][/us/stat/62/78]; [Pub. L. 86–728, § 1A][/us/pl/86/728/s1A], Sept. 8, 1960, [74 Stat. 856][/us/stat/74/856].)
+([Mar. 11, 1948, ch. 109][/us/act/1948-03-11/ch109], § 1, [62 Stat. 78][/us/stat/62/78]; [Pub. L. 86–728][/us/pl/86/728], § 1A, Sept. 8, 1960, [74 Stat. 856][/us/stat/74/856].)
 
  __Amendments__ 
 
@@ -25,7 +25,7 @@
 
  __Authorization of Appropriations__ 
 
-Section 3 of act Mar. 11, 1948, as amended [Aug. 21, 1950, ch. 768][/us/act/1950-08-21/ch768], [64 Stat. 469][/us/stat/64/469]; Sept. 8, 1960, [Pub. L. 86–728, § 1B][/us/pl/86/728/s1B], [74 Stat. 856][/us/stat/74/856]; Nov. 10, 1978, [Pub. L. 95–625, title I, § 101(8)][/us/pl/95/625/s101/8], [92 Stat. 3471][/us/stat/92/3471]; Oct. 12, 1979, [Pub. L. 96–87, title IV, § 401(a)][/us/pl/96/87/s401/a], [93 Stat. 665][/us/stat/93/665], provided that: 
+Section 3 of act Mar. 11, 1948, as amended [Aug. 21, 1950, ch. 768][/us/act/1950-08-21/ch768], [64 Stat. 469][/us/stat/64/469]; Sept. 8, 1960, [Pub. L. 86–728][/us/pl/86/728], § 1B, [74 Stat. 856][/us/stat/74/856]; Nov. 10, 1978, [Pub. L. 95–625, title I][/us/pl/95/625/tI], § 101(8), [92 Stat. 3471][/us/stat/92/3471]; Oct. 12, 1979, [Pub. L. 96–87, title IV][/us/pl/96/87/tIV], § 401(a), [93 Stat. 665][/us/stat/93/665], provided that: 
 
 > “There is hereby authorized to be appropriated such sums, not to exceed $292,000, as may be necessary to carry out the provisions of this Act \[sections 450dd and 450dd–1 of this title\].”
 
@@ -36,18 +36,18 @@ Section 3 of act Mar. 11, 1948, as amended [Aug. 21, 1950, ch. 768][/us/act/1950
 ----------
 ----------
 
-[/us/act/1948-03-11/ch109/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-03-11%2Fch109%2Fs1
+[/us/act/1948-03-11/ch109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-03-11%2Fch109
 [/us/stat/62/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F78
-[/us/pl/86/728/s1A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F728%2Fs1A
+[/us/pl/86/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F728
 [/us/stat/74/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F856
 [/us/pl/86/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F728
 [/us/act/1950-08-21/ch768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-21%2Fch768
 [/us/stat/64/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F469
-[/us/pl/86/728/s1B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F728%2Fs1B
+[/us/pl/86/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F728
 [/us/stat/74/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F856
-[/us/pl/95/625/s101/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs101%2F8
+[/us/pl/95/625/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtI
 [/us/stat/92/3471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3471
-[/us/pl/96/87/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F87%2Fs401%2Fa
+[/us/pl/96/87/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F87%2FtIV
 [/us/stat/93/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F665
 
 

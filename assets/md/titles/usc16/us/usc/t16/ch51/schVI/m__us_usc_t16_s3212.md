@@ -17,7 +17,7 @@
 
     Nothing in this Act or the National Wildlife Refuge System Administration Act of 1966 ([16 U.S.C. 668dd][/us/usc/t16/s668dd]) shall be construed as necessarily prohibiting or mandating the construction of the Terror Lake Hydroelectric Project within the Kodiak National Wildlife Refuge. The permissibility of such development shall be determined by the Secretary on a case-by-case basis under existing law.
 
-([Pub. L. 96–487, title XIII, § 1325][/us/pl/96/487/s1325], Dec. 2, 1980, [94 Stat. 2488][/us/stat/94/2488].)
+([Pub. L. 96–487, title XIII][/us/pl/96/487/tXIII], § 1325, Dec. 2, 1980, [94 Stat. 2488][/us/stat/94/2488].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t16/s668dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd
-[/us/pl/96/487/s1325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1325
+[/us/pl/96/487/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXIII
 [/us/stat/94/2488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2488
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371

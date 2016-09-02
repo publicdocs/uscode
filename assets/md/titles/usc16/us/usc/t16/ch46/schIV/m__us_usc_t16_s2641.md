@@ -17,7 +17,7 @@
 
     The Secretary may prescribe voluntary guidelines respecting the standards established by sections 2621(d) and 2623(b) of this title. Such guidelines may not expand the scope or legal effect of such standards or establish additional standards respecting electric utility rates.
 
-([Pub. L. 95–617, title I, § 131][/us/pl/95/617/s131], Nov. 9, 1978, [92 Stat. 3131][/us/stat/92/3131].)
+([Pub. L. 95–617, title I][/us/pl/95/617/tI], § 131, Nov. 9, 1978, [92 Stat. 3131][/us/stat/92/3131].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/617/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs131
+[/us/pl/95/617/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtI
 [/us/stat/92/3131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3131
 
 

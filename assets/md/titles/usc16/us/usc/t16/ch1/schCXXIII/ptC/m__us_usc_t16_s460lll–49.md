@@ -51,7 +51,7 @@
 
             Not later than 24 months after the effective date of the transfer, the Chairman of the Tennessee Valley Authority shall submit to the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate an itemized list of the amounts of reductions in spending and increases in receipts as a result of activities under this subsection during the first fiscal year of the transfer.
 
-([Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title V, § 549\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–325.)
+([Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title V, § 549\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–325.)
 
  __References in Text__ 
 
@@ -66,7 +66,7 @@
 
 [/us/usc/t16/s831j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs831j
 [/us/usc/t16/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs831
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 [/us/act/1933-05-18/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32
 [/us/stat/48/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F58

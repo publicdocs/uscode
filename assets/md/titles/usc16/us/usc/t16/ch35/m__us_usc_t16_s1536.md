@@ -283,7 +283,7 @@
 
         In any area which has been declared by the President to be a major disaster area under the Disaster Relief and Emergency Assistance Act \[[42 U.S.C. 5121][/us/usc/t42/s5121] et seq.\], the President is authorized to make the determinations required by subsections (g) and (h) of this section for any project for the repair or replacement of a public facility substantially as it existed prior to the disaster under section 405 or 406 of the Disaster Relief and Emergency Assistance Act \[[42 U.S.C. 5171][/us/usc/t42/s5171] or 5172\], and which the President determines (1) is necessary to prevent the recurrence of such a natural disaster and to reduce the potential loss of human life, and (2) to involve an emergency situation which does not allow the ordinary procedures of this section to be followed. Notwithstanding any other provision of this section, the Committee shall accept the determinations of the President under this subsection.
 
-([Pub. L. 93–205, § 7][/us/pl/93/205/s7], Dec. 28, 1973, [87 Stat. 892][/us/stat/87/892]; [Pub. L. 95–632, § 3][/us/pl/95/632/s3], Nov. 10, 1978, [92 Stat. 3752][/us/stat/92/3752]; [Pub. L. 96–159, § 4][/us/pl/96/159/s4], Dec. 28, 1979, [93 Stat. 1226][/us/stat/93/1226]; [Pub. L. 97–304][/us/pl/97/304], §§ 4(a), 8(b), Oct. 13, 1982, [96 Stat. 1417][/us/stat/96/1417], 1426; [Pub. L. 99–659, title IV, § 411(b)][/us/pl/99/659/s411/b], (c), Nov. 14, 1986, [100 Stat. 3741][/us/stat/100/3741], 3742; [Pub. L. 100–707, title I, § 109(g)][/us/pl/100/707/s109/g], Nov. 23, 1988, [102 Stat. 4709][/us/stat/102/4709].)
+([Pub. L. 93–205][/us/pl/93/205], § 7, Dec. 28, 1973, [87 Stat. 892][/us/stat/87/892]; [Pub. L. 95–632][/us/pl/95/632], § 3, Nov. 10, 1978, [92 Stat. 3752][/us/stat/92/3752]; [Pub. L. 96–159][/us/pl/96/159], § 4, Dec. 28, 1979, [93 Stat. 1226][/us/stat/93/1226]; [Pub. L. 97–304][/us/pl/97/304], §§ 4(a), 8(b), Oct. 13, 1982, [96 Stat. 1417][/us/stat/96/1417], 1426; [Pub. L. 99–659, title IV][/us/pl/99/659/tIV], § 411(b), (c), Nov. 14, 1986, [100 Stat. 3741][/us/stat/100/3741], 3742; [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 109(g), Nov. 23, 1988, [102 Stat. 4709][/us/stat/102/4709].)
 
  __References in Text__ 
 
@@ -299,81 +299,81 @@
 
     1988—Subsec. (p). [Pub. L. 100–707][/us/pl/100/707] substituted “the Disaster Relief and Emergency Assistance Act” for “the Disaster Relief Act of 1974” and “section 405 or 406 of the Disaster Relief and Emergency Assistance Act” for “section 401 or 402 of the Disaster Relief Act of 1974”.
 
-    1986—Subsec. (b)(4)(C). [Pub. L. 99–659, § 411(b)(1)][/us/pl/99/659/s411/b/1]–(3), added subpar. (C).
+    1986—Subsec. (b)(4)(C). [Pub. L. 99–659][/us/pl/99/659], § 411(b)(1)–(3), added subpar. (C).
 
-    Subsec. (b)(4)(iii), (iv). [Pub. L. 99–659, § 411(b)(4)][/us/pl/99/659/s411/b/4]–(6), added cl. (iii), redesignated former cl. (iii) as (iv), and in cl. (iv), as so redesignated, inserted reference to cl. (iii).
+    Subsec. (b)(4)(iii), (iv). [Pub. L. 99–659][/us/pl/99/659], § 411(b)(4)–(6), added cl. (iii), redesignated former cl. (iii) as (iv), and in cl. (iv), as so redesignated, inserted reference to cl. (iii).
 
-    Subsec. (o). [Pub. L. 99–659, § 411(c)(1)][/us/pl/99/659/s411/c/1], in introductory provisions, inserted “, sections 1371 and 1372 of this title,”, and substituted “any” for “either” after “implement”.
+    Subsec. (o). [Pub. L. 99–659][/us/pl/99/659], § 411(c)(1), in introductory provisions, inserted “, sections 1371 and 1372 of this title,”, and substituted “any” for “either” after “implement”.
 
-    Subsec. (o)(2). [Pub. L. 99–659, § 411(c)(2)][/us/pl/99/659/s411/c/2], substituted “subsection (b)(4)(iv)” for “subsection (b)(4)(iii)” and inserted “prohibited” before “taking of the species”.
+    Subsec. (o)(2). [Pub. L. 99–659][/us/pl/99/659], § 411(c)(2), substituted “subsection (b)(4)(iv)” for “subsection (b)(4)(iii)” and inserted “prohibited” before “taking of the species”.
 
-    1982—Subsec. (a)(3), (4). [Pub. L. 97–304, § 4(a)(1)][/us/pl/97/304/s4/a/1], added par. (3) and redesignated former par. (3) as (4).
+    1982—Subsec. (a)(3), (4). [Pub. L. 97–304][/us/pl/97/304], § 4(a)(1), added par. (3) and redesignated former par. (3) as (4).
 
-    Subsec. (b). [Pub. L. 97–304, § 4(a)(2)][/us/pl/97/304/s4/a/2], incorporated existing provisions into pars. (1)(A) and (3)(A) and added pars. (1)(B), (2), (3)(B), and (4).
+    Subsec. (b). [Pub. L. 97–304][/us/pl/97/304], § 4(a)(2), incorporated existing provisions into pars. (1)(A) and (3)(A) and added pars. (1)(B), (2), (3)(B), and (4).
 
-    Subsec. (c)(1). [Pub. L. 97–304, § 4(a)(3)][/us/pl/97/304/s4/a/3], inserted “, except that if a permit or license applicant is involved, the 180-day period may not be extended unless such agency provides the applicant, before the close of such period, with a written statement setting forth the estimated length of the proposed extension and the reasons therefor” after “agency” in parenthetical provision.
+    Subsec. (c)(1). [Pub. L. 97–304][/us/pl/97/304], § 4(a)(3), inserted “, except that if a permit or license applicant is involved, the 180-day period may not be extended unless such agency provides the applicant, before the close of such period, with a written statement setting forth the estimated length of the proposed extension and the reasons therefor” after “agency” in parenthetical provision.
 
-    Subsec. (e)(10). [Pub. L. 97–304, § 4(a)(4)][/us/pl/97/304/s4/a/4], struck out provision that, except in the case of a member designated pursuant to paragraph (3)(G) of this subsection, no member could designate any person to serve as his or her representative unless that person was, at the time of such designation, holding a Federal office the appointment to which was subject to the advice and consent of the United States Senate.
+    Subsec. (e)(10). [Pub. L. 97–304][/us/pl/97/304], § 4(a)(4), struck out provision that, except in the case of a member designated pursuant to paragraph (3)(G) of this subsection, no member could designate any person to serve as his or her representative unless that person was, at the time of such designation, holding a Federal office the appointment to which was subject to the advice and consent of the United States Senate.
 
-    Subsec. (g)(1). [Pub. L. 97–304, § 4(a)(5)(B)][/us/pl/97/304/s4/a/5/B], substituted “An application for an exemption shall be considered initially by the Secretary in the manner provided for in this subsection, and shall be considered by the Committee for a final determination under subsection (h) after a report is made pursuant to paragraph (5)” for “An application for an exemption shall be considered initially by a review board in the manner provided in this subsection, and shall be considered by the Endangered Species Committee for a final determination under subsection (h) after a report is made by the review board”.
+    Subsec. (g)(1). [Pub. L. 97–304][/us/pl/97/304], § 4(a)(5)(B), substituted “An application for an exemption shall be considered initially by the Secretary in the manner provided for in this subsection, and shall be considered by the Committee for a final determination under subsection (h) after a report is made pursuant to paragraph (5)” for “An application for an exemption shall be considered initially by a review board in the manner provided in this subsection, and shall be considered by the Endangered Species Committee for a final determination under subsection (h) after a report is made by the review board”.
 
-    Subsec. (g)(2)(A). [Pub. L. 97–304, § 4(a)(5)(C)(i)][/us/pl/97/304/s4/a/5/C/i], substituted “An exemption applicant shall submit a written application to the Secretary, in a form prescribed under subsection (f), not later than 90 days after the completion of the consultation process; except that, in the case of any agency action involving a permit or license applicant, such application shall be submitted not later than 90 days after the date on which the Federal agency concerned takes final agency action with respect to the issuance of the permit or license” for “An exemption applicant shall submit a written application to the Secretary, in a form prescribed under subsection (f) of this section, not later than 90 days after the completion of the consultation process; or, in the case of any agency action involving a permit or license applicant, not later than 90 days after the date on which the Federal agency concerned takes final agency action, for purposes of chapter 7 of title 5, with respect to the issuance of the permit or license” and inserted provision that, “For purposes of the preceding sentence, the term ‘final agency action’ means (i) a disposition by an agency with respect to the issuance of a permit or license that is subject to administrative review, whether or not such disposition is subject to judicial review; or (ii) if administrative review is sought with respect to such disposition, the decision resulting after such review.”
+    Subsec. (g)(2)(A). [Pub. L. 97–304][/us/pl/97/304], § 4(a)(5)(C)(i), substituted “An exemption applicant shall submit a written application to the Secretary, in a form prescribed under subsection (f), not later than 90 days after the completion of the consultation process; except that, in the case of any agency action involving a permit or license applicant, such application shall be submitted not later than 90 days after the date on which the Federal agency concerned takes final agency action with respect to the issuance of the permit or license” for “An exemption applicant shall submit a written application to the Secretary, in a form prescribed under subsection (f) of this section, not later than 90 days after the completion of the consultation process; or, in the case of any agency action involving a permit or license applicant, not later than 90 days after the date on which the Federal agency concerned takes final agency action, for purposes of chapter 7 of title 5, with respect to the issuance of the permit or license” and inserted provision that, “For purposes of the preceding sentence, the term ‘final agency action’ means (i) a disposition by an agency with respect to the issuance of a permit or license that is subject to administrative review, whether or not such disposition is subject to judicial review; or (ii) if administrative review is sought with respect to such disposition, the decision resulting after such review.”
 
-    Subsec. (g)(2)(B). [Pub. L. 97–304, § 4(a)(5)(C)(ii)][/us/pl/97/304/s4/a/5/C/ii], inserted “(i)” after “the Secretary shall promptly”, struck out “to the review board to be established under paragraph (3) and” after “individuals to be appointed” in cl. (i) as so designated, and added cl. (ii).
+    Subsec. (g)(2)(B). [Pub. L. 97–304][/us/pl/97/304], § 4(a)(5)(C)(ii), inserted “(i)” after “the Secretary shall promptly”, struck out “to the review board to be established under paragraph (3) and” after “individuals to be appointed” in cl. (i) as so designated, and added cl. (ii).
 
-    Subsec. (g)(3). [Pub. L. 97–304, § 4(a)(5)(D)][/us/pl/97/304/s4/a/5/D], (E), redesignated par. (5) as (3) and substituted provisions directing the Secretary, within 20 days after the receipt of an application for exemption, or within such other period of time as is mutually agreeable to the exemption applicant and the Secretary, to (A) determine that the Federal agency concerned and the exemption applicant have (i) carried out the consultation responsibilities described in subsection (a) of this section in good faith and made a reasonable and responsible effort to develop and fairly consider modifications or reasonable and prudent alternatives to the proposed agency action which would not violate subsection (a)(2) of this section, (ii) conducted any biological assessment required by subsection (c) of this section, and (iii) to the extent determinable within the time provided herein, refrained from making any irreversible or irretrievable commitment of resources prohibited by subsection (d) of this section, or (B) deny the application for exemption because the Federal agency concerned or the exemption applicant have not met the requirements set forth in subparagraph (A)(i), (ii), and (iii), and providing that the denial of an application under subparagraph (B) shall be considered final agency action for purposes of chapter 7 of title 5, for provisions placing upon the review board appointed under former par. (3) the duty to make a full review of the consultation carried out under subsection (a)(2) of this section, and within 60 days after its appointment or within such longer time as was mutually agreed upon between the exemption applicant and the Secretary, to make a determination, by a majority vote, (A) whether an irresolvable conflict existed and (B) whether the Federal agency concerned and such exemption applicant had (i) carried out its consultation responsibilities as described in subsection (a) of this section in good faith and made a reasonable and responsible effort to develop and fairly consider modifications or reasonable and prudent alternatives to the proposed agency action which would not violate subsection (a)(2) of this section, (ii) conducted any biological assessment required of it by subsection (c) of this section, and (iii) refrained from making any irreversible or irretrievable commitment of resources prohibited by subsection (d) of this section, and providing that any determination by the review board that an irresolvable conflict did not exist or that the Federal agency concerned or the exemption applicant had not met its respective requirements under subclause (i), (ii), or (iii) was to be considered final agency action for purposes of chapter 7 of title 5. Former par. (3), providing for the establishment and functions of a review board to consider applications for exemptions and to submit reports to the Endangered Species Committee, was struck out.
+    Subsec. (g)(3). [Pub. L. 97–304][/us/pl/97/304], § 4(a)(5)(D), (E), redesignated par. (5) as (3) and substituted provisions directing the Secretary, within 20 days after the receipt of an application for exemption, or within such other period of time as is mutually agreeable to the exemption applicant and the Secretary, to (A) determine that the Federal agency concerned and the exemption applicant have (i) carried out the consultation responsibilities described in subsection (a) of this section in good faith and made a reasonable and responsible effort to develop and fairly consider modifications or reasonable and prudent alternatives to the proposed agency action which would not violate subsection (a)(2) of this section, (ii) conducted any biological assessment required by subsection (c) of this section, and (iii) to the extent determinable within the time provided herein, refrained from making any irreversible or irretrievable commitment of resources prohibited by subsection (d) of this section, or (B) deny the application for exemption because the Federal agency concerned or the exemption applicant have not met the requirements set forth in subparagraph (A)(i), (ii), and (iii), and providing that the denial of an application under subparagraph (B) shall be considered final agency action for purposes of chapter 7 of title 5, for provisions placing upon the review board appointed under former par. (3) the duty to make a full review of the consultation carried out under subsection (a)(2) of this section, and within 60 days after its appointment or within such longer time as was mutually agreed upon between the exemption applicant and the Secretary, to make a determination, by a majority vote, (A) whether an irresolvable conflict existed and (B) whether the Federal agency concerned and such exemption applicant had (i) carried out its consultation responsibilities as described in subsection (a) of this section in good faith and made a reasonable and responsible effort to develop and fairly consider modifications or reasonable and prudent alternatives to the proposed agency action which would not violate subsection (a)(2) of this section, (ii) conducted any biological assessment required of it by subsection (c) of this section, and (iii) refrained from making any irreversible or irretrievable commitment of resources prohibited by subsection (d) of this section, and providing that any determination by the review board that an irresolvable conflict did not exist or that the Federal agency concerned or the exemption applicant had not met its respective requirements under subclause (i), (ii), or (iii) was to be considered final agency action for purposes of chapter 7 of title 5. Former par. (3), providing for the establishment and functions of a review board to consider applications for exemptions and to submit reports to the Endangered Species Committee, was struck out.
 
-    Subsec. (g)(4). [Pub. L. 97–304, § 4(a)(5)(D)][/us/pl/97/304/s4/a/5/D], (F), redesignated par. (6) as (4) and substituted “If the Secretary determines that the Federal agency concerned and the exemption applicant have met the requirements set forth in paragraph (3)(A)(i), (ii), and (iii) he shall, in consultation with the Members of the Committee, hold a hearing on the application for exemption in accordance with sections 554, 555, and 556 (other than subsection (b)(1) and (2) thereof) of title 5 and prepare the report to be submitted pursuant to paragraph (5)” for “If the review board determines that an irresolvable conflict exists and makes positive determinations under subclauses (i), (ii), and (iii) of paragraph (5), it shall proceed to prepare the report to be submitted under paragraph (7)”. Former par. (4), directing the Secretary to submit the application to the review board immediately after its appointment under paragraph (3), and to submit to the review board, in writing, his views and recommendations with respect to the application within 60 days after receiving a copy of any application under paragraph (2), was struck out.
+    Subsec. (g)(4). [Pub. L. 97–304][/us/pl/97/304], § 4(a)(5)(D), (F), redesignated par. (6) as (4) and substituted “If the Secretary determines that the Federal agency concerned and the exemption applicant have met the requirements set forth in paragraph (3)(A)(i), (ii), and (iii) he shall, in consultation with the Members of the Committee, hold a hearing on the application for exemption in accordance with sections 554, 555, and 556 (other than subsection (b)(1) and (2) thereof) of title 5 and prepare the report to be submitted pursuant to paragraph (5)” for “If the review board determines that an irresolvable conflict exists and makes positive determinations under subclauses (i), (ii), and (iii) of paragraph (5), it shall proceed to prepare the report to be submitted under paragraph (7)”. Former par. (4), directing the Secretary to submit the application to the review board immediately after its appointment under paragraph (3), and to submit to the review board, in writing, his views and recommendations with respect to the application within 60 days after receiving a copy of any application under paragraph (2), was struck out.
 
-    Subsec. (g)(5). [Pub. L. 97–304, § 4(a)(5)(G)][/us/pl/97/304/s4/a/5/G], redesignated par. (7) as (5) and substituted “Within 140 days after making the determinations under paragraph (3) or within such other period of time as is mutually agreeable to the exemption applicant and the Secretary, the Secretary shall submit” for “Within 180 days after making the determinations under paragraph (6), the review board shall submit” in the provisions preceding subpar. (A), and added subpar. (D). Former par. (5) redesignated (3) and amended.
+    Subsec. (g)(5). [Pub. L. 97–304][/us/pl/97/304], § 4(a)(5)(G), redesignated par. (7) as (5) and substituted “Within 140 days after making the determinations under paragraph (3) or within such other period of time as is mutually agreeable to the exemption applicant and the Secretary, the Secretary shall submit” for “Within 180 days after making the determinations under paragraph (6), the review board shall submit” in the provisions preceding subpar. (A), and added subpar. (D). Former par. (5) redesignated (3) and amended.
 
-    Subsec. (g)(6). [Pub. L. 97–304, § 4(a)(5)(H)][/us/pl/97/304/s4/a/5/H], redesignated par. (8) as (6). Former par. (6) redesignated (4) and amended.
+    Subsec. (g)(6). [Pub. L. 97–304][/us/pl/97/304], § 4(a)(5)(H), redesignated par. (8) as (6). Former par. (6) redesignated (4) and amended.
 
-    Subsec. (g)(7). [Pub. L. 97–304, § 4(a)(5)(I)][/us/pl/97/304/s4/a/5/I], redesignated par. (10) as (7) and substituted “Upon request of the Secretary, the head of any Federal agency is authorized to detail, on a nonreimbursable basis, any of the personnel of such agency to the Secretary to assist him in carrying out his duties under this section” for “Upon request of a review board, the head of any Federal agency is authorized to detail, on a nonreimbursable basis, any of the personnel of such agency to the review board to assist it in carry out its duties under this section”. Former par. (7) redesignated (5) and amended.
+    Subsec. (g)(7). [Pub. L. 97–304][/us/pl/97/304], § 4(a)(5)(I), redesignated par. (10) as (7) and substituted “Upon request of the Secretary, the head of any Federal agency is authorized to detail, on a nonreimbursable basis, any of the personnel of such agency to the Secretary to assist him in carrying out his duties under this section” for “Upon request of a review board, the head of any Federal agency is authorized to detail, on a nonreimbursable basis, any of the personnel of such agency to the review board to assist it in carry out its duties under this section”. Former par. (7) redesignated (5) and amended.
 
-    Subsec. (g)(8). [Pub. L. 97–304, § 4(a)(5)(J)][/us/pl/97/304/s4/a/5/J], redesignated par. (12) as (8) and substituted “records resulting from activities pursuant to this subsection” for “records of review boards”. Former par. (8) redesignated (6).
+    Subsec. (g)(8). [Pub. L. 97–304][/us/pl/97/304], § 4(a)(5)(J), redesignated par. (12) as (8) and substituted “records resulting from activities pursuant to this subsection” for “records of review boards”. Former par. (8) redesignated (6).
 
-    Subsec. (g)(9). [Pub. L. 97–304, § 4(a)(5)(D)][/us/pl/97/304/s4/a/5/D], struck out par. (9) which had provided that the review board, in carrying out its duties, could (A) sit and act at such times and places, take such testimony, and receive such evidence, as the review board deemed advisable, (B) subject to the Privacy Act of 1974 \[[5 U.S.C. 552a][/us/usc/t5/s552a]\], request of any Federal agency or applicant information necessary to enable it to carry out such duties, and upon such request the head of such Federal agency would furnish such information to the review board, and (C) use the United States mails in the same manner and upon the same conditions as a Federal agency.
+    Subsec. (g)(9). [Pub. L. 97–304][/us/pl/97/304], § 4(a)(5)(D), struck out par. (9) which had provided that the review board, in carrying out its duties, could (A) sit and act at such times and places, take such testimony, and receive such evidence, as the review board deemed advisable, (B) subject to the Privacy Act of 1974 \[[5 U.S.C. 552a][/us/usc/t5/s552a]\], request of any Federal agency or applicant information necessary to enable it to carry out such duties, and upon such request the head of such Federal agency would furnish such information to the review board, and (C) use the United States mails in the same manner and upon the same conditions as a Federal agency.
 
-    Subsec. (g)(10). [Pub. L. 97–304, § 4(a)(5)(I)][/us/pl/97/304/s4/a/5/I], redesignated par. (10) as (7).
+    Subsec. (g)(10). [Pub. L. 97–304][/us/pl/97/304], § 4(a)(5)(I), redesignated par. (10) as (7).
 
-    Subsec. (g)(11). [Pub. L. 97–304, § 4(a)(5)(D)][/us/pl/97/304/s4/a/5/D], struck out par. (11) which had provided that the Administrator of the General Services Administration provide to a review board, on a reimbursable basis, such administrative support services as the review board requested.
+    Subsec. (g)(11). [Pub. L. 97–304][/us/pl/97/304], § 4(a)(5)(D), struck out par. (11) which had provided that the Administrator of the General Services Administration provide to a review board, on a reimbursable basis, such administrative support services as the review board requested.
 
-    Subsec. (g)(12). [Pub. L. 97–304, § 4(a)(5)(J)][/us/pl/97/304/s4/a/5/J], redesignated par. (12) as (8).
+    Subsec. (g)(12). [Pub. L. 97–304][/us/pl/97/304], § 4(a)(5)(J), redesignated par. (12) as (8).
 
-    Subsec. (h)(1). [Pub. L. 97–304, § 4(a)(6)][/us/pl/97/304/s4/a/6], substituted “within 30 days after receiving the report of the Secretary pursuant to subsection (g)(5)” for “within 90 days of receiving the report of the review board under subsection (g)(7)” in provisions preceding subpar. (A), substituted “report of the Secretary, the record of the hearing held under subsection (g)(4) and on such other testimony” for “report of the review board and on such other testimony” in subpar. (A) preceding cl. (i), and added cl. (iv).
+    Subsec. (h)(1). [Pub. L. 97–304][/us/pl/97/304], § 4(a)(6), substituted “within 30 days after receiving the report of the Secretary pursuant to subsection (g)(5)” for “within 90 days of receiving the report of the review board under subsection (g)(7)” in provisions preceding subpar. (A), substituted “report of the Secretary, the record of the hearing held under subsection (g)(4) and on such other testimony” for “report of the review board and on such other testimony” in subpar. (A) preceding cl. (i), and added cl. (iv).
 
-    Subsec. (o). [Pub. L. 97–304, § 4(a)(7)][/us/pl/97/304/s4/a/7], substituted “Notwithstanding sections 1533(d) and 1538(a)(1)(B) and (C) of this title or any regulation promulgated to implement either such section (1) any action for which an exemption is granted under subsection (h) shall not be considered to be a taking of any endangered species or threatened species with respect to any activity which is necessary to carry out such action; and (2) any taking that is in compliance with the terms and conditions specified in a written statement provided under subsection (b)(4)(iii) shall not be considered to be a taking of the species concerned” for “Notwithstanding sections 1533(d) and 1538(a) of this title or any regulations promulgated pursuant to such sections, any action for which an exemption is granted under subsection (h) of this section shall not be considered a taking of any endangered or threatened species with respect to any activity which is necessary to carry out such action”.
+    Subsec. (o). [Pub. L. 97–304][/us/pl/97/304], § 4(a)(7), substituted “Notwithstanding sections 1533(d) and 1538(a)(1)(B) and (C) of this title or any regulation promulgated to implement either such section (1) any action for which an exemption is granted under subsection (h) shall not be considered to be a taking of any endangered species or threatened species with respect to any activity which is necessary to carry out such action; and (2) any taking that is in compliance with the terms and conditions specified in a written statement provided under subsection (b)(4)(iii) shall not be considered to be a taking of the species concerned” for “Notwithstanding sections 1533(d) and 1538(a) of this title or any regulations promulgated pursuant to such sections, any action for which an exemption is granted under subsection (h) of this section shall not be considered a taking of any endangered or threatened species with respect to any activity which is necessary to carry out such action”.
 
-    Subsec. (q). [Pub. L. 97–304, § 8(b)][/us/pl/97/304/s8/b], struck out subsec. (q) which authorized appropriations of $600,000 for each of fiscal years 1979, 1980, 1981, and 1982 in carrying out functions under subsecs. (e), (f), (g), and (h) of this section. See [section 1542(c) of this title][/us/usc/t16/s1542/c].
+    Subsec. (q). [Pub. L. 97–304][/us/pl/97/304], § 8(b), struck out subsec. (q) which authorized appropriations of $600,000 for each of fiscal years 1979, 1980, 1981, and 1982 in carrying out functions under subsecs. (e), (f), (g), and (h) of this section. See [section 1542(c) of this title][/us/usc/t16/s1542/c].
 
-    1979—Subsec. (a). [Pub. L. 96–159, § 4(1)][/us/pl/96/159/s4/1], designated existing provisions as par. (1); struck out third sentence requirement that each Federal agency, in consultation with and with the assistance of the Secretary, insure that any action authorized, funded, or carried out by such agency (referred to as “agency action”) did not jeopardize the continued existence of any endangered species or threatened species or result in the destruction or adverse modification of habitat of such species which was determined by the Secretary, after consultation as appropriate with the affected States, to be critical, unless the agency was granted an exemption for such action by the Committee pursuant to subsec. (h) of this section; and added pars. (2) and (3), incorporating former third sentence provisions.
+    1979—Subsec. (a). [Pub. L. 96–159][/us/pl/96/159], § 4(1), designated existing provisions as par. (1); struck out third sentence requirement that each Federal agency, in consultation with and with the assistance of the Secretary, insure that any action authorized, funded, or carried out by such agency (referred to as “agency action”) did not jeopardize the continued existence of any endangered species or threatened species or result in the destruction or adverse modification of habitat of such species which was determined by the Secretary, after consultation as appropriate with the affected States, to be critical, unless the agency was granted an exemption for such action by the Committee pursuant to subsec. (h) of this section; and added pars. (2) and (3), incorporating former third sentence provisions.
 
-    Subsec. (b). [Pub. L. 96–159, § 4(2)][/us/pl/96/159/s4/2], (3), substituted “he believes would not violate subsection (a)(2) of this section and” for “he believes would avoid jeopardizing the continued existence of any endangered or threatened species or adversely modifying the critical habitat of such species, and which” before “can be taken” and introductory “subsection (a)(2) of this section” for “subsection (a) of this section”.
+    Subsec. (b). [Pub. L. 96–159][/us/pl/96/159], § 4(2), (3), substituted “he believes would not violate subsection (a)(2) of this section and” for “he believes would avoid jeopardizing the continued existence of any endangered or threatened species or adversely modifying the critical habitat of such species, and which” before “can be taken” and introductory “subsection (a)(2) of this section” for “subsection (a) of this section”.
 
-    Subsec. (c). [Pub. L. 96–159, § 4(3)][/us/pl/96/159/s4/3], (4), substituted “subsection (a)(2)” for “subsec. (a)” of this section, designated existing provisions as so amended par. (1), and added par. (2).
+    Subsec. (c). [Pub. L. 96–159][/us/pl/96/159], § 4(3), (4), substituted “subsection (a)(2)” for “subsec. (a)” of this section, designated existing provisions as so amended par. (1), and added par. (2).
 
-    Subsec. (d). [Pub. L. 96–159, § 4(3)][/us/pl/96/159/s4/3], (5), substituted introductory words “subsection (a)(2)” for “subsection (a)” of this section and “alternative measures which would not violate subsection (a)(2)” for “alternative measures which would avoid jeopardizing the continued existence of any endangered or threatened species or adversely modifying or destroying the critical habitat of any such species”.
+    Subsec. (d). [Pub. L. 96–159][/us/pl/96/159], § 4(3), (5), substituted introductory words “subsection (a)(2)” for “subsection (a)” of this section and “alternative measures which would not violate subsection (a)(2)” for “alternative measures which would avoid jeopardizing the continued existence of any endangered or threatened species or adversely modifying or destroying the critical habitat of any such species”.
 
-    Subsecs. (e)(2), (f). [Pub. L. 96–159, § 4(3)][/us/pl/96/159/s4/3], substituted “subsection (a)(2)” for “subsection (a)”.
+    Subsecs. (e)(2), (f). [Pub. L. 96–159][/us/pl/96/159], § 4(3), substituted “subsection (a)(2)” for “subsection (a)”.
 
-    Subsec. (g)(1). [Pub. L. 96–159, § 4(3)][/us/pl/96/159/s4/3], (6), substituted in first sentence “subsection (a)(2)” for “subsection (a)” of this section and “agency action would violate subsection (a)(2)” for “agency action may jeopardize the continued existence of any endangered or threatened species or destroy or adversely modify the critical habitat of such species”.
+    Subsec. (g)(1). [Pub. L. 96–159][/us/pl/96/159], § 4(3), (6), substituted in first sentence “subsection (a)(2)” for “subsection (a)” of this section and “agency action would violate subsection (a)(2)” for “agency action may jeopardize the continued existence of any endangered or threatened species or destroy or adversely modify the critical habitat of such species”.
 
-    Subsec. (g)(2)(A). [Pub. L. 96–159, § 4(7)][/us/pl/96/159/s4/7], required exemption applicant, to submit a written application, in the case of any agency action involving a permit or license applicant, not later than 90 days after the date on which the Federal agency concerned takes final agency action, for purposes of chapter 7 of Title 5, with respect to the issuance of the permit or license.
+    Subsec. (g)(2)(A). [Pub. L. 96–159][/us/pl/96/159], § 4(7), required exemption applicant, to submit a written application, in the case of any agency action involving a permit or license applicant, not later than 90 days after the date on which the Federal agency concerned takes final agency action, for purposes of chapter 7 of Title 5, with respect to the issuance of the permit or license.
 
-    Subsec. (g)(3). [Pub. L. 96–159, § 4(8)][/us/pl/96/159/s4/8], added subpar. (B), and redesignated former subpar. (B) as (C).
+    Subsec. (g)(3). [Pub. L. 96–159][/us/pl/96/159], § 4(8), added subpar. (B), and redesignated former subpar. (B) as (C).
 
-    Subsec. (g)(5). [Pub. L. 96–159, § 4(3)][/us/pl/96/159/s4/3], (9), substituted in introductory text and cl. (i) “subsection (a)(2)” for “subsection (a)” of this section; redesignated as cls. (A) and (B) former cls. (i) and (ii); inserted in cl. (B) “the Federal agency concerned and” before “such exemption applicant”; redesignated as subcls. (i) to (iii) former subcls. (A) to (C); substituted in subcl. (i) “agency action which would not violate subsection (a)(2) of this section” for “agency action which will avoid jeopardizing the continued existence of an endangered or threatened species or result in the adverse modification or destruction of a critical habitat”; and substituted in last sentence “the Federal agency concerned or the exemption applicant has not met its respective requirements under subclause (i), (ii), or (iii)” for “the exemption applicant has not met the requirements of subparagraph (A), (B), or (C)” preceding “shall be considered final agency action”.
+    Subsec. (g)(5). [Pub. L. 96–159][/us/pl/96/159], § 4(3), (9), substituted in introductory text and cl. (i) “subsection (a)(2)” for “subsection (a)” of this section; redesignated as cls. (A) and (B) former cls. (i) and (ii); inserted in cl. (B) “the Federal agency concerned and” before “such exemption applicant”; redesignated as subcls. (i) to (iii) former subcls. (A) to (C); substituted in subcl. (i) “agency action which would not violate subsection (a)(2) of this section” for “agency action which will avoid jeopardizing the continued existence of an endangered or threatened species or result in the adverse modification or destruction of a critical habitat”; and substituted in last sentence “the Federal agency concerned or the exemption applicant has not met its respective requirements under subclause (i), (ii), or (iii)” for “the exemption applicant has not met the requirements of subparagraph (A), (B), or (C)” preceding “shall be considered final agency action”.
 
-    Subsec. (g)(6). [Pub. L. 96–159, § 4(10)][/us/pl/96/159/s4/10], substituted “subclauses (i), (ii), and (iii)” for “subparagraphs (A), (B), and (C)” of paragraph (5).
+    Subsec. (g)(6). [Pub. L. 96–159][/us/pl/96/159], § 4(10), substituted “subclauses (i), (ii), and (iii)” for “subparagraphs (A), (B), and (C)” of paragraph (5).
 
-    Subsec. (h)(1). [Pub. L. 96–159, § 4(3)][/us/pl/96/159/s4/3], substituted “subsection (a)(2)” for “subsection (a)” of this section.
+    Subsec. (h)(1). [Pub. L. 96–159][/us/pl/96/159], § 4(3), substituted “subsection (a)(2)” for “subsection (a)” of this section.
 
-    Subsec. (h)(2). [Pub. L. 96–159, § 4(11)][/us/pl/96/159/s4/11], in subpar. (A), substituted “paragraph (1)” for “subsection (h) of this section”, inserted cl. (i), incorporated existing provisions in text designated cl. (ii), inserting thereto “with respect to such agency action”; in subpar. (B), incorporated existing provision in cl. (i), inserted findings provision respecting the extinction of a species that was not: the subject of consultation or identified in any biological assessment under subsec. (a)(2) or (c) of this section, added cl. (ii), deleted prior requirement for a Committee determination within 30 days of the Secretary’s finding that an exemption would result in extinction of the species whether to grant an exemption for the agency notwithstanding such finding, and superseded the same with requirement that the Committee meet with respect to the matter within 30 days after the date of such a finding.
+    Subsec. (h)(2). [Pub. L. 96–159][/us/pl/96/159], § 4(11), in subpar. (A), substituted “paragraph (1)” for “subsection (h) of this section”, inserted cl. (i), incorporated existing provisions in text designated cl. (ii), inserting thereto “with respect to such agency action”; in subpar. (B), incorporated existing provision in cl. (i), inserted findings provision respecting the extinction of a species that was not: the subject of consultation or identified in any biological assessment under subsec. (a)(2) or (c) of this section, added cl. (ii), deleted prior requirement for a Committee determination within 30 days of the Secretary’s finding that an exemption would result in extinction of the species whether to grant an exemption for the agency notwithstanding such finding, and superseded the same with requirement that the Committee meet with respect to the matter within 30 days after the date of such a finding.
 
-    Subsec. (m). [Pub. L. 96–159, § 4(3)][/us/pl/96/159/s4/3], substituted “subsection (a)(2)” for “subsection (a)” of this section.
+    Subsec. (m). [Pub. L. 96–159][/us/pl/96/159], § 4(3), substituted “subsection (a)(2)” for “subsection (a)” of this section.
 
-    Subsec. (q). [Pub. L. 96–159, § 4(12)][/us/pl/96/159/s4/12], authorized appropriations of $600,000 for fiscal years 1980 through 1982, and deleted appropriations authorization of $300,000 for period beginning Oct. 1, 1979, and ending Mar. 3, 1980, and requirement that the Chairman of the Committee report to the Congress before end of fiscal year 1979 with respect to adequacy of the budget authority.
+    Subsec. (q). [Pub. L. 96–159][/us/pl/96/159], § 4(12), authorized appropriations of $600,000 for fiscal years 1980 through 1982, and deleted appropriations authorization of $300,000 for period beginning Oct. 1, 1979, and ending Mar. 3, 1980, and requirement that the Chairman of the Committee report to the Congress before end of fiscal year 1979 with respect to adequacy of the budget authority.
 
     1978—Subsec. (a). [Pub. L. 95–632][/us/pl/95/632] designated existing provision as subsec. (a), inserted reference to agency action, substituted “adverse modification” for “modification”, and provided for the grant of an exemption for agency action by the Endangered Species Committee pursuant to subsec. (h) of this section.
 
@@ -381,7 +381,7 @@
 
  __Deferral of Agency Action__ 
 
-[Pub. L. 105–18, title II, § 3003][/us/pl/105/18/s3003], June 12, 1997, [111 Stat. 176][/us/stat/111/176], provided that:
+[Pub. L. 105–18, title II][/us/pl/105/18/tII], § 3003, June 12, 1997, [111 Stat. 176][/us/stat/111/176], provided that:
 
 >     “(a)  __Consultation and Conferencing__  __.—__ 
 
@@ -393,7 +393,7 @@
 
  __Translocation of California Sea Otters__ 
 
-[Pub. L. 99–625, § 1][/us/pl/99/625/s1], Nov. 7, 1986, [100 Stat. 3500][/us/stat/100/3500], provided that:
+[Pub. L. 99–625][/us/pl/99/625], § 1, Nov. 7, 1986, [100 Stat. 3500][/us/stat/100/3500], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -501,17 +501,17 @@
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
 [/us/usc/t42/s5171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5171
-[/us/pl/93/205/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205%2Fs7
+[/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F892
-[/us/pl/95/632/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F632%2Fs3
+[/us/pl/95/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F632
 [/us/stat/92/3752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3752
-[/us/pl/96/159/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159%2Fs4
+[/us/pl/96/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159
 [/us/stat/93/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1226
 [/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
 [/us/stat/96/1417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1417
-[/us/pl/99/659/s411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs411%2Fb
+[/us/pl/99/659/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtIV
 [/us/stat/100/3741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3741
-[/us/pl/100/707/s109/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs109%2Fg
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4709
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/81/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F884
@@ -525,54 +525,54 @@
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
 [/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
-[/us/pl/99/659/s411/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs411%2Fb%2F1
-[/us/pl/99/659/s411/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs411%2Fb%2F4
-[/us/pl/99/659/s411/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs411%2Fc%2F1
-[/us/pl/99/659/s411/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs411%2Fc%2F2
-[/us/pl/97/304/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs4%2Fa%2F1
-[/us/pl/97/304/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs4%2Fa%2F2
-[/us/pl/97/304/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs4%2Fa%2F3
-[/us/pl/97/304/s4/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs4%2Fa%2F4
-[/us/pl/97/304/s4/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs4%2Fa%2F5%2FB
-[/us/pl/97/304/s4/a/5/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs4%2Fa%2F5%2FC%2Fi
-[/us/pl/97/304/s4/a/5/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs4%2Fa%2F5%2FC%2Fii
-[/us/pl/97/304/s4/a/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs4%2Fa%2F5%2FD
-[/us/pl/97/304/s4/a/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs4%2Fa%2F5%2FD
-[/us/pl/97/304/s4/a/5/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs4%2Fa%2F5%2FG
-[/us/pl/97/304/s4/a/5/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs4%2Fa%2F5%2FH
-[/us/pl/97/304/s4/a/5/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs4%2Fa%2F5%2FI
-[/us/pl/97/304/s4/a/5/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs4%2Fa%2F5%2FJ
-[/us/pl/97/304/s4/a/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs4%2Fa%2F5%2FD
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
-[/us/pl/97/304/s4/a/5/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs4%2Fa%2F5%2FI
-[/us/pl/97/304/s4/a/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs4%2Fa%2F5%2FD
-[/us/pl/97/304/s4/a/5/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs4%2Fa%2F5%2FJ
-[/us/pl/97/304/s4/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs4%2Fa%2F6
-[/us/pl/97/304/s4/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs4%2Fa%2F7
-[/us/pl/97/304/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs8%2Fb
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
 [/us/usc/t16/s1542/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1542%2Fc
-[/us/pl/96/159/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159%2Fs4%2F1
-[/us/pl/96/159/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159%2Fs4%2F2
-[/us/pl/96/159/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159%2Fs4%2F3
-[/us/pl/96/159/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159%2Fs4%2F3
-[/us/pl/96/159/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159%2Fs4%2F3
-[/us/pl/96/159/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159%2Fs4%2F3
-[/us/pl/96/159/s4/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159%2Fs4%2F7
-[/us/pl/96/159/s4/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159%2Fs4%2F8
-[/us/pl/96/159/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159%2Fs4%2F3
-[/us/pl/96/159/s4/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159%2Fs4%2F10
-[/us/pl/96/159/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159%2Fs4%2F3
-[/us/pl/96/159/s4/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159%2Fs4%2F11
-[/us/pl/96/159/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159%2Fs4%2F3
-[/us/pl/96/159/s4/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159%2Fs4%2F12
+[/us/pl/96/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159
+[/us/pl/96/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159
+[/us/pl/96/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159
+[/us/pl/96/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159
+[/us/pl/96/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159
+[/us/pl/96/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159
+[/us/pl/96/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159
+[/us/pl/96/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159
+[/us/pl/96/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159
+[/us/pl/96/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159
+[/us/pl/96/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159
+[/us/pl/96/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159
+[/us/pl/96/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159
+[/us/pl/96/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159
 [/us/pl/95/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F632
 [/us/pl/95/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F632
-[/us/pl/105/18/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2Fs3003
+[/us/pl/105/18/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2FtII
 [/us/stat/111/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F176
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/usc/t16/s1536/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1536%2Fa%2F2
 [/us/usc/t16/s1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1536
-[/us/pl/99/625/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F625%2Fs1
+[/us/pl/99/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F625
 [/us/stat/100/3500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3500
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/usc/t16/s1536/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1536%2Fa%2F2

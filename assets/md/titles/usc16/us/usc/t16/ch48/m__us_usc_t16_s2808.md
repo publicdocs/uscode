@@ -35,7 +35,7 @@
 
         Based on the results of the Regulatory Constraints Study conducted under subsection (a), and within six months of the study’s completion, the Secretaries shall formulate a plan for acting on the study’s findings. The plan will contain specific steps the Federal Government can take to remove unnecessarily burdensome regulatory barriers to the initiation and operation of commercial aquaculture ventures. Upon its completion, the Secretaries shall submit the plan to Congress.
 
-([Pub. L. 96–362, § 9][/us/pl/96/362/s9], Sept. 26, 1980, [94 Stat. 1205][/us/stat/94/1205].)
+([Pub. L. 96–362][/us/pl/96/362], § 9, Sept. 26, 1980, [94 Stat. 1205][/us/stat/94/1205].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/96/362/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F362%2Fs9
+[/us/pl/96/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F362
 [/us/stat/94/1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1205
 
 

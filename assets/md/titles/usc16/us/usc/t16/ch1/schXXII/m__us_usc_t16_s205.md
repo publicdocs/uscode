@@ -17,7 +17,7 @@
 
     The lands hereafter described, to wit: The southwest quarter of the northwest quarter, section 25, and the southeast quarter of the northeast quarter, section 26, township 29 north, range 3 east, Mount Diablo meridian, in the State of California, are added to and made a part of the Lassen Volcanic National Park for use as an administrative headquarters site.
 
-([Apr. 26, 1928, ch. 439, § 1][/us/act/1928-04-26/ch439/s1], [45 Stat. 466][/us/stat/45/466].)
+([Apr. 26, 1928, ch. 439][/us/act/1928-04-26/ch439], § 1, [45 Stat. 466][/us/stat/45/466].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1928-04-26/ch439/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-04-26%2Fch439%2Fs1
+[/us/act/1928-04-26/ch439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-04-26%2Fch439
 [/us/stat/45/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F466
 
 

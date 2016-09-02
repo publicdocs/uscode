@@ -55,7 +55,7 @@
 
         The Commission shall cease to exist 10 years after the date on which the first meeting of the Commission is held.
 
-([Pub. L. 100–348, § 5][/us/pl/100/348/s5], June 27, 1988, [102 Stat. 656][/us/stat/102/656].)
+([Pub. L. 100–348][/us/pl/100/348], § 5, June 27, 1988, [102 Stat. 656][/us/stat/102/656].)
 
  __References in Text__ 
 
@@ -72,7 +72,7 @@
 
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776
-[/us/pl/100/348/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F348%2Fs5
+[/us/pl/100/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F348
 [/us/stat/102/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F656
 [/us/pl/100/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F348
 [/us/stat/102/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F654

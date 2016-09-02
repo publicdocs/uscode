@@ -37,7 +37,7 @@
 
         In addition to his consultation with the advisory council, the Secretary shall seek the views of other private groups, individuals, and the public, and shall seek the views and assistance of, and cooperate with all other Federal, State, and local agencies with responsibilities for zoning, planning, migratory fish, waterfowl, and marine animals, water, and natural resources, and all nonprofit agencies and organizations which may contribute information or expertise about the resources, and the management, of the Area, in order that the knowledge, expertise and views of all agencies and groups may contribute affirmatively to the most sensitive present and future use of the Area and its various subareas for the benefit of the public.
 
-([Pub. L. 93–535, § 8][/us/pl/93/535/s8], Dec. 22, 1974, [88 Stat. 1733][/us/stat/88/1733].)
+([Pub. L. 93–535][/us/pl/93/535], § 8, Dec. 22, 1974, [88 Stat. 1733][/us/stat/88/1733].)
 
  __References in Text__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/93/535/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F535%2Fs8
+[/us/pl/93/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F535
 [/us/stat/88/1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1733
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

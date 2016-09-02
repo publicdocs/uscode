@@ -17,7 +17,7 @@
 
     In order to insure that the facilities for the generation of electric energy at the Fort Peck project shall be operated for the benefit of the general public, and particularly of domestic and rural consumers, the Bureau shall at all times, in disposing of electric energy generated at said project, give preference and priority to public bodies and cooperatives.
 
-([May 18, 1938, ch. 250, § 4][/us/act/1938-05-18/ch250/s4], [52 Stat. 405][/us/stat/52/405].)
+([May 18, 1938, ch. 250][/us/act/1938-05-18/ch250], § 4, [52 Stat. 405][/us/stat/52/405].)
 
  __Transfer of Functions__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1938-05-18/ch250/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-18%2Fch250%2Fs4
+[/us/act/1938-05-18/ch250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-18%2Fch250
 [/us/stat/52/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F405
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

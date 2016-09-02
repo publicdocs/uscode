@@ -21,7 +21,7 @@
 
     (2) to engage in such coordination and consultation as may be necessary or appropriate to ensure, to the maximum extent practicable, that the report and revisions thereto are fully and effectively implemented.
 
-([Pub. L. 96–561, title I, § 111][/us/pl/96/561/s111], Dec. 22, 1980, [94 Stat. 3279][/us/stat/94/3279].)
+([Pub. L. 96–561, title I][/us/pl/96/561/tI], § 111, Dec. 22, 1980, [94 Stat. 3279][/us/stat/94/3279].)
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t16/s3311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3311
-[/us/pl/96/561/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs111
+[/us/pl/96/561/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtI
 [/us/stat/94/3279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3279
 
 

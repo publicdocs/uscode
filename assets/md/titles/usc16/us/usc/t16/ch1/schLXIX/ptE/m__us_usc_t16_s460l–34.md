@@ -19,7 +19,7 @@
 
     (b) The expansion or modification of a recreational facility constructed under this part shall not increase the capital repayment responsibilities or operation and maintenance expenses of the beneficiaries of authorized purposes of the associated Reclamation project. The term “beneficiaries” does not include those entities who sign agreements or enter into contracts for recreation facilities pursuant to the Federal Water Project Recreation Act \[[16 U.S.C. 460][/us/usc/t16/s460]l–12 et seq.\].
 
-([Pub. L. 102–575, title XXVIII, § 2806][/us/pl/102/575/s2806], Oct. 30, 1992, [106 Stat. 4693][/us/stat/106/4693].)
+([Pub. L. 102–575, title XXVIII][/us/pl/102/575/tXXVIII], § 2806, Oct. 30, 1992, [106 Stat. 4693][/us/stat/106/4693].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
-[/us/pl/102/575/s2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575%2Fs2806
+[/us/pl/102/575/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575%2FtXXVIII
 [/us/stat/106/4693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4693
 [/us/pl/102/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575
 [/us/stat/106/4690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4690

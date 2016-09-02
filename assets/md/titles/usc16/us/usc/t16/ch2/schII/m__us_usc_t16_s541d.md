@@ -27,7 +27,7 @@
 
         At least thirty days prior to any substantial change in the use or maintenance of any non-federally-owned land within the Area, the owner or owners of such land shall provide notice of such proposed change to the Secretary or his designee, in accordance with such guidelines as the Secretary may establish.
 
-([Pub. L. 93–535, § 5][/us/pl/93/535/s5], Dec. 22, 1974, [88 Stat. 1733][/us/stat/88/1733].)
+([Pub. L. 93–535][/us/pl/93/535], § 5, Dec. 22, 1974, [88 Stat. 1733][/us/stat/88/1733].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/93/535/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F535%2Fs5
+[/us/pl/93/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F535
 [/us/stat/88/1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1733
 
 

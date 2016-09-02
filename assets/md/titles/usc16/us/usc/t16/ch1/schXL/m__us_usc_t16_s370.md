@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Aug. 24, 1912, ch. 355, § 1][/us/act/1912-08-24/ch355/s1], [37 Stat. 459][/us/stat/37/459], related to lease of Arlington Hotel site. See [section 370a of this title][/us/usc/t16/s370a].
+    Section, [act Aug. 24, 1912, ch. 355][/us/act/1912-08-24/ch355], § 1, [37 Stat. 459][/us/stat/37/459], related to lease of Arlington Hotel site. See [section 370a of this title][/us/usc/t16/s370a].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1912-08-24/ch355/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-24%2Fch355%2Fs1
+[/us/act/1912-08-24/ch355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-24%2Fch355
 [/us/stat/37/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F459
 [/us/usc/t16/s370a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs370a
 

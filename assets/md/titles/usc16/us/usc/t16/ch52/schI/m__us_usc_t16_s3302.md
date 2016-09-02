@@ -67,7 +67,7 @@
 
     (18) The term “Washington tribal coordinating body” means the organization duly authorized by the treaty tribes of the Washington conservation area to coordinate their activities for them for the purposes of this chapter.
 
-([Pub. L. 96–561, title I][/us/pl/96/561] § 103, Dec. 22, 1980, [94 Stat. 3276][/us/stat/94/3276].)
+([Pub. L. 96–561, title I][/us/pl/96/561/tI] § 103, Dec. 22, 1980, [94 Stat. 3276][/us/stat/94/3276].)
 
  __References in Text__ 
 
@@ -80,7 +80,7 @@
 ----------
 ----------
 
-[/us/pl/96/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561
+[/us/pl/96/561/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtI
 [/us/stat/94/3276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3276
 [/us/usc/t16/s1852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1852
 [/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659

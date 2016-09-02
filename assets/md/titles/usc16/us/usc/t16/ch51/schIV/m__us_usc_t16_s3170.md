@@ -23,7 +23,7 @@
 
         Notwithstanding any other provisions of this Act or other law, in any case in which State owned or privately owned land, including subsurface rights of such owners underlying public lands, or a valid mining claim or other valid occupancy is within or is effectively surrounded by one or more conservation system units, national recreation areas, national conservation areas, or those public lands designated as wilderness study, the State or private owner or occupier shall be given by the Secretary such rights as may be necessary to assure adequate and feasible access for economic and other purposes to the concerned land by such State or private owner or occupier and their successors in interest. Such rights shall be subject to reasonable regulations issued by the Secretary to protect the natural and other values of such lands.
 
-([Pub. L. 96–487, title XI, § 1110][/us/pl/96/487/s1110], Dec. 2, 1980, [94 Stat. 2464][/us/stat/94/2464].)
+([Pub. L. 96–487, title XI][/us/pl/96/487/tXI], § 1110, Dec. 2, 1980, [94 Stat. 2464][/us/stat/94/2464].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/96/487/s1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1110
+[/us/pl/96/487/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXI
 [/us/stat/94/2464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2464
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371

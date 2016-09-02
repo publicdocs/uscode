@@ -31,7 +31,7 @@
 
     (g) Terms not defined herein shall, unless the context requires otherwise, have the meaning given them in the March 1949 Glossary of Important Power and Rate Terms prepared under the supervision of the Federal Power Commission.
 
-([Pub. L. 88–552, § 1][/us/pl/88/552/s1], Aug. 31, 1964, [78 Stat. 756][/us/stat/78/756]; [Pub. L. 95–91, title III, § 302(a)][/us/pl/95/91/s302/a], Aug. 4, 1977, [91 Stat. 578][/us/stat/91/578]; [Pub. L. 96–501, § 8(e)][/us/pl/96/501/s8/e], Dec. 5, 1980, [94 Stat. 2729][/us/stat/94/2729].)
+([Pub. L. 88–552][/us/pl/88/552], § 1, Aug. 31, 1964, [78 Stat. 756][/us/stat/78/756]; [Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 302(a), Aug. 4, 1977, [91 Stat. 578][/us/stat/91/578]; [Pub. L. 96–501][/us/pl/96/501], § 8(e), Dec. 5, 1980, [94 Stat. 2729][/us/stat/94/2729].)
 
  __Amendments__ 
 
@@ -43,7 +43,7 @@
 
  __Transfer of Functions__ 
 
-    “Secretary of Energy” substituted for “Secretary of the Interior” in subsec. (a) pursuant to [Pub. L. 95–91, § 302(a)][/us/pl/95/91/s302/a], which is classified to [section 7152(a) of Title 42][/us/usc/t42/s7152/a], The Public Health and Welfare.
+    “Secretary of Energy” substituted for “Secretary of the Interior” in subsec. (a) pursuant to [Pub. L. 95–91][/us/pl/95/91], § 302(a), which is classified to [section 7152(a) of Title 42][/us/usc/t42/s7152/a], The Public Health and Welfare.
 
     Federal Power Commission terminated and the functions, personnel, property, funds, etc., thereof transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 
@@ -54,17 +54,17 @@
 ----------
 ----------
 
-[/us/pl/88/552/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F552%2Fs1
+[/us/pl/88/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F552
 [/us/stat/78/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F756
-[/us/pl/95/91/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs302%2Fa
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F578
-[/us/pl/96/501/s8/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501%2Fs8%2Fe
+[/us/pl/96/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501
 [/us/stat/94/2729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2729
 [/us/pl/96/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501
 [/us/pl/96/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501
 [/us/pl/96/501/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501%2Fs11
 [/us/usc/t16/s839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs839
-[/us/pl/95/91/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs302%2Fa
+[/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/usc/t42/s7152/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7152%2Fa
 
 

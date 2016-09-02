@@ -37,7 +37,7 @@
 
         In addition to any other funds made available to implement [section 1642 of this title][/us/usc/t16/s1642], for the 5-year period beginning on October 1, 1990, there are authorized to be appropriated annually $10,000,000 to implement this section.
 
-([Pub. L. 95–307, § 9][/us/pl/95/307/s9], as added [Pub. L. 101–624, title XII, § 1241(b)][/us/pl/101/624/s1241/b], Nov. 28, 1990, [104 Stat. 3544][/us/stat/104/3544].)
+([Pub. L. 95–307][/us/pl/95/307], § 9, as added [Pub. L. 101–624, title XII][/us/pl/101/624/tXII], § 1241(b), Nov. 28, 1990, [104 Stat. 3544][/us/stat/104/3544].)
 
  __Prior Provisions__ 
 
@@ -51,8 +51,8 @@
 ----------
 
 [/us/usc/t16/s1642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1642
-[/us/pl/95/307/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F307%2Fs9
-[/us/pl/101/624/s1241/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1241%2Fb
+[/us/pl/95/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F307
+[/us/pl/101/624/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXII
 [/us/stat/104/3544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3544
 [/us/pl/95/307/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F307%2Fs9
 [/us/stat/92/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F357

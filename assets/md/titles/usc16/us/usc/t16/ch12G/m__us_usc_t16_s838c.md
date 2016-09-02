@@ -23,7 +23,7 @@
 
         At least sixty days prior to the time a request for approval or authority under this section or [section 838b of this title][/us/usc/t16/s838b] is sent to Congress, the Administrator shall give notice of such request to entities in the Pacific Northwest with which the Administrator has power sales or exchange contracts or transmission contracts or which have a transmission interconnection with the Federal transmission system.
 
-([Pub. L. 93–454, § 5][/us/pl/93/454/s5], Oct. 18, 1974, [88 Stat. 1377][/us/stat/88/1377].)
+([Pub. L. 93–454][/us/pl/93/454], § 5, Oct. 18, 1974, [88 Stat. 1377][/us/stat/88/1377].)
 
  __Transfer of Functions__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t16/s838b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs838b
-[/us/pl/93/454/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F454%2Fs5
+[/us/pl/93/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F454
 [/us/stat/88/1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1377
 
 

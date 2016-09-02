@@ -27,7 +27,7 @@
 
         The Secretary shall have, with respect to any real property acquired by him in sections 5 and 8, township 13 north, range 1 east, Humboldt meridian, authority to sell or lease the same to the former owner under such conditions and restrictions as will assure that it is not utilized in a manner or for purposes inconsistent with the national park.
 
-([Pub. L. 90–545, § 4][/us/pl/90/545/s4], Oct. 2, 1968, [82 Stat. 933][/us/stat/82/933].)
+([Pub. L. 90–545][/us/pl/90/545], § 4, Oct. 2, 1968, [82 Stat. 933][/us/stat/82/933].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/90/545/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F545%2Fs4
+[/us/pl/90/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F545
 [/us/stat/82/933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F933
 
 

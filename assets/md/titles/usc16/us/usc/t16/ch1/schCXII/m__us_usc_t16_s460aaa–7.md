@@ -71,7 +71,7 @@
 
         The Commission shall cease to exist on the date upon which the management plan is adopted.
 
-([Pub. L. 101–292, § 8][/us/pl/101/292/s8], May 17, 1990, [104 Stat. 189][/us/stat/104/189].)
+([Pub. L. 101–292][/us/pl/101/292], § 8, May 17, 1990, [104 Stat. 189][/us/stat/104/189].)
 
  __Termination of Advisory Commissions__ 
 
@@ -86,7 +86,7 @@
 
 [/us/usc/t16/s460aaa–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460aaa%E2%80%936
 [/us/usc/t16/s460aaa–6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460aaa%E2%80%936%2Fb%2F2
-[/us/pl/101/292/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F292%2Fs8
+[/us/pl/101/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F292
 [/us/stat/104/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F189
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

@@ -35,11 +35,11 @@
 
         The provisions of sections 307, 308, 309, 310, and 311 of the Magnuson Act ([16 U.S.C. 1857][/us/usc/t16/s1857], 1858, 1859, 1860, and 1861) regarding prohibited acts, civil penalties, criminal offenses, civil forfeitures, and enforcement shall apply with respect to regulations and any plan issued under subsection (a) of this section as if such regulations or plan were issued under the Magnuson Act.
 
-([Pub. L. 98–613, § 9][/us/pl/98/613/s9], as added [Pub. L. 105–146, § 2][/us/pl/105/146/s2], Dec. 16, 1997, [111 Stat. 2676][/us/stat/111/2676].)
+([Pub. L. 98–613][/us/pl/98/613], § 9, as added [Pub. L. 105–146][/us/pl/105/146], § 2, Dec. 16, 1997, [111 Stat. 2676][/us/stat/111/2676].)
 
  __Prior Provisions__ 
 
-    A prior [section 9 of Pub. L. 98–613][/us/pl/98/613/s9], Oct. 31, 1984, [98 Stat. 3190][/us/stat/98/3190]; [Pub. L. 99–432, § 5][/us/pl/99/432/s5], Oct. 1, 1986, [100 Stat. 990][/us/stat/100/990]; [Pub. L. 100–589, § 2][/us/pl/100/589/s2], Nov. 3, 1988, [102 Stat. 2984][/us/stat/102/2984]; [Pub. L. 102–130, § 2(c)][/us/pl/102/130/s2/c], Oct. 17, 1991, [105 Stat. 626][/us/stat/105/626], related to the period of effectiveness of sections 1 to 8 of [Pub. L. 98–613][/us/pl/98/613], prior to repeal by [Pub. L. 103–206, title VIII, § 812][/us/pl/103/206/s812], formerly § 810, Dec. 20, 1993, [107 Stat. 2453][/us/stat/107/2453], renumbered § 812, [Pub. L. 104–297, title IV, § 404(c)][/us/pl/104/297/s404/c], Oct. 11, 1996, [110 Stat. 3619][/us/stat/110/3619]. [Section 812 of Pub. L. 103–206][/us/pl/103/206/s812] was itself repealed by [Pub. L. 106–555, title I, § 122(b)(1)(B)][/us/pl/106/555/s122/b/1/B], (2), Dec. 21, 2000, [114 Stat. 2766][/us/stat/114/2766].
+    A prior [section 9 of Pub. L. 98–613][/us/pl/98/613/s9], Oct. 31, 1984, [98 Stat. 3190][/us/stat/98/3190]; [Pub. L. 99–432][/us/pl/99/432], § 5, Oct. 1, 1986, [100 Stat. 990][/us/stat/100/990]; [Pub. L. 100–589][/us/pl/100/589], § 2, Nov. 3, 1988, [102 Stat. 2984][/us/stat/102/2984]; [Pub. L. 102–130][/us/pl/102/130], § 2(c), Oct. 17, 1991, [105 Stat. 626][/us/stat/105/626], related to the period of effectiveness of sections 1 to 8 of [Pub. L. 98–613][/us/pl/98/613], prior to repeal by [Pub. L. 103–206, title VIII][/us/pl/103/206/tVIII], § 812, formerly § 810, Dec. 20, 1993, [107 Stat. 2453][/us/stat/107/2453], renumbered § 812, [Pub. L. 104–297, title IV][/us/pl/104/297/tIV], § 404(c), Oct. 11, 1996, [110 Stat. 3619][/us/stat/110/3619]. [Section 812 of Pub. L. 103–206][/us/pl/103/206/s812] was itself repealed by [Pub. L. 106–555, title I][/us/pl/106/555/tI], § 122(b)(1)(B), (2), Dec. 21, 2000, [114 Stat. 2766][/us/stat/114/2766].
 
 ----------
 
@@ -50,24 +50,24 @@
 
 [/us/usc/t16/s1851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1851
 [/us/usc/t16/s1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1857
-[/us/pl/98/613/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F613%2Fs9
-[/us/pl/105/146/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F146%2Fs2
+[/us/pl/98/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F613
+[/us/pl/105/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F146
 [/us/stat/111/2676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2676
 [/us/pl/98/613/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F613%2Fs9
 [/us/stat/98/3190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3190
-[/us/pl/99/432/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F432%2Fs5
+[/us/pl/99/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F432
 [/us/stat/100/990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F990
-[/us/pl/100/589/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F589%2Fs2
+[/us/pl/100/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F589
 [/us/stat/102/2984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2984
-[/us/pl/102/130/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F130%2Fs2%2Fc
+[/us/pl/102/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F130
 [/us/stat/105/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F626
 [/us/pl/98/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F613
-[/us/pl/103/206/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs812
+[/us/pl/103/206/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtVIII
 [/us/stat/107/2453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2453
-[/us/pl/104/297/s404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs404%2Fc
+[/us/pl/104/297/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtIV
 [/us/stat/110/3619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3619
 [/us/pl/103/206/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs812
-[/us/pl/106/555/s122/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F555%2Fs122%2Fb%2F1%2FB
+[/us/pl/106/555/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F555%2FtI
 [/us/stat/114/2766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2766
 
 

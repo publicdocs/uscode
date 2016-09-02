@@ -29,7 +29,7 @@
 
         The term “Secretary” means the Secretary of the Interior, acting through the Director of the Bureau of Land Management.
 
-([Pub. L. 111–11, title II, § 2201][/us/pl/111/11/s2201], Mar. 30, 2009, [123 Stat. 1099][/us/stat/123/1099].)
+([Pub. L. 111–11, title II][/us/pl/111/11/tII], § 2201, Mar. 30, 2009, [123 Stat. 1099][/us/stat/123/1099].)
 
 ----------
 
@@ -40,7 +40,7 @@
 
 [/us/usc/t16/s460yyy–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460yyy%E2%80%931%2Fa
 [/us/usc/t16/s460yyy–2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460yyy%E2%80%932%2Fc
-[/us/pl/111/11/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs2201
+[/us/pl/111/11/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtII
 [/us/stat/123/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1099
 
 

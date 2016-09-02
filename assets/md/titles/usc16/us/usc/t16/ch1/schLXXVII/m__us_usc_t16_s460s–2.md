@@ -17,7 +17,7 @@
 
     As soon as practicable after October 15, 1966, and following the acquisition by the Secretary of an acreage within the boundaries of the area which in his opinion is efficiently administrable for the purposes of this subchapter, he shall establish the Pictured Rocks National Lakeshore by publication of notice thereof in the Federal Register.
 
-([Pub. L. 89–668, § 3][/us/pl/89/668/s3], Oct. 15, 1966, [80 Stat. 922][/us/stat/80/922].)
+([Pub. L. 89–668][/us/pl/89/668], § 3, Oct. 15, 1966, [80 Stat. 922][/us/stat/80/922].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/668/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F668%2Fs3
+[/us/pl/89/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F668
 [/us/stat/80/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F922
 
 

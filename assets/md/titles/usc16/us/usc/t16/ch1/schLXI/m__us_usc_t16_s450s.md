@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Aug. 27, 1935, ch. 755, § 3][/us/act/1935-08-27/ch755/s3], [49 Stat. 897][/us/stat/49/897], appropriated $15,000 for purposes of [section 450r of this title][/us/usc/t16/s450r].
+    Section, [act Aug. 27, 1935, ch. 755][/us/act/1935-08-27/ch755], § 3, [49 Stat. 897][/us/stat/49/897], appropriated $15,000 for purposes of [section 450r of this title][/us/usc/t16/s450r].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1935-08-27/ch755/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fch755%2Fs3
+[/us/act/1935-08-27/ch755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fch755
 [/us/stat/49/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F897
 [/us/usc/t16/s450r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450r
 

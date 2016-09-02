@@ -67,7 +67,7 @@
 
         The Commission shall terminate 10 years after February 24, 1992, unless the Secretary determines that it is necessary to continue consulting with the Commission in carrying out the purposes of this subchapter.
 
-([Pub. L. 102–247, title I, § 106][/us/pl/102/247/s106], Feb. 24, 1992, [106 Stat. 35][/us/stat/106/35].)
+([Pub. L. 102–247, title I][/us/pl/102/247/tI], § 106, Feb. 24, 1992, [106 Stat. 35][/us/stat/106/35].)
 
  __References in Text__ 
 
@@ -82,7 +82,7 @@
 
 [/us/usc/t16/s410tt–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410tt%E2%80%933
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/102/247/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F247%2Fs106
+[/us/pl/102/247/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F247%2FtI
 [/us/stat/106/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F35
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

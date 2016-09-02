@@ -17,7 +17,7 @@
 
     The administration, protection, and development of the aforesaid national seashore recreational area shall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]), entitled “An Act to establish a National Park Service, and for other purposes”, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended: Provided, That except as hereinafter provided nothing herein shall be construed to divest the jurisdiction of other agencies of the Government exercised on August 17, 1937, over Federal-owned lands within the area of the said Cape Hatteras National Seashore Recreational Area: Provided further, That the provisions of the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\], shall not apply to this national seashore recreational area: And provided further, That the legal residents of villages referred to in [section 459 of this title][/us/usc/t16/s459] shall have the right to earn a livelihood by fishing within the boundaries to be designated by the Secretary of the Interior, subject to such rules and regulations as the said Secretary may deem necessary in order to protect the area for recreational use as provided for in sections 459 to 459a–3 of this title: And provided further, That hunting shall be permitted, under such rules and regulations as may be prescribed by the Secretary of the Interior in conformity with the Migratory Bird Treaty Act of July 3, 1918 ([40 Stat. 755][/us/stat/40/755]) \[[16 U.S.C. 703][/us/usc/t16/s703] et seq.\], as follows: (a) Upon the waters of the sounds included within the national seashore recreational area, (b) in the area north of the Currituck County line, (c) on Ocracoke Island, and (d) within not more than two thousand acres of land in the remaining portion of said national seashore recreational area, as shall be designated by the Secretary of the Interior; except on lands and waters included in any existing or future wildlife or migratory bird refuge and adjacent closed waters.
 
-([Aug. 17, 1937, ch. 687, § 3][/us/act/1937-08-17/ch687/s3], [50 Stat. 670][/us/stat/50/670]; [June 29, 1940, ch. 459][/us/act/1940-06-29/ch459], §§ 1, 2, [54 Stat. 702][/us/stat/54/702].)
+([Aug. 17, 1937, ch. 687][/us/act/1937-08-17/ch687], § 3, [50 Stat. 670][/us/stat/50/670]; [June 29, 1940, ch. 459][/us/act/1940-06-29/ch459], §§ 1, 2, [54 Stat. 702][/us/stat/54/702].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 
  __Cape Hatteras National Seashore Recreational Area__ 
 
-[Pub. L. 113–291, div. B, title XXX, § 3057][/us/pl/113/291/s3057], Dec. 19, 2014, [128 Stat. 3813][/us/stat/128/3813], provided that:
+[Pub. L. 113–291, div. B, title XXX][/us/pl/113/291/dB/tXXX], § 3057, Dec. 19, 2014, [128 Stat. 3813][/us/stat/128/3813], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -111,7 +111,7 @@
 [/us/usc/t16/s459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459
 [/us/stat/40/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F755
 [/us/usc/t16/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs703
-[/us/act/1937-08-17/ch687/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-17%2Fch687%2Fs3
+[/us/act/1937-08-17/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-17%2Fch687
 [/us/stat/50/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F670
 [/us/act/1940-06-29/ch459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-29%2Fch459
 [/us/stat/54/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F702
@@ -131,7 +131,7 @@
 [/us/stat/40/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F755
 [/us/usc/t16/s710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs710
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
-[/us/pl/113/291/s3057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3057
+[/us/pl/113/291/dB/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXX
 [/us/stat/128/3813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3813
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 

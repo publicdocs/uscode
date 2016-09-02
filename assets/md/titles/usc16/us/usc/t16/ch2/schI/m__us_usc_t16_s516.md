@@ -17,7 +17,7 @@
 
     When the public interests will be benefited thereby, the Secretary of Agriculture is hereby authorized, in his discretion, to accept on behalf of the United States title to any lands within the exterior boundaries of national forests which, in his opinion, are chiefly valuable for the purposes of this Act, and in exchange therefor to convey by deed not to exceed an equal value of such national forest land in the same State, or he may authorize the grantor to cut and remove an equal value of timber within such national forests in the same State, the values in each case to be determined by him: Provided, That before any such exchange is effected notice of the contemplated exchange reciting the lands involved shall be published once each week for four successive weeks in some newspaper of general circulation in the county or counties in which may be situated the lands to be accepted, and in some like newspaper published in any county in which may be situated any lands or timber to be given in such exchange. Timber given in such exchanges shall be cut and removed under the laws and regulations relating to such national forests, and under the direction and supervision and in accordance with the requirements of the Secretary of Agriculture. Lands so accepted by the Secretary of Agriculture shall, upon acceptance, become parts of the national forests within whose exterior boundaries they are located, and be subjected to all provisions of this Act.
 
-([Mar. 1, 1911, ch. 186, § 7][/us/act/1911-03-01/ch186/s7], [36 Stat. 962][/us/stat/36/962]; [Mar. 3, 1925, ch. 473][/us/act/1925-03-03/ch473], [43 Stat. 1215][/us/stat/43/1215]; [Pub. L. 94–588, § 17(a)(4)][/us/pl/94/588/s17/a/4], Oct. 22, 1976, [90 Stat. 2961][/us/stat/90/2961].)
+([Mar. 1, 1911, ch. 186][/us/act/1911-03-01/ch186], § 7, [36 Stat. 962][/us/stat/36/962]; [Mar. 3, 1925, ch. 473][/us/act/1925-03-03/ch473], [43 Stat. 1215][/us/stat/43/1215]; [Pub. L. 94–588][/us/pl/94/588], § 17(a)(4), Oct. 22, 1976, [90 Stat. 2961][/us/stat/90/2961].)
 
  __References in Text__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/act/1911-03-01/ch186/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-01%2Fch186%2Fs7
+[/us/act/1911-03-01/ch186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-01%2Fch186
 [/us/stat/36/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F962
 [/us/act/1925-03-03/ch473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch473
 [/us/stat/43/1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1215
-[/us/pl/94/588/s17/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588%2Fs17%2Fa%2F4
+[/us/pl/94/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588
 [/us/stat/90/2961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2961
 [/us/act/1911-03-01/ch186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-01%2Fch186
 [/us/stat/36/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F961

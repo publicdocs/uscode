@@ -17,11 +17,11 @@
 
     The Secretary is authorized to cooperate with the States and the territories and possessions of the United States in the enforcement of this subchapter.
 
-([Mar. 16, 1934, ch. 71, § 8][/us/act/1934-03-16/ch71/s8], as added [Pub. L. 109–266, § 10(h)][/us/pl/109/266/s10/h], Aug. 3, 2006, [120 Stat. 678][/us/stat/120/678].)
+([Mar. 16, 1934, ch. 71][/us/act/1934-03-16/ch71], § 8, as added [Pub. L. 109–266][/us/pl/109/266], § 10(h), Aug. 3, 2006, [120 Stat. 678][/us/stat/120/678].)
 
  __Prior Provisions__ 
 
-    A prior section 718h, [act Mar. 16, 1934, ch. 71, § 8][/us/act/1934-03-16/ch71/s8], [48 Stat. 452][/us/stat/48/452]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433], related to cooperation with States and Territories prior to repeal by [Pub. L. 109–266, § 10(h)][/us/pl/109/266/s10/h], Aug. 3, 2006, [120 Stat. 677][/us/stat/120/677].
+    A prior section 718h, [act Mar. 16, 1934, ch. 71][/us/act/1934-03-16/ch71], § 8, [48 Stat. 452][/us/stat/48/452]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433], related to cooperation with States and Territories prior to repeal by [Pub. L. 109–266][/us/pl/109/266], § 10(h), Aug. 3, 2006, [120 Stat. 677][/us/stat/120/677].
 
 ----------
 
@@ -30,13 +30,13 @@
 ----------
 ----------
 
-[/us/act/1934-03-16/ch71/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-16%2Fch71%2Fs8
-[/us/pl/109/266/s10/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266%2Fs10%2Fh
+[/us/act/1934-03-16/ch71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-16%2Fch71
+[/us/pl/109/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266
 [/us/stat/120/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F678
-[/us/act/1934-03-16/ch71/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-16%2Fch71%2Fs8
+[/us/act/1934-03-16/ch71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-16%2Fch71
 [/us/stat/48/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F452
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
-[/us/pl/109/266/s10/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266%2Fs10%2Fh
+[/us/pl/109/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266
 [/us/stat/120/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F677
 
 

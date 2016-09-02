@@ -107,7 +107,7 @@
 
         (2) The Secretary, in consultation with the Secretary of State, shall request the Commission to adopt recommendations necessary for the conservation and management of Atlantic swordfish. In making the request, the Secretary shall seek the establishment of an international minimum harvest size and a reduction in harvest levels to the extent necessary to conserve the stock. Until the Commission adopts all the conservation and management measures requested by the Secretary, the Secretary, within 3 months after each annual meeting of the Commission, shall notify Congress as to the nature and results of his request. These notifications shall identify those nations not acting to conserve and manage Atlantic swordfish, and recommend measures which could be taken to achieve effective international conservation and management of the stock.
 
-([Pub. L. 94–70, § 6][/us/pl/94/70/s6], Aug. 5, 1975, [89 Stat. 387][/us/stat/89/387]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3784][/us/stat/92/3784]; [Pub. L. 101–627, title II][/us/pl/101/627], §§ 206, 207, Nov. 28, 1990, [104 Stat. 4461][/us/stat/104/4461]; [Pub. L. 104–43, title III][/us/pl/104/43], §§ 303(3), 305, Nov. 3, 1995, [109 Stat. 384][/us/stat/109/384], 385; [Pub. L. 105–384, title II, § 202(b)(1)(C)][/us/pl/105/384/s202/b/1/C], (F), Nov. 13, 1998, [112 Stat. 3452][/us/stat/112/3452], 3453; [Pub. L. 114–81, title I, § 107(1)][/us/pl/114/81/s107/1], Nov. 5, 2015, [129 Stat. 658][/us/stat/129/658].)
+([Pub. L. 94–70][/us/pl/94/70], § 6, Aug. 5, 1975, [89 Stat. 387][/us/stat/89/387]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3784][/us/stat/92/3784]; [Pub. L. 101–627, title II][/us/pl/101/627/tII], §§ 206, 207, Nov. 28, 1990, [104 Stat. 4461][/us/stat/104/4461]; [Pub. L. 104–43, title III][/us/pl/104/43/tIII], §§ 303(3), 305, Nov. 3, 1995, [109 Stat. 384][/us/stat/109/384], 385; [Pub. L. 105–384, title II][/us/pl/105/384/tII], § 202(b)(1)(C), (F), Nov. 13, 1998, [112 Stat. 3452][/us/stat/112/3452], 3453; [Pub. L. 114–81, title I][/us/pl/114/81/tI], § 107(1), Nov. 5, 2015, [129 Stat. 658][/us/stat/129/658].)
 
  __References in Text__ 
 
@@ -119,25 +119,25 @@
 
     2015—Subsec. (c)(2). [Pub. L. 114–81][/us/pl/114/81] designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
 
-    1998—Subsec. (c)(1)(C). [Pub. L. 105–384, § 202(b)(1)(F)][/us/pl/105/384/s202/b/1/F], substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
+    1998—Subsec. (c)(1)(C). [Pub. L. 105–384][/us/pl/105/384], § 202(b)(1)(F), substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
-    Subsecs. (c)(6)(A)(iii), (B). [Pub. L. 105–384, § 202(b)(1)(C)][/us/pl/105/384/s202/b/1/C], substituted “clause (i)” for “subparagraph (A)” in cl. (iii), and redesignated last sentence of subpar. (A) as subpar. (B) and realigned margin.
+    Subsecs. (c)(6)(A)(iii), (B). [Pub. L. 105–384][/us/pl/105/384], § 202(b)(1)(C), substituted “clause (i)” for “subparagraph (A)” in cl. (iii), and redesignated last sentence of subpar. (A) as subpar. (B) and realigned margin.
 
-    Subsec. (d)(1). [Pub. L. 105–384, § 202(b)(1)(F)][/us/pl/105/384/s202/b/1/F], substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
+    Subsec. (d)(1). [Pub. L. 105–384][/us/pl/105/384], § 202(b)(1)(F), substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
-    1995—Subsec. (a). [Pub. L. 104–43, § 303(3)][/us/pl/104/43/s303/3], substituted “exclusive economic zone” for “fisheries zone” after “any vessel in the” in third sentence.
+    1995—Subsec. (a). [Pub. L. 104–43][/us/pl/104/43], § 303(3), substituted “exclusive economic zone” for “fisheries zone” after “any vessel in the” in third sentence.
 
-    Subsec. (c). [Pub. L. 104–43, § 305(1)][/us/pl/104/43/s305/1], inserted “and other measures” after “Regulations” in heading.
+    Subsec. (c). [Pub. L. 104–43][/us/pl/104/43], § 305(1), inserted “and other measures” after “Regulations” in heading.
 
-    Subsec. (c)(3). [Pub. L. 104–43, § 305(2)][/us/pl/104/43/s305/2], inserted “or fishing mortality level” after “quota of fish” in concluding provisions.
+    Subsec. (c)(3). [Pub. L. 104–43][/us/pl/104/43], § 305(2), inserted “or fishing mortality level” after “quota of fish” in concluding provisions.
 
-    Subsec. (c)(6), (7). [Pub. L. 104–43, § 305(3)][/us/pl/104/43/s305/3], added pars. (6) and (7).
+    Subsec. (c)(6), (7). [Pub. L. 104–43][/us/pl/104/43], § 305(3), added pars. (6) and (7).
 
-    1990—Subsec. (c)(1). [Pub. L. 101–627, § 206(a)][/us/pl/101/627/s206/a], designated existing provisions as subpar. (A) and added subpars. (B) and (C).
+    1990—Subsec. (c)(1). [Pub. L. 101–627][/us/pl/101/627], § 206(a), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
-    Subsec. (c)(3). [Pub. L. 101–627, § 206(b)][/us/pl/101/627/s206/b], added subpars. (I) to (K) and concluding provisions and struck out former subpar. (I) which read as follows: “impose such other requirements and provide for such other measures as the Secretary may deem necessary to implement any recommendation of the Commission.”
+    Subsec. (c)(3). [Pub. L. 101–627][/us/pl/101/627], § 206(b), added subpars. (I) to (K) and concluding provisions and struck out former subpar. (I) which read as follows: “impose such other requirements and provide for such other measures as the Secretary may deem necessary to implement any recommendation of the Commission.”
 
-    Subsec. (d). [Pub. L. 101–627, § 207][/us/pl/101/627/s207], amended subsec. (d) generally, substituting provisions relating to recommended Commission actions regarding large-scale driftnet fishing and conservation of Atlantic swordfish for provisions relating to Commission recommendations concerning bluefin tuna and issuance of regulations.
+    Subsec. (d). [Pub. L. 101–627][/us/pl/101/627], § 207, amended subsec. (d) generally, substituting provisions relating to recommended Commission actions regarding large-scale driftnet fishing and conservation of Atlantic swordfish for provisions relating to Commission recommendations concerning bluefin tuna and issuance of regulations.
 
  __Transfer of Functions__ 
 
@@ -149,7 +149,7 @@
 
  __Use of Aircraft in Atlantic Bluefin Tuna Fishing__ 
 
-    [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title VI, § 634\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–114, provided that none of the funds of the Department of Commerce would be available to issue or renew, for any fishing vessel, any general or harpoon category fishing permit for Atlantic bluefin tuna that would allow the vessel to use an aircraft to locate, or otherwise assist in fishing for, catching, or possessing Atlantic bluefin tuna, or to fish for, catch, or possess Atlantic bluefin tuna located by the use of an aircraft.
+    [Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title VI, § 634\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–114, provided that none of the funds of the Department of Commerce would be available to issue or renew, for any fishing vessel, any general or harpoon category fishing permit for Atlantic bluefin tuna that would allow the vessel to use an aircraft to locate, or otherwise assist in fishing for, catching, or possessing Atlantic bluefin tuna, or to fish for, catch, or possess Atlantic bluefin tuna located by the use of an aircraft.
 
 ----------
 
@@ -162,37 +162,37 @@
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t16/s1802/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1802%2F16
-[/us/pl/94/70/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F70%2Fs6
+[/us/pl/94/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F70
 [/us/stat/89/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F387
 [/us/stat/92/3784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3784
-[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtII
 [/us/stat/104/4461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4461
-[/us/pl/104/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43
+[/us/pl/104/43/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtIII
 [/us/stat/109/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F384
-[/us/pl/105/384/s202/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2Fs202%2Fb%2F1%2FC
+[/us/pl/105/384/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2FtII
 [/us/stat/112/3452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3452
-[/us/pl/114/81/s107/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs107%2F1
+[/us/pl/114/81/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2FtI
 [/us/stat/129/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F658
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
 [/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
-[/us/pl/105/384/s202/b/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2Fs202%2Fb%2F1%2FF
-[/us/pl/105/384/s202/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2Fs202%2Fb%2F1%2FC
-[/us/pl/105/384/s202/b/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2Fs202%2Fb%2F1%2FF
-[/us/pl/104/43/s303/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs303%2F3
-[/us/pl/104/43/s305/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs305%2F1
-[/us/pl/104/43/s305/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs305%2F2
-[/us/pl/104/43/s305/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs305%2F3
-[/us/pl/101/627/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs206%2Fa
-[/us/pl/101/627/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs206%2Fb
-[/us/pl/101/627/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs207
+[/us/pl/105/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384
+[/us/pl/105/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384
+[/us/pl/105/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384
+[/us/pl/104/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43
+[/us/pl/104/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43
+[/us/pl/104/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43
+[/us/pl/104/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
 
 

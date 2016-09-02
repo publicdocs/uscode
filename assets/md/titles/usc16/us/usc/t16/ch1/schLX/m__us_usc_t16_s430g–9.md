@@ -17,7 +17,7 @@
 
     In administering the park, the Secretary shall take such action as is necessary and appropriate to interpret, for the benefit of visitors to the park and the general public, the Battle of Gettysburg in the larger context of the Civil War and American history, including the causes and consequences of the Civil War and including the effects of the war on all the American people.
 
-([Pub. L. 101–377, § 6][/us/pl/101/377/s6], Aug. 17, 1990, [104 Stat. 467][/us/stat/104/467].)
+([Pub. L. 101–377][/us/pl/101/377], § 6, Aug. 17, 1990, [104 Stat. 467][/us/stat/104/467].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/377/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F377%2Fs6
+[/us/pl/101/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F377
 [/us/stat/104/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F467
 
 

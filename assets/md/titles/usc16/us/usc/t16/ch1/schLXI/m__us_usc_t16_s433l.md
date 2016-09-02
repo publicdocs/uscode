@@ -17,7 +17,7 @@
 
     Any State, or political subdivision thereof, organization, or individual may, with the approval of the Secretary of the Interior, erect monuments or place tablets within the boundaries of the Whitman Mission National Historic Site.
 
-([June 29, 1936, ch. 863, § 3][/us/act/1936-06-29/ch863/s3], [49 Stat. 2029][/us/stat/49/2029]; [Pub. L. 87–471][/us/pl/87/471], May 31, 1962, [76 Stat. 90][/us/stat/76/90].)
+([June 29, 1936, ch. 863][/us/act/1936-06-29/ch863], § 3, [49 Stat. 2029][/us/stat/49/2029]; [Pub. L. 87–471][/us/pl/87/471], May 31, 1962, [76 Stat. 90][/us/stat/76/90].)
 
  __Change of Name__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1936-06-29/ch863/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-29%2Fch863%2Fs3
+[/us/act/1936-06-29/ch863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-29%2Fch863
 [/us/stat/49/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F2029
 [/us/pl/87/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F471
 [/us/stat/76/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F90

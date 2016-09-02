@@ -17,7 +17,7 @@
 
     The Federal Energy Regulatory Commission shall keep the Committee on Energy and Commerce of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate fully and currently informed regarding actions of the Commission with respect to the provisions of Part I of the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\].
 
-([Pub. L. 99–495, § 16][/us/pl/99/495/s16], Oct. 16, 1986, [100 Stat. 1259][/us/stat/100/1259].)
+([Pub. L. 99–495][/us/pl/99/495], § 16, Oct. 16, 1986, [100 Stat. 1259][/us/stat/100/1259].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
-[/us/pl/99/495/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495%2Fs16
+[/us/pl/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495
 [/us/stat/100/1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1259
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
 [/us/stat/41/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1063

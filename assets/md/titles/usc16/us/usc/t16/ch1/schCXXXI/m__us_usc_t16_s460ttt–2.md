@@ -31,7 +31,7 @@
 
         Nothing in this subchapter prevents the Secretary from managing the Green Mountain Escarpment Management Area and the Ecological Special Areas, as described in the Management Plan.
 
-([Pub. L. 109–382, title II, § 223][/us/pl/109/382/s223], Dec. 1, 2006, [120 Stat. 2677][/us/stat/120/2677].)
+([Pub. L. 109–382, title II][/us/pl/109/382/tII], § 223, Dec. 1, 2006, [120 Stat. 2677][/us/stat/120/2677].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/109/382/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F382%2Fs223
+[/us/pl/109/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F382%2FtII
 [/us/stat/120/2677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2677
 
 

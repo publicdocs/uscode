@@ -17,7 +17,7 @@
 
     The head of any Federal agency is authorized to consult with and provide technical assistance to the Secretary or the Commission whenever such assistance is needed and reasonably can be furnished in carrying out the provisions of this subchapter. Any Federal agency furnishing assistance hereunder may expend its own funds for such purposes, with or without reimbursement.
 
-([Pub. L. 89–702, title I, § 109][/us/pl/89/702/s109], Nov. 2, 1966, [80 Stat. 1093][/us/stat/80/1093]; [Pub. L. 98–129, § 2][/us/pl/98/129/s2], Oct. 14, 1983, [97 Stat. 838][/us/stat/97/838].)
+([Pub. L. 89–702, title I][/us/pl/89/702/tI], § 109, Nov. 2, 1966, [80 Stat. 1093][/us/stat/80/1093]; [Pub. L. 98–129][/us/pl/98/129], § 2, Oct. 14, 1983, [97 Stat. 838][/us/stat/97/838].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/89/702/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2Fs109
+[/us/pl/89/702/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2FtI
 [/us/stat/80/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1093
-[/us/pl/98/129/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129%2Fs2
+[/us/pl/98/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129
 [/us/stat/97/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F838
 [/us/pl/98/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129
 [/us/usc/t16/s1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1158

@@ -17,11 +17,11 @@
 
     The President of the United States is authorized and empowered to revoke, modify, or suspend any and all Executive orders and proclamations or any part thereof issued under section 471  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, from time to time as he shall deem best for the public interests. By such modification he may reduce the area or change the boundary lines or may vacate altogether any order creating a national forest.
 
-([June 4, 1897, ch. 2, § 1][/us/act/1897-06-04/ch2/s1], [30 Stat. 34][/us/stat/30/34], 36.)
+([June 4, 1897, ch. 2][/us/act/1897-06-04/ch2], § 1, [30 Stat. 34][/us/stat/30/34], 36.)
 
  __References in Text__ 
 
-    [Section 471 of this title][/us/usc/t16/s471], referred to in text, was repealed by [Pub. L. 94–579, title VII, § 704(a)][/us/pl/94/579/s704/a], Oct. 21, 1976, [90 Stat. 2792][/us/stat/90/2792].
+    [Section 471 of this title][/us/usc/t16/s471], referred to in text, was repealed by [Pub. L. 94–579, title VII][/us/pl/94/579/tVII], § 704(a), Oct. 21, 1976, [90 Stat. 2792][/us/stat/90/2792].
 
  __Codification__ 
 
@@ -42,10 +42,10 @@
 ----------
 ----------
 
-[/us/act/1897-06-04/ch2/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-06-04%2Fch2%2Fs1
+[/us/act/1897-06-04/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-06-04%2Fch2
 [/us/stat/30/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F34
 [/us/usc/t16/s471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs471
-[/us/pl/94/579/s704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2Fs704%2Fa
+[/us/pl/94/579/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2FtVII
 [/us/stat/90/2792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2792
 [/us/act/1897-06-04/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-06-04%2Fch2
 [/us/stat/30/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F34

@@ -11,56 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch49/m__us_usc_t16_s2912.md) | [Next](./../../../..//us/usc/t16/ch51/m__us_usc_t16_ch51.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch50)
+[Previous](./../../../..//us/usc/t16/ch49/m__us_usc_t16_s2912.md) | [Next](./../../../..//us/usc/t16/ch50/m__us_usc_t16_s3001...3007.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch50)
 
 ## CHAPTER 50—CHESAPEAKE BAY RESEARCH COORDINATION
 
-§§ 3001 to 3007. __Omitted__ 
-
- __Codification__ 
-
-    Sections 3001 to 3007 were omitted pursuant to section 3007 which provided that this chapter terminated Sept. 30, 1984.
-
-    Section 3001, [Pub. L. 96–460, § 2][/us/pl/96/460/s2], Oct. 15, 1980, [94 Stat. 2044][/us/stat/94/2044], stated the Congressional findings and purposes for this chapter.
-
-    Section 3002, [Pub. L. 96–460, § 3][/us/pl/96/460/s3], Oct. 15, 1980, [94 Stat. 2045][/us/stat/94/2045], defined terms for the purposes of this chapter.
-
-    Section 3003, [Pub. L. 96–460, § 4][/us/pl/96/460/s4], Oct. 15, 1980, [94 Stat. 2045][/us/stat/94/2045], required the Secretary of Commerce to establish in the Department of Commerce an office for Chesapeake Bay Research Coordination.
-
-    Section 3004, [Pub. L. 96–460, § 5][/us/pl/96/460/s5], Oct. 15, 1980, [94 Stat. 2046][/us/stat/94/2046], established the Chesapeake Bay Research Board.
-
-    Section 3005, [Pub. L. 96–460, § 6][/us/pl/96/460/s6], Oct. 15, 1980, [94 Stat. 2047][/us/stat/94/2047], authorized appropriations to carry out the purposes of this chapter.
-
-    Section 3006, [Pub. L. 96–460, § 7][/us/pl/96/460/s7], Oct. 15, 1980, [94 Stat. 2047][/us/stat/94/2047], established the relationship between this chapter and existing Federal, State, and local authority.
-
-    Section 3007, [Pub. L. 96–460, § 8][/us/pl/96/460/s8], Oct. 15, 1980, [94 Stat. 2048][/us/stat/94/2048], provided that this chapter and the authority conferred by it would terminate Sept. 30, 1984.
-
- __Short Title__ 
-
-    [Pub. L. 96–460, § 1][/us/pl/96/460/s1], Oct. 15, 1980, [94 Stat. 2044][/us/stat/94/2044], provided that this chapter may be cited as the “Chesapeake Bay Research Coordination Act of 1980”.
-
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch49/m__us_usc_t16_s2912.md) | [Next](./../../../..//us/usc/t16/ch51/m__us_usc_t16_ch51.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch50)
+[Previous](./../../../..//us/usc/t16/ch49/m__us_usc_t16_s2912.md) | [Next](./../../../..//us/usc/t16/ch50/m__us_usc_t16_s3001...3007.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch50)
 
 ----------
 ----------
 
-[/us/pl/96/460/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F460%2Fs2
-[/us/stat/94/2044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2044
-[/us/pl/96/460/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F460%2Fs3
-[/us/stat/94/2045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2045
-[/us/pl/96/460/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F460%2Fs4
-[/us/stat/94/2045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2045
-[/us/pl/96/460/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F460%2Fs5
-[/us/stat/94/2046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2046
-[/us/pl/96/460/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F460%2Fs6
-[/us/stat/94/2047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2047
-[/us/pl/96/460/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F460%2Fs7
-[/us/stat/94/2047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2047
-[/us/pl/96/460/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F460%2Fs8
-[/us/stat/94/2048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2048
-[/us/pl/96/460/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F460%2Fs1
-[/us/stat/94/2044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2044
 
 

@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums, but not more than $90,000, as are necessary to acquire land pursuant to [section 423h–2 of this title][/us/usc/t16/s423h–2].
 
-([Pub. L. 87–603, § 3][/us/pl/87/603/s3], Aug. 24, 1962, [76 Stat. 403][/us/stat/76/403].)
+([Pub. L. 87–603][/us/pl/87/603], § 3, Aug. 24, 1962, [76 Stat. 403][/us/stat/76/403].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s423h–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs423h%E2%80%932
-[/us/pl/87/603/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F603%2Fs3
+[/us/pl/87/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F603
 [/us/stat/76/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F403
 
 

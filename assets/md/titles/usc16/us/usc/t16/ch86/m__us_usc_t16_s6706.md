@@ -41,7 +41,7 @@
 
         If, as a result of an evaluation under subsection (a), the Secretary, in consultation with the Secretary of the Interior, determines that an Institute does not qualify for further Federal assistance under this chapter, the Institute shall receive no further Federal assistance under this chapter until such time as the qualifications of the Institute are reestablished to the satisfaction of the Secretaries.
 
-([Pub. L. 108–317, § 7][/us/pl/108/317/s7], Oct. 5, 2004, [118 Stat. 1209][/us/stat/118/1209].)
+([Pub. L. 108–317][/us/pl/108/317], § 7, Oct. 5, 2004, [118 Stat. 1209][/us/stat/118/1209].)
 
  __Change of Name__ 
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t16/s6704/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6704%2Fc
-[/us/pl/108/317/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F317%2Fs7
+[/us/pl/108/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F317
 [/us/stat/118/1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1209
 
 

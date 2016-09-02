@@ -17,7 +17,7 @@
 
     Nothing herein contained shall affect any valid existing claim, location, or entry under the land laws of the United States, whether for homestead, mineral right of way, or any other purposes whatsoever, or shall affect the right of any such claimant, locator, or entryman to the full use and enjoyment of his land.
 
-([Mar. 1, 1929, ch. 437, § 4][/us/act/1929-03-01/ch437/s4], [45 Stat. 1436][/us/stat/45/1436].)
+([Mar. 1, 1929, ch. 437][/us/act/1929-03-01/ch437], § 4, [45 Stat. 1436][/us/stat/45/1436].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1929-03-01/ch437/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-01%2Fch437%2Fs4
+[/us/act/1929-03-01/ch437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-01%2Fch437
 [/us/stat/45/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1436
 
 

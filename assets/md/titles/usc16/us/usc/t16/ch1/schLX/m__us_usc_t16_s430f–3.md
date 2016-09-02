@@ -17,7 +17,7 @@
 
     The Secretary may convey to the State of Tennessee for use as a recreational area contiguous and incident to the relocated State Route Numbered 22 certain lands situated in Hardin County, Tennessee, as shown on National Park Service map NMP–SH–7006, revised June 1956, and designated thereon as parcel A, said lands containing one hundred and fifty-one acres, more or less: Provided, That in exchange the lands so conveyed shall be developed and used exclusively by the State or its political subdivisions for recreational purposes only, thereby removing certain incompatible uses from the military park.
 
-([Pub. L. 85–406, § 3][/us/pl/85/406/s3], May 16, 1958, [72 Stat. 114][/us/stat/72/114].)
+([Pub. L. 85–406][/us/pl/85/406], § 3, May 16, 1958, [72 Stat. 114][/us/stat/72/114].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/85/406/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F406%2Fs3
+[/us/pl/85/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F406
 [/us/stat/72/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F114
 
 

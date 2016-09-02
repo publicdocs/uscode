@@ -23,7 +23,7 @@
 
         It is the express intent of the Congress that the Secretary shall substantially complete the land acquisition program authorized herein within three complete fiscal years from the effective date of this subchapter. Any owner of property within the park may notify the Secretary of the desire of such owner that his property be promptly acquired, and the Secretary shall give immediate and careful consideration, subject to the availability of funds, to the prompt acquisition of such property.
 
-([Pub. L. 96–287, title I, § 102][/us/pl/96/287/s102], June 28, 1980, [94 Stat. 599][/us/stat/94/599].)
+([Pub. L. 96–287, title I][/us/pl/96/287/tI], § 102, June 28, 1980, [94 Stat. 599][/us/stat/94/599].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/96/287/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F287%2Fs102
+[/us/pl/96/287/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F287%2FtI
 [/us/stat/94/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F599
 [/us/pl/96/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F287
 

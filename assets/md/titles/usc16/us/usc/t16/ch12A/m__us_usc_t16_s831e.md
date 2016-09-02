@@ -17,7 +17,7 @@
 
     In the appointment of officials and the selection of employees for said Corporation, and in the promotion of any such employees or officials, no political test or qualification shall be permitted or given consideration, but all such appointments and promotions shall be given and made on the basis of merit and efficiency. Any member of said Board who is found by the President of the United States to be guilty of a violation of this section shall be removed from office by the President of the United States, and any appointee of said Board who is found by the Board to be guilty of a violation of this section shall be removed from office by said Board.
 
-([May 18, 1933, ch. 32, § 6][/us/act/1933-05-18/ch32/s6], [48 Stat. 63][/us/stat/48/63]; [Pub. L. 108–447, div. C, title VI, § 603(a)(2)][/us/pl/108/447/s603/a/2], Dec. 8, 2004, [118 Stat. 2966][/us/stat/118/2966].)
+([May 18, 1933, ch. 32][/us/act/1933-05-18/ch32], § 6, [48 Stat. 63][/us/stat/48/63]; [Pub. L. 108–447, div. C, title VI][/us/pl/108/447/dC/tVI], § 603(a)(2), Dec. 8, 2004, [118 Stat. 2966][/us/stat/118/2966].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/act/1933-05-18/ch32/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32%2Fs6
+[/us/act/1933-05-18/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32
 [/us/stat/48/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F63
-[/us/pl/108/447/s603/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs603%2Fa%2F2
+[/us/pl/108/447/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdC%2FtVI
 [/us/stat/118/2966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2966
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447

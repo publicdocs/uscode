@@ -19,7 +19,7 @@
 
     (b) All provisions of law relating to the seizure, summary and judicial forfeiture, and condemnation of a vessel, including its tackle, apparel, furniture, appurtenances, cargo, and stores for violation of the customs laws, the disposition of such vessel, including its tackle, apparel, furniture, appurtenances, cargo, and stores or the proceeds from the sale thereof, and the remission or mitigation of such forfeitures shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this chapter, insofar as such provisions of law are applicable and not inconsistent with the provisions of this chapter.
 
-([Pub. L. 89–702, title III, § 301][/us/pl/89/702/s301], Nov. 2, 1966, [80 Stat. 1096][/us/stat/80/1096]; [Pub. L. 98–129, § 2][/us/pl/98/129/s2], Oct. 14, 1983, [97 Stat. 844][/us/stat/97/844].)
+([Pub. L. 89–702, title III][/us/pl/89/702/tIII], § 301, Nov. 2, 1966, [80 Stat. 1096][/us/stat/80/1096]; [Pub. L. 98–129][/us/pl/98/129], § 2, Oct. 14, 1983, [97 Stat. 844][/us/stat/97/844].)
 
  __Amendments__ 
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/89/702/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2Fs301
+[/us/pl/89/702/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2FtIII
 [/us/stat/80/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1096
-[/us/pl/98/129/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129%2Fs2
+[/us/pl/98/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129
 [/us/stat/97/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F844
 [/us/pl/98/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129
 [/us/usc/t16/s1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1181

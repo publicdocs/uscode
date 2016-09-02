@@ -17,7 +17,7 @@
 
     Any person who shall violate or fail to comply with any provision of or any regulation made pursuant to this chapter shall be deemed guilty of a misdemeanor, and upon conviction thereof shall be fined not more than $500 or be imprisoned not more than six months, or both.
 
-([June 7, 1924, ch. 346, § 11][/us/act/1924-06-07/ch346/s11], [43 Stat. 652][/us/stat/43/652].)
+([June 7, 1924, ch. 346][/us/act/1924-06-07/ch346], § 11, [43 Stat. 652][/us/stat/43/652].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1924-06-07/ch346/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch346%2Fs11
+[/us/act/1924-06-07/ch346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch346
 [/us/stat/43/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F652
 
 

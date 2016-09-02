@@ -39,7 +39,7 @@
 
         Funds appropriated under subsections (a)(2) and (b) shall not be made available for any county which does not have in effect a land use ordinance which has been found to be consistent by the Commission, and concurred on by the Secretary as consistent with the management plan pursuant to [section 544f of this title][/us/usc/t16/s544f].
 
-([Pub. L. 99–663, § 16][/us/pl/99/663/s16], Nov. 17, 1986, [100 Stat. 4300][/us/stat/100/4300]; [Pub. L. 113–287, § 5(d)(17)][/us/pl/113/287/s5/d/17], Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265].)
+([Pub. L. 99–663][/us/pl/99/663], § 16, Nov. 17, 1986, [100 Stat. 4300][/us/stat/100/4300]; [Pub. L. 113–287][/us/pl/113/287], § 5(d)(17), Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265].)
 
  __Amendments__ 
 
@@ -60,9 +60,9 @@
 [/us/usc/t16/s544h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs544h
 [/us/usc/t16/s544c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs544c
 [/us/usc/t16/s544f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs544f
-[/us/pl/99/663/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663%2Fs16
+[/us/pl/99/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663
 [/us/stat/100/4300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4300
-[/us/pl/113/287/s5/d/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F17
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3265
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460

@@ -45,11 +45,11 @@
 
         The term “tidal shoreline” has the meaning given that term pursuant to section 923.110(c)(2)(i) of title 15, Code of Federal Regulations, or a similar successor regulation.
 
-([Pub. L. 114–113, div. O, title IX, § 902][/us/pl/114/113/s902], Dec. 18, 2015, [129 Stat. 3031][/us/stat/129/3031].)
+([Pub. L. 114–113, div. O, title IX][/us/pl/114/113/dO/tIX], § 902, Dec. 18, 2015, [129 Stat. 3031][/us/stat/129/3031].)
 
  __Short Title__ 
 
-[Pub. L. 114–113, div. O, title IX, § 901][/us/pl/114/113/s901], Dec. 18, 2015, [129 Stat. 3031][/us/stat/129/3031], provided that: 
+[Pub. L. 114–113, div. O, title IX][/us/pl/114/113/dO/tIX], § 901, Dec. 18, 2015, [129 Stat. 3031][/us/stat/129/3031], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘National Oceans and Coastal Security Act’.”
 
@@ -63,9 +63,9 @@
 [/us/usc/t16/s1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1453
 [/us/usc/t16/s3701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3701%2Fa
 [/us/usc/t16/s7503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7503%2Fa
-[/us/pl/114/113/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs902
+[/us/pl/114/113/dO/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdO%2FtIX
 [/us/stat/129/3031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3031
-[/us/pl/114/113/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs901
+[/us/pl/114/113/dO/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdO%2FtIX
 [/us/stat/129/3031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3031
 
 

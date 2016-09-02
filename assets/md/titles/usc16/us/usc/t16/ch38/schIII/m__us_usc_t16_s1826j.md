@@ -111,7 +111,7 @@
 
         There are authorized to be appropriated to the Secretary for fiscal years 2007 through 2013 such sums as are necessary to carry out this section.
 
-([Pub. L. 104–43, title VI, § 609][/us/pl/104/43/s609], as added [Pub. L. 109–479, title IV, § 403(a)][/us/pl/109/479/s403/a], Jan. 12, 2007, [120 Stat. 3628][/us/stat/120/3628]; amended [Pub. L. 111–348, title I, § 102(b)][/us/pl/111/348/s102/b], Jan. 4, 2011, [124 Stat. 3669][/us/stat/124/3669]; [Pub. L. 114–81, title I, § 101(c)][/us/pl/114/81/s101/c], (e), (g)(1), (2), (i)(2)–(4), Nov. 5, 2015, [129 Stat. 654][/us/stat/129/654], 655.)
+([Pub. L. 104–43, title VI][/us/pl/104/43/tVI], § 609, as added [Pub. L. 109–479, title IV][/us/pl/109/479/tIV], § 403(a), Jan. 12, 2007, [120 Stat. 3628][/us/stat/120/3628]; amended [Pub. L. 111–348, title I][/us/pl/111/348/tI], § 102(b), Jan. 4, 2011, [124 Stat. 3669][/us/stat/124/3669]; [Pub. L. 114–81, title I][/us/pl/114/81/tI], § 101(c), (e), (g)(1), (2), (i)(2)–(4), Nov. 5, 2015, [129 Stat. 654][/us/stat/129/654], 655.)
 
  __References in Text__ 
 
@@ -125,17 +125,17 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a). [Pub. L. 114–81, § 101(g)(1)][/us/pl/114/81/s101/g/1], (2), designated existing provisions as par. (1), inserted heading and, in introductory provisions, inserted “, based on a cumulative compilation and analysis of data collected and provided by international fishery management organizations and other nations and organizations,” after “shall” and substituted “3 years” for “2 years”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigned margins, and in subpar. (A), inserted “that undermines the effectiveness of measures required by an international fishery management organization, taking into account whether” before “the relevant” and struck out “vessels of” after “activity by”, and added pars. (2) and (3).
+    2015—Subsec. (a). [Pub. L. 114–81][/us/pl/114/81], § 101(g)(1), (2), designated existing provisions as par. (1), inserted heading and, in introductory provisions, inserted “, based on a cumulative compilation and analysis of data collected and provided by international fishery management organizations and other nations and organizations,” after “shall” and substituted “3 years” for “2 years”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigned margins, and in subpar. (A), inserted “that undermines the effectiveness of measures required by an international fishery management organization, taking into account whether” before “the relevant” and struck out “vessels of” after “activity by”, and added pars. (2) and (3).
 
-    Subsec. (b). [Pub. L. 114–81, § 101(c)][/us/pl/114/81/s101/c], amended subsec. (b) generally. Prior to amendment, text read as follows: “An identification under subsection (a) or [section 1826k(a) of this title][/us/usc/t16/s1826k/a] is deemed to be an identification under [section 1826a(b)(1)(A) of this title][/us/usc/t16/s1826a/b/1/A], and the Secretary shall notify the President and that nation of such identification.”
+    Subsec. (b). [Pub. L. 114–81][/us/pl/114/81], § 101(c), amended subsec. (b) generally. Prior to amendment, text read as follows: “An identification under subsection (a) or [section 1826k(a) of this title][/us/usc/t16/s1826k/a] is deemed to be an identification under [section 1826a(b)(1)(A) of this title][/us/usc/t16/s1826a/b/1/A], and the Secretary shall notify the President and that nation of such identification.”
 
-    Subsec. (d)(1). [Pub. L. 114–81, § 101(i)(2)][/us/pl/114/81/s101/i/2], struck out “of its fishing vessels” after “offending activities” in introductory provisions.
+    Subsec. (d)(1). [Pub. L. 114–81][/us/pl/114/81], § 101(i)(2), struck out “of its fishing vessels” after “offending activities” in introductory provisions.
 
-    Subsec. (d)(1)(A). [Pub. L. 114–81, § 101(i)(3)][/us/pl/114/81/s101/i/3], struck out “of its fishing vessels” after “offending activities”.
+    Subsec. (d)(1)(A). [Pub. L. 114–81][/us/pl/114/81], § 101(i)(3), struck out “of its fishing vessels” after “offending activities”.
 
-    Subsec. (d)(2). [Pub. L. 114–81, § 101(i)(4)][/us/pl/114/81/s101/i/4], in introductory provisions, substituted “to authorize” for “for certification”, inserted “the importation” after “or other basis”, struck out “harvesting” before “nation”, and substituted “issued a negative certification under paragraph (1)” for “not certified under paragraph (1)”.
+    Subsec. (d)(2). [Pub. L. 114–81][/us/pl/114/81], § 101(i)(4), in introductory provisions, substituted “to authorize” for “for certification”, inserted “the importation” after “or other basis”, struck out “harvesting” before “nation”, and substituted “issued a negative certification under paragraph (1)” for “not certified under paragraph (1)”.
 
-    Subsec. (d)(3)(A)(i). [Pub. L. 114–81, § 101(e)][/us/pl/114/81/s101/e], struck out “that has not been certified by the Secretary under this subsection, or” after “subsection (a)”.
+    Subsec. (d)(3)(A)(i). [Pub. L. 114–81][/us/pl/114/81], § 101(e), struck out “that has not been certified by the Secretary under this subsection, or” after “subsection (a)”.
 
     2011—Subsec. (e)(3)(A). [Pub. L. 111–348][/us/pl/111/348] substituted “bycatch reduction requirements, and shark conservation measures;” for “and bycatch reduction requirements;”.
 
@@ -151,25 +151,25 @@
 [/us/usc/t16/s1826h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826h
 [/us/usc/t16/s1826h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826h
 [/us/usc/t16/s1826h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826h
-[/us/pl/104/43/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs609
-[/us/pl/109/479/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs403%2Fa
+[/us/pl/104/43/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtVI
+[/us/pl/109/479/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtIV
 [/us/stat/120/3628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3628
-[/us/pl/111/348/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F348%2Fs102%2Fb
+[/us/pl/111/348/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F348%2FtI
 [/us/stat/124/3669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3669
-[/us/pl/114/81/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs101%2Fc
+[/us/pl/114/81/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2FtI
 [/us/stat/129/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F654
 [/us/usc/t16/s1826a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826a%2Fa
 [/us/pl/104/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43
 [/us/stat/109/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F391
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
-[/us/pl/114/81/s101/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs101%2Fg%2F1
-[/us/pl/114/81/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs101%2Fc
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
 [/us/usc/t16/s1826k/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826k%2Fa
 [/us/usc/t16/s1826a/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826a%2Fb%2F1%2FA
-[/us/pl/114/81/s101/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs101%2Fi%2F2
-[/us/pl/114/81/s101/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs101%2Fi%2F3
-[/us/pl/114/81/s101/i/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs101%2Fi%2F4
-[/us/pl/114/81/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs101%2Fe
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
 [/us/pl/111/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F348
 
 

@@ -43,7 +43,7 @@
 
         (3) For purposes of applying this subsection, ownership shall be determined as of July 1, 1991.
 
-([Pub. L. 86–321, § 2][/us/pl/86/321/s2], Sept. 21, 1959, [73 Stat. 591][/us/stat/73/591]; [Pub. L. 102–488, § 2(3)][/us/pl/102/488/s2/3]\[(2)\], Oct. 24, 1992, [106 Stat. 3135][/us/stat/106/3135].)
+([Pub. L. 86–321][/us/pl/86/321], § 2, Sept. 21, 1959, [73 Stat. 591][/us/stat/73/591]; [Pub. L. 102–488][/us/pl/102/488], § 2(3)\[(2)\], Oct. 24, 1992, [106 Stat. 3135][/us/stat/106/3135].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 
  __Boundary Adjustment__ 
 
-[Pub. L. 111–11, title VII, § 7106][/us/pl/111/11/s7106], Mar. 30, 2009, [123 Stat. 1193][/us/stat/123/1193], provided that:
+[Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7106, Mar. 30, 2009, [123 Stat. 1193][/us/stat/123/1193], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -110,16 +110,16 @@
 ----------
 ----------
 
-[/us/pl/86/321/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F321%2Fs2
+[/us/pl/86/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F321
 [/us/stat/73/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F591
-[/us/pl/102/488/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F488%2Fs2%2F3
+[/us/pl/102/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F488
 [/us/stat/106/3135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3135
 [/us/pl/102/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F488
 [/us/stat/106/3135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3135
 [/us/usc/t16/s410s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410s
 [/us/usc/t16/s410s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410s
 [/us/pl/102/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F488
-[/us/pl/111/11/s7106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7106
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1193
 
 

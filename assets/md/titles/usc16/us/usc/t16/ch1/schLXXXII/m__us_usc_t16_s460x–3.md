@@ -45,13 +45,13 @@
 
         (2) matters relating to the implementation of the General Management Plan provided for in [section 460x–5(b) of this title][/us/usc/t16/s460x–5/b].
 
-([Pub. L. 91–479, § 4][/us/pl/91/479/s4], Oct. 21, 1970, [84 Stat. 1076][/us/stat/84/1076]; [Pub. L. 100–558][/us/pl/100/558], Oct. 28, 1988, [102 Stat. 2796][/us/stat/102/2796].)
+([Pub. L. 91–479][/us/pl/91/479], § 4, Oct. 21, 1970, [84 Stat. 1076][/us/stat/84/1076]; [Pub. L. 100–558][/us/pl/100/558], Oct. 28, 1988, [102 Stat. 2796][/us/stat/102/2796].)
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–558, § 1(1)][/us/pl/100/558/s1/1], substituted “twenty” for “ten”.
+    1988—Subsec. (a). [Pub. L. 100–558][/us/pl/100/558], § 1(1), substituted “twenty” for “ten”.
 
-    Subsec. (e). [Pub. L. 100–558, § 1(2)][/us/pl/100/558/s1/2], amended subsec. (e) generally, designating existing provisions as par. (1) and adding par. (2).
+    Subsec. (e). [Pub. L. 100–558][/us/pl/100/558], § 1(2), amended subsec. (e) generally, designating existing provisions as par. (1) and adding par. (2).
 
 ----------
 
@@ -62,11 +62,11 @@
 
 [/us/usc/t16/s460x–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460x%E2%80%931
 [/us/usc/t16/s460x–5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460x%E2%80%935%2Fb
-[/us/pl/91/479/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F479%2Fs4
+[/us/pl/91/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F479
 [/us/stat/84/1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1076
 [/us/pl/100/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F558
 [/us/stat/102/2796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2796
-[/us/pl/100/558/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F558%2Fs1%2F1
-[/us/pl/100/558/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F558%2Fs1%2F2
+[/us/pl/100/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F558
+[/us/pl/100/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F558
 
 

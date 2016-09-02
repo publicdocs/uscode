@@ -35,7 +35,7 @@
 
         The purpose of this chapter is to support and encourage the development, implementation, and enforcement of effective interstate conservation and management of Atlantic coastal fishery resources.
 
-([Pub. L. 103–206, title VIII, § 802][/us/pl/103/206/s802], Dec. 20, 1993, [107 Stat. 2447][/us/stat/107/2447]; [Pub. L. 106–555, title I, § 122(b)(1)(A)][/us/pl/106/555/s122/b/1/A], Dec. 21, 2000, [114 Stat. 2766][/us/stat/114/2766].)
+([Pub. L. 103–206, title VIII][/us/pl/103/206/tVIII], § 802, Dec. 20, 1993, [107 Stat. 2447][/us/stat/107/2447]; [Pub. L. 106–555, title I][/us/pl/106/555/tI], § 122(b)(1)(A), Dec. 21, 2000, [114 Stat. 2766][/us/stat/114/2766].)
 
  __References in Text__ 
 
@@ -47,13 +47,13 @@
 
  __Short Title of 2000 Amendment__ 
 
-[Pub. L. 106–555, title I, § 121][/us/pl/106/555/s121], Dec. 21, 2000, [114 Stat. 2766][/us/stat/114/2766], provided that: 
+[Pub. L. 106–555, title I][/us/pl/106/555/tI], § 121, Dec. 21, 2000, [114 Stat. 2766][/us/stat/114/2766], provided that: 
 
 > “This subtitle \[subtitle B (§§ 121, 122) of title I of [Pub. L. 106–555][/us/pl/106/555], amending this section and sections 5102, 5103, 5106, and 5107a to 5108 of this title and enacting provisions set out as a note under [section 5107 of this title][/us/usc/t16/s5107]\] may be cited as the ‘Atlantic Coastal Fisheries Act of 2000’.”
 
  __Short Title__ 
 
-[Pub. L. 103–206, title VIII, § 801][/us/pl/103/206/s801], Dec. 20, 1993, [107 Stat. 2447][/us/stat/107/2447], provided that: 
+[Pub. L. 103–206, title VIII][/us/pl/103/206/tVIII], § 801, Dec. 20, 1993, [107 Stat. 2447][/us/stat/107/2447], provided that: 
 
 > “This title \[enacting this chapter and amending [section 4107 of this title][/us/usc/t16/s4107] and provisions set out as a note under [section 1851 of this title][/us/usc/t16/s1851]\] may be cited as the ‘Atlantic Coastal Fisheries Cooperative Management Act’.”
 
@@ -64,18 +64,18 @@
 ----------
 ----------
 
-[/us/pl/103/206/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs802
+[/us/pl/103/206/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtVIII
 [/us/stat/107/2447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2447
-[/us/pl/106/555/s122/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F555%2Fs122%2Fb%2F1%2FA
+[/us/pl/106/555/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F555%2FtI
 [/us/stat/114/2766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2766
 [/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
 [/us/stat/107/2447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2447
 [/us/pl/106/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F555
-[/us/pl/106/555/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F555%2Fs121
+[/us/pl/106/555/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F555%2FtI
 [/us/stat/114/2766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2766
 [/us/pl/106/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F555
 [/us/usc/t16/s5107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5107
-[/us/pl/103/206/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs801
+[/us/pl/103/206/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtVIII
 [/us/stat/107/2447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2447
 [/us/usc/t16/s4107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4107
 [/us/usc/t16/s1851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1851

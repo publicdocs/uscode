@@ -17,7 +17,7 @@
 
     The Secretary shall permit hunting, fishing, and trapping on the lands and waters under his jurisdiction within the recreation area in accordance with the applicable Federal and State laws: Provided, That the Secretary, after consultation with the respective State fish and game commissions, may issue regulations designating zones where and establishing periods when no hunting, fishing, or trapping shall be permitted for reasons of public safety, administration, or public use and enjoyment. Nothing in this subchapter shall affect the jurisdiction or responsibilities of the States of Utah and Wyoming under other provisions of State laws with respect to hunting and fishing.
 
-([Pub. L. 90–540, § 4][/us/pl/90/540/s4], Oct. 1, 1968, [82 Stat. 904][/us/stat/82/904].)
+([Pub. L. 90–540][/us/pl/90/540], § 4, Oct. 1, 1968, [82 Stat. 904][/us/stat/82/904].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/540/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F540%2Fs4
+[/us/pl/90/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F540
 [/us/stat/82/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F904
 
 

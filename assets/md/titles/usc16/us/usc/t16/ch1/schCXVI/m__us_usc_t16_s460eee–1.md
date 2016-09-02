@@ -41,7 +41,7 @@
 
         For purposes of administering the recreation area, the Secretary may enter into cooperative agreements with any Federal agency, the State of Texas, or any political subdivision thereof, including the Canadian River Municipal Water Authority, for the rendering, on a reimbursable basis, of rescue, firefighting, law enforcement, fire preventive assistance, and other needs. The Secretary may enter into a cooperative agreement with the city of Fritch, Texas, to develop and operate a joint venture information center. Federal funds may be expended on non-Federal lands and improvements through cooperative agreements for the purpose of this section on a 50–50 matching basis.
 
-([Pub. L. 101–628, title V, § 503][/us/pl/101/628/s503], Nov. 28, 1990, [104 Stat. 4493][/us/stat/104/4493]; [Pub. L. 103–437, § 6(d)(24)][/us/pl/103/437/s6/d/24], Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
+([Pub. L. 101–628, title V][/us/pl/101/628/tV], § 503, Nov. 28, 1990, [104 Stat. 4493][/us/stat/104/4493]; [Pub. L. 103–437][/us/pl/103/437], § 6(d)(24), Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
 
  __References in Text__ 
 
@@ -69,9 +69,9 @@
 [/us/stat/60/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F885
 [/us/pl/81/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F81%2F898
 [/us/usc/t43/s600b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs600b
-[/us/pl/101/628/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628%2Fs503
+[/us/pl/101/628/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628%2FtV
 [/us/stat/104/4493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4493
-[/us/pl/103/437/s6/d/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fd%2F24
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4584
 [/us/pl/101/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628
 [/us/stat/104/4469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4469

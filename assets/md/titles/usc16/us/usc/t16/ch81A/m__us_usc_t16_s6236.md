@@ -35,7 +35,7 @@
 
             (B) to include nondiscretionary environmental standards or to conform with current law.
 
-([Pub. L. 108–7, div. F, title V, § 507][/us/pl/108/7/s507], Feb. 20, 2003, [117 Stat. 297][/us/stat/117/297].)
+([Pub. L. 108–7, div. F, title V][/us/pl/108/7/dF/tV], § 507, Feb. 20, 2003, [117 Stat. 297][/us/stat/117/297].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/108/7/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs507
+[/us/pl/108/7/dF/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtV
 [/us/stat/117/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F297
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

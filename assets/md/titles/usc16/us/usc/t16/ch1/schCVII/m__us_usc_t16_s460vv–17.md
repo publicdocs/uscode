@@ -17,7 +17,7 @@
 
     The Secretary shall cooperate with other Federal agencies, with State and local public agencies and bodies, and with private individuals and organizations in the issuance of permits for facilities, services, and recreational facilities in the Winding Stair Mountain National Recreation and Wilderness Area. In issuing such permits, the Secretary is authorized and encouraged to consider local nonprofit entities and the private sector.
 
-([Pub. L. 100–499, § 19][/us/pl/100/499/s19], Oct. 18, 1988, [102 Stat. 2499][/us/stat/102/2499].)
+([Pub. L. 100–499][/us/pl/100/499], § 19, Oct. 18, 1988, [102 Stat. 2499][/us/stat/102/2499].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/499/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F499%2Fs19
+[/us/pl/100/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F499
 [/us/stat/102/2499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2499
 
 

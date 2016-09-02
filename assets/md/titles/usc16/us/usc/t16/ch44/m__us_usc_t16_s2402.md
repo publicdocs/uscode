@@ -77,7 +77,7 @@
 
     (23) the term “vessel subject to the jurisdiction of the United States” includes any “vessel of the United States” and any “vessel subject to the jurisdiction of the United States” as those terms are defined in [section 2432 of this title][/us/usc/t16/s2432].
 
-([Pub. L. 95–541, § 3][/us/pl/95/541/s3], Oct. 28, 1978, [92 Stat. 2048][/us/stat/92/2048]; [Pub. L. 104–227, title I, § 102][/us/pl/104/227/s102], Oct. 2, 1996, [110 Stat. 3035][/us/stat/110/3035].)
+([Pub. L. 95–541][/us/pl/95/541], § 3, Oct. 28, 1978, [92 Stat. 2048][/us/stat/92/2048]; [Pub. L. 104–227, title I][/us/pl/104/227/tI], § 102, Oct. 2, 1996, [110 Stat. 3035][/us/stat/110/3035].)
 
  __Amendments__ 
 
@@ -96,9 +96,9 @@
 
 [/us/usc/t1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs1
 [/us/usc/t16/s2432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2432
-[/us/pl/95/541/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F541%2Fs3
+[/us/pl/95/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F541
 [/us/stat/92/2048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2048
-[/us/pl/104/227/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2Fs102
+[/us/pl/104/227/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2FtI
 [/us/stat/110/3035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3035
 [/us/pl/104/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331

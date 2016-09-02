@@ -41,7 +41,7 @@
 
         After consultation with the Secretary of State and the Secretary of the Treasury, as appropriate, the Secretary may conduct or cause to be conducted such law enforcement investigations and research abroad as he deems necessary to carry out the purposes of this chapter.
 
-([Pub. L. 93–205, § 8][/us/pl/93/205/s8], Dec. 28, 1973, [87 Stat. 892][/us/stat/87/892]; [Pub. L. 96–159, § 5][/us/pl/96/159/s5], Dec. 28, 1979, [93 Stat. 1228][/us/stat/93/1228]; [Pub. L. 110–246, title III, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(N), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820].)
+([Pub. L. 93–205][/us/pl/93/205], § 8, Dec. 28, 1973, [87 Stat. 892][/us/stat/87/892]; [Pub. L. 96–159][/us/pl/96/159], § 5, Dec. 28, 1979, [93 Stat. 1228][/us/stat/93/1228]; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3001(b)(1)(A), (2)(N), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820].)
 
  __References in Text__ 
 
@@ -51,19 +51,19 @@
 
  __Codification__ 
 
-    In subsec. (a), “[section 1306 of title 31][/us/usc/t31/s1306]” substituted for “section 1415 of the Supplemental Appropriation Act, 1953 ([31 U.S.C. 724][/us/usc/t31/s724])” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (a), “[section 1306 of title 31][/us/usc/t31/s1306]” substituted for “section 1415 of the Supplemental Appropriation Act, 1953 ([31 U.S.C. 724][/us/usc/t31/s724])” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
     2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246] substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
-    1979—Subsec. (b)(1). [Pub. L. 96–159, § 5(1)][/us/pl/96/159/s5/1], encouraged conservation of plants.
+    1979—Subsec. (b)(1). [Pub. L. 96–159][/us/pl/96/159], § 5(1), encouraged conservation of plants.
 
-    Subsec. (b)(3). [Pub. L. 96–159, § 5(2)][/us/pl/96/159/s5/2], encouraged conservation practices for enhancement of plants taken for importation into the United States.
+    Subsec. (b)(3). [Pub. L. 96–159][/us/pl/96/159], § 5(2), encouraged conservation practices for enhancement of plants taken for importation into the United States.
 
-    Subsec. (c)(1). [Pub. L. 96–159, § 5(3)][/us/pl/96/159/s5/3], made personnel available for plant conservation.
+    Subsec. (c)(1). [Pub. L. 96–159][/us/pl/96/159], § 5(3), made personnel available for plant conservation.
 
-    Subsec. (e). [Pub. L. 96–159, § 5(4)][/us/pl/96/159/s5/4], struck out subsec. (e) relating to Convention implementation.
+    Subsec. (e). [Pub. L. 96–159][/us/pl/96/159], § 5(4), struck out subsec. (e) relating to Convention implementation.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -71,7 +71,7 @@
 
  __Conservation of Sea Turtles; Importation of Shrimp__ 
 
-[Pub. L. 101–162, title VI, § 609][/us/pl/101/162/s609], Nov. 21, 1989, [103 Stat. 1037][/us/stat/103/1037], provided that:
+[Pub. L. 101–162, title VI][/us/pl/101/162/tVI], § 609, Nov. 21, 1989, [103 Stat. 1037][/us/stat/103/1037], provided that:
 
 >     “(a)
 
@@ -145,11 +145,11 @@
 [/us/usc/t16/s1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1533
 [/us/usc/t16/s1542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1542
 [/us/usc/t16/s1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1533
-[/us/pl/93/205/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205%2Fs8
+[/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F892
-[/us/pl/96/159/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159%2Fs5
+[/us/pl/96/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159
 [/us/stat/93/1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1228
-[/us/pl/110/246/s3001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fb%2F1%2FA
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1820
 [/us/act/1954-07-10/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch469
 [/us/stat/68/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F454
@@ -159,17 +159,17 @@
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/usc/t31/s1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1306
 [/us/usc/t31/s724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs724
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
-[/us/pl/96/159/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159%2Fs5%2F1
-[/us/pl/96/159/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159%2Fs5%2F2
-[/us/pl/96/159/s5/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159%2Fs5%2F3
-[/us/pl/96/159/s5/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159%2Fs5%2F4
+[/us/pl/96/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159
+[/us/pl/96/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159
+[/us/pl/96/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159
+[/us/pl/96/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fb
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/101/162/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162%2Fs609
+[/us/pl/101/162/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162%2FtVI
 [/us/stat/103/1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1037
 [/us/pl/101/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

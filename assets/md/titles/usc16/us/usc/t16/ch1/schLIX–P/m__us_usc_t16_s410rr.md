@@ -21,11 +21,11 @@
 
     (2) to provide for the preservation and interpretation of the cultural and natural resources of the Forked Lightning Ranch by establishing the Pecos National Historical Park.
 
-([Pub. L. 101–313, title II, § 201][/us/pl/101/313/s201], June 27, 1990, [104 Stat. 278][/us/stat/104/278].)
+([Pub. L. 101–313, title II][/us/pl/101/313/tII], § 201, June 27, 1990, [104 Stat. 278][/us/stat/104/278].)
 
  __Short Title of 1990 Amendment__ 
 
-[Pub. L. 101–536, § 1][/us/pl/101/536/s1], Nov. 8, 1990, [104 Stat. 2368][/us/stat/104/2368], provided that: 
+[Pub. L. 101–536][/us/pl/101/536], § 1, Nov. 8, 1990, [104 Stat. 2368][/us/stat/104/2368], provided that: 
 
 > “This Act \[enacting [section 410rr–7 of this title][/us/usc/t16/s410rr–7] and provisions set out as a note under [section 410rr–7 of this title][/us/usc/t16/s410rr–7]\] may be cited as the ‘Pecos National Historical Park Expansion Act of 1990’.”
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/101/313/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F313%2Fs201
+[/us/pl/101/313/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F313%2FtII
 [/us/stat/104/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F278
-[/us/pl/101/536/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F536%2Fs1
+[/us/pl/101/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F536
 [/us/stat/104/2368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2368
 [/us/usc/t16/s410rr–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410rr%E2%80%937
 [/us/usc/t16/s410rr–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410rr%E2%80%937

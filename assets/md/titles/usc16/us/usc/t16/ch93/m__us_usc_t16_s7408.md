@@ -23,7 +23,7 @@
 
         In carrying out subsection (a), the Secretary may, by agreement, on a reimbursable or nonreimbursable basis, utilize the personnel, services, equipment, and facilities of any Federal, State, local, or foreign government or any entity of any such government.
 
-([Pub. L. 114–81, title III, § 309][/us/pl/114/81/s309], Nov. 5, 2015, [129 Stat. 669][/us/stat/129/669].)
+([Pub. L. 114–81, title III][/us/pl/114/81/tIII], § 309, Nov. 5, 2015, [129 Stat. 669][/us/stat/129/669].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/114/81/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs309
+[/us/pl/114/81/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2FtIII
 [/us/stat/129/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F669
 
 

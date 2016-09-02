@@ -29,11 +29,11 @@
 
     (b) The purpose of this chapter is to secure, for the present and future benefit of the American people, the protection of archaeological resources and sites which are on public lands and Indian lands, and to foster increased cooperation and exchange of information between governmental authorities, the professional archaeological community, and private individuals having collections of archaeological resources and data which were obtained before October 31, 1979.
 
-([Pub. L. 96–95, § 2][/us/pl/96/95/s2], Oct. 31, 1979, [93 Stat. 721][/us/stat/93/721].)
+([Pub. L. 96–95][/us/pl/96/95], § 2, Oct. 31, 1979, [93 Stat. 721][/us/stat/93/721].)
 
  __Short Title__ 
 
-[Pub. L. 96–95, § 1][/us/pl/96/95/s1], Oct. 31, 1979, [93 Stat. 721][/us/stat/93/721], provided that: 
+[Pub. L. 96–95][/us/pl/96/95], § 1, Oct. 31, 1979, [93 Stat. 721][/us/stat/93/721], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Archaeological Resources Protection Act of 1979’.”
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/96/95/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95%2Fs2
+[/us/pl/96/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95
 [/us/stat/93/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F721
-[/us/pl/96/95/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95%2Fs1
+[/us/pl/96/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95
 [/us/stat/93/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F721
 [/us/pl/108/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F208
 [/us/stat/118/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F558

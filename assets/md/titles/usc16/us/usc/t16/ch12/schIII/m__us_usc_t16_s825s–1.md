@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    The First Supplemental National Defense Appropriation Act, 1944, referred to in text, was [act Dec. 23, 1943, ch. 380][/us/act/1943-12-23/ch380], title I, § 101, [57 Stat. 621][/us/stat/57/621], which was not classified to the Code.
+    The First Supplemental National Defense Appropriation Act, 1944, referred to in text, was [act Dec. 23, 1943, ch. 380, title I][/us/act/1943-12-23/ch380/tI], § 101, [57 Stat. 621][/us/stat/57/621], which was not classified to the Code.
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 
  __Use of Fund To Pay for Purchase Power and Wheeling Expenses To Meet Contractual Obligations During Periods of Below-Average Hydropower Generation__ 
 
-[Pub. L. 101–101, title III][/us/pl/101/101], Sept. 29, 1989, [103 Stat. 660][/us/stat/103/660], provided: 
+[Pub. L. 101–101, title III][/us/pl/101/101/tIII], Sept. 29, 1989, [103 Stat. 660][/us/stat/103/660], provided: 
 
 > “That the continuing fund established by the Act of October 12, 1949, c. 680, title I, section 101, as amended \[[16 U.S.C. 825s–1][/us/usc/t16/s825s–1]\], shall also be available on an ongoing basis for paying for purchase power and wheeling expenses when the Administrator determines that such expenditures are necessary to meet contractual obligations for the sale and delivery of power during periods of below-average hydropower generation. Payments from the continuing fund shall be limited to the amount required to replace the generation deficiency, and only for the project where the deficiency occurred. Replenishment of the fund shall occur within twelve months of the month in which the funds were first expended.”
 
@@ -52,9 +52,9 @@
 [/us/stat/63/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F767
 [/us/act/1951-08-31/ch375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-31%2Fch375
 [/us/stat/65/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F249
-[/us/act/1943-12-23/ch380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-12-23%2Fch380
+[/us/act/1943-12-23/ch380/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-12-23%2Fch380%2FtI
 [/us/stat/57/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F621
-[/us/pl/101/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F101
+[/us/pl/101/101/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F101%2FtIII
 [/us/stat/103/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F660
 [/us/usc/t16/s825s–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs825s%E2%80%931
 

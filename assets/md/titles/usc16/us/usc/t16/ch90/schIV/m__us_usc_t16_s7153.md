@@ -23,11 +23,11 @@
 
         All revenues generated from projects pursuant to subchapter II, including any interest accrued from the revenues, shall be deposited in the Treasury of the United States.
 
-([Pub. L. 106–393, title IV, § 403][/us/pl/106/393/s403], as added [Pub. L. 110–343, div. C, title VI, § 601(a)][/us/pl/110/343/s601/a], Oct. 3, 2008, [122 Stat. 3910][/us/stat/122/3910].)
+([Pub. L. 106–393, title IV][/us/pl/106/393/tIV], § 403, as added [Pub. L. 110–343, div. C, title VI][/us/pl/110/343/dC/tVI], § 601(a), Oct. 3, 2008, [122 Stat. 3910][/us/stat/122/3910].)
 
  __Prior Provisions__ 
 
-    A prior [section 403 of Pub. L. 106–393][/us/pl/106/393/s403] was set out in a note under [section 500 of this title][/us/usc/t16/s500] prior to repeal by [Pub. L. 110–343, div. C, title VI, § 601(a)][/us/pl/110/343/s601/a], Oct. 3, 2008, [122 Stat. 3893][/us/stat/122/3893].
+    A prior [section 403 of Pub. L. 106–393][/us/pl/106/393/s403] was set out in a note under [section 500 of this title][/us/usc/t16/s500] prior to repeal by [Pub. L. 110–343, div. C, title VI][/us/pl/110/343/dC/tVI], § 601(a), Oct. 3, 2008, [122 Stat. 3893][/us/stat/122/3893].
 
 ----------
 
@@ -38,12 +38,12 @@
 
 [/us/usc/t16/s7152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7152
 [/us/usc/t16/s7126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7126
-[/us/pl/106/393/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393%2Fs403
-[/us/pl/110/343/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs601%2Fa
+[/us/pl/106/393/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393%2FtIV
+[/us/pl/110/343/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtVI
 [/us/stat/122/3910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3910
 [/us/pl/106/393/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393%2Fs403
 [/us/usc/t16/s500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs500
-[/us/pl/110/343/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs601%2Fa
+[/us/pl/110/343/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtVI
 [/us/stat/122/3893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3893
 
 

@@ -23,7 +23,7 @@
 
         As soon as practicable after October 30, 1998, the Secretary shall transfer jurisdiction over the Federal land contained in the Lost Spring Canyon Addition from the Bureau of Land Management to the National Park Service.
 
-([Pub. L. 92–155, § 2][/us/pl/92/155/s2], Nov. 12, 1971, [85 Stat. 422][/us/stat/85/422]; [Pub. L. 105–329, § 2(b)][/us/pl/105/329/s2/b], Oct. 30, 1998, [112 Stat. 3060][/us/stat/112/3060].)
+([Pub. L. 92–155][/us/pl/92/155], § 2, Nov. 12, 1971, [85 Stat. 422][/us/stat/85/422]; [Pub. L. 105–329][/us/pl/105/329], § 2(b), Oct. 30, 1998, [112 Stat. 3060][/us/stat/112/3060].)
 
  __Amendments__ 
 
@@ -37,9 +37,9 @@
 ----------
 
 [/us/usc/t16/s272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs272
-[/us/pl/92/155/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F155%2Fs2
+[/us/pl/92/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F155
 [/us/stat/85/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F422
-[/us/pl/105/329/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F329%2Fs2%2Fb
+[/us/pl/105/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F329
 [/us/stat/112/3060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3060
 [/us/pl/105/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F329
 

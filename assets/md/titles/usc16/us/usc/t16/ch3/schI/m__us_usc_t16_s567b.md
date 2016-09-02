@@ -39,7 +39,7 @@
 
     (k) When a State or political unit thereof acquires under tax delinquency laws title to forest lands without cost to the United States and which lands are included within a State or other public forest, the Secretary of Agriculture, on behalf of the Federal Government, may contribute annually out of any funds made available under sections 567a to 567c of this title not to exceed one-half the cost of administering, developing, and managing said lands.
 
-([Aug. 29, 1935, ch. 808, § 2][/us/act/1935-08-29/ch808/s2], [49 Stat. 963][/us/stat/49/963].)
+([Aug. 29, 1935, ch. 808][/us/act/1935-08-29/ch808], § 2, [49 Stat. 963][/us/stat/49/963].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/usc/t16/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs513
-[/us/act/1935-08-29/ch808/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch808%2Fs2
+[/us/act/1935-08-29/ch808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch808
 [/us/stat/49/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F963
 [/us/usc/t16/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs513
 [/us/pl/94/588/s17/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588%2Fs17%2Fa%2F1

@@ -105,7 +105,7 @@
 
         Amounts authorized under subsection (c) are intended by Congress to be provided in addition to the base funding appropriated to the National Oceanic and Atmospheric Administration in fiscal year 2000.
 
-([Pub. L. 89–702, title II, § 206][/us/pl/89/702/s206], Nov. 2, 1966, [80 Stat. 1094][/us/stat/80/1094]; [Pub. L. 98–129, § 2][/us/pl/98/129/s2], Oct. 14, 1983, [97 Stat. 840][/us/stat/97/840]; [Pub. L. 100–711, § 9][/us/pl/100/711/s9], Nov. 23, 1988, [102 Stat. 4772][/us/stat/102/4772]; [Pub. L. 101–512, title I][/us/pl/101/512], Nov. 5, 1990, [104 Stat. 1931][/us/stat/104/1931]; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 144(e)(3)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–244; [Pub. L. 106–562, title I, § 103][/us/pl/106/562/s103], Dec. 23, 2000, [114 Stat. 2794][/us/stat/114/2794]; [Pub. L. 109–59, title IV, § 4403][/us/pl/109/59/s4403], Aug. 10, 2005, [119 Stat. 1775][/us/stat/119/1775].)
+([Pub. L. 89–702, title II][/us/pl/89/702/tII], § 206, Nov. 2, 1966, [80 Stat. 1094][/us/stat/80/1094]; [Pub. L. 98–129][/us/pl/98/129], § 2, Oct. 14, 1983, [97 Stat. 840][/us/stat/97/840]; [Pub. L. 100–711][/us/pl/100/711], § 9, Nov. 23, 1988, [102 Stat. 4772][/us/stat/102/4772]; [Pub. L. 101–512, title I][/us/pl/101/512/tI], Nov. 5, 1990, [104 Stat. 1931][/us/stat/104/1931]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 144(e)(3)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–244; [Pub. L. 106–562, title I][/us/pl/106/562/tI], § 103, Dec. 23, 2000, [114 Stat. 2794][/us/stat/114/2794]; [Pub. L. 109–59, title IV][/us/pl/109/59/tIV], § 4403, Aug. 10, 2005, [119 Stat. 1775][/us/stat/119/1775].)
 
  __References in Text__ 
 
@@ -113,9 +113,9 @@
 
  __Amendments__ 
 
-    2005—Subsec. (c). [Pub. L. 109–59, § 4403(1)][/us/pl/109/59/s4403/1], struck out “for fiscal years 2001, 2002, 2003, 2004, and 2005” after “Secretary” in introductory provisions.
+    2005—Subsec. (c). [Pub. L. 109–59][/us/pl/109/59], § 4403(1), struck out “for fiscal years 2001, 2002, 2003, 2004, and 2005” after “Secretary” in introductory provisions.
 
-    Subsec. (c)(1). [Pub. L. 109–59, § 4403(2)][/us/pl/109/59/s4403/2], inserted “, for fiscal years 2001, 2002, 2003, 2004, 2005, 2006, and 2007” after “subsection (a)” in introductory provisions.
+    Subsec. (c)(1). [Pub. L. 109–59][/us/pl/109/59], § 4403(2), inserted “, for fiscal years 2001, 2002, 2003, 2004, 2005, 2006, and 2007” after “subsection (a)” in introductory provisions.
 
     2000—[Pub. L. 106–562][/us/pl/106/562] amended section generally, inserting section catchline and subsec. and par. headings and reenacting substantially identical text.
 
@@ -140,25 +140,25 @@
 
 [/us/usc/t25/s458aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs458aa
 [/us/usc/t33/s1263a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1263a
-[/us/pl/89/702/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2Fs206
+[/us/pl/89/702/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2FtII
 [/us/stat/80/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1094
-[/us/pl/98/129/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129%2Fs2
+[/us/pl/98/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129
 [/us/stat/97/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F840
-[/us/pl/100/711/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711%2Fs9
+[/us/pl/100/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711
 [/us/stat/102/4772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4772
-[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2FtI
 [/us/stat/104/1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1931
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/106/562/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs103
+[/us/pl/106/562/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2FtI
 [/us/stat/114/2794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2794
-[/us/pl/109/59/s4403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4403
+[/us/pl/109/59/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtIV
 [/us/stat/119/1775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1775
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/109/59/s4403/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4403%2F1
-[/us/pl/109/59/s4403/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4403%2F2
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/106/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512

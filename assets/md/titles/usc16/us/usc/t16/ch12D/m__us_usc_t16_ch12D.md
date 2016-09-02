@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs835" data-uslm-ref="/us/usc/t16/s835">835</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs835l" data-uslm-ref="/us/usc/t16/s835l">835l.</a>  </td>
 
     <td> Congressional declaration of financial policy; limitations on assistance; analyses and studies; “net revenues” defined.  </td>
 

@@ -209,7 +209,7 @@
 
         Except as to resources under construction on December 5, 1980, the Administrator shall determine in each case of a major resource acquisition that a reasonable share of the particular resource, or a reasonable equivalent, has been offered to each Pacific Northwest electric utility for ownership, participation, or other sponsorship, but not in excess of the amounts needed to meet such utility’s Regional load.
 
-([Pub. L. 96–501, § 6][/us/pl/96/501/s6], Dec. 5, 1980, [94 Stat. 2717][/us/stat/94/2717].)
+([Pub. L. 96–501][/us/pl/96/501], § 6, Dec. 5, 1980, [94 Stat. 2717][/us/stat/94/2717].)
 
  __References in Text__ 
 
@@ -259,7 +259,7 @@
 [/us/usc/t16/s838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs838
 [/us/usc/t16/s839b/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs839b%2Fe%2F1
 [/us/usc/t16/s839b/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs839b%2Fe%2F2
-[/us/pl/96/501/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501%2Fs6
+[/us/pl/96/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501
 [/us/stat/94/2717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2717
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

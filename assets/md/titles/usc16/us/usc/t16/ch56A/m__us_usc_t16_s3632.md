@@ -95,7 +95,7 @@
 
         In carrying out their functions under the Treaty, the Commissioners and Panel members may consult with such other interested parties as they consider appropriate. The Federal Advisory Committee Act \[5 U.S.C. App.\] shall not apply.
 
-([Pub. L. 99–5, § 3][/us/pl/99/5/s3], Mar. 15, 1985, [99 Stat. 8][/us/stat/99/8]; [Pub. L. 99–5, § 16(c)][/us/pl/99/5/s16/c], formerly [Pub. L. 106–113, div. B, § 1000(a)(1)][/us/pl/106/113/s1000/a/1] \[title VI, § 623(c)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–59, renumbered [Pub. L. 109–479, title III, § 302(d)(1)][/us/pl/109/479/s302/d/1], Jan. 12, 2007, [120 Stat. 3623][/us/stat/120/3623]; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 144(c)(5)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–239.)
+([Pub. L. 99–5][/us/pl/99/5], § 3, Mar. 15, 1985, [99 Stat. 8][/us/stat/99/8]; [Pub. L. 99–5][/us/pl/99/5], § 16(c), formerly [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(1) \[title VI, § 623(c)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–59, renumbered [Pub. L. 109–479, title III][/us/pl/109/479/tIII], § 302(d)(1), Jan. 12, 2007, [120 Stat. 3623][/us/stat/120/3623]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 144(c)(5)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–239.)
 
  __References in Text__ 
 
@@ -103,19 +103,19 @@
 
  __Amendments__ 
 
-    2000—Subsec. (f). [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 144(c)(5)(A)\], added subsec. (f). Former subsec. (f) redesignated (g).
+    2000—Subsec. (f). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 144(c)(5)(A)\], added subsec. (f). Former subsec. (f) redesignated (g).
 
-    Subsec. (g). [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 144(c)(5)(B), (C)\], redesignated subsec. (f) as (g) and substituted “For the northern, southern, and Fraser River panels, the appointing authorities” for “The appointing authorities”. Former subsec. (g) redesignated (h).
+    Subsec. (g). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 144(c)(5)(B), (C)\], redesignated subsec. (f) as (g) and substituted “For the northern, southern, and Fraser River panels, the appointing authorities” for “The appointing authorities”. Former subsec. (g) redesignated (h).
 
-    Subsec. (h). [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 144(c)(5)(B)\], redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+    Subsec. (h). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 144(c)(5)(B)\], redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
 
-    Subsec. (h)(3). [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 144(c)(5)(D)\], substituted “northern, southern, and transboundary” for “northern and southern”.
+    Subsec. (h)(3). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 144(c)(5)(D)\], substituted “northern, southern, and transboundary” for “northern and southern”.
 
-    Subsec. (i). [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 144(c)(5)(B)\], redesignated subsec. (h) as (i).
+    Subsec. (i). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 144(c)(5)(B)\], redesignated subsec. (h) as (i).
 
-    1999—Subsec. (g)(1). [Pub. L. 99–5, § 16(c)(1)][/us/pl/99/5/s16/c/1], formerly [Pub. L. 106–113, § 1000(a)(1)][/us/pl/106/113/s1000/a/1] \[title II, § 623(c)(1)\], as renumbered by [Pub. L. 109–479, § 302(d)(1)][/us/pl/109/479/s302/d/1], substituted “Except as provided in paragraph (2), the” for “The”.
+    1999—Subsec. (g)(1). [Pub. L. 99–5][/us/pl/99/5], § 16(c)(1), formerly [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(1) \[title II, § 623(c)(1)\], as renumbered by [Pub. L. 109–479][/us/pl/109/479], § 302(d)(1), substituted “Except as provided in paragraph (2), the” for “The”.
 
-    Subsec. (g)(2) to (8). [Pub. L. 99–5, § 16(c)(2)][/us/pl/99/5/s16/c/2], (3), formerly [Pub. L. 106–113, § 1000(a)(1)][/us/pl/106/113/s1000/a/1] \[title II, § 623(c)(2), (3)\], as renumbered by [Pub. L. 109–479, § 302(d)(1)][/us/pl/109/479/s302/d/1], added par. (2) and redesignated former pars. (2) to (7) as (3) to (8), respectively.
+    Subsec. (g)(2) to (8). [Pub. L. 99–5][/us/pl/99/5], § 16(c)(2), (3), formerly [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(1) \[title II, § 623(c)(2), (3)\], as renumbered by [Pub. L. 109–479][/us/pl/109/479], § 302(d)(1), added par. (2) and redesignated former pars. (2) to (7) as (3) to (8), respectively.
 
 ----------
 
@@ -124,27 +124,27 @@
 ----------
 ----------
 
-[/us/pl/99/5/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5%2Fs3
+[/us/pl/99/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5
 [/us/stat/99/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F8
-[/us/pl/99/5/s16/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5%2Fs16%2Fc
-[/us/pl/106/113/s1000/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F1
+[/us/pl/99/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/109/479/s302/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs302%2Fd%2F1
+[/us/pl/109/479/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtIII
 [/us/stat/120/3623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3623
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
-[/us/pl/99/5/s16/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5%2Fs16%2Fc%2F1
-[/us/pl/106/113/s1000/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F1
-[/us/pl/109/479/s302/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs302%2Fd%2F1
-[/us/pl/99/5/s16/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5%2Fs16%2Fc%2F2
-[/us/pl/106/113/s1000/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F1
-[/us/pl/109/479/s302/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs302%2Fd%2F1
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/99/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/99/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
 
 

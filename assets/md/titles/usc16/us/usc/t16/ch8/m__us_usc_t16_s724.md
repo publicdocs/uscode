@@ -19,7 +19,7 @@
 
     (b) The existence of a right of way, easement, or other reservation or exception in respect of such area shall not be a bar to its acquisition (1) if the Secretary of the Interior determines that any such reservation or exception will in no manner interfere with the use of the area for the purposes of this chapter, or (2) if in the deed or other conveyance it is stipulated that any reservation or exception in respect of such area, in favor of the person from whom the United States receives title, shall be subject to regulations prescribed under authority of this chapter.
 
-([June 7, 1924, ch. 346, § 4][/us/act/1924-06-07/ch346/s4], [43 Stat. 650][/us/stat/43/650]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433].)
+([June 7, 1924, ch. 346][/us/act/1924-06-07/ch346], § 4, [43 Stat. 650][/us/stat/43/650]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433].)
 
  __Transfer of Functions__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1924-06-07/ch346/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch346%2Fs4
+[/us/act/1924-06-07/ch346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch346
 [/us/stat/43/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F650
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
 [/us/usc/t16/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs723

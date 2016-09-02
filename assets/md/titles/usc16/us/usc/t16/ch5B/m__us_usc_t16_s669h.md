@@ -97,11 +97,11 @@
 
             (B) a copy of each audit under this subsection.
 
-([Sept. 2, 1937, ch. 899, § 9][/us/act/1937-09-02/ch899/s9], [50 Stat. 919][/us/stat/50/919]; [Pub. L. 106–408, title I, § 111(b)][/us/pl/106/408/s111/b], Nov. 1, 2000, [114 Stat. 1764][/us/stat/114/1764].)
+([Sept. 2, 1937, ch. 899][/us/act/1937-09-02/ch899], § 9, [50 Stat. 919][/us/stat/50/919]; [Pub. L. 106–408, title I][/us/pl/106/408/tI], § 111(b), Nov. 1, 2000, [114 Stat. 1764][/us/stat/114/1764].)
 
  __Codification__ 
 
-    In subsec. (d)(2)(A), “[section 132 of title 41][/us/usc/t41/s132]” substituted for “section 4 of the Office of Federal Procurement Policy Act ([41 U.S.C. 403][/us/usc/t41/s403])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (d)(2)(A), “[section 132 of title 41][/us/usc/t41/s132]” substituted for “section 4 of the Office of Federal Procurement Policy Act ([41 U.S.C. 403][/us/usc/t41/s403])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -123,13 +123,13 @@
 [/us/usc/t16/s669e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs669e
 [/us/usc/t16/s669c/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs669c%2Fa%2F1
 [/us/usc/t41/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs132
-[/us/act/1937-09-02/ch899/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-02%2Fch899%2Fs9
+[/us/act/1937-09-02/ch899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-02%2Fch899
 [/us/stat/50/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F919
-[/us/pl/106/408/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2Fs111%2Fb
+[/us/pl/106/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2FtI
 [/us/stat/114/1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1764
 [/us/usc/t41/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs132
 [/us/usc/t41/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/106/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408
 

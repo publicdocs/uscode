@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall effect  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “affect”. </sup></sup>  any valid existing right.
 
-([Pub. L. 106–399, § 4][/us/pl/106/399/s4], Oct. 30, 2000, [114 Stat. 1658][/us/stat/114/1658].)
+([Pub. L. 106–399][/us/pl/106/399], § 4, Oct. 30, 2000, [114 Stat. 1658][/us/stat/114/1658].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/106/399/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2Fs4
+[/us/pl/106/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399
 [/us/stat/114/1658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1658
 [/us/pl/106/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399
 [/us/stat/114/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1655

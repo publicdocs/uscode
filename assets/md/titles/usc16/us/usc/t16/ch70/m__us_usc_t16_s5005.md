@@ -17,7 +17,7 @@
 
     The Secretary, with the concurrence of the Secretary of Commerce, may accept or reject, on behalf of the United States, recommendations made by the Commission in accordance with article IX of the Convention.
 
-([Pub. L. 102–567, title VIII, § 806][/us/pl/102/567/s806], Oct. 29, 1992, [106 Stat. 4311][/us/stat/106/4311]; [Pub. L. 102–587, title VIII, § 8006][/us/pl/102/587/s8006], Nov. 4, 1992, [106 Stat. 5101][/us/stat/106/5101]; [Pub. L. 106–562, title III, § 304(a)][/us/pl/106/562/s304/a], Dec. 23, 2000, [114 Stat. 2806][/us/stat/114/2806].)
+([Pub. L. 102–567, title VIII][/us/pl/102/567/tVIII], § 806, Oct. 29, 1992, [106 Stat. 4311][/us/stat/106/4311]; [Pub. L. 102–587, title VIII][/us/pl/102/587/tVIII], § 8006, Nov. 4, 1992, [106 Stat. 5101][/us/stat/106/5101]; [Pub. L. 106–562, title III][/us/pl/106/562/tIII], § 304(a), Dec. 23, 2000, [114 Stat. 2806][/us/stat/114/2806].)
 
  __Codification__ 
 
@@ -30,11 +30,11 @@
 ----------
 ----------
 
-[/us/pl/102/567/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs806
+[/us/pl/102/567/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtVIII
 [/us/stat/106/4311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4311
-[/us/pl/102/587/s8006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs8006
+[/us/pl/102/587/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtVIII
 [/us/stat/106/5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5101
-[/us/pl/106/562/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs304%2Fa
+[/us/pl/106/562/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2FtIII
 [/us/stat/114/2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2806
 [/us/pl/102/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567
 [/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587

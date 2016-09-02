@@ -17,7 +17,7 @@
 
     The provisions of the Act of August 25, 1916, entitled “An Act to establish a national park service, and for other purposes,”  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and this subchapter, together with all Acts supplementary to and amendatory of said Act and subchapter are made applicable to and extended over the lands added to the park by [section 355 of this title][/us/usc/t16/s355].
 
-([Mar. 19, 1932, ch. 88, § 2][/us/act/1932-03-19/ch88/s2], [47 Stat. 69][/us/stat/47/69].)
+([Mar. 19, 1932, ch. 88][/us/act/1932-03-19/ch88], § 2, [47 Stat. 69][/us/stat/47/69].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t16/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs355
-[/us/act/1932-03-19/ch88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-03-19%2Fch88%2Fs2
+[/us/act/1932-03-19/ch88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-03-19%2Fch88
 [/us/stat/47/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F69
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535

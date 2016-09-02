@@ -29,7 +29,7 @@
 
         The punishment for violating any provision of subsection (a) of this section shall be imprisonment of not more than one year or a fine in accordance with the applicable provisions of title 18, or both. In the case of a second or subsequent violation, the punishment shall be imprisonment of not more than 3 years or a fine in accordance with the applicable provisions of title 18, or both.
 
-([Pub. L. 100–691, § 7][/us/pl/100/691/s7], Nov. 18, 1988, [102 Stat. 4549][/us/stat/102/4549].)
+([Pub. L. 100–691][/us/pl/100/691], § 7, Nov. 18, 1988, [102 Stat. 4549][/us/stat/102/4549].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/100/691/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F691%2Fs7
+[/us/pl/100/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F691
 [/us/stat/102/4549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4549
 
 

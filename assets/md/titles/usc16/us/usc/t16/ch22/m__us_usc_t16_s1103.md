@@ -37,7 +37,7 @@
 
     (j) to obtain without reimbursement for use either in the United States or in Canada, legal, engineering, architectural, accounting, financial, maintenance, and other services, whether by assignment, detail, or otherwise, from competent agencies in the United States or in Canada, by arrangements with such agencies.
 
-([Pub. L. 88–363, § 4][/us/pl/88/363/s4], July 7, 1964, [78 Stat. 299][/us/stat/78/299].)
+([Pub. L. 88–363][/us/pl/88/363], § 4, July 7, 1964, [78 Stat. 299][/us/stat/78/299].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/88/363/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F363%2Fs4
+[/us/pl/88/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F363
 [/us/stat/78/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F299
 
 

@@ -17,7 +17,7 @@
 
     The following area is excluded from the park: That portion of section 8 lying southwest of a line between the common corner of sections 8, 9, 16, and 17 and the northwest corner of the southwest quarter section 8; that portion of section 16 lying southwest of a line between the southeast corner southwest quarter and the northwest corner southwest quarter section 16; and section 17, township 147 north, range 100 west, fifth principal meridian, North Dakota.
 
-([Mar. 24, 1956, ch. 94, § 2][/us/act/1956-03-24/ch94/s2], [70 Stat. 56][/us/stat/70/56].)
+([Mar. 24, 1956, ch. 94][/us/act/1956-03-24/ch94], § 2, [70 Stat. 56][/us/stat/70/56].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1956-03-24/ch94/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-03-24%2Fch94%2Fs2
+[/us/act/1956-03-24/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-03-24%2Fch94
 [/us/stat/70/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F56
 [/us/act/1947-04-25/ch41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-04-25%2Fch41
 [/us/stat/61/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F52

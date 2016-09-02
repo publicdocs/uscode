@@ -29,7 +29,7 @@
 
         To assist Congress and the public in evaluating the Renewable Resources Extension Program, the program shall include a review of activities undertaken in response to the preceding five-year plan and an evaluation of the progress made toward accomplishing the goals and objectives set forth in such preceding plan. Such review and evaluation shall be displayed in the program, for the Nation as a whole, and for each State.
 
-([Pub. L. 95–306, § 5][/us/pl/95/306/s5], June 30, 1978, [92 Stat. 351][/us/stat/92/351]; [Pub. L. 100–231, § 3][/us/pl/100/231/s3], Jan. 5, 1988, [101 Stat. 1565][/us/stat/101/1565]; [Pub. L. 101–624, title XII][/us/pl/101/624], §§ 1219(b)(2), 1251(c), Nov. 28, 1990, [104 Stat. 3539][/us/stat/104/3539], 3553.)
+([Pub. L. 95–306][/us/pl/95/306], § 5, June 30, 1978, [92 Stat. 351][/us/stat/92/351]; [Pub. L. 100–231][/us/pl/100/231], § 3, Jan. 5, 1988, [101 Stat. 1565][/us/stat/101/1565]; [Pub. L. 101–624, title XII][/us/pl/101/624/tXII], §§ 1219(b)(2), 1251(c), Nov. 28, 1990, [104 Stat. 3539][/us/stat/104/3539], 3553.)
 
  __Codification__ 
 
@@ -37,13 +37,13 @@
 
  __Amendments__ 
 
-    1990—Subsec. (a). [Pub. L. 101–624, § 1251(c)][/us/pl/101/624/s1251/c], inserted before period at end “, and give special attention to water quality protection and natural resource and environmental education for landowners and managers, public officials, and the public”.
+    1990—Subsec. (a). [Pub. L. 101–624][/us/pl/101/624], § 1251(c), inserted before period at end “, and give special attention to water quality protection and natural resource and environmental education for landowners and managers, public officials, and the public”.
 
-    [Pub. L. 101–624, § 1219(b)(2)][/us/pl/101/624/s1219/b/2], substituted “for urban and community forestry activities” for “for planting and management of trees and forests in urban areas”.
+    [Pub. L. 101–624][/us/pl/101/624], § 1219(b)(2), substituted “for urban and community forestry activities” for “for planting and management of trees and forests in urban areas”.
 
-    1988—Subsec. (a). [Pub. L. 100–231, § 3(1)][/us/pl/100/231/s3/1], substituted “the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate” for “Congress”.
+    1988—Subsec. (a). [Pub. L. 100–231][/us/pl/100/231], § 3(1), substituted “the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate” for “Congress”.
 
-    Subsec. (d). [Pub. L. 100–231, § 3(2)][/us/pl/100/231/s3/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 100–231][/us/pl/100/231], § 3(2), added subsec. (d).
 
 ----------
 
@@ -54,17 +54,17 @@
 
 [/us/usc/t16/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1601
 [/us/usc/t16/s2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2004
-[/us/pl/95/306/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F306%2Fs5
+[/us/pl/95/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F306
 [/us/stat/92/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F351
-[/us/pl/100/231/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F231%2Fs3
+[/us/pl/100/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F231
 [/us/stat/101/1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1565
-[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXII
 [/us/stat/104/3539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3539
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/101/624/s1251/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1251%2Fc
-[/us/pl/101/624/s1219/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1219%2Fb%2F2
-[/us/pl/100/231/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F231%2Fs3%2F1
-[/us/pl/100/231/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F231%2Fs3%2F2
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/100/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F231
+[/us/pl/100/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F231
 
 

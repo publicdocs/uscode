@@ -31,7 +31,7 @@
 
         (4) cooperative conservation and management of coral reefs and coral reef ecosystems with local, regional, or international programs and partners.
 
-([Pub. L. 106–562, title II, § 207][/us/pl/106/562/s207], Dec. 23, 2000, [114 Stat. 2804][/us/stat/114/2804].)
+([Pub. L. 106–562, title II][/us/pl/106/562/tII], § 207, Dec. 23, 2000, [114 Stat. 2804][/us/stat/114/2804].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/usc/t16/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1361
-[/us/pl/106/562/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs207
+[/us/pl/106/562/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2FtII
 [/us/stat/114/2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2804
 [/us/pl/92/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532
 [/us/stat/86/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1061

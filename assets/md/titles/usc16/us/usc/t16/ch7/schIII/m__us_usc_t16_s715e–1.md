@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act June 15, 1935, ch. 261][/us/act/1935-06-15/ch261], title III, § 304, [49 Stat. 382][/us/stat/49/382], applying [section 715e of this title][/us/usc/t16/s715e] to exchanges effected under former sections 715d–1 and 715d–2, has been omitted due to the repeal of sections 715d–1 and 715d–2 by [Pub. L. 89–669, § 8(a)][/us/pl/89/669/s8/a], Oct. 15, 1966, [80 Stat. 930][/us/stat/80/930].
+    Section, [act June 15, 1935, ch. 261, title III][/us/act/1935-06-15/ch261/tIII], § 304, [49 Stat. 382][/us/stat/49/382], applying [section 715e of this title][/us/usc/t16/s715e] to exchanges effected under former sections 715d–1 and 715d–2, has been omitted due to the repeal of sections 715d–1 and 715d–2 by [Pub. L. 89–669][/us/pl/89/669], § 8(a), Oct. 15, 1966, [80 Stat. 930][/us/stat/80/930].
 
 ----------
 
@@ -26,10 +26,10 @@
 ----------
 ----------
 
-[/us/act/1935-06-15/ch261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-06-15%2Fch261
+[/us/act/1935-06-15/ch261/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-06-15%2Fch261%2FtIII
 [/us/stat/49/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F382
 [/us/usc/t16/s715e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs715e
-[/us/pl/89/669/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F669%2Fs8%2Fa
+[/us/pl/89/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F669
 [/us/stat/80/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F930
 
 

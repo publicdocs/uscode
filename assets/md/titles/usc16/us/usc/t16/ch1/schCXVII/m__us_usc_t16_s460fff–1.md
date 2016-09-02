@@ -47,7 +47,7 @@
 
         For purposes of administering the recreation area, the Secretary may enter into cooperative agreements with any Federal agency, the State of Texas, or any political subdivision thereof, for the rendering, on a reimbursable basis, of rescue, firefighting, and law enforcement and fire preventive assistance.
 
-([Pub. L. 101–628, title V, § 506][/us/pl/101/628/s506], Nov. 28, 1990, [104 Stat. 4494][/us/stat/104/4494].)
+([Pub. L. 101–628, title V][/us/pl/101/628/tV], § 506, Nov. 28, 1990, [104 Stat. 4494][/us/stat/104/4494].)
 
  __References in Text__ 
 
@@ -72,7 +72,7 @@
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/stat/60/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F885
 [/us/stat/59/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F1219
-[/us/pl/101/628/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628%2Fs506
+[/us/pl/101/628/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628%2FtV
 [/us/stat/104/4494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4494
 [/us/pl/101/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628
 [/us/stat/104/4469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4469

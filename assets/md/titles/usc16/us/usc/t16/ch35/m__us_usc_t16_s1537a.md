@@ -51,19 +51,19 @@
 
         (4) The provisions of this subsection shall not be construed as affecting the authority, jurisdiction, or responsibility of the several States to manage, control, or regulate resident fish or wildlife under State law or regulations.
 
-([Pub. L. 93–205, § 8A][/us/pl/93/205/s8A], as added [Pub. L. 96–159, § 6(a)(1)][/us/pl/96/159/s6/a/1], Dec. 28, 1979, [93 Stat. 1228][/us/stat/93/1228]; amended [Pub. L. 97–304, § 5][/us/pl/97/304/s5]\[(a)\], Oct. 13, 1983, [96 Stat. 1421][/us/stat/96/1421].)
+([Pub. L. 93–205][/us/pl/93/205], § 8A, as added [Pub. L. 96–159][/us/pl/96/159], § 6(a)(1), Dec. 28, 1979, [93 Stat. 1228][/us/stat/93/1228]; amended [Pub. L. 97–304][/us/pl/97/304], § 5\[(a)\], Oct. 13, 1983, [96 Stat. 1421][/us/stat/96/1421].)
 
  __Amendments__ 
 
-    1982—Subsec. (c). [Pub. L. 97–304, § 5][/us/pl/97/304/s5]\[(a)\](1), designated existing provisions as par. (1) and added par. (2).
+    1982—Subsec. (c). [Pub. L. 97–304][/us/pl/97/304], § 5\[(a)\](1), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (d). [Pub. L. 97–304, § 5][/us/pl/97/304/s5]\[(a)\](2), substituted provisions relating to reservations by the United States under the Convention for provisions which had established an International Convention Advisory Commission and had provided for its membership, staffing, and operation.
+    Subsec. (d). [Pub. L. 97–304][/us/pl/97/304], § 5\[(a)\](2), substituted provisions relating to reservations by the United States under the Convention for provisions which had established an International Convention Advisory Commission and had provided for its membership, staffing, and operation.
 
-    Subsec. (e). [Pub. L. 97–304, § 5][/us/pl/97/304/s5]\[(a)\](3), substituted provisions implementing the Convention on Nature Protection and Wildlife Preservation in the Western Hemisphere for provisions which had provided that the President shall designate those agencies of the Federal Government that shall act on behalf of, and represent, the United States in all regards as required by the Convention on Nature Protection and Wildlife Preservation in the Western Hemisphere.
+    Subsec. (e). [Pub. L. 97–304][/us/pl/97/304], § 5\[(a)\](3), substituted provisions implementing the Convention on Nature Protection and Wildlife Preservation in the Western Hemisphere for provisions which had provided that the President shall designate those agencies of the Federal Government that shall act on behalf of, and represent, the United States in all regards as required by the Convention on Nature Protection and Wildlife Preservation in the Western Hemisphere.
 
  __Effective Date of 1982 Amendment__ 
 
-[Pub. L. 97–304, § 5(b)][/us/pl/97/304/s5/b], Oct. 13, 1982, [96 Stat. 1422][/us/stat/96/1422], provided that: 
+[Pub. L. 97–304][/us/pl/97/304], § 5(b), Oct. 13, 1982, [96 Stat. 1422][/us/stat/96/1422], provided that: 
 
 > “The amendment made by paragraph (1) of subsection (a) \[amending this section\] shall take effect January 1, 1981.”
 
@@ -73,7 +73,7 @@
 
  __Endangered Species Scientific Authority; Interim Performance of Functions of Commission__ 
 
-    [Pub. L. 96–159, § 6(b)][/us/pl/96/159/s6/b], Dec. 28, 1979, [93 Stat. 1230][/us/stat/93/1230], provided that until such time as the Chairman, Members, and Executive Secretary of the International Convention Advisory Commission are appointed, but not later than 90 days after Dec. 28, 1979, the functions of the Commission be carried out by the Endangered Species Scientific Authority as established by Ex. Ord. No. 11911, formerly set out as a note under [section 1537 of this title][/us/usc/t16/s1537], with staff and administrative support being provided by the Secretary of the Interior as set forth in that Executive Order.
+    [Pub. L. 96–159][/us/pl/96/159], § 6(b), Dec. 28, 1979, [93 Stat. 1230][/us/stat/93/1230], provided that until such time as the Chairman, Members, and Executive Secretary of the International Convention Advisory Commission are appointed, but not later than 90 days after Dec. 28, 1979, the functions of the Commission be carried out by the Endangered Species Scientific Authority as established by Ex. Ord. No. 11911, formerly set out as a note under [section 1537 of this title][/us/usc/t16/s1537], with staff and administrative support being provided by the Secretary of the Interior as set forth in that Executive Order.
 
 ----------
 
@@ -83,19 +83,19 @@
 ----------
 
 [/us/stat/56/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F1354
-[/us/pl/93/205/s8A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205%2Fs8A
-[/us/pl/96/159/s6/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159%2Fs6%2Fa%2F1
+[/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
+[/us/pl/96/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159
 [/us/stat/93/1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1228
-[/us/pl/97/304/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs5
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
 [/us/stat/96/1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1421
-[/us/pl/97/304/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs5
-[/us/pl/97/304/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs5
-[/us/pl/97/304/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs5
-[/us/pl/97/304/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs5%2Fb
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
 [/us/stat/96/1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1422
 [/us/pl/104/14/s1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fb%2F3
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
-[/us/pl/96/159/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159%2Fs6%2Fb
+[/us/pl/96/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159
 [/us/stat/93/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1230
 [/us/usc/t16/s1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1537
 

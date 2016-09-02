@@ -17,7 +17,7 @@
 
     In condemnation proceedings, heretofore or hereafter prosecuted, for the acquisition of lands under this Act, in which a decree is entered vesting title thereto in the United States upon payment of the award into the registry of the court, the Secretary of Agriculture is authorized to make such payment when advised by the Attorney General that the proceedings and the decree are regular.
 
-([Mar. 1, 1911, ch. 186, § 8][/us/act/1911-03-01/ch186/s8] (part), [36 Stat. 962][/us/stat/36/962]; [Dec. 11, 1926, ch. 5][/us/act/1926-12-11/ch5], [44 Stat. 919][/us/stat/44/919].)
+([Mar. 1, 1911, ch. 186][/us/act/1911-03-01/ch186], § 8 (part), [36 Stat. 962][/us/stat/36/962]; [Dec. 11, 1926, ch. 5][/us/act/1926-12-11/ch5], [44 Stat. 919][/us/stat/44/919].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1911-03-01/ch186/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-01%2Fch186%2Fs8
+[/us/act/1911-03-01/ch186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-01%2Fch186
 [/us/stat/36/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F962
 [/us/act/1926-12-11/ch5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-12-11%2Fch5
 [/us/stat/44/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F919

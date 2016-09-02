@@ -65,11 +65,11 @@
 
         any vessel documented under the laws of the United States as of November 3, 1995, for which a license has been issued under subsection (a) may fish for tuna in the Treaty Area, including those waters subject to the jurisdiction of the United States in accordance with international law, subject to the provisions of the treaty  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be capitalized. </sup></sup>  and this chapter, provided that no such vessel fishing in the Treaty Area intentionally deploys a purse seine net to encircle any dolphin or other marine mammal in the course of fishing under the provisions of the Treaty or this chapter.
 
-([Pub. L. 100–330, § 9][/us/pl/100/330/s9], June 7, 1988, [102 Stat. 596][/us/stat/102/596]; [Pub. L. 104–43, title VIII, § 801][/us/pl/104/43/s801], Nov. 3, 1995, [109 Stat. 395][/us/stat/109/395].)
+([Pub. L. 100–330][/us/pl/100/330], § 9, June 7, 1988, [102 Stat. 596][/us/stat/102/596]; [Pub. L. 104–43, title VIII][/us/pl/104/43/tVIII], § 801, Nov. 3, 1995, [109 Stat. 395][/us/stat/109/395].)
 
  __References in Text__ 
 
-    [Section 12108 of title 46][/us/usc/t46/s12108], referred to in subsec. (h)(1), was in the original “[section 1 of the Act of August 26, 1983][/us/act/1983-08-26/s1] ([97 Stat. 587][/us/stat/97/587]; [46 U.S.C. 12108][/us/usc/t46/s12108])”, and was translated to reflect the probable intent of Congress. Section 1 of act Aug. 26, 1983, [Pub. L. 98–89][/us/pl/98/89], [97 Stat. 500][/us/stat/97/500], enacted Title 46, Shipping. [Section 12108 of Title 46][/us/usc/t46/s12108] was subsequently omitted, and its provisions restated, in the general amendment of chapter 121 of Title 46 by [Pub. L. 109–304, § 5][/us/pl/109/304/s5], Oct. 6, 2006, [120 Stat. 1491][/us/stat/120/1491]. See sections 12102, 12113, and 12116 of Title 46 and Prior Provisions note under [section 12107 of Title 46][/us/usc/t46/s12107].
+    [Section 12108 of title 46][/us/usc/t46/s12108], referred to in subsec. (h)(1), was in the original “[section 1 of the Act of August 26, 1983][/us/act/1983-08-26/s1] ([97 Stat. 587][/us/stat/97/587]; [46 U.S.C. 12108][/us/usc/t46/s12108])”, and was translated to reflect the probable intent of Congress. Section 1 of act Aug. 26, 1983, [Pub. L. 98–89][/us/pl/98/89], [97 Stat. 500][/us/stat/97/500], enacted Title 46, Shipping. [Section 12108 of Title 46][/us/usc/t46/s12108] was subsequently omitted, and its provisions restated, in the general amendment of chapter 121 of Title 46 by [Pub. L. 109–304][/us/pl/109/304], § 5, Oct. 6, 2006, [120 Stat. 1491][/us/stat/120/1491]. See sections 12102, 12113, and 12116 of Title 46 and Prior Provisions note under [section 12107 of Title 46][/us/usc/t46/s12107].
 
     Sections 1374(h)(1), 1374(h)(2), and 1416(a) of this title, referred to in subsec. (h)(2), (3), were in the original references to sections 104(h)(1), 104(h)(2), and 306(a) of the Marine Mammal Protection Act, and were translated as meaning sections 104(h)(1), 104(h)(2), and 306(a), respectively, of the Marine Mammal Protection Act of 1972, [Pub. L. 92–522][/us/pl/92/522], to reflect the probable intent of Congress.
 
@@ -86,9 +86,9 @@
 
 [/us/usc/t46/s12108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12108
 [/us/usc/t16/s1374/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1374%2Fh%2F1
-[/us/pl/100/330/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F330%2Fs9
+[/us/pl/100/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F330
 [/us/stat/102/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F596
-[/us/pl/104/43/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs801
+[/us/pl/104/43/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtVIII
 [/us/stat/109/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F395
 [/us/usc/t46/s12108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12108
 [/us/act/1983-08-26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1983-08-26%2Fs1
@@ -97,7 +97,7 @@
 [/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F500
 [/us/usc/t46/s12108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12108
-[/us/pl/109/304/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs5
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1491
 [/us/usc/t46/s12107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs12107
 [/us/pl/92/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522

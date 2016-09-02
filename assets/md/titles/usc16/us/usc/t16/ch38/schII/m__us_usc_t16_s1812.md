@@ -27,7 +27,7 @@
 
         If a relevant international fisheries organization does not have a process for developing a formal plan to rebuild a depleted stock, an overfished stock, or a stock that is approaching a condition of being overfished, the provisions of this chapter in this regard shall be communicated to and promoted by the United States in the international or regional fisheries organization.
 
-([Pub. L. 94–265, title I, § 102][/us/pl/94/265/s102], Apr. 13, 1976, [90 Stat. 336][/us/stat/90/336]; [Pub. L. 99–659, title I, § 101(b)][/us/pl/99/659/s101/b], Nov. 14, 1986, [100 Stat. 3707][/us/stat/100/3707]; [Pub. L. 101–627, title I, § 103(a)][/us/pl/101/627/s103/a], Nov. 28, 1990, [104 Stat. 4439][/us/stat/104/4439]; [Pub. L. 104–297, title I, § 104][/us/pl/104/297/s104], Oct. 11, 1996, [110 Stat. 3563][/us/stat/110/3563]; [Pub. L. 109–479, § 4][/us/pl/109/479/s4], Jan. 12, 2007, [120 Stat. 3578][/us/stat/120/3578].)
+([Pub. L. 94–265, title I][/us/pl/94/265/tI], § 102, Apr. 13, 1976, [90 Stat. 336][/us/stat/90/336]; [Pub. L. 99–659, title I][/us/pl/99/659/tI], § 101(b), Nov. 14, 1986, [100 Stat. 3707][/us/stat/100/3707]; [Pub. L. 101–627, title I][/us/pl/101/627/tI], § 103(a), Nov. 28, 1990, [104 Stat. 4439][/us/stat/104/4439]; [Pub. L. 104–297, title I][/us/pl/104/297/tI], § 104, Oct. 11, 1996, [110 Stat. 3563][/us/stat/110/3563]; [Pub. L. 109–479][/us/pl/109/479], § 4, Jan. 12, 2007, [120 Stat. 3578][/us/stat/120/3578].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–627, title I, § 103(c)][/us/pl/101/627/s103/c], Nov. 28, 1990, [104 Stat. 4439][/us/stat/104/4439], provided that: 
+[Pub. L. 101–627, title I][/us/pl/101/627/tI], § 103(c), Nov. 28, 1990, [104 Stat. 4439][/us/stat/104/4439], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on January 1, 1992.”
 
@@ -62,15 +62,15 @@
 ----------
 ----------
 
-[/us/pl/94/265/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs102
+[/us/pl/94/265/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2FtI
 [/us/stat/90/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F336
-[/us/pl/99/659/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs101%2Fb
+[/us/pl/99/659/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtI
 [/us/stat/100/3707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3707
-[/us/pl/101/627/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs103%2Fa
+[/us/pl/101/627/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtI
 [/us/stat/104/4439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4439
-[/us/pl/104/297/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs104
+[/us/pl/104/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtI
 [/us/stat/110/3563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3563
-[/us/pl/109/479/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs4
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
 [/us/stat/120/3578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3578
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331
@@ -80,7 +80,7 @@
 [/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
 [/us/usc/t16/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1811
 [/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
-[/us/pl/101/627/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs103%2Fc
+[/us/pl/101/627/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtI
 [/us/stat/104/4439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4439
 
 

@@ -95,7 +95,7 @@
 
             (F) meet other factors that are important for achieving the purposes of the program, as determined by the Secretary.
 
-([Pub. L. 99–198, title XII, § 1271B][/us/pl/99/198/s1271B], as added [Pub. L. 113–79, title II, § 2401][/us/pl/113/79/s2401], Feb. 7, 2014, [128 Stat. 746][/us/stat/128/746].)
+([Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1271B, as added [Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2401, Feb. 7, 2014, [128 Stat. 746][/us/stat/128/746].)
 
 ----------
 
@@ -105,8 +105,8 @@
 ----------
 
 [/us/usc/t16/s3871c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3871c
-[/us/pl/99/198/s1271B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1271B
-[/us/pl/113/79/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2401
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F746
 
 

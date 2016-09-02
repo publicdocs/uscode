@@ -17,7 +17,7 @@
 
     Except as specifically provided by this chapter, nothing in this chapter supersedes or otherwise affects any provision of law, regulation, or policy regarding the issuance or administration of authorizations for organizational camps regarding the occupancy and use of National Forest System lands.
 
-([Pub. L. 108–7, div. F, title V, § 505][/us/pl/108/7/s505], Feb. 20, 2003, [117 Stat. 297][/us/stat/117/297].)
+([Pub. L. 108–7, div. F, title V][/us/pl/108/7/dF/tV], § 505, Feb. 20, 2003, [117 Stat. 297][/us/stat/117/297].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/108/7/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs505
+[/us/pl/108/7/dF/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtV
 [/us/stat/117/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F297
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 

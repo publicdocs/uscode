@@ -17,7 +17,7 @@
 
     If the Secretary finds that as of the close of the 18th month after secretarial approval of the Commission report under [section 3311(e) of this title][/us/usc/t16/s3311/e], the number of parties which have adopted and implemented the Commission’s management program in accordance with the provisions of this chapter and the report is insufficient to ensure that the management structure is effective and consistent with the standards and objectives in [section 3311(c) of this title][/us/usc/t16/s3311/c], he shall discontinue any further funding under this subchapter or subchapter III of this chapter.
 
-([Pub. L. 96–561, title I, § 113][/us/pl/96/561/s113], Dec. 22, 1980, [94 Stat. 3279][/us/stat/94/3279].)
+([Pub. L. 96–561, title I][/us/pl/96/561/tI], § 113, Dec. 22, 1980, [94 Stat. 3279][/us/stat/94/3279].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t16/s3311/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3311%2Fe
 [/us/usc/t16/s3311/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3311%2Fc
-[/us/pl/96/561/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs113
+[/us/pl/96/561/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtI
 [/us/stat/94/3279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3279
 
 

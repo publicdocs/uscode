@@ -43,7 +43,7 @@
 
         (C) in the case of projects undertaken in Mexico, includes technical training and development of infrastructure necessary for the conservation and management of wetlands and studies on the sustainable use of wetland resources.
 
-([Pub. L. 101–233, § 3][/us/pl/101/233/s3], Dec. 13, 1989, [103 Stat. 1969][/us/stat/103/1969]; [Pub. L. 107–308][/us/pl/107/308], §§ 4, 8(a)(3)–(5), Dec. 2, 2002, [116 Stat. 2446][/us/stat/116/2446], 2447.)
+([Pub. L. 101–233][/us/pl/101/233], § 3, Dec. 13, 1989, [103 Stat. 1969][/us/stat/103/1969]; [Pub. L. 107–308][/us/pl/107/308], §§ 4, 8(a)(3)–(5), Dec. 2, 2002, [116 Stat. 2446][/us/stat/116/2446], 2447.)
 
  __References in Text__ 
 
@@ -55,15 +55,15 @@
 
  __Amendments__ 
 
-    2002—Par. (2). [Pub. L. 107–308, § 8(a)(3)][/us/pl/107/308/s8/a/3], substituted “Committee on Resources of the House of Representatives” for “Committee on Merchant Marine and Fisheries of the United States House of Representatives”.
+    2002—Par. (2). [Pub. L. 107–308][/us/pl/107/308], § 8(a)(3), substituted “Committee on Resources of the House of Representatives” for “Committee on Merchant Marine and Fisheries of the United States House of Representatives”.
 
-    Par. (5). [Pub. L. 107–308, § 8(a)(4)][/us/pl/107/308/s8/a/4], inserted “of 1973” after “Endangered Species Act”.
+    Par. (5). [Pub. L. 107–308][/us/pl/107/308], § 8(a)(4), inserted “of 1973” after “Endangered Species Act”.
 
-    Par. (6). [Pub. L. 107–308, § 8(a)(5)][/us/pl/107/308/s8/a/5], inserted “, and by the Secretary of Sedesol for Mexico in 1994, and subsequent dates” after “1986”.
+    Par. (6). [Pub. L. 107–308][/us/pl/107/308], § 8(a)(5), inserted “, and by the Secretary of Sedesol for Mexico in 1994, and subsequent dates” after “1986”.
 
-    Par. (9)(A). [Pub. L. 107–308, § 4(1)][/us/pl/107/308/s4/1], inserted “of a wetland ecosystem and associated habitat” after “including water rights,”.
+    Par. (9)(A). [Pub. L. 107–308][/us/pl/107/308], § 4(1), inserted “of a wetland ecosystem and associated habitat” after “including water rights,”.
 
-    Par. (9)(B). [Pub. L. 107–308, § 4(2)][/us/pl/107/308/s4/2], substituted “and associated habitat” for “and other habitat”.
+    Par. (9)(B). [Pub. L. 107–308][/us/pl/107/308], § 4(2), substituted “and associated habitat” for “and other habitat”.
 
  __Change of Name__ 
 
@@ -80,7 +80,7 @@
 [/us/usc/t16/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs703
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/usc/t16/s2901–291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2901%E2%80%93291
-[/us/pl/101/233/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F233%2Fs3
+[/us/pl/101/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F233
 [/us/stat/103/1969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1969
 [/us/pl/107/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308
 [/us/stat/116/2446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2446
@@ -93,10 +93,10 @@
 [/us/pl/96/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F366
 [/us/stat/94/1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1322
 [/us/usc/t16/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2901
-[/us/pl/107/308/s8/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308%2Fs8%2Fa%2F3
-[/us/pl/107/308/s8/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308%2Fs8%2Fa%2F4
-[/us/pl/107/308/s8/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308%2Fs8%2Fa%2F5
-[/us/pl/107/308/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308%2Fs4%2F1
-[/us/pl/107/308/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308%2Fs4%2F2
+[/us/pl/107/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308
+[/us/pl/107/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308
+[/us/pl/107/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308
+[/us/pl/107/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308
+[/us/pl/107/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308
 
 

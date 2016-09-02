@@ -27,7 +27,7 @@
 
         Only those lands within the boundaries of any conservation system unit which are public lands (as such term is defined in this Act) shall be deemed to be included as a portion of such unit. No lands which, before, on, or after December 2, 1980, are conveyed to the State, to any Native Corporation, or to any private party shall be subject to the regulations applicable solely to public lands within such units. If the State, a Native Corporation, or other owner desires to convey any such lands, the Secretary may acquire such lands in accordance with applicable law (including this Act), and any such lands shall become part of the unit, and be administered accordingly.
 
-([Pub. L. 96–487, title I, § 103][/us/pl/96/487/s103], Dec. 2, 1980, [94 Stat. 2376][/us/stat/94/2376].)
+([Pub. L. 96–487, title I][/us/pl/96/487/tI], § 103, Dec. 2, 1980, [94 Stat. 2376][/us/stat/94/2376].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/96/487/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs103
+[/us/pl/96/487/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtI
 [/us/stat/94/2376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2376
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371

@@ -67,13 +67,13 @@
 
         (4) As used in this subsection, the term “automatic adjustment clause” means a provision of a rate schedule which provides for increases or decreases (or both), without prior hearing, in rates reflecting increases or decreases (or both) in costs incurred by an electric utility. Such term does not include any rate which takes effect subject to refund and subject to a later determination of the appropriate amount of such rate.
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 205, as added [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, § 213, [49 Stat. 851][/us/stat/49/851]; amended [Pub. L. 95–617, title II][/us/pl/95/617], §§ 207(a), 208, Nov. 9, 1978, [92 Stat. 3142][/us/stat/92/3142].)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 205, as added [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, § 213, [49 Stat. 851][/us/stat/49/851]; amended [Pub. L. 95–617, title II][/us/pl/95/617/tII], §§ 207(a), 208, Nov. 9, 1978, [92 Stat. 3142][/us/stat/92/3142].)
 
  __Amendments__ 
 
-    1978—Subsec. (d). [Pub. L. 95–617, § 207(a)][/us/pl/95/617/s207/a], substituted “sixty” for “thirty” in two places.
+    1978—Subsec. (d). [Pub. L. 95–617][/us/pl/95/617], § 207(a), substituted “sixty” for “thirty” in two places.
 
-    Subsec. (f). [Pub. L. 95–617, § 208][/us/pl/95/617/s208], added subsec. (f).
+    Subsec. (f). [Pub. L. 95–617][/us/pl/95/617], § 208, added subsec. (f).
 
  __Study of Electric Rate Increases Under Federal Power Act__ 
 
@@ -89,10 +89,10 @@
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
 [/us/act/1935-08-26/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-26%2Fch687
 [/us/stat/49/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F851
-[/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
+[/us/pl/95/617/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtII
 [/us/stat/92/3142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3142
-[/us/pl/95/617/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs207%2Fa
-[/us/pl/95/617/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs208
+[/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
+[/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
 [/us/pl/95/617/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs207%2Fb
 
 

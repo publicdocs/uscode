@@ -115,7 +115,7 @@
 
         (2) For the development of essential public facilities there are authorized to be appropriated not more than $15,000,000.
 
-([Pub. L. 95–629, title II, § 201][/us/pl/95/629/s201], Nov. 10, 1978, [92 Stat. 3636][/us/stat/92/3636]; [Pub. L. 96–344, § 13][/us/pl/96/344/s13], Sept. 8, 1980, [94 Stat. 1136][/us/stat/94/1136]; [Pub. L. 101–628, title V, § 501][/us/pl/101/628/s501], Nov. 28, 1990, [104 Stat. 4492][/us/stat/104/4492]; [Pub. L. 103–437, § 6(j)][/us/pl/103/437/s6/j], Nov. 2, 1994, [108 Stat. 4585][/us/stat/108/4585]; [Pub. L. 113–291, div. B, title XXX, § 3042][/us/pl/113/291/s3042], Dec. 19, 2014, [128 Stat. 3792][/us/stat/128/3792].)
+([Pub. L. 95–629, title II][/us/pl/95/629/tII], § 201, Nov. 10, 1978, [92 Stat. 3636][/us/stat/92/3636]; [Pub. L. 96–344][/us/pl/96/344], § 13, Sept. 8, 1980, [94 Stat. 1136][/us/stat/94/1136]; [Pub. L. 101–628, title V][/us/pl/101/628/tV], § 501, Nov. 28, 1990, [104 Stat. 4492][/us/stat/104/4492]; [Pub. L. 103–437][/us/pl/103/437], § 6(j), Nov. 2, 1994, [108 Stat. 4585][/us/stat/108/4585]; [Pub. L. 113–291, div. B, title XXX][/us/pl/113/291/dB/tXXX], § 3042, Dec. 19, 2014, [128 Stat. 3792][/us/stat/128/3792].)
 
  __References in Text__ 
 
@@ -125,17 +125,17 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–291, § 3042(1)][/us/pl/113/291/s3042/1], inserted section catchline.
+    2014—[Pub. L. 113–291][/us/pl/113/291], § 3042(1), inserted section catchline.
 
     Subsec. (a). [Pub. L. 113–291][/us/pl/113/291] inserted subsec. heading, designated first, second, and third sentences as pars. (1), (2), and (4), respectively, inserted par. headings, and added par. (3).
 
-    1994—Subsec. (a). [Pub. L. 103–437, § 6(j)(1)][/us/pl/103/437/s6/j/1], substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+    1994—Subsec. (a). [Pub. L. 103–437][/us/pl/103/437], § 6(j)(1), substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
-    Subsec. (f)(2). [Pub. L. 103–437, § 6(j)(2)][/us/pl/103/437/s6/j/2], struck out at end “Within one year from November 10, 1978, the Secretary shall develop and transmit to the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate a final master plan for the development of the park consistent with the objectives of this section, indicating (A) the facilities needed to accommodate the health, safety, and interpretive needs of the visiting public; (B) the location and estimated cost of all facilities; and (C) the projected need for any additional facilities within the park.”
+    Subsec. (f)(2). [Pub. L. 103–437][/us/pl/103/437], § 6(j)(2), struck out at end “Within one year from November 10, 1978, the Secretary shall develop and transmit to the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate a final master plan for the development of the park consistent with the objectives of this section, indicating (A) the facilities needed to accommodate the health, safety, and interpretive needs of the visiting public; (B) the location and estimated cost of all facilities; and (C) the projected need for any additional facilities within the park.”
 
-    1990—Subsec. (a). [Pub. L. 101–628, § 501(a)][/us/pl/101/628/s501/a], inserted after first sentence “The park shall also consist of the lands and interests therein within the area bounded by the line depicted as ‘Proposed Boundary Extension’ on the maps entitled ‘San Antonio Missions National Historical Park’, numbered 472–80,075, 472–80,076, 472–80,077, 472–80,078, 472–80,079, 472–80,080, and 472–80,081 and dated June 7, 1990, which shall be on file and available for public inspection in the same manner as is such drawing.”
+    1990—Subsec. (a). [Pub. L. 101–628][/us/pl/101/628], § 501(a), inserted after first sentence “The park shall also consist of the lands and interests therein within the area bounded by the line depicted as ‘Proposed Boundary Extension’ on the maps entitled ‘San Antonio Missions National Historical Park’, numbered 472–80,075, 472–80,076, 472–80,077, 472–80,078, 472–80,079, 472–80,080, and 472–80,081 and dated June 7, 1990, which shall be on file and available for public inspection in the same manner as is such drawing.”
 
-    Subsec. (f)(2). [Pub. L. 101–628, § 501(b)][/us/pl/101/628/s501/b], substituted “$15,000,000” for “$500,000”.
+    Subsec. (f)(2). [Pub. L. 101–628][/us/pl/101/628], § 501(b), substituted “$15,000,000” for “$500,000”.
 
     1980—Subsec. (e)(1). [Pub. L. 96–344][/us/pl/96/344] substituted “eleven” for “seven” in provision preceding subpar. (A) and “six” for “two” in subpar. (F).
 
@@ -150,15 +150,15 @@
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
 [/us/usc/t16/s461–467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461%E2%80%93467
-[/us/pl/95/629/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F629%2Fs201
+[/us/pl/95/629/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F629%2FtII
 [/us/stat/92/3636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3636
-[/us/pl/96/344/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F344%2Fs13
+[/us/pl/96/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F344
 [/us/stat/94/1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1136
-[/us/pl/101/628/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628%2Fs501
+[/us/pl/101/628/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628%2FtV
 [/us/stat/104/4492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4492
-[/us/pl/103/437/s6/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fj
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4585
-[/us/pl/113/291/s3042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3042
+[/us/pl/113/291/dB/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXX
 [/us/stat/128/3792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3792
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
@@ -177,12 +177,12 @@
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
 [/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
-[/us/pl/113/291/s3042/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3042%2F1
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
-[/us/pl/103/437/s6/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fj%2F1
-[/us/pl/103/437/s6/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fj%2F2
-[/us/pl/101/628/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628%2Fs501%2Fa
-[/us/pl/101/628/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628%2Fs501%2Fb
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
+[/us/pl/101/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628
+[/us/pl/101/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628
 [/us/pl/96/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F344
 
 

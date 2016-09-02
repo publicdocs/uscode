@@ -35,7 +35,7 @@
 
         The provisions of section 14(b) of the Federal Advisory Committee Act (Act of October 6, 1972; [86 Stat. 776][/us/stat/86/776]), are hereby waived with respect to this Advisory Commission.
 
-([Pub. L. 100–479, § 6][/us/pl/100/479/s6], Oct. 7, 1988, [102 Stat. 2326][/us/stat/102/2326].)
+([Pub. L. 100–479][/us/pl/100/479], § 6, Oct. 7, 1988, [102 Stat. 2326][/us/stat/102/2326].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776
-[/us/pl/100/479/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F479%2Fs6
+[/us/pl/100/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F479
 [/us/stat/102/2326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2326
 [/us/pl/92/463/s14/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14%2Fb
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463

@@ -31,7 +31,7 @@
 
     The Secretary or his designee shall, from time to time, consult with the Commission with respect to the matters relating to the development of the Gulf Islands National Seashore.
 
-([Pub. L. 91–660, § 10][/us/pl/91/660/s10], Jan. 8, 1971, [84 Stat. 1969][/us/stat/84/1969].)
+([Pub. L. 91–660][/us/pl/91/660], § 10, Jan. 8, 1971, [84 Stat. 1969][/us/stat/84/1969].)
 
  __Termination of Advisory Commissions__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/91/660/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F660%2Fs10
+[/us/pl/91/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F660
 [/us/stat/84/1969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1969
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

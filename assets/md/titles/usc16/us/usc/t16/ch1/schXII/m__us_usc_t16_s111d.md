@@ -17,7 +17,7 @@
 
     The Secretary of the Interior may acquire by purchase, with donated or appropriated funds, lands and interests in lands within the boundaries of Mesa Verde National Park as revised by [section 111c of this title][/us/usc/t16/s111c].
 
-([Pub. L. 88–235, § 2][/us/pl/88/235/s2], Dec. 23, 1963, [77 Stat. 474][/us/stat/77/474].)
+([Pub. L. 88–235][/us/pl/88/235], § 2, Dec. 23, 1963, [77 Stat. 474][/us/stat/77/474].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s111c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs111c
-[/us/pl/88/235/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F235%2Fs2
+[/us/pl/88/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F235
 [/us/stat/77/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F474
 
 

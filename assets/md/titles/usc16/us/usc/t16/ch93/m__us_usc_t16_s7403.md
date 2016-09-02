@@ -39,7 +39,7 @@
 
         The Secretary may request confirmation from the flag state of a foreign vessel that the fish on board a foreign vessel in a port subject to the jurisdiction of the United States were taken in accordance with applicable RFMO conservation and management measures.
 
-([Pub. L. 114–81, title III, § 304][/us/pl/114/81/s304], Nov. 5, 2015, [129 Stat. 665][/us/stat/129/665].)
+([Pub. L. 114–81, title III][/us/pl/114/81/tIII], § 304, Nov. 5, 2015, [129 Stat. 665][/us/stat/129/665].)
 
  __References in Text__ 
 
@@ -56,7 +56,7 @@
 [/us/usc/t19/s1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1433
 [/us/usc/t16/s7404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7404
 [/us/usc/t16/s7405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7405
-[/us/pl/114/81/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs304
+[/us/pl/114/81/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2FtIII
 [/us/stat/129/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F665
 
 

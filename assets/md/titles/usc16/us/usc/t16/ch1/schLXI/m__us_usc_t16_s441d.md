@@ -17,11 +17,11 @@
 
     The Secretary of the Interior is authorized to permit examinations, excavations, and gathering of objects of interest within said park by any person or persons whom he may deem properly qualified to conduct such examinations, excavations, or gatherings, subject to such rules and regulations as he may prescribe: Provided, That the examinations, excavations, and gatherings are undertaken only for the benefit of some reputable museum, university, college, or other recognized scientific or educational institution, with a view to increasing the knowledge of such objects and aiding the general advancement of geological and zoological science.
 
-([Mar. 4, 1929, ch. 693, § 5][/us/act/1929-03-04/ch693/s5], [45 Stat. 1555][/us/stat/45/1555]; [Pub. L. 95–625, title VI, § 611][/us/pl/95/625/s611], Nov. 10, 1978, [92 Stat. 3521][/us/stat/92/3521].)
+([Mar. 4, 1929, ch. 693][/us/act/1929-03-04/ch693], § 5, [45 Stat. 1555][/us/stat/45/1555]; [Pub. L. 95–625, title VI][/us/pl/95/625/tVI], § 611, Nov. 10, 1978, [92 Stat. 3521][/us/stat/92/3521].)
 
  __Change of Name__ 
 
-    Word “park” substituted in text for “monument” pursuant to [Pub. L. 95–625, § 611][/us/pl/95/625/s611], which is classified to [section 441e–1 of this title][/us/usc/t16/s441e–1] and which redesignated Badlands National Monument as Badlands National Park.
+    Word “park” substituted in text for “monument” pursuant to [Pub. L. 95–625][/us/pl/95/625], § 611, which is classified to [section 441e–1 of this title][/us/usc/t16/s441e–1] and which redesignated Badlands National Monument as Badlands National Park.
 
 ----------
 
@@ -30,11 +30,11 @@
 ----------
 ----------
 
-[/us/act/1929-03-04/ch693/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-04%2Fch693%2Fs5
+[/us/act/1929-03-04/ch693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-04%2Fch693
 [/us/stat/45/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1555
-[/us/pl/95/625/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs611
+[/us/pl/95/625/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtVI
 [/us/stat/92/3521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3521
-[/us/pl/95/625/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs611
+[/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
 [/us/usc/t16/s441e–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs441e%E2%80%931
 
 

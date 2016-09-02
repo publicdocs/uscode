@@ -51,7 +51,7 @@
 
         In this section the term “maritime archeology” includes the curation, preservation, and display of maritime artifacts.
 
-([Pub. L. 92–532, title III, § 318][/us/pl/92/532/s318], as added [Pub. L. 106–513, § 18][/us/pl/106/513/s18], Nov. 13, 2000, [114 Stat. 2392][/us/stat/114/2392].)
+([Pub. L. 92–532, title III][/us/pl/92/532/tIII], § 318, as added [Pub. L. 106–513][/us/pl/106/513], § 18, Nov. 13, 2000, [114 Stat. 2392][/us/stat/114/2392].)
 
  __Codification__ 
 
@@ -64,8 +64,8 @@
 ----------
 ----------
 
-[/us/pl/92/532/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs318
-[/us/pl/106/513/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513%2Fs18
+[/us/pl/92/532/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2FtIII
+[/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
 [/us/stat/114/2392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2392
 [/us/usc/t16/s1445c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1445c%E2%80%931
 

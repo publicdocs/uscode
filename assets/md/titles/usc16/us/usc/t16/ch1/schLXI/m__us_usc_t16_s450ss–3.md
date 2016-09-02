@@ -55,7 +55,7 @@
 
         Nothing in sections 450ss to 450ss–7 of this title shall prohibit the use of State and local law enforcement for the purposes of security related to the Memorial.
 
-([Pub. L. 105–58, § 5][/us/pl/105/58/s5], Oct. 9, 1997, [111 Stat. 1262][/us/stat/111/1262]; [Pub. L. 108–199, div. F, title V, § 544(d)][/us/pl/108/199/s544/d], Jan. 23, 2004, [118 Stat. 347][/us/stat/118/347].)
+([Pub. L. 105–58][/us/pl/105/58], § 5, Oct. 9, 1997, [111 Stat. 1262][/us/stat/111/1262]; [Pub. L. 108–199, div. F, title V][/us/pl/108/199/dF/tV], § 544(d), Jan. 23, 2004, [118 Stat. 347][/us/stat/118/347].)
 
  __Amendments__ 
 
@@ -63,7 +63,7 @@
 
  __Authorization of Secretary To Reimburse Previous Costs Paid by Foundation or Trust__ 
 
-[Pub. L. 108–199, div. F, title V, § 544(g)][/us/pl/108/199/s544/g], Jan. 23, 2004, [118 Stat. 348][/us/stat/118/348], provided that: 
+[Pub. L. 108–199, div. F, title V][/us/pl/108/199/dF/tV], § 544(g), Jan. 23, 2004, [118 Stat. 348][/us/stat/118/348], provided that: 
 
 > “To the extent that funds are made available for the Trust, the Secretary of the Interior shall reimburse the Oklahoma City National Memorial Foundation for funds obligated or expended by the Oklahoma City National Memorial Foundation or the Oklahoma City National Memorial Trust to the Secretary of the Interior for interpretive services, security, and other costs and services related to the Oklahoma City National Memorial before the date of the enactment of this Act \[Jan. 23, 2004\]. The Oklahoma City National Memorial Foundation may use such reimbursed funds for the operation, maintenance, and permanent endowment of the Oklahoma City National Memorial.”
 
@@ -74,12 +74,12 @@
 ----------
 ----------
 
-[/us/pl/105/58/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F58%2Fs5
+[/us/pl/105/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F58
 [/us/stat/111/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1262
-[/us/pl/108/199/s544/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs544%2Fd
+[/us/pl/108/199/dF/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdF%2FtV
 [/us/stat/118/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F347
 [/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
-[/us/pl/108/199/s544/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs544%2Fg
+[/us/pl/108/199/dF/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdF%2FtV
 [/us/stat/118/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F348
 
 

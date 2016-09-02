@@ -29,15 +29,15 @@
 
     (6) seize with or without warrant or process any evidentiary item according to Federal law or rule of law.
 
-([Pub. L. 99–570, title XV, § 15003][/us/pl/99/570/s15003], Oct. 27, 1986, [100 Stat. 3207–191][/us/stat/100/3207-191]; [Pub. L. 100–690, title VI, § 6254(b)][/us/pl/100/690/s6254/b], Nov. 18, 1988, [102 Stat. 4363][/us/stat/102/4363].)
+([Pub. L. 99–570, title XV][/us/pl/99/570/tXV], § 15003, Oct. 27, 1986, [100 Stat. 3207–191][/us/stat/100/3207-191]; [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6254(b), Nov. 18, 1988, [102 Stat. 4363][/us/stat/102/4363].)
 
  __Amendments__ 
 
-    1988—[Pub. L. 100–690, § 6254(b)(1)][/us/pl/100/690/s6254/b/1], in introductory provision substituted “1,000 special agents and law enforcement officers” for “500 officers and employees”, and struck out “within the boundaries of the National Forest System” after “shall have authority”.
+    1988—[Pub. L. 100–690][/us/pl/100/690], § 6254(b)(1), in introductory provision substituted “1,000 special agents and law enforcement officers” for “500 officers and employees”, and struck out “within the boundaries of the National Forest System” after “shall have authority”.
 
-    Par. (2). [Pub. L. 100–690, § 6254(b)(2)][/us/pl/100/690/s6254/b/2], inserted “, within the exterior boundaries of the National Forest System,” after “conduct” and “and to conduct such investigations and enforcement of such laws outside the exterior boundaries of the National Forest System for offenses committed within the National Forest System or which affect the administration of the National Forest System (including the pursuit of persons suspected of such offenses who flee the National Forest System to avoid arrest)” before semicolon at end.
+    Par. (2). [Pub. L. 100–690][/us/pl/100/690], § 6254(b)(2), inserted “, within the exterior boundaries of the National Forest System,” after “conduct” and “and to conduct such investigations and enforcement of such laws outside the exterior boundaries of the National Forest System for offenses committed within the National Forest System or which affect the administration of the National Forest System (including the pursuit of persons suspected of such offenses who flee the National Forest System to avoid arrest)” before semicolon at end.
 
-    Par. (3). [Pub. L. 100–690, § 6254(b)(3)][/us/pl/100/690/s6254/b/3], inserted “, for offenses committed within the National Forest System or which affect the administration of the National Forest System;” before semicolon at end.
+    Par. (3). [Pub. L. 100–690][/us/pl/100/690], § 6254(b)(3), inserted “, for offenses committed within the National Forest System or which affect the administration of the National Forest System;” before semicolon at end.
 
 ----------
 
@@ -47,12 +47,12 @@
 ----------
 
 [/us/usc/t21/s841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841
-[/us/pl/99/570/s15003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs15003
+[/us/pl/99/570/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtXV
 [/us/stat/100/3207-191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-191
-[/us/pl/100/690/s6254/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6254%2Fb
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4363
-[/us/pl/100/690/s6254/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6254%2Fb%2F1
-[/us/pl/100/690/s6254/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6254%2Fb%2F2
-[/us/pl/100/690/s6254/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6254%2Fb%2F3
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 
 

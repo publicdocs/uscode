@@ -77,25 +77,25 @@
 
         The Secretary is authorized to acquire lands or interests in lands by donation, purchase with donated or appropriated funds or exchange, not to exceed approximately 20 acres, in Acadian villages and towns. Any lands so acquired shall be developed, maintained and operated as part of the Jean Lafitte National Historical Park and Preserve.
 
-([Pub. L. 95–625, title IX, § 902][/us/pl/95/625/s902], Nov. 10, 1978, [92 Stat. 3535][/us/stat/92/3535]; [Pub. L. 96–87, title IV, § 401(q)(1)][/us/pl/96/87/s401/q/1], Oct. 12, 1979, [93 Stat. 666][/us/stat/93/666]; [Pub. L. 100–250, § 1(b)][/us/pl/100/250/s1/b], Feb. 16, 1988, [102 Stat. 16][/us/stat/102/16]; [Pub. L. 111–11, title VII, § 7105(b)][/us/pl/111/11/s7105/b], (f)(2)(B), Mar. 30, 2009, [123 Stat. 1191][/us/stat/123/1191], 1193.)
+([Pub. L. 95–625, title IX][/us/pl/95/625/tIX], § 902, Nov. 10, 1978, [92 Stat. 3535][/us/stat/92/3535]; [Pub. L. 96–87, title IV][/us/pl/96/87/tIV], § 401(q)(1), Oct. 12, 1979, [93 Stat. 666][/us/stat/93/666]; [Pub. L. 100–250][/us/pl/100/250], § 1(b), Feb. 16, 1988, [102 Stat. 16][/us/stat/102/16]; [Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7105(b), (f)(2)(B), Mar. 30, 2009, [123 Stat. 1191][/us/stat/123/1191], 1193.)
 
  __Amendments__ 
 
-    2009—Subsec. (a). [Pub. L. 111–11, § 7105(b)(1)][/us/pl/111/11/s7105/b/1], inserted heading, inserted par. (1) designation and heading and substituted text of par. (1) for “Within the Barataria Marsh Unit the Secretary is authorized to acquire not to exceed eight thousand six hundred acres of lands, waters, and interests therein (hereinafter referred to as the ‘core area’), as depicted on the map referred to in [section 230 of this title][/us/usc/t16/s230], by donation, purchase with donated or appropriated funds, or exchange.”, inserted par. (2) designation and heading and substituted “The Secretary may acquire by any of the methods referred to in paragraph (1)(A)” for “The Secretary may also acquire by any of the foregoing methods”, inserted par. (3) designation and heading and substituted “Land, water, and interests in land and water” for “Lands, waters, and interests therein”, and inserted par. (4) designation and heading.
+    2009—Subsec. (a). [Pub. L. 111–11][/us/pl/111/11], § 7105(b)(1), inserted heading, inserted par. (1) designation and heading and substituted text of par. (1) for “Within the Barataria Marsh Unit the Secretary is authorized to acquire not to exceed eight thousand six hundred acres of lands, waters, and interests therein (hereinafter referred to as the ‘core area’), as depicted on the map referred to in [section 230 of this title][/us/usc/t16/s230], by donation, purchase with donated or appropriated funds, or exchange.”, inserted par. (2) designation and heading and substituted “The Secretary may acquire by any of the methods referred to in paragraph (1)(A)” for “The Secretary may also acquire by any of the foregoing methods”, inserted par. (3) designation and heading and substituted “Land, water, and interests in land and water” for “Lands, waters, and interests therein”, and inserted par. (4) designation and heading.
 
-    Subsecs. (b), (c). [Pub. L. 111–11, § 7105(b)(2)][/us/pl/111/11/s7105/b/2], added subsecs. (b) and (c) and struck out former subsecs. (b) and (c) which related to guidelines or criteria applicable to the use and development of properties within a park protection zone, and preservation and protection of certain values, respectively.
+    Subsecs. (b), (c). [Pub. L. 111–11][/us/pl/111/11], § 7105(b)(2), added subsecs. (b) and (c) and struck out former subsecs. (b) and (c) which related to guidelines or criteria applicable to the use and development of properties within a park protection zone, and preservation and protection of certain values, respectively.
 
-    Subsec. (d). [Pub. L. 111–11, § 7105(b)(3)][/us/pl/111/11/s7105/b/3], (f)(2)(B), redesignated subsec. (g) as (d) and substituted “Jean Lafitte National Historical Park and Preserve” for “Jean Lafitte National Historical Park”.
+    Subsec. (d). [Pub. L. 111–11][/us/pl/111/11], § 7105(b)(3), (f)(2)(B), redesignated subsec. (g) as (d) and substituted “Jean Lafitte National Historical Park and Preserve” for “Jean Lafitte National Historical Park”.
 
-    [Pub. L. 111–11, § 7105(b)(2)][/us/pl/111/11/s7105/b/2], struck out subsec. (d). Prior to amendment, text read as follows: “Where the State or local units of government deem it appropriate, they may cede to the Secretary, and the Secretary is authorized to accept, the power and authority to confect and enforce a program or set of rules pursuant to the guidelines established under subsection (b) of this section for the purpose of protecting the values described in subsection (c) of this section.”
+    [Pub. L. 111–11][/us/pl/111/11], § 7105(b)(2), struck out subsec. (d). Prior to amendment, text read as follows: “Where the State or local units of government deem it appropriate, they may cede to the Secretary, and the Secretary is authorized to accept, the power and authority to confect and enforce a program or set of rules pursuant to the guidelines established under subsection (b) of this section for the purpose of protecting the values described in subsection (c) of this section.”
 
-    Subsecs. (e), (f). [Pub. L. 111–11, § 7105(b)(2)][/us/pl/111/11/s7105/b/2], struck out subsecs. (e) and (f) which read as follows:
+    Subsecs. (e), (f). [Pub. L. 111–11][/us/pl/111/11], § 7105(b)(2), struck out subsecs. (e) and (f) which read as follows:
 
     “(e) The Secretary, upon the failure of the State or local units of government to enact rules pursuant to subsection (b) of this section or enforce such rules so as to protect the values enumerated in subsection (c) of this section, may acquire such lands, servitudes, or interests in lands within the park protection zone as he deems necessary to protect the values enumerated in subsection (c) of this section.
 
     “(f) The Secretary may revise the boundaries of the park protection zone, notwithstanding any other provision of law, to include or exclude properties, but only with the consent of Jefferson Parish.”
 
-    Subsec. (g). [Pub. L. 111–11, § 7105(b)(3)][/us/pl/111/11/s7105/b/3], redesignated subsec. (g) as (d).
+    Subsec. (g). [Pub. L. 111–11][/us/pl/111/11], § 7105(b)(3), redesignated subsec. (g) as (d).
 
     1988—Subsec. (g). [Pub. L. 100–250][/us/pl/100/250] added subsec. (g).
 
@@ -115,21 +115,21 @@
 [/us/usc/t16/s230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs230
 [/us/usc/t16/s230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs230
 [/us/usc/t16/s230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs230
-[/us/pl/95/625/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs902
+[/us/pl/95/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtIX
 [/us/stat/92/3535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3535
-[/us/pl/96/87/s401/q/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F87%2Fs401%2Fq%2F1
+[/us/pl/96/87/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F87%2FtIV
 [/us/stat/93/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F666
-[/us/pl/100/250/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F250%2Fs1%2Fb
+[/us/pl/100/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F250
 [/us/stat/102/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F16
-[/us/pl/111/11/s7105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7105%2Fb
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1191
-[/us/pl/111/11/s7105/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7105%2Fb%2F1
+[/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 [/us/usc/t16/s230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs230
-[/us/pl/111/11/s7105/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7105%2Fb%2F2
-[/us/pl/111/11/s7105/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7105%2Fb%2F3
-[/us/pl/111/11/s7105/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7105%2Fb%2F2
-[/us/pl/111/11/s7105/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7105%2Fb%2F2
-[/us/pl/111/11/s7105/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7105%2Fb%2F3
+[/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
+[/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
+[/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
+[/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
+[/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 [/us/pl/100/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F250
 [/us/pl/96/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F87
 [/us/pl/95/625/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs2

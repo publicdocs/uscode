@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the Fund $5,000,000 for each of fiscal years 2006 through 2010.
 
-([Pub. L. 106–411, § 6][/us/pl/106/411/s6], Nov. 1, 2000, [114 Stat. 1794][/us/stat/114/1794]; [Pub. L. 109–363, title VII, § 703][/us/pl/109/363/s703], Oct. 17, 2006, [120 Stat. 2082][/us/stat/120/2082].)
+([Pub. L. 106–411][/us/pl/106/411], § 6, Nov. 1, 2000, [114 Stat. 1794][/us/stat/114/1794]; [Pub. L. 109–363, title VII][/us/pl/109/363/tVII], § 703, Oct. 17, 2006, [120 Stat. 2082][/us/stat/120/2082].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/106/411/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F411%2Fs6
+[/us/pl/106/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F411
 [/us/stat/114/1794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1794
-[/us/pl/109/363/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2Fs703
+[/us/pl/109/363/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2FtVII
 [/us/stat/120/2082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2082
 [/us/pl/109/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363
 

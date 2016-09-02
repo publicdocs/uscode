@@ -43,7 +43,7 @@
 
         The Secretary of Agriculture may accept and use contributions of non-Federal funds to make payments under this section.
 
-([Pub. L. 108–148, title V, § 504][/us/pl/108/148/s504], Dec. 3, 2003, [117 Stat. 1913][/us/stat/117/1913]; [Pub. L. 110–234, title VIII, § 8205(b)][/us/pl/110/234/s8205/b], May 22, 2008, [122 Stat. 1295][/us/stat/122/1295]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VIII, § 8205(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2057.)
+([Pub. L. 108–148, title V][/us/pl/108/148/tV], § 504, Dec. 3, 2003, [117 Stat. 1913][/us/stat/117/1913]; [Pub. L. 110–234, title VIII][/us/pl/110/234/tVIII], § 8205(b), May 22, 2008, [122 Stat. 1295][/us/stat/122/1295]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VIII, § 8205(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2057.)
 
  __Codification__ 
 
@@ -51,7 +51,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 8205(b)][/us/pl/110/246/s8205/b], substituted “Permanent easements” for “Easements of not more than 99 years” in heading and “a permanent easement (or an easement described in [section 6572(f)(1)(C)(ii) of this title][/us/usc/t16/s6572/f/1/C/ii])” for “an easement of not more than 99 years described in [section 6572(f)(1)(C) of this title][/us/usc/t16/s6572/f/1/C]” in introductory provisions.
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 8205(b), substituted “Permanent easements” for “Easements of not more than 99 years” in heading and “a permanent easement (or an easement described in [section 6572(f)(1)(C)(ii) of this title][/us/usc/t16/s6572/f/1/C/ii])” for “an easement of not more than 99 years described in [section 6572(f)(1)(C) of this title][/us/usc/t16/s6572/f/1/C]” in introductory provisions.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -64,17 +64,17 @@
 ----------
 ----------
 
-[/us/pl/108/148/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2Fs504
+[/us/pl/108/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2FtV
 [/us/stat/117/1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1913
-[/us/pl/110/234/s8205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs8205%2Fb
+[/us/pl/110/234/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVIII
 [/us/stat/122/1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1295
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s8205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs8205%2Fb
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t16/s6572/f/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6572%2Ff%2F1%2FC%2Fii
 [/us/usc/t16/s6572/f/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6572%2Ff%2F1%2FC
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

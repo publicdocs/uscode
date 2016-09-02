@@ -17,7 +17,7 @@
 
     Lands withdrawn under the provisions of sections 552a to 552d of this title shall be administered by the Secretary of Agriculture under such agreements for the protection of the watershed as he may make with the municipality concerned, and the Secretary of Agriculture is authorized, in addition to the rules and regulations adopted for the administration of the national forests, to adopt and prescribe such further rules and regulations as he considers necessary to effect the adequate protection of the watershed, including a rule or regulation forbidding persons other than forest officers and representatives of the municipality from going on the lands so reserved or making any use whatever thereof.
 
-([May 28, 1940, ch. 220, § 2][/us/act/1940-05-28/ch220/s2], [54 Stat. 224][/us/stat/54/224].)
+([May 28, 1940, ch. 220][/us/act/1940-05-28/ch220], § 2, [54 Stat. 224][/us/stat/54/224].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1940-05-28/ch220/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-05-28%2Fch220%2Fs2
+[/us/act/1940-05-28/ch220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-05-28%2Fch220
 [/us/stat/54/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F224
 
 

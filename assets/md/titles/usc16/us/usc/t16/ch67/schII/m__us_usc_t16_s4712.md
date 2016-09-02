@@ -125,25 +125,25 @@
 
             (B) invasions of aquatic nuisance species resulting from ballast water.
 
-([Pub. L. 101–646, title I, § 1102][/us/pl/101/646/s1102], Nov. 29, 1990, [104 Stat. 4764][/us/stat/104/4764]; [Pub. L. 104–332, § 2(c)][/us/pl/104/332/s2/c], (g), (h)(1), Oct. 26, 1996, [110 Stat. 4081][/us/stat/110/4081], 4091; [Pub. L. 105–362, title XV, § 1502(d)][/us/pl/105/362/s1502/d], Nov. 10, 1998, [112 Stat. 3295][/us/stat/112/3295].)
+([Pub. L. 101–646, title I][/us/pl/101/646/tI], § 1102, Nov. 29, 1990, [104 Stat. 4764][/us/stat/104/4764]; [Pub. L. 104–332][/us/pl/104/332], § 2(c), (g), (h)(1), Oct. 26, 1996, [110 Stat. 4081][/us/stat/110/4081], 4091; [Pub. L. 105–362, title XV][/us/pl/105/362/tXV], § 1502(d), Nov. 10, 1998, [112 Stat. 3295][/us/stat/112/3295].)
 
  __Amendments__ 
 
     1998—Subsec. (f)(2). [Pub. L. 105–362][/us/pl/105/362] substituted “biennial basis” for “biannual basis” in introductory provisions.
 
-    1996—[Pub. L. 104–332, § 2(h)(1)][/us/pl/104/332/s2/h/1], made technical amendment to [Pub. L. 101–646, § 1102][/us/pl/101/646/s1102], which enacted this section.
+    1996—[Pub. L. 104–332][/us/pl/104/332], § 2(h)(1), made technical amendment to [Pub. L. 101–646][/us/pl/101/646], § 1102, which enacted this section.
 
-    [Pub. L. 104–332, § 2(c)(1)][/us/pl/104/332/s2/c/1], substituted “management information” for “control program” in section catchline.
+    [Pub. L. 104–332][/us/pl/104/332], § 2(c)(1), substituted “management information” for “control program” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 104–332, § 2(c)(2)(A)][/us/pl/104/332/s2/c/2/A], inserted “, in cooperation with the Secretary,” before “shall conduct” in introductory provisions.
+    Subsec. (a)(1). [Pub. L. 104–332][/us/pl/104/332], § 2(c)(2)(A), inserted “, in cooperation with the Secretary,” before “shall conduct” in introductory provisions.
 
-    Subsec. (a)(2). [Pub. L. 104–332, § 2(c)(2)][/us/pl/104/332/s2/c/2], inserted “, in cooperation with the Secretary,” before “shall conduct” and “Lake Champlain and other” after “economic uses of”.
+    Subsec. (a)(2). [Pub. L. 104–332][/us/pl/104/332], § 2(c)(2), inserted “, in cooperation with the Secretary,” before “shall conduct” and “Lake Champlain and other” after “economic uses of”.
 
-    Subsec. (b). [Pub. L. 104–332, § 2(c)(3)][/us/pl/104/332/s2/c/3], added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “The Secretary and the Task Force shall cooperate in conducting their respective studies under this section.”
+    Subsec. (b). [Pub. L. 104–332][/us/pl/104/332], § 2(c)(3), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “The Secretary and the Task Force shall cooperate in conducting their respective studies under this section.”
 
-    Subsec. (c). [Pub. L. 104–332, § 2(g)][/us/pl/104/332/s2/g], substituted “Congress” for “appropriate Committees” in pars. (1) and (2).
+    Subsec. (c). [Pub. L. 104–332][/us/pl/104/332], § 2(g), substituted “Congress” for “appropriate Committees” in pars. (1) and (2).
 
-    Subsecs. (e), (f). [Pub. L. 104–332, § 2(c)(4)][/us/pl/104/332/s2/c/4], added subsecs. (e) and (f).
+    Subsecs. (e), (f). [Pub. L. 104–332][/us/pl/104/332], § 2(c)(4), added subsecs. (e) and (f).
 
 ----------
 
@@ -154,20 +154,20 @@
 
 [/us/usc/t16/s4711/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4711%2Fb
 [/us/usc/t16/s4711/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4711%2Fc
-[/us/pl/101/646/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs1102
+[/us/pl/101/646/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2FtI
 [/us/stat/104/4764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4764
-[/us/pl/104/332/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fc
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
 [/us/stat/110/4081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4081
-[/us/pl/105/362/s1502/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs1502%2Fd
+[/us/pl/105/362/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtXV
 [/us/stat/112/3295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3295
 [/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
-[/us/pl/104/332/s2/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fh%2F1
-[/us/pl/101/646/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs1102
-[/us/pl/104/332/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fc%2F1
-[/us/pl/104/332/s2/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fc%2F2%2FA
-[/us/pl/104/332/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fc%2F2
-[/us/pl/104/332/s2/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fc%2F3
-[/us/pl/104/332/s2/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fg
-[/us/pl/104/332/s2/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fc%2F4
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
 
 

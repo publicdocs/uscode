@@ -37,7 +37,7 @@
 
     (10) The term “hydroelectric facilities” means all facilities related to the generation, transmission, and distribution of hydroelectric power and which are subject to, and authorized by, a license(s), and any and all amendments thereto, issued by the Federal Energy Regulatory Commission.
 
-([Pub. L. 103–64, § 2][/us/pl/103/64/s2], Aug. 4, 1993, [107 Stat. 304][/us/stat/107/304]; [Pub. L. 111–11, title II, § 2301(a)(1)][/us/pl/111/11/s2301/a/1], Mar. 30, 2009, [123 Stat. 1101][/us/stat/123/1101].)
+([Pub. L. 103–64][/us/pl/103/64], § 2, Aug. 4, 1993, [107 Stat. 304][/us/stat/107/304]; [Pub. L. 111–11, title II][/us/pl/111/11/tII], § 2301(a)(1), Mar. 30, 2009, [123 Stat. 1101][/us/stat/123/1101].)
 
  __Amendments__ 
 
@@ -54,9 +54,9 @@
 [/us/usc/t16/s460iii–2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460iii%E2%80%932%2Fb
 [/us/usc/t16/s460iii–2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460iii%E2%80%932%2Fb
 [/us/usc/t16/s460iii–2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460iii%E2%80%932%2Fb
-[/us/pl/103/64/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F64%2Fs2
+[/us/pl/103/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F64
 [/us/stat/107/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F304
-[/us/pl/111/11/s2301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs2301%2Fa%2F1
+[/us/pl/111/11/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtII
 [/us/stat/123/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1101
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 

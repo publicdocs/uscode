@@ -39,11 +39,11 @@
 
         In this section the term “Straddling Fish Stocks Agreement” means the United Nations Agreement for the Implementation of the Provisions of the United Nations Convention on the Law of the Sea of 10 December 1982 Relating to the Conservation and Management of Straddling Fish Stocks and Highly Migratory Fish Stocks.
 
-([Pub. L. 104–43, title II, § 213][/us/pl/104/43/s213], as added [Pub. L. 105–384, title II, § 201(d)][/us/pl/105/384/s201/d], Nov. 13, 1998, [112 Stat. 3452][/us/stat/112/3452].)
+([Pub. L. 104–43, title II][/us/pl/104/43/tII], § 213, as added [Pub. L. 105–384, title II][/us/pl/105/384/tII], § 201(d), Nov. 13, 1998, [112 Stat. 3452][/us/stat/112/3452].)
 
  __References in Text__ 
 
-    [Section 5611 of this title][/us/usc/t16/s5611], referred to in subsec. (b), was repealed by [Pub. L. 113–188, title II, § 201(f)][/us/pl/113/188/s201/f], Nov. 26, 2014, [128 Stat. 2018][/us/stat/128/2018].
+    [Section 5611 of this title][/us/usc/t16/s5611], referred to in subsec. (b), was repealed by [Pub. L. 113–188, title II][/us/pl/113/188/tII], § 201(f), Nov. 26, 2014, [128 Stat. 2018][/us/stat/128/2018].
 
 ----------
 
@@ -52,11 +52,11 @@
 ----------
 ----------
 
-[/us/pl/104/43/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs213
-[/us/pl/105/384/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2Fs201%2Fd
+[/us/pl/104/43/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtII
+[/us/pl/105/384/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2FtII
 [/us/stat/112/3452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3452
 [/us/usc/t16/s5611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5611
-[/us/pl/113/188/s201/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs201%2Ff
+[/us/pl/113/188/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2FtII
 [/us/stat/128/2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2018
 
 

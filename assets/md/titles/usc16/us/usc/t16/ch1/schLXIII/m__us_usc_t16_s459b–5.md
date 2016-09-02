@@ -17,7 +17,7 @@
 
     The Secretary shall furnish to any party in interest requesting the same, a certificate indicating, with respect to any property located within the seashore as to which the Secretary’s authority to acquire such property by condemnation has been suspended in accordance with the provisions of sections 459b to 459b–8 of this title, that such authority has been so suspended and the reasons therefor.
 
-([Pub. L. 87–126, § 6][/us/pl/87/126/s6], Aug. 7, 1961, [75 Stat. 291][/us/stat/75/291].)
+([Pub. L. 87–126][/us/pl/87/126], § 6, Aug. 7, 1961, [75 Stat. 291][/us/stat/75/291].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/126/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F126%2Fs6
+[/us/pl/87/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F126
 [/us/stat/75/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F291
 
 

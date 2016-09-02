@@ -87,7 +87,7 @@
 
         The term “vessel subject to the jurisdiction of the United States” includes a vessel without nationality or a vessel assimilated to a vessel without nationality, in accordance with paragraph (2) of Article 6 of the 1958 Convention on the High Seas.
 
-([Pub. L. 98–623, title III, § 303][/us/pl/98/623/s303], Nov. 8, 1984, [98 Stat. 3398][/us/stat/98/3398].)
+([Pub. L. 98–623, title III][/us/pl/98/623/tIII], § 303, Nov. 8, 1984, [98 Stat. 3398][/us/stat/98/3398].)
 
 ----------
 
@@ -96,7 +96,7 @@
 ----------
 ----------
 
-[/us/pl/98/623/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs303
+[/us/pl/98/623/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtIII
 [/us/stat/98/3398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3398
 
 

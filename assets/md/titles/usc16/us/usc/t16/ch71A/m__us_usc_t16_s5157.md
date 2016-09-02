@@ -23,7 +23,7 @@
 
         Subsection (a) of this section shall apply to management plans and amendments adopted by the Commission after the 6-month period beginning on December 16, 1997.
 
-([Pub. L. 98–613, § 8][/us/pl/98/613/s8], Oct. 31, 1984, [98 Stat. 3190][/us/stat/98/3190]; [Pub. L. 105–146, § 2][/us/pl/105/146/s2], Dec. 16, 1997, [111 Stat. 2676][/us/stat/111/2676].)
+([Pub. L. 98–613][/us/pl/98/613], § 8, Oct. 31, 1984, [98 Stat. 3190][/us/stat/98/3190]; [Pub. L. 105–146][/us/pl/105/146], § 2, Dec. 16, 1997, [111 Stat. 2676][/us/stat/111/2676].)
 
  __Amendments__ 
 
@@ -37,9 +37,9 @@
 ----------
 
 [/us/usc/t16/s5104/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5104%2Fa%2F2
-[/us/pl/98/613/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F613%2Fs8
+[/us/pl/98/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F613
 [/us/stat/98/3190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3190
-[/us/pl/105/146/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F146%2Fs2
+[/us/pl/105/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F146
 [/us/stat/111/2676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2676
 [/us/pl/105/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F146
 

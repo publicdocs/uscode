@@ -91,7 +91,7 @@
 
         (4) The lands referred to in paragraph (1) are those lands or interests therein adjacent to, or affecting the restoration of natural water flows to, the park or Florida Bay which are located east of the park and known as the Frog Pond, Rocky Glades Agricultural Area, and the Eight-and-One-Half Square-Mile Area.
 
-([Pub. L. 101–229, title I, § 104][/us/pl/101/229/s104], Dec. 13, 1989, [103 Stat. 1949][/us/stat/103/1949]; [Pub. L. 103–219][/us/pl/103/219], Mar. 9, 1994, [108 Stat. 98][/us/stat/108/98]; [Pub. L. 103–437, § 6(d)(9)][/us/pl/103/437/s6/d/9], Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
+([Pub. L. 101–229, title I][/us/pl/101/229/tI], § 104, Dec. 13, 1989, [103 Stat. 1949][/us/stat/103/1949]; [Pub. L. 103–219][/us/pl/103/219], Mar. 9, 1994, [108 Stat. 98][/us/stat/108/98]; [Pub. L. 103–437][/us/pl/103/437], § 6(d)(9), Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
 
  __References in Text__ 
 
@@ -121,11 +121,11 @@
 [/us/usc/t16/s410r–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410r%E2%80%936
 [/us/usc/t16/s410r–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410r%E2%80%936
 [/us/usc/t16/s410r–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410r%E2%80%936
-[/us/pl/101/229/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F229%2Fs104
+[/us/pl/101/229/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F229%2FtI
 [/us/stat/103/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1949
 [/us/pl/103/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F219
 [/us/stat/108/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F98
-[/us/pl/103/437/s6/d/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fd%2F9
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4584
 [/us/pl/98/181/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs1302
 [/us/stat/97/1292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1292

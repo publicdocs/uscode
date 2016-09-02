@@ -31,7 +31,7 @@
 
         Pursuant to existing authorities, the Secretary may enter into agreements with the City of Ashland, County of Ashland, and County of Bayfield, Wisconsin, for the purpose of cooperative law enforcement and emergency services within the boundaries of the lakeshore.
 
-([Pub. L. 91–424, § 6][/us/pl/91/424/s6], Sept. 26, 1970, [84 Stat. 881][/us/stat/84/881]; [Pub. L. 113–291, div. B, title XXX, § 3030(2)][/us/pl/113/291/s3030/2], Dec. 19, 2014, [128 Stat. 3766][/us/stat/128/3766].)
+([Pub. L. 91–424][/us/pl/91/424], § 6, Sept. 26, 1970, [84 Stat. 881][/us/stat/84/881]; [Pub. L. 113–291, div. B, title XXX][/us/pl/113/291/dB/tXXX], § 3030(2), Dec. 19, 2014, [128 Stat. 3766][/us/stat/128/3766].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
  __Codification__ 
 
-    In subsec. (a), “[section 101511 of title 54][/us/usc/t54/s101511]” substituted for “the Act of April 9, 1924 ([43 Stat. 90][/us/stat/43/90]; [16 U.S.C. 8a][/us/usc/t16/s8a] et seq.), as amended” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (a), “[section 101511 of title 54][/us/usc/t54/s101511]” substituted for “the Act of April 9, 1924 ([43 Stat. 90][/us/stat/43/90]; [16 U.S.C. 8a][/us/usc/t16/s8a] et seq.), as amended” on authority of [Pub. L. 113–287][/us/pl/113/287], § 6(e), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
  __Amendments__ 
 
@@ -56,9 +56,9 @@
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/usc/t54/s101511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs101511
 [/us/usc/t16/s460w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460w
-[/us/pl/91/424/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F424%2Fs6
+[/us/pl/91/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F424
 [/us/stat/84/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F881
-[/us/pl/113/291/s3030/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3030%2F2
+[/us/pl/113/291/dB/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXX
 [/us/stat/128/3766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3766
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
@@ -72,7 +72,7 @@
 [/us/usc/t54/s101511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs101511
 [/us/stat/43/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F90
 [/us/usc/t16/s8a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs8a
-[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 

@@ -17,7 +17,7 @@
 
     To further the commemorative purposes of sections 450bb to 450bb–2 of this title, by providing historic properties and administrative facilities, the Secretary of the Interior is authorized to acquire, in the manner hereafter stated, the Storer College site, the original site of John Brown’s “Fort” and the old Federal armory, comprising altogether approximately thirty acres, for addition to Harpers Ferry National Historical Park.
 
-([Pub. L. 86–655, § 1][/us/pl/86/655/s1], July 14, 1960, [74 Stat. 520][/us/stat/74/520]; [Pub. L. 88–33][/us/pl/88/33], May 29, 1963, [77 Stat. 52][/us/stat/77/52].)
+([Pub. L. 86–655][/us/pl/86/655], § 1, July 14, 1960, [74 Stat. 520][/us/stat/74/520]; [Pub. L. 88–33][/us/pl/88/33], May 29, 1963, [77 Stat. 52][/us/stat/77/52].)
 
  __Change of Name__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/86/655/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F655%2Fs1
+[/us/pl/86/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F655
 [/us/stat/74/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F520
 [/us/pl/88/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F33
 [/us/stat/77/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F52

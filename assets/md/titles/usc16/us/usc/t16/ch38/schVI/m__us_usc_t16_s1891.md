@@ -17,7 +17,7 @@
 
     The Secretary of Commerce shall work with the Small Business Administration and other Federal agencies to develop financial and other mechanisms to encourage United States investment in seafood processing facilities in the United States for fisheries that lack capacity needed to process fish harvested by United States vessels in compliance with the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801][/us/usc/t16/s1801] et seq.).
 
-([Pub. L. 109–479, title I, § 106(c)][/us/pl/109/479/s106/c], Jan. 12, 2007, [120 Stat. 3593][/us/stat/120/3593].)
+([Pub. L. 109–479, title I][/us/pl/109/479/tI], § 106(c), Jan. 12, 2007, [120 Stat. 3593][/us/stat/120/3593].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
-[/us/pl/109/479/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs106%2Fc
+[/us/pl/109/479/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtI
 [/us/stat/120/3593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3593
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331

@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of [section 760–7 of this title][/us/usc/t16/s760–7].
 
-([Aug. 6, 1956, ch. 978, § 2][/us/act/1956-08-06/ch978/s2], [70 Stat. 1057][/us/stat/70/1057].)
+([Aug. 6, 1956, ch. 978][/us/act/1956-08-06/ch978], § 2, [70 Stat. 1057][/us/stat/70/1057].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s760–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs760%E2%80%937
-[/us/act/1956-08-06/ch978/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch978%2Fs2
+[/us/act/1956-08-06/ch978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch978
 [/us/stat/70/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1057
 
 

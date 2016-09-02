@@ -17,7 +17,7 @@
 
     That nothing herein contained shall affect any valid existing claim, location, or entry under the land laws of the United States, whether for homestead, mineral, right-of-way, or any other purposes whatsoever, or shall affect the right of any such claimant, locator, or entryman to the full use and enjoyment of his land.
 
-([Apr. 25, 1947, ch. 41, § 6][/us/act/1947-04-25/ch41/s6], formerly § 7, [61 Stat. 54][/us/stat/61/54]; renumbered § 6, [June 10, 1948, ch. 437, § 1][/us/act/1948-06-10/ch437/s1], [62 Stat. 352][/us/stat/62/352].)
+([Apr. 25, 1947, ch. 41][/us/act/1947-04-25/ch41], § 6, formerly § 7, [61 Stat. 54][/us/stat/61/54]; renumbered § 6, [June 10, 1948, ch. 437][/us/act/1948-06-10/ch437], § 1, [62 Stat. 352][/us/stat/62/352].)
 
  __References in Text__ 
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/act/1947-04-25/ch41/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-04-25%2Fch41%2Fs6
+[/us/act/1947-04-25/ch41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-04-25%2Fch41
 [/us/stat/61/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F54
-[/us/act/1948-06-10/ch437/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-10%2Fch437%2Fs1
+[/us/act/1948-06-10/ch437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-10%2Fch437
 [/us/stat/62/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F352
 
 

@@ -37,7 +37,7 @@
 
         The Secretary shall not acquire any historic vessel pursuant to this subsection until the Secretary has notified the Committees in writing that sufficient funds have been made available to preserve and maintain those vessels listed in [section 410nn–1(e)(1) of this title][/us/usc/t16/s410nn–1/e/1].
 
-([Pub. L. 100–348, § 4][/us/pl/100/348/s4], June 27, 1988, [102 Stat. 656][/us/stat/102/656]; [Pub. L. 103–437, § 6(d)(11)][/us/pl/103/437/s6/d/11], Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
+([Pub. L. 100–348][/us/pl/100/348], § 4, June 27, 1988, [102 Stat. 656][/us/stat/102/656]; [Pub. L. 103–437][/us/pl/103/437], § 6(d)(11), Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
 
  __References in Text__ 
 
@@ -55,9 +55,9 @@
 ----------
 
 [/us/usc/t16/s410nn–1/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410nn%E2%80%931%2Fe%2F1
-[/us/pl/100/348/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F348%2Fs4
+[/us/pl/100/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F348
 [/us/stat/102/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F656
-[/us/pl/103/437/s6/d/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fd%2F11
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4584
 [/us/pl/100/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F348
 [/us/stat/102/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F654

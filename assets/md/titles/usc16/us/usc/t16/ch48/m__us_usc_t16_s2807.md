@@ -29,7 +29,7 @@
 
         Based on the results of the Capital Requirements Study conducted under subsection (a), and within six months of the completion of the study, the Secretaries shall formulate a plan for acting on the study’s findings. The plan shall include: (1) those Federal actions, if any, found to be necessary to meet financial needs unmet through normal credit channels and existing Federal programs; and (2) recommendations, if any, for legislative actions. Upon completion, the plan shall be submitted to Congress.
 
-([Pub. L. 96–362, § 8][/us/pl/96/362/s8], Sept. 26, 1980, [94 Stat. 1204][/us/stat/94/1204].)
+([Pub. L. 96–362][/us/pl/96/362], § 8, Sept. 26, 1980, [94 Stat. 1204][/us/stat/94/1204].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/96/362/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F362%2Fs8
+[/us/pl/96/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F362
 [/us/stat/94/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1204
 
 

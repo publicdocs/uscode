@@ -145,7 +145,7 @@
 
             (B) the National Underground Railroad Network to Freedom.
 
-([Pub. L. 113–291, div. B, title XXX, § 3036][/us/pl/113/291/s3036], Dec. 19, 2014, [128 Stat. 3780][/us/stat/128/3780].)
+([Pub. L. 113–291, div. B, title XXX][/us/pl/113/291/dB/tXXX], § 3036, Dec. 19, 2014, [128 Stat. 3780][/us/stat/128/3780].)
 
  __References in Text__ 
 
@@ -157,7 +157,7 @@
 
  __Codification__ 
 
-    In subsec. (d)(1), “[section 100502 of title 54][/us/usc/t54/s100502]” substituted for “section 12(b) of the National Park Service General Authorities Act ([16 U.S.C. 1a–7(b)][/us/usc/t16/s1a–7/b])” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (d)(1), “[section 100502 of title 54][/us/usc/t54/s100502]” substituted for “section 12(b) of the National Park Service General Authorities Act ([16 U.S.C. 1a–7(b)][/us/usc/t16/s1a–7/b])” on authority of [Pub. L. 113–287][/us/pl/113/287], § 6(e), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
     Section is comprised of [section 3036 of Pub. L. 113–291][/us/pl/113/291/s3036]. Subsec. (e) of [section 3036 of Pub. L. 113–291][/us/pl/113/291/s3036] amended [section 101(b)(12) of Pub. L. 104–303][/us/pl/104/303/s101/b/12], title I, Oct. 12, 1996, [110 Stat. 3667][/us/stat/110/3667], which is not classified to the Code.
 
@@ -171,7 +171,7 @@
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
 [/us/usc/t54/s100502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100502
-[/us/pl/113/291/s3036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3036
+[/us/pl/113/291/dB/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXX
 [/us/stat/128/3780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3780
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
@@ -193,7 +193,7 @@
 [/us/usc/t16/s410sss/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410sss%2Fb%2F1
 [/us/usc/t54/s100502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100502
 [/us/usc/t16/s1a–7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%937%2Fb
-[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/113/291/s3036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3036
 [/us/pl/113/291/s3036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3036

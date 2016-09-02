@@ -27,7 +27,7 @@
 
         (c) During the period of the study, no acquisition of privately owned land shall be permitted within the study area, except with the consent of the owner, and the holders of valid mining claims shall be permitted to operate on their claims, subject to reasonable regulations designed to minimize damage to the environment: Provided, however, That such lands or claims shall be subject to acquisition without the consent of the owner or holder if the Secretary determines, after notice and opportunity for hearing, if such notice and hearing are not otherwise required by applicable law or regulation, that activities on such lands or claims will significantly impair important scenic, wildlife, or recreational values of the public lands which are the subject of the study.
 
-([Pub. L. 96–487, title II, § 202][/us/pl/96/487/s202], Dec. 2, 1980, [94 Stat. 2382][/us/stat/94/2382]; [Pub. L. 97–468, title VI, § 615(b)(5)][/us/pl/97/468/s615/b/5], Jan. 14, 1983, [96 Stat. 2578][/us/stat/96/2578].)
+([Pub. L. 96–487, title II][/us/pl/96/487/tII], § 202, Dec. 2, 1980, [94 Stat. 2382][/us/stat/94/2382]; [Pub. L. 97–468, title VI][/us/pl/97/468/tVI], § 615(b)(5), Jan. 14, 1983, [96 Stat. 2578][/us/stat/96/2578].)
 
  __Amendments__ 
 
@@ -43,7 +43,7 @@
 
  __Katmai National Park Land Exchange__ 
 
-[Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title I, § 135\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–264, provided that:
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title I, § 135\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–264, provided that:
 
 >     “(a) __Ratification of Agreement.—__ 
 
@@ -88,9 +88,9 @@
 ----------
 ----------
 
-[/us/pl/96/487/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs202
+[/us/pl/96/487/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtII
 [/us/stat/94/2382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2382
-[/us/pl/97/468/s615/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F468%2Fs615%2Fb%2F5
+[/us/pl/97/468/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F468%2FtVI
 [/us/stat/96/2578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2578
 [/us/pl/97/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F468
 [/us/pl/97/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F468
@@ -99,7 +99,7 @@
 [/us/pl/105/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F317
 [/us/stat/112/3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3002
 [/us/pl/105/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F317
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 [/us/usc/t25/s409a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs409a
 [/us/stat/46/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1471

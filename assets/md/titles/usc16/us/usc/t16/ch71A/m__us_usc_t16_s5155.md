@@ -41,7 +41,7 @@
 
         The Secretaries shall make biennial reports to the Congress and to the Commission concerning the progress and findings of studies conducted under subsection (a) of this section and shall make those reports public. Such reports shall, to the extent appropriate, contain recommendations of actions which could be taken to encourage the sustainable management of Atlantic striped bass.
 
-([Pub. L. 98–613, § 6][/us/pl/98/613/s6], Oct. 31, 1984, [98 Stat. 3190][/us/stat/98/3190]; [Pub. L. 105–146, § 2][/us/pl/105/146/s2], Dec. 16, 1997, [111 Stat. 2675][/us/stat/111/2675].)
+([Pub. L. 98–613][/us/pl/98/613], § 6, Oct. 31, 1984, [98 Stat. 3190][/us/stat/98/3190]; [Pub. L. 105–146][/us/pl/105/146], § 2, Dec. 16, 1997, [111 Stat. 2675][/us/stat/111/2675].)
 
  __Amendments__ 
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/98/613/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F613%2Fs6
+[/us/pl/98/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F613
 [/us/stat/98/3190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3190
-[/us/pl/105/146/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F146%2Fs2
+[/us/pl/105/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F146
 [/us/stat/111/2675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2675
 [/us/pl/105/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F146
 

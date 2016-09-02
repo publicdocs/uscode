@@ -17,7 +17,7 @@
 
     For the purposes of this subchapter and the Migratory Bird Treaty Act ([16 U.S.C. 703][/us/usc/t16/s703] et seq.), migratory birds are those defined as such by the treaty between the United States and Great Britain for the protection of migratory birds concluded August 16, 1916 ([39 Stat. 1702][/us/stat/39/1702]), the treaty between the United States and the United Mexican States for the protection of migratory birds and game mammals concluded February 7, 1936 ([50 Stat. 1311][/us/stat/50/1311]), the Convention between the Government of the United States of America and the Government of Japan for the Protection of Migratory Birds and Birds in Danger of Extinction, and their Environment concluded March 4, 1972, and the Convention between the United States and the Union of Soviet Socialist Republics for the Conservation of Migratory Birds and their Environment concluded November 19, 1976.
 
-([Feb. 18, 1929, ch. 257, § 11][/us/act/1929-02-18/ch257/s11], [45 Stat. 1224][/us/stat/45/1224]; [Pub. L. 89–669, § 7(c)][/us/pl/89/669/s7/c], Oct. 15, 1966, [80 Stat. 930][/us/stat/80/930]; [Pub. L. 95–616, § 5(c)][/us/pl/95/616/s5/c], Nov. 8, 1978, [92 Stat. 3114][/us/stat/92/3114].)
+([Feb. 18, 1929, ch. 257][/us/act/1929-02-18/ch257], § 11, [45 Stat. 1224][/us/stat/45/1224]; [Pub. L. 89–669][/us/pl/89/669], § 7(c), Oct. 15, 1966, [80 Stat. 930][/us/stat/80/930]; [Pub. L. 95–616][/us/pl/95/616], § 5(c), Nov. 8, 1978, [92 Stat. 3114][/us/stat/92/3114].)
 
  __References in Text__ 
 
@@ -39,11 +39,11 @@
 [/us/usc/t16/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs703
 [/us/stat/39/1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F1702
 [/us/stat/50/1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F1311
-[/us/act/1929-02-18/ch257/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-18%2Fch257%2Fs11
+[/us/act/1929-02-18/ch257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-18%2Fch257
 [/us/stat/45/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1224
-[/us/pl/89/669/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F669%2Fs7%2Fc
+[/us/pl/89/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F669
 [/us/stat/80/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F930
-[/us/pl/95/616/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616%2Fs5%2Fc
+[/us/pl/95/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616
 [/us/stat/92/3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3114
 [/us/act/1918-07-03/ch128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-07-03%2Fch128
 [/us/stat/40/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F755

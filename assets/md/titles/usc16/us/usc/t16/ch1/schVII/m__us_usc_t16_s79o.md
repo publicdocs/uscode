@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t16/ch1/schVII/m__us_usc_t16_s79n.md) | [Next](./../../../../..//us/usc/t16/ch1/schVII/m__us_usc_t16_s79p.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs79o)
 
-## § 79o. Repealed. [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068]
+## § 79o. Repealed. [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068]
 
-    Section, [Pub. L. 95–250, title I, § 106][/us/pl/95/250/s106], Mar. 27, 1978, [92 Stat. 171][/us/stat/92/171], related to payments to local government units for entitlement lands within the Redwood National Park. See [section 6905 of Title 31][/us/usc/t31/s6905], Money and Finance.
+    Section, [Pub. L. 95–250, title I][/us/pl/95/250/tI], § 106, Mar. 27, 1978, [92 Stat. 171][/us/stat/92/171], related to payments to local government units for entitlement lands within the Redwood National Park. See [section 6905 of Title 31][/us/usc/t31/s6905], Money and Finance.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1068
-[/us/pl/95/250/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250%2Fs106
+[/us/pl/95/250/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250%2FtI
 [/us/stat/92/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F171
 [/us/usc/t31/s6905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6905
 

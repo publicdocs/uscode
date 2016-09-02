@@ -31,7 +31,7 @@
 
         The Secretary, in making any determination of the energy requirements of any Pacific Northwest customer which is a non-Federal utility having hydroelectric generating facilities, shall exclude any amounts of hydroelectric energy generated in the Pacific Northwest and disposed of outside the Pacific Northwest by the utility which, through reasonable measures, could have been conserved or otherwise kept available for the utility’s own needs in the Pacific Northwest. The Secretary may sell the utility as a replacement therefor only what would otherwise be surplus energy.
 
-([Pub. L. 88–552, § 3][/us/pl/88/552/s3], Aug. 31, 1964, [78 Stat. 756][/us/stat/78/756].)
+([Pub. L. 88–552][/us/pl/88/552], § 3, Aug. 31, 1964, [78 Stat. 756][/us/stat/78/756].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/88/552/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F552%2Fs3
+[/us/pl/88/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F552
 [/us/stat/78/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F756
 
 

@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to acquire by purchase or otherwise such properties within the exterior boundaries of Rocky Mountain National Park as may be deemed by him to be necessary in connecting the eastern approach road with the existing Bear Lake and Trail Ridge roads, and in developing the present governmental residential, utility, and proposed administrative units.
 
-([Aug. 24, 1949, ch. 501, § 4][/us/act/1949-08-24/ch501/s4], [63 Stat. 627][/us/stat/63/627].)
+([Aug. 24, 1949, ch. 501][/us/act/1949-08-24/ch501], § 4, [63 Stat. 627][/us/stat/63/627].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1949-08-24/ch501/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-24%2Fch501%2Fs4
+[/us/act/1949-08-24/ch501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-24%2Fch501
 [/us/stat/63/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F627
 
 

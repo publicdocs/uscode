@@ -37,7 +37,7 @@
 
         (7) leverage resources through national, regional, and local public-private partnerships.
 
-([Pub. L. 109–479, title I, § 117][/us/pl/109/479/s117], Jan. 12, 2007, [120 Stat. 3606][/us/stat/120/3606].)
+([Pub. L. 109–479, title I][/us/pl/109/479/tI], § 117, Jan. 12, 2007, [120 Stat. 3606][/us/stat/120/3606].)
 
  __Codification__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/109/479/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs117
+[/us/pl/109/479/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtI
 [/us/stat/120/3606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3606
 
 

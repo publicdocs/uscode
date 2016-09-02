@@ -27,19 +27,19 @@
 
  __References in Text__ 
 
-    Section 1136 of the Revised Statutes, referred to in the second par., was repealed and reenacted as sections 4774(d) and 9774(d) of Title 10, Armed Forces, by [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 1][/us/stat/70A/1]. Sections 4774(d) and 9774(d) were redesignated as entire sections 4774 and 9774 by [Pub. L. 93–166, title V, § 509(c)][/us/pl/93/166/s509/c], (e), Nov. 29, 1973, [87 Stat. 677][/us/stat/87/677], 678, and subsequently were repealed by [Pub. L. 97–214, § 7(1)][/us/pl/97/214/s7/1], July 12, 1982, [96 Stat. 173][/us/stat/96/173].
+    Section 1136 of the Revised Statutes, referred to in the second par., was repealed and reenacted as sections 4774(d) and 9774(d) of Title 10, Armed Forces, by [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 1][/us/stat/70A/1]. Sections 4774(d) and 9774(d) were redesignated as entire sections 4774 and 9774 by [Pub. L. 93–166, title V][/us/pl/93/166/tV], § 509(c), (e), Nov. 29, 1973, [87 Stat. 677][/us/stat/87/677], 678, and subsequently were repealed by [Pub. L. 97–214][/us/pl/97/214], § 7(1), July 12, 1982, [96 Stat. 173][/us/stat/96/173].
 
-    [Section 1463 of title 12][/us/usc/t12/s1463], referred to in the last par., was repealed by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 648][/us/stat/80/648].
+    [Section 1463 of title 12][/us/usc/t12/s1463], referred to in the last par., was repealed by [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 648][/us/stat/80/648].
 
  __Codification__ 
 
-    In text, “sections 3111 and 3112 of title 40 and” substituted for “section 355, as amended,” and “[section 3112 of title 40][/us/usc/t40/s3112]” substituted for “the last paragraph of said section 355, as amended” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works.
+    In text, “sections 3111 and 3112 of title 40 and” substituted for “section 355, as amended,” and “[section 3112 of title 40][/us/usc/t40/s3112]” substituted for “the last paragraph of said section 355, as amended” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works.
 
-    In text, “section 1136 of the Revised Statutes, as amended, and [section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 1136, as amended, and section 3709 of the Revised Statutes” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In text, “section 1136 of the Revised Statutes, as amended, and [section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 1136, as amended, and section 3709 of the Revised Statutes” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Abolition of Home Owners’ Loan Corporation__ 
 
-    For dissolution and abolishment of Home Owners’ Loan Corporation, by [act June 30, 1953, ch. 170, § 21][/us/act/1953-06-30/ch170/s21], [67 Stat. 126][/us/stat/67/126], see note set out under [section 1463 of Title 12][/us/usc/t12/s1463], Banks and Banking.
+    For dissolution and abolishment of Home Owners’ Loan Corporation, by [act June 30, 1953, ch. 170][/us/act/1953-06-30/ch170], § 21, [67 Stat. 126][/us/stat/67/126], see note set out under [section 1463 of Title 12][/us/usc/t12/s1463], Banks and Banking.
 
 ----------
 
@@ -55,20 +55,20 @@
 [/us/stat/58/914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F914
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F1
-[/us/pl/93/166/s509/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F166%2Fs509%2Fc
+[/us/pl/93/166/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F166%2FtV
 [/us/stat/87/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F677
-[/us/pl/97/214/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs7%2F1
+[/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
 [/us/stat/96/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F173
 [/us/usc/t12/s1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1463
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F648
 [/us/usc/t40/s3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3112
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/act/1953-06-30/ch170/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch170%2Fs21
+[/us/act/1953-06-30/ch170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch170
 [/us/stat/67/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F126
 [/us/usc/t12/s1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1463
 

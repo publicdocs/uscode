@@ -17,7 +17,7 @@
 
     The Secretary of Commerce, with the concurrence of the Secretary of State and after consultation with the Secretary of the department in which the Coast Guard is operating, shall issue regulations as may be necessary to carry out the purposes and objectives of the Treaty and this chapter. These regulations shall be made applicable as necessary to all persons and vessels subject to the jurisdiction of the United States, wherever located.
 
-([Pub. L. 100–330, § 4][/us/pl/100/330/s4], June 7, 1988, [102 Stat. 592][/us/stat/102/592].)
+([Pub. L. 100–330][/us/pl/100/330], § 4, June 7, 1988, [102 Stat. 592][/us/stat/102/592].)
 
  __Effective Date__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/100/330/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F330%2Fs4
+[/us/pl/100/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F330
 [/us/stat/102/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F592
 [/us/pl/100/330/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F330%2Fs21
 [/us/usc/t16/s973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs973

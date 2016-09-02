@@ -17,7 +17,7 @@
 
     Nothing in sections 698u to 698u–7 of this title shall give the Secretary authority to regulate lands outside the land area acquired by the Secretary under [section 698u–4(a) of this title][/us/usc/t16/s698u–4/a].
 
-([Pub. L. 104–333, div. I, title X, § 1008][/us/pl/104/333/s1008], Nov. 12, 1996, [110 Stat. 4209][/us/stat/110/4209].)
+([Pub. L. 104–333, div. I, title X][/us/pl/104/333/dI/tX], § 1008, Nov. 12, 1996, [110 Stat. 4209][/us/stat/110/4209].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s698u–4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs698u%E2%80%934%2Fa
-[/us/pl/104/333/s1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs1008
+[/us/pl/104/333/dI/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtX
 [/us/stat/110/4209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4209
 
 

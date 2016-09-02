@@ -19,7 +19,7 @@
 
     (b) Any acquisition hereunder shall exclude and shall not diminish any right of occupation or use of the surface under grants, leases, or easements existing on April 11, 1961, which are reasonably necessary for the exploration, development, production, storing, processing, or transporting of oil and gas minerals that are removed from outside the boundaries of the national seashore and the Secretary may grant additional rights of occupation or use of the surface for the purposes aforesaid upon the terms and under such regulations as may be prescribed by him.
 
-([Pub. L. 87–712, § 4][/us/pl/87/712/s4], Sept. 28, 1962, [76 Stat. 651][/us/stat/76/651].)
+([Pub. L. 87–712][/us/pl/87/712], § 4, Sept. 28, 1962, [76 Stat. 651][/us/stat/76/651].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/87/712/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F712%2Fs4
+[/us/pl/87/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F712
 [/us/stat/76/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F651
 
 

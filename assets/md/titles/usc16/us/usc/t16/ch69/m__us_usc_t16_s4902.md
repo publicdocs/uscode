@@ -31,7 +31,7 @@
 
     (4) encouraging and supporting effective implementation of the Convention.
 
-([Pub. L. 102–440, title I, § 103][/us/pl/102/440/s103], Oct. 23, 1992, [106 Stat. 2225][/us/stat/106/2225].)
+([Pub. L. 102–440, title I][/us/pl/102/440/tI], § 103, Oct. 23, 1992, [106 Stat. 2225][/us/stat/106/2225].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/102/440/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2Fs103
+[/us/pl/102/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2FtI
 [/us/stat/106/2225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2225
 
 

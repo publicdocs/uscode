@@ -49,7 +49,7 @@
 
             (B) the interests of the stakeholders that are affected by the planning and management of the Conservation Area and the Wilderness.
 
-([Pub. L. 106–353, § 8][/us/pl/106/353/s8], Oct. 24, 2000, [114 Stat. 1379][/us/stat/114/1379]; [Pub. L. 108–400, § 1(d)][/us/pl/108/400/s1/d], Oct. 30, 2004, [118 Stat. 2254][/us/stat/118/2254].)
+([Pub. L. 106–353][/us/pl/106/353], § 8, Oct. 24, 2000, [114 Stat. 1379][/us/stat/114/1379]; [Pub. L. 108–400][/us/pl/108/400], § 1(d), Oct. 30, 2004, [118 Stat. 2254][/us/stat/118/2254].)
 
  __References in Text__ 
 
@@ -77,9 +77,9 @@
 ----------
 
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
-[/us/pl/106/353/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F353%2Fs8
+[/us/pl/106/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F353
 [/us/stat/114/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1379
-[/us/pl/108/400/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F400%2Fs1%2Fd
+[/us/pl/108/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F400
 [/us/stat/118/2254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2254
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

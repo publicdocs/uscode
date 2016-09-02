@@ -27,7 +27,7 @@
 
         The Secretary of Commerce may establish such regulations as may be necessary to carry out the provisions of this section.
 
-([Aug. 8, 1956, ch. 1039, § 1][/us/act/1956-08-08/ch1039/s1], [70 Stat. 1126][/us/stat/70/1126]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
+([Aug. 8, 1956, ch. 1039][/us/act/1956-08-08/ch1039], § 1, [70 Stat. 1126][/us/stat/70/1126]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
 
  __Transfer of Functions__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/act/1956-08-08/ch1039/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1039%2Fs1
+[/us/act/1956-08-08/ch1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1039
 [/us/stat/70/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1126
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
 [/us/usc/t16/s755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs755

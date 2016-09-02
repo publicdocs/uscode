@@ -21,11 +21,11 @@
 
     (2) State activities that are specifically required within such plans.
 
-([Pub. L. 103–206, title VIII, § 808][/us/pl/103/206/s808], Dec. 20, 1993, [107 Stat. 2453][/us/stat/107/2453].)
+([Pub. L. 103–206, title VIII][/us/pl/103/206/tVIII], § 808, Dec. 20, 1993, [107 Stat. 2453][/us/stat/107/2453].)
 
  __Reports__ 
 
-[Pub. L. 106–555, title I, § 122(c)][/us/pl/106/555/s122/c], Dec. 21, 2000, [114 Stat. 2766][/us/stat/114/2766], provided that:
+[Pub. L. 106–555, title I][/us/pl/106/555/tI], § 122(c), Dec. 21, 2000, [114 Stat. 2766][/us/stat/114/2766], provided that:
 
 >     “(1)  __Annual report to the Secretary__  __.—__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/103/206/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs808
+[/us/pl/103/206/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtVIII
 [/us/stat/107/2453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2453
-[/us/pl/106/555/s122/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F555%2Fs122%2Fc
+[/us/pl/106/555/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F555%2FtI
 [/us/stat/114/2766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2766
 [/us/pl/106/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F555
 [/us/usc/t16/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5101

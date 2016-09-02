@@ -17,7 +17,7 @@
 
     The Secretary shall promulgate regulations as may be necessary to carry out the purposes and objectives of the Convention and this chapter. Any such regulation may be made applicable, as necessary, to all persons and all vessels subject to the jurisdiction of the United States, wherever located.
 
-([Pub. L. 104–43, title II, § 206][/us/pl/104/43/s206], Nov. 3, 1995, [109 Stat. 379][/us/stat/109/379].)
+([Pub. L. 104–43, title II][/us/pl/104/43/tII], § 206, Nov. 3, 1995, [109 Stat. 379][/us/stat/109/379].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/104/43/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs206
+[/us/pl/104/43/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtII
 [/us/stat/109/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F379
 
 

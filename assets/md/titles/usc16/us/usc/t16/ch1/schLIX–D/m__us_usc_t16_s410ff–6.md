@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, no fees shall be charged for entrance or admission to the park.
 
-([Pub. L. 96–199, title II, § 207][/us/pl/96/199/s207], Mar. 5, 1980, [94 Stat. 77][/us/stat/94/77].)
+([Pub. L. 96–199, title II][/us/pl/96/199/tII], § 207, Mar. 5, 1980, [94 Stat. 77][/us/stat/94/77].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/199/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199%2Fs207
+[/us/pl/96/199/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199%2FtII
 [/us/stat/94/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F77
 
 

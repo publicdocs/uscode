@@ -23,7 +23,7 @@
 
     (3) In administering the Fortress Rosecrans, the Secretary is authorized to enter a cooperative agreement with the city of Murfreesboro, Tennessee, for the rendering, on a nonreimbursable basis, of rescue, firefighting, and law enforcement services and cooperative assistance by nearby law enforcement and fire preventive agencies.
 
-([Pub. L. 100–205, § 2][/us/pl/100/205/s2], Dec. 23, 1987, [101 Stat. 1433][/us/stat/101/1433]; [Pub. L. 102–225, § 1(3)][/us/pl/102/225/s1/3], Dec. 11, 1991, [105 Stat. 1683][/us/stat/105/1683].)
+([Pub. L. 100–205][/us/pl/100/205], § 2, Dec. 23, 1987, [101 Stat. 1433][/us/stat/101/1433]; [Pub. L. 102–225][/us/pl/102/225], § 1(3), Dec. 11, 1991, [105 Stat. 1683][/us/stat/105/1683].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/100/205/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F205%2Fs2
+[/us/pl/100/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F205
 [/us/stat/101/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1433
-[/us/pl/102/225/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F225%2Fs1%2F3
+[/us/pl/102/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F225
 [/us/stat/105/1683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1683
 [/us/pl/102/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F225
 

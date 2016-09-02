@@ -17,7 +17,7 @@
 
     The Secretary shall administer, protect, and develop the recreation area in accordance with the provisions of the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]; [16 U.S.C. 1][/us/usc/t16/s1] et seq.), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended and supplemented, and with any other statutory authority available to him for the conservation and management of natural resources to the extent he finds such authority will further the purposes of this subchapter: Provided, however, That nothing in this subchapter shall affect or interfere with the authority of the Secretary granted by Public Law 485, Eighty-fourth Congress, second session \[[43 U.S.C. 620][/us/usc/t43/s620] et seq.\], to operate Glen Canyon Dam and Reservoir in accordance with the purposes of the Colorado River Storage Project Act \[[43 U.S.C. 620][/us/usc/t43/s620] et seq.\] for river regulation, irrigation, flood control, and generation of hydroelectric power.
 
-([Pub. L. 92–593, § 4][/us/pl/92/593/s4], Oct. 27, 1972, [86 Stat. 1312][/us/stat/86/1312].)
+([Pub. L. 92–593][/us/pl/92/593], § 4, Oct. 27, 1972, [86 Stat. 1312][/us/stat/86/1312].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/usc/t43/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs620
 [/us/usc/t43/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs620
-[/us/pl/92/593/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F593%2Fs4
+[/us/pl/92/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F593
 [/us/stat/86/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1312
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1

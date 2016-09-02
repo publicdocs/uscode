@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act July 19, 1940, ch. 642, § 2][/us/act/1940-07-19/ch642/s2], [54 Stat. 773][/us/stat/54/773], which related to cooperation with travel agencies and publication of information, was transferred to [section 1545 of Title 15][/us/usc/t15/s1545], Commerce and Trade.
+    Section, [act July 19, 1940, ch. 642][/us/act/1940-07-19/ch642], § 2, [54 Stat. 773][/us/stat/54/773], which related to cooperation with travel agencies and publication of information, was transferred to [section 1545 of Title 15][/us/usc/t15/s1545], Commerce and Trade.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1940-07-19/ch642/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-19%2Fch642%2Fs2
+[/us/act/1940-07-19/ch642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-19%2Fch642
 [/us/stat/54/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F773
 [/us/usc/t15/s1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1545
 

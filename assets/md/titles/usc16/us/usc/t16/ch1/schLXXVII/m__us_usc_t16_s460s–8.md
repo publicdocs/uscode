@@ -23,7 +23,7 @@
 
         As used in this subchapter, the term “inland buffer zone” means that part of the lakeshore delineated as such on the map identified as “Proposed Pictured Rocks National Lakeshore, United States Department of the Interior, National Park Service, Boundary Map, NL–PR–7100A, July, 1966”. The Secretary shall file the map with the Office of the Federal Register, and it may also be examined in the Offices of the Department of the Interior.
 
-([Pub. L. 89–668, § 9][/us/pl/89/668/s9], Oct. 15, 1966, [80 Stat. 924][/us/stat/80/924].)
+([Pub. L. 89–668][/us/pl/89/668], § 9, Oct. 15, 1966, [80 Stat. 924][/us/stat/80/924].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/89/668/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F668%2Fs9
+[/us/pl/89/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F668
 [/us/stat/80/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F924
 
 

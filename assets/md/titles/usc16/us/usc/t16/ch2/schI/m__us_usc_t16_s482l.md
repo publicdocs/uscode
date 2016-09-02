@@ -17,7 +17,7 @@
 
     Valid mining claims within the said lands, existing on June 10, 1949, and thereafter maintained in compliance with the law under which they were initiated and the laws of the State of New Mexico, may be perfected under sections 482j to 482l of this title, or under the laws under which they were initiated, as the claimant may desire.
 
-([June 10, 1949, ch. 190, § 3][/us/act/1949-06-10/ch190/s3], [63 Stat. 169][/us/stat/63/169].)
+([June 10, 1949, ch. 190][/us/act/1949-06-10/ch190], § 3, [63 Stat. 169][/us/stat/63/169].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1949-06-10/ch190/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-10%2Fch190%2Fs3
+[/us/act/1949-06-10/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-10%2Fch190
 [/us/stat/63/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F169
 
 

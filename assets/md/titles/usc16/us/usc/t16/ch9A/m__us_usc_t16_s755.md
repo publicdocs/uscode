@@ -17,7 +17,7 @@
 
     The Secretary of Commerce is authorized and directed to establish one or more salmon-cultural stations in the Columbia River Basin in each of the States of Oregon, Washington, and Idaho. Any sums appropriated for the purpose of establishing such stations may be expended, and such stations shall be established, operated and maintained, in accordance with the provisions of the Act entitled “An Act to provide for a five-year construction and maintenance program for the United States Bureau of Fisheries”, approved [May 21, 1930, ch. 306][/us/act/1930-05-21/ch306], [46 Stat. 371][/us/stat/46/371], insofar as the provisions of such Act are not inconsistent with the provisions of this section and sections 756 and 757 of this title.
 
-([May 11, 1938, ch. 193, § 1][/us/act/1938-05-11/ch193/s1], [52 Stat. 345][/us/stat/52/345]; 1939 Reorg. Plan No. II, § 4(e), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
+([May 11, 1938, ch. 193][/us/act/1938-05-11/ch193], § 1, [52 Stat. 345][/us/stat/52/345]; 1939 Reorg. Plan No. II, § 4(e), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 
 [/us/act/1930-05-21/ch306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-21%2Fch306
 [/us/stat/46/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F371
-[/us/act/1938-05-11/ch193/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-11%2Fch193%2Fs1
+[/us/act/1938-05-11/ch193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-11%2Fch193
 [/us/stat/52/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F345
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090

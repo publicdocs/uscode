@@ -47,7 +47,7 @@
 
         The purpose of this chapter is to assist in the conservation of marine turtles and the nesting habitats of marine turtles in foreign countries by supporting and providing financial resources for projects to conserve the nesting habitats, conserve marine turtles in those habitats, and address other threats to the survival of marine turtles.
 
-([Pub. L. 108–266, § 2][/us/pl/108/266/s2], July 2, 2004, [118 Stat. 791][/us/stat/118/791].)
+([Pub. L. 108–266][/us/pl/108/266], § 2, July 2, 2004, [118 Stat. 791][/us/stat/118/791].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 
  __Short Title__ 
 
-[Pub. L. 108–266, § 1][/us/pl/108/266/s1], July 2, 2004, [118 Stat. 791][/us/stat/118/791], provided that: 
+[Pub. L. 108–266][/us/pl/108/266], § 1, July 2, 2004, [118 Stat. 791][/us/stat/118/791], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Marine Turtle Conservation Act of 2004’.”
 
@@ -67,12 +67,12 @@
 ----------
 
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
-[/us/pl/108/266/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F266%2Fs2
+[/us/pl/108/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F266
 [/us/stat/118/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F791
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F884
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
-[/us/pl/108/266/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F266%2Fs1
+[/us/pl/108/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F266
 [/us/stat/118/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F791
 
 

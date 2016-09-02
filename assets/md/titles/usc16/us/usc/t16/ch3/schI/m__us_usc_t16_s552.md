@@ -17,7 +17,7 @@
 
     Consent of the Congress of the United States is given to each of the several States of the Union to enter into any agreement or compact, not in conflict with any law of the United States, with any other State or States for the purpose of conserving the forests and the water supply of the States entering into such agreement or compact.
 
-([Mar. 1, 1911, ch. 186, § 1][/us/act/1911-03-01/ch186/s1], [36 Stat. 961][/us/stat/36/961].)
+([Mar. 1, 1911, ch. 186][/us/act/1911-03-01/ch186], § 1, [36 Stat. 961][/us/stat/36/961].)
 
  __Short Title__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1911-03-01/ch186/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-01%2Fch186%2Fs1
+[/us/act/1911-03-01/ch186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-01%2Fch186
 [/us/stat/36/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F961
 [/us/act/1911-03-01/ch186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-01%2Fch186
 [/us/stat/36/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F961

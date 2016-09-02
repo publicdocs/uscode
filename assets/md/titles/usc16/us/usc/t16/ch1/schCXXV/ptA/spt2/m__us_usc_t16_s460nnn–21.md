@@ -39,7 +39,7 @@
 
         The Secretary shall implement a monitoring program for Federal lands in the Cooperative Management and Protection Area so that progress towards ecological integrity objectives can be determined.
 
-([Pub. L. 106–399, title I, § 111][/us/pl/106/399/s111], Oct. 30, 2000, [114 Stat. 1659][/us/stat/114/1659].)
+([Pub. L. 106–399, title I][/us/pl/106/399/tI], § 111, Oct. 30, 2000, [114 Stat. 1659][/us/stat/114/1659].)
 
  __References in Text__ 
 
@@ -56,7 +56,7 @@
 
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
 [/us/usc/t16/s460nnn–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460nnn%E2%80%9312
-[/us/pl/106/399/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2Fs111
+[/us/pl/106/399/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2FtI
 [/us/stat/114/1659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1659
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
 [/us/stat/90/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2743

@@ -61,7 +61,7 @@
 
             (D) encourage and assist private landowners in the Natural Area in the implementation of the management plan.
 
-([Pub. L. 109–337, § 5][/us/pl/109/337/s5], Oct. 12, 2006, [120 Stat. 1778][/us/stat/120/1778].)
+([Pub. L. 109–337][/us/pl/109/337], § 5, Oct. 12, 2006, [120 Stat. 1778][/us/stat/120/1778].)
 
 ----------
 
@@ -70,7 +70,7 @@
 ----------
 ----------
 
-[/us/pl/109/337/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F337%2Fs5
+[/us/pl/109/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F337
 [/us/stat/120/1778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1778
 
 

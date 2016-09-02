@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as are necessary to carry out sections 423l–1 to 423l–6 of this title.
 
-([Pub. L. 106–511, title V, § 506][/us/pl/106/511/s506], Nov. 13, 2000, [114 Stat. 2375][/us/stat/114/2375].)
+([Pub. L. 106–511, title V][/us/pl/106/511/tV], § 506, Nov. 13, 2000, [114 Stat. 2375][/us/stat/114/2375].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/106/511/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F511%2Fs506
+[/us/pl/106/511/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F511%2FtV
 [/us/stat/114/2375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2375
 [/us/pl/106/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F511
 [/us/stat/114/2373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2373

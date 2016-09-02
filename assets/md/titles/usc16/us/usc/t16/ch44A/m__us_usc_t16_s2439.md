@@ -67,7 +67,7 @@
 
         All provisions of law relating to the seizure, forfeiture, and condemnation of property (including vessels) for violation of the customs laws, the disposition of such property or the proceeds from the sale thereof, and the remission or mitigation of such forfeiture, shall apply to the seizures and forfeitures incurred, or alleged to have been incurred, and the compromise of claims, under the provisions of this chapter, insofar as such provisions of law are applicable and not inconsistent with the provisions of this chapter; except that all powers, rights, and duties conferred or imposed by the customs laws upon any officer or employee of the Customs Service may, for the purposes of this chapter, also be exercised or performed by the Secretary of Commerce or the Secretary of the department in which the Coast Guard is operating, or by such officers or employees of the United States as each Secretary may designate.
 
-([Pub. L. 98–623, title III, § 310][/us/pl/98/623/s310], Nov. 8, 1984, [98 Stat. 3403][/us/stat/98/3403].)
+([Pub. L. 98–623, title III][/us/pl/98/623/tIII], § 310, Nov. 8, 1984, [98 Stat. 3403][/us/stat/98/3403].)
 
  __Transfer of Functions__ 
 
@@ -88,7 +88,7 @@
 [/us/usc/t16/s2434/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2434%2Fb
 [/us/usc/t16/s2435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2435
 [/us/usc/t16/s2435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2435
-[/us/pl/98/623/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs310
+[/us/pl/98/623/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtIII
 [/us/stat/98/3403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3403
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

@@ -45,7 +45,7 @@
 
         (2) is not under the administrative jurisdiction of the National Park Service on November 22, 2000.
 
-([Pub. L. 106–530, § 4][/us/pl/106/530/s4], Nov. 22, 2000, [114 Stat. 2529][/us/stat/114/2529].)
+([Pub. L. 106–530][/us/pl/106/530], § 4, Nov. 22, 2000, [114 Stat. 2529][/us/stat/114/2529].)
 
  __Change of Name__ 
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/106/530/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F530%2Fs4
+[/us/pl/106/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F530
 [/us/stat/114/2529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2529
 
 

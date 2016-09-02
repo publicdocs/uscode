@@ -21,7 +21,7 @@
 
     (2) provide for public parks and recreational areas, construct roads and mark with monuments, tablets, or otherwise, points of interest, within the boundaries of the Booker T. Washington National Monument.
 
-([Apr. 2, 1956, ch. 158, § 3][/us/act/1956-04-02/ch158/s3], [70 Stat. 86][/us/stat/70/86].)
+([Apr. 2, 1956, ch. 158][/us/act/1956-04-02/ch158], § 3, [70 Stat. 86][/us/stat/70/86].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1956-04-02/ch158/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-02%2Fch158%2Fs3
+[/us/act/1956-04-02/ch158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-02%2Fch158
 [/us/stat/70/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F86
 
 

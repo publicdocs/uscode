@@ -79,13 +79,13 @@
 
                 For purposes of this paragraph, the term “financial assistance” includes any contract, loan, grant, cooperative agreement, or other form of assistance, including the insurance or guarantee of a loan, mortgage, or pool of mortgages.
 
-([Pub. L. 97–348, § 6][/us/pl/97/348/s6], Oct. 18, 1982, [96 Stat. 1656][/us/stat/96/1656]; [Pub. L. 100–707, title I, § 109(h)][/us/pl/100/707/s109/h], Nov. 23, 1988, [102 Stat. 4709][/us/stat/102/4709]; [Pub. L. 101–591, § 5(a)][/us/pl/101/591/s5/a], Nov. 16, 1990, [104 Stat. 2934][/us/stat/104/2934]; [Pub. L. 113–287, § 5(d)(34)][/us/pl/113/287/s5/d/34], Dec. 19, 2014, [128 Stat. 3267][/us/stat/128/3267].)
+([Pub. L. 97–348][/us/pl/97/348], § 6, Oct. 18, 1982, [96 Stat. 1656][/us/stat/96/1656]; [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 109(h), Nov. 23, 1988, [102 Stat. 4709][/us/stat/102/4709]; [Pub. L. 101–591][/us/pl/101/591], § 5(a), Nov. 16, 1990, [104 Stat. 2934][/us/stat/104/2934]; [Pub. L. 113–287][/us/pl/113/287], § 5(d)(34), Dec. 19, 2014, [128 Stat. 3267][/us/stat/128/3267].)
 
  __References in Text__ 
 
     The Coastal Zone Management Act of 1972, referred to in subsec. (a)(6)(C), is title III of [Pub. L. 89–454][/us/pl/89/454], as added by [Pub. L. 92–583][/us/pl/92/583], Oct. 27, 1972, [86 Stat. 1280][/us/stat/86/1280], as amended, which is classified generally to chapter 33 (§ 1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1451 of this title][/us/usc/t16/s1451] and Tables.
 
-    Section 1362 of the National Flood Insurance Act of 1968 ([42 U.S.C. 4103][/us/usc/t42/s4103]), referred to in subsec. (a)(6)(E), was repealed by [Pub. L. 103–325, title V, § 551(a)][/us/pl/103/325/s551/a], Sept. 23, 1994, [108 Stat. 2269][/us/stat/108/2269].
+    Section 1362 of the National Flood Insurance Act of 1968 ([42 U.S.C. 4103][/us/usc/t42/s4103]), referred to in subsec. (a)(6)(E), was repealed by [Pub. L. 103–325, title V][/us/pl/103/325/tV], § 551(a), Sept. 23, 1994, [108 Stat. 2269][/us/stat/108/2269].
 
     The National Flood Insurance Act of 1968, referred to in subsec. (d)(2), is title XIII of [Pub. L. 90–448][/us/pl/90/448], Aug. 1, 1968, [82 Stat. 572][/us/stat/82/572], as amended, which is classified principally to chapter 50 (§ 4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of Title 42][/us/usc/t42/s4001] and Tables.
 
@@ -103,7 +103,7 @@
 
  __Expansion of Highways in Michigan__ 
 
-    [Pub. L. 100–707, title II, § 204(d)][/us/pl/100/707/s204/d], Nov. 23, 1988, [102 Stat. 4715][/us/stat/102/4715], exempted existing highways in Michigan from limitations on the use of Federal expenditures or financial assistance within the Coastal Barrier Resources System under [16 U.S.C. 3505(a)(3)][/us/usc/t16/s3505/a/3] if the Congress added new units to the Coastal Barrier Resources System under [16 U.S.C. 3503][/us/usc/t16/s3503], and those units included portions of United States or State highways in the State of Michigan, prior to repeal by [Pub. L. 101–591, § 5(b)][/us/pl/101/591/s5/b], Nov. 16, 1990, [104 Stat. 2936][/us/stat/104/2936]. See [section 3505(c) of this title][/us/usc/t16/s3505/c].
+    [Pub. L. 100–707, title II][/us/pl/100/707/tII], § 204(d), Nov. 23, 1988, [102 Stat. 4715][/us/stat/102/4715], exempted existing highways in Michigan from limitations on the use of Federal expenditures or financial assistance within the Coastal Barrier Resources System under [16 U.S.C. 3505(a)(3)][/us/usc/t16/s3505/a/3] if the Congress added new units to the Coastal Barrier Resources System under [16 U.S.C. 3503][/us/usc/t16/s3503], and those units included portions of United States or State highways in the State of Michigan, prior to repeal by [Pub. L. 101–591][/us/pl/101/591], § 5(b), Nov. 16, 1990, [104 Stat. 2936][/us/stat/104/2936]. See [section 3505(c) of this title][/us/usc/t16/s3505/c].
 
 ----------
 
@@ -118,20 +118,20 @@
 [/us/usc/t16/s3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3504
 [/us/usc/t16/s3503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3503%2Fa
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
-[/us/pl/97/348/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F348%2Fs6
+[/us/pl/97/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F348
 [/us/stat/96/1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1656
-[/us/pl/100/707/s109/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs109%2Fh
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4709
-[/us/pl/101/591/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591%2Fs5%2Fa
+[/us/pl/101/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591
 [/us/stat/104/2934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2934
-[/us/pl/113/287/s5/d/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F34
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3267
 [/us/pl/89/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454
 [/us/pl/92/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F583
 [/us/stat/86/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1280
 [/us/usc/t16/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1451
 [/us/usc/t42/s4103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4103
-[/us/pl/103/325/s551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs551%2Fa
+[/us/pl/103/325/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtV
 [/us/stat/108/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2269
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572
@@ -142,11 +142,11 @@
 [/us/pl/101/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591
 [/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/100/707/s204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs204%2Fd
+[/us/pl/100/707/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtII
 [/us/stat/102/4715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4715
 [/us/usc/t16/s3505/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3505%2Fa%2F3
 [/us/usc/t16/s3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3503
-[/us/pl/101/591/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591%2Fs5%2Fb
+[/us/pl/101/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591
 [/us/stat/104/2936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2936
 [/us/usc/t16/s3505/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3505%2Fc
 

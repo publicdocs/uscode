@@ -17,7 +17,7 @@
 
     Except as may otherwise be provided in this subchapter, the public lands within the area shall be administered by the Secretary under any authority available to him for the conservation, development, and management of natural resources on public lands in California withdrawn by Executive Order Numbered 6910, dated November 26, 1934, to the extent that he finds such authority will further the purposes of this subchapter.
 
-([Pub. L. 91–476, § 7][/us/pl/91/476/s7], Oct. 21, 1970, [84 Stat. 1070][/us/stat/84/1070].)
+([Pub. L. 91–476][/us/pl/91/476], § 7, Oct. 21, 1970, [84 Stat. 1070][/us/stat/84/1070].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/91/476/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F476%2Fs7
+[/us/pl/91/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F476
 [/us/stat/84/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1070
 
 

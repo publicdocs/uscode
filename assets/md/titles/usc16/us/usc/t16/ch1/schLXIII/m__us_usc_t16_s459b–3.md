@@ -51,7 +51,7 @@
 
         Nothing in this section or elsewhere in sections 459b to 459b–8 of this title shall be construed to prohibit the use of condemnation as a means of acquiring a clear and marketable title, free of any and all encumbrances.
 
-([Pub. L. 87–126, § 4][/us/pl/87/126/s4], Aug. 7, 1961, [75 Stat. 288][/us/stat/75/288].)
+([Pub. L. 87–126][/us/pl/87/126], § 4, Aug. 7, 1961, [75 Stat. 288][/us/stat/75/288].)
 
 ----------
 
@@ -63,7 +63,7 @@
 [/us/usc/t16/s459b–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459b%E2%80%934
 [/us/usc/t16/s459b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459b
 [/us/usc/t16/s459b–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459b%E2%80%934
-[/us/pl/87/126/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F126%2Fs4
+[/us/pl/87/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F126
 [/us/stat/75/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F288
 
 

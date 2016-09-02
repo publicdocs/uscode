@@ -49,7 +49,7 @@
 
         The Secretary may permit the owner or owners of any improved residential property acquired by the Secretary under this part to retain a right of use and occupancy of the property for noncommerical  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “noncommercial”. </sup></sup>  residential uses not incompatible with the plan approved under [section 460zz–2 of this title][/us/usc/t16/s460zz–2]. The provisions of subsection (c), (d), and (e) of [section 460ii–1 of this title][/us/usc/t16/s460ii–1] shall apply to the retention of such rights, except that for purposes of this part, the applicable date shall be January 1, 1987 in lieu of January 1, 1975 and the purposes of this part shall be substituted for the purposes referred to in [section 460ii–1(d) of this title][/us/usc/t16/s460ii–1/d].
 
-([Pub. L. 100–696, title VII, § 705][/us/pl/100/696/s705], Nov. 18, 1988, [102 Stat. 4605][/us/stat/102/4605]; [Pub. L. 101–40, § 4(1)][/us/pl/101/40/s4/1], June 20, 1989, [103 Stat. 82][/us/stat/103/82].)
+([Pub. L. 100–696, title VII][/us/pl/100/696/tVII], § 705, Nov. 18, 1988, [102 Stat. 4605][/us/stat/102/4605]; [Pub. L. 101–40][/us/pl/101/40], § 4(1), June 20, 1989, [103 Stat. 82][/us/stat/103/82].)
 
  __Amendments__ 
 
@@ -70,9 +70,9 @@
 [/us/usc/t16/s460zz–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460zz%E2%80%932
 [/us/usc/t16/s460ii–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460ii%E2%80%931
 [/us/usc/t16/s460ii–1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460ii%E2%80%931%2Fd
-[/us/pl/100/696/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2Fs705
+[/us/pl/100/696/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2FtVII
 [/us/stat/102/4605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4605
-[/us/pl/101/40/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F40%2Fs4%2F1
+[/us/pl/101/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F40
 [/us/stat/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F82
 [/us/pl/101/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F40
 

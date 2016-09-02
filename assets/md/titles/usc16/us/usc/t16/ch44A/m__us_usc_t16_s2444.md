@@ -17,7 +17,7 @@
 
     If any provision of this chapter or the application of this chapter to any person or circumstance is held invalid, neither the remainder of this chapter nor the application of that provision to other persons or circumstances shall be affected thereby.
 
-([Pub. L. 98–623, title III, § 315][/us/pl/98/623/s315], Nov. 8, 1984, [98 Stat. 3407][/us/stat/98/3407].)
+([Pub. L. 98–623, title III][/us/pl/98/623/tIII], § 315, Nov. 8, 1984, [98 Stat. 3407][/us/stat/98/3407].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/98/623/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs315
+[/us/pl/98/623/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtIII
 [/us/stat/98/3407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3407
 
 

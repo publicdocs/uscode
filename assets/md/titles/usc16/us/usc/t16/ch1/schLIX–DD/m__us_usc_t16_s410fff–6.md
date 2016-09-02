@@ -43,7 +43,7 @@
 
         As soon as practicable after October 21, 1999, the Secretary of the Interior shall file a map and a legal description of the Gunnison Gorge Wilderness with the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources of the United States House of Representatives. This map and description shall have the same force and effect as if included in this subchapter. The Secretary of the Interior may correct clerical and typographical errors in the map and legal description. The map and legal description shall be on file and available in the office of the Director of the Bureau of Land Management (BLM).
 
-([Pub. L. 106–76, § 8][/us/pl/106/76/s8], Oct. 21, 1999, [113 Stat. 1130][/us/stat/113/1130].)
+([Pub. L. 106–76][/us/pl/106/76], § 8, Oct. 21, 1999, [113 Stat. 1130][/us/stat/113/1130].)
 
  __References in Text__ 
 
@@ -68,7 +68,7 @@
 [/us/usc/t43/s1782/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1782%2Fc
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
 [/us/usc/t16/s1133/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1133%2Fd%2F7
-[/us/pl/106/76/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F76%2Fs8
+[/us/pl/106/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F76
 [/us/stat/113/1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1130
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890

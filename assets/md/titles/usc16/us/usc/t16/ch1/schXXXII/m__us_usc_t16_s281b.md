@@ -31,7 +31,7 @@
 
     The Nez Perce Tribe’s governing body, if it so desires, with the approval of the Secretary of the Interior, is authorized to sell, donate, or exchange tribal-owned lands held in trust needed to further the purpose of this subchapter.
 
-([Pub. L. 89–19, § 3][/us/pl/89/19/s3], May 15, 1965, [79 Stat. 110][/us/stat/79/110]; [Pub. L. 102–576, § 2(3)][/us/pl/102/576/s2/3], Oct. 30, 1992, [106 Stat. 4770][/us/stat/106/4770].)
+([Pub. L. 89–19][/us/pl/89/19], § 3, May 15, 1965, [79 Stat. 110][/us/stat/79/110]; [Pub. L. 102–576][/us/pl/102/576], § 2(3), Oct. 30, 1992, [106 Stat. 4770][/us/stat/106/4770].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/89/19/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F19%2Fs3
+[/us/pl/89/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F19
 [/us/stat/79/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F110
-[/us/pl/102/576/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F576%2Fs2%2F3
+[/us/pl/102/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F576
 [/us/stat/106/4770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4770
 [/us/pl/102/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F576
 

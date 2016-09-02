@@ -17,7 +17,7 @@
 
     The Secretary is authorized, under such regulations as he may prescribe, subject to the provisions of sections 532 to 538 of this title, to grant permanent or temporary easements for specified periods or otherwise for road rights-of-way (1) over national forest lands and other lands administered by the Forest Service, and (2) over any other related lands with respect to which the Department of Agriculture has rights under the terms of the grant to it.
 
-([Pub. L. 88–657, § 2][/us/pl/88/657/s2], Oct. 13, 1964, [78 Stat. 1089][/us/stat/78/1089].)
+([Pub. L. 88–657][/us/pl/88/657], § 2, Oct. 13, 1964, [78 Stat. 1089][/us/stat/78/1089].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/88/657/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F657%2Fs2
+[/us/pl/88/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F657
 [/us/stat/78/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1089
 [/us/stat/93/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1373
 [/us/pl/102/486/s3012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3012%2Fb

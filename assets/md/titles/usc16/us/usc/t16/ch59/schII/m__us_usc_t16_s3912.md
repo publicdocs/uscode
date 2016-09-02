@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, an amount equal to the amount of all import duties collected on arms and ammunition, as specified in chapter 93 of the Harmonized Tariff Schedule of the United States, shall, beginning with the next fiscal year quarter after November 10, 1986, be paid quarterly into the migratory bird conservation fund  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  established under [section 718d of this title][/us/usc/t16/s718d].
 
-([Pub. L. 99–645, title II, § 203][/us/pl/99/645/s203], Nov. 10, 1986, [100 Stat. 3586][/us/stat/100/3586]; [Pub. L. 100–418, title I, § 1214(f)][/us/pl/100/418/s1214/f], Aug. 23, 1988, [102 Stat. 1156][/us/stat/102/1156].)
+([Pub. L. 99–645, title II][/us/pl/99/645/tII], § 203, Nov. 10, 1986, [100 Stat. 3586][/us/stat/100/3586]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1214(f), Aug. 23, 1988, [102 Stat. 1156][/us/stat/102/1156].)
 
  __References in Text__ 
 
@@ -39,9 +39,9 @@
 ----------
 
 [/us/usc/t16/s718d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs718d
-[/us/pl/99/645/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F645%2Fs203
+[/us/pl/99/645/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F645%2FtII
 [/us/stat/100/3586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3586
-[/us/pl/100/418/s1214/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1214%2Ff
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1156
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418

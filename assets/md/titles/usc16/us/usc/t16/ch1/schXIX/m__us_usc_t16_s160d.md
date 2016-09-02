@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, the Secretary is authorized to negotiate and enter into concession contracts with former owners of commercial, recreational, resort, or similar properties located within the park boundaries for the provision of such services at their former location as he may deem necessary for the accommodation of visitors.
 
-([Pub. L. 91–661, § 203][/us/pl/91/661/s203], Jan. 8, 1971, [84 Stat. 1972][/us/stat/84/1972].)
+([Pub. L. 91–661][/us/pl/91/661], § 203, Jan. 8, 1971, [84 Stat. 1972][/us/stat/84/1972].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/661/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F661%2Fs203
+[/us/pl/91/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F661
 [/us/stat/84/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1972
 
 

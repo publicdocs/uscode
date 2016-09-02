@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated such sums (but not more than $10,804,000 for the acquisition of lands or interests in lands) as are necessary to carry out the purposes of this subchapter.
 
-([Pub. L. 88–492, § 8][/us/pl/88/492/s8], Aug. 27, 1964, [78 Stat. 610][/us/stat/78/610]; [Pub. L. 92–272, title I, § 101(7)][/us/pl/92/272/s101/7], Apr. 11, 1972, [86 Stat. 120][/us/stat/86/120].)
+([Pub. L. 88–492][/us/pl/88/492], § 8, Aug. 27, 1964, [78 Stat. 610][/us/stat/78/610]; [Pub. L. 92–272, title I][/us/pl/92/272/tI], § 101(7), Apr. 11, 1972, [86 Stat. 120][/us/stat/86/120].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/88/492/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F492%2Fs8
+[/us/pl/88/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F492
 [/us/stat/78/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F610
-[/us/pl/92/272/s101/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F272%2Fs101%2F7
+[/us/pl/92/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F272%2FtI
 [/us/stat/86/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F120
 [/us/pl/92/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F272
 

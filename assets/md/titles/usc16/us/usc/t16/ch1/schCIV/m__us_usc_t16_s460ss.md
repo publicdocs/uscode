@@ -35,17 +35,17 @@
 
     (9) the Secretary has the authority to implement a restoration program only in the Trinity River Basin and needs additional authority to implement a restoration program in cooperation with State and local governments to restore anadromous fish populations to optimum levels in both the Klamath and Trinity River Basins;  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The semicolon probably should be a period. </sup></sup> 
 
-([Pub. L. 99–552, § 1][/us/pl/99/552/s1], Oct. 27, 1986, [100 Stat. 3080][/us/stat/100/3080].)
+([Pub. L. 99–552][/us/pl/99/552], § 1, Oct. 27, 1986, [100 Stat. 3080][/us/stat/100/3080].)
 
  __Short Title__ 
 
-[Section 8 of Pub. L. 99–552][/us/pl/99/552/s8], as added by [Pub. L. 100–653, title VI, § 604][/us/pl/100/653/s604], Nov. 14, 1988, [102 Stat. 3830][/us/stat/102/3830], provided that: 
+[Section 8 of Pub. L. 99–552][/us/pl/99/552/s8], as added by [Pub. L. 100–653, title VI][/us/pl/100/653/tVI], § 604, Nov. 14, 1988, [102 Stat. 3830][/us/stat/102/3830], provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘Klamath River Basin Fishery Resources Restoration Act’.”
 
  __Salmon Plan and Study__ 
 
-[Pub. L. 109–479, title I, § 113(b)][/us/pl/109/479/s113/b], Jan. 12, 2007, [120 Stat. 3602][/us/stat/120/3602], provided that:
+[Pub. L. 109–479, title I][/us/pl/109/479/tI], § 113(b), Jan. 12, 2007, [120 Stat. 3602][/us/stat/120/3602], provided that:
 
 >     “(1)  __Recovery plan__  __.—__ 
 
@@ -70,12 +70,12 @@
 ----------
 ----------
 
-[/us/pl/99/552/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F552%2Fs1
+[/us/pl/99/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F552
 [/us/stat/100/3080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3080
 [/us/pl/99/552/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F552%2Fs8
-[/us/pl/100/653/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2Fs604
+[/us/pl/100/653/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2FtVI
 [/us/stat/102/3830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3830
-[/us/pl/109/479/s113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs113%2Fb
+[/us/pl/109/479/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtI
 [/us/stat/120/3602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3602
 
 

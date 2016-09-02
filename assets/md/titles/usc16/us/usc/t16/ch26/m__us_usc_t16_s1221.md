@@ -17,7 +17,7 @@
 
     Congress finds and declares that many estuaries in the United States are rich in a variety of natural, commercial, and other resources, including environmental natural beauty, and are of immediate and potential value to the present and future generations of Americans. It is therefore the purpose of this chapter to provide a means for considering the need to protect, conserve, and restore these estuaries in a manner that adequately and reasonably maintains a balance between the national need for such protection in the interest of conserving the natural resources and natural beauty of the Nation and the need to develop these estuaries to further the growth and development of the Nation. In connection with the exercise of jurisdiction over the estuaries of the Nation and in consequence of the benefits resulting to the public, it is declared to be the policy of Congress to recognize, preserve, and protect the responsibilities of the States in protecting, conserving, and restoring the estuaries in the United States.
 
-([Pub. L. 90–454, § 1][/us/pl/90/454/s1], Aug. 3, 1968, [82 Stat. 625][/us/stat/82/625].)
+([Pub. L. 90–454][/us/pl/90/454], § 1, Aug. 3, 1968, [82 Stat. 625][/us/stat/82/625].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/454/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F454%2Fs1
+[/us/pl/90/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F454
 [/us/stat/82/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F625
 
 

@@ -41,7 +41,7 @@
 
         The term “Wilderness” means the Black Ridge Canyons Wilderness so designated in [section 460mmm–3 of this title][/us/usc/t16/s460mmm–3].
 
-([Pub. L. 106–353, § 3][/us/pl/106/353/s3], Oct. 24, 2000, [114 Stat. 1374][/us/stat/114/1374]; [Pub. L. 108–400, § 1(b)][/us/pl/108/400/s1/b], Oct. 30, 2004, [118 Stat. 2254][/us/stat/118/2254].)
+([Pub. L. 106–353][/us/pl/106/353], § 3, Oct. 24, 2000, [114 Stat. 1374][/us/stat/114/1374]; [Pub. L. 108–400][/us/pl/108/400], § 1(b), Oct. 30, 2004, [118 Stat. 2254][/us/stat/118/2254].)
 
  __Amendments__ 
 
@@ -62,9 +62,9 @@
 [/us/usc/t16/s460mmm–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460mmm%E2%80%936
 [/us/usc/t16/s460mmm–4/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460mmm%E2%80%934%2Fh
 [/us/usc/t16/s460mmm–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460mmm%E2%80%933
-[/us/pl/106/353/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F353%2Fs3
+[/us/pl/106/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F353
 [/us/stat/114/1374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1374
-[/us/pl/108/400/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F400%2Fs1%2Fb
+[/us/pl/108/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F400
 [/us/stat/118/2254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2254
 [/us/pl/108/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F400
 [/us/pl/108/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F400

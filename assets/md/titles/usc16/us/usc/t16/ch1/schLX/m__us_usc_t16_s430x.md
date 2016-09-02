@@ -17,7 +17,7 @@
 
     The sum of $100,000 is authorized to be appropriated out of any sums in the Treasury not otherwise appropriated for the purposes herein designated: Provided, That if, after the expenditure of the funds herein authorized, the Secretary of the Interior shall determine that the acquisition of additional lands is necessary in order to perfect the symmetry of the park area or to acquire locations of historic interest adjacent to the park area already acquired upon which fortifications or entrenchments are located which are likely to deteriorate or be destroyed under private ownership, he is authorized to acquire additional lands for such purposes.
 
-([June 26, 1935, ch. 315, § 5][/us/act/1935-06-26/ch315/s5], [49 Stat. 424][/us/stat/49/424]; [Aug. 9, 1939, ch. 614, § 1][/us/act/1939-08-09/ch614/s1], [53 Stat. 1274][/us/stat/53/1274].)
+([June 26, 1935, ch. 315][/us/act/1935-06-26/ch315], § 5, [49 Stat. 424][/us/stat/49/424]; [Aug. 9, 1939, ch. 614][/us/act/1939-08-09/ch614], § 1, [53 Stat. 1274][/us/stat/53/1274].)
 
  __References in Text__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/act/1935-06-26/ch315/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-06-26%2Fch315%2Fs5
+[/us/act/1935-06-26/ch315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-06-26%2Fch315
 [/us/stat/49/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F424
-[/us/act/1939-08-09/ch614/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-09%2Fch614%2Fs1
+[/us/act/1939-08-09/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-09%2Fch614
 [/us/stat/53/1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1274
 [/us/act/1935-06-26/ch315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-06-26%2Fch315
 [/us/stat/49/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F423

@@ -29,11 +29,11 @@
 
             To the maximum extent provided by law, from funds appropriated to the Department of Transportation and available for purposes of highway construction and maintenance, the Secretary of Transportation shall reimburse the States for all or a portion of the costs of maintenance of forest highways in the Recreation Area.
 
-([Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title V, § 514\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–313.)
+([Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title V, § 514\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–313.)
 
  __References in Text__ 
 
-    [Section 204 of title 23][/us/usc/t23/s204], referred to in subsec. (a), was repealed and a new section 204 enacted by [Pub. L. 112–141, div. A, title I, § 1119(a)][/us/pl/112/141/s1119/a], July 6, 2012, [126 Stat. 473][/us/stat/126/473], 489.
+    [Section 204 of title 23][/us/usc/t23/s204], referred to in subsec. (a), was repealed and a new section 204 enacted by [Pub. L. 112–141, div. A, title I][/us/pl/112/141/dA/tI], § 1119(a), July 6, 2012, [126 Stat. 473][/us/stat/126/473], 489.
 
 ----------
 
@@ -42,10 +42,10 @@
 ----------
 ----------
 
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 [/us/usc/t23/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs204
-[/us/pl/112/141/s1119/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1119%2Fa
+[/us/pl/112/141/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdA%2FtI
 [/us/stat/126/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F473
 
 

@@ -29,7 +29,7 @@
 
         The Secretary of State, in consultation with the Secretary, may designate from time to time alternate United States Commissioners to the commission. An Alternate United States Commissioner may exercise, at any meeting of the Commission, all powers and duties of a United States Commissioner in the absence of a duly designated Commissioner for whatever reason. The number of such alternate United States Commissioners that may be designated for any such meeting shall be limited to the number of authorized United States Commissioners that will not be present.
 
-([Pub. L. 97–176, § 3][/us/pl/97/176/s3], May 17, 1982, [96 Stat. 78][/us/stat/96/78].)
+([Pub. L. 97–176][/us/pl/97/176], § 3, May 17, 1982, [96 Stat. 78][/us/stat/96/78].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/97/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F176%2Fs3
+[/us/pl/97/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F176
 [/us/stat/96/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F78
 
 

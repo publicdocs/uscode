@@ -27,7 +27,7 @@
 
         The provisions of this section shall not apply to contracts held by the holders of 50-year timber sale contracts in Alaska.
 
-([Pub. L. 98–478, § 4][/us/pl/98/478/s4], Oct. 16, 1984, [98 Stat. 2217][/us/stat/98/2217].)
+([Pub. L. 98–478][/us/pl/98/478], § 4, Oct. 16, 1984, [98 Stat. 2217][/us/stat/98/2217].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/98/478/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F478%2Fs4
+[/us/pl/98/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F478
 [/us/stat/98/2217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2217
 
 

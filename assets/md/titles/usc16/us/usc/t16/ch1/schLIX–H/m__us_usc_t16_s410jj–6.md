@@ -21,7 +21,7 @@
 
     (2) The Secretary shall provide training opportunities for patients and Native Hawaiians to develop skills necessary to qualify for the provision of visitor services and for appointment to positions referred to in paragraph (1).
 
-([Pub. L. 96–565, title I, § 107][/us/pl/96/565/s107], Dec. 22, 1980, [94 Stat. 3323][/us/stat/94/3323].)
+([Pub. L. 96–565, title I][/us/pl/96/565/tI], § 107, Dec. 22, 1980, [94 Stat. 3323][/us/stat/94/3323].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/96/565/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F565%2Fs107
+[/us/pl/96/565/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F565%2FtI
 [/us/stat/94/3323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3323
 
 

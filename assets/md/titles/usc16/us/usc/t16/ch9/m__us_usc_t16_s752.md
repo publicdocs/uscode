@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act July 2, 1942, ch. 473, § 1][/us/act/1942-07-02/ch473/s1], [56 Stat. 557][/us/stat/56/557], which authorized the Fish and Wildlife Service to exchange equipment as part payment for other equipment, was from the Interior Department Appropriation Act, 1943, and was not repeated in subsequent appropriation acts. Similar provisions were contained in [act June 28, 1941, ch. 259, § 1][/us/act/1941-06-28/ch259/s1], [55 Stat. 357][/us/stat/55/357].
+    Section, [act July 2, 1942, ch. 473][/us/act/1942-07-02/ch473], § 1, [56 Stat. 557][/us/stat/56/557], which authorized the Fish and Wildlife Service to exchange equipment as part payment for other equipment, was from the Interior Department Appropriation Act, 1943, and was not repeated in subsequent appropriation acts. Similar provisions were contained in [act June 28, 1941, ch. 259][/us/act/1941-06-28/ch259], § 1, [55 Stat. 357][/us/stat/55/357].
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/act/1942-07-02/ch473/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-07-02%2Fch473%2Fs1
+[/us/act/1942-07-02/ch473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-07-02%2Fch473
 [/us/stat/56/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F557
-[/us/act/1941-06-28/ch259/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-06-28%2Fch259%2Fs1
+[/us/act/1941-06-28/ch259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-06-28%2Fch259
 [/us/stat/55/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F357
 
 

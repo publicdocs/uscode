@@ -35,7 +35,7 @@
 
         The Federal water rights reserved by this subchapter are specific to the conservation area designated by this subchapter. Nothing in this subchapter shall be construed as establishing a precedent with regard to any future designations, nor shall it constitute an interpretation of any other Act or any designation.
 
-([Pub. L. 101–621, § 10][/us/pl/101/621/s10], Nov. 16, 1990, [104 Stat. 3345][/us/stat/104/3345]; [Pub. L. 103–450, § 2(c)][/us/pl/103/450/s2/c], Nov. 2, 1994, [108 Stat. 4766][/us/stat/108/4766].)
+([Pub. L. 101–621][/us/pl/101/621], § 10, Nov. 16, 1990, [104 Stat. 3345][/us/stat/104/3345]; [Pub. L. 103–450][/us/pl/103/450], § 2(c), Nov. 2, 1994, [108 Stat. 4766][/us/stat/108/4766].)
 
  __Amendments__ 
 
@@ -49,9 +49,9 @@
 ----------
 
 [/us/usc/t43/s666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs666
-[/us/pl/101/621/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F621%2Fs10
+[/us/pl/101/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F621
 [/us/stat/104/3345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3345
-[/us/pl/103/450/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F450%2Fs2%2Fc
+[/us/pl/103/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F450
 [/us/stat/108/4766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4766
 [/us/pl/103/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F450
 

@@ -45,7 +45,7 @@
 
         All payments and repayment by non-Federal public bodies under the provisions of this part shall be deposited in the Treasury as miscellaneous receipts, and revenue from the conveyance by deed, lease, or otherwise, of lands under section 460l–14(b)(2) of this title shall be deposited in the Land and Water Conservation Fund.
 
-([Pub. L. 89–72, § 6][/us/pl/89/72/s6], July 9, 1965, [79 Stat. 216][/us/stat/79/216]; [Pub. L. 94–576][/us/pl/94/576], Oct. 21, 1976, [90 Stat. 2728][/us/stat/90/2728]; [Pub. L. 113–287, § 5(d)(1)][/us/pl/113/287/s5/d/1], Dec. 19, 2014, [128 Stat. 3264][/us/stat/128/3264].)
+([Pub. L. 89–72][/us/pl/89/72], § 6, July 9, 1965, [79 Stat. 216][/us/stat/79/216]; [Pub. L. 94–576][/us/pl/94/576], Oct. 21, 1976, [90 Stat. 2728][/us/stat/90/2728]; [Pub. L. 113–287][/us/pl/113/287], § 5(d)(1), Dec. 19, 2014, [128 Stat. 3264][/us/stat/128/3264].)
 
  __References in Text__ 
 
@@ -57,15 +57,15 @@
 
  __Codification__ 
 
-    In subsec. (a), “[section 200104 of title 54][/us/usc/t54/s200104]” substituted for “[section 3 of the Act of May 28, 1963][/us/act/1963-05-28/s3] ([77 Stat. 49][/us/stat/77/49])” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (a), “[section 200104 of title 54][/us/usc/t54/s200104]” substituted for “[section 3 of the Act of May 28, 1963][/us/act/1963-05-28/s3] ([77 Stat. 49][/us/stat/77/49])” on authority of [Pub. L. 113–287][/us/pl/113/287], § 6(e), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
     Subsec. (b) of this section amended [section 662(d) of this title][/us/usc/t16/s662/d].
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–287, § 5(d)(1)(A)][/us/pl/113/287/s5/d/1/A], substituted “[section 200305(d) of title 54][/us/usc/t54/s200305/d]” for “section 460l–8(d) of this title”.
+    2014—Subsec. (a). [Pub. L. 113–287][/us/pl/113/287], § 5(d)(1)(A), substituted “[section 200305(d) of title 54][/us/usc/t54/s200305/d]” for “section 460l–8(d) of this title”.
 
-    Subsec. (g). [Pub. L. 113–287, § 5(d)(1)(B)][/us/pl/113/287/s5/d/1/B], substituted “[section 200306(a)(3) of title 54][/us/usc/t54/s200306/a/3]” for “Section 460l–9(a)(2) of this title”.
+    Subsec. (g). [Pub. L. 113–287][/us/pl/113/287], § 5(d)(1)(B), substituted “[section 200306(a)(3) of title 54][/us/usc/t54/s200306/a/3]” for “Section 460l–9(a)(2) of this title”.
 
     1976—Subsec. (d). [Pub. L. 94–576][/us/pl/94/576] authorized recreational and other public uses at dams and reservoirs consistent with promotion of navigation, flood control, and generation of electrical energy.
 
@@ -81,11 +81,11 @@
 [/us/usc/t43/s422a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs422a
 [/us/usc/t16/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1001
 [/us/usc/t54/s200306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs200306%2Fa
-[/us/pl/89/72/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F72%2Fs6
+[/us/pl/89/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F72
 [/us/stat/79/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F216
 [/us/pl/94/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F576
 [/us/stat/90/2728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2728
-[/us/pl/113/287/s5/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F1
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3264
 [/us/pl/89/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F72
 [/us/usc/t16/s662/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs662%2Fd
@@ -98,12 +98,12 @@
 [/us/usc/t54/s200104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs200104
 [/us/act/1963-05-28/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1963-05-28%2Fs3
 [/us/stat/77/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F49
-[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/usc/t16/s662/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs662%2Fd
-[/us/pl/113/287/s5/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F1%2FA
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t54/s200305/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs200305%2Fd
-[/us/pl/113/287/s5/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F1%2FB
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t54/s200306/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs200306%2Fa%2F3
 [/us/pl/94/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F576
 

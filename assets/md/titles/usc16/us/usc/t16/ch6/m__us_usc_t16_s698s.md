@@ -63,7 +63,7 @@
 
         No lands or interest in lands may be added to the Preserve after October 21, 1992, without specific authorization by Congress and the consent of the owner of the lands or interest.
 
-([Pub. L. 102–427, § 4][/us/pl/102/427/s4], Oct. 21, 1992, [106 Stat. 2181][/us/stat/106/2181]; [Pub. L. 103–437, § 6(d)(36)][/us/pl/103/437/s6/d/36], Nov. 2, 1994, [108 Stat. 4585][/us/stat/108/4585].)
+([Pub. L. 102–427][/us/pl/102/427], § 4, Oct. 21, 1992, [106 Stat. 2181][/us/stat/106/2181]; [Pub. L. 103–437][/us/pl/103/437], § 6(d)(36), Nov. 2, 1994, [108 Stat. 4585][/us/stat/108/4585].)
 
  __Amendments__ 
 
@@ -77,9 +77,9 @@
 ----------
 
 [/us/usc/t16/s698q/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs698q%2Fd
-[/us/pl/102/427/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F427%2Fs4
+[/us/pl/102/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F427
 [/us/stat/106/2181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2181
-[/us/pl/103/437/s6/d/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fd%2F36
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4585
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 

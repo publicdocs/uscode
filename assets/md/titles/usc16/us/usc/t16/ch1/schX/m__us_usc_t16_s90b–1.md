@@ -17,7 +17,7 @@
 
     In exercising his authority to acquire property by exchange, the Secretary may accept title to any non-Federal property within the boundaries of the park and recreation areas and in exchange therefor he may convey to the grantor of such property any federally owned property under his jurisdiction in the State of Washington which he classifies as suitable for exchange or other disposal. The values of the properties so exchanged either shall be approximately equal, or if they are not approximately equal the values shall be equalized by the payment of cash to the grantor or to the Secretary as the circumstances require.
 
-([Pub. L. 90–544, title III, § 302][/us/pl/90/544/s302], Oct. 2, 1968, [82 Stat. 927][/us/stat/82/927].)
+([Pub. L. 90–544, title III][/us/pl/90/544/tIII], § 302, Oct. 2, 1968, [82 Stat. 927][/us/stat/82/927].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/544/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F544%2Fs302
+[/us/pl/90/544/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F544%2FtIII
 [/us/stat/82/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F927
 
 

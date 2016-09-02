@@ -23,7 +23,7 @@
 
         Nothing in this subchapter shall be construed to affect the mineral rights reserved to the Navajo Indian Tribe under [section 2 of the Act of September 2, 1958][/us/act/1958-09-02/s2] ([72 Stat. 1686][/us/stat/72/1686]), or the rights reserved to the Navajo Indian Tribal Council in said section 2 with respect to the use of the lands there described under the heading “Parcel B”.
 
-([Pub. L. 92–593, § 2][/us/pl/92/593/s2], Oct. 27, 1972, [86 Stat. 1311][/us/stat/86/1311].)
+([Pub. L. 92–593][/us/pl/92/593], § 2, Oct. 27, 1972, [86 Stat. 1311][/us/stat/86/1311].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 
 [/us/act/1958-09-02/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1958-09-02%2Fs2
 [/us/stat/72/1686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1686
-[/us/pl/92/593/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F593%2Fs2
+[/us/pl/92/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F593
 [/us/stat/86/1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1311
 [/us/stat/72/1686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1686
 

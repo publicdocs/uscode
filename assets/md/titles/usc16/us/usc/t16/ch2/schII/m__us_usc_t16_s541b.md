@@ -35,7 +35,7 @@
 
         (4) Coastline and Sand Dune-Spit Subareas: Areas managed to protect and maintain the scenic and wildlife values while allowing selective recreation and extensive research-educational activities.
 
-([Pub. L. 93–535, § 3][/us/pl/93/535/s3], Dec. 22, 1974, [88 Stat. 1732][/us/stat/88/1732].)
+([Pub. L. 93–535][/us/pl/93/535], § 3, Dec. 22, 1974, [88 Stat. 1732][/us/stat/88/1732].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/93/535/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F535%2Fs3
+[/us/pl/93/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F535
 [/us/stat/88/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1732
 
 

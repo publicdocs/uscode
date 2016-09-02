@@ -99,7 +99,7 @@
 
             Reports under paragraph (1), and any other documents relating to projects for which financial assistance is provided under this chapter, shall be made available to the public.
 
-([Pub. L. 108–266, § 4][/us/pl/108/266/s4], July 2, 2004, [118 Stat. 793][/us/stat/118/793].)
+([Pub. L. 108–266][/us/pl/108/266], § 4, July 2, 2004, [118 Stat. 793][/us/stat/118/793].)
 
 ----------
 
@@ -108,7 +108,7 @@
 ----------
 ----------
 
-[/us/pl/108/266/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F266%2Fs4
+[/us/pl/108/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F266
 [/us/stat/118/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F793
 
 

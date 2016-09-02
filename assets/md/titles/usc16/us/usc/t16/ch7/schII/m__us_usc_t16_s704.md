@@ -25,7 +25,7 @@
 
         (2) place or direct the placement of bait on or adjacent to an area for the purpose of causing, inducing, or allowing any person to take or attempt to take any migratory game bird by the aid of baiting on or over the baited area.
 
-([July 3, 1918, ch. 128, § 3][/us/act/1918-07-03/ch128/s3], [40 Stat. 755][/us/stat/40/755]; [June 20, 1936, ch. 634, § 2][/us/act/1936-06-20/ch634/s2], [49 Stat. 1556][/us/stat/49/1556]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; [Pub. L. 105–312, title I, § 102][/us/pl/105/312/s102], Oct. 30, 1998, [112 Stat. 2956][/us/stat/112/2956].)
+([July 3, 1918, ch. 128][/us/act/1918-07-03/ch128], § 3, [40 Stat. 755][/us/stat/40/755]; [June 20, 1936, ch. 634][/us/act/1936-06-20/ch634], § 2, [49 Stat. 1556][/us/stat/49/1556]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; [Pub. L. 105–312, title I][/us/pl/105/312/tI], § 102, Oct. 30, 1998, [112 Stat. 2956][/us/stat/112/2956].)
 
  __Amendments__ 
 
@@ -35,7 +35,7 @@
 
  __Effective Date of 1936 Amendment__ 
 
-    [Act June 20, 1936, ch. 634, § 2][/us/act/1936-06-20/ch634/s2], [49 Stat. 1556][/us/stat/49/1556], provided in part that the amendment by section 2 is effective as of the day aforesaid (June 30, 1937). See note under [section 703 of this title][/us/usc/t16/s703].
+    [Act June 20, 1936, ch. 634][/us/act/1936-06-20/ch634], § 2, [49 Stat. 1556][/us/stat/49/1556], provided in part that the amendment by section 2 is effective as of the day aforesaid (June 30, 1937). See note under [section 703 of this title][/us/usc/t16/s703].
 
  __Transfer of Functions__ 
 
@@ -49,7 +49,7 @@
 
  __Report on Effects of 1998 Amendments__ 
 
-[Pub. L. 105–312, title I, § 104][/us/pl/105/312/s104], Oct. 30, 1998, [112 Stat. 2956][/us/stat/112/2956], provided that: 
+[Pub. L. 105–312, title I][/us/pl/105/312/tI], § 104, Oct. 30, 1998, [112 Stat. 2956][/us/stat/112/2956], provided that: 
 
 > “Not later than 5 years after the date of enactment of this Act \[Oct. 30, 1998\], the Secretary of the Interior shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives a report analyzing the effect of the amendments made by section 2 \[probably should be section 102, which amended this section\], and the general practice of baiting, on migratory bird conservation and law enforcement efforts under the Migratory Bird Treaty Act ([16 U.S.C. 701][/us/usc/t16/s701] et seq.) \[[16 U.S.C. 703][/us/usc/t16/s703] et seq.\].”
 
@@ -61,21 +61,21 @@
 ----------
 
 [/us/usc/t16/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs703
-[/us/act/1918-07-03/ch128/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-07-03%2Fch128%2Fs3
+[/us/act/1918-07-03/ch128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-07-03%2Fch128
 [/us/stat/40/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F755
-[/us/act/1936-06-20/ch634/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch634%2Fs2
+[/us/act/1936-06-20/ch634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch634
 [/us/stat/49/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1556
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
-[/us/pl/105/312/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312%2Fs102
+[/us/pl/105/312/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312%2FtI
 [/us/stat/112/2956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2956
 [/us/pl/105/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312
-[/us/act/1936-06-20/ch634/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch634%2Fs2
+[/us/act/1936-06-20/ch634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch634
 [/us/stat/49/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1556
 [/us/usc/t16/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs703
 [/us/usc/t16/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs701
 [/us/usc/t15/s715j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs715j
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
-[/us/pl/105/312/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312%2Fs104
+[/us/pl/105/312/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312%2FtI
 [/us/stat/112/2956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2956
 [/us/usc/t16/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs701
 [/us/usc/t16/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs703

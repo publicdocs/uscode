@@ -69,7 +69,7 @@
 
         The Secretary may also suspend, modify, or cancel any Federal hunting or fishing license, permit, or stamp, or any license or permit authorizing a person to import or export fish or wildlife or plants (other than a permit or license issued pursuant to the Magnuson-Stevens Fishery Conservation and Management Act \[[16 U.S.C. 1801][/us/usc/t16/s1801] et seq.\]), or to operate a quarantine station or rescue center for imported wildlife or plants, issued to any person who is convicted of a criminal violation of any provision of this chapter or any regulation issued hereunder. The Secretary shall not be liable for the payments of any compensation, reimbursement, or damages in connection with the modification, suspension, or revocation of any licenses, permits, stamps, or other agreements pursuant to this section.
 
-([Pub. L. 97–79, § 4][/us/pl/97/79/s4], Nov. 16, 1981, [95 Stat. 1074][/us/stat/95/1074]; [Pub. L. 100–653, title I][/us/pl/100/653], §§ 102, 103, Nov. 14, 1988, [102 Stat. 3825][/us/stat/102/3825], 3826; [Pub. L. 110–234, title VII, § 8204(c)][/us/pl/110/234/s8204/c], (f), May 22, 2008, [122 Stat. 1294][/us/stat/122/1294]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VIII, § 8204(c), (f), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2055, 2056.)
+([Pub. L. 97–79][/us/pl/97/79], § 4, Nov. 16, 1981, [95 Stat. 1074][/us/stat/95/1074]; [Pub. L. 100–653, title I][/us/pl/100/653/tI], §§ 102, 103, Nov. 14, 1988, [102 Stat. 3825][/us/stat/102/3825], 3826; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 8204(c), (f), May 22, 2008, [122 Stat. 1294][/us/stat/122/1294]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VIII, § 8204(c), (f), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2055, 2056.)
 
  __References in Text__ 
 
@@ -79,39 +79,39 @@
 
  __Codification__ 
 
-    “Magnuson-Stevens Fishery Conservation and Management Act” substituted for “Fishery Conservation and Management Act of 1976” in subsec. (e), on authority of [Pub. L. 96–561, title II, § 238(b)][/us/pl/96/561/s238/b], Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300], which provided that all references to the Fishery Conservation and Management Act of 1976 be redesignated as references to the Magnuson Fishery Conservation and Management Act and [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, which provided that all references to the Magnuson Fishery Conservation and Management Act be redesignated as references to the Magnuson-Stevens Fishery Conservation and Management Act.
+    “Magnuson-Stevens Fishery Conservation and Management Act” substituted for “Fishery Conservation and Management Act of 1976” in subsec. (e), on authority of [Pub. L. 96–561, title II][/us/pl/96/561/tII], § 238(b), Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300], which provided that all references to the Fishery Conservation and Management Act of 1976 be redesignated as references to the Magnuson Fishery Conservation and Management Act and [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, which provided that all references to the Magnuson Fishery Conservation and Management Act be redesignated as references to the Magnuson-Stevens Fishery Conservation and Management Act.
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
 
-    2008—Subsec. (a)(1). [Pub. L. 110–246, § 8204(f)][/us/pl/110/246/s8204/f], made technical corrections to directory language of [Pub. L. 100–653, § 102(c)][/us/pl/100/653/s102/c]. See 1988 Amendment note below.
+    2008—Subsec. (a)(1). [Pub. L. 110–246][/us/pl/110/246], § 8204(f), made technical corrections to directory language of [Pub. L. 100–653][/us/pl/100/653], § 102(c). See 1988 Amendment note below.
 
-    [Pub. L. 110–246, § 8204(c)(1)][/us/pl/110/246/s8204/c/1], (2), substituted “subsections (b), (d), and (f) of section 3372” for “subsections (b) and (d) of section 3372” and “subsection (d) or (f) of section 3372” for “section 3372(d)”.
+    [Pub. L. 110–246][/us/pl/110/246], § 8204(c)(1), (2), substituted “subsections (b), (d), and (f) of section 3372” for “subsections (b) and (d) of section 3372” and “subsection (d) or (f) of section 3372” for “section 3372(d)”.
 
-    Subsec. (a)(2). [Pub. L. 110–246, § 8204(c)(3)][/us/pl/110/246/s8204/c/3], substituted “subsection (b) or (f) of [section 3372 of this title][/us/usc/t16/s3372], except as provided in paragraph (1),” for “subsection 3372(b)”.
+    Subsec. (a)(2). [Pub. L. 110–246][/us/pl/110/246], § 8204(c)(3), substituted “subsection (b) or (f) of [section 3372 of this title][/us/usc/t16/s3372], except as provided in paragraph (1),” for “subsection 3372(b)”.
 
-    Subsec. (d)(1), (2). [Pub. L. 110–246, § 8204(f)][/us/pl/110/246/s8204/f], made technical corrections to directory language of [Pub. L. 100–653, § 102(c)][/us/pl/100/653/s102/c]. See 1988 Amendment note below.
+    Subsec. (d)(1), (2). [Pub. L. 110–246][/us/pl/110/246], § 8204(f), made technical corrections to directory language of [Pub. L. 100–653][/us/pl/100/653], § 102(c). See 1988 Amendment note below.
 
-    [Pub. L. 110–246, § 8204(c)(1)][/us/pl/110/246/s8204/c/1], substituted “subsections (b), (d), and (f) of section 3372” for “subsections (b) and (d) of section 3372” in pars. (1)(A), (B), and (2).
+    [Pub. L. 110–246][/us/pl/110/246], § 8204(c)(1), substituted “subsections (b), (d), and (f) of section 3372” for “subsections (b) and (d) of section 3372” in pars. (1)(A), (B), and (2).
 
-    Subsec. (d)(3). [Pub. L. 110–246, § 8204(c)(2)][/us/pl/110/246/s8204/c/2], substituted “subsection (d) or (f) of section 3372” for “section 3372(d)” in introductory provisions.
+    Subsec. (d)(3). [Pub. L. 110–246][/us/pl/110/246], § 8204(c)(2), substituted “subsection (d) or (f) of section 3372” for “section 3372(d)” in introductory provisions.
 
-    1988—Subsec. (a)(1). [Pub. L. 100–653, § 102(c)][/us/pl/100/653/s102/c], as amended by [Pub. L. 110–246, § 8204(f)][/us/pl/110/246/s8204/f], substituted “(other than subsections (b) and (d) of [section 3372 of this title][/us/usc/t16/s3372])” for “(other than sub[section 3372(b) of this title][/us/usc/t16/s3372/b])”.
+    1988—Subsec. (a)(1). [Pub. L. 100–653][/us/pl/100/653], § 102(c), as amended by [Pub. L. 110–246][/us/pl/110/246], § 8204(f), substituted “(other than subsections (b) and (d) of [section 3372 of this title][/us/usc/t16/s3372])” for “(other than sub[section 3372(b) of this title][/us/usc/t16/s3372/b])”.
 
-    [Pub. L. 100–653, § 102(a)][/us/pl/100/653/s102/a], inserted “and any person who knowingly violates [section 3372(d) of this title][/us/usc/t16/s3372/d],” after “any underlying law, treaty, or regulation,”.
+    [Pub. L. 100–653][/us/pl/100/653], § 102(a), inserted “and any person who knowingly violates [section 3372(d) of this title][/us/usc/t16/s3372/d],” after “any underlying law, treaty, or regulation,”.
 
-    Subsec. (c). [Pub. L. 100–653, § 103][/us/pl/100/653/s103], amended first sentence generally. Prior to amendment, first sentence read as follows: “Any person against whom a civil penalty is assessed under this section may obtain review thereof in the appropriate district court of the United States by filing a notice of appeal in such court within thirty days from the date of such order and by simultaneously sending a copy of such notice by certified mail to the Secretary.”
+    Subsec. (c). [Pub. L. 100–653][/us/pl/100/653], § 103, amended first sentence generally. Prior to amendment, first sentence read as follows: “Any person against whom a civil penalty is assessed under this section may obtain review thereof in the appropriate district court of the United States by filing a notice of appeal in such court within thirty days from the date of such order and by simultaneously sending a copy of such notice by certified mail to the Secretary.”
 
-    Subsec. (d)(1), (2). [Pub. L. 100–653, § 102(c)][/us/pl/100/653/s102/c], as amended by [Pub. L. 110–246, § 8204(f)][/us/pl/110/246/s8204/f], substituted “(other than subsections (b) and (d) of [section 3372 of this title][/us/usc/t16/s3372])” for “(other than sub[section 3372(b) of this title][/us/usc/t16/s3372/b])” in pars. (1)(A), (B), and (2).
+    Subsec. (d)(1), (2). [Pub. L. 100–653][/us/pl/100/653], § 102(c), as amended by [Pub. L. 110–246][/us/pl/110/246], § 8204(f), substituted “(other than subsections (b) and (d) of [section 3372 of this title][/us/usc/t16/s3372])” for “(other than sub[section 3372(b) of this title][/us/usc/t16/s3372/b])” in pars. (1)(A), (B), and (2).
 
-    Subsec. (d)(3). [Pub. L. 100–653, § 102(b)][/us/pl/100/653/s102/b], added par. (3).
+    Subsec. (d)(3). [Pub. L. 100–653][/us/pl/100/653], § 102(b), added par. (3).
 
  __Effective Date of 2008 Amendment__ 
 
     Amendment of this section and repeal of [Pub. L. 110–234][/us/pl/110/234] by [Pub. L. 110–246][/us/pl/110/246] effective May 22, 2008, the date of enactment of [Pub. L. 110–234][/us/pl/110/234], except as otherwise provided, see [section 4 of Pub. L. 110–246][/us/pl/110/246/s4], set out as an Effective Date note under [section 8701 of Title 7][/us/usc/t7/s8701], Agriculture.
 
-    [Pub. L. 110–234, title VIII, § 8204(f)][/us/pl/110/234/s8204/f], May 22, 2008, [122 Stat. 1294][/us/stat/122/1294], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VIII, § 8204(f), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2056, provided that the amendment made by section 8204(f) is effective Nov. 14, 1988, and as if included in the enactment of [section 102(c) of Pub. L. 100–653][/us/pl/100/653/s102/c].
+    [Pub. L. 110–234, title VIII][/us/pl/110/234/tVIII], § 8204(f), May 22, 2008, [122 Stat. 1294][/us/stat/122/1294], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VIII, § 8204(f), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2056, provided that the amendment made by section 8204(f) is effective Nov. 14, 1988, and as if included in the enactment of [section 102(c) of Pub. L. 100–653][/us/pl/100/653/s102/c].
 
     \[[Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] enacted identical provisions. [Pub. L. 110–234][/us/pl/110/234] was repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a], set out as a note under [section 8701 of Title 7][/us/usc/t7/s8701], Agriculture.\]
 
@@ -136,13 +136,13 @@
 [/us/usc/t16/s3372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3372
 [/us/usc/t16/s3372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3372
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
-[/us/pl/97/79/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F79%2Fs4
+[/us/pl/97/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F79
 [/us/stat/95/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1074
-[/us/pl/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653
+[/us/pl/100/653/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2FtI
 [/us/stat/102/3825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3825
-[/us/pl/110/234/s8204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs8204%2Fc
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1294
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/97/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F79
 [/us/stat/95/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1073
@@ -150,43 +150,43 @@
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
-[/us/pl/96/561/s238/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs238%2Fb
+[/us/pl/96/561/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtII
 [/us/stat/94/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3300
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s8204/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs8204%2Ff
-[/us/pl/100/653/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2Fs102%2Fc
-[/us/pl/110/246/s8204/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs8204%2Fc%2F1
-[/us/pl/110/246/s8204/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs8204%2Fc%2F3
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t16/s3372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3372
-[/us/pl/110/246/s8204/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs8204%2Ff
-[/us/pl/100/653/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2Fs102%2Fc
-[/us/pl/110/246/s8204/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs8204%2Fc%2F1
-[/us/pl/110/246/s8204/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs8204%2Fc%2F2
-[/us/pl/100/653/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2Fs102%2Fc
-[/us/pl/110/246/s8204/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs8204%2Ff
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t16/s3372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3372
 [/us/usc/t16/s3372/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3372%2Fb
-[/us/pl/100/653/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2Fs102%2Fa
+[/us/pl/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653
 [/us/usc/t16/s3372/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3372%2Fd
-[/us/pl/100/653/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2Fs103
-[/us/pl/100/653/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2Fs102%2Fc
-[/us/pl/110/246/s8204/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs8204%2Ff
+[/us/pl/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653
+[/us/pl/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t16/s3372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3372
 [/us/usc/t16/s3372/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3372%2Fb
-[/us/pl/100/653/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2Fs102%2Fb
+[/us/pl/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/110/234/s8204/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs8204%2Ff
+[/us/pl/110/234/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVIII
 [/us/stat/122/1294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1294
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/100/653/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2Fs102%2Fc
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

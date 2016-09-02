@@ -49,7 +49,7 @@
 
     (6) to protect, mitigate and enhance the fish and wildlife, including related spawning grounds and habitat, of the Columbia River and its tributaries, particularly anadromous fish which are of significant importance to the social and economic well-being of the Pacific Northwest and the Nation and which are dependent on suitable environmental conditions substantially obtainable from the management and operation of the Federal Columbia River Power System and other power generating facilities on the Columbia River and its tributaries.
 
-([Pub. L. 96–501, § 2][/us/pl/96/501/s2], Dec. 5, 1980, [94 Stat. 2697][/us/stat/94/2697].)
+([Pub. L. 96–501][/us/pl/96/501], § 2, Dec. 5, 1980, [94 Stat. 2697][/us/stat/94/2697].)
 
  __References in Text__ 
 
@@ -57,13 +57,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 96–501, § 11][/us/pl/96/501/s11], Dec. 5, 1980, [94 Stat. 2735][/us/stat/94/2735], provided that: 
+[Pub. L. 96–501][/us/pl/96/501], § 11, Dec. 5, 1980, [94 Stat. 2735][/us/stat/94/2735], provided that: 
 
 > “This Act \[enacting this chapter, amending sections 837, 838i, and 838k of this title, and enacting provisions set out as notes under this section\] shall be effective on the date of enactment \[Dec. 5, 1980\], or October 1, 1980, whichever is later. For purposes of this Act, the term ‘date of the enactment of this Act’ means such date of enactment \[Dec. 5, 1980\] or October 1, 1980, whichever is later.”
 
  __Short Title__ 
 
-[Pub. L. 96–501, § 1][/us/pl/96/501/s1], Dec. 5, 1980, [94 Stat. 2697][/us/stat/94/2697], provided in part that: 
+[Pub. L. 96–501][/us/pl/96/501], § 1, Dec. 5, 1980, [94 Stat. 2697][/us/stat/94/2697], provided in part that: 
 
 > “This Act \[enacting this chapter, amending sections 837, 838i, and 838k of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Pacific Northwest Electric Power Planning and Conservation Act’.”
 
@@ -74,13 +74,13 @@
 ----------
 ----------
 
-[/us/pl/96/501/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501%2Fs2
+[/us/pl/96/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501
 [/us/stat/94/2697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2697
 [/us/pl/96/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501
 [/us/stat/94/2697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2697
-[/us/pl/96/501/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501%2Fs11
+[/us/pl/96/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501
 [/us/stat/94/2735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2735
-[/us/pl/96/501/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501%2Fs1
+[/us/pl/96/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501
 [/us/stat/94/2697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2697
 
 

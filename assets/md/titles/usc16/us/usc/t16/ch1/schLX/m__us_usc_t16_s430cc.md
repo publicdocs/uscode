@@ -19,7 +19,7 @@
 
     (b) In order to provide for the proper development and maintenance of the park, the Secretary of the Interior shall construct and maintain therein such roads, trails, markers, buildings, and other improvements, and such facilities for the care and accommodation of visitors, as he may deem necessary.
 
-([July 20, 1956, ch. 653, § 3][/us/act/1956-07-20/ch653/s3], [70 Stat. 593][/us/stat/70/593].)
+([July 20, 1956, ch. 653][/us/act/1956-07-20/ch653], § 3, [70 Stat. 593][/us/stat/70/593].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
-[/us/act/1956-07-20/ch653/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-20%2Fch653%2Fs3
+[/us/act/1956-07-20/ch653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-20%2Fch653
 [/us/stat/70/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F593
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408

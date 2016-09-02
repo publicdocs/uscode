@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to grant to hotels having bathhouses attached, and to bathhouses situated in the Hot Springs National Park, as well as in the city of Hot Springs, Arkansas, the right to install, maintain, and use, either in said bathhouses or in connection with the rooms of said hotels or the bathhouses attached to said hotels, as many bathtubs as in his discretion he may deem proper and necessary for the public service and the amount of hot water will justify. The superintendent shall provide and maintain a sufficient number of free baths for the use of the indigent. All titles given or to be given by the United States shall explicitly exclude the right to the purchaser of the land, his heirs or assigns, from ever boring thereon for hot water; and the Hot Springs, with the National Park and mountain are dedicated to the United States, and shall remain forever free from sale or alienation.
 
-([Dec. 16, 1878, ch. 5][/us/act/1878-12-16/ch5], [20 Stat. 258][/us/stat/20/258]; [June 16, 1880, ch. 246, § 3][/us/act/1880-06-16/ch246/s3], [21 Stat. 289][/us/stat/21/289]; [Apr. 12, 1904, ch. 1249][/us/act/1904-04-12/ch1249], [33 Stat. 173][/us/stat/33/173]; [May 23, 1906, ch. 2552][/us/act/1906-05-23/ch2552], [34 Stat. 198][/us/stat/34/198], 199; [Apr. 30, 1908, ch. 154][/us/act/1908-04-30/ch154], [35 Stat. 98][/us/stat/35/98]; [Mar. 4, 1921, ch. 161, § 1][/us/act/1921-03-04/ch161/s1], [41 Stat. 1407][/us/stat/41/1407].)
+([Dec. 16, 1878, ch. 5][/us/act/1878-12-16/ch5], [20 Stat. 258][/us/stat/20/258]; [June 16, 1880, ch. 246][/us/act/1880-06-16/ch246], § 3, [21 Stat. 289][/us/stat/21/289]; [Apr. 12, 1904, ch. 1249][/us/act/1904-04-12/ch1249], [33 Stat. 173][/us/stat/33/173]; [May 23, 1906, ch. 2552][/us/act/1906-05-23/ch2552], [34 Stat. 198][/us/stat/34/198], 199; [Apr. 30, 1908, ch. 154][/us/act/1908-04-30/ch154], [35 Stat. 98][/us/stat/35/98]; [Mar. 4, 1921, ch. 161][/us/act/1921-03-04/ch161], § 1, [41 Stat. 1407][/us/stat/41/1407].)
 
  __Codification__ 
 
@@ -46,7 +46,7 @@ The boundaries of the Hot Springs National Park have been affected by [act June 
 
 [/us/act/1878-12-16/ch5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1878-12-16%2Fch5
 [/us/stat/20/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F20%2F258
-[/us/act/1880-06-16/ch246/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1880-06-16%2Fch246%2Fs3
+[/us/act/1880-06-16/ch246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1880-06-16%2Fch246
 [/us/stat/21/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F21%2F289
 [/us/act/1904-04-12/ch1249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1904-04-12%2Fch1249
 [/us/stat/33/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F173
@@ -54,7 +54,7 @@ The boundaries of the Hot Springs National Park have been affected by [act June 
 [/us/stat/34/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F198
 [/us/act/1908-04-30/ch154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-04-30%2Fch154
 [/us/stat/35/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F98
-[/us/act/1921-03-04/ch161/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-03-04%2Fch161%2Fs1
+[/us/act/1921-03-04/ch161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-03-04%2Fch161
 [/us/stat/41/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1407
 [/us/act/1877-03-03/ch108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1877-03-03%2Fch108
 [/us/stat/19/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F19%2F377

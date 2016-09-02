@@ -17,7 +17,7 @@
 
     Within two years from January 3, 1975, the Secretary of the Interior shall report to the President, in accordance with section 1132(c) and (d) of this title, his recommendations as to the suitability or nonsuitability of any area within the national park for preservation as wilderness, and any designation of any such areas as a wilderness shall be accomplished in accordance with said section 1132(c) and (d) of this title.
 
-([Pub. L. 93–620, § 11][/us/pl/93/620/s11], as added [Pub. L. 94–31][/us/pl/94/31], June 10, 1975, [89 Stat. 172][/us/stat/89/172].)
+([Pub. L. 93–620][/us/pl/93/620], § 11, as added [Pub. L. 94–31][/us/pl/94/31], June 10, 1975, [89 Stat. 172][/us/stat/89/172].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/620/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F620%2Fs11
+[/us/pl/93/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F620
 [/us/pl/94/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F31
 [/us/stat/89/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F172
 

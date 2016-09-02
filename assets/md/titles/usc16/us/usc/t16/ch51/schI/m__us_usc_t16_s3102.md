@@ -61,7 +61,7 @@
 
     (18) The term “take” or “taking” as used with respect to fish or wildlife, means to pursue, hunt, shoot, trap, net capture, collect, kill, harm, or attempt to engage in any such conduct.
 
-([Pub. L. 96–487, title I, § 102][/us/pl/96/487/s102], Dec. 2, 1980, [94 Stat. 2375][/us/stat/94/2375]; [Pub. L. 105–83, title III, § 316(b)(2)][/us/pl/105/83/s316/b/2], (d), Nov. 14, 1997, [111 Stat. 1592][/us/stat/111/1592], 1595.)
+([Pub. L. 96–487, title I][/us/pl/96/487/tI], § 102, Dec. 2, 1980, [94 Stat. 2375][/us/stat/94/2375]; [Pub. L. 105–83, title III][/us/pl/105/83/tIII], § 316(b)(2), (d), Nov. 14, 1997, [111 Stat. 1592][/us/stat/111/1592], 1595.)
 
  __References in Text__ 
 
@@ -75,11 +75,11 @@
 
  __Amendments__ 
 
-    1997—Par. (2). [Pub. L. 105–83, § 316(b)(2)][/us/pl/105/83/s316/b/2], which directed the amendment of par. (2) generally, to read as follows: “The term ‘Federal land’ means lands the title to which is in the United States after December 2, 1980. ‘Federal land’ does not include lands the title to which is in the State, an Alaska Native corporation, or other private ownership.”, was repealed by [Pub. L. 105–83, § 316(d)][/us/pl/105/83/s316/d]. See Effective and Termination Dates of 1997 Amendment note below.
+    1997—Par. (2). [Pub. L. 105–83][/us/pl/105/83], § 316(b)(2), which directed the amendment of par. (2) generally, to read as follows: “The term ‘Federal land’ means lands the title to which is in the United States after December 2, 1980. ‘Federal land’ does not include lands the title to which is in the State, an Alaska Native corporation, or other private ownership.”, was repealed by [Pub. L. 105–83][/us/pl/105/83], § 316(d). See Effective and Termination Dates of 1997 Amendment note below.
 
  __Effective and Termination Dates of 1997 Amendment__ 
 
-[Pub. L. 105–83, title III, § 316(d)][/us/pl/105/83/s316/d], Nov. 14, 1997, [111 Stat. 1595][/us/stat/111/1595], provided that: 
+[Pub. L. 105–83, title III][/us/pl/105/83/tIII], § 316(d), Nov. 14, 1997, [111 Stat. 1595][/us/stat/111/1595], provided that: 
 
 > “Unless and until laws are adopted in the State of Alaska which provide for the definition, preference, and participation specified in sections 803, 804, and 805 \[sections 3113 to 3115 of this title\] of the Alaska National Interest Lands Conservation Act ([16 U.S.C. 3111][/us/usc/t16/s3111] et seq.), the amendments made by subsection (b) of this section \[amending this section and sections 3111, 3113 to 3115, 3117, 3124, and 3125 of this title\] shall be effective only for the purposes of determining whether the State’s laws provide for such definition, preference, and participation. The Secretary shall certify before December 1, 1998 if such laws have been adopted in the State of Alaska. Subsection (b) shall be repealed on such date if such laws have not been adopted.”
 
@@ -87,7 +87,7 @@
 
  __Savings Clause__ 
 
-[Pub. L. 105–83, title III, § 316(c)][/us/pl/105/83/s316/c], Nov. 14, 1997, [111 Stat. 1595][/us/stat/111/1595], provided that: 
+[Pub. L. 105–83, title III][/us/pl/105/83/tIII], § 316(c), Nov. 14, 1997, [111 Stat. 1595][/us/stat/111/1595], provided that: 
 
 > “No provision of this section \[amending this section and sections 3111, 3113 to 3115, 3117, 3124, and 3125 of this title and enacting provisions set out as notes under this section\], amendment made by this section, or exercise of authority pursuant to this section may be construed to validate, invalidate, or in any way affect—
 
@@ -101,9 +101,9 @@
 
  __Moratorium on Federal Management of Subsistence Uses in Alaska__ 
 
-[Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title III, § 339\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–295, provided that:
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title III, § 339\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–295, provided that:
 
-    \[“(a) Repealed. [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title III, § 339(b)(2)\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–295\]
+    \[“(a) Repealed. [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title III, § 339(b)(2)\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–295\]
 
     “(b) Subsection (a) Repealed.—
 
@@ -115,7 +115,7 @@
 
     “(d) Effect on Tidal and Submerged Land.—Nothing in this section invalidates, validates, or in any other way affects any claim of the State of Alaska to title to any tidal or submerged land in Alaska.”
 
-[Pub. L. 105–83, title III, § 316(a)][/us/pl/105/83/s316/a], Nov. 14, 1997, [111 Stat. 1592][/us/stat/111/1592], provided that: 
+[Pub. L. 105–83, title III][/us/pl/105/83/tIII], § 316(a), Nov. 14, 1997, [111 Stat. 1592][/us/stat/111/1592], provided that: 
 
 > “None of the funds made available to the Department of the Interior or the Department of Agriculture by this or any other Act hereafter enacted may be used prior to December 1, 1998 to issue or implement final regulations, rules, or policies pursuant to title VIII of the Alaska National Interest Lands Conservation Act \[[16 U.S.C. 3111][/us/usc/t16/s3111] et seq.\] to assert jurisdiction, management, or control over the navigable waters transferred to the State of Alaska pursuant to the Submerged Lands Act of 1953 \[[43 U.S.C. 1301][/us/usc/t43/s1301] et seq.\] or the Alaska Statehood Act of 1959 \[[Pub. L. 85–508][/us/pl/85/508], set out as a note preceding [section 21 of Title 48][/us/usc/t48/s21], Territories and Insular Possessions\].”
 
@@ -141,9 +141,9 @@
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
 [/us/stat/72/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F339
 [/us/usc/t43/s1602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1602%2Fb
-[/us/pl/96/487/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs102
+[/us/pl/96/487/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtI
 [/us/stat/94/2375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2375
-[/us/pl/105/83/s316/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs316%2Fb%2F2
+[/us/pl/105/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtIII
 [/us/stat/111/1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1592
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371
@@ -159,24 +159,24 @@
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
-[/us/pl/105/83/s316/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs316%2Fb%2F2
-[/us/pl/105/83/s316/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs316%2Fd
-[/us/pl/105/83/s316/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs316%2Fd
+[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
+[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
+[/us/pl/105/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtIII
 [/us/stat/111/1595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1595
 [/us/usc/t16/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3111
-[/us/pl/105/83/s316/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs316%2Fc
+[/us/pl/105/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtIII
 [/us/stat/111/1595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1595
 [/us/usc/t25/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs461
 [/us/usc/t18/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1151
 [/us/usc/t16/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3101
 [/us/usc/t16/s3202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3202%2Fc
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 [/us/usc/t16/s3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3113
 [/us/usc/t16/s3115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3115
-[/us/pl/105/83/s316/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs316%2Fa
+[/us/pl/105/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtIII
 [/us/stat/111/1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1592
 [/us/usc/t16/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3111
 [/us/usc/t43/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1301

@@ -33,7 +33,7 @@
 
         The Secretary may acquire such leases respecting property within the park as may be necessary to carry out the purpose of this subchapter.
 
-([Pub. L. 95–290, title II, § 205][/us/pl/95/290/s205], June 5, 1978, [92 Stat. 295][/us/stat/92/295].)
+([Pub. L. 95–290, title II][/us/pl/95/290/tII], § 205, June 5, 1978, [92 Stat. 295][/us/stat/92/295].)
 
 ----------
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t16/s410cc–21/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410cc%E2%80%9321%2Fb
 [/us/usc/t16/s410cc–13/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410cc%E2%80%9313%2Fa%2F2
-[/us/pl/95/290/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F290%2Fs205
+[/us/pl/95/290/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F290%2FtII
 [/us/stat/92/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F295
 
 

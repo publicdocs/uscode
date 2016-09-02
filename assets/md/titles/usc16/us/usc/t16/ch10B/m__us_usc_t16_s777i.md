@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to make rules and regulations for carrying out the provisions of this chapter.
 
-([Aug. 9, 1950, ch. 658, § 10][/us/act/1950-08-09/ch658/s10], [64 Stat. 434][/us/stat/64/434].)
+([Aug. 9, 1950, ch. 658][/us/act/1950-08-09/ch658], § 10, [64 Stat. 434][/us/stat/64/434].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1950-08-09/ch658/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch658%2Fs10
+[/us/act/1950-08-09/ch658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch658
 [/us/stat/64/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F434
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
 [/us/usc/t16/s777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777

@@ -23,7 +23,7 @@
 
     (3) cooperate with tropical countries on research, training, and technical programs aimed at implementing national forestry sector development strategies.
 
-([Pub. L. 101–513, title VI, § 603][/us/pl/101/513/s603], Nov. 5, 1990, [104 Stat. 2071][/us/stat/104/2071].)
+([Pub. L. 101–513, title VI][/us/pl/101/513/tVI], § 603, Nov. 5, 1990, [104 Stat. 2071][/us/stat/104/2071].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/101/513/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs603
+[/us/pl/101/513/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtVI
 [/us/stat/104/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2071
 
 

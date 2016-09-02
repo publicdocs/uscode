@@ -199,11 +199,11 @@
 
             On the recommendation of the chief executive officer, the Board shall approve the salaries of employees whose annual salaries would be in excess of the annual rate payable for positions at level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315].
 
-([May 18, 1933, ch. 32, § 2][/us/act/1933-05-18/ch32/s2], as added [Pub. L. 108–447, div. C, title VI, § 601][/us/pl/108/447/s601], Dec. 8, 2004, [118 Stat. 2963][/us/stat/118/2963]; amended [Pub. L. 110–161, div. C, title IV, § 401][/us/pl/110/161/s401], Dec. 26, 2007, [121 Stat. 1971][/us/stat/121/1971].)
+([May 18, 1933, ch. 32][/us/act/1933-05-18/ch32], § 2, as added [Pub. L. 108–447, div. C, title VI][/us/pl/108/447/dC/tVI], § 601, Dec. 8, 2004, [118 Stat. 2963][/us/stat/118/2963]; amended [Pub. L. 110–161, div. C, title IV][/us/pl/110/161/dC/tIV], § 401, Dec. 26, 2007, [121 Stat. 1971][/us/stat/121/1971].)
 
  __Prior Provisions__ 
 
-    A prior section, [act May 18, 1933, ch. 32, § 2][/us/act/1933-05-18/ch32/s2], [48 Stat. 59][/us/stat/48/59], related to the Directors of the Authority, prior to repeal by [Pub. L. 108–447, div. C, title VI, § 601][/us/pl/108/447/s601], Dec. 8, 2004, [118 Stat. 2963][/us/stat/118/2963].
+    A prior section, [act May 18, 1933, ch. 32][/us/act/1933-05-18/ch32], § 2, [48 Stat. 59][/us/stat/48/59], related to the Directors of the Authority, prior to repeal by [Pub. L. 108–447, div. C, title VI][/us/pl/108/447/dC/tVI], § 601, Dec. 8, 2004, [118 Stat. 2963][/us/stat/118/2963].
 
  __Amendments__ 
 
@@ -211,7 +211,7 @@
 
  __Appointments; Effective Date; Transition__ 
 
-[Pub. L. 108–447, div. C, title VI, § 604][/us/pl/108/447/s604], Dec. 8, 2004, [118 Stat. 2967][/us/stat/118/2967], provided that:
+[Pub. L. 108–447, div. C, title VI][/us/pl/108/447/dC/tVI], § 604, Dec. 8, 2004, [118 Stat. 2967][/us/stat/118/2967], provided that:
 
 >     “(a) __Appointments.—__ 
 
@@ -268,17 +268,17 @@
 [/us/usc/t5/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5318
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
-[/us/act/1933-05-18/ch32/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32%2Fs2
-[/us/pl/108/447/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs601
+[/us/act/1933-05-18/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32
+[/us/pl/108/447/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdC%2FtVI
 [/us/stat/118/2963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2963
-[/us/pl/110/161/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs401
+[/us/pl/110/161/dC/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdC%2FtIV
 [/us/stat/121/1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1971
-[/us/act/1933-05-18/ch32/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32%2Fs2
+[/us/act/1933-05-18/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32
 [/us/stat/48/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F59
-[/us/pl/108/447/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs601
+[/us/pl/108/447/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdC%2FtVI
 [/us/stat/118/2963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2963
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
-[/us/pl/108/447/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs604
+[/us/pl/108/447/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdC%2FtVI
 [/us/stat/118/2967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2967
 [/us/usc/t16/s831a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs831a%2Fd
 [/us/usc/t16/s831a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs831a

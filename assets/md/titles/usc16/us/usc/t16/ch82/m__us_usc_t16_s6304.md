@@ -71,7 +71,7 @@
 
         The Secretary may accept and use donations to provide assistance under [section 6303 of this title][/us/usc/t16/s6303]. Amounts received by the Secretary in the form of donations shall be transferred to the Secretary of the Treasury for deposit into the Fund.
 
-([Pub. L. 106–411, § 5][/us/pl/106/411/s5], Nov. 1, 2000, [114 Stat. 1793][/us/stat/114/1793]; [Pub. L. 109–363, title VII, § 702][/us/pl/109/363/s702], Oct. 17, 2006, [120 Stat. 2082][/us/stat/120/2082].)
+([Pub. L. 106–411][/us/pl/106/411], § 5, Nov. 1, 2000, [114 Stat. 1793][/us/stat/114/1793]; [Pub. L. 109–363, title VII][/us/pl/109/363/tVII], § 702, Oct. 17, 2006, [120 Stat. 2082][/us/stat/120/2082].)
 
  __Amendments__ 
 
@@ -87,9 +87,9 @@
 [/us/usc/t16/s6305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6305
 [/us/usc/t16/s6303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6303
 [/us/usc/t16/s6303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6303
-[/us/pl/106/411/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F411%2Fs5
+[/us/pl/106/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F411
 [/us/stat/114/1793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1793
-[/us/pl/109/363/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2Fs702
+[/us/pl/109/363/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2FtVII
 [/us/stat/120/2082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2082
 [/us/pl/109/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363
 

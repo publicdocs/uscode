@@ -55,7 +55,7 @@
 
         The Secretary of State shall report to the Congress on the Secretary’s efforts pursuant to this section no later than June 1, 1991.
 
-([Pub. L. 96–487, title X, § 1005][/us/pl/96/487/s1005], Dec. 2, 1980, [94 Stat. 2453][/us/stat/94/2453]; [Pub. L. 101–380, title VIII, § 8302][/us/pl/101/380/s8302], Aug. 18, 1990, [104 Stat. 572][/us/stat/104/572].)
+([Pub. L. 96–487, title X][/us/pl/96/487/tX], § 1005, Dec. 2, 1980, [94 Stat. 2453][/us/stat/94/2453]; [Pub. L. 101–380, title VIII][/us/pl/101/380/tVIII], § 8302, Aug. 18, 1990, [104 Stat. 572][/us/stat/104/572].)
 
  __Amendments__ 
 
@@ -67,7 +67,7 @@
 
  __Study on Barren-Ground Caribou__ 
 
-[Pub. L. 96–487, title III, § 306][/us/pl/96/487/s306], Dec. 2, 1980, [94 Stat. 2396][/us/stat/94/2396], provided:
+[Pub. L. 96–487, title III][/us/pl/96/487/tIII], § 306, Dec. 2, 1980, [94 Stat. 2396][/us/stat/94/2396], provided:
 
 >     “(a) The Congress finds that the barren-ground caribou are a migratory species deserving of careful study and special protection, and that the Western Arctic and the Porcupine herds of such caribou are of national and international significance.
 
@@ -80,15 +80,15 @@
 ----------
 ----------
 
-[/us/pl/96/487/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1005
+[/us/pl/96/487/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtX
 [/us/stat/94/2453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2453
-[/us/pl/101/380/s8302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs8302
+[/us/pl/101/380/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtVIII
 [/us/stat/104/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F572
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/pl/101/380/s1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1020
 [/us/usc/t33/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2701
-[/us/pl/96/487/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs306
+[/us/pl/96/487/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtIII
 [/us/stat/94/2396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2396
 
 

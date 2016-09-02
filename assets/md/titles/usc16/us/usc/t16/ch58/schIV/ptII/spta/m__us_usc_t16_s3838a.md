@@ -299,7 +299,7 @@
 
             A contract described in paragraph (2) may not be administered under the regulations issued to carry out the conservation stewardship program.
 
-([Pub. L. 99–198, title XII, § 1238A][/us/pl/99/198/s1238A], as added [Pub. L. 107–171, title II, § 2001(a)][/us/pl/107/171/s2001/a], May 13, 2002, [116 Stat. 225][/us/stat/116/225]; amended [Pub. L. 109–171, title I, § 1202(a)][/us/pl/109/171/s1202/a], Feb. 8, 2006, [120 Stat. 5][/us/stat/120/5]; [Pub. L. 110–234, title II, § 2301(b)][/us/pl/110/234/s2301/b], (c), May 22, 2008, [122 Stat. 1047][/us/stat/122/1047], 1048; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2301(b), (c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1775, 1776.)
+([Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1238A, as added [Pub. L. 107–171, title II][/us/pl/107/171/tII], § 2001(a), May 13, 2002, [116 Stat. 225][/us/stat/116/225]; amended [Pub. L. 109–171, title I][/us/pl/109/171/tI], § 1202(a), Feb. 8, 2006, [120 Stat. 5][/us/stat/120/5]; [Pub. L. 110–234, title II][/us/pl/110/234/tII], § 2301(b), (c), May 22, 2008, [122 Stat. 1047][/us/stat/122/1047], 1048; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title II, § 2301(b), (c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1775, 1776.)
 
  __Codification__ 
 
@@ -307,13 +307,13 @@
 
  __Prior Provisions__ 
 
-    A prior section 3838a, [Pub. L. 99–198, title XII, § 1238A][/us/pl/99/198/s1238A], as added [Pub. L. 101–624, title XIV, § 1439][/us/pl/101/624/s1439], Nov. 28, 1990, [104 Stat. 3590][/us/stat/104/3590], defined terms for purposes of this part, prior to repeal by [Pub. L. 104–127, title III, § 336(h)][/us/pl/104/127/s336/h], Apr. 4, 1996, [110 Stat. 1007][/us/stat/110/1007].
+    A prior section 3838a, [Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1238A, as added [Pub. L. 101–624, title XIV][/us/pl/101/624/tXIV], § 1439, Nov. 28, 1990, [104 Stat. 3590][/us/stat/104/3590], defined terms for purposes of this part, prior to repeal by [Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 336(h), Apr. 4, 1996, [110 Stat. 1007][/us/stat/110/1007].
 
  __Amendments__ 
 
-    2008—Subsec. (b)(3)(C). [Pub. L. 110–246, § 2301(c)][/us/pl/110/246/s2301/c], substituted “subpart D” for “subpart C”.
+    2008—Subsec. (b)(3)(C). [Pub. L. 110–246][/us/pl/110/246], § 2301(c), substituted “subpart D” for “subpart C”.
 
-    Subsec. (g). [Pub. L. 110–246, § 2301(b)][/us/pl/110/246/s2301/b], added subsec. (g).
+    Subsec. (g). [Pub. L. 110–246][/us/pl/110/246], § 2301(b), added subsec. (g).
 
     2006—Subsec. (a). [Pub. L. 109–171][/us/pl/109/171] substituted “2011” for “2007”.
 
@@ -329,26 +329,26 @@
 ----------
 
 [/us/usc/t16/s3838c/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3838c%2Fg
-[/us/pl/99/198/s1238A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1238A
-[/us/pl/107/171/s2001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2001%2Fa
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/107/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtII
 [/us/stat/116/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F225
-[/us/pl/109/171/s1202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs1202%2Fa
+[/us/pl/109/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtI
 [/us/stat/120/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F5
-[/us/pl/110/234/s2301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2301%2Fb
+[/us/pl/110/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtII
 [/us/stat/122/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1047
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/99/198/s1238A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1238A
-[/us/pl/101/624/s1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1439
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/101/624/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIV
 [/us/stat/104/3590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3590
-[/us/pl/104/127/s336/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs336%2Fh
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1007
-[/us/pl/110/246/s2301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2301%2Fc
-[/us/pl/110/246/s2301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2301%2Fb
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

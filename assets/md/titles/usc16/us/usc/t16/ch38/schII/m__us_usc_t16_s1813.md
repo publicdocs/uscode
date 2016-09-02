@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 94–265, title I, § 103][/us/pl/94/265/s103], Apr. 13, 1976, [90 Stat. 336][/us/stat/90/336], which related to exclusion of highly migratory species of fish from exclusive fishery management authority, was omitted in the general revision of this subchapter by [section 101(b) of Pub. L. 99–659][/us/pl/99/659/s101/b]. See [section 1812 of this title][/us/usc/t16/s1812].
+    Section, [Pub. L. 94–265, title I][/us/pl/94/265/tI], § 103, Apr. 13, 1976, [90 Stat. 336][/us/stat/90/336], which related to exclusion of highly migratory species of fish from exclusive fishery management authority, was omitted in the general revision of this subchapter by [section 101(b) of Pub. L. 99–659][/us/pl/99/659/s101/b]. See [section 1812 of this title][/us/usc/t16/s1812].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/265/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs103
+[/us/pl/94/265/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2FtI
 [/us/stat/90/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F336
 [/us/pl/99/659/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs101%2Fb
 [/us/usc/t16/s1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1812

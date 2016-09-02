@@ -83,7 +83,7 @@
 
     Fifth. All that tract of land comprising a portion of the Kau Desert, Kapapala, in the district of Kau, on the island of Hawaii, containing forty-three thousand four hundred acres, more or less, bounded as follows: Beginning at a galvanized-iron nail driven into the pahoehoe at the northeast corner of this tract of land, at a place called Palilele-o-Kalihipaa, and on the boundary between the lands of Kapapala and Keauhou, the coordinates of said point of beginning referred to Government survey trigonometrical station Uwekahuna, being twenty-six thousand and ten and four-tenths feet south and nine thousand nine hundred and thirty-two and four tenths feet east, as shown on Government survey registered map numbered two thousand three hundred and eighty-eight and running by true azimuths: First, three hundred and fifty degrees forty-three minutes, thirty thousand and twenty-three feet, along the land of Kapapala to a point at seacoast; second, thence in a west and southwesterly direction along the seacoast to a station on a large flat stone, at a place called Na-Puu-o-na-Elemakule, at the seacoast boundary point of the lands of Kapapala and Kaalaala, the direct azimuth and distance being sixty-nine degrees thirty-four minutes thirty seconds, thirty-two thousand and forty-three feet; third, eighty-nine degrees twenty-seven minutes thirty seconds, thirty thousand six hundred and ninety feet, along the land of Kaalaala to the main 1868 lava crack, said point being by true azimuth and distance two hundred and ninety-six degrees twenty-seven minutes thirty seconds, twenty-one hundred feet from Government survey trigonometrical station Puu Nahala; fourth, thence up along the main 1868 lava crack, along the Kapapala pastoral lands to a small outbreak of lava from the 1868 lava crack, opposite the Halfway House, the direct azimuth and distance being one hundred and ninety-eight degrees, thirty-two thousand five hundred and fifty feet; fifth, two hundred and thirty degrees twenty-five minutes, twenty-seven thousand six hundred and fifteen feet, along the Kapapala pastoral lands to the west boundary of the Kilauea section, Hawaii National Park; sixth, three hundred and forty-six degrees twenty minutes, six thousand seven hundred and forty-two feet, along said west boundary to a small cone; seventh, two hundred and eighty-two degrees fifty minutes, nineteen thousand one hundred and fifty feet, along the south boundary of said Kilauea section, Hawaii National Park; eighth, two hundred and thirty-one degrees fifty minutes thirty seconds, five thousand four hundred and thirty feet, along said south boundary to the point of beginning. The Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\] shall not apply to or extend over lands defined in subdivision 5.
 
-([Aug. 1, 1916, ch. 264, § 1][/us/act/1916-08-01/ch264/s1], [39 Stat. 432][/us/stat/39/432]; [May 1, 1922, ch. 174][/us/act/1922-05-01/ch174], [42 Stat. 503][/us/stat/42/503]; [Apr. 11, 1928, ch. 359, § 1][/us/act/1928-04-11/ch359/s1], [45 Stat. 424][/us/stat/45/424].)
+([Aug. 1, 1916, ch. 264][/us/act/1916-08-01/ch264], § 1, [39 Stat. 432][/us/stat/39/432]; [May 1, 1922, ch. 174][/us/act/1922-05-01/ch174], [42 Stat. 503][/us/stat/42/503]; [Apr. 11, 1928, ch. 359][/us/act/1928-04-11/ch359], § 1, [45 Stat. 424][/us/stat/45/424].)
 
  __References in Text__ 
 
@@ -101,7 +101,7 @@
 
  __Short Title of 1998 Amendment__ 
 
-[Pub. L. 105–380, § 1][/us/pl/105/380/s1], Nov. 12, 1998, [112 Stat. 3401][/us/stat/112/3401], as amended by [Pub. L. 106–510, § 3(a)(2)][/us/pl/106/510/s3/a/2], Nov. 13, 2000, [114 Stat. 2363][/us/stat/114/2363], provided that: 
+[Pub. L. 105–380][/us/pl/105/380], § 1, Nov. 12, 1998, [112 Stat. 3401][/us/stat/112/3401], as amended by [Pub. L. 106–510][/us/pl/106/510], § 3(a)(2), Nov. 13, 2000, [114 Stat. 2363][/us/stat/114/2363], provided that: 
 
 > “This Act \[amending [section 391b of this title][/us/usc/t16/s391b]\] may be cited as the ‘Hawaiʻi Volcanoes National Park Adjustment Act of 1998’.”
 
@@ -125,11 +125,11 @@
 ----------
 
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
-[/us/act/1916-08-01/ch264/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-01%2Fch264%2Fs1
+[/us/act/1916-08-01/ch264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-01%2Fch264
 [/us/stat/39/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F432
 [/us/act/1922-05-01/ch174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-05-01%2Fch174
 [/us/stat/42/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F503
-[/us/act/1928-04-11/ch359/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-04-11%2Fch359%2Fs1
+[/us/act/1928-04-11/ch359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-04-11%2Fch359
 [/us/stat/45/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F424
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
@@ -137,9 +137,9 @@
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
-[/us/pl/105/380/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F380%2Fs1
+[/us/pl/105/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F380
 [/us/stat/112/3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3401
-[/us/pl/106/510/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510%2Fs3%2Fa%2F2
+[/us/pl/106/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510
 [/us/stat/114/2363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2363
 [/us/usc/t16/s391b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs391b
 [/us/pl/86/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F3

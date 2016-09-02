@@ -17,7 +17,7 @@
 
     It shall be lawful for the Secretary of the Interior to grant permits under the provisions of [section 607 of this title][/us/usc/t16/s607], to citizens of Modoc County, California, to cut timber in the State of Nevada for agricultural, mining, or other domestic purposes, and to remove the timber so cut to Modoc County, State of California.
 
-([Mar. 3, 1891, ch. 561, § 8][/us/act/1891-03-03/ch561/s8] (part), as added [Mar. 3, 1919, ch. 115][/us/act/1919-03-03/ch115], [40 Stat. 1322][/us/stat/40/1322].)
+([Mar. 3, 1891, ch. 561][/us/act/1891-03-03/ch561], § 8 (part), as added [Mar. 3, 1919, ch. 115][/us/act/1919-03-03/ch115], [40 Stat. 1322][/us/stat/40/1322].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t16/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs607
-[/us/act/1891-03-03/ch561/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch561%2Fs8
+[/us/act/1891-03-03/ch561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch561
 [/us/act/1919-03-03/ch115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-03-03%2Fch115
 [/us/stat/40/1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1322
 [/us/usc/t16/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs607

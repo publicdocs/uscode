@@ -23,7 +23,7 @@
 
     (3) The variety of public and private sector resources available to assist the landowners in planning for and practicing sustainable forestry.
 
-([Pub. L. 95–306, § 5B][/us/pl/95/306/s5B], as added [Pub. L. 107–171, title VIII, § 8101(a)][/us/pl/107/171/s8101/a], May 13, 2002, [116 Stat. 474][/us/stat/116/474].)
+([Pub. L. 95–306][/us/pl/95/306], § 5B, as added [Pub. L. 107–171, title VIII][/us/pl/107/171/tVIII], § 8101(a), May 13, 2002, [116 Stat. 474][/us/stat/116/474].)
 
 ----------
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/95/306/s5B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F306%2Fs5B
-[/us/pl/107/171/s8101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs8101%2Fa
+[/us/pl/95/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F306
+[/us/pl/107/171/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVIII
 [/us/stat/116/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F474
 
 

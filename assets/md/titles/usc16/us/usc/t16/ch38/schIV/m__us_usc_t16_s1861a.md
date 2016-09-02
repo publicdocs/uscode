@@ -175,11 +175,11 @@
 
             Each program shall proceed by the Secretary issuing invitations to bid setting out the terms and conditions for participation consistent with the framework and implementing regulations. Each bid that the Secretary receives in response to the invitation to bid shall constitute an irrevocable offer from the bidder.
 
-([Pub. L. 94–265, title III, § 312][/us/pl/94/265/s312], as added [Pub. L. 104–297, title I, § 116(a)][/us/pl/104/297/s116/a], Oct. 11, 1996, [110 Stat. 3600][/us/stat/110/3600]; amended [Pub. L. 109–479, title I, § 112(a)][/us/pl/109/479/s112/a], Jan. 12, 2007, [120 Stat. 3598][/us/stat/120/3598].)
+([Pub. L. 94–265, title III][/us/pl/94/265/tIII], § 312, as added [Pub. L. 104–297, title I][/us/pl/104/297/tI], § 116(a), Oct. 11, 1996, [110 Stat. 3600][/us/stat/110/3600]; amended [Pub. L. 109–479, title I][/us/pl/109/479/tI], § 112(a), Jan. 12, 2007, [120 Stat. 3598][/us/stat/120/3598].)
 
  __Codification__ 
 
-    In subsecs. (b)(1)(C), (c)(1)(C), (2), and (d)(2), “[section 53735 of title 46][/us/usc/t46/s53735]” substituted for “section 1111 of title XI of the Merchant Marine Act, 1936” on authority of [Pub. L. 109–304, § 18(c)][/us/pl/109/304/s18/c], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 53735 of Title 46][/us/usc/t46/s53735], Shipping.
+    In subsecs. (b)(1)(C), (c)(1)(C), (2), and (d)(2), “[section 53735 of title 46][/us/usc/t46/s53735]” substituted for “section 1111 of title XI of the Merchant Marine Act, 1936” on authority of [Pub. L. 109–304][/us/pl/109/304], § 18(c), Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 53735 of Title 46][/us/usc/t46/s53735], Shipping.
 
  __Prior Provisions__ 
 
@@ -187,39 +187,39 @@
 
  __Amendments__ 
 
-    2007—Subsec. (a)(1)(B). [Pub. L. 109–479, § 112(a)(1)][/us/pl/109/479/s112/a/1], substituted “measures, including regulatory restrictions (including those imposed as a result of judicial action) imposed to protect human health or the marine environment;” for “measures;”.
+    2007—Subsec. (a)(1)(B). [Pub. L. 109–479][/us/pl/109/479], § 112(a)(1), substituted “measures, including regulatory restrictions (including those imposed as a result of judicial action) imposed to protect human health or the marine environment;” for “measures;”.
 
-    Subsec. (a)(4). [Pub. L. 109–479, § 112(a)(2)][/us/pl/109/479/s112/a/2], substituted “2007 through 2013.” for “1996, 1997, 1998, and 1999.”
+    Subsec. (a)(4). [Pub. L. 109–479][/us/pl/109/479], § 112(a)(2), substituted “2007 through 2013.” for “1996, 1997, 1998, and 1999.”
 
-    Subsec. (b)(1). [Pub. L. 109–479, § 112(a)(3)][/us/pl/109/479/s112/a/3], in introductory provisions, substituted “the Governor of a State for fisheries under State authority, or a majority of permit holders in the fishery, may conduct a voluntary fishing” for “or the Governor of a State for fisheries under State authority, may conduct a fishing”.
+    Subsec. (b)(1). [Pub. L. 109–479][/us/pl/109/479], § 112(a)(3), in introductory provisions, substituted “the Governor of a State for fisheries under State authority, or a majority of permit holders in the fishery, may conduct a voluntary fishing” for “or the Governor of a State for fisheries under State authority, may conduct a fishing”.
 
-    Subsec. (b)(1)(B)(i). [Pub. L. 109–479, § 112(a)(4)][/us/pl/109/479/s112/a/4], inserted “practicable” after “entrants,”.
+    Subsec. (b)(1)(B)(i). [Pub. L. 109–479][/us/pl/109/479], § 112(a)(4), inserted “practicable” after “entrants,”.
 
-    Subsec. (b)(1)(C). [Pub. L. 109–479, § 112(a)(5)][/us/pl/109/479/s112/a/5], substituted “cost-effective and, in the instance of a program involving an industry fee system, prospectively” for “cost-effective and”.
+    Subsec. (b)(1)(C). [Pub. L. 109–479][/us/pl/109/479], § 112(a)(5), substituted “cost-effective and, in the instance of a program involving an industry fee system, prospectively” for “cost-effective and”.
 
-    Subsec. (b)(2)(A). [Pub. L. 109–479, § 112(a)(6)][/us/pl/109/479/s112/a/6], added subpar. (A) and struck out former subpar. (A) which read as follows: “the owner of a fishing vessel, if such vessel is (i) scrapped, or (ii) through the Secretary of the department in which the Coast Guard is operating, subjected to title restrictions that permanently prohibit and effectively prevent its use in fishing, and if the permit authorizing the participation of the vessel in the fishery is surrendered for permanent revocation and the owner relinquishes any claim associated with the vessel and permit that could qualify such owner for any present or future limited access system permit in the fishery for which the program is established; or”.
+    Subsec. (b)(2)(A). [Pub. L. 109–479][/us/pl/109/479], § 112(a)(6), added subpar. (A) and struck out former subpar. (A) which read as follows: “the owner of a fishing vessel, if such vessel is (i) scrapped, or (ii) through the Secretary of the department in which the Coast Guard is operating, subjected to title restrictions that permanently prohibit and effectively prevent its use in fishing, and if the permit authorizing the participation of the vessel in the fishery is surrendered for permanent revocation and the owner relinquishes any claim associated with the vessel and permit that could qualify such owner for any present or future limited access system permit in the fishery for which the program is established; or”.
 
-    Subsec. (b)(4). [Pub. L. 109–479, § 112(a)(7)][/us/pl/109/479/s112/a/7], substituted “The harvester proponents of each program and the Secretary shall consult, as appropriate and practicable, with Councils,” for “The Secretary shall consult, as appropriate, with Councils,”.
+    Subsec. (b)(4). [Pub. L. 109–479][/us/pl/109/479], § 112(a)(7), substituted “The harvester proponents of each program and the Secretary shall consult, as appropriate and practicable, with Councils,” for “The Secretary shall consult, as appropriate, with Councils,”.
 
-    Subsec. (b)(5), (6). [Pub. L. 109–479, § 112(a)(8)][/us/pl/109/479/s112/a/8], added pars. (5) and (6).
+    Subsec. (b)(5), (6). [Pub. L. 109–479][/us/pl/109/479], § 112(a)(8), added pars. (5) and (6).
 
-    Subsec. (d)(1)(A). [Pub. L. 109–479, § 112(a)(9)][/us/pl/109/479/s112/a/9], (10), in introductory provisions, substituted “Secretary” for “Secretary, at the request of the appropriate Council,” before “may conduct” and “Secretary” for “Secretary, in consultation with the Council,” before “shall—”.
+    Subsec. (d)(1)(A). [Pub. L. 109–479][/us/pl/109/479], § 112(a)(9), (10), in introductory provisions, substituted “Secretary” for “Secretary, at the request of the appropriate Council,” before “may conduct” and “Secretary” for “Secretary, in consultation with the Council,” before “shall—”.
 
-    Subsec. (d)(1)(B). [Pub. L. 109–479, § 112(a)(11)][/us/pl/109/479/s112/a/11], substituted “at least a majority of the permit holders in the fishery, or 50 percent of the permitted allocation of the fishery, who participated in the fishery.” for “a two-thirds majority of the participants voting.”
+    Subsec. (d)(1)(B). [Pub. L. 109–479][/us/pl/109/479], § 112(a)(11), substituted “at least a majority of the permit holders in the fishery, or 50 percent of the permitted allocation of the fishery, who participated in the fishery.” for “a two-thirds majority of the participants voting.”
 
-    Subsec. (d)(2)(C). [Pub. L. 109–479, § 112(a)(12)][/us/pl/109/479/s112/a/12], substituted “establish, unless the Secretary determines that such fees should be collected from the seller;” for “establish;”.
+    Subsec. (d)(2)(C). [Pub. L. 109–479][/us/pl/109/479], § 112(a)(12), substituted “establish, unless the Secretary determines that such fees should be collected from the seller;” for “establish;”.
 
-    Subsec. (e). [Pub. L. 109–479, § 112(a)(13)][/us/pl/109/479/s112/a/13], added subsec. (e) and struck out former subsec. (e) which related to implementation plan.
+    Subsec. (e). [Pub. L. 109–479][/us/pl/109/479], § 112(a)(13), added subsec. (e) and struck out former subsec. (e) which related to implementation plan.
 
  __Effective Date__ 
 
-[Pub. L. 109–479, title I, § 112(b)][/us/pl/109/479/s112/b], Jan. 12, 2007, [120 Stat. 3601][/us/stat/120/3601], provided that: 
+[Pub. L. 109–479, title I][/us/pl/109/479/tI], § 112(b), Jan. 12, 2007, [120 Stat. 3601][/us/stat/120/3601], provided that: 
 
 > “Sections 116, 203, 204, 205, and 206 of the Sustainable Fisheries Act \[[Pub. L. 104–297][/us/pl/104/297], see Tables for classification\] are deemed to have added sections 312, 402, 403, 404, and 405 \[[16 U.S.C. 1861a][/us/usc/t16/s1861a], 1881a to 1881d\], respectively to the Act \[[Pub. L. 94–265][/us/pl/94/265]\] as of the date of enactment of the Sustainable Fisheries Act \[Oct. 11, 1996\].”
 
  __Study of Federal Investment in Fisheries__ 
 
-[Pub. L. 104–297, title I, § 116(b)][/us/pl/104/297/s116/b], Oct. 11, 1996, [110 Stat. 3603][/us/stat/110/3603], as amended by [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that: 
+[Pub. L. 104–297, title I][/us/pl/104/297/tI], § 116(b), Oct. 11, 1996, [110 Stat. 3603][/us/stat/110/3603], as amended by [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that: 
 
 > “The Secretary of Commerce shall establish a task force comprised of interested parties to study and report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives within 2 years of the date of enactment of this Act \[Oct. 11, 1996\] on the role of the Federal Government in—
 
@@ -240,39 +240,39 @@
 [/us/usc/t46/s53735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53735
 [/us/usc/t16/s1854/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1854%2Fd
 [/us/usc/t46/s53735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53735
-[/us/pl/94/265/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs312
-[/us/pl/104/297/s116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs116%2Fa
+[/us/pl/94/265/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2FtIII
+[/us/pl/104/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtI
 [/us/stat/110/3600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3600
-[/us/pl/109/479/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs112%2Fa
+[/us/pl/109/479/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtI
 [/us/stat/120/3598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3598
 [/us/usc/t46/s53735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53735
-[/us/pl/109/304/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
 [/us/usc/t46/s53735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53735
 [/us/pl/94/265/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs312
 [/us/stat/90/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F359
 [/us/usc/t16/s1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1857
 [/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
-[/us/pl/109/479/s112/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs112%2Fa%2F1
-[/us/pl/109/479/s112/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs112%2Fa%2F2
-[/us/pl/109/479/s112/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs112%2Fa%2F3
-[/us/pl/109/479/s112/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs112%2Fa%2F4
-[/us/pl/109/479/s112/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs112%2Fa%2F5
-[/us/pl/109/479/s112/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs112%2Fa%2F6
-[/us/pl/109/479/s112/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs112%2Fa%2F7
-[/us/pl/109/479/s112/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs112%2Fa%2F8
-[/us/pl/109/479/s112/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs112%2Fa%2F9
-[/us/pl/109/479/s112/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs112%2Fa%2F11
-[/us/pl/109/479/s112/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs112%2Fa%2F12
-[/us/pl/109/479/s112/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs112%2Fa%2F13
-[/us/pl/109/479/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs112%2Fb
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtI
 [/us/stat/120/3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3601
 [/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
 [/us/usc/t16/s1861a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1861a
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
-[/us/pl/104/297/s116/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs116%2Fb
+[/us/pl/104/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtI
 [/us/stat/110/3603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3603
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
 

@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated not more than $6,873,000 for the acquisition of lands and interests in land in connection with, and not more than $6,348,000 for development of, the Pictured Rocks National Lakeshore.
 
-([Pub. L. 89–668, § 14][/us/pl/89/668/s14], Oct. 15, 1966, [80 Stat. 925][/us/stat/80/925].)
+([Pub. L. 89–668][/us/pl/89/668], § 14, Oct. 15, 1966, [80 Stat. 925][/us/stat/80/925].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/668/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F668%2Fs14
+[/us/pl/89/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F668
 [/us/stat/80/925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F925
 
 

@@ -91,7 +91,7 @@
 
         The Secretary may designate zones where, and establish periods when, any activity otherwise permitted in the recreation area will not be permitted for reasons of public safety, administration, fish and wildlife management, protection of archaeological or cultural resources, or public use and enjoyment. Except in emergencies such designations by the Secretary shall be put into effect only after consultation with the appropriate State agencies, appropriate tribal leaders, and other affected parties.
 
-([Pub. L. 103–104, § 2][/us/pl/103/104/s2], Oct. 12, 1993, [107 Stat. 1025][/us/stat/107/1025].)
+([Pub. L. 103–104][/us/pl/103/104], § 2, Oct. 12, 1993, [107 Stat. 1025][/us/stat/107/1025].)
 
  __References in Text__ 
 
@@ -115,7 +115,7 @@
 [/us/usc/t42/s1996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1996
 [/us/usc/t42/s1996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1996
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
-[/us/pl/103/104/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F104%2Fs2
+[/us/pl/103/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F104
 [/us/stat/107/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1025
 [/us/pl/96/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95
 [/us/stat/93/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F721

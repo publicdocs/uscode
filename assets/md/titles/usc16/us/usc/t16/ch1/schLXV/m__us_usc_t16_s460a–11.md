@@ -11,38 +11,22 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schLXV/m__us_usc_t16_s460a–10.md) | [Next](./../../../../..//us/usc/t16/ch1/schLXVI/m__us_usc_t16_ch1_schLXVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460a%E2%80%9311)
+[Previous](./../../../../..//us/usc/t16/ch1/schLXV/m__us_usc_t16_s460a–10.md) | [Next](./../../../../..//us/usc/t16/ch1/schLXV/m__us_usc_t16_s460b _us_usc_t16_s460c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460a%E2%80%9311)
 
 ## § 460a–11. Authorization of appropriations
 
     There is hereby authorized to be appropriated, for construction of the Blue Ridge Parkway extension, not more than $87,536,000, plus or minus such amounts, if any, as may be justified by reason of fluctuations in construction costs as indicated by engineering cost indices applicable to the type of construction involved herein.
 
-([Pub. L. 90–555, § 6][/us/pl/90/555/s6], Oct. 9, 1968, [82 Stat. 968][/us/stat/82/968].)
-
-§§ 460b, 460c. __Repealed.__  __[__  __Pub. L. 85–767, § 2__  __][/us/pl/85/767/s2]__  __\[19, 21, 23, 33\],__  __Aug. 27, 1958__  __,__  __[__  __72 Stat. 919__  __][/us/stat/72/919]__ 
-
-    Section 460b, acts [June 16, 1936, ch. 582, § 5][/us/act/1936-06-16/ch582/s5], [49 Stat. 1520][/us/stat/49/1520]; [June 8, 1938, ch. 328, § 8][/us/act/1938-06-08/ch328/s8], [52 Stat. 635][/us/stat/52/635]; [Sept. 5, 1940, ch. 715, § 9][/us/act/1940-09-05/ch715/s9], [54 Stat. 870][/us/stat/54/870], related to determination of location of parkways upon public lands, national forests, or other Federal reservations.
-
-    Section 460c, [act Sept. 7, 1950, ch. 912, § 4(b)][/us/act/1950-09-07/ch912/s4/b], [64 Stat. 787][/us/stat/64/787], related to administration of parkway appropriations.
+([Pub. L. 90–555][/us/pl/90/555], § 6, Oct. 9, 1968, [82 Stat. 968][/us/stat/82/968].)
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schLXV/m__us_usc_t16_s460a–10.md) | [Next](./../../../../..//us/usc/t16/ch1/schLXVI/m__us_usc_t16_ch1_schLXVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460a%E2%80%9311)
+[Previous](./../../../../..//us/usc/t16/ch1/schLXV/m__us_usc_t16_s460a–10.md) | [Next](./../../../../..//us/usc/t16/ch1/schLXV/m__us_usc_t16_s460b _us_usc_t16_s460c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460a%E2%80%9311)
 
 ----------
 ----------
 
-[/us/pl/90/555/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F555%2Fs6
+[/us/pl/90/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F555
 [/us/stat/82/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F968
-[/us/pl/85/767/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767%2Fs2
-[/us/stat/72/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F919
-[/us/act/1936-06-16/ch582/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-16%2Fch582%2Fs5
-[/us/stat/49/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1520
-[/us/act/1938-06-08/ch328/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-08%2Fch328%2Fs8
-[/us/stat/52/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F635
-[/us/act/1940-09-05/ch715/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-09-05%2Fch715%2Fs9
-[/us/stat/54/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F870
-[/us/act/1950-09-07/ch912/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-07%2Fch912%2Fs4%2Fb
-[/us/stat/64/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F787
 
 

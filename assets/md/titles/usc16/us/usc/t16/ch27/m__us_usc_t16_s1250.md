@@ -33,7 +33,7 @@
 
         The appropriate Secretary or the head of any Federal land managing agency may utilize and make available Federal facilities, equipment, tools, and technical assistance to volunteers and volunteer organizations, subject to such limitations and restrictions as the appropriate Secretary or the head of any Federal land managing agency deems necessary or desirable.
 
-([Pub. L. 90–543, § 11][/us/pl/90/543/s11], as added [Pub. L. 98–11, title II, § 210][/us/pl/98/11/s210], Mar. 28, 1983, [97 Stat. 49][/us/stat/97/49]; amended [Pub. L. 113–287, § 5(d)(27)][/us/pl/113/287/s5/d/27], Dec. 19, 2014, [128 Stat. 3267][/us/stat/128/3267].)
+([Pub. L. 90–543][/us/pl/90/543], § 11, as added [Pub. L. 98–11, title II][/us/pl/98/11/tII], § 210, Mar. 28, 1983, [97 Stat. 49][/us/stat/97/49]; amended [Pub. L. 113–287][/us/pl/113/287], § 5(d)(27), Dec. 19, 2014, [128 Stat. 3267][/us/stat/128/3267].)
 
  __References in Text__ 
 
@@ -52,10 +52,10 @@
 
 [/us/usc/t54/s102301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs102301
 [/us/usc/t16/s558a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs558a
-[/us/pl/90/543/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F543%2Fs11
-[/us/pl/98/11/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2Fs210
+[/us/pl/90/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F543
+[/us/pl/98/11/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2FtII
 [/us/stat/97/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F49
-[/us/pl/113/287/s5/d/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F27
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3267
 [/us/pl/92/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F300
 [/us/stat/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F147

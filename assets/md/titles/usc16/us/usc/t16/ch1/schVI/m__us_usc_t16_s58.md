@@ -17,7 +17,7 @@
 
     All the laws applicable to places under sole and exclusive jurisdiction of the United States shall have force and effect in said parks or either of them. All fugitives from justice taking refuge in said parks, or either of them, shall be subject to the same laws as refugees from justice found in the State of California.
 
-([June 2, 1920, ch. 218, § 1][/us/act/1920-06-02/ch218/s1], [41 Stat. 731][/us/stat/41/731].)
+([June 2, 1920, ch. 218][/us/act/1920-06-02/ch218], § 1, [41 Stat. 731][/us/stat/41/731].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1920-06-02/ch218/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-02%2Fch218%2Fs1
+[/us/act/1920-06-02/ch218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-02%2Fch218
 [/us/stat/41/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F731
 
 

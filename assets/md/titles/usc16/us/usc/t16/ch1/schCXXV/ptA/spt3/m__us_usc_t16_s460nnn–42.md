@@ -31,7 +31,7 @@
 
         Nothing in this subchapter is intended to affect rights or interests in real property or supersede State law.
 
-([Pub. L. 106–399, title I, § 122][/us/pl/106/399/s122], Oct. 30, 2000, [114 Stat. 1664][/us/stat/114/1664].)
+([Pub. L. 106–399, title I][/us/pl/106/399/tI], § 122, Oct. 30, 2000, [114 Stat. 1664][/us/stat/114/1664].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/106/399/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2Fs122
+[/us/pl/106/399/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2FtI
 [/us/stat/114/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1664
 [/us/pl/106/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399
 [/us/stat/114/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1655

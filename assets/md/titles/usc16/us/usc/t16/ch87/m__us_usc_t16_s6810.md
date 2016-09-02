@@ -31,11 +31,11 @@
 
         The Secretary may issue a regional multientity pass authorized under [section 6804(d) of this title][/us/usc/t16/s6804/d] to a volunteer in exchange for significant volunteer services performed by the volunteer, if the regional multientity pass agreement under which the regional multientity pass was established provides for the issuance of the pass to volunteers.
 
-([Pub. L. 108–447, div. J, title VIII, § 811][/us/pl/108/447/s811], Dec. 8, 2004, [118 Stat. 3389][/us/stat/118/3389].)
+([Pub. L. 108–447, div. J, title VIII][/us/pl/108/447/dJ/tVIII], § 811, Dec. 8, 2004, [118 Stat. 3389][/us/stat/118/3389].)
 
  __References in Text__ 
 
-    [Section 6804 of this title][/us/usc/t16/s6804], referred to in subsecs. (b) to (d), was in the original a reference to section 5, and was translated as meaning [section 805 of title VIII of div. J of Pub. L. 108–447][/us/pl/108/447/s805], to reflect the probable intent of Congress.
+    [Section 6804 of this title][/us/usc/t16/s6804], referred to in subsecs. (b) to (d), was in the original a reference to section 5, and was translated as meaning [section 805 of title VIII of div. J of Pub. L. 108–447][/us/pl/108/447/dJ/tVIII/s805], to reflect the probable intent of Congress.
 
 ----------
 
@@ -47,9 +47,9 @@
 [/us/usc/t16/s6804/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6804%2Fc
 [/us/usc/t16/s6804/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6804%2Fa%2F7
 [/us/usc/t16/s6804/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6804%2Fd
-[/us/pl/108/447/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs811
+[/us/pl/108/447/dJ/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtVIII
 [/us/stat/118/3389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3389
 [/us/usc/t16/s6804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6804
-[/us/pl/108/447/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs805
+[/us/pl/108/447/dJ/tVIII/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtVIII%2Fs805
 
 

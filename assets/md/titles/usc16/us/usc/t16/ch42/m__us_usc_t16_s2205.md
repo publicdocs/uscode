@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture is authorized to prescribe such regulations as the Secretary determines necessary to carry out the provisions of this chapter.
 
-([Pub. L. 95–334, title IV, § 405][/us/pl/95/334/s405], Aug. 4, 1978, [92 Stat. 434][/us/stat/92/434].)
+([Pub. L. 95–334, title IV][/us/pl/95/334/tIV], § 405, Aug. 4, 1978, [92 Stat. 434][/us/stat/92/434].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/334/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334%2Fs405
+[/us/pl/95/334/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334%2FtIV
 [/us/stat/92/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F434
 
 

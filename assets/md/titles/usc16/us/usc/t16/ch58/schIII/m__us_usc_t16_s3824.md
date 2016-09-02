@@ -17,7 +17,7 @@
 
     If the actions of an unrelated person or public entity, outside the control of, and without the prior approval of, the landowner or tenant result in a change in the characteristics of cropland that would cause the land to be determined to be a wetland, the affected land shall not be considered to be wetland for purposes of this subchapter.
 
-([Pub. L. 99–198, title XII, § 1224][/us/pl/99/198/s1224], as added [Pub. L. 101–624, title XIV, § 1424][/us/pl/101/624/s1424], Nov. 28, 1990, [104 Stat. 3576][/us/stat/104/3576].)
+([Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1224, as added [Pub. L. 101–624, title XIV][/us/pl/101/624/tXIV], § 1424, Nov. 28, 1990, [104 Stat. 3576][/us/stat/104/3576].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/99/198/s1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1224
-[/us/pl/101/624/s1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1424
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/101/624/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIV
 [/us/stat/104/3576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3576
 
 

@@ -23,7 +23,7 @@
 
     (3) to provide that the preservation and interpretation of the settlement be managed and performed by patients and Native Hawaiians to the extent practical, and that training opportunities be provided such persons in management and interpretation of the settlement’s cultural, historical, educational, and scenic resources.
 
-([Pub. L. 96–565, title I, § 102][/us/pl/96/565/s102], Dec. 22, 1980, [94 Stat. 3321][/us/stat/94/3321].)
+([Pub. L. 96–565, title I][/us/pl/96/565/tI], § 102, Dec. 22, 1980, [94 Stat. 3321][/us/stat/94/3321].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/96/565/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F565%2Fs102
+[/us/pl/96/565/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F565%2FtI
 [/us/stat/94/3321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3321
 
 

@@ -17,7 +17,7 @@
 
     Any agency of the Federal Government is authorized upon request of the Commission, to cooperate in the conduct of scientific and other programs, and to furnish on a reimbursable basis, facilities and personnel for the purposes of assisting the Commission in carrying out its duties under the Convention. Such agency may accept reimbursement from the Commission.
 
-([Pub. L. 97–176, § 6][/us/pl/97/176/s6], May 17, 1982, [96 Stat. 80][/us/stat/96/80].)
+([Pub. L. 97–176][/us/pl/97/176], § 6, May 17, 1982, [96 Stat. 80][/us/stat/96/80].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/176/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F176%2Fs6
+[/us/pl/97/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F176
 [/us/stat/96/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F80
 
 

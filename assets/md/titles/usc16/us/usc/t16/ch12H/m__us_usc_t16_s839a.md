@@ -105,7 +105,7 @@
 
     (20) “Secretary” means the Secretary of Energy.
 
-([Pub. L. 96–501, § 3][/us/pl/96/501/s3], Dec. 5, 1980, [94 Stat. 2698][/us/stat/94/2698].)
+([Pub. L. 96–501][/us/pl/96/501], § 3, Dec. 5, 1980, [94 Stat. 2698][/us/stat/94/2698].)
 
 ----------
 
@@ -116,7 +116,7 @@
 
 [/us/usc/t16/s839b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs839b
 [/us/usc/t16/s838i/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs838i%2Fb%2F6
-[/us/pl/96/501/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501%2Fs3
+[/us/pl/96/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501
 [/us/stat/94/2698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2698
 
 

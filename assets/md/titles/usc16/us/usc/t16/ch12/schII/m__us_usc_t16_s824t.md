@@ -57,7 +57,7 @@
 
         This section shall not apply to a transaction for the purchase or sale of wholesale electric energy or transmission services within the area described in [section 824k(k)(2)(A) of this title][/us/usc/t16/s824k/k/2/A].
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 220, as added [Pub. L. 109–58, title XII, § 1281][/us/pl/109/58/s1281], Aug. 8, 2005, [119 Stat. 978][/us/stat/119/978].)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 220, as added [Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1281, Aug. 8, 2005, [119 Stat. 978][/us/stat/119/978].)
 
  __References in Text__ 
 
@@ -74,7 +74,7 @@
 [/us/usc/t16/s824v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824v
 [/us/usc/t16/s824k/k/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824k%2Fk%2F2%2FA
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
-[/us/pl/109/58/s1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1281
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F978
 [/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F998

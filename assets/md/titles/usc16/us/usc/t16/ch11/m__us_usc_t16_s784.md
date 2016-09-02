@@ -17,7 +17,7 @@
 
     Any violation of the provisions of this chapter shall be prosecuted in the district court of the United States of the district wherein the offender is found or into which he is first brought.
 
-([Aug. 15, 1914, ch. 253, § 4][/us/act/1914-08-15/ch253/s4], [38 Stat. 692][/us/stat/38/692].)
+([Aug. 15, 1914, ch. 253][/us/act/1914-08-15/ch253], § 4, [38 Stat. 692][/us/stat/38/692].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1914-08-15/ch253/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-08-15%2Fch253%2Fs4
+[/us/act/1914-08-15/ch253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-08-15%2Fch253
 [/us/stat/38/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F692
 
 

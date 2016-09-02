@@ -63,15 +63,15 @@
 
         Each entity that receives assistance under this section shall provide such periodic reports to the Director of the United States Fish and Wildlife Service as the Director considers relevant and appropriate. Each report shall include all information requested by the Director for evaluating the progress and success of the project.
 
-([Pub. L. 100–478, title II, § 2101][/us/pl/100/478/s2101], Oct. 7, 1988, [102 Stat. 2316][/us/stat/102/2316]; [Pub. L. 107–111][/us/pl/107/111], §§ 5, 6(a)(1), Jan. 8, 2002, [115 Stat. 2096][/us/stat/115/2096]; [Pub. L. 110–132, § 2(a)][/us/pl/110/132/s2/a], Dec. 6, 2007, [121 Stat. 1360][/us/stat/121/1360].)
+([Pub. L. 100–478, title II][/us/pl/100/478/tII], § 2101, Oct. 7, 1988, [102 Stat. 2316][/us/stat/102/2316]; [Pub. L. 107–111][/us/pl/107/111], §§ 5, 6(a)(1), Jan. 8, 2002, [115 Stat. 2096][/us/stat/115/2096]; [Pub. L. 110–132][/us/pl/110/132], § 2(a), Dec. 6, 2007, [121 Stat. 1360][/us/stat/121/1360].)
 
  __Amendments__ 
 
     2007—Subsec. (c). [Pub. L. 110–132][/us/pl/110/132], struck out “and to each country within which the project is proposed to be conducted” before period at end in second sentence.
 
-    2002—Subsec. (a). [Pub. L. 107–111, § 6(a)(1)][/us/pl/107/111/s6/a/1], struck out “African Elephant Conservation” before “Fund”.
+    2002—Subsec. (a). [Pub. L. 107–111][/us/pl/107/111], § 6(a)(1), struck out “African Elephant Conservation” before “Fund”.
 
-    Subsecs. (e), (f). [Pub. L. 107–111, § 5][/us/pl/107/111/s5], added subsec. (e) and redesignated former subsec. (e) as (f).
+    Subsecs. (e), (f). [Pub. L. 107–111][/us/pl/107/111], § 5, added subsec. (e) and redesignated former subsec. (e) as (f).
 
 ----------
 
@@ -80,14 +80,14 @@
 ----------
 ----------
 
-[/us/pl/100/478/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2Fs2101
+[/us/pl/100/478/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2FtII
 [/us/stat/102/2316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2316
 [/us/pl/107/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F111
 [/us/stat/115/2096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2096
-[/us/pl/110/132/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F132%2Fs2%2Fa
+[/us/pl/110/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F132
 [/us/stat/121/1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1360
 [/us/pl/110/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F132
-[/us/pl/107/111/s6/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F111%2Fs6%2Fa%2F1
-[/us/pl/107/111/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F111%2Fs5
+[/us/pl/107/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F111
+[/us/pl/107/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F111
 
 

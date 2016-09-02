@@ -47,7 +47,7 @@
 
         (3) The Secretary of Commerce, the Secretary of the Interior, and the Commission shall address the status and findings of the research program in their annual reports to Congress required by sections 1373(f) and 1404 of this title. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-([Pub. L. 92–522, title I, § 110][/us/pl/92/522/s110], Oct. 21, 1972, [86 Stat. 1041][/us/stat/86/1041]; [Pub. L. 95–136, § 1][/us/pl/95/136/s1], Oct. 18, 1977, [91 Stat. 1167][/us/stat/91/1167]; [Pub. L. 95–316, § 2][/us/pl/95/316/s2], July 10, 1978, [92 Stat. 380][/us/stat/92/380]; [Pub. L. 97–58, § 5][/us/pl/97/58/s5], Oct. 9, 1981, [95 Stat. 986][/us/stat/95/986]; [Pub. L. 100–711, § 4(e)][/us/pl/100/711/s4/e], Nov. 23, 1988, [102 Stat. 4768][/us/stat/102/4768]; [Pub. L. 103–238, § 20][/us/pl/103/238/s20], Apr. 30, 1994, [108 Stat. 560][/us/stat/108/560]; [Pub. L. 105–42, § 4(f)][/us/pl/105/42/s4/f], Aug. 15, 1997, [111 Stat. 1125][/us/stat/111/1125].)
+([Pub. L. 92–522, title I][/us/pl/92/522/tI], § 110, Oct. 21, 1972, [86 Stat. 1041][/us/stat/86/1041]; [Pub. L. 95–136][/us/pl/95/136], § 1, Oct. 18, 1977, [91 Stat. 1167][/us/stat/91/1167]; [Pub. L. 95–316][/us/pl/95/316], § 2, July 10, 1978, [92 Stat. 380][/us/stat/92/380]; [Pub. L. 97–58][/us/pl/97/58], § 5, Oct. 9, 1981, [95 Stat. 986][/us/stat/95/986]; [Pub. L. 100–711][/us/pl/100/711], § 4(e), Nov. 23, 1988, [102 Stat. 4768][/us/stat/102/4768]; [Pub. L. 103–238][/us/pl/103/238], § 20, Apr. 30, 1994, [108 Stat. 560][/us/stat/108/560]; [Pub. L. 105–42][/us/pl/105/42], § 4(f), Aug. 15, 1997, [111 Stat. 1125][/us/stat/111/1125].)
 
  __References in Text__ 
 
@@ -85,19 +85,19 @@
 ----------
 
 [/us/usc/t16/s1373/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1373%2Ff
-[/us/pl/92/522/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs110
+[/us/pl/92/522/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtI
 [/us/stat/86/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1041
-[/us/pl/95/136/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F136%2Fs1
+[/us/pl/95/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F136
 [/us/stat/91/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1167
-[/us/pl/95/316/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F316%2Fs2
+[/us/pl/95/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F316
 [/us/stat/92/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F380
-[/us/pl/97/58/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58%2Fs5
+[/us/pl/97/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58
 [/us/stat/95/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F986
-[/us/pl/100/711/s4/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711%2Fs4%2Fe
+[/us/pl/100/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711
 [/us/stat/102/4768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4768
-[/us/pl/103/238/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs20
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
 [/us/stat/108/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F560
-[/us/pl/105/42/s4/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs4%2Ff
+[/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
 [/us/stat/111/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1125
 [/us/usc/t16/s1373/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1373%2Ff
 [/us/usc/t16/s1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1373

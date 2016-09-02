@@ -37,7 +37,7 @@
 
                 (ii) If any of the sites evaluated are found to meet the standards of the National Historic Landmark program and National Park Service tests of suitability and feasibility, and offer outstanding opportunities to further the purposes of this subchapter, the Secretary may designate such sites as part of the historical park, following consultation with the owners of such sites, the city of New Orleans, the Smithsonian Institution, and the New Orleans Jazz Commission, and notification to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Natural Resources of the United States House of Representatives.
 
-([Pub. L. 103–433, title XII, § 1203][/us/pl/103/433/s1203], Oct. 31, 1994, [108 Stat. 4520][/us/stat/108/4520].)
+([Pub. L. 103–433, title XII][/us/pl/103/433/tXII], § 1203, Oct. 31, 1994, [108 Stat. 4520][/us/stat/108/4520].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/pl/101/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F499
-[/us/pl/103/433/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs1203
+[/us/pl/103/433/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtXII
 [/us/stat/108/4520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4520
 [/us/pl/101/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F499
 [/us/pl/101/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F499

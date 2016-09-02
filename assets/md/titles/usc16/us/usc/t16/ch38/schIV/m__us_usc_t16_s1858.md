@@ -67,7 +67,7 @@
 
         (5) No sanctions shall be imposed under this subsection unless there has been a prior opportunity for a hearing on the facts underlying the violation for which the sanction is imposed, either in conjunction with a civil penalty proceeding under this section or otherwise.
 
-([Pub. L. 94–265, title III, § 308][/us/pl/94/265/s308], Apr. 13, 1976, [90 Stat. 356][/us/stat/90/356]; [Pub. L. 97–453, § 10][/us/pl/97/453/s10], Jan. 12, 1983, [96 Stat. 2491][/us/stat/96/2491]; [Pub. L. 99–659, title I, § 108][/us/pl/99/659/s108], Nov. 14, 1986, [100 Stat. 3713][/us/stat/100/3713]; [Pub. L. 101–627, title I, § 114(a)][/us/pl/101/627/s114/a], Nov. 28, 1990, [104 Stat. 4454][/us/stat/104/4454]; [Pub. L. 104–297, title I, § 114(a)][/us/pl/104/297/s114/a]–(c), Oct. 11, 1996, [110 Stat. 3598][/us/stat/110/3598], 3599.)
+([Pub. L. 94–265, title III][/us/pl/94/265/tIII], § 308, Apr. 13, 1976, [90 Stat. 356][/us/stat/90/356]; [Pub. L. 97–453][/us/pl/97/453], § 10, Jan. 12, 1983, [96 Stat. 2491][/us/stat/96/2491]; [Pub. L. 99–659, title I][/us/pl/99/659/tI], § 108, Nov. 14, 1986, [100 Stat. 3713][/us/stat/100/3713]; [Pub. L. 101–627, title I][/us/pl/101/627/tI], § 114(a), Nov. 28, 1990, [104 Stat. 4454][/us/stat/104/4454]; [Pub. L. 104–297, title I][/us/pl/104/297/tI], § 114(a)–(c), Oct. 11, 1996, [110 Stat. 3598][/us/stat/110/3598], 3599.)
 
  __References in Text__ 
 
@@ -75,21 +75,21 @@
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–297, § 114(a)][/us/pl/104/297/s114/a], struck out “ability to pay,” after “history of prior offenses,” and inserted at end “In assessing such penalty the Secretary may also consider any information provided by the violator relating to the ability of the violator to pay, Provided, That the information is served on the Secretary at least 30 days prior to an administrative hearing.”
+    1996—Subsec. (a). [Pub. L. 104–297][/us/pl/104/297], § 114(a), struck out “ability to pay,” after “history of prior offenses,” and inserted at end “In assessing such penalty the Secretary may also consider any information provided by the violator relating to the ability of the violator to pay, Provided, That the information is served on the Secretary at least 30 days prior to an administrative hearing.”
 
-    Subsec. (b). [Pub. L. 104–297, § 114(b)][/us/pl/104/297/s114/b], amended first sentence generally. Prior to amendment, first sentence read as follows: “Any person against whom a civil penalty is assessed under subsection (a) of this section may obtain review thereof in the United States district court for the appropriate district by filing a complaint in such court within 30 days from the date of such order and by simultaneously serving a copy of such complaint by certified mail on the Secretary, the Attorney General and the appropriate United States Attorney.”
+    Subsec. (b). [Pub. L. 104–297][/us/pl/104/297], § 114(b), amended first sentence generally. Prior to amendment, first sentence read as follows: “Any person against whom a civil penalty is assessed under subsection (a) of this section may obtain review thereof in the United States district court for the appropriate district by filing a complaint in such court within 30 days from the date of such order and by simultaneously serving a copy of such complaint by certified mail on the Secretary, the Attorney General and the appropriate United States Attorney.”
 
-    Subsec. (g)(1). [Pub. L. 104–297, § 114(c)][/us/pl/104/297/s114/c], substituted “(C) any amount in settlement of a civil forfeiture imposed on a vessel or other property, or any civil penalty or criminal fine imposed on a vessel or owner or operator of a vessel or any other person who has been issued or has applied for a permit under any marine resource law enforced by the Secretary has not been paid and is overdue, or (D) any payment required for observer services provided to or contracted by an owner or operator who has been issued a permit or applied for a permit under any marine resource law administered by the Secretary has not been paid and is overdue,” for “or (C) any civil penalty or criminal fine imposed on a vessel or owner or operator of a vessel or any other person who has been issued or has applied for a permit under any fishery resource law statute enforced by the Secretary has not been paid and is overdue,”.
+    Subsec. (g)(1). [Pub. L. 104–297][/us/pl/104/297], § 114(c), substituted “(C) any amount in settlement of a civil forfeiture imposed on a vessel or other property, or any civil penalty or criminal fine imposed on a vessel or owner or operator of a vessel or any other person who has been issued or has applied for a permit under any marine resource law enforced by the Secretary has not been paid and is overdue, or (D) any payment required for observer services provided to or contracted by an owner or operator who has been issued a permit or applied for a permit under any marine resource law administered by the Secretary has not been paid and is overdue,” for “or (C) any civil penalty or criminal fine imposed on a vessel or owner or operator of a vessel or any other person who has been issued or has applied for a permit under any fishery resource law statute enforced by the Secretary has not been paid and is overdue,”.
 
-    1990—[Pub. L. 101–627, § 114(a)(1)][/us/pl/101/627/s114/a/1], inserted “and permit sanctions” after “penalties” in section catchline.
+    1990—[Pub. L. 101–627][/us/pl/101/627], § 114(a)(1), inserted “and permit sanctions” after “penalties” in section catchline.
 
-    Subsec. (a). [Pub. L. 101–627, § 114(a)(2)][/us/pl/101/627/s114/a/2], substituted “$100,000” for “$25,000”.
+    Subsec. (a). [Pub. L. 101–627][/us/pl/101/627], § 114(a)(2), substituted “$100,000” for “$25,000”.
 
-    Subsec. (g). [Pub. L. 101–627, § 114(a)(3)][/us/pl/101/627/s114/a/3], added subsec. (g).
+    Subsec. (g). [Pub. L. 101–627][/us/pl/101/627], § 114(a)(3), added subsec. (g).
 
-    1986—Subsec. (b). [Pub. L. 99–659, § 108(1)][/us/pl/99/659/s108/1], amended first sentence generally. Prior to amendment, the sentence read as follows: “Any person against whom a civil penalty is assessed under subsection (a) of this section may obtain review thereof in the appropriate court of the United States by filing a notice of appeal in such court within 30 days from the date of such order and by simultaneously sending a copy of such notice by certified mail to the Secretary”.
+    1986—Subsec. (b). [Pub. L. 99–659][/us/pl/99/659], § 108(1), amended first sentence generally. Prior to amendment, the sentence read as follows: “Any person against whom a civil penalty is assessed under subsection (a) of this section may obtain review thereof in the appropriate court of the United States by filing a notice of appeal in such court within 30 days from the date of such order and by simultaneously sending a copy of such notice by certified mail to the Secretary”.
 
-    Subsecs. (d) to (f). [Pub. L. 99–659, § 108(2)][/us/pl/99/659/s108/2], (3), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+    Subsecs. (d) to (f). [Pub. L. 99–659][/us/pl/99/659], § 108(2), (3), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
     1983—Subsec. (e). [Pub. L. 97–453][/us/pl/97/453] added subsec. (e).
 
@@ -111,27 +111,27 @@
 [/us/usc/t16/s1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1857
 [/us/usc/t16/s1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1857
 [/us/usc/t16/s1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1857
-[/us/pl/94/265/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs308
+[/us/pl/94/265/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2FtIII
 [/us/stat/90/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F356
-[/us/pl/97/453/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453%2Fs10
+[/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
 [/us/stat/96/2491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2491
-[/us/pl/99/659/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs108
+[/us/pl/99/659/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtI
 [/us/stat/100/3713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3713
-[/us/pl/101/627/s114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs114%2Fa
+[/us/pl/101/627/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtI
 [/us/stat/104/4454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4454
-[/us/pl/104/297/s114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs114%2Fa
+[/us/pl/104/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtI
 [/us/stat/110/3598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3598
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
-[/us/pl/104/297/s114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs114%2Fa
-[/us/pl/104/297/s114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs114%2Fb
-[/us/pl/104/297/s114/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs114%2Fc
-[/us/pl/101/627/s114/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs114%2Fa%2F1
-[/us/pl/101/627/s114/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs114%2Fa%2F2
-[/us/pl/101/627/s114/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs114%2Fa%2F3
-[/us/pl/99/659/s108/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs108%2F1
-[/us/pl/99/659/s108/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs108%2F2
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
 [/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
 [/us/pl/94/265/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs312
 [/us/usc/t16/s1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1857

@@ -17,7 +17,7 @@
 
     Not later than 180 days after November 6, 2002, the Secretary shall convey to the City of Henderson the public right-of-way requested for public trail purposes under the application numbered N–76312 and the public right-of-way requested for public trail purposes under the application numbered N–65874.
 
-([Pub. L. 107–282, title VI, § 607][/us/pl/107/282/s607], Nov. 6, 2002, [116 Stat. 2012][/us/stat/116/2012].)
+([Pub. L. 107–282, title VI][/us/pl/107/282/tVI], § 607, Nov. 6, 2002, [116 Stat. 2012][/us/stat/116/2012].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/282/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F282%2Fs607
+[/us/pl/107/282/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F282%2FtVI
 [/us/stat/116/2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2012
 
 

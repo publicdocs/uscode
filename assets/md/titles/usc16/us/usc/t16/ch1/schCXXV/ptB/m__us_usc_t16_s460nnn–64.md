@@ -27,7 +27,7 @@
 
         The boundaries of the Basque Hills Wilderness Study Area are hereby expanded to include the Federal lands within sections 8, 16, 17, 21, 22, and 27 of township 36 south, range 31 east, Willamette Meridian. These lands shall be managed under [section 1782(c) of title 43][/us/usc/t43/s1782/c] to protect and enhance the wilderness values of these lands.
 
-([Pub. L. 106–399, title II, § 204][/us/pl/106/399/s204], Oct. 30, 2000, [114 Stat. 1667][/us/stat/114/1667].)
+([Pub. L. 106–399, title II][/us/pl/106/399/tII], § 204, Oct. 30, 2000, [114 Stat. 1667][/us/stat/114/1667].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 [/us/usc/t16/s460nnn–92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460nnn%E2%80%9392
 [/us/usc/t43/s1782/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1782%2Fc
 [/us/usc/t43/s1782/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1782%2Fc
-[/us/pl/106/399/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2Fs204
+[/us/pl/106/399/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2FtII
 [/us/stat/114/1667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1667
 [/us/pl/106/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399
 [/us/stat/114/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1655

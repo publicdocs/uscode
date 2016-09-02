@@ -37,7 +37,7 @@
 
             A copy of the map and legal description shall be on file and available for public inspection in the appropriate office of the Bureau of Land Management.
 
-([Pub. L. 107–282, title VI, § 604][/us/pl/107/282/s604], Nov. 6, 2002, [116 Stat. 2010][/us/stat/116/2010].)
+([Pub. L. 107–282, title VI][/us/pl/107/282/tVI], § 604, Nov. 6, 2002, [116 Stat. 2010][/us/stat/116/2010].)
 
 ----------
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t16/s460qqq]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460qqq
-[/us/pl/107/282/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F282%2Fs604
+[/us/pl/107/282/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F282%2FtVI
 [/us/stat/116/2010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2010
 
 

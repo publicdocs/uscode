@@ -93,7 +93,7 @@
 
             (C) if they indicate that the actions taken do not address the problem adequately, include recommendations of such additional action to be taken as may be necessary.
 
-([Pub. L. 92–522, title III, § 303][/us/pl/92/522/s303], as added [Pub. L. 105–42, § 6(c)][/us/pl/105/42/s6/c], Aug. 15, 1997, [111 Stat. 1131][/us/stat/111/1131].)
+([Pub. L. 92–522, title III][/us/pl/92/522/tIII], § 303, as added [Pub. L. 105–42][/us/pl/105/42], § 6(c), Aug. 15, 1997, [111 Stat. 1131][/us/stat/111/1131].)
 
  __References in Text__ 
 
@@ -101,7 +101,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1413, [Pub. L. 92–522, title III, § 303][/us/pl/92/522/s303], as added [Pub. L. 102–523, § 2(a)][/us/pl/102/523/s2/a], Oct. 26, 1992, [106 Stat. 3426][/us/stat/106/3426], related to research programs prior to repeal by [Pub. L. 105–42, § 6(c)][/us/pl/105/42/s6/c], Aug. 15, 1997, [111 Stat. 1130][/us/stat/111/1130].
+    A prior section 1413, [Pub. L. 92–522, title III][/us/pl/92/522/tIII], § 303, as added [Pub. L. 102–523][/us/pl/102/523], § 2(a), Oct. 26, 1992, [106 Stat. 3426][/us/stat/106/3426], related to research programs prior to repeal by [Pub. L. 105–42][/us/pl/105/42], § 6(c), Aug. 15, 1997, [111 Stat. 1130][/us/stat/111/1130].
 
     A prior [section 303 of Pub. L. 92–522][/us/pl/92/522/s303] was renumbered section 403 and is classified to [section 1421b of this title][/us/usc/t16/s1421b].
 
@@ -119,16 +119,16 @@
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/usc/t16/s952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs952
 [/us/usc/t16/s1414a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1414a
-[/us/pl/92/522/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs303
-[/us/pl/105/42/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs6%2Fc
+[/us/pl/92/522/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtIII
+[/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
 [/us/stat/111/1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1131
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F884
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
-[/us/pl/92/522/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs303
-[/us/pl/102/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F523%2Fs2%2Fa
+[/us/pl/92/522/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtIII
+[/us/pl/102/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F523
 [/us/stat/106/3426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3426
-[/us/pl/105/42/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs6%2Fc
+[/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
 [/us/stat/111/1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1130
 [/us/pl/92/522/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs303
 [/us/usc/t16/s1421b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1421b

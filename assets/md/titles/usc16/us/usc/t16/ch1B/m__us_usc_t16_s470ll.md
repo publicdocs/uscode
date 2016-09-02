@@ -17,7 +17,7 @@
 
     As part of the annual report required to be submitted to the specified committees of the Congress pursuant to section 469a–3(c)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, the Secretary of the Interior shall comprehensively report as a separate component on the activities carried out under the provisions of this chapter, and he shall make such recommendations as he deems appropriate as to changes or improvements needed in the provisions of this chapter. Such report shall include a brief summary of the actions undertaken by the Secretary under [section 470jj of this title][/us/usc/t16/s470jj], relating to cooperation with private individuals.
 
-([Pub. L. 96–95, § 13][/us/pl/96/95/s13], Oct. 31, 1979, [93 Stat. 728][/us/stat/93/728].)
+([Pub. L. 96–95][/us/pl/96/95], § 13, Oct. 31, 1979, [93 Stat. 728][/us/stat/93/728].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t16/s470jj]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470jj
-[/us/pl/96/95/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95%2Fs13
+[/us/pl/96/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95
 [/us/stat/93/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F728
 [/us/usc/t16/s469a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs469a%E2%80%933
 [/us/usc/t54/s312504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs312504

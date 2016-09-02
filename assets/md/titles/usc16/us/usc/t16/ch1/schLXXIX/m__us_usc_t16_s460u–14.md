@@ -21,7 +21,7 @@
 
     (2) the annual acquisition program (including the level of funding) which he recommends for the ensuing five fiscal years.
 
-([Pub. L. 89–761, § 14][/us/pl/89/761/s14], formerly § 15, as added and renumbered [Pub. L. 94–549, § 1(8)][/us/pl/94/549/s1/8], (9), Oct. 18, 1976, [90 Stat. 2531][/us/stat/90/2531], 2533.)
+([Pub. L. 89–761][/us/pl/89/761], § 14, formerly § 15, as added and renumbered [Pub. L. 94–549][/us/pl/94/549], § 1(8), (9), Oct. 18, 1976, [90 Stat. 2531][/us/stat/90/2531], 2533.)
 
  __Change of Name__ 
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/89/761/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761%2Fs14
-[/us/pl/94/549/s1/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549%2Fs1%2F8
+[/us/pl/89/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761
+[/us/pl/94/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549
 [/us/stat/90/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2531
 
 

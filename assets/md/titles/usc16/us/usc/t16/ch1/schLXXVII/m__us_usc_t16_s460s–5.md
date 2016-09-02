@@ -33,7 +33,7 @@
 
         A scenic shoreline drive may not be constructed in the Pictured Rocks National Lakeshore.
 
-([Pub. L. 89–668, § 6][/us/pl/89/668/s6], Oct. 15, 1966, [80 Stat. 923][/us/stat/80/923]; [Pub. L. 105–378, title II, § 202][/us/pl/105/378/s202], Nov. 12, 1998, [112 Stat. 3398][/us/stat/112/3398].)
+([Pub. L. 89–668][/us/pl/89/668], § 6, Oct. 15, 1966, [80 Stat. 923][/us/stat/80/923]; [Pub. L. 105–378, title II][/us/pl/105/378/tII], § 202, Nov. 12, 1998, [112 Stat. 3398][/us/stat/112/3398].)
 
  __References in Text__ 
 
@@ -41,9 +41,9 @@
 
  __Amendments__ 
 
-    1998—Subsec. (b)(1). [Pub. L. 105–378, § 202(1)][/us/pl/105/378/s202/1], substituted “including appropriate improvements to Alger County Road H–58” for “including a scenic shoreline drive”.
+    1998—Subsec. (b)(1). [Pub. L. 105–378][/us/pl/105/378], § 202(1), substituted “including appropriate improvements to Alger County Road H–58” for “including a scenic shoreline drive”.
 
-    Subsec. (c). [Pub. L. 105–378, § 202(2)][/us/pl/105/378/s202/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 105–378][/us/pl/105/378], § 202(2), added subsec. (c).
 
 ----------
 
@@ -54,9 +54,9 @@
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
-[/us/pl/89/668/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F668%2Fs6
+[/us/pl/89/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F668
 [/us/stat/80/923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F923
-[/us/pl/105/378/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F378%2Fs202
+[/us/pl/105/378/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F378%2FtII
 [/us/stat/112/3398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3398
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
@@ -67,7 +67,7 @@
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
 [/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
-[/us/pl/105/378/s202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F378%2Fs202%2F1
-[/us/pl/105/378/s202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F378%2Fs202%2F2
+[/us/pl/105/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F378
+[/us/pl/105/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F378
 
 

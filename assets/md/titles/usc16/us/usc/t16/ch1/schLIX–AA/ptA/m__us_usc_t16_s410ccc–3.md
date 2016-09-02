@@ -31,7 +31,7 @@
 
         Lands and interests therein that are the subject of cooperative agreements pursuant to [section 410ccc–1(b)(3) of this title][/us/usc/t16/s410ccc–1/b/3] shall not be acquired except with the consent of the owner thereof.
 
-([Pub. L. 103–449, title III, § 305][/us/pl/103/449/s305], Nov. 2, 1994, [108 Stat. 4759][/us/stat/108/4759].)
+([Pub. L. 103–449, title III][/us/pl/103/449/tIII], § 305, Nov. 2, 1994, [108 Stat. 4759][/us/stat/108/4759].)
 
 ----------
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t16/s410ccc–1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410ccc%E2%80%931%2Fb%2F2
 [/us/usc/t16/s410ccc–1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410ccc%E2%80%931%2Fb%2F3
-[/us/pl/103/449/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F449%2Fs305
+[/us/pl/103/449/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F449%2FtIII
 [/us/stat/108/4759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4759
 
 

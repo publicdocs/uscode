@@ -23,13 +23,13 @@
 
         In exercising his authority to acquire property under subsection (a) of this section, the Secretary may enter into contracts requiring the expenditure, when appropriated, of funds authorized to be appropriated by [section 460u–9 of this title][/us/usc/t16/s460u–9], but the liability of the United States under any such contract shall be contingent on the appropriation of funds sufficient to fulfill the obligations thereby incurred.
 
-([Pub. L. 89–761, § 2][/us/pl/89/761/s2], Nov. 5, 1966, [80 Stat. 1309][/us/stat/80/1309]; [Pub. L. 96–612, § 1(3)][/us/pl/96/612/s1/3], (4), Dec. 28, 1980, [94 Stat. 3575][/us/stat/94/3575].)
+([Pub. L. 89–761][/us/pl/89/761], § 2, Nov. 5, 1966, [80 Stat. 1309][/us/stat/80/1309]; [Pub. L. 96–612][/us/pl/96/612], § 1(3), (4), Dec. 28, 1980, [94 Stat. 3575][/us/stat/94/3575].)
 
  __Amendments__ 
 
-    1980—Subsec. (a). [Pub. L. 96–612, § 1(3)][/us/pl/96/612/s1/3], inserted provision authorizing the Secretary to acquire or exchange lands or interests therein owned for school or educational purposes by a State or political subdivision thereof.
+    1980—Subsec. (a). [Pub. L. 96–612][/us/pl/96/612], § 1(3), inserted provision authorizing the Secretary to acquire or exchange lands or interests therein owned for school or educational purposes by a State or political subdivision thereof.
 
-    Subsec. (b). [Pub. L. 96–612, § 1(4)][/us/pl/96/612/s1/4], made technical amendment to reference in original act which appears in text as reference to [section 460u–9 of this title][/us/usc/t16/s460u–9].
+    Subsec. (b). [Pub. L. 96–612][/us/pl/96/612], § 1(4), made technical amendment to reference in original act which appears in text as reference to [section 460u–9 of this title][/us/usc/t16/s460u–9].
 
  __Acquisition of Lands by Exchange__ 
 
@@ -82,12 +82,12 @@
 
 [/us/usc/t16/s460u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460u
 [/us/usc/t16/s460u–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460u%E2%80%939
-[/us/pl/89/761/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761%2Fs2
+[/us/pl/89/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761
 [/us/stat/80/1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1309
-[/us/pl/96/612/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F612%2Fs1%2F3
+[/us/pl/96/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F612
 [/us/stat/94/3575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3575
-[/us/pl/96/612/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F612%2Fs1%2F3
-[/us/pl/96/612/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F612%2Fs1%2F4
+[/us/pl/96/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F612
+[/us/pl/96/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F612
 [/us/usc/t16/s460u–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460u%E2%80%939
 [/us/pl/97/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F356
 [/us/stat/96/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1703

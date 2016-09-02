@@ -17,7 +17,7 @@
 
     The provisions of this chapter shall not be applicable to (1) the Canyon Ferry project and (2), except as provided in [section 837e of this title][/us/usc/t16/s837e], downstream power benefits to which Canada is entitled under the treaty between Canada and the United States relating to the cooperative development of the water resources of the Columbia River Basin, signed at Washington, January 17, 1961, nor to energy or capacity disposed of to Canada in any exchange pursuant to paragraph 1 or 2 of article VIII thereof. Nothing in this chapter shall be construed to modify the geographical preference of power users in the State of Montana which is established by the Hungry Horse Dam Act (Act of June 4, 1944, [58 Stat. 270][/us/stat/58/270]), as amended.
 
-([Pub. L. 88–552, § 9][/us/pl/88/552/s9], Aug. 31, 1964, [78 Stat. 758][/us/stat/78/758].)
+([Pub. L. 88–552][/us/pl/88/552], § 9, Aug. 31, 1964, [78 Stat. 758][/us/stat/78/758].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t16/s837e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs837e
 [/us/stat/58/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F270
-[/us/pl/88/552/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F552%2Fs9
+[/us/pl/88/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F552
 [/us/stat/78/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F758
 [/us/stat/58/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F270
 [/us/act/1944-06-05/ch234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-05%2Fch234

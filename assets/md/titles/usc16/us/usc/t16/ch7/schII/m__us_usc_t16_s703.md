@@ -41,7 +41,7 @@
 
                 (iii) after such extirpation, it was reintroduced in the United States or its territories as a part of a program carried out by a Federal agency.
 
-([July 3, 1918, ch. 128, § 2][/us/act/1918-07-03/ch128/s2], [40 Stat. 755][/us/stat/40/755]; [June 20, 1936, ch. 634, § 3][/us/act/1936-06-20/ch634/s3], [49 Stat. 1556][/us/stat/49/1556]; [Pub. L. 93–300, § 1][/us/pl/93/300/s1], June 1, 1974, [88 Stat. 190][/us/stat/88/190]; [Pub. L. 101–233, § 15][/us/pl/101/233/s15], Dec. 13, 1989, [103 Stat. 1977][/us/stat/103/1977]; [Pub. L. 108–447, div. E, title I, § 143(b)][/us/pl/108/447/s143/b], Dec. 8, 2004, [118 Stat. 3071][/us/stat/118/3071].)
+([July 3, 1918, ch. 128][/us/act/1918-07-03/ch128], § 2, [40 Stat. 755][/us/stat/40/755]; [June 20, 1936, ch. 634][/us/act/1936-06-20/ch634], § 3, [49 Stat. 1556][/us/stat/49/1556]; [Pub. L. 93–300][/us/pl/93/300], § 1, June 1, 1974, [88 Stat. 190][/us/stat/88/190]; [Pub. L. 101–233][/us/pl/101/233], § 15, Dec. 13, 1989, [103 Stat. 1977][/us/stat/103/1977]; [Pub. L. 108–447, div. E, title I][/us/pl/108/447/dE/tI], § 143(b), Dec. 8, 2004, [118 Stat. 3071][/us/stat/118/3071].)
 
  __Amendments__ 
 
@@ -55,17 +55,17 @@
 
  __Effective Date of 1974 Amendment__ 
 
-[Pub. L. 93–300, § 3][/us/pl/93/300/s3], June 1, 1974, [88 Stat. 190][/us/stat/88/190], provided that: 
+[Pub. L. 93–300][/us/pl/93/300], § 3, June 1, 1974, [88 Stat. 190][/us/stat/88/190], provided that: 
 
 > “The amendments made by this Act \[amending this section\] shall take effect on the date on which the President proclaims the exchange of ratifications of the convention between the United States and the Government of Japan for the protection of migratory birds and birds in danger of extinction, and their environment, concluded March 4, 1972, or on the date of the enactment of this Act \[June 1, 1974\], whichever date is later.”
 
  __Effective Date of 1936 Amendment__ 
 
-    [Act June 20, 1936, ch. 634, § 3][/us/act/1936-06-20/ch634/s3], [49 Stat. 1556][/us/stat/49/1556], provided in part that the amendment by section 3 is effective as of the day aforesaid, meaning the day on which the President shall proclaim the exchange of ratifications of the convention between the United States and the United Mexican States for the protection of migratory birds and game mammals concluded Feb. 7, 1936, or on June 20, 1936, whichever date is later. Such proclamation was made on June 30, 1937. See section 1 of [act June 20, 1936, ch. 634][/us/act/1936-06-20/ch634], [49 Stat. 1555][/us/stat/49/1555].
+    [Act June 20, 1936, ch. 634][/us/act/1936-06-20/ch634], § 3, [49 Stat. 1556][/us/stat/49/1556], provided in part that the amendment by section 3 is effective as of the day aforesaid, meaning the day on which the President shall proclaim the exchange of ratifications of the convention between the United States and the United Mexican States for the protection of migratory birds and game mammals concluded Feb. 7, 1936, or on June 20, 1936, whichever date is later. Such proclamation was made on June 30, 1937. See section 1 of [act June 20, 1936, ch. 634][/us/act/1936-06-20/ch634], [49 Stat. 1555][/us/stat/49/1555].
 
  __Elimination of Barriers to Improve at-Risk Bridges__ 
 
-[Pub. L. 114–94, div. A, title I, § 1439][/us/pl/114/94/s1439], Dec. 4, 2015, [129 Stat. 1433][/us/stat/129/1433], provided that:
+[Pub. L. 114–94, div. A, title I][/us/pl/114/94/dA/tI], § 1439, Dec. 4, 2015, [129 Stat. 1433][/us/stat/129/1433], provided that:
 
 >     “(a) __Temporary Authorization.—__ 
 
@@ -111,7 +111,7 @@
 
  __Publication of List__ 
 
-[Pub. L. 108–447, div. E, title I, § 143(c)][/us/pl/108/447/s143/c], Dec. 8, 2004, [118 Stat. 3072][/us/stat/118/3072], provided that:
+[Pub. L. 108–447, div. E, title I][/us/pl/108/447/dE/tI], § 143(c), Dec. 8, 2004, [118 Stat. 3072][/us/stat/118/3072], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -127,13 +127,13 @@
 
  __Relationship of__  __[__  __Pub. L. 108–447__  __][/us/pl/108/447]__  __to Treaties__ 
 
-[Pub. L. 108–447, div. E, title I, § 143(d)][/us/pl/108/447/s143/d], Dec. 8, 2004, [118 Stat. 3072][/us/stat/118/3072], provided that: 
+[Pub. L. 108–447, div. E, title I][/us/pl/108/447/dE/tI], § 143(d), Dec. 8, 2004, [118 Stat. 3072][/us/stat/118/3072], provided that: 
 
 > “It is the sense of Congress that the language of this section \[amending this section and enacting provisions set out as notes under this section and [section 710 of this title][/us/usc/t16/s710]\] is consistent with the intent and language of the 4 bilateral treaties implemented by this section.”
 
  __Incidental Taking of Migratory Birds During Military Readiness Activities__ 
 
-[Pub. L. 107–314, div. A, title III, § 315][/us/pl/107/314/s315], Dec. 2, 2002, [116 Stat. 2509][/us/stat/116/2509], provided that:
+[Pub. L. 107–314, div. A, title III][/us/pl/107/314/dA/tIII], § 315, Dec. 2, 2002, [116 Stat. 2509][/us/stat/116/2509], provided that:
 
 >     “(a)  __Interim Authority for Incidental Takings__  __.—__ 
 
@@ -333,39 +333,39 @@
 ----------
 
 [/us/stat/39/1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F1702
-[/us/act/1918-07-03/ch128/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-07-03%2Fch128%2Fs2
+[/us/act/1918-07-03/ch128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-07-03%2Fch128
 [/us/stat/40/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F755
-[/us/act/1936-06-20/ch634/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch634%2Fs3
+[/us/act/1936-06-20/ch634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch634
 [/us/stat/49/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1556
-[/us/pl/93/300/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F300%2Fs1
+[/us/pl/93/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F300
 [/us/stat/88/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F190
-[/us/pl/101/233/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F233%2Fs15
+[/us/pl/101/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F233
 [/us/stat/103/1977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1977
-[/us/pl/108/447/s143/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs143%2Fb
+[/us/pl/108/447/dE/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdE%2FtI
 [/us/stat/118/3071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3071
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/101/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F233
 [/us/pl/93/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F300
-[/us/pl/93/300/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F300%2Fs3
+[/us/pl/93/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F300
 [/us/stat/88/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F190
-[/us/act/1936-06-20/ch634/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch634%2Fs3
+[/us/act/1936-06-20/ch634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch634
 [/us/stat/49/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1556
 [/us/act/1936-06-20/ch634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch634
 [/us/stat/49/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1555
-[/us/pl/114/94/s1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1439
+[/us/pl/114/94/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtI
 [/us/stat/129/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1433
 [/us/usc/t16/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs703
 [/us/usc/t16/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs704
-[/us/pl/108/447/s143/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs143%2Fc
+[/us/pl/108/447/dE/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdE%2FtI
 [/us/stat/118/3072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3072
 [/us/usc/t16/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs703
 [/us/usc/t16/s710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs710
 [/us/usc/t16/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs703
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
-[/us/pl/108/447/s143/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs143%2Fd
+[/us/pl/108/447/dE/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdE%2FtI
 [/us/stat/118/3072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3072
 [/us/usc/t16/s710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs710
-[/us/pl/107/314/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs315
+[/us/pl/107/314/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtIII
 [/us/stat/116/2509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2509
 [/us/usc/t16/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs703
 [/us/usc/t16/s704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs704%2Fa

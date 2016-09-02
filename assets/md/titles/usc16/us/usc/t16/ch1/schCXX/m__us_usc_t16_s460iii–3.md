@@ -89,7 +89,7 @@
 
         Notwithstanding any provision of this subchapter, or regulations and management plans undertaken pursuant to its provisions, the Federal Energy Regulatory Commission shall retain its current jurisdiction concerning all aspects of the continued and future operation of hydroelectric facilities, licensed or relicensed under the Federal Power Act ([16 U.S.C. 791a][/us/usc/t16/s791a] et seq.), located within the boundaries of the conservation area.
 
-([Pub. L. 103–64, § 4][/us/pl/103/64/s4], Aug. 4, 1993, [107 Stat. 305][/us/stat/107/305]; [Pub. L. 111–11, title II, § 2301(c)(2)][/us/pl/111/11/s2301/c/2], Mar. 30, 2009, [123 Stat. 1101][/us/stat/123/1101].)
+([Pub. L. 103–64][/us/pl/103/64], § 4, Aug. 4, 1993, [107 Stat. 305][/us/stat/107/305]; [Pub. L. 111–11, title II][/us/pl/111/11/tII], § 2301(c)(2), Mar. 30, 2009, [123 Stat. 1101][/us/stat/123/1101].)
 
  __References in Text__ 
 
@@ -99,9 +99,9 @@
 
  __Amendments__ 
 
-    2009—Subsec. (a)(2). [Pub. L. 111–11, § 2301(c)(2)(A)][/us/pl/111/11/s2301/c/2/A], substituted “conservation area is” for “Conservation Area is”.
+    2009—Subsec. (a)(2). [Pub. L. 111–11][/us/pl/111/11], § 2301(c)(2)(A), substituted “conservation area is” for “Conservation Area is”.
 
-    Subsec. (d). [Pub. L. 111–11, § 2301(c)(2)(B)][/us/pl/111/11/s2301/c/2/B], substituted “visitors center” for “Visitors Center”.
+    Subsec. (d). [Pub. L. 111–11][/us/pl/111/11], § 2301(c)(2)(B), substituted “visitors center” for “Visitors Center”.
 
  __Abolition of House Committee on Merchant Marine and Fisheries__ 
 
@@ -119,9 +119,9 @@
 [/us/usc/t43/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs315
 [/us/usc/t43/s1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1752
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
-[/us/pl/103/64/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F64%2Fs4
+[/us/pl/103/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F64
 [/us/stat/107/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F305
-[/us/pl/111/11/s2301/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs2301%2Fc%2F2
+[/us/pl/111/11/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtII
 [/us/stat/123/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1101
 [/us/act/1934-06-28/ch865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-28%2Fch865
 [/us/stat/48/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1269
@@ -129,8 +129,8 @@
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
 [/us/stat/41/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1063
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
-[/us/pl/111/11/s2301/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs2301%2Fc%2F2%2FA
-[/us/pl/111/11/s2301/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs2301%2Fc%2F2%2FB
+[/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
+[/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 [/us/pl/104/14/s1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fb%2F3
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
 

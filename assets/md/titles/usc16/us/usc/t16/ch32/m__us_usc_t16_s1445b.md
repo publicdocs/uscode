@@ -83,7 +83,7 @@
 
             (B) is established to promote the understanding of, education relating to, and the conservation of the resources of a particular sanctuary or 2 or more related sanctuaries.
 
-([Pub. L. 92–532, title III, § 316][/us/pl/92/532/s316], formerly [Pub. L. 102–587, title II, § 2204][/us/pl/102/587/s2204], Nov. 4, 1992, [106 Stat. 5049][/us/stat/106/5049]; renumbered [§ 316 of Pub. L. 92–532][/us/pl/92/532/s316] and amended [Pub. L. 104–283, § 6][/us/pl/104/283/s6], Oct. 11, 1996, [110 Stat. 3364][/us/stat/110/3364]; [Pub. L. 106–513, § 17][/us/pl/106/513/s17], Nov. 13, 2000, [114 Stat. 2391][/us/stat/114/2391].)
+([Pub. L. 92–532, title III][/us/pl/92/532/tIII], § 316, formerly [Pub. L. 102–587, title II][/us/pl/102/587/tII], § 2204, Nov. 4, 1992, [106 Stat. 5049][/us/stat/106/5049]; renumbered § 316 of [Pub. L. 92–532][/us/pl/92/532] and amended [Pub. L. 104–283][/us/pl/104/283], § 6, Oct. 11, 1996, [110 Stat. 3364][/us/stat/110/3364]; [Pub. L. 106–513][/us/pl/106/513], § 17, Nov. 13, 2000, [114 Stat. 2391][/us/stat/114/2391].)
 
  __Codification__ 
 
@@ -91,55 +91,55 @@
 
  __Amendments__ 
 
-    2000—Subsec. (a)(1). [Pub. L. 106–513, § 17(1)][/us/pl/106/513/s17/1], inserted “or the System” after “sanctuaries”.
+    2000—Subsec. (a)(1). [Pub. L. 106–513][/us/pl/106/513], § 17(1), inserted “or the System” after “sanctuaries”.
 
-    Subsec. (a)(4). [Pub. L. 106–513, § 17(2)][/us/pl/106/513/s17/2], substituted “manufacture, reproduction, or other use of any symbol published under paragraph (1), including the sale of items bearing such a symbol,” for “use of any symbol published under paragraph (1)”.
+    Subsec. (a)(4). [Pub. L. 106–513][/us/pl/106/513], § 17(2), substituted “manufacture, reproduction, or other use of any symbol published under paragraph (1), including the sale of items bearing such a symbol,” for “use of any symbol published under paragraph (1)”.
 
-    Subsec. (e)(3). [Pub. L. 106–513, § 17(3)][/us/pl/106/513/s17/3], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to manufacture, reproduce, or use any symbol adopted by the Secretary absent designation as an official sponsor and without payment of a monetary or in-kind contribution to the Secretary; and”.
+    Subsec. (e)(3). [Pub. L. 106–513][/us/pl/106/513], § 17(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to manufacture, reproduce, or use any symbol adopted by the Secretary absent designation as an official sponsor and without payment of a monetary or in-kind contribution to the Secretary; and”.
 
-    Subsecs. (f), (g). [Pub. L. 106–513, § 17(4)][/us/pl/106/513/s17/4], added subsecs. (f) and (g).
+    Subsecs. (f), (g). [Pub. L. 106–513][/us/pl/106/513], § 17(4), added subsecs. (f) and (g).
 
-    1996—Subsec. (a). [Pub. L. 104–283, § 6(b)(7)][/us/pl/104/283/s6/b/7], inserted at end “Monetary and in-kind contributions raised through the sale, marketing, or use of symbols and products related to an individual national marine sanctuary shall be used to support that sanctuary.”
+    1996—Subsec. (a). [Pub. L. 104–283][/us/pl/104/283], § 6(b)(7), inserted at end “Monetary and in-kind contributions raised through the sale, marketing, or use of symbols and products related to an individual national marine sanctuary shall be used to support that sanctuary.”
 
-    [Pub. L. 104–283, § 6(b)(2)][/us/pl/104/283/s6/b/2], substituted “Authority” for “Project” as heading and “The Secretary may establish a program consisting of” for “The project shall consist of” in introductory provisions.
+    [Pub. L. 104–283][/us/pl/104/283], § 6(b)(2), substituted “Authority” for “Project” as heading and “The Secretary may establish a program consisting of” for “The project shall consist of” in introductory provisions.
 
-    [Pub. L. 104–283, § 6(b)(1)][/us/pl/104/283/s6/b/1], redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “Beginning on November 4, 1992, the Secretary shall conduct a 2-year pilot project to enhance funding for designation and management of national marine sanctuaries.”
+    [Pub. L. 104–283][/us/pl/104/283], § 6(b)(1), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “Beginning on November 4, 1992, the Secretary shall conduct a 2-year pilot project to enhance funding for designation and management of national marine sanctuaries.”
 
-    Subsec. (a)(5). [Pub. L. 104–283, § 6(b)(6)][/us/pl/104/283/s6/b/6], added par. (5). Former par. (5) redesignated (6).
+    Subsec. (a)(5). [Pub. L. 104–283][/us/pl/104/283], § 6(b)(6), added par. (5). Former par. (5) redesignated (6).
 
-    [Pub. L. 104–283, § 6(b)(3)][/us/pl/104/283/s6/b/3], substituted “solicitation” for “establishment” and “monetary or in-kind contributions” for “fees”.
+    [Pub. L. 104–283][/us/pl/104/283], § 6(b)(3), substituted “solicitation” for “establishment” and “monetary or in-kind contributions” for “fees”.
 
-    Subsec. (a)(6). [Pub. L. 104–283, § 6(b)(6)][/us/pl/104/283/s6/b/6], redesignated par. (5) as (6). Former par. (6) redesignated (7).
+    Subsec. (a)(6). [Pub. L. 104–283][/us/pl/104/283], § 6(b)(6), redesignated par. (5) as (6). Former par. (6) redesignated (7).
 
-    [Pub. L. 104–283, § 6(b)(4)][/us/pl/104/283/s6/b/4], substituted “monetary or in-kind contributions collected” for “fees assessed” and “paragraphs (5) and (6)” for “paragraph (5)” and struck out “in an interest-bearing revolving fund” after “by the Secretary”.
+    [Pub. L. 104–283][/us/pl/104/283], § 6(b)(4), substituted “monetary or in-kind contributions collected” for “fees assessed” and “paragraphs (5) and (6)” for “paragraph (5)” and struck out “in an interest-bearing revolving fund” after “by the Secretary”.
 
-    Subsec. (a)(7). [Pub. L. 104–283, § 6(b)(6)][/us/pl/104/283/s6/b/6], redesignated par. (6) as (7). Former par. (7) redesignated (8).
+    Subsec. (a)(7). [Pub. L. 104–283][/us/pl/104/283], § 6(b)(6), redesignated par. (6) as (7). Former par. (7) redesignated (8).
 
-    [Pub. L. 104–283, § 6(b)(5)][/us/pl/104/283/s6/b/5], inserted “and use” after “expenditure”, substituted “monetary and in-kind contributions” for “fees”, and struck out “and any interest in the fund established under paragraph (6)” before “, without appropriation”.
+    [Pub. L. 104–283][/us/pl/104/283], § 6(b)(5), inserted “and use” after “expenditure”, substituted “monetary and in-kind contributions” for “fees”, and struck out “and any interest in the fund established under paragraph (6)” before “, without appropriation”.
 
-    Subsec. (a)(8). [Pub. L. 104–283, § 6(b)(6)][/us/pl/104/283/s6/b/6], redesignated par. (7) as (8).
+    Subsec. (a)(8). [Pub. L. 104–283][/us/pl/104/283], § 6(b)(6), redesignated par. (7) as (8).
 
-    Subsec. (b). [Pub. L. 104–283, § 6(b)(9)][/us/pl/104/283/s6/b/9], substituted “subsection (a)” for “subsection (b)”.
+    Subsec. (b). [Pub. L. 104–283][/us/pl/104/283], § 6(b)(9), substituted “subsection (a)” for “subsection (b)”.
 
-    [Pub. L. 104–283, § 6(b)(1)][/us/pl/104/283/s6/b/1], redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
+    [Pub. L. 104–283][/us/pl/104/283], § 6(b)(1), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
 
-    Subsec. (c). [Pub. L. 104–283, § 6(b)(9)][/us/pl/104/283/s6/b/9], substituted “subsection (a)” for “subsection (b)”.
+    Subsec. (c). [Pub. L. 104–283][/us/pl/104/283], § 6(b)(9), substituted “subsection (a)” for “subsection (b)”.
 
-    [Pub. L. 104–283, § 6(b)(1)][/us/pl/104/283/s6/b/1], redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
+    [Pub. L. 104–283][/us/pl/104/283], § 6(b)(1), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
-    Subsec. (d). [Pub. L. 104–283, § 6(b)(9)][/us/pl/104/283/s6/b/9], substituted “subsection (a)” for “subsection (b)”.
+    Subsec. (d). [Pub. L. 104–283][/us/pl/104/283], § 6(b)(9), substituted “subsection (a)” for “subsection (b)”.
 
-    [Pub. L. 104–283, § 6(b)(1)][/us/pl/104/283/s6/b/1], redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+    [Pub. L. 104–283][/us/pl/104/283], § 6(b)(1), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-    Subsec. (e). [Pub. L. 104–283, § 6(b)(8)][/us/pl/104/283/s6/b/8], struck out “(1)” before “It is unlawful”, redesignated subpars. (A) to (D) as pars. (1) to (4), respectively, in par. (3), substituted “monetary or in-kind contribution” for “fee”, and struck out former par. (2) which read as follows: “Violation of this subsection shall be considered a violation of this chapter.”
+    Subsec. (e). [Pub. L. 104–283][/us/pl/104/283], § 6(b)(8), struck out “(1)” before “It is unlawful”, redesignated subpars. (A) to (D) as pars. (1) to (4), respectively, in par. (3), substituted “monetary or in-kind contribution” for “fee”, and struck out former par. (2) which read as follows: “Violation of this subsection shall be considered a violation of this chapter.”
 
-    [Pub. L. 104–283, § 6(b)(1)][/us/pl/104/283/s6/b/1], redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+    [Pub. L. 104–283][/us/pl/104/283], § 6(b)(1), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-    Subsec. (f). [Pub. L. 104–283, § 6(b)(1)][/us/pl/104/283/s6/b/1], redesignated subsec. (f) as (e).
+    Subsec. (f). [Pub. L. 104–283][/us/pl/104/283], § 6(b)(1), redesignated subsec. (f) as (e).
 
-    Subsec. (g). [Pub. L. 104–283, § 6(b)(1)][/us/pl/104/283/s6/b/1], struck out heading and text of subsec. (g). Text read as follows: “No later than 30 months after November 4, 1992, the Secretary shall submit a report on the pilot project to Congress regarding the success of the program in providing additional funds for management and operation of national marine sanctuaries.”
+    Subsec. (g). [Pub. L. 104–283][/us/pl/104/283], § 6(b)(1), struck out heading and text of subsec. (g). Text read as follows: “No later than 30 months after November 4, 1992, the Secretary shall submit a report on the pilot project to Congress regarding the success of the program in providing additional funds for management and operation of national marine sanctuaries.”
 
-    Subsec. (h). [Pub. L. 104–283, § 6(b)(1)][/us/pl/104/283/s6/b/1], struck out heading and text of subsec. (h). Text read as follows: “In this section—
+    Subsec. (h). [Pub. L. 104–283][/us/pl/104/283], § 6(b)(1), struck out heading and text of subsec. (h). Text read as follows: “In this section—
 
     “(1) the term ‘national marine sanctuary’ or ‘national marine sanctuaries’ means a national marine sanctuary or sanctuaries designated under this chapter, or by other law in accordance with this chapter;
 
@@ -154,40 +154,40 @@
 ----------
 ----------
 
-[/us/pl/92/532/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs316
-[/us/pl/102/587/s2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2204
+[/us/pl/92/532/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2FtIII
+[/us/pl/102/587/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtII
 [/us/stat/106/5049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5049
-[/us/pl/92/532/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs316
-[/us/pl/104/283/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283%2Fs6
+[/us/pl/92/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532
+[/us/pl/104/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283
 [/us/stat/110/3364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3364
-[/us/pl/106/513/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513%2Fs17
+[/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
 [/us/stat/114/2391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2391
 [/us/usc/t16/s1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1442
 [/us/pl/104/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283
-[/us/pl/106/513/s17/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513%2Fs17%2F1
-[/us/pl/106/513/s17/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513%2Fs17%2F2
-[/us/pl/106/513/s17/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513%2Fs17%2F3
-[/us/pl/106/513/s17/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513%2Fs17%2F4
-[/us/pl/104/283/s6/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283%2Fs6%2Fb%2F7
-[/us/pl/104/283/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283%2Fs6%2Fb%2F2
-[/us/pl/104/283/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283%2Fs6%2Fb%2F1
-[/us/pl/104/283/s6/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283%2Fs6%2Fb%2F6
-[/us/pl/104/283/s6/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283%2Fs6%2Fb%2F3
-[/us/pl/104/283/s6/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283%2Fs6%2Fb%2F6
-[/us/pl/104/283/s6/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283%2Fs6%2Fb%2F4
-[/us/pl/104/283/s6/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283%2Fs6%2Fb%2F6
-[/us/pl/104/283/s6/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283%2Fs6%2Fb%2F5
-[/us/pl/104/283/s6/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283%2Fs6%2Fb%2F6
-[/us/pl/104/283/s6/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283%2Fs6%2Fb%2F9
-[/us/pl/104/283/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283%2Fs6%2Fb%2F1
-[/us/pl/104/283/s6/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283%2Fs6%2Fb%2F9
-[/us/pl/104/283/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283%2Fs6%2Fb%2F1
-[/us/pl/104/283/s6/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283%2Fs6%2Fb%2F9
-[/us/pl/104/283/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283%2Fs6%2Fb%2F1
-[/us/pl/104/283/s6/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283%2Fs6%2Fb%2F8
-[/us/pl/104/283/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283%2Fs6%2Fb%2F1
-[/us/pl/104/283/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283%2Fs6%2Fb%2F1
-[/us/pl/104/283/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283%2Fs6%2Fb%2F1
-[/us/pl/104/283/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283%2Fs6%2Fb%2F1
+[/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
+[/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
+[/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
+[/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
+[/us/pl/104/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283
+[/us/pl/104/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283
+[/us/pl/104/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283
+[/us/pl/104/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283
+[/us/pl/104/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283
+[/us/pl/104/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283
+[/us/pl/104/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283
+[/us/pl/104/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283
+[/us/pl/104/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283
+[/us/pl/104/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283
+[/us/pl/104/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283
+[/us/pl/104/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283
+[/us/pl/104/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283
+[/us/pl/104/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283
+[/us/pl/104/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283
+[/us/pl/104/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283
+[/us/pl/104/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283
+[/us/pl/104/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283
+[/us/pl/104/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283
+[/us/pl/104/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283
+[/us/pl/104/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283
 
 

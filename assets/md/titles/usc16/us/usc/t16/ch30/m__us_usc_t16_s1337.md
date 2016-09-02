@@ -17,7 +17,7 @@
 
     The Secretary of the Interior and the Secretary of Agriculture are authorized and directed to appoint a joint advisory board of not more than nine members to advise them on any matter relating to wild free-roaming horses and burros and their management and protection. They shall select as advisers persons who are not employees of the Federal or State Governments and whom they deem to have special knowledge about protection of horses and burros, management of wildlife, animal husbandry, or natural resources management. Members of the board shall not receive reimbursement except for travel and other expenditures necessary in connection with their services.
 
-([Pub. L. 92–195, § 7][/us/pl/92/195/s7], Dec. 15, 1971, [85 Stat. 650][/us/stat/85/650].)
+([Pub. L. 92–195][/us/pl/92/195], § 7, Dec. 15, 1971, [85 Stat. 650][/us/stat/85/650].)
 
  __Termination of Advisory Boards__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/92/195/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F195%2Fs7
+[/us/pl/92/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F195
 [/us/stat/85/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F650
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

@@ -17,7 +17,7 @@
 
     All Federal laws relating to the management of natural resources on Federal land may be enforced by the Secretary of Defense with respect to violations of the laws that occur on military installations within the United States.
 
-([Pub. L. 86–797, title I, § 106][/us/pl/86/797/s106], as added [Pub. L. 105–85, div. B, title XXIX, § 2909(2)][/us/pl/105/85/s2909/2], Nov. 18, 1997, [111 Stat. 2021][/us/stat/111/2021].)
+([Pub. L. 86–797, title I][/us/pl/86/797/tI], § 106, as added [Pub. L. 105–85, div. B, title XXIX][/us/pl/105/85/dB/tXXIX], § 2909(2), Nov. 18, 1997, [111 Stat. 2021][/us/stat/111/2021].)
 
  __Prior Provisions__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/86/797/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F797%2Fs106
-[/us/pl/105/85/s2909/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2909%2F2
+[/us/pl/86/797/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F797%2FtI
+[/us/pl/105/85/dB/tXXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdB%2FtXXIX
 [/us/stat/111/2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2021
 [/us/pl/86/797/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F797%2Fs106
 [/us/usc/t16/s670f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs670f

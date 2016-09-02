@@ -17,7 +17,7 @@
 
     Any motor-vehicle license issued for Sequoia National Park shall be applicable to Kings Canyon National Park, and vice versa: Provided, That in order to insure the permanent preservation of the wilderness character of the Kings Canyon National Park the Secretary of the Interior may, in his discretion, limit the character and number of privileges that he may grant within the Kings Canyon National Park.
 
-([Mar. 4, 1940, ch. 40, § 4][/us/act/1940-03-04/ch40/s4], [54 Stat. 44][/us/stat/54/44]; [Aug. 17, 1950, ch. 730][/us/act/1950-08-17/ch730], [64 Stat. 458][/us/stat/64/458].)
+([Mar. 4, 1940, ch. 40][/us/act/1940-03-04/ch40], § 4, [54 Stat. 44][/us/stat/54/44]; [Aug. 17, 1950, ch. 730][/us/act/1950-08-17/ch730], [64 Stat. 458][/us/stat/64/458].)
 
  __Amendments__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1940-03-04/ch40/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-03-04%2Fch40%2Fs4
+[/us/act/1940-03-04/ch40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-03-04%2Fch40
 [/us/stat/54/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F44
 [/us/act/1950-08-17/ch730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-17%2Fch730
 [/us/stat/64/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F458

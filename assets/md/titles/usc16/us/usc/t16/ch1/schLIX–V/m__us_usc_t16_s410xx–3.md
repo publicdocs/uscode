@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this subchapter. Any funds available for the purposes of the monument shall be available for the purposes of the park, and authorizations of funds for the monument shall be available for the park.
 
-([Pub. L. 102–525, title II, § 204][/us/pl/102/525/s204], Oct. 26, 1992, [106 Stat. 3441][/us/stat/106/3441].)
+([Pub. L. 102–525, title II][/us/pl/102/525/tII], § 204, Oct. 26, 1992, [106 Stat. 3441][/us/stat/106/3441].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/525/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F525%2Fs204
+[/us/pl/102/525/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F525%2FtII
 [/us/stat/106/3441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3441
 
 

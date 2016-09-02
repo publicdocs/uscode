@@ -149,19 +149,19 @@
 
         Subsections (c) and (d) do not apply to violations of [section 620i of this title][/us/usc/t16/s620i].
 
-([Pub. L. 101–382, title IV, § 492][/us/pl/101/382/s492], Aug. 20, 1990, [104 Stat. 722][/us/stat/104/722]; [Pub. L. 103–45, § 3][/us/pl/103/45/s3], July 1, 1993, [107 Stat. 226][/us/stat/107/226]; [Pub. L. 105–83, title VI, § 603][/us/pl/105/83/s603], Nov. 14, 1997, [111 Stat. 1620][/us/stat/111/1620].)
+([Pub. L. 101–382, title IV][/us/pl/101/382/tIV], § 492, Aug. 20, 1990, [104 Stat. 722][/us/stat/104/722]; [Pub. L. 103–45][/us/pl/103/45], § 3, July 1, 1993, [107 Stat. 226][/us/stat/107/226]; [Pub. L. 105–83, title VI][/us/pl/105/83/tVI], § 603, Nov. 14, 1997, [111 Stat. 1620][/us/stat/111/1620].)
 
  __Amendments__ 
 
-    1997—Subsec. (c)(2)(C). [Pub. L. 105–83, § 603(1)][/us/pl/105/83/s603/1], added subpar. (C).
+    1997—Subsec. (c)(2)(C). [Pub. L. 105–83][/us/pl/105/83], § 603(1), added subpar. (C).
 
-    Subsec. (d)(1). [Pub. L. 105–83, § 603(2)][/us/pl/105/83/s603/2], inserted subpar. (A) designation and heading, substituted “Subject to subparagraph (B), the head” for “The head”, and added subpar. (B).
+    Subsec. (d)(1). [Pub. L. 105–83][/us/pl/105/83], § 603(2), inserted subpar. (A) designation and heading, substituted “Subject to subparagraph (B), the head” for “The head”, and added subpar. (B).
 
-    1993—Subsec. (a)(3), (4). [Pub. L. 103–45, § 3(a)][/us/pl/103/45/s3/a], added pars. (3) and (4).
+    1993—Subsec. (a)(3), (4). [Pub. L. 103–45][/us/pl/103/45], § 3(a), added pars. (3) and (4).
 
-    Subsec. (c)(1). [Pub. L. 103–45, § 3(b)(1)][/us/pl/103/45/s3/b/1], designated existing provisions as subpar. (A) and added subpar. (B).
+    Subsec. (c)(1). [Pub. L. 103–45][/us/pl/103/45], § 3(b)(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
-    Subsec. (c)(2). [Pub. L. 103–45, § 3(b)(2)][/us/pl/103/45/s3/b/2], designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii) of subpar. (A), and added subpar. (B).
+    Subsec. (c)(2). [Pub. L. 103–45][/us/pl/103/45], § 3(b)(2), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii) of subpar. (A), and added subpar. (B).
 
 ----------
 
@@ -179,16 +179,16 @@
 [/us/usc/t16/s620c/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs620c%2Fd
 [/us/usc/t16/s620c/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs620c%2Fd
 [/us/usc/t16/s620i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs620i
-[/us/pl/101/382/s492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs492
+[/us/pl/101/382/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtIV
 [/us/stat/104/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F722
-[/us/pl/103/45/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F45%2Fs3
+[/us/pl/103/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F45
 [/us/stat/107/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F226
-[/us/pl/105/83/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs603
+[/us/pl/105/83/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtVI
 [/us/stat/111/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1620
-[/us/pl/105/83/s603/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs603%2F1
-[/us/pl/105/83/s603/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs603%2F2
-[/us/pl/103/45/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F45%2Fs3%2Fa
-[/us/pl/103/45/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F45%2Fs3%2Fb%2F1
-[/us/pl/103/45/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F45%2Fs3%2Fb%2F2
+[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
+[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
+[/us/pl/103/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F45
+[/us/pl/103/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F45
+[/us/pl/103/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F45
 
 

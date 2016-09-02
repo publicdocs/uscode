@@ -17,7 +17,7 @@
 
     Within six months after October 1, 1968, the Secretary shall publish in the Federal Register a detailed description of the boundaries of the recreation area. Following such publication, the Secretary may make minor adjustments in the boundary of the recreation area by publication of the amended description thereof in the Federal Register: Provided, That the total acreage of the recreation area within the adjusted boundary does not exceed the acreage of the recreation area as shown on the map referred to in [section 460v of this title][/us/usc/t16/s460v].
 
-([Pub. L. 90–540, § 3][/us/pl/90/540/s3], Oct. 1, 1968, [82 Stat. 904][/us/stat/82/904].)
+([Pub. L. 90–540][/us/pl/90/540], § 3, Oct. 1, 1968, [82 Stat. 904][/us/stat/82/904].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s460v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460v
-[/us/pl/90/540/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F540%2Fs3
+[/us/pl/90/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F540
 [/us/stat/82/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F904
 
 

@@ -27,7 +27,7 @@
 
         The Secretary may cancel the unpaid balance and any accrued interest on any loan granted pursuant to this section if he determines on the basis of the study that the small hydroelectric power project would not be technically or economically feasible.
 
-([Pub. L. 95–617, title IV, § 402][/us/pl/95/617/s402], Nov. 9, 1978, [92 Stat. 3154][/us/stat/92/3154].)
+([Pub. L. 95–617, title IV][/us/pl/95/617/tIV], § 402, Nov. 9, 1978, [92 Stat. 3154][/us/stat/92/3154].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/95/617/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs402
+[/us/pl/95/617/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtIV
 [/us/stat/92/3154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3154
 
 

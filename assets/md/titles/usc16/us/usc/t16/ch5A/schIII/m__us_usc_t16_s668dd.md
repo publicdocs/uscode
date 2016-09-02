@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch5A/schIII/m__us_usc_t16_ch5A_schIII.md) | [Next](./../../../../..//us/usc/t16/ch5A/schIII/m__us_usc_t16_s668ee.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd)
+[Previous](./../../../../..//us/usc/t16/ch5A/schIII/m__us_usc_t16_s668aa...668cc–6.md) | [Next](./../../../../..//us/usc/t16/ch5A/schIII/m__us_usc_t16_s668ee.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd)
 
 ## § 668dd. National Wildlife Refuge System
 
@@ -279,7 +279,7 @@
 
         Coordination with State fish and wildlife agency personnel or with personnel of other affected State agencies pursuant to this Act shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
 
-([Pub. L. 89–669, § 4][/us/pl/89/669/s4], Oct. 15, 1966, [80 Stat. 927][/us/stat/80/927]; [Pub. L. 90–404, § 1][/us/pl/90/404/s1], July 18, 1968, [82 Stat. 359][/us/stat/82/359]; [Pub. L. 93–205, § 13(a)][/us/pl/93/205/s13/a], Dec. 28, 1973, [87 Stat. 902][/us/stat/87/902]; [Pub. L. 93–509, § 2][/us/pl/93/509/s2], Dec. 3, 1974, [88 Stat. 1603][/us/stat/88/1603]; [Pub. L. 94–215, § 5][/us/pl/94/215/s5], Feb. 17, 1976, [90 Stat. 190][/us/stat/90/190]; [Pub. L. 94–223][/us/pl/94/223], Feb. 27, 1976, [90 Stat. 199][/us/stat/90/199]; [Pub. L. 95–616][/us/pl/95/616], §§ 3(f), 6, Nov. 8, 1978, [92 Stat. 3111][/us/stat/92/3111], 3114; [Pub. L. 100–226, § 4][/us/pl/100/226/s4], Dec. 31, 1987, [101 Stat. 1551][/us/stat/101/1551]; [Pub. L. 100–653, title IX, § 904][/us/pl/100/653/s904], Nov. 14, 1988, [102 Stat. 3834][/us/stat/102/3834]; [Pub. L. 105–57][/us/pl/105/57], §§ 3(b)–8, Oct. 9, 1997, [111 Stat. 1254–1259][/us/stat/111/1254-1259]; [Pub. L. 105–312, title II, § 206][/us/pl/105/312/s206], Oct. 30, 1998, [112 Stat. 2958][/us/stat/112/2958].)
+([Pub. L. 89–669][/us/pl/89/669], § 4, Oct. 15, 1966, [80 Stat. 927][/us/stat/80/927]; [Pub. L. 90–404][/us/pl/90/404], § 1, July 18, 1968, [82 Stat. 359][/us/stat/82/359]; [Pub. L. 93–205][/us/pl/93/205], § 13(a), Dec. 28, 1973, [87 Stat. 902][/us/stat/87/902]; [Pub. L. 93–509][/us/pl/93/509], § 2, Dec. 3, 1974, [88 Stat. 1603][/us/stat/88/1603]; [Pub. L. 94–215][/us/pl/94/215], § 5, Feb. 17, 1976, [90 Stat. 190][/us/stat/90/190]; [Pub. L. 94–223][/us/pl/94/223], Feb. 27, 1976, [90 Stat. 199][/us/stat/90/199]; [Pub. L. 95–616][/us/pl/95/616], §§ 3(f), 6, Nov. 8, 1978, [92 Stat. 3111][/us/stat/92/3111], 3114; [Pub. L. 100–226][/us/pl/100/226], § 4, Dec. 31, 1987, [101 Stat. 1551][/us/stat/101/1551]; [Pub. L. 100–653, title IX][/us/pl/100/653/tIX], § 904, Nov. 14, 1988, [102 Stat. 3834][/us/stat/102/3834]; [Pub. L. 105–57][/us/pl/105/57], §§ 3(b)–8, Oct. 9, 1997, [111 Stat. 1254–1259][/us/stat/111/1254-1259]; [Pub. L. 105–312, title II][/us/pl/105/312/tII], § 206, Oct. 30, 1998, [112 Stat. 2958][/us/stat/112/2958].)
 
  __References in Text__ 
 
@@ -297,65 +297,65 @@
 
  __Amendments__ 
 
-    1998—Subsec. (c). [Pub. L. 105–312, § 206(1)][/us/pl/105/312/s206/1], struck out “knowingly” after “No person shall” in first sentence.
+    1998—Subsec. (c). [Pub. L. 105–312][/us/pl/105/312], § 206(1), struck out “knowingly” after “No person shall” in first sentence.
 
-    Subsec. (f). [Pub. L. 105–312, § 206(2)][/us/pl/105/312/s206/2], inserted subsec. heading, par. (1) designation and heading, and “knowingly” after “Any person who”, and added par. (2).
+    Subsec. (f). [Pub. L. 105–312][/us/pl/105/312], § 206(2), inserted subsec. heading, par. (1) designation and heading, and “knowingly” after “Any person who”, and added par. (2).
 
-    1997—Subsec. (a)(1). [Pub. L. 105–57, § 3(b)][/us/pl/105/57/s3/b], substituted “Secretary” for “Secretary of the Interior” before “for the conservation of fish and wildlife”.
+    1997—Subsec. (a)(1). [Pub. L. 105–57][/us/pl/105/57], § 3(b), substituted “Secretary” for “Secretary of the Interior” before “for the conservation of fish and wildlife”.
 
-    Subsec. (a)(2). [Pub. L. 105–57, § 4(1)][/us/pl/105/57/s4/1], (3), added par. (2) and redesignated former par. (2) as (5).
+    Subsec. (a)(2). [Pub. L. 105–57][/us/pl/105/57], § 4(1), (3), added par. (2) and redesignated former par. (2) as (5).
 
-    Subsec. (a)(2)(A). [Pub. L. 105–57, § 3(b)][/us/pl/105/57/s3/b], substituted “Secretary” for “Secretary of the Interior” before “determines with the approval”.
+    Subsec. (a)(2)(A). [Pub. L. 105–57][/us/pl/105/57], § 3(b), substituted “Secretary” for “Secretary of the Interior” before “determines with the approval”.
 
     Subsec. (a)(3). [Pub. L. 105–57][/us/pl/105/57], §§ 4(1), 5(a), added par. (3) and redesignated former par. (3) as (6).
 
-    Subsec. (a)(4). [Pub. L. 105–57, § 5(a)][/us/pl/105/57/s5/a], added par. (4).
+    Subsec. (a)(4). [Pub. L. 105–57][/us/pl/105/57], § 5(a), added par. (4).
 
-    Subsec. (a)(5). [Pub. L. 105–57, § 4(1)][/us/pl/105/57/s4/1], redesignated par. (2) as (5).
+    Subsec. (a)(5). [Pub. L. 105–57][/us/pl/105/57], § 4(1), redesignated par. (2) as (5).
 
-    Subsec. (a)(6). [Pub. L. 105–57, § 4(1)][/us/pl/105/57/s4/1], redesignated par. (3) as (6).
+    Subsec. (a)(6). [Pub. L. 105–57][/us/pl/105/57], § 4(1), redesignated par. (3) as (6).
 
-    Subsec. (a)(6)(i). [Pub. L. 105–57, § 4(2)][/us/pl/105/57/s4/2], substituted “paragraph (5)” for “paragraph (2)”.
+    Subsec. (a)(6)(i). [Pub. L. 105–57][/us/pl/105/57], § 4(2), substituted “paragraph (5)” for “paragraph (2)”.
 
-    Subsec. (b). [Pub. L. 105–57, § 5(b)(1)][/us/pl/105/57/s5/b/1], substituted “authorized to take the following actions:” for “authorized—” in introductory provisions.
+    Subsec. (b). [Pub. L. 105–57][/us/pl/105/57], § 5(b)(1), substituted “authorized to take the following actions:” for “authorized—” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 105–57, § 5(b)(2)][/us/pl/105/57/s5/b/2], substituted “Enter” for “to enter”.
+    Subsec. (b)(1). [Pub. L. 105–57][/us/pl/105/57], § 5(b)(2), substituted “Enter” for “to enter”.
 
-    Subsec. (b)(2). [Pub. L. 105–57, § 5(b)(3)][/us/pl/105/57/s5/b/3], substituted “Accept” for “to accept” and substituted a period for “, and” at end.
+    Subsec. (b)(2). [Pub. L. 105–57][/us/pl/105/57], § 5(b)(3), substituted “Accept” for “to accept” and substituted a period for “, and” at end.
 
-    Subsec. (b)(3). [Pub. L. 105–57, § 5(b)(4)][/us/pl/105/57/s5/b/4], substituted “Acquire” for “to acquire”.
+    Subsec. (b)(3). [Pub. L. 105–57][/us/pl/105/57], § 5(b)(4), substituted “Acquire” for “to acquire”.
 
-    Subsec. (b)(4), (5). [Pub. L. 105–57, § 5(b)(5)][/us/pl/105/57/s5/b/5], added pars. (4) and (5).
+    Subsec. (b)(4), (5). [Pub. L. 105–57][/us/pl/105/57], § 5(b)(5), added pars. (4) and (5).
 
-    Subsec. (c). [Pub. L. 105–57, § 8(b)][/us/pl/105/57/s8/b], struck out at end “The provisions of this Act shall not be construed as affecting the authority, jurisdiction, or responsibility of the several States to manage, control, or regulate fish and resident wildlife under State law or regulations in any area within the System.”
+    Subsec. (c). [Pub. L. 105–57][/us/pl/105/57], § 8(b), struck out at end “The provisions of this Act shall not be construed as affecting the authority, jurisdiction, or responsibility of the several States to manage, control, or regulate fish and resident wildlife under State law or regulations in any area within the System.”
 
-    Subsec. (d)(2). [Pub. L. 105–57, § 3(b)][/us/pl/105/57/s3/b], substituted “Secretary” for “Secretary of the Interior” before “may not grant to any Federal” and before “pursuant to this paragraph”.
+    Subsec. (d)(2). [Pub. L. 105–57][/us/pl/105/57], § 3(b), substituted “Secretary” for “Secretary of the Interior” before “may not grant to any Federal” and before “pursuant to this paragraph”.
 
-    Subsec. (d)(3), (4). [Pub. L. 105–57, § 6][/us/pl/105/57/s6], added pars. (3) and (4).
+    Subsec. (d)(3), (4). [Pub. L. 105–57][/us/pl/105/57], § 6, added pars. (3) and (4).
 
-    Subsec. (e). [Pub. L. 105–57, § 7(a)][/us/pl/105/57/s7/a], added subsec. (e) and redesignated former subsec. (e) as (f).
+    Subsec. (e). [Pub. L. 105–57][/us/pl/105/57], § 7(a), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-    Subsec. (f). [Pub. L. 105–57, § 7(a)(1)][/us/pl/105/57/s7/a/1], redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 105–57][/us/pl/105/57], § 7(a)(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-    [Pub. L. 105–57, § 3(b)][/us/pl/105/57/s3/b], substituted “Secretary” for “Secretary of the Interior” before “to enforce the provisions”.
+    [Pub. L. 105–57][/us/pl/105/57], § 3(b), substituted “Secretary” for “Secretary of the Interior” before “to enforce the provisions”.
 
-    Subsec. (g). [Pub. L. 105–57, § 7(a)(1)][/us/pl/105/57/s7/a/1], redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+    Subsec. (g). [Pub. L. 105–57][/us/pl/105/57], § 7(a)(1), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-    Subsec. (h). [Pub. L. 105–57, § 7(a)(1)][/us/pl/105/57/s7/a/1], redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+    Subsec. (h). [Pub. L. 105–57][/us/pl/105/57], § 7(a)(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
 
-    [Pub. L. 105–57, § 3(b)][/us/pl/105/57/s3/b], substituted “Secretary” for “Secretary of the Interior”.
+    [Pub. L. 105–57][/us/pl/105/57], § 3(b), substituted “Secretary” for “Secretary of the Interior”.
 
-    Subsecs. (i), (j). [Pub. L. 105–57, § 7(a)(1)][/us/pl/105/57/s7/a/1], redesignated subsecs. (h) and (i) as (i) and (j), respectively.
+    Subsecs. (i), (j). [Pub. L. 105–57][/us/pl/105/57], § 7(a)(1), redesignated subsecs. (h) and (i) as (i) and (j), respectively.
 
-    Subsecs. (k) to (o). [Pub. L. 105–57, § 8(a)][/us/pl/105/57/s8/a], added subsecs. (k) to (o).
+    Subsecs. (k) to (o). [Pub. L. 105–57][/us/pl/105/57], § 8(a), added subsecs. (k) to (o).
 
     1988—Subsec. (e). [Pub. L. 100–653][/us/pl/100/653] substituted “thereunder shall be fined under title 18 or imprisoned for not more than 1 year, or both” for “thereunder shall be fined not more than $500 or be imprisoned not more than six months, or both”.
 
     1987—Subsec. (f). [Pub. L. 100–226][/us/pl/100/226] inserted at end “The Director of the United States Fish and Wildlife Service is authorized to utilize by agreement, with or without reimbursement, the personnel and services of any other Federal or State agency for purposes of enhancing the enforcement of this Act.”
 
-    1978—Subsec. (d)(1)(A). [Pub. L. 95–616, § 6][/us/pl/95/616/s6], authorized the Secretary to find that the taking of any species of migratory birds in more than 40 percent of the area would be beneficial to the species.
+    1978—Subsec. (d)(1)(A). [Pub. L. 95–616][/us/pl/95/616], § 6, authorized the Secretary to find that the taking of any species of migratory birds in more than 40 percent of the area would be beneficial to the species.
 
-    Subsec. (f). [Pub. L. 95–616, § 3(f)][/us/pl/95/616/s3/f], substituted “disposed of by the Secretary, in accordance with law” for “disposed of by the court”.
+    Subsec. (f). [Pub. L. 95–616][/us/pl/95/616], § 3(f), substituted “disposed of by the Secretary, in accordance with law” for “disposed of by the court”.
 
     1976—Subsec. (a). [Pub. L. 94–223][/us/pl/94/223] designated existing first sentence as par. (1), provided for administration of the System by the Secretary of the Interior through the United States Fish and Wildlife Service and inserted provision respecting continuance of programs relating to management of resources in refuge lands in Alaska, subject to direct supervision of the United States Fish and Wildlife Service; struck out second sentence providing that “Nothing in this Act shall restrict the authority of the Secretary to modify or revoke public land withdrawals affecting lands in the System as presently constituted, or as it may be constituted, whenever he determines that such action is consistent with the public interest.”; designated existing third sentence as par. (2), redesignated as subpars. (A) and (B) former clauses (1) and (2), redesignated as subpar. (B)(i) and (ii) former cl. (2)(A) and (B), substituted in subpar. (A) “with the approval of” for “after consultation with”, inserted in subpar. (B)(i) “or fair market value, whichever is greater;” and reenacted as second sentence of par. (2) former last sentence of subsec. (a); and added par. (3).
 
@@ -369,7 +369,7 @@
 
  __Effective Date of 1974 Amendment__ 
 
-[Pub. L. 93–509, § 3][/us/pl/93/509/s3], Dec. 3, 1974, [88 Stat. 1603][/us/stat/88/1603], provided that: 
+[Pub. L. 93–509][/us/pl/93/509], § 3, Dec. 3, 1974, [88 Stat. 1603][/us/stat/88/1603], provided that: 
 
 > “Section 4 (d)(2) of the Act of October 15, 1966 (as added by this Act) \[subsec. (d)(2) of this section\], shall apply with respect to any right-of-way, easement, or reservation granted by the Secretary of the Interior on or after the date of the enactment of this Act \[Dec. 3, 1974\], including any right-of-way, easement, or reservation granted on or after such date in connection with any use permitted by him pursuant to [section 4(d)(2) of the Act of October 15, 1966][/us/act/1966-10-15/s4/d/2] \[now subsec. (d)(1)(B) of this section\] (as in effect before the date of the enactment of this Act).”
 
@@ -379,37 +379,37 @@
 
  __Effective Date of 1968 Amendment__ 
 
-[Pub. L. 90–404, § 2][/us/pl/90/404/s2], July 18, 1968, [82 Stat. 359][/us/stat/82/359], provided that: 
+[Pub. L. 90–404][/us/pl/90/404], § 2, July 18, 1968, [82 Stat. 359][/us/stat/82/359], provided that: 
 
 > “The amendments made by the first section of this Act \[amending subsec. (a) of this section\] shall apply only with respect to transfers and disposals of land initiated and completed after the date of their enactment \[July 18, 1968\].”
 
  __Short Title of 2015 Amendment__ 
 
-[Pub. L. 114–101, § 1][/us/pl/114/101/s1], Dec. 18, 2015, [129 Stat. 2203][/us/stat/129/2203], provided that: 
+[Pub. L. 114–101][/us/pl/114/101], § 1, Dec. 18, 2015, [129 Stat. 2203][/us/stat/129/2203], provided that: 
 
 > “This Act \[enacting provisions listed in a table of National Memorials set out under [section 320301 of Title 54][/us/usc/t54/s320301], National Park Service and Related Programs, and amending provisions listed in a table of National Wildlife Refuges set out under this section\] may be cited as the ‘Billy Frank Jr. Tell Your Story Act’.”
 
  __Short Title of 1998 Amendment__ 
 
-[Pub. L. 105–312, title II, § 201][/us/pl/105/312/s201], Oct. 30, 1998, [112 Stat. 2957][/us/stat/112/2957], provided that: 
+[Pub. L. 105–312, title II][/us/pl/105/312/tII], § 201, Oct. 30, 1998, [112 Stat. 2957][/us/stat/112/2957], provided that: 
 
 > “This title \[amending this section, sections 721 and 722 of this title, and [section 564w–1 of Title 25][/us/usc/t25/s564w–1], Indians, enacting provisions set out as a note under [section 722 of this title][/us/usc/t16/s722], and amending provisions listed in a table of National Wildlife Refuges set out under this section\] may be cited as the ‘National Wildlife Refuge System Improvement Act of 1998’.”
 
  __Short Title of 1997 Amendment__ 
 
-[Pub. L. 105–57, § 1(a)][/us/pl/105/57/s1/a], Oct. 9, 1997, [111 Stat. 1252][/us/stat/111/1252], provided that: 
+[Pub. L. 105–57][/us/pl/105/57], § 1(a), Oct. 9, 1997, [111 Stat. 1252][/us/stat/111/1252], provided that: 
 
 > “This Act \[amending this section and [section 668ee of this title][/us/usc/t16/s668ee] and enacting provisions set out as notes under this section\] may be cited as the ‘National Wildlife Refuge System Improvement Act of 1997’.”
 
  __Short Title of 1974 Amendment__ 
 
-[Pub. L. 93–509, § 1][/us/pl/93/509/s1], Dec. 3, 1974, [88 Stat. 1603][/us/stat/88/1603], provided: 
+[Pub. L. 93–509][/us/pl/93/509], § 1, Dec. 3, 1974, [88 Stat. 1603][/us/stat/88/1603], provided: 
 
 > “That this Act \[amending this section and [section 715s of this title][/us/usc/t16/s715s], and enacting provisions set out as notes under this section\] may be cited as the ‘National Wildlife Refuge System Administration Act Amendments of 1974’.”
 
  __Short Title__ 
 
-[Pub. L. 91–135, § 12(f)][/us/pl/91/135/s12/f], Dec. 5, 1969, [83 Stat. 283][/us/stat/83/283], provided that: 
+[Pub. L. 91–135][/us/pl/91/135], § 12(f), Dec. 5, 1969, [83 Stat. 283][/us/stat/83/283], provided that: 
 
 > “The provisions of sections 4 and 5 of the Act of October 15, 1966 ([80 Stat. 929][/us/stat/80/929]; [16 U.S.C. 668dd–668e][/us/usc/t16/s668dd–668e]e), as amended, shall hereinafter be cited as the ‘National Wildlife Refuge System Administration Act of 1966’.”
 
@@ -419,7 +419,7 @@
 
  __National Wildlife Refuge System Centennial__ 
 
-[Pub. L. 106–408, title III][/us/pl/106/408], Nov. 1, 2000, [114 Stat. 1782][/us/stat/114/1782], provided that:
+[Pub. L. 106–408, title III][/us/pl/106/408/tIII], Nov. 1, 2000, [114 Stat. 1782][/us/stat/114/1782], provided that:
 
 > “SEC. 301. __SHORT TITLE.__ 
 
@@ -671,7 +671,7 @@
 
  __Congressional Findings__ 
 
-[Pub. L. 105–57, § 2][/us/pl/105/57/s2], Oct. 9, 1997, [111 Stat. 1252][/us/stat/111/1252], provided that: 
+[Pub. L. 105–57][/us/pl/105/57], § 2, Oct. 9, 1997, [111 Stat. 1252][/us/stat/111/1252], provided that: 
 
 > “The Congress finds the following:
 
@@ -693,7 +693,7 @@
 
  __Statutory Construction With Respect to Alaska__ 
 
-[Pub. L. 105–57, § 9][/us/pl/105/57/s9], Oct. 9, 1997, [111 Stat. 1260][/us/stat/111/1260], provided that:
+[Pub. L. 105–57][/us/pl/105/57], § 9, Oct. 9, 1997, [111 Stat. 1260][/us/stat/111/1260], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -711,7 +711,7 @@
 
  __Land Transfer and Conveyance, Pease Air Force Base, New Hampshire__ 
 
-[Pub. L. 102–154, title III, § 319][/us/pl/102/154/s319], Nov. 13, 1991, [105 Stat. 1036][/us/stat/105/1036], provided that:
+[Pub. L. 102–154, title III][/us/pl/102/154/tIII], § 319, Nov. 13, 1991, [105 Stat. 1036][/us/stat/105/1036], provided that:
 
 >     “(a)  __Transfer by the Air Force__  __.—__ 
 
@@ -1647,7 +1647,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch5A/schIII/m__us_usc_t16_ch5A_schIII.md) | [Next](./../../../../..//us/usc/t16/ch5A/schIII/m__us_usc_t16_s668ee.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd)
+[Previous](./../../../../..//us/usc/t16/ch5A/schIII/m__us_usc_t16_s668aa...668cc–6.md) | [Next](./../../../../..//us/usc/t16/ch5A/schIII/m__us_usc_t16_s668ee.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd)
 
 ----------
 ----------
@@ -1660,27 +1660,27 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/stat/76/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F653
 [/us/usc/t16/s460k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460k
 [/us/usc/t43/s666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs666
-[/us/pl/89/669/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F669%2Fs4
+[/us/pl/89/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F669
 [/us/stat/80/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F927
-[/us/pl/90/404/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F404%2Fs1
+[/us/pl/90/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F404
 [/us/stat/82/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F359
-[/us/pl/93/205/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205%2Fs13%2Fa
+[/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F902
-[/us/pl/93/509/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F509%2Fs2
+[/us/pl/93/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F509
 [/us/stat/88/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1603
-[/us/pl/94/215/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F215%2Fs5
+[/us/pl/94/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F215
 [/us/stat/90/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F190
 [/us/pl/94/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F223
 [/us/stat/90/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F199
 [/us/pl/95/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616
 [/us/stat/92/3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3111
-[/us/pl/100/226/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F226%2Fs4
+[/us/pl/100/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F226
 [/us/stat/101/1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1551
-[/us/pl/100/653/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2Fs904
+[/us/pl/100/653/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2FtIX
 [/us/stat/102/3834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3834
 [/us/pl/105/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57
 [/us/stat/111/1254-1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1254-1259
-[/us/pl/105/312/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312%2Fs206
+[/us/pl/105/312/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312%2FtII
 [/us/stat/112/2958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2958
 [/us/pl/89/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F669
 [/us/stat/80/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F927
@@ -1697,36 +1697,36 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t16/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3101
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/105/312/s206/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312%2Fs206%2F1
-[/us/pl/105/312/s206/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312%2Fs206%2F2
-[/us/pl/105/57/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57%2Fs3%2Fb
-[/us/pl/105/57/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57%2Fs4%2F1
-[/us/pl/105/57/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57%2Fs3%2Fb
+[/us/pl/105/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312
+[/us/pl/105/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312
 [/us/pl/105/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57
-[/us/pl/105/57/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57%2Fs5%2Fa
-[/us/pl/105/57/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57%2Fs4%2F1
-[/us/pl/105/57/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57%2Fs4%2F1
-[/us/pl/105/57/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57%2Fs4%2F2
-[/us/pl/105/57/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57%2Fs5%2Fb%2F1
-[/us/pl/105/57/s5/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57%2Fs5%2Fb%2F2
-[/us/pl/105/57/s5/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57%2Fs5%2Fb%2F3
-[/us/pl/105/57/s5/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57%2Fs5%2Fb%2F4
-[/us/pl/105/57/s5/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57%2Fs5%2Fb%2F5
-[/us/pl/105/57/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57%2Fs8%2Fb
-[/us/pl/105/57/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57%2Fs3%2Fb
-[/us/pl/105/57/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57%2Fs6
-[/us/pl/105/57/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57%2Fs7%2Fa
-[/us/pl/105/57/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57%2Fs7%2Fa%2F1
-[/us/pl/105/57/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57%2Fs3%2Fb
-[/us/pl/105/57/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57%2Fs7%2Fa%2F1
-[/us/pl/105/57/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57%2Fs7%2Fa%2F1
-[/us/pl/105/57/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57%2Fs3%2Fb
-[/us/pl/105/57/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57%2Fs7%2Fa%2F1
-[/us/pl/105/57/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57%2Fs8%2Fa
+[/us/pl/105/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57
+[/us/pl/105/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57
+[/us/pl/105/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57
+[/us/pl/105/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57
+[/us/pl/105/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57
+[/us/pl/105/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57
+[/us/pl/105/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57
+[/us/pl/105/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57
+[/us/pl/105/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57
+[/us/pl/105/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57
+[/us/pl/105/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57
+[/us/pl/105/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57
+[/us/pl/105/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57
+[/us/pl/105/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57
+[/us/pl/105/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57
+[/us/pl/105/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57
+[/us/pl/105/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57
+[/us/pl/105/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57
+[/us/pl/105/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57
+[/us/pl/105/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57
+[/us/pl/105/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57
+[/us/pl/105/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57
+[/us/pl/105/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57
 [/us/pl/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653
 [/us/pl/100/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F226
-[/us/pl/95/616/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616%2Fs6
-[/us/pl/95/616/s3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616%2Fs3%2Ff
+[/us/pl/95/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616
+[/us/pl/95/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616
 [/us/pl/94/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F223
 [/us/pl/94/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F215
 [/us/pl/93/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F509
@@ -1734,28 +1734,28 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t16/s1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1533
 [/us/usc/t16/s1535/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1535%2Fc
 [/us/pl/90/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F404
-[/us/pl/93/509/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F509%2Fs3
+[/us/pl/93/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F509
 [/us/stat/88/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1603
 [/us/act/1966-10-15/s4/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1966-10-15%2Fs4%2Fd%2F2
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/pl/93/205/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205%2Fs16
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
-[/us/pl/90/404/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F404%2Fs2
+[/us/pl/90/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F404
 [/us/stat/82/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F359
-[/us/pl/114/101/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F101%2Fs1
+[/us/pl/114/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F101
 [/us/stat/129/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2203
 [/us/usc/t54/s320301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320301
-[/us/pl/105/312/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312%2Fs201
+[/us/pl/105/312/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312%2FtII
 [/us/stat/112/2957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2957
 [/us/usc/t25/s564w–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs564w%E2%80%931
 [/us/usc/t16/s722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs722
-[/us/pl/105/57/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57%2Fs1%2Fa
+[/us/pl/105/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57
 [/us/stat/111/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1252
 [/us/usc/t16/s668ee]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668ee
-[/us/pl/93/509/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F509%2Fs1
+[/us/pl/93/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F509
 [/us/stat/88/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1603
 [/us/usc/t16/s715s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs715s
-[/us/pl/91/135/s12/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F135%2Fs12%2Ff
+[/us/pl/91/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F135
 [/us/stat/83/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F283
 [/us/stat/80/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F929
 [/us/usc/t16/s668dd–668e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd%E2%80%93668e
@@ -1763,16 +1763,16 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/pl/102/486/s3012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3012%2Fb
 [/us/usc/t15/s719e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719e
 [/us/usc/t15/s720d/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs720d%2Ff
-[/us/pl/106/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408
+[/us/pl/106/408/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2FtIII
 [/us/stat/114/1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1782
 [/us/usc/t16/s742f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs742f
 [/us/pl/105/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F242
 [/us/usc/t16/s742a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs742a
 [/us/usc/t5/s5702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5702
 [/us/usc/t5/s5702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5702
-[/us/pl/105/57/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57%2Fs2
+[/us/pl/105/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57
 [/us/stat/111/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1252
-[/us/pl/105/57/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57%2Fs9
+[/us/pl/105/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57
 [/us/stat/111/1260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1260
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/usc/t16/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3101
@@ -1780,7 +1780,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t16/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3111
 [/us/usc/t16/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3102
 [/us/usc/t16/s3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3120
-[/us/pl/102/154/s319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154%2Fs319
+[/us/pl/102/154/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154%2FtIII
 [/us/stat/105/1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1036
 [/us/act/1966-10-15/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1966-10-15%2Fs4
 [/us/usc/t16/s688dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs688dd

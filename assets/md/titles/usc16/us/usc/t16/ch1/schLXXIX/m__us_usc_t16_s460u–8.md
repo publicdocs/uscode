@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall deprive the State of Indiana or any political subdivision thereof of its civil and criminal jurisdiction over persons found, acts performed, and offenses committed within the boundaries of the Indiana Dunes National Lakeshore or of its right to tax persons, corporations, franchises, or other non-Federal property on lands included therein.
 
-([Pub. L. 89–761, § 8][/us/pl/89/761/s8], formerly § 9, Nov. 5, 1966, [80 Stat. 1312][/us/stat/80/1312]; renumbered § 8, [Pub. L. 94–549, § 1(9)][/us/pl/94/549/s1/9], Oct. 18, 1976, [90 Stat. 2533][/us/stat/90/2533].)
+([Pub. L. 89–761][/us/pl/89/761], § 8, formerly § 9, Nov. 5, 1966, [80 Stat. 1312][/us/stat/80/1312]; renumbered § 8, [Pub. L. 94–549][/us/pl/94/549], § 1(9), Oct. 18, 1976, [90 Stat. 2533][/us/stat/90/2533].)
 
  __Prior Provisions__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/89/761/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761%2Fs8
+[/us/pl/89/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761
 [/us/stat/80/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1312
-[/us/pl/94/549/s1/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549%2Fs1%2F9
+[/us/pl/94/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549
 [/us/stat/90/2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2533
 [/us/pl/89/761/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761%2Fs8
 [/us/usc/t16/s460u–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460u%E2%80%937

@@ -31,13 +31,13 @@
 
     (7) to interfere with, delay, or prevent, by any means, the apprehension, arrest, or detention of another person, knowing that such other person has committed any act prohibited by this section.
 
-([Pub. L. 98–623, title III, § 306][/us/pl/98/623/s306], Nov. 8, 1984, [98 Stat. 3401][/us/stat/98/3401]; [Pub. L. 114–81, title I, § 106(1)][/us/pl/114/81/s106/1], Nov. 5, 2015, [129 Stat. 657][/us/stat/129/657].)
+([Pub. L. 98–623, title III][/us/pl/98/623/tIII], § 306, Nov. 8, 1984, [98 Stat. 3401][/us/stat/98/3401]; [Pub. L. 114–81, title I][/us/pl/114/81/tI], § 106(1), Nov. 5, 2015, [129 Stat. 657][/us/stat/129/657].)
 
  __Amendments__ 
 
-    2015—Par. (3). [Pub. L. 114–81, § 106(1)(A)][/us/pl/114/81/s106/1/A], struck out “which he knows, or reasonably should have known, was” before “harvested in violation”.
+    2015—Par. (3). [Pub. L. 114–81][/us/pl/114/81], § 106(1)(A), struck out “which he knows, or reasonably should have known, was” before “harvested in violation”.
 
-    Pars. (4), (5). [Pub. L. 114–81, § 106(1)(B)][/us/pl/114/81/s106/1/B], (C), inserted “, investigation,” after “search”.
+    Pars. (4), (5). [Pub. L. 114–81][/us/pl/114/81], § 106(1)(B), (C), inserted “, investigation,” after “search”.
 
 ----------
 
@@ -46,11 +46,11 @@
 ----------
 ----------
 
-[/us/pl/98/623/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs306
+[/us/pl/98/623/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtIII
 [/us/stat/98/3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3401
-[/us/pl/114/81/s106/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs106%2F1
+[/us/pl/114/81/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2FtI
 [/us/stat/129/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F657
-[/us/pl/114/81/s106/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs106%2F1%2FA
-[/us/pl/114/81/s106/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs106%2F1%2FB
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
 
 

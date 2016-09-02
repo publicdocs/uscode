@@ -17,7 +17,7 @@
 
     The Tennessee Valley Authority may on and after September 29, 1989, accept the services of volunteers and, from any funds available to it, provide for their incidental expenses to carry out any activity of the Tennessee Valley Authority except policymaking or law or regulatory enforcement. Such volunteers shall not be deemed employees of the United States Government, except for the purposes of chapter 81 of title 5 relating to compensation for work injuries, and shall not be deemed employees of the Tennessee Valley Authority except for the purposes of tort claims to the same extent as a regular employee of the Tennessee Valley Authority would be under identical circumstances.
 
-([Pub. L. 101–101, title IV][/us/pl/101/101], Sept. 29, 1989, [103 Stat. 665][/us/stat/103/665].)
+([Pub. L. 101–101, title IV][/us/pl/101/101/tIV], Sept. 29, 1989, [103 Stat. 665][/us/stat/103/665].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/101/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F101
+[/us/pl/101/101/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F101%2FtIV
 [/us/stat/103/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F665
 
 

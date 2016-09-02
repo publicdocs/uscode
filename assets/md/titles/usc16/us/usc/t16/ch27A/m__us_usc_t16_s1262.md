@@ -89,23 +89,23 @@
 
         The advisory committee established by this section shall terminate on September 30, 2000.
 
-([Pub. L. 102–240, title I, § 1303][/us/pl/102/240/s1303], Dec. 18, 1991, [105 Stat. 2068][/us/stat/105/2068]; [Pub. L. 104–59, title III][/us/pl/104/59], §§ 325(h), 337(e), Nov. 28, 1995, [109 Stat. 592][/us/stat/109/592], 603; [Pub. L. 105–178, title I, § 1112(d)][/us/pl/105/178/s1112/d], June 9, 1998, [112 Stat. 151][/us/stat/112/151].)
+([Pub. L. 102–240, title I][/us/pl/102/240/tI], § 1303, Dec. 18, 1991, [105 Stat. 2068][/us/stat/105/2068]; [Pub. L. 104–59, title III][/us/pl/104/59/tIII], §§ 325(h), 337(e), Nov. 28, 1995, [109 Stat. 592][/us/stat/109/592], 603; [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1112(d), June 9, 1998, [112 Stat. 151][/us/stat/112/151].)
 
  __References in Text__ 
 
-    [Section 1261 of this title][/us/usc/t16/s1261], referred to in subsec. (h), was repealed by [Pub. L. 105–178, title I, § 1112(c)][/us/pl/105/178/s1112/c], June 9, 1998, [112 Stat. 151][/us/stat/112/151].
+    [Section 1261 of this title][/us/usc/t16/s1261], referred to in subsec. (h), was repealed by [Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1112(c), June 9, 1998, [112 Stat. 151][/us/stat/112/151].
 
  __Amendments__ 
 
     1998—Subsec. (j). [Pub. L. 105–178][/us/pl/105/178] added subsec. (j).
 
-    1995—Subsec. (b). [Pub. L. 104–59, § 337(e)(1)(A)][/us/pl/104/59/s337/e/1/A], substituted “12” for “11” in introductory provisions.
+    1995—Subsec. (b). [Pub. L. 104–59][/us/pl/104/59], § 337(e)(1)(A), substituted “12” for “11” in introductory provisions.
 
-    Subsec. (b)(2) to (5). [Pub. L. 104–59, § 337(e)(1)(B)][/us/pl/104/59/s337/e/1/B], (C), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
+    Subsec. (b)(2) to (5). [Pub. L. 104–59][/us/pl/104/59], § 337(e)(1)(B), (C), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
 
-    Subsec. (c). [Pub. L. 104–59, § 337(e)(2)][/us/pl/104/59/s337/e/2], substituted “(b)(3)” for “(b)(2)”.
+    Subsec. (c). [Pub. L. 104–59][/us/pl/104/59], § 337(e)(2), substituted “(b)(3)” for “(b)(2)”.
 
-    Subsec. (i). [Pub. L. 104–59, § 325(h)][/us/pl/104/59/s325/h], substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
+    Subsec. (i). [Pub. L. 104–59][/us/pl/104/59], § 325(h), substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
 
 ----------
 
@@ -114,19 +114,19 @@
 ----------
 ----------
 
-[/us/pl/102/240/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs1303
+[/us/pl/102/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtI
 [/us/stat/105/2068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2068
-[/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F592
-[/us/pl/105/178/s1112/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1112%2Fd
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F151
 [/us/usc/t16/s1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1261
-[/us/pl/105/178/s1112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1112%2Fc
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F151
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
-[/us/pl/104/59/s337/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs337%2Fe%2F1%2FA
-[/us/pl/104/59/s337/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs337%2Fe%2F1%2FB
-[/us/pl/104/59/s337/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs337%2Fe%2F2
-[/us/pl/104/59/s325/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs325%2Fh
+[/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
+[/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
+[/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
+[/us/pl/104/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59
 
 

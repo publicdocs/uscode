@@ -31,11 +31,11 @@
 
     (g) “Landowner” means any person, local government, or State owning, or on reasonable grounds professing to own, lands or interests in lands adjacent to or in the vicinity of the park.
 
-([Pub. L. 91–664, § 2][/us/pl/91/664/s2], Jan. 8, 1971, [84 Stat. 1978][/us/stat/84/1978].)
+([Pub. L. 91–664][/us/pl/91/664], § 2, Jan. 8, 1971, [84 Stat. 1978][/us/stat/84/1978].)
 
  __Short Title__ 
 
-[Pub. L. 91–664, § 1][/us/pl/91/664/s1], Jan. 8, 1971, [84 Stat. 1978][/us/stat/84/1978], provided: 
+[Pub. L. 91–664][/us/pl/91/664], § 1, Jan. 8, 1971, [84 Stat. 1978][/us/stat/84/1978], provided: 
 
 > “That this Act \[enacting this subchapter\] shall be known as the ‘Chesapeake and Ohio Canal Development Act’.”
 
@@ -58,9 +58,9 @@
 ----------
 ----------
 
-[/us/pl/91/664/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F664%2Fs2
+[/us/pl/91/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F664
 [/us/stat/84/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1978
-[/us/pl/91/664/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F664%2Fs1
+[/us/pl/91/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F664
 [/us/stat/84/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1978
 [/us/pl/95/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F11
 [/us/stat/91/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F21

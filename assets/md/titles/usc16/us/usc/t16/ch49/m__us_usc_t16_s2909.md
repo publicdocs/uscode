@@ -23,7 +23,7 @@
 
     (3) the authority of the Secretary of Agriculture under the Act of March 2, 1931 ([46 Stat. 1468–1469][/us/stat/46/1468-1469], [7 U.S.C. 426–426b][/us/usc/t7/s426–426b]).
 
-([Pub. L. 96–366, § 10][/us/pl/96/366/s10], Sept. 29, 1980, [94 Stat. 1329][/us/stat/94/1329].)
+([Pub. L. 96–366][/us/pl/96/366], § 10, Sept. 29, 1980, [94 Stat. 1329][/us/stat/94/1329].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 
 [/us/stat/46/1468-1469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1468-1469
 [/us/usc/t7/s426–426b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs426%E2%80%93426b
-[/us/pl/96/366/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F366%2Fs10
+[/us/pl/96/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F366
 [/us/stat/94/1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1329
 [/us/act/1931-03-02/ch370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-02%2Fch370
 [/us/stat/46/1468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1468

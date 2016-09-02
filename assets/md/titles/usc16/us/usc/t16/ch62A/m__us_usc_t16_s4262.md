@@ -23,7 +23,7 @@
 
     (3) To provide financial resources for those programs.
 
-([Pub. L. 105–96, § 3][/us/pl/105/96/s3], Nov. 19, 1997, [111 Stat. 2150][/us/stat/111/2150].)
+([Pub. L. 105–96][/us/pl/105/96], § 3, Nov. 19, 1997, [111 Stat. 2150][/us/stat/111/2150].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/105/96/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F96%2Fs3
+[/us/pl/105/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F96
 [/us/stat/111/2150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2150
 
 

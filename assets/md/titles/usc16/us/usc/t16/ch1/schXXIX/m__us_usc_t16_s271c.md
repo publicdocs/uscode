@@ -31,7 +31,7 @@
 
         The Secretary is hereby authorized to cooperate with the Secretary of Agriculture in the location and extension of a forest development road from State Route 95 and may extend the same from the national forest boundary to the park and points of interest therein in accordance with the applicable provisions of this section.
 
-([Pub. L. 88–590, § 4][/us/pl/88/590/s4], Sept. 12, 1964, [78 Stat. 938][/us/stat/78/938].)
+([Pub. L. 88–590][/us/pl/88/590], § 4, Sept. 12, 1964, [78 Stat. 938][/us/stat/78/938].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/88/590/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F590%2Fs4
+[/us/pl/88/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F590
 [/us/stat/78/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F938
 
 

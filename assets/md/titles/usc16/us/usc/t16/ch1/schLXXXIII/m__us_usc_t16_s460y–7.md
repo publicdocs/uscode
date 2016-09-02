@@ -17,7 +17,7 @@
 
     The objectives of Executive Order Numbered 5237, dated December 10, 1929, which withdraw certain public lands for classification, having been accomplished by the enactment of this subchapter, that Executive order is hereby revoked effective as of the date the Secretary establishes the area.
 
-([Pub. L. 91–476, § 8][/us/pl/91/476/s8], Oct. 21, 1970, [84 Stat. 1070][/us/stat/84/1070].)
+([Pub. L. 91–476][/us/pl/91/476], § 8, Oct. 21, 1970, [84 Stat. 1070][/us/stat/84/1070].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/91/476/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F476%2Fs8
+[/us/pl/91/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F476
 [/us/stat/84/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1070
 
 

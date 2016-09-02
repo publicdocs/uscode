@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450pp–3.md) | [Next](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450rr–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450rr)
+[Previous](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450qq...450qq–4.md) | [Next](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450rr–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450rr)
 
 ## § 450rr. R.M.S. Titanic; international maritime memorial; findings and purposes
 
@@ -39,24 +39,24 @@
 
         (4) to express the sense of the United States Congress that, pending such international agreement or guidelines, no person should physically alter, disturb, or salvage the R.M.S. Titanic in any research or exploratory activities which are conducted.
 
-([Pub. L. 99–513, § 2][/us/pl/99/513/s2], Oct. 21, 1986, [100 Stat. 2082][/us/stat/100/2082].)
+([Pub. L. 99–513][/us/pl/99/513], § 2, Oct. 21, 1986, [100 Stat. 2082][/us/stat/100/2082].)
 
  __Short Title__ 
 
-[Pub. L. 99–513, § 1][/us/pl/99/513/s1], Oct. 21, 1986, [100 Stat. 2082][/us/stat/100/2082], provided that: 
+[Pub. L. 99–513][/us/pl/99/513], § 1, Oct. 21, 1986, [100 Stat. 2082][/us/stat/100/2082], provided that: 
 
 > “This Act \[enacting this section and sections 450rr–1 to 450rr–6 of this title\] may be cited as the ‘R.M.S. Titanic Maritime Memorial Act of 1986’.”
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450pp–3.md) | [Next](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450rr–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450rr)
+[Previous](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450qq...450qq–4.md) | [Next](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450rr–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450rr)
 
 ----------
 ----------
 
-[/us/pl/99/513/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F513%2Fs2
+[/us/pl/99/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F513
 [/us/stat/100/2082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2082
-[/us/pl/99/513/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F513%2Fs1
+[/us/pl/99/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F513
 [/us/stat/100/2082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2082
 
 

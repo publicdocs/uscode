@@ -17,7 +17,7 @@
 
     The Secretary of the Army shall cooperate with the Secretary of the Interior concerning the water requirements of the national river. The Secretary of the Army shall provide for release of water from the Bluestone Lake project consistent with that project’s purposes and activities in sufficient quantity and in such manner to facilitate protection of biological resources and recreational use of the national river.
 
-([Pub. L. 95–625, title XI, § 1110][/us/pl/95/625/s1110], Nov. 10, 1978, [92 Stat. 3548][/us/stat/92/3548].)
+([Pub. L. 95–625, title XI][/us/pl/95/625/tXI], § 1110, Nov. 10, 1978, [92 Stat. 3548][/us/stat/92/3548].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/625/s1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs1110
+[/us/pl/95/625/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtXI
 [/us/stat/92/3548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3548
 
 

@@ -53,7 +53,7 @@
 
  __Land Exchange, El Portal Administrative Site, California__ 
 
-    [Pub. L. 105–363, § 4][/us/pl/105/363/s4], Nov. 6, 1998, [112 Stat. 3298][/us/stat/112/3298], authorized transfer from the United States of land within the El Portal Administrative Site to party conveying to United States an adjacent property known as the Yosemite View parcel, and provided for equalization of values of Federal and non-Federal lands, applicability of other laws to the exchange, boundary adjustment, map, and additional terms and conditions.
+    [Pub. L. 105–363][/us/pl/105/363], § 4, Nov. 6, 1998, [112 Stat. 3298][/us/stat/112/3298], authorized transfer from the United States of land within the El Portal Administrative Site to party conveying to United States an adjacent property known as the Yosemite View parcel, and provided for equalization of values of Federal and non-Federal lands, applicability of other laws to the exchange, boundary adjustment, map, and additional terms and conditions.
 
 ----------
 
@@ -80,7 +80,7 @@
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
 [/us/pl/85/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F922
-[/us/pl/105/363/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F363%2Fs4
+[/us/pl/105/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F363
 [/us/stat/112/3298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3298
 
 

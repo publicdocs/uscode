@@ -17,7 +17,7 @@
 
     For each fiscal year beginning with the fiscal year ending June 30, 1951, the Secretary of the Interior shall certify, at the time at which a deduction or apportionment is made, to the Secretary of the Treasury, and to each State fish and game department, the sum which he has estimated to be deducted for administering this chapter and the sum which he has apportioned to each State for such fiscal year.
 
-([Aug. 9, 1950, ch. 658, § 5][/us/act/1950-08-09/ch658/s5], [64 Stat. 432][/us/stat/64/432]; [Pub. L. 98–369, div. A, title X, § 1014(a)(4)][/us/pl/98/369/s1014/a/4], July 18, 1984, [98 Stat. 1015][/us/stat/98/1015]; [Pub. L. 106–408, title I, § 125][/us/pl/106/408/s125], Nov. 1, 2000, [114 Stat. 1775][/us/stat/114/1775].)
+([Aug. 9, 1950, ch. 658][/us/act/1950-08-09/ch658], § 5, [64 Stat. 432][/us/stat/64/432]; [Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1014(a)(4), July 18, 1984, [98 Stat. 1015][/us/stat/98/1015]; [Pub. L. 106–408, title I][/us/pl/106/408/tI], § 125, Nov. 1, 2000, [114 Stat. 1775][/us/stat/114/1775].)
 
  __Amendments__ 
 
@@ -40,11 +40,11 @@
 ----------
 ----------
 
-[/us/act/1950-08-09/ch658/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch658%2Fs5
+[/us/act/1950-08-09/ch658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch658
 [/us/stat/64/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F432
-[/us/pl/98/369/s1014/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1014%2Fa%2F4
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1015
-[/us/pl/106/408/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2Fs125
+[/us/pl/106/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2FtI
 [/us/stat/114/1775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1775
 [/us/pl/106/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369

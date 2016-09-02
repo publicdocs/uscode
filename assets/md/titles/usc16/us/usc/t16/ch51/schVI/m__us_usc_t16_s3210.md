@@ -23,7 +23,7 @@
 
         Notwithstanding any other provision of law, and subject to such terms and conditions as the Secretary of the Interior may prescribe, the Secretary shall provide such access to nonfederally owned land surrounded by public lands managed by the Secretary under the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1701–82][/us/usc/t43/s1701–82]) as the Secretary deems adequate to secure to the owner the reasonable use and enjoyment thereof: Provided, That such owner comply with rules and regulations applicable to access across public lands.
 
-([Pub. L. 96–487, title XIII, § 1323][/us/pl/96/487/s1323], Dec. 2, 1980, [94 Stat. 2488][/us/stat/94/2488].)
+([Pub. L. 96–487, title XIII][/us/pl/96/487/tXIII], § 1323, Dec. 2, 1980, [94 Stat. 2488][/us/stat/94/2488].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t43/s1701–82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701%E2%80%9382
-[/us/pl/96/487/s1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1323
+[/us/pl/96/487/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXIII
 [/us/stat/94/2488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2488
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
 [/us/stat/90/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2743

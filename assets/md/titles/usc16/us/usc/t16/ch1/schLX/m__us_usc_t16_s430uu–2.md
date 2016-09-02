@@ -21,7 +21,7 @@
 
     (c) Lands included in the Big Hole National Battlefield pursuant to sections 430uu to 430uu–4 of this title shall be administered in accordance with the provisions of the Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916 ([39 Stat. 535][/us/stat/39/535]; [16 U.S.C. 1–3][/us/usc/t16/s1–3]), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended and supplemented.
 
-([Pub. L. 88–24, § 3][/us/pl/88/24/s3], May 17, 1963, [77 Stat. 19][/us/stat/77/19].)
+([Pub. L. 88–24][/us/pl/88/24], § 3, May 17, 1963, [77 Stat. 19][/us/stat/77/19].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 [/us/usc/t16/s430uu–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs430uu%E2%80%931
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1%E2%80%933
-[/us/pl/88/24/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F24%2Fs3
+[/us/pl/88/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F24
 [/us/stat/77/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F19
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1%E2%80%933

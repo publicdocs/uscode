@@ -17,7 +17,7 @@
 
     The Secretary shall use public and private assistance as he may require, for the purpose of preparing for the Area a program of multiple usage and of sustained yield of renewable natural resources. Such program shall include but need not be limited to (1) a quantitative and qualitative analysis of the resources of the Area; (2) the proposed boundaries of the Area; (3) a plan of land use, development, and management of the Area together with any proposed cooperative activities with the State of California, local governments, and others; (4) a statement of expected costs and an economic analysis of the program with particular reference to costs to the United States and expected economic effects on local communities and governments; and (5) an evaluation by the Secretary of the program in terms of the public interest.
 
-([Pub. L. 91–476, § 3][/us/pl/91/476/s3], Oct. 21, 1970, [84 Stat. 1068][/us/stat/84/1068].)
+([Pub. L. 91–476][/us/pl/91/476], § 3, Oct. 21, 1970, [84 Stat. 1068][/us/stat/84/1068].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/476/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F476%2Fs3
+[/us/pl/91/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F476
 [/us/stat/84/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1068
 
 

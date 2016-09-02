@@ -17,7 +17,7 @@
 
     Where any Federal lands included in the park or recreation areas are legally occupied or utilized on October 2, 1968, for any purpose, pursuant to a contract, lease, permit, or license issued or authorized by any department, establishment, or agency of the United States, the Secretary shall permit the persons holding such privileges to continue in the exercise thereof, subject to the terms and conditions thereof, for the remainder of the term of the contract, lease, permit, or license or for such longer period of time as the Secretary deems appropriate.
 
-([Pub. L. 90–544, title V, § 502][/us/pl/90/544/s502], Oct. 2, 1968, [82 Stat. 929][/us/stat/82/929].)
+([Pub. L. 90–544, title V][/us/pl/90/544/tV], § 502, Oct. 2, 1968, [82 Stat. 929][/us/stat/82/929].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/544/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F544%2Fs502
+[/us/pl/90/544/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F544%2FtV
 [/us/stat/82/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F929
 
 

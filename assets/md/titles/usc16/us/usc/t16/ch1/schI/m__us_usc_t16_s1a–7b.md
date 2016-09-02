@@ -53,13 +53,13 @@
 
         (2) the possession of the firearm is in compliance with the law of the State in which the unit of the National Wildlife Refuge System is located.
 
-([Pub. L. 111–24, title V, § 512][/us/pl/111/24/s512], May 22, 2009, [123 Stat. 1764][/us/stat/123/1764]; [Pub. L. 113–287][/us/pl/113/287], §§ 4(d), 7, Dec. 19, 2014, [128 Stat. 3263][/us/stat/128/3263], 3272.)
+([Pub. L. 111–24, title V][/us/pl/111/24/tV], § 512, May 22, 2009, [123 Stat. 1764][/us/stat/123/1764]; [Pub. L. 113–287][/us/pl/113/287], §§ 4(d), 7, Dec. 19, 2014, [128 Stat. 3263][/us/stat/128/3263], 3272.)
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–287, § 7][/us/pl/113/287/s7], which directed repeal of this section insofar as it related to the National Park System, could not be executed because of the general amendment by [Pub. L. 113–287, § 4(d)][/us/pl/113/287/s4/d], which made section applicable only to the National Wildlife Refuge System. See below. For provisions related to the National Park System, see [section 104906 of Title 54][/us/usc/t54/s104906], National Park Service and Related Programs.
+    2014—[Pub. L. 113–287][/us/pl/113/287], § 7, which directed repeal of this section insofar as it related to the National Park System, could not be executed because of the general amendment by [Pub. L. 113–287][/us/pl/113/287], § 4(d), which made section applicable only to the National Wildlife Refuge System. See below. For provisions related to the National Park System, see [section 104906 of Title 54][/us/usc/t54/s104906], National Park Service and Related Programs.
 
-    [Pub. L. 113–287, § 4(d)][/us/pl/113/287/s4/d], amended section generally. Prior to amendment, section related to the right of Americans to exercise their Second Amendment rights in the National Park System and the National Wildlife Refuge System.
+    [Pub. L. 113–287][/us/pl/113/287], § 4(d), amended section generally. Prior to amendment, section related to the right of Americans to exercise their Second Amendment rights in the National Park System and the National Wildlife Refuge System.
 
  __Effective Date__ 
 
@@ -72,14 +72,14 @@
 ----------
 ----------
 
-[/us/pl/111/24/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs512
+[/us/pl/111/24/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2FtV
 [/us/stat/123/1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1764
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3263
-[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
-[/us/pl/113/287/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs4%2Fd
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t54/s104906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs104906
-[/us/pl/113/287/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs4%2Fd
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/pl/111/24/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs3
 [/us/usc/t15/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602
 

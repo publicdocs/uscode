@@ -43,7 +43,7 @@
 
         The director and staff of the Commission may be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no individual so appointed may receive pay in excess of the annual rate of basic pay payable for grade GS–15 of the General Schedule.
 
-([Pub. L. 102–419, title II, § 204][/us/pl/102/419/s204], Oct. 16, 1992, [106 Stat. 2147][/us/stat/106/2147].)
+([Pub. L. 102–419, title II][/us/pl/102/419/tII], § 204, Oct. 16, 1992, [106 Stat. 2147][/us/stat/106/2147].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
-[/us/pl/102/419/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F419%2Fs204
+[/us/pl/102/419/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F419%2FtII
 [/us/stat/106/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2147
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 

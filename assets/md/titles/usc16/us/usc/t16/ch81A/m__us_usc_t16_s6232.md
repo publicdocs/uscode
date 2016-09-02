@@ -69,7 +69,7 @@
 
         Subject to subsections (a)(4) and (b)(2), [section 539f of this title][/us/usc/t16/s539f] shall apply to the use fees imposed under this section.
 
-([Pub. L. 108–7, div. F, title V, § 503][/us/pl/108/7/s503], Feb. 20, 2003, [117 Stat. 295][/us/stat/117/295].)
+([Pub. L. 108–7, div. F, title V][/us/pl/108/7/dF/tV], § 503, Feb. 20, 2003, [117 Stat. 295][/us/stat/117/295].)
 
 ----------
 
@@ -80,7 +80,7 @@
 
 [/us/usc/t16/s580d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs580d
 [/us/usc/t16/s539f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs539f
-[/us/pl/108/7/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs503
+[/us/pl/108/7/dF/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtV
 [/us/stat/117/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F295
 
 

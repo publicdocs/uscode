@@ -21,7 +21,7 @@
 
     (2) publish notice of the designation in the Federal Register, together with a map showing the boundaries of the recreation area.
 
-([Pub. L. 89–207, § 2][/us/pl/89/207/s2], Sept. 28, 1965, [79 Stat. 843][/us/stat/79/843].)
+([Pub. L. 89–207][/us/pl/89/207], § 2, Sept. 28, 1965, [79 Stat. 843][/us/stat/79/843].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/89/207/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F207%2Fs2
+[/us/pl/89/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F207
 [/us/stat/79/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F843
 
 

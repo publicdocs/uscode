@@ -17,7 +17,7 @@
 
     Notwithstanding the provisions of [section 1133(d)(2) of this title][/us/usc/t16/s1133/d/2] and subject to valid existing rights, all Federal lands located in the recreation area are hereby withdrawn from all forms of location, entry, and patent under the mining laws of the United States, and from disposition under all laws pertaining to mineral leasing and all amendments thereto.
 
-([Pub. L. 94–199, § 11][/us/pl/94/199/s11], Dec. 31, 1975, [89 Stat. 1122][/us/stat/89/1122].)
+([Pub. L. 94–199][/us/pl/94/199], § 11, Dec. 31, 1975, [89 Stat. 1122][/us/stat/89/1122].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s1133/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1133%2Fd%2F2
-[/us/pl/94/199/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F199%2Fs11
+[/us/pl/94/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F199
 [/us/stat/89/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1122
 
 

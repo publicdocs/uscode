@@ -17,7 +17,7 @@
 
     After June 6, 1942, the lands acquired for the Acadia, French Creek, Shenandoah, and White Sands recreational demonstration projects shall be added to and become a part of Acadia National Park, Hopewell Village National Historic Site, Shenandoah National Park, and White Sands National Monument, in the order named above, subject to all laws, rules, and regulations applicable to the respective areas to which such recreational demonstration projects are added.
 
-([June 6, 1942, ch. 380, § 2][/us/act/1942-06-06/ch380/s2], [56 Stat. 327][/us/stat/56/327].)
+([June 6, 1942, ch. 380][/us/act/1942-06-06/ch380], § 2, [56 Stat. 327][/us/stat/56/327].)
 
  __Codification__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/act/1942-06-06/ch380/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-06-06%2Fch380%2Fs2
+[/us/act/1942-06-06/ch380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-06-06%2Fch380
 [/us/stat/56/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F327
 [/us/act/1946-07-24/ch604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-24%2Fch604
 [/us/stat/60/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F655

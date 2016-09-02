@@ -29,7 +29,7 @@
 
     (6) “Wood residues” includes, but is not limited to, logging slash, down timber material, woody plants, and standing live or dead trees which do not meet utilization standards because of size, species, merchantable volume, or economic selection criteria and which, in the case of live trees, are surplus to growing stock needs.
 
-([Pub. L. 96–554, § 7][/us/pl/96/554/s7], Dec. 19, 1980, [94 Stat. 3258][/us/stat/94/3258].)
+([Pub. L. 96–554][/us/pl/96/554], § 7, Dec. 19, 1980, [94 Stat. 3258][/us/stat/94/3258].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/96/554/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F554%2Fs7
+[/us/pl/96/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F554
 [/us/stat/94/3258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3258
 
 

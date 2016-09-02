@@ -23,7 +23,7 @@
 
         Lands and interests in lands acquired pursuant to subsection (a) shall be added to and administered as part of the Cumberland Gap National Historical Park.
 
-([Pub. L. 104–333, div. I, title II, § 216][/us/pl/104/333/s216], Nov. 12, 1996, [110 Stat. 4112][/us/stat/110/4112].)
+([Pub. L. 104–333, div. I, title II][/us/pl/104/333/dI/tII], § 216, Nov. 12, 1996, [110 Stat. 4112][/us/stat/110/4112].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t16/s261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs261
-[/us/pl/104/333/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs216
+[/us/pl/104/333/dI/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtII
 [/us/stat/110/4112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4112
 [/us/act/1940-06-11/ch304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-11%2Fch304
 [/us/stat/54/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F262

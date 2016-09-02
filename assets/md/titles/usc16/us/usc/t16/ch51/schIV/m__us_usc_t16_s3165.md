@@ -21,7 +21,7 @@
 
     (2) there is no economically feasible and prudent alternative route for the system.
 
-([Pub. L. 96–487, title XI, § 1105][/us/pl/96/487/s1105], Dec. 2, 1980, [94 Stat. 2461][/us/stat/94/2461].)
+([Pub. L. 96–487, title XI][/us/pl/96/487/tXI], § 1105, Dec. 2, 1980, [94 Stat. 2461][/us/stat/94/2461].)
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t16/s3166/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3166%2Fb
-[/us/pl/96/487/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1105
+[/us/pl/96/487/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXI
 [/us/stat/94/2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2461
 
 

@@ -53,7 +53,7 @@
 
         It is declared to be the intent of this section to aid the Corporation in discharging its responsibility for the advancement of the national defense and the physical, social and economic development of the area in which it conducts its operations by providing it with adequate authority and administrative flexibility to obtain the necessary funds with which to assure an ample supply of electric power for such purposes by issuance of bonds and as otherwise provided herein, and this section shall be construed to effectuate such intent.
 
-([May 18, 1933, ch. 32, § 15d][/us/act/1933-05-18/ch32/s15d], as added [Pub. L. 86–137, § 1][/us/pl/86/137/s1], Aug. 6, 1959, [73 Stat. 280][/us/stat/73/280]; amended [Pub. L. 86–157][/us/pl/86/157], Aug. 14, 1959, [73 Stat. 338][/us/stat/73/338]; [Pub. L. 89–537][/us/pl/89/537], Aug. 12, 1966, [80 Stat. 346][/us/stat/80/346]; [Pub. L. 91–446][/us/pl/91/446], Oct. 14, 1970, [84 Stat. 915][/us/stat/84/915]; [Pub. L. 94–139, § 1][/us/pl/94/139/s1], Nov. 28, 1975, [89 Stat. 750][/us/stat/89/750]; [Pub. L. 94–273][/us/pl/94/273], §§ 2(30), 35(a), Apr. 21, 1976, [90 Stat. 376][/us/stat/90/376], 380; [Pub. L. 96–97][/us/pl/96/97], Oct. 31, 1979, [93 Stat. 730][/us/stat/93/730].)
+([May 18, 1933, ch. 32][/us/act/1933-05-18/ch32], § 15d, as added [Pub. L. 86–137][/us/pl/86/137], § 1, Aug. 6, 1959, [73 Stat. 280][/us/stat/73/280]; amended [Pub. L. 86–157][/us/pl/86/157], Aug. 14, 1959, [73 Stat. 338][/us/stat/73/338]; [Pub. L. 89–537][/us/pl/89/537], Aug. 12, 1966, [80 Stat. 346][/us/stat/80/346]; [Pub. L. 91–446][/us/pl/91/446], Oct. 14, 1970, [84 Stat. 915][/us/stat/84/915]; [Pub. L. 94–139][/us/pl/94/139], § 1, Nov. 28, 1975, [89 Stat. 750][/us/stat/89/750]; [Pub. L. 94–273][/us/pl/94/273], §§ 2(30), 35(a), Apr. 21, 1976, [90 Stat. 376][/us/stat/90/376], 380; [Pub. L. 96–97][/us/pl/96/97], Oct. 31, 1979, [93 Stat. 730][/us/stat/93/730].)
 
  __References in Text__ 
 
@@ -63,19 +63,19 @@
 
  __Codification__ 
 
-    In subsecs. (b) and (c), “subchapter II of chapter 15 of title 31”, “chapter 31 of title 31”, and “sections 9105 and 9106 of title 31” substituted for “Revised Statutes 3679, as amended ([31 U.S.C. 665][/us/usc/t31/s665])”, “the Second Liberty Bond Act, as amended”, and “sections 105 and 106 of the Act of December 6, 1945 ([59 Stat. 599][/us/stat/59/599]; [31 U.S.C. 850–851][/us/usc/t31/s850–851])”, respectively, on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsecs. (b) and (c), “subchapter II of chapter 15 of title 31”, “chapter 31 of title 31”, and “sections 9105 and 9106 of title 31” substituted for “Revised Statutes 3679, as amended ([31 U.S.C. 665][/us/usc/t31/s665])”, “the Second Liberty Bond Act, as amended”, and “sections 105 and 106 of the Act of December 6, 1945 ([59 Stat. 599][/us/stat/59/599]; [31 U.S.C. 850–851][/us/usc/t31/s850–851])”, respectively, on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
     1979—Subsec. (a). [Pub. L. 96–97][/us/pl/96/97] substituted “$30,000,000,000” for “$15,000,000,000”.
 
-    1976—Subsec. (e). [Pub. L. 94–273, § 2(30)][/us/pl/94/273/s2/30], substituted “September” for “June”.
+    1976—Subsec. (e). [Pub. L. 94–273][/us/pl/94/273], § 2(30), substituted “September” for “June”.
 
-    Subsec. (f). [Pub. L. 94–273, § 35(a)][/us/pl/94/273/s35/a], inserted provision relating to computation of five-year periods as of Oct. 1, 1975.
+    Subsec. (f). [Pub. L. 94–273][/us/pl/94/273], § 35(a), inserted provision relating to computation of five-year periods as of Oct. 1, 1975.
 
-    1975—Subsec. (a). [Pub. L. 94–139, § 1(a)][/us/pl/94/139/s1/a], substituted “$15,000,000,000” for “$5,000,000,000”.
+    1975—Subsec. (a). [Pub. L. 94–139][/us/pl/94/139], § 1(a), substituted “$15,000,000,000” for “$5,000,000,000”.
 
-    Subsec. (e). [Pub. L. 94–139, § 1(b)][/us/pl/94/139/s1/b], struck out “December 31 and” before “June 30”.
+    Subsec. (e). [Pub. L. 94–139][/us/pl/94/139], § 1(b), struck out “December 31 and” before “June 30”.
 
     1970—Subsec. (a). [Pub. L. 91–446][/us/pl/91/446] substituted “$5,000,000,000” for “$1,750,000,000”.
 
@@ -96,8 +96,8 @@
 
 [/us/usc/t16/s831y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs831y
 [/us/usc/t16/s831h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs831h
-[/us/act/1933-05-18/ch32/s15d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32%2Fs15d
-[/us/pl/86/137/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F137%2Fs1
+[/us/act/1933-05-18/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32
+[/us/pl/86/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F137
 [/us/stat/73/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F280
 [/us/pl/86/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F157
 [/us/stat/73/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F338
@@ -105,7 +105,7 @@
 [/us/stat/80/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F346
 [/us/pl/91/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F446
 [/us/stat/84/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F915
-[/us/pl/94/139/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F139%2Fs1
+[/us/pl/94/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F139
 [/us/stat/89/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F750
 [/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F376
@@ -117,13 +117,13 @@
 [/us/usc/t31/s665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs665
 [/us/stat/59/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F599
 [/us/usc/t31/s850–851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs850%E2%80%93851
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/96/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F97
-[/us/pl/94/273/s2/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs2%2F30
-[/us/pl/94/273/s35/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs35%2Fa
-[/us/pl/94/139/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F139%2Fs1%2Fa
-[/us/pl/94/139/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F139%2Fs1%2Fb
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
+[/us/pl/94/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F139
+[/us/pl/94/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F139
 [/us/pl/91/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F446
 [/us/pl/89/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F537
 [/us/pl/86/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F157

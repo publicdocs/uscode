@@ -17,7 +17,7 @@
 
     The said county court may make necessary rules and regulations governing the use of such lands and may charge such reasonable fees as may be necessary to provide funds for the upkeep, care, and protection of such reserved lands and the myrtle trees thereon, the said regulations and fees chargeable to be approved by the Secretary of the Interior before becoming effective.
 
-([May 5, 1926, ch. 241, § 2][/us/act/1926-05-05/ch241/s2], [44 Stat. 398][/us/stat/44/398].)
+([May 5, 1926, ch. 241][/us/act/1926-05-05/ch241], § 2, [44 Stat. 398][/us/stat/44/398].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1926-05-05/ch241/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-05%2Fch241%2Fs2
+[/us/act/1926-05-05/ch241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-05%2Fch241
 [/us/stat/44/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F398
 
 

@@ -39,7 +39,7 @@
 
         The members of the advisory committee for each lake shall be invited to attend all nonexecutive meetings of the United States Section relating to that lake and at such meetings shall be granted opportunity to examine and be heard on all proposed recommendations, programs, and activities relating to that lake.
 
-([June 4, 1956, ch. 358, § 4][/us/act/1956-06-04/ch358/s4], [70 Stat. 242][/us/stat/70/242]; [Pub. L. 107–228, div. A, title II, § 208][/us/pl/107/228/s208], Sept. 30, 2002, [116 Stat. 1364][/us/stat/116/1364].)
+([June 4, 1956, ch. 358][/us/act/1956-06-04/ch358], § 4, [70 Stat. 242][/us/stat/70/242]; [Pub. L. 107–228, div. A, title II][/us/pl/107/228/dA/tII], § 208, Sept. 30, 2002, [116 Stat. 1364][/us/stat/116/1364].)
 
  __Amendments__ 
 
@@ -56,9 +56,9 @@
 ----------
 ----------
 
-[/us/act/1956-06-04/ch358/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-04%2Fch358%2Fs4
+[/us/act/1956-06-04/ch358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-04%2Fch358
 [/us/stat/70/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F242
-[/us/pl/107/228/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs208
+[/us/pl/107/228/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdA%2FtII
 [/us/stat/116/1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1364
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14

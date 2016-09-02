@@ -51,7 +51,7 @@
 
     (8) The term “United States” means the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.
 
-([Pub. L. 102–440, title I, § 104][/us/pl/102/440/s104], Oct. 23, 1992, [106 Stat. 2225][/us/stat/106/2225].)
+([Pub. L. 102–440, title I][/us/pl/102/440/tI], § 104, Oct. 23, 1992, [106 Stat. 2225][/us/stat/106/2225].)
 
  __Termination of Trust Territory of the Pacific Islands__ 
 
@@ -65,7 +65,7 @@
 ----------
 
 [/us/usc/t16/s4906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4906
-[/us/pl/102/440/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2Fs104
+[/us/pl/102/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2FtI
 [/us/stat/106/2225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2225
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 

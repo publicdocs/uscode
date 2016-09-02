@@ -45,7 +45,7 @@
 
         There are authorized to be appropriated such sums as may be necessary to carry out subsection (c).
 
-([Pub. L. 105–355, title V, § 510][/us/pl/105/355/s510], Nov. 6, 1998, [112 Stat. 3265][/us/stat/112/3265]; [Pub. L. 111–11, title VII, § 7114(b)][/us/pl/111/11/s7114/b], Mar. 30, 2009, [123 Stat. 1202][/us/stat/123/1202].)
+([Pub. L. 105–355, title V][/us/pl/105/355/tV], § 510, Nov. 6, 1998, [112 Stat. 3265][/us/stat/112/3265]; [Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7114(b), Mar. 30, 2009, [123 Stat. 1202][/us/stat/123/1202].)
 
  __Change of Name__ 
 
@@ -58,9 +58,9 @@
 ----------
 ----------
 
-[/us/pl/105/355/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F355%2Fs510
+[/us/pl/105/355/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F355%2FtV
 [/us/stat/112/3265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3265
-[/us/pl/111/11/s7114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7114%2Fb
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1202
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 

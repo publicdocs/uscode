@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s563.md) | [Next](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s565a–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs565a)
+[Previous](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s564 _us_usc_t16_s565.md) | [Next](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s565a–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs565a)
 
 ## § 565a. Cooperation by Secretary of Agriculture with Territories
 
@@ -21,18 +21,18 @@
 
  __References in Text__ 
 
-    Sections 564 and 565 of this title, referred to in text, were repealed by [Pub. L. 95–313, § 13(a)(1)][/us/pl/95/313/s13/a/1], July 1, 1978, [92 Stat. 374][/us/stat/92/374].
+    Sections 564 and 565 of this title, referred to in text, were repealed by [Pub. L. 95–313][/us/pl/95/313], § 13(a)(1), July 1, 1978, [92 Stat. 374][/us/stat/92/374].
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s563.md) | [Next](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s565a–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs565a)
+[Previous](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s564 _us_usc_t16_s565.md) | [Next](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s565a–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs565a)
 
 ----------
 ----------
 
 [/us/act/1931-02-20/ch249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-02-20%2Fch249
 [/us/stat/46/1200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1200
-[/us/pl/95/313/s13/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313%2Fs13%2Fa%2F1
+[/us/pl/95/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313
 [/us/stat/92/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F374
 
 

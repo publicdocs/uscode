@@ -17,7 +17,7 @@
 
     Except as specifically provided for in this subchapter, applicable law shall apply with respect to the authorization and administration of transportation or utility systems.
 
-([Pub. L. 96–487, title XI, § 1103][/us/pl/96/487/s1103], Dec. 2, 1980, [94 Stat. 2459][/us/stat/94/2459].)
+([Pub. L. 96–487, title XI][/us/pl/96/487/tXI], § 1103, Dec. 2, 1980, [94 Stat. 2459][/us/stat/94/2459].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/487/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1103
+[/us/pl/96/487/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXI
 [/us/stat/94/2459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2459
 
 

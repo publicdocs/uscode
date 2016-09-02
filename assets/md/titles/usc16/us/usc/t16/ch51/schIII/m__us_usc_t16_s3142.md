@@ -117,7 +117,7 @@
 
         Until otherwise provided for in law enacted after December 2, 1980, all public lands within the coastal plain are withdrawn from all forms of entry or appropriation under the mining laws, and from operation of the mineral leasing laws, of the United States.
 
-([Pub. L. 96–487, title X][/us/pl/96/487] § 1002, Dec. 2, 1980, [94 Stat. 2449][/us/stat/94/2449]; [Pub. L. 97–394, title I, § 110][/us/pl/97/394/s110], Dec. 30, 1982, [96 Stat. 1982][/us/stat/96/1982].)
+([Pub. L. 96–487, title X][/us/pl/96/487/tX] § 1002, Dec. 2, 1980, [94 Stat. 2449][/us/stat/94/2449]; [Pub. L. 97–394, title I][/us/pl/97/394/tI], § 110, Dec. 30, 1982, [96 Stat. 1982][/us/stat/96/1982].)
 
  __Amendments__ 
 
@@ -133,9 +133,9 @@
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t5/s706/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs706%2F2%2FE
-[/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
+[/us/pl/96/487/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtX
 [/us/stat/94/2449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2449
-[/us/pl/97/394/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F394%2Fs110
+[/us/pl/97/394/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F394%2FtI
 [/us/stat/96/1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1982
 [/us/pl/97/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F394
 

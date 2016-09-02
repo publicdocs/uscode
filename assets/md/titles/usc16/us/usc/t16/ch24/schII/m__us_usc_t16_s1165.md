@@ -73,13 +73,13 @@
 
         In carrying out the purposes of this chapter, the Secretary is authorized to enter into agreements, including but not limited to land exchange agreements with other Departments and Agencies of both the State and Federal Governments, and with third parties, notwithstanding any provision of law relating to the transfer and disposal of Federal property to the contrary; except that the authority of the Secretary of the Interior regarding exchanges involving lands in the National Wildlife Refuge System on October 14, 1983, is not affected by this section.
 
-([Pub. L. 89–702, title II, § 205][/us/pl/89/702/s205], Nov. 2, 1966, [80 Stat. 1094][/us/stat/80/1094]; [Pub. L. 98–129, § 2][/us/pl/98/129/s2], Oct. 14, 1983, [97 Stat. 839][/us/stat/97/839]; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 144(e)(4)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–245; [Pub. L. 106–562, title I, § 104][/us/pl/106/562/s104], Dec. 23, 2000, [114 Stat. 2796][/us/stat/114/2796].)
+([Pub. L. 89–702, title II][/us/pl/89/702/tII], § 205, Nov. 2, 1966, [80 Stat. 1094][/us/stat/80/1094]; [Pub. L. 98–129][/us/pl/98/129], § 2, Oct. 14, 1983, [97 Stat. 839][/us/stat/97/839]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 144(e)(4)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–245; [Pub. L. 106–562, title I][/us/pl/106/562/tI], § 104, Dec. 23, 2000, [114 Stat. 2796][/us/stat/114/2796].)
 
- __Repeal of Section__ 
+ __Repeal of Subsections (a) to (d)__ 
 
-    [Pub. L. 106–562, title I, § 105(c)][/us/pl/106/562/s105/c], Dec. 23, 2000, [114 Stat. 2798][/us/stat/114/2798], provided that, effective on the date on which the Secretary of Commerce makes the certification described in [Pub. L. 106–562, § 105(b)(2)][/us/pl/106/562/s105/b/2], set out in a Termination of Responsibilities note under [section 1161 of this title][/us/usc/t16/s1161], this section is repealed.
+    [Pub. L. 106–562, title I][/us/pl/106/562/tI], § 105(c), Dec. 23, 2000, [114 Stat. 2798][/us/stat/114/2798], as amended by [Pub. L. 114–120, title V][/us/pl/114/120/tV], § 523(3)(B), Feb. 8, 2016, [130 Stat. 71][/us/stat/130/71], provided that, effective on the date on which the Secretary of Commerce publishes the notice of certification required by [Pub. L. 106–562][/us/pl/106/562], § 105(b)(5), set out in a Termination of Responsibilities note under [section 1161 of this title][/us/usc/t16/s1161], subsections (a) to (d) of this section are repealed.
 
-    Substantially identical provisions repealing this section were contained in [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 144(e)(5)(C)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–247.
+    Substantially identical provisions repealing this section were contained in [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 144(e)(5)(C)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–247.
 
  __References in Text__ 
 
@@ -89,9 +89,9 @@
 
  __Amendments__ 
 
-    2000—Subsec. (c). [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 144(e)(4)(A)\], and [Pub. L. 106–562, § 104(1)][/us/pl/106/562/s104/1], generally amended subsec. (c) identically, substituting present provisions for provisions which read as follows: “Within 60 days of the transfer of real or personal property specified in the document described in subsection (a) of this section, the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate shall be given a report prepared by the Secretary stating the fair market value at the time of the transfer of all real and personal property conveyed.”
+    2000—Subsec. (c). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 144(e)(4)(A)\], and [Pub. L. 106–562][/us/pl/106/562], § 104(1), generally amended subsec. (c) identically, substituting present provisions for provisions which read as follows: “Within 60 days of the transfer of real or personal property specified in the document described in subsection (a) of this section, the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate shall be given a report prepared by the Secretary stating the fair market value at the time of the transfer of all real and personal property conveyed.”
 
-    Subsec. (g). [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 144(e)(4)(B)\], and [Pub. L. 106–562, § 104(2)][/us/pl/106/562/s104/2], struck out subsec. (g) which read as follows: “The Secretary shall submit to Congress a report, no later than October 1, 1983, providing information on the status of the negotiations for concluding the documents described in subsections (a) and (d) of this section.”
+    Subsec. (g). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 144(e)(4)(B)\], and [Pub. L. 106–562][/us/pl/106/562], § 104(2), struck out subsec. (g) which read as follows: “The Secretary shall submit to Congress a report, no later than October 1, 1983, providing information on the status of the negotiations for concluding the documents described in subsections (a) and (d) of this section.”
 
     1983—[Pub. L. 98–129][/us/pl/98/129] amended section generally, substituting provisions relating to the disposal of Federal property on the Pribilof Islands for provisions relating to the medical and dental care of Pribilof Islands natives. See [section 1164 of this title][/us/usc/t16/s1164].
 
@@ -105,7 +105,7 @@
 
  __Pribilof Islands Environmental Cleanup__ 
 
-[Pub. L. 104–91, § 3][/us/pl/104/91/s3], Jan. 6, 1996, [110 Stat. 8][/us/stat/110/8], as amended by [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 144(e)(5)(A)(iv), (6)(A), (7)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–246, 2763A–248; [Pub. L. 106–562, title I][/us/pl/106/562], §§ 105(a)(4), 106(a), 107, Dec. 23, 2000, [114 Stat. 2797][/us/stat/114/2797], 2799; [Pub. L. 108–447, div. B, title II, § 212][/us/pl/108/447/s212], Dec. 8, 2004, [118 Stat. 2884][/us/stat/118/2884], provided that:
+[Pub. L. 104–91][/us/pl/104/91], § 3, Jan. 6, 1996, [110 Stat. 8][/us/stat/110/8], as amended by [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 144(e)(5)(A)(iv), (6)(A), (7)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–246, 2763A–248; [Pub. L. 106–562, title I][/us/pl/106/562/tI], §§ 105(a)(4), 106(a), 107, Dec. 23, 2000, [114 Stat. 2797][/us/stat/114/2797], 2799; [Pub. L. 108–447, div. B, title II][/us/pl/108/447/dB/tII], § 212, Dec. 8, 2004, [118 Stat. 2884][/us/stat/118/2884], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -173,9 +173,9 @@
 
 >         Before the Secretary may provide any funds to the State of Alaska under this section, the State of Alaska and the Secretary must agree in writing that, on the last day of fiscal year 2011, and of each fiscal year thereafter until the full amount provided to the State of Alaska by the Secretary under this section has been repaid to the United States, the State of Alaska shall transfer to the Treasury of the United States monies remaining in the revolving fund, including principal and interest paid into the revolving fund as repayment of loans.”
 
-    \[[Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 144(e)(5)(A)(iv), (6)(A), (7)\], and [Pub. L. 106–562][/us/pl/106/562], §§ 105(a)(4), 106(a), 107, made substantially identical amendments to [section 3 of Pub. L. 104–91][/us/pl/104/91/s3], set out above. The text of subsecs. (f) and (g) of section 3 is based on amendments by [Pub. L. 106–562][/us/pl/106/562].\]
+    \[[Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 144(e)(5)(A)(iv), (6)(A), (7)\], and [Pub. L. 106–562][/us/pl/106/562], §§ 105(a)(4), 106(a), 107, made substantially identical amendments to [section 3 of Pub. L. 104–91][/us/pl/104/91/s3], set out above. The text of subsecs. (f) and (g) of section 3 is based on amendments by [Pub. L. 106–562][/us/pl/106/562].\]
 
-    \[[Pub. L. 106–562, title I, § 105(c)][/us/pl/106/562/s105/c], Dec. 23, 2000, [114 Stat. 2798][/us/stat/114/2798], provided that, effective on the date on which the Secretary of Commerce makes the certification described in [Pub. L. 106–562, § 105(b)(2)][/us/pl/106/562/s105/b/2], set out in a Termination of Responsibilities note under [section 1161 of this title][/us/usc/t16/s1161], [section 3 of Pub. L. 104–91][/us/pl/104/91/s3], set out above, is repealed. [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 144(e)(5)(C)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–247, enacted a provision substantially identical to [Pub. L. 106–562, § 105(c)][/us/pl/106/562/s105/c].\]
+    \[[Pub. L. 106–562, title I][/us/pl/106/562/tI], § 105(c), Dec. 23, 2000, [114 Stat. 2798][/us/stat/114/2798], as amended by [Pub. L. 114–120, title V][/us/pl/114/120/tV], § 523(3)(B), Feb. 8, 2016, [130 Stat. 71][/us/stat/130/71], provided that, effective on the date on which the Secretary of Commerce publishes the notice of certification required by [Pub. L. 106–562][/us/pl/106/562], § 105(b)(5), set out in a Termination of Responsibilities note under [section 1161 of this title][/us/usc/t16/s1161], [section 3 of Pub. L. 104–91][/us/pl/104/91/s3], set out above, is repealed. [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 144(e)(5)(C)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–247, enacted a provision substantially identical to [Pub. L. 106–562][/us/pl/106/562], § 105(c).\]
 
 ----------
 
@@ -184,19 +184,21 @@
 ----------
 ----------
 
-[/us/pl/89/702/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2Fs205
+[/us/pl/89/702/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2FtII
 [/us/stat/80/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1094
-[/us/pl/98/129/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129%2Fs2
+[/us/pl/98/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129
 [/us/stat/97/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F839
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/106/562/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs104
+[/us/pl/106/562/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2FtI
 [/us/stat/114/2796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2796
-[/us/pl/106/562/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs105%2Fc
+[/us/pl/106/562/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2FtI
 [/us/stat/114/2798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2798
-[/us/pl/106/562/s105/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs105%2Fb%2F2
+[/us/pl/114/120/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtV
+[/us/stat/130/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F71
+[/us/pl/106/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562
 [/us/usc/t16/s1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1161
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/106/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
@@ -204,20 +206,20 @@
 [/us/usc/t16/s1166/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1166%2Fa
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/106/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
-[/us/pl/106/562/s104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs104%2F1
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
-[/us/pl/106/562/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs104%2F2
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562
 [/us/pl/98/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129
 [/us/usc/t16/s1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1164
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/104/91/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F91%2Fs3
+[/us/pl/104/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F91
 [/us/stat/110/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F8
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/106/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562
+[/us/pl/106/562/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2FtI
 [/us/stat/114/2797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2797
-[/us/pl/108/447/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs212
+[/us/pl/108/447/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtII
 [/us/stat/118/2884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2884
 [/us/usc/t16/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1151
 [/us/usc/t16/s1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1161
@@ -226,17 +228,19 @@
 [/us/pl/89/702/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2Fs212
 [/us/usc/t16/s1169b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1169b
 [/us/usc/t16/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1151
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/106/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562
 [/us/pl/104/91/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F91%2Fs3
 [/us/pl/106/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562
-[/us/pl/106/562/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs105%2Fc
+[/us/pl/106/562/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2FtI
 [/us/stat/114/2798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2798
-[/us/pl/106/562/s105/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs105%2Fb%2F2
+[/us/pl/114/120/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtV
+[/us/stat/130/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F71
+[/us/pl/106/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562
 [/us/usc/t16/s1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1161
 [/us/pl/104/91/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F91%2Fs3
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/106/562/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs105%2Fc
+[/us/pl/106/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562
 
 

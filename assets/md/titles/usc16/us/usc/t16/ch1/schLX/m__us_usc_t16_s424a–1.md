@@ -17,7 +17,7 @@
 
     The Secretary of the Interior, in his discretion, is authorized to accept, on behalf of the United States, donations of lands, buildings, structures, and other property, or interests therein, on Signal Mountain near Chattanooga, Tennessee, for addition to the Chickamauga-Chattanooga National Military Park, the title to such property or interests to be satisfactory to him. Upon acquisition, such lands shall be a part of the Chickamauga-Chattanooga National Military Park and shall be subject to all laws and regulations applicable thereto.
 
-([Mar. 5, 1942, ch. 148, § 1][/us/act/1942-03-05/ch148/s1], [56 Stat. 133][/us/stat/56/133].)
+([Mar. 5, 1942, ch. 148][/us/act/1942-03-05/ch148], § 1, [56 Stat. 133][/us/stat/56/133].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1942-03-05/ch148/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-03-05%2Fch148%2Fs1
+[/us/act/1942-03-05/ch148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-03-05%2Fch148
 [/us/stat/56/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F133
 
 

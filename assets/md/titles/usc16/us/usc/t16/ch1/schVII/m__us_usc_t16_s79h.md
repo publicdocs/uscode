@@ -17,7 +17,7 @@
 
     The present practice of the California Department of Parks and Recreation of maintaining memorial groves of redwood trees named for benefactors of the State redwood parks shall be continued by the Secretary in the Redwood National Park.
 
-([Pub. L. 90–545, § 8][/us/pl/90/545/s8], Oct. 2, 1968, [82 Stat. 934][/us/stat/82/934].)
+([Pub. L. 90–545][/us/pl/90/545], § 8, Oct. 2, 1968, [82 Stat. 934][/us/stat/82/934].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/545/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F545%2Fs8
+[/us/pl/90/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F545
 [/us/stat/82/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F934
 
 

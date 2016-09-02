@@ -33,7 +33,7 @@
 
         (7) Any other matters which in the judgment of the Secretary are of public interest in connection with any phases of fish and wildlife operations.
 
-([Aug. 8, 1956, ch. 1036, § 5][/us/act/1956-08-08/ch1036/s5], [70 Stat. 1121][/us/stat/70/1121].)
+([Aug. 8, 1956, ch. 1036][/us/act/1956-08-08/ch1036], § 5, [70 Stat. 1121][/us/stat/70/1121].)
 
  __Termination of Reporting Requirements__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/act/1956-08-08/ch1036/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1036%2Fs5
+[/us/act/1956-08-08/ch1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1036
 [/us/stat/70/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1121
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

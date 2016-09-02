@@ -25,11 +25,11 @@
 
         (3) The Secretary shall consult with coastal states on a regular basis regarding the development and implementation of the program established by this section.
 
-([Pub. L. 89–454, title III, § 310][/us/pl/89/454/s310], as added [Pub. L. 101–508, title VI, § 6211][/us/pl/101/508/s6211], Nov. 5, 1990, [104 Stat. 1388–311][/us/stat/104/1388-311].)
+([Pub. L. 89–454, title III][/us/pl/89/454/tIII], § 310, as added [Pub. L. 101–508, title VI][/us/pl/101/508/tVI], § 6211, Nov. 5, 1990, [104 Stat. 1388–311][/us/stat/104/1388-311].)
 
  __Prior Provisions__ 
 
-    A prior section 1456c, [Pub. L. 89–454, title III, § 310][/us/pl/89/454/s310], as added [Pub. L. 94–370, § 9][/us/pl/94/370/s9], July 26, 1976, [90 Stat. 1029][/us/stat/90/1029], related to research and technical assistance for coastal zone management, prior to repeal by [Pub. L. 99–272, title VI, § 6045(1)][/us/pl/99/272/s6045/1], Apr. 7, 1986, [100 Stat. 127][/us/stat/100/127].
+    A prior section 1456c, [Pub. L. 89–454, title III][/us/pl/89/454/tIII], § 310, as added [Pub. L. 94–370][/us/pl/94/370], § 9, July 26, 1976, [90 Stat. 1029][/us/stat/90/1029], related to research and technical assistance for coastal zone management, prior to repeal by [Pub. L. 99–272, title VI][/us/pl/99/272/tVI], § 6045(1), Apr. 7, 1986, [100 Stat. 127][/us/stat/100/127].
 
 ----------
 
@@ -39,13 +39,13 @@
 ----------
 
 [/us/usc/t16/s1456b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1456b
-[/us/pl/89/454/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2Fs310
-[/us/pl/101/508/s6211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6211
+[/us/pl/89/454/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2FtIII
+[/us/pl/101/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVI
 [/us/stat/104/1388-311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-311
-[/us/pl/89/454/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2Fs310
-[/us/pl/94/370/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F370%2Fs9
+[/us/pl/89/454/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2FtIII
+[/us/pl/94/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F370
 [/us/stat/90/1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1029
-[/us/pl/99/272/s6045/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs6045%2F1
+[/us/pl/99/272/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtVI
 [/us/stat/100/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F127
 
 

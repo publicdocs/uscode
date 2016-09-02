@@ -27,7 +27,7 @@
 
         The Secretary shall administer the national scenic and wildlife area in accordance with the laws, rules and regulations applicable to the national forests in such manner as will best further the purposes of this section, as set forth in subsection (a). Management practices within the national scenic and wildlife area that would detract from the scenic quality and natural beauty of the Talimena Drive and Holson Valley Road viewsheds shall be prohibited. Timber management practices within the national scenic and wildlife area shall promote a mixed hardwood and conifer forest with species and age class diversity approximating natural succession and with significant mast production and den trees for wildlife. Unevenaged timber management shall be the timber management practice in the national scenic and wildlife area, except that the Secretary may use evenaged management practices in order to promote public safety, mitigate the effects of fire, insects, and disease, or if such practices result in irregular cuts behind geographic barriers blocking the view from the Talimena Drive and the Holson Valley Road.
 
-([Pub. L. 100–499, § 10][/us/pl/100/499/s10], Oct. 18, 1988, [102 Stat. 2496][/us/stat/102/2496].)
+([Pub. L. 100–499][/us/pl/100/499], § 10, Oct. 18, 1988, [102 Stat. 2496][/us/stat/102/2496].)
 
  __Change of Name__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/100/499/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F499%2Fs10
+[/us/pl/100/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F499
 [/us/stat/102/2496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2496
 
 

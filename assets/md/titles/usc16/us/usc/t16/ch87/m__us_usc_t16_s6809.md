@@ -17,7 +17,7 @@
 
     The authority of the Secretary to carry out this chapter shall terminate September 30, 2017.
 
-([Pub. L. 108–447, div. J, title VIII, § 810][/us/pl/108/447/s810], Dec. 8, 2004, [118 Stat. 3389][/us/stat/118/3389]; [Pub. L. 113–235, div. F, title IV, § 422][/us/pl/113/235/s422], Dec. 16, 2014, [128 Stat. 2449][/us/stat/128/2449]; [Pub. L. 114–53, div. B, § 134][/us/pl/114/53/s134], Sept. 30, 2015, [129 Stat. 509][/us/stat/129/509], renumbered div. B, [Pub. L. 114–113, § 8(3)][/us/pl/114/113/s8/3], Dec. 18, 2015, [129 Stat. 2245][/us/stat/129/2245].)
+([Pub. L. 108–447, div. J, title VIII][/us/pl/108/447/dJ/tVIII], § 810, Dec. 8, 2004, [118 Stat. 3389][/us/stat/118/3389]; [Pub. L. 113–235, div. F, title IV][/us/pl/113/235/dF/tIV], § 422, Dec. 16, 2014, [128 Stat. 2449][/us/stat/128/2449]; [Pub. L. 114–53, div. B][/us/pl/114/53/dB], § 134, Sept. 30, 2015, [129 Stat. 509][/us/stat/129/509], renumbered div. B, [Pub. L. 114–113][/us/pl/114/113], § 8(3), Dec. 18, 2015, [129 Stat. 2245][/us/stat/129/2245].)
 
  __References in Text__ 
 
@@ -36,13 +36,13 @@
 ----------
 ----------
 
-[/us/pl/108/447/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs810
+[/us/pl/108/447/dJ/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtVIII
 [/us/stat/118/3389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3389
-[/us/pl/113/235/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs422
+[/us/pl/113/235/dF/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdF%2FtIV
 [/us/stat/128/2449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2449
-[/us/pl/114/53/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F53%2Fs134
+[/us/pl/114/53/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F53%2FdB
 [/us/stat/129/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F509
-[/us/pl/114/113/s8/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs8%2F3
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/stat/129/2245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2245
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/stat/118/3377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3377

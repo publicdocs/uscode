@@ -31,7 +31,7 @@
 
         (4) Upon certification, any actions subject to paragraph (1), (2), or (3) shall proceed in the same manner as any action against the Tennessee Valley Authority and shall be subject to the limitations and exceptions applicable to those actions.
 
-([Pub. L. 100–694, § 9(a)][/us/pl/100/694/s9/a], (b), Nov. 18, 1988, [102 Stat. 4566][/us/stat/102/4566].)
+([Pub. L. 100–694][/us/pl/100/694], § 9(a), (b), Nov. 18, 1988, [102 Stat. 4566][/us/stat/102/4566].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t16/s831c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs831c%2Fb
-[/us/pl/100/694/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F694%2Fs9%2Fa
+[/us/pl/100/694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F694
 [/us/stat/102/4566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4566
 [/us/pl/100/694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F694
 [/us/pl/100/694/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F694%2Fs8

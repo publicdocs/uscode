@@ -19,7 +19,7 @@
 
     Beginning at the east quarter corner of section 7, township 2 south, range 5 east, Black Hills meridian; thence south along said section line to its intersection with a line three hundred feet north of the Horse Thief Lake Road; thence southwesterly along a line three hundred feet northwesterly from the center line of said road and running approximately parallel thereto to the intersection of said road with United States Highway 85A; thence southerly along a line three hundred feet west of United States Highway 85A and approximately parallel thereto to the present south boundary of said preserve in section 3 south, range 4 east, Black Hills meridian.
 
-([June 24, 1948, ch. 611, § 2][/us/act/1948-06-24/ch611/s2], [62 Stat. 581][/us/stat/62/581]; [Oct. 6, 1949, ch. 620, § 1][/us/act/1949-10-06/ch620/s1], [63 Stat. 708][/us/stat/63/708].)
+([June 24, 1948, ch. 611][/us/act/1948-06-24/ch611], § 2, [62 Stat. 581][/us/stat/62/581]; [Oct. 6, 1949, ch. 620][/us/act/1949-10-06/ch620], § 1, [63 Stat. 708][/us/stat/63/708].)
 
  __Change of Name__ 
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/act/1948-06-24/ch611/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch611%2Fs2
+[/us/act/1948-06-24/ch611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch611
 [/us/stat/62/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F581
-[/us/act/1949-10-06/ch620/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-06%2Fch620%2Fs1
+[/us/act/1949-10-06/ch620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-06%2Fch620
 [/us/stat/63/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F708
 
 

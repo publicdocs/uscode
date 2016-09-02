@@ -25,7 +25,7 @@
 
         (3) If the Secretary, pursuant to paragraph (2), makes an affirmative determination concerning the claims specified in paragraph (1), the holder or holders of such claims shall be permitted to continue to operate such claims subject only to such regulations as applied on July 1, 1994 to the exercise of valid existing rights on patented mining claims within a unit of the National Park System.
 
-([Pub. L. 103–433, title V, § 509][/us/pl/103/433/s509], Oct. 31, 1994, [108 Stat. 4491][/us/stat/108/4491].)
+([Pub. L. 103–433, title V][/us/pl/103/433/tV], § 509, Oct. 31, 1994, [108 Stat. 4491][/us/stat/108/4491].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/103/433/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs509
+[/us/pl/103/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtV
 [/us/stat/108/4491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4491
 
 

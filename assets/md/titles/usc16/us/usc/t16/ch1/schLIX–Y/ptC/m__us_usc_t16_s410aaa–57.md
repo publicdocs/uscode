@@ -17,7 +17,7 @@
 
     Any lands acquired by the Secretary under this part shall become part of the Mojave National Preserve.
 
-([Pub. L. 103–433, title V, § 517][/us/pl/103/433/s517], Oct. 31, 1994, [108 Stat. 4495][/us/stat/108/4495].)
+([Pub. L. 103–433, title V][/us/pl/103/433/tV], § 517, Oct. 31, 1994, [108 Stat. 4495][/us/stat/108/4495].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/433/s517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs517
+[/us/pl/103/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtV
 [/us/stat/108/4495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4495
 
 

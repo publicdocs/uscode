@@ -39,11 +39,11 @@
 
     (g) “Secretary” means the Secretary of Commerce.
 
-([Pub. L. 97–176, § 2][/us/pl/97/176/s2], May 17, 1982, [96 Stat. 78][/us/stat/96/78]; [Pub. L. 102–251, title III, § 302(a)][/us/pl/102/251/s302/a], Mar. 9, 1992, [106 Stat. 64][/us/stat/106/64]; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41.)
+([Pub. L. 97–176][/us/pl/97/176], § 2, May 17, 1982, [96 Stat. 78][/us/stat/96/78]; [Pub. L. 102–251, title III][/us/pl/102/251/tIII], § 302(a), Mar. 9, 1992, [106 Stat. 64][/us/stat/106/64]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41.)
 
  __Amendment of Section__ 
 
-    [Pub. L. 102–251, title III][/us/pl/102/251], §§ 302(a), 308, Mar. 9, 1992, [106 Stat. 64][/us/stat/106/64], 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, section is amended by amending subsection (c) generally and adding subsection (h) to read as follows:
+    [Pub. L. 102–251, title III][/us/pl/102/251/tIII], §§ 302(a), 308, Mar. 9, 1992, [106 Stat. 64][/us/stat/106/64], 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, section is amended by amending subsection (c) generally and adding subsection (h) to read as follows:
 
     (c) “Exclusive economic zone” means the zone established by Proclamation Numbered 5030, dated March 10, 1983. For purposes of applying this subchapter, the inner boundary of that zone is a line coterminous with the seaward boundary of each of the coastal States.
 
@@ -51,7 +51,7 @@
 
  __References in Text__ 
 
-    [Section 1811 of this title][/us/usc/t16/s1811], referred to in subsec. (c), which established the fishery conservation zone, was amended generally by [Pub. L. 99–659, title I, § 101(b)][/us/pl/99/659/s101/b], Nov. 14, 1986, [100 Stat. 3706][/us/stat/100/3706], and now relates to United States sovereign rights to fish and fishery management authority within the exclusive economic zone.
+    [Section 1811 of this title][/us/usc/t16/s1811], referred to in subsec. (c), which established the fishery conservation zone, was amended generally by [Pub. L. 99–659, title I][/us/pl/99/659/tI], § 101(b), Nov. 14, 1986, [100 Stat. 3706][/us/stat/100/3706], and now relates to United States sovereign rights to fish and fishery management authority within the exclusive economic zone.
 
     Proclamation Numbered 5030, referred to in subsec. (c), is Proc. No. 5030, Mar. 10, 1983, 48 F.R. 10605, which is set out as a note under [section 1453 of this title][/us/usc/t16/s1453].
 
@@ -61,11 +61,11 @@
 
  __Effective Date of 1996 Amendment__ 
 
-    [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–251, title III, § 308][/us/pl/102/251/s308], Mar. 9, 1992, [106 Stat. 66][/us/stat/106/66], provided that:
+[Pub. L. 102–251, title III][/us/pl/102/251/tIII], § 308, Mar. 9, 1992, [106 Stat. 66][/us/stat/106/66], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -77,7 +77,7 @@
 
  __Short Title__ 
 
-[Pub. L. 97–176, § 1][/us/pl/97/176/s1], May 17, 1982, [96 Stat. 78][/us/stat/96/78], provided: 
+[Pub. L. 97–176][/us/pl/97/176], § 1, May 17, 1982, [96 Stat. 78][/us/stat/96/78], provided: 
 
 > “That this Act \[enacting this subchapter and repealing subchapter III of this chapter\] may be cited as the ‘Northern Pacific Halibut Act of 1982’.”
 
@@ -88,26 +88,26 @@
 ----------
 ----------
 
-[/us/pl/97/176/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F176%2Fs2
+[/us/pl/97/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F176
 [/us/stat/96/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F78
-[/us/pl/102/251/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2Fs302%2Fa
+[/us/pl/102/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2FtIII
 [/us/stat/106/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F64
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
-[/us/pl/102/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251
+[/us/pl/102/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2FtIII
 [/us/stat/106/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F64
 [/us/usc/t16/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1811
-[/us/pl/99/659/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs101%2Fb
+[/us/pl/99/659/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtI
 [/us/stat/100/3706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3706
 [/us/usc/t16/s1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1453
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t16/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1811
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
-[/us/pl/102/251/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2Fs308
+[/us/pl/102/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2FtIII
 [/us/stat/106/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F66
 [/us/usc/t16/s1822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1822
-[/us/pl/97/176/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F176%2Fs1
+[/us/pl/97/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F176
 [/us/stat/96/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F78
 
 

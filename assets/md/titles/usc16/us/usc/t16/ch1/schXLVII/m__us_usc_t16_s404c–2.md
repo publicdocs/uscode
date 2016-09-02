@@ -17,7 +17,7 @@
 
     All fugitives from justice taking refuge in the park shall be subject to the same laws as fugitives from justice found in the Commonwealth of Kentucky.
 
-([June 5, 1942, ch. 341, § 2][/us/act/1942-06-05/ch341/s2], [56 Stat. 317][/us/stat/56/317]; [June 25, 1948, ch. 646, § 39][/us/act/1948-06-25/ch646/s39], [62 Stat. 992][/us/stat/62/992].)
+([June 5, 1942, ch. 341][/us/act/1942-06-05/ch341], § 2, [56 Stat. 317][/us/stat/56/317]; [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 39, [62 Stat. 992][/us/stat/62/992].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/act/1942-06-05/ch341/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-06-05%2Fch341%2Fs2
+[/us/act/1942-06-05/ch341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-06-05%2Fch341
 [/us/stat/56/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F317
-[/us/act/1948-06-25/ch646/s39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs39
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F992
 [/us/usc/t28/s97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs97
 [/us/usc/t18/s3231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3231

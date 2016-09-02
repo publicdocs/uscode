@@ -69,7 +69,7 @@
 
             (C) for an individual, the sale or transfer or an organizational camp subject to this chapter to another party.
 
-([Pub. L. 108–7, div. F, title V, § 502][/us/pl/108/7/s502], Feb. 20, 2003, [117 Stat. 294][/us/stat/117/294].)
+([Pub. L. 108–7, div. F, title V][/us/pl/108/7/dF/tV], § 502, Feb. 20, 2003, [117 Stat. 294][/us/stat/117/294].)
 
  __References in Text__ 
 
@@ -77,7 +77,7 @@
 
  __Short Title__ 
 
-[Pub. L. 108–7, div. F, title V, § 501][/us/pl/108/7/s501], Feb. 20, 2003, [117 Stat. 294][/us/stat/117/294], provided that: 
+[Pub. L. 108–7, div. F, title V][/us/pl/108/7/dF/tV], § 501, Feb. 20, 2003, [117 Stat. 294][/us/stat/117/294], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘National Forest Organizational Camp Fee Improvement Act of 2003’.”
 
@@ -89,10 +89,10 @@
 ----------
 
 [/us/usc/t29/s705/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs705%2F20
-[/us/pl/108/7/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs502
+[/us/pl/108/7/dF/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtV
 [/us/stat/117/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F294
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
-[/us/pl/108/7/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs501
+[/us/pl/108/7/dF/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtV
 [/us/stat/117/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F294
 
 

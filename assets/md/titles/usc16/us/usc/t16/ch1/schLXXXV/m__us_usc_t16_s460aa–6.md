@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall diminish, enlarge, or modify any right of the State of Idaho, or any political subdivision thereof, to exercise civil and criminal jurisdiction within the recreation area or of rights to tax persons, corporations, franchises, or property, including mineral or other interests, in or on lands or waters within the recreation area.
 
-([Pub. L. 92–400, § 7][/us/pl/92/400/s7], Aug. 22, 1972, [86 Stat. 614][/us/stat/86/614].)
+([Pub. L. 92–400][/us/pl/92/400], § 7, Aug. 22, 1972, [86 Stat. 614][/us/stat/86/614].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/400/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F400%2Fs7
+[/us/pl/92/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F400
 [/us/stat/86/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F614
 
 

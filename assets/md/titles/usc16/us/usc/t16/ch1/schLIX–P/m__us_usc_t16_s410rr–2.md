@@ -17,7 +17,7 @@
 
     The Secretary is authorized to acquire lands, waters, and interests therein within the boundaries of the park by donation, purchase with donated or appropriated funds, or exchange: Provided, however, That the Secretary may not acquire lands within the Forked Lightning Ranch as depicted on the map from the owner of record of such lands as of May 1, 1990, without the consent of such owner unless the Secretary determines that the lands are being used, or that there is an imminent threat that the lands will be used, for any purpose that is incompatible with the purposes of this Act.
 
-([Pub. L. 101–313, title II, § 203][/us/pl/101/313/s203], June 27, 1990, [104 Stat. 279][/us/stat/104/279].)
+([Pub. L. 101–313, title II][/us/pl/101/313/tII], § 203, June 27, 1990, [104 Stat. 279][/us/stat/104/279].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/101/313/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F313%2Fs203
+[/us/pl/101/313/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F313%2FtII
 [/us/stat/104/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F279
 [/us/pl/101/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F313
 [/us/stat/104/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F272

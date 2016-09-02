@@ -151,11 +151,11 @@
 
         For each of fiscal years 2003 through 2007, the Secretary shall provide technical assistance to producers for the development and implementation of conservation security contracts, in an amount not to exceed 15 percent of amounts expended for the fiscal year.
 
-([Pub. L. 99–198, title XII, § 1238C][/us/pl/99/198/s1238C], as added [Pub. L. 107–171, title II, § 2001(a)][/us/pl/107/171/s2001/a], May 13, 2002, [116 Stat. 230][/us/stat/116/230].)
+([Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1238C, as added [Pub. L. 107–171, title II][/us/pl/107/171/tII], § 2001(a), May 13, 2002, [116 Stat. 230][/us/stat/116/230].)
 
  __Prior Provisions__ 
 
-    A prior section 3838c, [Pub. L. 99–198, title XII, § 1238C][/us/pl/99/198/s1238C], as added [Pub. L. 101–624, title XIV, § 1439][/us/pl/101/624/s1439], Nov. 28, 1990, [104 Stat. 3594][/us/stat/104/3594], related to lands eligible for enrollment in water quality protection program, prior to repeal by [Pub. L. 104–127, title III, § 336(h)][/us/pl/104/127/s336/h], Apr. 4, 1996, [110 Stat. 1007][/us/stat/110/1007].
+    A prior section 3838c, [Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1238C, as added [Pub. L. 101–624, title XIV][/us/pl/101/624/tXIV], § 1439, Nov. 28, 1990, [104 Stat. 3594][/us/stat/104/3594], related to lands eligible for enrollment in water quality protection program, prior to repeal by [Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 336(h), Apr. 4, 1996, [110 Stat. 1007][/us/stat/110/1007].
 
 ----------
 
@@ -164,13 +164,13 @@
 ----------
 ----------
 
-[/us/pl/99/198/s1238C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1238C
-[/us/pl/107/171/s2001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2001%2Fa
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/107/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtII
 [/us/stat/116/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F230
-[/us/pl/99/198/s1238C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1238C
-[/us/pl/101/624/s1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1439
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/101/624/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIV
 [/us/stat/104/3594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3594
-[/us/pl/104/127/s336/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs336%2Fh
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1007
 
 

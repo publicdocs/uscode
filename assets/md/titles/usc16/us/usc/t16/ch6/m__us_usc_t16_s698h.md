@@ -31,15 +31,15 @@
 
         Whenever an owner of property elects to retain a right of use and occupancy as provided in this section, such owner shall be deemed to have waived any benefits or rights accruing under sections 4623, 4624, 4625, and 4626 of title 42, and for the purposes of such sections such owner shall not be considered a displaced person as defined in [section 4601(6) of title 42][/us/usc/t42/s4601/6].
 
-([Pub. L. 93–440, § 3][/us/pl/93/440/s3], Oct. 11, 1974, [88 Stat. 1259][/us/stat/88/1259]; [Pub. L. 100–301, § 4(f)][/us/pl/100/301/s4/f], Apr. 29, 1988, [102 Stat. 445][/us/stat/102/445].)
+([Pub. L. 93–440][/us/pl/93/440], § 3, Oct. 11, 1974, [88 Stat. 1259][/us/stat/88/1259]; [Pub. L. 100–301][/us/pl/100/301], § 4(f), Apr. 29, 1988, [102 Stat. 445][/us/stat/102/445].)
 
  __Amendments__ 
 
-    1988—Subsec. (b)(i). [Pub. L. 100–301, § 4(f)(1)][/us/pl/100/301/s4/f/1], inserted “with respect to the preserve and January 1, 1986, with respect to the Addition” after “November 23, 1971,”.
+    1988—Subsec. (b)(i). [Pub. L. 100–301][/us/pl/100/301], § 4(f)(1), inserted “with respect to the preserve and January 1, 1986, with respect to the Addition” after “November 23, 1971,”.
 
-    Subsec. (b)(ii). [Pub. L. 100–301, § 4(f)(2)(A)][/us/pl/100/301/s4/f/2/A], inserted “with respect to the preserve and January 1, 1986, with respect to the Addition” after “November 23, 1971,”.
+    Subsec. (b)(ii). [Pub. L. 100–301][/us/pl/100/301], § 4(f)(2)(A), inserted “with respect to the preserve and January 1, 1986, with respect to the Addition” after “November 23, 1971,”.
 
-    [Pub. L. 100–301, § 4(f)(2)(B)][/us/pl/100/301/s4/f/2/B], which directed insertion of “or January 1, 1986, as the case may be,” after “November 23, 1971,” the second and third places it appears, was executed by making the insertion after “November 23, 1971,” the second place it appears and after “November 23, 1971” preceding the period as the probable intent of Congress.
+    [Pub. L. 100–301][/us/pl/100/301], § 4(f)(2)(B), which directed insertion of “or January 1, 1986, as the case may be,” after “November 23, 1971,” the second and third places it appears, was executed by making the insertion after “November 23, 1971,” the second place it appears and after “November 23, 1971” preceding the period as the probable intent of Congress.
 
 ----------
 
@@ -49,12 +49,12 @@
 ----------
 
 [/us/usc/t42/s4601/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4601%2F6
-[/us/pl/93/440/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F440%2Fs3
+[/us/pl/93/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F440
 [/us/stat/88/1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1259
-[/us/pl/100/301/s4/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301%2Fs4%2Ff
+[/us/pl/100/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301
 [/us/stat/102/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F445
-[/us/pl/100/301/s4/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301%2Fs4%2Ff%2F1
-[/us/pl/100/301/s4/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301%2Fs4%2Ff%2F2%2FA
-[/us/pl/100/301/s4/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301%2Fs4%2Ff%2F2%2FB
+[/us/pl/100/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301
+[/us/pl/100/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301
+[/us/pl/100/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301
 
 

@@ -17,7 +17,7 @@
 
     By enactment of sections 450rr to 450rr–6 of this title, the United States does not assert sovereignty, or sovereign or exclusive rights or jurisdiction over, or the ownership of, any marine areas or the R.M.S. Titanic.
 
-([Pub. L. 99–513, § 8][/us/pl/99/513/s8], Oct. 21, 1986, [100 Stat. 2084][/us/stat/100/2084].)
+([Pub. L. 99–513][/us/pl/99/513], § 8, Oct. 21, 1986, [100 Stat. 2084][/us/stat/100/2084].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/513/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F513%2Fs8
+[/us/pl/99/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F513
 [/us/stat/100/2084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2084
 
 

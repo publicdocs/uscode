@@ -33,13 +33,13 @@
 
         (iii) trails on privately owned lands may be designated “National Recreation Trails” by the appropriate Secretary with the written consent of the owner of the property involved.
 
-([Pub. L. 90–543, § 4][/us/pl/90/543/s4], Oct. 2, 1968, [82 Stat. 919][/us/stat/82/919]; [Pub. L. 98–11, title II, § 204][/us/pl/98/11/s204], Mar. 28, 1983, [97 Stat. 43][/us/stat/97/43].)
+([Pub. L. 90–543][/us/pl/90/543], § 4, Oct. 2, 1968, [82 Stat. 919][/us/stat/82/919]; [Pub. L. 98–11, title II][/us/pl/98/11/tII], § 204, Mar. 28, 1983, [97 Stat. 43][/us/stat/97/43].)
 
  __Amendments__ 
 
-    1983—Subsec. (b)(i), (ii). [Pub. L. 98–11, § 204(1)][/us/pl/98/11/s204/1], substituted “appropriate Secretary” for “Secretary of the Interior”.
+    1983—Subsec. (b)(i), (ii). [Pub. L. 98–11][/us/pl/98/11], § 204(1), substituted “appropriate Secretary” for “Secretary of the Interior”.
 
-    Subsec. (b)(iii). [Pub. L. 98–11, § 204(2)][/us/pl/98/11/s204/2]–(4), added cl. (iii).
+    Subsec. (b)(iii). [Pub. L. 98–11][/us/pl/98/11], § 204(2)–(4), added cl. (iii).
 
 ----------
 
@@ -48,11 +48,11 @@
 ----------
 ----------
 
-[/us/pl/90/543/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F543%2Fs4
+[/us/pl/90/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F543
 [/us/stat/82/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F919
-[/us/pl/98/11/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2Fs204
+[/us/pl/98/11/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2FtII
 [/us/stat/97/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F43
-[/us/pl/98/11/s204/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2Fs204%2F1
-[/us/pl/98/11/s204/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2Fs204%2F2
+[/us/pl/98/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11
+[/us/pl/98/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11
 
 

@@ -17,7 +17,7 @@
 
     Nothing herein contained shall affect any valid existing claim, location, or entry under the land laws of the United States, whether for homestead, mineral, right of way, or any other purpose whatsoever, or shall affect the rights of any such claimant, locator, or entryman to the full use and enjoyment of his land. Whenever consistent with the primary purposes of the park the Act of February fifteenth, nineteen hundred and one, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  applicable to the location of rights of way in certain national parks and the national forests for irrigation and other purposes, shall be and remain applicable to the lands included within the park.
 
-([Jan. 26, 1915, ch. 19, § 2][/us/act/1915-01-26/ch19/s2], [38 Stat. 800][/us/stat/38/800]; [Jan. 26, 1931, ch. 47, § 7][/us/act/1931-01-26/ch47/s7], [46 Stat. 1044][/us/stat/46/1044].)
+([Jan. 26, 1915, ch. 19][/us/act/1915-01-26/ch19], § 2, [38 Stat. 800][/us/stat/38/800]; [Jan. 26, 1931, ch. 47][/us/act/1931-01-26/ch47], § 7, [46 Stat. 1044][/us/stat/46/1044].)
 
  __References in Text__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/act/1915-01-26/ch19/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-01-26%2Fch19%2Fs2
+[/us/act/1915-01-26/ch19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-01-26%2Fch19
 [/us/stat/38/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F800
-[/us/act/1931-01-26/ch47/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-01-26%2Fch47%2Fs7
+[/us/act/1931-01-26/ch47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-01-26%2Fch47
 [/us/stat/46/1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1044
 [/us/act/1901-02-15/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-02-15%2Fch372
 [/us/stat/31/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F790

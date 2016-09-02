@@ -43,7 +43,7 @@
 
         (4) There are authorized to be appropriated to the Secretary of Energy to be used by the Office for purposes of compensation of persons under the provisions of this subsection not to exceed $500,000 for the fiscal year 1978, not to exceed $2,000,000 for the fiscal year 1979, not to exceed $2,200,000 for the fiscal year 1980, and not to exceed $2,400,000 for the fiscal year 1981.
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. III, § 319, as added [Pub. L. 95–617, title II, § 212][/us/pl/95/617/s212], Nov. 9, 1978, [92 Stat. 3148][/us/stat/92/3148].)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. III, § 319, as added [Pub. L. 95–617, title II][/us/pl/95/617/tII], § 212, Nov. 9, 1978, [92 Stat. 3148][/us/stat/92/3148].)
 
  __References in Other Laws to GS–16, 17, or 18 Pay Rates__ 
 
@@ -59,7 +59,7 @@
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
-[/us/pl/95/617/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs212
+[/us/pl/95/617/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtII
 [/us/stat/92/3148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3148
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376

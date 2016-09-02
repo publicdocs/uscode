@@ -17,7 +17,7 @@
 
     The Administrator of the Environmental Protection Agency is authorized and directed to undertake comprehensive continuing studies on the effects of insecticides, herbicides, fungicides and pesticides, upon the fish and wildlife resources of the United States, for the purpose of determining the amounts, percentages, and formulations of such chemicals that are lethal to or injurious to fish and wildlife and the amounts, percentages, mixtures, or formulations that can be used safely, and thereby prevent losses of fish and wildlife from such spraying, dusting, or other treatment.
 
-([Pub. L. 85–582, § 1][/us/pl/85/582/s1], Aug. 1, 1958, [72 Stat. 479][/us/stat/72/479]; 1970 Reorg. Plan No. 3, § 2(a)(2)(i), eff. Dec. 2, 1970, 35 F.R. 15623, [84 Stat. 2086][/us/stat/84/2086].)
+([Pub. L. 85–582][/us/pl/85/582], § 1, Aug. 1, 1958, [72 Stat. 479][/us/stat/72/479]; 1970 Reorg. Plan No. 3, § 2(a)(2)(i), eff. Dec. 2, 1970, 35 F.R. 15623, [84 Stat. 2086][/us/stat/84/2086].)
 
  __Transfer of Functions__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/85/582/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F582%2Fs1
+[/us/pl/85/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F582
 [/us/stat/72/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F479
 [/us/stat/84/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2086
 [/us/pl/85/582/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F582%2Fs2

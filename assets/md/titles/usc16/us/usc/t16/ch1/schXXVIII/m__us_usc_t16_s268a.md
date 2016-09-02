@@ -95,7 +95,7 @@
 
             (C) other interested parties.
 
-([Pub. L. 108–199, div. H, § 150][/us/pl/108/199/s150], Jan. 23, 2004, [118 Stat. 446][/us/stat/118/446].)
+([Pub. L. 108–199, div. H][/us/pl/108/199/dH], § 150, Jan. 23, 2004, [118 Stat. 446][/us/stat/118/446].)
 
  __References in Text__ 
 
@@ -119,7 +119,7 @@
 [/us/usc/t16/s261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs261
 [/us/stat/54/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F262
 [/us/usc/t16/s261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs261
-[/us/pl/108/199/s150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs150
+[/us/pl/108/199/dH]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdH
 [/us/stat/118/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F446
 [/us/pl/108/199/s150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs150
 [/us/stat/118/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F446

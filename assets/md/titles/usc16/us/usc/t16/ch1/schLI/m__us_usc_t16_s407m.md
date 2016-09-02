@@ -25,7 +25,7 @@
 
     (d) Certain land and buildings immediately adjacent to Christ Church, situated on the west side of Second Street, and north of Market Street, identified as “project E” in the report of the Commission, and certain land and buildings adjoining “Project E”, being known and numbered as 8, 10, and 12 North Second Street and 201, 203, 205, 207, 209, 211–213, 215, 217, 219, and 221 Market Street: Provided, That the Secretary of the Interior first enter into an agreement with the proprietor or proprietors of said property (Christ Church), said agreement to contain the usual and customary provisions for the protection of the property, assuring its physical maintenance as a national shrine, without any limitation or control over its use for customary church purposes.
 
-([June 28, 1948, ch. 687, § 1][/us/act/1948-06-28/ch687/s1], [62 Stat. 1061][/us/stat/62/1061]; [July 10, 1952, ch. 653, § 1][/us/act/1952-07-10/ch653/s1], [66 Stat. 575][/us/stat/66/575]; [Pub. L. 85–764, § 3(a)][/us/pl/85/764/s3/a], Aug. 27, 1958, [72 Stat. 862][/us/stat/72/862].)
+([June 28, 1948, ch. 687][/us/act/1948-06-28/ch687], § 1, [62 Stat. 1061][/us/stat/62/1061]; [July 10, 1952, ch. 653][/us/act/1952-07-10/ch653], § 1, [66 Stat. 575][/us/stat/66/575]; [Pub. L. 85–764][/us/pl/85/764], § 3(a), Aug. 27, 1958, [72 Stat. 862][/us/stat/72/862].)
 
  __Amendments__ 
 
@@ -125,11 +125,11 @@
 ----------
 
 [/us/usc/t16/s407n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs407n
-[/us/act/1948-06-28/ch687/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-28%2Fch687%2Fs1
+[/us/act/1948-06-28/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-28%2Fch687
 [/us/stat/62/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1061
-[/us/act/1952-07-10/ch653/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-10%2Fch653%2Fs1
+[/us/act/1952-07-10/ch653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-10%2Fch653
 [/us/stat/66/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F575
-[/us/pl/85/764/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F764%2Fs3%2Fa
+[/us/pl/85/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F764
 [/us/stat/72/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F862
 [/us/pl/85/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F764
 [/us/pl/106/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F131

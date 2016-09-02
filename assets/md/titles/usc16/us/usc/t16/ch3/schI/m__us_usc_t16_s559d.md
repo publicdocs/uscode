@@ -27,7 +27,7 @@
 
     (5) the Forest Service is authorized to accept law enforcement designation from any other Federal agency or agency of a State or political subdivision thereof for the purpose of cooperating in a multi-agency law enforcement task force investigation of violations of the Controlled Substances Act \[[21 U.S.C. 801][/us/usc/t21/s801] et seq.\] and other offenses committed in the course of or in connection with such violations.
 
-([Pub. L. 99–570, title XV, § 15004][/us/pl/99/570/s15004], Oct. 27, 1986, [100 Stat. 3207–191][/us/stat/100/3207-191]; [Pub. L. 100–690, title VI, § 6254(c)][/us/pl/100/690/s6254/c], Nov. 18, 1988, [102 Stat. 4364][/us/stat/102/4364].)
+([Pub. L. 99–570, title XV][/us/pl/99/570/tXV], § 15004, Oct. 27, 1986, [100 Stat. 3207–191][/us/stat/100/3207-191]; [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6254(c), Nov. 18, 1988, [102 Stat. 4364][/us/stat/102/4364].)
 
  __References in Text__ 
 
@@ -35,9 +35,9 @@
 
  __Amendments__ 
 
-    1988—Par. (2). [Pub. L. 100–690, § 6254(c)(2)][/us/pl/100/690/s6254/c/2], substituted “for offenses committed within the National Forest System or which affect the administration of the National Forest System” for “, within the boundaries of the National Forest System”.
+    1988—Par. (2). [Pub. L. 100–690][/us/pl/100/690], § 6254(c)(2), substituted “for offenses committed within the National Forest System or which affect the administration of the National Forest System” for “, within the boundaries of the National Forest System”.
 
-    Pars. (3) to (5). [Pub. L. 100–690, § 6254(c)(3)][/us/pl/100/690/s6254/c/3], added pars. (3) to (5).
+    Pars. (3) to (5). [Pub. L. 100–690][/us/pl/100/690], § 6254(c)(3), added pars. (3) to (5).
 
 ----------
 
@@ -51,14 +51,14 @@
 [/us/usc/t21/s881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs881
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
-[/us/pl/99/570/s15004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs15004
+[/us/pl/99/570/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtXV
 [/us/stat/100/3207-191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-191
-[/us/pl/100/690/s6254/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6254%2Fc
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4364
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
-[/us/pl/100/690/s6254/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6254%2Fc%2F2
-[/us/pl/100/690/s6254/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6254%2Fc%2F3
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 
 

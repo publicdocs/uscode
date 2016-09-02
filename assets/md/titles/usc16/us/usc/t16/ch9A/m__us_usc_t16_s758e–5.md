@@ -17,11 +17,11 @@
 
     There is authorized to be appropriated for the period beginning July 1, 1973, and ending June 30, 1976, the sum of $3,000,000, and for the period beginning July 1, 1976, and ending September 30, 1979, the sum of $4,000,000, and for each of the fiscal years 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, and 1995, the sum of $5,000,000, to carry out the purposes of sections 758e to 758e–5 of this title. Sums appropriated pursuant to this section shall remain available until expended.
 
-([Pub. L. 92–444, § 8][/us/pl/92/444/s8], formerly § 7, Sept. 29, 1972, [86 Stat. 745][/us/stat/86/745]; [Pub. L. 94–343, § 1(3)][/us/pl/94/343/s1/3], July 6, 1976, [90 Stat. 809][/us/stat/90/809]; renumbered § 8 and amended [Pub. L. 95–295][/us/pl/95/295], §§ 1(4), 2, June 16, 1978, [92 Stat. 319][/us/stat/92/319], 320; [Pub. L. 97–453, § 15(d)][/us/pl/97/453/s15/d], Jan. 12, 1983, [96 Stat. 2493][/us/stat/96/2493]; [Pub. L. 99–659, title IV, § 403][/us/pl/99/659/s403], Nov. 14, 1986, [100 Stat. 3737][/us/stat/100/3737]; [Pub. L. 101–627, title VI, § 601][/us/pl/101/627/s601], Nov. 28, 1990, [104 Stat. 4463][/us/stat/104/4463].)
+([Pub. L. 92–444][/us/pl/92/444], § 8, formerly § 7, Sept. 29, 1972, [86 Stat. 745][/us/stat/86/745]; [Pub. L. 94–343][/us/pl/94/343], § 1(3), July 6, 1976, [90 Stat. 809][/us/stat/90/809]; renumbered § 8 and amended [Pub. L. 95–295][/us/pl/95/295], §§ 1(4), 2, June 16, 1978, [92 Stat. 319][/us/stat/92/319], 320; [Pub. L. 97–453][/us/pl/97/453], § 15(d), Jan. 12, 1983, [96 Stat. 2493][/us/stat/96/2493]; [Pub. L. 99–659, title IV][/us/pl/99/659/tIV], § 403, Nov. 14, 1986, [100 Stat. 3737][/us/stat/100/3737]; [Pub. L. 101–627, title VI][/us/pl/101/627/tVI], § 601, Nov. 28, 1990, [104 Stat. 4463][/us/stat/104/4463].)
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–627][/us/pl/101/627], which directed the substitution of “1988, 1989, 1990, 1991, 1992, 1993, 1994, and 1995” for “and 1988” in section 7 of the Central, Western, and South Pacific Fisheries Development Act, meaning [section 7 of Pub. L. 92–444][/us/pl/92/444/s7], was executed by making the substitution in [section 8 of Pub. L. 92–444][/us/pl/92/444/s8], this section, to reflect the probable intent of Congress and the renumbering of section 7 as 8 by [Pub. L. 95–295, § 1(4)][/us/pl/95/295/s1/4].
+    1990—[Pub. L. 101–627][/us/pl/101/627], which directed the substitution of “1988, 1989, 1990, 1991, 1992, 1993, 1994, and 1995” for “and 1988” in section 7 of the Central, Western, and South Pacific Fisheries Development Act, meaning [section 7 of Pub. L. 92–444][/us/pl/92/444/s7], was executed by making the substitution in [section 8 of Pub. L. 92–444][/us/pl/92/444/s8], this section, to reflect the probable intent of Congress and the renumbering of section 7 as 8 by [Pub. L. 95–295][/us/pl/95/295], § 1(4).
 
     1986—[Pub. L. 99–659][/us/pl/99/659] inserted provision authorizing appropriations for each of fiscal years 1986, 1987, and 1988.
 
@@ -38,22 +38,22 @@
 ----------
 ----------
 
-[/us/pl/92/444/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F444%2Fs8
+[/us/pl/92/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F444
 [/us/stat/86/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F745
-[/us/pl/94/343/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F343%2Fs1%2F3
+[/us/pl/94/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F343
 [/us/stat/90/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F809
 [/us/pl/95/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F295
 [/us/stat/92/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F319
-[/us/pl/97/453/s15/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453%2Fs15%2Fd
+[/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
 [/us/stat/96/2493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2493
-[/us/pl/99/659/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs403
+[/us/pl/99/659/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtIV
 [/us/stat/100/3737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3737
-[/us/pl/101/627/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs601
+[/us/pl/101/627/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtVI
 [/us/stat/104/4463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4463
 [/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
 [/us/pl/92/444/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F444%2Fs7
 [/us/pl/92/444/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F444%2Fs8
-[/us/pl/95/295/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F295%2Fs1%2F4
+[/us/pl/95/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F295
 [/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
 [/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
 [/us/pl/95/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F295

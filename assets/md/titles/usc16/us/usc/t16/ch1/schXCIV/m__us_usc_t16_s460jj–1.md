@@ -37,7 +37,7 @@
 
         Notwithstanding any other provision of law, any Federal lands or interests in lands located within the Arapaho National Recreation Area shall be transferred without consideration to the administrative jurisdiction of the Secretary for use by the Secretary in carrying out this subchapter. Lands within the Arapaho National Recreation Area acquired by the Secretary or transferred to the Secretary’s administrative jurisdiction shall become part of that recreation area and of the national forest within or adjacent to which they are located: Provided, That the operation and facilities of the Colorado Big Thompson project shall remain under the jurisdiction of the United States Bureau of Reclamation.
 
-([Pub. L. 95–450, § 5][/us/pl/95/450/s5], Oct. 11, 1978, [92 Stat. 1096][/us/stat/92/1096].)
+([Pub. L. 95–450][/us/pl/95/450], § 5, Oct. 11, 1978, [92 Stat. 1096][/us/stat/92/1096].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t16/s460jj]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460jj
-[/us/pl/95/450/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F450%2Fs5
+[/us/pl/95/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F450
 [/us/stat/92/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1096
 [/us/pl/95/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F450
 [/us/stat/92/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1095

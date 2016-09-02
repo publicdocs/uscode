@@ -21,7 +21,7 @@
 
         (2) Any recomputation of annuity under paragraph (1) of this subsection shall apply with respect to months beginning more than 30 days after the date on which application for such recomputation is received by the Office.
 
-([Pub. L. 89–702, title II, § 212][/us/pl/89/702/s212], as added [Pub. L. 98–369, div. B, title II, § 2208(b)][/us/pl/98/369/s2208/b], July 18, 1984, [98 Stat. 1061][/us/stat/98/1061].)
+([Pub. L. 89–702, title II][/us/pl/89/702/tII], § 212, as added [Pub. L. 98–369, div. B, title II][/us/pl/98/369/dB/tII], § 2208(b), July 18, 1984, [98 Stat. 1061][/us/stat/98/1061].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 98–369, div. B, title II, § 2208(c)][/us/pl/98/369/s2208/c], July 18, 1984, [98 Stat. 1061][/us/stat/98/1061], provided that: 
+[Pub. L. 98–369, div. B, title II][/us/pl/98/369/dB/tII], § 2208(c), July 18, 1984, [98 Stat. 1061][/us/stat/98/1061], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending [section 8332 of Title 5][/us/usc/t5/s8332], Government Organization and Employees\] shall take effect as of October 14, 1983.”
 
@@ -46,8 +46,8 @@
 
 [/us/usc/t5/s8332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8332
 [/us/pl/89/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702
-[/us/pl/89/702/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2Fs212
-[/us/pl/98/369/s2208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2208%2Fb
+[/us/pl/89/702/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2FtII
+[/us/pl/98/369/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtII
 [/us/stat/98/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1061
 [/us/usc/t5/s8332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8332
 [/us/pl/89/702/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2Fs209
@@ -55,7 +55,7 @@
 [/us/usc/t5/s8332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8332
 [/us/pl/89/702/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2Fs212
 [/us/usc/t16/s1169b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1169b
-[/us/pl/98/369/s2208/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2208%2Fc
+[/us/pl/98/369/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtII
 [/us/stat/98/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1061
 [/us/usc/t5/s8332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8332
 

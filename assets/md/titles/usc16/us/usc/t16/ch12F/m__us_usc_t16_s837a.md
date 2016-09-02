@@ -17,7 +17,7 @@
 
     Subject to the provisions of this chapter, the sale, delivery, and exchange of electric energy generated at, and peaking capacity of, Federal hydroelectric plants in the Pacific Northwest for use outside the Pacific Northwest shall be limited to surplus energy and surplus peaking capacity. At least 30 days prior to the execution of any contract for the sale, delivery, or exchange of surplus energy or surplus peaking capacity for use outside the Pacific Northwest, the Secretary shall give the then customers of the Bonneville Power Administration written notice that negotiations for such a contract are pending, and thereafter, at any customer’s request, make available for its inspection current drafts of the proposed contract.
 
-([Pub. L. 88–552, § 2][/us/pl/88/552/s2], Aug. 31, 1964, [78 Stat. 756][/us/stat/78/756].)
+([Pub. L. 88–552][/us/pl/88/552], § 2, Aug. 31, 1964, [78 Stat. 756][/us/stat/78/756].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/88/552/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F552%2Fs2
+[/us/pl/88/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F552
 [/us/stat/78/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F756
 
 

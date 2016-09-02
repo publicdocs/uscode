@@ -27,7 +27,7 @@
 
         Pending the implementation of a program under subsection (a) of this section, the Secretary shall permit subsistence uses by local residents in accordance with the provisions of this subchapter and other applicable Federal and State law.
 
-([Pub. L. 96–487, title VIII, § 808][/us/pl/96/487/s808], Dec. 2, 1980, [94 Stat. 2426][/us/stat/94/2426].)
+([Pub. L. 96–487, title VIII][/us/pl/96/487/tVIII], § 808, Dec. 2, 1980, [94 Stat. 2426][/us/stat/94/2426].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t16/s3115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3115
-[/us/pl/96/487/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs808
+[/us/pl/96/487/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtVIII
 [/us/stat/94/2426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2426
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371

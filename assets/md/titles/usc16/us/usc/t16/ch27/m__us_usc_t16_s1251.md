@@ -25,7 +25,7 @@
 
     (4) The term “without expense to the United States” means that no funds may be expended by Federal agencies for the development of trail related facilities or for the acquisition of lands or interests in lands outside the exterior boundaries of Federal areas. For the purposes of the preceding sentence, amounts made available to any State or political subdivision under chapter 2003 of title 54 or any other provision of law shall not be treated as an expense to the United States.
 
-([Pub. L. 90–543, § 12][/us/pl/90/543/s12], as added [Pub. L. 98–11, title II, § 210][/us/pl/98/11/s210], Mar. 28, 1983, [97 Stat. 50][/us/stat/97/50]; amended [Pub. L. 113–287, § 5(d)(28)][/us/pl/113/287/s5/d/28], Dec. 19, 2014, [128 Stat. 3267][/us/stat/128/3267].)
+([Pub. L. 90–543][/us/pl/90/543], § 12, as added [Pub. L. 98–11, title II][/us/pl/98/11/tII], § 210, Mar. 28, 1983, [97 Stat. 50][/us/stat/97/50]; amended [Pub. L. 113–287][/us/pl/113/287], § 5(d)(28), Dec. 19, 2014, [128 Stat. 3267][/us/stat/128/3267].)
 
  __Amendments__ 
 
@@ -42,10 +42,10 @@
 ----------
 ----------
 
-[/us/pl/90/543/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F543%2Fs12
-[/us/pl/98/11/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2Fs210
+[/us/pl/90/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F543
+[/us/pl/98/11/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2FtII
 [/us/stat/97/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F50
-[/us/pl/113/287/s5/d/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F28
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3267
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681

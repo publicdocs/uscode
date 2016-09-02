@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to accept donations of land, interests in land, buildings, structures, and other property within a distance of one mile from the boundaries of said Fort Donelson National Battlefield, as extended by [section 428d–1 of this title][/us/usc/t16/s428d–1], and donations of funds for the purchase or maintenance thereof, the title and evidence of title to lands acquired to be satisfactory to the Secretary of the Interior: Provided, That he may acquire on behalf of the United States out of any donated funds, by purchase at prices deemed by him reasonable or by condemnation, such tracts of land within a distance of one mile from the boundaries of the said national battlefield as may be necessary for the completion thereof. Upon the acquisition of such land, the same shall become a part of the Fort Donelson National Battlefield and shall be subject to the laws and rules and regulations applicable to said battlefield.
 
-([Aug. 30, 1937, ch. 888, § 2][/us/act/1937-08-30/ch888/s2], [50 Stat. 882][/us/stat/50/882]; [Pub. L. 86–738, § 4][/us/pl/86/738/s4], Sept. 8, 1960, [74 Stat. 876][/us/stat/74/876].)
+([Aug. 30, 1937, ch. 888][/us/act/1937-08-30/ch888], § 2, [50 Stat. 882][/us/stat/50/882]; [Pub. L. 86–738][/us/pl/86/738], § 4, Sept. 8, 1960, [74 Stat. 876][/us/stat/74/876].)
 
  __Change of Name__ 
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/usc/t16/s428d–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs428d%E2%80%931
-[/us/act/1937-08-30/ch888/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-30%2Fch888%2Fs2
+[/us/act/1937-08-30/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-30%2Fch888
 [/us/stat/50/882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F882
-[/us/pl/86/738/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F738%2Fs4
+[/us/pl/86/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F738
 [/us/stat/74/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F876
 [/us/pl/86/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F738
 [/us/usc/t16/s428n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs428n

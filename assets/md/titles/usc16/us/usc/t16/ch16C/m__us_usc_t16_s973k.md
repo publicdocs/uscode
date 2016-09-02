@@ -17,7 +17,7 @@
 
     At all times while a vessel is in a Closed Area, the fishing gear of the vessel shall be stowed in such a manner as not to be readily available for fishing. In particular, the boom shall be lowered as far as possible so that the vessel cannot be used for fishing, but so that the skiff is accessible for use in emergency situations; the helicopter, if any, shall be tied down; and launches shall be secured.
 
-([Pub. L. 100–330, § 13][/us/pl/100/330/s13], June 7, 1988, [102 Stat. 599][/us/stat/102/599].)
+([Pub. L. 100–330][/us/pl/100/330], § 13, June 7, 1988, [102 Stat. 599][/us/stat/102/599].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/330/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F330%2Fs13
+[/us/pl/100/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F330
 [/us/stat/102/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F599
 
 

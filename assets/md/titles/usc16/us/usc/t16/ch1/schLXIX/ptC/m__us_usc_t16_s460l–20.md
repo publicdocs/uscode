@@ -17,7 +17,7 @@
 
     Nothing contained in this part shall be taken to authorize or to sanction the construction under the Federal reclamation laws or under any Rivers and Harbors or Flood Control Act of any project in which the sum of the allocations to recreation and fish and wildlife enhancement exceeds the sum of the allocations to irrigation, hydroelectric power, municipal, domestic and industrial water supply, navigation, and flood control, except that this section shall not apply to any such project for the enhancement of anadromous fisheries, shrimp, or for the conservation of migratory birds protected by treaty, when each of the other functions of such a project has, of itself, a favorable benefit-cost ratio.
 
-([Pub. L. 89–72, § 9][/us/pl/89/72/s9], July 9, 1965, [79 Stat. 217][/us/stat/79/217].)
+([Pub. L. 89–72][/us/pl/89/72], § 9, July 9, 1965, [79 Stat. 217][/us/stat/79/217].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/89/72/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F72%2Fs9
+[/us/pl/89/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F72
 [/us/stat/79/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F217
 [/us/pl/89/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F72
 [/us/usc/t16/s662/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs662%2Fd

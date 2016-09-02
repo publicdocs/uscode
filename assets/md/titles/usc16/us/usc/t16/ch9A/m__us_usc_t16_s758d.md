@@ -17,7 +17,7 @@
 
     There is hereby authorized to be appropriated from time to time in fiscal years after 1947—1948 such sums as may be necessary to enable the Secretary of Commerce to carry out the purposes of sections 758 to 758d of this title, including personal services, traveling expenses, transportation of things, purchase, maintenance, and operation of motor vehicles, miscellaneous equipment, and supplies, communications, other contractual services, necessary printing locally, and maintenance, repair, improvement, equipment, and operation of vessels and buildings or other structures.
 
-([Aug. 4, 1947, ch. 451, § 6][/us/act/1947-08-04/ch451/s6], [61 Stat. 726][/us/stat/61/726]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
+([Aug. 4, 1947, ch. 451][/us/act/1947-08-04/ch451], § 6, [61 Stat. 726][/us/stat/61/726]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
 
  __Codification__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/act/1947-08-04/ch451/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-04%2Fch451%2Fs6
+[/us/act/1947-08-04/ch451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-04%2Fch451
 [/us/stat/61/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F726
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
 [/us/usc/t16/s758a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs758a

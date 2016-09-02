@@ -97,7 +97,7 @@
 
             (B) An Onsite Coordinator may delegate to any qualified person authority to act as an Onsite Coordinator under this subchapter.
 
-([Pub. L. 92–522, title IV, § 404][/us/pl/92/522/s404], formerly title III, § 304, as added [Pub. L. 102–587, title III, § 3003(a)][/us/pl/102/587/s3003/a], Nov. 4, 1992, [106 Stat. 5062][/us/stat/106/5062]; renumbered title IV, § 404, [Pub. L. 103–238, § 24(b)][/us/pl/103/238/s24/b], Apr. 30, 1994, [108 Stat. 565][/us/stat/108/565].)
+([Pub. L. 92–522, title IV][/us/pl/92/522/tIV], § 404, formerly title III, § 304, as added [Pub. L. 102–587, title III][/us/pl/102/587/tIII], § 3003(a), Nov. 4, 1992, [106 Stat. 5062][/us/stat/106/5062]; renumbered title IV, § 404, [Pub. L. 103–238][/us/pl/103/238], § 24(b), Apr. 30, 1994, [108 Stat. 565][/us/stat/108/565].)
 
  __References in Text__ 
 
@@ -110,10 +110,10 @@
 ----------
 ----------
 
-[/us/pl/92/522/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs404
-[/us/pl/102/587/s3003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs3003%2Fa
+[/us/pl/92/522/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtIV
+[/us/pl/102/587/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtIII
 [/us/stat/106/5062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5062
-[/us/pl/103/238/s24/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs24%2Fb
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
 [/us/stat/108/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F565
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

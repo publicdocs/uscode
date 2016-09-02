@@ -17,7 +17,7 @@
 
     The provisions of [section 392 of this title][/us/usc/t16/s392] are extended over and made applicable to the lands added to the park and included within the boundary established by [section 391a of this title][/us/usc/t16/s391a].
 
-([Feb. 12, 1927, ch. 111, § 2][/us/act/1927-02-12/ch111/s2], [44 Stat. 1089][/us/stat/44/1089].)
+([Feb. 12, 1927, ch. 111][/us/act/1927-02-12/ch111], § 2, [44 Stat. 1089][/us/stat/44/1089].)
 
  __Haleakala̅ National Park__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t16/s392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs392
 [/us/usc/t16/s391a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs391a
-[/us/act/1927-02-12/ch111/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-12%2Fch111%2Fs2
+[/us/act/1927-02-12/ch111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-12%2Fch111
 [/us/stat/44/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1089
 [/us/usc/t16/s396b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs396b
 

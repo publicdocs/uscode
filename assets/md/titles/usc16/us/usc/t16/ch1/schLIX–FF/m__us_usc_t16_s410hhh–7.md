@@ -99,7 +99,7 @@
 
         The Secretary is authorized to sell the water resources and related appurtenances and fixtures as the Secretary deems necessary to obtain the termination of obligations specified in the memorandum of water service agreement and the water service agreement between the Cabeza de Vaca Land and Cattle Company, LLC and the Baca Grande Water and Sanitation District, dated August 28, 1997. Prior to the sale, the Secretary shall determine that the sale is not detrimental to the protection of the resources of Great Sand Dunes National Monument, Great Sand Dunes National Park, and Great Sand Dunes National Preserve, and the Baca National Wildlife Refuge, and that appropriate measures to provide for such protection are included in the sale.
 
-([Pub. L. 106–530, § 9][/us/pl/106/530/s9], Nov. 22, 2000, [114 Stat. 2533][/us/stat/114/2533].)
+([Pub. L. 106–530][/us/pl/106/530], § 9, Nov. 22, 2000, [114 Stat. 2533][/us/stat/114/2533].)
 
  __Codification__ 
 
@@ -112,7 +112,7 @@
 ----------
 ----------
 
-[/us/pl/106/530/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F530%2Fs9
+[/us/pl/106/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F530
 [/us/stat/114/2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2533
 [/us/pl/106/530/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F530%2Fs9
 [/us/pl/106/530/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F530%2Fs9

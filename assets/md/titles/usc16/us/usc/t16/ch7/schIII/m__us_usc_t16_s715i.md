@@ -23,7 +23,7 @@
 
         In administering such areas, the Secretary is authorized to manage timber, range, and agricultural crops; to manage other species of animals, including but not limited to fenced range animals, with the objectives of perpetuating, distributing, and utilizing the resources; and to enter into agreements with public and private agencies.
 
-([Feb. 18, 1929, ch. 257, § 10][/us/act/1929-02-18/ch257/s10], [45 Stat. 1224][/us/stat/45/1224]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; [Pub. L. 89–669, § 7(b)][/us/pl/89/669/s7/b], Oct. 15, 1966, [80 Stat. 929][/us/stat/80/929]; [Pub. L. 93–205, § 13(b)][/us/pl/93/205/s13/b], Dec. 28, 1973, [87 Stat. 902][/us/stat/87/902]; [Pub. L. 95–616, § 5(b)][/us/pl/95/616/s5/b], Nov. 8, 1978, [92 Stat. 3114][/us/stat/92/3114].)
+([Feb. 18, 1929, ch. 257][/us/act/1929-02-18/ch257], § 10, [45 Stat. 1224][/us/stat/45/1224]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; [Pub. L. 89–669][/us/pl/89/669], § 7(b), Oct. 15, 1966, [80 Stat. 929][/us/stat/80/929]; [Pub. L. 93–205][/us/pl/93/205], § 13(b), Dec. 28, 1973, [87 Stat. 902][/us/stat/87/902]; [Pub. L. 95–616][/us/pl/95/616], § 5(b), Nov. 8, 1978, [92 Stat. 3114][/us/stat/92/3114].)
 
  __Amendments__ 
 
@@ -49,14 +49,14 @@
 ----------
 
 [/us/usc/t16/s1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1533
-[/us/act/1929-02-18/ch257/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-18%2Fch257%2Fs10
+[/us/act/1929-02-18/ch257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-18%2Fch257
 [/us/stat/45/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1224
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
-[/us/pl/89/669/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F669%2Fs7%2Fb
+[/us/pl/89/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F669
 [/us/stat/80/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F929
-[/us/pl/93/205/s13/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205%2Fs13%2Fb
+[/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F902
-[/us/pl/95/616/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616%2Fs5%2Fb
+[/us/pl/95/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616
 [/us/stat/92/3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3114
 [/us/pl/95/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205

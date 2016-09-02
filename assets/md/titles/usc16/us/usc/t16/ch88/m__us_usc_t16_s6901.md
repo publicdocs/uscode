@@ -79,7 +79,7 @@
 
         The terms “WCPFC Convention” and “Western and Central Pacific Convention” means the Convention on the Conservation and Management of the Highly Migratory Fish Stocks in the Western and Central Pacific Ocean, (including any annexes, amendments, or protocols which are in force, or have come into force, for the United States) which was adopted at Honolulu, Hawaii, on September 5, 2000, by the Multilateral High Level Conference on the Highly Migratory Fish Stocks in the Western and Central Pacific Ocean.
 
-([Pub. L. 109–479, title V, § 502][/us/pl/109/479/s502], Jan. 12, 2007, [120 Stat. 3635][/us/stat/120/3635].)
+([Pub. L. 109–479, title V][/us/pl/109/479/tV], § 502, Jan. 12, 2007, [120 Stat. 3635][/us/stat/120/3635].)
 
  __References in Text__ 
 
@@ -87,7 +87,7 @@
 
  __Short Title__ 
 
-[Pub. L. 109–479, title V, § 501][/us/pl/109/479/s501], Jan. 12, 2007, [120 Stat. 3635][/us/stat/120/3635], provided that: 
+[Pub. L. 109–479, title V][/us/pl/109/479/tV], § 501, Jan. 12, 2007, [120 Stat. 3635][/us/stat/120/3635], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Western and Central Pacific Fisheries Convention Implementation Act’.”
 
@@ -98,10 +98,10 @@
 ----------
 ----------
 
-[/us/pl/109/479/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs502
+[/us/pl/109/479/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtV
 [/us/stat/120/3635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3635
 [/us/usc/t16/s1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1453
-[/us/pl/109/479/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs501
+[/us/pl/109/479/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtV
 [/us/stat/120/3635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3635
 
 

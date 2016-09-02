@@ -31,13 +31,13 @@
 
         (3) The Secretary shall encourage the State to undertake similar studies on lands associated, either through geological or other land values or because of possible transportation needs, with Federal lands. The Secretary shall integrate these studies, to the maximum extent practicable, with studies on Federal lands so that needs for cooperation between the Federal Government and the State of Alaska in managing energy and other natural resources, including fish and wildlife, can be established early in the program.
 
-    (c) __Repealed.__  __[__  __Pub. L. 100–203, title V, § 5105(1)__  __][/us/pl/100/203/s5105/1]__  __,__  __Dec. 22, 1987__  __,__  __[__  __101 Stat. 1330–259__  __][/us/stat/101/1330-259]__ 
+    (c) __Repealed.__  __[__  __Pub. L. 100–203, title V__  __][/us/pl/100/203/tV]__  __, § 5105(1),__  __Dec. 22, 1987__  __,__  __[__  __101 Stat. 1330–259__  __][/us/stat/101/1330-259]__ 
 
     (d) __Issuance of leases; competitive bidding__ 
 
         Pursuant to the Mineral Leasing Act of 1920, as amended \[[30 U.S.C. 181][/us/usc/t30/s181] et seq.\], the Secretary is authorized to issue leases, on the Federal lands described in this section, under such terms and conditions as he may, by regulation, prescribe.
 
-    (e) __Repealed.__  __[__  __Pub. L. 100–203, title V, § 5105(1)__  __][/us/pl/100/203/s5105/1]__  __,__  __Dec. 22, 1987__  __,__  __[__  __101 Stat. 1330–259__  __][/us/stat/101/1330-259]__ 
+    (e) __Repealed.__  __[__  __Pub. L. 100–203, title V__  __][/us/pl/100/203/tV]__  __, § 5105(1),__  __Dec. 22, 1987__  __,__  __[__  __101 Stat. 1330–259__  __][/us/stat/101/1330-259]__ 
 
     (f) __Exploration plan__ 
 
@@ -55,7 +55,7 @@
 
         If the Secretary determines that immediate and irreparable damage will result from continuation in force of a lease, that the threat will not disappear and that the advantages of cancellation outweigh the advantages of continuation in force of a lease, he shall suspend operations for up to five years. If such a threat persists beyond such five-year suspension period, he shall cancel a lease and provide compensation to the lease under such terms as the Secretary establishes, by regulation, to be appropriate.
 
-([Pub. L. 96–487, title X, § 1008][/us/pl/96/487/s1008], Dec. 2, 1980, [94 Stat. 2454][/us/stat/94/2454]; [Pub. L. 100–203, title V, § 5105][/us/pl/100/203/s5105], Dec. 22, 1987, [101 Stat. 1330–259][/us/stat/101/1330-259].)
+([Pub. L. 96–487, title X][/us/pl/96/487/tX], § 1008, Dec. 2, 1980, [94 Stat. 2454][/us/stat/94/2454]; [Pub. L. 100–203, title V][/us/pl/100/203/tV], § 5105, Dec. 22, 1987, [101 Stat. 1330–259][/us/stat/101/1330-259].)
 
  __References in Text__ 
 
@@ -67,11 +67,11 @@
 
  __Amendments__ 
 
-    1987—Subsec. (c). [Pub. L. 100–203, § 5105(1)][/us/pl/100/203/s5105/1], struck out subsec. (c) which read as follows: “At such time as the studies requested in subsection (b)(4) of this section are completed by the Secretary, or at such time as the Secretary determines that sufficient interest has been indicated in exploring an area for oil or gas, and leasing should be commenced, he shall identify those areas which he determines to be favorable for the discovery of oil or gas (hereinafter referred to as ‘favorable petroleum geological provinces’). In making such determination, the Secretary shall utilize all information obtained in studies conducted under subsection (b) of this section as well as any other information he may develop or require by regulation to be transmitted.”
+    1987—Subsec. (c). [Pub. L. 100–203][/us/pl/100/203], § 5105(1), struck out subsec. (c) which read as follows: “At such time as the studies requested in subsection (b)(4) of this section are completed by the Secretary, or at such time as the Secretary determines that sufficient interest has been indicated in exploring an area for oil or gas, and leasing should be commenced, he shall identify those areas which he determines to be favorable for the discovery of oil or gas (hereinafter referred to as ‘favorable petroleum geological provinces’). In making such determination, the Secretary shall utilize all information obtained in studies conducted under subsection (b) of this section as well as any other information he may develop or require by regulation to be transmitted.”
 
-    Subsec. (d). [Pub. L. 100–203, § 5105(2)][/us/pl/100/203/s5105/2], struck out at end “Areas which are determined by the Secretary to be within favorable petroleum geological provinces shall be leased only by competitive bidding.”
+    Subsec. (d). [Pub. L. 100–203][/us/pl/100/203], § 5105(2), struck out at end “Areas which are determined by the Secretary to be within favorable petroleum geological provinces shall be leased only by competitive bidding.”
 
-    Subsec. (e). [Pub. L. 100–203, § 5105(1)][/us/pl/100/203/s5105/1], struck out subsec. (e) which read as follows: “At such time as paying quantities of oil or gas are discovered under a noncompetitive lease issued pursuant to the Mineral Leasing Act of 1920, the Secretary shall suspend all further noncompetitive leasing in the area and shall determine the favorable petroleum geological province in proximity to such discovery. All further leasing in such area shall be in accordance with the requirements of subsection (d) of this section.”
+    Subsec. (e). [Pub. L. 100–203][/us/pl/100/203], § 5105(1), struck out subsec. (e) which read as follows: “At such time as paying quantities of oil or gas are discovered under a noncompetitive lease issued pursuant to the Mineral Leasing Act of 1920, the Secretary shall suspend all further noncompetitive leasing in the area and shall determine the favorable petroleum geological province in proximity to such discovery. All further leasing in such area shall be in accordance with the requirements of subsection (d) of this section.”
 
 ----------
 
@@ -82,14 +82,14 @@
 
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
 [/us/usc/t16/s3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3141
-[/us/pl/100/203/s5105/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5105%2F1
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-259
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
-[/us/pl/100/203/s5105/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5105%2F1
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-259
-[/us/pl/96/487/s1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1008
+[/us/pl/96/487/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtX
 [/us/stat/94/2454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2454
-[/us/pl/100/203/s5105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5105
+[/us/pl/100/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtV
 [/us/stat/101/1330-259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-259
 [/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F437
@@ -97,8 +97,8 @@
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/100/203/s5105/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5105%2F1
-[/us/pl/100/203/s5105/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5105%2F2
-[/us/pl/100/203/s5105/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs5105%2F1
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 
 

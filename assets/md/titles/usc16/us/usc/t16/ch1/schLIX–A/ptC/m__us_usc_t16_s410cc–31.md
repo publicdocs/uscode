@@ -81,13 +81,13 @@
 
         The Commission established pursuant to this subchapter shall cease to exist seventeen years from June 5, 1978.
 
-([Pub. L. 95–290, title III, § 301][/us/pl/95/290/s301], June 5, 1978, [92 Stat. 295][/us/stat/92/295]; [Pub. L. 100–134, § 1(2)][/us/pl/100/134/s1/2], (3), Oct. 16, 1987, [101 Stat. 810][/us/stat/101/810].)
+([Pub. L. 95–290, title III][/us/pl/95/290/tIII], § 301, June 5, 1978, [92 Stat. 295][/us/stat/92/295]; [Pub. L. 100–134][/us/pl/100/134], § 1(2), (3), Oct. 16, 1987, [101 Stat. 810][/us/stat/101/810].)
 
  __Amendments__ 
 
-    1987—Subsec. (e)(2). [Pub. L. 100–134, § 1(2)][/us/pl/100/134/s1/2], substituted “until his successor is appointed” for “for a period not longer than thirty days”.
+    1987—Subsec. (e)(2). [Pub. L. 100–134][/us/pl/100/134], § 1(2), substituted “until his successor is appointed” for “for a period not longer than thirty days”.
 
-    Subsec. (i). [Pub. L. 100–134, § 1(3)][/us/pl/100/134/s1/3], substituted “seventeen” for “ten”.
+    Subsec. (i). [Pub. L. 100–134][/us/pl/100/134], § 1(3), substituted “seventeen” for “ten”.
 
 ----------
 
@@ -97,11 +97,11 @@
 ----------
 
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/95/290/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F290%2Fs301
+[/us/pl/95/290/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F290%2FtIII
 [/us/stat/92/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F295
-[/us/pl/100/134/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F134%2Fs1%2F2
+[/us/pl/100/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F134
 [/us/stat/101/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F810
-[/us/pl/100/134/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F134%2Fs1%2F2
-[/us/pl/100/134/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F134%2Fs1%2F3
+[/us/pl/100/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F134
+[/us/pl/100/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F134
 
 

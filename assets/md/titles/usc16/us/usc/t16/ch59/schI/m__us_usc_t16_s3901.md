@@ -53,7 +53,7 @@
 
         (2) intensifying efforts to protect the wetlands of the Nation through acquisition in fee, easements or other interests and methods by local, State, and Federal governments and the private sector.
 
-([Pub. L. 99–645, § 2][/us/pl/99/645/s2], Nov. 10, 1986, [100 Stat. 3582][/us/stat/100/3582].)
+([Pub. L. 99–645][/us/pl/99/645], § 2, Nov. 10, 1986, [100 Stat. 3582][/us/stat/100/3582].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 
  __Short Title__ 
 
-[Pub. L. 99–645, § 1][/us/pl/99/645/s1], Nov. 10, 1986, [100 Stat. 3582][/us/stat/100/3582], provided that: 
+[Pub. L. 99–645][/us/pl/99/645], § 1, Nov. 10, 1986, [100 Stat. 3582][/us/stat/100/3582], provided that: 
 
 > “This Act \[enacting this chapter, amending sections 460l–8, 460l–9, 707, 715k–3, 715k–5, and 718b of this title, and enacting a provision set out in the table under [section 668dd of this title][/us/usc/t16/s668dd]\] may be cited as the ‘Emergency Wetlands Resources Act of 1986’.”
 
@@ -72,11 +72,11 @@
 ----------
 ----------
 
-[/us/pl/99/645/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F645%2Fs2
+[/us/pl/99/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F645
 [/us/stat/100/3582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3582
 [/us/pl/99/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F645
 [/us/stat/100/3582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3582
-[/us/pl/99/645/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F645%2Fs1
+[/us/pl/99/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F645
 [/us/stat/100/3582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3582
 [/us/usc/t16/s668dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd
 

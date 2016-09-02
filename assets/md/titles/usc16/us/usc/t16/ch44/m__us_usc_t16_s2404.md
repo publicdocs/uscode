@@ -137,11 +137,11 @@
 
         The Director may establish and charge fees for processing applications for permits under this section. The amount of such fees shall be commensurate with the administrative costs incurred by the Director in undertaking such processing.
 
-([Pub. L. 95–541, § 5][/us/pl/95/541/s5], Oct. 28, 1978, [92 Stat. 2050][/us/stat/92/2050]; [Pub. L. 104–227, title I, § 105][/us/pl/104/227/s105], Oct. 2, 1996, [110 Stat. 3040][/us/stat/110/3040].)
+([Pub. L. 95–541][/us/pl/95/541], § 5, Oct. 28, 1978, [92 Stat. 2050][/us/stat/92/2050]; [Pub. L. 104–227, title I][/us/pl/104/227/tI], § 105, Oct. 2, 1996, [110 Stat. 3040][/us/stat/110/3040].)
 
  __References in Text__ 
 
-    [Section 1362(5) of this title][/us/usc/t16/s1362/5], referred to in subsec. (c)(1)(A), was redesignated section 1362(6) by [Pub. L. 102–582, title IV, § 401(a)][/us/pl/102/582/s401/a], Nov. 2, 1992, [106 Stat. 4909][/us/stat/106/4909].
+    [Section 1362(5) of this title][/us/usc/t16/s1362/5], referred to in subsec. (c)(1)(A), was redesignated section 1362(6) by [Pub. L. 102–582, title IV][/us/pl/102/582/tIV], § 401(a), Nov. 2, 1992, [106 Stat. 4909][/us/stat/106/4909].
 
     The Endangered Species Act of 1973 ([16 U.S.C. 1531][/us/usc/t16/s1531] et seq.), referred to in subsec. (c)(1)(B), is [Pub. L. 93–205][/us/pl/93/205], Dec. 28, 1973, [87 Stat. 884][/us/stat/87/884], as amended, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title][/us/usc/t16/s1531] and Tables.
 
@@ -149,21 +149,21 @@
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–227, § 105(1)][/us/pl/104/227/s105/1], substituted “section 2403(b)” for “section 2403(a)”.
+    1996—Subsec. (a). [Pub. L. 104–227][/us/pl/104/227], § 105(1), substituted “section 2403(b)” for “section 2403(a)”.
 
-    Subsec. (c)(1)(B). [Pub. L. 104–227, § 105(2)][/us/pl/104/227/s105/2], substituted “Species” for “Special”.
+    Subsec. (c)(1)(B). [Pub. L. 104–227][/us/pl/104/227], § 105(2), substituted “Species” for “Special”.
 
-    Subsec. (e)(1)(A). [Pub. L. 104–227, § 105(3)(A)][/us/pl/104/227/s105/3/A], (B), in subsec. (e) relating to terms and conditions of permits substituted “native plants, or native invertebrates to which the permit applies, and” for “or native plants to which the permit applies,” in cl. (i), added cl. (ii), and struck out former cls. (ii) and (iii) which read as follows:
+    Subsec. (e)(1)(A). [Pub. L. 104–227][/us/pl/104/227], § 105(3)(A), (B), in subsec. (e) relating to terms and conditions of permits substituted “native plants, or native invertebrates to which the permit applies, and” for “or native plants to which the permit applies,” in cl. (i), added cl. (ii), and struck out former cls. (ii) and (iii) which read as follows:
 
     “(ii) if any such mammal or bird is authorized to be taken, transported, carried, or shipped, the manner (which manner must be determined by the Director to be humane) in which such action must be accomplished and the area in which such taking must occur, and
 
     “(iii) if any such plant is authorized to be collected, the location and manner in which it must be collected;”.
 
-    Subsec. (e)(2)(A). [Pub. L. 104–227, § 105(3)(C)][/us/pl/104/227/s105/3/C]–(G), in subsec. (e) relating to terms and conditions of permits substituted “or harmful interference within Antarctica” for “within Antarctica (other than within any specially protected area)” and “Specially Protected Species” for “specially protected species” in introductory provisions, substituted “, or” for “; and” in cl. (i)(II), added subcl. (III) in cl. (i), and substituted “within Antarctica are” for “with Antarctica and” in cl. (ii)(II).
+    Subsec. (e)(2)(A). [Pub. L. 104–227][/us/pl/104/227], § 105(3)(C)–(G), in subsec. (e) relating to terms and conditions of permits substituted “or harmful interference within Antarctica” for “within Antarctica (other than within any specially protected area)” and “Specially Protected Species” for “specially protected species” in introductory provisions, substituted “, or” for “; and” in cl. (i)(II), added subcl. (III) in cl. (i), and substituted “within Antarctica are” for “with Antarctica and” in cl. (ii)(II).
 
-    Subsec. (e)(2)(B). [Pub. L. 104–227, § 105(3)(D)][/us/pl/104/227/s105/3/D], in subsec. (e) relating to terms and conditions of permits substituted “Specially Protected Species” for “specially protected species” in introductory provisions.
+    Subsec. (e)(2)(B). [Pub. L. 104–227][/us/pl/104/227], § 105(3)(D), in subsec. (e) relating to terms and conditions of permits substituted “Specially Protected Species” for “specially protected species” in introductory provisions.
 
-    Subsec. (e)(2)(C), (D). [Pub. L. 104–227, § 105(3)(H)][/us/pl/104/227/s105/3/H], in subsec. (e) relating to terms and conditions of permits added subpar. (C) and struck out former subpars. (C) and (D) which read as follows:
+    Subsec. (e)(2)(C), (D). [Pub. L. 104–227][/us/pl/104/227], § 105(3)(H), in subsec. (e) relating to terms and conditions of permits added subpar. (C) and struck out former subpars. (C) and (D) which read as follows:
 
     “(C) Permits authorizing the entry into any specially protected area—
 
@@ -188,12 +188,12 @@
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/usc/t16/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs701
 [/us/usc/t16/s2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2405
-[/us/pl/95/541/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F541%2Fs5
+[/us/pl/95/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F541
 [/us/stat/92/2050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2050
-[/us/pl/104/227/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2Fs105
+[/us/pl/104/227/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2FtI
 [/us/stat/110/3040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3040
 [/us/usc/t16/s1362/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1362%2F5
-[/us/pl/102/582/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2Fs401%2Fa
+[/us/pl/102/582/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2FtIV
 [/us/stat/106/4909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4909
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
@@ -203,12 +203,12 @@
 [/us/act/1918-07-03/ch128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-07-03%2Fch128
 [/us/stat/40/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F755
 [/us/usc/t16/s710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs710
-[/us/pl/104/227/s105/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2Fs105%2F1
-[/us/pl/104/227/s105/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2Fs105%2F2
-[/us/pl/104/227/s105/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2Fs105%2F3%2FA
-[/us/pl/104/227/s105/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2Fs105%2F3%2FC
-[/us/pl/104/227/s105/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2Fs105%2F3%2FD
-[/us/pl/104/227/s105/3/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2Fs105%2F3%2FH
+[/us/pl/104/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227
+[/us/pl/104/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227
+[/us/pl/104/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227
+[/us/pl/104/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227
+[/us/pl/104/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227
+[/us/pl/104/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227
 [/us/usc/t16/s2405/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2405%2Fb%2F3
 
 

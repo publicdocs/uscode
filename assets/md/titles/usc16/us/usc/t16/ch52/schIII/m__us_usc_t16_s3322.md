@@ -37,7 +37,7 @@
 
     (6) after approval of the Commission’s report pursuant to [section 3311 of this title][/us/usc/t16/s3311], documentation that the appropriate State or treaty tribe submitting or undertaking the project proposal has adopted and begun all necessary implementation of the Commission’s management program.
 
-([Pub. L. 96–561, title I, § 121][/us/pl/96/561/s121], Dec. 22, 1980, [94 Stat. 3282][/us/stat/94/3282].)
+([Pub. L. 96–561, title I][/us/pl/96/561/tI], § 121, Dec. 22, 1980, [94 Stat. 3282][/us/stat/94/3282].)
 
 ----------
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t16/s3311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3311
-[/us/pl/96/561/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs121
+[/us/pl/96/561/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtI
 [/us/stat/94/3282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3282
 
 

@@ -29,7 +29,7 @@
 
             Any determination under paragraph (1) shall be made in regulations issued in accordance with [section 553 of title 5][/us/usc/t5/s553]. Any such determination shall be reviewed at least once in every 3-year period. The Secretary concerned shall publish notice of such review in the Federal Register, and shall give the public an opportunity to comment on such review.
 
-([Pub. L. 101–382, title IV, § 489][/us/pl/101/382/s489], Aug. 20, 1990, [104 Stat. 715][/us/stat/104/715].)
+([Pub. L. 101–382, title IV][/us/pl/101/382/tIV], § 489, Aug. 20, 1990, [104 Stat. 715][/us/stat/104/715].)
 
 ----------
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/101/382/s489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs489
+[/us/pl/101/382/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtIV
 [/us/stat/104/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F715
 
 

@@ -35,7 +35,7 @@
 
         Any reference in any law (other than this subchapter), regulation, document, record, map, or other paper of the United States to the Adams National Historic Site shall be considered to be a reference to the historical park.
 
-([Pub. L. 105–342, § 5][/us/pl/105/342/s5], Nov. 2, 1998, [112 Stat. 3201][/us/stat/112/3201].)
+([Pub. L. 105–342][/us/pl/105/342], § 5, Nov. 2, 1998, [112 Stat. 3201][/us/stat/112/3201].)
 
  __References in Text__ 
 
@@ -58,7 +58,7 @@
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
 [/us/usc/t16/s461–467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461%E2%80%93467
-[/us/pl/105/342/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F342%2Fs5
+[/us/pl/105/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F342
 [/us/stat/112/3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3201
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1

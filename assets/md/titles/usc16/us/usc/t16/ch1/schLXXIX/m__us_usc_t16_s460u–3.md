@@ -109,7 +109,7 @@
 
     Such term also includes any structures accessory to the dwelling which are situated on the lands so designated. The maps referred to in this section shall be on file and available for public inspection in the Office of the Director of the National Park Service, Department of the Interior. The Secretary shall designate the land referred to in subparagraph (B). The amount of land so designated shall in every case be not more than three acres in area, and in making such designation the Secretary shall take into account the manner of noncommercial residential use in which the dwelling and land have customarily been enjoyed: Provided, That the Secretary may exclude from the land so designated any beach or waters, together with so much of the land adjoining such beach or waters, as he may deem necessary for public access thereto or public use thereof. All rights of use and occupancy shall be subject to such terms and conditions as the Secretary deems appropriate to assure the use of such property in accordance with the purposes of this subchapter.
 
-([Pub. L. 89–761, § 4][/us/pl/89/761/s4], Nov. 5, 1966, [80 Stat. 1309][/us/stat/80/1309]; [Pub. L. 94–549, § 1(3)][/us/pl/94/549/s1/3], Oct. 18, 1976, [90 Stat. 2529][/us/stat/90/2529]; [Pub. L. 96–612, § 1(5)][/us/pl/96/612/s1/5], Dec. 28, 1980, [94 Stat. 3575][/us/stat/94/3575]; [Pub. L. 99–583, § 1(b)][/us/pl/99/583/s1/b], Oct. 29, 1986, [100 Stat. 3318][/us/stat/100/3318]; [Pub. L. 102–430, § 4(a)][/us/pl/102/430/s4/a], Oct. 23, 1992, [106 Stat. 2208][/us/stat/106/2208].)
+([Pub. L. 89–761][/us/pl/89/761], § 4, Nov. 5, 1966, [80 Stat. 1309][/us/stat/80/1309]; [Pub. L. 94–549][/us/pl/94/549], § 1(3), Oct. 18, 1976, [90 Stat. 2529][/us/stat/90/2529]; [Pub. L. 96–612][/us/pl/96/612], § 1(5), Dec. 28, 1980, [94 Stat. 3575][/us/stat/94/3575]; [Pub. L. 99–583][/us/pl/99/583], § 1(b), Oct. 29, 1986, [100 Stat. 3318][/us/stat/100/3318]; [Pub. L. 102–430][/us/pl/102/430], § 4(a), Oct. 23, 1992, [106 Stat. 2208][/us/stat/106/2208].)
 
  __Amendments__ 
 
@@ -192,15 +192,15 @@ January 4, 1965”.  </td>
 ----------
 ----------
 
-[/us/pl/89/761/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761%2Fs4
+[/us/pl/89/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761
 [/us/stat/80/1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1309
-[/us/pl/94/549/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549%2Fs1%2F3
+[/us/pl/94/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549
 [/us/stat/90/2529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2529
-[/us/pl/96/612/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F612%2Fs1%2F5
+[/us/pl/96/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F612
 [/us/stat/94/3575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3575
-[/us/pl/99/583/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F583%2Fs1%2Fb
+[/us/pl/99/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F583
 [/us/stat/100/3318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3318
-[/us/pl/102/430/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F430%2Fs4%2Fa
+[/us/pl/102/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F430
 [/us/stat/106/2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2208
 [/us/pl/102/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F430
 [/us/pl/99/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F583

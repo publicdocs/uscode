@@ -17,7 +17,7 @@
 
     An area of land as generally depicted as the “Rattlesnake National Recreation Area” on a map entitled “Rattlesnake National Recreation area and Wilderness—Proposed”, and dated October 1, 1980, is hereby established as the Rattle­snake National Recreation Area.
 
-([Pub. L. 96–476, § 3][/us/pl/96/476/s3], Oct. 19, 1980, [94 Stat. 2272][/us/stat/94/2272].)
+([Pub. L. 96–476][/us/pl/96/476], § 3, Oct. 19, 1980, [94 Stat. 2272][/us/stat/94/2272].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/476/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F476%2Fs3
+[/us/pl/96/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F476
 [/us/stat/94/2272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2272
 
 

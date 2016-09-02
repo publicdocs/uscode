@@ -17,7 +17,7 @@
 
     Upon the ceding of jurisdiction by the Legislature of the State of Tennessee and the report of the Attorney General of the United States that a perfect title has been acquired, the lands acquired under the provisions of sections 428 to 428d and 428e to 428i of this title, together with the area already inclosed within the national cemetery at the battle field of Fort Donelson, are declared to be a national battlefield, to be known as the Fort Donelson National Battlefield.
 
-([Mar. 26, 1928, ch. 248, § 6][/us/act/1928-03-26/ch248/s6], [45 Stat. 368][/us/stat/45/368]; [Pub. L. 86–738, § 4][/us/pl/86/738/s4], Sept. 8, 1960, [74 Stat. 876][/us/stat/74/876].)
+([Mar. 26, 1928, ch. 248][/us/act/1928-03-26/ch248], § 6, [45 Stat. 368][/us/stat/45/368]; [Pub. L. 86–738][/us/pl/86/738], § 4, Sept. 8, 1960, [74 Stat. 876][/us/stat/74/876].)
 
  __Change of Name__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1928-03-26/ch248/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-26%2Fch248%2Fs6
+[/us/act/1928-03-26/ch248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-26%2Fch248
 [/us/stat/45/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F368
-[/us/pl/86/738/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F738%2Fs4
+[/us/pl/86/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F738
 [/us/stat/74/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F876
 [/us/pl/86/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F738
 [/us/usc/t16/s428n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs428n

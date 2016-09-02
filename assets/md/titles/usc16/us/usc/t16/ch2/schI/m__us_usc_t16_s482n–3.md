@@ -31,7 +31,7 @@
 
     Sections 7, 8, 9, 10, 16, 17, 18, 19, and 20, township 16 north, range 6 east, Gila and Salt River Base and meridian: Provided, however, That as applied to any lands described in this section, the word “hereinafter” in sections 482n and 482n–1 of this title and the words “date of the enactment of this Act” in [section 482n–2 of this title][/us/usc/t16/s482n–2], shall be deemed to relate to the date of the enactment of this section.
 
-([May 24, 1949, ch. 136, § 4][/us/act/1949-05-24/ch136/s4], as added [May 19, 1955, ch. 42][/us/act/1955-05-19/ch42], [69 Stat. 50][/us/stat/69/50].)
+([May 24, 1949, ch. 136][/us/act/1949-05-24/ch136], § 4, as added [May 19, 1955, ch. 42][/us/act/1955-05-19/ch42], [69 Stat. 50][/us/stat/69/50].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t16/s482n–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs482n%E2%80%932
-[/us/act/1949-05-24/ch136/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch136%2Fs4
+[/us/act/1949-05-24/ch136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch136
 [/us/act/1955-05-19/ch42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-05-19%2Fch42
 [/us/stat/69/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F50
 [/us/usc/t16/s482n–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs482n%E2%80%932

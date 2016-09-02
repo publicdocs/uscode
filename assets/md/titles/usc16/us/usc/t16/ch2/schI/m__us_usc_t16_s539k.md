@@ -47,7 +47,7 @@
 
         Congress does not intend that the designation of the Kelly Butte Special Management Area lead to the creation of protective perimeters or buffer zones around the Area. The fact that non-compatible activities or uses can be seen or heard from within the Kelly Butte Special Management Area shall not, of itself, preclude such activities or uses up to the boundary of the Area.
 
-([Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title VI, § 611\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–334.)
+([Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title VI, § 611\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–334.)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 
  __Interstate 90 Land Exchange__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title III, § 346(a), (e)–(g), (i)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–204, 1501A–206, provided that:
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(3) \[title III, § 346(a), (e)–(g), (i)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–204, 1501A–206, provided that:
 
 >     “(a) This section \[enacting and amending provisions set out as notes below\] shall be referred to as the ‘Interstate 90 Land Exchange Amendment’.
 
@@ -81,11 +81,11 @@
 
 >     “(i) The deadline for the Report to Congress required by section 609(c) of the Interstate 90 Land Exchange Act of 1998 \[section 101(e) \[title VI, § 609(c)\] of [Pub. L. 105–277][/us/pl/105/277], set out below\] is hereby extended. Such Report is due to the Congress 18 months from the date of the enactment of this Interstate 90 Land Exchange Amendment \[Nov. 29, 1999\].”
 
-[Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title VI\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–326, as amended by [Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title III, § 346(b)–(e), (h), (j)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–204 to 1501A–206; [Pub. L. 113–287, § 5(d)(14)][/us/pl/113/287/s5/d/14], Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265], provided that:
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title VI\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–326, as amended by [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(3) \[title III, § 346(b)–(e), (h), (j)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–204 to 1501A–206; [Pub. L. 113–287][/us/pl/113/287], § 5(d)(14), Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265], provided that:
 
 > “SEC. 601. __SHORT TITLE.__ 
 
->     “This Act \[probably should be “this title” meaning [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title VI\]\] may be cited as the ‘Interstate 90 Land Exchange Act of 1998’.
+>     “This Act \[probably should be “this title” meaning [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title VI\]\] may be cited as the ‘Interstate 90 Land Exchange Act of 1998’.
 
 > “SEC. 602. __FINDINGS AND PURPOSE.__ 
 
@@ -435,9 +435,9 @@
 
 >     “The Secretary shall consult with the appropriate Committees of Congress, and local elected officials in the counties in the State of Washington in which the offered lands are located, regarding options to minimize the adverse effect on county revenues of the transfer of the offered lands from private to Federal ownership.”
 
-    \[[Pub. L. 113–287, § 5(d)(14)(A)][/us/pl/113/287/s5/d/14/A], Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265], which directed substitution of “[section 100506 of title 54][/us/usc/t54/s100506], United States Code,” for “section 7 of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–9)” in subsec. (a)(3) of section 606 of the Interstate 90 Land Exchange Act of 1998 ([Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e], title VI), was executed by making the substitution for “section 7 of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 4601–9][/us/usc/t16/s4601–9])” in subsec. (a)(1)(B)(3) of that section, set out above, to reflect the probable intent of Congress.\]
+    \[[Pub. L. 113–287][/us/pl/113/287], § 5(d)(14)(A), Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265], which directed substitution of “[section 100506 of title 54][/us/usc/t54/s100506], United States Code,” for “section 7 of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–9)” in subsec. (a)(3) of section 606 of the Interstate 90 Land Exchange Act of 1998 ([Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e), title VI), was executed by making the substitution for “section 7 of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 4601–9][/us/usc/t16/s4601–9])” in subsec. (a)(1)(B)(3) of that section, set out above, to reflect the probable intent of Congress.\]
 
-    \[[Pub. L. 113–287, § 5(d)(14)(C)][/us/pl/113/287/s5/d/14/C], Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265], which directed substitution of “division A of subtitle III of title 54, United States Code,” for “the National Historic Preservation Act” in subsec. (g)(1) of section 606 of the Interstate 90 Land Exchange Act of 1998 ([Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e], title VI), set out above, was executed by making the substitution in two places in subsec. (g)(1), to reflect the probable intent of Congress.\]
+    \[[Pub. L. 113–287][/us/pl/113/287], § 5(d)(14)(C), Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265], which directed substitution of “division A of subtitle III of title 54, United States Code,” for “the National Historic Preservation Act” in subsec. (g)(1) of section 606 of the Interstate 90 Land Exchange Act of 1998 ([Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e), title VI), set out above, was executed by making the substitution in two places in subsec. (g)(1), to reflect the probable intent of Congress.\]
 
 ----------
 
@@ -447,22 +447,22 @@
 ----------
 
 [/us/usc/t30/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1001
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 [/us/pl/91/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581
 [/us/stat/84/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1566
 [/us/usc/t30/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1001
-[/us/pl/106/113/s1000/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F3
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
-[/us/pl/106/113/s1000/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F3
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/113/287/s5/d/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F14
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3265
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/pl/94/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F357
 [/us/usc/t16/s1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1135
 [/us/usc/t43/s1716/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1716%2Fd
@@ -479,14 +479,14 @@
 [/us/usc/t30/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1001
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
 [/us/usc/t30/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1001
-[/us/pl/113/287/s5/d/14/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F14%2FA
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3265
 [/us/usc/t54/s100506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100506
 [/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/usc/t16/s4601–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4601%E2%80%939
-[/us/pl/113/287/s5/d/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F14%2FC
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3265
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 
 

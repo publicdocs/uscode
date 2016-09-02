@@ -33,15 +33,15 @@
 
         Amounts appropriated pursuant to the authorization of appropriations under [section 1730 of this title][/us/usc/t16/s1730] are in addition to amounts allocated to the Public Lands Corps through other Federal programs or projects.
 
-([Pub. L. 91–378, title II, § 210][/us/pl/91/378/s210], as added [Pub. L. 103–82, title I, § 105(6)][/us/pl/103/82/s105/6], Sept. 21, 1993, [107 Stat. 853][/us/stat/107/853]; amended [Pub. L. 109–154, § 2(f)(1)][/us/pl/109/154/s2/f/1], (g)(4), Dec. 30, 2005, [119 Stat. 2892][/us/stat/119/2892], 2893.)
+([Pub. L. 91–378, title II][/us/pl/91/378/tII], § 210, as added [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 105(6), Sept. 21, 1993, [107 Stat. 853][/us/stat/107/853]; amended [Pub. L. 109–154][/us/pl/109/154], § 2(f)(1), (g)(4), Dec. 30, 2005, [119 Stat. 2892][/us/stat/119/2892], 2893.)
 
  __Amendments__ 
 
-    2005—Subsec. (a). [Pub. L. 109–154, § 2(g)(4)(A)][/us/pl/109/154/s2/g/4/A], substituted “Secretary is” for “Secretary of the Interior and the Secretary of Agriculture are each” in pars. (1) and (2).
+    2005—Subsec. (a). [Pub. L. 109–154][/us/pl/109/154], § 2(g)(4)(A), substituted “Secretary is” for “Secretary of the Interior and the Secretary of Agriculture are each” in pars. (1) and (2).
 
-    Subsec. (b). [Pub. L. 109–154, § 2(g)(4)(B)][/us/pl/109/154/s2/g/4/B], substituted “Secretary” for “Secretary of the Interior and the Secretary of Agriculture”.
+    Subsec. (b). [Pub. L. 109–154][/us/pl/109/154], § 2(g)(4)(B), substituted “Secretary” for “Secretary of the Interior and the Secretary of Agriculture”.
 
-    Subsec. (c). [Pub. L. 109–154, § 2(f)(1)][/us/pl/109/154/s2/f/1], added subsec. (c).
+    Subsec. (c). [Pub. L. 109–154][/us/pl/109/154], § 2(f)(1), added subsec. (c).
 
 ----------
 
@@ -52,13 +52,13 @@
 
 [/us/usc/t42/s12571/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12571%2Fb
 [/us/usc/t16/s1730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1730
-[/us/pl/91/378/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F378%2Fs210
-[/us/pl/103/82/s105/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs105%2F6
+[/us/pl/91/378/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F378%2FtII
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F853
-[/us/pl/109/154/s2/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F154%2Fs2%2Ff%2F1
+[/us/pl/109/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F154
 [/us/stat/119/2892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2892
-[/us/pl/109/154/s2/g/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F154%2Fs2%2Fg%2F4%2FA
-[/us/pl/109/154/s2/g/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F154%2Fs2%2Fg%2F4%2FB
-[/us/pl/109/154/s2/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F154%2Fs2%2Ff%2F1
+[/us/pl/109/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F154
+[/us/pl/109/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F154
+[/us/pl/109/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F154
 
 

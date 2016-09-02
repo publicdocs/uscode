@@ -17,7 +17,7 @@
 
     The Secretary shall, as soon as is practicable after December 23, 1985, complete soil surveys on those private lands that do not have a soil survey suitable for use in determining the land capability class for purposes of this subchapter. In carrying out this section, the Secretary shall, insofar as possible, concentrate on those localities where significant amounts of highly erodible land are being converted to the production of agricultural commodities.
 
-([Pub. L. 99–198, title XII, § 1214][/us/pl/99/198/s1214], formerly § 1213, Dec. 23, 1985, [99 Stat. 1507][/us/stat/99/1507]; renumbered § 1214, [Pub. L. 104–127, title III, § 315(a)(1)][/us/pl/104/127/s315/a/1], Apr. 4, 1996, [110 Stat. 983][/us/stat/110/983].)
+([Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1214, formerly § 1213, Dec. 23, 1985, [99 Stat. 1507][/us/stat/99/1507]; renumbered § 1214, [Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 315(a)(1), Apr. 4, 1996, [110 Stat. 983][/us/stat/110/983].)
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/pl/99/198/s1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1214
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
 [/us/stat/99/1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1507
-[/us/pl/104/127/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs315%2Fa%2F1
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F983
 
 

@@ -47,7 +47,7 @@
 
             Any system described in this subparagraph includes such related structures and facilities (both temporary and permanent) along the route of the system as may be minimally necessary for the construction, operation, and maintenance of the system. Such related structures and facilities shall be described in the application required by [section 3164 of this title][/us/usc/t16/s3164], and shall be approved or disapproved in accordance with the procedures set forth in this subchapter.
 
-([Pub. L. 96–487, title XI, § 1102][/us/pl/96/487/s1102], Dec. 2, 1980, [94 Stat. 2458][/us/stat/94/2458].)
+([Pub. L. 96–487, title XI][/us/pl/96/487/tXI], § 1102, Dec. 2, 1980, [94 Stat. 2458][/us/stat/94/2458].)
 
 ----------
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/usc/t16/s3164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3164
-[/us/pl/96/487/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1102
+[/us/pl/96/487/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXI
 [/us/stat/94/2458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2458
 
 

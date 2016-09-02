@@ -27,7 +27,7 @@
 
         The Commission shall consult with the Committee on all studies and recommendations which it may propose to make or has made, on research programs conducted or proposed to be conducted under the authority of this chapter, and on all applications for permits for scientific research. Any recommendations made by the Committee or any of its members which are not adopted by the Commission shall be transmitted by the Commission to the appropriate Federal agency and to the appropriate committees of Congress with a detailed explanation of the Commission’s reasons for not accepting such recommendations.
 
-([Pub. L. 92–522, title II, § 203][/us/pl/92/522/s203], Oct. 21, 1972, [86 Stat. 1044][/us/stat/86/1044].)
+([Pub. L. 92–522, title II][/us/pl/92/522/tII], § 203, Oct. 21, 1972, [86 Stat. 1044][/us/stat/86/1044].)
 
  __Termination of Advisory Committees__ 
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/92/522/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs203
+[/us/pl/92/522/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtII
 [/us/stat/86/1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1044
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776

@@ -17,7 +17,7 @@
 
     The Secretary of Commerce and the Secretary of the department in which the Coast Guard is operating shall enforce the provisions of this chapter and any regulation issued under this chapter. For purposes of such enforcement, such provisions and regulations shall be considered to be provisions of the Act of 1976 \[[16 U.S.C. 1801][/us/usc/t16/s1801] et seq.\] to which section 311(a), (b), (c), and (d) of the Act of 1976 ([16 U.S.C. 1861(a)][/us/usc/t16/s1861/a], (b), (c), and (d), respectively) apply.
 
-([Pub. L. 97–389, title III, § 308][/us/pl/97/389/s308], Dec. 29, 1982, [96 Stat. 1953][/us/stat/96/1953].)
+([Pub. L. 97–389, title III][/us/pl/97/389/tIII], § 308, Dec. 29, 1982, [96 Stat. 1953][/us/stat/96/1953].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
 [/us/usc/t16/s1861/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1861%2Fa
-[/us/pl/97/389/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F389%2Fs308
+[/us/pl/97/389/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F389%2FtIII
 [/us/stat/96/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1953
 [/us/usc/t16/s3601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3601%2F1
 [/us/usc/t16/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3601

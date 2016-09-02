@@ -105,7 +105,7 @@
 
             The general management plan shall include a determination of whether there are additional representative sites in Richmond that should be added to the park or sites in the rest of the United States that relate to the industrial, governmental, and citizen efforts during World War II that should be linked to and interpreted at the park. Such determination shall consider any information or findings developed in the National Park Service study of the World War II Home Front under [section 410ggg–2 of this title][/us/usc/t16/s410ggg–2].
 
-([Pub. L. 106–352, § 3][/us/pl/106/352/s3], Oct. 24, 2000, [114 Stat. 1370][/us/stat/114/1370]; [Pub. L. 108–352, § 6(2)][/us/pl/108/352/s6/2], Oct. 21, 2004, [118 Stat. 1396][/us/stat/118/1396].)
+([Pub. L. 106–352][/us/pl/106/352], § 3, Oct. 24, 2000, [114 Stat. 1370][/us/stat/114/1370]; [Pub. L. 108–352][/us/pl/108/352], § 6(2), Oct. 21, 2004, [118 Stat. 1396][/us/stat/118/1396].)
 
  __References in Text__ 
 
@@ -115,15 +115,15 @@
 
  __Codification__ 
 
-    In subsec. (g)(1), “[section 100502 of title 54][/us/usc/t54/s100502]” substituted for “[section 12(b) of the Act of August 18, 1970][/us/act/1970-08-18/s12/b] ([16 U.S.C. 1a–7(b)][/us/usc/t16/s1a–7/b]), popularly known as the National Park System General Authorities Act,” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (g)(1), “[section 100502 of title 54][/us/usc/t54/s100502]” substituted for “[section 12(b) of the Act of August 18, 1970][/us/act/1970-08-18/s12/b] ([16 U.S.C. 1a–7(b)][/us/usc/t16/s1a–7/b]), popularly known as the National Park System General Authorities Act,” on authority of [Pub. L. 113–287][/us/pl/113/287], § 6(e), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
  __Amendments__ 
 
-    2004—Subsec. (a)(1). [Pub. L. 108–352, § 6(2)(A)][/us/pl/108/352/s6/2/A], substituted “August 25” for “August 35”.
+    2004—Subsec. (a)(1). [Pub. L. 108–352][/us/pl/108/352], § 6(2)(A), substituted “August 25” for “August 35”.
 
-    Subsec. (b)(1). [Pub. L. 108–352, § 6(2)(B)][/us/pl/108/352/s6/2/B], substituted “the Child Development Field Centers (Ruth C. Powers) (Maritime), Atchison Housing, the Kaiser-Permanente Field Hospital, and Richmond Fire Station 67A” for “the World War II Child Development Centers, the World War II worker housing, the Kaiser-Permanente Field Hospital, and Fire Station 67A”.
+    Subsec. (b)(1). [Pub. L. 108–352][/us/pl/108/352], § 6(2)(B), substituted “the Child Development Field Centers (Ruth C. Powers) (Maritime), Atchison Housing, the Kaiser-Permanente Field Hospital, and Richmond Fire Station 67A” for “the World War II Child Development Centers, the World War II worker housing, the Kaiser-Permanente Field Hospital, and Fire Station 67A”.
 
-    Subsec. (e)(2). [Pub. L. 108–352, § 6(2)(C)][/us/pl/108/352/s6/2/C], substituted “the Child Development Field Centers (Ruth C. Powers) (Maritime), Atchison Housing, the Kaiser-Permanente Field Hospital, and Richmond Fire Station 67A,” for “the World War II day care centers, the World War II worker housing, the Kaiser-Permanente Field Hospital, and Fire Station 67,”.
+    Subsec. (e)(2). [Pub. L. 108–352][/us/pl/108/352], § 6(2)(C), substituted “the Child Development Field Centers (Ruth C. Powers) (Maritime), Atchison Housing, the Kaiser-Permanente Field Hospital, and Richmond Fire Station 67A,” for “the World War II day care centers, the World War II worker housing, the Kaiser-Permanente Field Hospital, and Fire Station 67,”.
 
  __Change of Name__ 
 
@@ -142,9 +142,9 @@
 [/us/usc/t16/s461–467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461%E2%80%93467
 [/us/usc/t54/s100502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100502
 [/us/usc/t16/s410ggg–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410ggg%E2%80%932
-[/us/pl/106/352/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F352%2Fs3
+[/us/pl/106/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F352
 [/us/stat/114/1370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1370
-[/us/pl/108/352/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F352%2Fs6%2F2
+[/us/pl/108/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F352
 [/us/stat/118/1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1396
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
@@ -166,10 +166,10 @@
 [/us/usc/t54/s100502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100502
 [/us/act/1970-08-18/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1970-08-18%2Fs12%2Fb
 [/us/usc/t16/s1a–7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%937%2Fb
-[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
-[/us/pl/108/352/s6/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F352%2Fs6%2F2%2FA
-[/us/pl/108/352/s6/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F352%2Fs6%2F2%2FB
-[/us/pl/108/352/s6/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F352%2Fs6%2F2%2FC
+[/us/pl/108/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F352
+[/us/pl/108/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F352
+[/us/pl/108/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F352
 
 

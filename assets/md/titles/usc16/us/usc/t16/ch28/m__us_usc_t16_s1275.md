@@ -33,7 +33,7 @@
 
         The boundaries of any river proposed in [section 1276(a) of this title][/us/usc/t16/s1276/a] for potential addition to the National Wild and Scenic Rivers System shall generally comprise that area measured within one-quarter mile from the ordinary high water mark on each side of the river. In the case of any designated river, prior to publication of boundaries pursuant to [section 1274(b) of this title][/us/usc/t16/s1274/b], the boundaries also shall comprise the same area. This subsection shall not be construed to limit the possible scope of the study report to address areas which may lie more than one-quarter mile from the ordinary high water mark on each side of the river.
 
-([Pub. L. 90–542, § 4][/us/pl/90/542/s4], Oct. 2, 1968, [82 Stat. 909][/us/stat/82/909]; [Pub. L. 93–279, § 1(b)(1)][/us/pl/93/279/s1/b/1], May 10, 1974, [88 Stat. 122][/us/stat/88/122]; [Pub. L. 93–621, § 1(d)][/us/pl/93/621/s1/d], Jan. 3, 1975, [88 Stat. 2096][/us/stat/88/2096]; [Pub. L. 94–486, title V, § 501][/us/pl/94/486/s501], Oct. 12, 1976, [90 Stat. 2330][/us/stat/90/2330]; [Pub. L. 95–91, title III, § 301(b)][/us/pl/95/91/s301/b], Aug. 4, 1977, [91 Stat. 578][/us/stat/91/578]; [Pub. L. 99–590, title V, § 502][/us/pl/99/590/s502], Oct. 30, 1986, [100 Stat. 3335][/us/stat/100/3335].)
+([Pub. L. 90–542][/us/pl/90/542], § 4, Oct. 2, 1968, [82 Stat. 909][/us/stat/82/909]; [Pub. L. 93–279][/us/pl/93/279], § 1(b)(1), May 10, 1974, [88 Stat. 122][/us/stat/88/122]; [Pub. L. 93–621][/us/pl/93/621], § 1(d), Jan. 3, 1975, [88 Stat. 2096][/us/stat/88/2096]; [Pub. L. 94–486, title V][/us/pl/94/486/tV], § 501, Oct. 12, 1976, [90 Stat. 2330][/us/stat/90/2330]; [Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 301(b), Aug. 4, 1977, [91 Stat. 578][/us/stat/91/578]; [Pub. L. 99–590, title V][/us/pl/99/590/tV], § 502, Oct. 30, 1986, [100 Stat. 3335][/us/stat/100/3335].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 
  __Transfer of Functions__ 
 
-    “Secretary of Energy” substituted for “Chairman of the Federal Power Commission” in subsecs. (b) and (c) pursuant to [Pub. L. 95–91, § 301(b)][/us/pl/95/91/s301/b], which is classified to [section 7151(b) of Title 42][/us/usc/t42/s7151/b], The Public Health and Welfare.
+    “Secretary of Energy” substituted for “Chairman of the Federal Power Commission” in subsecs. (b) and (c) pursuant to [Pub. L. 95–91][/us/pl/95/91], § 301(b), which is classified to [section 7151(b) of Title 42][/us/usc/t42/s7151/b], The Public Health and Welfare.
 
     Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 
@@ -65,17 +65,17 @@
 [/us/usc/t42/s1962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962
 [/us/usc/t16/s1276/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1276%2Fa
 [/us/usc/t16/s1274/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1274%2Fb
-[/us/pl/90/542/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F542%2Fs4
+[/us/pl/90/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F542
 [/us/stat/82/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F909
-[/us/pl/93/279/s1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F279%2Fs1%2Fb%2F1
+[/us/pl/93/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F279
 [/us/stat/88/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F122
-[/us/pl/93/621/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F621%2Fs1%2Fd
+[/us/pl/93/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F621
 [/us/stat/88/2096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2096
-[/us/pl/94/486/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F486%2Fs501
+[/us/pl/94/486/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F486%2FtV
 [/us/stat/90/2330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2330
-[/us/pl/95/91/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fb
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F578
-[/us/pl/99/590/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F590%2Fs502
+[/us/pl/99/590/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F590%2FtV
 [/us/stat/100/3335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3335
 [/us/pl/89/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F80
 [/us/stat/79/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F244
@@ -86,7 +86,7 @@
 [/us/pl/93/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F279
 [/us/usc/t16/s1273/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1273%2Fb
 [/us/usc/t16/s1276/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1276%2Fa
-[/us/pl/95/91/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fb
+[/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/usc/t42/s7151/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7151%2Fb
 
 

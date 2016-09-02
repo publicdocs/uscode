@@ -17,7 +17,7 @@
 
     For the acquisition of lands and interests in lands, there are authorized to be appropriated not more than $39,948,000. For development of the national river, there are authorized to be appropriated not to exceed $9,371,000.
 
-([Pub. L. 92–237, § 7][/us/pl/92/237/s7], Mar. 1, 1972, [86 Stat. 46][/us/stat/86/46]; [Pub. L. 94–578, title I, § 101(3)][/us/pl/94/578/s101/3], title III, § 310, Oct. 21, 1976, [90 Stat. 2732][/us/stat/90/2732], 2736; [Pub. L. 95–625, title II, § 201(2)][/us/pl/95/625/s201/2], Nov. 10, 1978, [92 Stat. 3473][/us/stat/92/3473].)
+([Pub. L. 92–237][/us/pl/92/237], § 7, Mar. 1, 1972, [86 Stat. 46][/us/stat/86/46]; [Pub. L. 94–578, title I][/us/pl/94/578/tI], § 101(3), title III, § 310, Oct. 21, 1976, [90 Stat. 2732][/us/stat/90/2732], 2736; [Pub. L. 95–625, title II][/us/pl/95/625/tII], § 201(2), Nov. 10, 1978, [92 Stat. 3473][/us/stat/92/3473].)
 
  __Amendments__ 
 
@@ -32,11 +32,11 @@
 ----------
 ----------
 
-[/us/pl/92/237/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F237%2Fs7
+[/us/pl/92/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F237
 [/us/stat/86/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F46
-[/us/pl/94/578/s101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2Fs101%2F3
+[/us/pl/94/578/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2FtI
 [/us/stat/90/2732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2732
-[/us/pl/95/625/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs201%2F2
+[/us/pl/95/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtII
 [/us/stat/92/3473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3473
 [/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
 [/us/pl/94/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578

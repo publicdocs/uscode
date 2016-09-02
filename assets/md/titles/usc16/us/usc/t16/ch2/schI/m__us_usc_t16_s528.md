@@ -17,17 +17,17 @@
 
     It is the policy of the Congress that the national forests are established and shall be administered for outdoor recreation, range, timber, watershed, and wildlife and fish purposes. The purposes of sections 528 to 531 of this title are declared to be supplemental to, but not in derogation of, the purposes for which the national forests were established as set forth in [section 475 of this title][/us/usc/t16/s475]. Nothing herein shall be construed as affecting the jurisdiction or responsibilities of the several States with respect to wildlife and fish on the national forests. Nothing herein shall be construed so as to affect the use or administration of the mineral resources of national forest lands or to affect the use or administration of Federal lands not within national forests.
 
-([Pub. L. 86–517, § 1][/us/pl/86/517/s1], June 12, 1960, [74 Stat. 215][/us/stat/74/215].)
+([Pub. L. 86–517][/us/pl/86/517], § 1, June 12, 1960, [74 Stat. 215][/us/stat/74/215].)
 
  __Short Title__ 
 
-[Section 5 of Pub. L. 86–517][/us/pl/86/517/s5], as added [Pub. L. 94–588, § 19][/us/pl/94/588/s19], Oct. 22, 1976, [90 Stat. 2962][/us/stat/90/2962], provided that: 
+[Section 5 of Pub. L. 86–517][/us/pl/86/517/s5], as added [Pub. L. 94–588][/us/pl/94/588], § 19, Oct. 22, 1976, [90 Stat. 2962][/us/stat/90/2962], provided that: 
 
 > “This Act \[enacting this section and sections 529 to 531 of this title\] may be cited as the ‘Multiple-Use Sustained-Yield Act of 1960’.”
 
  __Pilot Program of Charges and Fees for Harvest of Forest Botanical Products__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title III, § 339\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–199, as amended by [Pub. L. 108–108, title III, § 335][/us/pl/108/108/s335], Nov. 10, 2003, [117 Stat. 1312][/us/stat/117/1312]; [Pub. L. 111–88, div. A, title IV, § 420][/us/pl/111/88/s420], Oct. 30, 2009, [123 Stat. 2960][/us/stat/123/2960]; [Pub. L. 113–76, div. G, title IV, § 432][/us/pl/113/76/s432], Jan. 17, 2014, [128 Stat. 345][/us/stat/128/345]; [Pub. L. 113–287, § 5(d)(11)][/us/pl/113/287/s5/d/11], Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265], provided that:
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(3) \[title III, § 339\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–199, as amended by [Pub. L. 108–108, title III][/us/pl/108/108/tIII], § 335, Nov. 10, 2003, [117 Stat. 1312][/us/stat/117/1312]; [Pub. L. 111–88, div. A, title IV][/us/pl/111/88/dA/tIV], § 420, Oct. 30, 2009, [123 Stat. 2960][/us/stat/123/2960]; [Pub. L. 113–76, div. G, title IV][/us/pl/113/76/dG/tIV], § 432, Jan. 17, 2014, [128 Stat. 345][/us/stat/128/345]; [Pub. L. 113–287][/us/pl/113/287], § 5(d)(11), Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265], provided that:
 
 >     “(a)  __Definition of Forest Botanical Product__  __.—__ 
 
@@ -111,7 +111,7 @@
 
 >         The Secretary may make expenditures from the special account under subsection (f) until September 30 of the fiscal year following the last fiscal year specified in paragraph (1). After that date, amounts remaining in the special account shall be transferred to the general fund of the Treasury.”
 
-    \[[Pub. L. 108–108, § 335(3)][/us/pl/108/108/s335/3], which directed amendment of section 1000(a)(3) \[title III, § 339(d)(1)\] of [Pub. L. 106–113][/us/pl/106/113], set out above, was executed to section 1000(a)(3) \[title III, § 339(e)(1)\] of [Pub. L. 106–113][/us/pl/106/113] to reflect the probable intent of Congress.\]
+    \[[Pub. L. 108–108][/us/pl/108/108], § 335(3), which directed amendment of section 1000(a)(3) \[title III, § 339(d)(1)\] of [Pub. L. 106–113][/us/pl/106/113], set out above, was executed to section 1000(a)(3) \[title III, § 339(e)(1)\] of [Pub. L. 106–113][/us/pl/106/113] to reflect the probable intent of Congress.\]
 
 ----------
 
@@ -121,20 +121,20 @@
 ----------
 
 [/us/usc/t16/s475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs475
-[/us/pl/86/517/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F517%2Fs1
+[/us/pl/86/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F517
 [/us/stat/74/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F215
 [/us/pl/86/517/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F517%2Fs5
-[/us/pl/94/588/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588%2Fs19
+[/us/pl/94/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588
 [/us/stat/90/2962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2962
-[/us/pl/106/113/s1000/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F3
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/108/108/s335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2Fs335
+[/us/pl/108/108/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2FtIII
 [/us/stat/117/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1312
-[/us/pl/111/88/s420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F88%2Fs420
+[/us/pl/111/88/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F88%2FdA%2FtIV
 [/us/stat/123/2960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2960
-[/us/pl/113/76/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs432
+[/us/pl/113/76/dG/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdG%2FtIV
 [/us/stat/128/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F345
-[/us/pl/113/287/s5/d/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F11
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3265
 [/us/usc/t16/s528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs528
 [/us/usc/t16/s500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs500
@@ -148,7 +148,7 @@
 [/us/act/1935-06-15/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-06-15%2Fs401
 [/us/usc/t16/s715s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs715s
 [/us/usc/t54/s100904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100904
-[/us/pl/108/108/s335/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2Fs335%2F3
+[/us/pl/108/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 

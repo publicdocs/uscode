@@ -27,11 +27,11 @@
 
         (2) All Continental Shelf fishery resources beyond the exclusive economic zone.
 
-([Pub. L. 94–265, title I, § 101][/us/pl/94/265/s101], Apr. 13, 1976, [90 Stat. 336][/us/stat/90/336]; [Pub. L. 99–659, title I, § 101(b)][/us/pl/99/659/s101/b], Nov. 14, 1986, [100 Stat. 3706][/us/stat/100/3706]; [Pub. L. 101–627, title I, § 102(b)][/us/pl/101/627/s102/b], Nov. 28, 1990, [104 Stat. 4438][/us/stat/104/4438]; [Pub. L. 102–251, title III, § 301(c)][/us/pl/102/251/s301/c], Mar. 9, 1992, [106 Stat. 62][/us/stat/106/62].)
+([Pub. L. 94–265, title I][/us/pl/94/265/tI], § 101, Apr. 13, 1976, [90 Stat. 336][/us/stat/90/336]; [Pub. L. 99–659, title I][/us/pl/99/659/tI], § 101(b), Nov. 14, 1986, [100 Stat. 3706][/us/stat/100/3706]; [Pub. L. 101–627, title I][/us/pl/101/627/tI], § 102(b), Nov. 28, 1990, [104 Stat. 4438][/us/stat/104/4438]; [Pub. L. 102–251, title III][/us/pl/102/251/tIII], § 301(c), Mar. 9, 1992, [106 Stat. 62][/us/stat/106/62].)
 
  __Amendment of Section__ 
 
-    [Pub. L. 102–251, title III][/us/pl/102/251], §§ 301(c), 308, Mar. 9, 1992, [106 Stat. 62][/us/stat/106/62], 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (a) is amended by inserting “and special areas” before the period at the end and subsection (b) is amended by inserting after paragraph (2) the following new paragraph:
+    [Pub. L. 102–251, title III][/us/pl/102/251/tIII], §§ 301(c), 308, Mar. 9, 1992, [106 Stat. 62][/us/stat/106/62], 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (a) is amended by inserting “and special areas” before the period at the end and subsection (b) is amended by inserting after paragraph (2) the following new paragraph:
 
     (3) All fishery resources in the special areas.
 
@@ -57,15 +57,15 @@
 ----------
 
 [/us/usc/t16/s1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1812
-[/us/pl/94/265/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs101
+[/us/pl/94/265/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2FtI
 [/us/stat/90/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F336
-[/us/pl/99/659/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs101%2Fb
+[/us/pl/99/659/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtI
 [/us/stat/100/3706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3706
-[/us/pl/101/627/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs102%2Fb
+[/us/pl/101/627/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtI
 [/us/stat/104/4438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4438
-[/us/pl/102/251/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2Fs301%2Fc
+[/us/pl/102/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2FtIII
 [/us/stat/106/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F62
-[/us/pl/102/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251
+[/us/pl/102/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2FtIII
 [/us/stat/106/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F62
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331

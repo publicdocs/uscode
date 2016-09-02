@@ -27,7 +27,7 @@
 
         In administering, protecting, and developing the entire Fire Island National Seashore, the Secretary shall be guided by the provisions of sections 459e to 459e–9 of this title and the applicable provisions of the laws relating to the national park system, and the Secretary may utilize any other statutory authority available to him for the conservation and development of natural resources to the extent he finds that such authority will further the purposes of sections 459e to 459e–9 of this title. Appropriate user fees may be collected notwithstanding any limitation on such authority by any provision of law.
 
-([Pub. L. 88–587, § 7][/us/pl/88/587/s7], Sept. 11, 1964, [78 Stat. 931][/us/stat/78/931]; [Pub. L. 95–625, title III, § 322(c)][/us/pl/95/625/s322/c], Nov. 10, 1978, [92 Stat. 3489][/us/stat/92/3489].)
+([Pub. L. 88–587][/us/pl/88/587], § 7, Sept. 11, 1964, [78 Stat. 931][/us/stat/78/931]; [Pub. L. 95–625, title III][/us/pl/95/625/tIII], § 322(c), Nov. 10, 1978, [92 Stat. 3489][/us/stat/92/3489].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/88/587/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F587%2Fs7
+[/us/pl/88/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F587
 [/us/stat/78/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F931
-[/us/pl/95/625/s322/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs322%2Fc
+[/us/pl/95/625/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtIII
 [/us/stat/92/3489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3489
 [/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
 

@@ -31,7 +31,7 @@
 
         Notwithstanding the limitations contained in [section 200306(a)(2) of title 54][/us/usc/t54/s200306/a/2], the Secretary of Agriculture may acquire by purchase, exchange, donation or otherwise any right, title, and interest in lands in Le Flore County, Oklahoma, which are outside the boundaries of the Ouachita National Forest. No such right, title or interest may be acquired without the consent of the owner thereof. All lands and interests therein acquired under this subsection shall be administered by the Secretary of Agriculture in accordance with the Act of March 1, 1911, commonly referred to as the Weeks Act ([36 Stat. 961][/us/stat/36/961]) and in accordance with the laws, rules, and regulations generally applicable to units of the national forest system. The Secretary of Agriculture shall extend the boundaries of the Ouachita National Forest to include such lands.
 
-([Pub. L. 100–499, § 20][/us/pl/100/499/s20], Oct. 18, 1988, [102 Stat. 2499][/us/stat/102/2499].)
+([Pub. L. 100–499][/us/pl/100/499], § 20, Oct. 18, 1988, [102 Stat. 2499][/us/stat/102/2499].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
  __Codification__ 
 
-    In subsec. (d), “[section 200306(a)(2) of title 54][/us/usc/t54/s200306/a/2]” substituted for “section 7(a)(1) of the Land and Water Conservation Fund Act of 1965” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (d), “[section 200306(a)(2) of title 54][/us/usc/t54/s200306/a/2]” substituted for “section 7(a)(1) of the Land and Water Conservation Fund Act of 1965” on authority of [Pub. L. 113–287][/us/pl/113/287], § 6(e), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
 ----------
 
@@ -50,13 +50,13 @@
 
 [/us/usc/t54/s200306/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs200306%2Fa%2F2
 [/us/stat/36/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F961
-[/us/pl/100/499/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F499%2Fs20
+[/us/pl/100/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F499
 [/us/stat/102/2499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2499
 [/us/act/1911-03-01/ch186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-01%2Fch186
 [/us/stat/36/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F961
 [/us/usc/t16/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs552
 [/us/usc/t54/s200306/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs200306%2Fa%2F2
-[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 
 

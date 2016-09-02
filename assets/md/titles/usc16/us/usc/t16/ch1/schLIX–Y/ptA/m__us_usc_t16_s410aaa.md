@@ -27,7 +27,7 @@
 
     (5) the wilderness within Death Valley should receive maximum statutory protection by designation pursuant to the Wilderness Act \[[16 U.S.C. 1131][/us/usc/t16/s1131] et seq.\].
 
-([Pub. L. 103–433, title III, § 301][/us/pl/103/433/s301], Oct. 31, 1994, [108 Stat. 4485][/us/stat/108/4485].)
+([Pub. L. 103–433, title III][/us/pl/103/433/tIII], § 301, Oct. 31, 1994, [108 Stat. 4485][/us/stat/108/4485].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 
  __Short Title__ 
 
-[Pub. L. 103–433, § 1][/us/pl/103/433/s1], Oct. 31, 1994, [108 Stat. 4471][/us/stat/108/4471], provided that: 
+[Pub. L. 103–433][/us/pl/103/433], § 1, Oct. 31, 1994, [108 Stat. 4471][/us/stat/108/4471], provided that: 
 
 > “Sections 1 and 2, and titles I through IX of this Act \[enacting this subchapter, provisions listed in a table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132], and provisions set out as notes under this section, [section 410aaa–82 of this title][/us/usc/t16/s410aaa–82], and [section 1781 of Title 43][/us/usc/t43/s1781], Public Lands, and amending provisions listed in a table of National Monuments Established Under Presidential Proclamation set out under [section 431 of this title][/us/usc/t16/s431] and a table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132]\] may be cited as the ‘California Desert Protection Act of 1994’.”
 
@@ -289,7 +289,7 @@
 
  __Findings and Policy__ 
 
-[Pub. L. 103–433, § 2][/us/pl/103/433/s2], Oct. 31, 1994, [108 Stat. 4471][/us/stat/108/4471], provided that:
+[Pub. L. 103–433][/us/pl/103/433], § 2, Oct. 31, 1994, [108 Stat. 4471][/us/stat/108/4471], provided that:
 
 >     “(a)
 
@@ -327,7 +327,7 @@
 
  __Removal of Feral Burros and Horses From Death Valley National Monument__ 
 
-[Pub. L. 102–381, title I][/us/pl/102/381], Oct. 5, 1992, [106 Stat. 1384][/us/stat/106/1384], provided in part: 
+[Pub. L. 102–381, title I][/us/pl/102/381/tI], Oct. 5, 1992, [106 Stat. 1384][/us/stat/106/1384], provided in part: 
 
 > “That in fiscal year 1993 and thereafter, the National Park Service may use helicopters and motorized equipment at Death Valley National Monument for removal of feral burros and horses”.
 
@@ -339,12 +339,12 @@
 ----------
 
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
-[/us/pl/103/433/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs301
+[/us/pl/103/433/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtIII
 [/us/stat/108/4485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4485
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
-[/us/pl/103/433/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs1
+[/us/pl/103/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433
 [/us/stat/108/4471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4471
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132
 [/us/usc/t16/s410aaa–82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410aaa%E2%80%9382
@@ -363,12 +363,12 @@
 [/us/usc/t25/s2719/b/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2719%2Fb%2F1%2FB%2Fii
 [/us/usc/t18/s1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1162
 [/us/usc/t28/s1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1360
-[/us/pl/103/433/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs2
+[/us/pl/103/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433
 [/us/stat/108/4471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4471
 [/us/usc/t43/s1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1781
 [/us/stat/90/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2743
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
-[/us/pl/102/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F381
+[/us/pl/102/381/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F381%2FtI
 [/us/stat/106/1384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1384
 
 

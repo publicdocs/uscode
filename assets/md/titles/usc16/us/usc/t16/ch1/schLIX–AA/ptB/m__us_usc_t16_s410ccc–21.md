@@ -49,7 +49,7 @@
 
         A final identification of all areas and sites to be included in the heritage area shall be included in the heritage area management plan as required in [section 410ccc–23 of this title][/us/usc/t16/s410ccc–23].
 
-([Pub. L. 103–449, title IV, § 401][/us/pl/103/449/s401], Nov. 2, 1994, [108 Stat. 4760][/us/stat/108/4760].)
+([Pub. L. 103–449, title IV][/us/pl/103/449/tIV], § 401, Nov. 2, 1994, [108 Stat. 4760][/us/stat/108/4760].)
 
 ----------
 
@@ -61,7 +61,7 @@
 [/us/usc/t16/s410ccc/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410ccc%2Fa
 [/us/usc/t16/s410ccc–2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410ccc%E2%80%932%2Fd
 [/us/usc/t16/s410ccc–23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410ccc%E2%80%9323
-[/us/pl/103/449/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F449%2Fs401
+[/us/pl/103/449/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F449%2FtIV
 [/us/stat/108/4760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4760
 
 

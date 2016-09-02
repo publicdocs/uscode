@@ -25,7 +25,7 @@
 
  __Interim Moratorium on Bypass Flows__ 
 
-[Pub. L. 104–127, title III, § 389][/us/pl/104/127/s389], Apr. 4, 1996, [110 Stat. 1021][/us/stat/110/1021], as amended by [Pub. L. 104–180, title VII, § 736][/us/pl/104/180/s736], Aug. 6, 1996, [110 Stat. 1607][/us/stat/110/1607], provided that:
+[Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 389, Apr. 4, 1996, [110 Stat. 1021][/us/stat/110/1021], as amended by [Pub. L. 104–180, title VII][/us/pl/104/180/tVII], § 736, Aug. 6, 1996, [110 Stat. 1607][/us/stat/110/1607], provided that:
 
 >     “(a)  __Moratorium__  __.—__ 
 
@@ -118,9 +118,9 @@
 
 [/us/act/1944-09-21/ch412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-09-21%2Fch412
 [/us/stat/58/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F737
-[/us/pl/104/127/s389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs389
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1021
-[/us/pl/104/180/s736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F180%2Fs736
+[/us/pl/104/180/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F180%2FtVII
 [/us/stat/110/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1607
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 

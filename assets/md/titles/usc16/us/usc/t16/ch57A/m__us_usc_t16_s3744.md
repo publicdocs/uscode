@@ -87,29 +87,29 @@
 
         There are authorized to be appropriated to the Fund and to the Secretary not to exceed $6,250,000 for each of fiscal years 1999 through 2003.
 
-([Pub. L. 102–587, title VII, § 7105][/us/pl/102/587/s7105], Nov. 4, 1992, [106 Stat. 5097][/us/stat/106/5097]; [Pub. L. 103–375, § 6(4)][/us/pl/103/375/s6/4]–(7), Oct. 19, 1994, [108 Stat. 3495][/us/stat/108/3495], 3496; [Pub. L. 105–312, title III, § 303][/us/pl/105/312/s303], Oct. 30, 1998, [112 Stat. 2958][/us/stat/112/2958].)
+([Pub. L. 102–587, title VII][/us/pl/102/587/tVII], § 7105, Nov. 4, 1992, [106 Stat. 5097][/us/stat/106/5097]; [Pub. L. 103–375][/us/pl/103/375], § 6(4)–(7), Oct. 19, 1994, [108 Stat. 3495][/us/stat/108/3495], 3496; [Pub. L. 105–312, title III][/us/pl/105/312/tIII], § 303, Oct. 30, 1998, [112 Stat. 2958][/us/stat/112/2958].)
 
  __Amendments__ 
 
     1998—Subsec. (h). [Pub. L. 105–312][/us/pl/105/312] substituted “not to exceed $6,250,000 for each of fiscal years 1999 through 2003.” for “for each of fiscal years 1992 through 1998 not to exceed $6,250,000.”
 
-    1994—Subsec. (d)(5). [Pub. L. 103–375, § 6(4)][/us/pl/103/375/s6/4], struck out par. (5) which read as follows: “may not exceed the State share of the cost of implementing such a project.”
+    1994—Subsec. (d)(5). [Pub. L. 103–375][/us/pl/103/375], § 6(4), struck out par. (5) which read as follows: “may not exceed the State share of the cost of implementing such a project.”
 
-    Subsec. (e). [Pub. L. 103–375, § 6(5)][/us/pl/103/375/s6/5], amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The share of the cost of carrying out eligible projects under this section shall be from a non-Federal source and shall not be in the form of an in-kind contribution.”
+    Subsec. (e). [Pub. L. 103–375][/us/pl/103/375], § 6(5), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The share of the cost of carrying out eligible projects under this section shall be from a non-Federal source and shall not be in the form of an in-kind contribution.”
 
-    Subsec. (g)(2). [Pub. L. 103–375, § 6(6)(A)][/us/pl/103/375/s6/6/A], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall deposit into the Fund—
+    Subsec. (g)(2). [Pub. L. 103–375][/us/pl/103/375], § 6(6)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall deposit into the Fund—
 
     “(A) amounts appropriated to the Secretary for deposit to the Fund, of which not more than 4 percent shall be available to the Secretary and the National Fish and Wildlife Foundation to defray the costs of administering this chapter and evaluating wildlife conservation and appreciation projects; and
 
     “(B) amounts received as donations from the National Fish and Wildlife Foundation or other private entities or persons for deposit to the Fund.”
 
-    Subsec. (g)(3), (4). [Pub. L. 103–375, § 6(6)(B)][/us/pl/103/375/s6/6/B], struck out pars. (3) and (4) which read as follows:
+    Subsec. (g)(3), (4). [Pub. L. 103–375][/us/pl/103/375], § 6(6)(B), struck out pars. (3) and (4) which read as follows:
 
     “(3) The Secretary may accept and use donations from the National Fish and Wildlife Foundation and other private entities or persons for purposes of assisting States under this section.
 
     “(4) Of the total amount provided from the Fund to assist a State in carrying out a wildlife conservation and appreciation project under subsection (a) of this section, at least 50 percent shall have been donated to the Fund by the National Fish and Wildlife Foundation.”
 
-    Subsec. (h). [Pub. L. 103–375, § 6(7)][/us/pl/103/375/s6/7], substituted “1998” for “1995” and struck out before period at end “to match the amount of contributions made to the Fund by the National Fish and Wildlife Foundation”.
+    Subsec. (h). [Pub. L. 103–375][/us/pl/103/375], § 6(7), substituted “1998” for “1995” and struck out before period at end “to match the amount of contributions made to the Fund by the National Fish and Wildlife Foundation”.
 
 ----------
 
@@ -118,17 +118,17 @@
 ----------
 ----------
 
-[/us/pl/102/587/s7105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs7105
+[/us/pl/102/587/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtVII
 [/us/stat/106/5097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5097
-[/us/pl/103/375/s6/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375%2Fs6%2F4
+[/us/pl/103/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375
 [/us/stat/108/3495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3495
-[/us/pl/105/312/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312%2Fs303
+[/us/pl/105/312/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312%2FtIII
 [/us/stat/112/2958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2958
 [/us/pl/105/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312
-[/us/pl/103/375/s6/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375%2Fs6%2F4
-[/us/pl/103/375/s6/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375%2Fs6%2F5
-[/us/pl/103/375/s6/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375%2Fs6%2F6%2FA
-[/us/pl/103/375/s6/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375%2Fs6%2F6%2FB
-[/us/pl/103/375/s6/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375%2Fs6%2F7
+[/us/pl/103/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375
+[/us/pl/103/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375
+[/us/pl/103/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375
+[/us/pl/103/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375
+[/us/pl/103/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375
 
 

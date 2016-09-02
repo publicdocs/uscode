@@ -17,7 +17,7 @@
 
     In addition to the primary purposes for which the Grand Coulee Dam project (hereafter to be known as the Columbia Basin project and herein called the “project”) was authorized under the provisions of the Act of August 30, 1935 ([49 Stat. 1028][/us/stat/49/1028]), the project is authorized and reauthorized as a project subject to the Reclamation Project Act of 1939; and the provisions of each of those two Acts together with the provisions of this Act shall govern the repayment of expenditures and the construction, operation, and maintenance of the works constructed as a part of the project.
 
-([May 27, 1937, ch. 269, § 1][/us/act/1937-05-27/ch269/s1], [50 Stat. 208][/us/stat/50/208]; [Mar. 10, 1943, ch. 14][/us/act/1943-03-10/ch14], [57 Stat. 14][/us/stat/57/14].)
+([May 27, 1937, ch. 269][/us/act/1937-05-27/ch269], § 1, [50 Stat. 208][/us/stat/50/208]; [Mar. 10, 1943, ch. 14][/us/act/1943-03-10/ch14], [57 Stat. 14][/us/stat/57/14].)
 
  __References in Text__ 
 
@@ -35,13 +35,13 @@
 
  __Short Title__ 
 
-[Act May 27, 1937, ch. 269, § 11][/us/act/1937-05-27/ch269/s11], as added by [Mar. 10, 1943, ch. 14][/us/act/1943-03-10/ch14], [57 Stat. 20][/us/stat/57/20], provided that: 
+[Act May 27, 1937, ch. 269][/us/act/1937-05-27/ch269], § 11, as added by [Mar. 10, 1943, ch. 14][/us/act/1943-03-10/ch14], [57 Stat. 20][/us/stat/57/20], provided that: 
 
 > “This Act \[enacting this section, sections 835a to 835c–5 of this title, and provisions set out as a note below\] may be cited as ‘The Columbia Basin Project Act’.”
 
  __Separability__ 
 
-[Act May 27, 1937, ch. 269, § 10][/us/act/1937-05-27/ch269/s10], as added by [Mar. 10, 1943, ch. 14][/us/act/1943-03-10/ch14], [57 Stat. 20][/us/stat/57/20], provided that: 
+[Act May 27, 1937, ch. 269][/us/act/1937-05-27/ch269], § 10, as added by [Mar. 10, 1943, ch. 14][/us/act/1943-03-10/ch14], [57 Stat. 20][/us/stat/57/20], provided that: 
 
 > “If any provision of this Act \[see Short Title note above\] or the application of such provision to any person or circumstances shall be held invalid, the remainder of the Act and the application of such provision to persons or circumstances other than those as to which it is held invalid shall not be affected thereby.”
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/stat/49/1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1028
-[/us/act/1937-05-27/ch269/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-27%2Fch269%2Fs1
+[/us/act/1937-05-27/ch269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-27%2Fch269
 [/us/stat/50/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F208
 [/us/act/1943-03-10/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-03-10%2Fch14
 [/us/stat/57/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F14
@@ -70,10 +70,10 @@
 [/us/act/1937-05-27/ch269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-27%2Fch269
 [/us/act/1943-03-10/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-03-10%2Fch14
 [/us/stat/57/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F14
-[/us/act/1937-05-27/ch269/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-27%2Fch269%2Fs11
+[/us/act/1937-05-27/ch269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-27%2Fch269
 [/us/act/1943-03-10/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-03-10%2Fch14
 [/us/stat/57/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F20
-[/us/act/1937-05-27/ch269/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-27%2Fch269%2Fs10
+[/us/act/1937-05-27/ch269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-27%2Fch269
 [/us/act/1943-03-10/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-03-10%2Fch14
 [/us/stat/57/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F20
 

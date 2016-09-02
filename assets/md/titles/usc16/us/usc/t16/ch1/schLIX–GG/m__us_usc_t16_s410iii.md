@@ -25,11 +25,11 @@
 
     (4) serve as a focal point to recognize and interpret important events and geographic locations within the Shenandoah Valley Battlefields National Historic District representing key Civil War battles in the Shenandoah Valley, including those battlefields associated with the Thomas J. (Stonewall) Jackson campaign of 1862 and the decisive campaigns of 1864.
 
-([Pub. L. 107–373, § 2][/us/pl/107/373/s2], Dec. 19, 2002, [116 Stat. 3104][/us/stat/116/3104].)
+([Pub. L. 107–373][/us/pl/107/373], § 2, Dec. 19, 2002, [116 Stat. 3104][/us/stat/116/3104].)
 
  __Short Title__ 
 
-[Pub. L. 107–373, § 1][/us/pl/107/373/s1], Dec. 19, 2002, [116 Stat. 3104][/us/stat/116/3104], provided that: 
+[Pub. L. 107–373][/us/pl/107/373], § 1, Dec. 19, 2002, [116 Stat. 3104][/us/stat/116/3104], provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘Cedar Creek and Belle Grove National Historical Park Act’.”
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/107/373/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F373%2Fs2
+[/us/pl/107/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F373
 [/us/stat/116/3104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3104
-[/us/pl/107/373/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F373%2Fs1
+[/us/pl/107/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F373
 [/us/stat/116/3104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3104
 
 

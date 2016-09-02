@@ -27,7 +27,7 @@ sixth principal meridian
 
     Containing in all six thousand three hundred and seventy-six acres, more or less.
 
-([Sept. 14, 1950, ch. 950, § 2][/us/act/1950-09-14/ch950/s2], [64 Stat. 849][/us/stat/64/849].)
+([Sept. 14, 1950, ch. 950][/us/act/1950-09-14/ch950], § 2, [64 Stat. 849][/us/stat/64/849].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@ sixth principal meridian
 ----------
 ----------
 
-[/us/act/1950-09-14/ch950/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-14%2Fch950%2Fs2
+[/us/act/1950-09-14/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-14%2Fch950
 [/us/stat/64/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F849
 [/us/stat/57/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F731
 [/us/usc/t16/s406d–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs406d%E2%80%931

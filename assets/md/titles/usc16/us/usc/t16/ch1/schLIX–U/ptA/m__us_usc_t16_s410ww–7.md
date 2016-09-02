@@ -27,7 +27,7 @@
 
         The Secretary is authorized to publish interpretative materials for historic aviation resources in the Miami Valley.
 
-([Pub. L. 102–419, title I, § 108][/us/pl/102/419/s108], Oct. 16, 1992, [106 Stat. 2143][/us/stat/106/2143]; [Pub. L. 111–11, title VII, § 7117(c)][/us/pl/111/11/s7117/c], Mar. 30, 2009, [123 Stat. 1204][/us/stat/123/1204].)
+([Pub. L. 102–419, title I][/us/pl/102/419/tI], § 108, Oct. 16, 1992, [106 Stat. 2143][/us/stat/106/2143]; [Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7117(c), Mar. 30, 2009, [123 Stat. 1204][/us/stat/123/1204].)
 
  __Amendments__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t16/s410ww–1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410ww%E2%80%931%2Fb
-[/us/pl/102/419/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F419%2Fs108
+[/us/pl/102/419/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F419%2FtI
 [/us/stat/106/2143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2143
-[/us/pl/111/11/s7117/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7117%2Fc
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1204
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 

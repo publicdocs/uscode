@@ -17,7 +17,7 @@
 
     The Fort Necessity National Battlefield site is redesignated as the Fort Necessity National Battlefield and any remaining balance of funds appropriated for the purposes of the site shall be available for the purposes of the Fort Necessity National Battlefield.
 
-([Pub. L. 87–134, § 3][/us/pl/87/134/s3], Aug. 10, 1961, [75 Stat. 336][/us/stat/75/336].)
+([Pub. L. 87–134][/us/pl/87/134], § 3, Aug. 10, 1961, [75 Stat. 336][/us/stat/75/336].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/134/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F134%2Fs3
+[/us/pl/87/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F134
 [/us/stat/75/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F336
 
 

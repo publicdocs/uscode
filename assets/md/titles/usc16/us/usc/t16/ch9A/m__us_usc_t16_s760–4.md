@@ -17,11 +17,11 @@
 
     The Secretary of the Interior shall develop, reconstruct, equip, operate, and maintain the Federal fish hatchery, known as the Holden trout hatchery, at Pittsford, Vermont, in accordance with the program established by the Fish and Wildlife Service, Department of the Interior, for the improvement of such hatchery.
 
-([Aug. 1, 1956, ch. 845, § 1][/us/act/1956-08-01/ch845/s1], [70 Stat. 897][/us/stat/70/897].)
+([Aug. 1, 1956, ch. 845][/us/act/1956-08-01/ch845], § 1, [70 Stat. 897][/us/stat/70/897].)
 
  __Change of Name__ 
 
-[Pub. L. 111–8, div. E, title I, § 116][/us/pl/111/8/s116], Mar. 11, 2009, [123 Stat. 724][/us/stat/123/724], provided that: 
+[Pub. L. 111–8, div. E, title I][/us/pl/111/8/dE/tI], § 116, Mar. 11, 2009, [123 Stat. 724][/us/stat/123/724], provided that: 
 
 > “The Pittsford National Fish Hatchery in Chittenden, Vermont is hereby renamed the Dwight D. Eisenhower National Fish Hatchery.”
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/act/1956-08-01/ch845/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch845%2Fs1
+[/us/act/1956-08-01/ch845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch845
 [/us/stat/70/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F897
-[/us/pl/111/8/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs116
+[/us/pl/111/8/dE/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdE%2FtI
 [/us/stat/123/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F724
 
 

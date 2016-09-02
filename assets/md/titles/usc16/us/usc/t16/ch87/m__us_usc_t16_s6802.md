@@ -215,11 +215,11 @@
 
         The Secretary may issue a special recreation permit, and charge a special recreation permit fee in connection with the issuance of the permit, for specialized recreation uses of Federal recreational lands and waters, such as group activities, recreation events, motorized recreational vehicle use.
 
-([Pub. L. 108–447, div. J, title VIII, § 803][/us/pl/108/447/s803], Dec. 8, 2004, [118 Stat. 3378][/us/stat/118/3378].)
+([Pub. L. 108–447, div. J, title VIII][/us/pl/108/447/dJ/tVIII], § 803, Dec. 8, 2004, [118 Stat. 3378][/us/stat/118/3378].)
 
  __References in Text__ 
 
-    [Section 6803 of this title][/us/usc/t16/s6803], referred to in subsec. (b)(5), was in the original a reference to section 4, and was translated as meaning [section 804 of title VIII of div. J of Pub. L. 108–447][/us/pl/108/447/s804], to reflect the probable intent of Congress.
+    [Section 6803 of this title][/us/usc/t16/s6803], referred to in subsec. (b)(5), was in the original a reference to section 4, and was translated as meaning [section 804 of title VIII of div. J of Pub. L. 108–447][/us/pl/108/447/dJ/tVIII/s804], to reflect the probable intent of Congress.
 
     This chapter, referred to in subsec. (d)(1), (4), was in the original “this Act”, and was translated as reading “this title”, meaning title VIII of div. J of [Pub. L. 108–447][/us/pl/108/447], Dec. 8, 2004, [118 Stat. 3377][/us/stat/118/3377], known as the Federal Lands Recreation Enhancement Act, to reflect the probable intent of Congress. For complete classification of title VIII to the Code, see Short Title note set out under [section 6801 of this title][/us/usc/t16/s6801] and Tables.
 
@@ -247,10 +247,10 @@
 [/us/usc/t16/s410hh–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410hh%E2%80%932
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/usc/t16/s718b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs718b
-[/us/pl/108/447/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs803
+[/us/pl/108/447/dJ/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtVIII
 [/us/stat/118/3378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3378
 [/us/usc/t16/s6803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6803
-[/us/pl/108/447/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs804
+[/us/pl/108/447/dJ/tVIII/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtVIII%2Fs804
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/stat/118/3377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3377
 [/us/usc/t16/s6801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6801

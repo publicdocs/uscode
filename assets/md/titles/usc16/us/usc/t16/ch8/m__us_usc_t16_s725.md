@@ -17,7 +17,7 @@
 
     Except where it is specifically provided otherwise, the Secretary of the Interior shall prescribe such regulations, exercise such functions, and perform such duties as may be necessary to carry out the purposes of this chapter.
 
-([June 7, 1924, ch. 346, § 5][/us/act/1924-06-07/ch346/s5], [43 Stat. 651][/us/stat/43/651]; 1939 Reorg. Plan No. II, § 4(e), (f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433].)
+([June 7, 1924, ch. 346][/us/act/1924-06-07/ch346], § 5, [43 Stat. 651][/us/stat/43/651]; 1939 Reorg. Plan No. II, § 4(e), (f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433].)
 
  __Transfer of Functions__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1924-06-07/ch346/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch346%2Fs5
+[/us/act/1924-06-07/ch346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch346
 [/us/stat/43/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F651
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
 [/us/stat/93/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1373

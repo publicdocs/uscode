@@ -73,15 +73,15 @@
 
         The Secretary shall include a description of the annual results of discussions initiated and conducted pursuant to subsection (a)(2)(B), as well as any proposals for further action to achieve the purposes of that subsection, in the report required under [section 1373(f) of this title][/us/usc/t16/s1373/f].
 
-([Pub. L. 92–522, title I, § 108][/us/pl/92/522/s108], Oct. 21, 1972, [86 Stat. 1038][/us/stat/86/1038]; [Pub. L. 100–711, § 4(b)][/us/pl/100/711/s4/b], (c), Nov. 23, 1988, [102 Stat. 4766][/us/stat/102/4766], 4767; [Pub. L. 105–42, § 4(e)][/us/pl/105/42/s4/e], Aug. 15, 1997, [111 Stat. 1125][/us/stat/111/1125].)
+([Pub. L. 92–522, title I][/us/pl/92/522/tI], § 108, Oct. 21, 1972, [86 Stat. 1038][/us/stat/86/1038]; [Pub. L. 100–711][/us/pl/100/711], § 4(b), (c), Nov. 23, 1988, [102 Stat. 4766][/us/stat/102/4766], 4767; [Pub. L. 105–42][/us/pl/105/42], § 4(e), Aug. 15, 1997, [111 Stat. 1125][/us/stat/111/1125].)
 
  __Amendments__ 
 
     1997—Subsecs. (a)(2)(C), (D). [Pub. L. 105–42][/us/pl/105/42] added subpars. (C) and (D).
 
-    1988—Subsec. (a)(2). [Pub. L. 100–711, § 4(b)][/us/pl/100/711/s4/b], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “initiate negotiations as soon as possible with all foreign governments which are engaged in, or which have persons or companies engaged in, commercial fishing operations which are found by the Secretary to be unduly harmful to any species of marine mammal, for the purpose of entering into bilateral and multilateral treaties with such countries to protect marine mammals. The Secretary of State shall prepare a draft agenda relating to this matter for discussion at appropriate international meetings and forums;”.
+    1988—Subsec. (a)(2). [Pub. L. 100–711][/us/pl/100/711], § 4(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “initiate negotiations as soon as possible with all foreign governments which are engaged in, or which have persons or companies engaged in, commercial fishing operations which are found by the Secretary to be unduly harmful to any species of marine mammal, for the purpose of entering into bilateral and multilateral treaties with such countries to protect marine mammals. The Secretary of State shall prepare a draft agenda relating to this matter for discussion at appropriate international meetings and forums;”.
 
-    Subsec. (c). [Pub. L. 100–711, § 4(c)][/us/pl/100/711/s4/c], added subsec. (c).
+    Subsec. (c). [Pub. L. 100–711][/us/pl/100/711], § 4(c), added subsec. (c).
 
  __Effective Date of 1997 Amendment__ 
 
@@ -96,15 +96,15 @@
 
 [/us/usc/t16/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1401
 [/us/usc/t16/s1373/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1373%2Ff
-[/us/pl/92/522/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs108
+[/us/pl/92/522/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtI
 [/us/stat/86/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1038
-[/us/pl/100/711/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711%2Fs4%2Fb
+[/us/pl/100/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711
 [/us/stat/102/4766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4766
-[/us/pl/105/42/s4/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs4%2Fe
+[/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
 [/us/stat/111/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1125
 [/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
-[/us/pl/100/711/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711%2Fs4%2Fb
-[/us/pl/100/711/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711%2Fs4%2Fc
+[/us/pl/100/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711
+[/us/pl/100/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711
 [/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
 [/us/pl/105/42/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs8
 [/us/usc/t16/s1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1362

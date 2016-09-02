@@ -43,7 +43,7 @@
 
         In conducting the reviews and preparing the comprehensive management plan required by subsection (d), the Secretary shall provide for full public participation, shall consider the views of all interested agencies, organizations, and individuals, and shall particularly emphasize the values enumerated in [section 460nn(a)(4) of this title][/us/usc/t16/s460nn/a/4].
 
-([Pub. L. 98–322, title II, § 204][/us/pl/98/322/s204], June 19, 1984, [98 Stat. 257][/us/stat/98/257]; [Pub. L. 110–1, § 1(b)][/us/pl/110/1/s1/b], Jan. 17, 2007, [121 Stat. 3][/us/stat/121/3].)
+([Pub. L. 98–322, title II][/us/pl/98/322/tII], § 204, June 19, 1984, [98 Stat. 257][/us/stat/98/257]; [Pub. L. 110–1][/us/pl/110/1], § 1(b), Jan. 17, 2007, [121 Stat. 3][/us/stat/121/3].)
 
  __Change of Name__ 
 
@@ -59,9 +59,9 @@
 ----------
 
 [/us/usc/t16/s460nn/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460nn%2Fa%2F4
-[/us/pl/98/322/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F322%2Fs204
+[/us/pl/98/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F322%2FtII
 [/us/stat/98/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F257
-[/us/pl/110/1/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F1%2Fs1%2Fb
+[/us/pl/110/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F1
 [/us/stat/121/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F3
 [/us/pl/110/1/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F1%2Fs1%2Fb
 [/us/usc/t16/s460nn–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460nn%E2%80%931

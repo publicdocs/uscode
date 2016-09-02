@@ -49,7 +49,7 @@
 
         The term “speleogen” means relief features on the walls, ceiling, and floor of any cave or lava tube which are part of the surrounding bedrock, including but not limited to anastomoses, scallops, meander niches, petromorphs and rock pendants in solution caves and similar features unique to volcanic caves.
 
-([Pub. L. 100–691, § 3][/us/pl/100/691/s3], Nov. 18, 1988, [102 Stat. 4546][/us/stat/102/4546].)
+([Pub. L. 100–691][/us/pl/100/691], § 3, Nov. 18, 1988, [102 Stat. 4546][/us/stat/102/4546].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 ----------
 
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/100/691/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F691%2Fs3
+[/us/pl/100/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F691
 [/us/stat/102/4546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4546
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688

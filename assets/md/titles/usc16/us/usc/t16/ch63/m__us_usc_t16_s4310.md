@@ -27,7 +27,7 @@
 
         The program  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  shall be directed primarily toward lands managed by the National Park Service, but the Secretary of the Interior may enter into cooperative agreements with other agencies or entities as may be appropriate to carry out the purposes of this section.
 
-([Pub. L. 101–578, title II, § 202][/us/pl/101/578/s202], Nov. 15, 1990, [104 Stat. 2859][/us/stat/104/2859].)
+([Pub. L. 101–578, title II][/us/pl/101/578/tII], § 202, Nov. 15, 1990, [104 Stat. 2859][/us/stat/104/2859].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
  __National Cave and Karst Research Institute__ 
 
-[Pub. L. 105–325][/us/pl/105/325], Oct. 30, 1998, [112 Stat. 3038][/us/stat/112/3038], as amended by [Pub. L. 111–11, title VII, § 7305][/us/pl/111/11/s7305], Mar. 30, 2009, [123 Stat. 1219][/us/stat/123/1219], provided that:
+[Pub. L. 105–325][/us/pl/105/325], Oct. 30, 1998, [112 Stat. 3038][/us/stat/112/3038], as amended by [Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7305, Mar. 30, 2009, [123 Stat. 1219][/us/stat/123/1219], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -113,7 +113,7 @@
 
  __Congressional Findings__ 
 
-[Pub. L. 101–578, title II, § 201][/us/pl/101/578/s201], Nov. 15, 1990, [104 Stat. 2859][/us/stat/104/2859], provided that: 
+[Pub. L. 101–578, title II][/us/pl/101/578/tII], § 201, Nov. 15, 1990, [104 Stat. 2859][/us/stat/104/2859], provided that: 
 
 > “The Congress makes the following findings:
 
@@ -131,11 +131,11 @@
 
  __Cave Research Institute Study__ 
 
-    [Pub. L. 101–578, title II, § 203][/us/pl/101/578/s203], Nov. 15, 1990, [104 Stat. 2860][/us/stat/104/2860], directed Secretary of the Interior, not later than one year after Nov. 15, 1990, to prepare and transmit to Congress a study on the feasibility of establishing a Cave Research Institute.
+    [Pub. L. 101–578, title II][/us/pl/101/578/tII], § 203, Nov. 15, 1990, [104 Stat. 2860][/us/stat/104/2860], directed Secretary of the Interior, not later than one year after Nov. 15, 1990, to prepare and transmit to Congress a study on the feasibility of establishing a Cave Research Institute.
 
  __Authorization of Appropriations__ 
 
-[Pub. L. 101–578, title II, § 204][/us/pl/101/578/s204], Nov. 15, 1990, [104 Stat. 2860][/us/stat/104/2860], provided that: 
+[Pub. L. 101–578, title II][/us/pl/101/578/tII], § 204, Nov. 15, 1990, [104 Stat. 2860][/us/stat/104/2860], provided that: 
 
 > “There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this title \[enacting this section and provisions set out as notes above\].”
 
@@ -146,23 +146,23 @@
 ----------
 ----------
 
-[/us/pl/101/578/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F578%2Fs202
+[/us/pl/101/578/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F578%2FtII
 [/us/stat/104/2859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2859
 [/us/pl/101/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F578
 [/us/stat/104/2859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2859
 [/us/pl/105/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F325
 [/us/stat/112/3038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3038
-[/us/pl/111/11/s7305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7305
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1219
 [/us/pl/101/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F578
 [/us/usc/t16/s4310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4310
-[/us/pl/101/578/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F578%2Fs201
+[/us/pl/101/578/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F578%2FtII
 [/us/stat/104/2859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2859
 [/us/pl/100/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F691
 [/us/usc/t16/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4301
-[/us/pl/101/578/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F578%2Fs203
+[/us/pl/101/578/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F578%2FtII
 [/us/stat/104/2860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2860
-[/us/pl/101/578/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F578%2Fs204
+[/us/pl/101/578/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F578%2FtII
 [/us/stat/104/2860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2860
 
 

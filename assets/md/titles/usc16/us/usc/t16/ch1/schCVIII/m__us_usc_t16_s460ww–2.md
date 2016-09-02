@@ -27,7 +27,7 @@
 
         Nothing in this Act shall impair or affect the requirements of [section 1102 of Public Law 99–662][/us/pl/99/662/s1102] or otherwise affect the authorities of any department or agency of the United States to carry out the project purposes of the Summersville project, including recreation. In releasing water from such project, in order to protect public health and safety and to provide for enjoyment of the resources within the recreation area, other departments and agencies of the United States shall cooperate with the Secretary to facilitate and enhance whitewater recreational use and other recreational use of the recreation area.
 
-([Pub. L. 100–534, title II, § 203][/us/pl/100/534/s203], Oct. 26, 1988, [102 Stat. 2704][/us/stat/102/2704].)
+([Pub. L. 100–534, title II][/us/pl/100/534/tII], § 203, Oct. 26, 1988, [102 Stat. 2704][/us/stat/102/2704].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t16/s460ww–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460ww%E2%80%931
 [/us/pl/99/662/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1102
-[/us/pl/100/534/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F534%2Fs203
+[/us/pl/100/534/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F534%2FtII
 [/us/stat/102/2704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2704
 [/us/pl/100/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F534
 [/us/stat/102/2699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2699

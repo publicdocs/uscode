@@ -17,7 +17,7 @@
 
     New spending authority or authority to enter into contracts provided in this chapter shall be effective only to such extent, or in such amounts, as are provided in advance in appropriation Acts.
 
-([Pub. L. 99–5, § 15][/us/pl/99/5/s15], Mar. 15, 1985, [99 Stat. 15][/us/stat/99/15].)
+([Pub. L. 99–5][/us/pl/99/5], § 15, Mar. 15, 1985, [99 Stat. 15][/us/stat/99/15].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/5/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5%2Fs15
+[/us/pl/99/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5
 [/us/stat/99/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F15
 
 

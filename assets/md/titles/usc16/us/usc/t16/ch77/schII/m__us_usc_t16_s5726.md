@@ -33,7 +33,7 @@
 
             (B) may be deposited in any joint account established by the agreement to fund such projects.
 
-([Pub. L. 106–450, title II, § 207][/us/pl/106/450/s207], Nov. 7, 2000, [114 Stat. 1944][/us/stat/114/1944].)
+([Pub. L. 106–450, title II][/us/pl/106/450/tII], § 207, Nov. 7, 2000, [114 Stat. 1944][/us/stat/114/1944].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/106/450/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F450%2Fs207
+[/us/pl/106/450/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F450%2FtII
 [/us/stat/114/1944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1944
 
 

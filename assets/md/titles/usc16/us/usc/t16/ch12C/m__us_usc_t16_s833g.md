@@ -23,7 +23,7 @@
 
         The Bureau may make such expenditures for offices, vehicles, furnishings, equipment, supplies, and books; for attendance at meetings; and for such other facilities and services as it may find necessary for the proper administration of this chapter.
 
-([May 18, 1938, ch. 250, § 8][/us/act/1938-05-18/ch250/s8], [52 Stat. 406][/us/stat/52/406]; [Aug. 30, 1954, ch. 1076, § 1(23)][/us/act/1954-08-30/ch1076/s1/23], [68 Stat. 968][/us/stat/68/968].)
+([May 18, 1938, ch. 250][/us/act/1938-05-18/ch250], § 8, [52 Stat. 406][/us/stat/52/406]; [Aug. 30, 1954, ch. 1076][/us/act/1954-08-30/ch1076], § 1(23), [68 Stat. 968][/us/stat/68/968].)
 
  __References in Text__ 
 
@@ -47,9 +47,9 @@
 ----------
 
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
-[/us/act/1938-05-18/ch250/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-18%2Fch250%2Fs8
+[/us/act/1938-05-18/ch250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-18%2Fch250
 [/us/stat/52/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F406
-[/us/act/1954-08-30/ch1076/s1/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1076%2Fs1%2F23
+[/us/act/1954-08-30/ch1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1076
 [/us/stat/68/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F968
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285

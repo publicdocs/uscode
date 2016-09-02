@@ -35,7 +35,7 @@
 
         The term “improved property”, as used in this section shall mean a detached, noncommercial residential dwelling, the construction of which was begun before January 1, 1975 (hereafter referred to as “dwelling”), together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
 
-([Pub. L. 94–337, § 2][/us/pl/94/337/s2], July 4, 1976, [90 Stat. 796][/us/stat/90/796]; [Pub. L. 96–287, title III, § 301(1)][/us/pl/96/287/s301/1], June 28, 1980, [94 Stat. 601][/us/stat/94/601]; [Pub. L. 103–437, § 6(a)(3)][/us/pl/103/437/s6/a/3], Nov. 2, 1994, [108 Stat. 4583][/us/stat/108/4583].)
+([Pub. L. 94–337][/us/pl/94/337], § 2, July 4, 1976, [90 Stat. 796][/us/stat/90/796]; [Pub. L. 96–287, title III][/us/pl/96/287/tIII], § 301(1), June 28, 1980, [94 Stat. 601][/us/stat/94/601]; [Pub. L. 103–437][/us/pl/103/437], § 6(a)(3), Nov. 2, 1994, [108 Stat. 4583][/us/stat/108/4583].)
 
  __Amendments__ 
 
@@ -50,11 +50,11 @@
 ----------
 ----------
 
-[/us/pl/94/337/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F337%2Fs2
+[/us/pl/94/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F337
 [/us/stat/90/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F796
-[/us/pl/96/287/s301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F287%2Fs301%2F1
+[/us/pl/96/287/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F287%2FtIII
 [/us/stat/94/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F601
-[/us/pl/103/437/s6/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fa%2F3
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4583
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/96/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F287

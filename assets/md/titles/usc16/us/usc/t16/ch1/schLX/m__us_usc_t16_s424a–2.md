@@ -17,7 +17,7 @@
 
     The Secretary of the Interior, in his discretion, is authorized to convey, without consideration but under such terms and conditions as he may deem advisable, to the State of Georgia all of lot 78 and approximately one hundred and fifty acres of lot 114, Eleventh District, fourth section, of Dade County, Georgia, now a part of the Chickamauga-Chattanooga National Military Park.
 
-([Mar. 5, 1942, ch. 148, § 2][/us/act/1942-03-05/ch148/s2], [56 Stat. 133][/us/stat/56/133].)
+([Mar. 5, 1942, ch. 148][/us/act/1942-03-05/ch148], § 2, [56 Stat. 133][/us/stat/56/133].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1942-03-05/ch148/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-03-05%2Fch148%2Fs2
+[/us/act/1942-03-05/ch148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-03-05%2Fch148
 [/us/stat/56/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F133
 
 

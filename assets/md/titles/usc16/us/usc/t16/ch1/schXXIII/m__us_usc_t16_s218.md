@@ -21,7 +21,7 @@
 
     (b) Quitclaim deed to the United States, made and entered into by and between Carl J. Howell and Dorothy N. Howell, his wife, of Hodgenville, Larue County, Kentucky, recorded on April 18, 1947, in deed book numbered 59, page 435, in the records of the county of Larue, Kentucky.
 
-([May 27, 1949, ch. 149][/us/act/1949-05-27/ch149], [63 Stat. 140][/us/stat/63/140]; [Pub. L. 86–231][/us/pl/86/231], Sept. 8, 1959, [73 Stat. 466][/us/stat/73/466]; [Pub. L. 111–11, title VII, § 7114(b)][/us/pl/111/11/s7114/b] Mar. 30, 2009, [123 Stat. 1202][/us/stat/123/1202].)
+([May 27, 1949, ch. 149][/us/act/1949-05-27/ch149], [63 Stat. 140][/us/stat/63/140]; [Pub. L. 86–231][/us/pl/86/231], Sept. 8, 1959, [73 Stat. 466][/us/stat/73/466]; [Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7114(b) Mar. 30, 2009, [123 Stat. 1202][/us/stat/123/1202].)
 
  __Change of Name__ 
 
@@ -40,7 +40,7 @@
 [/us/stat/63/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F140
 [/us/pl/86/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F231
 [/us/stat/73/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F466
-[/us/pl/111/11/s7114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7114%2Fb
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1202
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 [/us/pl/86/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F231

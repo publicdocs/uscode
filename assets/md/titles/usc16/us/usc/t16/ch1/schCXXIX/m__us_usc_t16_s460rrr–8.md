@@ -17,7 +17,7 @@
 
     The Commission shall terminate on the date that is 10 years after October 12, 2006.
 
-([Pub. L. 109–337, § 10][/us/pl/109/337/s10], Oct. 12, 2006, [120 Stat. 1782][/us/stat/120/1782].)
+([Pub. L. 109–337][/us/pl/109/337], § 10, Oct. 12, 2006, [120 Stat. 1782][/us/stat/120/1782].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/337/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F337%2Fs10
+[/us/pl/109/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F337
 [/us/stat/120/1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1782
 
 

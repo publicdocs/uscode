@@ -17,7 +17,7 @@
 
     The wilderness areas, the national recreation area, the national scenic and wildlife area, the national scenic area, and the botanical areas designated in this subchapter shall be referred to as the “Winding Stair Mountain National Recreation and Wilderness Area”.
 
-([Pub. L. 100–499, § 12][/us/pl/100/499/s12], Oct. 18, 1988, [102 Stat. 2497][/us/stat/102/2497].)
+([Pub. L. 100–499][/us/pl/100/499], § 12, Oct. 18, 1988, [102 Stat. 2497][/us/stat/102/2497].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/499/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F499%2Fs12
+[/us/pl/100/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F499
 [/us/stat/102/2497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2497
 
 

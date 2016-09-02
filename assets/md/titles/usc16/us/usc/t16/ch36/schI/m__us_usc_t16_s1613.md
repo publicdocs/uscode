@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture shall prescribe such regulations as he determines necessary and desirable to carry out the provisions of this subchapter.
 
-([Pub. L. 93–378, § 15][/us/pl/93/378/s15], as added [Pub. L. 94–588, § 11][/us/pl/94/588/s11], Oct. 22, 1976, [90 Stat. 2958][/us/stat/90/2958].)
+([Pub. L. 93–378][/us/pl/93/378], § 15, as added [Pub. L. 94–588][/us/pl/94/588], § 11, Oct. 22, 1976, [90 Stat. 2958][/us/stat/90/2958].)
 
  __Transfer of Functions__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/93/378/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F378%2Fs15
-[/us/pl/94/588/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588%2Fs11
+[/us/pl/93/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F378
+[/us/pl/94/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588
 [/us/stat/90/2958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2958
 [/us/usc/t16/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1601
 

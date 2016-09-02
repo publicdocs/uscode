@@ -23,7 +23,7 @@
 
     (3) a general development plan for the park, including the estimated cost thereof.
 
-([Pub. L. 101–313, title II, § 205][/us/pl/101/313/s205], June 27, 1990, [104 Stat. 279][/us/stat/104/279]; [Pub. L. 103–437, § 6(d)(12)][/us/pl/103/437/s6/d/12], Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
+([Pub. L. 101–313, title II][/us/pl/101/313/tII], § 205, June 27, 1990, [104 Stat. 279][/us/stat/104/279]; [Pub. L. 103–437][/us/pl/103/437], § 6(d)(12), Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/101/313/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F313%2Fs205
+[/us/pl/101/313/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F313%2FtII
 [/us/stat/104/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F279
-[/us/pl/103/437/s6/d/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fd%2F12
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4584
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 

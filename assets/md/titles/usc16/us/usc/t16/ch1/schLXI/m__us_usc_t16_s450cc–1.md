@@ -17,7 +17,7 @@
 
     The administration, protection, and development of the Castle Clinton National Monument shall be under the supervision of the Secretary of the Interior, subject to the provisions of the Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended.
 
-([Aug. 12, 1946, ch. 954, § 2][/us/act/1946-08-12/ch954/s2], [60 Stat. 997][/us/stat/60/997].)
+([Aug. 12, 1946, ch. 954][/us/act/1946-08-12/ch954], § 2, [60 Stat. 997][/us/stat/60/997].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1946-08-12/ch954/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-12%2Fch954%2Fs2
+[/us/act/1946-08-12/ch954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-12%2Fch954
 [/us/stat/60/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F997
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535

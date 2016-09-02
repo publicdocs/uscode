@@ -17,7 +17,7 @@
 
     As used in sections 758e to 758e–5 of this title, the term “Central, Western, and South Pacific Ocean” means that area of the Pacific Ocean between latitudes 30 degrees north to 30 degrees south and from longitudes 120 degrees east to 130 degrees west.
 
-([Pub. L. 92–444, § 7][/us/pl/92/444/s7], formerly § 6, Sept. 29, 1972, [86 Stat. 745][/us/stat/86/745]; renumbered § 7, [Pub. L. 95–295, § 1(4)][/us/pl/95/295/s1/4], June 16, 1978, [92 Stat. 319][/us/stat/92/319].)
+([Pub. L. 92–444][/us/pl/92/444], § 7, formerly § 6, Sept. 29, 1972, [86 Stat. 745][/us/stat/86/745]; renumbered § 7, [Pub. L. 95–295][/us/pl/95/295], § 1(4), June 16, 1978, [92 Stat. 319][/us/stat/92/319].)
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/pl/92/444/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F444%2Fs7
+[/us/pl/92/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F444
 [/us/stat/86/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F745
-[/us/pl/95/295/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F295%2Fs1%2F4
+[/us/pl/95/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F295
 [/us/stat/92/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F319
 
 

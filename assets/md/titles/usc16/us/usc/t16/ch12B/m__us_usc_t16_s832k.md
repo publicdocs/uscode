@@ -23,7 +23,7 @@
 
         The Administrator may, in the name of the United States, under the supervision of the Attorney General, bring such suits at law or in equity as in his judgment may be necessary to carry out the purposes of this chapter; and he shall be represented in the prosecution and defense of all litigation, affecting the status or operation of Bonneville project by the United States attorneys for the districts, respectively, in which such litigation may arise, or by such attorney or attorneys as the Attorney General may designate as authorized by law, in conjunction with the regularly employed attorneys of the Administrator.
 
-([Aug. 20, 1937, ch. 720, § 12][/us/act/1937-08-20/ch720/s12], [50 Stat. 736][/us/stat/50/736]; [Oct. 23, 1945, ch. 433, § 6][/us/act/1945-10-23/ch433/s6], [59 Stat. 547][/us/stat/59/547]; [July 26, 1946, ch. 673][/us/act/1946-07-26/ch673], [60 Stat. 701][/us/stat/60/701].)
+([Aug. 20, 1937, ch. 720][/us/act/1937-08-20/ch720], § 12, [50 Stat. 736][/us/stat/50/736]; [Oct. 23, 1945, ch. 433][/us/act/1945-10-23/ch433], § 6, [59 Stat. 547][/us/stat/59/547]; [July 26, 1946, ch. 673][/us/act/1946-07-26/ch673], [60 Stat. 701][/us/stat/60/701].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/act/1937-08-20/ch720/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-20%2Fch720%2Fs12
+[/us/act/1937-08-20/ch720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-20%2Fch720
 [/us/stat/50/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F736
-[/us/act/1945-10-23/ch433/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-10-23%2Fch433%2Fs6
+[/us/act/1945-10-23/ch433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-10-23%2Fch433
 [/us/stat/59/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F547
 [/us/act/1946-07-26/ch673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-26%2Fch673
 [/us/stat/60/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F701

@@ -19,7 +19,7 @@
 
     (b) Before acquiring lands or interests in lands in Unit I–M (as designated on the map referred to in [section 460u of this title][/us/usc/t16/s460u]) the Secretary shall consult with the Commissioner of the Indiana Department of Transportation to determine what lands or interests in lands are required by the State of Indiana for improvements to State Road 49 and reconstruction and relocation of the interchange with State Road 49 and U.S. 20 so that the acquisition by the Secretary of lands or interests in lands in Unit I–M will not interfere with planned improvements to such interchange and State Road 49 in the area.
 
-([Pub. L. 89–761, § 26][/us/pl/89/761/s26], as added [Pub. L. 102–430, § 7][/us/pl/102/430/s7], Oct. 23, 1992, [106 Stat. 2209][/us/stat/106/2209].)
+([Pub. L. 89–761][/us/pl/89/761], § 26, as added [Pub. L. 102–430][/us/pl/102/430], § 7, Oct. 23, 1992, [106 Stat. 2209][/us/stat/106/2209].)
 
 ----------
 
@@ -30,8 +30,8 @@
 
 [/us/usc/t16/s460u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460u
 [/us/usc/t16/s460u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460u
-[/us/pl/89/761/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761%2Fs26
-[/us/pl/102/430/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F430%2Fs7
+[/us/pl/89/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761
+[/us/pl/102/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F430
 [/us/stat/106/2209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2209
 
 

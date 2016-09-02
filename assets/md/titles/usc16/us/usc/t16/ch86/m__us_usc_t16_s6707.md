@@ -23,7 +23,7 @@
 
         No funds made available under subsection (a) shall be used to pay the costs of constructing any facilities.
 
-([Pub. L. 108–317, § 8][/us/pl/108/317/s8], Oct. 5, 2004, [118 Stat. 1210][/us/stat/118/1210].)
+([Pub. L. 108–317][/us/pl/108/317], § 8, Oct. 5, 2004, [118 Stat. 1210][/us/stat/118/1210].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/108/317/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F317%2Fs8
+[/us/pl/108/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F317
 [/us/stat/118/1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1210
 
 

@@ -107,7 +107,7 @@
 
     Township 68 north, range 17 west, fourth principal meridian, that portion of section 36 east of Crane Lake.
 
-([June 22, 1948, ch. 593, § 2][/us/act/1948-06-22/ch593/s2], [62 Stat. 568][/us/stat/62/568].)
+([June 22, 1948, ch. 593][/us/act/1948-06-22/ch593], § 2, [62 Stat. 568][/us/stat/62/568].)
 
 ----------
 
@@ -118,7 +118,7 @@
 
 [/us/usc/t16/s577c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs577c
 [/us/usc/t16/s577c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs577c
-[/us/act/1948-06-22/ch593/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-22%2Fch593%2Fs2
+[/us/act/1948-06-22/ch593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-22%2Fch593
 [/us/stat/62/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F568
 
 

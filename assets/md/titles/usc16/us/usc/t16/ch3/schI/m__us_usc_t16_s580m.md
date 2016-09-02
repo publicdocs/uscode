@@ -17,7 +17,7 @@
 
     It is declared to be the policy of the United States to provide that reservoir areas of projects for flood control, navigation, hydroelectric power development, and other related purposes owned in fee and under the jurisdiction of the Secretary of the Army and the Chief of Engineers shall be developed and maintained so as to encourage, promote, and assure fully adequate and dependable future resources of readily available timber, through sustained yield programs, reforestation, and accepted conservation practices, and to increase the value of such areas for conservation, recreation, and other beneficial uses: Provided, That such development and management shall be accomplished to the extent practicable and compatible with other uses of the project.
 
-([Pub. L. 86–717, § 1][/us/pl/86/717/s1], Sept. 6, 1960, [74 Stat. 817][/us/stat/74/817].)
+([Pub. L. 86–717][/us/pl/86/717], § 1, Sept. 6, 1960, [74 Stat. 817][/us/stat/74/817].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/717/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F717%2Fs1
+[/us/pl/86/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F717
 [/us/stat/74/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F817
 
 

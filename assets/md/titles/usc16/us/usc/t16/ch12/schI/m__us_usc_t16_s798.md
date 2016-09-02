@@ -31,7 +31,7 @@
 
         Such permits shall not be transferable, and may be canceled by order of the Commission upon failure of permittees to comply with the conditions thereof or for other good cause shown after notice and opportunity for hearing.
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. I, § 5, [41 Stat. 1067][/us/stat/41/1067]; renumbered pt. I and amended, [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, §§ 203, 212, [49 Stat. 841][/us/stat/49/841], 847; [Pub. L. 113–23, § 5][/us/pl/113/23/s5], Aug. 9, 2013, [127 Stat. 495][/us/stat/127/495].)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. I, § 5, [41 Stat. 1067][/us/stat/41/1067]; renumbered pt. I and amended, [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, §§ 203, 212, [49 Stat. 841][/us/stat/49/841], 847; [Pub. L. 113–23][/us/pl/113/23], § 5, Aug. 9, 2013, [127 Stat. 495][/us/stat/127/495].)
 
  __Amendments__ 
 
@@ -50,7 +50,7 @@
 [/us/stat/41/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1067
 [/us/act/1935-08-26/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-26%2Fch687
 [/us/stat/49/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F841
-[/us/pl/113/23/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F23%2Fs5
+[/us/pl/113/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F23
 [/us/stat/127/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F495
 [/us/pl/113/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F23
 

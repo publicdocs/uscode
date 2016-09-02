@@ -19,7 +19,7 @@
 
     (b) The Secretary shall require audits of the financial records of the Commission to be conducted not less frequently than once each year in order to ensure that revenues and other assets of the Commission are being used in a manner authorized under this subchapter.
 
-([Pub. L. 95–290, title III, § 307][/us/pl/95/290/s307], as added [Pub. L. 96–344, § 10][/us/pl/96/344/s10], Sept. 8, 1980, [94 Stat. 1136][/us/stat/94/1136].)
+([Pub. L. 95–290, title III][/us/pl/95/290/tIII], § 307, as added [Pub. L. 96–344][/us/pl/96/344], § 10, Sept. 8, 1980, [94 Stat. 1136][/us/stat/94/1136].)
 
 ----------
 
@@ -28,8 +28,8 @@
 ----------
 ----------
 
-[/us/pl/95/290/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F290%2Fs307
-[/us/pl/96/344/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F344%2Fs10
+[/us/pl/95/290/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F290%2FtIII
+[/us/pl/96/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F344
 [/us/stat/94/1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1136
 
 

@@ -27,7 +27,7 @@
 
         Land, easements, and buildings acquired by the Secretary under subsection (a) shall be administered by the Secretary as part of the park.
 
-([Aug. 19, 1890, ch. 806, § 12][/us/act/1890-08-19/ch806/s12], as added [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title I, § 138\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–266.)
+([Aug. 19, 1890, ch. 806][/us/act/1890-08-19/ch806], § 12, as added [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title I, § 138\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–266.)
 
 ----------
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/act/1890-08-19/ch806/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-08-19%2Fch806%2Fs12
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/act/1890-08-19/ch806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-08-19%2Fch806
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 
 

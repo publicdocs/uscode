@@ -17,7 +17,7 @@
 
     Certain lands in the Nebraska National Forest, Nebraska, which comprise approximately six thousand six hundred acres, as generally depicted on a map entitled “Pine Ridge National Recreation Area—Proposed”, dated September 1986, are hereby designated as the Pine Ridge National Recreation Area.
 
-([Pub. L. 99–504, title II, § 201][/us/pl/99/504/s201], Oct. 20, 1986, [100 Stat. 1804][/us/stat/100/1804].)
+([Pub. L. 99–504, title II][/us/pl/99/504/tII], § 201, Oct. 20, 1986, [100 Stat. 1804][/us/stat/100/1804].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/504/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F504%2Fs201
+[/us/pl/99/504/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F504%2FtII
 [/us/stat/100/1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1804
 
 

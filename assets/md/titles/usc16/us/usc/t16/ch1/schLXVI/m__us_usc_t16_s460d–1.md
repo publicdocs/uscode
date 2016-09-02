@@ -17,7 +17,7 @@
 
     The Chief of Engineers, under the supervision of the Secretary of the Army, is authorized to amend any lease entered into providing for the construction, maintenance, and operation of commercial recreational facilities at a water resource development project under the jurisdiction of the Secretary of the Army so as to provide for the adjustment, either by increase or decrease, from time to time during the term of such lease of the amount of rental or other consideration payable to the United States under such lease, when and to the extent he determines such adjustment or extension to be necessary or advisable in the public interest. No adjustment shall be made under the authority of this section so as to increase or decrease the amount of rental or other consideration payable under such lease for any period prior to the date of such adjustment.
 
-([Pub. L. 87–236][/us/pl/87/236], Sept. 14, 1961, [75 Stat. 509][/us/stat/75/509]; [Pub. L. 89–298, title II, § 215][/us/pl/89/298/s215], Oct. 27, 1965, [79 Stat. 1088][/us/stat/79/1088].)
+([Pub. L. 87–236][/us/pl/87/236], Sept. 14, 1961, [75 Stat. 509][/us/stat/75/509]; [Pub. L. 89–298, title II][/us/pl/89/298/tII], § 215, Oct. 27, 1965, [79 Stat. 1088][/us/stat/79/1088].)
 
  __Amendments__ 
 
@@ -32,7 +32,7 @@
 
 [/us/pl/87/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F236
 [/us/stat/75/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F509
-[/us/pl/89/298/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F298%2Fs215
+[/us/pl/89/298/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F298%2FtII
 [/us/stat/79/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1088
 [/us/pl/89/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F298
 

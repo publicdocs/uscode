@@ -17,7 +17,7 @@
 
     The boundaries of the recreation area, as well as the boundaries of the inland sector included therein, shall be as shown on a map entitled “Proposed Oregon Dunes National Recreation Area” dated May 1971, which is on file and available for public inspection in the Office of the Chief, Forest Service, Department of Agriculture, and to which is attached and hereby made a part thereof a detailed description by metes and bounds of the exterior boundaries of the recreation area and of the inland sector. The Secretary may by publication of a revised map or description in the Federal Register correct clerical or typographical errors in said map or descriptions.
 
-([Pub. L. 92–260, § 4][/us/pl/92/260/s4], Mar. 23, 1972, [86 Stat. 99][/us/stat/86/99].)
+([Pub. L. 92–260][/us/pl/92/260], § 4, Mar. 23, 1972, [86 Stat. 99][/us/stat/86/99].)
 
  __Siuslaw National Forest__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/92/260/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F260%2Fs4
+[/us/pl/92/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F260
 [/us/stat/86/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F99
 [/us/pl/92/260/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F260%2Fs6
 

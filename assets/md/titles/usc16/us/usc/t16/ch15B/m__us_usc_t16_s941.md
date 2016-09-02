@@ -31,7 +31,7 @@
 
     (7) The lower Great Lakes are uniquely different from the upper Great Lakes biologically, physically, and in the degree of human use and shoreline development, and special fishery resource assessments and management activities are necessary to respond effectively to these special circumstances.
 
-([Pub. L. 101–537, title I, § 1002][/us/pl/101/537/s1002], Nov. 8, 1990, [104 Stat. 2370][/us/stat/104/2370]; [Pub. L. 101–646, title II, § 2002][/us/pl/101/646/s2002], Nov. 29, 1990, [104 Stat. 4773][/us/stat/104/4773]; [Pub. L. 104–332, § 2(h)(1)][/us/pl/104/332/s2/h/1], Oct. 26, 1996, [110 Stat. 4091][/us/stat/110/4091]; [Pub. L. 105–265, § 3(b)][/us/pl/105/265/s3/b], Oct. 19, 1998, [112 Stat. 2358][/us/stat/112/2358].)
+([Pub. L. 101–537, title I][/us/pl/101/537/tI], § 1002, Nov. 8, 1990, [104 Stat. 2370][/us/stat/104/2370]; [Pub. L. 101–646, title II][/us/pl/101/646/tII], § 2002, Nov. 29, 1990, [104 Stat. 4773][/us/stat/104/4773]; [Pub. L. 104–332][/us/pl/104/332], § 2(h)(1), Oct. 26, 1996, [110 Stat. 4091][/us/stat/110/4091]; [Pub. L. 105–265][/us/pl/105/265], § 3(b), Oct. 19, 1998, [112 Stat. 2358][/us/stat/112/2358].)
 
  __Codification__ 
 
@@ -39,31 +39,31 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–332][/us/pl/104/332] made technical amendment to [Pub. L. 101–646, § 2002][/us/pl/101/646/s2002], which enacted this section.
+    1996—[Pub. L. 104–332][/us/pl/104/332] made technical amendment to [Pub. L. 101–646][/us/pl/101/646], § 2002, which enacted this section.
 
  __Short Title of 2006 Amendment__ 
 
-[Pub. L. 109–326, § 1][/us/pl/109/326/s1], Oct. 11, 2006, [120 Stat. 1761][/us/stat/120/1761], provided that: 
+[Pub. L. 109–326][/us/pl/109/326], § 1, Oct. 11, 2006, [120 Stat. 1761][/us/stat/120/1761], provided that: 
 
 > “This Act \[amending sections 941b to 941g of this title and enacting provisions set out as notes under this section\] may be cited as the ‘Great Lakes Fish and Wildlife Restoration Act of 2006’.”
 
  __Short Title of 1998 Amendment__ 
 
-[Pub. L. 105–265, § 1][/us/pl/105/265/s1], Oct. 19, 1998, [112 Stat. 2358][/us/stat/112/2358], provided that: 
+[Pub. L. 105–265][/us/pl/105/265], § 1, Oct. 19, 1998, [112 Stat. 2358][/us/stat/112/2358], provided that: 
 
 > “This Act \[amending this section and sections 941 to 941g of this title and enacting provisions set out as a note under this section\] may be cited as the ‘Great Lakes Fish and Wildlife Restoration Act of 1998’.”
 
  __Short Title__ 
 
-[Section 1001 of title I of Pub. L. 101–537][/us/pl/101/537/s1001], and [section 2001 of title II of Pub. L. 101–646][/us/pl/101/646/s2001], as amended by [Pub. L. 104–332, § 2(h)(1)][/us/pl/104/332/s2/h/1], Oct. 26, 1996, [110 Stat. 4091][/us/stat/110/4091], provided that: 
+[Section 1001 of title I of Pub. L. 101–537][/us/pl/101/537/tI/s1001], and [section 2001 of title II of Pub. L. 101–646][/us/pl/101/646/tII/s2001], as amended by [Pub. L. 104–332][/us/pl/104/332], § 2(h)(1), Oct. 26, 1996, [110 Stat. 4091][/us/stat/110/4091], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Great Lakes Fish and Wildlife Restoration Act of 1990’.”
 
- Title II of [Pub. L. 101–646][/us/pl/101/646] was repealed by [Pub. L. 105–265, § 3(b)][/us/pl/105/265/s3/b], Oct. 19, 1998, [112 Stat. 2358][/us/stat/112/2358].
+ Title II of [Pub. L. 101–646][/us/pl/101/646] was repealed by [Pub. L. 105–265][/us/pl/105/265], § 3(b), Oct. 19, 1998, [112 Stat. 2358][/us/stat/112/2358].
 
  __Continued Monitoring and Assessment of Study Findings and Recommendations__ 
 
-[Pub. L. 109–326, § 8][/us/pl/109/326/s8], Oct. 11, 2006, [120 Stat. 1766][/us/stat/120/1766], provided that: 
+[Pub. L. 109–326][/us/pl/109/326], § 8, Oct. 11, 2006, [120 Stat. 1766][/us/stat/120/1766], provided that: 
 
 > “The Director of the United States Fish and Wildlife Service—
 
@@ -73,7 +73,7 @@
 
  __Congressional Findings__ 
 
-[Pub. L. 109–326, § 2][/us/pl/109/326/s2], Oct. 11, 2006, [120 Stat. 1761][/us/stat/120/1761], provided that: 
+[Pub. L. 109–326][/us/pl/109/326], § 2, Oct. 11, 2006, [120 Stat. 1761][/us/stat/120/1761], provided that: 
 
 > “Congress finds that—
 
@@ -89,7 +89,7 @@
 
 >     “(6) the Great Lakes Fish and Wildlife Restoration Act \[of 1990\] ([16 U.S.C. 941][/us/usc/t16/s941] et seq.) allows Federal agencies, States, and tribes to work in an effective partnership by providing the funding for restoration work.”
 
-[Pub. L. 105–265, § 2][/us/pl/105/265/s2], Oct. 19, 1998, [112 Stat. 2358][/us/stat/112/2358], provided that: 
+[Pub. L. 105–265][/us/pl/105/265], § 2, Oct. 19, 1998, [112 Stat. 2358][/us/stat/112/2358], provided that: 
 
 > “Congress finds that—
 
@@ -110,38 +110,38 @@
 ----------
 ----------
 
-[/us/pl/101/537/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F537%2Fs1002
+[/us/pl/101/537/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F537%2FtI
 [/us/stat/104/2370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2370
-[/us/pl/101/646/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs2002
+[/us/pl/101/646/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2FtII
 [/us/stat/104/4773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4773
-[/us/pl/104/332/s2/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fh%2F1
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
 [/us/stat/110/4091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4091
-[/us/pl/105/265/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F265%2Fs3%2Fb
+[/us/pl/105/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F265
 [/us/stat/112/2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2358
 [/us/pl/101/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F537
 [/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
 [/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
 [/us/pl/105/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F265
 [/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
-[/us/pl/101/646/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs2002
-[/us/pl/109/326/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F326%2Fs1
+[/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
+[/us/pl/109/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F326
 [/us/stat/120/1761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1761
-[/us/pl/105/265/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F265%2Fs1
+[/us/pl/105/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F265
 [/us/stat/112/2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2358
-[/us/pl/101/537/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F537%2Fs1001
-[/us/pl/101/646/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs2001
-[/us/pl/104/332/s2/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fh%2F1
+[/us/pl/101/537/tI/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F537%2FtI%2Fs1001
+[/us/pl/101/646/tII/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2FtII%2Fs2001
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
 [/us/stat/110/4091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4091
 [/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
-[/us/pl/105/265/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F265%2Fs3%2Fb
+[/us/pl/105/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F265
 [/us/stat/112/2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2358
-[/us/pl/109/326/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F326%2Fs8
+[/us/pl/109/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F326
 [/us/stat/120/1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1766
-[/us/pl/109/326/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F326%2Fs2
+[/us/pl/109/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F326
 [/us/stat/120/1761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1761
 [/us/usc/t33/s1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1268
 [/us/usc/t16/s941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs941
-[/us/pl/105/265/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F265%2Fs2
+[/us/pl/105/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F265
 [/us/stat/112/2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2358
 
 

@@ -23,7 +23,7 @@
 
     (c) Between Cherokee National Forest (Unaka Division) and Great Smoky Mountains National Park, the boundary shall follow the boundary of said forest as described in Proclamation Numbered 2183 of July 8, 1936.
 
-([July 26, 1950, ch. 492, § 1][/us/act/1950-07-26/ch492/s1], [64 Stat. 377][/us/stat/64/377].)
+([July 26, 1950, ch. 492][/us/act/1950-07-26/ch492], § 1, [64 Stat. 377][/us/stat/64/377].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1950-07-26/ch492/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-07-26%2Fch492%2Fs1
+[/us/act/1950-07-26/ch492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-07-26%2Fch492
 [/us/stat/64/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F377
 
 

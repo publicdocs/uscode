@@ -101,7 +101,7 @@
 
         If the State of Alaska determines that a recommendation under subsection (a)(3)(C) is inconsistent with paragraphs (1) and (2) of subsection (a), the State of Alaska may decline to adopt all or part of the recommendations in accordance with the procedures established under [section 803(j)(2) of this title][/us/usc/t16/s803/j/2].
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. I, § 32, as added [Pub. L. 106–469, title V, § 501][/us/pl/106/469/s501], Nov. 9, 2000, [114 Stat. 2037][/us/stat/114/2037]; amended [Pub. L. 109–58, title II, § 244][/us/pl/109/58/s244], Aug. 8, 2005, [119 Stat. 678][/us/stat/119/678].)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. I, § 32, as added [Pub. L. 106–469, title V][/us/pl/106/469/tV], § 501, Nov. 9, 2000, [114 Stat. 2037][/us/stat/114/2037]; amended [Pub. L. 109–58, title II][/us/pl/109/58/tII], § 244, Aug. 8, 2005, [119 Stat. 678][/us/stat/119/678].)
 
  __References in Text__ 
 
@@ -111,9 +111,9 @@
 
  __Amendments__ 
 
-    2005—Subsec. (a)(3)(C). [Pub. L. 109–58, § 244(1)][/us/pl/109/58/s244/1], inserted “except as provided in subsection (j),” before “conditions”.
+    2005—Subsec. (a)(3)(C). [Pub. L. 109–58][/us/pl/109/58], § 244(1), inserted “except as provided in subsection (j),” before “conditions”.
 
-    Subsec. (j). [Pub. L. 109–58, § 244(2)][/us/pl/109/58/s244/2], added subsec. (j).
+    Subsec. (j). [Pub. L. 109–58][/us/pl/109/58], § 244(2), added subsec. (j).
 
  __Transfer of Functions__ 
 
@@ -133,9 +133,9 @@
 [/us/usc/t16/s3102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3102%2F4
 [/us/usc/t16/s803/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs803%2Fj%2F2
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
-[/us/pl/106/469/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs501
+[/us/pl/106/469/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2FtV
 [/us/stat/114/2037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2037
-[/us/pl/109/58/s244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs244
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F678
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F884
@@ -143,8 +143,8 @@
 [/us/act/1934-03-10/ch55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-10%2Fch55
 [/us/stat/48/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F401
 [/us/usc/t16/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs661
-[/us/pl/109/58/s244/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs244%2F1
-[/us/pl/109/58/s244/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs244%2F2
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

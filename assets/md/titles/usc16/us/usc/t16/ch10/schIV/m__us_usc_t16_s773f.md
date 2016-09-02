@@ -79,13 +79,13 @@
 
             In this subsection, the term “permit” means any license, certificate, approval, registration, charter, membership, exemption, or other form of permission issued by the Commission or the Secretary, and includes any quota share or other transferable quota issued by the Secretary.
 
-([Pub. L. 97–176, § 8][/us/pl/97/176/s8], May 17, 1982, [96 Stat. 80][/us/stat/96/80]; [Pub. L. 109–479, title III, § 301(a)][/us/pl/109/479/s301/a], (b), Jan. 12, 2007, [120 Stat. 3621][/us/stat/120/3621], 3622.)
+([Pub. L. 97–176][/us/pl/97/176], § 8, May 17, 1982, [96 Stat. 80][/us/stat/96/80]; [Pub. L. 109–479, title III][/us/pl/109/479/tIII], § 301(a), (b), Jan. 12, 2007, [120 Stat. 3621][/us/stat/120/3621], 3622.)
 
  __Amendments__ 
 
-    2007—Subsec. (a). [Pub. L. 109–479, § 301(a)][/us/pl/109/479/s301/a], substituted “$200,000” for “$25,000” and “violator, the degree of culpability, any history of prior offenses,” for “violation, the degree of culpability, and history of prior offenses, ability to pay,” and inserted at end “In assessing such penalty, the Secretary may also consider any information provided by the violator relating to the ability of the violator to pay if the information is provided to the Secretary at least 30 days prior to an administrative hearing.”
+    2007—Subsec. (a). [Pub. L. 109–479][/us/pl/109/479], § 301(a), substituted “$200,000” for “$25,000” and “violator, the degree of culpability, any history of prior offenses,” for “violation, the degree of culpability, and history of prior offenses, ability to pay,” and inserted at end “In assessing such penalty, the Secretary may also consider any information provided by the violator relating to the ability of the violator to pay if the information is provided to the Secretary at least 30 days prior to an administrative hearing.”
 
-    Subsec. (e). [Pub. L. 109–479, § 301(b)][/us/pl/109/479/s301/b], added subsec. (e).
+    Subsec. (e). [Pub. L. 109–479][/us/pl/109/479], § 301(b), added subsec. (e).
 
 ----------
 
@@ -100,11 +100,11 @@
 [/us/usc/t5/s706/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs706%2F2
 [/us/usc/t16/s773e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs773e
 [/us/usc/t16/s773e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs773e
-[/us/pl/97/176/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F176%2Fs8
+[/us/pl/97/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F176
 [/us/stat/96/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F80
-[/us/pl/109/479/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs301%2Fa
+[/us/pl/109/479/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtIII
 [/us/stat/120/3621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3621
-[/us/pl/109/479/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs301%2Fa
-[/us/pl/109/479/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs301%2Fb
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
 
 

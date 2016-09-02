@@ -17,7 +17,7 @@
 
     The administration, protection, and development of the aforesaid national monument shall be exercised under the direction of the Secretary of the Interior by the National Park Service subject to the provisions of the Act of August 25, 1916, entitled “An Act to establish a National Park Service, and for other purposes”, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended.
 
-([Aug. 21, 1935, ch. 592, § 3][/us/act/1935-08-21/ch592/s3], [49 Stat. 666][/us/stat/49/666].)
+([Aug. 21, 1935, ch. 592][/us/act/1935-08-21/ch592], § 3, [49 Stat. 666][/us/stat/49/666].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1935-08-21/ch592/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-21%2Fch592%2Fs3
+[/us/act/1935-08-21/ch592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-21%2Fch592
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535

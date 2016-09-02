@@ -47,7 +47,7 @@
 
         (2) properly allocable administrative costs of the Federal Government for the activities specified above.
 
-([Pub. L. 96–451, title III, § 303][/us/pl/96/451/s303], Oct. 14, 1980, [94 Stat. 1991][/us/stat/94/1991]; [Pub. L. 97–424, title IV, § 422][/us/pl/97/424/s422], Jan. 6, 1983, [96 Stat. 2164][/us/stat/96/2164]; [Pub. L. 99–190, § 101(d)][/us/pl/99/190/s101/d] \[title II, § 201\], Dec. 19, 1985, [99 Stat. 1224][/us/stat/99/1224], 1245; [Pub. L. 100–418, title I, § 1214(r)][/us/pl/100/418/s1214/r], Aug. 23, 1988, [102 Stat. 1160][/us/stat/102/1160]; [Pub. L. 105–83, title III, § 322][/us/pl/105/83/s322], Nov. 14, 1997, [111 Stat. 1596][/us/stat/111/1596].)
+([Pub. L. 96–451, title III][/us/pl/96/451/tIII], § 303, Oct. 14, 1980, [94 Stat. 1991][/us/stat/94/1991]; [Pub. L. 97–424, title IV][/us/pl/97/424/tIV], § 422, Jan. 6, 1983, [96 Stat. 2164][/us/stat/96/2164]; [Pub. L. 99–190][/us/pl/99/190], § 101(d) \[title II, § 201\], Dec. 19, 1985, [99 Stat. 1224][/us/stat/99/1224], 1245; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1214(r), Aug. 23, 1988, [102 Stat. 1160][/us/stat/102/1160]; [Pub. L. 105–83, title III][/us/pl/105/83/tIII], § 322, Nov. 14, 1997, [111 Stat. 1596][/us/stat/111/1596].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 
     Section was not enacted as part of the Forest and Rangeland Renewable Resources Planning Act of 1974 which comprises this subchapter.
 
-    In subsec. (c)(2)(A), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act, as amended” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (c)(2)(A), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act, as amended” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
@@ -69,11 +69,11 @@
 
     Subsec. (e). [Pub. L. 99–190][/us/pl/99/190] struck out subsec. (e) which related to sense of Congress with respect to disposition of unexpended funds.
 
-    1983—Subsec. (b)(1). [Pub. L. 97–424, § 422(b)][/us/pl/97/424/s422/b], struck out “and before October 1, 1985,” after “September 30, 1979”.
+    1983—Subsec. (b)(1). [Pub. L. 97–424][/us/pl/97/424], § 422(b), struck out “and before October 1, 1985,” after “September 30, 1979”.
 
-    Subsec. (d). [Pub. L. 97–424, § 422(a)][/us/pl/97/424/s422/a], substituted provisions relating to fiscal years 1983 through 1985 for provision that directed that for each of the first 5 fiscal years beginning after Sept. 30, 1980, there was authorized after that date to be appropriated to the Secretary of Agriculture, out of any amounts in the Trust Fund, an amount equal to the sum of the amount by which the sum estimated by the Secretary of Agriculture for the fiscal year under [section 1601(d)(2) of this title][/us/usc/t16/s1601/d/2] to be necessary for reforestation and other treatment of acreage, as set forth in the report transmitted by the Secretary to the Congress under that section for the fiscal year, exceeded the sum of the amounts appropriated for the fiscal year under the authorization contained in [section 1601(d)(3) of this title][/us/usc/t16/s1601/d/3] and under any other provision of law to carry out the same purpose; and such sums as were determined by the Secretary of Agriculture to be properly allocable to administrative costs of the Federal Government incurred for the fiscal year in connection with the reforestation program carried out under this chapter.
+    Subsec. (d). [Pub. L. 97–424][/us/pl/97/424], § 422(a), substituted provisions relating to fiscal years 1983 through 1985 for provision that directed that for each of the first 5 fiscal years beginning after Sept. 30, 1980, there was authorized after that date to be appropriated to the Secretary of Agriculture, out of any amounts in the Trust Fund, an amount equal to the sum of the amount by which the sum estimated by the Secretary of Agriculture for the fiscal year under [section 1601(d)(2) of this title][/us/usc/t16/s1601/d/2] to be necessary for reforestation and other treatment of acreage, as set forth in the report transmitted by the Secretary to the Congress under that section for the fiscal year, exceeded the sum of the amounts appropriated for the fiscal year under the authorization contained in [section 1601(d)(3) of this title][/us/usc/t16/s1601/d/3] and under any other provision of law to carry out the same purpose; and such sums as were determined by the Secretary of Agriculture to be properly allocable to administrative costs of the Federal Government incurred for the fiscal year in connection with the reforestation program carried out under this chapter.
 
-    Subsec. (e). [Pub. L. 97–424, § 422(a)][/us/pl/97/424/s422/a], substituted provision that it is the intent of Congress that the Secretary expend all of the funds available in the Trust Fund in each fiscal year and that any such funds which are not expended in a given fiscal year remain available for expenditure without fiscal year limitation; except that any funds not expended prior to Oct. 1, 1985, shall, no later than Apr. 30, 1986, be distributed to the States for use in State forestry programs pursuant to the formula set forth in [section 500 of this title][/us/usc/t16/s500] for provision that the Secretary of the Treasury pay into the general fund of the Treasury any amounts, including interest earned on such amounts, remaining in the Trust Fund after Sept. 30, 1985, which were not expended and remained in the Trust Fund.
+    Subsec. (e). [Pub. L. 97–424][/us/pl/97/424], § 422(a), substituted provision that it is the intent of Congress that the Secretary expend all of the funds available in the Trust Fund in each fiscal year and that any such funds which are not expended in a given fiscal year remain available for expenditure without fiscal year limitation; except that any funds not expended prior to Oct. 1, 1985, shall, no later than Apr. 30, 1986, be distributed to the States for use in State forestry programs pursuant to the formula set forth in [section 500 of this title][/us/usc/t16/s500] for provision that the Secretary of the Treasury pay into the general fund of the Treasury any amounts, including interest earned on such amounts, remaining in the Trust Fund after Sept. 30, 1985, which were not expended and remained in the Trust Fund.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -91,29 +91,29 @@
 ----------
 
 [/us/usc/t16/s1601/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1601%2Fd
-[/us/pl/96/451/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F451%2Fs303
+[/us/pl/96/451/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F451%2FtIII
 [/us/stat/94/1991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1991
-[/us/pl/97/424/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs422
+[/us/pl/97/424/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtIV
 [/us/stat/96/2164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2164
-[/us/pl/99/190/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs101%2Fd
+[/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/stat/99/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1224
-[/us/pl/100/418/s1214/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1214%2Fr
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1160
-[/us/pl/105/83/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs322
+[/us/pl/105/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtIII
 [/us/stat/111/1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1596
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
-[/us/pl/97/424/s422/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs422%2Fb
-[/us/pl/97/424/s422/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs422%2Fa
+[/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
+[/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
 [/us/usc/t16/s1601/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1601%2Fd%2F2
 [/us/usc/t16/s1601/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1601%2Fd%2F3
-[/us/pl/97/424/s422/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs422%2Fa
+[/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
 [/us/usc/t16/s500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs500
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/418/s1217/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1217%2Fb%2F1

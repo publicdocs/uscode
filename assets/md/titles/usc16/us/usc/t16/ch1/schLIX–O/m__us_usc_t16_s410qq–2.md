@@ -63,7 +63,7 @@
 
         The Secretary, in providing technical or other assistance to the Government of American Samoa may use any authority otherwise provided to him, including requesting assistance from other Federal agencies.
 
-([Pub. L. 100–571, § 3][/us/pl/100/571/s3], Oct. 31, 1988, [102 Stat. 2881][/us/stat/102/2881].)
+([Pub. L. 100–571][/us/pl/100/571], § 3, Oct. 31, 1988, [102 Stat. 2881][/us/stat/102/2881].)
 
  __References in Text__ 
 
@@ -73,7 +73,7 @@
 
  __Codification__ 
 
-    In subsec. (f), “[section 100502 of title 54][/us/usc/t54/s100502]” substituted for “[section 12(b) of the Act of August 18, 1970][/us/act/1970-08-18/s12/b] ([16 U.S.C. 1a–1][/us/usc/t16/s1a–1] through 1a–7)” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (f), “[section 100502 of title 54][/us/usc/t54/s100502]” substituted for “[section 12(b) of the Act of August 18, 1970][/us/act/1970-08-18/s12/b] ([16 U.S.C. 1a–1][/us/usc/t16/s1a–1] through 1a–7)” on authority of [Pub. L. 113–287][/us/pl/113/287], § 6(e), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
  __Termination of Advisory Boards__ 
 
@@ -90,7 +90,7 @@
 [/us/usc/t16/s1–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1%E2%80%934
 [/us/usc/t54/s100502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100502
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776
-[/us/pl/100/571/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F571%2Fs3
+[/us/pl/100/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F571
 [/us/stat/102/2881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2881
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1%E2%80%934
@@ -105,7 +105,7 @@
 [/us/usc/t54/s100502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100502
 [/us/act/1970-08-18/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1970-08-18%2Fs12%2Fb
 [/us/usc/t16/s1a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%931
-[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

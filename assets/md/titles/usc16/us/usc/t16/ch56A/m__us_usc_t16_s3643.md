@@ -17,7 +17,7 @@
 
     This chapter shall not be interpreted or applied so as to affect or modify rights established in existing Indian treaties and other existing Federal laws, including the Order entered in Confederated Tribes and Bands of the Yakima Indian Nation v. Baldrige, Civil No. 80–342 (WD WASH.). This section shall not be interpreted or applied so as to affect or modify any rights or obligations of the United States pursuant to the Treaty.
 
-([Pub. L. 99–5, § 14][/us/pl/99/5/s14], Mar. 15, 1985, [99 Stat. 15][/us/stat/99/15].)
+([Pub. L. 99–5][/us/pl/99/5], § 14, Mar. 15, 1985, [99 Stat. 15][/us/stat/99/15].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/5/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5%2Fs14
+[/us/pl/99/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5
 [/us/stat/99/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F15
 
 

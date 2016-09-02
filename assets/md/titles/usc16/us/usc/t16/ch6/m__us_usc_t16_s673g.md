@@ -17,7 +17,7 @@
 
     The Secretary of the Interior, in coordination with all Federal, State, and other officers having jurisdiction over lands on which Tule elk herds are located or lands which would provide suitable Tule elk habitat, shall develop a plan for Tule elk restoration and conservation, including habitat management, which shall be integrated with the comparable plans of State and local authorities in California.
 
-([Pub. L. 94–389, § 3][/us/pl/94/389/s3], formerly § 4, Aug. 14, 1976, [90 Stat. 1190][/us/stat/90/1190]; [Pub. L. 97–375, title I, § 108(a)][/us/pl/97/375/s108/a], Dec. 21, 1982, [96 Stat. 1820][/us/stat/96/1820]; renumbered § 3, [Pub. L. 105–362, title IX, § 901(b)(2)][/us/pl/105/362/s901/b/2], Nov. 10, 1998, [112 Stat. 3289][/us/stat/112/3289].)
+([Pub. L. 94–389][/us/pl/94/389], § 3, formerly § 4, Aug. 14, 1976, [90 Stat. 1190][/us/stat/90/1190]; [Pub. L. 97–375, title I][/us/pl/97/375/tI], § 108(a), Dec. 21, 1982, [96 Stat. 1820][/us/stat/96/1820]; renumbered § 3, [Pub. L. 105–362, title IX][/us/pl/105/362/tIX], § 901(b)(2), Nov. 10, 1998, [112 Stat. 3289][/us/stat/112/3289].)
 
  __Prior Provisions__ 
 
@@ -34,11 +34,11 @@
 ----------
 ----------
 
-[/us/pl/94/389/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F389%2Fs3
+[/us/pl/94/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F389
 [/us/stat/90/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1190
-[/us/pl/97/375/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2Fs108%2Fa
+[/us/pl/97/375/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2FtI
 [/us/stat/96/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1820
-[/us/pl/105/362/s901/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2Fs901%2Fb%2F2
+[/us/pl/105/362/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362%2FtIX
 [/us/stat/112/3289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3289
 [/us/pl/94/389/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F389%2Fs3
 [/us/usc/t16/s673f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs673f

@@ -39,7 +39,7 @@
 
         The recognition of the Pueblo’s rights and interests in sections 539m to 539m–12 of this title constitutes adequate consideration for the Pueblo’s agreement to the extinguishment of the Pueblo’s claims in this section and the right-of-way grants contained in [section 539m–7 of this title][/us/usc/t16/s539m–7], and it is the intent of Congress that those rights and interests may only be diminished by a future Act of Congress specifically authorizing diminishment of such rights, with express reference to sections 539m to 539m–12 of this title.
 
-([Pub. L. 108–7, div. F, title IV, § 410][/us/pl/108/7/s410], Feb. 20, 2003, [117 Stat. 290][/us/stat/117/290].)
+([Pub. L. 108–7, div. F, title IV][/us/pl/108/7/dF/tIV], § 410, Feb. 20, 2003, [117 Stat. 290][/us/stat/117/290].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/usc/t16/s539m–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs539m%E2%80%937
-[/us/pl/108/7/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs410
+[/us/pl/108/7/dF/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtIV
 [/us/stat/117/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F290
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/stat/117/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F279

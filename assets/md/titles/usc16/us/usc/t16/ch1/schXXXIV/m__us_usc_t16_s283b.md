@@ -35,7 +35,7 @@
 
         If at any time oil, gas, or other minerals should be discovered and produced in commercial quantities from lands outside of the boundaries of the park, thereby causing drainage of oil, gas, or other minerals from lands within the boundaries of the park, and if the Secretary participates in a communitization agreement or takes other action to protect the rights of the United States, the proceeds, if any, derived from such agreement or action shall inure to the benefit of the donors of the oil, gas, or other minerals, or their successors, heirs, devisees, or assigns.
 
-([Pub. L. 89–667, § 3][/us/pl/89/667/s3], Oct. 15, 1966, [80 Stat. 920][/us/stat/80/920].)
+([Pub. L. 89–667][/us/pl/89/667], § 3, Oct. 15, 1966, [80 Stat. 920][/us/stat/80/920].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t30/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs351
-[/us/pl/89/667/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F667%2Fs3
+[/us/pl/89/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F667
 [/us/stat/80/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F920
 [/us/act/1947-08-07/ch513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-07%2Fch513
 [/us/stat/61/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F913

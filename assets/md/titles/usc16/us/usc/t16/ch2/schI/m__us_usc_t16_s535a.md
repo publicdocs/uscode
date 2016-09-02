@@ -61,11 +61,11 @@
 
         (2) Notwithstanding paragraph (1), any sale of national forest timber or other forest products for which notice of sale is provided before the effective date of this section, and any effective purchaser road credit earned pursuant to a contract resulting from such a notice of sale or otherwise earned before that effective date shall remain in effect, and shall continue to be subject to [section 535 of this title][/us/usc/t16/s535] and [section 472a(i) of this title][/us/usc/t16/s472a/i], and rules issued thereunder, as in effect on the day before October 21, 1998.
 
-([Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title III, § 329\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–292.)
+([Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title III, § 329\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–292.)
 
  __References in Text__ 
 
-    The Small Business Act, referred to in subsec. (c)(1), is [Pub. L. 85–536, § 2][/us/pl/85/536/s2](1 et seq.), July 18, 1958, [72 Stat. 384][/us/stat/72/384], which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15][/us/usc/t15/s631] and Tables.
+    The Small Business Act, referred to in subsec. (c)(1), is [Pub. L. 85–536][/us/pl/85/536], § 2(1 et seq.), July 18, 1958, [72 Stat. 384][/us/stat/72/384], which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15][/us/usc/t15/s631] and Tables.
 
 ----------
 
@@ -79,9 +79,9 @@
 [/us/usc/t16/s500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs500
 [/us/usc/t16/s535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs535
 [/us/usc/t16/s472a/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs472a%2Fi
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/stat/72/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F384
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 

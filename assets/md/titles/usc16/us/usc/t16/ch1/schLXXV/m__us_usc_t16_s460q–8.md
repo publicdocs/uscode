@@ -17,7 +17,7 @@
 
     Revenues and fees obtained by the United States from operation of the national recreation area shall be subject to the same statutory provisions concerning the disposition thereof as are similar revenues collected in areas of the national park system except that fees and revenues obtained from mineral development and from activities under other public land laws within the recreation area shall be disposed of in accordance with the provisions of the applicable laws.
 
-([Pub. L. 89–336, § 9][/us/pl/89/336/s9], Nov. 8, 1965, [79 Stat. 1300][/us/stat/79/1300].)
+([Pub. L. 89–336][/us/pl/89/336], § 9, Nov. 8, 1965, [79 Stat. 1300][/us/stat/79/1300].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/336/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F336%2Fs9
+[/us/pl/89/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F336
 [/us/stat/79/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1300
 
 

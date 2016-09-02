@@ -23,7 +23,7 @@
 
     (c) where any Federal lands included within the park by this Act were legally occupied or utilized on September 14, 1950, for residence or grazing purposes, or for other purposes not inconsistent with the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  pursuant to a lease, permit, or license issued or authorized by any department, establishment, or agency of the United States, the person so occupying or utilizing such lands, and the heirs, successors, or assigns of such person, shall, upon the termination of such lease, permit, or license, be entitled to have the privileges so possessed or enjoyed by him renewed from time to time, subject to such terms and conditions as the Secretary of the Interior shall prescribe, for a period of twenty-five years from September 14, 1950, and thereafter during the lifetime of such person and the lifetime of his heirs, successors, or assigns but only if they were members of his immediate family on such date, as determined by the Secretary of the Interior: Provided, That grazing privileges appurtenant to privately owned lands located within the Grand Teton National Park established by this Act shall not be withdrawn until title to lands to which such privileges are appurtenant shall have vested in the United States, except for failure to comply with the regulations applicable thereto after reasonable notice of default: Provided further, That nothing in this subsection shall apply to any lease, permit, or license for mining purposes or for public accommodations and services or to any occupancy or utilization of lands for purely temporary purposes. Nothing contained in this Act shall be construed as creating any vested right, title, interest, or estate in or to any Federal lands.
 
-([Sept. 14, 1950, ch. 950, § 4][/us/act/1950-09-14/ch950/s4], [64 Stat. 850][/us/stat/64/850].)
+([Sept. 14, 1950, ch. 950][/us/act/1950-09-14/ch950], § 4, [64 Stat. 850][/us/stat/64/850].)
 
  __References in Text__ 
 
@@ -107,7 +107,7 @@
 ----------
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
-[/us/act/1950-09-14/ch950/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-14%2Fch950%2Fs4
+[/us/act/1950-09-14/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-14%2Fch950
 [/us/stat/64/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F850
 [/us/act/1950-09-14/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-14%2Fch950
 [/us/stat/64/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F849

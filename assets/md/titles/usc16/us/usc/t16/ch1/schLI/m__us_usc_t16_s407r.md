@@ -17,7 +17,7 @@
 
     For the purpose of acquiring the property described in [section 407m of this title][/us/usc/t16/s407m], there is authorized to be appropriated not to exceed the sum of $12,792,000. Funds appropriated pursuant to this subchapter shall be available for any expenses incidental to acquisition of property as prescribed by this subchapter, including the employment of the necessary services in the District of Columbia, and including to the extent deemed necessary by the Secretary of the Interior, the employment without regard to the civil-service laws of such experts and other officers and employees as are necessary to carry out the provisions of this subchapter efficiently and in the public interest.
 
-([June 28, 1948, ch. 687, § 6][/us/act/1948-06-28/ch687/s6], [62 Stat. 1062][/us/stat/62/1062]; [July 10, 1952, ch. 653, § 3][/us/act/1952-07-10/ch653/s3], [66 Stat. 575][/us/stat/66/575]; [Pub. L. 85–764, § 3(b)][/us/pl/85/764/s3/b], Aug. 27, 1958, [72 Stat. 862][/us/stat/72/862]; [Pub. L. 91–293][/us/pl/91/293], June 25, 1970, [84 Stat. 333][/us/stat/84/333]; [Pub. L. 93–477, title I, § 101(5)][/us/pl/93/477/s101/5], Oct. 26, 1974, [88 Stat. 1445][/us/stat/88/1445].)
+([June 28, 1948, ch. 687][/us/act/1948-06-28/ch687], § 6, [62 Stat. 1062][/us/stat/62/1062]; [July 10, 1952, ch. 653][/us/act/1952-07-10/ch653], § 3, [66 Stat. 575][/us/stat/66/575]; [Pub. L. 85–764][/us/pl/85/764], § 3(b), Aug. 27, 1958, [72 Stat. 862][/us/stat/72/862]; [Pub. L. 91–293][/us/pl/91/293], June 25, 1970, [84 Stat. 333][/us/stat/84/333]; [Pub. L. 93–477, title I][/us/pl/93/477/tI], § 101(5), Oct. 26, 1974, [88 Stat. 1445][/us/stat/88/1445].)
 
  __Codification__ 
 
@@ -41,15 +41,15 @@
 ----------
 
 [/us/usc/t16/s407m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs407m
-[/us/act/1948-06-28/ch687/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-28%2Fch687%2Fs6
+[/us/act/1948-06-28/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-28%2Fch687
 [/us/stat/62/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1062
-[/us/act/1952-07-10/ch653/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-10%2Fch653%2Fs3
+[/us/act/1952-07-10/ch653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-10%2Fch653
 [/us/stat/66/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F575
-[/us/pl/85/764/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F764%2Fs3%2Fb
+[/us/pl/85/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F764
 [/us/stat/72/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F862
 [/us/pl/91/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F293
 [/us/stat/84/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F333
-[/us/pl/93/477/s101/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F477%2Fs101%2F5
+[/us/pl/93/477/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F477%2FtI
 [/us/stat/88/1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1445
 [/us/stat/63/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F972
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554

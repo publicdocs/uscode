@@ -51,15 +51,15 @@
 
         Of the total amount appropriated during a given fiscal year to carry out this chapter, 15 percent shall be available to, and shall remain available until expended by, the Secretary of the Interior for allocation to carry out wetlands conservation projects in coastal wetlands ecosystems in any coastal State under [section 4407 of this title][/us/usc/t16/s4407].
 
-([Pub. L. 101–646, title III, § 306][/us/pl/101/646/s306], Nov. 29, 1990, [104 Stat. 4786][/us/stat/104/4786]; [Pub. L. 103–375, § 5][/us/pl/103/375/s5], Oct. 19, 1994, [108 Stat. 3495][/us/stat/108/3495]; [Pub. L. 108–447, div. C, title I, § 114(a)][/us/pl/108/447/s114/a], Dec. 8, 2004, [118 Stat. 2944][/us/stat/118/2944].)
+([Pub. L. 101–646, title III][/us/pl/101/646/tIII], § 306, Nov. 29, 1990, [104 Stat. 4786][/us/stat/104/4786]; [Pub. L. 103–375][/us/pl/103/375], § 5, Oct. 19, 1994, [108 Stat. 3495][/us/stat/108/3495]; [Pub. L. 108–447, div. C, title I][/us/pl/108/447/dC/tI], § 114(a), Dec. 8, 2004, [118 Stat. 2944][/us/stat/118/2944].)
 
  __Amendments__ 
 
-    2004—Subsec. (a). [Pub. L. 108–447, § 114(a)(1)][/us/pl/108/447/s114/a/1], struck out “, not to exceed $70,000,000,” before “shall be available” in introductory provisions.
+    2004—Subsec. (a). [Pub. L. 108–447][/us/pl/108/447], § 114(a)(1), struck out “, not to exceed $70,000,000,” before “shall be available” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 108–447, § 114(a)(2)][/us/pl/108/447/s114/a/2], struck out “, not to exceed $15,000,000” before “shall be available” in introductory provisions.
+    Subsec. (b). [Pub. L. 108–447][/us/pl/108/447], § 114(a)(2), struck out “, not to exceed $15,000,000” before “shall be available” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 108–447, § 114(a)(3)][/us/pl/108/447/s114/a/3], struck out “, not to exceed $15,000,000,” before “shall be available”.
+    Subsec. (c). [Pub. L. 108–447][/us/pl/108/447], § 114(a)(3), struck out “, not to exceed $15,000,000,” before “shall be available”.
 
     1994—Subsec. (c). [Pub. L. 103–375][/us/pl/103/375] inserted “in coastal wetlands ecosystems” after “wetlands conservation projects”.
 
@@ -72,15 +72,15 @@
 
 [/us/usc/t16/s3954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3954
 [/us/usc/t16/s4407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4407
-[/us/pl/101/646/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs306
+[/us/pl/101/646/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2FtIII
 [/us/stat/104/4786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4786
-[/us/pl/103/375/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375%2Fs5
+[/us/pl/103/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375
 [/us/stat/108/3495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3495
-[/us/pl/108/447/s114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs114%2Fa
+[/us/pl/108/447/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdC%2FtI
 [/us/stat/118/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2944
-[/us/pl/108/447/s114/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs114%2Fa%2F1
-[/us/pl/108/447/s114/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs114%2Fa%2F2
-[/us/pl/108/447/s114/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs114%2Fa%2F3
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/103/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375
 
 

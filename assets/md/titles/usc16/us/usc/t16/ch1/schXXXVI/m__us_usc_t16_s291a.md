@@ -17,7 +17,7 @@
 
     The Secretary of the Interior may enter into cooperative agreements with the owners of property in Vincennes, Indiana, historically associated with George Rogers Clark and the Northwest Territory for the inclusion of such property in the George Rogers Clark National Historical Park. Under such agreements the Secretary may assist in the preservation, renewal, and interpretation of the property.
 
-([Pub. L. 89–517, § 2][/us/pl/89/517/s2], July 23, 1966, [80 Stat. 325][/us/stat/80/325].)
+([Pub. L. 89–517][/us/pl/89/517], § 2, July 23, 1966, [80 Stat. 325][/us/stat/80/325].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/517/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F517%2Fs2
+[/us/pl/89/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F517
 [/us/stat/80/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F325
 
 

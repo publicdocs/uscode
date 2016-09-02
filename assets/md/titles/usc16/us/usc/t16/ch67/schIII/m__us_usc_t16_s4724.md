@@ -75,35 +75,35 @@
 
         Upon request of a State or Indian tribe, the Director or the Under Secretary, to the extent allowable by law and in a manner consistent with [section 141 of title 14][/us/usc/t14/s141], may provide assistance to a State or Indian tribe in enforcing an approved State or interstate invasive species management plan.
 
-([Pub. L. 101–646, title I, § 1204][/us/pl/101/646/s1204], Nov. 29, 1990, [104 Stat. 4770][/us/stat/104/4770]; [Pub. L. 104–332, § 2(e)(6)][/us/pl/104/332/s2/e/6], (h)(1), Oct. 26, 1996, [110 Stat. 4089][/us/stat/110/4089], 4091.)
+([Pub. L. 101–646, title I][/us/pl/101/646/tI], § 1204, Nov. 29, 1990, [104 Stat. 4770][/us/stat/104/4770]; [Pub. L. 104–332][/us/pl/104/332], § 2(e)(6), (h)(1), Oct. 26, 1996, [110 Stat. 4089][/us/stat/110/4089], 4091.)
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–332, § 2(h)(1)][/us/pl/104/332/s2/h/1], made technical amendment to [Pub. L. 101–646, § 1204][/us/pl/101/646/s1204], which enacted this section.
+    1996—[Pub. L. 104–332][/us/pl/104/332], § 2(h)(1), made technical amendment to [Pub. L. 101–646][/us/pl/101/646], § 1204, which enacted this section.
 
-    Subsec. (a). [Pub. L. 104–332, § 2(e)(6)(A)(i)][/us/pl/104/332/s2/e/6/A/i], substituted “State or interstate invasive species management plans” for “State plan” in heading.
+    Subsec. (a). [Pub. L. 104–332][/us/pl/104/332], § 2(e)(6)(A)(i), substituted “State or interstate invasive species management plans” for “State plan” in heading.
 
-    Subsec. (a)(1). [Pub. L. 104–332, § 2(e)(6)(A)(ii)(I)][/us/pl/104/332/s2/e/6/A/ii/I], substituted “After providing notice and opportunity for public comment, the Governor of each State may prepare and submit, or the Governors of the States and the governments of the Indian tribes involved in an interstate organization, may jointly prepare and submit” for “The Governor of each State may, after notice and opportunity for public comment, prepare and submit” in introductory provisions.
+    Subsec. (a)(1). [Pub. L. 104–332][/us/pl/104/332], § 2(e)(6)(A)(ii)(I), substituted “After providing notice and opportunity for public comment, the Governor of each State may prepare and submit, or the Governors of the States and the governments of the Indian tribes involved in an interstate organization, may jointly prepare and submit” for “The Governor of each State may, after notice and opportunity for public comment, prepare and submit” in introductory provisions.
 
-    Subsec. (a)(1)(A). [Pub. L. 104–332, § 2(e)(6)(A)(ii)(II)][/us/pl/104/332/s2/e/6/A/ii/II], (III), inserted “or within the interstate region involved” after “within the State” and substituted “technical, enforcement, or financial assistance (or any combination thereof)” for “technical and financial assistance”.
+    Subsec. (a)(1)(A). [Pub. L. 104–332][/us/pl/104/332], § 2(e)(6)(A)(ii)(II), (III), inserted “or within the interstate region involved” after “within the State” and substituted “technical, enforcement, or financial assistance (or any combination thereof)” for “technical and financial assistance”.
 
-    Subsec. (a)(1)(B). [Pub. L. 104–332, § 2(e)(6)(A)(ii)(III)][/us/pl/104/332/s2/e/6/A/ii/III], inserted “or within the interstate region involved” after “within the State”.
+    Subsec. (a)(1)(B). [Pub. L. 104–332][/us/pl/104/332], § 2(e)(6)(A)(ii)(III), inserted “or within the interstate region involved” after “within the State”.
 
-    Subsec. (a)(2)(B). [Pub. L. 104–332, § 2(e)(6)(A)(iii)(I)][/us/pl/104/332/s2/e/6/A/iii/I], struck out “and” at end.
+    Subsec. (a)(2)(B). [Pub. L. 104–332][/us/pl/104/332], § 2(e)(6)(A)(iii)(I), struck out “and” at end.
 
-    Subsec. (a)(2)(C). [Pub. L. 104–332, § 2(e)(6)(A)(iii)(III)][/us/pl/104/332/s2/e/6/A/iii/III], added subpar. (C). Former subpar. (C) redesignated (D).
+    Subsec. (a)(2)(C). [Pub. L. 104–332][/us/pl/104/332], § 2(e)(6)(A)(iii)(III), added subpar. (C). Former subpar. (C) redesignated (D).
 
-    Subsec. (a)(2)(D). [Pub. L. 104–332, § 2(e)(6)(A)(iii)(II)][/us/pl/104/332/s2/e/6/A/iii/II], (IV), redesignated subpar. (C) as (D) and inserted “, and enabling legislation” before period.
+    Subsec. (a)(2)(D). [Pub. L. 104–332][/us/pl/104/332], § 2(e)(6)(A)(iii)(II), (IV), redesignated subpar. (C) as (D) and inserted “, and enabling legislation” before period.
 
-    Subsec. (a)(3)(A). [Pub. L. 104–332, § 2(e)(6)(A)(iv)(I)][/us/pl/104/332/s2/e/6/A/iv/I], inserted “or interstate organization” after “the State” and “Indian tribes,” after “local governments and regional entities,”.
+    Subsec. (a)(3)(A). [Pub. L. 104–332][/us/pl/104/332], § 2(e)(6)(A)(iv)(I), inserted “or interstate organization” after “the State” and “Indian tribes,” after “local governments and regional entities,”.
 
-    Subsec. (a)(3)(B). [Pub. L. 104–332, § 2(e)(6)(A)(iv)(II)][/us/pl/104/332/s2/e/6/A/iv/II], inserted “or the appropriate official of an interstate organization” after “a State”.
+    Subsec. (a)(3)(B). [Pub. L. 104–332][/us/pl/104/332], § 2(e)(6)(A)(iv)(II), inserted “or the appropriate official of an interstate organization” after “a State”.
 
-    Subsec. (a)(4). [Pub. L. 104–332, § 2(e)(6)(A)(v)][/us/pl/104/332/s2/e/6/A/v], inserted “or the interstate organization” after “the Governor”.
+    Subsec. (a)(4). [Pub. L. 104–332][/us/pl/104/332], § 2(e)(6)(A)(v), inserted “or the interstate organization” after “the Governor”.
 
-    Subsec. (b)(1). [Pub. L. 104–332, § 2(e)(6)(B)][/us/pl/104/332/s2/e/6/B], struck out “or the Assistant Secretary, as appropriate under subsection (a) of this section,” after “The Director” and substituted “management plans approved under subsection (a) of this section” for “approved management plans”.
+    Subsec. (b)(1). [Pub. L. 104–332][/us/pl/104/332], § 2(e)(6)(B), struck out “or the Assistant Secretary, as appropriate under subsection (a) of this section,” after “The Director” and substituted “management plans approved under subsection (a) of this section” for “approved management plans”.
 
-    Subsec. (c). [Pub. L. 104–332, § 2(e)(6)(C)][/us/pl/104/332/s2/e/6/C], added subsec. (c).
+    Subsec. (c). [Pub. L. 104–332][/us/pl/104/332], § 2(e)(6)(C), added subsec. (c).
 
 ----------
 
@@ -113,23 +113,23 @@
 ----------
 
 [/us/usc/t14/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs141
-[/us/pl/101/646/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs1204
+[/us/pl/101/646/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2FtI
 [/us/stat/104/4770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4770
-[/us/pl/104/332/s2/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fe%2F6
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
 [/us/stat/110/4089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4089
-[/us/pl/104/332/s2/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fh%2F1
-[/us/pl/101/646/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs1204
-[/us/pl/104/332/s2/e/6/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fe%2F6%2FA%2Fi
-[/us/pl/104/332/s2/e/6/A/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fe%2F6%2FA%2Fii%2FI
-[/us/pl/104/332/s2/e/6/A/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fe%2F6%2FA%2Fii%2FII
-[/us/pl/104/332/s2/e/6/A/ii/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fe%2F6%2FA%2Fii%2FIII
-[/us/pl/104/332/s2/e/6/A/iii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fe%2F6%2FA%2Fiii%2FI
-[/us/pl/104/332/s2/e/6/A/iii/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fe%2F6%2FA%2Fiii%2FIII
-[/us/pl/104/332/s2/e/6/A/iii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fe%2F6%2FA%2Fiii%2FII
-[/us/pl/104/332/s2/e/6/A/iv/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fe%2F6%2FA%2Fiv%2FI
-[/us/pl/104/332/s2/e/6/A/iv/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fe%2F6%2FA%2Fiv%2FII
-[/us/pl/104/332/s2/e/6/A/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fe%2F6%2FA%2Fv
-[/us/pl/104/332/s2/e/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fe%2F6%2FB
-[/us/pl/104/332/s2/e/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fe%2F6%2FC
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
 
 

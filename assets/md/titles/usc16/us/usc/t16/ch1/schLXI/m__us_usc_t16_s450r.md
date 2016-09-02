@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized in his discretion to acquire, by purchase or by condemnation and/or accept by donation in behalf of the United States, such lands, easements, and buildings not to exceed fifty acres, and when title satisfactory to the Secretary of the Interior shall have been vested in the United States such area or areas shall be, upon proclamation of the President, established, dedicated, and set apart as a public monument for the benefit and enjoyment of the people and shall be known as the “Ackia Battleground National Monument”: Provided, That such area shall include the site of the Battle of Ackia.
 
-([Aug. 27, 1935, ch. 755, § 2][/us/act/1935-08-27/ch755/s2], [49 Stat. 897][/us/stat/49/897].)
+([Aug. 27, 1935, ch. 755][/us/act/1935-08-27/ch755], § 2, [49 Stat. 897][/us/stat/49/897].)
 
  __Boundaries of Monument__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1935-08-27/ch755/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fch755%2Fs2
+[/us/act/1935-08-27/ch755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-27%2Fch755
 [/us/stat/49/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F897
 [/us/stat/53/2494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F2494
 [/us/usc/t16/s460–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460%E2%80%931

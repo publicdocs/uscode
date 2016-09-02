@@ -23,7 +23,7 @@
 
         On October 31, 1994, the Secretary shall enter into a cooperative management agreement with the University of California for the purposes of managing the lands within the Granite Mountains Natural Reserve. Such cooperative agreement shall ensure continuation of arid lands research and educational activities of the University of California, consistent with the provisions of this part and laws generally applicable to units of the National Park System.
 
-([Pub. L. 103–433, title V, § 513][/us/pl/103/433/s513], Oct. 31, 1994, [108 Stat. 4494][/us/stat/108/4494].)
+([Pub. L. 103–433, title V][/us/pl/103/433/tV], § 513, Oct. 31, 1994, [108 Stat. 4494][/us/stat/108/4494].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/103/433/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs513
+[/us/pl/103/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtV
 [/us/stat/108/4494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4494
 
 

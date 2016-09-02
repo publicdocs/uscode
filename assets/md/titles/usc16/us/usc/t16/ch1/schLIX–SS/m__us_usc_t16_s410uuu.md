@@ -231,7 +231,7 @@
 
         Nothing in this section shall be construed to create a cause of action with respect to activities outside or adjacent to the established boundary of the Historical Park.
 
-([Pub. L. 113–291, div. B, title XXX, § 3039][/us/pl/113/291/s3039], Dec. 19, 2014, [128 Stat. 3784][/us/stat/128/3784].)
+([Pub. L. 113–291, div. B, title XXX][/us/pl/113/291/dB/tXXX], § 3039, Dec. 19, 2014, [128 Stat. 3784][/us/stat/128/3784].)
 
  __References in Text__ 
 
@@ -241,7 +241,7 @@
 
  __Codification__ 
 
-    In subsec. (f)(2), “[section 100502 of title 54][/us/usc/t54/s100502]” substituted for “[section 12(b) of Public Law 91–383][/us/pl/91/383/s12/b] (commonly known as the National Park Service General Authorities Act; [16 U.S.C. 1a–7(b)][/us/usc/t16/s1a–7/b])” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (f)(2), “[section 100502 of title 54][/us/usc/t54/s100502]” substituted for “[section 12(b) of Public Law 91–383][/us/pl/91/383/s12/b] (commonly known as the National Park Service General Authorities Act; [16 U.S.C. 1a–7(b)][/us/usc/t16/s1a–7/b])” on authority of [Pub. L. 113–287][/us/pl/113/287], § 6(e), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
 ----------
 
@@ -253,7 +253,7 @@
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
 [/us/usc/t54/s100502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100502
-[/us/pl/113/291/s3039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3039
+[/us/pl/113/291/dB/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXX
 [/us/stat/128/3784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3784
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
@@ -273,7 +273,7 @@
 [/us/usc/t54/s100502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100502
 [/us/pl/91/383/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F383%2Fs12%2Fb
 [/us/usc/t16/s1a–7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%937%2Fb
-[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 
 

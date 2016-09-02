@@ -47,7 +47,7 @@
 
         Any lands within the James Peak Wilderness or the Protection Area acquired by the United States after August 21, 2002, shall be added to the James Peak Wilderness or the Protection Area, respectively, and managed accordingly.
 
-([Pub. L. 107–216, § 4][/us/pl/107/216/s4], Aug. 21, 2002, [116 Stat. 1059][/us/stat/116/1059].)
+([Pub. L. 107–216][/us/pl/107/216], § 4, Aug. 21, 2002, [116 Stat. 1059][/us/stat/116/1059].)
 
  __References in Text__ 
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/107/216/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F216%2Fs4
+[/us/pl/107/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F216
 [/us/stat/116/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1059
 [/us/pl/107/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F216
 [/us/stat/116/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1055

@@ -19,7 +19,7 @@
 
     (b) There is authorized to be appropriated such sums but not to exceed $920,000 as may be necessary to carry out the purposes of this section.
 
-([Pub. L. 86–744, § 2][/us/pl/86/744/s2], as added [Pub. L. 94–578, title III, § 313][/us/pl/94/578/s313], Oct. 21, 1976, [90 Stat. 2737][/us/stat/90/2737]; amended [Pub. L. 106–510, § 3(b)(1)][/us/pl/106/510/s3/b/1], Nov. 13, 2000, [114 Stat. 2363][/us/stat/114/2363].)
+([Pub. L. 86–744][/us/pl/86/744], § 2, as added [Pub. L. 94–578, title III][/us/pl/94/578/tIII], § 313, Oct. 21, 1976, [90 Stat. 2737][/us/stat/90/2737]; amended [Pub. L. 106–510][/us/pl/106/510], § 3(b)(1), Nov. 13, 2000, [114 Stat. 2363][/us/stat/114/2363].)
 
  __Amendments__ 
 
@@ -32,10 +32,10 @@
 ----------
 ----------
 
-[/us/pl/86/744/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F744%2Fs2
-[/us/pl/94/578/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2Fs313
+[/us/pl/86/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F744
+[/us/pl/94/578/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2FtIII
 [/us/stat/90/2737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2737
-[/us/pl/106/510/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510%2Fs3%2Fb%2F1
+[/us/pl/106/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510
 [/us/stat/114/2363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2363
 [/us/pl/106/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510
 

@@ -27,7 +27,7 @@
 
         Except in emergencies, any regulations of the Secretary pursuant to this section shall be put into effect after consultation with the fish and wildlife agency of the State of Michigan.
 
-([Pub. L. 101–292, § 5][/us/pl/101/292/s5], May 17, 1990, [104 Stat. 188][/us/stat/104/188].)
+([Pub. L. 101–292][/us/pl/101/292], § 5, May 17, 1990, [104 Stat. 188][/us/stat/104/188].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/101/292/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F292%2Fs5
+[/us/pl/101/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F292
 [/us/stat/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F188
 
 

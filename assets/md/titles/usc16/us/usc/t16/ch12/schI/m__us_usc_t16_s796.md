@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch12/schI/m__us_usc_t16_s793a.md) | [Next](./../../../../..//us/usc/t16/ch12/schI/m__us_usc_t16_s797.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs796)
+[Previous](./../../../../..//us/usc/t16/ch12/schI/m__us_usc_t16_s794 _us_usc_t16_s795.md) | [Next](./../../../../..//us/usc/t16/ch12/schI/m__us_usc_t16_s797.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs796)
 
 ## § 796. Definitions
 
@@ -157,43 +157,43 @@
 
     The term “Transmission Organization” means a Regional Transmission Organization, Independent System Operator, independent transmission provider, or other transmission organization finally approved by the Commission for the operation of transmission facilities.
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. I, § 3, [41 Stat. 1063][/us/stat/41/1063]; renumbered pt. I and amended, [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, §§ 201, 212, [49 Stat. 838][/us/stat/49/838], 847; [Pub. L. 95–617, title II, § 201][/us/pl/95/617/s201], Nov. 9, 1978, [92 Stat. 3134][/us/stat/92/3134]; [Pub. L. 96–294, title VI, § 643(a)(1)][/us/pl/96/294/s643/a/1], June 30, 1980, [94 Stat. 770][/us/stat/94/770]; [Pub. L. 101–575, § 3][/us/pl/101/575/s3], Nov. 15, 1990, [104 Stat. 2834][/us/stat/104/2834]; [Pub. L. 102–46][/us/pl/102/46], May 17, 1991, [105 Stat. 249][/us/stat/105/249]; [Pub. L. 102–486, title VII, § 726][/us/pl/102/486/s726], Oct. 24, 1992, [106 Stat. 2921][/us/stat/106/2921]; [Pub. L. 109–58, title XII][/us/pl/109/58], §§ 1253(b), 1291(b), Aug. 8, 2005, [119 Stat. 970][/us/stat/119/970], 984.)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. I, § 3, [41 Stat. 1063][/us/stat/41/1063]; renumbered pt. I and amended, [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, §§ 201, 212, [49 Stat. 838][/us/stat/49/838], 847; [Pub. L. 95–617, title II][/us/pl/95/617/tII], § 201, Nov. 9, 1978, [92 Stat. 3134][/us/stat/92/3134]; [Pub. L. 96–294, title VI][/us/pl/96/294/tVI], § 643(a)(1), June 30, 1980, [94 Stat. 770][/us/stat/94/770]; [Pub. L. 101–575][/us/pl/101/575], § 3, Nov. 15, 1990, [104 Stat. 2834][/us/stat/104/2834]; [Pub. L. 102–46][/us/pl/102/46], May 17, 1991, [105 Stat. 249][/us/stat/105/249]; [Pub. L. 102–486, title VII][/us/pl/102/486/tVII], § 726, Oct. 24, 1992, [106 Stat. 2921][/us/stat/106/2921]; [Pub. L. 109–58, title XII][/us/pl/109/58/tXII], §§ 1253(b), 1291(b), Aug. 8, 2005, [119 Stat. 970][/us/stat/119/970], 984.)
 
  __References in Text__ 
 
-    [Section 79z–5a of title 15][/us/usc/t15/s79z–5a], referred to in par. (25), was repealed by [Pub. L. 109–58, title XII, § 1263][/us/pl/109/58/s1263], Aug. 8, 2005, [119 Stat. 974][/us/stat/119/974].
+    [Section 79z–5a of title 15][/us/usc/t15/s79z–5a], referred to in par. (25), was repealed by [Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1263, Aug. 8, 2005, [119 Stat. 974][/us/stat/119/974].
 
  __Amendments__ 
 
-    2005—Par. (17)(C). [Pub. L. 109–58, § 1253(b)(1)][/us/pl/109/58/s1253/b/1], amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “ ‘qualifying small power production facility’ means a small power production facility—
+    2005—Par. (17)(C). [Pub. L. 109–58][/us/pl/109/58], § 1253(b)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “ ‘qualifying small power production facility’ means a small power production facility—
 
     “(i) which the Commission determines, by rule, meets such requirements (including requirements respecting fuel use, fuel efficiency, and reliability) as the Commission may, by rule, prescribe; and
 
     “(ii) which is owned by a person not primarily engaged in the generation or sale of electric power (other than electric power solely from cogeneration facilities or small power production facilities);”.
 
-    Par. (18)(B). [Pub. L. 109–58, § 1253(b)(2)][/us/pl/109/58/s1253/b/2], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “ ‘qualifying cogeneration facility’ means a cogeneration facility which—
+    Par. (18)(B). [Pub. L. 109–58][/us/pl/109/58], § 1253(b)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “ ‘qualifying cogeneration facility’ means a cogeneration facility which—
 
     “(i) the Commission determines, by rule, meets such requirements (including requirements respecting minimum size, fuel use, and fuel efficiency) as the Commission may, by rule, prescribe; and
 
     “(ii) is owned by a person not primarily engaged in the generation or sale of electric power (other than electric power solely from cogeneration facilities or small power production facilities);”.
 
-    Pars. (22), (23). [Pub. L. 109–58, § 1291(b)(1)][/us/pl/109/58/s1291/b/1], added pars. (22) and (23) and struck out former pars. (22) and (23) which read as follows:
+    Pars. (22), (23). [Pub. L. 109–58][/us/pl/109/58], § 1291(b)(1), added pars. (22) and (23) and struck out former pars. (22) and (23) which read as follows:
 
     “(22) ‘electric utility’ means any person or State agency (including any municipality) which sells electric energy; such term includes the Tennessee Valley Authority, but does not include any Federal power marketing agency.
 
     “(23) Transmitting utility.—The term ‘transmitting utility’ means any electric utility, qualifying cogeneration facility, qualifying small power production facility, or Federal power marketing agency which owns or operates electric power transmission facilities which are used for the sale of electric energy at wholesale.”
 
-    Pars. (26) to (29). [Pub. L. 109–58, § 1291(b)(2)][/us/pl/109/58/s1291/b/2], added pars. (26) to (29).
+    Pars. (26) to (29). [Pub. L. 109–58][/us/pl/109/58], § 1291(b)(2), added pars. (26) to (29).
 
-    1992—Par. (22). [Pub. L. 102–486, § 726(b)][/us/pl/102/486/s726/b], inserted “(including any municipality)” after “State agency”.
+    1992—Par. (22). [Pub. L. 102–486][/us/pl/102/486], § 726(b), inserted “(including any municipality)” after “State agency”.
 
-    Pars. (23) to (25). [Pub. L. 102–486, § 726(a)][/us/pl/102/486/s726/a], added pars. (23) to (25).
+    Pars. (23) to (25). [Pub. L. 102–486][/us/pl/102/486], § 726(a), added pars. (23) to (25).
 
     1991—Par. (17)(E). [Pub. L. 102–46][/us/pl/102/46] struck out “, and which would otherwise not qualify as a small power production facility because of the power production capacity limitation contained in subparagraph (A)(ii)” after “geothermal resources” in introductory provisions.
 
-    1990—Par. (17)(A). [Pub. L. 101–575, § 3(a)][/us/pl/101/575/s3/a], inserted “a facility which is an eligible solar, wind, waste, or geothermal facility, or”.
+    1990—Par. (17)(A). [Pub. L. 101–575][/us/pl/101/575], § 3(a), inserted “a facility which is an eligible solar, wind, waste, or geothermal facility, or”.
 
-    Par. (17)(E). [Pub. L. 101–575, § 3(b)][/us/pl/101/575/s3/b], added subpar. (E).
+    Par. (17)(E). [Pub. L. 101–575][/us/pl/101/575], § 3(b), added subpar. (E).
 
     1980—Par. (17)(A)(i). [Pub. L. 96–294][/us/pl/96/294] added applicability to geothermal resources.
 
@@ -203,7 +203,7 @@
 
  __FERC Regulations__ 
 
-[Pub. L. 101–575, § 4][/us/pl/101/575/s4], Nov. 15, 1990, [104 Stat. 2834][/us/stat/104/2834], provided that: 
+[Pub. L. 101–575][/us/pl/101/575], § 4, Nov. 15, 1990, [104 Stat. 2834][/us/stat/104/2834], provided that: 
 
 > “Unless the Federal Energy Regulatory Commission otherwise specifies, by rule after enactment of this Act \[Nov. 15, 1990\], any eligible solar, wind, waste, or geothermal facility (as defined in section 3(17)(E) of the Federal Power Act as amended by this Act \[[16 U.S.C. 796(17)(E)][/us/usc/t16/s796/17/E]\]), which is a qualifying small power production facility (as defined in subparagraph (C) of section 3(17) of the Federal Power Act as amended by this Act)—
 
@@ -213,7 +213,7 @@
 
  __State Authorities; Construction__ 
 
-[Pub. L. 102–486, title VII, § 731][/us/pl/102/486/s731], Oct. 24, 1992, [106 Stat. 2921][/us/stat/106/2921], provided that: 
+[Pub. L. 102–486, title VII][/us/pl/102/486/tVII], § 731, Oct. 24, 1992, [106 Stat. 2921][/us/stat/106/2921], provided that: 
 
 > “Nothing in this title \[enacting sections 824l, 824m, and 825o–1 of this title and former sections 79z–5a and 79z–5b of Title 15, Commerce and Trade, and amending this section, sections 824, 824j, 824k, 825n, 825o, and 2621 of this title, and provisions formerly set out as a note under former [section 79k of Title 15][/us/usc/t15/s79k]\] or in any amendment made by this title shall be construed as affecting or intending to affect, or in any way to interfere with, the authority of any State or local government relating to environmental protection or the siting of facilities.”
 
@@ -227,7 +227,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch12/schI/m__us_usc_t16_s793a.md) | [Next](./../../../../..//us/usc/t16/ch12/schI/m__us_usc_t16_s797.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs796)
+[Previous](./../../../../..//us/usc/t16/ch12/schI/m__us_usc_t16_s794 _us_usc_t16_s795.md) | [Next](./../../../../..//us/usc/t16/ch12/schI/m__us_usc_t16_s797.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs796)
 
 ----------
 ----------
@@ -240,36 +240,36 @@
 [/us/stat/41/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1063
 [/us/act/1935-08-26/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-26%2Fch687
 [/us/stat/49/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F838
-[/us/pl/95/617/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs201
+[/us/pl/95/617/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtII
 [/us/stat/92/3134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3134
-[/us/pl/96/294/s643/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs643%2Fa%2F1
+[/us/pl/96/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtVI
 [/us/stat/94/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F770
-[/us/pl/101/575/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F575%2Fs3
+[/us/pl/101/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F575
 [/us/stat/104/2834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2834
 [/us/pl/102/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F46
 [/us/stat/105/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F249
-[/us/pl/102/486/s726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs726
+[/us/pl/102/486/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtVII
 [/us/stat/106/2921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2921
-[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F970
 [/us/usc/t15/s79z–5a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs79z%E2%80%935a
-[/us/pl/109/58/s1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1263
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F974
-[/us/pl/109/58/s1253/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1253%2Fb%2F1
-[/us/pl/109/58/s1253/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1253%2Fb%2F2
-[/us/pl/109/58/s1291/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1291%2Fb%2F1
-[/us/pl/109/58/s1291/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1291%2Fb%2F2
-[/us/pl/102/486/s726/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs726%2Fb
-[/us/pl/102/486/s726/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs726%2Fa
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/102/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F46
-[/us/pl/101/575/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F575%2Fs3%2Fa
-[/us/pl/101/575/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F575%2Fs3%2Fb
+[/us/pl/101/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F575
+[/us/pl/101/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F575
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
 [/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
-[/us/pl/101/575/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F575%2Fs4
+[/us/pl/101/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F575
 [/us/stat/104/2834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2834
 [/us/usc/t16/s796/17/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs796%2F17%2FE
-[/us/pl/102/486/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs731
+[/us/pl/102/486/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtVII
 [/us/stat/106/2921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2921
 [/us/usc/t15/s79k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs79k
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88

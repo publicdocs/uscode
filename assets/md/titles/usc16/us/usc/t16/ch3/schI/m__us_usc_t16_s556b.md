@@ -17,7 +17,7 @@
 
     Funds available to the Forest Service may be used, in accordance with regulations prescribed by the Secretary of Agriculture for expenses of transporting automobiles of employees of that Service between points in Alaska in connection with transfers of official stations of such employees to meet the needs of the Service.
 
-([Pub. L. 85–464, § 3][/us/pl/85/464/s3], June 20, 1958, [72 Stat. 217][/us/stat/72/217].)
+([Pub. L. 85–464][/us/pl/85/464], § 3, June 20, 1958, [72 Stat. 217][/us/stat/72/217].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/85/464/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F464%2Fs3
+[/us/pl/85/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F464
 [/us/stat/72/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F217
 
 

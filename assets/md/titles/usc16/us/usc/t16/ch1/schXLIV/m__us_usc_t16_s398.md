@@ -19,7 +19,7 @@
 
     The national park shall be administered and preserved by the Secretary of the Interior in its natural condition for the public benefit and inspiration, in accordance with the laws governing the administration of the national parks.
 
-([Aug. 2, 1956, ch. 885, § 1][/us/act/1956-08-02/ch885/s1], [70 Stat. 940][/us/stat/70/940].)
+([Aug. 2, 1956, ch. 885][/us/act/1956-08-02/ch885], § 1, [70 Stat. 940][/us/stat/70/940].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/usc/t16/s398a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs398a
-[/us/act/1956-08-02/ch885/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch885%2Fs1
+[/us/act/1956-08-02/ch885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch885
 [/us/stat/70/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F940
 
 

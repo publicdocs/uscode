@@ -17,7 +17,7 @@
 
     The “Take Pride in America” slogan and logo, which are registered by the Department of the Interior, and the goodwill associated with such slogan and logo, shall be administered pursuant to the TPIA Program.
 
-([Pub. L. 101–628, title XI, § 1108][/us/pl/101/628/s1108], Nov. 28, 1990, [104 Stat. 4503][/us/stat/104/4503].)
+([Pub. L. 101–628, title XI][/us/pl/101/628/tXI], § 1108, Nov. 28, 1990, [104 Stat. 4503][/us/stat/104/4503].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/628/s1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628%2Fs1108
+[/us/pl/101/628/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628%2FtXI
 [/us/stat/104/4503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4503
 
 

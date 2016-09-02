@@ -19,7 +19,7 @@
 
     Following establishment of the national monument, additional properties may be acquired as provided in [section 450kk of this title][/us/usc/t16/s450kk], which properties, upon acquisition of title thereto by the United States, shall become a part of the national monument: Provided, That the total area of the national monument established pursuant to this section and [section 450kk of this title][/us/usc/t16/s450kk] shall not exceed one thousand acres, exclusive of such adjoining lands as may be covered by scenic easements.
 
-([June 28, 1954, ch. 401, § 2][/us/act/1954-06-28/ch401/s2], [68 Stat. 299][/us/stat/68/299].)
+([June 28, 1954, ch. 401][/us/act/1954-06-28/ch401], § 2, [68 Stat. 299][/us/stat/68/299].)
 
 ----------
 
@@ -31,7 +31,7 @@
 [/us/usc/t16/s450kk]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450kk
 [/us/usc/t16/s450kk]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450kk
 [/us/usc/t16/s450kk]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450kk
-[/us/act/1954-06-28/ch401/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-28%2Fch401%2Fs2
+[/us/act/1954-06-28/ch401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-28%2Fch401
 [/us/stat/68/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F299
 
 

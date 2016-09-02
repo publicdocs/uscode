@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed to affect the authority of any Federal agency to carry out any Federal project heretofore or hereafter authorized within an estuary.
 
-([Pub. L. 90–454, § 6][/us/pl/90/454/s6], Aug. 3, 1968, [82 Stat. 628][/us/stat/82/628].)
+([Pub. L. 90–454][/us/pl/90/454], § 6, Aug. 3, 1968, [82 Stat. 628][/us/stat/82/628].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/454/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F454%2Fs6
+[/us/pl/90/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F454
 [/us/stat/82/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F628
 
 

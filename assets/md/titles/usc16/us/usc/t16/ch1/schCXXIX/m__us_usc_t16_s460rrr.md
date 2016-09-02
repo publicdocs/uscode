@@ -29,11 +29,11 @@
 
         The term “Secretary” means the Secretary of the Interior.
 
-([Pub. L. 109–337, § 2][/us/pl/109/337/s2], Oct. 12, 2006, [120 Stat. 1777][/us/stat/120/1777].)
+([Pub. L. 109–337][/us/pl/109/337], § 2, Oct. 12, 2006, [120 Stat. 1777][/us/stat/120/1777].)
 
  __Short Title__ 
 
-[Pub. L. 109–337, § 1][/us/pl/109/337/s1], Oct. 12, 2006, [120 Stat. 1777][/us/stat/120/1777], provided that: 
+[Pub. L. 109–337][/us/pl/109/337], § 1, Oct. 12, 2006, [120 Stat. 1777][/us/stat/120/1777], provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘Rio Grande Natural Area Act’.”
 
@@ -46,9 +46,9 @@
 
 [/us/usc/t16/s460rrr–2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460rrr%E2%80%932%2Fa
 [/us/usc/t16/s460rrr–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460rrr%E2%80%931%2Fa
-[/us/pl/109/337/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F337%2Fs2
+[/us/pl/109/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F337
 [/us/stat/120/1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1777
-[/us/pl/109/337/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F337%2Fs1
+[/us/pl/109/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F337
 [/us/stat/120/1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1777
 
 

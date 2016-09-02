@@ -63,7 +63,7 @@
 
         (5) If the Commission finds that the Secretary’s final prescription would be inconsistent with the purposes of this subchapter, or other applicable law, the Commission may refer the dispute to the Commission’s Dispute Resolution Service. The Dispute Resolution Service shall consult with the Secretary and the Commission and issue a non-binding advisory within 90 days. The Secretary may accept the Dispute Resolution Service advisory unless the Secretary finds that the recommendation will not adequately protect the fish resources. The Secretary shall submit the advisory and the Secretary’s final written determination into the record of the Commission’s proceeding.
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. I, § 33, as added [Pub. L. 109–58, title II, § 241(c)][/us/pl/109/58/s241/c], Aug. 8, 2005, [119 Stat. 675][/us/stat/119/675].)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. I, § 33, as added [Pub. L. 109–58, title II][/us/pl/109/58/tII], § 241(c), Aug. 8, 2005, [119 Stat. 675][/us/stat/119/675].)
 
 ----------
 
@@ -79,7 +79,7 @@
 [/us/usc/t16/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs811
 [/us/usc/t16/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs811
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
-[/us/pl/109/58/s241/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs241%2Fc
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F675
 
 

@@ -41,7 +41,7 @@
 
         (3) Any lands within the areas described in paragraph (1) not proposed for exchange by a request submitted to the Secretary by the Pueblo of Acoma within the period specified in paragraph (2), and any lands in such areas not ultimately transferred pursuant to this subsection, shall be incorporated within the conservation area and managed accordingly. In addition, any lands in that portion of the areas described in paragraph (1) lying in section 1, township 7N, range 9W, New Mexico Principal Meridian, not transferred to the Pueblo of Acoma pursuant to this subsection shall be added to and incorporated within the Cebolla Wilderness and managed accordingly.
 
-([Pub. L. 100–225, title V, § 505][/us/pl/100/225/s505], Dec. 31, 1987, [101 Stat. 1545][/us/stat/101/1545].)
+([Pub. L. 100–225, title V][/us/pl/100/225/tV], § 505, Dec. 31, 1987, [101 Stat. 1545][/us/stat/101/1545].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
 [/us/usc/t16/s460uu–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460uu%E2%80%933
 [/us/usc/t16/s460uu–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460uu%E2%80%9321
-[/us/pl/100/225/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F225%2Fs505
+[/us/pl/100/225/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F225%2FtV
 [/us/stat/101/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1545
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
 [/us/stat/90/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2743

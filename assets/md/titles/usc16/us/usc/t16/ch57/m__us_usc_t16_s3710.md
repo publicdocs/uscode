@@ -17,7 +17,7 @@
 
     Nothing in this chapter authorizes the Foundation to perform any function the authority for which is provided to the National Park Foundation by subchapter II of chapter 1011 of title 54.
 
-([Pub. L. 98–244, § 11][/us/pl/98/244/s11], as added [Pub. L. 106–408, title II, § 208][/us/pl/106/408/s208], Nov. 1, 2000, [114 Stat. 1781][/us/stat/114/1781]; amended [Pub. L. 113–287, § 5(d)(35)][/us/pl/113/287/s5/d/35], Dec. 19, 2014, [128 Stat. 3267][/us/stat/128/3267].)
+([Pub. L. 98–244][/us/pl/98/244], § 11, as added [Pub. L. 106–408, title II][/us/pl/106/408/tII], § 208, Nov. 1, 2000, [114 Stat. 1781][/us/stat/114/1781]; amended [Pub. L. 113–287][/us/pl/113/287], § 5(d)(35), Dec. 19, 2014, [128 Stat. 3267][/us/stat/128/3267].)
 
  __Amendments__ 
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/pl/98/244/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F244%2Fs11
-[/us/pl/106/408/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2Fs208
+[/us/pl/98/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F244
+[/us/pl/106/408/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2FtII
 [/us/stat/114/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1781
-[/us/pl/113/287/s5/d/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F35
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3267
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/pl/90/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F209

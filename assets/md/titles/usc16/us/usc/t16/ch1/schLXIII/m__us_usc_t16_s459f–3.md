@@ -17,7 +17,7 @@
 
     When the Secretary determines that land, water areas, or interests therein within the area generally depicted on the map referred to in [section 459f of this title][/us/usc/t16/s459f] are owned or have been acquired by the United States in sufficient quantities to provide an administrable unit, he shall declare the establishment of the Assateague Island National Seashore by publication of notice thereof in the Federal Register. Such notice shall contain a refined description or map of the boundaries of the seashore as the Secretary may find desirable, and the exterior boundaries shall encompass an area as nearly as practicable identical to the area described in [section 459f of this title][/us/usc/t16/s459f].
 
-([Pub. L. 89–195, § 4][/us/pl/89/195/s4], Sept. 21, 1965, [79 Stat. 825][/us/stat/79/825].)
+([Pub. L. 89–195][/us/pl/89/195], § 4, Sept. 21, 1965, [79 Stat. 825][/us/stat/79/825].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t16/s459f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459f
 [/us/usc/t16/s459f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459f
-[/us/pl/89/195/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F195%2Fs4
+[/us/pl/89/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F195
 [/us/stat/79/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F825
 
 

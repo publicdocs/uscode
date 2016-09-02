@@ -47,7 +47,7 @@
 
         There is authorized to be appropriated not more than $2,000,000 for each of the fiscal years 1979 and 1980 for purposes of making grants under this section. No amounts may be appropriated for any fiscal year after the fiscal year 1980 to carry out the purposes of this section without a specific authorization of Congress.
 
-([Pub. L. 95–617, title VI, § 603][/us/pl/95/617/s603], Nov. 9, 1978, [92 Stat. 3165][/us/stat/92/3165].)
+([Pub. L. 95–617, title VI][/us/pl/95/617/tVI], § 603, Nov. 9, 1978, [92 Stat. 3165][/us/stat/92/3165].)
 
  __References in Text__ 
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/95/617/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs603
+[/us/pl/95/617/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtVI
 [/us/stat/92/3165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3165
 [/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
 [/us/stat/92/3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3117

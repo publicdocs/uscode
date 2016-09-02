@@ -17,7 +17,7 @@
 
     Any person or persons who shall violate the provisions of sections 604 and 605 of this title, or any rules and regulations in pursuance thereof made by the Secretary of the Interior, shall be deemed guilty of a misdemeanor, and, upon conviction, shall be fined in any sum not exceeding $500, and to which may be added imprisonment for any term not exceeding six months.
 
-([June 3, 1878, ch. 150, § 3][/us/act/1878-06-03/ch150/s3], [20 Stat. 89][/us/stat/20/89].)
+([June 3, 1878, ch. 150][/us/act/1878-06-03/ch150], § 3, [20 Stat. 89][/us/stat/20/89].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1878-06-03/ch150/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1878-06-03%2Fch150%2Fs3
+[/us/act/1878-06-03/ch150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1878-06-03%2Fch150
 [/us/stat/20/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F20%2F89
 
 

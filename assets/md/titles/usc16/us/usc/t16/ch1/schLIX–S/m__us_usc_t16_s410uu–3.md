@@ -23,7 +23,7 @@
 
         The Secretary shall conduct archeological studies of the areas described as the “Spruce Hill Works”, the “Harness Group”, and the “Cedar Bank Works”, and may conduct archeological studies of other areas significant to Hopewellian culture, to evaluate the desirability of adding them to the park, and shall report to Congress on any such areas that are recommended for addition to the park.
 
-([Pub. L. 102–294, § 4][/us/pl/102/294/s4], May 27, 1992, [106 Stat. 186][/us/stat/106/186].)
+([Pub. L. 102–294][/us/pl/102/294], § 4, May 27, 1992, [106 Stat. 186][/us/stat/106/186].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t16/s410uu–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410uu%E2%80%931%2Fa
-[/us/pl/102/294/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F294%2Fs4
+[/us/pl/102/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F294
 [/us/stat/106/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F186
 
 

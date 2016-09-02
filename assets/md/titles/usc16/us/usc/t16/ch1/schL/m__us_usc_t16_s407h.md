@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated not more than $500 to carry out the purposes of sections 407e to 407h of this title.
 
-([Pub. L. 88–249, § 4][/us/pl/88/249/s4], Dec. 30, 1963, [77 Stat. 819][/us/stat/77/819].)
+([Pub. L. 88–249][/us/pl/88/249], § 4, Dec. 30, 1963, [77 Stat. 819][/us/stat/77/819].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/249/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F249%2Fs4
+[/us/pl/88/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F249
 [/us/stat/77/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F819
 
 

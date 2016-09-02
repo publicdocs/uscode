@@ -23,7 +23,7 @@
 
     (3) where requested by an enforcement officer, proceed to a specified location so that a vessel inspection can be conducted.
 
-([Pub. L. 109–479, title V, § 510][/us/pl/109/479/s510], Jan. 12, 2007, [120 Stat. 3643][/us/stat/120/3643].)
+([Pub. L. 109–479, title V][/us/pl/109/479/tV], § 510, Jan. 12, 2007, [120 Stat. 3643][/us/stat/120/3643].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/109/479/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs510
+[/us/pl/109/479/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtV
 [/us/stat/120/3643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3643
 
 

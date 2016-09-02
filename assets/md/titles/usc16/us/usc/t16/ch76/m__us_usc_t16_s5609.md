@@ -61,7 +61,7 @@
 
         The term “Secretary” means the Secretary of Commerce.
 
-([Pub. L. 104–43, title II, § 210][/us/pl/104/43/s210], Nov. 3, 1995, [109 Stat. 381][/us/stat/109/381]; [Pub. L. 105–384, title II, § 201(b)(3)][/us/pl/105/384/s201/b/3], Nov. 13, 1998, [112 Stat. 3451][/us/stat/112/3451].)
+([Pub. L. 104–43, title II][/us/pl/104/43/tII], § 210, Nov. 3, 1995, [109 Stat. 381][/us/stat/109/381]; [Pub. L. 105–384, title II][/us/pl/105/384/tII], § 201(b)(3), Nov. 13, 1998, [112 Stat. 3451][/us/stat/112/3451].)
 
  __References in Text__ 
 
@@ -81,9 +81,9 @@
 [/us/usc/t16/s5601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5601%2Fa
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
 [/us/usc/t16/s5601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5601%2Fc
-[/us/pl/104/43/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs210
+[/us/pl/104/43/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtII
 [/us/stat/109/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F381
-[/us/pl/105/384/s201/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2Fs201%2Fb%2F3
+[/us/pl/105/384/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2FtII
 [/us/stat/112/3451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3451
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331

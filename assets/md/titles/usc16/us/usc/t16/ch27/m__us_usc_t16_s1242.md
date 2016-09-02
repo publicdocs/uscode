@@ -33,21 +33,21 @@
 
         For purposes of this section, the term “extended trails” means trails or trail segments which total at least one hundred miles in length, except that historic trails of less than one hundred miles may be designated as extended trails. While it is desirable that extended trails be continuous, studies of such trails may conclude that it is feasible to propose one or more trail segments which, in the aggregate, constitute at least one hundred miles in length.
 
-([Pub. L. 90–543, § 3][/us/pl/90/543/s3], Oct. 2, 1968, [82 Stat. 919][/us/stat/82/919]; [Pub. L. 95–625, title V, § 551(4)][/us/pl/95/625/s551/4], (5), Nov. 10, 1978, [92 Stat. 3511][/us/stat/92/3511], 3512; [Pub. L. 98–11, title II, § 203][/us/pl/98/11/s203], Mar. 28, 1983, [97 Stat. 42][/us/stat/97/42]; [Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(E)][/us/pl/104/333/s814/d/1/E], Nov. 12, 1996, [110 Stat. 4196][/us/stat/110/4196].)
+([Pub. L. 90–543][/us/pl/90/543], § 3, Oct. 2, 1968, [82 Stat. 919][/us/stat/82/919]; [Pub. L. 95–625, title V][/us/pl/95/625/tV], § 551(4), (5), Nov. 10, 1978, [92 Stat. 3511][/us/stat/92/3511], 3512; [Pub. L. 98–11, title II][/us/pl/98/11/tII], § 203, Mar. 28, 1983, [97 Stat. 42][/us/stat/97/42]; [Pub. L. 104–333, div. I, title VIII][/us/pl/104/333/dI/tVIII], § 814(d)(1)(E), Nov. 12, 1996, [110 Stat. 4196][/us/stat/110/4196].)
 
  __Amendments__ 
 
     1996—Subsec. (c). [Pub. L. 104–333][/us/pl/104/333] struck out subsec. (c) which read as follows: “On October 1, 1982, and at the beginning of each odd numbered fiscal year thereafter, the Secretary of the Interior shall submit to the Speaker of the United States House of Representatives and to the President of the United States Senate, an initial and revised (respectively) National Trails System plan. Such comprehensive plan shall indicate the scope and extent of a completed nationwide system of trails, to include (1) desirable nationally significant scenic and historic components which are considered necessary to complete a comprehensive national system, and (2) other trails which would balance out a complete and comprehensive nationwide system of trails. Such plan, and the periodic revisions thereto, shall be prepared in full consultation with the Secretary of Agriculture, the Governors of the various States, and the trails community.”
 
-    1983—Subsec. (a). [Pub. L. 98–11, § 203(1)][/us/pl/98/11/s203/1], (2), designated existing provisions as subsec. (a), redesignated former subsecs. (a) to (d) as pars. (1) to (4), respectively, and, in provisions preceding par. (1), substituted “shall be composed  of  the  following:”  for  “shall  be  composed of—”.
+    1983—Subsec. (a). [Pub. L. 98–11][/us/pl/98/11], § 203(1), (2), designated existing provisions as subsec. (a), redesignated former subsecs. (a) to (d) as pars. (1) to (4), respectively, and, in provisions preceding par. (1), substituted “shall be composed  of  the  following:”  for  “shall  be  composed of—”.
 
-    Subsec. (a)(2). [Pub. L. 98–11, § 203(3)][/us/pl/98/11/s203/3], inserted provision authorizing the location of national scenic trails so as to represent desert, marsh, grassland, mountain, canyon, river, forest, and other areas, as well as landforms which exhibit significant characteristics of the physiographic regions of the Nation.
+    Subsec. (a)(2). [Pub. L. 98–11][/us/pl/98/11], § 203(3), inserted provision authorizing the location of national scenic trails so as to represent desert, marsh, grassland, mountain, canyon, river, forest, and other areas, as well as landforms which exhibit significant characteristics of the physiographic regions of the Nation.
 
-    Subsec. (a)(3). [Pub. L. 98–11, § 203(4)][/us/pl/98/11/s203/4], (5), substituted “in this chapter are included as Federal” for “in this chapter, are established as initial Federal” in fourth sentence and struck out “subsequently” after “The appropriate Secretary may” in fifth sentence.
+    Subsec. (a)(3). [Pub. L. 98–11][/us/pl/98/11], § 203(4), (5), substituted “in this chapter are included as Federal” for “in this chapter, are established as initial Federal” in fourth sentence and struck out “subsequently” after “The appropriate Secretary may” in fifth sentence.
 
-    Subsecs. (b), (c). [Pub. L. 98–11, § 203(6)][/us/pl/98/11/s203/6], added subsecs. (b) and (c).
+    Subsecs. (b), (c). [Pub. L. 98–11][/us/pl/98/11], § 203(6), added subsecs. (b) and (c).
 
-    1978—Subsecs. (c), (d). [Pub. L. 95–625, § 551(4)][/us/pl/95/625/s551/4], (5), added subsec. (c), redesignated former subsec. (c) as (d), and substituted “, national scenic or national historic” for “or national scenic”.
+    1978—Subsecs. (c), (d). [Pub. L. 95–625][/us/pl/95/625], § 551(4), (5), added subsec. (c), redesignated former subsec. (c) as (d), and substituted “, national scenic or national historic” for “or national scenic”.
 
 ----------
 
@@ -60,19 +60,19 @@
 [/us/usc/t16/s1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1244
 [/us/usc/t16/s1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1244
 [/us/usc/t16/s1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1245
-[/us/pl/90/543/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F543%2Fs3
+[/us/pl/90/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F543
 [/us/stat/82/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F919
-[/us/pl/95/625/s551/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs551%2F4
+[/us/pl/95/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtV
 [/us/stat/92/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3511
-[/us/pl/98/11/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2Fs203
+[/us/pl/98/11/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2FtII
 [/us/stat/97/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F42
-[/us/pl/104/333/s814/d/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs814%2Fd%2F1%2FE
+[/us/pl/104/333/dI/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtVIII
 [/us/stat/110/4196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4196
 [/us/pl/104/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333
-[/us/pl/98/11/s203/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2Fs203%2F1
-[/us/pl/98/11/s203/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2Fs203%2F3
-[/us/pl/98/11/s203/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2Fs203%2F4
-[/us/pl/98/11/s203/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2Fs203%2F6
-[/us/pl/95/625/s551/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs551%2F4
+[/us/pl/98/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11
+[/us/pl/98/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11
+[/us/pl/98/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11
+[/us/pl/98/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11
+[/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
 
 

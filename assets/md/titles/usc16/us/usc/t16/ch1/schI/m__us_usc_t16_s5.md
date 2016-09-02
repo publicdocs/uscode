@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, acts [Mar. 4, 1911, ch. 238][/us/act/1911-03-04/ch238], [36 Stat. 1253][/us/stat/36/1253]; [May 27, 1952, ch. 338][/us/act/1952-05-27/ch338], [66 Stat. 95][/us/stat/66/95]; [Pub. L. 94–579, title VII][/us/pl/94/579], § 706(a), Oct. 21, 1976, [90 Stat. 2793][/us/stat/90/2793]; [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which authorized heads of departments to grant easements for rights-of-way on “the public lands, national forests, and reservations of the United States” for electrical power and communications purposes, was omitted because its provisions, as they related to System units, were repealed by [Pub. L. 113–287][/us/pl/113/287] and because act Mar. 4, 1911, is also classified to [section 961 of Title 43][/us/usc/t43/s961], Public Lands. It was also classified to sections 420 and 523 of this title prior to their omission from the Code.
+    Section, acts [Mar. 4, 1911, ch. 238][/us/act/1911-03-04/ch238], [36 Stat. 1253][/us/stat/36/1253]; [May 27, 1952, ch. 338][/us/act/1952-05-27/ch338], [66 Stat. 95][/us/stat/66/95]; [Pub. L. 94–579, title VII][/us/pl/94/579/tVII], § 706(a), Oct. 21, 1976, [90 Stat. 2793][/us/stat/90/2793]; [Pub. L. 113–287][/us/pl/113/287], § 7, Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which authorized heads of departments to grant easements for rights-of-way on “the public lands, national forests, and reservations of the United States” for electrical power and communications purposes, was omitted because its provisions, as they related to System units, were repealed by [Pub. L. 113–287][/us/pl/113/287] and because act Mar. 4, 1911, is also classified to [section 961 of Title 43][/us/usc/t43/s961], Public Lands. It was also classified to sections 420 and 523 of this title prior to their omission from the Code.
 
 ----------
 
@@ -30,9 +30,9 @@
 [/us/stat/36/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1253
 [/us/act/1952-05-27/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-05-27%2Fch338
 [/us/stat/66/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F95
-[/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
+[/us/pl/94/579/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2FtVII
 [/us/stat/90/2793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2793
-[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t43/s961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs961

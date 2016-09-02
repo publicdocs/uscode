@@ -137,7 +137,7 @@
 
         In making a determination with respect to the standard established by [section 2621(d)(14) of this title][/us/usc/t16/s2621/d/14], the investigation requirement of [section 2621(d)(14)(F) of this title][/us/usc/t16/s2621/d/14/F] shall be as follows: Each State regulatory authority shall conduct an investigation and issue a decision whether or not it is appropriate for electric utilities to provide and install time-based meters and communications devices for each of their customers which enable such customers to participate in time-based pricing rate schedules and other demand response programs.
 
-([Pub. L. 95–617, title I, § 115][/us/pl/95/617/s115], Nov. 9, 1978, [92 Stat. 3125][/us/stat/92/3125]; [Pub. L. 109–58, title XII, § 1252(b)][/us/pl/109/58/s1252/b], Aug. 8, 2005, [119 Stat. 965][/us/stat/119/965].)
+([Pub. L. 95–617, title I][/us/pl/95/617/tI], § 115, Nov. 9, 1978, [92 Stat. 3125][/us/stat/92/3125]; [Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1252(b), Aug. 8, 2005, [119 Stat. 965][/us/stat/119/965].)
 
  __References in Text__ 
 
@@ -145,9 +145,9 @@
 
  __Amendments__ 
 
-    2005—Subsec. (b). [Pub. L. 109–58, § 1252(b)(1)][/us/pl/109/58/s1252/b/1], (2), inserted “and the standard for time-based metering and communications established by [section 2621(d)(14) of this title][/us/usc/t16/s2621/d/14]” after “[section 2621(d)(3) of this title][/us/usc/t16/s2621/d/3]” and substituted “metering and communications costs” for “metering costs”.
+    2005—Subsec. (b). [Pub. L. 109–58][/us/pl/109/58], § 1252(b)(1), (2), inserted “and the standard for time-based metering and communications established by [section 2621(d)(14) of this title][/us/usc/t16/s2621/d/14]” after “[section 2621(d)(3) of this title][/us/usc/t16/s2621/d/3]” and substituted “metering and communications costs” for “metering costs”.
 
-    Subsec. (i). [Pub. L. 109–58, § 1252(b)(3)][/us/pl/109/58/s1252/b/3], added subsec. (i).
+    Subsec. (i). [Pub. L. 109–58][/us/pl/109/58], § 1252(b)(3), added subsec. (i).
 
 ----------
 
@@ -175,17 +175,17 @@
 [/us/usc/t42/s8211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8211
 [/us/usc/t16/s2621/d/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2621%2Fd%2F14
 [/us/usc/t16/s2621/d/14/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2621%2Fd%2F14%2FF
-[/us/pl/95/617/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs115
+[/us/pl/95/617/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtI
 [/us/stat/92/3125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3125
-[/us/pl/109/58/s1252/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1252%2Fb
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F965
 [/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
 [/us/stat/92/3206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3206
 [/us/usc/t42/s8229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8229
 [/us/usc/t42/s8201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8201
-[/us/pl/109/58/s1252/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1252%2Fb%2F1
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/usc/t16/s2621/d/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2621%2Fd%2F14
 [/us/usc/t16/s2621/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2621%2Fd%2F3
-[/us/pl/109/58/s1252/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1252%2Fb%2F3
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 
 

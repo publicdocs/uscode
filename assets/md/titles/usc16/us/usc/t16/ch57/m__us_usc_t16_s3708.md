@@ -17,7 +17,7 @@
 
     The Congress expressly reserves the right to repeal or amend this chapter at any time.
 
-([Pub. L. 98–244, § 9][/us/pl/98/244/s9], Mar. 26, 1984, [98 Stat. 110][/us/stat/98/110].)
+([Pub. L. 98–244][/us/pl/98/244], § 9, Mar. 26, 1984, [98 Stat. 110][/us/stat/98/110].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/98/244/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F244%2Fs9
+[/us/pl/98/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F244
 [/us/stat/98/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F110
 
 

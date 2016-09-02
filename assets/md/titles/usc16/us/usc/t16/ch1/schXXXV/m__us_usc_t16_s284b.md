@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as may be necessary, but not in excess of $5,473,000, to carry out the purposes of this subchapter.
 
-([Pub. L. 89–671, § 3][/us/pl/89/671/s3], Oct. 15, 1966, [80 Stat. 951][/us/stat/80/951]; [Pub. L. 92–272, title II, § 201(4)][/us/pl/92/272/s201/4], Apr. 11, 1972, [86 Stat. 120][/us/stat/86/120].)
+([Pub. L. 89–671][/us/pl/89/671], § 3, Oct. 15, 1966, [80 Stat. 951][/us/stat/80/951]; [Pub. L. 92–272, title II][/us/pl/92/272/tII], § 201(4), Apr. 11, 1972, [86 Stat. 120][/us/stat/86/120].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/89/671/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F671%2Fs3
+[/us/pl/89/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F671
 [/us/stat/80/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F951
-[/us/pl/92/272/s201/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F272%2Fs201%2F4
+[/us/pl/92/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F272%2FtII
 [/us/stat/86/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F120
 [/us/pl/92/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F272
 

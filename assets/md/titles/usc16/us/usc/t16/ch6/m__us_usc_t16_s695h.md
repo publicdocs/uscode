@@ -17,7 +17,7 @@
 
     Works constructed under the authorization of [section 695e of this title][/us/usc/t16/s695e], for the purpose of supplying State wildlife management areas with water, shall become the property of the State of California when constructed.
 
-([Aug. 27, 1954, ch. 1012, § 5][/us/act/1954-08-27/ch1012/s5], [68 Stat. 879][/us/stat/68/879].)
+([Aug. 27, 1954, ch. 1012][/us/act/1954-08-27/ch1012], § 5, [68 Stat. 879][/us/stat/68/879].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s695e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs695e
-[/us/act/1954-08-27/ch1012/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1012%2Fs5
+[/us/act/1954-08-27/ch1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1012
 [/us/stat/68/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F879
 
 

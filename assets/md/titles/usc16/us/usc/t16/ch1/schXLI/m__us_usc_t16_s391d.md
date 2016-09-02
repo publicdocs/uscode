@@ -17,7 +17,7 @@
 
     Effective September 22, 1961, the portion of the Hawaii National Park situated on the island of Hawaii, established and administered pursuant to sections 391, 393, and 394 of this title, as amended and supplemented, shall be known as the Hawaiʻi Volcanoes National Park.
 
-([Pub. L. 87–278][/us/pl/87/278], Sept. 22, 1961, [75 Stat. 577][/us/stat/75/577]; [Pub. L. 106–510, § 3(a)(1)][/us/pl/106/510/s3/a/1], Nov. 13, 2000, [114 Stat. 2363][/us/stat/114/2363].)
+([Pub. L. 87–278][/us/pl/87/278], Sept. 22, 1961, [75 Stat. 577][/us/stat/75/577]; [Pub. L. 106–510][/us/pl/106/510], § 3(a)(1), Nov. 13, 2000, [114 Stat. 2363][/us/stat/114/2363].)
 
  __Amendments__ 
 
@@ -25,7 +25,7 @@
 
  __Change of Name__ 
 
-[Pub. L. 106–510, § 3(a)(2)][/us/pl/106/510/s3/a/2], Nov. 13, 2000, [114 Stat. 2363][/us/stat/114/2363], provided that: 
+[Pub. L. 106–510][/us/pl/106/510], § 3(a)(2), Nov. 13, 2000, [114 Stat. 2363][/us/stat/114/2363], provided that: 
 
 > “Any reference in any law (other than this Act \[see Tables for classification\]), regulation, document, record, map, or other paper of the United States to ‘Hawaii Volcanoes National Park’ shall be considered a reference to ‘Hawaiʻi Volcanoes National Park’.”
 
@@ -38,10 +38,10 @@
 
 [/us/pl/87/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F278
 [/us/stat/75/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F577
-[/us/pl/106/510/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510%2Fs3%2Fa%2F1
+[/us/pl/106/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510
 [/us/stat/114/2363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2363
 [/us/pl/106/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510
-[/us/pl/106/510/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510%2Fs3%2Fa%2F2
+[/us/pl/106/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510
 [/us/stat/114/2363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2363
 
 

@@ -35,7 +35,7 @@
 
         Any person claiming the benefit of any exemption or permit under this chapter shall have the burden of proving that the exemption or permit is applicable or has been granted, and was valid and in force at the time of the alleged violation.
 
-([Pub. L. 102–440, title I, § 111][/us/pl/102/440/s111], Oct. 23, 1992, [106 Stat. 2230][/us/stat/106/2230].)
+([Pub. L. 102–440, title I][/us/pl/102/440/tI], § 111, Oct. 23, 1992, [106 Stat. 2230][/us/stat/106/2230].)
 
 ----------
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t16/s4905/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4905%2Fa%2F2%2FB
 [/us/usc/t16/s4905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4905
-[/us/pl/102/440/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2Fs111
+[/us/pl/102/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2FtI
 [/us/stat/106/2230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2230
 
 

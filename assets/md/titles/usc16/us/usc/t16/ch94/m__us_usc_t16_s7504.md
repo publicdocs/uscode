@@ -27,7 +27,7 @@
 
         (2) fund the creation of national marine monuments and marine protected areas, marine spatial planning, or the National Ocean Policy.
 
-([Pub. L. 114–113, div. O, title IX, § 905][/us/pl/114/113/s905], Dec. 18, 2015, [129 Stat. 3032][/us/stat/129/3032].)
+([Pub. L. 114–113, div. O, title IX][/us/pl/114/113/dO/tIX], § 905, Dec. 18, 2015, [129 Stat. 3032][/us/stat/129/3032].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/114/113/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs905
+[/us/pl/114/113/dO/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdO%2FtIX
 [/us/stat/129/3032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3032
 
 

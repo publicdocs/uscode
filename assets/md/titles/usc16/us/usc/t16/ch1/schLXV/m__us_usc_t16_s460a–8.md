@@ -17,7 +17,7 @@
 
     The Secretary of the Interior may issue revocable licenses or permits for rights-of-way over, across, and upon parkway lands, or for the use of parkway lands by the owners or lessees of adjacent lands, or for such purposes and under such terms and conditions as he may determine to be consistent with the use of such lands for parkway purposes.
 
-([Pub. L. 90–555, § 3][/us/pl/90/555/s3], Oct. 9, 1968, [82 Stat. 968][/us/stat/82/968].)
+([Pub. L. 90–555][/us/pl/90/555], § 3, Oct. 9, 1968, [82 Stat. 968][/us/stat/82/968].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/555/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F555%2Fs3
+[/us/pl/90/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F555
 [/us/stat/82/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F968
 
 

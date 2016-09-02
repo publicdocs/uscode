@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as may be necessary to carry out the provisions of sections 430aa to 430ee of this title.
 
-([July 20, 1956, ch. 653, § 5][/us/act/1956-07-20/ch653/s5], [70 Stat. 593][/us/stat/70/593].)
+([July 20, 1956, ch. 653][/us/act/1956-07-20/ch653], § 5, [70 Stat. 593][/us/stat/70/593].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1956-07-20/ch653/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-20%2Fch653%2Fs5
+[/us/act/1956-07-20/ch653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-20%2Fch653
 [/us/stat/70/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F593
 
 

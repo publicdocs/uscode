@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall be construed to diminish the rights of any Indian tribe. Nothing in this subchapter shall be construed to diminish tribal rights, including those of the Burns Paiute Tribe, regarding access to Federal lands for tribal activities, including spiritual, cultural, and traditional food gathering activities.
 
-([Pub. L. 106–399, § 5][/us/pl/106/399/s5], Oct. 30, 2000, [114 Stat. 1658][/us/stat/114/1658].)
+([Pub. L. 106–399][/us/pl/106/399], § 5, Oct. 30, 2000, [114 Stat. 1658][/us/stat/114/1658].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/106/399/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2Fs5
+[/us/pl/106/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399
 [/us/stat/114/1658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1658
 [/us/pl/106/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399
 [/us/stat/114/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1655

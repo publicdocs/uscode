@@ -17,7 +17,7 @@
 
     Not to exceed $100,000 annually of funds available to the Forest Service may be expended for providing recreation facilities, equipment, and services for use by employees of the Service located at isolated situations and, where deemed to be in the public interest, by members of the immediate families of such employees.
 
-([Pub. L. 87–869, § 3][/us/pl/87/869/s3], Oct. 23, 1962, [76 Stat. 1157][/us/stat/76/1157]; [Pub. L. 101–512, title II][/us/pl/101/512], Nov. 5, 1990, [104 Stat. 1944][/us/stat/104/1944].)
+([Pub. L. 87–869][/us/pl/87/869], § 3, Oct. 23, 1962, [76 Stat. 1157][/us/stat/76/1157]; [Pub. L. 101–512, title II][/us/pl/101/512/tII], Nov. 5, 1990, [104 Stat. 1944][/us/stat/104/1944].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/87/869/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F869%2Fs3
+[/us/pl/87/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F869
 [/us/stat/76/1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1157
-[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2FtII
 [/us/stat/104/1944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1944
 [/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
 

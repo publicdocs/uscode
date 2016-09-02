@@ -27,7 +27,7 @@
 
         Subject to valid existing rights, all mining claims located within any such unit shall be subject to such reasonable regulations as the Secretary may prescribe to assure that mining will, to the maximum extent practicable, be consistent with protection of the scenic, scientific, cultural, and other resources of the area and any patent issued after December 2, 1980, shall convey title only to the minerals together with the right to use the surface of lands for mining purposes subject to such reasonable regulations as the Secretary may prescribe as aforesaid.
 
-([Pub. L. 96–487, title IV, § 402][/us/pl/96/487/s402], Dec. 2, 1980, [94 Stat. 2396][/us/stat/94/2396].)
+([Pub. L. 96–487, title IV][/us/pl/96/487/tIV], § 402, Dec. 2, 1980, [94 Stat. 2396][/us/stat/94/2396].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 [/us/usc/t30/s601–603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs601%E2%80%93603
 [/us/usc/t30/s22–54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs22%E2%80%9354
 [/us/usc/t30/s22–54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs22%E2%80%9354
-[/us/pl/96/487/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs402
+[/us/pl/96/487/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtIV
 [/us/stat/94/2396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2396
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
 [/us/stat/90/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2743

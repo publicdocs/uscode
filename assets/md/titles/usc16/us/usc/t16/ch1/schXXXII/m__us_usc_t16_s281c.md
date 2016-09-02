@@ -23,7 +23,7 @@
 
         The Secretary of the Interior may enter into cooperative agreements with the owners of property which, under the provisions of this subchapter, may be designated for inclusion in Nez  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “the”. </sup></sup>  Perce National Historical Park as sites in non-Federal ownership, and he may assist in the preservation, renewal, and interpretation of the properties, provided the cooperative agreements shall contain, but not be limited to, provisions that: (1) the Secretary has right of access at all reasonable times to all public portions of the property for the purpose of conducting visitors through the property and interpreting it to the public, and (2) no changes or alterations shall be made in the properties, including buildings and grounds, without the written consent of the Secretary.
 
-([Pub. L. 89–19, § 4][/us/pl/89/19/s4], May 15, 1965, [79 Stat. 110][/us/stat/79/110]; [Pub. L. 102–576, § 2(4)][/us/pl/102/576/s2/4], Oct. 30, 1992, [106 Stat. 4771][/us/stat/106/4771].)
+([Pub. L. 89–19][/us/pl/89/19], § 4, May 15, 1965, [79 Stat. 110][/us/stat/79/110]; [Pub. L. 102–576][/us/pl/102/576], § 2(4), Oct. 30, 1992, [106 Stat. 4771][/us/stat/106/4771].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/89/19/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F19%2Fs4
+[/us/pl/89/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F19
 [/us/stat/79/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F110
-[/us/pl/102/576/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F576%2Fs2%2F4
+[/us/pl/102/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F576
 [/us/stat/106/4771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4771
 [/us/pl/102/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F576
 

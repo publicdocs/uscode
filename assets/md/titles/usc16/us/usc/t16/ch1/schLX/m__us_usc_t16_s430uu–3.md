@@ -17,7 +17,7 @@
 
     There is hereby retroceded to the State of Montana, effective when accepted by said State in accordance with its laws, such jurisdiction as has been ceded by such State to the United States over any lands within the boundaries of the Big Hole National Battlefield reserving in the United States, however, concurrent legislative jurisdiction over such lands.
 
-([Pub. L. 88–24, § 4][/us/pl/88/24/s4], May 17, 1963, [77 Stat. 19][/us/stat/77/19].)
+([Pub. L. 88–24][/us/pl/88/24], § 4, May 17, 1963, [77 Stat. 19][/us/stat/77/19].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/24/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F24%2Fs4
+[/us/pl/88/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F24
 [/us/stat/77/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F19
 
 

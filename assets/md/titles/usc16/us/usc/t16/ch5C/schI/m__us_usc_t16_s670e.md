@@ -17,7 +17,7 @@
 
     Nothing herein contained shall be construed to modify, amend or repeal any provision of [Public Law 85–337][/us/pl/85/337], nor as applying to national forest lands administered pursuant to the provisions of [section 9 of the Act of June 7, 1924][/us/act/1924-06-07/s9] ([43 Stat. 655][/us/stat/43/655]), nor [section 315m of title 43][/us/usc/t43/s315m].
 
-([Pub. L. 86–797, title I, § 105][/us/pl/86/797/s105], formerly § 5, Sept. 15, 1960, [74 Stat. 1053][/us/stat/74/1053]; renumbered title I, § 105, [Pub. L. 93–452, § 3(1)][/us/pl/93/452/s3/1], Oct. 18, 1974, [88 Stat. 1375][/us/stat/88/1375]; amended [Pub. L. 112–81, div. A, title III, § 312(b)(5)][/us/pl/112/81/s312/b/5], Dec. 31, 2011, [125 Stat. 1353][/us/stat/125/1353].)
+([Pub. L. 86–797, title I][/us/pl/86/797/tI], § 105, formerly § 5, Sept. 15, 1960, [74 Stat. 1053][/us/stat/74/1053]; renumbered title I, § 105, [Pub. L. 93–452][/us/pl/93/452], § 3(1), Oct. 18, 1974, [88 Stat. 1375][/us/stat/88/1375]; amended [Pub. L. 112–81, div. A, title III][/us/pl/112/81/dA/tIII], § 312(b)(5), Dec. 31, 2011, [125 Stat. 1353][/us/stat/125/1353].)
 
  __References in Text__ 
 
@@ -40,11 +40,11 @@
 [/us/act/1924-06-07/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fs9
 [/us/stat/43/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F655
 [/us/usc/t43/s315m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs315m
-[/us/pl/86/797/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F797%2Fs105
+[/us/pl/86/797/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F797%2FtI
 [/us/stat/74/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F1053
-[/us/pl/93/452/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F452%2Fs3%2F1
+[/us/pl/93/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F452
 [/us/stat/88/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1375
-[/us/pl/112/81/s312/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs312%2Fb%2F5
+[/us/pl/112/81/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIII
 [/us/stat/125/1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1353
 [/us/pl/85/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F337
 [/us/pl/85/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F337

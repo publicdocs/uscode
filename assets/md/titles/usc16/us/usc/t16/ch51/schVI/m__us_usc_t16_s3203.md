@@ -39,7 +39,7 @@
 
         Within National Forest wilderness and national forest monuments desginated  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “designated”. </sup></sup>  by this Act, the Secretary of Agriculture may permit or otherwise regulate the recovery and salvage of logs from coastlines.
 
-([Pub. L. 96–487, title XIII, § 1315][/us/pl/96/487/s1315], Dec. 2, 1980, [94 Stat. 2484][/us/stat/94/2484]; [Pub. L. 103–437, § 6(d)(31)][/us/pl/103/437/s6/d/31], Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
+([Pub. L. 96–487, title XIII][/us/pl/96/487/tXIII], § 1315, Dec. 2, 1980, [94 Stat. 2484][/us/stat/94/2484]; [Pub. L. 103–437][/us/pl/103/437], § 6(d)(31), Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
 
  __References in Text__ 
 
@@ -59,9 +59,9 @@
 ----------
 
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
-[/us/pl/96/487/s1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1315
+[/us/pl/96/487/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXIII
 [/us/stat/94/2484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2484
-[/us/pl/103/437/s6/d/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fd%2F31
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4584
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890

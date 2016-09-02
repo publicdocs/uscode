@@ -143,7 +143,7 @@
 
         (D) providing services that involve the resources of Department of Agriculture programs in a local community, as defined in the locally led planning process.
 
-([Pub. L. 97–98, title XV, § 1528][/us/pl/97/98/s1528], as added [Pub. L. 107–171, title II, § 2504][/us/pl/107/171/s2504], May 13, 2002, [116 Stat. 269][/us/stat/116/269]; [Pub. L. 110–234, title II, § 2805(a)][/us/pl/110/234/s2805/a], (b), May 22, 2008, [122 Stat. 1088][/us/stat/122/1088]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2805(a), (b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1816.)
+([Pub. L. 97–98, title XV][/us/pl/97/98/tXV], § 1528, as added [Pub. L. 107–171, title II][/us/pl/107/171/tII], § 2504, May 13, 2002, [116 Stat. 269][/us/stat/116/269]; [Pub. L. 110–234, title II][/us/pl/110/234/tII], § 2805(a), (b), May 22, 2008, [122 Stat. 1088][/us/stat/122/1088]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title II, § 2805(a), (b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1816.)
 
  __Codification__ 
 
@@ -151,15 +151,15 @@
 
  __Prior Provisions__ 
 
-    A prior section 3451, [Pub. L. 97–98, title XV, § 1528][/us/pl/97/98/s1528], Dec. 22, 1981, [95 Stat. 1337][/us/stat/95/1337], related to statement of purpose, prior to the general amendment of this subchapter by [Pub. L. 107–171][/us/pl/107/171].
+    A prior section 3451, [Pub. L. 97–98, title XV][/us/pl/97/98/tXV], § 1528, Dec. 22, 1981, [95 Stat. 1337][/us/stat/95/1337], related to statement of purpose, prior to the general amendment of this subchapter by [Pub. L. 107–171][/us/pl/107/171].
 
  __Amendments__ 
 
-    2008—Par. (1). [Pub. L. 110–246, § 2805(a)(1)][/us/pl/110/246/s2805/a/1], substituted “locally led planning process” for “planning process” in introductory provisions.
+    2008—Par. (1). [Pub. L. 110–246][/us/pl/110/246], § 2805(a)(1), substituted “locally led planning process” for “planning process” in introductory provisions.
 
-    Pars. (8), (9). [Pub. L. 110–246, § 2805(a)(2)][/us/pl/110/246/s2805/a/2], (3), redesignated pars. (9) and (8) as (8) and (9), respectively, and, in par. (8), substituted “Locally led planning process” for “Planning process” in heading and “locally led council” for “council” in text.
+    Pars. (8), (9). [Pub. L. 110–246][/us/pl/110/246], § 2805(a)(2), (3), redesignated pars. (9) and (8) as (8) and (9), respectively, and, in par. (8), substituted “Locally led planning process” for “Planning process” in heading and “locally led council” for “council” in text.
 
-    Par. (13)(C), (D). [Pub. L. 110–246, § 2805(b)][/us/pl/110/246/s2805/b], added subpars. (C) and (D) and struck out former subpars. (C) and (D) which read as follows:
+    Par. (13)(C), (D). [Pub. L. 110–246][/us/pl/110/246], § 2805(b), added subpars. (C) and (D) and struck out former subpars. (C) and (D) which read as follows:
 
     “(C) providing assistance for the long-term implementation of area plans; and
 
@@ -180,23 +180,23 @@
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/usc/t26/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc
 [/us/usc/t26/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fa
-[/us/pl/97/98/s1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1528
-[/us/pl/107/171/s2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2504
+[/us/pl/97/98/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXV
+[/us/pl/107/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtII
 [/us/stat/116/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F269
-[/us/pl/110/234/s2805/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2805%2Fa
+[/us/pl/110/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtII
 [/us/stat/122/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1088
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/97/98/s1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1528
+[/us/pl/97/98/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXV
 [/us/stat/95/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1337
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
-[/us/pl/110/246/s2805/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2805%2Fa%2F1
-[/us/pl/110/246/s2805/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2805%2Fa%2F2
-[/us/pl/110/246/s2805/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2805%2Fb
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

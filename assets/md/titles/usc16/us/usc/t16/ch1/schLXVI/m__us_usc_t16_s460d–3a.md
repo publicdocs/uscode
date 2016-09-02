@@ -17,7 +17,7 @@
 
     The Secretary of the Army may, under such terms and conditions as the Secretary deems appropriate, contract with any public or private entity to provide visitor reservation services. Any such contract in effect on or after October 1, 2004, may provide that the contractor shall be permitted to deduct a commission to be fixed by the Secretary from the amount charged the public for providing such services and to remit the net proceeds therefrom to the contracting agency.
 
-([Pub. L. 110–161, div. C, title I, § 121][/us/pl/110/161/s121], Dec. 26, 2007, [121 Stat. 1946][/us/stat/121/1946].)
+([Pub. L. 110–161, div. C, title I][/us/pl/110/161/dC/tI], § 121, Dec. 26, 2007, [121 Stat. 1946][/us/stat/121/1946].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/110/161/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs121
+[/us/pl/110/161/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdC%2FtI
 [/us/stat/121/1946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1946
 
 

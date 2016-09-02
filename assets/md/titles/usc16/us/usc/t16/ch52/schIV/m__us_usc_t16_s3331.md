@@ -23,7 +23,7 @@
 
         Title to any vessel or other personal property purchased under a State program approved by the Secretary in accordance with the provisions of this subchapter shall vest upon purchase in the State. If the State sells such vessels or other property, title may pass in accordance with such sale.
 
-([Pub. L. 96–561, title I, § 130][/us/pl/96/561/s130], Dec. 22, 1980, [94 Stat. 3283][/us/stat/94/3283].)
+([Pub. L. 96–561, title I][/us/pl/96/561/tI], § 130, Dec. 22, 1980, [94 Stat. 3283][/us/stat/94/3283].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t16/s3333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3333
-[/us/pl/96/561/s130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs130
+[/us/pl/96/561/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtI
 [/us/stat/94/3283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3283
 
 

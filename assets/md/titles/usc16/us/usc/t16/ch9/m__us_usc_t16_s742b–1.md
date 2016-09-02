@@ -27,7 +27,7 @@
 
         The Assistant Director for Wildlife and Sport Fish Restoration Programs shall be responsible for the administration, management, and oversight of the Federal Assistance Program for State Wildlife and Sport Fish Restoration under the Pittman-Robertson Wildlife Restoration Act ([16 U.S.C. 669][/us/usc/t16/s669] et seq.) and the Dingell-Johnson Sport Fish Restoration Act ([16 U.S.C. 777][/us/usc/t16/s777] et seq.).
 
-([Pub. L. 106–408, title I, § 132][/us/pl/106/408/s132], Nov. 1, 2000, [114 Stat. 1775][/us/stat/114/1775].)
+([Pub. L. 106–408, title I][/us/pl/106/408/tI], § 132, Nov. 1, 2000, [114 Stat. 1775][/us/stat/114/1775].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t16/s669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs669
 [/us/usc/t16/s777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777
-[/us/pl/106/408/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2Fs132
+[/us/pl/106/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2FtI
 [/us/stat/114/1775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1775
 [/us/act/1937-09-02/ch899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-02%2Fch899
 [/us/stat/50/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F917

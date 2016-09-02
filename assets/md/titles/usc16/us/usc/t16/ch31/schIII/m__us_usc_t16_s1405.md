@@ -17,7 +17,7 @@
 
     The Commission shall have access to all studies and data compiled by Federal agencies regarding marine mammals. With the consent of the appropriate Secretary or Agency head, the Commission may also utilize the facilities or services of any Federal agency and shall take every feasible step to avoid duplication of research and to carry out the purposes of this chapter.
 
-([Pub. L. 92–522, title II, § 205][/us/pl/92/522/s205], Oct. 21, 1972, [86 Stat. 1045][/us/stat/86/1045].)
+([Pub. L. 92–522, title II][/us/pl/92/522/tII], § 205, Oct. 21, 1972, [86 Stat. 1045][/us/stat/86/1045].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/522/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs205
+[/us/pl/92/522/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtII
 [/us/stat/86/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1045
 
 

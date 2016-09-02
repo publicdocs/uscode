@@ -31,7 +31,7 @@
 
     “Local organization”—any State, political subdivision thereof, soil or water conservation district, flood prevention or control district, or combinations thereof, or any other agency having authority under State law to carry out, maintain and operate the works of improvement; or any irrigation or reservoir company, water users’ association, or similar organization having such authority and not being operated for profit that may be approved by the Secretary; or any Indian tribe or tribal organization, as defined in [section 450b of title 25][/us/usc/t25/s450b], having authority under Federal, State, or Indian tribal law to carry out, maintain, and operate the works of improvement.
 
-([Aug. 4, 1954, ch. 656, § 2][/us/act/1954-08-04/ch656/s2], [68 Stat. 666][/us/stat/68/666]; [Aug. 7, 1956, ch. 1027, § 1(a)][/us/act/1956-08-07/ch1027/s1/a], [70 Stat. 1088][/us/stat/70/1088]; [Pub. L. 87–170][/us/pl/87/170], Aug. 30, 1961, [75 Stat. 408][/us/stat/75/408]; [Pub. L. 89–337][/us/pl/89/337], Nov. 8, 1965, [79 Stat. 1300][/us/stat/79/1300]; [Pub. L. 92–419, title II, § 201(b)][/us/pl/92/419/s201/b], Aug. 30, 1972, [86 Stat. 667][/us/stat/86/667]; [Pub. L. 95–113, title XV, § 1506(a)][/us/pl/95/113/s1506/a], Sept. 29, 1977, [91 Stat. 1022][/us/stat/91/1022]; [Pub. L. 97–98, title XV, § 1512(a)][/us/pl/97/98/s1512/a], (b), Dec. 22, 1981, [95 Stat. 1332][/us/stat/95/1332], 1333; [Pub. L. 99–662, title IX, § 929][/us/pl/99/662/s929], Nov. 17, 1986, [100 Stat. 4196][/us/stat/100/4196]; [Pub. L. 101–624, title XIV, § 1461][/us/pl/101/624/s1461], Nov. 28, 1990, [104 Stat. 3615][/us/stat/104/3615]; [Pub. L. 103–437, § 6(v)][/us/pl/103/437/s6/v], Nov. 2, 1994, [108 Stat. 4587][/us/stat/108/4587].)
+([Aug. 4, 1954, ch. 656][/us/act/1954-08-04/ch656], § 2, [68 Stat. 666][/us/stat/68/666]; [Aug. 7, 1956, ch. 1027][/us/act/1956-08-07/ch1027], § 1(a), [70 Stat. 1088][/us/stat/70/1088]; [Pub. L. 87–170][/us/pl/87/170], Aug. 30, 1961, [75 Stat. 408][/us/stat/75/408]; [Pub. L. 89–337][/us/pl/89/337], Nov. 8, 1965, [79 Stat. 1300][/us/stat/79/1300]; [Pub. L. 92–419, title II][/us/pl/92/419/tII], § 201(b), Aug. 30, 1972, [86 Stat. 667][/us/stat/86/667]; [Pub. L. 95–113, title XV][/us/pl/95/113/tXV], § 1506(a), Sept. 29, 1977, [91 Stat. 1022][/us/stat/91/1022]; [Pub. L. 97–98, title XV][/us/pl/97/98/tXV], § 1512(a), (b), Dec. 22, 1981, [95 Stat. 1332][/us/stat/95/1332], 1333; [Pub. L. 99–662, title IX][/us/pl/99/662/tIX], § 929, Nov. 17, 1986, [100 Stat. 4196][/us/stat/100/4196]; [Pub. L. 101–624, title XIV][/us/pl/101/624/tXIV], § 1461, Nov. 28, 1990, [104 Stat. 3615][/us/stat/104/3615]; [Pub. L. 103–437][/us/pl/103/437], § 6(v), Nov. 2, 1994, [108 Stat. 4587][/us/stat/108/4587].)
 
  __Amendments__ 
 
@@ -81,25 +81,25 @@
 ----------
 
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
-[/us/act/1954-08-04/ch656/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-04%2Fch656%2Fs2
+[/us/act/1954-08-04/ch656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-04%2Fch656
 [/us/stat/68/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F666
-[/us/act/1956-08-07/ch1027/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1027%2Fs1%2Fa
+[/us/act/1956-08-07/ch1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1027
 [/us/stat/70/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1088
 [/us/pl/87/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F170
 [/us/stat/75/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F408
 [/us/pl/89/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F337
 [/us/stat/79/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1300
-[/us/pl/92/419/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs201%2Fb
+[/us/pl/92/419/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2FtII
 [/us/stat/86/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F667
-[/us/pl/95/113/s1506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1506%2Fa
+[/us/pl/95/113/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXV
 [/us/stat/91/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1022
-[/us/pl/97/98/s1512/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1512%2Fa
+[/us/pl/97/98/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXV
 [/us/stat/95/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1332
-[/us/pl/99/662/s929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs929
+[/us/pl/99/662/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtIX
 [/us/stat/100/4196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4196
-[/us/pl/101/624/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1461
+[/us/pl/101/624/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIV
 [/us/stat/104/3615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3615
-[/us/pl/103/437/s6/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fv
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4587
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624

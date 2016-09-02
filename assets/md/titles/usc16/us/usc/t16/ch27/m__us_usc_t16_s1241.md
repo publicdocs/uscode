@@ -27,113 +27,113 @@
 
         The Congress recognizes the valuable contributions that volunteers and private, nonprofit trail groups have made to the development and maintenance of the Nation’s trails. In recognition of these contributions, it is further the purpose of this chapter to encourage and assist volunteer citizen involvement in the planning, development, maintenance, and management, where appropriate, of trails.
 
-([Pub. L. 90–543, § 2][/us/pl/90/543/s2], Oct. 2, 1968, [82 Stat. 919][/us/stat/82/919]; [Pub. L. 95–625, title V, § 551(1)][/us/pl/95/625/s551/1]–(3), Nov. 10, 1978, [92 Stat. 3511][/us/stat/92/3511]; [Pub. L. 98–11, title II, § 202][/us/pl/98/11/s202], Mar. 28, 1983, [97 Stat. 42][/us/stat/97/42].)
+([Pub. L. 90–543][/us/pl/90/543], § 2, Oct. 2, 1968, [82 Stat. 919][/us/stat/82/919]; [Pub. L. 95–625, title V][/us/pl/95/625/tV], § 551(1)–(3), Nov. 10, 1978, [92 Stat. 3511][/us/stat/92/3511]; [Pub. L. 98–11, title II][/us/pl/98/11/tII], § 202, Mar. 28, 1983, [97 Stat. 42][/us/stat/97/42].)
 
  __Amendments__ 
 
-    1983—Subsec. (b). [Pub. L. 98–11, § 202(1)][/us/pl/98/11/s202/1], substituted “The” for “the” before “purpose”.
+    1983—Subsec. (b). [Pub. L. 98–11][/us/pl/98/11], § 202(1), substituted “The” for “the” before “purpose”.
 
-    Subsec. (c). [Pub. L. 98–11, § 202(2)][/us/pl/98/11/s202/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 98–11][/us/pl/98/11], § 202(2), added subsec. (c).
 
-    1978—Subsec. (a). [Pub. L. 95–625, § 551(1)][/us/pl/95/625/s551/1], (2), inserted “the preservation of,” and “and historic resources” after “promote” and “outdoor areas” and substituted “within scenic areas and along historic travel routes of the Nation, which are often more remotely located” for “within established scenic areas more remotely located”.
+    1978—Subsec. (a). [Pub. L. 95–625][/us/pl/95/625], § 551(1), (2), inserted “the preservation of,” and “and historic resources” after “promote” and “outdoor areas” and substituted “within scenic areas and along historic travel routes of the Nation, which are often more remotely located” for “within established scenic areas more remotely located”.
 
-    Subsec. (b). [Pub. L. 95–625, § 551(3)][/us/pl/95/625/s551/3], substituted “, scenic and historic” for “and scenic”.
+    Subsec. (b). [Pub. L. 95–625][/us/pl/95/625], § 551(3), substituted “, scenic and historic” for “and scenic”.
 
  __Short Title of 2006 Amendment__ 
 
-[Pub. L. 109–432, div. C, title III, § 302][/us/pl/109/432/s302], Dec. 20, 2006, [120 Stat. 3028][/us/stat/120/3028], provided that: 
+[Pub. L. 109–432, div. C, title III][/us/pl/109/432/dC/tIII], § 302, Dec. 20, 2006, [120 Stat. 3028][/us/stat/120/3028], provided that: 
 
 > “This title \[enacting provisions set out as a note under [section 1244 of this title][/us/usc/t16/s1244] and enacting and amending provisions listed in a table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132]\] may be cited as the ‘White Pine County Conservation, Recreation, and Development Act of 2006’.”
 
-[Pub. L. 109–418, § 1][/us/pl/109/418/s1], Dec. 19, 2006, [120 Stat. 2882][/us/stat/120/2882], provided that: 
+[Pub. L. 109–418][/us/pl/109/418], § 1, Dec. 19, 2006, [120 Stat. 2882][/us/stat/120/2882], provided that: 
 
 > “This Act \[amending sections 81f and 1244 of this title\] may be cited as the ‘Captain John Smith Chesapeake National Historic Trail Designation Act’.”
 
  __Short Title of 2004 Amendments__ 
 
-[Pub. L. 108–424, § 2(a)][/us/pl/108/424/s2/a], Nov. 30, 2004, [118 Stat. 2403][/us/stat/118/2403], provided that: 
+[Pub. L. 108–424][/us/pl/108/424], § 2(a), Nov. 30, 2004, [118 Stat. 2403][/us/stat/118/2403], provided that: 
 
 > “This Act \[enacting provisions set out as a note under [section 1244 of this title][/us/usc/t16/s1244] and provisions listed in a table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132] and amending provisions listed in a table of National Wildlife Conservation Areas set out under [section 668dd of this title][/us/usc/t16/s668dd]\] may be cited as the ‘Lincoln County Conservation, Recreation, and Development Act of 2004’.”
 
-[Pub. L. 108–342, § 1][/us/pl/108/342/s1], Oct. 18, 2004, [118 Stat. 1370][/us/stat/118/1370], provided that: 
+[Pub. L. 108–342][/us/pl/108/342], § 1, Oct. 18, 2004, [118 Stat. 1370][/us/stat/118/1370], provided that: 
 
 > “This Act \[amending [section 1244 of this title][/us/usc/t16/s1244]\] may be cited as the ‘El Camino Real de los Tejas National Historic Trail Act’.”
 
  __Short Title of 2002 Amendments__ 
 
-[Pub. L. 107–338, § 1][/us/pl/107/338/s1], Dec. 16, 2002, [116 Stat. 2886][/us/stat/116/2886], provided that: 
+[Pub. L. 107–338][/us/pl/107/338], § 1, Dec. 16, 2002, [116 Stat. 2886][/us/stat/116/2886], provided that: 
 
 > “This Act \[amending [section 1244 of this title][/us/usc/t16/s1244] and enacting provisions set out as a note under [section 1244 of this title][/us/usc/t16/s1244]\] may be cited as the ‘Metacomet-Monadnock-Mattabesett Trail Study Act of 2002’.”
 
-[Pub. L. 107–325, § 1][/us/pl/107/325/s1], Dec. 4, 2002, [116 Stat. 2790][/us/stat/116/2790], provided that: 
+[Pub. L. 107–325][/us/pl/107/325], § 1, Dec. 4, 2002, [116 Stat. 2790][/us/stat/116/2790], provided that: 
 
 > “This Act \[amending [section 1244 of this title][/us/usc/t16/s1244]\] may be cited as the ‘Old Spanish Trail Recognition Act of 2002’.”
 
-[Pub. L. 107–214, § 1][/us/pl/107/214/s1], Aug. 21, 2002, [116 Stat. 1053][/us/stat/116/1053], provided that: 
+[Pub. L. 107–214][/us/pl/107/214], § 1, Aug. 21, 2002, [116 Stat. 1053][/us/stat/116/1053], provided that: 
 
 > “This Act \[amending [section 1244 of this title][/us/usc/t16/s1244]\] may be cited as the ‘Long Walk National Historic Trail Study Act’.”
 
  __Short Title of 2000 Amendments__ 
 
-[Pub. L. 106–509, § 1][/us/pl/106/509/s1], Nov. 13, 2000, [114 Stat. 2361][/us/stat/114/2361], provided that: 
+[Pub. L. 106–509][/us/pl/106/509], § 1, Nov. 13, 2000, [114 Stat. 2361][/us/stat/114/2361], provided that: 
 
 > “This Act \[amending [section 1244 of this title][/us/usc/t16/s1244]\] may be cited as the ‘Ala Kahakai National Historic Trail Act’.”
 
-[Pub. L. 106–307, § 1][/us/pl/106/307/s1], Oct. 13, 2000, [114 Stat. 1074][/us/stat/114/1074], provided that: 
+[Pub. L. 106–307][/us/pl/106/307], § 1, Oct. 13, 2000, [114 Stat. 1074][/us/stat/114/1074], provided that: 
 
 > “This Act \[amending [section 1244 of this title][/us/usc/t16/s1244]\] may be cited as the ‘El Camino Real de Tierra Adentro National Historic Trail Act’.”
 
  __Short Title of 1999 Amendment__ 
 
-[Pub. L. 106–135, § 1][/us/pl/106/135/s1], Dec. 7, 1999, [113 Stat. 1685][/us/stat/113/1685], provided that: 
+[Pub. L. 106–135][/us/pl/106/135], § 1, Dec. 7, 1999, [113 Stat. 1685][/us/stat/113/1685], provided that: 
 
 > “This Act \[amending [section 1244 of this title][/us/usc/t16/s1244]\] may be cited as the ‘Star-Spangled Banner National Historic Trail Study Act of 1999’.”
 
  __Short Title of 1993 Amendments__ 
 
-[Pub. L. 103–145, § 1][/us/pl/103/145/s1], Nov. 17, 1993, [107 Stat. 1496][/us/stat/107/1496], provided that: 
+[Pub. L. 103–145][/us/pl/103/145], § 1, Nov. 17, 1993, [107 Stat. 1496][/us/stat/107/1496], provided that: 
 
 > “This Act \[amending [section 1244 of this title][/us/usc/t16/s1244]\] may be cited as the ‘El Camino Real Para Los Texas Study Act of 1993’.”
 
-[Pub. L. 103–144, § 1][/us/pl/103/144/s1], Nov. 17, 1993, [107 Stat. 1494][/us/stat/107/1494], provided that: 
+[Pub. L. 103–144][/us/pl/103/144], § 1, Nov. 17, 1993, [107 Stat. 1494][/us/stat/107/1494], provided that: 
 
 > “This Act \[amending [section 1244 of this title][/us/usc/t16/s1244]\] may be cited as the ‘El Camino Real de Tierra Adentro Study Act of 1993’.”
 
  __Short Title of 1990 Amendments__ 
 
-[Pub. L. 101–365, § 1][/us/pl/101/365/s1], Aug. 15, 1990, [104 Stat. 429][/us/stat/104/429], provided that: 
+[Pub. L. 101–365][/us/pl/101/365], § 1, Aug. 15, 1990, [104 Stat. 429][/us/stat/104/429], provided that: 
 
 > “This Act \[amending sections 1244 and 1249 of this title\] may be cited as the ‘Juan Bautista de Anza National Historic Trail Act’.”
 
-[Pub. L. 101–321, § 1][/us/pl/101/321/s1], July 3, 1990, [104 Stat. 293][/us/stat/104/293], provided that: 
+[Pub. L. 101–321][/us/pl/101/321], § 1, July 3, 1990, [104 Stat. 293][/us/stat/104/293], provided that: 
 
 > “This Act \[amending [section 1244 of this title][/us/usc/t16/s1244]\] may be cited as the ‘Selma to Montgomery National Trail Study Act of 1989’.”
 
  __Short Title of 1988 Amendments__ 
 
-[Pub. L. 100–559, title II, § 201][/us/pl/100/559/s201], Oct. 28, 1988, [102 Stat. 2797][/us/stat/102/2797], provided that: 
+[Pub. L. 100–559, title II][/us/pl/100/559/tII], § 201, Oct. 28, 1988, [102 Stat. 2797][/us/stat/102/2797], provided that: 
 
 > “This title \[amending [section 1244 of this title][/us/usc/t16/s1244]\] may be cited as the ‘Coronado National Trail Study Act of 1988’.”
 
-[Pub. L. 100–470, § 1][/us/pl/100/470/s1], Oct. 4, 1988, [102 Stat. 2281][/us/stat/102/2281], provided that: 
+[Pub. L. 100–470][/us/pl/100/470], § 1, Oct. 4, 1988, [102 Stat. 2281][/us/stat/102/2281], provided that: 
 
 > “This Act \[amending sections 1244 and 1248 of this title and enacting provisions set out as notes under [section 1248 of this title][/us/usc/t16/s1248]\] may be cited as the ‘National Trails System Improvements Act of 1988’.”
 
  __Short Title of 1987 Amendment__ 
 
-[Pub. L. 100–187, § 1][/us/pl/100/187/s1], Dec. 11, 1987, [101 Stat. 1287][/us/stat/101/1287], provided that: 
+[Pub. L. 100–187][/us/pl/100/187], § 1, Dec. 11, 1987, [101 Stat. 1287][/us/stat/101/1287], provided that: 
 
 > “This Act \[amending [section 1244 of this title][/us/usc/t16/s1244]\] may be cited as the ‘De Soto National Trail Study Act of 1987’.”
 
  __Short Title of 1983 Amendment__ 
 
-[Pub. L. 98–11, title II, § 201][/us/pl/98/11/s201], Mar. 28, 1983, [97 Stat. 42][/us/stat/97/42], provided that: 
+[Pub. L. 98–11, title II][/us/pl/98/11/tII], § 201, Mar. 28, 1983, [97 Stat. 42][/us/stat/97/42], provided that: 
 
 > “This title \[enacting sections 1250 and 1251 of this title and amending this section and sections 1242 to 1247 and 1249 of this title\] may be cited as the ‘National Trails System Act Amendments of 1983’.”
 
  __Short Title__ 
 
-[Pub. L. 90–543, § 1][/us/pl/90/543/s1], Oct. 2, 1968, [82 Stat. 919][/us/stat/82/919], provided that: 
+[Pub. L. 90–543][/us/pl/90/543], § 1, Oct. 2, 1968, [82 Stat. 919][/us/stat/82/919], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘National Trails System Act’.”
 
@@ -194,72 +194,72 @@
 ----------
 ----------
 
-[/us/pl/90/543/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F543%2Fs2
+[/us/pl/90/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F543
 [/us/stat/82/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F919
-[/us/pl/95/625/s551/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs551%2F1
+[/us/pl/95/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtV
 [/us/stat/92/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3511
-[/us/pl/98/11/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2Fs202
+[/us/pl/98/11/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2FtII
 [/us/stat/97/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F42
-[/us/pl/98/11/s202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2Fs202%2F1
-[/us/pl/98/11/s202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2Fs202%2F2
-[/us/pl/95/625/s551/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs551%2F1
-[/us/pl/95/625/s551/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs551%2F3
-[/us/pl/109/432/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs302
+[/us/pl/98/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11
+[/us/pl/98/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11
+[/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
+[/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
+[/us/pl/109/432/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdC%2FtIII
 [/us/stat/120/3028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3028
 [/us/usc/t16/s1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1244
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132
-[/us/pl/109/418/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F418%2Fs1
+[/us/pl/109/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F418
 [/us/stat/120/2882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2882
-[/us/pl/108/424/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F424%2Fs2%2Fa
+[/us/pl/108/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F424
 [/us/stat/118/2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2403
 [/us/usc/t16/s1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1244
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132
 [/us/usc/t16/s668dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd
-[/us/pl/108/342/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F342%2Fs1
+[/us/pl/108/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F342
 [/us/stat/118/1370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1370
 [/us/usc/t16/s1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1244
-[/us/pl/107/338/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F338%2Fs1
+[/us/pl/107/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F338
 [/us/stat/116/2886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2886
 [/us/usc/t16/s1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1244
 [/us/usc/t16/s1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1244
-[/us/pl/107/325/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F325%2Fs1
+[/us/pl/107/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F325
 [/us/stat/116/2790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2790
 [/us/usc/t16/s1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1244
-[/us/pl/107/214/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F214%2Fs1
+[/us/pl/107/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F214
 [/us/stat/116/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1053
 [/us/usc/t16/s1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1244
-[/us/pl/106/509/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F509%2Fs1
+[/us/pl/106/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F509
 [/us/stat/114/2361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2361
 [/us/usc/t16/s1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1244
-[/us/pl/106/307/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F307%2Fs1
+[/us/pl/106/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F307
 [/us/stat/114/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1074
 [/us/usc/t16/s1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1244
-[/us/pl/106/135/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F135%2Fs1
+[/us/pl/106/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F135
 [/us/stat/113/1685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1685
 [/us/usc/t16/s1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1244
-[/us/pl/103/145/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F145%2Fs1
+[/us/pl/103/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F145
 [/us/stat/107/1496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1496
 [/us/usc/t16/s1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1244
-[/us/pl/103/144/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F144%2Fs1
+[/us/pl/103/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F144
 [/us/stat/107/1494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1494
 [/us/usc/t16/s1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1244
-[/us/pl/101/365/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F365%2Fs1
+[/us/pl/101/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F365
 [/us/stat/104/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F429
-[/us/pl/101/321/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F321%2Fs1
+[/us/pl/101/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F321
 [/us/stat/104/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F293
 [/us/usc/t16/s1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1244
-[/us/pl/100/559/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F559%2Fs201
+[/us/pl/100/559/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F559%2FtII
 [/us/stat/102/2797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2797
 [/us/usc/t16/s1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1244
-[/us/pl/100/470/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F470%2Fs1
+[/us/pl/100/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F470
 [/us/stat/102/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2281
 [/us/usc/t16/s1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1248
-[/us/pl/100/187/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F187%2Fs1
+[/us/pl/100/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F187
 [/us/stat/101/1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1287
 [/us/usc/t16/s1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1244
-[/us/pl/98/11/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2Fs201
+[/us/pl/98/11/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2FtII
 [/us/stat/97/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F42
-[/us/pl/90/543/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F543%2Fs1
+[/us/pl/90/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F543
 [/us/stat/82/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F919
 [/us/usc/t16/s1241–125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1241%E2%80%93125
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178

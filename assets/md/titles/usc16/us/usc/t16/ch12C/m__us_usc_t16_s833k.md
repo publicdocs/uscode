@@ -17,7 +17,7 @@
 
     If any provision of this chapter or the application of such provision to any person or circumstances shall be held invalid, the remainder of the chapter and the application of such provisions to persons or circumstances other than those as to which it is held invalid shall not be affected thereby.
 
-([May 18, 1938, ch. 250, § 12][/us/act/1938-05-18/ch250/s12], [52 Stat. 407][/us/stat/52/407].)
+([May 18, 1938, ch. 250][/us/act/1938-05-18/ch250], § 12, [52 Stat. 407][/us/stat/52/407].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1938-05-18/ch250/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-18%2Fch250%2Fs12
+[/us/act/1938-05-18/ch250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-18%2Fch250
 [/us/stat/52/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F407
 
 

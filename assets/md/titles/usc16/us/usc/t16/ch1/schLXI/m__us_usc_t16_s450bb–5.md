@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums, not to exceed $300,000, as may be necessary for the purchase of lands, interests therein, and improvements thereon pursuant to sections 450bb–3 to 450bb–5 of this title.
 
-([Pub. L. 86–655, § 3][/us/pl/86/655/s3], July 14, 1960, [74 Stat. 521][/us/stat/74/521].)
+([Pub. L. 86–655][/us/pl/86/655], § 3, July 14, 1960, [74 Stat. 521][/us/stat/74/521].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/655/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F655%2Fs3
+[/us/pl/86/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F655
 [/us/stat/74/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F521
 
 

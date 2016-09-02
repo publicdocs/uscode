@@ -57,7 +57,7 @@
 
         Nothing in this chapter shall be construed to affect the validity of any existing license, permit, or certificate issued by any Federal agency pursuant to any other Federal law.
 
-([Pub. L. 96–501, § 10][/us/pl/96/501/s10], Dec. 5, 1980, [94 Stat. 2734][/us/stat/94/2734].)
+([Pub. L. 96–501][/us/pl/96/501], § 10, Dec. 5, 1980, [94 Stat. 2734][/us/stat/94/2734].)
 
 ----------
 
@@ -69,7 +69,7 @@
 [/us/usc/t16/s839c/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs839c%2Fc%2F3
 [/us/usc/t16/s839c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs839c
 [/us/usc/t16/s839e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs839e
-[/us/pl/96/501/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501%2Fs10
+[/us/pl/96/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501
 [/us/stat/94/2734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2734
 
 

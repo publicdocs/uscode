@@ -49,7 +49,7 @@
 
             Nothing in this section alters or affects any agreement in effect on December 19, 2014, for the development of hydropower projects or disposition of revenues.
 
-([Aug. 11, 1939, ch. 717, § 9][/us/act/1939-08-11/ch717/s9], as added [Oct. 14, 1940, ch. 861][/us/act/1940-10-14/ch861], [54 Stat. 1124][/us/stat/54/1124]; [Pub. L. 113–291, div. B, title XXX, § 3087][/us/pl/113/291/s3087], Dec. 19, 2014, [128 Stat. 3857][/us/stat/128/3857].)
+([Aug. 11, 1939, ch. 717][/us/act/1939-08-11/ch717], § 9, as added [Oct. 14, 1940, ch. 861][/us/act/1940-10-14/ch861], [54 Stat. 1124][/us/stat/54/1124]; [Pub. L. 113–291, div. B, title XXX][/us/pl/113/291/dB/tXXX], § 3087, Dec. 19, 2014, [128 Stat. 3857][/us/stat/128/3857].)
 
  __References in Text__ 
 
@@ -72,10 +72,10 @@
 [/us/usc/t43/s485h/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs485h%2Fc
 [/us/usc/t16/s590z–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590z%E2%80%931
 [/us/usc/t16/s590z–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590z%E2%80%936
-[/us/act/1939-08-11/ch717/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-11%2Fch717%2Fs9
+[/us/act/1939-08-11/ch717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-11%2Fch717
 [/us/act/1940-10-14/ch861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch861
 [/us/stat/54/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1124
-[/us/pl/113/291/s3087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3087
+[/us/pl/113/291/dB/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXX
 [/us/stat/128/3857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3857
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
 [/us/stat/49/1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1363

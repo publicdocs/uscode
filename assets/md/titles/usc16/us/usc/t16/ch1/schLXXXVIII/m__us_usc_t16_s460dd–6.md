@@ -17,7 +17,7 @@
 
     The Secretary shall grant easements and rights-of-way on a nondiscriminatory basis upon, over, under, across, or along any component of the recreation area unless he finds that the route of such easements and rights-of-way would have significant adverse effects on the administration of the recreation area.
 
-([Pub. L. 92–593, § 7][/us/pl/92/593/s7], Oct. 27, 1972, [86 Stat. 1312][/us/stat/86/1312].)
+([Pub. L. 92–593][/us/pl/92/593], § 7, Oct. 27, 1972, [86 Stat. 1312][/us/stat/86/1312].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/593/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F593%2Fs7
+[/us/pl/92/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F593
 [/us/stat/86/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1312
 
 

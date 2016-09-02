@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated such sums as may be necessary to carry out this subchapter.
 
-([Pub. L. 103–364, § 5][/us/pl/103/364/s5], Oct. 14, 1994, [108 Stat. 3468][/us/stat/108/3468].)
+([Pub. L. 103–364][/us/pl/103/364], § 5, Oct. 14, 1994, [108 Stat. 3468][/us/stat/108/3468].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/364/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F364%2Fs5
+[/us/pl/103/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F364
 [/us/stat/108/3468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3468
 
 

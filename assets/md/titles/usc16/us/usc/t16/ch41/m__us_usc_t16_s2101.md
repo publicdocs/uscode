@@ -99,7 +99,7 @@
 
         This chapter shall be construed to complement the policies and direction under the Forest and Rangeland Renewable Resources Planning Act of 1974 ([16 U.S.C. 1600][/us/usc/t16/s1600] et seq.).
 
-([Pub. L. 95–313, § 2][/us/pl/95/313/s2], July 1, 1978, [92 Stat. 365][/us/stat/92/365]; [Pub. L. 101–513, title VI, § 611(b)(1)][/us/pl/101/513/s611/b/1], (2), formerly § 607(b)(1), (2), Nov. 5, 1990, [104 Stat. 2072][/us/stat/104/2072], renumbered § 611(b)(1), (2), [Pub. L. 102–574, § 2(a)(1)][/us/pl/102/574/s2/a/1], Oct. 29, 1992, [106 Stat. 4593][/us/stat/106/4593]; [Pub. L. 101–624, title XII, § 1212][/us/pl/101/624/s1212], Nov. 28, 1990, [104 Stat. 3521][/us/stat/104/3521]; [Pub. L. 110–234, title VIII, § 8001][/us/pl/110/234/s8001], May 22, 2008, [122 Stat. 1279][/us/stat/122/1279]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VIII, § 8001, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2041.)
+([Pub. L. 95–313][/us/pl/95/313], § 2, July 1, 1978, [92 Stat. 365][/us/stat/92/365]; [Pub. L. 101–513, title VI][/us/pl/101/513/tVI], § 611(b)(1), (2), formerly § 607(b)(1), (2), Nov. 5, 1990, [104 Stat. 2072][/us/stat/104/2072], renumbered § 611(b)(1), (2), [Pub. L. 102–574][/us/pl/102/574], § 2(a)(1), Oct. 29, 1992, [106 Stat. 4593][/us/stat/106/4593]; [Pub. L. 101–624, title XII][/us/pl/101/624/tXII], § 1212, Nov. 28, 1990, [104 Stat. 3521][/us/stat/104/3521]; [Pub. L. 110–234, title VIII][/us/pl/110/234/tVIII], § 8001, May 22, 2008, [122 Stat. 1279][/us/stat/122/1279]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VIII, § 8001, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2041.)
 
  __References in Text__ 
 
@@ -115,13 +115,13 @@
 
  __Amendments__ 
 
-    2008—Subsecs. (c) to (f). [Pub. L. 110–246, § 8001][/us/pl/110/246/s8001], added subsecs. (c) and (d) and redesignated former subsecs. (c) and (d) as (e) and (f), respectively.
+    2008—Subsecs. (c) to (f). [Pub. L. 110–246][/us/pl/110/246], § 8001, added subsecs. (c) and (d) and redesignated former subsecs. (c) and (d) as (e) and (f), respectively.
 
     1990—[Pub. L. 101–624][/us/pl/101/624] amended section generally, substituting present provisions for provisions which set forth Congressional findings and declarations, and statements of purpose and national interest, and which related to application with forest and rangeland renewable resources provisions. See Codification note above.
 
-    [Pub. L. 101–513, § 607(b)(1)][/us/pl/101/513/s607/b/1], directed the amendment of subsec. (a) by striking out “and” at end of par. (16), substituting “; and” for period at end of par. (17), and adding par. (18) at end. The amendment of pars. (16) and (17) was executed to pars. (15) and (16) to reflect the probable intent of Congress. See Codification note above.
+    [Pub. L. 101–513][/us/pl/101/513], § 607(b)(1), directed the amendment of subsec. (a) by striking out “and” at end of par. (16), substituting “; and” for period at end of par. (17), and adding par. (18) at end. The amendment of pars. (16) and (17) was executed to pars. (15) and (16) to reflect the probable intent of Congress. See Codification note above.
 
-    [Pub. L. 101–513, § 607(b)(2)][/us/pl/101/513/s607/b/2], which directed the amendment of subsec. (b) by inserting “in the United States, and forest lands in foreign countries,” after “non-Federal forest lands,” the first place it appears and in paragraph (10), was executed by making the insertion after “non-Federal forest lands” to reflect the probable intent of Congress. See Codification note above.
+    [Pub. L. 101–513][/us/pl/101/513], § 607(b)(2), which directed the amendment of subsec. (b) by inserting “in the United States, and forest lands in foreign countries,” after “non-Federal forest lands,” the first place it appears and in paragraph (10), was executed by making the insertion after “non-Federal forest lands” to reflect the probable intent of Congress. See Codification note above.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -129,25 +129,25 @@
 
  __Effective Date__ 
 
-Section 17, formerly section 14, of [Pub. L. 95–313][/us/pl/95/313], as renumbered § 17 by [Pub. L. 101–624, title XII, § 1215(1)][/us/pl/101/624/s1215/1], Nov. 28, 1990, [104 Stat. 3525][/us/stat/104/3525], provided that: 
+Section 17, formerly section 14, of [Pub. L. 95–313][/us/pl/95/313], as renumbered § 17 by [Pub. L. 101–624, title XII][/us/pl/101/624/tXII], § 1215(1), Nov. 28, 1990, [104 Stat. 3525][/us/stat/104/3525], provided that: 
 
 > “The provisions of this Act \[see Short Title note below\] shall become effective October 1, 1978.”
 
  __Short Title of 1990 Amendment__ 
 
-[Pub. L. 101–624, title XII, § 1201][/us/pl/101/624/s1201], Nov. 28, 1990, [104 Stat. 3521][/us/stat/104/3521], provided that: 
+[Pub. L. 101–624, title XII][/us/pl/101/624/tXII], § 1201, Nov. 28, 1990, [104 Stat. 3521][/us/stat/104/3521], provided that: 
 
 > “This title \[enacting sections 582a–8, 1648, 1649, 1674a, 2103a to 2103c, 2106a, 2113, and 2114 of this title, amending this section and sections 1642, 1672, 1674, 2102 to 2106, and 2108 to 2110 of this title, and enacting provisions set out as notes under this section and sections 582a, 1601, 1642, and 2112 of this title\] may be cited as the ‘Forest Stewardship Act of 1990’.”
 
  __Short Title__ 
 
-[Pub. L. 95–313, § 1][/us/pl/95/313/s1], July 1, 1978, [92 Stat. 365][/us/stat/92/365], provided: 
+[Pub. L. 95–313][/us/pl/95/313], § 1, July 1, 1978, [92 Stat. 365][/us/stat/92/365], provided: 
 
 > “That this Act \[enacting this chapter, amending sections 1510 and 1606 of this title, repealing sections 565, 566, 567, 568c to 568e, 594–1 to 594–5, 594a, and 1509 of this title, and sections 2651 to 2654 of Title 7, Agriculture, enacting provisions set out as notes under this section and [section 1606 of this title][/us/usc/t16/s1606], and repealing provisions set out as notes under sections 568c and 594–1 of this title\] may be cited as the ‘Cooperative Forestry Assistance Act of 1978’.”
 
  __America the Beautiful Act of 1990__ 
 
-[Pub. L. 101–624, title XII][/us/pl/101/624], subtitle C, Nov. 28, 1990, [104 Stat. 3553–3557][/us/stat/104/3553-3557], as amended by [Pub. L. 102–237, title X, § 1018(e)][/us/pl/102/237/s1018/e], Dec. 13, 1991, [105 Stat. 1905][/us/stat/105/1905], provided that:
+[Pub. L. 101–624, title XII][/us/pl/101/624/tXII], subtitle C, Nov. 28, 1990, [104 Stat. 3553–3557][/us/stat/104/3553-3557], as amended by [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1018(e), Dec. 13, 1991, [105 Stat. 1905][/us/stat/105/1905], provided that:
 
 > “SEC. 1261. __SHORT TITLE.__ 
 
@@ -317,7 +317,7 @@ Section 17, formerly section 14, of [Pub. L. 95–313][/us/pl/95/313], as renumb
 
  __Tree Planting Initiative__ 
 
-    [Pub. L. 99–198, title XII, § 1256][/us/pl/99/198/s1256], as added by [Pub. L. 101–624, title XIV, § 1441(a)][/us/pl/101/624/s1441/a], Nov. 28, 1990, [104 Stat. 3601][/us/stat/104/3601], set forth policy relating to maintenance, afforestation, and reforestation of forest lands and provisions relating to implementation of policy and agreements with State forestry agencies, prior to repeal by [Pub. L. 104–127, title III, § 336(e)][/us/pl/104/127/s336/e], Apr. 4, 1996, [110 Stat. 1007][/us/stat/110/1007].
+    [Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1256, as added by [Pub. L. 101–624, title XIV][/us/pl/101/624/tXIV], § 1441(a), Nov. 28, 1990, [104 Stat. 3601][/us/stat/104/3601], set forth policy relating to maintenance, afforestation, and reforestation of forest lands and provisions relating to implementation of policy and agreements with State forestry agencies, prior to repeal by [Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 336(e), Apr. 4, 1996, [110 Stat. 1007][/us/stat/110/1007].
 
  __Transfer of Forest Tree Nursery Facilities to States__ 
 
@@ -335,17 +335,17 @@ Section 17, formerly section 14, of [Pub. L. 95–313][/us/pl/95/313], as renumb
 ----------
 
 [/us/usc/t16/s1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1600
-[/us/pl/95/313/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313%2Fs2
+[/us/pl/95/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313
 [/us/stat/92/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F365
-[/us/pl/101/513/s611/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs611%2Fb%2F1
+[/us/pl/101/513/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtVI
 [/us/stat/104/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2072
-[/us/pl/102/574/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F574%2Fs2%2Fa%2F1
+[/us/pl/102/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F574
 [/us/stat/106/4593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4593
-[/us/pl/101/624/s1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1212
+[/us/pl/101/624/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXII
 [/us/stat/104/3521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3521
-[/us/pl/110/234/s8001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs8001
+[/us/pl/110/234/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVIII
 [/us/stat/122/1279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1279
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/95/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313
 [/us/stat/92/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F365
@@ -360,36 +360,36 @@ Section 17, formerly section 14, of [Pub. L. 95–313][/us/pl/95/313], as renumb
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/101/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513
-[/us/pl/110/246/s8001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs8001
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
-[/us/pl/101/513/s607/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs607%2Fb%2F1
-[/us/pl/101/513/s607/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs607%2Fb%2F2
+[/us/pl/101/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513
+[/us/pl/101/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
 [/us/pl/95/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313
-[/us/pl/101/624/s1215/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1215%2F1
+[/us/pl/101/624/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXII
 [/us/stat/104/3525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3525
-[/us/pl/101/624/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1201
+[/us/pl/101/624/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXII
 [/us/stat/104/3521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3521
-[/us/pl/95/313/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313%2Fs1
+[/us/pl/95/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313
 [/us/stat/92/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F365
 [/us/usc/t16/s1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1606
-[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXII
 [/us/stat/104/3553-3557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3553-3557
-[/us/pl/102/237/s1018/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1018%2Fe
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1905
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/usc/t16/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2102
 [/us/usc/t16/s2103a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2103a
 [/us/usc/t16/s2103b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2103b
 [/us/usc/t16/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2105
-[/us/pl/99/198/s1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1256
-[/us/pl/101/624/s1441/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1441%2Fa
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/101/624/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIV
 [/us/stat/104/3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3601
-[/us/pl/104/127/s336/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs336%2Fe
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1007
 [/us/pl/87/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F492
 [/us/stat/76/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F107

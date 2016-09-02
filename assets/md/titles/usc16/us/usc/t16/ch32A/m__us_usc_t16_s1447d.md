@@ -77,7 +77,7 @@
 
         Any recipient of a grant under this section shall report to the appropriate Board, not later than 18 months after award of the grant, on the activities of such recipient conducted pursuant to this subsection. Such report shall include narrative summaries and technical data in such form as the Administrator of the National Oceanic and Atmospheric Administration may require.
 
-([Pub. L. 92–532, title IV, § 405][/us/pl/92/532/s405], as added [Pub. L. 101–593, title III, § 301][/us/pl/101/593/s301], Nov. 16, 1990, [104 Stat. 2967][/us/stat/104/2967].)
+([Pub. L. 92–532, title IV][/us/pl/92/532/tIV], § 405, as added [Pub. L. 101–593, title III][/us/pl/101/593/tIII], § 301, Nov. 16, 1990, [104 Stat. 2967][/us/stat/104/2967].)
 
 ----------
 
@@ -87,8 +87,8 @@
 ----------
 
 [/us/usc/t16/s1447c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1447c
-[/us/pl/92/532/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs405
-[/us/pl/101/593/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2Fs301
+[/us/pl/92/532/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2FtIV
+[/us/pl/101/593/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2FtIII
 [/us/stat/104/2967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2967
 
 

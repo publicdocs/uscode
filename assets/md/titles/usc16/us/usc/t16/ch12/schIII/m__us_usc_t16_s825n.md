@@ -27,7 +27,7 @@
 
         This section shall not apply in the case of any provision of section 824j, 824k, 824l, or 824m of this title or any rule or order issued under any such provision.
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. III, § 315, as added [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, § 213, [49 Stat. 861][/us/stat/49/861]; amended [June 25, 1948, ch. 646, § 1][/us/act/1948-06-25/ch646/s1], [62 Stat. 909][/us/stat/62/909]; [Pub. L. 102–486, title VII, § 725(a)][/us/pl/102/486/s725/a], Oct. 24, 1992, [106 Stat. 2920][/us/stat/106/2920]; [Pub. L. 109–58, title XII, § 1295(d)][/us/pl/109/58/s1295/d], Aug. 8, 2005, [119 Stat. 985][/us/stat/119/985].)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. III, § 315, as added [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, § 213, [49 Stat. 861][/us/stat/49/861]; amended [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 1, [62 Stat. 909][/us/stat/62/909]; [Pub. L. 102–486, title VII][/us/pl/102/486/tVII], § 725(a), Oct. 24, 1992, [106 Stat. 2920][/us/stat/106/2920]; [Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1295(d), Aug. 8, 2005, [119 Stat. 985][/us/stat/119/985].)
 
  __Amendments__ 
 
@@ -53,11 +53,11 @@
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
 [/us/act/1935-08-26/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-26%2Fch687
 [/us/stat/49/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F861
-[/us/act/1948-06-25/ch646/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs1
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F909
-[/us/pl/102/486/s725/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs725%2Fa
+[/us/pl/102/486/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtVII
 [/us/stat/106/2920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2920
-[/us/pl/109/58/s1295/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1295%2Fd
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F985
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486

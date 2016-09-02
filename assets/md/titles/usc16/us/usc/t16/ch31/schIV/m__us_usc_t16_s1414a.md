@@ -73,7 +73,7 @@
 
         (2) In addition to the amount authorized to be appropriated under paragraph (1), there are authorized to be appropriated to the Secretary for carrying out this section $3,000,000 for each of the fiscal years 1998, 1999, 2000, and 2001.
 
-([Pub. L. 92–522, title III, § 304][/us/pl/92/522/s304], as added [Pub. L. 105–42, § 6(c)][/us/pl/105/42/s6/c], Aug. 15, 1997, [111 Stat. 1133][/us/stat/111/1133].)
+([Pub. L. 92–522, title III][/us/pl/92/522/tIII], § 304, as added [Pub. L. 105–42][/us/pl/105/42], § 6(c), Aug. 15, 1997, [111 Stat. 1133][/us/stat/111/1133].)
 
  __Prior Provisions__ 
 
@@ -91,8 +91,8 @@
 ----------
 
 [/us/usc/t16/s1385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1385
-[/us/pl/92/522/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs304
-[/us/pl/105/42/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs6%2Fc
+[/us/pl/92/522/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtIII
+[/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
 [/us/stat/111/1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1133
 [/us/pl/92/522/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs304
 [/us/usc/t16/s1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1414

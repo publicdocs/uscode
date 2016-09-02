@@ -27,7 +27,7 @@
 
         Four members of the Commission shall constitute a quorum for the transaction of business, but the affirmative votes of at least two United States members, or their alternates, and at least two Canadian members, or their alternates, shall be required for any decision to be made by the Commission.
 
-([Pub. L. 88–363, § 5][/us/pl/88/363/s5], July 7, 1964, [78 Stat. 300][/us/stat/78/300].)
+([Pub. L. 88–363][/us/pl/88/363], § 5, July 7, 1964, [78 Stat. 300][/us/stat/78/300].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/88/363/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F363%2Fs5
+[/us/pl/88/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F363
 [/us/stat/78/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F300
 
 

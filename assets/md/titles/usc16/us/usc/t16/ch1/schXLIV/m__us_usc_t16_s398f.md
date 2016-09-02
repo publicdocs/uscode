@@ -17,7 +17,7 @@
 
     Effective October 1, 1978, there are authorized to be appropriated such sums as may be necessary for the acquisition of lands and interests in lands within the Virgin Islands National Park. For purposes of this section, acquisitions of land on Hassel Island shall be deemed to be acquisitions qualifying for payment under the provisions of paragraph (2) of the Act of June 10, 1977 ([Public Law 95–42][/us/pl/95/42]; [91 Stat. 210][/us/stat/91/210]). In addition to such sums as may have heretofore been appropriated for development of public facilities within the Virgin Islands National Park, effective October 1, 1978, there are authorized to be appropriated not more than $1,000,000 for restoration and rehabilitation of historic structures and for development of public facilities on Hassel Island, and not more than $500,000 as a grant to the Territory of the Virgin Islands for its use in furthering projects undertaken pursuant to the Land and Water Conservation Fund Act, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  the Historic Preservation Act, <sup>\[1\]</sup>  or other comparable programs upon the transfer of title to the United States of all properties held by the territory on Hassel Island.
 
-([Pub. L. 87–750, § 4][/us/pl/87/750/s4], Oct. 5, 1962, [76 Stat. 748][/us/stat/76/748]; [Pub. L. 93–477, title I, § 101(10)][/us/pl/93/477/s101/10], Oct. 26, 1974, [88 Stat. 1445][/us/stat/88/1445]; [Pub. L. 95–348, § 7(b)(5)][/us/pl/95/348/s7/b/5], Aug. 18, 1978, [92 Stat. 495][/us/stat/92/495].)
+([Pub. L. 87–750][/us/pl/87/750], § 4, Oct. 5, 1962, [76 Stat. 748][/us/stat/76/748]; [Pub. L. 93–477, title I][/us/pl/93/477/tI], § 101(10), Oct. 26, 1974, [88 Stat. 1445][/us/stat/88/1445]; [Pub. L. 95–348][/us/pl/95/348], § 7(b)(5), Aug. 18, 1978, [92 Stat. 495][/us/stat/92/495].)
 
  __References in Text__ 
 
@@ -42,11 +42,11 @@
 
 [/us/pl/95/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F42
 [/us/stat/91/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F210
-[/us/pl/87/750/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F750%2Fs4
+[/us/pl/87/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F750
 [/us/stat/76/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F748
-[/us/pl/93/477/s101/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F477%2Fs101%2F10
+[/us/pl/93/477/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F477%2FtI
 [/us/stat/88/1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1445
-[/us/pl/95/348/s7/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F348%2Fs7%2Fb%2F5
+[/us/pl/95/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F348
 [/us/stat/92/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F495
 [/us/pl/95/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F42
 [/us/stat/91/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F210

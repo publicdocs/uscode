@@ -41,7 +41,7 @@
 
         If the Secretary disapproves the plan, he shall advise the Commission in writing of the reasons for disapproval, and shall provide recommendations and assistance in the revision plan. Following completion of any revisions to the plan, the Commission shall resubmit the plan to the Governor of Louisiana for approval, and to the Secretary, who shall approve or disapprove the plan within 90 days after the date that the plan is revised.
 
-([Pub. L. 103–449, title IV, § 403][/us/pl/103/449/s403], Nov. 2, 1994, [108 Stat. 4763][/us/stat/108/4763].)
+([Pub. L. 103–449, title IV][/us/pl/103/449/tIV], § 403, Nov. 2, 1994, [108 Stat. 4763][/us/stat/108/4763].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/103/449/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F449%2Fs403
+[/us/pl/103/449/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F449%2FtIV
 [/us/stat/108/4763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4763
 
 

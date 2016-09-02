@@ -27,7 +27,7 @@
 
         In carrying out subsection (a), the Secretary shall not cover more than 50 percent of the total cost of a project under such subsection. In calculating the total cost of a project and contributions made with regard to the project, the Secretary shall include in-kind contributions.
 
-([Pub. L. 95–313, § 13B][/us/pl/95/313/s13B], as added [Pub. L. 110–234, title VIII, § 8008][/us/pl/110/234/s8008], May 22, 2008, [122 Stat. 1286][/us/stat/122/1286], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VIII, § 8008, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2047.)
+([Pub. L. 95–313][/us/pl/95/313], § 13B, as added [Pub. L. 110–234, title VIII][/us/pl/110/234/tVIII], § 8008, May 22, 2008, [122 Stat. 1286][/us/stat/122/1286], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VIII, § 8008, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2047.)
 
  __References in Text__ 
 
@@ -49,10 +49,10 @@
 ----------
 
 [/us/usc/t16/s2101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2101%2Fc
-[/us/pl/95/313/s13B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313%2Fs13B
-[/us/pl/110/234/s8008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs8008
+[/us/pl/95/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313
+[/us/pl/110/234/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVIII
 [/us/stat/122/1286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1286
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/95/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313
 [/us/stat/92/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F365

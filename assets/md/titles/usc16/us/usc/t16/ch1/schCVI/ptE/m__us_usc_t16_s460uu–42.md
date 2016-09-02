@@ -17,7 +17,7 @@
 
     Within the monument and the conservation area, the Secretary is authorized to acquire lands and interests in lands by donation, purchase with donated or appropriated funds, exchange, or transfer from any other Federal agency, except that such lands or interests therein owned by the State of New Mexico or a political subdivision thereof may be acquired only by exchange. It is the sense of Congress that the Secretary is to complete the acquisition of non-Federal subsurface interests underlying the monument and the conservation area no later than three full fiscal years after the fiscal year of enactment of this subchapter.
 
-([Pub. L. 100–225, title V, § 502][/us/pl/100/225/s502], Dec. 31, 1987, [101 Stat. 1544][/us/stat/101/1544].)
+([Pub. L. 100–225, title V][/us/pl/100/225/tV], § 502, Dec. 31, 1987, [101 Stat. 1544][/us/stat/101/1544].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/100/225/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F225%2Fs502
+[/us/pl/100/225/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F225%2FtV
 [/us/stat/101/1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1544
 [/us/pl/100/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F225
 

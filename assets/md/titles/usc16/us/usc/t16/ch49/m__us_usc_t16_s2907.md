@@ -49,7 +49,7 @@
 
         (2) That portion of any amount allocated to any State under subsection (b)(2) or (3) for any fiscal year and not disbursed to the State for such fiscal years under [section 2905 of this title][/us/usc/t16/s2905] shall remain available for disbursement to the State under such section for the next succeeding fiscal year and if not disbursed for such succeeding fiscal year shall be available for disbursement by the Secretary, without regard to subsection (b), to the States to carry out the purposes of this chapter.
 
-([Pub. L. 96–366, § 8][/us/pl/96/366/s8], Sept. 29, 1980, [94 Stat. 1328][/us/stat/94/1328].)
+([Pub. L. 96–366][/us/pl/96/366], § 8, Sept. 29, 1980, [94 Stat. 1328][/us/stat/94/1328].)
 
  __Termination of Trust Territory of the Pacific Islands__ 
 
@@ -65,7 +65,7 @@
 [/us/usc/t16/s2910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2910
 [/us/usc/t16/s2910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2910
 [/us/usc/t16/s2905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2905
-[/us/pl/96/366/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F366%2Fs8
+[/us/pl/96/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F366
 [/us/stat/94/1328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1328
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 

@@ -37,7 +37,7 @@
 
         (5) The Secretary shall establish the size of farm units of irrigable lands on each project in accordance with his findings of the area sufficient in size for the support of a family on the lands to be irrigated. No water may be delivered to or for more than the farm unit area of irrigable lands in the project owned by a single landowner: Provided, That this subsection shall not apply to the United States or any agency or instrumentality thereof, corporate or otherwise. No water shall be delivered to or for any land, in a project area, transferred or disposed of subsequent to approval of the project by the President, and within three years from the time water becomes available, unless and until it has been shown to the satisfaction of the Secretary or his duly authorized representative that the land has been transferred or disposed of at a price not exceeding the appraised value as determined by the Secretary or his duly authorized representatives, and upon proof of fraudulent representation as to the true consideration involved the Secretary is authorized to cancel the water right attaching to the land involved: Provided further, That nothing herein shall be construed to create authority to interfere with the delivery of water under prior rights.
 
-([Aug. 11, 1939, ch. 717, § 4][/us/act/1939-08-11/ch717/s4], as added [Oct. 14, 1940, ch. 861][/us/act/1940-10-14/ch861], [54 Stat. 1121][/us/stat/54/1121]; amended [July 16, 1943, ch. 242, § 5][/us/act/1943-07-16/ch242/s5], [57 Stat. 567][/us/stat/57/567].)
+([Aug. 11, 1939, ch. 717][/us/act/1939-08-11/ch717], § 4, as added [Oct. 14, 1940, ch. 861][/us/act/1940-10-14/ch861], [54 Stat. 1121][/us/stat/54/1121]; amended [July 16, 1943, ch. 242][/us/act/1943-07-16/ch242], § 5, [57 Stat. 567][/us/stat/57/567].)
 
  __References in Text__ 
 
@@ -68,10 +68,10 @@
 
 [/us/usc/t16/s590z–10/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590z%E2%80%9310%2F1
 [/us/usc/t16/s590z/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590z%2F1
-[/us/act/1939-08-11/ch717/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-11%2Fch717%2Fs4
+[/us/act/1939-08-11/ch717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-11%2Fch717
 [/us/act/1940-10-14/ch861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch861
 [/us/stat/54/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1121
-[/us/act/1943-07-16/ch242/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-07-16%2Fch242%2Fs5
+[/us/act/1943-07-16/ch242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-07-16%2Fch242
 [/us/stat/57/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F567
 [/us/act/1939-08-11/ch717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-11%2Fch717
 [/us/stat/53/1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1419

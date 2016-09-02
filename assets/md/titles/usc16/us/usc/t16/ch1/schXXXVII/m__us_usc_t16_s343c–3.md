@@ -55,7 +55,7 @@
 
     The conveyance of title to the lands described in this section shall eliminate them from the Acadia National Park.
 
-([Pub. L. 90–262, § 2][/us/pl/90/262/s2], Mar. 4, 1968, [82 Stat. 40][/us/stat/82/40].)
+([Pub. L. 90–262][/us/pl/90/262], § 2, Mar. 4, 1968, [82 Stat. 40][/us/stat/82/40].)
 
 ----------
 
@@ -65,7 +65,7 @@
 ----------
 
 [/us/usc/t16/s343c–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs343c%E2%80%932
-[/us/pl/90/262/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F262%2Fs2
+[/us/pl/90/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F262
 [/us/stat/82/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F40
 
 

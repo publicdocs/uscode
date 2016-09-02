@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch14/schI/m__us_usc_t16_ch14_schI.md) | [Next](./../../../../..//us/usc/t16/ch14/schII/m__us_usc_t16_s916.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch14%2FschII)
+[Previous](./../../../../..//us/usc/t16/ch14/schI/m__us_usc_t16_s901...915.md) | [Next](./../../../../..//us/usc/t16/ch14/schII/m__us_usc_t16_s916.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch14%2FschII)
 
 ### SUBCHAPTER II—WHALING CONVENTION ACT
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch14/schI/m__us_usc_t16_ch14_schI.md) | [Next](./../../../../..//us/usc/t16/ch14/schII/m__us_usc_t16_s916.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch14%2FschII)
+[Previous](./../../../../..//us/usc/t16/ch14/schI/m__us_usc_t16_s901...915.md) | [Next](./../../../../..//us/usc/t16/ch14/schII/m__us_usc_t16_s916.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch14%2FschII)
 
 ----------
 ----------

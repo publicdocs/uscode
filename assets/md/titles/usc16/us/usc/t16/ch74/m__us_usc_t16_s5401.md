@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 103–451, § 2][/us/pl/103/451/s2], Nov. 2, 1994, [108 Stat. 4769][/us/stat/108/4769], which related to congressional findings, was omitted from the Code following the enactment of Title 54, National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287].
+    Section, [Pub. L. 103–451][/us/pl/103/451], § 2, Nov. 2, 1994, [108 Stat. 4769][/us/stat/108/4769], which related to congressional findings, was omitted from the Code following the enactment of Title 54, National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/451/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F451%2Fs2
+[/us/pl/103/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F451
 [/us/stat/108/4769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4769
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 

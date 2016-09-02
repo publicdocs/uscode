@@ -17,7 +17,7 @@
 
     The administration, protection, and promotion of Acadia National Park shall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of the Act of August twenty-fifth, nineteen hundred and sixteen, entitled “An Act to establish a National Park Service, and for other purposes,”  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and Acts additional thereto or amendatory thereof.
 
-([Feb. 26, 1919, ch. 45, § 2][/us/act/1919-02-26/ch45/s2], [40 Stat. 1179][/us/stat/40/1179]; [Jan. 19, 1929, ch. 77, § 2][/us/act/1929-01-19/ch77/s2], [45 Stat. 1083][/us/stat/45/1083].)
+([Feb. 26, 1919, ch. 45][/us/act/1919-02-26/ch45], § 2, [40 Stat. 1179][/us/stat/40/1179]; [Jan. 19, 1929, ch. 77][/us/act/1929-01-19/ch77], § 2, [45 Stat. 1083][/us/stat/45/1083].)
 
  __References in Text__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/act/1919-02-26/ch45/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-02-26%2Fch45%2Fs2
+[/us/act/1919-02-26/ch45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-02-26%2Fch45
 [/us/stat/40/1179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1179
-[/us/act/1929-01-19/ch77/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-01-19%2Fch77%2Fs2
+[/us/act/1929-01-19/ch77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-01-19%2Fch77
 [/us/stat/45/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1083
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535

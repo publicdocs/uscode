@@ -35,7 +35,7 @@
 
         the Federal land manager concerned shall provide to the Governor information concerning the nature and location of archaeological resources within the State of the requesting Governor.
 
-([Pub. L. 96–95, § 9][/us/pl/96/95/s9], Oct. 31, 1979, [93 Stat. 727][/us/stat/93/727]; [Pub. L. 113–287, § 5(d)(8)][/us/pl/113/287/s5/d/8], Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265].)
+([Pub. L. 96–95][/us/pl/96/95], § 9, Oct. 31, 1979, [93 Stat. 727][/us/stat/93/727]; [Pub. L. 113–287][/us/pl/113/287], § 5(d)(8), Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/96/95/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95%2Fs9
+[/us/pl/96/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95
 [/us/stat/93/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F727
-[/us/pl/113/287/s5/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F8
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3265
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t16/s469–469c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs469%E2%80%93469c

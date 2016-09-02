@@ -27,7 +27,7 @@
 
         No lands or interests therein within the boundaries of the park may be acquired without the consent of the owner, unless the Secretary determines that the land is being developed, or is proposed to be developed in a manner which is detrimental to the natural, scenic, historic, and other values for which the park is established.
 
-([Pub. L. 102–543, § 4][/us/pl/102/543/s4], Oct. 27, 1992, [106 Stat. 3570][/us/stat/106/3570]; [Pub. L. 111–11, title VII, § 7101(a)][/us/pl/111/11/s7101/a], Mar. 30, 2009, [123 Stat. 1190][/us/stat/123/1190].)
+([Pub. L. 102–543][/us/pl/102/543], § 4, Oct. 27, 1992, [106 Stat. 3570][/us/stat/106/3570]; [Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7101(a), Mar. 30, 2009, [123 Stat. 1190][/us/stat/123/1190].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/102/543/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F543%2Fs4
+[/us/pl/102/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F543
 [/us/stat/106/3570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3570
-[/us/pl/111/11/s7101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7101%2Fa
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1190
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601

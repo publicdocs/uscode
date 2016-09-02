@@ -53,7 +53,7 @@
 
         For purposes of enforcement, any violation of a requirement of this section shall be treated as a violation of a provision of the Energy Supply and Environmental Coordination Act of 1974 \[[15 U.S.C. 791][/us/usc/t15/s791] et seq.\] enforceable under section 12 of such Act \[[15 U.S.C. 797][/us/usc/t15/s797]\] (notwithstanding any expiration date in such Act) except that in applying the provisions of such section 12 any reference to the Federal Energy Administrator shall be treated as a reference to the Commission.
 
-([Pub. L. 95–617, title I, § 133][/us/pl/95/617/s133], Nov. 9, 1978, [92 Stat. 3132][/us/stat/92/3132].)
+([Pub. L. 95–617, title I][/us/pl/95/617/tI], § 133, Nov. 9, 1978, [92 Stat. 3132][/us/stat/92/3132].)
 
  __References in Text__ 
 
@@ -69,7 +69,7 @@
 [/us/usc/t16/s2621/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2621%2Fd%2F2
 [/us/usc/t15/s791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs791
 [/us/usc/t15/s797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs797
-[/us/pl/95/617/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs133
+[/us/pl/95/617/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtI
 [/us/stat/92/3132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3132
 [/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/stat/88/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F246

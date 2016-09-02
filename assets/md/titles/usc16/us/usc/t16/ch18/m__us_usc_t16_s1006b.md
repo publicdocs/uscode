@@ -17,7 +17,7 @@
 
     The provisions of this chapter shall be applicable to Hawaii, Alaska, Puerto Rico, and the Virgin Islands.
 
-([Aug. 4, 1954, ch. 656, § 9][/us/act/1954-08-04/ch656/s9], as added [Aug. 7, 1956, ch. 1027, § 1(g)][/us/act/1956-08-07/ch1027/s1/g], [70 Stat. 1090][/us/stat/70/1090].)
+([Aug. 4, 1954, ch. 656][/us/act/1954-08-04/ch656], § 9, as added [Aug. 7, 1956, ch. 1027][/us/act/1956-08-07/ch1027], § 1(g), [70 Stat. 1090][/us/stat/70/1090].)
 
  __Extension of Benefits to Projects Authorized Before__  __Aug. 7, 1956__ 
 
@@ -34,8 +34,8 @@
 ----------
 ----------
 
-[/us/act/1954-08-04/ch656/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-04%2Fch656%2Fs9
-[/us/act/1956-08-07/ch1027/s1/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1027%2Fs1%2Fg
+[/us/act/1954-08-04/ch656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-04%2Fch656
+[/us/act/1956-08-07/ch1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1027
 [/us/stat/70/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1090
 [/us/usc/t16/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1001
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508

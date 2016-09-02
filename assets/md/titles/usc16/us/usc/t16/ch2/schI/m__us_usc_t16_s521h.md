@@ -23,7 +23,7 @@
 
     (3) factors relating to location or size which shall be considered in connection with determining the lands to be sold, exchanged, or interchanged under clause (1) of [section 521e of this title][/us/usc/t16/s521e].
 
-([Pub. L. 97–465, § 6][/us/pl/97/465/s6], Jan. 12, 1983, [96 Stat. 2536][/us/stat/96/2536].)
+([Pub. L. 97–465][/us/pl/97/465], § 6, Jan. 12, 1983, [96 Stat. 2536][/us/stat/96/2536].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t16/s521e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs521e
-[/us/pl/97/465/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F465%2Fs6
+[/us/pl/97/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F465
 [/us/stat/96/2536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2536
 
 

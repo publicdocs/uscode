@@ -17,7 +17,7 @@
 
     In the States of Alaska, Colorado, Montana, Idaho, North Dakota, and South Dakota, Wyoming, New Mexico, and Arizona, and the gold and silver regions of Nevada, California, Oregon, Washington, and Utah in any criminal prosecution or civil action by the United States for a trespass on such public timber lands or to recover timber or lumber cut thereon it shall be a defense if the defendant shall show that the said timber was so cut or removed from the timber lands for use in such State by a resident thereof for agricultural, mining, manufacturing, or domestic purposes under rules and regulations made and prescribed by the Secretary of the Interior and has not been transported out of the same, but nothing herein contained shall operate to enlarge the rights of any railway company to cut timber on the public domain. The Secretary of the Interior may make suitable rules and regulations to carry out the provisions of this section, and he may designate the sections or tracts of land where timber may be cut, and it shall not be lawful to cut or remove any timber except as may be prescribed by such rules and regulations, but this section shall not operate to repeal sections 604 to 606 of this title.
 
-([Mar. 3, 1891, ch. 559][/us/act/1891-03-03/ch559], [26 Stat. 1093][/us/stat/26/1093]; [Mar. 3, 1891, ch. 561, § 8][/us/act/1891-03-03/ch561/s8], [26 Stat. 1099][/us/stat/26/1099]; [Feb. 13, 1893, ch. 103][/us/act/1893-02-13/ch103], [27 Stat. 444][/us/stat/27/444]; [July 1, 1898, ch. 546, § 1][/us/act/1898-07-01/ch546/s1], [30 Stat. 618][/us/stat/30/618]; [Mar. 3, 1901, ch. 855][/us/act/1901-03-03/ch855], [31 Stat. 1436][/us/stat/31/1436]; [Mar. 3, 1901, ch. 862][/us/act/1901-03-03/ch862], [31 Stat. 1439][/us/stat/31/1439]; [Mar. 3, 1919, ch. 111][/us/act/1919-03-03/ch111], [40 Stat. 1321][/us/stat/40/1321]; [Mar. 3, 1919, ch. 115][/us/act/1919-03-03/ch115], [40 Stat. 1322][/us/stat/40/1322]; [Feb. 27, 1922, ch. 82][/us/act/1922-02-27/ch82], [42 Stat. 398][/us/stat/42/398]; [Aug. 21, 1935, ch. 591][/us/act/1935-08-21/ch591], [49 Stat. 665][/us/stat/49/665]; [Pub. L. 86–70, § 41][/us/pl/86/70/s41], June 25, 1959, [73 Stat. 151][/us/stat/73/151].)
+([Mar. 3, 1891, ch. 559][/us/act/1891-03-03/ch559], [26 Stat. 1093][/us/stat/26/1093]; [Mar. 3, 1891, ch. 561][/us/act/1891-03-03/ch561], § 8, [26 Stat. 1099][/us/stat/26/1099]; [Feb. 13, 1893, ch. 103][/us/act/1893-02-13/ch103], [27 Stat. 444][/us/stat/27/444]; [July 1, 1898, ch. 546][/us/act/1898-07-01/ch546], § 1, [30 Stat. 618][/us/stat/30/618]; [Mar. 3, 1901, ch. 855][/us/act/1901-03-03/ch855], [31 Stat. 1436][/us/stat/31/1436]; [Mar. 3, 1901, ch. 862][/us/act/1901-03-03/ch862], [31 Stat. 1439][/us/stat/31/1439]; [Mar. 3, 1919, ch. 111][/us/act/1919-03-03/ch111], [40 Stat. 1321][/us/stat/40/1321]; [Mar. 3, 1919, ch. 115][/us/act/1919-03-03/ch115], [40 Stat. 1322][/us/stat/40/1322]; [Feb. 27, 1922, ch. 82][/us/act/1922-02-27/ch82], [42 Stat. 398][/us/stat/42/398]; [Aug. 21, 1935, ch. 591][/us/act/1935-08-21/ch591], [49 Stat. 665][/us/stat/49/665]; [Pub. L. 86–70][/us/pl/86/70], § 41, June 25, 1959, [73 Stat. 151][/us/stat/73/151].)
 
  __Codification__ 
 
@@ -54,11 +54,11 @@ Section was derived from section 8 of [act Mar. 3, 1891, ch. 561][/us/act/1891-0
 
 [/us/act/1891-03-03/ch559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch559
 [/us/stat/26/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F1093
-[/us/act/1891-03-03/ch561/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch561%2Fs8
+[/us/act/1891-03-03/ch561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch561
 [/us/stat/26/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F1099
 [/us/act/1893-02-13/ch103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1893-02-13%2Fch103
 [/us/stat/27/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F27%2F444
-[/us/act/1898-07-01/ch546/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1898-07-01%2Fch546%2Fs1
+[/us/act/1898-07-01/ch546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1898-07-01%2Fch546
 [/us/stat/30/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F618
 [/us/act/1901-03-03/ch855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch855
 [/us/stat/31/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F1436
@@ -72,7 +72,7 @@ Section was derived from section 8 of [act Mar. 3, 1891, ch. 561][/us/act/1891-0
 [/us/stat/42/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F398
 [/us/act/1935-08-21/ch591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-21%2Fch591
 [/us/stat/49/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F665
-[/us/pl/86/70/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs41
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F151
 [/us/act/1891-03-03/ch561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch561
 [/us/act/1891-03-03/ch559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch559

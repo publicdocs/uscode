@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s423i.md) | [Next](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s423l–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs423l%E2%80%931)
+[Previous](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s423j...423l.md) | [Next](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s423l–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs423l%E2%80%931)
 
 ## § 423l–1. Short title; definitions
 
@@ -31,7 +31,7 @@
 
             The term “Secretary” means the Secretary of the Interior.
 
-([Pub. L. 106–511, title V, § 501][/us/pl/106/511/s501], Nov. 13, 2000, [114 Stat. 2373][/us/stat/114/2373].)
+([Pub. L. 106–511, title V][/us/pl/106/511/tV], § 501, Nov. 13, 2000, [114 Stat. 2373][/us/stat/114/2373].)
 
  __References in Text__ 
 
@@ -39,12 +39,12 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s423i.md) | [Next](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s423l–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs423l%E2%80%931)
+[Previous](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s423j...423l.md) | [Next](./../../../../..//us/usc/t16/ch1/schLX/m__us_usc_t16_s423l–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs423l%E2%80%931)
 
 ----------
 ----------
 
-[/us/pl/106/511/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F511%2Fs501
+[/us/pl/106/511/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F511%2FtV
 [/us/stat/114/2373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2373
 [/us/pl/106/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F511
 [/us/stat/114/2373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2373

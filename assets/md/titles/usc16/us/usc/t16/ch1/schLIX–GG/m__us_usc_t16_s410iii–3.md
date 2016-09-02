@@ -23,7 +23,7 @@
 
         The Map shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior.
 
-([Pub. L. 107–373, § 5][/us/pl/107/373/s5], Dec. 19, 2002, [116 Stat. 3106][/us/stat/116/3106].)
+([Pub. L. 107–373][/us/pl/107/373], § 5, Dec. 19, 2002, [116 Stat. 3106][/us/stat/116/3106].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/107/373/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F373%2Fs5
+[/us/pl/107/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F373
 [/us/stat/116/3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3106
 
 

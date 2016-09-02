@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall deprive any State, or any political subdivision thereof, of its civil and criminal jurisdiction over the lands within the said national recreation area, or of its rights to tax persons, corporations, franchises, or property on the lands included in such area. Nothing in this subchapter shall modify or otherwise affect the existing jurisdiction of the Hualapai Tribe or alter the status of individual Hualapai Indians within that part of the Hualapai Indian Reservation included in said Lake Mead National Recreation Area.
 
-([Pub. L. 88–639, § 7][/us/pl/88/639/s7], Oct. 8, 1964, [78 Stat. 1041][/us/stat/78/1041].)
+([Pub. L. 88–639][/us/pl/88/639], § 7, Oct. 8, 1964, [78 Stat. 1041][/us/stat/78/1041].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/639/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F639%2Fs7
+[/us/pl/88/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F639
 [/us/stat/78/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1041
 
 

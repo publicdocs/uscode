@@ -17,7 +17,7 @@
 
     Within four years from January 8, 1971, the Secretary of the Interior shall review the area within the Gulf Islands National Seashore and shall report to the President, in accordance with subsections (c) and (d) of [section 1132 of this title][/us/usc/t16/s1132], and recommend as to the suitability or nonsuitability of any area within the seashore for preservation as wilderness, and any designation of any such area as a wilderness shall be accomplished in accordance with said subsections.
 
-([Pub. L. 91–660, § 8][/us/pl/91/660/s8], Jan. 8, 1971, [84 Stat. 1969][/us/stat/84/1969].)
+([Pub. L. 91–660][/us/pl/91/660], § 8, Jan. 8, 1971, [84 Stat. 1969][/us/stat/84/1969].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132
-[/us/pl/91/660/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F660%2Fs8
+[/us/pl/91/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F660
 [/us/stat/84/1969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1969
 
 

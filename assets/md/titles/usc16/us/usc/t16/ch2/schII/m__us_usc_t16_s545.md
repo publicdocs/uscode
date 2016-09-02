@@ -25,7 +25,7 @@
 
     (4) provide a variety of recreation opportunities that are not inconsistent with the preceding purposes.
 
-([Pub. L. 103–314, § 2][/us/pl/103/314/s2], Aug. 26, 1994, [108 Stat. 1703][/us/stat/108/1703]; [Pub. L. 104–127, title IX, § 915][/us/pl/104/127/s915], Apr. 4, 1996, [110 Stat. 1187][/us/stat/110/1187].)
+([Pub. L. 103–314][/us/pl/103/314], § 2, Aug. 26, 1994, [108 Stat. 1703][/us/stat/108/1703]; [Pub. L. 104–127, title IX][/us/pl/104/127/tIX], § 915, Apr. 4, 1996, [110 Stat. 1187][/us/stat/110/1187].)
 
  __Amendments__ 
 
@@ -33,7 +33,7 @@
 
  __Short Title__ 
 
-[Pub. L. 103–314, § 1][/us/pl/103/314/s1], Aug. 26, 1994, [108 Stat. 1703][/us/stat/108/1703], as amended by [Pub. L. 104–127, title IX, § 915][/us/pl/104/127/s915], Apr. 4, 1996, [110 Stat. 1187][/us/stat/110/1187], provided that: 
+[Pub. L. 103–314][/us/pl/103/314], § 1, Aug. 26, 1994, [108 Stat. 1703][/us/stat/108/1703], as amended by [Pub. L. 104–127, title IX][/us/pl/104/127/tIX], § 915, Apr. 4, 1996, [110 Stat. 1187][/us/stat/110/1187], provided that: 
 
 > “This Act \[enacting sections 545 and 545a of this title\] may be cited as the ‘Mount Pleasant National Scenic Area Act’.”
 
@@ -44,14 +44,14 @@
 ----------
 ----------
 
-[/us/pl/103/314/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F314%2Fs2
+[/us/pl/103/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F314
 [/us/stat/108/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1703
-[/us/pl/104/127/s915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs915
+[/us/pl/104/127/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIX
 [/us/stat/110/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1187
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
-[/us/pl/103/314/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F314%2Fs1
+[/us/pl/103/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F314
 [/us/stat/108/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1703
-[/us/pl/104/127/s915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs915
+[/us/pl/104/127/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIX
 [/us/stat/110/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1187
 
 

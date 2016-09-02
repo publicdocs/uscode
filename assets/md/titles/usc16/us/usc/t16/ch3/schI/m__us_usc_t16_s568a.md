@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    Sections 566 and 567 of this title, referred to in text, were repealed by [Pub. L. 95–313, § 13(a)(1)][/us/pl/95/313/s13/a/1], July 1, 1978, [92 Stat. 374][/us/stat/92/374].
+    Sections 566 and 567 of this title, referred to in text, were repealed by [Pub. L. 95–313][/us/pl/95/313], § 13(a)(1), July 1, 1978, [92 Stat. 374][/us/stat/92/374].
 
 ----------
 
@@ -32,7 +32,7 @@
 
 [/us/act/1926-04-13/ch134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-04-13%2Fch134
 [/us/stat/44/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F250
-[/us/pl/95/313/s13/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313%2Fs13%2Fa%2F1
+[/us/pl/95/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313
 [/us/stat/92/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F374
 
 

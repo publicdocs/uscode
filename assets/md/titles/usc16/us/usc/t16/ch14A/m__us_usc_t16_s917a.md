@@ -17,15 +17,15 @@
 
     The Secretary of Commerce, in consultation with the Marine Mammal Commission and the coastal States, shall undertake comprehensive studies of all whales found in waters subject to the jurisdiction of the United States, including the fishery conservation zone as defined in section 1802(8)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title. Such studies shall take into consideration all relevant factors regarding (1) the conservation and protection of all such whales, (2) the distribution, migration patterns, and population dynamics of these mammals, and (3) the effects on all such whales of habitat destruction, disease, pesticides, and other chemicals, disruption of migration patterns, and food shortages for the purpose of developing adequate and effective measures, including appropriate laws and regulations, to conserve and protect such mammals. The Secretary of Commerce shall report on such studies, together with such recommendations as he deems appropriate, including suggested legislation, to the Congress no later than January 1, 1980.
 
-([Pub. L. 94–532, § 3][/us/pl/94/532/s3], Oct. 17, 1976, [90 Stat. 2491][/us/stat/90/2491].)
+([Pub. L. 94–532][/us/pl/94/532], § 3, Oct. 17, 1976, [90 Stat. 2491][/us/stat/90/2491].)
 
  __References in Text__ 
 
-    [Section 1802(8) of this title][/us/usc/t16/s1802/8], referred to in text, which defined “fishery conservation zone”, was repealed and [section 1802(6) of this title][/us/usc/t16/s1802/6], defining “exclusive economic zone”, was added by [Pub. L. 99–659, title I, § 101(a)][/us/pl/99/659/s101/a], Nov. 14, 1986, [100 Stat. 3706][/us/stat/100/3706]. Section 1802 was subsequently amended and the term “exclusive economic zone” is defined elsewhere in that section.
+    [Section 1802(8) of this title][/us/usc/t16/s1802/8], referred to in text, which defined “fishery conservation zone”, was repealed and [section 1802(6) of this title][/us/usc/t16/s1802/6], defining “exclusive economic zone”, was added by [Pub. L. 99–659, title I][/us/pl/99/659/tI], § 101(a), Nov. 14, 1986, [100 Stat. 3706][/us/stat/100/3706]. Section 1802 was subsequently amended and the term “exclusive economic zone” is defined elsewhere in that section.
 
  __Study of Eastern Gray Whale Population__ 
 
-[Pub. L. 106–562, title IV, § 401][/us/pl/106/562/s401], Dec. 23, 2000, [114 Stat. 2807][/us/stat/114/2807], provided that:
+[Pub. L. 106–562, title IV][/us/pl/106/562/tIV], § 401, Dec. 23, 2000, [114 Stat. 2807][/us/stat/114/2807], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -43,7 +43,7 @@
 
 >         “(2) $500,000 for each of fiscal years 2002 through 2004.”
 
-    Substantially identical provisions were contained in [Pub. L. 106–555, title II, § 203][/us/pl/106/555/s203], Dec. 21, 2000, [114 Stat. 2768][/us/stat/114/2768].
+    Substantially identical provisions were contained in [Pub. L. 106–555, title II][/us/pl/106/555/tII], § 203, Dec. 21, 2000, [114 Stat. 2768][/us/stat/114/2768].
 
 ----------
 
@@ -52,15 +52,15 @@
 ----------
 ----------
 
-[/us/pl/94/532/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F532%2Fs3
+[/us/pl/94/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F532
 [/us/stat/90/2491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2491
 [/us/usc/t16/s1802/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1802%2F8
 [/us/usc/t16/s1802/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1802%2F6
-[/us/pl/99/659/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs101%2Fa
+[/us/pl/99/659/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtI
 [/us/stat/100/3706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3706
-[/us/pl/106/562/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs401
+[/us/pl/106/562/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2FtIV
 [/us/stat/114/2807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2807
-[/us/pl/106/555/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F555%2Fs203
+[/us/pl/106/555/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F555%2FtII
 [/us/stat/114/2768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2768
 
 

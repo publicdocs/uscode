@@ -189,7 +189,7 @@
 
         The Secretary may terminate or modify a contract entered into under this subpart if eligible land that is subject to such contract is transferred into the agricultural conservation easement program under subchapter VII.
 
-([Pub. L. 99–198, title XII, § 1235][/us/pl/99/198/s1235], as added [Pub. L. 107–171, title II, § 2101(a)][/us/pl/107/171/s2101/a], May 13, 2002, [116 Stat. 249][/us/stat/116/249]; amended [Pub. L. 110–234, title II, § 2111][/us/pl/110/234/s2111], May 22, 2008, [122 Stat. 1035][/us/stat/122/1035]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2111, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1763; [Pub. L. 113–79, title II, § 2006][/us/pl/113/79/s2006], Feb. 7, 2014, [128 Stat. 719][/us/stat/128/719].)
+([Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1235, as added [Pub. L. 107–171, title II][/us/pl/107/171/tII], § 2101(a), May 13, 2002, [116 Stat. 249][/us/stat/116/249]; amended [Pub. L. 110–234, title II][/us/pl/110/234/tII], § 2111, May 22, 2008, [122 Stat. 1035][/us/stat/122/1035]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title II, § 2111, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1763; [Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2006, Feb. 7, 2014, [128 Stat. 719][/us/stat/128/719].)
 
  __References in Text__ 
 
@@ -201,31 +201,31 @@
 
  __Prior Provisions__ 
 
-    A prior section 3835, [Pub. L. 99–198, title XII, § 1235][/us/pl/99/198/s1235], Dec. 23, 1985, [99 Stat. 1513][/us/stat/99/1513]; [Pub. L. 100–233, title VIII, § 801][/us/pl/100/233/s801], Jan. 6, 1988, [101 Stat. 1710][/us/stat/101/1710]; [Pub. L. 101–624, title XIV, § 1447(a)][/us/pl/101/624/s1447/a], Nov. 28, 1990, [104 Stat. 3605][/us/stat/104/3605]; [Pub. L. 104–127, title III, § 332(c)][/us/pl/104/127/s332/c], Apr. 4, 1996, [110 Stat. 994][/us/stat/110/994], related to contracts, prior to the general amendment of this subpart by [Pub. L. 107–171][/us/pl/107/171].
+    A prior section 3835, [Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1235, Dec. 23, 1985, [99 Stat. 1513][/us/stat/99/1513]; [Pub. L. 100–233, title VIII][/us/pl/100/233/tVIII], § 801, Jan. 6, 1988, [101 Stat. 1710][/us/stat/101/1710]; [Pub. L. 101–624, title XIV][/us/pl/101/624/tXIV], § 1447(a), Nov. 28, 1990, [104 Stat. 3605][/us/stat/104/3605]; [Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 332(c), Apr. 4, 1996, [110 Stat. 994][/us/stat/110/994], related to contracts, prior to the general amendment of this subpart by [Pub. L. 107–171][/us/pl/107/171].
 
  __Amendments__ 
 
-    2014—Subsec. (e)(1)(A). [Pub. L. 113–79, § 2006(a)(1)][/us/pl/113/79/s2006/a/1], substituted “During fiscal year 2015, the Secretary” for “The Secretary” and struck out “before January 1, 1995,” after “under this subpart”.
+    2014—Subsec. (e)(1)(A). [Pub. L. 113–79][/us/pl/113/79], § 2006(a)(1), substituted “During fiscal year 2015, the Secretary” for “The Secretary” and struck out “before January 1, 1995,” after “under this subpart”.
 
-    Subsec. (e)(2)(C) to (J). [Pub. L. 113–79, § 2006(a)(2)][/us/pl/113/79/s2006/a/2], added subpars. (C) to (J) and struck out former subpar. (C) which read as follows: “Other land of high environmental value (including wetland), as determined by the Secretary.”
+    Subsec. (e)(2)(C) to (J). [Pub. L. 113–79][/us/pl/113/79], § 2006(a)(2), added subpars. (C) to (J) and struck out former subpar. (C) which read as follows: “Other land of high environmental value (including wetland), as determined by the Secretary.”
 
-    Subsec. (e)(3). [Pub. L. 113–79, § 2006(a)(3)][/us/pl/113/79/s2006/a/3], substituted “upon approval by the Secretary” for “60 days after the date on which the owner or operator submits the notice required under paragraph (1)(C)”.
+    Subsec. (e)(3). [Pub. L. 113–79][/us/pl/113/79], § 2006(a)(3), substituted “upon approval by the Secretary” for “60 days after the date on which the owner or operator submits the notice required under paragraph (1)(C)”.
 
-    Subsec. (f)(1). [Pub. L. 113–79, § 2006(b)(1)(A)][/us/pl/113/79/s2006/b/1/A], substituted “Transition to covered farmer or rancher” for “Duties of the Secretary” in heading and, in introductory provisions, substituted “In the case of a contract modification approved in order to facilitate the transfer of land subject to a contract from a retired farmer or rancher to a beginning farmer or rancher, a veteran farmer or rancher (as defined in [section 2279(e) of title 7][/us/usc/t7/s2279/e]), or a” for “In the case of a contract modification approved in order to facilitate the transfer, as described in subsection (c)(1)(B)(iii), of land to a beginning farmer or rancher or”.
+    Subsec. (f)(1). [Pub. L. 113–79][/us/pl/113/79], § 2006(b)(1)(A), substituted “Transition to covered farmer or rancher” for “Duties of the Secretary” in heading and, in introductory provisions, substituted “In the case of a contract modification approved in order to facilitate the transfer of land subject to a contract from a retired farmer or rancher to a beginning farmer or rancher, a veteran farmer or rancher (as defined in [section 2279(e) of title 7][/us/usc/t7/s2279/e]), or a” for “In the case of a contract modification approved in order to facilitate the transfer, as described in subsection (c)(1)(B)(iii), of land to a beginning farmer or rancher or”.
 
-    Subsec. (f)(1)(A)(i). [Pub. L. 113–79, § 2006(b)(1)(B)][/us/pl/113/79/s2006/b/1/B], inserted “, including preparing to plant an agricultural crop” after “improvements”.
+    Subsec. (f)(1)(A)(i). [Pub. L. 113–79][/us/pl/113/79], § 2006(b)(1)(B), inserted “, including preparing to plant an agricultural crop” after “improvements”.
 
-    Subsec. (f)(1)(D). [Pub. L. 113–79, § 2006(b)(1)(C)][/us/pl/113/79/s2006/b/1/C], substituted “the covered farmer or rancher” for “the farmer or rancher”.
+    Subsec. (f)(1)(D). [Pub. L. 113–79][/us/pl/113/79], § 2006(b)(1)(C), substituted “the covered farmer or rancher” for “the farmer or rancher”.
 
-    Subsec. (f)(1)(E). [Pub. L. 113–79, § 2006(b)(1)(D)][/us/pl/113/79/s2006/b/1/D], substituted “section 1308” for “section 1308–1(b)(3)(B)”.
+    Subsec. (f)(1)(E). [Pub. L. 113–79][/us/pl/113/79], § 2006(b)(1)(D), substituted “section 1308” for “section 1308–1(b)(3)(B)”.
 
-    Subsec. (f)(2)(A). [Pub. L. 113–79, § 2006(b)(2)][/us/pl/113/79/s2006/b/2], substituted “option pursuant to section 3834(d)(2)(A)(ii)” for “requirement of section 3831(h)(4)(B)”.
+    Subsec. (f)(2)(A). [Pub. L. 113–79][/us/pl/113/79], § 2006(b)(2), substituted “option pursuant to section 3834(d)(2)(A)(ii)” for “requirement of section 3831(h)(4)(B)”.
 
-    Subsecs. (g), (h). [Pub. L. 113–79, § 2006(c)][/us/pl/113/79/s2006/c], added subsecs. (g) and (h).
+    Subsecs. (g), (h). [Pub. L. 113–79][/us/pl/113/79], § 2006(c), added subsecs. (g) and (h).
 
-    2008—Subsec. (c)(1)(B)(iii), (iv). [Pub. L. 110–246, § 2111(a)][/us/pl/110/246/s2111/a], added cl. (iii) and redesignated former cl. (iii) as (iv).
+    2008—Subsec. (c)(1)(B)(iii), (iv). [Pub. L. 110–246][/us/pl/110/246], § 2111(a), added cl. (iii) and redesignated former cl. (iii) as (iv).
 
-    Subsec. (f). [Pub. L. 110–246, § 2111(b)][/us/pl/110/246/s2111/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 110–246][/us/pl/110/246], § 2111(b), added subsec. (f).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -233,7 +233,7 @@
 
  __Conservation Reserve__ 
 
-[Pub. L. 100–45, § 10][/us/pl/100/45/s10], May 27, 1987, [101 Stat. 323][/us/stat/101/323], provided that: 
+[Pub. L. 100–45][/us/pl/100/45], § 10, May 27, 1987, [101 Stat. 323][/us/stat/101/323], provided that: 
 
 > “Section 1235(a) of the Food Security Act of 1985 \[[16 U.S.C. 3835(a)][/us/usc/t16/s3835/a]\] should be reviewed by the Secretary of Agriculture to ensure that the provisions thereof relating to exceptions to the three-year ownership requirement with respect to eligibility for the conservation reserve are being implemented in a manner to encourage inclusion of producer-owned land in the conservation reserve. However, any such exception to the three-year requirement should be made only if the Secretary determines that the land involved (1) was not acquired for the purpose of placing the land in the conservation reserve or (2) otherwise meets the criteria for exceptions made under section 1235(a).”
 
@@ -248,14 +248,14 @@
 [/us/usc/t7/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6501
 [/us/usc/t7/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308
 [/us/usc/t16/s3834/d/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3834%2Fd%2F2%2FA%2Fii
-[/us/pl/99/198/s1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1235
-[/us/pl/107/171/s2101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2101%2Fa
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/107/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtII
 [/us/stat/116/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F249
-[/us/pl/110/234/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2111
+[/us/pl/110/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtII
 [/us/stat/122/1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1035
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2006
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F719
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/stat/104/3935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3935
@@ -264,33 +264,33 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/99/198/s1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1235
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
 [/us/stat/99/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1513
-[/us/pl/100/233/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2Fs801
+[/us/pl/100/233/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F233%2FtVIII
 [/us/stat/101/1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1710
-[/us/pl/101/624/s1447/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1447%2Fa
+[/us/pl/101/624/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIV
 [/us/stat/104/3605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3605
-[/us/pl/104/127/s332/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs332%2Fc
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F994
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
-[/us/pl/113/79/s2006/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2006%2Fa%2F1
-[/us/pl/113/79/s2006/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2006%2Fa%2F2
-[/us/pl/113/79/s2006/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2006%2Fa%2F3
-[/us/pl/113/79/s2006/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2006%2Fb%2F1%2FA
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/usc/t7/s2279/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2279%2Fe
-[/us/pl/113/79/s2006/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2006%2Fb%2F1%2FB
-[/us/pl/113/79/s2006/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2006%2Fb%2F1%2FC
-[/us/pl/113/79/s2006/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2006%2Fb%2F1%2FD
-[/us/pl/113/79/s2006/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2006%2Fb%2F2
-[/us/pl/113/79/s2006/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2006%2Fc
-[/us/pl/110/246/s2111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2111%2Fa
-[/us/pl/110/246/s2111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2111%2Fb
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/100/45/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F45%2Fs10
+[/us/pl/100/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F45
 [/us/stat/101/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F323
 [/us/usc/t16/s3835/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3835%2Fa
 

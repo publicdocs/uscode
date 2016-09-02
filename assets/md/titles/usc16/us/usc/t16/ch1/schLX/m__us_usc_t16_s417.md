@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Aug. 18, 1894, ch. 301, § 1][/us/act/1894-08-18/ch301/s1], [28 Stat. 405][/us/stat/28/405], authorized acceptance of donations of land for road or other purposes, and is considered obsolete by the Judge Advocate General. See J.A.G. 601.1, June 27, 1935.
+    Section, [act Aug. 18, 1894, ch. 301][/us/act/1894-08-18/ch301], § 1, [28 Stat. 405][/us/stat/28/405], authorized acceptance of donations of land for road or other purposes, and is considered obsolete by the Judge Advocate General. See J.A.G. 601.1, June 27, 1935.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1894-08-18/ch301/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-18%2Fch301%2Fs1
+[/us/act/1894-08-18/ch301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-18%2Fch301
 [/us/stat/28/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F405
 
 

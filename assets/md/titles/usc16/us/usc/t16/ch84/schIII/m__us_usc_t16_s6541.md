@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 108–148, title III, § 301][/us/pl/108/148/s301], Dec. 3, 2003, [117 Stat. 1902][/us/stat/117/1902], which provided congressional findings and purposes of this subchapter, was omitted in view of the repeal of sections 2103b and 6542 of this title.
+    Section, [Pub. L. 108–148, title III][/us/pl/108/148/tIII], § 301, Dec. 3, 2003, [117 Stat. 1902][/us/stat/117/1902], which provided congressional findings and purposes of this subchapter, was omitted in view of the repeal of sections 2103b and 6542 of this title.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/108/148/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2Fs301
+[/us/pl/108/148/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2FtIII
 [/us/stat/117/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1902
 
 

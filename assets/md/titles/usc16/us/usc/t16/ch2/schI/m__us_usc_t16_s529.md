@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture is authorized and directed to develop and administer the renewable surface resources of the national forests for multiple use and sustained yield of the several products and services obtained therefrom. In the administration of the national forests due consideration shall be given to the relative values of the various resources in particular areas. The establishment and maintenance of areas of wilderness are consistent with the purposes and provisions of sections 528 to 531 of this title.
 
-([Pub. L. 86–517, § 2][/us/pl/86/517/s2], June 12, 1960, [74 Stat. 215][/us/stat/74/215].)
+([Pub. L. 86–517][/us/pl/86/517], § 2, June 12, 1960, [74 Stat. 215][/us/stat/74/215].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/86/517/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F517%2Fs2
+[/us/pl/86/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F517
 [/us/stat/74/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F215
 [/us/stat/93/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1373
 [/us/pl/102/486/s3012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3012%2Fb

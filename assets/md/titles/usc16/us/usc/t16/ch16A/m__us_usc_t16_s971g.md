@@ -45,7 +45,7 @@
 
         To insure that the purposes of subsection (d) are carried out, the Secretary shall undertake a continuing review of the laws and regulations of all States to which subsection (d) applies or may apply and the extent to which such laws and regulations are enforced.
 
-([Pub. L. 94–70, § 9][/us/pl/94/70/s9], Aug. 5, 1975, [89 Stat. 392][/us/stat/89/392].)
+([Pub. L. 94–70][/us/pl/94/70], § 9, Aug. 5, 1975, [89 Stat. 392][/us/stat/89/392].)
 
  __Territorial Sea of United States__ 
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/94/70/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F70%2Fs9
+[/us/pl/94/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F70
 [/us/stat/89/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F392
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
 

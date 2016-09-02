@@ -17,7 +17,7 @@
 
     Funds available to the Forest Service may be used in amounts not exceeding $100 in any single claim, for reimbursing employees of the Forest Service for loss of or damage to clothing and other personal effects resulting from fires, floods, or other casualties at or near the place in which such property is temporarily stored during services of the employees in connection with such casualties.
 
-([Pub. L. 85–464, § 2][/us/pl/85/464/s2], June 20, 1958, [72 Stat. 217][/us/stat/72/217].)
+([Pub. L. 85–464][/us/pl/85/464], § 2, June 20, 1958, [72 Stat. 217][/us/stat/72/217].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/85/464/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F464%2Fs2
+[/us/pl/85/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F464
 [/us/stat/72/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F217
 
 

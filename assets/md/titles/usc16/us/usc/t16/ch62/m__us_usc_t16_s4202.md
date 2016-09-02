@@ -35,7 +35,7 @@
 
     (9) There is no evidence that sport hunting is part of the poaching that contributes to the illegal trade in African elephant ivory, and there is evidence that the proper utilization of well-managed elephant populations provides an important source of funding for African elephant conservation programs.
 
-([Pub. L. 100–478, title II, § 2003][/us/pl/100/478/s2003], Oct. 7, 1988, [102 Stat. 2315][/us/stat/102/2315].)
+([Pub. L. 100–478, title II][/us/pl/100/478/tII], § 2003, Oct. 7, 1988, [102 Stat. 2315][/us/stat/102/2315].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/usc/t16/s1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1533
-[/us/pl/100/478/s2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2Fs2003
+[/us/pl/100/478/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2FtII
 [/us/stat/102/2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2315
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F884

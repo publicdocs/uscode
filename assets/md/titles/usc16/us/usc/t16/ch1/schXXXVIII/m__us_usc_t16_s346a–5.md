@@ -23,7 +23,7 @@
 
         The authority granted by this section shall expire 2 years after November 12, 1996.
 
-([Pub. L. 104–333, div. I, title II, § 202][/us/pl/104/333/s202], Nov. 12, 1996, [110 Stat. 4105][/us/stat/110/4105].)
+([Pub. L. 104–333, div. I, title II][/us/pl/104/333/dI/tII], § 202, Nov. 12, 1996, [110 Stat. 4105][/us/stat/110/4105].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/104/333/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs202
+[/us/pl/104/333/dI/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtII
 [/us/stat/110/4105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4105
 
 

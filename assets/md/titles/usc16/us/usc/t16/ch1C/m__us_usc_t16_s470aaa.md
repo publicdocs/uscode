@@ -49,7 +49,7 @@
 
         The term “State” means the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, and any other territory or possession of the United States.
 
-([Pub. L. 111–11, title VI, § 6301][/us/pl/111/11/s6301], Mar. 30, 2009, [123 Stat. 1172][/us/stat/123/1172].)
+([Pub. L. 111–11, title VI][/us/pl/111/11/tVI], § 6301, Mar. 30, 2009, [123 Stat. 1172][/us/stat/123/1172].)
 
 ----------
 
@@ -60,7 +60,7 @@
 
 [/us/usc/t16/s470bb/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470bb%2F1
 [/us/usc/t25/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3001
-[/us/pl/111/11/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs6301
+[/us/pl/111/11/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVI
 [/us/stat/123/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1172
 
 

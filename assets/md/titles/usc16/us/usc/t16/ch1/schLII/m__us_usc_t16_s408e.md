@@ -29,7 +29,7 @@
 
     (b) Gull Islands, containing approximately six acres, located in section 19, township 68 north, range 31 west, in Keweenaw County, Michigan.
 
-([Mar. 6, 1942, ch. 152, § 1][/us/act/1942-03-06/ch152/s1], [56 Stat. 138][/us/stat/56/138]; [July 27, 1942, ch. 526][/us/act/1942-07-27/ch526], [56 Stat. 722][/us/stat/56/722]; [Pub. L. 94–567, § 4(a)(1)][/us/pl/94/567/s4/a/1], Oct. 20, 1976, [90 Stat. 2694][/us/stat/90/2694].)
+([Mar. 6, 1942, ch. 152][/us/act/1942-03-06/ch152], § 1, [56 Stat. 138][/us/stat/56/138]; [July 27, 1942, ch. 526][/us/act/1942-07-27/ch526], [56 Stat. 722][/us/stat/56/722]; [Pub. L. 94–567][/us/pl/94/567], § 4(a)(1), Oct. 20, 1976, [90 Stat. 2694][/us/stat/90/2694].)
 
  __Amendments__ 
 
@@ -44,11 +44,11 @@
 ----------
 ----------
 
-[/us/act/1942-03-06/ch152/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-03-06%2Fch152%2Fs1
+[/us/act/1942-03-06/ch152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-03-06%2Fch152
 [/us/stat/56/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F138
 [/us/act/1942-07-27/ch526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-07-27%2Fch526
 [/us/stat/56/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F722
-[/us/pl/94/567/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F567%2Fs4%2Fa%2F1
+[/us/pl/94/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F567
 [/us/stat/90/2694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2694
 [/us/pl/94/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F567
 

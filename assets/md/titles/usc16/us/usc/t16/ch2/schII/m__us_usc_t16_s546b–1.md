@@ -39,7 +39,7 @@
 
         In the case of a conflict between a map filed under subsection (a) and the acreage of the applicable areas specified in this subtitle, the map shall control.
 
-([Pub. L. 111–11, title I, § 1106][/us/pl/111/11/s1106], Mar. 30, 2009, [123 Stat. 1007][/us/stat/123/1007].)
+([Pub. L. 111–11, title I][/us/pl/111/11/tI], § 1106, Mar. 30, 2009, [123 Stat. 1007][/us/stat/123/1007].)
 
  __References in Text__ 
 
@@ -66,7 +66,7 @@
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132
 [/us/pl/98/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F586
-[/us/pl/111/11/s1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs1106
+[/us/pl/111/11/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtI
 [/us/stat/123/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1007
 [/us/pl/100/326/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F326%2Fs1
 [/us/pl/100/326/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F326%2Fs1

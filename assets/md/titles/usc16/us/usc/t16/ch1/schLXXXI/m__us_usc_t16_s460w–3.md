@@ -27,7 +27,7 @@
 
         The term “improved property”, as used in this section, shall mean a detached, noncommercial residential dwelling, the construction of which was begun before January 1, 1967, or before January 1, 1985 for those lands referred to in [section 460w(b) of this title][/us/usc/t16/s460w/b] (hereinafter referred to as “dwelling”), together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
 
-([Pub. L. 91–424, § 4][/us/pl/91/424/s4], Sept. 26, 1970, [84 Stat. 880][/us/stat/84/880]; [Pub. L. 99–497, § 1(3)][/us/pl/99/497/s1/3], Oct. 17, 1986, [100 Stat. 1267][/us/stat/100/1267].)
+([Pub. L. 91–424][/us/pl/91/424], § 4, Sept. 26, 1970, [84 Stat. 880][/us/stat/84/880]; [Pub. L. 99–497][/us/pl/99/497], § 1(3), Oct. 17, 1986, [100 Stat. 1267][/us/stat/100/1267].)
 
  __Amendments__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t16/s460w/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460w%2Fb
-[/us/pl/91/424/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F424%2Fs4
+[/us/pl/91/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F424
 [/us/stat/84/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F880
-[/us/pl/99/497/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F497%2Fs1%2F3
+[/us/pl/99/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F497
 [/us/stat/100/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1267
 [/us/pl/99/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F497
 [/us/usc/t16/s460w/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460w%2Fb

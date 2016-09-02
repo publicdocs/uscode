@@ -23,7 +23,7 @@
 
         The Secretary shall permit hunting and fishing on lands and waters under his jurisdiction within the Ozark National Scenic Riverways area in accordance with applicable Federal and State laws. The Secretary may designate zones where, and establish periods when, no hunting shall be permitted, for reasons of public safety, administration, or public use and enjoyment and shall issue regulations after consultation with the Conservation Commission of the State of Missouri.
 
-([Pub. L. 88–492, § 5][/us/pl/88/492/s5], Aug. 27, 1964, [78 Stat. 609][/us/stat/78/609].)
+([Pub. L. 88–492][/us/pl/88/492], § 5, Aug. 27, 1964, [78 Stat. 609][/us/stat/78/609].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/88/492/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F492%2Fs5
+[/us/pl/88/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F492
 [/us/stat/78/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F609
 
 

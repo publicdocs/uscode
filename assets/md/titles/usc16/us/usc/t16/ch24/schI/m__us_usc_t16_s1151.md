@@ -41,11 +41,11 @@
 
     (m) “Take” or “taking” means to harass, hunt, capture, or kill, or attempt to harass, hunt, capture, or kill.
 
-([Pub. L. 89–702, title I, § 101][/us/pl/89/702/s101], Nov. 2, 1966, [80 Stat. 1091][/us/stat/80/1091]; [Pub. L. 98–129, § 2][/us/pl/98/129/s2], Oct. 14, 1983, [97 Stat. 835][/us/stat/97/835]; [Pub. L. 102–251, title III, § 303][/us/pl/102/251/s303], Mar. 9, 1992, [106 Stat. 65][/us/stat/106/65]; [Pub. L. 103–199, title VI, § 602(1)][/us/pl/103/199/s602/1], Dec. 17, 1993, [107 Stat. 2327][/us/stat/107/2327].)
+([Pub. L. 89–702, title I][/us/pl/89/702/tI], § 101, Nov. 2, 1966, [80 Stat. 1091][/us/stat/80/1091]; [Pub. L. 98–129][/us/pl/98/129], § 2, Oct. 14, 1983, [97 Stat. 835][/us/stat/97/835]; [Pub. L. 102–251, title III][/us/pl/102/251/tIII], § 303, Mar. 9, 1992, [106 Stat. 65][/us/stat/106/65]; [Pub. L. 103–199, title VI][/us/pl/103/199/tVI], § 602(1), Dec. 17, 1993, [107 Stat. 2327][/us/stat/107/2327].)
 
  __Amendment of Section__ 
 
-    [Pub. L. 102–251, title III][/us/pl/102/251], §§ 303, 308, Mar. 9, 1992, [106 Stat. 65][/us/stat/106/65], 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended by redesignating subsections (f) to (m) as (g) to (n), respectively, and by inserting after subsection (e) the following new subsection:
+    [Pub. L. 102–251, title III][/us/pl/102/251/tIII], §§ 303, 308, Mar. 9, 1992, [106 Stat. 65][/us/stat/106/65], 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended by redesignating subsections (f) to (m) as (g) to (n), respectively, and by inserting after subsection (e) the following new subsection:
 
     (f) “Jurisdiction of the United States” includes jurisdiction over the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.
 
@@ -59,25 +59,31 @@
 
     Amendment by [Pub. L. 102–251][/us/pl/102/251] effective on date on which Agreement between United States and Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see [section 308 of Pub. L. 102–251][/us/pl/102/251/s308], set out as a note under [section 773 of this title][/us/usc/t16/s773].
 
+ __Short Title of 2016 Amendment__ 
+
+[Pub. L. 114–120, title V][/us/pl/114/120/tV], § 521, Feb. 8, 2016, [130 Stat. 70][/us/stat/130/70], provided that: 
+
+> “This subtitle \[subtitle B (§§ 521–524) of title V of [Pub. L. 114–120][/us/pl/114/120], amending [section 1165 of this title][/us/usc/t16/s1165] and provisions set out as a note under [section 1161 of this title][/us/usc/t16/s1161]\] may be cited as the ‘Pribilof Island Transition Completion Act of 2015’.”
+
  __Short Title of 2000 Amendments__ 
 
-[Pub. L. 106–562, title I, § 101][/us/pl/106/562/s101], Dec. 23, 2000, [114 Stat. 2794][/us/stat/114/2794], provided that: 
+[Pub. L. 106–562, title I][/us/pl/106/562/tI], § 101, Dec. 23, 2000, [114 Stat. 2794][/us/stat/114/2794], provided that: 
 
 > “This title \[enacting [section 1169b of this title][/us/usc/t16/s1169b], amending sections 1161, 1165, and 1166 of this title, repealing [section 1165 of this title][/us/usc/t16/s1165], enacting provisions set out as notes under this section and [section 1161 of this title][/us/usc/t16/s1161], amending provisions set out as a note under [section 1165 of this title][/us/usc/t16/s1165], and repealing provisions set out as a note under [section 1165 of this title][/us/usc/t16/s1165]\] may be referred to as the ‘Pribilof Islands Transition Act’.”
 
-[Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 144(e)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–244, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 144(e)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–244, provided that: 
 
 > “This subsection \[enacting [section 1169b of this title][/us/usc/t16/s1169b], amending sections 1161, 1165, and 1166 of this title, repealing [section 1165 of this title][/us/usc/t16/s1165], enacting provisions set out as notes under this section and [section 1161 of this title][/us/usc/t16/s1161], amending provisions set out as a note under [section 1165 of this title][/us/usc/t16/s1165], and repealing provisions set out as a note under [section 1165 of this title][/us/usc/t16/s1165]\] may be referred to as the ‘Pribilof Islands Transition Act’.”
 
  __Short Title of 1983 Amendment__ 
 
-[Pub. L. 98–129, § 1][/us/pl/98/129/s1], Oct. 14, 1983, [97 Stat. 835][/us/stat/97/835], provided: 
+[Pub. L. 98–129][/us/pl/98/129], § 1, Oct. 14, 1983, [97 Stat. 835][/us/stat/97/835], provided: 
 
 > “That this Act \[amending this chapter generally, sections 8332 and 8334 of Title 5, Government Organization and Employees, and [section 450i of Title 25][/us/usc/t25/s450i], Indians\] may be cited as the ‘Fur Seal Act Amendments of 1983’.”
 
  __Short Title__ 
 
-[Pub. L. 89–702, § 1][/us/pl/89/702/s1], as added by [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 144(e)(6)(C)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–248, and [Pub. L. 106–562, title I, § 106(c)][/us/pl/106/562/s106/c], Dec. 23, 2000, [114 Stat. 2799][/us/stat/114/2799], provided that: 
+[Pub. L. 89–702][/us/pl/89/702], § 1, as added by [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 144(e)(6)(C)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–248, and [Pub. L. 106–562, title I][/us/pl/106/562/tI], § 106(c), Dec. 23, 2000, [114 Stat. 2799][/us/stat/114/2799], provided that: 
 
 > “This Act \[generally enacting this chapter, for complete classification, see Tables\] may be cited as the ‘Fur Seal Act of 1966’.”
 
@@ -88,15 +94,15 @@
 ----------
 ----------
 
-[/us/pl/89/702/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2Fs101
+[/us/pl/89/702/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2FtI
 [/us/stat/80/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1091
-[/us/pl/98/129/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129%2Fs2
+[/us/pl/98/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129
 [/us/stat/97/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F835
-[/us/pl/102/251/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2Fs303
+[/us/pl/102/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2FtIII
 [/us/stat/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F65
-[/us/pl/103/199/s602/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs602%2F1
+[/us/pl/103/199/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2FtVI
 [/us/stat/107/2327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2327
-[/us/pl/102/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251
+[/us/pl/102/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2FtIII
 [/us/stat/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F65
 [/us/pl/103/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199
 [/us/pl/98/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129
@@ -104,27 +110,32 @@
 [/us/pl/102/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251
 [/us/pl/102/251/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2Fs308
 [/us/usc/t16/s773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs773
-[/us/pl/106/562/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs101
+[/us/pl/114/120/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtV
+[/us/stat/130/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F70
+[/us/pl/114/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120
+[/us/usc/t16/s1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1165
+[/us/usc/t16/s1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1161
+[/us/pl/106/562/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2FtI
 [/us/stat/114/2794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2794
 [/us/usc/t16/s1169b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1169b
 [/us/usc/t16/s1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1165
 [/us/usc/t16/s1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1161
 [/us/usc/t16/s1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1165
 [/us/usc/t16/s1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1165
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t16/s1169b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1169b
 [/us/usc/t16/s1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1165
 [/us/usc/t16/s1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1161
 [/us/usc/t16/s1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1165
 [/us/usc/t16/s1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1165
-[/us/pl/98/129/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129%2Fs1
+[/us/pl/98/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129
 [/us/stat/97/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F835
 [/us/usc/t25/s450i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450i
-[/us/pl/89/702/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2Fs1
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/89/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/106/562/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs106%2Fc
+[/us/pl/106/562/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2FtI
 [/us/stat/114/2799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2799
 
 

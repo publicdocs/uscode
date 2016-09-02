@@ -49,7 +49,7 @@
 
         The procedures of this section shall not apply to research funded by quota set-asides in a fishery.
 
-([Pub. L. 94–265, title III, § 318][/us/pl/94/265/s318], as added [Pub. L. 109–479, title II, § 204][/us/pl/109/479/s204], Jan. 12, 2007, [120 Stat. 3614][/us/stat/120/3614].)
+([Pub. L. 94–265, title III][/us/pl/94/265/tIII], § 318, as added [Pub. L. 109–479, title II][/us/pl/109/479/tII], § 204, Jan. 12, 2007, [120 Stat. 3614][/us/stat/120/3614].)
 
  __References in Text__ 
 
@@ -62,8 +62,8 @@
 ----------
 ----------
 
-[/us/pl/94/265/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs318
-[/us/pl/109/479/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs204
+[/us/pl/94/265/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2FtIII
+[/us/pl/109/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtII
 [/us/stat/120/3614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3614
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331

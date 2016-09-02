@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Apr. 14, 1926, ch. 138, § 2][/us/act/1926-04-14/ch138/s2], [44 Stat. 251][/us/stat/44/251], made appropriation of $2,500 for carrying out of provisions of [section 427 of this title][/us/usc/t16/s427].
+    Section, [act Apr. 14, 1926, ch. 138][/us/act/1926-04-14/ch138], § 2, [44 Stat. 251][/us/stat/44/251], made appropriation of $2,500 for carrying out of provisions of [section 427 of this title][/us/usc/t16/s427].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1926-04-14/ch138/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-04-14%2Fch138%2Fs2
+[/us/act/1926-04-14/ch138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-04-14%2Fch138
 [/us/stat/44/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F251
 [/us/usc/t16/s427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs427
 

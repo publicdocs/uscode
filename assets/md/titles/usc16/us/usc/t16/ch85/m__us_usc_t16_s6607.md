@@ -17,7 +17,7 @@
 
     Not later than October 1, 2005, the Secretary shall submit to the Congress a report on the results and effectiveness of the program carried out under this chapter, including recommendations concerning how this chapter might be improved and whether the Fund should be continued in the future.
 
-([Pub. L. 108–266, § 8][/us/pl/108/266/s8], July 2, 2004, [118 Stat. 796][/us/stat/118/796].)
+([Pub. L. 108–266][/us/pl/108/266], § 8, July 2, 2004, [118 Stat. 796][/us/stat/118/796].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/108/266/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F266%2Fs8
+[/us/pl/108/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F266
 [/us/stat/118/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F796
 
 

@@ -39,7 +39,7 @@
 
             (B) The Secretary may reimburse the Secretary of State for amounts expended by the Secretary of State under this subsection.
 
-([Sept. 7, 1950, ch. 907, § 3][/us/act/1950-09-07/ch907/s3], [64 Stat. 777][/us/stat/64/777]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090]; [Pub. L. 102–523, § 3(a)(1)][/us/pl/102/523/s3/a/1], Oct. 26, 1992, [106 Stat. 3433][/us/stat/106/3433]; [Pub. L. 105–42, § 7(a)][/us/pl/105/42/s7/a], Aug. 15, 1997, [111 Stat. 1137][/us/stat/111/1137]; [Pub. L. 106–562, title III, § 302][/us/pl/106/562/s302], Dec. 23, 2000, [114 Stat. 2806][/us/stat/114/2806]; [Pub. L. 114–81, title II, § 204][/us/pl/114/81/s204], Nov. 5, 2015, [129 Stat. 660][/us/stat/129/660].)
+([Sept. 7, 1950, ch. 907][/us/act/1950-09-07/ch907], § 3, [64 Stat. 777][/us/stat/64/777]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090]; [Pub. L. 102–523][/us/pl/102/523], § 3(a)(1), Oct. 26, 1992, [106 Stat. 3433][/us/stat/106/3433]; [Pub. L. 105–42][/us/pl/105/42], § 7(a), Aug. 15, 1997, [111 Stat. 1137][/us/stat/111/1137]; [Pub. L. 106–562, title III][/us/pl/106/562/tIII], § 302, Dec. 23, 2000, [114 Stat. 2806][/us/stat/114/2806]; [Pub. L. 114–81, title II][/us/pl/114/81/tII], § 204, Nov. 5, 2015, [129 Stat. 660][/us/stat/129/660].)
 
  __Amendments__ 
 
@@ -63,16 +63,16 @@
 ----------
 
 [/us/usc/t16/s953/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs953%2Fb
-[/us/act/1950-09-07/ch907/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-07%2Fch907%2Fs3
+[/us/act/1950-09-07/ch907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-07%2Fch907
 [/us/stat/64/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F777
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
-[/us/pl/102/523/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F523%2Fs3%2Fa%2F1
+[/us/pl/102/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F523
 [/us/stat/106/3433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3433
-[/us/pl/105/42/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs7%2Fa
+[/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
 [/us/stat/111/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1137
-[/us/pl/106/562/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs302
+[/us/pl/106/562/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2FtIII
 [/us/stat/114/2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2806
-[/us/pl/114/81/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs204
+[/us/pl/114/81/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2FtII
 [/us/stat/129/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F660
 [/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
 [/us/pl/106/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562

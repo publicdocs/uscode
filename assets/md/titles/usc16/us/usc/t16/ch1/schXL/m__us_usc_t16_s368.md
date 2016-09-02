@@ -17,7 +17,7 @@
 
     Nothing in sections 362 to 367 of this title shall be so construed as to prevent the stockholders of any hotel from operating a bathhouse in connection with such hotel as a part thereof.
 
-([Mar. 3, 1891, ch. 533, § 8][/us/act/1891-03-03/ch533/s8], [26 Stat. 844][/us/stat/26/844].)
+([Mar. 3, 1891, ch. 533][/us/act/1891-03-03/ch533], § 8, [26 Stat. 844][/us/stat/26/844].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1891-03-03/ch533/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch533%2Fs8
+[/us/act/1891-03-03/ch533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch533
 [/us/stat/26/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F844
 
 

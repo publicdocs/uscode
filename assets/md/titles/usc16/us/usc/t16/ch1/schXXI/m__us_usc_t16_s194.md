@@ -17,7 +17,7 @@
 
     No lands located within the park boundaries held in private, municipal, or State ownership on January 26, 1915, shall be affected by or subject to the provisions of sections 191, 193, 195, and 195a of this title.
 
-([Jan. 26, 1915, ch. 19, § 3][/us/act/1915-01-26/ch19/s3], [38 Stat. 800][/us/stat/38/800].)
+([Jan. 26, 1915, ch. 19][/us/act/1915-01-26/ch19], § 3, [38 Stat. 800][/us/stat/38/800].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1915-01-26/ch19/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-01-26%2Fch19%2Fs3
+[/us/act/1915-01-26/ch19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-01-26%2Fch19
 [/us/stat/38/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F800
 
 

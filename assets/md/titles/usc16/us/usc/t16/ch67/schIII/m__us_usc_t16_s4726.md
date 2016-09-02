@@ -23,11 +23,11 @@
 
         The Secretary of State, in consultation with the Task Force, is encouraged to initiate negotiations with the governments of foreign countries concerning the planning and implementation of prevention, monitoring, research, education, and control programs related to aquatic nuisance species infesting shared water resources.
 
-([Pub. L. 101–646, title I, § 1206][/us/pl/101/646/s1206], Nov. 29, 1990, [104 Stat. 4771][/us/stat/104/4771]; [Pub. L. 104–332, § 2(h)(1)][/us/pl/104/332/s2/h/1], Oct. 26, 1996, [110 Stat. 4091][/us/stat/110/4091].)
+([Pub. L. 101–646, title I][/us/pl/101/646/tI], § 1206, Nov. 29, 1990, [104 Stat. 4771][/us/stat/104/4771]; [Pub. L. 104–332][/us/pl/104/332], § 2(h)(1), Oct. 26, 1996, [110 Stat. 4091][/us/stat/110/4091].)
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–332][/us/pl/104/332] made technical amendment to [Pub. L. 101–646, § 1206][/us/pl/101/646/s1206], which enacted this section.
+    1996—[Pub. L. 104–332][/us/pl/104/332] made technical amendment to [Pub. L. 101–646][/us/pl/101/646], § 1206, which enacted this section.
 
 ----------
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/101/646/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs1206
+[/us/pl/101/646/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2FtI
 [/us/stat/104/4771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4771
-[/us/pl/104/332/s2/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fh%2F1
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
 [/us/stat/110/4091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4091
 [/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
-[/us/pl/101/646/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs1206
+[/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
 
 

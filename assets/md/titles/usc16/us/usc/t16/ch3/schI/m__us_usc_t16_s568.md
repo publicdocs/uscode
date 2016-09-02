@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture is authorized and directed, in cooperation with the land grant colleges and universities of the various States or, in his discretion, with other suitable State agencies, to aid farmers through advice, education, demonstrations, and other similar means in establishing, renewing, protecting, and managing wood lots, shelter belts, windbreaks, and other valuable forest growth, and in harvesting, utilizing, and marketing the products thereof. Except for preliminary investigations, the amount expended by the Federal Government under this section in cooperation with any State or other cooperating agency during any fiscal year shall not exceed the amount expended by the State or other cooperating agency for the same purpose during the same fiscal year, and the Secretary of Agriculture is authorized to make expenditures on the certificate of the appropriate State official that the State expenditures, as provided for in this section, have been made. There is authorized to be appropriated annually out of any money in the Treasury not otherwise appropriated, not more than $500,000 to enable the Secretary of Agriculture to carry out the provisions of this section.
 
-([June 7, 1924, ch. 348, § 5][/us/act/1924-06-07/ch348/s5], [43 Stat. 654][/us/stat/43/654]; [Oct. 26, 1949, ch. 735, § 3][/us/act/1949-10-26/ch735/s3], [63 Stat. 910][/us/stat/63/910].)
+([June 7, 1924, ch. 348][/us/act/1924-06-07/ch348], § 5, [43 Stat. 654][/us/stat/43/654]; [Oct. 26, 1949, ch. 735][/us/act/1949-10-26/ch735], § 3, [63 Stat. 910][/us/stat/63/910].)
 
  __Amendments__ 
 
@@ -29,13 +29,13 @@
 
  __Contributions by States, etc.__ 
 
-[Act Sept. 21, 1944, ch. 412][/us/act/1944-09-21/ch412], title II, § 208, [58 Stat. 736][/us/stat/58/736], provided: 
+[Act Sept. 21, 1944, ch. 412, title II][/us/act/1944-09-21/ch412/tII], § 208, [58 Stat. 736][/us/stat/58/736], provided: 
 
 > “No part of any appropriation which is available for carrying out the Cooperative Farm Forestry Act ([16 U.S.C. 568b][/us/usc/t16/s568b]) \[repealed\] and sections 4 and 5 of the Clarke-McNary Act ([16 U.S.C. 567][/us/usc/t16/s567] \[repealed\], 568) shall be expended in any State or Territory unless the State or Territory, or local subdivision thereof, or individuals, or associations contribute a sum equal to that to be allotted therefrom by the Government or make contributions other than money deemed by the Secretary to be the value equivalent thereof.”
 
  __Appropriations Available for 3 Years__ 
 
-[Act Sept. 21, 1944, ch. 412][/us/act/1944-09-21/ch412], title II, § 209, [58 Stat. 737][/us/stat/58/737], provided: 
+[Act Sept. 21, 1944, ch. 412, title II][/us/act/1944-09-21/ch412/tII], § 209, [58 Stat. 737][/us/stat/58/737], provided: 
 
 > “Appropriations for carrying out the Cooperative Farm Forestry Act ([16 U.S.C. 568b][/us/usc/t16/s568b]) \[repealed\] and sections 4 and 5 of the Clarke-McNary Act ([16 U.S.C. 567][/us/usc/t16/s567] \[repealed\], 568) and Acts supplementary thereto allocated for the production or procurement of nursery stock by any Federal agency, or funds appropriated to any Federal agency for allocation to cooperating States for the production or procurement of nursery stock, shall remain available for expenditure for not more than three fiscal years.”
 
@@ -46,18 +46,18 @@
 ----------
 ----------
 
-[/us/act/1924-06-07/ch348/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch348%2Fs5
+[/us/act/1924-06-07/ch348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch348
 [/us/stat/43/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F654
-[/us/act/1949-10-26/ch735/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-26%2Fch735%2Fs3
+[/us/act/1949-10-26/ch735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-26%2Fch735
 [/us/stat/63/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F910
 [/us/pl/94/274/s202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F274%2Fs202%2F2
 [/us/stat/90/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F392
 [/us/usc/t7/s2652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2652
-[/us/act/1944-09-21/ch412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-09-21%2Fch412
+[/us/act/1944-09-21/ch412/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-09-21%2Fch412%2FtII
 [/us/stat/58/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F736
 [/us/usc/t16/s568b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs568b
 [/us/usc/t16/s567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs567
-[/us/act/1944-09-21/ch412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-09-21%2Fch412
+[/us/act/1944-09-21/ch412/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-09-21%2Fch412%2FtII
 [/us/stat/58/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F737
 [/us/usc/t16/s568b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs568b
 [/us/usc/t16/s567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs567

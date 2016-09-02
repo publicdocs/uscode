@@ -125,7 +125,7 @@
 
             Nothing in this Act (including the provisions related to establishment or management of the Protection Area) shall affect, impede, interfere with, or diminish the operation, existence, access, maintenance, improvement, or construction of water facilities and infrastructure, rights-of-way, or other water-related property, interests, and uses, (including the use of motorized vehicles and equipment existing or located on lands within the Protection Area) on any lands except those lands managed under the management prescription referred to in subsection (d)(1)(F).
 
-([Pub. L. 107–216, § 3][/us/pl/107/216/s3], Aug. 21, 2002, [116 Stat. 1056][/us/stat/116/1056].)
+([Pub. L. 107–216][/us/pl/107/216], § 3, Aug. 21, 2002, [116 Stat. 1056][/us/stat/116/1056].)
 
  __References in Text__ 
 
@@ -137,13 +137,13 @@
 
  __Short Title__ 
 
-[Pub. L. 107–216, § 1][/us/pl/107/216/s1], Aug. 21, 2002, [116 Stat. 1055][/us/stat/116/1055], provided that: 
+[Pub. L. 107–216][/us/pl/107/216], § 1, Aug. 21, 2002, [116 Stat. 1055][/us/stat/116/1055], provided that: 
 
 > “This Act \[enacting this section and sections 539l–1 to 539l–5 of this title and enacting and amending provisions listed in a table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132]\] may be cited as the ‘James Peak Wilderness and Protection Area Act’.”
 
  __“Secretary” Defined__ 
 
-    [Pub. L. 107–216, § 2(c)][/us/pl/107/216/s2/c], Aug. 21, 2002, [116 Stat. 1056][/us/stat/116/1056], provided in part that in sections 539l to 539l–5 of this title “Secretary” means the Secretary of Agriculture.
+    [Pub. L. 107–216][/us/pl/107/216], § 2(c), Aug. 21, 2002, [116 Stat. 1056][/us/stat/116/1056], provided in part that in sections 539l to 539l–5 of this title “Secretary” means the Secretary of Agriculture.
 
 ----------
 
@@ -152,14 +152,14 @@
 ----------
 ----------
 
-[/us/pl/107/216/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F216%2Fs3
+[/us/pl/107/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F216
 [/us/stat/116/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1056
 [/us/pl/107/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F216
 [/us/stat/116/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1055
-[/us/pl/107/216/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F216%2Fs1
+[/us/pl/107/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F216
 [/us/stat/116/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1055
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132
-[/us/pl/107/216/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F216%2Fs2%2Fc
+[/us/pl/107/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F216
 [/us/stat/116/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1056
 
 

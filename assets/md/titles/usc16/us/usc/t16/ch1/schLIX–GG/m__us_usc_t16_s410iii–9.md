@@ -23,7 +23,7 @@
 
         Funds from the endowment referred to in subsection (a) shall be expended exclusively as the Secretary, in consultation with the Commission, may designate for the interpretation, preservation, and maintenance of the Park resources and public access areas. No expenditure shall be made pursuant to this section unless the Secretary determines that such expenditure is consistent with the purposes of this subchapter.
 
-([Pub. L. 107–373, § 11][/us/pl/107/373/s11], Dec. 19, 2002, [116 Stat. 3108][/us/stat/116/3108].)
+([Pub. L. 107–373][/us/pl/107/373], § 11, Dec. 19, 2002, [116 Stat. 3108][/us/stat/116/3108].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/107/373/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F373%2Fs11
+[/us/pl/107/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F373
 [/us/stat/116/3108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3108
 
 

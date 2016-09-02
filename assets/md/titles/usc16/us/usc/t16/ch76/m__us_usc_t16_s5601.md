@@ -111,7 +111,7 @@
 
             The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to coordination and consultations under this subsection.
 
-([Pub. L. 104–43, title II, § 202][/us/pl/104/43/s202], Nov. 3, 1995, [109 Stat. 377][/us/stat/109/377].)
+([Pub. L. 104–43, title II][/us/pl/104/43/tII], § 202, Nov. 3, 1995, [109 Stat. 377][/us/stat/109/377].)
 
  __References in Text__ 
 
@@ -119,7 +119,7 @@
 
  __Short Title__ 
 
-[Pub. L. 104–43, title II, § 201][/us/pl/104/43/s201], Nov. 3, 1995, [109 Stat. 377][/us/stat/109/377], provided that: 
+[Pub. L. 104–43, title II][/us/pl/104/43/tII], § 201, Nov. 3, 1995, [109 Stat. 377][/us/stat/109/377], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Northwest Atlantic Fisheries Convention Act of 1995’.”
 
@@ -132,11 +132,11 @@
 
 [/us/usc/t16/s1852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1852
 [/us/usc/t16/s5607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5607
-[/us/pl/104/43/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs202
+[/us/pl/104/43/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtII
 [/us/stat/109/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F377
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/104/43/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs201
+[/us/pl/104/43/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtII
 [/us/stat/109/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F377
 
 

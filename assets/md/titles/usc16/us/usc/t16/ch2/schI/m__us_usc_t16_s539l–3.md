@@ -23,7 +23,7 @@
 
         If the results of the study required by subsection (a) indicate that establishment of such a loop trail would be suitable and feasible, consistent with the purpose set forth in section 539l(a)(2) of this title, the Secretary shall establish the loop trail in a manner consistent with that purpose.
 
-([Pub. L. 107–216, § 6][/us/pl/107/216/s6], Aug. 21, 2002, [116 Stat. 1060][/us/stat/116/1060].)
+([Pub. L. 107–216][/us/pl/107/216], § 6, Aug. 21, 2002, [116 Stat. 1060][/us/stat/116/1060].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/107/216/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F216%2Fs6
+[/us/pl/107/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F216
 [/us/stat/116/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1060
 
 

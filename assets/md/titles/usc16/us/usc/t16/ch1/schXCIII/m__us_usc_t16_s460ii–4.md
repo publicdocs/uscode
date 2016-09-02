@@ -91,7 +91,7 @@
 
             Actions which are part of a project recommended in the study entitled “Metropolitan Atlanta Water Resources Management Study, Georgia: Report of Chief of Engineers”, dated June 1, 1982, and any Federal action which pertains to the control of air space, which is regulated under the Clean Air Act \[[42 U.S.C. 7401][/us/usc/t42/s7401] et seq.\], or which is required for maintenance or rehabilitation of existing structures or facilities shall also be exempt from the provisions of this subsection.
 
-([Pub. L. 95–344, title I, § 105][/us/pl/95/344/s105], Aug. 15, 1978, [92 Stat. 476][/us/stat/92/476]; [Pub. L. 98–568, § 1(e)][/us/pl/98/568/s1/e], Oct. 30, 1984, [98 Stat. 2929][/us/stat/98/2929]; [Pub. L. 106–154, § 2(d)][/us/pl/106/154/s2/d], (e)(4), Dec. 9, 1999, [113 Stat. 1738][/us/stat/113/1738], 1739.)
+([Pub. L. 95–344, title I][/us/pl/95/344/tI], § 105, Aug. 15, 1978, [92 Stat. 476][/us/stat/92/476]; [Pub. L. 98–568][/us/pl/98/568], § 1(e), Oct. 30, 1984, [98 Stat. 2929][/us/stat/98/2929]; [Pub. L. 106–154][/us/pl/106/154], § 2(d), (e)(4), Dec. 9, 1999, [113 Stat. 1738][/us/stat/113/1738], 1739.)
 
  __References in Text__ 
 
@@ -105,23 +105,23 @@
 
  __Codification__ 
 
-    In subsec. (a)(1), “[section 200306(a)(4) of title 54][/us/usc/t54/s200306/a/4]” substituted for “section 7(a)(3) of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–9(a)(3))” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (a)(1), “[section 200306(a)(4) of title 54][/us/usc/t54/s200306/a/4]” substituted for “section 7(a)(3) of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–9(a)(3))” on authority of [Pub. L. 113–287][/us/pl/113/287], § 6(e), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
  __Amendments__ 
 
-    1999—[Pub. L. 106–154, § 2(d)(1)][/us/pl/106/154/s2/d/1], inserted section catchline.
+    1999—[Pub. L. 106–154][/us/pl/106/154], § 2(d)(1), inserted section catchline.
 
-    Subsec. (a). [Pub. L. 106–154, § 2(d)(1)][/us/pl/106/154/s2/d/1], (2), inserted subsec. heading, designated existing provisions as par. (1), inserted heading, substituted “$115,000,000” for “$79,400,000” and “this subchapter” for “this subchapter and chapter 43 of this title”, and added pars. (2) and (3).
+    Subsec. (a). [Pub. L. 106–154][/us/pl/106/154], § 2(d)(1), (2), inserted subsec. heading, designated existing provisions as par. (1), inserted heading, substituted “$115,000,000” for “$79,400,000” and “this subchapter” for “this subchapter and chapter 43 of this title”, and added pars. (2) and (3).
 
-    Subsec. (c). [Pub. L. 106–154, § 2(d)(3)][/us/pl/106/154/s2/d/3], inserted subsec. heading, designated existing provisions as par. (1), inserted par. (1) heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, substituted “transmit to the Committee on Resources of the House of Representatives” for “transmit to the Committee on Interior and Insular Affairs of the United States House of Representatives”, and added par. (2).
+    Subsec. (c). [Pub. L. 106–154][/us/pl/106/154], § 2(d)(3), inserted subsec. heading, designated existing provisions as par. (1), inserted par. (1) heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, substituted “transmit to the Committee on Resources of the House of Representatives” for “transmit to the Committee on Interior and Insular Affairs of the United States House of Representatives”, and added par. (2).
 
-    Subsec. (c)(1)(A). [Pub. L. 106–154, § 2(e)(4)][/us/pl/106/154/s2/e/4], substituted “of this subchapter” for “of this subchapter and chapter 43 of this title”.
+    Subsec. (c)(1)(A). [Pub. L. 106–154][/us/pl/106/154], § 2(e)(4), substituted “of this subchapter” for “of this subchapter and chapter 43 of this title”.
 
-    1984—Subsec. (a). [Pub. L. 98–568, § 1(e)(1)][/us/pl/98/568/s1/e/1], substituted “$79,400,000” for “$72,900,000” and inserted provision respecting applicable statutory ceiling on appropriations.
+    1984—Subsec. (a). [Pub. L. 98–568][/us/pl/98/568], § 1(e)(1), substituted “$79,400,000” for “$72,900,000” and inserted provision respecting applicable statutory ceiling on appropriations.
 
-    Subsec. (c). [Pub. L. 98–568, § 1(e)(2)][/us/pl/98/568/s1/e/2], substituted “seven years” for “three years”.
+    Subsec. (c). [Pub. L. 98–568][/us/pl/98/568], § 1(e)(2), substituted “seven years” for “three years”.
 
-    Subsec. (d). [Pub. L. 98–568, § 1(e)(3)][/us/pl/98/568/s1/e/3], added subsec. (d).
+    Subsec. (d). [Pub. L. 98–568][/us/pl/98/568], § 1(e)(3), added subsec. (d).
 
  __Change of Name__ 
 
@@ -140,11 +140,11 @@
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/95/344/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F344%2Fs105
+[/us/pl/95/344/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F344%2FtI
 [/us/stat/92/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F476
-[/us/pl/98/568/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F568%2Fs1%2Fe
+[/us/pl/98/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F568
 [/us/stat/98/2929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2929
-[/us/pl/106/154/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154%2Fs2%2Fd
+[/us/pl/106/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154
 [/us/stat/113/1738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1738
 [/us/stat/78/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F897
 [/us/pl/88/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F578
@@ -160,14 +160,14 @@
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/usc/t54/s200306/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs200306%2Fa%2F4
 [/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
-[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
-[/us/pl/106/154/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154%2Fs2%2Fd%2F1
-[/us/pl/106/154/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154%2Fs2%2Fd%2F1
-[/us/pl/106/154/s2/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154%2Fs2%2Fd%2F3
-[/us/pl/106/154/s2/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154%2Fs2%2Fe%2F4
-[/us/pl/98/568/s1/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F568%2Fs1%2Fe%2F1
-[/us/pl/98/568/s1/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F568%2Fs1%2Fe%2F2
-[/us/pl/98/568/s1/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F568%2Fs1%2Fe%2F3
+[/us/pl/106/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154
+[/us/pl/106/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154
+[/us/pl/106/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154
+[/us/pl/106/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154
+[/us/pl/98/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F568
+[/us/pl/98/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F568
+[/us/pl/98/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F568
 
 

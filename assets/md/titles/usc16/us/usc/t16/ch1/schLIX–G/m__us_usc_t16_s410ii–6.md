@@ -27,7 +27,7 @@
 
         The head of any Federal agency having direct or indirect jurisdiction over a proposed Federal or federally assisted undertaking with respect to the lands and waters in the archeological protection sites, and the head of any Federal agency having authority to license or permit any undertaking with respect to such lands and waters, shall prior to the approval of the expenditure of any Federal funds on such undertaking, or prior to the issuance of any license or permit, as the case may be, afford the Secretary a reasonable opportunity to comment in writing with regard to such undertaking and its effect upon such sites, and shall give due consideration to any comments made by the Secretary and to the effect of such undertaking on the purposes for which such sites are established.
 
-([Pub. L. 96–550, title V, § 507][/us/pl/96/550/s507], Dec. 19, 1980, [94 Stat. 3230][/us/stat/94/3230].)
+([Pub. L. 96–550, title V][/us/pl/96/550/tV], § 507, Dec. 19, 1980, [94 Stat. 3230][/us/stat/94/3230].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
  __Cooperative Agreements for Curation and Research__ 
 
-[Pub. L. 108–413, § 4][/us/pl/108/413/s4], Oct. 30, 2004, [118 Stat. 2325][/us/stat/118/2325], provided that: 
+[Pub. L. 108–413][/us/pl/108/413], § 4, Oct. 30, 2004, [118 Stat. 2325][/us/stat/118/2325], provided that: 
 
 > “The Secretary \[of the Interior\] may enter into cooperative agreements with the University of New Mexico, Federal agencies, and Indian tribes for the curation of and conduct of research on artifacts, and to encourage collaborative management of the Chacoan archaeological artifacts associated with northwestern New Mexico.”
 
@@ -50,10 +50,10 @@
 ----------
 ----------
 
-[/us/pl/96/550/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F550%2Fs507
+[/us/pl/96/550/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F550%2FtV
 [/us/stat/94/3230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3230
 [/us/pl/96/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F550
-[/us/pl/108/413/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F413%2Fs4
+[/us/pl/108/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F413
 [/us/stat/118/2325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2325
 
 

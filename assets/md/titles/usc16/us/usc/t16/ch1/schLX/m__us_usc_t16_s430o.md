@@ -17,7 +17,7 @@
 
     The Secretary of the Interior, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup>  is authorized to receive gifts and contributions from States, Territories, societies, organizations, and individuals for the battlefield for carrying out the provisions of sections 430j to 430m and 430o to 430s of this title.
 
-([June 21, 1934, ch. 694, § 6][/us/act/1934-06-21/ch694/s6], [48 Stat. 1199][/us/stat/48/1199]; [Pub. L. 94–578, title III, § 319(6)][/us/pl/94/578/s319/6], Oct. 21, 1976, [90 Stat. 2738][/us/stat/90/2738].)
+([June 21, 1934, ch. 694][/us/act/1934-06-21/ch694], § 6, [48 Stat. 1199][/us/stat/48/1199]; [Pub. L. 94–578, title III][/us/pl/94/578/tIII], § 319(6), Oct. 21, 1976, [90 Stat. 2738][/us/stat/90/2738].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1934-06-21/ch694/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-21%2Fch694%2Fs6
+[/us/act/1934-06-21/ch694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-21%2Fch694
 [/us/stat/48/1199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1199
-[/us/pl/94/578/s319/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2Fs319%2F6
+[/us/pl/94/578/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2FtIII
 [/us/stat/90/2738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2738
 [/us/pl/94/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578
 

@@ -17,7 +17,7 @@
 
     The administration, protection, and development of the recreation area shall be by the Secretary of Agriculture in accordance with the laws, rules, and regulations applicable to national forests, in such manner as in his judgment will best provide for (1) public outdoor recreation benefits; (2) conservation of scenic, scientific, historic, and other values contributing to public enjoyment; and (3) such management, utilization, and disposal of natural resources as in his judgment will promote, or is compatible with, and does not significantly impair the purposes for which the recreation area is established.
 
-([Pub. L. 89–207, § 5][/us/pl/89/207/s5], Sept. 28, 1965, [79 Stat. 844][/us/stat/79/844].)
+([Pub. L. 89–207][/us/pl/89/207], § 5, Sept. 28, 1965, [79 Stat. 844][/us/stat/79/844].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/207/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F207%2Fs5
+[/us/pl/89/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F207
 [/us/stat/79/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F844
 
 

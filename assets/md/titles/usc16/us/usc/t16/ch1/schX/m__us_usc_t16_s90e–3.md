@@ -17,7 +17,7 @@
 
     Within two years from October 2, 1968, the Secretary of the Interior shall review the area within the North Cascades National Park, including the Picket Range area and the Eldorado Peaks area, and shall report to the President, in accordance with section 1132(c) and (d) of this title, his recommendation as to the suitability or nonsuitability of any area within the park for preservation as wilderness, and any designation of any such area as a wilderness area shall be accomplished in accordance with said section 1132(c) and (d).
 
-([Pub. L. 90–544, title VI, § 604][/us/pl/90/544/s604], Oct. 2, 1968, [82 Stat. 931][/us/stat/82/931].)
+([Pub. L. 90–544, title VI][/us/pl/90/544/tVI], § 604, Oct. 2, 1968, [82 Stat. 931][/us/stat/82/931].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/544/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F544%2Fs604
+[/us/pl/90/544/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F544%2FtVI
 [/us/stat/82/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F931
 
 

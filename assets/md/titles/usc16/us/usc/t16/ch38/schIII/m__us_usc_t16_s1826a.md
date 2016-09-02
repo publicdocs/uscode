@@ -97,7 +97,7 @@
 
                 Certification by the Secretary of Commerce under subparagraph (B) is deemed to be a certification under [section 1978(a) of title 22][/us/usc/t22/s1978/a].
 
-([Pub. L. 102–582, title I, § 101][/us/pl/102/582/s101], Nov. 2, 1992, [106 Stat. 4901][/us/stat/106/4901]; [Pub. L. 109–479, title IV, § 403(b)(1)][/us/pl/109/479/s403/b/1], Jan. 12, 2007, [120 Stat. 3632][/us/stat/120/3632]; [Pub. L. 114–81, title I, § 102(a)][/us/pl/114/81/s102/a], Nov. 5, 2015, [129 Stat. 656][/us/stat/129/656].)
+([Pub. L. 102–582, title I][/us/pl/102/582/tI], § 101, Nov. 2, 1992, [106 Stat. 4901][/us/stat/106/4901]; [Pub. L. 109–479, title IV][/us/pl/109/479/tIV], § 403(b)(1), Jan. 12, 2007, [120 Stat. 3632][/us/stat/120/3632]; [Pub. L. 114–81, title I][/us/pl/114/81/tI], § 102(a), Nov. 5, 2015, [129 Stat. 656][/us/stat/129/656].)
 
  __References in Text__ 
 
@@ -105,33 +105,33 @@
 
  __Codification__ 
 
-    In subsec. (a)(2)(A), “[section 60105 of title 46][/us/usc/t46/s60105]” substituted for “section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)” on authority of [Pub. L. 109–304, § 18(c)][/us/pl/109/304/s18/c], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 60105 of Title 46][/us/usc/t46/s60105], Shipping.
+    In subsec. (a)(2)(A), “[section 60105 of title 46][/us/usc/t46/s60105]” substituted for “section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)” on authority of [Pub. L. 109–304][/us/pl/109/304], § 18(c), Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 60105 of Title 46][/us/usc/t46/s60105], Shipping.
 
     Section was enacted as part of the High Seas Driftnet Fisheries Enforcement Act, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
  __Amendments__ 
 
-    2015—Subsec. (a)(2). [Pub. L. 114–81, § 102(a)(1)][/us/pl/114/81/s102/a/1], struck out “recognized principles of” after “in accordance with” in introductory provisions.
+    2015—Subsec. (a)(2). [Pub. L. 114–81][/us/pl/114/81], § 102(a)(1), struck out “recognized principles of” after “in accordance with” in introductory provisions.
 
-    Subsec. (a)(2)(A). [Pub. L. 114–81, § 102(a)(2)][/us/pl/114/81/s102/a/2], inserted “or, as appropriate, for fishing vessels of a nation that receives a negative certification under [section 1826j(d) of this title][/us/usc/t16/s1826j/d] or [section 1826k(c) of this title][/us/usc/t16/s1826k/c]” after “paragraph (1)”.
+    Subsec. (a)(2)(A). [Pub. L. 114–81][/us/pl/114/81], § 102(a)(2), inserted “or, as appropriate, for fishing vessels of a nation that receives a negative certification under [section 1826j(d) of this title][/us/usc/t16/s1826j/d] or [section 1826k(c) of this title][/us/usc/t16/s1826k/c]” after “paragraph (1)”.
 
-    Subsec. (a)(2)(B). [Pub. L. 114–81, § 102(a)(3)][/us/pl/114/81/s102/a/3], inserted before period at end “, except for the purposes of inspecting such vessel, conducting an investigation, or taking other appropriate enforcement action”.
+    Subsec. (a)(2)(B). [Pub. L. 114–81][/us/pl/114/81], § 102(a)(3), inserted before period at end “, except for the purposes of inspecting such vessel, conducting an investigation, or taking other appropriate enforcement action”.
 
-    Subsec. (b)(1)(A)(i). [Pub. L. 114–81, § 102(a)(4)][/us/pl/114/81/s102/a/4], struck out “or illegal, unreported, or unregulated fishing” after “driftnet fishing”.
+    Subsec. (b)(1)(A)(i). [Pub. L. 114–81][/us/pl/114/81], § 102(a)(4), struck out “or illegal, unreported, or unregulated fishing” after “driftnet fishing”.
 
-     Subsec. (b)(1)(B), (2). [Pub. L. 114–81, § 102(a)(5)][/us/pl/114/81/s102/a/5], struck out “or illegal, unreported, or unregulated fishing” after “driftnet fishing”.
+     Subsec. (b)(1)(B), (2). [Pub. L. 114–81][/us/pl/114/81], § 102(a)(5), struck out “or illegal, unreported, or unregulated fishing” after “driftnet fishing”.
 
-     Subsec. (b)(3)(A)(i). [Pub. L. 114–81, § 102(a)(6)][/us/pl/114/81/s102/a/6], inserted “or a negative certification under [section 1826j(d) of this title][/us/usc/t16/s1826j/d] or [section 1826k(c) of this title][/us/usc/t16/s1826k/c]” after “paragraph (1)(A)”.
+     Subsec. (b)(3)(A)(i). [Pub. L. 114–81][/us/pl/114/81], § 102(a)(6), inserted “or a negative certification under [section 1826j(d) of this title][/us/usc/t16/s1826j/d] or [section 1826k(c) of this title][/us/usc/t16/s1826k/c]” after “paragraph (1)(A)”.
 
-     Subsec. (b)(4)(A). [Pub. L. 114–81, § 102(a)(7)][/us/pl/114/81/s102/a/7], inserted “or issues a negative certification under [section 1826j(d) of this title][/us/usc/t16/s1826j/d] or [section 1826k(c) of this title][/us/usc/t16/s1826k/c]” after “paragraph (1)”.
+     Subsec. (b)(4)(A). [Pub. L. 114–81][/us/pl/114/81], § 102(a)(7), inserted “or issues a negative certification under [section 1826j(d) of this title][/us/usc/t16/s1826j/d] or [section 1826k(c) of this title][/us/usc/t16/s1826k/c]” after “paragraph (1)”.
 
-    Subsec. (b)(4)(A)(i). [Pub. L. 114–81, § 102(a)(8)][/us/pl/114/81/s102/a/8], (9), struck out “or illegal, unreported, or unregulated fishing” after “driftnet fishing” and inserted “, or to address the offending activities for which a nation received a negative certification under section 1826j(d) or 1826k(c) of this title” after “beyond the exclusive economic zone of any nation”.
+    Subsec. (b)(4)(A)(i). [Pub. L. 114–81][/us/pl/114/81], § 102(a)(8), (9), struck out “or illegal, unreported, or unregulated fishing” after “driftnet fishing” and inserted “, or to address the offending activities for which a nation received a negative certification under section 1826j(d) or 1826k(c) of this title” after “beyond the exclusive economic zone of any nation”.
 
     2007—Subsec. (b)(1)(A)(i), (B), (2), (4)(A)(i). [Pub. L. 109–479][/us/pl/109/479] inserted “or illegal, unreported, or unregulated fishing” after “driftnet fishing”.
 
  __High Seas Driftnet Fisheries Enforcement; Congressional Statement of Findings and Policy__ 
 
-[Pub. L. 102–582, § 2][/us/pl/102/582/s2], Nov. 2, 1992, [106 Stat. 4900][/us/stat/106/4900], as amended by [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that:
+[Pub. L. 102–582][/us/pl/102/582], § 2, Nov. 2, 1992, [106 Stat. 4900][/us/stat/106/4900], as amended by [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -183,11 +183,11 @@
 [/us/usc/t16/s1826j/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826j%2Fd
 [/us/usc/t16/s1826k/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826k%2Fc
 [/us/usc/t22/s1978/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1978%2Fa
-[/us/pl/102/582/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2Fs101
+[/us/pl/102/582/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2FtI
 [/us/stat/106/4901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4901
-[/us/pl/109/479/s403/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs403%2Fb%2F1
+[/us/pl/109/479/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtIV
 [/us/stat/120/3632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3632
-[/us/pl/114/81/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs102%2Fa
+[/us/pl/114/81/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2FtI
 [/us/stat/129/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F656
 [/us/pl/102/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582
 [/us/stat/106/4900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4900
@@ -196,27 +196,27 @@
 [/us/usc/t46/s2110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2110
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
-[/us/pl/109/304/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
-[/us/pl/114/81/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs102%2Fa%2F1
-[/us/pl/114/81/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs102%2Fa%2F2
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
 [/us/usc/t16/s1826j/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826j%2Fd
 [/us/usc/t16/s1826k/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826k%2Fc
-[/us/pl/114/81/s102/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs102%2Fa%2F3
-[/us/pl/114/81/s102/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs102%2Fa%2F4
-[/us/pl/114/81/s102/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs102%2Fa%2F5
-[/us/pl/114/81/s102/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs102%2Fa%2F6
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
 [/us/usc/t16/s1826j/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826j%2Fd
 [/us/usc/t16/s1826k/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826k%2Fc
-[/us/pl/114/81/s102/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs102%2Fa%2F7
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
 [/us/usc/t16/s1826j/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826j%2Fd
 [/us/usc/t16/s1826k/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826k%2Fc
-[/us/pl/114/81/s102/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs102%2Fa%2F8
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
 [/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
-[/us/pl/102/582/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2Fs2
+[/us/pl/102/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582
 [/us/stat/106/4900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4900
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
 [/us/usc/t16/s1857/1/M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1857%2F1%2FM
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801

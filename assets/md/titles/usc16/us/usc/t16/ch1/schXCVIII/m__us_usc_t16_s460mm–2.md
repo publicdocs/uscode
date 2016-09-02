@@ -17,7 +17,7 @@
 
     There is hereby established the White Mountains National Recreation Area containing approximately one million acres of public lands, as generally depicted on the map entitled “White Mountains National Recreation Area—proposed”, and dated October 1978. Subject to valid existing rights, the Secretary shall administer the area in accordance with the provisions of [section 460mm–4 of this title][/us/usc/t16/s460mm–4] and other applicable provisions of this Act, the Federal Land Policy and Management Act of 1976 \[[43 U.S.C. 1701][/us/usc/t43/s1701] et seq.\], and other applicable law. In planning for the recreational use and management of this area, the Secretary shall work closely with the State of Alaska.
 
-([Pub. L. 96–487, title IV, § 403][/us/pl/96/487/s403], Dec. 2, 1980, [94 Stat. 2397][/us/stat/94/2397].)
+([Pub. L. 96–487, title IV][/us/pl/96/487/tIV], § 403, Dec. 2, 1980, [94 Stat. 2397][/us/stat/94/2397].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t16/s460mm–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460mm%E2%80%934
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
-[/us/pl/96/487/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs403
+[/us/pl/96/487/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtIV
 [/us/stat/94/2397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2397
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371

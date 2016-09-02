@@ -17,7 +17,7 @@
 
     The provisions of [section 485 of this title][/us/usc/t16/s485] shall continue to be applicable to the areas included within the Yellowstone National Park by [section 21a of this title][/us/usc/t16/s21a], and any lands within such areas acquired by exchange thereunder shall thereupon become a part of the Yellowstone National Park.
 
-([Mar. 1, 1929, ch. 437, § 3][/us/act/1929-03-01/ch437/s3], [45 Stat. 1436][/us/stat/45/1436].)
+([Mar. 1, 1929, ch. 437][/us/act/1929-03-01/ch437], § 3, [45 Stat. 1436][/us/stat/45/1436].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t16/s485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs485
 [/us/usc/t16/s21a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs21a
-[/us/act/1929-03-01/ch437/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-01%2Fch437%2Fs3
+[/us/act/1929-03-01/ch437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-01%2Fch437
 [/us/stat/45/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1436
 
 

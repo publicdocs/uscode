@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 88–578, title I, § 1(b)][/us/pl/88/578/s1/b], Sept. 3, 1964, [78 Stat. 897][/us/stat/78/897], which stated purposes of [Pub. L. 88–578][/us/pl/88/578], was transferred and is set out as a note under [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
+    Section, [Pub. L. 88–578, title I][/us/pl/88/578/tI], § 1(b), Sept. 3, 1964, [78 Stat. 897][/us/stat/78/897], which stated purposes of [Pub. L. 88–578][/us/pl/88/578], was transferred and is set out as a note under [section 100101 of Title 54][/us/usc/t54/s100101], National Park Service and Related Programs.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/578/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F578%2Fs1%2Fb
+[/us/pl/88/578/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F578%2FtI
 [/us/stat/78/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F897
 [/us/pl/88/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F578
 [/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101

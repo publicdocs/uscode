@@ -45,7 +45,7 @@
 
         The term “Commission” means the commission established under article 8 of the Agreement.
 
-([Pub. L. 92–522, title V, § 501][/us/pl/92/522/s501], as added [Pub. L. 109–479, title IX, § 902(a)][/us/pl/109/479/s902/a], Jan. 12, 2007, [120 Stat. 3660][/us/stat/120/3660].)
+([Pub. L. 92–522, title V][/us/pl/92/522/tV], § 501, as added [Pub. L. 109–479, title IX][/us/pl/109/479/tIX], § 902(a), Jan. 12, 2007, [120 Stat. 3660][/us/stat/120/3660].)
 
 ----------
 
@@ -54,8 +54,8 @@
 ----------
 ----------
 
-[/us/pl/92/522/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs501
-[/us/pl/109/479/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs902%2Fa
+[/us/pl/92/522/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtV
+[/us/pl/109/479/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtIX
 [/us/stat/120/3660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3660
 
 

@@ -17,51 +17,51 @@
 
     In order to preserve for public use and enjoyment certain areas of Marin and San Francisco Counties, California, possessing outstanding natural, historic, scenic, and recreational values, and in order to provide for the maintenance of needed recreational open space necessary to urban environment and planning, the Golden Gate National Recreation Area (hereinafter referred to as the “recreation area”) is hereby established. In the management of the recreation area, the Secretary of the Interior (hereinafter referred to as the “Secretary”) shall utilize the resources in a manner which will provide for recreation and educational opportunities consistent with sound principles of land use planning and management. In carrying out the provisions of this subchapter, the Secretary shall preserve the recreation area, as far as possible, in its natural setting, and protect it from development and uses which would destroy the scenic beauty and natural character of the area.
 
-([Pub. L. 92–589, § 1][/us/pl/92/589/s1], Oct. 27, 1972, [86 Stat. 1299][/us/stat/86/1299].)
+([Pub. L. 92–589][/us/pl/92/589], § 1, Oct. 27, 1972, [86 Stat. 1299][/us/stat/86/1299].)
 
  __Short Title of 2005 Amendment__ 
 
-[Pub. L. 109–131, title II, § 201][/us/pl/109/131/s201], Dec. 20, 2005, [119 Stat. 2568][/us/stat/119/2568], provided that: 
+[Pub. L. 109–131, title II][/us/pl/109/131/tII], § 201, Dec. 20, 2005, [119 Stat. 2568][/us/stat/119/2568], provided that: 
 
 > “This title \[amending [section 460bb–1 of this title][/us/usc/t16/s460bb–1]\] may be cited as the ‘Rancho Corral de Tierra Golden Gate National Recreation Area Boundary Adjustment Act’.”
 
  __Short Title of 2000 Amendment__ 
 
-[Pub. L. 106–350, § 1][/us/pl/106/350/s1], Oct. 24, 2000, [114 Stat. 1361][/us/stat/114/1361], provided that: 
+[Pub. L. 106–350][/us/pl/106/350], § 1, Oct. 24, 2000, [114 Stat. 1361][/us/stat/114/1361], provided that: 
 
 > “This Act \[amending [section 460bb–1 of this title][/us/usc/t16/s460bb–1]\] may be cited as the ‘Golden Gate National Recreation Area Boundary Adjustment Act of 2000’.”
 
  __Short Title of 1992 Amendment__ 
 
-[Pub. L. 102–299, § 1][/us/pl/102/299/s1], June 9, 1992, [106 Stat. 236][/us/stat/106/236], provided that: 
+[Pub. L. 102–299][/us/pl/102/299], § 1, June 9, 1992, [106 Stat. 236][/us/stat/106/236], provided that: 
 
 > “This Act \[amending [section 460bb–1 of this title][/us/usc/t16/s460bb–1] and enacting provisions set out as a note under [section 460bb–1 of this title][/us/usc/t16/s460bb–1]\] may be cited as the ‘Golden Gate National Recreation Area Addition Act of 1992’.”
 
  __Visitor Services in Crissy Field and Fort Point Areas__ 
 
-[Pub. L. 108–108, title I, § 118][/us/pl/108/108/s118], Nov. 10, 2003, [117 Stat. 1268][/us/stat/117/1268], provided that: 
+[Pub. L. 108–108, title I][/us/pl/108/108/tI], § 118, Nov. 10, 2003, [117 Stat. 1268][/us/stat/117/1268], provided that: 
 
 > “Notwithstanding other provisions of law, the National Park Service hereafter may authorize, through cooperative agreement, the Golden Gate National Parks Association to provide fee-based education, interpretive and visitor service functions within the Crissy Field and Fort Point areas of the Presidio.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 108–7, div. F, title I, § 120][/us/pl/108/7/s120], Feb. 20, 2003, [117 Stat. 240][/us/stat/117/240].
+    [Pub. L. 108–7, div. F, title I][/us/pl/108/7/dF/tI], § 120, Feb. 20, 2003, [117 Stat. 240][/us/stat/117/240].
 
-    [Pub. L. 107–63, title I, § 123][/us/pl/107/63/s123], Nov. 5, 2001, [115 Stat. 440][/us/stat/115/440].
+    [Pub. L. 107–63, title I][/us/pl/107/63/tI], § 123, Nov. 5, 2001, [115 Stat. 440][/us/stat/115/440].
 
-    [Pub. L. 106–291, title I, § 140][/us/pl/106/291/s140], Oct. 11, 2000, [114 Stat. 949][/us/stat/114/949].
+    [Pub. L. 106–291, title I][/us/pl/106/291/tI], § 140, Oct. 11, 2000, [114 Stat. 949][/us/stat/114/949].
 
  __Exemption of Presidio Trust from California Taxes__ 
 
-[Pub. L. 106–291, title III, § 315][/us/pl/106/291/s315], Oct. 11, 2000, [114 Stat. 989][/us/stat/114/989], provided that: 
+[Pub. L. 106–291, title III][/us/pl/106/291/tIII], § 315, Oct. 11, 2000, [114 Stat. 989][/us/stat/114/989], provided that: 
 
 > “All interests created under leases, concessions, permits and other agreements associated with the properties administered by the Presidio Trust, hereafter shall be exempt from all taxes and special assessments of every kind by the State of California and its political subdivisions.”
 
-    Similar provisions were contained in [Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title III, § 316\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–192.
+    Similar provisions were contained in [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(3) \[title III, § 316\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–192.
 
  __The Presidio of San Francisco__ 
 
-[Pub. L. 104–333, div. I, title I][/us/pl/104/333], Nov. 12, 1996, [110 Stat. 4097][/us/stat/110/4097], as amended by [Pub. L. 105–83, title III, § 351][/us/pl/105/83/s351], Nov. 14, 1997, [111 Stat. 1607][/us/stat/111/1607]; [Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title III, § 334\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–198; [Pub. L. 106–176, title I, § 101][/us/pl/106/176/s101], Mar. 10, 2000, [114 Stat. 23][/us/stat/114/23]; [Pub. L. 107–107, div. B, title XXVIII, § 2861][/us/pl/107/107/s2861], Dec. 28, 2001, [115 Stat. 1328][/us/stat/115/1328], provided that:
+[Pub. L. 104–333, div. I, title I][/us/pl/104/333/dI/tI], Nov. 12, 1996, [110 Stat. 4097][/us/stat/110/4097], as amended by [Pub. L. 105–83, title III][/us/pl/105/83/tIII], § 351, Nov. 14, 1997, [111 Stat. 1607][/us/stat/111/1607]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(3) \[title III, § 334\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–198; [Pub. L. 106–176, title I][/us/pl/106/176/tI], § 101, Mar. 10, 2000, [114 Stat. 23][/us/stat/114/23]; [Pub. L. 107–107, div. B, title XXVIII][/us/pl/107/107/dB/tXXVIII], § 2861, Dec. 28, 2001, [115 Stat. 1328][/us/stat/115/1328], provided that:
 
 > “SEC. 101. __FINDINGS.__ 
 
@@ -300,39 +300,39 @@ Similar provisions were contained in the following prior appropriation acts:
 ----------
 ----------
 
-[/us/pl/92/589/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F589%2Fs1
+[/us/pl/92/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F589
 [/us/stat/86/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1299
-[/us/pl/109/131/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F131%2Fs201
+[/us/pl/109/131/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F131%2FtII
 [/us/stat/119/2568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2568
 [/us/usc/t16/s460bb–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460bb%E2%80%931
-[/us/pl/106/350/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F350%2Fs1
+[/us/pl/106/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F350
 [/us/stat/114/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1361
 [/us/usc/t16/s460bb–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460bb%E2%80%931
-[/us/pl/102/299/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F299%2Fs1
+[/us/pl/102/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F299
 [/us/stat/106/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F236
 [/us/usc/t16/s460bb–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460bb%E2%80%931
 [/us/usc/t16/s460bb–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460bb%E2%80%931
-[/us/pl/108/108/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2Fs118
+[/us/pl/108/108/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2FtI
 [/us/stat/117/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1268
-[/us/pl/108/7/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs120
+[/us/pl/108/7/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtI
 [/us/stat/117/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F240
-[/us/pl/107/63/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63%2Fs123
+[/us/pl/107/63/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63%2FtI
 [/us/stat/115/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F440
-[/us/pl/106/291/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2Fs140
+[/us/pl/106/291/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2FtI
 [/us/stat/114/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F949
-[/us/pl/106/291/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2Fs315
+[/us/pl/106/291/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2FtIII
 [/us/stat/114/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F989
-[/us/pl/106/113/s1000/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F3
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/104/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333
+[/us/pl/104/333/dI/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtI
 [/us/stat/110/4097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4097
-[/us/pl/105/83/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs351
+[/us/pl/105/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtIII
 [/us/stat/111/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1607
-[/us/pl/106/113/s1000/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F3
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/106/176/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs101
+[/us/pl/106/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2FtI
 [/us/stat/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F23
-[/us/pl/107/107/s2861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs2861
+[/us/pl/107/107/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdB%2FtXXVIII
 [/us/stat/115/1328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1328
 [/us/pl/92/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F589
 [/us/usc/t16/s460bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460bb

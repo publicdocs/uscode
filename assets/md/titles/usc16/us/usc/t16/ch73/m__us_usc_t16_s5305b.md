@@ -33,7 +33,7 @@
 
         (3) the status of rhinoceros and tiger species and the reasons for protecting the species.
 
-([Pub. L. 103–391, § 8][/us/pl/103/391/s8], as added [Pub. L. 105–312, title IV, § 406][/us/pl/105/312/s406], Oct. 30, 1998, [112 Stat. 2961][/us/stat/112/2961].)
+([Pub. L. 103–391][/us/pl/103/391], § 8, as added [Pub. L. 105–312, title IV][/us/pl/105/312/tIV], § 406, Oct. 30, 1998, [112 Stat. 2961][/us/stat/112/2961].)
 
 ----------
 
@@ -42,8 +42,8 @@
 ----------
 ----------
 
-[/us/pl/103/391/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F391%2Fs8
-[/us/pl/105/312/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312%2Fs406
+[/us/pl/103/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F391
+[/us/pl/105/312/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312%2FtIV
 [/us/stat/112/2961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2961
 
 

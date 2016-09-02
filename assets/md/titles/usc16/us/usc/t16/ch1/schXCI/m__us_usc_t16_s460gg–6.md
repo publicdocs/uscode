@@ -47,7 +47,7 @@
 
         Notwithstanding any other provision of law, any Federal property located within the recreation area may, with the concurrence of the agency having custody thereof, be transferred without consideration to the administrative jurisdiction of the Secretary for use by him in carrying out the purposes of this subchapter. Lands acquired by the Secretary or transferred to his administrative jurisdiction within the recreation area shall become parts of the national forest within or adjacent to which they are located.
 
-([Pub. L. 94–199, § 9][/us/pl/94/199/s9], Dec. 31, 1975, [89 Stat. 1120][/us/stat/89/1120].)
+([Pub. L. 94–199][/us/pl/94/199], § 9, Dec. 31, 1975, [89 Stat. 1120][/us/stat/89/1120].)
 
 ----------
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/usc/t16/s460gg–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460gg%E2%80%937
-[/us/pl/94/199/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F199%2Fs9
+[/us/pl/94/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F199
 [/us/stat/89/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1120
 
 

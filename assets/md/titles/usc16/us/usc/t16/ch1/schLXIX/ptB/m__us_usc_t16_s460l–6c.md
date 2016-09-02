@@ -71,7 +71,7 @@
 
         The amount of the admission, entrance, and recreation fees authorized to be imposed under this section shall be determined by the Secretary.
 
-([Pub. L. 103–66, title I, § 1401][/us/pl/103/66/s1401], Aug. 10, 1993, [107 Stat. 331][/us/stat/107/331].)
+([Pub. L. 103–66, title I][/us/pl/103/66/tI], § 1401, Aug. 10, 1993, [107 Stat. 331][/us/stat/107/331].)
 
  __Codification__ 
 
@@ -84,7 +84,7 @@
 ----------
 ----------
 
-[/us/pl/103/66/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs1401
+[/us/pl/103/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtI
 [/us/stat/107/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F331
 
 

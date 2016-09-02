@@ -95,7 +95,7 @@
 
     (s) “urban areas” means those areas within the scenic area identified as urban areas on the map referred to in [section 544b(e) of this title][/us/usc/t16/s544b/e] or within the boundaries of an urban area as revised pursuant to [section 544b(f) of this title][/us/usc/t16/s544b/f].
 
-([Pub. L. 99–663, § 2][/us/pl/99/663/s2], Nov. 17, 1986, [100 Stat. 4274][/us/stat/100/4274]; [Pub. L. 103–435, § 17(b)][/us/pl/103/435/s17/b], Nov. 2, 1994, [108 Stat. 4573][/us/stat/108/4573].)
+([Pub. L. 99–663][/us/pl/99/663], § 2, Nov. 17, 1986, [100 Stat. 4274][/us/stat/100/4274]; [Pub. L. 103–435][/us/pl/103/435], § 17(b), Nov. 2, 1994, [108 Stat. 4573][/us/stat/108/4573].)
 
  __References in Text__ 
 
@@ -107,7 +107,7 @@
 
  __Short Title__ 
 
-[Pub. L. 99–663, § 1][/us/pl/99/663/s1], Nov. 17, 1986, [100 Stat. 4274][/us/stat/100/4274], provided that: 
+[Pub. L. 99–663][/us/pl/99/663], § 1, Nov. 17, 1986, [100 Stat. 4274][/us/stat/100/4274], provided that: 
 
 > “This Act \[enacting this section and sections 544a to 544p of this title and amending sections 1274 and 1276 of this title\] may be referred to as the ‘Columbia River Gorge National Scenic Area Act’.”
 
@@ -132,12 +132,12 @@
 [/us/usc/t16/s544b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs544b
 [/us/usc/t16/s544b/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs544b%2Fe
 [/us/usc/t16/s544b/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs544b%2Ff
-[/us/pl/99/663/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663%2Fs2
+[/us/pl/99/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663
 [/us/stat/100/4274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4274
-[/us/pl/103/435/s17/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435%2Fs17%2Fb
+[/us/pl/103/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435
 [/us/stat/108/4573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4573
 [/us/pl/103/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F435
-[/us/pl/99/663/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663%2Fs1
+[/us/pl/99/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663
 [/us/stat/100/4274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4274
 
 

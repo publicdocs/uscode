@@ -23,7 +23,7 @@
 
     (3) have the effect of providing that the Secretary shall receive advance notice of any hearing for the purpose of granting a variance and any variance granted under, and of any exception made to, the application of such law or ordinance.
 
-([Pub. L. 95–625, title XI, § 1104][/us/pl/95/625/s1104], Nov. 10, 1978, [92 Stat. 3546][/us/stat/92/3546].)
+([Pub. L. 95–625, title XI][/us/pl/95/625/tXI], § 1104, Nov. 10, 1978, [92 Stat. 3546][/us/stat/92/3546].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/95/625/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs1104
+[/us/pl/95/625/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtXI
 [/us/stat/92/3546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3546
 
 

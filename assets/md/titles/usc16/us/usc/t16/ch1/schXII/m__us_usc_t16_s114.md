@@ -17,7 +17,7 @@
 
     Any person or persons who may otherwise in any manner willfully remove, disturb, destroy, or molest any of the ruins, mounds, buildings, graves, relics, or other evidences of an ancient civilization or other property from said park shall be deemed guilty of a misdemeanor, and upon conviction before any court having jurisdiction of such offenses shall be fined not more than $1,000 or imprisoned not more than twelve months, or such person or persons may be fined and imprisoned, at the discretion of the judge, and shall be required to restore the property disturbed, if possible.
 
-([June 29, 1906, ch. 3607, § 4][/us/act/1906-06-29/ch3607/s4], [34 Stat. 617][/us/stat/34/617].)
+([June 29, 1906, ch. 3607][/us/act/1906-06-29/ch3607], § 4, [34 Stat. 617][/us/stat/34/617].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1906-06-29/ch3607/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-29%2Fch3607%2Fs4
+[/us/act/1906-06-29/ch3607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-29%2Fch3607
 [/us/stat/34/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F617
 
 

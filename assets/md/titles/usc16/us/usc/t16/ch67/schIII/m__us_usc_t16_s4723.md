@@ -65,7 +65,7 @@
 
         (2) cooperate with regional panels and similar entities that carry out the activities described in paragraph (1).
 
-([Pub. L. 101–646, title I, § 1203][/us/pl/101/646/s1203], Nov. 29, 1990, [104 Stat. 4769][/us/stat/104/4769]; [Pub. L. 104–332, § 2(e)(5)][/us/pl/104/332/s2/e/5], (h)(1), Oct. 26, 1996, [110 Stat. 4087][/us/stat/110/4087], 4091.)
+([Pub. L. 101–646, title I][/us/pl/101/646/tI], § 1203, Nov. 29, 1990, [104 Stat. 4769][/us/stat/104/4769]; [Pub. L. 104–332][/us/pl/104/332], § 2(e)(5), (h)(1), Oct. 26, 1996, [110 Stat. 4087][/us/stat/110/4087], 4091.)
 
  __References in Text__ 
 
@@ -75,11 +75,11 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–332, § 2(h)(1)][/us/pl/104/332/s2/h/1], made technical amendment to [Pub. L. 101–646, § 1203][/us/pl/101/646/s1203], which enacted this section.
+    1996—[Pub. L. 104–332][/us/pl/104/332], § 2(h)(1), made technical amendment to [Pub. L. 101–646][/us/pl/101/646], § 1203, which enacted this section.
 
-    [Pub. L. 104–332, § 2(e)(5)(A)][/us/pl/104/332/s2/e/5/A], substituted “Regional” for “Great Lakes regional” in section catchline.
+    [Pub. L. 104–332][/us/pl/104/332], § 2(e)(5)(A), substituted “Regional” for “Great Lakes regional” in section catchline.
 
-    [Pub. L. 104–332, § 2(e)(5)(B)][/us/pl/104/332/s2/e/5/B]–(F), designated existing provisions as subsec. (a) and inserted subsec. heading, redesignated former subsec. (a) as par. (1), and former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), in par. (1) inserted “region” before “representatives” in introductory provisions and after “Great Lakes” in subpars. (A), (C), (D), and (F), redesignated subsecs. (b) and (c) as pars. (2) and (3), respectively, of subsec. (a), substituted “this subsection” for “this section” in those pars., and added subsecs. (b) and (c).
+    [Pub. L. 104–332][/us/pl/104/332], § 2(e)(5)(B)–(F), designated existing provisions as subsec. (a) and inserted subsec. heading, redesignated former subsec. (a) as par. (1), and former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), in par. (1) inserted “region” before “representatives” in introductory provisions and after “Great Lakes” in subpars. (A), (C), (D), and (F), redesignated subsecs. (b) and (c) as pars. (2) and (3), respectively, of subsec. (a), substituted “this subsection” for “this section” in those pars., and added subsecs. (b) and (c).
 
 ----------
 
@@ -91,18 +91,18 @@
 [/us/pl/90/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F419
 [/us/usc/t16/s4722/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4722%2Fi
 [/us/usc/t16/s4722/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4722%2Fi
-[/us/pl/101/646/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs1203
+[/us/pl/101/646/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2FtI
 [/us/stat/104/4769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4769
-[/us/pl/104/332/s2/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fe%2F5
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
 [/us/stat/110/4087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4087
 [/us/pl/90/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F419
 [/us/stat/82/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F414
 [/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
 [/us/stat/104/4761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4761
 [/us/usc/t16/s4701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4701
-[/us/pl/104/332/s2/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fh%2F1
-[/us/pl/101/646/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs1203
-[/us/pl/104/332/s2/e/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fe%2F5%2FA
-[/us/pl/104/332/s2/e/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fe%2F5%2FB
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
 
 

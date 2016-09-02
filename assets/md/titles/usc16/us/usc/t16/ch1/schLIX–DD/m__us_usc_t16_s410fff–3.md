@@ -61,7 +61,7 @@
 
             On the date that the Secretary acquires fee ownership of any privately owned land added to the Park under this subchapter, the authority under paragraph (1) shall terminate with respect to the privately owned land acquired.
 
-([Pub. L. 106–76, § 5][/us/pl/106/76/s5], Oct. 21, 1999, [113 Stat. 1128][/us/stat/113/1128]; [Pub. L. 108–128, § 2(c)][/us/pl/108/128/s2/c], Nov. 17, 2003, [117 Stat. 1355][/us/stat/117/1355].)
+([Pub. L. 106–76][/us/pl/106/76], § 5, Oct. 21, 1999, [113 Stat. 1128][/us/stat/113/1128]; [Pub. L. 108–128][/us/pl/108/128], § 2(c), Nov. 17, 2003, [117 Stat. 1355][/us/stat/117/1355].)
 
  __Amendments__ 
 
@@ -75,9 +75,9 @@
 ----------
 
 [/us/usc/t16/s410fff–2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410fff%E2%80%932%2Fa%2F2
-[/us/pl/106/76/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F76%2Fs5
+[/us/pl/106/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F76
 [/us/stat/113/1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1128
-[/us/pl/108/128/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F128%2Fs2%2Fc
+[/us/pl/108/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F128
 [/us/stat/117/1355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1355
 [/us/pl/108/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F128
 [/us/usc/t16/s410fff–2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410fff%E2%80%932%2Fa%2F2

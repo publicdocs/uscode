@@ -37,15 +37,15 @@
 
         Lands and interests in lands outside of the boundary so depicted as “Park Boundary” on the maps referred to in subsections (a) and (b) are hereby excluded from the park and shall be disposed of in accordance with the provisions of [section 430g–5(c) of this title][/us/usc/t16/s430g–5/c].
 
-([Pub. L. 101–377, § 1][/us/pl/101/377/s1], Aug. 17, 1990, [104 Stat. 464][/us/stat/104/464]; [Pub. L. 106–290, § 1][/us/pl/106/290/s1], Oct. 10, 2000, [114 Stat. 921][/us/stat/114/921]; [Pub. L. 113–291, div. B, title XXX, § 3034(a)][/us/pl/113/291/s3034/a], Dec. 19, 2014, [128 Stat. 3777][/us/stat/128/3777].)
+([Pub. L. 101–377][/us/pl/101/377], § 1, Aug. 17, 1990, [104 Stat. 464][/us/stat/104/464]; [Pub. L. 106–290][/us/pl/106/290], § 1, Oct. 10, 2000, [114 Stat. 921][/us/stat/114/921]; [Pub. L. 113–291, div. B, title XXX][/us/pl/113/291/dB/tXXX], § 3034(a), Dec. 19, 2014, [128 Stat. 3777][/us/stat/128/3777].)
 
  __Amendments__ 
 
     2014—Subsec. (b). [Pub. L. 113–291][/us/pl/113/291] substituted “include—” for “include”, designated remainder of existing provisions as par. (1), substituted “; and” for period at end, and added par. (2).
 
-    2000—Subsec. (b). [Pub. L. 106–290, § 1(2)][/us/pl/106/290/s1/2], added subsec. (b). Former subsec. (b) redesignated (c).
+    2000—Subsec. (b). [Pub. L. 106–290][/us/pl/106/290], § 1(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-    Subsec. (c). [Pub. L. 106–290, § 1(1)][/us/pl/106/290/s1/1], (3), redesignated subsec. (b) as (c) and substituted “maps referred to in subsections (a) and (b)” for “map referred to in subsection (a)”.
+    Subsec. (c). [Pub. L. 106–290][/us/pl/106/290], § 1(1), (3), redesignated subsec. (b) as (c) and substituted “maps referred to in subsections (a) and (b)” for “map referred to in subsection (a)”.
 
 ----------
 
@@ -56,14 +56,14 @@
 
 [/us/usc/t16/s430g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs430g
 [/us/usc/t16/s430g–5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs430g%E2%80%935%2Fc
-[/us/pl/101/377/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F377%2Fs1
+[/us/pl/101/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F377
 [/us/stat/104/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F464
-[/us/pl/106/290/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F290%2Fs1
+[/us/pl/106/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F290
 [/us/stat/114/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F921
-[/us/pl/113/291/s3034/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3034%2Fa
+[/us/pl/113/291/dB/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXX
 [/us/stat/128/3777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3777
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
-[/us/pl/106/290/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F290%2Fs1%2F2
-[/us/pl/106/290/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F290%2Fs1%2F1
+[/us/pl/106/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F290
+[/us/pl/106/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F290
 
 

@@ -17,7 +17,7 @@
 
     The Secretary is authorized to make loans or advancements (a) to local organizations to finance the local share of costs of carrying out works of improvement provided for in this chapter, and (b) to State and local agencies to finance the local share of costs of carrying out works of improvement (as defined in [section 1002 of this title][/us/usc/t16/s1002]) in connection with the eleven watershed improvement programs authorized by [section 13 of the Act of December 22, 1944][/us/act/1944-12-22/s13] ([58 Stat. 887][/us/stat/58/887]), as amended and supplemented: Provided, That the works of improvement in connection with said eleven watershed improvement programs shall be integral parts of watershed or subwatershed work plans agreed upon by the Secretary of Agriculture and the concerned State and local agencies. A loan or advance under this section shall be made under a contract or agreement that provides, under such terms and conditions as the Secretary considers appropriate, for the repayment of the loan or advance in not more than 50 years from the date when the principal benefits of the works of improvement first become available, with interest at a rate not to exceed the current market yield for outstanding municipal obligations with remaining periods to maturity comparable to the average maturity for the loan, adjusted to the nearest ⅛ of 1 percent. With respect to any single plan for works of improvement, the amount of any such loan or advancement shall not exceed $10,000,000.
 
-([Aug. 4, 1954, ch. 656, § 8][/us/act/1954-08-04/ch656/s8], as added [Aug. 7, 1956, ch. 1027, § 1(g)][/us/act/1956-08-07/ch1027/s1/g], [70 Stat. 1090][/us/stat/70/1090]; amended [Pub. L. 86–468, § 1][/us/pl/86/468/s1], May 13, 1960, [74 Stat. 131][/us/stat/74/131]; [Pub. L. 95–113, title XV, § 1508][/us/pl/95/113/s1508], Sept. 29, 1977, [91 Stat. 1022][/us/stat/91/1022]; [Pub. L. 104–127, title VII, § 791(b)][/us/pl/104/127/s791/b], Apr. 4, 1996, [110 Stat. 1151][/us/stat/110/1151].)
+([Aug. 4, 1954, ch. 656][/us/act/1954-08-04/ch656], § 8, as added [Aug. 7, 1956, ch. 1027][/us/act/1956-08-07/ch1027], § 1(g), [70 Stat. 1090][/us/stat/70/1090]; amended [Pub. L. 86–468][/us/pl/86/468], § 1, May 13, 1960, [74 Stat. 131][/us/stat/74/131]; [Pub. L. 95–113, title XV][/us/pl/95/113/tXV], § 1508, Sept. 29, 1977, [91 Stat. 1022][/us/stat/91/1022]; [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 791(b), Apr. 4, 1996, [110 Stat. 1151][/us/stat/110/1151].)
 
  __References in Text__ 
 
@@ -53,14 +53,14 @@
 [/us/usc/t16/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1002
 [/us/act/1944-12-22/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-12-22%2Fs13
 [/us/stat/58/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F887
-[/us/act/1954-08-04/ch656/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-04%2Fch656%2Fs8
-[/us/act/1956-08-07/ch1027/s1/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1027%2Fs1%2Fg
+[/us/act/1954-08-04/ch656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-04%2Fch656
+[/us/act/1956-08-07/ch1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1027
 [/us/stat/70/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1090
-[/us/pl/86/468/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F468%2Fs1
+[/us/pl/86/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F468
 [/us/stat/74/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F131
-[/us/pl/95/113/s1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1508
+[/us/pl/95/113/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXV
 [/us/stat/91/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1022
-[/us/pl/104/127/s791/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs791%2Fb
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1151
 [/us/act/1944-12-22/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-12-22%2Fs13
 [/us/stat/58/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F887

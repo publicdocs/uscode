@@ -25,7 +25,7 @@
 
  __Enhancing Forest Service Administration of Rights-of-Way and Land Uses__ 
 
-    [Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title III, § 331\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–196, as amended, formerly set out as a note under this section, was transferred to [section 497e of this title][/us/usc/t16/s497e].
+    [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(3) \[title III, § 331\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–196, as amended, formerly set out as a note under this section, was transferred to [section 497e of this title][/us/usc/t16/s497e].
 
 ----------
 
@@ -38,7 +38,7 @@
 [/us/stat/38/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F1101
 [/us/act/1956-07-28/ch771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-28%2Fch771
 [/us/stat/70/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F708
-[/us/pl/106/113/s1000/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F3
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
 [/us/usc/t16/s497e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs497e
 

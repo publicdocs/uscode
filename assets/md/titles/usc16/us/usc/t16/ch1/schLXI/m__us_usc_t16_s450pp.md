@@ -17,7 +17,7 @@
 
     The Secretary of the Interior may acquire by gift, purchase with appropriated or donated funds, transfer from any Federal agency, exchange, or otherwise, not to exceed five acres of land (together with any buildings or other improvements thereon) and interests in land at the site of the old town spring, traditionally called Roger Williams Spring, in Providence, Rhode Island, for the purpose of establishing thereon a national memorial to Roger Williams in commemoration of his outstanding contributions to the development of the principles of freedom in this country: Provided, That property owned by the city of Providence or the Providence Redevelopment Agency may be acquired only with the consent of such owner.
 
-([Pub. L. 89–293, § 1][/us/pl/89/293/s1], Oct. 22, 1965, [79 Stat. 1069][/us/stat/79/1069].)
+([Pub. L. 89–293][/us/pl/89/293], § 1, Oct. 22, 1965, [79 Stat. 1069][/us/stat/79/1069].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/293/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F293%2Fs1
+[/us/pl/89/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F293
 [/us/stat/79/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1069
 
 

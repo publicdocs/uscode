@@ -17,7 +17,7 @@
 
     The Secretary of the Interior, after consulting with the Secretary of Agriculture, shall establish, construct, equip, operate, and maintain a trout hatchery at an appropriate location on the Davidson River in the Pisgah National Forest, North Carolina.
 
-([June 18, 1956, ch. 404, § 1][/us/act/1956-06-18/ch404/s1], [70 Stat. 292][/us/stat/70/292].)
+([June 18, 1956, ch. 404][/us/act/1956-06-18/ch404], § 1, [70 Stat. 292][/us/stat/70/292].)
 
  __Appropriations__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1956-06-18/ch404/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-18%2Fch404%2Fs1
+[/us/act/1956-06-18/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-18%2Fch404
 [/us/stat/70/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F292
 
 

@@ -57,7 +57,7 @@
 
             (C) If, within sixty days after such referral, the Attorney General fails to institute such appropriate action, the council to whose programs the assessment, order or regulation relates may institute an action in its own name.
 
-([Pub. L. 99–659, title II, § 217][/us/pl/99/659/s217], Nov. 14, 1986, [100 Stat. 3730][/us/stat/100/3730].)
+([Pub. L. 99–659, title II][/us/pl/99/659/tII], § 217, Nov. 14, 1986, [100 Stat. 3730][/us/stat/100/3730].)
 
 ----------
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/pl/99/659/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs217
+[/us/pl/99/659/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtII
 [/us/stat/100/3730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3730
 
 

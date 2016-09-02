@@ -81,7 +81,7 @@
 
         (3) who shall be compensated with the funds available under [section 4407(a)(1) of this title][/us/usc/t16/s4407/a/1] for administering this chapter.
 
-([Pub. L. 101–233, § 4][/us/pl/101/233/s4], Dec. 13, 1989, [103 Stat. 1970][/us/stat/103/1970]; [Pub. L. 101–593, title I, § 112(1)][/us/pl/101/593/s112/1]–(3), Nov. 16, 1990, [104 Stat. 2962][/us/stat/104/2962]; [Pub. L. 107–308, § 8(a)(6)][/us/pl/107/308/s8/a/6], (7), (b)(1), Dec. 2, 2002, [116 Stat. 2447][/us/stat/116/2447], 2448.)
+([Pub. L. 101–233][/us/pl/101/233], § 4, Dec. 13, 1989, [103 Stat. 1970][/us/stat/103/1970]; [Pub. L. 101–593, title I][/us/pl/101/593/tI], § 112(1)–(3), Nov. 16, 1990, [104 Stat. 2962][/us/stat/104/2962]; [Pub. L. 107–308][/us/pl/107/308], § 8(a)(6), (7), (b)(1), Dec. 2, 2002, [116 Stat. 2447][/us/stat/116/2447], 2448.)
 
  __References in Text__ 
 
@@ -91,27 +91,27 @@
 
  __Amendments__ 
 
-    2002—Subsec. (a)(1)(A). [Pub. L. 107–308, § 8(b)(1)][/us/pl/107/308/s8/b/1], amended directory language of [Pub. L. 101–593, § 112(1)][/us/pl/101/593/s112/1]. See 1990 Amendment note below.
+    2002—Subsec. (a)(1)(A). [Pub. L. 107–308][/us/pl/107/308], § 8(b)(1), amended directory language of [Pub. L. 101–593][/us/pl/101/593], § 112(1). See 1990 Amendment note below.
 
-    Subsec. (a)(1)(B). [Pub. L. 107–308, § 8(a)(6)][/us/pl/107/308/s8/a/6], substituted “section 3702(g)(2)(B)” for “section 3702(2)(B)”.
+    Subsec. (a)(1)(B). [Pub. L. 107–308][/us/pl/107/308], § 8(a)(6), substituted “section 3702(g)(2)(B)” for “section 3702(2)(B)”.
 
-    Subsec. (c). [Pub. L. 107–308, § 8(a)(7)][/us/pl/107/308/s8/a/7], substituted “Council” for “Commission” in introductory provisions.
+    Subsec. (c). [Pub. L. 107–308][/us/pl/107/308], § 8(a)(7), substituted “Council” for “Commission” in introductory provisions.
 
-    1990—Subsec. (a)(1). [Pub. L. 101–593, § 112(2)][/us/pl/101/593/s112/2], inserted sentence at end relating to [Public Law 92–463][/us/pl/92/463].
+    1990—Subsec. (a)(1). [Pub. L. 101–593][/us/pl/101/593], § 112(2), inserted sentence at end relating to [Public Law 92–463][/us/pl/92/463].
 
-    Subsec. (a)(1)(A). [Pub. L. 101–593, § 112(1)][/us/pl/101/593/s112/1], as amended by [Pub. L. 107–308, § 8(b)(1)][/us/pl/107/308/s8/b/1], inserted “, who shall be the responsible Federal official for ensuring Council compliance with the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.)” after “Service”.
+    Subsec. (a)(1)(A). [Pub. L. 101–593][/us/pl/101/593], § 112(1), as amended by [Pub. L. 107–308][/us/pl/107/308], § 8(b)(1), inserted “, who shall be the responsible Federal official for ensuring Council compliance with the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.)” after “Service”.
 
-    Subsec. (f). [Pub. L. 101–593, § 112(3)][/us/pl/101/593/s112/3], inserted “, and the Chairman shall take appropriate steps to provide adequate notice to the public of the time and place of such meetings” after “open to the public”.
+    Subsec. (f). [Pub. L. 101–593][/us/pl/101/593], § 112(3), inserted “, and the Chairman shall take appropriate steps to provide adequate notice to the public of the time and place of such meetings” after “open to the public”.
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–308, § 8(b)(2)][/us/pl/107/308/s8/b/2], Dec. 2, 2002, [116 Stat. 2448][/us/stat/116/2448], provided that: 
+[Pub. L. 107–308][/us/pl/107/308], § 8(b)(2), Dec. 2, 2002, [116 Stat. 2448][/us/stat/116/2448], provided that: 
 
 > “Paragraph (1) of this subsection \[amending this section\] shall be effective on and after the effective date of [section 112(1) of Public Law 101–593][/us/pl/101/593/s112/1] ([104 Stat. 2962][/us/stat/104/2962]) \[Nov. 16, 1990\].”
 
  __Membership of North American Wetlands Conservation Council__ 
 
-[Pub. L. 105–312, title III, § 304][/us/pl/105/312/s304], Oct. 30, 1998, [112 Stat. 2958][/us/stat/112/2958], provided that:
+[Pub. L. 105–312, title III][/us/pl/105/312/tIII], § 304, Oct. 30, 1998, [112 Stat. 2958][/us/stat/112/2958], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -136,11 +136,11 @@
 [/us/usc/t16/s3702/g/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3702%2Fg%2F2%2FB
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/usc/t16/s4407/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4407%2Fa%2F1
-[/us/pl/101/233/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F233%2Fs4
+[/us/pl/101/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F233
 [/us/stat/103/1970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1970
-[/us/pl/101/593/s112/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2Fs112%2F1
+[/us/pl/101/593/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2FtI
 [/us/stat/104/2962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2962
-[/us/pl/107/308/s8/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308%2Fs8%2Fa%2F6
+[/us/pl/107/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308
 [/us/stat/116/2447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2447
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
@@ -148,21 +148,21 @@
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/107/308/s8/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308%2Fs8%2Fb%2F1
-[/us/pl/101/593/s112/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2Fs112%2F1
-[/us/pl/107/308/s8/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308%2Fs8%2Fa%2F6
-[/us/pl/107/308/s8/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308%2Fs8%2Fa%2F7
-[/us/pl/101/593/s112/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2Fs112%2F2
+[/us/pl/107/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308
+[/us/pl/101/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593
+[/us/pl/107/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308
+[/us/pl/107/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308
+[/us/pl/101/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
-[/us/pl/101/593/s112/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2Fs112%2F1
-[/us/pl/107/308/s8/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308%2Fs8%2Fb%2F1
+[/us/pl/101/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593
+[/us/pl/107/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/101/593/s112/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2Fs112%2F3
-[/us/pl/107/308/s8/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308%2Fs8%2Fb%2F2
+[/us/pl/101/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593
+[/us/pl/107/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308
 [/us/stat/116/2448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2448
 [/us/pl/101/593/s112/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2Fs112%2F1
 [/us/stat/104/2962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2962
-[/us/pl/105/312/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312%2Fs304
+[/us/pl/105/312/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312%2FtIII
 [/us/stat/112/2958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2958
 [/us/usc/t16/s4403/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4403%2Fa%2F1%2FD
 [/us/usc/t16/s4403/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4403%2Fa%2F1%2FD

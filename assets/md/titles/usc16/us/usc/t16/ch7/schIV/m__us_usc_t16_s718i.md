@@ -21,13 +21,13 @@
 
     (2) second, to the extent any funds remain, to the Migratory Bird Conservation Fund.
 
-([Mar. 16, 1934, ch. 71, § 9][/us/act/1934-03-16/ch71/s9], as added [Pub. L. 109–266, § 10(h)][/us/pl/109/266/s10/h], Aug. 3, 2006, [120 Stat. 678][/us/stat/120/678].)
+([Mar. 16, 1934, ch. 71][/us/act/1934-03-16/ch71], § 9, as added [Pub. L. 109–266][/us/pl/109/266], § 10(h), Aug. 3, 2006, [120 Stat. 678][/us/stat/120/678].)
 
  __Prior Provisions__ 
 
-    A prior section 9 of act Mar. 16, 1934, was classified to [section 718 of this title][/us/usc/t16/s718] prior to repeal by [Pub. L. 109–266, § 10(h)][/us/pl/109/266/s10/h], Aug. 3, 2006, [120 Stat. 677][/us/stat/120/677].
+    A prior section 9 of act Mar. 16, 1934, was classified to [section 718 of this title][/us/usc/t16/s718] prior to repeal by [Pub. L. 109–266][/us/pl/109/266], § 10(h), Aug. 3, 2006, [120 Stat. 677][/us/stat/120/677].
 
-    A prior section 718i, [act June 28, 1941, ch. 259, § 1][/us/act/1941-06-28/ch259/s1], [55 Stat. 356][/us/stat/55/356], related to disposal of surplus stamps and restricted use of stamps to the fiscal year for which issued prior to repeal by [act July 30, 1956, ch. 782, § 3(d)][/us/act/1956-07-30/ch782/s3/d], formerly § 3(c), [70 Stat. 722][/us/stat/70/722], renumbered [Pub. L. 109–266, § 10(i)(1)][/us/pl/109/266/s10/i/1], Aug. 3, 2006, [120 Stat. 679][/us/stat/120/679].
+    A prior section 718i, [act June 28, 1941, ch. 259][/us/act/1941-06-28/ch259], § 1, [55 Stat. 356][/us/stat/55/356], related to disposal of surplus stamps and restricted use of stamps to the fiscal year for which issued prior to repeal by [act July 30, 1956, ch. 782][/us/act/1956-07-30/ch782], § 3(d), formerly § 3(c), [70 Stat. 722][/us/stat/70/722], renumbered [Pub. L. 109–266][/us/pl/109/266], § 10(i)(1), Aug. 3, 2006, [120 Stat. 679][/us/stat/120/679].
 
 ----------
 
@@ -36,17 +36,17 @@
 ----------
 ----------
 
-[/us/act/1934-03-16/ch71/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-16%2Fch71%2Fs9
-[/us/pl/109/266/s10/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266%2Fs10%2Fh
+[/us/act/1934-03-16/ch71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-16%2Fch71
+[/us/pl/109/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266
 [/us/stat/120/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F678
 [/us/usc/t16/s718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs718
-[/us/pl/109/266/s10/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266%2Fs10%2Fh
+[/us/pl/109/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266
 [/us/stat/120/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F677
-[/us/act/1941-06-28/ch259/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-06-28%2Fch259%2Fs1
+[/us/act/1941-06-28/ch259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-06-28%2Fch259
 [/us/stat/55/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F356
-[/us/act/1956-07-30/ch782/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-30%2Fch782%2Fs3%2Fd
+[/us/act/1956-07-30/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-30%2Fch782
 [/us/stat/70/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F722
-[/us/pl/109/266/s10/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266%2Fs10%2Fi%2F1
+[/us/pl/109/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266
 [/us/stat/120/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F679
 
 

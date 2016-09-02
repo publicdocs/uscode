@@ -87,13 +87,13 @@
 
         There are hereby authorized to be appropriated such sums as may be necessary to implement the provisions of this subchapter.
 
-([Pub. L. 101–628, title II, § 201][/us/pl/101/628/s201], Nov. 28, 1990, [104 Stat. 4475][/us/stat/104/4475]; [Pub. L. 103–437, § 6(d)(24)][/us/pl/103/437/s6/d/24], Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
+([Pub. L. 101–628, title II][/us/pl/101/628/tII], § 201, Nov. 28, 1990, [104 Stat. 4475][/us/stat/104/4475]; [Pub. L. 103–437][/us/pl/103/437], § 6(d)(24), Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
 
  __References in Text__ 
 
     The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(1), is [Pub. L. 94–579][/us/pl/94/579], Oct. 21, 1976, [90 Stat. 2743][/us/stat/90/2743], as amended, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43][/us/usc/t43/s1701] and Tables.
 
-    The Sentencing Reform Act of 1984, referred to in subsec. (l), is chapter II (§§ 211–239) of [Pub. L. 98–473, title II][/us/pl/98/473], Oct. 12, 1984, [98 Stat. 1987][/us/stat/98/1987], as amended. For complete classification of chapter II to the Code, see Short Title note set out under [section 3551 of Title 18][/us/usc/t18/s3551], Crimes and Criminal Procedure, and Tables.
+    The Sentencing Reform Act of 1984, referred to in subsec. (l), is chapter II (§§ 211–239) of [Pub. L. 98–473, title II][/us/pl/98/473/tII], Oct. 12, 1984, [98 Stat. 1987][/us/stat/98/1987], as amended. For complete classification of chapter II to the Code, see Short Title note set out under [section 3551 of Title 18][/us/usc/t18/s3551], Crimes and Criminal Procedure, and Tables.
 
  __Amendments__ 
 
@@ -101,7 +101,7 @@
 
  __Short Title__ 
 
-[Pub. L. 101–628, § 1][/us/pl/101/628/s1], Nov. 28, 1990, [104 Stat. 4469][/us/stat/104/4469], provided that: 
+[Pub. L. 101–628][/us/pl/101/628], § 1, Nov. 28, 1990, [104 Stat. 4469][/us/stat/104/4469], provided that: 
 
 > “Titles I through III of this Act \[enacting this subchapter and provisions listed in a table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132]\] may be cited as the ‘Arizona Desert Wilderness Act of 1990’.”
 
@@ -121,18 +121,18 @@
 [/us/usc/t43/s1524/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1524%2Ff
 [/us/usc/t43/s1737/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1737%2Fb
 [/us/usc/t43/s1737/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1737%2Fa
-[/us/pl/101/628/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628%2Fs201
+[/us/pl/101/628/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628%2FtII
 [/us/stat/104/4475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4475
-[/us/pl/103/437/s6/d/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fd%2F24
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4584
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
 [/us/stat/90/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2743
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
-[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1987
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
-[/us/pl/101/628/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628%2Fs1
+[/us/pl/101/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628
 [/us/stat/104/4469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4469
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14

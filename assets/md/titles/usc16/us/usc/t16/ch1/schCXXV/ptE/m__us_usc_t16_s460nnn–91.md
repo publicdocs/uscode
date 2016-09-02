@@ -27,7 +27,7 @@
 
         In addition to the authorization of appropriations in [section 460nnn–121 of this title][/us/usc/t16/s460nnn–121], there is authorized to be appropriated $5,000,000 to carry out this part and [section 460nnn–23(c) of this title][/us/usc/t16/s460nnn–23/c] regarding juniper management in the Cooperative Management and Protection Area.
 
-([Pub. L. 106–399, title V, § 501][/us/pl/106/399/s501], Oct. 30, 2000, [114 Stat. 1670][/us/stat/114/1670].)
+([Pub. L. 106–399, title V][/us/pl/106/399/tV], § 501, Oct. 30, 2000, [114 Stat. 1670][/us/stat/114/1670].)
 
 ----------
 
@@ -40,7 +40,7 @@
 [/us/usc/t16/s460nnn–11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460nnn%E2%80%9311%2Fa
 [/us/usc/t16/s460nnn–121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460nnn%E2%80%93121
 [/us/usc/t16/s460nnn–23/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460nnn%E2%80%9323%2Fc
-[/us/pl/106/399/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2Fs501
+[/us/pl/106/399/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2FtV
 [/us/stat/114/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1670
 
 

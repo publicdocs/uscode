@@ -27,7 +27,7 @@
 
         The Commandant of the Coast Guard shall prepare and make available to the Under Secretary of Commerce for Oceans and Atmosphere, State and local enforcement entities, and other relevant stakeholders, an annual summary report of fisheries enforcement activities for the preceding year, including a summary of the number of patrols, law enforcement actions taken, and resource hours expended.
 
-([Pub. L. 108–293, title II, § 224][/us/pl/108/293/s224], Aug. 9, 2004, [118 Stat. 1040][/us/stat/118/1040].)
+([Pub. L. 108–293, title II][/us/pl/108/293/tII], § 224, Aug. 9, 2004, [118 Stat. 1040][/us/stat/118/1040].)
 
  __Codification__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/108/293/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs224
+[/us/pl/108/293/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2FtII
 [/us/stat/118/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1040
 [/us/pl/111/207/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F207%2Fs4%2Fb
 [/us/usc/t16/s1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1828

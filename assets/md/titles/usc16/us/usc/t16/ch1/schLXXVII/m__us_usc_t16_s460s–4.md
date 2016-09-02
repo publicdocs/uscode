@@ -17,7 +17,7 @@
 
     In administering the lakeshore the Secretary shall permit hunting and fishing on lands and waters under his jurisdiction in accordance with the applicable laws of the United States and of Michigan. The Secretary, after consultation with the Michigan Department of Conservation, may designate zones and establish periods where and when no hunting shall be permitted for reasons of public safety, administration, or public use and enjoyment. The Secretary shall, after consultation with such department, issue regulations, consistent with this section, as he may determine necessary to carry out the purposes of this section.
 
-([Pub. L. 89–668, § 5][/us/pl/89/668/s5], Oct. 15, 1966, [80 Stat. 923][/us/stat/80/923].)
+([Pub. L. 89–668][/us/pl/89/668], § 5, Oct. 15, 1966, [80 Stat. 923][/us/stat/80/923].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/668/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F668%2Fs5
+[/us/pl/89/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F668
 [/us/stat/80/923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F923
 
 

@@ -23,13 +23,13 @@
 
     (b) Any person who knowingly violates any provision of this subchapter or of any permit or regulation issued thereunder (except as provided in [section 1387 of this title][/us/usc/t16/s1387]) shall, upon conviction, be fined not more than $20,000 for each such violation, or imprisoned for not more than one year, or both.
 
-([Pub. L. 92–522, title I, § 105][/us/pl/92/522/s105], Oct. 21, 1972, [86 Stat. 1036][/us/stat/86/1036]; [Pub. L. 97–58, § 3(b)][/us/pl/97/58/s3/b], Oct. 9, 1981, [95 Stat. 982][/us/stat/95/982]; [Pub. L. 103–238, § 13(a)][/us/pl/103/238/s13/a], (b), Apr. 30, 1994, [108 Stat. 558][/us/stat/108/558].)
+([Pub. L. 92–522, title I][/us/pl/92/522/tI], § 105, Oct. 21, 1972, [86 Stat. 1036][/us/stat/86/1036]; [Pub. L. 97–58][/us/pl/97/58], § 3(b), Oct. 9, 1981, [95 Stat. 982][/us/stat/95/982]; [Pub. L. 103–238][/us/pl/103/238], § 13(a), (b), Apr. 30, 1994, [108 Stat. 558][/us/stat/108/558].)
 
  __Amendments__ 
 
-    1994—Subsec. (a)(1). [Pub. L. 103–238, § 13(a)][/us/pl/103/238/s13/a], inserted “, except as provided in [section 1387 of this title][/us/usc/t16/s1387],” after “thereunder”.
+    1994—Subsec. (a)(1). [Pub. L. 103–238][/us/pl/103/238], § 13(a), inserted “, except as provided in [section 1387 of this title][/us/usc/t16/s1387],” after “thereunder”.
 
-    Subsec. (b). [Pub. L. 103–238, § 13(b)][/us/pl/103/238/s13/b], inserted “(except as provided in [section 1387 of this title][/us/usc/t16/s1387])” after “thereunder”.
+    Subsec. (b). [Pub. L. 103–238][/us/pl/103/238], § 13(b), inserted “(except as provided in [section 1387 of this title][/us/usc/t16/s1387])” after “thereunder”.
 
     1981—Subsec. (a). [Pub. L. 97–58][/us/pl/97/58] designated existing provisions as par. (1) and added par. (2).
 
@@ -42,15 +42,15 @@
 
 [/us/usc/t16/s1387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1387
 [/us/usc/t16/s1387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1387
-[/us/pl/92/522/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs105
+[/us/pl/92/522/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtI
 [/us/stat/86/1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1036
-[/us/pl/97/58/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58%2Fs3%2Fb
+[/us/pl/97/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58
 [/us/stat/95/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F982
-[/us/pl/103/238/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs13%2Fa
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
 [/us/stat/108/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F558
-[/us/pl/103/238/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs13%2Fa
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
 [/us/usc/t16/s1387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1387
-[/us/pl/103/238/s13/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs13%2Fb
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
 [/us/usc/t16/s1387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1387
 [/us/pl/97/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58
 

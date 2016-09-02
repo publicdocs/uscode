@@ -43,7 +43,7 @@
 
         (4) Plans  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should not be capitalized. </sup></sup>  for the interpretation of the historic vessels and park collections.
 
-([Pub. L. 100–348, § 3][/us/pl/100/348/s3], June 27, 1988, [102 Stat. 655][/us/stat/102/655].)
+([Pub. L. 100–348][/us/pl/100/348], § 3, June 27, 1988, [102 Stat. 655][/us/stat/102/655].)
 
  __References in Text__ 
 
@@ -72,7 +72,7 @@
 [/us/usc/t16/s461–467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461%E2%80%93467
 [/us/usc/t16/s460bb–3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460bb%E2%80%933%2Ff
 [/us/usc/t16/s460bb–3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460bb%E2%80%933%2Ff
-[/us/pl/100/348/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F348%2Fs3
+[/us/pl/100/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F348
 [/us/stat/102/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F655
 [/us/pl/100/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F348
 [/us/stat/102/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F654

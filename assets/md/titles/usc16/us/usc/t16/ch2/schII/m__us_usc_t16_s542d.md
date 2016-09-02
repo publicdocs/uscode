@@ -47,7 +47,7 @@
 
         (4) The landing of small instrumented research rockets shall be permitted to continue in portions of the research site designated for such purposes in the plan.
 
-([Pub. L. 96–550, title II, § 205][/us/pl/96/550/s205], Dec. 19, 1980, [94 Stat. 3225][/us/stat/94/3225]; [Pub. L. 103–437, § 6(d)(32)][/us/pl/103/437/s6/d/32], Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
+([Pub. L. 96–550, title II][/us/pl/96/550/tII], § 205, Dec. 19, 1980, [94 Stat. 3225][/us/stat/94/3225]; [Pub. L. 103–437][/us/pl/103/437], § 6(d)(32), Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
 
  __References in Text__ 
 
@@ -66,9 +66,9 @@
 
 [/us/pl/94/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588
 [/us/usc/t16/s1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1604
-[/us/pl/96/550/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F550%2Fs205
+[/us/pl/96/550/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F550%2FtII
 [/us/stat/94/3225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3225
-[/us/pl/103/437/s6/d/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fd%2F32
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4584
 [/us/pl/94/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588
 [/us/stat/90/2949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2949

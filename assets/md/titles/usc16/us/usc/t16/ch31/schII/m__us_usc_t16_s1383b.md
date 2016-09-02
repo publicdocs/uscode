@@ -61,7 +61,7 @@
 
         (4) If the Secretary determines that a take reduction plan is necessary to reduce the incidental taking of marine mammals in the course of commercial fishing operations from a strategic stock, or for species or stocks which interact with a commercial fishery for which the Secretary has made a determination under [section 1387(f)(1) of this title][/us/usc/t16/s1387/f/1], any conservation plan prepared under this subsection for such species or stock shall incorporate the take reduction plan required under [section 1387 of this title][/us/usc/t16/s1387] for such species or stock.
 
-([Pub. L. 92–522, title I, § 115][/us/pl/92/522/s115], as added [Pub. L. 100–711, § 3(a)][/us/pl/100/711/s3/a], Nov. 23, 1988, [102 Stat. 4763][/us/stat/102/4763]; amended [Pub. L. 103–238, § 8][/us/pl/103/238/s8], Apr. 30, 1994, [108 Stat. 543][/us/stat/108/543].)
+([Pub. L. 92–522, title I][/us/pl/92/522/tI], § 115, as added [Pub. L. 100–711][/us/pl/100/711], § 3(a), Nov. 23, 1988, [102 Stat. 4763][/us/stat/102/4763]; amended [Pub. L. 103–238][/us/pl/103/238], § 8, Apr. 30, 1994, [108 Stat. 543][/us/stat/108/543].)
 
  __Amendments__ 
 
@@ -79,10 +79,10 @@
 [/us/usc/t16/s1373/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1373%2Ff
 [/us/usc/t16/s1387/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1387%2Ff%2F1
 [/us/usc/t16/s1387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1387
-[/us/pl/92/522/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs115
-[/us/pl/100/711/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711%2Fs3%2Fa
+[/us/pl/92/522/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtI
+[/us/pl/100/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711
 [/us/stat/102/4763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4763
-[/us/pl/103/238/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs8
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
 [/us/stat/108/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F543
 [/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
 

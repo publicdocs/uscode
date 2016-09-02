@@ -23,7 +23,7 @@
 
         The wilderness designated by this subchapter shall be administered by the Secretary in accordance with the provisions of this subchapter or in accordance with the provisions of the Wilderness Act \[[16 U.S.C. 1131][/us/usc/t16/s1131] et seq.\], whichever is the more restrictive, except that any reference in such provisions of the Wilderness Act to the effective date of that Act shall be deemed to be a reference to the effective date of this subchapter. The provisions of section 460gg–6(b) and [section 460gg–8 of this title][/us/usc/t16/s460gg–8] shall apply to the wilderness. The Secretary shall make such boundary revisions to the wilderness as may be necessary due to the exercise of his authority under subsection 3(b) of this Act.
 
-([Pub. L. 94–199, § 2][/us/pl/94/199/s2], Dec. 31, 1975, [89 Stat. 1117][/us/stat/89/1117].)
+([Pub. L. 94–199][/us/pl/94/199], § 2, Dec. 31, 1975, [89 Stat. 1117][/us/stat/89/1117].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 [/us/usc/t16/s460gg/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460gg%2Fb
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
 [/us/usc/t16/s460gg–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460gg%E2%80%938
-[/us/pl/94/199/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F199%2Fs2
+[/us/pl/94/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F199
 [/us/stat/89/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1117
 [/us/pl/94/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F199
 [/us/stat/89/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1117

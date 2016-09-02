@@ -17,7 +17,7 @@
 
     The Secretary, in cooperation with the State and other appropriate Federal agencies, shall undertake research on fish and wildlife and subsistence uses on the public lands; seek data from, consult with and make use of, the special knowledge of local residents engaged in subsistence uses; and make the results of such research available to the State, the local and regional councils established by the Secretary or State pursuant to [section 3115 of this title][/us/usc/t16/s3115], and other appropriate persons and organizations.
 
-([Pub. L. 96–487, title VIII, § 812][/us/pl/96/487/s812], Dec. 2, 1980, [94 Stat. 2428][/us/stat/94/2428].)
+([Pub. L. 96–487, title VIII][/us/pl/96/487/tVIII], § 812, Dec. 2, 1980, [94 Stat. 2428][/us/stat/94/2428].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s3115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3115
-[/us/pl/96/487/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs812
+[/us/pl/96/487/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtVIII
 [/us/stat/94/2428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2428
 
 

@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to cooperate in carrying out the provisions of this chapter by furnishing such information and assistance as may be requested by the Secretary of Agriculture.
 
-([Pub. L. 85–342, § 3][/us/pl/85/342/s3], Mar. 15, 1958, [72 Stat. 35][/us/stat/72/35]; [Pub. L. 104–127, title VIII, § 889(a)(3)][/us/pl/104/127/s889/a/3], Apr. 4, 1996, [110 Stat. 1180][/us/stat/110/1180].)
+([Pub. L. 85–342][/us/pl/85/342], § 3, Mar. 15, 1958, [72 Stat. 35][/us/stat/72/35]; [Pub. L. 104–127, title VIII][/us/pl/104/127/tVIII], § 889(a)(3), Apr. 4, 1996, [110 Stat. 1180][/us/stat/110/1180].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/85/342/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F342%2Fs3
+[/us/pl/85/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F342
 [/us/stat/72/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F35
-[/us/pl/104/127/s889/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs889%2Fa%2F3
+[/us/pl/104/127/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVIII
 [/us/stat/110/1180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1180
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 

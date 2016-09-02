@@ -45,7 +45,7 @@
 
         The term “Wilderness” means the Dominguez Canyon Wilderness Area designated by [section 460zzz–2(a) of this title][/us/usc/t16/s460zzz–2/a].
 
-([Pub. L. 111–11, title II, § 2401][/us/pl/111/11/s2401], Mar. 30, 2009, [123 Stat. 1102][/us/stat/123/1102].)
+([Pub. L. 111–11, title II][/us/pl/111/11/tII], § 2401, Mar. 30, 2009, [123 Stat. 1102][/us/stat/123/1102].)
 
 ----------
 
@@ -58,7 +58,7 @@
 [/us/usc/t16/s460zzz–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460zzz%E2%80%936
 [/us/usc/t16/s460zzz–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460zzz%E2%80%935
 [/us/usc/t16/s460zzz–2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460zzz%E2%80%932%2Fa
-[/us/pl/111/11/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs2401
+[/us/pl/111/11/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtII
 [/us/stat/123/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1102
 
 

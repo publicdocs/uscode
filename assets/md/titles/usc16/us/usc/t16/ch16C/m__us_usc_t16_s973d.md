@@ -19,7 +19,7 @@
 
     (b) The prohibitions of section 973c(a)(4), (a)(5), and (b)(3) of this title shall not apply to fishing under the terms and conditions of an arrangement which has been reached under paragraph 3 of Article 3 of the Treaty and which, pursuant to a decision by the Secretary of State under [section 973p of this title][/us/usc/t16/s973p], is covered by Article 4 and paragraph 6 of Article 5 of the Treaty.
 
-([Pub. L. 100–330, § 6][/us/pl/100/330/s6], June 7, 1988, [102 Stat. 594][/us/stat/102/594]; [Pub. L. 108–219, title IV, § 402][/us/pl/108/219/s402], Apr. 13, 2004, [118 Stat. 617][/us/stat/118/617].)
+([Pub. L. 100–330][/us/pl/100/330], § 6, June 7, 1988, [102 Stat. 594][/us/stat/102/594]; [Pub. L. 108–219, title IV][/us/pl/108/219/tIV], § 402, Apr. 13, 2004, [118 Stat. 617][/us/stat/118/617].)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 [/us/usc/t16/s973c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs973c
 [/us/usc/t16/s973g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs973g
 [/us/usc/t16/s973p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs973p
-[/us/pl/100/330/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F330%2Fs6
+[/us/pl/100/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F330
 [/us/stat/102/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F594
-[/us/pl/108/219/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F219%2Fs402
+[/us/pl/108/219/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F219%2FtIV
 [/us/stat/118/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F617
 [/us/pl/108/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F219
 

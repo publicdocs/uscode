@@ -17,7 +17,7 @@
 
     At the opening of each session of Congress, the Secretaries of Agriculture and Interior shall jointly report to the President for transmission to Congress on the status of the wilderness system, including a list and descriptions of the areas in the system, regulations in effect, and other pertinent information, together with any recommendations they may care to make.
 
-([Pub. L. 88–577, § 7][/us/pl/88/577/s7], Sept. 3, 1964, [78 Stat. 896][/us/stat/78/896].)
+([Pub. L. 88–577][/us/pl/88/577], § 7, Sept. 3, 1964, [78 Stat. 896][/us/stat/78/896].)
 
  __Termination of Reporting Requirements__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/88/577/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577%2Fs7
+[/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F896
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

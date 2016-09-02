@@ -17,11 +17,11 @@
 
     Where any Federal lands included within the park are legally occupied or utilized on December 18, 1971, for grazing purposes, pursuant to a lease, permit, or license for a fixed term of years issued or authorized by any department, establishment, or agency of the United States, the Secretary of the Interior shall permit the persons holding such grazing privileges or their heirs to continue in the exercise thereof during the term of the lease, permit, or license, and one period of renewal thereafter.
 
-([Pub. L. 92–207, § 3][/us/pl/92/207/s3], Dec. 18, 1971, [85 Stat. 740][/us/stat/85/740].)
+([Pub. L. 92–207][/us/pl/92/207], § 3, Dec. 18, 1971, [85 Stat. 740][/us/stat/85/740].)
 
  __Renewal of Capitol Reef National Park Grazing Authorizations__ 
 
-[Pub. L. 100–446, title I][/us/pl/100/446], Sept. 27, 1988, [102 Stat. 1779][/us/stat/102/1779], provided: 
+[Pub. L. 100–446, title I][/us/pl/100/446/tI], Sept. 27, 1988, [102 Stat. 1779][/us/stat/102/1779], provided: 
 
 > “That where any Federal lands included within the boundary of the Park created by the Act of December 18, 1971 ([Public Law 92–207][/us/pl/92/207]) \[[16 U.S.C. 273][/us/usc/t16/s273] et seq.\], were legally occupied or utilized on the date of approval of that Act \[Dec. 18, 1971\] for grazing purposes pursuant to a lease, permit, or license issued or authorized by any department, establishment, or agency of the United States, the person or persons so occupying or utilizing such lands and the heirs of such person or persons shall at that time be entitled to renew said leases, permits, or licenses under such terms and conditions as the Secretary of the Interior may prescribe, for the lifetime of the permittee or any direct descendants (sons or daughters) born on or before the enactment of [Public Law 92–207][/us/pl/92/207] (December 18, 1971). Such grazing activities shall be subject to the following conditions:
 
@@ -39,7 +39,7 @@
 
  __Study of Grazing Phaseout at Capitol Reef National Park__ 
 
-    [Pub. L. 97–341][/us/pl/97/341], Oct. 15, 1982, [96 Stat. 1639][/us/stat/96/1639], provided for retention of Capitol Reef National Park grazing privileges until Dec. 31, 1994, and a study of grazing at the Park, prior to repeal by [Pub. L. 100–446, title I][/us/pl/100/446], Sept. 27, 1988, [102 Stat. 1780][/us/stat/102/1780].
+    [Pub. L. 97–341][/us/pl/97/341], Oct. 15, 1982, [96 Stat. 1639][/us/stat/96/1639], provided for retention of Capitol Reef National Park grazing privileges until Dec. 31, 1994, and a study of grazing at the Park, prior to repeal by [Pub. L. 100–446, title I][/us/pl/100/446/tI], Sept. 27, 1988, [102 Stat. 1780][/us/stat/102/1780].
 
 ----------
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/92/207/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F207%2Fs3
+[/us/pl/92/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F207
 [/us/stat/85/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F740
-[/us/pl/100/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F446
+[/us/pl/100/446/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F446%2FtI
 [/us/stat/102/1779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1779
 [/us/pl/92/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F207
 [/us/usc/t16/s273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs273
@@ -58,7 +58,7 @@
 [/us/pl/97/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F341
 [/us/pl/97/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F341
 [/us/stat/96/1639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1639
-[/us/pl/100/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F446
+[/us/pl/100/446/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F446%2FtI
 [/us/stat/102/1780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1780
 
 

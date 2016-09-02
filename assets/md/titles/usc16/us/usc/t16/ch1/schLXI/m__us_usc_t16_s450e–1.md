@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450a.md) | [Next](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450l.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450e%E2%80%931)
+[Previous](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450b...450e.md) | [Next](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450f...450k.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450e%E2%80%931)
 
 ## § 450e–1. Appomattox Court House National Historical Park
 
@@ -41,7 +41,7 @@
 
         There are authorized to be appropriated not to exceed $1,335,000 to carry out the purposes of this section.
 
-([Pub. L. 94–578, title III, § 308][/us/pl/94/578/s308], Oct. 21, 1976, [90 Stat. 2735][/us/stat/90/2735]; [Pub. L. 102–541, § 3(a)][/us/pl/102/541/s3/a], Oct. 27, 1992, [106 Stat. 3565][/us/stat/106/3565].)
+([Pub. L. 94–578, title III][/us/pl/94/578/tIII], § 308, Oct. 21, 1976, [90 Stat. 2735][/us/stat/90/2735]; [Pub. L. 102–541][/us/pl/102/541], § 3(a), Oct. 27, 1992, [106 Stat. 3565][/us/stat/106/3565].)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–541, § 3(a)][/us/pl/102/541/s3/a], Oct. 27, 1992, [106 Stat. 3565][/us/stat/106/3565], provided in part: 
+[Pub. L. 102–541][/us/pl/102/541], § 3(a), Oct. 27, 1992, [106 Stat. 3565][/us/stat/106/3565], provided in part: 
 
 > “That this subsection \[amending this section\] shall not be effective until the lands included within the proposed new boundaries of the Appomattox Court House National Historical Park pursuant to this Act \[amending this section and [section 425k of this title][/us/usc/t16/s425k] and enacting provisions set out as notes under this section and [section 425k of this title][/us/usc/t16/s425k]\] have been donated to the Secretary of the Interior.”
 
@@ -67,25 +67,13 @@
 
  __Acquisition of Certain Lands by Donation Only__ 
 
-[Pub. L. 102–541, § 3(b)][/us/pl/102/541/s3/b], Oct. 27, 1992, [106 Stat. 3566][/us/stat/106/3566], provided that: 
+[Pub. L. 102–541][/us/pl/102/541], § 3(b), Oct. 27, 1992, [106 Stat. 3566][/us/stat/106/3566], provided that: 
 
 > “Lands included within the boundaries of the Appomattox Court House National Historical Park pursuant to this section \[amending this section and enacting provisions set out above\] may be acquired only by donation.”
 
-§§ 450f to 450k. __Repealed.__  __[__  __Dec. 21, 1944, ch. 634, § 1__  __][/us/act/1944-12-21/ch634/s1]__  __,__  __[__  __58 Stat. 852__  __][/us/stat/58/852]__ 
-
-    Section 450f, [act Aug. 15, 1935, ch. 547, § 1][/us/act/1935-08-15/ch547/s1], [49 Stat. 652][/us/stat/49/652], related to establishment of Patrick Henry National Monument.
-
-    Sections 450f–1 and 450f–2, [act Jan. 29, 1940, ch. 16][/us/act/1940-01-29/ch16], [54 Stat. 18][/us/stat/54/18], related to acquisition of Patrick Henry’s estate and erection of a permanent public memorial.
-
-    Sections 450g to 450k, [act Aug. 15, 1935, ch. 547][/us/act/1935-08-15/ch547], §§ 2–6, [49 Stat. 652][/us/stat/49/652], 653, related to administration, etc., of Monument.
-
- __Unexpended Funds__ 
-
-    Section 2 of [act Dec. 21, 1944, ch. 634][/us/act/1944-12-21/ch634], [58 Stat. 853][/us/stat/58/853], provided that all unexpended balances of amounts appropriated were to be covered into the surplus fund of the Treasury.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450a.md) | [Next](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450l.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450e%E2%80%931)
+[Previous](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450b...450e.md) | [Next](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450f...450k.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450e%E2%80%931)
 
 ----------
 ----------
@@ -93,9 +81,9 @@
 [/us/usc/t42/s4601/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4601%2F6
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
-[/us/pl/94/578/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2Fs308
+[/us/pl/94/578/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2FtIII
 [/us/stat/90/2735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2735
-[/us/pl/102/541/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F541%2Fs3%2Fa
+[/us/pl/102/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F541
 [/us/stat/106/3565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3565
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
@@ -115,21 +103,11 @@
 [/us/pl/94/578/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2Fs308
 [/us/pl/94/578/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2Fs308
 [/us/pl/102/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F541
-[/us/pl/102/541/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F541%2Fs3%2Fa
+[/us/pl/102/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F541
 [/us/stat/106/3565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3565
 [/us/usc/t16/s425k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs425k
 [/us/usc/t16/s425k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs425k
-[/us/pl/102/541/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F541%2Fs3%2Fb
+[/us/pl/102/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F541
 [/us/stat/106/3566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3566
-[/us/act/1944-12-21/ch634/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-12-21%2Fch634%2Fs1
-[/us/stat/58/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F852
-[/us/act/1935-08-15/ch547/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-15%2Fch547%2Fs1
-[/us/stat/49/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F652
-[/us/act/1940-01-29/ch16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-01-29%2Fch16
-[/us/stat/54/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F18
-[/us/act/1935-08-15/ch547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-15%2Fch547
-[/us/stat/49/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F652
-[/us/act/1944-12-21/ch634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-12-21%2Fch634
-[/us/stat/58/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F853
 
 

@@ -45,7 +45,7 @@
 
         (2) The Federal share of the cost of expanding or modifying a recreational facility described in paragraph (1) may not exceed 50 percent of the total cost of expanding or modifying the facility.
 
-([Pub. L. 89–72, § 3][/us/pl/89/72/s3], July 9, 1965, [79 Stat. 214][/us/stat/79/214]; [Pub. L. 93–251, title I, § 77(a)(3)][/us/pl/93/251/s77/a/3], Mar. 7, 1974, [88 Stat. 33][/us/stat/88/33]; [Pub. L. 102–575, title XXVIII, § 2804(b)][/us/pl/102/575/s2804/b], (d), Oct. 30, 1992, [106 Stat. 4691][/us/stat/106/4691].)
+([Pub. L. 89–72][/us/pl/89/72], § 3, July 9, 1965, [79 Stat. 214][/us/stat/79/214]; [Pub. L. 93–251, title I][/us/pl/93/251/tI], § 77(a)(3), Mar. 7, 1974, [88 Stat. 33][/us/stat/88/33]; [Pub. L. 102–575, title XXVIII][/us/pl/102/575/tXXVIII], § 2804(b), (d), Oct. 30, 1992, [106 Stat. 4691][/us/stat/106/4691].)
 
  __References in Text__ 
 
@@ -53,9 +53,9 @@
 
  __Amendments__ 
 
-    1992—Subsec. (b)(1). [Pub. L. 102–575, § 2804(b)][/us/pl/102/575/s2804/b], struck out “within ten years” after “execute an agreement” and substituted “not less than one-half the costs of planning studies, and the costs of operation, maintenance, and replacement attributable” for “all costs of operation, maintenance, and replacement attributable”.
+    1992—Subsec. (b)(1). [Pub. L. 102–575][/us/pl/102/575], § 2804(b), struck out “within ten years” after “execute an agreement” and substituted “not less than one-half the costs of planning studies, and the costs of operation, maintenance, and replacement attributable” for “all costs of operation, maintenance, and replacement attributable”.
 
-    Subsec. (c). [Pub. L. 102–575, § 2804(d)][/us/pl/102/575/s2804/d], added subsec. (c).
+    Subsec. (c). [Pub. L. 102–575][/us/pl/102/575], § 2804(d), added subsec. (c).
 
     1974—Subsec. (b)(1). [Pub. L. 93–251][/us/pl/93/251] substituted “modifications provided for recreation, and will bear one-quarter of such costs for fish and wildlife enhancement” for “modifications provided for either or both of those purposes, as the case may be”.
 
@@ -70,16 +70,16 @@
 ----------
 ----------
 
-[/us/pl/89/72/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F72%2Fs3
+[/us/pl/89/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F72
 [/us/stat/79/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F214
-[/us/pl/93/251/s77/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2Fs77%2Fa%2F3
+[/us/pl/93/251/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2FtI
 [/us/stat/88/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F33
-[/us/pl/102/575/s2804/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575%2Fs2804%2Fb
+[/us/pl/102/575/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575%2FtXXVIII
 [/us/stat/106/4691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4691
 [/us/pl/89/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F72
 [/us/usc/t16/s662/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs662%2Fd
-[/us/pl/102/575/s2804/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575%2Fs2804%2Fb
-[/us/pl/102/575/s2804/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575%2Fs2804%2Fd
+[/us/pl/102/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575
+[/us/pl/102/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575
 [/us/pl/93/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251
 [/us/pl/93/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251
 [/us/pl/93/251/s77/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2Fs77%2Fb

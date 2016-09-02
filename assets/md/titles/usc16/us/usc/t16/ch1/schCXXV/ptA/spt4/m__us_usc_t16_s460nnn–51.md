@@ -81,7 +81,7 @@
 
         The advisory committee  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “advisory council”. </sup></sup>  shall be subject to the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1701][/us/usc/t43/s1701] et seq.) and the Federal Advisory Committee Act (5 U.S.C. App.).
 
-([Pub. L. 106–399, title I, § 131][/us/pl/106/399/s131], Oct. 30, 2000, [114 Stat. 1664][/us/stat/114/1664].)
+([Pub. L. 106–399, title I][/us/pl/106/399/tI], § 131, Oct. 30, 2000, [114 Stat. 1664][/us/stat/114/1664].)
 
  __References in Text__ 
 
@@ -97,7 +97,7 @@
 ----------
 
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
-[/us/pl/106/399/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2Fs131
+[/us/pl/106/399/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2FtI
 [/us/stat/114/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1664
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
 [/us/stat/90/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2743

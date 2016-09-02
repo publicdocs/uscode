@@ -17,7 +17,7 @@
 
     Any contract of the Secretary for the sale or exchange of electric energy generated at, or peaking capacity of, Federal hydroelectric plants in marketing areas outside the Pacific Northwest for use within the Pacific Northwest shall be subject to limitations and conditions corresponding to those provided in sections 837a and 837b of this title for any contract for the sale or exchange of hydroelectric energy or peaking capacity generated within the Pacific Northwest for use outside the Pacific Northwest.
 
-([Pub. L. 88–552, § 4][/us/pl/88/552/s4], Aug. 31, 1964, [78 Stat. 757][/us/stat/78/757].)
+([Pub. L. 88–552][/us/pl/88/552], § 4, Aug. 31, 1964, [78 Stat. 757][/us/stat/78/757].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/552/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F552%2Fs4
+[/us/pl/88/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F552
 [/us/stat/78/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F757
 
 

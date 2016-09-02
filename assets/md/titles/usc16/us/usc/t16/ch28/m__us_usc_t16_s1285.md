@@ -17,7 +17,7 @@
 
     The claim and allowance of the value of an easement as a charitable contribution under [section 170 of title 26][/us/usc/t26/s170], or as a gift under section 2522 of said title shall constitute an agreement by the donor on behalf of himself, his heirs, and assigns that, if the terms of the instrument creating the easement are violated, the donee or the United States may acquire the servient estate at its fair market value as of the time the easement was donated minus the value of the easement claimed and allowed as a charitable contribution or gift.
 
-([Pub. L. 90–542, § 14][/us/pl/90/542/s14], Oct. 2, 1968, [82 Stat. 918][/us/stat/82/918].)
+([Pub. L. 90–542][/us/pl/90/542], § 14, Oct. 2, 1968, [82 Stat. 918][/us/stat/82/918].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t26/s170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs170
-[/us/pl/90/542/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F542%2Fs14
+[/us/pl/90/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F542
 [/us/stat/82/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F918
 
 

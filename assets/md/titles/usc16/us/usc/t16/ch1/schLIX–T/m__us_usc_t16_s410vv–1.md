@@ -25,7 +25,7 @@
 
         (2) The map referred to in paragraph (1) shall be on file and available for public inspection in the appropriate offices of the National Park Service, Department of the Interior.
 
-([Pub. L. 102–350, § 3][/us/pl/102/350/s3], Aug. 26, 1992, [106 Stat. 934][/us/stat/106/934]; [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title I, § 143\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–267.)
+([Pub. L. 102–350][/us/pl/102/350], § 3, Aug. 26, 1992, [106 Stat. 934][/us/stat/106/934]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title I, § 143\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–267.)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/102/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F350%2Fs3
+[/us/pl/102/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F350
 [/us/stat/106/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F934
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 

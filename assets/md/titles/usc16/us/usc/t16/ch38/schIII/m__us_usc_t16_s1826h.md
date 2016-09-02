@@ -27,7 +27,7 @@
 
     (5) steps taken by the Secretary at the international level to adopt international measures comparable to those of the United States to reduce impacts of fishing and other practices on protected living marine resources, if no international agreement to achieve such goal exists, or if the relevant international fishery or conservation organization has failed to implement effective measures to end or reduce the adverse impacts of fishing practices on such species.
 
-([Pub. L. 104–43, title VI, § 607][/us/pl/104/43/s607], as added [Pub. L. 109–479, title IV, § 403(a)][/us/pl/109/479/s403/a], Jan. 12, 2007, [120 Stat. 3626][/us/stat/120/3626]; amended [Pub. L. 114–81, title I, § 101(i)(1)][/us/pl/114/81/s101/i/1], Nov. 5, 2015, [129 Stat. 655][/us/stat/129/655].)
+([Pub. L. 104–43, title VI][/us/pl/104/43/tVI], § 607, as added [Pub. L. 109–479, title IV][/us/pl/109/479/tIV], § 403(a), Jan. 12, 2007, [120 Stat. 3626][/us/stat/120/3626]; amended [Pub. L. 114–81, title I][/us/pl/114/81/tI], § 101(i)(1), Nov. 5, 2015, [129 Stat. 655][/us/stat/129/655].)
 
  __Codification__ 
 
@@ -45,10 +45,10 @@
 ----------
 
 [/us/usc/t16/s1826i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826i
-[/us/pl/104/43/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs607
-[/us/pl/109/479/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs403%2Fa
+[/us/pl/104/43/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtVI
+[/us/pl/109/479/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtIV
 [/us/stat/120/3626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3626
-[/us/pl/114/81/s101/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs101%2Fi%2F1
+[/us/pl/114/81/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2FtI
 [/us/stat/129/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F655
 [/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
 

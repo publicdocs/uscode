@@ -17,7 +17,7 @@
 
     In carrying out the purposes of this chapter, the Secretary, in cooperation with the States and the Commonwealth of Puerto Rico, is authorized (1) to conduct, directly or by contract, such studies, research, and investigations, as he deems desirable, to determine the abundance and distribution of jellyfish and other such pests and their effects on fish and shellfish and water-based recreation, (2) to conduct studies of control measures of such pests and of floating seaweed, (3) to carry out, based on studies made pursuant to this chapter, a program of controlling or eliminating such pests and such seaweed, and (4) to take such other actions as the Secretary deems desirable: Provided, That the costs of such actions shall be borne equally by the Federal Government and by the States and the Commonwealth of Puerto Rico, acting jointly or severally.
 
-([Pub. L. 89–720, § 2][/us/pl/89/720/s2], Nov. 2, 1966, [80 Stat. 1149][/us/stat/80/1149].)
+([Pub. L. 89–720][/us/pl/89/720], § 2, Nov. 2, 1966, [80 Stat. 1149][/us/stat/80/1149].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/720/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F720%2Fs2
+[/us/pl/89/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F720
 [/us/stat/80/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1149
 
 

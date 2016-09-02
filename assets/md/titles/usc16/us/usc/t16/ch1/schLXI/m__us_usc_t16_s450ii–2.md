@@ -17,7 +17,7 @@
 
     All leases, permits, and licenses issued or authorized by any department, establishment, or agency of the United States, with respect to the Federal lands excluded from the Joshua Tree National Monument by sections 450ii to 450ii–3 of this title, which are in effect on September 25, 1950, shall continue in effect, subject to compliance with the terms and conditions therein set forth, until terminated in accordance with the provisions thereof.
 
-([Sept. 25, 1950, ch. 1030, § 3][/us/act/1950-09-25/ch1030/s3], [64 Stat. 1035][/us/stat/64/1035].)
+([Sept. 25, 1950, ch. 1030][/us/act/1950-09-25/ch1030], § 3, [64 Stat. 1035][/us/stat/64/1035].)
 
  __Abolition of Joshua Tree National Monument__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1950-09-25/ch1030/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-25%2Fch1030%2Fs3
+[/us/act/1950-09-25/ch1030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-25%2Fch1030
 [/us/stat/64/1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1035
 [/us/usc/t16/s410aaa–22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410aaa%E2%80%9322
 

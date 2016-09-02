@@ -35,7 +35,7 @@
 
         The Secretary may provide interpretation of Huffman Prairie Flying Field on Wright Brothers Hill, Wright-Patterson Air Force Base, Ohio.
 
-([Pub. L. 102–419, title I, § 105][/us/pl/102/419/s105], Oct. 16, 1992, [106 Stat. 2142][/us/stat/106/2142].)
+([Pub. L. 102–419, title I][/us/pl/102/419/tI], § 105, Oct. 16, 1992, [106 Stat. 2142][/us/stat/106/2142].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1%E2%80%934
-[/us/pl/102/419/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F419%2Fs105
+[/us/pl/102/419/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F419%2FtI
 [/us/stat/106/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2142
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1%E2%80%934

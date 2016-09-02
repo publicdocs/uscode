@@ -17,7 +17,7 @@
 
     The Secretary shall permit hunting, fishing, and shellfishing on lands and waters under his administrative jurisdiction within the Fire Island National Seashore in accordance with the laws of New York and the United States of America, except that the Secretary may designate zones where, and establish periods when, no hunting shall be permitted for reasons of public safety, administration, or public use and enjoyment. Any regulations of the Secretary under this section shall be issued after consultation with the Conservation Department of the State of New York.
 
-([Pub. L. 88–587, § 5][/us/pl/88/587/s5], Sept. 11, 1964, [78 Stat. 931][/us/stat/78/931].)
+([Pub. L. 88–587][/us/pl/88/587], § 5, Sept. 11, 1964, [78 Stat. 931][/us/stat/78/931].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/587/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F587%2Fs5
+[/us/pl/88/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F587
 [/us/stat/78/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F931
 
 

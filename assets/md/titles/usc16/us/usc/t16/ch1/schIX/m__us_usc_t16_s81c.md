@@ -27,7 +27,7 @@
 
  __Change of Name__ 
 
-[Act June 5, 1936, ch. 525, § 2][/us/act/1936-06-05/ch525/s2], [49 Stat. 1483][/us/stat/49/1483], provided: 
+[Act June 5, 1936, ch. 525][/us/act/1936-06-05/ch525], § 2, [49 Stat. 1483][/us/stat/49/1483], provided: 
 
 > “That the area now within the Colonial National Monument, together with such additions as may hereafter be made thereto, pursuant to section 1 hereof, shall be known as the ‘Colonial National Historical Park’, under which name the aforesaid national park shall be entitled to receive and to use all moneys heretofore or hereafter appropriated for the Colonial National Monument.”
 
@@ -44,7 +44,7 @@
 [/us/act/1930-07-03/ch837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-07-03%2Fch837
 [/us/stat/46/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F855
 [/us/usc/t16/s443a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs443a%E2%80%931
-[/us/act/1936-06-05/ch525/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-05%2Fch525%2Fs2
+[/us/act/1936-06-05/ch525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-05%2Fch525
 [/us/stat/49/1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1483
 
 

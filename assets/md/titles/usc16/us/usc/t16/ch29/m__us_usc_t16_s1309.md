@@ -17,7 +17,7 @@
 
     The Secretary shall consult with the Secretary of the Interior and take appropriate measures to insure that the program carried out pursuant to this chapter is in harmony with wetlands programs administered by the Secretary of the Interior. He shall also, insofar as practicable, consult with and utilize the technical and related services of appropriate local, State, Federal, and private conservation agencies to assure coordination of the program with programs of such agencies and a solid technical foundation for the program.
 
-([Pub. L. 91–559, § 10][/us/pl/91/559/s10], Dec. 19, 1970, [84 Stat. 1471][/us/stat/84/1471].)
+([Pub. L. 91–559][/us/pl/91/559], § 10, Dec. 19, 1970, [84 Stat. 1471][/us/stat/84/1471].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/559/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F559%2Fs10
+[/us/pl/91/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F559
 [/us/stat/84/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1471
 
 

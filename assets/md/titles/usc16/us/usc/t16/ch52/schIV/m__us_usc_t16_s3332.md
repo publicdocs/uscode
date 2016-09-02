@@ -25,7 +25,7 @@
 
     (4) provide State funding for 25 per centum of the total cost of the program.
 
-([Pub. L. 96–561, title I, § 131][/us/pl/96/561/s131], Dec. 22, 1980, [94 Stat. 3284][/us/stat/94/3284].)
+([Pub. L. 96–561, title I][/us/pl/96/561/tI], § 131, Dec. 22, 1980, [94 Stat. 3284][/us/stat/94/3284].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/96/561/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs131
+[/us/pl/96/561/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtI
 [/us/stat/94/3284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3284
 
 

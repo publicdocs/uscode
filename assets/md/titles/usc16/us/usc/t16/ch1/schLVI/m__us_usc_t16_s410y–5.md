@@ -17,7 +17,7 @@
 
     The Chesapeake and Ohio Canal National Historical Park shall be administered by the Secretary of the Interior in accordance with the Act of August 25, 1916 ([30 Stat. 535][/us/stat/30/535]; [16 U.S.C. 1][/us/usc/t16/s1], 2–4), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended and supplemented.
 
-([Pub. L. 91–664, § 7][/us/pl/91/664/s7], Jan. 8, 1971, [84 Stat. 1980][/us/stat/84/1980].)
+([Pub. L. 91–664][/us/pl/91/664], § 7, Jan. 8, 1971, [84 Stat. 1980][/us/stat/84/1980].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/stat/30/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
-[/us/pl/91/664/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F664%2Fs7
+[/us/pl/91/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F664
 [/us/stat/84/1980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1980
 [/us/stat/30/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1

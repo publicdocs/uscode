@@ -25,7 +25,7 @@
 
     (4) $600,000 shall be available each fiscal year for cooperative salmon research and management projects in the portion of the Yukon River drainage located in the United States that are recommended by the Panel.
 
-([Pub. L. 106–450, title II, § 208][/us/pl/106/450/s208], Nov. 7, 2000, [114 Stat. 1944][/us/stat/114/1944]; [Pub. L. 108–219, title III, § 303][/us/pl/108/219/s303], Apr. 13, 2004, [118 Stat. 616][/us/stat/118/616]; [Pub. L. 109–479, title III, § 302(b)][/us/pl/109/479/s302/b], Jan. 12, 2007, [120 Stat. 3623][/us/stat/120/3623].)
+([Pub. L. 106–450, title II][/us/pl/106/450/tII], § 208, Nov. 7, 2000, [114 Stat. 1944][/us/stat/114/1944]; [Pub. L. 108–219, title III][/us/pl/108/219/tIII], § 303, Apr. 13, 2004, [118 Stat. 616][/us/stat/118/616]; [Pub. L. 109–479, title III][/us/pl/109/479/tIII], § 302(b), Jan. 12, 2007, [120 Stat. 3623][/us/stat/120/3623].)
 
  __Amendments__ 
 
@@ -42,11 +42,11 @@
 
 [/us/usc/t16/s5722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5722
 [/us/usc/t16/s5726/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5726%2Fb
-[/us/pl/106/450/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F450%2Fs208
+[/us/pl/106/450/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F450%2FtII
 [/us/stat/114/1944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1944
-[/us/pl/108/219/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F219%2Fs303
+[/us/pl/108/219/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F219%2FtIII
 [/us/stat/118/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F616
-[/us/pl/109/479/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs302%2Fb
+[/us/pl/109/479/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtIII
 [/us/stat/120/3623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3623
 [/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
 [/us/pl/108/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F219

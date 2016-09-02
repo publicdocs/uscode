@@ -23,7 +23,7 @@
 
         Notwithstanding the foregoing provisions, the Secretary may determine, after adequate notice, that the establishment and use of such new facilities or equipment would constitute a significant expansion of existing facilities or uses which would be detrimental to the purposes for which the affected conservation system unit was established, including the wilderness character of any wilderness area within such unit, and may thereupon deny such proposed use or establishment.
 
-([Pub. L. 96–487, title XIII, § 1316][/us/pl/96/487/s1316], Dec. 2, 1980, [94 Stat. 2485][/us/stat/94/2485].)
+([Pub. L. 96–487, title XIII][/us/pl/96/487/tXIII], § 1316, Dec. 2, 1980, [94 Stat. 2485][/us/stat/94/2485].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/96/487/s1316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1316
+[/us/pl/96/487/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXIII
 [/us/stat/94/2485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2485
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371

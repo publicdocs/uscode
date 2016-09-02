@@ -17,7 +17,7 @@
 
     The Secretary is further authorized to erect on the site aforesaid, with donated funds, a replica of the Graff House and to furnish and maintain the same.
 
-([Pub. L. 88–477, § 2][/us/pl/88/477/s2], Aug. 21, 1964, [78 Stat. 587][/us/stat/78/587].)
+([Pub. L. 88–477][/us/pl/88/477], § 2, Aug. 21, 1964, [78 Stat. 587][/us/stat/78/587].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/88/477/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F477%2Fs2
+[/us/pl/88/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F477
 [/us/stat/78/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F587
 [/us/act/1948-06-28/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-28%2Fch687
 [/us/stat/62/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1061

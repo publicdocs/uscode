@@ -27,7 +27,7 @@
 
         Any new water right that the Secretary determines is necessary for the purposes of this subchapter shall be established in accordance with the procedural and substantive requirements of the laws of the State of Colorado.
 
-([Pub. L. 106–76, § 10][/us/pl/106/76/s10], Oct. 21, 1999, [113 Stat. 1131][/us/stat/113/1131].)
+([Pub. L. 106–76][/us/pl/106/76], § 10, Oct. 21, 1999, [113 Stat. 1131][/us/stat/113/1131].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/106/76/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F76%2Fs10
+[/us/pl/106/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F76
 [/us/stat/113/1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1131
 
 

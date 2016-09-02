@@ -27,7 +27,7 @@
 
     (e) standards for such management, utilization, and disposal of natural resources on federally owned lands, including but not limited to, timber harvesting by selective cutting, mining, and grazing and the continuation of such existing uses and developments as are compatible with the provisions of this subchapter.
 
-([Pub. L. 94–199, § 10][/us/pl/94/199/s10], Dec. 31, 1975, [89 Stat. 1121][/us/stat/89/1121].)
+([Pub. L. 94–199][/us/pl/94/199], § 10, Dec. 31, 1975, [89 Stat. 1121][/us/stat/89/1121].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t16/s460gg–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460gg%E2%80%936
-[/us/pl/94/199/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F199%2Fs10
+[/us/pl/94/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F199
 [/us/stat/89/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1121
 
 

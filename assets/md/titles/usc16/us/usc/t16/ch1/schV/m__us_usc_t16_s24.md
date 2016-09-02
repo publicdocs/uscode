@@ -17,7 +17,7 @@
 
     The Yellowstone National Park, as its boundaries now are defined, or as they may be hereafter defined or extended, shall be under the sole and exclusive jurisdiction of the United States. All the laws applicable to places under the sole and exclusive jurisdiction of the United States, shall have force and effect in said park. Nothing in this Act shall be construed to forbid the service in the park of any civil or criminal process of any court having jurisdiction in the States of Idaho, Montana, and Wyoming. All fugitives from justice taking refuge in said park shall be subject to the same laws as refugees from justice found in the State of Wyoming.
 
-([May 7, 1894, ch. 72, § 1][/us/act/1894-05-07/ch72/s1], [28 Stat. 73][/us/stat/28/73].)
+([May 7, 1894, ch. 72][/us/act/1894-05-07/ch72], § 1, [28 Stat. 73][/us/stat/28/73].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    Section 2 of act May 7, 1894, provided that the Yellowstone National Park should be part of the judicial district of Wyoming, and that the courts of the United States for the district should have jurisdiction of all offenses committed within the park. It was superseded by [act Mar. 3, 1911, ch. 231, § 115][/us/act/1911-03-03/ch231/s115], [36 Stat. 1130][/us/stat/36/1130], constituting the State of Wyoming and Yellowstone National Park the judicial district of Wyoming, that section being in turn superseded by [act June 5, 1924, ch. 260][/us/act/1924-06-05/ch260], [43 Stat. 388][/us/stat/43/388]. Provisions of that act are covered by [section 131 of Title 28][/us/usc/t28/s131], Judiciary and Judicial Procedure.
+    Section 2 of act May 7, 1894, provided that the Yellowstone National Park should be part of the judicial district of Wyoming, and that the courts of the United States for the district should have jurisdiction of all offenses committed within the park. It was superseded by [act Mar. 3, 1911, ch. 231][/us/act/1911-03-03/ch231], § 115, [36 Stat. 1130][/us/stat/36/1130], constituting the State of Wyoming and Yellowstone National Park the judicial district of Wyoming, that section being in turn superseded by [act June 5, 1924, ch. 260][/us/act/1924-06-05/ch260], [43 Stat. 388][/us/stat/43/388]. Provisions of that act are covered by [section 131 of Title 28][/us/usc/t28/s131], Judiciary and Judicial Procedure.
 
  __Wyoming: Jurisdiction Over Park__ 
 
@@ -40,9 +40,9 @@ The act admitting the State of Wyoming into the Union, [act July 10, 1890, ch. 6
 ----------
 ----------
 
-[/us/act/1894-05-07/ch72/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-05-07%2Fch72%2Fs1
+[/us/act/1894-05-07/ch72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-05-07%2Fch72
 [/us/stat/28/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F73
-[/us/act/1911-03-03/ch231/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs115
+[/us/act/1911-03-03/ch231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231
 [/us/stat/36/1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1130
 [/us/act/1924-06-05/ch260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-05%2Fch260
 [/us/stat/43/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F388

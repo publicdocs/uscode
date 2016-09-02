@@ -41,7 +41,7 @@
 
         The area designated as area VII–C on the map referred to in [section 460u of this title][/us/usc/t16/s460u] does not include approximately 1.3 acres of land on which the Linde Air Products plant is situated, nor does it include approximately 1 acre of land on which the Old Union Station building and the adjacent REA building are situated. Except as provided in the foregoing sentence, area VII–C extends to, but does not include, the beds of the railroad tracks forming the northern and southern boundaries of such area.
 
-([Pub. L. 89–761, § 23][/us/pl/89/761/s23], as added [Pub. L. 96–612, § 1(13)][/us/pl/96/612/s1/13], Dec. 28, 1980, [94 Stat. 3577][/us/stat/94/3577].)
+([Pub. L. 89–761][/us/pl/89/761], § 23, as added [Pub. L. 96–612][/us/pl/96/612], § 1(13), Dec. 28, 1980, [94 Stat. 3577][/us/stat/94/3577].)
 
 ----------
 
@@ -52,8 +52,8 @@
 
 [/us/usc/t16/s460u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460u
 [/us/usc/t16/s460u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460u
-[/us/pl/89/761/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761%2Fs23
-[/us/pl/96/612/s1/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F612%2Fs1%2F13
+[/us/pl/89/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761
+[/us/pl/96/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F612
 [/us/stat/94/3577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3577
 
 

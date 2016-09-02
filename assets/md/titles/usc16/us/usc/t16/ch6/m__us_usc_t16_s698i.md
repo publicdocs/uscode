@@ -37,7 +37,7 @@
 
         (8) such other uses as the Secretary determines must be limited or controlled in order to carry out the purposes of sections 698f to 698m–4 of this title: Provided, That the Secretary shall consult and cooperate with the Secretary of Transportation to assure that necessary transportation facilities shall be located within existing or reasonably expanded rights-of-way and constructed within the reserve  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “preserve”. </sup></sup>  in a manner consistent with the purposes of sections 698f to 698m–4 of this title.
 
-([Pub. L. 93–440, § 4][/us/pl/93/440/s4], Oct. 11, 1974, [88 Stat. 1260][/us/stat/88/1260].)
+([Pub. L. 93–440][/us/pl/93/440], § 4, Oct. 11, 1974, [88 Stat. 1260][/us/stat/88/1260].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 [/us/usc/t16/s698f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs698f
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1%E2%80%934
-[/us/pl/93/440/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F440%2Fs4
+[/us/pl/93/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F440
 [/us/stat/88/1260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1260
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1%E2%80%934

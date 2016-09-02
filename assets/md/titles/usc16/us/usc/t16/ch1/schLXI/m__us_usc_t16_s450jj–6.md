@@ -99,7 +99,7 @@
 
         (2) The Secretary of the Interior may extend the life of the Commission for a period of not more than five years beginning on the day referred to in paragraph (1) if the Commission determines that such extension is necessary in order for the Commission to carry out sections 450jj to 450jj–9 of this title.
 
-([May 17, 1954, ch. 204, § 7][/us/act/1954-05-17/ch204/s7], as added [Pub. L. 98–398, title II, § 201(a)][/us/pl/98/398/s201/a], Aug. 24, 1984, [98 Stat. 1469][/us/stat/98/1469].)
+([May 17, 1954, ch. 204][/us/act/1954-05-17/ch204], § 7, as added [Pub. L. 98–398, title II][/us/pl/98/398/tII], § 201(a), Aug. 24, 1984, [98 Stat. 1469][/us/stat/98/1469].)
 
 ----------
 
@@ -111,8 +111,8 @@
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t16/s450jj–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450jj%E2%80%937
 [/us/usc/t16/s450jj–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450jj%E2%80%937
-[/us/act/1954-05-17/ch204/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-17%2Fch204%2Fs7
-[/us/pl/98/398/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F398%2Fs201%2Fa
+[/us/act/1954-05-17/ch204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-17%2Fch204
+[/us/pl/98/398/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F398%2FtII
 [/us/stat/98/1469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1469
 
 

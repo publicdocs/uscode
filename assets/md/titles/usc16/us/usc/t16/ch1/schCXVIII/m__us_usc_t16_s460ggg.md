@@ -29,7 +29,7 @@
 
         Subject to valid existing rights, each wilderness area designated by this subchapter shall be administered by the Secretary of Agriculture in accordance with the provisions of the Wilderness Act \[[16 U.S.C. 1131][/us/usc/t16/s1131] et seq.\] governing areas designated by that Act as wilderness, except that any reference in such provisions to the effective date of the Wilderness Act shall be deemed to be a reference to December 11, 1991.
 
-([Pub. L. 102–217, § 2][/us/pl/102/217/s2], Dec. 11, 1991, [105 Stat. 1667][/us/stat/105/1667].)
+([Pub. L. 102–217][/us/pl/102/217], § 2, Dec. 11, 1991, [105 Stat. 1667][/us/stat/105/1667].)
 
  __References in Text__ 
 
@@ -41,13 +41,13 @@
 
  __Short Title__ 
 
-[Pub. L. 102–217, § 1][/us/pl/102/217/s1], Dec. 11, 1991, [105 Stat. 1667][/us/stat/105/1667], provided that: 
+[Pub. L. 102–217][/us/pl/102/217], § 1, Dec. 11, 1991, [105 Stat. 1667][/us/stat/105/1667], provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘Chattahoochee National Forest Protection Act of 1991’.”
 
  __Savings Provision__ 
 
-[Pub. L. 102–217, § 6][/us/pl/102/217/s6], Dec. 11, 1991, [105 Stat. 1670][/us/stat/105/1670], provided that: 
+[Pub. L. 102–217][/us/pl/102/217], § 6, Dec. 11, 1991, [105 Stat. 1670][/us/stat/105/1670], provided that: 
 
 > “Privately held lands within the areas designated by this Act \[enacting this subchapter\] will not be administered as wilderness, a national scenic area, or a national recreation area, as appropriate, unless such lands are acquired by the Secretary.”
 
@@ -73,7 +73,7 @@
 [/us/usc/t16/s1131–113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131%E2%80%93113
 [/us/stat/100/3129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3129
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
-[/us/pl/102/217/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F217%2Fs2
+[/us/pl/102/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F217
 [/us/stat/105/1667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1667
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890
@@ -82,9 +82,9 @@
 [/us/stat/100/3129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3129
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
-[/us/pl/102/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F217%2Fs1
+[/us/pl/102/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F217
 [/us/stat/105/1667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1667
-[/us/pl/102/217/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F217%2Fs6
+[/us/pl/102/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F217
 [/us/stat/105/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1670
 [/us/pl/102/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F456
 [/us/stat/106/2264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2264

@@ -31,7 +31,7 @@
 
     All of sections 25, 26, 35, and 36; those portions of sections 13, 22, 23, 24, 27, and 34 lying east of the Continental Divide, in township 6 north, range 76 west; and all the lands added to said park pursuant hereto are made subject to all laws, rules, and regulations applicable to and in force in the Rocky Mountain National Park.
 
-([June 21, 1930, ch. 561, § 1][/us/act/1930-06-21/ch561/s1], [46 Stat. 791][/us/stat/46/791].)
+([June 21, 1930, ch. 561][/us/act/1930-06-21/ch561], § 1, [46 Stat. 791][/us/stat/46/791].)
 
  __Proc. No. 3144. Enlarging Rocky Mountain National Park__ 
 
@@ -64,7 +64,7 @@ NOW, THEREFORE, I, DWIGHT D. EISENHOWER, President of the United States of Ameri
 ----------
 ----------
 
-[/us/act/1930-06-21/ch561/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-21%2Fch561%2Fs1
+[/us/act/1930-06-21/ch561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-21%2Fch561
 [/us/stat/46/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F791
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t18/s1865/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1865%2Fa

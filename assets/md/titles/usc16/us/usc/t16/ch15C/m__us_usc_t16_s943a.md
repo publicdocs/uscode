@@ -23,7 +23,7 @@
 
         The Secretary shall establish criteria, after an opportunity for public review and comment, for access to the data base which provides for appropriate use of the information by the public.
 
-([Pub. L. 102–440, title II, § 203][/us/pl/102/440/s203], Oct. 23, 1992, [106 Stat. 2233][/us/stat/106/2233].)
+([Pub. L. 102–440, title II][/us/pl/102/440/tII], § 203, Oct. 23, 1992, [106 Stat. 2233][/us/stat/106/2233].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/102/440/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2Fs203
+[/us/pl/102/440/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2FtII
 [/us/stat/106/2233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2233
 
 

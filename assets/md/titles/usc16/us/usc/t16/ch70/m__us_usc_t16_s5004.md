@@ -43,7 +43,7 @@
 
         The members of the Advisory Panel shall receive no compensation or travel expenses for their services as such members.
 
-([Pub. L. 102–567, title VIII, § 805][/us/pl/102/567/s805], Oct. 29, 1992, [106 Stat. 4311][/us/stat/106/4311]; [Pub. L. 102–587, title VIII, § 8005][/us/pl/102/587/s8005], Nov. 4, 1992, [106 Stat. 5100][/us/stat/106/5100]; [Pub. L. 106–562, title III, § 304(a)][/us/pl/106/562/s304/a], Dec. 23, 2000, [114 Stat. 2806][/us/stat/114/2806].)
+([Pub. L. 102–567, title VIII][/us/pl/102/567/tVIII], § 805, Oct. 29, 1992, [106 Stat. 4311][/us/stat/106/4311]; [Pub. L. 102–587, title VIII][/us/pl/102/587/tVIII], § 8005, Nov. 4, 1992, [106 Stat. 5100][/us/stat/106/5100]; [Pub. L. 106–562, title III][/us/pl/106/562/tIII], § 304(a), Dec. 23, 2000, [114 Stat. 2806][/us/stat/114/2806].)
 
  __Codification__ 
 
@@ -60,11 +60,11 @@
 ----------
 ----------
 
-[/us/pl/102/567/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs805
+[/us/pl/102/567/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtVIII
 [/us/stat/106/4311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4311
-[/us/pl/102/587/s8005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs8005
+[/us/pl/102/587/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtVIII
 [/us/stat/106/5100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5100
-[/us/pl/106/562/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs304%2Fa
+[/us/pl/106/562/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2FtIII
 [/us/stat/114/2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2806
 [/us/pl/102/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567
 [/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587

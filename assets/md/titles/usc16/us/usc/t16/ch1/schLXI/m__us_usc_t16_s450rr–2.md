@@ -17,7 +17,7 @@
 
     The Congress of the United States highly commends the members of the joint international expedition which discovered the R.M.S. Titanic.
 
-([Pub. L. 99–513, § 4][/us/pl/99/513/s4], Oct. 21, 1986, [100 Stat. 2083][/us/stat/100/2083].)
+([Pub. L. 99–513][/us/pl/99/513], § 4, Oct. 21, 1986, [100 Stat. 2083][/us/stat/100/2083].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/513/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F513%2Fs4
+[/us/pl/99/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F513
 [/us/stat/100/2083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2083
 
 

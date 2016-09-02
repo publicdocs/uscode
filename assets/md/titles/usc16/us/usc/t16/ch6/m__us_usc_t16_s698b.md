@@ -27,7 +27,7 @@
 
         Whenever an owner of property elects to retain a right of use and occupancy as provided in this section, such owner shall be deemed to have waived any benefits or rights accruing under sections 4623, 4624, 4625, and 4626 of title 42, and for the purposes of such sections such owner shall not be considered a displaced person as defined in [section 4601(6) of title 42][/us/usc/t42/s4601/6].
 
-([Pub. L. 93–439, § 3][/us/pl/93/439/s3], Oct. 11, 1974, [88 Stat. 1256][/us/stat/88/1256]; [Pub. L. 94–578, title III, § 322][/us/pl/94/578/s322], Oct. 21, 1976, [90 Stat. 2742][/us/stat/90/2742].)
+([Pub. L. 93–439][/us/pl/93/439], § 3, Oct. 11, 1974, [88 Stat. 1256][/us/stat/88/1256]; [Pub. L. 94–578, title III][/us/pl/94/578/tIII], § 322, Oct. 21, 1976, [90 Stat. 2742][/us/stat/90/2742].)
 
  __Amendments__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t42/s4601/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4601%2F6
-[/us/pl/93/439/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F439%2Fs3
+[/us/pl/93/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F439
 [/us/stat/88/1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1256
-[/us/pl/94/578/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2Fs322
+[/us/pl/94/578/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2FtIII
 [/us/stat/90/2742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2742
 [/us/pl/94/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578
 

@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture and the Secretary of the Interior may severally prescribe such rules and regulations as may be appropriate to carry out the purposes of this subchapter. Each Secretary may delegate any of his powers and duties under this subchapter to other officers or employees of his Department.
 
-([Mar. 29, 1944, ch. 146, § 8][/us/act/1944-03-29/ch146/s8], [58 Stat. 134][/us/stat/58/134].)
+([Mar. 29, 1944, ch. 146][/us/act/1944-03-29/ch146], § 8, [58 Stat. 134][/us/stat/58/134].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1944-03-29/ch146/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-03-29%2Fch146%2Fs8
+[/us/act/1944-03-29/ch146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-03-29%2Fch146
 [/us/stat/58/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F134
 
 

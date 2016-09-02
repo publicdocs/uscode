@@ -45,11 +45,11 @@
 
         The Secretary of the Interior, in consultation with the Secretary of Agriculture, shall consummate the exchange of the lands owned by the Montana Power Company within the boundaries of the Rattlesnake National Recreation Area and Rattlesnake Wilderness by issuing bidding rights to the Montana Power Company which shall equal the negotiated cash equivalent of the fair market value of such Montana Power Company lands, as provided in the agreement of April 4, 1983, signed by the authorized representatives of the Secretary of Agriculture, the Secretary of the Interior and the Montana Power Company, except that adjustments in the “Cash Equivalency Rate” referred to in said agreement shall not exceed a rate determined by the Secretary of the Interior taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the remaining period during which the bidding rights may be used.
 
-([Pub. L. 96–476, § 4][/us/pl/96/476/s4], Oct. 19, 1980, [94 Stat. 2272][/us/stat/94/2272]; [Pub. L. 98–140, § 7][/us/pl/98/140/s7], Oct. 31, 1983, [97 Stat. 907][/us/stat/97/907].)
+([Pub. L. 96–476][/us/pl/96/476], § 4, Oct. 19, 1980, [94 Stat. 2272][/us/stat/94/2272]; [Pub. L. 98–140][/us/pl/98/140], § 7, Oct. 31, 1983, [97 Stat. 907][/us/stat/97/907].)
 
  __References in Text__ 
 
-    Section 2 of the Mineral Lands Leasing Act of 1920, referred to in subsec. (b)(1), probably means section 2(a) of the Mineral Lands Leasing Act of 1920, [act Feb. 25, 1920, ch. 85, § 2(a)][/us/act/1920-02-25/ch85/s2/a], [41 Stat. 438][/us/stat/41/438], which enacted [section 201(a) of Title 30][/us/usc/t30/s201/a], Mineral Lands and Mining. Section 2(b) to (d) of the Mineral Lands Leasing Act of 1920 enacted sections 201(b), 202, and 202(a) of Title 30, respectively.
+    Section 2 of the Mineral Lands Leasing Act of 1920, referred to in subsec. (b)(1), probably means section 2(a) of the Mineral Lands Leasing Act of 1920, [act Feb. 25, 1920, ch. 85][/us/act/1920-02-25/ch85], § 2(a), [41 Stat. 438][/us/stat/41/438], which enacted [section 201(a) of Title 30][/us/usc/t30/s201/a], Mineral Lands and Mining. Section 2(b) to (d) of the Mineral Lands Leasing Act of 1920 enacted sections 201(b), 202, and 202(a) of Title 30, respectively.
 
     The Mineral Lands Leasing Act of 1920, as amended, referred to in subsec. (b)(3), (5), is [act Feb. 25, 1920, ch. 85][/us/act/1920-02-25/ch85], [41 Stat. 437][/us/stat/41/437], as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of Title 30][/us/usc/t30/s181] and Tables.
 
@@ -59,9 +59,9 @@
 
  __Amendments__ 
 
-    1983—Subsec. (b)(3). [Pub. L. 98–140, § 7(a)][/us/pl/98/140/s7/a], amended par. (3) generally, substituting “two years from October 31, 1983, the bidding rights may be used as a monetary credit, which shall be considered ‘money’ within the meaning of section 35 of the Mineral Lands Leasing Act of 1920 ([30 U.S.C. 191][/us/usc/t30/s191]), against that portion of bonus payments, rental or royalty payments paid into the Treasury of the United States and retained by the Federal Government on any Federal coal lease won or otherwise held by the applicant, its successors or assigns” for “three years from October 19, 1980, the holder of the bidding rights may, at its election, use the outstanding bidding rights as a credit against any royalty, rental, or advance royalty payments owed to the United States on any Federal coal lease(s) it may then hold” and inserting provisions that the holder of the bidding rights shall pay the balance due on such bonus payments, rental or royalty payments in cash for transmittal to the States in the same manner and in the same amounts as though the entire payment were made in cash under the provisions of the Mineral Leasing Act of 1920 as amended, and that the bidding rights may be transferred or sold at any time by the owner to any other party with all the rights of the owner to the credit, and after such transfer, the owner shall notify the Secretary.
+    1983—Subsec. (b)(3). [Pub. L. 98–140][/us/pl/98/140], § 7(a), amended par. (3) generally, substituting “two years from October 31, 1983, the bidding rights may be used as a monetary credit, which shall be considered ‘money’ within the meaning of section 35 of the Mineral Lands Leasing Act of 1920 ([30 U.S.C. 191][/us/usc/t30/s191]), against that portion of bonus payments, rental or royalty payments paid into the Treasury of the United States and retained by the Federal Government on any Federal coal lease won or otherwise held by the applicant, its successors or assigns” for “three years from October 19, 1980, the holder of the bidding rights may, at its election, use the outstanding bidding rights as a credit against any royalty, rental, or advance royalty payments owed to the United States on any Federal coal lease(s) it may then hold” and inserting provisions that the holder of the bidding rights shall pay the balance due on such bonus payments, rental or royalty payments in cash for transmittal to the States in the same manner and in the same amounts as though the entire payment were made in cash under the provisions of the Mineral Leasing Act of 1920 as amended, and that the bidding rights may be transferred or sold at any time by the owner to any other party with all the rights of the owner to the credit, and after such transfer, the owner shall notify the Secretary.
 
-    Subsec. (e). [Pub. L. 98–140, § 7(b)][/us/pl/98/140/s7/b], added subsec. (e).
+    Subsec. (e). [Pub. L. 98–140][/us/pl/98/140], § 7(b), added subsec. (e).
 
 ----------
 
@@ -74,19 +74,19 @@
 [/us/usc/t30/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs191
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
-[/us/pl/96/476/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F476%2Fs4
+[/us/pl/96/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F476
 [/us/stat/94/2272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2272
-[/us/pl/98/140/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F140%2Fs7
+[/us/pl/98/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F140
 [/us/stat/97/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F907
-[/us/act/1920-02-25/ch85/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85%2Fs2%2Fa
+[/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F438
 [/us/usc/t30/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs201%2Fa
 [/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F437
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
 [/us/pl/98/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F140
-[/us/pl/98/140/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F140%2Fs7%2Fa
+[/us/pl/98/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F140
 [/us/usc/t30/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs191
-[/us/pl/98/140/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F140%2Fs7%2Fb
+[/us/pl/98/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F140
 
 

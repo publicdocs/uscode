@@ -73,13 +73,13 @@
 
             (B) provide that all persons served directly or indirectly by such public utility will be treated, without undue prejudice or disadvantage.
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 202, as added [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, § 213, [49 Stat. 848][/us/stat/49/848]; amended [Aug. 7, 1953, ch. 343][/us/act/1953-08-07/ch343], [67 Stat. 461][/us/stat/67/461]; [Pub. L. 95–617, title II, § 206(a)][/us/pl/95/617/s206/a], Nov. 9, 1978, [92 Stat. 3141][/us/stat/92/3141]; [Pub. L. 114–94, div. F, § 61002][/us/pl/114/94/s61002], Dec. 4, 2015, [129 Stat. 1772][/us/stat/129/1772].)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 202, as added [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, § 213, [49 Stat. 848][/us/stat/49/848]; amended [Aug. 7, 1953, ch. 343][/us/act/1953-08-07/ch343], [67 Stat. 461][/us/stat/67/461]; [Pub. L. 95–617, title II][/us/pl/95/617/tII], § 206(a), Nov. 9, 1978, [92 Stat. 3141][/us/stat/92/3141]; [Pub. L. 114–94, div. F][/us/pl/114/94/dF], § 61002, Dec. 4, 2015, [129 Stat. 1772][/us/stat/129/1772].)
 
  __Amendments__ 
 
-    2015—Subsec. (c). [Pub. L. 114–94, § 61002(a)][/us/pl/114/94/s61002/a], designated existing provisions as par. (1) and added pars. (2) to (5).
+    2015—Subsec. (c). [Pub. L. 114–94][/us/pl/114/94], § 61002(a), designated existing provisions as par. (1) and added pars. (2) to (5).
 
-    Subsec. (d). [Pub. L. 114–94, § 61002(b)][/us/pl/114/94/s61002/b], inserted “or municipality” before “engaged in the transmission or sale of electric energy”.
+    Subsec. (d). [Pub. L. 114–94][/us/pl/114/94], § 61002(b), inserted “or municipality” before “engaged in the transmission or sale of electric energy”.
 
     1978—Subsec. (g). [Pub. L. 95–617][/us/pl/95/617] added subsec. (g).
 
@@ -87,7 +87,7 @@
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–617, title II, § 206(b)][/us/pl/95/617/s206/b], Nov. 9, 1978, [92 Stat. 3142][/us/stat/92/3142], provided that: 
+[Pub. L. 95–617, title II][/us/pl/95/617/tII], § 206(b), Nov. 9, 1978, [92 Stat. 3142][/us/stat/92/3142], provided that: 
 
 > “The amendment made by subsection (a) \[adding subsec. (g) of this section\] shall not affect any proceeding of the Commission \[Federal Energy Regulatory Commission\] pending on the date of the enactment of this Act \[Nov. 9, 1978\] or any case pending on such date respecting a proceeding of the Commission.”
 
@@ -111,14 +111,14 @@
 [/us/stat/49/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F848
 [/us/act/1953-08-07/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-07%2Fch343
 [/us/stat/67/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F461
-[/us/pl/95/617/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs206%2Fa
+[/us/pl/95/617/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtII
 [/us/stat/92/3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3141
-[/us/pl/114/94/s61002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs61002
+[/us/pl/114/94/dF]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdF
 [/us/stat/129/1772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1772
-[/us/pl/114/94/s61002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs61002%2Fa
-[/us/pl/114/94/s61002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs61002%2Fb
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
-[/us/pl/95/617/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs206%2Fb
+[/us/pl/95/617/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtII
 [/us/stat/92/3142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3142
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/usc/t15/s717b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717b

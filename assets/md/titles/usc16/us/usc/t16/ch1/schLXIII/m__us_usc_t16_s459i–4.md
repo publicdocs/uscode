@@ -17,7 +17,7 @@
 
     The Secretary shall permit hunting, fishing, and trapping on lands and waters under his jurisdiction within the boundaries of the seashore in accordance with the appropriate laws of Georgia and the United States to the extent applicable, except that he may designate zones where, and establish periods when, no hunting, fishing, or trapping shall be permitted for reasons of public safety, administration, fish and wildlife management, or public use and enjoyment. Except in emergencies, any regulations prescribing any such restrictions shall be put into effect only after consultation with the appropriate State agency responsible for hunting, fishing, and trapping activities.
 
-([Pub. L. 92–536, § 5][/us/pl/92/536/s5], Oct. 23, 1972, [86 Stat. 1068][/us/stat/86/1068].)
+([Pub. L. 92–536][/us/pl/92/536], § 5, Oct. 23, 1972, [86 Stat. 1068][/us/stat/86/1068].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/536/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F536%2Fs5
+[/us/pl/92/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F536
 [/us/stat/86/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1068
 
 

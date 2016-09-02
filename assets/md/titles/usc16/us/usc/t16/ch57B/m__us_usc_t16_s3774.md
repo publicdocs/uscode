@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated to carry out this chapter not more than $75,000,000 for each of fiscal years 2006 through 2011.
 
-([Pub. L. 109–294, § 5][/us/pl/109/294/s5], Oct. 3, 2006, [120 Stat. 1354][/us/stat/120/1354].)
+([Pub. L. 109–294][/us/pl/109/294], § 5, Oct. 3, 2006, [120 Stat. 1354][/us/stat/120/1354].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/294/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F294%2Fs5
+[/us/pl/109/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F294
 [/us/stat/120/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1354
 
 

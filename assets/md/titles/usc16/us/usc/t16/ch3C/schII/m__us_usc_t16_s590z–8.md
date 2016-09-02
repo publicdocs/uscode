@@ -23,7 +23,7 @@
 
         In connection with the construction or operation and maintenance of a project undertaken pursuant to the authority of this subchapter, the Secretary shall have with respect to construction and supply contracts, and with respect to the acquisition, exchange, and disposition of lands, interest in lands, water rights, and other property and the relocation thereof, the same authority, including authority to acquire lands and interests in land and water rights with titles and at prices satisfactory to him, which he has in connection with projects under the Federal reclamation laws.
 
-([Aug. 11, 1939, ch. 717, § 10][/us/act/1939-08-11/ch717/s10], as added [Oct. 14, 1940, ch. 861][/us/act/1940-10-14/ch861], [54 Stat. 1125][/us/stat/54/1125].)
+([Aug. 11, 1939, ch. 717][/us/act/1939-08-11/ch717], § 10, as added [Oct. 14, 1940, ch. 861][/us/act/1940-10-14/ch861], [54 Stat. 1125][/us/stat/54/1125].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t16/s590z–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590z%E2%80%933
 [/us/stat/32/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F388
-[/us/act/1939-08-11/ch717/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-11%2Fch717%2Fs10
+[/us/act/1939-08-11/ch717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-11%2Fch717
 [/us/act/1940-10-14/ch861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch861
 [/us/stat/54/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1125
 [/us/act/1902-06-17/ch1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-06-17%2Fch1093

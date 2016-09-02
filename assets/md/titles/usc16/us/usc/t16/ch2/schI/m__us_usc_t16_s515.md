@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture is hereby authorized and directed to examine, locate, and purchase such forested, cut-over, or denuded lands within the watersheds of navigable streams as in his judgment may be necessary to the regulation of the flow of navigable streams or for the production of timber. No deed or other instrument of conveyance of lands referred to herein shall be accepted or approved by the Secretary of Agriculture under this Act until the legislature of the State in which the land lies shall have consented to the acquisition of such land by the United States for the purpose of preserving the navigability of navigable streams.
 
-([Mar. 1, 1911, ch. 186, § 6][/us/act/1911-03-01/ch186/s6], [36 Stat. 962][/us/stat/36/962]; [June 7, 1924, ch. 348, § 6][/us/act/1924-06-07/ch348/s6], [43 Stat. 654][/us/stat/43/654]; [Pub. L. 94–588, § 17(a)(3)][/us/pl/94/588/s17/a/3], Oct. 22, 1976, [90 Stat. 2961][/us/stat/90/2961].)
+([Mar. 1, 1911, ch. 186][/us/act/1911-03-01/ch186], § 6, [36 Stat. 962][/us/stat/36/962]; [June 7, 1924, ch. 348][/us/act/1924-06-07/ch348], § 6, [43 Stat. 654][/us/stat/43/654]; [Pub. L. 94–588][/us/pl/94/588], § 17(a)(3), Oct. 22, 1976, [90 Stat. 2961][/us/stat/90/2961].)
 
  __References in Text__ 
 
@@ -38,11 +38,11 @@
 ----------
 ----------
 
-[/us/act/1911-03-01/ch186/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-01%2Fch186%2Fs6
+[/us/act/1911-03-01/ch186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-01%2Fch186
 [/us/stat/36/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F962
-[/us/act/1924-06-07/ch348/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch348%2Fs6
+[/us/act/1924-06-07/ch348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch348
 [/us/stat/43/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F654
-[/us/pl/94/588/s17/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588%2Fs17%2Fa%2F3
+[/us/pl/94/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588
 [/us/stat/90/2961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2961
 [/us/act/1911-03-01/ch186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-01%2Fch186
 [/us/stat/36/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F961

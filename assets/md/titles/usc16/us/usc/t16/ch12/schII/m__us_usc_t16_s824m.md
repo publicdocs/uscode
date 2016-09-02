@@ -17,7 +17,7 @@
 
     No rate or charge received by an exempt wholesale generator for the sale of electric energy shall be lawful under [section 824d of this title][/us/usc/t16/s824d] if, after notice and opportunity for hearing, the Commission finds that such rate or charge results from the receipt of any undue preference or advantage from an electric utility which is an associate company or an affiliate of the exempt wholesale generator. For purposes of this section, the terms “associate company” and “affiliate” shall have the same meaning as provided in [section 16451 of title 42][/us/usc/t42/s16451]. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 214, as added [Pub. L. 102–486, title VII, § 724][/us/pl/102/486/s724], Oct. 24, 1992, [106 Stat. 2920][/us/stat/106/2920]; amended [Pub. L. 109–58, title XII, § 1277(b)(2)][/us/pl/109/58/s1277/b/2], Aug. 8, 2005, [119 Stat. 978][/us/stat/119/978].)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 214, as added [Pub. L. 102–486, title VII][/us/pl/102/486/tVII], § 724, Oct. 24, 1992, [106 Stat. 2920][/us/stat/106/2920]; amended [Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1277(b)(2), Aug. 8, 2005, [119 Stat. 978][/us/stat/119/978].)
 
  __References in Text__ 
 
@@ -45,9 +45,9 @@
 [/us/usc/t16/s824d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824d
 [/us/usc/t42/s16451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16451
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
-[/us/pl/102/486/s724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs724
+[/us/pl/102/486/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtVII
 [/us/stat/106/2920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2920
-[/us/pl/109/58/s1277/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1277%2Fb%2F2
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F978
 [/us/usc/t42/s16451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16451
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58

@@ -17,7 +17,7 @@
 
     The boundaries of the Hot Springs National Park in the State of Arkansas are extended to include the following land, to wit: Lot 11, block 101; lot 5, block 185; lot 6, block 186; lots 5, 6, and 7, block 187; and lots 1, 2, 3, 6, and 15, block 188, United States Hot Springs Reservation, as surveyed, mapped, and plotted by the United States Hot Springs Commission, and any of such lands when acquired by the Secretary of the Interior on behalf of the United States shall be and remain a part of the Hot Springs National Park, subject to all laws and regulations applicable thereto.
 
-([June 15, 1936, ch. 554, § 1][/us/act/1936-06-15/ch554/s1], [49 Stat. 1516][/us/stat/49/1516]; [Aug. 10, 1939, ch. 639][/us/act/1939-08-10/ch639], [53 Stat. 1341][/us/stat/53/1341].)
+([June 15, 1936, ch. 554][/us/act/1936-06-15/ch554], § 1, [49 Stat. 1516][/us/stat/49/1516]; [Aug. 10, 1939, ch. 639][/us/act/1939-08-10/ch639], [53 Stat. 1341][/us/stat/53/1341].)
 
  __Amendments__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1936-06-15/ch554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch554%2Fs1
+[/us/act/1936-06-15/ch554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch554
 [/us/stat/49/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1516
 [/us/act/1939-08-10/ch639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-10%2Fch639
 [/us/stat/53/1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1341

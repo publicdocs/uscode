@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to make such expenditures for construction, equipment, maintenance, repairs, and improvements, including necessary investigations, and expenditures for personal services and office expenses at the seat of government and elsewhere, and to employ such means as may be necessary to execute the functions imposed upon him by this section or sections 690 to 690i of this title and as may be provided for by Congress from time to time.
 
-([Apr. 23, 1928, ch. 413, § 7][/us/act/1928-04-23/ch413/s7], [45 Stat. 449][/us/stat/45/449]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433].)
+([Apr. 23, 1928, ch. 413][/us/act/1928-04-23/ch413], § 7, [45 Stat. 449][/us/stat/45/449]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1928-04-23/ch413/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-04-23%2Fch413%2Fs7
+[/us/act/1928-04-23/ch413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-04-23%2Fch413
 [/us/stat/45/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F449
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
 [/us/usc/t16/s671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs671

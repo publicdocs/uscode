@@ -39,7 +39,7 @@
 
         United States Commissioners and Alternate United States Commissioners shall receive no compensation for their services as Commissioners and Alternate Commissioners.
 
-([Pub. L. 102–567, title VIII, § 804][/us/pl/102/567/s804], Oct. 29, 1992, [106 Stat. 4310][/us/stat/106/4310]; [Pub. L. 102–587, title VIII, § 8004][/us/pl/102/587/s8004], Nov. 4, 1992, [106 Stat. 5099][/us/stat/106/5099]; [Pub. L. 106–562, title III, § 304][/us/pl/106/562/s304], Dec. 23, 2000, [114 Stat. 2806][/us/stat/114/2806].)
+([Pub. L. 102–567, title VIII][/us/pl/102/567/tVIII], § 804, Oct. 29, 1992, [106 Stat. 4310][/us/stat/106/4310]; [Pub. L. 102–587, title VIII][/us/pl/102/587/tVIII], § 8004, Nov. 4, 1992, [106 Stat. 5099][/us/stat/106/5099]; [Pub. L. 106–562, title III][/us/pl/106/562/tIII], § 304, Dec. 23, 2000, [114 Stat. 2806][/us/stat/114/2806].)
 
  __Codification__ 
 
@@ -47,7 +47,7 @@
 
  __Amendments__ 
 
-    2000—Subsec. (a). [Pub. L. 106–562, § 304(b)][/us/pl/106/562/s304/b], inserted after second sentence “Individuals serving as such Commissioners shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28.”
+    2000—Subsec. (a). [Pub. L. 106–562][/us/pl/106/562], § 304(b), inserted after second sentence “Individuals serving as such Commissioners shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28.”
 
 ----------
 
@@ -57,16 +57,16 @@
 ----------
 
 [/us/usc/t16/s5004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5004
-[/us/pl/102/567/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs804
+[/us/pl/102/567/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtVIII
 [/us/stat/106/4310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4310
-[/us/pl/102/587/s8004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs8004
+[/us/pl/102/587/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtVIII
 [/us/stat/106/5099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5099
-[/us/pl/106/562/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs304
+[/us/pl/106/562/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2FtIII
 [/us/stat/114/2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2806
 [/us/pl/102/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567
 [/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
 [/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
 [/us/pl/106/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562
-[/us/pl/106/562/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs304%2Fb
+[/us/pl/106/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562
 
 

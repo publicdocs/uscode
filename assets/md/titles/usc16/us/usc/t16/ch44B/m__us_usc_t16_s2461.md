@@ -49,11 +49,11 @@
 
         (4) urge all nations to consider a permanent ban on Antarctic mineral resource activities.
 
-([Pub. L. 101–594, § 2][/us/pl/101/594/s2], Nov. 16, 1990, [104 Stat. 2975][/us/stat/104/2975].)
+([Pub. L. 101–594][/us/pl/101/594], § 2, Nov. 16, 1990, [104 Stat. 2975][/us/stat/104/2975].)
 
  __Short Title__ 
 
-[Pub. L. 101–594, § 1][/us/pl/101/594/s1], Nov. 16, 1990, [104 Stat. 2975][/us/stat/104/2975], provided that: 
+[Pub. L. 101–594][/us/pl/101/594], § 1, Nov. 16, 1990, [104 Stat. 2975][/us/stat/104/2975], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Antarctic Protection Act of 1990’.”
 
@@ -64,9 +64,9 @@
 ----------
 ----------
 
-[/us/pl/101/594/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F594%2Fs2
+[/us/pl/101/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F594
 [/us/stat/104/2975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2975
-[/us/pl/101/594/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F594%2Fs1
+[/us/pl/101/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F594
 [/us/stat/104/2975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2975
 
 

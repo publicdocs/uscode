@@ -113,7 +113,7 @@
 
         Subject to valid existing rights, all public lands within the scenic area administered by the Secretary of the Interior through the Bureau of Land Management are hereby transferred without consideration to the jurisdiction of the Secretary to be managed as National Forest lands in accordance with the provisions of sections 544 to 544p of this title.
 
-([Pub. L. 99–663, § 14][/us/pl/99/663/s14], Nov. 17, 1986, [100 Stat. 4294][/us/stat/100/4294]; [Pub. L. 106–291, title III, § 346(e)][/us/pl/106/291/s346/e], Oct. 11, 2000, [114 Stat. 1000][/us/stat/114/1000]; [Pub. L. 113–287, § 5(d)(16)][/us/pl/113/287/s5/d/16], Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265].)
+([Pub. L. 99–663][/us/pl/99/663], § 14, Nov. 17, 1986, [100 Stat. 4294][/us/stat/100/4294]; [Pub. L. 106–291, title III][/us/pl/106/291/tIII], § 346(e), Oct. 11, 2000, [114 Stat. 1000][/us/stat/114/1000]; [Pub. L. 113–287][/us/pl/113/287], § 5(d)(16), Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265].)
 
  __References in Text__ 
 
@@ -125,9 +125,9 @@
 
     The Coastal Zone Management Act of 1972, referred to in subsec. (e)(3)(D)(iii), is title III of [Pub. L. 89–454][/us/pl/89/454] as added by [Pub. L. 92–583][/us/pl/92/583], Oct. 27, 1972, [86 Stat. 1280][/us/stat/86/1280], as amended, which is classified generally to chapter 33 (§ 1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1451 of this title][/us/usc/t16/s1451] and Tables.
 
-    The Disaster Relief Act of 1974, referred to in subsec. (e)(3)(D)(v), was renamed The Robert T. Stafford Disaster Relief and Emergency Assistance Act, and was substantially revised by [Pub. L. 100–707][/us/pl/100/707], Nov. 23, 1988, [102 Stat. 4689][/us/stat/102/4689]. [Section 102(b) of Pub. L. 100–707][/us/pl/100/707/s102/b] provided that a reference in any other law to a provision of the Disaster Relief Act of 1974 shall be deemed to be a reference to such provision of The Robert T. Stafford Disaster Relief and Emergency Assistance Act. The Robert T. Stafford Disaster Relief and Emergency Assistance Act was renamed the Robert T. Stafford Disaster Relief and Emergency Assistance Act by [Pub. L. 106–390, title III, § 301][/us/pl/106/390/s301], Oct. 30, 2000, [114 Stat. 1572][/us/stat/114/1572]. [Section 105(d) of Pub. L. 100–707][/us/pl/100/707/s105/d] repealed sections 305 and 306 of the Act ([42 U.S.C. 5145][/us/usc/t42/s5145] and 5146) and redesignated sections 308 and 309 of the Act ([42 U.S.C. 5148][/us/usc/t42/s5148] and 5149), and any references thereto, as sections 305 and 306, respectively. For corresponding provisions to former sections 305 and 306 of the Act, see sections 5170a, 5170b, and 5192 of Title 42, The Public Health and Welfare.
+    The Disaster Relief Act of 1974, referred to in subsec. (e)(3)(D)(v), was renamed The Robert T. Stafford Disaster Relief and Emergency Assistance Act, and was substantially revised by [Pub. L. 100–707][/us/pl/100/707], Nov. 23, 1988, [102 Stat. 4689][/us/stat/102/4689]. [Section 102(b) of Pub. L. 100–707][/us/pl/100/707/s102/b] provided that a reference in any other law to a provision of the Disaster Relief Act of 1974 shall be deemed to be a reference to such provision of The Robert T. Stafford Disaster Relief and Emergency Assistance Act. The Robert T. Stafford Disaster Relief and Emergency Assistance Act was renamed the Robert T. Stafford Disaster Relief and Emergency Assistance Act by [Pub. L. 106–390, title III][/us/pl/106/390/tIII], § 301, Oct. 30, 2000, [114 Stat. 1572][/us/stat/114/1572]. [Section 105(d) of Pub. L. 100–707][/us/pl/100/707/s105/d] repealed sections 305 and 306 of the Act ([42 U.S.C. 5145][/us/usc/t42/s5145] and 5146) and redesignated sections 308 and 309 of the Act ([42 U.S.C. 5148][/us/usc/t42/s5148] and 5149), and any references thereto, as sections 305 and 306, respectively. For corresponding provisions to former sections 305 and 306 of the Act, see sections 5170a, 5170b, and 5192 of Title 42, The Public Health and Welfare.
 
-    Section 1362 of the National Flood Insurance Act of 1968 ([42 U.S.C. 4103][/us/usc/t42/s4103]), referred to in subsec. (e)(3)(D)(v), was repealed by [Pub. L. 103–325, title V, § 551(a)][/us/pl/103/325/s551/a], Sept. 23, 1994, [108 Stat. 2269][/us/stat/108/2269].
+    Section 1362 of the National Flood Insurance Act of 1968 ([42 U.S.C. 4103][/us/usc/t42/s4103]), referred to in subsec. (e)(3)(D)(v), was repealed by [Pub. L. 103–325, title V][/us/pl/103/325/tV], § 551(a), Sept. 23, 1994, [108 Stat. 2269][/us/stat/108/2269].
 
     The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (e)(4), is [Pub. L. 93–344][/us/pl/93/344], July 12, 1974, [88 Stat. 297][/us/stat/88/297], as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2][/us/usc/t2/s621], The Congress, and Tables.
 
@@ -159,11 +159,11 @@
 [/us/usc/t16/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1451
 [/us/usc/t42/s5145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5145
 [/us/usc/t42/s4103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4103
-[/us/pl/99/663/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663%2Fs14
+[/us/pl/99/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663
 [/us/stat/100/4294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4294
-[/us/pl/106/291/s346/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2Fs346%2Fe
+[/us/pl/106/291/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2FtIII
 [/us/stat/114/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1000
-[/us/pl/113/287/s5/d/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F16
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3265
 [/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F437
@@ -179,13 +179,13 @@
 [/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
 [/us/stat/102/4689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4689
 [/us/pl/100/707/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs102%2Fb
-[/us/pl/106/390/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2Fs301
+[/us/pl/106/390/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F390%2FtIII
 [/us/stat/114/1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1572
 [/us/pl/100/707/s105/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs105%2Fd
 [/us/usc/t42/s5145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5145
 [/us/usc/t42/s5148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5148
 [/us/usc/t42/s4103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4103
-[/us/pl/103/325/s551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs551%2Fa
+[/us/pl/103/325/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtV
 [/us/stat/108/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2269
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
 [/us/stat/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F297

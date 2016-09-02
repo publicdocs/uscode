@@ -39,7 +39,7 @@
 
         The holder of any unperfected mining claim which was, prior to November 16, 1978, located, recorded, and maintained in accordance with applicable Federal and State laws on lands located within the boundaries of the Steese National Conservation Area, or the White Mountains National Recreation Area established by this subchapter, shall be entitled during a two-year period after the date that the Secretary exercises his authority under section 460mm–1 or 460mm–4 of this title to open an area containing such claim to mining, (1) to a preference right to rerecord his claim under applicable law and to develop such claim under [section 460mm–1 of this title][/us/usc/t16/s460mm–1] or (2) to obtain a lease to remove nonleasable minerals from the claim under [section 460mm–4 of this title][/us/usc/t16/s460mm–4].
 
-([Pub. L. 96–487, title IV, § 404][/us/pl/96/487/s404], Dec. 2, 1980, [94 Stat. 2397][/us/stat/94/2397].)
+([Pub. L. 96–487, title IV][/us/pl/96/487/tIV], § 404, Dec. 2, 1980, [94 Stat. 2397][/us/stat/94/2397].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 [/us/usc/t16/s3170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3170
 [/us/usc/t16/s460mm–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460mm%E2%80%931
 [/us/usc/t16/s460mm–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460mm%E2%80%934
-[/us/pl/96/487/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs404
+[/us/pl/96/487/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtIV
 [/us/stat/94/2397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2397
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371

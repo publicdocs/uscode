@@ -27,7 +27,7 @@
 
         The Secretary is authorized to enter into cooperative agreements with local, State, and Federal agencies and with educational institutions and nonprofit entities to coordinate research designed to ensure full protection of the natural and cultural resources of the seashore, consistent with the purposes for which the seashore was established, and other applicable law. The Secretary is also authorized to provide technical assistance to local, State, and Federal agencies and to educational institutions and non-profit entities in order to further such purposes. The Secretary shall submit a report every two years to the Congress on the results of the coordinated research program authorized by this section and plans to implement the recommendations arising from such research.
 
-([Pub. L. 89–195, § 6][/us/pl/89/195/s6], Sept. 21, 1965, [79 Stat. 826][/us/stat/79/826]; [Pub. L. 102–320, § 1(5)][/us/pl/102/320/s1/5], July 10, 1992, [106 Stat. 321][/us/stat/106/321].)
+([Pub. L. 89–195][/us/pl/89/195], § 6, Sept. 21, 1965, [79 Stat. 826][/us/stat/79/826]; [Pub. L. 102–320][/us/pl/102/320], § 1(5), July 10, 1992, [106 Stat. 321][/us/stat/106/321].)
 
  __References in Text__ 
 
@@ -49,9 +49,9 @@
 
 >     “Any reference in a law, map, regulation, document, paper, or other record of the United States to the building referred to in section 1 shall be deemed to be a reference to the ‘Herbert H. Bateman Education and Administrative Center’.”
 
-    Similar provisions were contained in [Pub. L. 106–369, § 8][/us/pl/106/369/s8], Oct. 27, 2000, [114 Stat. 1419][/us/stat/114/1419].
+    Similar provisions were contained in [Pub. L. 106–369][/us/pl/106/369], § 8, Oct. 27, 2000, [114 Stat. 1419][/us/stat/114/1419].
 
-    [Pub. L. 106–291, title I, § 141][/us/pl/106/291/s141], Oct. 11, 2000, [114 Stat. 949][/us/stat/114/949], provided that the building housing the visitors center within the boundaries of the Chincoteague National Wildlife Refuge on Assateague Island, Virginia, was to be known and designated as the “Herbert H. Bateman Educational and Administrative Center”.
+    [Pub. L. 106–291, title I][/us/pl/106/291/tI], § 141, Oct. 11, 2000, [114 Stat. 949][/us/stat/114/949], provided that the building housing the visitors center within the boundaries of the Chincoteague National Wildlife Refuge on Assateague Island, Virginia, was to be known and designated as the “Herbert H. Bateman Educational and Administrative Center”.
 
 ----------
 
@@ -62,16 +62,16 @@
 
 [/us/stat/76/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F653
 [/us/usc/t16/s460k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460k
-[/us/pl/89/195/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F195%2Fs6
+[/us/pl/89/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F195
 [/us/stat/79/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F826
-[/us/pl/102/320/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F320%2Fs1%2F5
+[/us/pl/102/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F320
 [/us/stat/106/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F321
 [/us/pl/102/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F320
 [/us/pl/106/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F480
 [/us/stat/114/2186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2186
-[/us/pl/106/369/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F369%2Fs8
+[/us/pl/106/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F369
 [/us/stat/114/1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1419
-[/us/pl/106/291/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2Fs141
+[/us/pl/106/291/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2FtI
 [/us/stat/114/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F949
 
 

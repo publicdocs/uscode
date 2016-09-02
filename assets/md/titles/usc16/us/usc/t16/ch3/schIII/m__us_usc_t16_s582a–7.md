@@ -17,7 +17,7 @@
 
     The term “State” as used in this subchapter shall include Puerto Rico, the Virgin Islands, and Guam.
 
-([Pub. L. 87–788, § 8][/us/pl/87/788/s8], Oct. 10, 1962, [76 Stat. 807][/us/stat/76/807]; [Pub. L. 92–318, title V, § 506(j)][/us/pl/92/318/s506/j], June 23, 1972, [86 Stat. 351][/us/stat/86/351].)
+([Pub. L. 87–788][/us/pl/87/788], § 8, Oct. 10, 1962, [76 Stat. 807][/us/stat/76/807]; [Pub. L. 92–318, title V][/us/pl/92/318/tV], § 506(j), June 23, 1972, [86 Stat. 351][/us/stat/86/351].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/87/788/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F788%2Fs8
+[/us/pl/87/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F788
 [/us/stat/76/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F807
-[/us/pl/92/318/s506/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs506%2Fj
+[/us/pl/92/318/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtV
 [/us/stat/86/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F351
 [/us/pl/92/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318
 [/us/pl/92/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318

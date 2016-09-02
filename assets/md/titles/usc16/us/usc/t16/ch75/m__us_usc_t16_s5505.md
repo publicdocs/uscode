@@ -37,7 +37,7 @@
 
     (10) to violate any provision of this chapter or any regulation or permit issued under this chapter.
 
-([Pub. L. 104–43, title I, § 106][/us/pl/104/43/s106], Nov. 3, 1995, [109 Stat. 371][/us/stat/109/371].)
+([Pub. L. 104–43, title I][/us/pl/104/43/tI], § 106, Nov. 3, 1995, [109 Stat. 371][/us/stat/109/371].)
 
 ----------
 
@@ -49,7 +49,7 @@
 [/us/usc/t16/s5504/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5504%2Fe
 [/us/usc/t16/s5503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5503
 [/us/usc/t16/s5503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5503
-[/us/pl/104/43/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs106
+[/us/pl/104/43/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtI
 [/us/stat/109/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F371
 
 

@@ -45,7 +45,7 @@
 
                 The administering agency for the trail shall encourage volunteer trail groups to participate in the development of the trail.
 
-([Pub. L. 90–543, § 10][/us/pl/90/543/s10], Oct. 2, 1968, [82 Stat. 926][/us/stat/82/926]; [Pub. L. 95–248, § 1(5)][/us/pl/95/248/s1/5], Mar. 21, 1978, [92 Stat. 160][/us/stat/92/160]; [Pub. L. 95–625, title V, § 551(23)][/us/pl/95/625/s551/23], Nov. 10, 1978, [92 Stat. 3517][/us/stat/92/3517]; [Pub. L. 96–199, title I, § 101(b)(4)][/us/pl/96/199/s101/b/4], Mar. 5, 1980, [94 Stat. 68][/us/stat/94/68]; [Pub. L. 96–370, § 1(b)][/us/pl/96/370/s1/b], Oct. 3, 1980, [94 Stat. 1360][/us/stat/94/1360]; [Pub. L. 98–11, title II, § 209][/us/pl/98/11/s209], Mar. 28, 1983, [97 Stat. 48][/us/stat/97/48]; [Pub. L. 100–35, § 1(b)][/us/pl/100/35/s1/b], May 8, 1987, [101 Stat. 302][/us/stat/101/302]; [Pub. L. 100–192, § 2][/us/pl/100/192/s2], Dec. 16, 1987, [101 Stat. 1309][/us/stat/101/1309]; [Pub. L. 101–365, § 2(b)][/us/pl/101/365/s2/b], Aug. 15, 1990, [104 Stat. 429][/us/stat/104/429]; [Pub. L. 103–437, § 6(d)(38)][/us/pl/103/437/s6/d/38], Nov. 2, 1994, [108 Stat. 4585][/us/stat/108/4585]; [Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(J)][/us/pl/104/333/s814/d/1/J], Nov. 12, 1996, [110 Stat. 4196][/us/stat/110/4196]; [Pub. L. 108–352, § 14(2)][/us/pl/108/352/s14/2], Oct. 21, 2004, [118 Stat. 1397][/us/stat/118/1397]; [Pub. L. 111–11, title V, § 5301(b)][/us/pl/111/11/s5301/b], Mar. 30, 2009, [123 Stat. 1161][/us/stat/123/1161]; [Pub. L. 113–287, § 5(d)(26)][/us/pl/113/287/s5/d/26], Dec. 19, 2014, [128 Stat. 3266][/us/stat/128/3266].)
+([Pub. L. 90–543][/us/pl/90/543], § 10, Oct. 2, 1968, [82 Stat. 926][/us/stat/82/926]; [Pub. L. 95–248][/us/pl/95/248], § 1(5), Mar. 21, 1978, [92 Stat. 160][/us/stat/92/160]; [Pub. L. 95–625, title V][/us/pl/95/625/tV], § 551(23), Nov. 10, 1978, [92 Stat. 3517][/us/stat/92/3517]; [Pub. L. 96–199, title I][/us/pl/96/199/tI], § 101(b)(4), Mar. 5, 1980, [94 Stat. 68][/us/stat/94/68]; [Pub. L. 96–370][/us/pl/96/370], § 1(b), Oct. 3, 1980, [94 Stat. 1360][/us/stat/94/1360]; [Pub. L. 98–11, title II][/us/pl/98/11/tII], § 209, Mar. 28, 1983, [97 Stat. 48][/us/stat/97/48]; [Pub. L. 100–35][/us/pl/100/35], § 1(b), May 8, 1987, [101 Stat. 302][/us/stat/101/302]; [Pub. L. 100–192][/us/pl/100/192], § 2, Dec. 16, 1987, [101 Stat. 1309][/us/stat/101/1309]; [Pub. L. 101–365][/us/pl/101/365], § 2(b), Aug. 15, 1990, [104 Stat. 429][/us/stat/104/429]; [Pub. L. 103–437][/us/pl/103/437], § 6(d)(38), Nov. 2, 1994, [108 Stat. 4585][/us/stat/108/4585]; [Pub. L. 104–333, div. I, title VIII][/us/pl/104/333/dI/tVIII], § 814(d)(1)(J), Nov. 12, 1996, [110 Stat. 4196][/us/stat/110/4196]; [Pub. L. 108–352][/us/pl/108/352], § 14(2), Oct. 21, 2004, [118 Stat. 1397][/us/stat/118/1397]; [Pub. L. 111–11, title V][/us/pl/111/11/tV], § 5301(b), Mar. 30, 2009, [123 Stat. 1161][/us/stat/123/1161]; [Pub. L. 113–287][/us/pl/113/287], § 5(d)(26), Dec. 19, 2014, [128 Stat. 3266][/us/stat/128/3266].)
 
  __References in Text__ 
 
@@ -75,11 +75,11 @@
 
     [Pub. L. 100–35][/us/pl/100/35] inserted “and (15)” after “(13)”.
 
-    1983—Subsec. (a)(1). [Pub. L. 98–11, § 209(1)][/us/pl/98/11/s209/1], (2), inserted “(a)(1)” before “There are hereby authorized to be appropriated” at beginning of undesignated opening paragraph, and substituted “for the” for “(a) The” before “Appalachian National Scenic Trail” at beginning of former subsec. (a).
+    1983—Subsec. (a)(1). [Pub. L. 98–11][/us/pl/98/11], § 209(1), (2), inserted “(a)(1)” before “There are hereby authorized to be appropriated” at beginning of undesignated opening paragraph, and substituted “for the” for “(a) The” before “Appalachian National Scenic Trail” at beginning of former subsec. (a).
 
-    Subsec. (a)(2). [Pub. L. 98–11, § 209(3)][/us/pl/98/11/s209/3], (4), inserted “(2)” before sentence beginning “It is the express intent of the Congress” and substituted “protection of the Appalachian Trail” for “protection of the Trail”.
+    Subsec. (a)(2). [Pub. L. 98–11][/us/pl/98/11], § 209(3), (4), inserted “(2)” before sentence beginning “It is the express intent of the Congress” and substituted “protection of the Appalachian Trail” for “protection of the Trail”.
 
-    Subsec. (c). [Pub. L. 98–11, § 209(5)][/us/pl/98/11/s209/5], designated existing provisions as par. (1), inserted provision that funds may be expended for the acquisition of lands or interests therein for the purpose of providing for one trail interpretation site, as described in [section 1246(c) of this title][/us/usc/t16/s1246/c], and added par. (2).
+    Subsec. (c). [Pub. L. 98–11][/us/pl/98/11], § 209(5), designated existing provisions as par. (1), inserted provision that funds may be expended for the acquisition of lands or interests therein for the purpose of providing for one trail interpretation site, as described in [section 1246(c) of this title][/us/usc/t16/s1246/c], and added par. (2).
 
     1980—Subsec. (c). [Pub. L. 96–370][/us/pl/96/370] substituted “(7), (8), (9), and (10)” for “(7), and (8)” and inserted reference to the Ice Age National Scenic Trail.
 
@@ -93,13 +93,13 @@
 
  __Effective Date of Appropriation Authorizations Under__  __[__  __Pub. L. 98–11__  __][/us/pl/98/11]__  __; Contract Authority__ 
 
-[Pub. L. 98–11, title I, § 101][/us/pl/98/11/s101], Mar. 28, 1983, [97 Stat. 42][/us/stat/97/42], provided that: 
+[Pub. L. 98–11, title I][/us/pl/98/11/tI], § 101, Mar. 28, 1983, [97 Stat. 42][/us/stat/97/42], provided that: 
 
 > “Authorizations of appropriations under this Act \[enacting sections 1250 and 1251 of this title, amending this section and sections 1241 to 1247 of this title, and enacting provisions set out as a note under [section 1241 of this title][/us/usc/t16/s1241]\] shall be effective only for the fiscal year beginning on October 1, 1983, and subsequent fiscal years. Notwithstanding any other provision of this Act, authority to enter into contracts, and to make payments, under this Act shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.”
 
  __Appropriations for Overmountain Victory National Historic Trail and Ice Age National Scenic Trail; Effective Date; Contract Authority__ 
 
-[Pub. L. 96–370, § 2][/us/pl/96/370/s2], Oct. 3, 1980, [94 Stat. 1360][/us/stat/94/1360], provided that: 
+[Pub. L. 96–370][/us/pl/96/370], § 2, Oct. 3, 1980, [94 Stat. 1360][/us/stat/94/1360], provided that: 
 
 > “Authorizations of moneys to be appropriated under this Act \[amending sections 1244 and 1249 of this title\] shall be effective on October 1, 1981. Notwithstanding any other provision of this Act, authority to enter into contracts, to incur obligations, or to make payments under this Act shall be effective only to the extent, and in such amounts, as are provided in advance in appropriation Acts.”
 
@@ -114,33 +114,33 @@
 [/us/stat/91/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F211
 [/us/usc/t16/s1244/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1244%2Fa
 [/us/usc/t16/s1244/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1244%2Fa%2F12
-[/us/pl/90/543/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F543%2Fs10
+[/us/pl/90/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F543
 [/us/stat/82/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F926
-[/us/pl/95/248/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F248%2Fs1%2F5
+[/us/pl/95/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F248
 [/us/stat/92/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F160
-[/us/pl/95/625/s551/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs551%2F23
+[/us/pl/95/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtV
 [/us/stat/92/3517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3517
-[/us/pl/96/199/s101/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199%2Fs101%2Fb%2F4
+[/us/pl/96/199/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199%2FtI
 [/us/stat/94/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F68
-[/us/pl/96/370/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F370%2Fs1%2Fb
+[/us/pl/96/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F370
 [/us/stat/94/1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1360
-[/us/pl/98/11/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2Fs209
+[/us/pl/98/11/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2FtII
 [/us/stat/97/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F48
-[/us/pl/100/35/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F35%2Fs1%2Fb
+[/us/pl/100/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F35
 [/us/stat/101/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F302
-[/us/pl/100/192/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F192%2Fs2
+[/us/pl/100/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F192
 [/us/stat/101/1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1309
-[/us/pl/101/365/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F365%2Fs2%2Fb
+[/us/pl/101/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F365
 [/us/stat/104/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F429
-[/us/pl/103/437/s6/d/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fd%2F38
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4585
-[/us/pl/104/333/s814/d/1/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs814%2Fd%2F1%2FJ
+[/us/pl/104/333/dI/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtVIII
 [/us/stat/110/4196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4196
-[/us/pl/108/352/s14/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F352%2Fs14%2F2
+[/us/pl/108/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F352
 [/us/stat/118/1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1397
-[/us/pl/111/11/s5301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs5301%2Fb
+[/us/pl/111/11/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtV
 [/us/stat/123/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1161
-[/us/pl/113/287/s5/d/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F26
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3266
 [/us/pl/95/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F42
 [/us/stat/91/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F211
@@ -157,9 +157,9 @@
 [/us/usc/t16/s1244/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1244%2Fa
 [/us/pl/100/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F192
 [/us/pl/100/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F35
-[/us/pl/98/11/s209/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2Fs209%2F1
-[/us/pl/98/11/s209/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2Fs209%2F3
-[/us/pl/98/11/s209/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2Fs209%2F5
+[/us/pl/98/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11
+[/us/pl/98/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11
+[/us/pl/98/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11
 [/us/usc/t16/s1246/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1246%2Fc
 [/us/pl/96/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F370
 [/us/pl/96/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199
@@ -168,10 +168,10 @@
 [/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
 [/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
 [/us/pl/98/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11
-[/us/pl/98/11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2Fs101
+[/us/pl/98/11/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2FtI
 [/us/stat/97/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F42
 [/us/usc/t16/s1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1241
-[/us/pl/96/370/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F370%2Fs2
+[/us/pl/96/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F370
 [/us/stat/94/1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1360
 
 

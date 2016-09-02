@@ -17,7 +17,7 @@
 
     In order to preserve, develop, and make available to this and future generations the opportunity to advance themselves morally, intellectually, and spiritually by learning about nature and to promote, demonstrate, and stimulate interest in and knowledge of the management of forest lands under principles of multiple use and sustained yield and the development and progress of management of forest lands in America, the Secretary of Agriculture is hereby authorized to establish the Robert S. Kerr Memorial Arboretum and Nature Center in the Ouachita National Forest. As soon as possible after June 4, 1968, the Secretary of Agriculture shall publish notice of the designation thereof in the Federal Register, together with an appropriate legal description of the property. A map showing the location of the designated arboretum and center shall be on file and available for public inspection in the office of the Chief, Forest Service, Department of Agriculture.
 
-([Pub. L. 90–327, § 1][/us/pl/90/327/s1], June 4, 1968, [82 Stat. 169][/us/stat/82/169].)
+([Pub. L. 90–327][/us/pl/90/327], § 1, June 4, 1968, [82 Stat. 169][/us/stat/82/169].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/327/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F327%2Fs1
+[/us/pl/90/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F327
 [/us/stat/82/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F169
 
 

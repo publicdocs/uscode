@@ -17,7 +17,7 @@
 
     The Congress consents to any compact or agreement between any two or more States for the purpose of carrying out a program of research, study, investigation, and control of jellyfish and other such pests in the coastal waters of the United States. The right to alter, amend, or repeal this section or the consent granted herein is expressly reserved.
 
-([Pub. L. 89–720, § 4][/us/pl/89/720/s4], Nov. 2, 1966, [80 Stat. 1149][/us/stat/80/1149].)
+([Pub. L. 89–720][/us/pl/89/720], § 4, Nov. 2, 1966, [80 Stat. 1149][/us/stat/80/1149].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/720/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F720%2Fs4
+[/us/pl/89/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F720
 [/us/stat/80/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1149
 
 

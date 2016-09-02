@@ -17,7 +17,7 @@
 
     On and after October 5, 1992, funds appropriated to the Department of Agriculture, Forest Service may be used to pay transportation, lodging, and subsistence expenses of student interns, defined as employees who assist scientific, professional, or technical employees and who are bona fide students of accredited colleges or universities who are pursuing courses related to the field in which employed.
 
-([Pub. L. 102–381, title II][/us/pl/102/381], Oct. 5, 1992, [106 Stat. 1403][/us/stat/106/1403].)
+([Pub. L. 102–381, title II][/us/pl/102/381/tII], Oct. 5, 1992, [106 Stat. 1403][/us/stat/106/1403].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F381
+[/us/pl/102/381/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F381%2FtII
 [/us/stat/106/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1403
 
 

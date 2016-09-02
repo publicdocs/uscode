@@ -43,11 +43,11 @@
 
     (13) the term “worked ivory” means any African elephant tusk, and any piece thereof, which is not raw ivory.
 
-([Pub. L. 100–478, title II, § 2305][/us/pl/100/478/s2305], Oct. 7, 1988, [102 Stat. 2322][/us/stat/102/2322]; [Pub. L. 107–111, § 6(a)(4)][/us/pl/107/111/s6/a/4], Jan. 8, 2002, [115 Stat. 2096][/us/stat/115/2096].)
+([Pub. L. 100–478, title II][/us/pl/100/478/tII], § 2305, Oct. 7, 1988, [102 Stat. 2322][/us/stat/102/2322]; [Pub. L. 107–111][/us/pl/107/111], § 6(a)(4), Jan. 8, 2002, [115 Stat. 2096][/us/stat/115/2096].)
 
  __References in Text__ 
 
-    Division A, section 101(e), title I of [Public Law 105–277][/us/pl/105/277], referred to in par. (4), is [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title I\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–232. Provisions under the heading “multinational species conservation fund” in [Pub. L. 105–277, § 101(e)][/us/pl/105/277/s101/e] \[title I\] appear at [112 Stat. 2681–237][/us/stat/112/2681-237], and are classified in part to [section 4246 of this title][/us/usc/t16/s4246].
+    Division A, section 101(e), title I of [Public Law 105–277][/us/pl/105/277], referred to in par. (4), is [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title I\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–232. Provisions under the heading “multinational species conservation fund” in [Pub. L. 105–277][/us/pl/105/277], § 101(e) \[title I\] appear at [112 Stat. 2681–237][/us/stat/112/2681-237], and are classified in part to [section 4246 of this title][/us/usc/t16/s4246].
 
     The Endangered Species Act of 1973, referred to in par. (5), is [Pub. L. 93–205][/us/pl/93/205], Dec. 28, 1973, [87 Stat. 884][/us/stat/87/884], as amended, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title][/us/usc/t16/s1531] and Tables.
 
@@ -65,14 +65,14 @@
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t16/s4246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4246
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
-[/us/pl/100/478/s2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2Fs2305
+[/us/pl/100/478/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2FtII
 [/us/stat/102/2322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2322
-[/us/pl/107/111/s6/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F111%2Fs6%2Fa%2F4
+[/us/pl/107/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F111
 [/us/stat/115/2096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2096
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-237
 [/us/usc/t16/s4246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4246
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205

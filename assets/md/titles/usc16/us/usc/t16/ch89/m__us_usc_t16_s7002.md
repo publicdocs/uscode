@@ -41,7 +41,7 @@
 
         The Secretary, in consultation with the Secretary of State, may designate alternate representatives of the United States to serve on the joint management committee. An alternative representative may exercise, at any meeting of the committee, all the powers and duties of a representative in the absence of a duly designated representative for whatever reason.
 
-([Pub. L. 109–479, title VI, § 603][/us/pl/109/479/s603], Jan. 12, 2007, [120 Stat. 3645][/us/stat/120/3645].)
+([Pub. L. 109–479, title VI][/us/pl/109/479/tVI], § 603, Jan. 12, 2007, [120 Stat. 3645][/us/stat/120/3645].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/109/479/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs603
+[/us/pl/109/479/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtVI
 [/us/stat/120/3645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3645
 
 

@@ -17,7 +17,7 @@
 
     Subject to any valid claim or entry now existing and hereafter legally maintained, all public lands of the United States and all lands of the United States heretofore or hereafter acquired or reserved for use in connection with the Colorado River storage project within the exterior boundaries of the recreation area which have not heretofore been added to and made a part of the Ashley National Forest, and all lands of the United States acquired for the purpose of the recreation area, are hereby added to and made a part of the Ashley National Forest: Provided, That lands within the flow lines of any reservoir operated and maintained by the Department of the Interior or otherwise needed or used for the operation of the Colorado River storage project shall continue to be administered by the Secretary of the Interior to the extent he determines to be required for such operation.
 
-([Pub. L. 90–540, § 7][/us/pl/90/540/s7], Oct. 1, 1968, [82 Stat. 905][/us/stat/82/905].)
+([Pub. L. 90–540][/us/pl/90/540], § 7, Oct. 1, 1968, [82 Stat. 905][/us/stat/82/905].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/540/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F540%2Fs7
+[/us/pl/90/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F540
 [/us/stat/82/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F905
 
 

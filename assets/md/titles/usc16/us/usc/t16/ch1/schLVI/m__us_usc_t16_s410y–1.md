@@ -29,7 +29,7 @@
 
     (b) Within the boundaries of the park, the Secretary is authorized to acquire lands and interests therein by donation, purchase with donated or appropriated funds, or exchange, but he shall refrain from acquiring, for two years from January 8, 1971, any lands designated on the boundary map for acquisition by any State if he has negotiated and consummated a written cooperative agreement with such State pursuant to subsection (a) of this section.
 
-([Pub. L. 91–664, § 3][/us/pl/91/664/s3], Jan. 8, 1971, [84 Stat. 1978][/us/stat/84/1978]; [Pub. L. 103–437, § 6(g)][/us/pl/103/437/s6/g], Nov. 2, 1994, [108 Stat. 4585][/us/stat/108/4585].)
+([Pub. L. 91–664][/us/pl/91/664], § 3, Jan. 8, 1971, [84 Stat. 1978][/us/stat/84/1978]; [Pub. L. 103–437][/us/pl/103/437], § 6(g), Nov. 2, 1994, [108 Stat. 4585][/us/stat/108/4585].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/91/664/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F664%2Fs3
+[/us/pl/91/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F664
 [/us/stat/84/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1978
-[/us/pl/103/437/s6/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fg
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4585
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 

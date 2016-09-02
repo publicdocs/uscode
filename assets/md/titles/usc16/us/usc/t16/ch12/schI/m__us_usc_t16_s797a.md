@@ -25,7 +25,7 @@
 
     Section was not enacted as part of the Federal Power Act which generally comprises this chapter.
 
-    Section 212 of [act Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, [49 Stat. 847][/us/stat/49/847], provided that nothing in this chapter, as amended should be construed to repeal or amend the provisions of the act approved Mar. 3, 1921 ([41 Stat. 1353][/us/stat/41/1353]) \[[16 U.S.C. 797a][/us/usc/t16/s797a]\] or the provisions of any other Act relating to national parks and national monuments.
+    Section 212 of [act Aug. 26, 1935, ch. 687, title II][/us/act/1935-08-26/ch687/tII], [49 Stat. 847][/us/stat/49/847], provided that nothing in this chapter, as amended should be construed to repeal or amend the provisions of the act approved Mar. 3, 1921 ([41 Stat. 1353][/us/stat/41/1353]) \[[16 U.S.C. 797a][/us/usc/t16/s797a]\] or the provisions of any other Act relating to national parks and national monuments.
 
 ----------
 
@@ -36,7 +36,7 @@
 
 [/us/act/1921-03-03/ch129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-03-03%2Fch129
 [/us/stat/41/1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1353
-[/us/act/1935-08-26/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-26%2Fch687
+[/us/act/1935-08-26/ch687/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-26%2Fch687%2FtII
 [/us/stat/49/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F847
 [/us/stat/41/1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1353
 [/us/usc/t16/s797a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs797a

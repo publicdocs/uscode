@@ -17,7 +17,7 @@
 
     Any lands acquired by the Secretary of the Interior under the terms of this section and [section 666d of this title][/us/usc/t16/s666d], if located within or adjacent to an existing wildlife refuge or reservation, immediately shall become a part of such refuge or reservation and shall be administered under the laws and regulations applicable thereto, and, if not so located, may be administered as a migratory-waterfowl management area, refuge, reservation, or breeding ground in accordance with the provisions of sections 661 to 666c of this title, and Acts supplementary thereto.
 
-([Oct. 6, 1949, ch. 619, § 2][/us/act/1949-10-06/ch619/s2], [63 Stat. 708][/us/stat/63/708].)
+([Oct. 6, 1949, ch. 619][/us/act/1949-10-06/ch619], § 2, [63 Stat. 708][/us/stat/63/708].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s666d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs666d
-[/us/act/1949-10-06/ch619/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-06%2Fch619%2Fs2
+[/us/act/1949-10-06/ch619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-06%2Fch619
 [/us/stat/63/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F708
 
 

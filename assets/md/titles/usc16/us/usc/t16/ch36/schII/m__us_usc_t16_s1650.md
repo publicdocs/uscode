@@ -35,7 +35,7 @@
 
         There are hereby and hereafter authorized to be appropriated such sums as necessary to carry out the provisions of this section.
 
-([Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title III, § 332\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–197.)
+([Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(3) \[title III, § 332\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–197.)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 
  __Hardwood Technology Transfer and Applied Research__ 
 
-[Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title III, § 343\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–297, provided that:
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title III, § 343\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–297, provided that:
 
 >     “(a) The Secretary of Agriculture (hereinafter the ‘Secretary’) is hereby authorized to conduct technology transfer and development, training, dissemination of information and applied research in the management, processing and utilization of the hardwood forest resource. This authority is in addition to any other authorities which may be available to the Secretary including, but not limited to, the Cooperative Forestry Assistance Act of 1978, as amended ([16 U.S.C. 2101][/us/usc/t16/s2101] et. seq.), and the Forest and Rangeland Renewable Resources Act of 1978, as amended ([16 U.S.C. 1600–161][/us/usc/t16/s1600–161]4).
 
@@ -71,12 +71,12 @@
 [/us/usc/t16/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2101
 [/us/usc/t16/s1600–161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1600%E2%80%93161
 [/us/usc/t7/s2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2269
-[/us/pl/106/113/s1000/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F3
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
 [/us/pl/95/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313
 [/us/stat/92/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F365
 [/us/usc/t16/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2101
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 [/us/usc/t16/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2101
 [/us/usc/t16/s1600–161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1600%E2%80%93161

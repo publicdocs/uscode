@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated such sums, but not more than $3,850,000, as are required for acquisition of lands and interests in lands and for construction and relocation of roads pursuant to sections 430h–3 to 430h–5 of this title.
 
-([Pub. L. 88–37, § 3][/us/pl/88/37/s3], June 4, 1963, [77 Stat. 56][/us/stat/77/56]; [Pub. L. 94–578, title II, § 201(8)][/us/pl/94/578/s201/8], Oct. 21, 1976, [90 Stat. 2733][/us/stat/90/2733].)
+([Pub. L. 88–37][/us/pl/88/37], § 3, June 4, 1963, [77 Stat. 56][/us/stat/77/56]; [Pub. L. 94–578, title II][/us/pl/94/578/tII], § 201(8), Oct. 21, 1976, [90 Stat. 2733][/us/stat/90/2733].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/88/37/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F37%2Fs3
+[/us/pl/88/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F37
 [/us/stat/77/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F56
-[/us/pl/94/578/s201/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2Fs201%2F8
+[/us/pl/94/578/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2FtII
 [/us/stat/90/2733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2733
 [/us/pl/94/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578
 

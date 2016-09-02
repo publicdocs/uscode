@@ -65,7 +65,7 @@
 
     (17) “United States” means the several States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands and any other territory, possession, or commonwealth of the United States.
 
-([Pub. L. 99–659, title II, § 204][/us/pl/99/659/s204], Nov. 14, 1986, [100 Stat. 3716][/us/stat/100/3716].)
+([Pub. L. 99–659, title II][/us/pl/99/659/tII], § 204, Nov. 14, 1986, [100 Stat. 3716][/us/stat/100/3716].)
 
 ----------
 
@@ -77,7 +77,7 @@
 [/us/usc/t16/s4009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4009
 [/us/usc/t16/s4008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4008
 [/us/usc/t16/s4004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4004
-[/us/pl/99/659/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs204
+[/us/pl/99/659/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtII
 [/us/stat/100/3716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3716
 
 

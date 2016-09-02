@@ -115,7 +115,7 @@
 
             (C) Any valuation determination made by the Secretary for purposes of this paragraph shall be final and conclusive.
 
-([Pub. L. 96–366, § 6][/us/pl/96/366/s6], Sept. 29, 1980, [94 Stat. 1325][/us/stat/94/1325].)
+([Pub. L. 96–366][/us/pl/96/366], § 6, Sept. 29, 1980, [94 Stat. 1325][/us/stat/94/1325].)
 
  __References in Text__ 
 
@@ -146,7 +146,7 @@
 [/us/usc/t16/s2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2907
 [/us/usc/t16/s2904/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2904%2Fd
 [/us/usc/t16/s2904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2904%2Fa
-[/us/pl/96/366/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F366%2Fs6
+[/us/pl/96/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F366
 [/us/stat/94/1325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1325
 [/us/act/1937-09-02/ch899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-02%2Fch899
 [/us/stat/50/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F917

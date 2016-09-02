@@ -95,7 +95,7 @@
 
         As used in this section, the term “living marine resources” includes fish, marine mammals, sea turtles, and seabirds and other waterfowl.
 
-([Pub. L. 94–265, title II, § 206][/us/pl/94/265/s206], as added [Pub. L. 95–6, § 3(1)][/us/pl/95/6/s3/1], Feb. 21, 1977, [91 Stat. 15][/us/stat/91/15]; amended [Pub. L. 99–659, title I, § 101(c)(2)][/us/pl/99/659/s101/c/2], Nov. 14, 1986, [100 Stat. 3707][/us/stat/100/3707]; [Pub. L. 101–627, title I, § 107(a)][/us/pl/101/627/s107/a], Nov. 28, 1990, [104 Stat. 4441][/us/stat/104/4441]; [Pub. L. 104–297, title I, § 105(f)][/us/pl/104/297/s105/f], Oct. 11, 1996, [110 Stat. 3569][/us/stat/110/3569].)
+([Pub. L. 94–265, title II][/us/pl/94/265/tII], § 206, as added [Pub. L. 95–6][/us/pl/95/6], § 3(1), Feb. 21, 1977, [91 Stat. 15][/us/stat/91/15]; amended [Pub. L. 99–659, title I][/us/pl/99/659/tI], § 101(c)(2), Nov. 14, 1986, [100 Stat. 3707][/us/stat/100/3707]; [Pub. L. 101–627, title I][/us/pl/101/627/tI], § 107(a), Nov. 28, 1990, [104 Stat. 4441][/us/stat/104/4441]; [Pub. L. 104–297, title I][/us/pl/104/297/tI], § 105(f), Oct. 11, 1996, [110 Stat. 3569][/us/stat/110/3569].)
 
  __References in Text__ 
 
@@ -107,13 +107,13 @@
 
  __Amendments__ 
 
-    1996—Subsec. (e). [Pub. L. 104–297, § 105(f)(1)][/us/pl/104/297/s105/f/1], redesignated pars. (5) and (6) as (3) and (4), respectively, and struck out former pars. (3) and (4) which read as follows:
+    1996—Subsec. (e). [Pub. L. 104–297][/us/pl/104/297], § 105(f)(1), redesignated pars. (5) and (6) as (3) and (4), respectively, and struck out former pars. (3) and (4) which read as follows:
 
     “(3) identifying and evaluating the effectiveness of unilateral measures and multilateral measures, including sanctions, that are available to encourage nations to agree to and comply with this section, and recommendations for legislation to authorize any additional measures that are needed if those are considered ineffective;
 
     “(4) identifying, evaluating, and making any recommendations considered necessary to improve the effectiveness of the law, policy, and procedures governing enforcement of the exclusive management authority of the United States over anadromous species against fishing vessels engaged in fishing beyond the exclusive economic zone of any nation;”.
 
-    Subsec. (f). [Pub. L. 104–297, § 105(f)(2)][/us/pl/104/297/s105/f/2], substituted “subsection (e)(4)” for “subsection (e)(6)”.
+    Subsec. (f). [Pub. L. 104–297][/us/pl/104/297], § 105(f)(2), substituted “subsection (e)(4)” for “subsection (e)(6)”.
 
     1990—[Pub. L. 101–627][/us/pl/101/627] amended section generally, substituting provisions relating to large-scale driftnet fishing for provisions relating to transitional provisions.
 
@@ -135,14 +135,14 @@
 ----------
 
 [/us/usc/t22/s1978/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1978%2Fa
-[/us/pl/94/265/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs206
-[/us/pl/95/6/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F6%2Fs3%2F1
+[/us/pl/94/265/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2FtII
+[/us/pl/95/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F6
 [/us/stat/91/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F15
-[/us/pl/99/659/s101/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs101%2Fc%2F2
+[/us/pl/99/659/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtI
 [/us/stat/100/3707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3707
-[/us/pl/101/627/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs107%2Fa
+[/us/pl/101/627/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtI
 [/us/stat/104/4441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4441
-[/us/pl/104/297/s105/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs105%2Ff
+[/us/pl/104/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtI
 [/us/stat/110/3569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3569
 [/us/pl/100/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220
 [/us/usc/t16/s1822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1822
@@ -150,8 +150,8 @@
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
-[/us/pl/104/297/s105/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs105%2Ff%2F1
-[/us/pl/104/297/s105/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs105%2Ff%2F2
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
 [/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
 [/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

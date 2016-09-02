@@ -39,11 +39,11 @@
 
         Subject to the provisions of this chapter, the Bureau is authorized, in the name of the United States, to negotiate and enter into such contracts, agreements, and arrangements as it shall find necessary or appropriate to carry out the purposes of this chapter.
 
-([May 18, 1938, ch. 250, § 2][/us/act/1938-05-18/ch250/s2], [52 Stat. 404][/us/stat/52/404]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501].)
+([May 18, 1938, ch. 250][/us/act/1938-05-18/ch250], § 2, [52 Stat. 404][/us/stat/52/404]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501].)
 
  __Change of Name__ 
 
-    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
+    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343, title II][/us/act/1947-07-26/ch343/tII], [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
 
  __Transfer of Functions__ 
 
@@ -53,7 +53,7 @@
 
  __Transfer of Certain Facilities__ 
 
-[Act Aug. 31, 1951, ch. 375][/us/act/1951-08-31/ch375], title I, § 101, [65 Stat. 257][/us/stat/65/257], provided in part: 
+[Act Aug. 31, 1951, ch. 375, title I][/us/act/1951-08-31/ch375/tI], § 101, [65 Stat. 257][/us/stat/65/257], provided in part: 
 
 > “The Secretary of the Army is hereby authorized to transfer to the Department of the Interior without exchange of funds, all of the right, title, and interest of the Department of the Army in and to the following facilities, including rights-of-way (except that portion of the rights-of-way within the Fort Peck Reservoir area), but there shall be reserved the right to use the power facilities for the purpose of transmitting power to the Fort Peck project during emergency periods when the Fort Peck power plant is not functioning: (a) the Fort Peck-Rainbow (Great Falls) 161 kilovolt transmission line; (b) the Rainbow (Great Falls) terminal facilities; and (c) the Fort Peck-Whatley 50 kilovolt transmission line and substation.”
 
@@ -75,16 +75,16 @@
 ----------
 
 [/us/usc/t43/s373a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs373a
-[/us/act/1938-05-18/ch250/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-18%2Fch250%2Fs2
+[/us/act/1938-05-18/ch250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-18%2Fch250
 [/us/stat/52/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F404
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
+[/us/act/1947-07-26/ch343/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtII
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
-[/us/act/1951-08-31/ch375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-31%2Fch375
+[/us/act/1951-08-31/ch375/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-31%2Fch375%2FtI
 [/us/stat/65/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F257
 [/us/act/1948-02-27/ch75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-02-27%2Fch75
 [/us/stat/62/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F36

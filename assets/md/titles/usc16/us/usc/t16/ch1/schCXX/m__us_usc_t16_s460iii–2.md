@@ -35,7 +35,7 @@
 
         Subject to valid existing rights, the Federal lands within the conservation area are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws; and from entry, application, and selection under the Act of March 3, 1877 (Ch. 107, [19 Stat. 377][/us/stat/19/377], [43 U.S.C. 321][/us/usc/t43/s321] et seq.; commonly referred to as the “Desert Lands Act”), [section 641 of title 43][/us/usc/t43/s641], the Act of July 3, 1890 (Ch. 656, [26 Stat. 215][/us/stat/26/215]; commonly referred to as the “State of Idaho Admissions Act”), [section 851 of title 43][/us/usc/t43/s851], and [section 852 of title 43][/us/usc/t43/s852]. The Secretary shall return to the applicants any such applications pending on August 4, 1993, without further action. Subject to valid existing rights, as of August 4, 1993, lands within the Birds of Prey Conservation Area are withdrawn from location under the general mining laws, the operation of the mineral and geothermal leasing laws, and the mineral material disposal laws, except that mineral materials subject to disposal may be made available from existing sites to the extent compatible with the purposes for which the conservation area is established.
 
-([Pub. L. 103–64, § 3][/us/pl/103/64/s3], Aug. 4, 1993, [107 Stat. 304][/us/stat/107/304]; [Pub. L. 111–11, title II, § 2301(a)(2)][/us/pl/111/11/s2301/a/2], (c)(1), Mar. 30, 2009, [123 Stat. 1101][/us/stat/123/1101].)
+([Pub. L. 103–64][/us/pl/103/64], § 3, Aug. 4, 1993, [107 Stat. 304][/us/stat/107/304]; [Pub. L. 111–11, title II][/us/pl/111/11/tII], § 2301(a)(2), (c)(1), Mar. 30, 2009, [123 Stat. 1101][/us/stat/123/1101].)
 
  __References in Text__ 
 
@@ -61,9 +61,9 @@
 [/us/stat/26/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F215
 [/us/usc/t43/s851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs851
 [/us/usc/t43/s852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs852
-[/us/pl/103/64/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F64%2Fs3
+[/us/pl/103/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F64
 [/us/stat/107/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F304
-[/us/pl/111/11/s2301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs2301%2Fa%2F2
+[/us/pl/111/11/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtII
 [/us/stat/123/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1101
 [/us/act/1877-03-03/ch107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1877-03-03%2Fch107
 [/us/stat/19/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F19%2F377

@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act June 12, 1930, ch. 469, § 3][/us/act/1930-06-12/ch469/s3], [46 Stat. 579][/us/stat/46/579], authorized the appropriation of $250,000 for purchase of land described in [section 691 of this title][/us/usc/t16/s691].
+    Section, [act June 12, 1930, ch. 469][/us/act/1930-06-12/ch469], § 3, [46 Stat. 579][/us/stat/46/579], authorized the appropriation of $250,000 for purchase of land described in [section 691 of this title][/us/usc/t16/s691].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1930-06-12/ch469/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-12%2Fch469%2Fs3
+[/us/act/1930-06-12/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-12%2Fch469
 [/us/stat/46/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F579
 [/us/usc/t16/s691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs691
 

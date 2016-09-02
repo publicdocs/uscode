@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t16/ch1/schLXII/m__us_usc_t16_s451a.md) | [Next](./../../../../..//us/usc/t16/ch1/schLXII/m__us_usc_t16_s452a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs452)
 
-## § 452. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
+## § 452. Repealed. [Pub. L. 113–287][/us/pl/113/287], § 7, Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, acts [June 12, 1917, ch. 27, § 1][/us/act/1917-06-12/ch27/s1], [40 Stat. 153][/us/stat/40/153]; [May 24, 1922, ch. 199][/us/act/1922-05-24/ch199], [42 Stat. 590][/us/stat/42/590]; [Sept. 12, 1950, ch. 946][/us/act/1950-09-12/ch946], title III, § 301(95), [64 Stat. 844][/us/stat/64/844], related to revenues of national parks covered into Treasury.
+    Section, acts [June 12, 1917, ch. 27][/us/act/1917-06-12/ch27], § 1, [40 Stat. 153][/us/stat/40/153]; [May 24, 1922, ch. 199][/us/act/1922-05-24/ch199], [42 Stat. 590][/us/stat/42/590]; [Sept. 12, 1950, ch. 946][/us/act/1950-09-12/ch946], title III, § 301(95), [64 Stat. 844][/us/stat/64/844], related to revenues of national parks covered into Treasury.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
-[/us/act/1917-06-12/ch27/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-12%2Fch27%2Fs1
+[/us/act/1917-06-12/ch27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-12%2Fch27
 [/us/stat/40/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F153
 [/us/act/1922-05-24/ch199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-05-24%2Fch199
 [/us/stat/42/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F590

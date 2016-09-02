@@ -93,7 +93,7 @@
 
         The Secretary shall sign a decision document for authorized hazardous fuel reduction projects and provide notice of the final agency actions.
 
-([Pub. L. 108–148, title I, § 104][/us/pl/108/148/s104], Dec. 3, 2003, [117 Stat. 1897][/us/stat/117/1897].)
+([Pub. L. 108–148, title I][/us/pl/108/148/tI], § 104, Dec. 3, 2003, [117 Stat. 1897][/us/stat/117/1897].)
 
  __References in Text__ 
 
@@ -112,7 +112,7 @@
 [/us/usc/t42/s4332/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332%2F2
 [/us/usc/t42/s4332/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332%2F2
 [/us/usc/t42/s4332/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332%2F2
-[/us/pl/108/148/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2Fs104
+[/us/pl/108/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2FtI
 [/us/stat/117/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1897
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

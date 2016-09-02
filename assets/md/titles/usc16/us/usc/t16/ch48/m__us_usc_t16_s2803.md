@@ -101,7 +101,7 @@
 
         (6) the identification of the economic, physical, legal, institutional, and social constraints that inhibit the development of aquaculture in the United States.
 
-([Pub. L. 96–362, § 4][/us/pl/96/362/s4], Sept. 26, 1980, [94 Stat. 1199][/us/stat/94/1199]; [Pub. L. 96–561, title II, § 238(b)][/us/pl/96/561/s238/b], Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300]; [Pub. L. 99–198, title XVII, § 1734][/us/pl/99/198/s1734], Dec. 23, 1985, [99 Stat. 1641][/us/stat/99/1641]; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41.)
+([Pub. L. 96–362][/us/pl/96/362], § 4, Sept. 26, 1980, [94 Stat. 1199][/us/stat/94/1199]; [Pub. L. 96–561, title II][/us/pl/96/561/tII], § 238(b), Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300]; [Pub. L. 99–198, title XVII][/us/pl/99/198/tXVII], § 1734, Dec. 23, 1985, [99 Stat. 1641][/us/stat/99/1641]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41.)
 
  __References in Text__ 
 
@@ -111,25 +111,25 @@
 
     1996—Subsec. (a)(2). [Pub. L. 104–208][/us/pl/104/208] made technical amendment to reference in original act which appears in text as reference to [section 1852 of this title][/us/usc/t16/s1852].
 
-    1985—Subsec. (a)(2). [Pub. L. 99–198, § 1734(1)(A)][/us/pl/99/198/s1734/1/A], (B), substituted “Secretary” for “Secretaries” wherever appearing and inserted provisions requiring consultations with the Secretary of Commerce and the Secretary of the Interior.
+    1985—Subsec. (a)(2). [Pub. L. 99–198][/us/pl/99/198], § 1734(1)(A), (B), substituted “Secretary” for “Secretaries” wherever appearing and inserted provisions requiring consultations with the Secretary of Commerce and the Secretary of the Interior.
 
-    Subsec. (a)(3). [Pub. L. 99–198, § 1734(1)(C)][/us/pl/99/198/s1734/1/C], struck out par. (3) which provided for the establishment of an advisory committee to assist in the initial development of the Plan.
+    Subsec. (a)(3). [Pub. L. 99–198][/us/pl/99/198], § 1734(1)(C), struck out par. (3) which provided for the establishment of an advisory committee to assist in the initial development of the Plan.
 
-    Subsec. (b). [Pub. L. 99–198, § 1734(2)][/us/pl/99/198/s1734/2], inserted “to” after “determine” in par. (1), substituted “Secretary deems” for “Secretaries deem” in par. (6), and substituted “Secretary” for “Secretaries” in provisions following par. (6).
+    Subsec. (b). [Pub. L. 99–198][/us/pl/99/198], § 1734(2), inserted “to” after “determine” in par. (1), substituted “Secretary deems” for “Secretaries deem” in par. (6), and substituted “Secretary” for “Secretaries” in provisions following par. (6).
 
-    Subsec. (c)(1). [Pub. L. 99–198, § 1734(3)(A)][/us/pl/99/198/s1734/3/A], substituted “Secretary determines” for “Secretaries determine”.
+    Subsec. (c)(1). [Pub. L. 99–198][/us/pl/99/198], § 1734(3)(A), substituted “Secretary determines” for “Secretaries determine”.
 
-    Subsec. (c)(2)(C). [Pub. L. 99–198, § 1734(3)(B)][/us/pl/99/198/s1734/3/B]–(D), added subpar. (C).
+    Subsec. (c)(2)(C). [Pub. L. 99–198][/us/pl/99/198], § 1734(3)(B)–(D), added subpar. (C).
 
     1980—Subsec. (a)(2). [Pub. L. 96–561][/us/pl/96/561] made technical amendment to reference in original act which appears in text as reference to [section 1852 of this title][/us/usc/t16/s1852].
 
  __Effective Date of 1996 Amendment__ 
 
-    [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
  __Effective Date of 1980 Amendment__ 
 
-    [Pub. L. 96–561, title II, § 238(b)][/us/pl/96/561/s238/b], Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300], provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
+    [Pub. L. 96–561, title II][/us/pl/96/561/tII], § 238(b), Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300], provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 
 ----------
 
@@ -139,27 +139,27 @@
 ----------
 
 [/us/usc/t16/s1852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1852
-[/us/pl/96/362/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F362%2Fs4
+[/us/pl/96/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F362
 [/us/stat/94/1199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1199
-[/us/pl/96/561/s238/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs238%2Fb
+[/us/pl/96/561/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtII
 [/us/stat/94/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3300
-[/us/pl/99/198/s1734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1734
+[/us/pl/99/198/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVII
 [/us/stat/99/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1641
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t16/s1852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1852
-[/us/pl/99/198/s1734/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1734%2F1%2FA
-[/us/pl/99/198/s1734/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1734%2F1%2FC
-[/us/pl/99/198/s1734/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1734%2F2
-[/us/pl/99/198/s1734/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1734%2F3%2FA
-[/us/pl/99/198/s1734/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1734%2F3%2FB
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/96/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561
 [/us/usc/t16/s1852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1852
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
-[/us/pl/96/561/s238/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs238%2Fb
+[/us/pl/96/561/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtII
 [/us/stat/94/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3300
 
 

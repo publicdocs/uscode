@@ -21,7 +21,7 @@
 
     (b) the United States share of the joint expenses of the Commission: Provided, That the Commissioners shall not, with respect to commitments concerning the United States share of the joint expenses of the Commission, be subject to section 262(b)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be section “262b”. </sup></sup>  of title 22 insofar as it limits the authority of United States representatives to international organizations with respect to such commitments.
 
-([Pub. L. 97–176, § 12][/us/pl/97/176/s12], May 17, 1982, [96 Stat. 84][/us/stat/96/84].)
+([Pub. L. 97–176][/us/pl/97/176], § 12, May 17, 1982, [96 Stat. 84][/us/stat/96/84].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/97/176/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F176%2Fs12
+[/us/pl/97/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F176
 [/us/stat/96/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F84
 
 

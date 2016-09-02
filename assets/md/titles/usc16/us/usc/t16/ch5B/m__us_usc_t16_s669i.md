@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to make rules and regulations for carrying out the provisions of this chapter.
 
-([Sept. 2, 1937, ch. 899, § 12][/us/act/1937-09-02/ch899/s12], formerly § 10, [50 Stat. 919][/us/stat/50/919]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; renumbered § 12, [Pub. L. 106–408, title I, § 112(1)][/us/pl/106/408/s112/1], Nov. 1, 2000, [114 Stat. 1766][/us/stat/114/1766].)
+([Sept. 2, 1937, ch. 899][/us/act/1937-09-02/ch899], § 12, formerly § 10, [50 Stat. 919][/us/stat/50/919]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; renumbered § 12, [Pub. L. 106–408, title I][/us/pl/106/408/tI], § 112(1), Nov. 1, 2000, [114 Stat. 1766][/us/stat/114/1766].)
 
  __Transfer of Functions__ 
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/act/1937-09-02/ch899/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-02%2Fch899%2Fs12
+[/us/act/1937-09-02/ch899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-02%2Fch899
 [/us/stat/50/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F919
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
-[/us/pl/106/408/s112/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2Fs112%2F1
+[/us/pl/106/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2FtI
 [/us/stat/114/1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1766
 
 

@@ -51,7 +51,7 @@
 
         It is the sense of the Congress that the United States Commissioners should seek to include ecosystem considerations in fisheries management, including the conservation of fish habitat.
 
-([Pub. L. 94–70, § 3][/us/pl/94/70/s3], Aug. 5, 1975, [89 Stat. 385][/us/stat/89/385]; [Pub. L. 101–627, title II][/us/pl/101/627], §§ 201(a), 203, Nov. 28, 1990, [104 Stat. 4459][/us/stat/104/4459], 4460; [Pub. L. 106–562, title III, § 303][/us/pl/106/562/s303], Dec. 23, 2000, [114 Stat. 2806][/us/stat/114/2806]; [Pub. L. 109–479, title IV, § 405(c)][/us/pl/109/479/s405/c], Jan. 12, 2007, [120 Stat. 3633][/us/stat/120/3633].)
+([Pub. L. 94–70][/us/pl/94/70], § 3, Aug. 5, 1975, [89 Stat. 385][/us/stat/89/385]; [Pub. L. 101–627, title II][/us/pl/101/627/tII], §§ 201(a), 203, Nov. 28, 1990, [104 Stat. 4459][/us/stat/104/4459], 4460; [Pub. L. 106–562, title III][/us/pl/106/562/tIII], § 303, Dec. 23, 2000, [114 Stat. 2806][/us/stat/114/2806]; [Pub. L. 109–479, title IV][/us/pl/109/479/tIV], § 405(c), Jan. 12, 2007, [120 Stat. 3633][/us/stat/120/3633].)
 
  __Amendments__ 
 
@@ -59,13 +59,13 @@
 
     2000—Subsec. (a)(1). [Pub. L. 106–562][/us/pl/106/562] inserted before last sentence “Individuals serving as such Commissioners shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28.”
 
-    1990—Subsec. (a). [Pub. L. 101–627, § 201(a)][/us/pl/101/627/s201/a], designated existing provisions as par. (1) and added pars. (2) and (3).
+    1990—Subsec. (a). [Pub. L. 101–627][/us/pl/101/627], § 201(a), designated existing provisions as par. (1) and added pars. (2) and (3).
 
-    Subsec. (d). [Pub. L. 101–627, § 203][/us/pl/101/627/s203], added subsec. (d).
+    Subsec. (d). [Pub. L. 101–627][/us/pl/101/627], § 203, added subsec. (d).
 
  __Limitations on Appointments of Commissioners; Application to Current Commissioners__ 
 
-[Pub. L. 101–627, title II, § 201(b)][/us/pl/101/627/s201/b], Nov. 28, 1990, [104 Stat. 4460][/us/stat/104/4460], provided that:
+[Pub. L. 101–627, title II][/us/pl/101/627/tII], § 201(b), Nov. 28, 1990, [104 Stat. 4460][/us/stat/104/4460], provided that:
 
 >     “(1) Paragraph (2) of section 3(a) of the Atlantic Tunas Convention Act of 1975 ([16 U.S.C. 971a(a)][/us/usc/t16/s971a/a]), as added by this section, shall not apply to reappointment of an individual as a United States Commissioner of the International Commission for the Conservation of Atlantic Tunas (hereinafter in this title \[enacting [section 971b–1 of this title][/us/usc/t16/s971b–1], amending this section and sections 971b, 971d, and 971h of this title, and enacting provisions set out as a note below\] referred to as a ‘Commissioner’) if that individual is serving in that position on the date of enactment of this Act \[Nov. 28, 1990\].
 
@@ -73,7 +73,7 @@
 
  __Termination of Current Terms and Completion of Pending Appointments__ 
 
-[Pub. L. 101–627, title II, § 202][/us/pl/101/627/s202], Nov. 28, 1990, [104 Stat. 4460][/us/stat/104/4460], provided that: 
+[Pub. L. 101–627, title II][/us/pl/101/627/tII], § 202, Nov. 28, 1990, [104 Stat. 4460][/us/stat/104/4460], provided that: 
 
 > “The term as Commissioner of each individual serving in that position on the date of enactment of this Act \[Nov. 28, 1990\] shall terminate March 1, 1991. Not later than that date, the President shall complete appointment (or reappointment) of individuals to serve as Commissioners on and after that date.”
 
@@ -85,24 +85,24 @@
 ----------
 
 [/us/usc/t16/s971b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs971b
-[/us/pl/94/70/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F70%2Fs3
+[/us/pl/94/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F70
 [/us/stat/89/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F385
-[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtII
 [/us/stat/104/4459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4459
-[/us/pl/106/562/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs303
+[/us/pl/106/562/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2FtIII
 [/us/stat/114/2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2806
-[/us/pl/109/479/s405/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs405%2Fc
+[/us/pl/109/479/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtIV
 [/us/stat/120/3633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3633
 [/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
 [/us/pl/106/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562
-[/us/pl/101/627/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs201%2Fa
-[/us/pl/101/627/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs203
-[/us/pl/101/627/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs201%2Fb
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtII
 [/us/stat/104/4460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4460
 [/us/usc/t16/s971a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs971a%2Fa
 [/us/usc/t16/s971b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs971b%E2%80%931
 [/us/usc/t16/s971a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs971a%2Fa
-[/us/pl/101/627/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs202
+[/us/pl/101/627/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtII
 [/us/stat/104/4460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4460
 
 

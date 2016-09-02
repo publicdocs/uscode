@@ -17,7 +17,7 @@
 
     The provisions of the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\] shall not apply to or extend over the land by [section 407 of this title][/us/usc/t16/s407] or hereafter reserved and dedicated as the Carlsbad Caverns National Park.
 
-([May 14, 1930, ch. 272, § 3][/us/act/1930-05-14/ch272/s3], [46 Stat. 279][/us/stat/46/279].)
+([May 14, 1930, ch. 272][/us/act/1930-05-14/ch272], § 3, [46 Stat. 279][/us/stat/46/279].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/usc/t16/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs407
-[/us/act/1930-05-14/ch272/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-14%2Fch272%2Fs3
+[/us/act/1930-05-14/ch272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-14%2Fch272
 [/us/stat/46/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F279
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285

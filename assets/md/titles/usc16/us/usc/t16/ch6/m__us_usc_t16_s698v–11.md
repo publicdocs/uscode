@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch6/m__us_usc_t16_s698u–7.md) | [Next](./../../../..//us/usc/t16/ch6/m__us_usc_t16_s698w.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs698v%E2%80%9311)
+[Previous](./../../../..//us/usc/t16/ch6/m__us_usc_t16_s698v...698v–10.md) | [Next](./../../../..//us/usc/t16/ch6/m__us_usc_t16_s698w.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs698v%E2%80%9311)
 
 ## § 698v–11. Valles Caldera National Preserve, New Mexico
 
@@ -401,7 +401,7 @@
 
             (D) any land conveyed to the Pueblo of Santa Clara.
 
-([Pub. L. 113–291, div. B, title XXX, § 3043][/us/pl/113/291/s3043], Dec. 19, 2014, [128 Stat. 3792][/us/stat/128/3792].)
+([Pub. L. 113–291, div. B, title XXX][/us/pl/113/291/dB/tXXX], § 3043, Dec. 19, 2014, [128 Stat. 3792][/us/stat/128/3792].)
 
  __References in Text__ 
 
@@ -417,11 +417,11 @@
 
  __Codification__ 
 
-    In subsec. (b)(3)(C)(ii)(I), “[section 100502 of title 54][/us/usc/t54/s100502]” substituted for “[section 12(b) of Public Law 91–383][/us/pl/91/383/s12/b] (commonly known as the ‘National Park Service General Authorities Act’) ([16 U.S.C. 1a–7(b)][/us/usc/t16/s1a–7/b])” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (b)(3)(C)(ii)(I), “[section 100502 of title 54][/us/usc/t54/s100502]” substituted for “[section 12(b) of Public Law 91–383][/us/pl/91/383/s12/b] (commonly known as the ‘National Park Service General Authorities Act’) ([16 U.S.C. 1a–7(b)][/us/usc/t16/s1a–7/b])” on authority of [Pub. L. 113–287][/us/pl/113/287], § 6(e), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
  __Pueblo of Santa Clara__ 
 
-[Pub. L. 106–248, title I, § 104(g)][/us/pl/106/248/s104/g], July 25, 2000, [114 Stat. 602][/us/stat/114/602], provided that:
+[Pub. L. 106–248, title I][/us/pl/106/248/tI], § 104(g), July 25, 2000, [114 Stat. 602][/us/stat/114/602], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -443,7 +443,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch6/m__us_usc_t16_s698u–7.md) | [Next](./../../../..//us/usc/t16/ch6/m__us_usc_t16_s698w.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs698v%E2%80%9311)
+[Previous](./../../../..//us/usc/t16/ch6/m__us_usc_t16_s698v...698v–10.md) | [Next](./../../../..//us/usc/t16/ch6/m__us_usc_t16_s698w.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs698v%E2%80%9311)
 
 ----------
 ----------
@@ -454,7 +454,7 @@
 [/us/usc/t16/s7301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7301
 [/us/pl/95/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F341
 [/us/usc/t42/s1996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1996
-[/us/pl/113/291/s3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3043
+[/us/pl/113/291/dB/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXX
 [/us/stat/128/3792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3792
 [/us/pl/106/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F248
 [/us/stat/114/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F598
@@ -482,9 +482,9 @@
 [/us/usc/t54/s100502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100502
 [/us/pl/91/383/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F383%2Fs12%2Fb
 [/us/usc/t16/s1a–7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%937%2Fb
-[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
-[/us/pl/106/248/s104/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F248%2Fs104%2Fg
+[/us/pl/106/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F248%2FtI
 [/us/stat/114/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F602
 [/us/usc/t16/s698v–2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs698v%E2%80%932%2Fe
 [/us/pl/106/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F248

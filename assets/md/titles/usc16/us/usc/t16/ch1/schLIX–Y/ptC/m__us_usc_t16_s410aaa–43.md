@@ -17,7 +17,7 @@
 
     On October 31, 1994, the Secretary shall transfer the lands under the jurisdiction of the Bureau of Land Management depicted on the maps described in [section 410aaa–42 of this title][/us/usc/t16/s410aaa–42], without consideration, to the administrative jurisdiction of the Director of the National Park Service. The boundaries of the public lands shall be adjusted accordingly.
 
-([Pub. L. 103–433, title V, § 503][/us/pl/103/433/s503], Oct. 31, 1994, [108 Stat. 4490][/us/stat/108/4490].)
+([Pub. L. 103–433, title V][/us/pl/103/433/tV], § 503, Oct. 31, 1994, [108 Stat. 4490][/us/stat/108/4490].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s410aaa–42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410aaa%E2%80%9342
-[/us/pl/103/433/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs503
+[/us/pl/103/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtV
 [/us/stat/108/4490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4490
 
 

@@ -51,7 +51,7 @@
 
             The term “State” means each of the 50 States, Guam, American Samoa, the Republic of Palau (until the Compact of Free Association enters into effect), Puerto Rico, the Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
 
-([Pub. L. 102–574, § 3][/us/pl/102/574/s3], Oct. 29, 1992, [106 Stat. 4596][/us/stat/106/4596].)
+([Pub. L. 102–574][/us/pl/102/574], § 3, Oct. 29, 1992, [106 Stat. 4596][/us/stat/106/4596].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 
  __Authorization of Appropriations__ 
 
-[Pub. L. 102–574, § 5][/us/pl/102/574/s5], Oct. 29, 1992, [106 Stat. 4599][/us/stat/106/4599], provided that: 
+[Pub. L. 102–574][/us/pl/102/574], § 5, Oct. 29, 1992, [106 Stat. 4599][/us/stat/106/4599], provided that: 
 
 > “There are authorized to be appropriated such sums as are necessary to carry out sections 3 and 4 \[enacting this section and provisions set out as a note under 4503a of this title\].”
 
@@ -74,10 +74,10 @@
 ----------
 ----------
 
-[/us/pl/102/574/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F574%2Fs3
+[/us/pl/102/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F574
 [/us/stat/106/4596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4596
 [/us/usc/t48/s1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1931
-[/us/pl/102/574/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F574%2Fs5
+[/us/pl/102/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F574
 [/us/stat/106/4599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4599
 
 

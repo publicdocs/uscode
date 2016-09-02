@@ -17,7 +17,7 @@
 
     For the purpose of securing any rights of flowage, or obtaining title to or possession of any property, real or personal, that may be necessary or may become necessary, in the carrying out of any of the provisions of this chapter, the President of the United States for a period of three years from May 18, 1933, is authorized to acquire title in the name of the United States to such rights or such property, and to provide for the payment for same by directing the Board to contract to deliver power generated at any of the plants now owned or hereafter owned or constructed by the Government or by said Corporation, such future delivery of power to continue for a period not exceeding thirty years. Likewise, for one year after May 18, 1933, the President is further authorized to sell or lease any parcel or part of any vacant real estate now owned by the Government in said Tennessee River Basin, to persons, firms, or corporations who shall contract to erect thereon factories or manufacturing establishments, and who shall contract to purchase of said Corporation electric power for the operation of any such factory or manufacturing establishment. No contract shall be made by the President for the sale of any of such real estate as may be necessary for present or future use on the part of the Government for any of the purposes of this chapter. Any such contract made by the President of the United States shall be carried out by the Board: Provided, That no such contract shall be made that will in any way abridge or take away the preference right to purchase power given in this chapter to States, counties, municipalities, or farm organizations: Provided further, That no lease shall be for a term to exceed fifty years: Provided further, That any sale shall be on condition that said land shall be used for industrial purposes only.
 
-([May 18, 1933, ch. 32, § 24][/us/act/1933-05-18/ch32/s24], [48 Stat. 69][/us/stat/48/69]; [Pub. L. 108–447, div. C, title VI, § 603(a)(2)][/us/pl/108/447/s603/a/2], Dec. 8, 2004, [118 Stat. 2966][/us/stat/118/2966].)
+([May 18, 1933, ch. 32][/us/act/1933-05-18/ch32], § 24, [48 Stat. 69][/us/stat/48/69]; [Pub. L. 108–447, div. C, title VI][/us/pl/108/447/dC/tVI], § 603(a)(2), Dec. 8, 2004, [118 Stat. 2966][/us/stat/118/2966].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/act/1933-05-18/ch32/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32%2Fs24
+[/us/act/1933-05-18/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32
 [/us/stat/48/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F69
-[/us/pl/108/447/s603/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs603%2Fa%2F2
+[/us/pl/108/447/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdC%2FtVI
 [/us/stat/118/2966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2966
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447

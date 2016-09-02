@@ -73,13 +73,13 @@
 
                     The Secretary shall transfer all revenue received under clause (i) to the account within the Natural Resources Conservation Service that is used to carry out conservation operations.
 
-([Pub. L. 104–127, title III, § 356][/us/pl/104/127/s356], Apr. 4, 1996, [110 Stat. 1013][/us/stat/110/1013]; [Pub. L. 107–171, title II, § 2506][/us/pl/107/171/s2506], May 13, 2002, [116 Stat. 274][/us/stat/116/274].)
+([Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 356, Apr. 4, 1996, [110 Stat. 1013][/us/stat/110/1013]; [Pub. L. 107–171, title II][/us/pl/107/171/tII], § 2506, May 13, 2002, [116 Stat. 274][/us/stat/116/274].)
 
  __Amendments__ 
 
-    2002—Subsec. (c)(4) to (8). [Pub. L. 107–171, § 2506(1)][/us/pl/107/171/s2506/1], which directed amendment of subsection (c) of section 356 of the Federal Agriculture Improvement Act of 1996 by adding par. (4) and redesignating former pars. (4) to (7) as (5) to (8), respectively, was executed to subsec. (c) of this section, which is section 356 of the Federal Agriculture Improvement and Reform Act of 1996, to reflect the probable intent of Congress.
+    2002—Subsec. (c)(4) to (8). [Pub. L. 107–171][/us/pl/107/171], § 2506(1), which directed amendment of subsection (c) of section 356 of the Federal Agriculture Improvement Act of 1996 by adding par. (4) and redesignating former pars. (4) to (7) as (5) to (8), respectively, was executed to subsec. (c) of this section, which is section 356 of the Federal Agriculture Improvement and Reform Act of 1996, to reflect the probable intent of Congress.
 
-    Subsec. (d)(3). [Pub. L. 107–171, § 2506(2)][/us/pl/107/171/s2506/2], which directed amendment of subsection (d) of section 356 of the Federal Agriculture Improvement Act of 1996 by adding par. (3), was executed to subsec. (d) of this section, which is section 356 of the Federal Agriculture Improvement and Reform Act of 1996, to reflect the probable intent of Congress.
+    Subsec. (d)(3). [Pub. L. 107–171][/us/pl/107/171], § 2506(2), which directed amendment of subsection (d) of section 356 of the Federal Agriculture Improvement Act of 1996 by adding par. (3), was executed to subsec. (d) of this section, which is section 356 of the Federal Agriculture Improvement and Reform Act of 1996, to reflect the probable intent of Congress.
 
 ----------
 
@@ -91,11 +91,11 @@
 [/us/usc/t16/s5802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5802%2Fb
 [/us/usc/t16/s5809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5809
 [/us/usc/t16/s5808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5808
-[/us/pl/104/127/s356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs356
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1013
-[/us/pl/107/171/s2506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2506
+[/us/pl/107/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtII
 [/us/stat/116/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F274
-[/us/pl/107/171/s2506/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2506%2F1
-[/us/pl/107/171/s2506/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2506%2F2
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 
 

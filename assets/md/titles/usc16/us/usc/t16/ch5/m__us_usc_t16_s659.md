@@ -17,7 +17,7 @@
 
     All Acts and parts of Acts making it unlawful to kill sea lions, as game animals or otherwise, in the waters of the Territory of Alaska are repealed.
 
-([June 16, 1934, ch. 556][/us/act/1934-06-16/ch556], [48 Stat. 976][/us/stat/48/976]; 1939 Reorg. Plan No. II, § 4(e), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; [Pub. L. 92–522, title I, § 113(b)][/us/pl/92/522/s113/b], Oct. 21, 1972, [86 Stat. 1042][/us/stat/86/1042].)
+([June 16, 1934, ch. 556][/us/act/1934-06-16/ch556], [48 Stat. 976][/us/stat/48/976]; 1939 Reorg. Plan No. II, § 4(e), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; [Pub. L. 92–522, title I][/us/pl/92/522/tI], § 113(b), Oct. 21, 1972, [86 Stat. 1042][/us/stat/86/1042].)
 
  __Amendments__ 
 
@@ -43,7 +43,7 @@
 [/us/act/1934-06-16/ch556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-16%2Fch556
 [/us/stat/48/976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F976
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
-[/us/pl/92/522/s113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs113%2Fb
+[/us/pl/92/522/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtI
 [/us/stat/86/1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1042
 [/us/pl/92/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262

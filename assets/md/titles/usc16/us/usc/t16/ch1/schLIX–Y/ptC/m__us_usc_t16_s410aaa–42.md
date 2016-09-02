@@ -17,7 +17,7 @@
 
     There is hereby established the Mojave National Preserve, comprising approximately one million four hundred nineteen thousand eight hundred acres, as generally depicted on a map entitled “Mojave National Park Boundary—Proposed”, dated May 17, 1994, which shall be on file and available for inspection in the appropriate offices of the Director of the National Park Service, Department of the Interior.
 
-([Pub. L. 103–433, title V, § 502][/us/pl/103/433/s502], Oct. 31, 1994, [108 Stat. 4490][/us/stat/108/4490].)
+([Pub. L. 103–433, title V][/us/pl/103/433/tV], § 502, Oct. 31, 1994, [108 Stat. 4490][/us/stat/108/4490].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/433/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs502
+[/us/pl/103/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtV
 [/us/stat/108/4490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4490
 
 

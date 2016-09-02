@@ -17,7 +17,7 @@
 
     Mesa Verde National Park shall be under the exclusive control of the Secretary of the Interior, whose duty it shall be to prescribe such rules and regulations and establish such service as he may deem necessary for the care and management of the same. Such regulations shall provide specifically for the preservation from injury or spoliation of the ruins and other works and relics of prehistoric or primitive man within said park.
 
-([June 29, 1906, ch. 3607, § 2][/us/act/1906-06-29/ch3607/s2], [34 Stat. 617][/us/stat/34/617].)
+([June 29, 1906, ch. 3607][/us/act/1906-06-29/ch3607], § 2, [34 Stat. 617][/us/stat/34/617].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1906-06-29/ch3607/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-29%2Fch3607%2Fs2
+[/us/act/1906-06-29/ch3607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-29%2Fch3607
 [/us/stat/34/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F617
 [/us/usc/t16/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs111
 

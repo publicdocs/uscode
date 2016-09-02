@@ -27,7 +27,7 @@
 
     (5) the national interest in the proper regulation, protection, and conservation of fish and wildlife on the public lands in Alaska and the continuation of the opportunity for a subsistence way of life by residents of rural Alaska require that an administrative structure be established for the purpose of enabling rural residents who have personal knowledge of local conditions and requirements to have a meaningful role in the management of fish and wildlife and of subsistence uses on the public lands in Alaska.
 
-([Pub. L. 96–487, title VIII, § 801][/us/pl/96/487/s801], Dec. 2, 1980, [94 Stat. 2422][/us/stat/94/2422]; [Pub. L. 105–83, title III, § 316(b)(3)][/us/pl/105/83/s316/b/3], (d), Nov. 14, 1997, [111 Stat. 1592][/us/stat/111/1592], 1595.)
+([Pub. L. 96–487, title VIII][/us/pl/96/487/tVIII], § 801, Dec. 2, 1980, [94 Stat. 2422][/us/stat/94/2422]; [Pub. L. 105–83, title III][/us/pl/105/83/tIII], § 316(b)(3), (d), Nov. 14, 1997, [111 Stat. 1592][/us/stat/111/1592], 1595.)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 
  __Amendments__ 
 
-    1997—[Pub. L. 105–83, § 316(b)(3)][/us/pl/105/83/s316/b/3], which directed the designation of existing provisions as subsec. (a) and the addition of subsec. (b) relating to further congressional findings as to subsistence use of public lands by rural residents of Alaska, was repealed by [Pub. L. 105–83, § 316(d)][/us/pl/105/83/s316/d]. See Effective and Termination Dates of 1997 Amendment note below.
+    1997—[Pub. L. 105–83][/us/pl/105/83], § 316(b)(3), which directed the designation of existing provisions as subsec. (a) and the addition of subsec. (b) relating to further congressional findings as to subsistence use of public lands by rural residents of Alaska, was repealed by [Pub. L. 105–83][/us/pl/105/83], § 316(d). See Effective and Termination Dates of 1997 Amendment note below.
 
  __Effective and Termination Dates of 1997 Amendment__ 
 
@@ -49,15 +49,15 @@
 ----------
 
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/96/487/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs801
+[/us/pl/96/487/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtVIII
 [/us/stat/94/2422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2422
-[/us/pl/105/83/s316/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs316%2Fb%2F3
+[/us/pl/105/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtIII
 [/us/stat/111/1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1592
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/105/83/s316/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs316%2Fb%2F3
-[/us/pl/105/83/s316/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs316%2Fd
+[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
+[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
 [/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
 [/us/pl/105/83/s316/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs316%2Fd
 [/us/usc/t16/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3102

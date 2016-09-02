@@ -31,7 +31,7 @@
 
         Any lands included in the Coronado National Forest that are located within the boundaries of the Conservation Area shall be considered to be a part of the Conservation Area. The Secretary of Agriculture shall revise the boundaries of the Coronado National Forest to reflect the exclusion of such lands from the Coronado National Forest.
 
-([Pub. L. 106–538, § 4][/us/pl/106/538/s4], Dec. 6, 2000, [114 Stat. 2564][/us/stat/114/2564].)
+([Pub. L. 106–538][/us/pl/106/538], § 4, Dec. 6, 2000, [114 Stat. 2564][/us/stat/114/2564].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/106/538/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F538%2Fs4
+[/us/pl/106/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F538
 [/us/stat/114/2564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2564
 
 

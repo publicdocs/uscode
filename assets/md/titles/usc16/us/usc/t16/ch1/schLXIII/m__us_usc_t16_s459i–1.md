@@ -17,7 +17,7 @@
 
     Within the boundaries of the seashore, the Secretary may acquire lands, waters, and interests therein by purchase, donation, transfer from any Federal agency, or exchange. The Secretary may also acquire not to exceed one hundred acres of lands or interests in lands on the mainland to provide access to the administrative and visitor facilities for the seashore. Any lands or interests therein owned by the State of Georgia, or any political subdivision thereof may be acquired only by donation. Notwithstanding any other provision of law, any Federal property located within the boundaries of the seashore may, with the concurrence of the agency having custody thereof, be transferred without transfer of funds to the administrative jurisdiction of the Secretary for the purposes of the seashore.
 
-([Pub. L. 92–536, § 2][/us/pl/92/536/s2], Oct. 23, 1972, [86 Stat. 1066][/us/stat/86/1066].)
+([Pub. L. 92–536][/us/pl/92/536], § 2, Oct. 23, 1972, [86 Stat. 1066][/us/stat/86/1066].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F536%2Fs2
+[/us/pl/92/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F536
 [/us/stat/86/1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1066
 
 

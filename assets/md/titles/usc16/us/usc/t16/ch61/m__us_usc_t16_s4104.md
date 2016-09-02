@@ -61,7 +61,7 @@
 
         When the Secretary determines that a project carried out under a proposal approved by the Secretary has been completed, or where the Secretary otherwise deems it appropriate, the Secretary shall cause to be paid to the proper authority of the State, or to the official or depository designated by the interstate commission if the State agency specifies that payment is to be made to the interstate commission, the Federal share of the project. Any payment made to an interstate commission shall be charged against the apportionment of the State concerned.
 
-([Pub. L. 99–659, title III, § 305][/us/pl/99/659/s305], Nov. 14, 1986, [100 Stat. 3734][/us/stat/100/3734].)
+([Pub. L. 99–659, title III][/us/pl/99/659/tIII], § 305, Nov. 14, 1986, [100 Stat. 3734][/us/stat/100/3734].)
 
  __References in Text__ 
 
@@ -76,7 +76,7 @@
 
 [/us/usc/t16/s4107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4107
 [/us/usc/t16/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4101
-[/us/pl/99/659/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs305
+[/us/pl/99/659/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtIII
 [/us/stat/100/3734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3734
 [/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
 [/us/stat/100/3731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3731

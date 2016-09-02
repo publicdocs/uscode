@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to construct, at Bear River Bay and vicinity, Utah, such dikes, ditches, spillways, buildings, and improvements as may be necessary, in his judgment, for the establishment of a suitable refuge and feeding and breeding grounds for migratory wild fowl; also to acquire, by purchase, gift, or lease, water rights and privately owned lands, including the improvements thereon, deemed necessary by him for the purpose, or, in lieu of purchase, to compensate any owner for any damage sustained by reason of the submergence of his lands.
 
-([Apr. 23, 1928, ch. 413, § 1][/us/act/1928-04-23/ch413/s1], [45 Stat. 448][/us/stat/45/448]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433].)
+([Apr. 23, 1928, ch. 413][/us/act/1928-04-23/ch413], § 1, [45 Stat. 448][/us/stat/45/448]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1928-04-23/ch413/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-04-23%2Fch413%2Fs1
+[/us/act/1928-04-23/ch413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-04-23%2Fch413
 [/us/stat/45/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F448
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
 [/us/usc/t16/s671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs671

@@ -17,7 +17,7 @@
 
     The Secretary is authorized to purchase wetlands or interests in wetlands, which are not acquired under the authority of the Migratory Bird Conservation Act of 1929 ([16 U.S.C. 715–715s][/us/usc/t16/s715–715s]), consistent with the wetlands priority conservation plan established under [section 3921 of this title][/us/usc/t16/s3921].
 
-([Pub. L. 99–645, title III, § 304][/us/pl/99/645/s304], Nov. 10, 1986, [100 Stat. 3588][/us/stat/100/3588].)
+([Pub. L. 99–645, title III][/us/pl/99/645/tIII], § 304, Nov. 10, 1986, [100 Stat. 3588][/us/stat/100/3588].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t16/s715–715s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs715%E2%80%93715s
 [/us/usc/t16/s3921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3921
-[/us/pl/99/645/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F645%2Fs304
+[/us/pl/99/645/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F645%2FtIII
 [/us/stat/100/3588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3588
 [/us/act/1929-02-18/ch257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-18%2Fch257
 [/us/stat/45/1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1222

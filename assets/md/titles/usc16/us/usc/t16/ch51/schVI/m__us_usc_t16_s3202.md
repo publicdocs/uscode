@@ -31,7 +31,7 @@
 
         (2) fishing shall be permitted by the Secretary in accordance with the provisions of this Act and other applicable State and Federal law.
 
-([Pub. L. 96–487, title XIII, § 1314][/us/pl/96/487/s1314], Dec. 2, 1980, [94 Stat. 2484][/us/stat/94/2484].)
+([Pub. L. 96–487, title XIII][/us/pl/96/487/tXIII], § 1314, Dec. 2, 1980, [94 Stat. 2484][/us/stat/94/2484].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/96/487/s1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1314
+[/us/pl/96/487/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXIII
 [/us/stat/94/2484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2484
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371

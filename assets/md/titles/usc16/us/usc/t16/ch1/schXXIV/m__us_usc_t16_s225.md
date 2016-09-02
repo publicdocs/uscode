@@ -17,7 +17,7 @@
 
     Whenever consistent with the primary purposes of Grand Canyon National Park, the Act of February fifteenth, nineteen hundred and one, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  applicable to the locations of rights of way in certain national parks and the national forests for irrigation and other purposes, and subsequent Acts shall be and remain applicable to the lands included within the park. The Secretary of the Interior may, in his discretion and upon such conditions as he may deem proper, grant easements or rights of way for railroads upon or across the park.
 
-([Feb. 26, 1919, ch. 44, § 5][/us/act/1919-02-26/ch44/s5], [40 Stat. 1178][/us/stat/40/1178].)
+([Feb. 26, 1919, ch. 44][/us/act/1919-02-26/ch44], § 5, [40 Stat. 1178][/us/stat/40/1178].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1919-02-26/ch44/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-02-26%2Fch44%2Fs5
+[/us/act/1919-02-26/ch44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-02-26%2Fch44
 [/us/stat/40/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1178
 [/us/act/1901-02-15/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-02-15%2Fch372
 [/us/stat/31/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F790

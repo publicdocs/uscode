@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t16/ch1/schLXXIX/m__us_usc_t16_s460u–11.md) | [Next](./../../../../..//us/usc/t16/ch1/schLXXIX/m__us_usc_t16_s460u–13.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460u%E2%80%9312)
 
-## § 460u–12. Repealed. [Pub. L. 102–430, § 3(b)][/us/pl/102/430/s3/b], Oct. 23, 1992, [106 Stat. 2208][/us/stat/106/2208]
+## § 460u–12. Repealed. [Pub. L. 102–430][/us/pl/102/430], § 3(b), Oct. 23, 1992, [106 Stat. 2208][/us/stat/106/2208]
 
-    Section, [Pub. L. 89–761, § 12][/us/pl/89/761/s12], formerly § 13, as added and renumbered [Pub. L. 94–549, § 1(8)][/us/pl/94/549/s1/8], (9), Oct. 18, 1976, [90 Stat. 2531][/us/stat/90/2531], 2533, related to acquisition of area III–B for not more than $800,000.
+    Section, [Pub. L. 89–761][/us/pl/89/761], § 12, formerly § 13, as added and renumbered [Pub. L. 94–549][/us/pl/94/549], § 1(8), (9), Oct. 18, 1976, [90 Stat. 2531][/us/stat/90/2531], 2533, related to acquisition of area III–B for not more than $800,000.
 
 ----------
 
@@ -24,10 +24,10 @@
 ----------
 ----------
 
-[/us/pl/102/430/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F430%2Fs3%2Fb
+[/us/pl/102/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F430
 [/us/stat/106/2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2208
-[/us/pl/89/761/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761%2Fs12
-[/us/pl/94/549/s1/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549%2Fs1%2F8
+[/us/pl/89/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761
+[/us/pl/94/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549
 [/us/stat/90/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2531
 
 

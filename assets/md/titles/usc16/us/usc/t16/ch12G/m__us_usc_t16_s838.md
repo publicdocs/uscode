@@ -19,7 +19,7 @@
 
     (b) Other than as specifically provided herein, the present authority and duties of the Secretary of Energy relating to the Federal Columbia River Power System shall not be affected by this chapter. The authority and duties of the Administrator referred to herein are subject to the supervision and direction of the Secretary.
 
-([Pub. L. 93–454, § 2][/us/pl/93/454/s2], Oct. 18, 1974, [88 Stat. 1376][/us/stat/88/1376]; [Pub. L. 95–91, title III, § 302(a)(1)(D)][/us/pl/95/91/s302/a/1/D], Aug. 4, 1977, [91 Stat. 578][/us/stat/91/578].)
+([Pub. L. 93–454][/us/pl/93/454], § 2, Oct. 18, 1974, [88 Stat. 1376][/us/stat/88/1376]; [Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 302(a)(1)(D), Aug. 4, 1977, [91 Stat. 578][/us/stat/91/578].)
 
  __References in Text__ 
 
@@ -31,13 +31,13 @@
 
  __Short Title__ 
 
-[Pub. L. 93–454, § 1][/us/pl/93/454/s1], Oct. 18, 1974, [88 Stat. 1376][/us/stat/88/1376], provided that: 
+[Pub. L. 93–454][/us/pl/93/454], § 1, Oct. 18, 1974, [88 Stat. 1376][/us/stat/88/1376], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Federal Columbia River Transmission System Act’.”
 
  __Transfer of Functions__ 
 
-    “Secretary of Energy” substituted in text for “Secretary of the Interior” pursuant to [Pub. L. 95–91, § 302(a)(1)(D)][/us/pl/95/91/s302/a/1/D], which is classified to [section 7152(a)(1)(D) of Title 42][/us/usc/t42/s7152/a/1/D], The Public Health and Welfare.
+    “Secretary of Energy” substituted in text for “Secretary of the Interior” pursuant to [Pub. L. 95–91][/us/pl/95/91], § 302(a)(1)(D), which is classified to [section 7152(a)(1)(D) of Title 42][/us/usc/t42/s7152/a/1/D], The Public Health and Welfare.
 
     Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
@@ -50,9 +50,9 @@
 
 [/us/pl/88/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F552
 [/us/usc/t16/s837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs837
-[/us/pl/93/454/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F454%2Fs2
+[/us/pl/93/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F454
 [/us/stat/88/1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1376
-[/us/pl/95/91/s302/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs302%2Fa%2F1%2FD
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F578
 [/us/pl/88/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F552
 [/us/stat/78/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F756
@@ -64,9 +64,9 @@
 [/us/pl/89/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F561
 [/us/stat/80/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F707
 [/us/usc/t42/s1962d–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%936
-[/us/pl/93/454/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F454%2Fs1
+[/us/pl/93/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F454
 [/us/stat/88/1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1376
-[/us/pl/95/91/s302/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs302%2Fa%2F1%2FD
+[/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/usc/t42/s7152/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7152%2Fa%2F1%2FD
 
 

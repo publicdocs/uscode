@@ -23,7 +23,7 @@
 
     (3) the availability of alternative resources.
 
-([Pub. L. 96–487, title VIII, § 804][/us/pl/96/487/s804], Dec. 2, 1980, [94 Stat. 2423][/us/stat/94/2423]; [Pub. L. 105–83, title III, § 316(b)(5)][/us/pl/105/83/s316/b/5], (d), Nov. 14, 1997, [111 Stat. 1593][/us/stat/111/1593], 1595.)
+([Pub. L. 96–487, title VIII][/us/pl/96/487/tVIII], § 804, Dec. 2, 1980, [94 Stat. 2423][/us/stat/94/2423]; [Pub. L. 105–83, title III][/us/pl/105/83/tIII], § 316(b)(5), (d), Nov. 14, 1997, [111 Stat. 1593][/us/stat/111/1593], 1595.)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 
  __Amendments__ 
 
-    1997—[Pub. L. 105–83, § 316(b)(5)][/us/pl/105/83/s316/b/5], which directed the designation of existing provisions as subsec. (a) and the addition of subsec. (b) reading as follows: “The priority granted by this section is for a reasonable opportunity to take fish and wildlife. For the purposes of this subsection, the term ‘reasonable opportunity’ means an opportunity, consistent with customary and traditional uses (as defined in [section 3113(3) of this title][/us/usc/t16/s3113/3]), to participate in a subsistence hunt or fishery with a reasonable expectation of success, and does not mean a guarantee that fish and wildlife will be taken.” was repealed by [Pub. L. 105–83, § 316(d)][/us/pl/105/83/s316/d]. See Effective and Termination Dates of 1997 Amendment note below.
+    1997—[Pub. L. 105–83][/us/pl/105/83], § 316(b)(5), which directed the designation of existing provisions as subsec. (a) and the addition of subsec. (b) reading as follows: “The priority granted by this section is for a reasonable opportunity to take fish and wildlife. For the purposes of this subsection, the term ‘reasonable opportunity’ means an opportunity, consistent with customary and traditional uses (as defined in [section 3113(3) of this title][/us/usc/t16/s3113/3]), to participate in a subsistence hunt or fishery with a reasonable expectation of success, and does not mean a guarantee that fish and wildlife will be taken.” was repealed by [Pub. L. 105–83][/us/pl/105/83], § 316(d). See Effective and Termination Dates of 1997 Amendment note below.
 
  __Effective and Termination Dates of 1997 Amendment__ 
 
@@ -44,16 +44,16 @@
 ----------
 ----------
 
-[/us/pl/96/487/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs804
+[/us/pl/96/487/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtVIII
 [/us/stat/94/2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2423
-[/us/pl/105/83/s316/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs316%2Fb%2F5
+[/us/pl/105/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtIII
 [/us/stat/111/1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1593
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371
 [/us/usc/t16/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3101
-[/us/pl/105/83/s316/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs316%2Fb%2F5
+[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
 [/us/usc/t16/s3113/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3113%2F3
-[/us/pl/105/83/s316/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs316%2Fd
+[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
 [/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
 [/us/pl/105/83/s316/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs316%2Fd
 [/us/usc/t16/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3102

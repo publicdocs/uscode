@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to appoint an advisory commission of five members to advise him on the development of Minute Man National Historical Park, to consist of one member to be recommended by the selectmen of each of the towns of Concord, Lexington, and Lincoln, Massachusetts; one member to be recommended by the Governor of the Commonwealth of Massachusetts; and one member to be designated by the Secretary.
 
-([Pub. L. 86–321, § 4][/us/pl/86/321/s4], Sept. 21, 1959, [73 Stat. 591][/us/stat/73/591].)
+([Pub. L. 86–321][/us/pl/86/321], § 4, Sept. 21, 1959, [73 Stat. 591][/us/stat/73/591].)
 
  __Termination of Advisory Commissions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/86/321/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F321%2Fs4
+[/us/pl/86/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F321
 [/us/stat/73/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F591
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

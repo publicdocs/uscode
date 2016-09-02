@@ -21,7 +21,7 @@
 
     (b) The right to alter, amend, or repeal this section is expressly reserved.
 
-([June 11, 1940, ch. 304, § 2][/us/act/1940-06-11/ch304/s2], [54 Stat. 263][/us/stat/54/263]; [May 26, 1943, ch. 103, § 2][/us/act/1943-05-26/ch103/s2], [57 Stat. 85][/us/stat/57/85].)
+([June 11, 1940, ch. 304][/us/act/1940-06-11/ch304], § 2, [54 Stat. 263][/us/stat/54/263]; [May 26, 1943, ch. 103][/us/act/1943-05-26/ch103], § 2, [57 Stat. 85][/us/stat/57/85].)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t16/s261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs261
-[/us/act/1940-06-11/ch304/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-11%2Fch304%2Fs2
+[/us/act/1940-06-11/ch304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-11%2Fch304
 [/us/stat/54/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F263
-[/us/act/1943-05-26/ch103/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-05-26%2Fch103%2Fs2
+[/us/act/1943-05-26/ch103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-05-26%2Fch103
 [/us/stat/57/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F85
 
 

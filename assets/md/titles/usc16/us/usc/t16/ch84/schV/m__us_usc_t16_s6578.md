@@ -31,7 +31,7 @@
 
         The funds made available under subsection (a) shall remain available until expended.
 
-([Pub. L. 108–148, title V, § 508][/us/pl/108/148/s508], Dec. 3, 2003, [117 Stat. 1914][/us/stat/117/1914]; [Pub. L. 110–234, title VIII, § 8205(c)][/us/pl/110/234/s8205/c], May 22, 2008, [122 Stat. 1295][/us/stat/122/1295]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VIII, § 8205(c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2057; [Pub. L. 113–79, title VIII, § 8203(b)][/us/pl/113/79/s8203/b], Feb. 7, 2014, [128 Stat. 915][/us/stat/128/915].)
+([Pub. L. 108–148, title V][/us/pl/108/148/tV], § 508, Dec. 3, 2003, [117 Stat. 1914][/us/stat/117/1914]; [Pub. L. 110–234, title VIII][/us/pl/110/234/tVIII], § 8205(c), May 22, 2008, [122 Stat. 1295][/us/stat/122/1295]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VIII, § 8205(c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2057; [Pub. L. 113–79, title VIII][/us/pl/113/79/tVIII], § 8203(b), Feb. 7, 2014, [128 Stat. 915][/us/stat/128/915].)
 
  __References in Text__ 
 
@@ -43,11 +43,11 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–79, § 8203(b)(1)][/us/pl/113/79/s8203/b/1], substituted “Fiscal years 2009 through 2013” for “In general” in heading.
+    2014—Subsec. (a). [Pub. L. 113–79][/us/pl/113/79], § 8203(b)(1), substituted “Fiscal years 2009 through 2013” for “In general” in heading.
 
-    Subsecs. (b) to (d). [Pub. L. 113–79, § 8203(b)(2)][/us/pl/113/79/s8203/b/2], (3), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
+    Subsecs. (b) to (d). [Pub. L. 113–79][/us/pl/113/79], § 8203(b)(2), (3), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
-    2008—[Pub. L. 110–246, § 8205(c)][/us/pl/110/246/s8205/c], amended section generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this subchapter—
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 8205(c), amended section generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this subchapter—
 
     “(1) $25,000,000 for fiscal year 2004; and
 
@@ -66,13 +66,13 @@
 
 [/us/usc/t16/s590a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590a
 [/us/usc/t16/s6574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6574
-[/us/pl/108/148/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2Fs508
+[/us/pl/108/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2FtV
 [/us/stat/117/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1914
-[/us/pl/110/234/s8205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs8205%2Fc
+[/us/pl/110/234/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVIII
 [/us/stat/122/1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1295
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s8203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8203%2Fb
+[/us/pl/113/79/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVIII
 [/us/stat/128/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F915
 [/us/act/1935-04-27/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-04-27%2Fch85
 [/us/stat/49/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F163
@@ -81,9 +81,9 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s8203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8203%2Fb%2F1
-[/us/pl/113/79/s8203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8203%2Fb%2F2
-[/us/pl/110/246/s8205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs8205%2Fc
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

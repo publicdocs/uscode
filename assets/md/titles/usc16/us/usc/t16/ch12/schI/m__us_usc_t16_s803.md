@@ -127,7 +127,7 @@
 
             Subsection (i) shall not apply to the conditions required under this subsection.
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. I, § 10, [41 Stat. 1068][/us/stat/41/1068]; renumbered pt. I and amended, [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, §§ 206, 212, [49 Stat. 842][/us/stat/49/842], 847; [Pub. L. 87–647][/us/pl/87/647], Sept. 7, 1962, [76 Stat. 447][/us/stat/76/447]; [Pub. L. 90–451, § 4][/us/pl/90/451/s4], Aug. 3, 1968, [82 Stat. 617][/us/stat/82/617]; [Pub. L. 99–495][/us/pl/99/495], §§ 3(b), (c), 9(a), 13, Oct. 16, 1986, [100 Stat. 1243][/us/stat/100/1243], 1244, 1252, 1257; [Pub. L. 99–546, title IV, § 401][/us/pl/99/546/s401], Oct. 27, 1986, [100 Stat. 3056][/us/stat/100/3056]; [Pub. L. 102–486, title XVII, § 1701(a)][/us/pl/102/486/s1701/a], Oct. 24, 1992, [106 Stat. 3008][/us/stat/106/3008].)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. I, § 10, [41 Stat. 1068][/us/stat/41/1068]; renumbered pt. I and amended, [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, §§ 206, 212, [49 Stat. 842][/us/stat/49/842], 847; [Pub. L. 87–647][/us/pl/87/647], Sept. 7, 1962, [76 Stat. 447][/us/stat/76/447]; [Pub. L. 90–451][/us/pl/90/451], § 4, Aug. 3, 1968, [82 Stat. 617][/us/stat/82/617]; [Pub. L. 99–495][/us/pl/99/495], §§ 3(b), (c), 9(a), 13, Oct. 16, 1986, [100 Stat. 1243][/us/stat/100/1243], 1244, 1252, 1257; [Pub. L. 99–546, title IV][/us/pl/99/546/tIV], § 401, Oct. 27, 1986, [100 Stat. 3056][/us/stat/100/3056]; [Pub. L. 102–486, title XVII][/us/pl/102/486/tXVII], § 1701(a), Oct. 24, 1992, [106 Stat. 3008][/us/stat/106/3008].)
 
  __References in Text__ 
 
@@ -137,15 +137,15 @@
 
     1992—Subsec. (e)(1). [Pub. L. 102–486][/us/pl/102/486], in introductory provisions, substituted “administration of this subchapter, including any reasonable and necessary costs incurred by Federal and State fish and wildlife agencies and other natural and cultural resource agencies in connection with studies or other reviews carried out by such agencies for purposes of administering their responsibilities under this subchapter;” for “administration of this subchapter;” and inserted “Provided, That, subject to annual appropriations Acts, the portion of such annual charges imposed by the Commission under this subsection to cover the reasonable and necessary costs of such agencies shall be available to such agencies (in addition to other funds appropriated for such purposes) solely for carrying out such studies and reviews and shall remain available until expended:” after “as conditions may require:”.
 
-    1986—Subsec. (a). [Pub. L. 99–495, § 3(b)][/us/pl/99/495/s3/b], designated existing provisions as par. (1), inserted “for the adequate protection, mitigation, and enhancement of fish and wildlife (including related spawning grounds and habitat),” after “water-power development”, inserted “irrigation, flood control, water supply, and” after “including”, which words were inserted after “public uses, including” as the probable intent of Congress, substituted “and other purposes referred to in [section 797(e) of this title][/us/usc/t16/s797/e]” for “purposes; and”, and added pars. (2) and (3).
+    1986—Subsec. (a). [Pub. L. 99–495][/us/pl/99/495], § 3(b), designated existing provisions as par. (1), inserted “for the adequate protection, mitigation, and enhancement of fish and wildlife (including related spawning grounds and habitat),” after “water-power development”, inserted “irrigation, flood control, water supply, and” after “including”, which words were inserted after “public uses, including” as the probable intent of Congress, substituted “and other purposes referred to in [section 797(e) of this title][/us/usc/t16/s797/e]” for “purposes; and”, and added pars. (2) and (3).
 
     Subsec. (e). [Pub. L. 99–546][/us/pl/99/546] inserted proviso that no charge be assessed for use of Government dam or structure by licensee if, before Jan. 1, 1985, licensee and Secretary entered into contract which met requirements of date of license, powerplant construction, ownership, and revenue, etc.
 
-    [Pub. L. 99–495, § 9(a)][/us/pl/99/495/s9/a], designated existing provisions as par. (1) and added pars. (2) to (4).
+    [Pub. L. 99–495][/us/pl/99/495], § 9(a), designated existing provisions as par. (1) and added pars. (2) to (4).
 
-    Subsec. (h). [Pub. L. 99–495, § 13][/us/pl/99/495/s13], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (h). [Pub. L. 99–495][/us/pl/99/495], § 13, designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (j). [Pub. L. 99–495, § 3(c)][/us/pl/99/495/s3/c], added subsec. (j).
+    Subsec. (j). [Pub. L. 99–495][/us/pl/99/495], § 3(c), added subsec. (j).
 
     1968—Subsec. (d). [Pub. L. 90–451][/us/pl/90/451] provided for maintenance of amortization reserves on and after effective date of new licenses.
 
@@ -169,7 +169,7 @@
 
  __Savings Provision__ 
 
-[Pub. L. 99–495, § 9(b)][/us/pl/99/495/s9/b], Oct. 16, 1986, [100 Stat. 1252][/us/stat/100/1252], provided that: 
+[Pub. L. 99–495][/us/pl/99/495], § 9(b), Oct. 16, 1986, [100 Stat. 1252][/us/stat/100/1252], provided that: 
 
 > “Nothing in this Act \[see Short Title of 1986 Amendment note set out under [section 791a of this title][/us/usc/t16/s791a]\] shall affect any annual charge to be paid pursuant to section 10(e) of the Federal Power Act \[[16 U.S.C. 803(e)][/us/usc/t16/s803/e]\] to Indian tribes for the use of their lands within Indian reservations.”
 
@@ -196,30 +196,30 @@
 [/us/stat/49/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F842
 [/us/pl/87/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F647
 [/us/stat/76/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F447
-[/us/pl/90/451/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F451%2Fs4
+[/us/pl/90/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F451
 [/us/stat/82/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F617
 [/us/pl/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495
 [/us/stat/100/1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1243
-[/us/pl/99/546/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F546%2Fs401
+[/us/pl/99/546/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F546%2FtIV
 [/us/stat/100/3056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3056
-[/us/pl/102/486/s1701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1701%2Fa
+[/us/pl/102/486/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXVII
 [/us/stat/106/3008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3008
 [/us/act/1934-03-10/ch55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-10%2Fch55
 [/us/stat/48/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F401
 [/us/usc/t16/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs661
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
-[/us/pl/99/495/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495%2Fs3%2Fb
+[/us/pl/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495
 [/us/usc/t16/s797/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs797%2Fe
 [/us/pl/99/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F546
-[/us/pl/99/495/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495%2Fs9%2Fa
-[/us/pl/99/495/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495%2Fs13
-[/us/pl/99/495/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495%2Fs3%2Fc
+[/us/pl/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495
+[/us/pl/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495
+[/us/pl/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495
 [/us/pl/90/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F451
 [/us/pl/87/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F647
 [/us/pl/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495
 [/us/pl/99/495/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495%2Fs18
 [/us/usc/t16/s797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs797
-[/us/pl/99/495/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495%2Fs9%2Fb
+[/us/pl/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495
 [/us/stat/100/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1252
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/usc/t16/s803/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs803%2Fe

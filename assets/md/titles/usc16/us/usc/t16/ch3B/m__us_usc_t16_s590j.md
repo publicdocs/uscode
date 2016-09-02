@@ -39,7 +39,7 @@
 
             (ii) technical infrastructure, including activities, processes, tools, and agency functions needed to support delivery of technical services, such as technical standards, resource inventories, training, data, technology, monitoring, and effects analyses.
 
-([Apr. 27, 1935, ch. 85, § 10][/us/act/1935-04-27/ch85/s10], as added [Feb. 29, 1936, ch. 104, § 1][/us/act/1936-02-29/ch104/s1], [49 Stat. 1150][/us/stat/49/1150]; amended [Pub. L. 110–234, title II, § 2802(b)][/us/pl/110/234/s2802/b], May 22, 2008, [122 Stat. 1085][/us/stat/122/1085]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2802(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1813.)
+([Apr. 27, 1935, ch. 85][/us/act/1935-04-27/ch85], § 10, as added [Feb. 29, 1936, ch. 104][/us/act/1936-02-29/ch104], § 1, [49 Stat. 1150][/us/stat/49/1150]; amended [Pub. L. 110–234, title II][/us/pl/110/234/tII], § 2802(b), May 22, 2008, [122 Stat. 1085][/us/stat/122/1085]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title II, § 2802(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1813.)
 
  __Codification__ 
 
@@ -47,7 +47,7 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–246, § 2802(b)][/us/pl/110/246/s2802/b], amended section generally. Prior to amendment, text read as follows: “The term ‘agricultural commodity’ as used in this chapter means any such commodity and any regional or market classification, type, or grade thereof.”
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 2802(b), amended section generally. Prior to amendment, text read as follows: “The term ‘agricultural commodity’ as used in this chapter means any such commodity and any regional or market classification, type, or grade thereof.”
 
  __Effective Date of 2008 Amendment__ 
 
@@ -60,18 +60,18 @@
 ----------
 ----------
 
-[/us/act/1935-04-27/ch85/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-04-27%2Fch85%2Fs10
-[/us/act/1936-02-29/ch104/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-02-29%2Fch104%2Fs1
+[/us/act/1935-04-27/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-04-27%2Fch85
+[/us/act/1936-02-29/ch104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-02-29%2Fch104
 [/us/stat/49/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1150
-[/us/pl/110/234/s2802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2802%2Fb
+[/us/pl/110/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtII
 [/us/stat/122/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1085
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s2802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2802%2Fb
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

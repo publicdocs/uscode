@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated such sums as may be necessary to carry out this subchapter.
 
-([Pub. L. 103–433, title XII, § 1208][/us/pl/103/433/s1208], Oct. 31, 1994, [108 Stat. 4525][/us/stat/108/4525].)
+([Pub. L. 103–433, title XII][/us/pl/103/433/tXII], § 1208, Oct. 31, 1994, [108 Stat. 4525][/us/stat/108/4525].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/433/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs1208
+[/us/pl/103/433/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtXII
 [/us/stat/108/4525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4525
 
 

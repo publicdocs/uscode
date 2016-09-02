@@ -17,7 +17,7 @@
 
     All laws applicable to and in force within the Mount Rainier National Park as of January 31, 1931, and all regulations issued pursuant thereto, are made applicable to and extended over the land added to the said park by [section 109 of this title][/us/usc/t16/s109]: Provided, That no fee or charge shall be made by the United States for the use of any roads in said park built or maintained exclusively by the State of Washington.
 
-([Jan. 31, 1931, ch. 71, § 2][/us/act/1931-01-31/ch71/s2], [46 Stat. 1048][/us/stat/46/1048].)
+([Jan. 31, 1931, ch. 71][/us/act/1931-01-31/ch71], § 2, [46 Stat. 1048][/us/stat/46/1048].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs109
-[/us/act/1931-01-31/ch71/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-01-31%2Fch71%2Fs2
+[/us/act/1931-01-31/ch71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-01-31%2Fch71
 [/us/stat/46/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1048
 
 

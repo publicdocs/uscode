@@ -11,66 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch20/m__us_usc_t16_s1058.md) | [Next](./../../../..//us/usc/t16/ch21A/m__us_usc_t16_ch21A.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch21)
+[Previous](./../../../..//us/usc/t16/ch20/m__us_usc_t16_s1058.md) | [Next](./../../../..//us/usc/t16/ch21/m__us_usc_t16_s1081...1086.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch21)
 
 ## CHAPTER 21—PROHIBITION OF FOREIGN FISHING VESSELS IN THE TERRITORIAL WATERS OF THE UNITED STATES
 
-§§ 1081 to 1086. __Repealed.__  __[__  __Pub. L. 94–265, title IV, § 402(b)__  __][/us/pl/94/265/s402/b]__  __,__  __Apr. 13, 1976__  __,__  __[__  __90 Stat. 360__  __][/us/stat/90/360]__ 
-
-    Section 1081, [Pub. L. 88–308, § 1][/us/pl/88/308/s1], May 20, 1964, [78 Stat. 194][/us/stat/78/194]; [Pub. L. 90–427][/us/pl/90/427], July 26, 1968, [82 Stat. 445][/us/stat/82/445]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090], dealt with prohibition against foreign fishing within the territorial waters of the United States and conditions under which exceptions to prohibition will be recognized. See sections 1821 to 1825 of this title.
-
-    Section 1082, [Pub. L. 88–308, § 2][/us/pl/88/308/s2], May 20, 1964, [78 Stat. 195][/us/stat/78/195]; [Pub. L. 91–514, § 1][/us/pl/91/514/s1], Oct. 27, 1970, [84 Stat. 1296][/us/stat/84/1296], covered violations and penalties, seizure, forfeiture, and condemnation of property belonging to anyone violating the provisions relating to the territorial waters of the United States. See sections 1857 to 1860 of this title.
-
-    Section 1083, [Pub. L. 88–308, § 3][/us/pl/88/308/s3], May 20, 1964, [78 Stat. 195][/us/stat/78/195]; [Pub. L. 90–578, title IV, § 402][/us/pl/90/578/s402], Oct. 17, 1968, [82 Stat. 1118][/us/stat/82/1118]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090]; [Pub. L. 91–514, § 2][/us/pl/91/514/s2], Oct. 27, 1970, [84 Stat. 1297][/us/stat/84/1297], related to enforcement responsibilities and joint responsibility of the Secretaries of Commerce, Treasury, and the department in which the Coast Guard is operating. See [section 1861 of this title][/us/usc/t16/s1861].
-
-    Section 1084, [Pub. L. 88–308, § 4][/us/pl/88/308/s4], May 20, 1964, [78 Stat. 196][/us/stat/78/196]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090], covered authority of Secretaries of Commerce and Treasury to jointly or severally issue regulations under this chapter.
-
-    Section 1085, [Pub. L. 88–308, § 5][/us/pl/88/308/s5], May 20, 1964, [78 Stat. 196][/us/stat/78/196]; [Pub. L. 93–242, § 15][/us/pl/93/242/s15], Jan. 2, 1974, [87 Stat. 1068][/us/stat/87/1068], covered definitions of “Continental Shelf fishery resource”, “fisheries”, “Continental Shelf”, and authorized Secretary of Commerce to enlarge list of covered organisms. See [section 1802 of this title][/us/usc/t16/s1802].
-
-    Section 1086, [Pub. L. 88–308, § 6][/us/pl/88/308/s6], as added [Pub. L. 91–514, § 3][/us/pl/91/514/s3], Oct. 27, 1970, [84 Stat. 1297][/us/stat/84/1297], authorized Secretary of the Treasury to pay up to $5,000 to an informer for original information concerning violations under this chapter.
-
- __Effective Date of Repeal__ 
-
-    [Pub. L. 94–265, title IV, § 402(b)][/us/pl/94/265/s402/b], Apr. 13, 1976, [90 Stat. 360][/us/stat/90/360], provided that repeal of sections 1081 to 1086 of this title is effective Mar. 1, 1977.
-
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch20/m__us_usc_t16_s1058.md) | [Next](./../../../..//us/usc/t16/ch21A/m__us_usc_t16_ch21A.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch21)
+[Previous](./../../../..//us/usc/t16/ch20/m__us_usc_t16_s1058.md) | [Next](./../../../..//us/usc/t16/ch21/m__us_usc_t16_s1081...1086.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch21)
 
 ----------
 ----------
 
-[/us/pl/94/265/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs402%2Fb
-[/us/stat/90/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F360
-[/us/pl/88/308/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F308%2Fs1
-[/us/stat/78/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F194
-[/us/pl/90/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F427
-[/us/stat/82/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F445
-[/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
-[/us/pl/88/308/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F308%2Fs2
-[/us/stat/78/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F195
-[/us/pl/91/514/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F514%2Fs1
-[/us/stat/84/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1296
-[/us/pl/88/308/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F308%2Fs3
-[/us/stat/78/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F195
-[/us/pl/90/578/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2Fs402
-[/us/stat/82/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1118
-[/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
-[/us/pl/91/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F514%2Fs2
-[/us/stat/84/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1297
-[/us/usc/t16/s1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1861
-[/us/pl/88/308/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F308%2Fs4
-[/us/stat/78/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F196
-[/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
-[/us/pl/88/308/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F308%2Fs5
-[/us/stat/78/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F196
-[/us/pl/93/242/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F242%2Fs15
-[/us/stat/87/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F1068
-[/us/usc/t16/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1802
-[/us/pl/88/308/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F308%2Fs6
-[/us/pl/91/514/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F514%2Fs3
-[/us/stat/84/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1297
-[/us/pl/94/265/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs402%2Fb
-[/us/stat/90/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F360
 
 

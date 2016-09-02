@@ -17,7 +17,7 @@
 
     In fiscal year 2012 and hereafter, of the amount provided for environmental contaminants, up to $1,000,000 may remain available until expended for contaminant sample analyses.
 
-([Pub. L. 112–74, div. E, title I][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 988][/us/stat/125/988].)
+([Pub. L. 112–74, div. E, title I][/us/pl/112/74/dE/tI], Dec. 23, 2011, [125 Stat. 988][/us/stat/125/988].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74/dE/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdE%2FtI
 [/us/stat/125/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F988
 
 

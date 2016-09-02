@@ -17,7 +17,7 @@
 
     Crater Lake National Park shall be under the control and custody of the Secretary of the Interior, whose duty it shall be to establish rules and regulations and cause adequate measures to be taken for the preservation of the natural objects within said park, and also for the protection of the timber from wanton depredation, the preservation of all kinds of game and fish, the punishment of trespassers, the removal of unlawful occupants and intruders, and the prevention and extinguishment of forest fires.
 
-([May 22, 1902, ch. 820, § 2][/us/act/1902-05-22/ch820/s2], [32 Stat. 202][/us/stat/32/202].)
+([May 22, 1902, ch. 820][/us/act/1902-05-22/ch820], § 2, [32 Stat. 202][/us/stat/32/202].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1902-05-22/ch820/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-05-22%2Fch820%2Fs2
+[/us/act/1902-05-22/ch820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-05-22%2Fch820
 [/us/stat/32/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F202
 
 

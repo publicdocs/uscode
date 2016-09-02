@@ -27,7 +27,7 @@
 
         Upon the recommendation of the Secretary, the Secretary of the Treasury is authorized to pay an amount equal to one-half of the fine incurred but not to exceed $2,500 to any person who furnishes information which leads to a conviction for a violation of this subchapter. Any officer or employee of the United States or of any State or local government who furnishes information or renders service in the performance of his official duties shall not be eligible for payment under this section.
 
-([Pub. L. 92–522, title I, § 106][/us/pl/92/522/s106], Oct. 21, 1972, [86 Stat. 1036][/us/stat/86/1036].)
+([Pub. L. 92–522, title I][/us/pl/92/522/tI], § 106, Oct. 21, 1972, [86 Stat. 1036][/us/stat/86/1036].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/92/522/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs106
+[/us/pl/92/522/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtI
 [/us/stat/86/1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1036
 
 

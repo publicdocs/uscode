@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as may be necessary to carry out this subchapter.
 
-([Pub. L. 102–350, § 10][/us/pl/102/350/s10], Aug. 26, 1992, [106 Stat. 936][/us/stat/106/936].)
+([Pub. L. 102–350][/us/pl/102/350], § 10, Aug. 26, 1992, [106 Stat. 936][/us/stat/106/936].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/350/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F350%2Fs10
+[/us/pl/102/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F350
 [/us/stat/106/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F936
 
 

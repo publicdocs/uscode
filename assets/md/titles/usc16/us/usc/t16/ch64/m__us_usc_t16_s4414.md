@@ -21,7 +21,7 @@
 
     (2) develop and implement procedures to monitor and evaluate the effectiveness of wetlands conservation projects completed under this chapter.
 
-([Pub. L. 101–233, § 19][/us/pl/101/233/s19], as added [Pub. L. 103–375, § 3][/us/pl/103/375/s3], Oct. 19, 1994, [108 Stat. 3494][/us/stat/108/3494].)
+([Pub. L. 101–233][/us/pl/101/233], § 19, as added [Pub. L. 103–375][/us/pl/103/375], § 3, Oct. 19, 1994, [108 Stat. 3494][/us/stat/108/3494].)
 
 ----------
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/101/233/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F233%2Fs19
-[/us/pl/103/375/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375%2Fs3
+[/us/pl/101/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F233
+[/us/pl/103/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375
 [/us/stat/108/3494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3494
 
 

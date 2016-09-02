@@ -133,7 +133,7 @@
 
         (2) In developing and implementing a take reduction plan under [section 1387 of this title][/us/usc/t16/s1387] for Gulf of Maine harbor porpoise, the Secretary shall consider all actions already taken to reduce incidental mortality and serious injury of such stock, and may, based on the recommendations of the take reduction team for such stock, modify the time period required for compliance with [section 1387(f)(5)(A) of this title][/us/usc/t16/s1387/f/5/A], but in no case may such modification extend the date of compliance beyond April 1, 1997.
 
-([Pub. L. 92–522, title I, § 120][/us/pl/92/522/s120], as added [Pub. L. 103–238, § 23][/us/pl/103/238/s23], Apr. 30, 1994, [108 Stat. 562][/us/stat/108/562].)
+([Pub. L. 92–522, title I][/us/pl/92/522/tI], § 120, as added [Pub. L. 103–238][/us/pl/103/238], § 23, Apr. 30, 1994, [108 Stat. 562][/us/stat/108/562].)
 
  __References in Text__ 
 
@@ -159,8 +159,8 @@
 [/us/usc/t16/s1386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1386
 [/us/usc/t16/s1387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1387
 [/us/usc/t16/s1387/f/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1387%2Ff%2F5%2FA
-[/us/pl/92/522/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs120
-[/us/pl/103/238/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs23
+[/us/pl/92/522/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtI
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
 [/us/stat/108/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F562
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F884

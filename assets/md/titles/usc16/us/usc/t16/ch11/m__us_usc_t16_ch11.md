@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch10D/m__us_usc_t16_ch10D.md) | [Next](./../../../..//us/usc/t16/ch11/m__us_usc_t16_s781.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch11)
+[Previous](./../../../..//us/usc/t16/ch10D/m__us_usc_t16_s779...779f.md) | [Next](./../../../..//us/usc/t16/ch11/m__us_usc_t16_s781.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch11)
 
 ## CHAPTER 11—REGULATION OF LANDING, CURING, AND SALE OF SPONGES TAKEN FROM GULF OF MEXICO AND STRAITS OF FLORIDA
 
@@ -67,7 +67,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch10D/m__us_usc_t16_ch10D.md) | [Next](./../../../..//us/usc/t16/ch11/m__us_usc_t16_s781.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch11)
+[Previous](./../../../..//us/usc/t16/ch10D/m__us_usc_t16_s779...779f.md) | [Next](./../../../..//us/usc/t16/ch11/m__us_usc_t16_s781.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch11)
 
 ----------
 ----------

@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture, under such regulations as he may prescribe and at rates and for periods not exceeding thirty years as determined by him, is authorized to permit the use by public and private agencies, corporations, firms, associations, or individuals, of structures or improvements under the administrative control of the Forest Service and land used in connection therewith: Provided, That as all or a part of the consideration for permits issued under this section, the Secretary may require the permittees at their expense to renovate, recondition, improve, and maintain the structures and land to a satisfactory standard.
 
-([Apr. 24, 1950, ch. 97, § 7][/us/act/1950-04-24/ch97/s7], [64 Stat. 84][/us/stat/64/84]; [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title III, § 346\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–298.)
+([Apr. 24, 1950, ch. 97][/us/act/1950-04-24/ch97], § 7, [64 Stat. 84][/us/stat/64/84]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title III, § 346\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–298.)
 
  __Amendments__ 
 
@@ -25,7 +25,7 @@
 
  __Forest Service Facility Realignment and Enhancement__ 
 
-[Pub. L. 109–54, title V][/us/pl/109/54], Aug. 2, 2005, [119 Stat. 559][/us/stat/119/559], as amended by [Pub. L. 111–8, div. E, title IV, § 422][/us/pl/111/8/s422], Mar. 11, 2009, [123 Stat. 748][/us/stat/123/748]; [Pub. L. 112–74, div. E, title IV, § 421][/us/pl/112/74/s421], Dec. 23, 2011, [125 Stat. 1045][/us/stat/125/1045], provided that:
+[Pub. L. 109–54, title V][/us/pl/109/54/tV], Aug. 2, 2005, [119 Stat. 559][/us/stat/119/559], as amended by [Pub. L. 111–8, div. E, title IV][/us/pl/111/8/dE/tIV], § 422, Mar. 11, 2009, [123 Stat. 748][/us/stat/123/748]; [Pub. L. 112–74, div. E, title IV][/us/pl/112/74/dE/tIV], § 421, Dec. 23, 2011, [125 Stat. 1045][/us/stat/125/1045], provided that:
 
 > “SEC. 501. __SHORT TITLE.__ 
 
@@ -265,7 +265,7 @@
 
  __Conveyance of Excess Forest Service Structures__ 
 
-    [Pub. L. 107–63, title III, § 329][/us/pl/107/63/s329], Nov. 5, 2001, [115 Stat. 471][/us/stat/115/471], as amended by [Pub. L. 108–7, div. F, title III, § 325][/us/pl/108/7/s325], Feb. 20, 2003, [117 Stat. 275][/us/stat/117/275]; [Pub. L. 108–108, title III, § 322][/us/pl/108/108/s322], Nov. 10, 2003, [117 Stat. 1307][/us/stat/117/1307]; [Pub. L. 108–447, div. E, title III, § 322][/us/pl/108/447/s322], Dec. 8, 2004, [118 Stat. 3098][/us/stat/118/3098], which gave the Secretary of Agriculture temporary and limited authority to convey excess structures located on National Forest System lands and to use the proceeds from those conveyances for certain maintenance and rehabilitation activities, was repealed, effective Sept. 30, 2006, by [Pub. L. 109–54, title V, § 503(g)][/us/pl/109/54/s503/g], Aug. 2, 2005, [119 Stat. 561][/us/stat/119/561], which also provided that the Secretary could complete any conveyance initiated before the effective date of the repeal.
+    [Pub. L. 107–63, title III][/us/pl/107/63/tIII], § 329, Nov. 5, 2001, [115 Stat. 471][/us/stat/115/471], as amended by [Pub. L. 108–7, div. F, title III][/us/pl/108/7/dF/tIII], § 325, Feb. 20, 2003, [117 Stat. 275][/us/stat/117/275]; [Pub. L. 108–108, title III][/us/pl/108/108/tIII], § 322, Nov. 10, 2003, [117 Stat. 1307][/us/stat/117/1307]; [Pub. L. 108–447, div. E, title III][/us/pl/108/447/dE/tIII], § 322, Dec. 8, 2004, [118 Stat. 3098][/us/stat/118/3098], which gave the Secretary of Agriculture temporary and limited authority to convey excess structures located on National Forest System lands and to use the proceeds from those conveyances for certain maintenance and rehabilitation activities, was repealed, effective Sept. 30, 2006, by [Pub. L. 109–54, title V][/us/pl/109/54/tV], § 503(g), Aug. 2, 2005, [119 Stat. 561][/us/stat/119/561], which also provided that the Secretary could complete any conveyance initiated before the effective date of the repeal.
 
 ----------
 
@@ -274,16 +274,16 @@
 ----------
 ----------
 
-[/us/act/1950-04-24/ch97/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-24%2Fch97%2Fs7
+[/us/act/1950-04-24/ch97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-24%2Fch97
 [/us/stat/64/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F84
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/109/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54
+[/us/pl/109/54/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54%2FtV
 [/us/stat/119/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F559
-[/us/pl/111/8/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs422
+[/us/pl/111/8/dE/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdE%2FtIV
 [/us/stat/123/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F748
-[/us/pl/112/74/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs421
+[/us/pl/112/74/dE/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdE%2FtIV
 [/us/stat/125/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1045
 [/us/usc/t16/s580d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs580d
 [/us/pl/107/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63
@@ -292,15 +292,15 @@
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/pl/90/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F171
 [/us/usc/t16/s484a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs484a
-[/us/pl/107/63/s329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63%2Fs329
+[/us/pl/107/63/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63%2FtIII
 [/us/stat/115/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F471
-[/us/pl/108/7/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs325
+[/us/pl/108/7/dF/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtIII
 [/us/stat/117/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F275
-[/us/pl/108/108/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2Fs322
+[/us/pl/108/108/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2FtIII
 [/us/stat/117/1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1307
-[/us/pl/108/447/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs322
+[/us/pl/108/447/dE/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdE%2FtIII
 [/us/stat/118/3098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3098
-[/us/pl/109/54/s503/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54%2Fs503%2Fg
+[/us/pl/109/54/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54%2FtV
 [/us/stat/119/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F561
 
 

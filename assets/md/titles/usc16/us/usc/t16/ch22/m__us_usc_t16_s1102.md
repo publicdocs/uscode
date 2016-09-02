@@ -23,7 +23,7 @@
 
     (c) to administer as a memorial the Roosevelt Campobello International Park comprising the Roosevelt estate and such other lands as may be acquired.
 
-([Pub. L. 88–363, § 3][/us/pl/88/363/s3], July 7, 1964, [78 Stat. 299][/us/stat/78/299].)
+([Pub. L. 88–363][/us/pl/88/363], § 3, July 7, 1964, [78 Stat. 299][/us/stat/78/299].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/88/363/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F363%2Fs3
+[/us/pl/88/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F363
 [/us/stat/78/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F299
 
 

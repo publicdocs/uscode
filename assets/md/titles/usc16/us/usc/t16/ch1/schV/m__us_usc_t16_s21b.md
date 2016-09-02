@@ -17,7 +17,7 @@
 
     The provisions of the Act of March 1, 1872, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  reserving lands for park purposes, the Act of July 10, 1890, <sup>\[1\]</sup>  admitting the State of Wyoming into the Union, the Act of May 7, 1894, entitled “An Act to protect the birds and animals in the Yellowstone National Park and to punish crimes in said park, and for other purposes,”  <sup>\[1\]</sup>  the Act of August 25, 1916, entitled “An Act to establish a National Park Service, and for other purposes,”  <sup>\[1\]</sup>  and all Acts supplementary to and amendatory of said Acts are made applicable to and extended over the lands added to the park: Provided, That the provisions of the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\] shall not apply to or extend over such lands.
 
-([Mar. 1, 1929, ch. 437, § 2][/us/act/1929-03-01/ch437/s2], [45 Stat. 1436][/us/stat/45/1436].)
+([Mar. 1, 1929, ch. 437][/us/act/1929-03-01/ch437], § 2, [45 Stat. 1436][/us/stat/45/1436].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
-[/us/act/1929-03-01/ch437/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-01%2Fch437%2Fs2
+[/us/act/1929-03-01/ch437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-01%2Fch437
 [/us/stat/45/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1436
 [/us/act/1872-03-01/ch24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-03-01%2Fch24
 [/us/stat/17/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F32

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch24/schIII/m__us_usc_t16_s1175.md) | [Next](./../../../..//us/usc/t16/ch25/m__us_usc_t16_s1201.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch25)
+[Previous](./../../../..//us/usc/t16/ch24/schIII/m__us_usc_t16_s1181...1187.md) | [Next](./../../../..//us/usc/t16/ch25/m__us_usc_t16_s1201.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch25)
 
 ## CHAPTER 25—JELLYFISH OR SEA NETTLES, OTHER SUCH PESTS, AND SEAWEED IN COASTAL WATERS: CONTROL OR ELIMINATION
 
@@ -67,7 +67,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch24/schIII/m__us_usc_t16_s1175.md) | [Next](./../../../..//us/usc/t16/ch25/m__us_usc_t16_s1201.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch25)
+[Previous](./../../../..//us/usc/t16/ch24/schIII/m__us_usc_t16_s1181...1187.md) | [Next](./../../../..//us/usc/t16/ch25/m__us_usc_t16_s1201.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch25)
 
 ----------
 ----------

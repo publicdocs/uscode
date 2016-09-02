@@ -39,7 +39,7 @@
 
         The purpose of this chapter is to provide for the restoration, enhancement, and management of fish and wildlife habitats on private land through the Partners for Fish and Wildlife Program, a program that works with private landowners to conduct cost-effective habitat projects for the benefit of fish and wildlife resources in the United States.
 
-([Pub. L. 109–294, § 2][/us/pl/109/294/s2], Oct. 3, 2006, [120 Stat. 1351][/us/stat/120/1351].)
+([Pub. L. 109–294][/us/pl/109/294], § 2, Oct. 3, 2006, [120 Stat. 1351][/us/stat/120/1351].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 
  __Short Title__ 
 
-[Pub. L. 109–294, § 1][/us/pl/109/294/s1], Oct. 3, 2006, [120 Stat. 1351][/us/stat/120/1351], provided that: 
+[Pub. L. 109–294][/us/pl/109/294], § 1, Oct. 3, 2006, [120 Stat. 1351][/us/stat/120/1351], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Partners for Fish and Wildlife Act’.”
 
@@ -58,10 +58,10 @@
 ----------
 ----------
 
-[/us/pl/109/294/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F294%2Fs2
+[/us/pl/109/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F294
 [/us/stat/120/1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1351
 [/us/usc/t42/s4332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332
-[/us/pl/109/294/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F294%2Fs1
+[/us/pl/109/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F294
 [/us/stat/120/1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1351
 
 

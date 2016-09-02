@@ -27,7 +27,7 @@
 
         The national heritage area status for the Cane River region shall continue following the termination of the Commission. The management plan, and partnerships and agreements subject to the plan shall guide the future management of the heritage area. The Commission, prior to its termination, shall recommend to the Governor of the State of Louisiana and the Secretary, appropriate entities, including the potential for a nonprofit corporation, to assume the responsibilities of the Commission.
 
-([Pub. L. 103–449, title IV, § 404][/us/pl/103/449/s404], Nov. 2, 1994, [108 Stat. 4764][/us/stat/108/4764].)
+([Pub. L. 103–449, title IV][/us/pl/103/449/tIV], § 404, Nov. 2, 1994, [108 Stat. 4764][/us/stat/108/4764].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/103/449/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F449%2Fs404
+[/us/pl/103/449/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F449%2FtIV
 [/us/stat/108/4764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4764
 
 

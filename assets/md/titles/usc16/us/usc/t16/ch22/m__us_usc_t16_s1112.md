@@ -17,7 +17,7 @@
 
     For the purpose of Federal income, estate, and gift taxes, any gift, devise, or bequest to or for the use of the Commission, and accepted by the Commission under authority of this chapter, shall be deemed to be a gift, devise, or bequest to or for the use of the United States, as the case may be, if it is not deducted as a gift, devise, or bequest to or for the use of the Government of Canada under the income, estate, or gift tax laws of the Government of Canada.
 
-([Pub. L. 88–363, § 13][/us/pl/88/363/s13], July 7, 1964, [78 Stat. 301][/us/stat/78/301].)
+([Pub. L. 88–363][/us/pl/88/363], § 13, July 7, 1964, [78 Stat. 301][/us/stat/78/301].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/363/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F363%2Fs13
+[/us/pl/88/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F363
 [/us/stat/78/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F301
 
 

@@ -31,7 +31,7 @@
 
         Nothing in this part shall diminish, enlarge, or modify any right of the State of Minnesota or any political subdivision thereof, to exercise civil and criminal jurisdiction or to carry out State fish and wildlife laws, rules, and regulations within the Area, or to tax persons, corporations, franchises, or private property on the lands and waters included in the Area.
 
-([Pub. L. 100–696, title VII, § 706][/us/pl/100/696/s706], Nov. 18, 1988, [102 Stat. 4607][/us/stat/102/4607].)
+([Pub. L. 100–696, title VII][/us/pl/100/696/tVII], § 706, Nov. 18, 1988, [102 Stat. 4607][/us/stat/102/4607].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t16/s460zz–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460zz%E2%80%932
-[/us/pl/100/696/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2Fs706
+[/us/pl/100/696/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2FtVII
 [/us/stat/102/4607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4607
 
 

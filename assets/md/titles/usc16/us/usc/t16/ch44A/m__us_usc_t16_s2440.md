@@ -17,7 +17,7 @@
 
     The district courts of the United States shall have exclusive jurisdiction over any case or controversy arising under the provisions of this chapter or of any regulation promulgated under this chapter.
 
-([Pub. L. 98–623, title III, § 311][/us/pl/98/623/s311], Nov. 8, 1984, [98 Stat. 3405][/us/stat/98/3405].)
+([Pub. L. 98–623, title III][/us/pl/98/623/tIII], § 311, Nov. 8, 1984, [98 Stat. 3405][/us/stat/98/3405].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/98/623/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs311
+[/us/pl/98/623/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtIII
 [/us/stat/98/3405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3405
 
 

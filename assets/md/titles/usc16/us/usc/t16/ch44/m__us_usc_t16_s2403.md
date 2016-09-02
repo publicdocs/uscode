@@ -69,7 +69,7 @@
 
         No act described in subsection (a)(1), (2), (3), (4), (5), (7), (12), or (13) or in subsection (b) shall be unlawful if the person committing the act reasonably believed that the act was committed under emergency circumstances involving the safety of human life or of ships, aircraft, or equipment or facilities of high value, or the protection of the environment.
 
-([Pub. L. 95–541, § 4][/us/pl/95/541/s4], Oct. 28, 1978, [92 Stat. 2049][/us/stat/92/2049]; [Pub. L. 104–227, title I, § 103][/us/pl/104/227/s103], Oct. 2, 1996, [110 Stat. 3036][/us/stat/110/3036].)
+([Pub. L. 95–541][/us/pl/95/541], § 4, Oct. 28, 1978, [92 Stat. 2049][/us/stat/92/2049]; [Pub. L. 104–227, title I][/us/pl/104/227/tI], § 103, Oct. 2, 1996, [110 Stat. 3036][/us/stat/110/3036].)
 
  __References in Text__ 
 
@@ -88,9 +88,9 @@
 
 [/us/usc/t33/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1901
 [/us/usc/t33/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1901
-[/us/pl/95/541/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F541%2Fs4
+[/us/pl/95/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F541
 [/us/stat/92/2049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2049
-[/us/pl/104/227/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2Fs103
+[/us/pl/104/227/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2FtI
 [/us/stat/110/3036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3036
 [/us/pl/96/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F478
 [/us/stat/94/2297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2297

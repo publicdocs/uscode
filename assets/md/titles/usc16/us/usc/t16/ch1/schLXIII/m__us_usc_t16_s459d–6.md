@@ -17,7 +17,7 @@
 
     The Secretary of the Interior shall enter into such administrative agreements with the Secretary of the Navy as the Secretary of the Navy may deem necessary to assure that the Secretary of the Interior will not exercise any authority granted by sections 459d to 459d–7 of this title so as to interfere with the use by the Department of the Navy of any aerial gunnery or bombing range located in the vicinity of Padre Island.
 
-([Pub. L. 87–712, § 7][/us/pl/87/712/s7], Sept. 28, 1962, [76 Stat. 652][/us/stat/76/652].)
+([Pub. L. 87–712][/us/pl/87/712], § 7, Sept. 28, 1962, [76 Stat. 652][/us/stat/76/652].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/712/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F712%2Fs7
+[/us/pl/87/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F712
 [/us/stat/76/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F652
 
 

@@ -19,7 +19,7 @@
 
     (b) As soon as practicable after December 31, 1987, the Secretary shall file a legal description of the conservation area designated under this section with the Committee on Energy and Natural Resources of the United States Senate and the Committee on Interior and Insular Affairs of the United States House of Representatives. Such legal description shall have the same force and effect as if included in this subchapter, except that the Secretary may correct clerical and typographical errors in such legal description. The legal description shall be on file and available for public inspection in the offices of the Director of the Bureau of Land Management, Department of the Interior.
 
-([Pub. L. 100–225, title III, § 301][/us/pl/100/225/s301], Dec. 31, 1987, [101 Stat. 1541][/us/stat/101/1541].)
+([Pub. L. 100–225, title III][/us/pl/100/225/tIII], § 301, Dec. 31, 1987, [101 Stat. 1541][/us/stat/101/1541].)
 
  __Change of Name__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/100/225/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F225%2Fs301
+[/us/pl/100/225/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F225%2FtIII
 [/us/stat/101/1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1541
 
 

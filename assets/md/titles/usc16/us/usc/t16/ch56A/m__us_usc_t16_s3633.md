@@ -33,7 +33,7 @@
 
         In cooperation with the appropriate Regional Fishery Management Councils, States and treaty Indian tribes, the Secretary shall prepare, as appropriate, all statements, reports, and information required by the Treaty and submit such documents to the Secretary of State, who shall transmit them to the Commission.
 
-([Pub. L. 99–5, § 4][/us/pl/99/5/s4], Mar. 15, 1985, [99 Stat. 10][/us/stat/99/10].)
+([Pub. L. 99–5][/us/pl/99/5], § 4, Mar. 15, 1985, [99 Stat. 10][/us/stat/99/10].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/99/5/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5%2Fs4
+[/us/pl/99/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5
 [/us/stat/99/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F10
 
 

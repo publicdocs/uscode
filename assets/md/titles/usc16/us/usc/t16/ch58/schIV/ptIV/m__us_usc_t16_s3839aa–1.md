@@ -81,7 +81,7 @@
 
         The term “program” means the environmental quality incentives program established by this part.
 
-([Pub. L. 99–198, title XII, § 1240A][/us/pl/99/198/s1240A], as added [Pub. L. 107–171, title II, § 2301][/us/pl/107/171/s2301], May 13, 2002, [116 Stat. 253][/us/stat/116/253]; amended [Pub. L. 110–234, title II, § 2502][/us/pl/110/234/s2502], May 22, 2008, [122 Stat. 1058][/us/stat/122/1058]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2502, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1786; [Pub. L. 113–79, title II, § 2202][/us/pl/113/79/s2202], Feb. 7, 2014, [128 Stat. 729][/us/stat/128/729].)
+([Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1240A, as added [Pub. L. 107–171, title II][/us/pl/107/171/tII], § 2301, May 13, 2002, [116 Stat. 253][/us/stat/116/253]; amended [Pub. L. 110–234, title II][/us/pl/110/234/tII], § 2502, May 22, 2008, [122 Stat. 1058][/us/stat/122/1058]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title II, § 2502, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1786; [Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2202, Feb. 7, 2014, [128 Stat. 729][/us/stat/128/729].)
 
  __References in Text__ 
 
@@ -93,13 +93,13 @@
 
  __Prior Provisions__ 
 
-    A prior section 3839aa–1, [Pub. L. 99–198, title XII, § 1240A][/us/pl/99/198/s1240A], as added [Pub. L. 104–127, title III, § 334][/us/pl/104/127/s334], Apr. 4, 1996, [110 Stat. 997][/us/stat/110/997], related to definitions of terms, prior to the general amendment of this part by [Pub. L. 107–171][/us/pl/107/171].
+    A prior section 3839aa–1, [Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1240A, as added [Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 334, Apr. 4, 1996, [110 Stat. 997][/us/stat/110/997], related to definitions of terms, prior to the general amendment of this part by [Pub. L. 107–171][/us/pl/107/171].
 
  __Amendments__ 
 
     2014—Pars. (2) to (6). [Pub. L. 113–79][/us/pl/113/79] redesignated pars. (3) to (6) as (2) to (5), respectively, inserted “established under the Organic Foods Production Act of 1990 ([7 U.S.C. 6501][/us/usc/t7/s6501] et seq.)” after “national organic program” in par. (2), and struck out former par. (2). Text of former par. (2) read as follows: “The term ‘national organic program’ means the national organic program established under the Organic Foods Production Act of 1990 ([7 U.S.C. 6501][/us/usc/t7/s6501] et. seq.).”
 
-    2008—[Pub. L. 110–246, § 2502][/us/pl/110/246/s2502], amended section generally. Prior to amendment, section defined “beginning farmer or rancher”, “eligible land”, “land management practice”, “livestock”, “practice”, and “structural practice”.
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 2502, amended section generally. Prior to amendment, section defined “beginning farmer or rancher”, “eligible land”, “land management practice”, “livestock”, “practice”, and “structural practice”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -113,14 +113,14 @@
 ----------
 
 [/us/usc/t7/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6501
-[/us/pl/99/198/s1240A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1240A
-[/us/pl/107/171/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2301
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/107/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtII
 [/us/stat/116/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F253
-[/us/pl/110/234/s2502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2502
+[/us/pl/110/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtII
 [/us/stat/122/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1058
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2202
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F729
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/stat/104/3935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3935
@@ -129,14 +129,14 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/99/198/s1240A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1240A
-[/us/pl/104/127/s334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs334
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F997
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/usc/t7/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6501
 [/us/usc/t7/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6501
-[/us/pl/110/246/s2502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2502
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

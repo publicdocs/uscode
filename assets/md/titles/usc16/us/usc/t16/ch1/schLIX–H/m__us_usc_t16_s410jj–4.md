@@ -29,7 +29,7 @@
 
         (4) The Secretary may stabilize and rehabilitate structures and other properties used for religious or sectarian purposes only if such properties constitute a substantial and integral part of the historical fabric of the Kalaupapa settlement, and only to the extent necessary and appropriate to interpret adequately the nationally significant historical features and events of the settlement for the benefit of the public.
 
-([Pub. L. 96–565, title I, § 105][/us/pl/96/565/s105], Dec. 22, 1980, [94 Stat. 3322][/us/stat/94/3322].)
+([Pub. L. 96–565, title I][/us/pl/96/565/tI], § 105, Dec. 22, 1980, [94 Stat. 3322][/us/stat/94/3322].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 
  __Memorial to Individuals Forcibly Relocated to Kalaupapa Peninsula__ 
 
-[Pub. L. 111–11, title VII, § 7108][/us/pl/111/11/s7108], Mar. 30, 2009, [123 Stat. 1196][/us/stat/123/1196], provided that:
+[Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7108, Mar. 30, 2009, [123 Stat. 1196][/us/stat/123/1196], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -74,7 +74,7 @@
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
-[/us/pl/96/565/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F565%2Fs105
+[/us/pl/96/565/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F565%2FtI
 [/us/stat/94/3322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3322
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
@@ -94,7 +94,7 @@
 [/us/pl/96/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F565
 [/us/stat/94/3321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3321
 [/us/usc/t42/s2991a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2991a
-[/us/pl/111/11/s7108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7108
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1196
 
 

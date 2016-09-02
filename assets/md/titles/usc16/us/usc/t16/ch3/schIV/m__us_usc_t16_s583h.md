@@ -17,7 +17,7 @@
 
     Nothing contained in this subchapter shall be construed to abrogate or curtail any authority conferred upon the Secretary of Agriculture or the Secretary of the Interior by any Act relating to management of federally owned or administered forest lands, and nothing contained in any such Acts shall be construed to limit or restrict any authority conferred upon the Secretary of Agriculture or the Secretary of the Interior by this subchapter.
 
-([Mar. 29, 1944, ch. 146, § 9][/us/act/1944-03-29/ch146/s9], [58 Stat. 134][/us/stat/58/134].)
+([Mar. 29, 1944, ch. 146][/us/act/1944-03-29/ch146], § 9, [58 Stat. 134][/us/stat/58/134].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1944-03-29/ch146/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-03-29%2Fch146%2Fs9
+[/us/act/1944-03-29/ch146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-03-29%2Fch146
 [/us/stat/58/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F134
 
 

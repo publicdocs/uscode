@@ -57,7 +57,7 @@
 
         Notwithstanding any other provision of this chapter, the Secretary shall prohibit the importation, during the 1-year period beginning on October 23, 1992, of exotic birds of each species that is listed under any Appendix to the Convention in excess of the number of that species that were imported during the most recent year for which the Secretary has complete import data.
 
-([Pub. L. 102–440, title I, § 105][/us/pl/102/440/s105], Oct. 23, 1992, [106 Stat. 2226][/us/stat/106/2226].)
+([Pub. L. 102–440, title I][/us/pl/102/440/tI], § 105, Oct. 23, 1992, [106 Stat. 2226][/us/stat/106/2226].)
 
  __References in Text__ 
 
@@ -77,7 +77,7 @@
 [/us/usc/t16/s4905/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4905%2Fa
 [/us/usc/t16/s4905/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4905%2Fc
 [/us/usc/t16/s4905/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4905%2Fa
-[/us/pl/102/440/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2Fs105
+[/us/pl/102/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2FtI
 [/us/stat/106/2226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2226
 [/us/pl/102/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440
 

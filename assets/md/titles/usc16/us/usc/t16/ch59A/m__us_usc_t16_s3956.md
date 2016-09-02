@@ -23,7 +23,7 @@
 
         The Secretary is hereby authorized and directed to study the feasibility of modifying the operation of existing navigation and flood control projects to allow for an increase in the share of the Mississippi River flows and sediment sent down the Atchafalaya River for purposes of land building and wetlands nourishment.
 
-([Pub. L. 101–646, title III, § 307][/us/pl/101/646/s307], Nov. 29, 1990, [104 Stat. 4787][/us/stat/104/4787].)
+([Pub. L. 101–646, title III][/us/pl/101/646/tIII], § 307, Nov. 29, 1990, [104 Stat. 4787][/us/stat/104/4787].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/101/646/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs307
+[/us/pl/101/646/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2FtIII
 [/us/stat/104/4787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4787
 
 

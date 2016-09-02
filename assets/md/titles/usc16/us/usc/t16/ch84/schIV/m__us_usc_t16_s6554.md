@@ -79,7 +79,7 @@
 
             In accordance with paragraph (1), the Secretary shall not be required to make any findings as to whether an applied silvicultural assessment project, either individually or cumulatively, has a significant effect on the environment.
 
-([Pub. L. 108–148, title IV, § 404][/us/pl/108/148/s404], Dec. 3, 2003, [117 Stat. 1910][/us/stat/117/1910].)
+([Pub. L. 108–148, title IV][/us/pl/108/148/tIV], § 404, Dec. 3, 2003, [117 Stat. 1910][/us/stat/117/1910].)
 
  __References in Text__ 
 
@@ -93,7 +93,7 @@
 ----------
 
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/108/148/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2Fs404
+[/us/pl/108/148/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2FtIV
 [/us/stat/117/1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1910
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

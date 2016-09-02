@@ -17,7 +17,7 @@
 
     It is the policy of the United States to provide for the exploration, investigation, development, and maintenance of the fishing resources and development of the high seas fishing industry of the United States and its island possessions in the tropical and subtropical Pacific Ocean and intervening seas, for the benefit of the residents of the Pacific island possessions and of the people of the United States.
 
-([Aug. 4, 1947, ch. 451, § 1][/us/act/1947-08-04/ch451/s1], [61 Stat. 726][/us/stat/61/726]; [Pub. L. 86–624, § 11(a)][/us/pl/86/624/s11/a], (b), July 12, 1960, [74 Stat. 412][/us/stat/74/412].)
+([Aug. 4, 1947, ch. 451][/us/act/1947-08-04/ch451], § 1, [61 Stat. 726][/us/stat/61/726]; [Pub. L. 86–624][/us/pl/86/624], § 11(a), (b), July 12, 1960, [74 Stat. 412][/us/stat/74/412].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1947-08-04/ch451/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-04%2Fch451%2Fs1
+[/us/act/1947-08-04/ch451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-04%2Fch451
 [/us/stat/61/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F726
-[/us/pl/86/624/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs11%2Fa
+[/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/stat/74/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F412
 [/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 

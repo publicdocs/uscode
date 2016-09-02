@@ -17,7 +17,7 @@
 
     The Secretary of the Interior, for the purpose of eliminating private holdings within the Glacier National Park and the preservation intact of the natural forest along the roads in the scenic portions of the park, both on patented and park lands, is empowered, in his discretion: (1) To obtain for the United States the complete title to any or all of the lands held in private or State ownership within the boundaries of said park within townships 32 and 33 north, ranges 18 and 19 west of Montana principal meridian, by the exchange of dead, decadent, or matured timber of approximately equal values that can be removed from any part of the park without injuriously affecting the scenic beauty thereof; or, upon the approval of the Secretary of Agriculture, the timber to be selected or exchanged may be taken from the Government lands within the metes and bounds of the national forests within the State of Montana, or, (2) to obtain for the United States the complete title to any or all of the lands held in private ownership within the boundaries of said park by accepting from the owners of such privately owned lands complete relinquishment thereof and by granting and patenting to such owners, in exchange therefor, in each instance, like public land of equal value situate in the State of Montana, after due notice of the proposed exchange has been given by publication for not less than thirty days in the counties where the lands proposed to be exchanged or taken in exchange are located.
 
-([Mar. 3, 1917, ch. 164, § 1][/us/act/1917-03-03/ch164/s1], [39 Stat. 1122][/us/stat/39/1122]; [Feb. 28, 1923, ch. 144, § 1][/us/act/1923-02-28/ch144/s1], [42 Stat. 1324][/us/stat/42/1324].)
+([Mar. 3, 1917, ch. 164][/us/act/1917-03-03/ch164], § 1, [39 Stat. 1122][/us/stat/39/1122]; [Feb. 28, 1923, ch. 144][/us/act/1923-02-28/ch144], § 1, [42 Stat. 1324][/us/stat/42/1324].)
 
  __Codification__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1917-03-03/ch164/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-03%2Fch164%2Fs1
+[/us/act/1917-03-03/ch164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-03%2Fch164
 [/us/stat/39/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F1122
-[/us/act/1923-02-28/ch144/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-02-28%2Fch144%2Fs1
+[/us/act/1923-02-28/ch144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-02-28%2Fch144
 [/us/stat/42/1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1324
 
 

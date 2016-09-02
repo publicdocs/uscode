@@ -33,7 +33,7 @@
 
         The Secretary shall make withdrawals of sums from the Fund under this section at the request of the National Council, unless the Secretary determines that the purposes for which such sums are requested are not reasonably likely to further the purposes and policies of this chapter.
 
-([Pub. L. 99–659, title II, § 207][/us/pl/99/659/s207], Nov. 14, 1986, [100 Stat. 3719][/us/stat/100/3719]; [Pub. L. 101–627, title VII, § 704(c)][/us/pl/101/627/s704/c], Nov. 28, 1990, [104 Stat. 4464][/us/stat/104/4464].)
+([Pub. L. 99–659, title II][/us/pl/99/659/tII], § 207, Nov. 14, 1986, [100 Stat. 3719][/us/stat/100/3719]; [Pub. L. 101–627, title VII][/us/pl/101/627/tVII], § 704(c), Nov. 28, 1990, [104 Stat. 4464][/us/stat/104/4464].)
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/99/659/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs207
+[/us/pl/99/659/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtII
 [/us/stat/100/3719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3719
-[/us/pl/101/627/s704/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs704%2Fc
+[/us/pl/101/627/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtVII
 [/us/stat/104/4464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4464
 [/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
 

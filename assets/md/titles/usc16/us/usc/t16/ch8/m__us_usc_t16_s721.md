@@ -17,7 +17,7 @@
 
     This chapter may be cited as “The Upper Mississippi River National Wildlife and Fish Refuge Act.” The term “person” as used therein includes an individual, partnership, association, or corporation.
 
-([June 7, 1924, ch. 346][/us/act/1924-06-07/ch346], §§ 1, 12, [43 Stat. 650][/us/stat/43/650], 652; [Pub. L. 105–312, title II, § 202(b)][/us/pl/105/312/s202/b], Oct. 30, 1998, [112 Stat. 2957][/us/stat/112/2957].)
+([June 7, 1924, ch. 346][/us/act/1924-06-07/ch346], §§ 1, 12, [43 Stat. 650][/us/stat/43/650], 652; [Pub. L. 105–312, title II][/us/pl/105/312/tII], § 202(b), Oct. 30, 1998, [112 Stat. 2957][/us/stat/112/2957].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1924-06-07/ch346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch346
 [/us/stat/43/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F650
-[/us/pl/105/312/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312%2Fs202%2Fb
+[/us/pl/105/312/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312%2FtII
 [/us/stat/112/2957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2957
 [/us/pl/105/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312
 

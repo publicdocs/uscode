@@ -17,7 +17,7 @@
 
     The terms “wildlife” and “wildlife resources” as used herein include birds, fishes, mammals, and all other classes of wild animals and all types of aquatic and land vegetation upon which wildlife is dependent.
 
-([Mar. 10, 1934, ch. 55, § 8][/us/act/1934-03-10/ch55/s8], as added [Aug. 14, 1946, ch. 965][/us/act/1946-08-14/ch965], [60 Stat. 1080][/us/stat/60/1080].)
+([Mar. 10, 1934, ch. 55][/us/act/1934-03-10/ch55], § 8, as added [Aug. 14, 1946, ch. 965][/us/act/1946-08-14/ch965], [60 Stat. 1080][/us/stat/60/1080].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1934-03-10/ch55/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-10%2Fch55%2Fs8
+[/us/act/1934-03-10/ch55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-10%2Fch55
 [/us/act/1946-08-14/ch965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch965
 [/us/stat/60/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1080
 [/us/act/1934-03-10/ch55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-10%2Fch55

@@ -87,7 +87,7 @@
 
         On December 2, 1980, and for a period of three years thereafter, all Federal land within the region (except that land conveyed by title IX of this Act to the State of Alaska and Federal lands located within the boundaries of conservation system units) shall be withdrawn from all forms of appropriation under the public land laws, including selections by the State, and from location and entry under the mining laws and from leasing under the Mineral Leasing Act \[[30 U.S.C. 181][/us/usc/t30/s181] et seq.\], and shall be managed by the Bureau of Land Management under its existing statutory authority and consistent with provisions of this section.
 
-([Pub. L. 96–487, title XII, § 1203][/us/pl/96/487/s1203], Dec. 2, 1980, [94 Stat. 2470][/us/stat/94/2470].)
+([Pub. L. 96–487, title XII][/us/pl/96/487/tXII], § 1203, Dec. 2, 1980, [94 Stat. 2470][/us/stat/94/2470].)
 
  __References in Text__ 
 
@@ -105,7 +105,7 @@
 ----------
 
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
-[/us/pl/96/487/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1203
+[/us/pl/96/487/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXII
 [/us/stat/94/2470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2470
 [/us/pl/85/508/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508%2Fs6
 [/us/stat/72/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F399

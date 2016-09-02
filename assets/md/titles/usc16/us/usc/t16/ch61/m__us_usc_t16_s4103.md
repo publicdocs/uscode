@@ -57,7 +57,7 @@
 
         may not be considered to be apportioned to that State and shall be added to such funds as are appropriated pursuant to [section 4107(a) of this title][/us/usc/t16/s4107/a] for the next fiscal year (and shall be treated as having been appropriated for such next year) for apportionment under subsection (a) of this section. Any notification or return of funds referred to in paragraph (2) or (3) by a State is irrevocable.
 
-([Pub. L. 99–659, title III, § 304][/us/pl/99/659/s304], Nov. 14, 1986, [100 Stat. 3733][/us/stat/100/3733]; [Pub. L. 101–627, title V, § 501][/us/pl/101/627/s501], Nov. 28, 1990, [104 Stat. 4462][/us/stat/104/4462].)
+([Pub. L. 99–659, title III][/us/pl/99/659/tIII], § 304, Nov. 14, 1986, [100 Stat. 3733][/us/stat/100/3733]; [Pub. L. 101–627, title V][/us/pl/101/627/tV], § 501, Nov. 28, 1990, [104 Stat. 4462][/us/stat/104/4462].)
 
  __Amendments__ 
 
@@ -72,9 +72,9 @@
 
 [/us/usc/t16/s4107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4107%2Fa
 [/us/usc/t16/s4107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4107%2Fa
-[/us/pl/99/659/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs304
+[/us/pl/99/659/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtIII
 [/us/stat/100/3733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3733
-[/us/pl/101/627/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs501
+[/us/pl/101/627/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtV
 [/us/stat/104/4462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4462
 [/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
 

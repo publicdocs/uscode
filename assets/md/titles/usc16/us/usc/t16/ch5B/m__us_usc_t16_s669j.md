@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t16/ch5B/m__us_usc_t16_s669i.md) | [Next](./../../../..//us/usc/t16/ch5B/m__us_usc_t16_s669k.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs669j)
 
-## § 669j. Repealed. [Aug. 7, 1946, ch. 770, § 1(14)][/us/act/1946-08-07/ch770/s1/14], [60 Stat. 867][/us/stat/60/867]
+## § 669j. Repealed. [Aug. 7, 1946, ch. 770][/us/act/1946-08-07/ch770], § 1(14), [60 Stat. 867][/us/stat/60/867]
 
-    Section, [act Sept. 2, 1937, ch. 899, § 11][/us/act/1937-09-02/ch899/s11], [50 Stat. 919][/us/stat/50/919]; Reorg. Plan No. II, § 4(f) of 1939, eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433], related to annual report to Congress by the Secretary of the Interior.
+    Section, [act Sept. 2, 1937, ch. 899][/us/act/1937-09-02/ch899], § 11, [50 Stat. 919][/us/stat/50/919]; Reorg. Plan No. II, § 4(f) of 1939, eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433], related to annual report to Congress by the Secretary of the Interior.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/act/1946-08-07/ch770/s1/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-07%2Fch770%2Fs1%2F14
+[/us/act/1946-08-07/ch770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-07%2Fch770
 [/us/stat/60/867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F867
-[/us/act/1937-09-02/ch899/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-02%2Fch899%2Fs11
+[/us/act/1937-09-02/ch899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-02%2Fch899
 [/us/stat/50/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F919
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
 

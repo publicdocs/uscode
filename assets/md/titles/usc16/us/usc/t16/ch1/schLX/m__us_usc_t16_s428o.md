@@ -17,7 +17,7 @@
 
     The administration, protection, and development of the Fort Donelson National Battlefield shall be exercised by the Secretary of the Interior in accordance with the provisions of the Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916 ([39 Stat. 535][/us/stat/39/535]), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended.
 
-([Pub. L. 86–738, § 5][/us/pl/86/738/s5], Sept. 8, 1960, [74 Stat. 876][/us/stat/74/876].)
+([Pub. L. 86–738][/us/pl/86/738], § 5, Sept. 8, 1960, [74 Stat. 876][/us/stat/74/876].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
-[/us/pl/86/738/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F738%2Fs5
+[/us/pl/86/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F738
 [/us/stat/74/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F876
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408

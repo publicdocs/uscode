@@ -39,11 +39,11 @@
 
         Subject to applicable appropriation Acts, the total annual amount of financial assistance to any participating State after July 1, 1978, shall not be less than the base amount of financial assistance provided to that State under all the provisions of law specified in [section 2111 of this title][/us/usc/t16/s2111] during the fiscal year in which this chapter is enacted. However, financial assistance for special projects of two years or less duration shall not be included in determining the base amount for any participating State.
 
-([Pub. L. 95–313, § 12][/us/pl/95/313/s12], formerly § 9, July 1, 1978, [92 Stat. 372][/us/stat/92/372]; renumbered § 12 and amended [Pub. L. 101–624, title XII][/us/pl/101/624], §§ 1215(1), 1224(2), Nov. 28, 1990, [104 Stat. 3525][/us/stat/104/3525], 3542.)
+([Pub. L. 95–313][/us/pl/95/313], § 12, formerly § 9, July 1, 1978, [92 Stat. 372][/us/stat/92/372]; renumbered § 12 and amended [Pub. L. 101–624, title XII][/us/pl/101/624/tXII], §§ 1215(1), 1224(2), Nov. 28, 1990, [104 Stat. 3525][/us/stat/104/3525], 3542.)
 
  __References in Text__ 
 
-    [Section 2103 of this title][/us/usc/t16/s2103], referred to in subsec. (a), was repealed and a new section 2103 enacted by [Pub. L. 107–171, title VIII][/us/pl/107/171], §§ 8001(a), 8002(b), May 13, 2002, [116 Stat. 468][/us/stat/116/468]. Section 2103, as enacted by [Pub. L. 107–171][/us/pl/107/171], was subsequently repealed by [Pub. L. 113–79, title VIII, § 8001(a)][/us/pl/113/79/s8001/a], Feb. 7, 2014, [128 Stat. 913][/us/stat/128/913].
+    [Section 2103 of this title][/us/usc/t16/s2103], referred to in subsec. (a), was repealed and a new section 2103 enacted by [Pub. L. 107–171, title VIII][/us/pl/107/171/tVIII], §§ 8001(a), 8002(b), May 13, 2002, [116 Stat. 468][/us/stat/116/468]. Section 2103, as enacted by [Pub. L. 107–171][/us/pl/107/171], was subsequently repealed by [Pub. L. 113–79, title VIII][/us/pl/113/79/tVIII], § 8001(a), Feb. 7, 2014, [128 Stat. 913][/us/stat/128/913].
 
  __Prior Provisions__ 
 
@@ -51,7 +51,7 @@
 
  __Amendments__ 
 
-    1990—Subsec. (f). [Pub. L. 101–624, § 1224(2)][/us/pl/101/624/s1224/2], made technical amendment to reference to [section 2111 of this title][/us/usc/t16/s2111] to reflect renumbering of corresponding section of original act.
+    1990—Subsec. (f). [Pub. L. 101–624][/us/pl/101/624], § 1224(2), made technical amendment to reference to [section 2111 of this title][/us/usc/t16/s2111] to reflect renumbering of corresponding section of original act.
 
 ----------
 
@@ -61,19 +61,19 @@
 ----------
 
 [/us/usc/t16/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2111
-[/us/pl/95/313/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313%2Fs12
+[/us/pl/95/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313
 [/us/stat/92/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F372
-[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXII
 [/us/stat/104/3525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3525
 [/us/usc/t16/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2103
-[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVIII
 [/us/stat/116/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F468
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
-[/us/pl/113/79/s8001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8001%2Fa
+[/us/pl/113/79/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVIII
 [/us/stat/128/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F913
 [/us/pl/95/313/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313%2Fs12
 [/us/usc/t16/s1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1606
-[/us/pl/101/624/s1224/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1224%2F2
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/usc/t16/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2111
 
 

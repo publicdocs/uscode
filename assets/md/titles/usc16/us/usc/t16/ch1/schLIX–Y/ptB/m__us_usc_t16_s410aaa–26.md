@@ -17,7 +17,7 @@
 
     Nothing in this part shall have the effect of terminating any validly issued right-of-way or customary operation, maintenance, repair, and replacement activities in such right-of-way, issued, granted, or permitted to the Metropolitan Water District pursuant to the Boulder Canyon Project Act ([43 U.S.C. 617–619b][/us/usc/t43/s617–619b]), which is located on lands included in the Joshua Tree National Park, but outside lands designated as wilderness under section 601(a)(2). Such activities shall be conducted in a manner which will minimize the impact on park resources. Nothing in this part shall have the effect of terminating the fee title to lands or customary operation, maintenance, repair, and replacement activities on or under such lands granted to the Metropolitan Water District pursuant to the Act of June 18, 1932 ([47 Stat. 324][/us/stat/47/324]), which are located on lands included in the Joshua Tree National Park, but outside lands designated as wilderness under section 601(a)(2). Such activities shall be conducted in a manner which will minimize the impact on park resources. The Secretary shall prepare within one hundred and eighty days after October 31, 1994, in consultation with the Metropolitan Water District, plans for emergency access by the Metropolitan Water District to its lands and rights-of-way.
 
-([Pub. L. 103–433, title IV, § 406][/us/pl/103/433/s406], Oct. 31, 1994, [108 Stat. 4488][/us/stat/108/4488].)
+([Pub. L. 103–433, title IV][/us/pl/103/433/tIV], § 406, Oct. 31, 1994, [108 Stat. 4488][/us/stat/108/4488].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t43/s617–619b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs617%E2%80%93619b
 [/us/stat/47/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F324
-[/us/pl/103/433/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs406
+[/us/pl/103/433/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtIV
 [/us/stat/108/4488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4488
 [/us/act/1928-12-21/ch42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-12-21%2Fch42
 [/us/stat/45/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1057

@@ -49,7 +49,7 @@
 
         There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2004 through 2008.
 
-([Pub. L. 108–148, title VI, § 601][/us/pl/108/148/s601], Dec. 3, 2003, [117 Stat. 1914][/us/stat/117/1914].)
+([Pub. L. 108–148, title VI][/us/pl/108/148/tVI], § 601, Dec. 3, 2003, [117 Stat. 1914][/us/stat/117/1914].)
 
 ----------
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/108/148/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2Fs601
+[/us/pl/108/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2FtVI
 [/us/stat/117/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1914
 
 

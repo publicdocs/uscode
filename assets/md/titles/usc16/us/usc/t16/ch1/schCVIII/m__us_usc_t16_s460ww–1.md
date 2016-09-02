@@ -57,7 +57,7 @@
 
         After consultation with any other Federal agency managing lands and waters within or contiguous to the recreation area, the Secretary shall enter into a memorandum of understanding with such other Federal agency to identify those areas within the recreation area which are (1) under the administrative jurisdiction of such other agency; (2) directly related to the operation of the Summersville project; and (3) essential to the operation of such project. The memorandum of understanding shall also include provisions regarding the management of all such lands and waters in a manner consistent with the operation of such project and the management of the recreation area.
 
-([Pub. L. 100–534, title II, § 202][/us/pl/100/534/s202], Oct. 26, 1988, [102 Stat. 2702][/us/stat/102/2702]; [Pub. L. 104–333, div. I, title IV, § 406(c)(2)][/us/pl/104/333/s406/c/2], Nov. 12, 1996, [110 Stat. 4150][/us/stat/110/4150].)
+([Pub. L. 100–534, title II][/us/pl/100/534/tII], § 202, Oct. 26, 1988, [102 Stat. 2702][/us/stat/102/2702]; [Pub. L. 104–333, div. I, title IV][/us/pl/104/333/dI/tIV], § 406(c)(2), Nov. 12, 1996, [110 Stat. 4150][/us/stat/110/4150].)
 
  __References in Text__ 
 
@@ -79,9 +79,9 @@
 [/us/usc/t16/s1–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1%E2%80%934
 [/us/usc/t16/s1278/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1278%2Fa
 [/us/usc/t16/s460ww–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460ww%E2%80%934
-[/us/pl/100/534/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F534%2Fs202
+[/us/pl/100/534/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F534%2FtII
 [/us/stat/102/2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2702
-[/us/pl/104/333/s406/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs406%2Fc%2F2
+[/us/pl/104/333/dI/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtIV
 [/us/stat/110/4150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4150
 [/us/pl/100/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F534
 [/us/stat/102/2699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2699

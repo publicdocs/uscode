@@ -37,7 +37,7 @@
 
         Pursuant to a written agreement between the Commission and the Commonwealth of Massachusetts, the Commission, with the approval of the Secretary, may sell, donate, lease, or in any other manner the Commission and the Secretary deem appropriate make available to the Commonwealth any property which the Commission has acquired under subsection (a) of this section in order to provide for the administration or maintenance of such property by the Commonwealth in a manner consistent with the purpose of this subchapter.
 
-([Pub. L. 95–290, title III, § 304][/us/pl/95/290/s304], June 5, 1978, [92 Stat. 302][/us/stat/92/302].)
+([Pub. L. 95–290, title III][/us/pl/95/290/tIII], § 304, June 5, 1978, [92 Stat. 302][/us/stat/92/302].)
 
 ----------
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t16/s410cc–32/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410cc%E2%80%9332%2Fd%2F1
-[/us/pl/95/290/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F290%2Fs304
+[/us/pl/95/290/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F290%2FtIII
 [/us/stat/92/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F302
 
 

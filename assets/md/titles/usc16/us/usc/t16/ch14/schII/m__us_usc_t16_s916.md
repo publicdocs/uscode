@@ -41,17 +41,17 @@
 
     (l) Regulations of the Secretary of Commerce: The words “regulations of the Secretary of Commerce” mean such regulations as may be issued by the Secretary of Commerce, from time to time, in accordance with sections 916i and 916j of this title.
 
-([Aug. 9, 1950, ch. 653, § 2][/us/act/1950-08-09/ch653/s2], [64 Stat. 421][/us/stat/64/421]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
+([Aug. 9, 1950, ch. 653][/us/act/1950-08-09/ch653], § 2, [64 Stat. 421][/us/stat/64/421]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
 
  __Short Title__ 
 
-[Act Aug. 9, 1950, ch. 653, § 1][/us/act/1950-08-09/ch653/s1], [64 Stat. 421][/us/stat/64/421], provided: 
+[Act Aug. 9, 1950, ch. 653][/us/act/1950-08-09/ch653], § 1, [64 Stat. 421][/us/stat/64/421], provided: 
 
 > “That this Act \[enacting this subchapter\] may be cited as the ‘Whaling Convention Act of 1949’.”
 
  __Separability__ 
 
-[Act Aug. 9, 1950, ch. 653, § 15][/us/act/1950-08-09/ch653/s15], [64 Stat. 425][/us/stat/64/425], provided that: 
+[Act Aug. 9, 1950, ch. 653][/us/act/1950-08-09/ch653], § 15, [64 Stat. 425][/us/stat/64/425], provided that: 
 
 > “If any provision of this Act \[this subchapter\] or the application of such provisions to any circumstances or persons shall be held invalid, the validity of the remainder of the Act and the applicability of such provision to other circumstances or persons shall not be affected thereby.”
 
@@ -67,7 +67,7 @@
 
  __Moratorium on Commercial Killing of Whales__ 
 
-[Pub. L. 96–60, title IV, § 405][/us/pl/96/60/s405], Aug. 15, 1979, [93 Stat. 403][/us/stat/93/403], provided that:
+[Pub. L. 96–60, title IV][/us/pl/96/60/tIV], § 405, Aug. 15, 1979, [93 Stat. 403][/us/stat/93/403], provided that:
 
 >     “(a)
 
@@ -109,17 +109,17 @@
 ----------
 
 [/us/usc/t16/s916a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs916a
-[/us/act/1950-08-09/ch653/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch653%2Fs2
+[/us/act/1950-08-09/ch653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch653
 [/us/stat/64/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F421
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
-[/us/act/1950-08-09/ch653/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch653%2Fs1
+[/us/act/1950-08-09/ch653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch653
 [/us/stat/64/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F421
-[/us/act/1950-08-09/ch653/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch653%2Fs15
+[/us/act/1950-08-09/ch653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch653
 [/us/stat/64/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F425
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
 [/us/pl/99/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F630
 [/us/stat/100/3514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3514
-[/us/pl/96/60/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F60%2Fs405
+[/us/pl/96/60/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F60%2FtIV
 [/us/stat/93/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F403
 
 

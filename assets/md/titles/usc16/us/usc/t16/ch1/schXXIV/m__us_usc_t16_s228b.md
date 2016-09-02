@@ -27,7 +27,7 @@
 
         The Secretary of the Interior shall study the lands within the former boundaries of the Grand Canyon National Monument commonly known as the Tuckup Point, Slide Mountain, and Jensen Tank areas to determine whether any portion of these lands might be unsuitable for park purposes and whether in his judgment the public interest might be better served if they were deleted from the Grand Canyon National Park. The Secretary shall report his findings and recommendations to the Congress no later than one year from January 3, 1975.
 
-([Pub. L. 93–620, § 3][/us/pl/93/620/s3], Jan. 3, 1975, [88 Stat. 2090][/us/stat/88/2090].)
+([Pub. L. 93–620][/us/pl/93/620], § 3, Jan. 3, 1975, [88 Stat. 2090][/us/stat/88/2090].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/93/620/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F620%2Fs3
+[/us/pl/93/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F620
 [/us/stat/88/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2090
 [/us/act/1934-06-14/ch521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-14%2Fch521
 [/us/stat/48/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F960

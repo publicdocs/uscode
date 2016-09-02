@@ -43,7 +43,7 @@
 
             The Secretary shall annually submit a report to the Congress on the status of the Program in each of the States.
 
-([Pub. L. 103–340, § 2][/us/pl/103/340/s2], Oct. 6, 1994, [108 Stat. 3119][/us/stat/108/3119]; [Pub. L. 106–316, § 2(1)][/us/pl/106/316/s2/1], Oct. 19, 2000, [114 Stat. 1276][/us/stat/114/1276].)
+([Pub. L. 103–340][/us/pl/103/340], § 2, Oct. 6, 1994, [108 Stat. 3119][/us/stat/108/3119]; [Pub. L. 106–316][/us/pl/106/316], § 2(1), Oct. 19, 2000, [114 Stat. 1276][/us/stat/114/1276].)
 
  __Amendments__ 
 
@@ -51,13 +51,13 @@
 
  __Short Title of 2006 Amendment__ 
 
-[Pub. L. 109–166, § 1][/us/pl/109/166/s1], Jan. 10, 2006, [119 Stat. 3576][/us/stat/119/3576], provided that: 
+[Pub. L. 109–166][/us/pl/109/166], § 1, Jan. 10, 2006, [119 Stat. 3576][/us/stat/119/3576], provided that: 
 
 > “This Act \[amending sections 719a and 719c of this title and provisions listed in a table of National Wildlife Refuges set out under [section 668dd of this title][/us/usc/t16/s668dd]\] may be cited as the ‘Junior Duck Stamp Reauthorization Amendments Act of 2005’.”
 
  __Short Title__ 
 
-[Pub. L. 103–340, § 1][/us/pl/103/340/s1], Oct. 6, 1994, [108 Stat. 3119][/us/stat/108/3119], provided that: 
+[Pub. L. 103–340][/us/pl/103/340], § 1, Oct. 6, 1994, [108 Stat. 3119][/us/stat/108/3119], provided that: 
 
 > “This Act \[enacting this subchapter and provisions listed in a table of National Wildlife Refuges set out under [section 668dd of this title][/us/usc/t16/s668dd]\] may be cited as the ‘Junior Duck Stamp Conservation and Design Program Act of 1994’.”
 
@@ -68,15 +68,15 @@
 ----------
 ----------
 
-[/us/pl/103/340/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F340%2Fs2
+[/us/pl/103/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F340
 [/us/stat/108/3119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3119
-[/us/pl/106/316/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F316%2Fs2%2F1
+[/us/pl/106/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F316
 [/us/stat/114/1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1276
 [/us/pl/106/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F316
-[/us/pl/109/166/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F166%2Fs1
+[/us/pl/109/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F166
 [/us/stat/119/3576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3576
 [/us/usc/t16/s668dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd
-[/us/pl/103/340/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F340%2Fs1
+[/us/pl/103/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F340
 [/us/stat/108/3119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3119
 [/us/usc/t16/s668dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd
 

@@ -201,7 +201,7 @@
 
             The Secretary shall, to the maximum extent practicable, develop a process for monitoring the need for maintenance of treated areas, over time, in order to preserve the forest health benefits achieved.
 
-([Pub. L. 108–148, title I, § 102][/us/pl/108/148/s102], Dec. 3, 2003, [117 Stat. 1892][/us/stat/117/1892].)
+([Pub. L. 108–148, title I][/us/pl/108/148/tI], § 102, Dec. 3, 2003, [117 Stat. 1892][/us/stat/117/1892].)
 
 ----------
 
@@ -215,7 +215,7 @@
 [/us/usc/t16/s1604/g/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1604%2Fg%2F3%2FB
 [/us/usc/t16/s6501/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6501%2F1
 [/us/usc/t16/s6554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6554
-[/us/pl/108/148/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2Fs102
+[/us/pl/108/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2FtI
 [/us/stat/117/1892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1892
 
 

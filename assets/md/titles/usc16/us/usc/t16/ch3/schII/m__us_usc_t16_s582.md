@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    Sections 564 and 565 of this title, referred to in text, were repealed by [Pub. L. 95–313, § 13(a)(1)][/us/pl/95/313/s13/a/1], July 1, 1978, [92 Stat. 374][/us/stat/92/374].
+    Sections 564 and 565 of this title, referred to in text, were repealed by [Pub. L. 95–313][/us/pl/95/313], § 13(a)(1), July 1, 1978, [92 Stat. 374][/us/stat/92/374].
 
  __Change of Name__ 
 
@@ -39,7 +39,7 @@
 [/us/stat/46/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1516
 [/us/act/1932-05-17/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-05-17%2Fch190
 [/us/stat/47/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F158
-[/us/pl/95/313/s13/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313%2Fs13%2Fa%2F1
+[/us/pl/95/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313
 [/us/stat/92/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F374
 [/us/usc/t48/s731a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs731a
 

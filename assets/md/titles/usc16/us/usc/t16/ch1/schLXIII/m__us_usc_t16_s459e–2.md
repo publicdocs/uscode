@@ -55,15 +55,15 @@
 
         Except to the extent the Court may deem necessary in extraordinary circumstances, no such order or injunction shall continue in effect for more than one hundred and eighty days. During the period of such order or injunction, the Secretary shall diligently and in good faith negotiate with the owner of the property to assure that following termination of the order or injunction, the inconsistent use is abated or the significant harm to the natural resources is mitigated.
 
-([Pub. L. 88–587, § 3][/us/pl/88/587/s3], Sept. 11, 1964, [78 Stat. 930][/us/stat/78/930]; [Pub. L. 98–482][/us/pl/98/482], §§ 3–5, Oct. 17, 1984, [98 Stat. 2256][/us/stat/98/2256].)
+([Pub. L. 88–587][/us/pl/88/587], § 3, Sept. 11, 1964, [78 Stat. 930][/us/stat/78/930]; [Pub. L. 98–482][/us/pl/98/482], §§ 3–5, Oct. 17, 1984, [98 Stat. 2256][/us/stat/98/2256].)
 
  __Amendments__ 
 
-    1984—Subsec. (b). [Pub. L. 98–482, § 4][/us/pl/98/482/s4], substituted “by means of limitations or restrictions on the size, location or use of any commercial, residential, and other structures” for “by means of acreage, frontage, and setback requirements” and required that the standards seek to reconcile the population density of the seashore on Oct. 17, 1984, with the protection of the natural resources of the seashore.
+    1984—Subsec. (b). [Pub. L. 98–482][/us/pl/98/482], § 4, substituted “by means of limitations or restrictions on the size, location or use of any commercial, residential, and other structures” for “by means of acreage, frontage, and setback requirements” and required that the standards seek to reconcile the population density of the seashore on Oct. 17, 1984, with the protection of the natural resources of the seashore.
 
-    Subsec. (e). [Pub. L. 98–482, § 3][/us/pl/98/482/s3], designated part of existing provisions as pars. (1) and (2), made the provisions applicable to any property, and excluded undeveloped property in the Dune district.
+    Subsec. (e). [Pub. L. 98–482][/us/pl/98/482], § 3, designated part of existing provisions as pars. (1) and (2), made the provisions applicable to any property, and excluded undeveloped property in the Dune district.
 
-    Subsec. (g). [Pub. L. 98–482, § 5][/us/pl/98/482/s5], added subsec. (g).
+    Subsec. (g). [Pub. L. 98–482][/us/pl/98/482], § 5, added subsec. (g).
 
 ----------
 
@@ -74,12 +74,12 @@
 
 [/us/usc/t16/s459e–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459e%E2%80%931
 [/us/usc/t16/s459e–1/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459e%E2%80%931%2Fg
-[/us/pl/88/587/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F587%2Fs3
+[/us/pl/88/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F587
 [/us/stat/78/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F930
 [/us/pl/98/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F482
 [/us/stat/98/2256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2256
-[/us/pl/98/482/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F482%2Fs4
-[/us/pl/98/482/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F482%2Fs3
-[/us/pl/98/482/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F482%2Fs5
+[/us/pl/98/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F482
+[/us/pl/98/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F482
+[/us/pl/98/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F482
 
 

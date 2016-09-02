@@ -19,7 +19,7 @@
 
     (b) The Secretary may acquire that portion of area IV–B in private ownership on the map referred to in [section 460u of this title][/us/usc/t16/s460u] only with the consent of the owner: Provided, That the Secretary may acquire an agricultural easement should the owner change the use in existence as of September 19, 1986, through eminent domain.
 
-([Pub. L. 89–761, § 13][/us/pl/89/761/s13], formerly § 14, as added and renumbered [Pub. L. 94–549, § 1(8)][/us/pl/94/549/s1/8], (9), Oct. 18, 1976, [90 Stat. 2531][/us/stat/90/2531], 2533; amended [Pub. L. 99–583, § 1(f)][/us/pl/99/583/s1/f], Oct. 29, 1986, [100 Stat. 3320][/us/stat/100/3320].)
+([Pub. L. 89–761][/us/pl/89/761], § 13, formerly § 14, as added and renumbered [Pub. L. 94–549][/us/pl/94/549], § 1(8), (9), Oct. 18, 1976, [90 Stat. 2531][/us/stat/90/2531], 2533; amended [Pub. L. 99–583][/us/pl/99/583], § 1(f), Oct. 29, 1986, [100 Stat. 3320][/us/stat/100/3320].)
 
  __Amendments__ 
 
@@ -34,10 +34,10 @@
 
 [/us/usc/t16/s460u–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460u%E2%80%933
 [/us/usc/t16/s460u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460u
-[/us/pl/89/761/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761%2Fs13
-[/us/pl/94/549/s1/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549%2Fs1%2F8
+[/us/pl/89/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761
+[/us/pl/94/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549
 [/us/stat/90/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2531
-[/us/pl/99/583/s1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F583%2Fs1%2Ff
+[/us/pl/99/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F583
 [/us/stat/100/3320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3320
 [/us/pl/99/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F583
 

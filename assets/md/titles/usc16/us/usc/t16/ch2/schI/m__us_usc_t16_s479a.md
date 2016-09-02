@@ -63,7 +63,7 @@
 
         If, at any time after lands are conveyed pursuant to this section, the entity to whom the lands were conveyed attempts to transfer title to or control over the lands to another or the lands are devoted to a use other than the use for which the lands were conveyed, title to the lands shall revert to the United States.
 
-([Pub. L. 106–577, title II, § 202][/us/pl/106/577/s202], Dec. 28, 2000, [114 Stat. 3070][/us/stat/114/3070].)
+([Pub. L. 106–577, title II][/us/pl/106/577/tII], § 202, Dec. 28, 2000, [114 Stat. 3070][/us/stat/114/3070].)
 
  __References in Text__ 
 
@@ -73,7 +73,7 @@
 
  __Short Title__ 
 
-[Pub. L. 106–577, title II, § 201][/us/pl/106/577/s201], Dec. 28, 2000, [114 Stat. 3070][/us/stat/114/3070], provided that: 
+[Pub. L. 106–577, title II][/us/pl/106/577/tII], § 201, Dec. 28, 2000, [114 Stat. 3070][/us/stat/114/3070], provided that: 
 
 > “This title \[enacting this section\] may be cited as the ‘Education Land Grant Act’.”
 
@@ -85,14 +85,14 @@
 ----------
 
 [/us/usc/t16/s1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1600
-[/us/pl/106/577/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F577%2Fs202
+[/us/pl/106/577/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F577%2FtII
 [/us/stat/114/3070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3070
 [/us/pl/93/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F378
 [/us/stat/88/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F476
 [/us/usc/t16/s1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1600
 [/us/pl/106/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F577
 [/us/stat/114/3070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3070
-[/us/pl/106/577/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F577%2Fs201
+[/us/pl/106/577/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F577%2FtII
 [/us/stat/114/3070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3070
 
 

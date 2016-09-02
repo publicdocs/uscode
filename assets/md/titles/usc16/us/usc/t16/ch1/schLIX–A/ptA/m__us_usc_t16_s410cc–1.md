@@ -27,7 +27,7 @@
 
     (5) the term “report of the Lowell Historic Canal District Commission” means the report submitted to the Congress by the Lowell Historic Canal District Commission pursuant to an Act entitled “An Act to provide for a plan for the preservation, interpretation development and use of the historic, cultural, and architectural resources of the Lowell Historic Canal District in Lowell, Massachusetts, and for other purposes”, approved January 4, 1975 ([88 Stat. 2330][/us/stat/88/2330]).
 
-([Pub. L. 95–290, § 2][/us/pl/95/290/s2], June 5, 1978, [92 Stat. 290][/us/stat/92/290].)
+([Pub. L. 95–290][/us/pl/95/290], § 2, June 5, 1978, [92 Stat. 290][/us/stat/92/290].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 [/us/usc/t16/s410cc–11/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410cc%E2%80%9311%2Fa%2F1
 [/us/usc/t16/s410cc–31/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410cc%E2%80%9331%2Fa
 [/us/stat/88/2330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2330
-[/us/pl/95/290/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F290%2Fs2
+[/us/pl/95/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F290
 [/us/stat/92/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F290
 [/us/stat/88/2330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2330
 [/us/pl/93/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F645

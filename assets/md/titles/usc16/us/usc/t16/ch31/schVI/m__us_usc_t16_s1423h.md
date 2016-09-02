@@ -27,7 +27,7 @@
 
         There are authorized to be appropriated to the Secretary to carry out this subchapter and the Agreement in Alaska $150,000 for each of fiscal years 2006 through 2010.
 
-([Pub. L. 92–522, title V, § 509][/us/pl/92/522/s509], as added [Pub. L. 109–479, title IX, § 902(a)][/us/pl/109/479/s902/a], Jan. 12, 2007, [120 Stat. 3665][/us/stat/120/3665].)
+([Pub. L. 92–522, title V][/us/pl/92/522/tV], § 509, as added [Pub. L. 109–479, title IX][/us/pl/109/479/tIX], § 902(a), Jan. 12, 2007, [120 Stat. 3665][/us/stat/120/3665].)
 
 ----------
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/92/522/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs509
-[/us/pl/109/479/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs902%2Fa
+[/us/pl/92/522/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtV
+[/us/pl/109/479/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtIX
 [/us/stat/120/3665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3665
 
 

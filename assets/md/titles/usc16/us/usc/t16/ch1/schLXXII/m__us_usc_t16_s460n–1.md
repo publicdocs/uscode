@@ -23,11 +23,11 @@
 
     Establishment or revision of the boundaries of the said national recreation area, as herein prescribed, shall not affect adversely any valid rights in the area, nor shall it affect the validity of withdrawals heretofore made for reclamation or power purposes. All lands in the recreation area which have been withdrawn or acquired by the United States for reclamation purposes shall remain subject to the primary use thereof for reclamation and power purposes so long as they are withdrawn or needed for such purposes. There shall be excluded from the said national recreation area by the Secretary of the Interior any property for management or protection by the Bureau of Reclamation, which would be subject otherwise to inclusion in the said recreation area, and which the Secretary of the Interior considers in the national interest should be excluded therefrom.
 
-([Pub. L. 88–639, § 2][/us/pl/88/639/s2], Oct. 8, 1964, [78 Stat. 1039][/us/stat/78/1039].)
+([Pub. L. 88–639][/us/pl/88/639], § 2, Oct. 8, 1964, [78 Stat. 1039][/us/stat/78/1039].)
 
  __Transfer of Administrative Jurisdiction to National Park Service__ 
 
-[Pub. L. 107–282, title III, § 302][/us/pl/107/282/s302], Nov. 6, 2002, [116 Stat. 2006][/us/stat/116/2006], provided that:
+[Pub. L. 107–282, title III][/us/pl/107/282/tIII], § 302, Nov. 6, 2002, [116 Stat. 2006][/us/stat/116/2006], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/88/639/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F639%2Fs2
+[/us/pl/88/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F639
 [/us/stat/78/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1039
-[/us/pl/107/282/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F282%2Fs302
+[/us/pl/107/282/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F282%2FtIII
 [/us/stat/116/2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2006
 
 

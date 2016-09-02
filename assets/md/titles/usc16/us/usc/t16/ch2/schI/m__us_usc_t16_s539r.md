@@ -327,7 +327,7 @@
 
             Not later than 30 days after the date on which the review is completed under paragraph (1), the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report that describes the oil and gas potential for the wilderness study areas.
 
-([Pub. L. 113–291, div. B, title XXX, § 3065][/us/pl/113/291/s3065], Dec. 19, 2014, [128 Stat. 3833][/us/stat/128/3833].)
+([Pub. L. 113–291, div. B, title XXX][/us/pl/113/291/dB/tXXX], § 3065, Dec. 19, 2014, [128 Stat. 3833][/us/stat/128/3833].)
 
  __References in Text__ 
 
@@ -362,7 +362,7 @@
 [/us/usc/t43/s1782/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1782%2Fc
 [/us/usc/t43/s1782/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1782%2Fc
 [/us/usc/t43/s1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1712
-[/us/pl/113/291/s3065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3065
+[/us/pl/113/291/dB/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXX
 [/us/stat/128/3833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3833
 [/us/act/1911-03-01/ch186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-01%2Fch186
 [/us/stat/36/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F961

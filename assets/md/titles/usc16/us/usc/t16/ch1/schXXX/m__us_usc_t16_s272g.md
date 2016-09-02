@@ -67,17 +67,17 @@
 
             Nothing in this subsection precludes the State of Utah from authorizing or undertaking a surface or mineral activity that is authorized by a land management plan for the acquired land.
 
-([Pub. L. 92–155, § 8][/us/pl/92/155/s8], as added [Pub. L. 105–329, § 2(e)(2)][/us/pl/105/329/s2/e/2], Oct. 30, 1998, [112 Stat. 3062][/us/stat/112/3062]; amended [Pub. L. 106–176, title III, § 302][/us/pl/106/176/s302], Mar. 10, 2000, [114 Stat. 32][/us/stat/114/32].)
+([Pub. L. 92–155][/us/pl/92/155], § 8, as added [Pub. L. 105–329][/us/pl/105/329], § 2(e)(2), Oct. 30, 1998, [112 Stat. 3062][/us/stat/112/3062]; amended [Pub. L. 106–176, title III][/us/pl/106/176/tIII], § 302, Mar. 10, 2000, [114 Stat. 32][/us/stat/114/32].)
 
  __Amendments__ 
 
-    2000—Subsec. (b)(2). [Pub. L. 106–176, § 302(1)][/us/pl/106/176/s302/1], substituted “located in section 1, Township 25 South, Range 18 East, Salt Lake base and meridian, and more fully described as follows:” and subpars. (A) to (C) for “, described as lots 1 through 12 located in the S½N½ and the N½N½N½S½ of section 1, Township 25 South, Range 18 East, Salt Lake base and meridian.”
+    2000—Subsec. (b)(2). [Pub. L. 106–176][/us/pl/106/176], § 302(1), substituted “located in section 1, Township 25 South, Range 18 East, Salt Lake base and meridian, and more fully described as follows:” and subpars. (A) to (C) for “, described as lots 1 through 12 located in the S½N½ and the N½N½N½S½ of section 1, Township 25 South, Range 18 East, Salt Lake base and meridian.”
 
-    Subsec. (d). [Pub. L. 106–176, § 302(2)][/us/pl/106/176/s302/2], struck out heading and text of subsec. (d). Text read as follows: “Administrative actions necessary to implement the land exchange under this section shall be completed not later than 180 days after October 30, 1998.”
+    Subsec. (d). [Pub. L. 106–176][/us/pl/106/176], § 302(2), struck out heading and text of subsec. (d). Text read as follows: “Administrative actions necessary to implement the land exchange under this section shall be completed not later than 180 days after October 30, 1998.”
 
  __Effect on School Trust Land__ 
 
-[Pub. L. 105–329, § 2(e)(1)][/us/pl/105/329/s2/e/1], Oct. 30, 1998, [112 Stat. 3062][/us/stat/112/3062], provided that: 
+[Pub. L. 105–329][/us/pl/105/329], § 2(e)(1), Oct. 30, 1998, [112 Stat. 3062][/us/stat/112/3062], provided that: 
 
 > “Congress finds that—
 
@@ -94,14 +94,14 @@
 ----------
 ----------
 
-[/us/pl/92/155/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F155%2Fs8
-[/us/pl/105/329/s2/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F329%2Fs2%2Fe%2F2
+[/us/pl/92/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F155
+[/us/pl/105/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F329
 [/us/stat/112/3062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3062
-[/us/pl/106/176/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs302
+[/us/pl/106/176/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2FtIII
 [/us/stat/114/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F32
-[/us/pl/106/176/s302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs302%2F1
-[/us/pl/106/176/s302/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs302%2F2
-[/us/pl/105/329/s2/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F329%2Fs2%2Fe%2F1
+[/us/pl/106/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176
+[/us/pl/106/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176
+[/us/pl/105/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F329
 [/us/stat/112/3062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3062
 [/us/usc/t16/s272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs272
 

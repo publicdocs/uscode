@@ -23,7 +23,7 @@
 
     (3) act upon, or refer to other appropriate authority, any communication referred to in paragraph (1).
 
-([Pub. L. 109–479, title V, § 504][/us/pl/109/479/s504], Jan. 12, 2007, [120 Stat. 3639][/us/stat/120/3639].)
+([Pub. L. 109–479, title V][/us/pl/109/479/tV], § 504, Jan. 12, 2007, [120 Stat. 3639][/us/stat/120/3639].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/109/479/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs504
+[/us/pl/109/479/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtV
 [/us/stat/120/3639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3639
 
 

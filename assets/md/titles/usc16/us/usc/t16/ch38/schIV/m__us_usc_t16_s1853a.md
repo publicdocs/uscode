@@ -287,7 +287,7 @@
 
         (3) nothing in this subsection precludes a Council from incorporating criteria contained in this section into any such plans.
 
-([Pub. L. 94–265, title III, § 303A][/us/pl/94/265/s303A], as added [Pub. L. 109–479, title I, § 106(a)(2)][/us/pl/109/479/s106/a/2], Jan. 12, 2007, [120 Stat. 3586][/us/stat/120/3586]; amended [Pub. L. 110–161, div. B, title V, § 529][/us/pl/110/161/s529], Dec. 26, 2007, [121 Stat. 1930][/us/stat/121/1930].)
+([Pub. L. 94–265, title III][/us/pl/94/265/tIII], § 303A, as added [Pub. L. 109–479, title I][/us/pl/109/479/tI], § 106(a)(2), Jan. 12, 2007, [120 Stat. 3586][/us/stat/120/3586]; amended [Pub. L. 110–161, div. B, title V][/us/pl/110/161/dB/tV], § 529, Dec. 26, 2007, [121 Stat. 1930][/us/stat/121/1930].)
 
  __References in Text__ 
 
@@ -297,17 +297,17 @@
 
  __Amendments__ 
 
-    2007—Subsec. (c)(4)(A)(iii). [Pub. L. 110–161, § 529(1)][/us/pl/110/161/s529/1], substituted “association, among willing parties” for “association”.
+    2007—Subsec. (c)(4)(A)(iii). [Pub. L. 110–161][/us/pl/110/161], § 529(1), substituted “association, among willing parties” for “association”.
 
-    Subsec. (i). [Pub. L. 110–161, § 529(2)][/us/pl/110/161/s529/2]–(4), struck out designation and heading of par. (1), redesignated subpars. (A) to (C) of former par. (1) as pars. (1) to (3), respectively, realigned margins, and struck out heading and text of former par. (2). Text of former par. (2) read as follows: “The requirements of this section, other than subparagraphs (A) and (B) of subsection (c)(1) and subparagraphs (A), (B), and (C) of paragraph (1) of this subsection, shall not apply to any proposal authorized under section 302(f) of the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006 that is submitted within the timeframe prescribed by that section.”
+    Subsec. (i). [Pub. L. 110–161][/us/pl/110/161], § 529(2)–(4), struck out designation and heading of par. (1), redesignated subpars. (A) to (C) of former par. (1) as pars. (1) to (3), respectively, realigned margins, and struck out heading and text of former par. (2). Text of former par. (2) read as follows: “The requirements of this section, other than subparagraphs (A) and (B) of subsection (c)(1) and subparagraphs (A), (B), and (C) of paragraph (1) of this subsection, shall not apply to any proposal authorized under section 302(f) of the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006 that is submitted within the timeframe prescribed by that section.”
 
  __Effective Date of 2007 Amendment__ 
 
-    [Pub. L. 110–161, div. B, title V, § 529][/us/pl/110/161/s529], Dec. 26, 2007, [121 Stat. 1930][/us/stat/121/1930], provided that the amendment made by section 529 is effective Jan. 13, 2007.
+    [Pub. L. 110–161, div. B, title V][/us/pl/110/161/dB/tV], § 529, Dec. 26, 2007, [121 Stat. 1930][/us/stat/121/1930], provided that the amendment made by section 529 is effective Jan. 13, 2007.
 
  __Application With American Fisheries Act__ 
 
-[Pub. L. 109–479, title I, § 106(e)][/us/pl/109/479/s106/e], Jan. 12, 2007, [120 Stat. 3594][/us/stat/120/3594], provided that: 
+[Pub. L. 109–479, title I][/us/pl/109/479/tI], § 106(e), Jan. 12, 2007, [120 Stat. 3594][/us/stat/120/3594], provided that: 
 
 > “Nothing in section 303A of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801][/us/usc/t16/s1801] et seq.) \[[16 U.S.C. 1853a][/us/usc/t16/s1853a]\], as added by subsection (a), shall be construed to modify or supersede any provision of the American Fisheries Act \[title II of div. C of [Pub. L. 105–277][/us/pl/105/277], see Tables for classification\] (\[former\] [46 U.S.C. 12102][/us/usc/t46/s12102] note \[see [46 U.S.C. 12113(e)][/us/usc/t46/s12113/e], (f), (h), (i)\]; [16 U.S.C. 1851][/us/usc/t16/s1851] note; et alia).”
 
@@ -329,10 +329,10 @@
 [/us/usc/t16/s1854/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1854%2Fd%2F2
 [/us/usc/t46/s53706/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53706%2Fa%2F7
 [/us/usc/t16/s1853/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1853%2Fd
-[/us/pl/94/265/s303A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs303A
-[/us/pl/109/479/s106/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs106%2Fa%2F2
+[/us/pl/94/265/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2FtIII
+[/us/pl/109/479/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtI
 [/us/stat/120/3586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3586
-[/us/pl/110/161/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs529
+[/us/pl/110/161/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdB%2FtV
 [/us/stat/121/1930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1930
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331
@@ -341,11 +341,11 @@
 [/us/stat/120/3575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3575
 [/us/stat/120/3624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3624
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
-[/us/pl/110/161/s529/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs529%2F1
-[/us/pl/110/161/s529/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs529%2F2
-[/us/pl/110/161/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs529
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/161/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdB%2FtV
 [/us/stat/121/1930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1930
-[/us/pl/109/479/s106/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs106%2Fe
+[/us/pl/109/479/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtI
 [/us/stat/120/3594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3594
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
 [/us/usc/t16/s1853a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1853a

@@ -27,7 +27,7 @@
 
     (5) the term “inner gorge” means the inherently unstable steep slope (65 percent gradient or more) immediately adjacent to the stream or river channel, extending from the channel or recent floodplain to the first significant break in slope (usually 15 percent or more).
 
-([Pub. L. 101–612, § 3][/us/pl/101/612/s3], Nov. 16, 1990, [104 Stat. 3209][/us/stat/104/3209].)
+([Pub. L. 101–612][/us/pl/101/612], § 3, Nov. 16, 1990, [104 Stat. 3209][/us/stat/104/3209].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 [/us/usc/t16/s460bbb–2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460bbb%E2%80%932%2Fb
 [/us/usc/t16/s1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1604
 [/us/usc/t16/s460bbb–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460bbb%E2%80%932
-[/us/pl/101/612/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612%2Fs3
+[/us/pl/101/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612
 [/us/stat/104/3209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3209
 [/us/pl/101/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612
 [/us/stat/104/3209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3209

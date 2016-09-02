@@ -291,7 +291,7 @@
 
             Amounts appropriated in any fiscal year to carry out this section may only be expended on a matching basis in a ratio of at least three non-Federal dollars to every Federal dollar. The non-Federal share of the match may be in the form of cash, services, or in-kind contributions, fairly valued.
 
-([Pub. L. 104–333, div. I, title X, § 1029][/us/pl/104/333/s1029], Nov. 12, 1996, [110 Stat. 4232][/us/stat/110/4232]; [Pub. L. 105–355, title V, § 513][/us/pl/105/355/s513], Nov. 6, 1998, [112 Stat. 3266][/us/stat/112/3266]; [Pub. L. 106–176, title I, § 126][/us/pl/106/176/s126], Mar. 10, 2000, [114 Stat. 30][/us/stat/114/30]; [Pub. L. 108–352, § 12][/us/pl/108/352/s12], Oct. 21, 2004, [118 Stat. 1397][/us/stat/118/1397]; [Pub. L. 109–241, title IX, § 902(h)(1)][/us/pl/109/241/s902/h/1], July 11, 2006, [120 Stat. 567][/us/stat/120/567]; [Pub. L. 111–11, title VII, § 7109][/us/pl/111/11/s7109], Mar. 30, 2009, [123 Stat. 1197][/us/stat/123/1197]; [Pub. L. 111–281, title IX, § 903(a)(8)][/us/pl/111/281/s903/a/8], Oct. 15, 2010, [124 Stat. 3010][/us/stat/124/3010].)
+([Pub. L. 104–333, div. I, title X][/us/pl/104/333/dI/tX], § 1029, Nov. 12, 1996, [110 Stat. 4232][/us/stat/110/4232]; [Pub. L. 105–355, title V][/us/pl/105/355/tV], § 513, Nov. 6, 1998, [112 Stat. 3266][/us/stat/112/3266]; [Pub. L. 106–176, title I][/us/pl/106/176/tI], § 126, Mar. 10, 2000, [114 Stat. 30][/us/stat/114/30]; [Pub. L. 108–352][/us/pl/108/352], § 12, Oct. 21, 2004, [118 Stat. 1397][/us/stat/118/1397]; [Pub. L. 109–241, title IX][/us/pl/109/241/tIX], § 902(h)(1), July 11, 2006, [120 Stat. 567][/us/stat/120/567]; [Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7109, Mar. 30, 2009, [123 Stat. 1197][/us/stat/123/1197]; [Pub. L. 111–281, title IX][/us/pl/111/281/tIX], § 903(a)(8), Oct. 15, 2010, [124 Stat. 3010][/us/stat/124/3010].)
 
  __References in Text__ 
 
@@ -303,31 +303,31 @@
 
  __Amendments__ 
 
-    2010—Subsec. (e)(2)(B). [Pub. L. 111–281][/us/pl/111/281] made technical amendment to directory language of [Pub. L. 109–241, § 902(h)(1)][/us/pl/109/241/s902/h/1]. See 2006 Amendment note below.
+    2010—Subsec. (e)(2)(B). [Pub. L. 111–281][/us/pl/111/281] made technical amendment to directory language of [Pub. L. 109–241][/us/pl/109/241], § 902(h)(1). See 2006 Amendment note below.
 
-    2009—Subsec. (d)(3). [Pub. L. 111–11, § 7109(a)][/us/pl/111/11/s7109/a], added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The Secretary may consult and enter into cooperative agreements with the Commonwealth of Massachusetts or its political subdivisions to acquire from and provide to the Commonwealth or its political subdivisions goods and services to be used in the cooperative management of lands within the recreation area, if the Secretary determines that appropriations for that purpose are available and the agreement is in the best interest of the United States.”
+    2009—Subsec. (d)(3). [Pub. L. 111–11][/us/pl/111/11], § 7109(a), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The Secretary may consult and enter into cooperative agreements with the Commonwealth of Massachusetts or its political subdivisions to acquire from and provide to the Commonwealth or its political subdivisions goods and services to be used in the cooperative management of lands within the recreation area, if the Secretary determines that appropriations for that purpose are available and the agreement is in the best interest of the United States.”
 
-    Subsec. (e)(2)(B). [Pub. L. 111–11, § 7109(b)(1)][/us/pl/111/11/s7109/b/1], substituted “Coast Guard.” for “Coast Guard”.
+    Subsec. (e)(2)(B). [Pub. L. 111–11][/us/pl/111/11], § 7109(b)(1), substituted “Coast Guard.” for “Coast Guard”.
 
-    Subsec. (e)(11). [Pub. L. 111–11, § 7109(b)(2)][/us/pl/111/11/s7109/b/2], substituted “Notwithstanding” for “Nothwithstanding”.
+    Subsec. (e)(11). [Pub. L. 111–11][/us/pl/111/11], § 7109(b)(2), substituted “Notwithstanding” for “Nothwithstanding”.
 
-    2006—Subsec. (e)(2)(B). [Pub. L. 109–241, § 902(h)(1)][/us/pl/109/241/s902/h/1], as amended by [Pub. L. 111–281, § 903(a)(8)][/us/pl/111/281/s903/a/8], substituted “Commandant of the Coast Guard.” for “Secretary of Transportation, to represent the United States Coast Guard.”
+    2006—Subsec. (e)(2)(B). [Pub. L. 109–241][/us/pl/109/241], § 902(h)(1), as amended by [Pub. L. 111–281][/us/pl/111/281], § 903(a)(8), substituted “Commandant of the Coast Guard.” for “Secretary of Transportation, to represent the United States Coast Guard.”
 
-    2004—Subsec. (c)(2)(B)(i). [Pub. L. 108–352, § 12(1)][/us/pl/108/352/s12/1], substituted “referenced” for “reference”.
+    2004—Subsec. (c)(2)(B)(i). [Pub. L. 108–352][/us/pl/108/352], § 12(1), substituted “referenced” for “reference”.
 
-    Subsec. (d)(4). [Pub. L. 108–352, § 12(2)][/us/pl/108/352/s12/2], inserted period after “plans”.
+    Subsec. (d)(4). [Pub. L. 108–352][/us/pl/108/352], § 12(2), inserted period after “plans”.
 
-    2000—[Pub. L. 106–176, § 126(1)][/us/pl/106/176/s126/1], substituted “National Recreation Area” for “Recreation Area” in section catchline.
+    2000—[Pub. L. 106–176][/us/pl/106/176], § 126(1), substituted “National Recreation Area” for “Recreation Area” in section catchline.
 
-    Subsec. (b)(1). [Pub. L. 106–176, § 126(2)][/us/pl/106/176/s126/2], inserted quotation marks around “recreation area”.
+    Subsec. (b)(1). [Pub. L. 106–176][/us/pl/106/176], § 126(2), inserted quotation marks around “recreation area”.
 
-    Subsec. (e)(3)(B). [Pub. L. 106–176, § 126(3)][/us/pl/106/176/s126/3], which directed substitution of “subparagraphs (C), (D), (E), (F), (G), (H), (I), and (J) of paragraph (2).” for “subsections (b)(3), (4), (5), (6), (7), (8), (9), and (10) of this section..”, was executed by making the substitution for text that did not include the phrase “of this section..”
+    Subsec. (e)(3)(B). [Pub. L. 106–176][/us/pl/106/176], § 126(3), which directed substitution of “subparagraphs (C), (D), (E), (F), (G), (H), (I), and (J) of paragraph (2).” for “subsections (b)(3), (4), (5), (6), (7), (8), (9), and (10) of this section..”, was executed by making the substitution for text that did not include the phrase “of this section..”
 
-    Subsec. (f)(2)(A)(i). [Pub. L. 106–176, § 126(4)][/us/pl/106/176/s126/4], substituted “private-sector roles” for “profit sector roles”.
+    Subsec. (f)(2)(A)(i). [Pub. L. 106–176][/us/pl/106/176], § 126(4), substituted “private-sector roles” for “profit sector roles”.
 
-    Subsec. (g)(1). [Pub. L. 106–176, § 126(5)][/us/pl/106/176/s126/5], substituted “and revenue-raising activities.” for “and revenue raising activities.”.
+    Subsec. (g)(1). [Pub. L. 106–176][/us/pl/106/176], § 126(5), substituted “and revenue-raising activities.” for “and revenue raising activities.”.
 
-    Subsec. (h)(2). [Pub. L. 106–176, § 126(6)][/us/pl/106/176/s126/6], substituted “ratio” for “ration”.
+    Subsec. (h)(2). [Pub. L. 106–176][/us/pl/106/176], § 126(6), substituted “ratio” for “ration”.
 
     1998—Subsec. (c)(3). [Pub. L. 105–355][/us/pl/105/355] added par. (3).
 
@@ -337,7 +337,7 @@
 
  __Effective Date of 2010 Amendment__ 
 
-    [Pub. L. 111–281, title IX, § 903(a)][/us/pl/111/281/s903/a], Oct. 15, 2010, [124 Stat. 3010][/us/stat/124/3010], provided that the amendment by section 903(a)(8) is effective with enactment of [Pub. L. 109–241][/us/pl/109/241].
+    [Pub. L. 111–281, title IX][/us/pl/111/281/tIX], § 903(a), Oct. 15, 2010, [124 Stat. 3010][/us/stat/124/3010], provided that the amendment by section 903(a)(8) is effective with enactment of [Pub. L. 109–241][/us/pl/109/241].
 
 ----------
 
@@ -354,19 +354,19 @@
 [/us/usc/t49/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs303%2Fc
 [/us/usc/t49/s47101/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47101%2Fh%2F2
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/104/333/s1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs1029
+[/us/pl/104/333/dI/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtX
 [/us/stat/110/4232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4232
-[/us/pl/105/355/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F355%2Fs513
+[/us/pl/105/355/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F355%2FtV
 [/us/stat/112/3266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3266
-[/us/pl/106/176/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs126
+[/us/pl/106/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2FtI
 [/us/stat/114/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F30
-[/us/pl/108/352/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F352%2Fs12
+[/us/pl/108/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F352
 [/us/stat/118/1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1397
-[/us/pl/109/241/s902/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs902%2Fh%2F1
+[/us/pl/109/241/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIX
 [/us/stat/120/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F567
-[/us/pl/111/11/s7109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7109
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1197
-[/us/pl/111/281/s903/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs903%2Fa%2F8
+[/us/pl/111/281/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIX
 [/us/stat/124/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3010
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
@@ -387,22 +387,22 @@
 [/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
-[/us/pl/109/241/s902/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs902%2Fh%2F1
-[/us/pl/111/11/s7109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7109%2Fa
-[/us/pl/111/11/s7109/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7109%2Fb%2F1
-[/us/pl/111/11/s7109/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7109%2Fb%2F2
-[/us/pl/109/241/s902/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs902%2Fh%2F1
-[/us/pl/111/281/s903/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs903%2Fa%2F8
-[/us/pl/108/352/s12/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F352%2Fs12%2F1
-[/us/pl/108/352/s12/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F352%2Fs12%2F2
-[/us/pl/106/176/s126/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs126%2F1
-[/us/pl/106/176/s126/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs126%2F2
-[/us/pl/106/176/s126/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs126%2F3
-[/us/pl/106/176/s126/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs126%2F4
-[/us/pl/106/176/s126/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs126%2F5
-[/us/pl/106/176/s126/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs126%2F6
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
+[/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
+[/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
+[/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
+[/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
+[/us/pl/111/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281
+[/us/pl/108/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F352
+[/us/pl/108/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F352
+[/us/pl/106/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176
+[/us/pl/106/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176
+[/us/pl/106/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176
+[/us/pl/106/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176
+[/us/pl/106/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176
+[/us/pl/106/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176
 [/us/pl/105/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F355
-[/us/pl/111/281/s903/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs903%2Fa
+[/us/pl/111/281/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIX
 [/us/stat/124/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3010
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
 

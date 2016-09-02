@@ -17,7 +17,7 @@
 
     When title to all the lands within boundaries to be determined by the Secretary of the Interior within the area of approximately two thousand square miles in the region of the Everglades of Dade, Monroe, and Collier Counties, in the State of Florida, recommended by said Secretary, in his report to Congress of December 3, 1930, pursuant to the Act of March 1, 1929 ([45 Stat. 1443][/us/stat/45/1443]), shall have been vested in the United States, said lands shall be, and are, established, dedicated, and set apart as a public park for the benefit and enjoyment of the people and shall be known as the Everglades National Park: Provided, That the United States shall not purchase by appropriation of public moneys any land within the aforesaid area, but such lands shall be secured by the United States only by public or private donation.
 
-([May 30, 1934, ch. 371, § 1][/us/act/1934-05-30/ch371/s1], [48 Stat. 816][/us/stat/48/816].)
+([May 30, 1934, ch. 371][/us/act/1934-05-30/ch371], § 1, [48 Stat. 816][/us/stat/48/816].)
 
  __References in Text__ 
 
@@ -485,7 +485,7 @@
 ----------
 
 [/us/stat/45/1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1443
-[/us/act/1934-05-30/ch371/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-30%2Fch371%2Fs1
+[/us/act/1934-05-30/ch371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-30%2Fch371
 [/us/stat/48/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F816
 [/us/stat/45/1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1443
 [/us/act/1929-03-01/ch446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-01%2Fch446

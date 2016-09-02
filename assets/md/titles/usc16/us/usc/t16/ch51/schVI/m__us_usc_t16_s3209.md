@@ -23,7 +23,7 @@
 
         This section shall become effective upon the relinquishment by the State of Alaska of selections made on November 14, 1978, pursuant to the Alaska Statehood Act which are located within the boundaries of conservation system units, national conservation areas, national recreation areas, and forest additions, established, designated, or expanded by this Act.
 
-([Pub. L. 96–487, title XIII, § 1322][/us/pl/96/487/s1322], Dec. 2, 1980, [94 Stat. 2487][/us/stat/94/2487].)
+([Pub. L. 96–487, title XIII][/us/pl/96/487/tXIII], § 1322, Dec. 2, 1980, [94 Stat. 2487][/us/stat/94/2487].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
-[/us/pl/96/487/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1322
+[/us/pl/96/487/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXIII
 [/us/stat/94/2487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2487
 [/us/stat/93/1446-1473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1446-1473
 [/us/usc/t54/s320301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320301

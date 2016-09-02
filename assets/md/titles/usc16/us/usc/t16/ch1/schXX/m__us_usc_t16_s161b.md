@@ -17,7 +17,7 @@
 
     For purposes of administration, promotion, development, and support by appropriations that part of the said Waterton-Glacier International Peace Park within the territory of the United States shall be designated as the Glacier National Park.
 
-([May 2, 1932, ch. 157, § 2][/us/act/1932-05-02/ch157/s2], [47 Stat. 145][/us/stat/47/145].)
+([May 2, 1932, ch. 157][/us/act/1932-05-02/ch157], § 2, [47 Stat. 145][/us/stat/47/145].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1932-05-02/ch157/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-05-02%2Fch157%2Fs2
+[/us/act/1932-05-02/ch157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-05-02%2Fch157
 [/us/stat/47/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F145
 
 

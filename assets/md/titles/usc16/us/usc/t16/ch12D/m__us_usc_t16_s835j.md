@@ -17,7 +17,7 @@
 
     The Secretary of the Interior shall prepare, maintain, and present annually to the President and the Congress a consolidated financial statement for all projects heretofore or hereafter authorized, including the third powerplant at Grand Coulee Dam, from or by means of which commercial power and energy is marketed through the facilities of the Federal Columbia River power system and for all other projects associated therewith to the extent that the costs of these projects are required by law to be charged to and returned from net revenues derived from the power and energy, or any power and energy, so marketed, and he shall, if said consolidated statement indicates that the reimbursable construction costs of the projects, or any of the projects, covered thereby which are chargeable to and returnable from the commercial power and energy so marketed are likely not to be returned within the period prescribed by law, take prompt action to adjust the rates charged for such power and energy to the extent necessary to assure such return.
 
-([Pub. L. 89–448, § 2(a)][/us/pl/89/448/s2/a], formerly § 2, June 14, 1966, [80 Stat. 200][/us/stat/80/200], renumbered [Pub. L. 89–561, § 6(1)][/us/pl/89/561/s6/1], Sept. 7, 1966, [80 Stat. 714][/us/stat/80/714].)
+([Pub. L. 89–448][/us/pl/89/448], § 2(a), formerly § 2, June 14, 1966, [80 Stat. 200][/us/stat/80/200], renumbered [Pub. L. 89–561][/us/pl/89/561], § 6(1), Sept. 7, 1966, [80 Stat. 714][/us/stat/80/714].)
 
  __Codification__ 
 
@@ -60,9 +60,9 @@ NOW, THEREFORE, by virtue of the authority vested in me as President of the Unit
 ----------
 ----------
 
-[/us/pl/89/448/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F448%2Fs2%2Fa
+[/us/pl/89/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F448
 [/us/stat/80/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F200
-[/us/pl/89/561/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F561%2Fs6%2F1
+[/us/pl/89/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F561
 [/us/stat/80/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F714
 [/us/pl/89/448/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F448%2Fs2%2Fa
 [/us/pl/89/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F561

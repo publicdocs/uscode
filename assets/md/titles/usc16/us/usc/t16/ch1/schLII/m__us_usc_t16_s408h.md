@@ -17,7 +17,7 @@
 
     All federally owned lands within the boundaries of the Isle Royale National Park are made a part of the park: Provided, That the Secretary of the Navy shall retain control and jurisdiction, for lighthouse purposes, over Menagerie Island, located in township 64 north, range 35 west, and an unsurveyed island known as Rock of Ages, situated in approximate sections 7 and 18, township 63 north, range 39 west, and also shall retain the right to maintain existing floating and shore aids to navigation and to establish and maintain additional aids to navigation within the established park area when so required by general navigation.
 
-([Mar. 6, 1942, ch. 152, § 4][/us/act/1942-03-06/ch152/s4], [56 Stat. 138][/us/stat/56/138]; [July 27, 1942, ch. 526][/us/act/1942-07-27/ch526], [56 Stat. 722][/us/stat/56/722].)
+([Mar. 6, 1942, ch. 152][/us/act/1942-03-06/ch152], § 4, [56 Stat. 138][/us/stat/56/138]; [July 27, 1942, ch. 526][/us/act/1942-07-27/ch526], [56 Stat. 722][/us/stat/56/722].)
 
  __Amendments__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1942-03-06/ch152/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-03-06%2Fch152%2Fs4
+[/us/act/1942-03-06/ch152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-03-06%2Fch152
 [/us/stat/56/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F138
 [/us/act/1942-07-27/ch526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-07-27%2Fch526
 [/us/stat/56/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F722

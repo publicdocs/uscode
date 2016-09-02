@@ -37,7 +37,7 @@
 
         (7) Any individual to whom a stamp is sold pursuant to this section shall upon request exhibit such stamp for inspection to any officer or employee of the Department of the Interior or the Department of Agriculture, or to any other person who is authorized to enforce [section 670j(a) of this title][/us/usc/t16/s670j/a].
 
-([Pub. L. 86–797, title II, § 203][/us/pl/86/797/s203], as added [Pub. L. 93–452, § 2][/us/pl/93/452/s2], Oct. 18, 1974, [88 Stat. 1371][/us/stat/88/1371]; amended [Pub. L. 100–653, title II, § 201][/us/pl/100/653/s201], Nov. 14, 1988, [102 Stat. 3826][/us/stat/102/3826]; [Pub. L. 112–81, div. A, title III, § 312(b)(9)][/us/pl/112/81/s312/b/9], Dec. 31, 2011, [125 Stat. 1354][/us/stat/125/1354].)
+([Pub. L. 86–797, title II][/us/pl/86/797/tII], § 203, as added [Pub. L. 93–452][/us/pl/93/452], § 2, Oct. 18, 1974, [88 Stat. 1371][/us/stat/88/1371]; amended [Pub. L. 100–653, title II][/us/pl/100/653/tII], § 201, Nov. 14, 1988, [102 Stat. 3826][/us/stat/102/3826]; [Pub. L. 112–81, div. A, title III][/us/pl/112/81/dA/tIII], § 312(b)(9), Dec. 31, 2011, [125 Stat. 1354][/us/stat/125/1354].)
 
  __Amendments__ 
 
@@ -54,12 +54,12 @@
 
 [/us/usc/t16/s718a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs718a
 [/us/usc/t16/s670j/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs670j%2Fa
-[/us/pl/86/797/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F797%2Fs203
-[/us/pl/93/452/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F452%2Fs2
+[/us/pl/86/797/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F797%2FtII
+[/us/pl/93/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F452
 [/us/stat/88/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1371
-[/us/pl/100/653/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2Fs201
+[/us/pl/100/653/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2FtII
 [/us/stat/102/3826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3826
-[/us/pl/112/81/s312/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs312%2Fb%2F9
+[/us/pl/112/81/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIII
 [/us/stat/125/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1354
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653

@@ -17,7 +17,7 @@
 
     The Secretary shall administer the park in accordance with the provisions of this part, the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  the Act of August 21, 1935 ([49 Stat. 666][/us/stat/49/666]), <sup>\[1\]</sup>  and any other statutory authorities available to him for the conservation and management of natural, historical, and cultural resources.
 
-([Pub. L. 95–625, title IX, § 906][/us/pl/95/625/s906], Nov. 10, 1978, [92 Stat. 3537][/us/stat/92/3537]; [Pub. L. 111–11, title VII, § 7105(e)][/us/pl/111/11/s7105/e], Mar. 30, 2009, [123 Stat. 1193][/us/stat/123/1193].)
+([Pub. L. 95–625, title IX][/us/pl/95/625/tIX], § 906, Nov. 10, 1978, [92 Stat. 3537][/us/stat/92/3537]; [Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7105(e), Mar. 30, 2009, [123 Stat. 1193][/us/stat/123/1193].)
 
  __References in Text__ 
 
@@ -42,9 +42,9 @@
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
-[/us/pl/95/625/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs906
+[/us/pl/95/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtIX
 [/us/stat/92/3537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3537
-[/us/pl/111/11/s7105/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7105%2Fe
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1193
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408

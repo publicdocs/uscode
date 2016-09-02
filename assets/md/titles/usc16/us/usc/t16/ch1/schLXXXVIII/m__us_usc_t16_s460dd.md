@@ -19,7 +19,7 @@
 
     (b) In addition to the boundary change authority under subsection (a), the Secretary may acquire approximately 152 acres of private land in exchange for approximately 370 acres of land within the boundary of Glen Canyon National Recreation Area, as generally depicted on the map entitled “Page One Land Exchange Proposal”, number 608/60573a–2002, and dated May 16, 2002. The map shall be on file and available for public inspection in the appropriate offices of the National Park Service. Upon conclusion of the exchange, the boundary of the recreation area shall be revised to reflect the exchange.
 
-([Pub. L. 92–593, § 1][/us/pl/92/593/s1], Oct. 27, 1972, [86 Stat. 1311][/us/stat/86/1311]; [Pub. L. 108–43, § 2][/us/pl/108/43/s2], July 1, 2003, [117 Stat. 841][/us/stat/117/841].)
+([Pub. L. 92–593][/us/pl/92/593], § 1, Oct. 27, 1972, [86 Stat. 1311][/us/stat/86/1311]; [Pub. L. 108–43][/us/pl/108/43], § 2, July 1, 2003, [117 Stat. 841][/us/stat/117/841].)
 
  __Amendments__ 
 
@@ -27,7 +27,7 @@
 
  __Short Title of 2003 Amendment__ 
 
-[Pub. L. 108–43, § 1][/us/pl/108/43/s1], July 1, 2003, [117 Stat. 841][/us/stat/117/841], provided that: 
+[Pub. L. 108–43][/us/pl/108/43], § 1, July 1, 2003, [117 Stat. 841][/us/stat/117/841], provided that: 
 
 > “This Act \[amending this section\] may be cited as the ‘Glen Canyon National Recreation Area Boundary Revision Act’.”
 
@@ -38,12 +38,12 @@
 ----------
 ----------
 
-[/us/pl/92/593/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F593%2Fs1
+[/us/pl/92/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F593
 [/us/stat/86/1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1311
-[/us/pl/108/43/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F43%2Fs2
+[/us/pl/108/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F43
 [/us/stat/117/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F841
 [/us/pl/108/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F43
-[/us/pl/108/43/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F43%2Fs1
+[/us/pl/108/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F43
 [/us/stat/117/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F841
 
 

@@ -17,7 +17,7 @@
 
     Nothing in this chapter affects the applicability of any Federal, State, or local law with respect to any watershed group.
 
-([Pub. L. 111–11, title VI, § 6003][/us/pl/111/11/s6003], Mar. 30, 2009, [123 Stat. 1170][/us/stat/123/1170].)
+([Pub. L. 111–11, title VI][/us/pl/111/11/tVI], § 6003, Mar. 30, 2009, [123 Stat. 1170][/us/stat/123/1170].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s6003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs6003
+[/us/pl/111/11/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVI
 [/us/stat/123/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1170
 
 

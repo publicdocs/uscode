@@ -63,7 +63,7 @@
 
         (2) ensure that such quotas reflect allocations among such sectors and do not reflect any harvests in excess of such allocations.
 
-([Pub. L. 94–265, title IV, § 407][/us/pl/94/265/s407], as added [Pub. L. 104–297, title II, § 207(b)][/us/pl/104/297/s207/b], Oct. 11, 1996, [110 Stat. 3612][/us/stat/110/3612]; amended [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 144(a)(3), (4)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–238; [Pub. L. 109–479, § 3(d)(1)(B)][/us/pl/109/479/s3/d/1/B], Jan. 12, 2007, [120 Stat. 3578][/us/stat/120/3578].)
+([Pub. L. 94–265, title IV][/us/pl/94/265/tIV], § 407, as added [Pub. L. 104–297, title II][/us/pl/104/297/tII], § 207(b), Oct. 11, 1996, [110 Stat. 3612][/us/stat/110/3612]; amended [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 144(a)(3), (4)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–238; [Pub. L. 109–479][/us/pl/109/479], § 3(d)(1)(B), Jan. 12, 2007, [120 Stat. 3578][/us/stat/120/3578].)
 
  __References in Text__ 
 
@@ -83,12 +83,12 @@
 ----------
 
 [/us/usc/t16/s1853/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1853%2Fd%2F1%2FA
-[/us/pl/94/265/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs407
-[/us/pl/104/297/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs207%2Fb
+[/us/pl/94/265/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2FtIV
+[/us/pl/104/297/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtII
 [/us/stat/110/3612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3612
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/109/479/s3/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs3%2Fd%2F1%2FB
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
 [/us/stat/120/3578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3578
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331

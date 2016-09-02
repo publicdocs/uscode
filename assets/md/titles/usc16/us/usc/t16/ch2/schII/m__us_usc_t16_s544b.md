@@ -81,7 +81,7 @@
 
             (D) revision of urban area boundaries would not result in the significant reduction of agricultural lands, forest lands, or open spaces.
 
-([Pub. L. 99–663, § 4][/us/pl/99/663/s4], Nov. 17, 1986, [100 Stat. 4276][/us/stat/100/4276]; [Pub. L. 103–437, § 6(d)(34)][/us/pl/103/437/s6/d/34], Nov. 2, 1994, [108 Stat. 4585][/us/stat/108/4585]; [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title III, § 354(a)\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–303; [Pub. L. 106–31, title V, § 5004(3)][/us/pl/106/31/s5004/3], May 21, 1999, [113 Stat. 110][/us/stat/113/110]; [Pub. L. 106–291, title III, § 346(d)][/us/pl/106/291/s346/d], Oct. 11, 2000, [114 Stat. 1000][/us/stat/114/1000].)
+([Pub. L. 99–663][/us/pl/99/663], § 4, Nov. 17, 1986, [100 Stat. 4276][/us/stat/100/4276]; [Pub. L. 103–437][/us/pl/103/437], § 6(d)(34), Nov. 2, 1994, [108 Stat. 4585][/us/stat/108/4585]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title III, § 354(a)\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–303; [Pub. L. 106–31, title V][/us/pl/106/31/tV], § 5004(3), May 21, 1999, [113 Stat. 110][/us/stat/113/110]; [Pub. L. 106–291, title III][/us/pl/106/291/tIII], § 346(d), Oct. 11, 2000, [114 Stat. 1000][/us/stat/114/1000].)
 
  __References in Text__ 
 
@@ -89,9 +89,9 @@
 
  __Amendments__ 
 
-    2000—Subsec. (b)(2). [Pub. L. 106–291, § 346(d)(1)][/us/pl/106/291/s346/d/1], substituted “by paragraph (1)” for “in this section” in introductory provisions.
+    2000—Subsec. (b)(2). [Pub. L. 106–291][/us/pl/106/291], § 346(d)(1), substituted “by paragraph (1)” for “in this section” in introductory provisions.
 
-    Subsec. (b)(3). [Pub. L. 106–291, § 346(d)(2)][/us/pl/106/291/s346/d/2], which directed amendment of subsec. (b)(2) by adding at the end a par. (3), was executed by adding par. (3) after subsec. (b)(2), to reflect the probable intent of Congress.
+    Subsec. (b)(3). [Pub. L. 106–291][/us/pl/106/291], § 346(d)(2), which directed amendment of subsec. (b)(2) by adding at the end a par. (3), was executed by adding par. (3) after subsec. (b)(2), to reflect the probable intent of Congress.
 
     1999—Subsec. (a)(2). [Pub. L. 106–31][/us/pl/106/31] made technical correction to directory language of [Pub. L. 105–277][/us/pl/105/277]. See 1998 Amendment note below.
 
@@ -101,13 +101,13 @@
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–31, title V, § 5004(4)][/us/pl/106/31/s5004/4], May 21, 1999, [113 Stat. 110][/us/stat/113/110], provided that: 
+[Pub. L. 106–31, title V][/us/pl/106/31/tV], § 5004(4), May 21, 1999, [113 Stat. 110][/us/stat/113/110], provided that: 
 
 > “The amendments made by paragraphs (1), (2), and (3) of this section \[amending this section and [section 1374 of this title][/us/usc/t16/s1374]\], shall take effect as if included in [Public Law 105–277][/us/pl/105/277] on the date of its enactment \[Oct. 21, 1998\].”
 
  __Congressional Intent of 1998 Amendment__ 
 
-[Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title III, § 354(b)\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–303, provided that: 
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title III, § 354(b)\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–303, provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\]—
 
@@ -124,30 +124,30 @@
 
 [/us/pl/98/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F396
 [/us/usc/t16/s544d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs544d
-[/us/pl/99/663/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663%2Fs4
+[/us/pl/99/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663
 [/us/stat/100/4276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4276
-[/us/pl/103/437/s6/d/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fd%2F34
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4585
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
-[/us/pl/106/31/s5004/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs5004%2F3
+[/us/pl/106/31/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2FtV
 [/us/stat/113/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F110
-[/us/pl/106/291/s346/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2Fs346%2Fd
+[/us/pl/106/291/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2FtIII
 [/us/stat/114/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1000
 [/us/pl/98/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F396
 [/us/stat/98/1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1369
-[/us/pl/106/291/s346/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2Fs346%2Fd%2F1
-[/us/pl/106/291/s346/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2Fs346%2Fd%2F2
+[/us/pl/106/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291
+[/us/pl/106/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291
 [/us/pl/106/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/106/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
-[/us/pl/106/31/s5004/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs5004%2F4
+[/us/pl/106/31/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2FtV
 [/us/stat/113/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F110
 [/us/usc/t16/s1374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1374
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 [/us/pl/98/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F396
 [/us/usc/t16/s544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs544

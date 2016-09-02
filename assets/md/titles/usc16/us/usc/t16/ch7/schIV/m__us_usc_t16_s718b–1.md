@@ -33,7 +33,7 @@
 
         The Postal Service or the Secretary of the Interior may destroy any surplus stock of Migratory Bird Hunting and Conservation Stamps at such time and in such manner as the Postal Service or the Secretary of the Interior determines to be appropriate.
 
-([July 30, 1956, ch. 782, § 3(a)][/us/act/1956-07-30/ch782/s3/a], (b), formerly § 3(a), [70 Stat. 722][/us/stat/70/722]; [Pub. L. 92–214, § 3][/us/pl/92/214/s3], Dec. 22, 1971, [85 Stat. 777][/us/stat/85/777]; renumbered § 3(a), (b) and amended [Pub. L. 109–266, § 10(i)(2)][/us/pl/109/266/s10/i/2], Aug. 3, 2006, [120 Stat. 679][/us/stat/120/679].)
+([July 30, 1956, ch. 782][/us/act/1956-07-30/ch782], § 3(a), (b), formerly § 3(a), [70 Stat. 722][/us/stat/70/722]; [Pub. L. 92–214][/us/pl/92/214], § 3, Dec. 22, 1971, [85 Stat. 777][/us/stat/85/777]; renumbered § 3(a), (b) and amended [Pub. L. 109–266][/us/pl/109/266], § 10(i)(2), Aug. 3, 2006, [120 Stat. 679][/us/stat/120/679].)
 
  __Codification__ 
 
@@ -57,11 +57,11 @@
 ----------
 
 [/us/usc/t16/s718j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs718j
-[/us/act/1956-07-30/ch782/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-30%2Fch782%2Fs3%2Fa
+[/us/act/1956-07-30/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-30%2Fch782
 [/us/stat/70/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F722
-[/us/pl/92/214/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F214%2Fs3
+[/us/pl/92/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F214
 [/us/stat/85/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F777
-[/us/pl/109/266/s10/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266%2Fs10%2Fi%2F2
+[/us/pl/109/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266
 [/us/stat/120/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F679
 [/us/act/1956-07-30/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-30%2Fch782
 [/us/stat/70/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F722

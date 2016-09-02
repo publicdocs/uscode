@@ -33,7 +33,7 @@
 
         (2) no legally binding commitment for the expenditure or financial assistance was made before such date.
 
-([Pub. L. 97–348, § 5][/us/pl/97/348/s5], Oct. 18, 1982, [96 Stat. 1656][/us/stat/96/1656]; [Pub. L. 101–591][/us/pl/101/591], §§ 2(b)(2), 5(c), Nov. 16, 1990, [104 Stat. 2931][/us/stat/104/2931], 2936.)
+([Pub. L. 97–348][/us/pl/97/348], § 5, Oct. 18, 1982, [96 Stat. 1656][/us/stat/96/1656]; [Pub. L. 101–591][/us/pl/101/591], §§ 2(b)(2), 5(c), Nov. 16, 1990, [104 Stat. 2931][/us/stat/104/2931], 2936.)
 
  __References in Text__ 
 
@@ -41,13 +41,13 @@
 
  __Amendments__ 
 
-    1990—Subsec. (a). [Pub. L. 101–591, § 2(b)(2)(A)][/us/pl/101/591/s2/b/2/A], in introductory provisions substituted “the System” for “the Coastal Barrier Resources System”.
+    1990—Subsec. (a). [Pub. L. 101–591][/us/pl/101/591], § 2(b)(2)(A), in introductory provisions substituted “the System” for “the Coastal Barrier Resources System”.
 
-    Subsec. (a)(3). [Pub. L. 101–591, § 5(c)][/us/pl/101/591/s5/c], substituted “through S08 and LA07” for “through S08”.
+    Subsec. (a)(3). [Pub. L. 101–591][/us/pl/101/591], § 5(c), substituted “through S08 and LA07” for “through S08”.
 
-    Subsec. (b)(1). [Pub. L. 101–591, § 2(b)(2)(B)][/us/pl/101/591/s2/b/2/B], substituted “on which the relevant System unit or portion of the System unit was included within the System under this chapter or the Coastal Barrier Improvement Act of 1990” for “of the enactment of this Act”.
+    Subsec. (b)(1). [Pub. L. 101–591][/us/pl/101/591], § 2(b)(2)(B), substituted “on which the relevant System unit or portion of the System unit was included within the System under this chapter or the Coastal Barrier Improvement Act of 1990” for “of the enactment of this Act”.
 
-    Subsec. (b)(2). [Pub. L. 101–591, § 2(b)(2)(C)][/us/pl/101/591/s2/b/2/C], struck out “of enactment” after “before such date”.
+    Subsec. (b)(2). [Pub. L. 101–591][/us/pl/101/591], § 2(b)(2)(C), struck out “of enactment” after “before such date”.
 
 ----------
 
@@ -58,7 +58,7 @@
 
 [/us/usc/t16/s3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3505
 [/us/usc/t16/s3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3503
-[/us/pl/97/348/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F348%2Fs5
+[/us/pl/97/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F348
 [/us/stat/96/1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1656
 [/us/pl/101/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591
 [/us/stat/104/2931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2931
@@ -69,9 +69,9 @@
 [/us/usc/t16/s3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3503
 [/us/usc/t16/s3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3505
 [/us/usc/t16/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3501
-[/us/pl/101/591/s2/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591%2Fs2%2Fb%2F2%2FA
-[/us/pl/101/591/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591%2Fs5%2Fc
-[/us/pl/101/591/s2/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591%2Fs2%2Fb%2F2%2FB
-[/us/pl/101/591/s2/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591%2Fs2%2Fb%2F2%2FC
+[/us/pl/101/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591
+[/us/pl/101/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591
+[/us/pl/101/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591
+[/us/pl/101/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591
 
 

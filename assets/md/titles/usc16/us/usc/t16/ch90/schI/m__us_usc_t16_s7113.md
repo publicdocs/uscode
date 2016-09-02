@@ -71,17 +71,17 @@
 
         For purposes of this chapter, any payment made under subsection (b) shall be considered to be a payment made under [section 7112(a) of this title][/us/usc/t16/s7112/a].
 
-([Pub. L. 106–393, title I, § 103][/us/pl/106/393/s103], as added [Pub. L. 110–343, div. C, title VI, § 601(a)][/us/pl/110/343/s601/a], Oct. 3, 2008, [122 Stat. 3899][/us/stat/122/3899]; amended [Pub. L. 112–141, div. F, title I, § 100101(a)(4)][/us/pl/112/141/s100101/a/4], July 6, 2012, [126 Stat. 906][/us/stat/126/906]; [Pub. L. 113–40, § 10(a)(1)(C)][/us/pl/113/40/s10/a/1/C], Oct. 2, 2013, [127 Stat. 545][/us/stat/127/545]; [Pub. L. 114–10, title V, § 524(a)(4)][/us/pl/114/10/s524/a/4], Apr. 16, 2015, [129 Stat. 179][/us/stat/129/179].)
+([Pub. L. 106–393, title I][/us/pl/106/393/tI], § 103, as added [Pub. L. 110–343, div. C, title VI][/us/pl/110/343/dC/tVI], § 601(a), Oct. 3, 2008, [122 Stat. 3899][/us/stat/122/3899]; amended [Pub. L. 112–141, div. F, title I][/us/pl/112/141/dF/tI], § 100101(a)(4), July 6, 2012, [126 Stat. 906][/us/stat/126/906]; [Pub. L. 113–40][/us/pl/113/40], § 10(a)(1)(C), Oct. 2, 2013, [127 Stat. 545][/us/stat/127/545]; [Pub. L. 114–10, title V][/us/pl/114/10/tV], § 524(a)(4), Apr. 16, 2015, [129 Stat. 179][/us/stat/129/179].)
 
  __References in Text__ 
 
-    Sections 102(a)(2) and 103(a)(2) (as in effect on September 29, 2006), referred to in subsecs. (a)(1) and (d), mean former sections 102(a)(2) and 103(a)(2), respectively, of [Pub. L. 106–393][/us/pl/106/393], which were set out in a note under [section 500 of this title][/us/usc/t16/s500] prior to repeal by [Pub. L. 110–343, div. C, title VI, § 601(a)][/us/pl/110/343/s601/a], Oct. 3, 2008, [122 Stat. 3893][/us/stat/122/3893]. See Prior Provisions notes set out below and under [section 7112 of this title][/us/usc/t16/s7112].
+    Sections 102(a)(2) and 103(a)(2) (as in effect on September 29, 2006), referred to in subsecs. (a)(1) and (d), mean former sections 102(a)(2) and 103(a)(2), respectively, of [Pub. L. 106–393][/us/pl/106/393], which were set out in a note under [section 500 of this title][/us/usc/t16/s500] prior to repeal by [Pub. L. 110–343, div. C, title VI][/us/pl/110/343/dC/tVI], § 601(a), Oct. 3, 2008, [122 Stat. 3893][/us/stat/122/3893]. See Prior Provisions notes set out below and under [section 7112 of this title][/us/usc/t16/s7112].
 
     This chapter, referred to in subsec. (e), was in the original “this Act”, meaning [Pub. L. 106–393][/us/pl/106/393], Oct. 30, 2000, [114 Stat. 1607][/us/stat/114/1607], known as the Secure Rural Schools and Community Self-Determination Act of 2000, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title][/us/usc/t16/s7101] and Tables.
 
  __Prior Provisions__ 
 
-    A prior [section 103 of Pub. L. 106–393][/us/pl/106/393/s103] was set out in a note under [section 500 of this title][/us/usc/t16/s500] prior to repeal by [Pub. L. 110–343, div. C, title VI, § 601(a)][/us/pl/110/343/s601/a], Oct. 3, 2008, [122 Stat. 3893][/us/stat/122/3893].
+    A prior [section 103 of Pub. L. 106–393][/us/pl/106/393/s103] was set out in a note under [section 500 of this title][/us/usc/t16/s500] prior to repeal by [Pub. L. 110–343, div. C, title VI][/us/pl/110/343/dC/tVI], § 601(a), Oct. 3, 2008, [122 Stat. 3893][/us/stat/122/3893].
 
  __Amendments__ 
 
@@ -107,18 +107,18 @@
 [/us/usc/t16/s7112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7112%2Fa
 [/us/usc/t16/s7112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7112
 [/us/usc/t16/s7112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7112%2Fa
-[/us/pl/106/393/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393%2Fs103
-[/us/pl/110/343/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs601%2Fa
+[/us/pl/106/393/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393%2FtI
+[/us/pl/110/343/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtVI
 [/us/stat/122/3899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3899
-[/us/pl/112/141/s100101/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100101%2Fa%2F4
+[/us/pl/112/141/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtI
 [/us/stat/126/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F906
-[/us/pl/113/40/s10/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40%2Fs10%2Fa%2F1%2FC
+[/us/pl/113/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40
 [/us/stat/127/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F545
-[/us/pl/114/10/s524/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs524%2Fa%2F4
+[/us/pl/114/10/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2FtV
 [/us/stat/129/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F179
 [/us/pl/106/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393
 [/us/usc/t16/s500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs500
-[/us/pl/110/343/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs601%2Fa
+[/us/pl/110/343/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtVI
 [/us/stat/122/3893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3893
 [/us/usc/t16/s7112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7112
 [/us/pl/106/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393
@@ -126,7 +126,7 @@
 [/us/usc/t16/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7101
 [/us/pl/106/393/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393%2Fs103
 [/us/usc/t16/s500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs500
-[/us/pl/110/343/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs601%2Fa
+[/us/pl/110/343/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtVI
 [/us/stat/122/3893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3893
 [/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
 [/us/pl/113/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40

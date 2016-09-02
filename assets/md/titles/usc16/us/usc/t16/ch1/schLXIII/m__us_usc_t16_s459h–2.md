@@ -23,7 +23,7 @@
 
         Nothing in sections 459h to 459h–10 of this title  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  or any other provision of law shall affect any right of the State of Mississippi, or give the Secretary any authority, to regulate maritime activities, including nonseashore fishing activities (including shrimping), in any area that, on December 21, 2000, is outside the designated boundary of the seashore (including the buffer zone).
 
-([Pub. L. 91–660, § 3][/us/pl/91/660/s3], Jan. 8, 1971, [84 Stat. 1968][/us/stat/84/1968]; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 137(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–232.)
+([Pub. L. 91–660][/us/pl/91/660], § 3, Jan. 8, 1971, [84 Stat. 1968][/us/stat/84/1968]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 137(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–232.)
 
  __References in Text__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/91/660/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F660%2Fs3
+[/us/pl/91/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F660
 [/us/stat/84/1968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1968
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/91/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F660
 [/us/pl/91/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F660

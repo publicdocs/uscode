@@ -33,7 +33,7 @@
 
         None of the funds authorized to be appropriated by this section may be used for the operation, maintenance, or preservation of the vessel S.S. RED OAK VICTORY.
 
-([Pub. L. 106–352, § 5][/us/pl/106/352/s5], Oct. 24, 2000, [114 Stat. 1372][/us/stat/114/1372].)
+([Pub. L. 106–352][/us/pl/106/352], § 5, Oct. 24, 2000, [114 Stat. 1372][/us/stat/114/1372].)
 
 ----------
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t16/s410ggg–1/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410ggg%E2%80%931%2Fe%2F2
-[/us/pl/106/352/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F352%2Fs5
+[/us/pl/106/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F352
 [/us/stat/114/1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1372
 
 

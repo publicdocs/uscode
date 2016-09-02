@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to enter into agreements, upon such nominal terms as he may prescribe, with such present owners of the land as may desire to remain upon it, to occupy and cultivate their present holdings, upon condition that they will preserve the present buildings and roads, and the present outlines of field and forest, and that they will only cut trees or underbrush under such regulations as the Secretary may prescribe, and that they will assist in caring for and protecting all tablets, monuments, or such other artificial works as may from time to time be erected by proper authority.
 
-([Mar. 3, 1927, ch. 374, § 8][/us/act/1927-03-03/ch374/s8], [44 Stat. 1400][/us/stat/44/1400]; Ex. Ord. No. 6166, § 2, June 10, 1933; Ex. Ord. No. 6228, § 1, July 28, 1933.)
+([Mar. 3, 1927, ch. 374][/us/act/1927-03-03/ch374], § 8, [44 Stat. 1400][/us/stat/44/1400]; Ex. Ord. No. 6166, § 2, June 10, 1933; Ex. Ord. No. 6228, § 1, July 28, 1933.)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1927-03-03/ch374/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch374%2Fs8
+[/us/act/1927-03-03/ch374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch374
 [/us/stat/44/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1400
 [/us/usc/t16/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs426
 

@@ -17,7 +17,7 @@
 
     The Secretary of the Interior, the Secretary of Agriculture, and the Secretary of Defense shall cooperate with the State of California in making the lands under their respective jurisdictions reasonably available for the preservation and grazing of Tule elk in such manner and to such extent as may be consistent with Federal law.
 
-([Pub. L. 94–389, § 2][/us/pl/94/389/s2], Aug. 14, 1976, [90 Stat. 1190][/us/stat/90/1190].)
+([Pub. L. 94–389][/us/pl/94/389], § 2, Aug. 14, 1976, [90 Stat. 1190][/us/stat/90/1190].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/389/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F389%2Fs2
+[/us/pl/94/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F389
 [/us/stat/90/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1190
 
 

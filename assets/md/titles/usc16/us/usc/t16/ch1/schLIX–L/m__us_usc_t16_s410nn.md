@@ -31,7 +31,7 @@
 
         The building housing and displaying the marine collections, libraries, historic documents, equipment, and marine artifacts shall be named the “Sala Burton Building” and an appropriate plaque with this designation shall be prominently displayed as part of the structure.
 
-([Pub. L. 100–348, § 2][/us/pl/100/348/s2], June 27, 1988, [102 Stat. 654][/us/stat/102/654]; [Pub. L. 103–437, § 6(d)(11)][/us/pl/103/437/s6/d/11], Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
+([Pub. L. 100–348][/us/pl/100/348], § 2, June 27, 1988, [102 Stat. 654][/us/stat/102/654]; [Pub. L. 103–437][/us/pl/103/437], § 6(d)(11), Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
  __Codification__ 
 
-    In subsec. (b), “[section 100506(c) of title 54][/us/usc/t54/s100506/c]” substituted for “section 7(c) of the Land and Water Conservation Fund Act of 1965” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (b), “[section 100506(c) of title 54][/us/usc/t54/s100506/c]” substituted for “section 7(c) of the Land and Water Conservation Fund Act of 1965” on authority of [Pub. L. 113–287][/us/pl/113/287], § 6(e), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
  __Amendments__ 
 
@@ -47,7 +47,7 @@
 
  __Short Title__ 
 
-[Pub. L. 100–348, § 1][/us/pl/100/348/s1], June 27, 1988, [102 Stat. 654][/us/stat/102/654], provided that: 
+[Pub. L. 100–348][/us/pl/100/348], § 1, June 27, 1988, [102 Stat. 654][/us/stat/102/654], provided that: 
 
 > “This Act \[enacting this subchapter and amending [section 460bb–3 of this title][/us/usc/t16/s460bb–3]\] may be cited as the ‘San Francisco Maritime National Historical Park Act of 1988’.”
 
@@ -59,17 +59,17 @@
 ----------
 
 [/us/usc/t54/s100506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100506%2Fc
-[/us/pl/100/348/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F348%2Fs2
+[/us/pl/100/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F348
 [/us/stat/102/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F654
-[/us/pl/103/437/s6/d/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fd%2F11
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4584
 [/us/pl/100/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F348
 [/us/stat/102/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F654
 [/us/usc/t54/s100506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100506%2Fc
-[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
-[/us/pl/100/348/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F348%2Fs1
+[/us/pl/100/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F348
 [/us/stat/102/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F654
 [/us/usc/t16/s460bb–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460bb%E2%80%933
 

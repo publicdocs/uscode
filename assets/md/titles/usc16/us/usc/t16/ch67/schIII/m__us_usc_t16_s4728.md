@@ -17,11 +17,11 @@
 
     The Task Force shall, within the program developed under subsection (a), <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection (a) of [section 4722 of this title][/us/usc/t16/s4722],”. </sup></sup>  undertake a comprehensive, environmentally sound program in coordination with regional, territorial, State and local entities to control the brown tree snake (Boiga irregularis) in Guam and other areas where the species is established outside of its historic range.
 
-([Pub. L. 101–646, title I, § 1209][/us/pl/101/646/s1209], Nov. 29, 1990, [104 Stat. 4772][/us/stat/104/4772]; [Pub. L. 104–332, § 2(h)(1)][/us/pl/104/332/s2/h/1], Oct. 26, 1996, [110 Stat. 4091][/us/stat/110/4091].)
+([Pub. L. 101–646, title I][/us/pl/101/646/tI], § 1209, Nov. 29, 1990, [104 Stat. 4772][/us/stat/104/4772]; [Pub. L. 104–332][/us/pl/104/332], § 2(h)(1), Oct. 26, 1996, [110 Stat. 4091][/us/stat/110/4091].)
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–332][/us/pl/104/332] made technical amendment to [Pub. L. 101–646, § 1209][/us/pl/101/646/s1209], which enacted this section.
+    1996—[Pub. L. 104–332][/us/pl/104/332] made technical amendment to [Pub. L. 101–646][/us/pl/101/646], § 1209, which enacted this section.
 
 ----------
 
@@ -31,11 +31,11 @@
 ----------
 
 [/us/usc/t16/s4722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4722
-[/us/pl/101/646/s1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs1209
+[/us/pl/101/646/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2FtI
 [/us/stat/104/4772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4772
-[/us/pl/104/332/s2/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fh%2F1
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
 [/us/stat/110/4091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4091
 [/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
-[/us/pl/101/646/s1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs1209
+[/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
 
 

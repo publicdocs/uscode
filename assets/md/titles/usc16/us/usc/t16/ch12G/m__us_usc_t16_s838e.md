@@ -17,7 +17,7 @@
 
     Subject to the provisions of [section 838c of this title][/us/usc/t16/s838c] the Administrator may purchase or lease or otherwise acquire and hold such real and personal property in the name of the United States as he deems necessary or appropriate to carry out his duties pursuant to law.
 
-([Pub. L. 93–454, § 7][/us/pl/93/454/s7], Oct. 18, 1974, [88 Stat. 1377][/us/stat/88/1377].)
+([Pub. L. 93–454][/us/pl/93/454], § 7, Oct. 18, 1974, [88 Stat. 1377][/us/stat/88/1377].)
 
  __Transfer of Functions__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t16/s838c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs838c
-[/us/pl/93/454/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F454%2Fs7
+[/us/pl/93/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F454
 [/us/stat/88/1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1377
 
 

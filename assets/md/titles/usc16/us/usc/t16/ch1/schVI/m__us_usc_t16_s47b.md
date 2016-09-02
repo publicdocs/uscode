@@ -17,7 +17,7 @@
 
     The provisions of the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\] shall not apply to any lands added to the Yosemite National Park under the authority of [section 47a of this title][/us/usc/t16/s47a].
 
-([May 9, 1930, ch. 234, § 2][/us/act/1930-05-09/ch234/s2], [46 Stat. 265][/us/stat/46/265].)
+([May 9, 1930, ch. 234][/us/act/1930-05-09/ch234], § 2, [46 Stat. 265][/us/stat/46/265].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/usc/t16/s47a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs47a
-[/us/act/1930-05-09/ch234/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-09%2Fch234%2Fs2
+[/us/act/1930-05-09/ch234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-09%2Fch234
 [/us/stat/46/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F265
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285

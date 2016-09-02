@@ -17,7 +17,7 @@
 
     When the Secretary of Agriculture finds that merchantable timber may be cut without detriment to the purity or depletion of the water supply from lands added to the Rogue River National Forest by Act of June 4, 1936, chapter 494, section 1, [49 Stat. 1460][/us/stat/49/1460], title to which has been revested in the United States under the Act of Congress approved June 9, 1916 ([39 Stat. 218][/us/stat/39/218]), said Secretary is authorized to dispose of such merchantable timber on such lands in accordance with the rules and regulations of the Secretary of Agriculture for the national forests and the entire proceeds of any such sale shall be deposited in the Treasury of the United States in a special fund designated “The Oregon and California Land Grant Fund”, referred to in section 10 of the said Act of June 9, 1916, and be disposed of in the manner therein designated.
 
-([June 4, 1936, ch. 494, § 2][/us/act/1936-06-04/ch494/s2], [49 Stat. 1461][/us/stat/49/1461].)
+([June 4, 1936, ch. 494][/us/act/1936-06-04/ch494], § 2, [49 Stat. 1461][/us/stat/49/1461].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 
 [/us/stat/49/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1460
 [/us/stat/39/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F218
-[/us/act/1936-06-04/ch494/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-04%2Fch494%2Fs2
+[/us/act/1936-06-04/ch494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-04%2Fch494
 [/us/stat/49/1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1461
 [/us/stat/49/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1460
 

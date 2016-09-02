@@ -21,7 +21,7 @@
 
     The title to lands, interests in lands, and other property to be acquired pursuant to this Act shall be satisfactory to the Secretary of the Interior. Any property acquired pursuant to said sections upon acquisition by the Federal Government, shall become a part of the park, and shall be subject to all laws and regulations applicable thereto.
 
-([June 5, 1942, ch. 341, § 11][/us/act/1942-06-05/ch341/s11], [56 Stat. 319][/us/stat/56/319]; [June 30, 1948, ch. 764][/us/act/1948-06-30/ch764], [62 Stat. 1165][/us/stat/62/1165].)
+([June 5, 1942, ch. 341][/us/act/1942-06-05/ch341], § 11, [56 Stat. 319][/us/stat/56/319]; [June 30, 1948, ch. 764][/us/act/1948-06-30/ch764], [62 Stat. 1165][/us/stat/62/1165].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t16/s404c–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs404c%E2%80%9312
-[/us/act/1942-06-05/ch341/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-06-05%2Fch341%2Fs11
+[/us/act/1942-06-05/ch341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-06-05%2Fch341
 [/us/stat/56/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F319
 [/us/act/1948-06-30/ch764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch764
 [/us/stat/62/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1165

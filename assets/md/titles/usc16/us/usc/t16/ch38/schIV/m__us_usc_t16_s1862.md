@@ -145,7 +145,7 @@
 
         (9) The provisions of sections 1858, 1860, and 1861 of this title shall apply to the processing facilities and fish products of any person holding individual processing quota, and the provisions of subparagraphs (D), (E), and (L) of section 1857(l)  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be section “1857(1)”. </sup></sup>  of this title shall apply to any facility owned or controlled by a person holding individual processing quota.
 
-([Pub. L. 94–265, title III, § 313][/us/pl/94/265/s313], as added [Pub. L. 101–627, title I, § 118(a)][/us/pl/101/627/s118/a], Nov. 28, 1990, [104 Stat. 4457][/us/stat/104/4457]; amended [Pub. L. 102–582, title IV, § 404][/us/pl/102/582/s404], Nov. 2, 1992, [106 Stat. 4909][/us/stat/106/4909]; [Pub. L. 104–297, title I, § 117(a)][/us/pl/104/297/s117/a], Oct. 11, 1996, [110 Stat. 3603][/us/stat/110/3603]; [Pub. L. 108–199, div. B, title VIII, § 801][/us/pl/108/199/s801], Jan. 23, 2004, [118 Stat. 108][/us/stat/118/108]; [Pub. L. 109–479, title II, § 214][/us/pl/109/479/s214], Jan. 12, 2007, [120 Stat. 3619][/us/stat/120/3619].)
+([Pub. L. 94–265, title III][/us/pl/94/265/tIII], § 313, as added [Pub. L. 101–627, title I][/us/pl/101/627/tI], § 118(a), Nov. 28, 1990, [104 Stat. 4457][/us/stat/104/4457]; amended [Pub. L. 102–582, title IV][/us/pl/102/582/tIV], § 404, Nov. 2, 1992, [106 Stat. 4909][/us/stat/106/4909]; [Pub. L. 104–297, title I][/us/pl/104/297/tI], § 117(a), Oct. 11, 1996, [110 Stat. 3603][/us/stat/110/3603]; [Pub. L. 108–199, div. B, title VIII][/us/pl/108/199/dB/tVIII], § 801, Jan. 23, 2004, [118 Stat. 108][/us/stat/118/108]; [Pub. L. 109–479, title II][/us/pl/109/479/tII], § 214, Jan. 12, 2007, [120 Stat. 3619][/us/stat/120/3619].)
 
  __References in Text__ 
 
@@ -155,29 +155,29 @@
 
  __Codification__ 
 
-    In subsec. (j)(4), “sections 53735 and 53702(b) of title 46” substituted for “sections 1111 and 1112 of title XI of the Merchant Marine Act, 1936 (46 U.S.C. App. 1279f, 1279g)” on authority of [Pub. L. 109–304, § 18(c)][/us/pl/109/304/s18/c], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted sections 53702 and 53735 of Title 46, Shipping.
+    In subsec. (j)(4), “sections 53735 and 53702(b) of title 46” substituted for “sections 1111 and 1112 of title XI of the Merchant Marine Act, 1936 (46 U.S.C. App. 1279f, 1279g)” on authority of [Pub. L. 109–304][/us/pl/109/304], § 18(c), Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted sections 53702 and 53735 of Title 46, Shipping.
 
  __Amendments__ 
 
-    2007—Subsec. (a). [Pub. L. 109–479, § 214(1)][/us/pl/109/479/s214/1], substituted “any fishery under the Council’s jurisdiction except a salmon fishery” for “all fisheries under the Council’s jurisdiction except salmon fisheries” in introductory provisions.
+    2007—Subsec. (a). [Pub. L. 109–479][/us/pl/109/479], § 214(1), substituted “any fishery under the Council’s jurisdiction except a salmon fishery” for “all fisheries under the Council’s jurisdiction except salmon fisheries” in introductory provisions.
 
-    Subsec. (a)(2). [Pub. L. 109–479, § 214(2)][/us/pl/109/479/s214/2], added par. (2) and struck out former par. (2) which read as follows: “establishes a system of fees to pay for the costs of implementing the plan.”
+    Subsec. (a)(2). [Pub. L. 109–479][/us/pl/109/479], § 214(2), added par. (2) and struck out former par. (2) which read as follows: “establishes a system of fees to pay for the costs of implementing the plan.”
 
-    Subsec. (b)(2)(A). [Pub. L. 109–479, § 214(3)][/us/pl/109/479/s214/3], substituted “observers, or electronic monitoring systems,” for “observers”.
+    Subsec. (b)(2)(A). [Pub. L. 109–479][/us/pl/109/479], § 214(3), substituted “observers, or electronic monitoring systems,” for “observers”.
 
-    Subsec. (b)(2)(E). [Pub. L. 109–479, § 214(4)][/us/pl/109/479/s214/4], inserted “a fixed amount reflecting actual observer costs as described in subparagraph (A) or” after “expressed as”.
+    Subsec. (b)(2)(E). [Pub. L. 109–479][/us/pl/109/479], § 214(4), inserted “a fixed amount reflecting actual observer costs as described in subparagraph (A) or” after “expressed as”.
 
-    Subsec. (b)(2)(F). [Pub. L. 109–479, § 214(5)][/us/pl/109/479/s214/5], (6), inserted “some or” after “against” and “or an electronic monitoring system” after “observer”.
+    Subsec. (b)(2)(F). [Pub. L. 109–479][/us/pl/109/479], § 214(5), (6), inserted “some or” after “against” and “or an electronic monitoring system” after “observer”.
 
-    Subsec. (b)(2)(I), (J). [Pub. L. 109–479, § 214(7)][/us/pl/109/479/s214/7], (8), added subpar. (I) and redesignated former subpar. (I) as (J).
+    Subsec. (b)(2)(I), (J). [Pub. L. 109–479][/us/pl/109/479], § 214(7), (8), added subpar. (I) and redesignated former subpar. (I) as (J).
 
     2004—Subsec. (j). [Pub. L. 108–199][/us/pl/108/199] added subsec. (j).
 
-    1996—[Pub. L. 104–297, § 117(a)(1)][/us/pl/104/297/s117/a/1], substituted “conservation” for “research plan” in section catchline.
+    1996—[Pub. L. 104–297][/us/pl/104/297], § 117(a)(1), substituted “conservation” for “research plan” in section catchline.
 
-    Subsec. (a). [Pub. L. 104–297, § 117(a)(2)][/us/pl/104/297/s117/a/2], substituted “North Pacific Council” for “North Pacific Fishery Management Council” in introductory provisions.
+    Subsec. (a). [Pub. L. 104–297][/us/pl/104/297], § 117(a)(2), substituted “North Pacific Council” for “North Pacific Fishery Management Council” in introductory provisions.
 
-    Subsecs. (f) to (i). [Pub. L. 104–297, § 117(a)(3)][/us/pl/104/297/s117/a/3], added subsecs. (f) to (i).
+    Subsecs. (f) to (i). [Pub. L. 104–297][/us/pl/104/297], § 117(a)(3), added subsecs. (f) to (i).
 
     1992—Subsec. (b)(2)(E). [Pub. L. 102–582][/us/pl/102/582] substituted “2 percent, of the unprocessed ex-vessel” for “one percentum, of the”.
 
@@ -196,33 +196,33 @@
 [/us/usc/t16/s1853/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1853%2Fb%2F10
 [/us/usc/t16/s1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1853
 [/us/usc/t16/s1881a/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1881a%2Fb%2F1
-[/us/pl/94/265/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs313
-[/us/pl/101/627/s118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs118%2Fa
+[/us/pl/94/265/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2FtIII
+[/us/pl/101/627/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtI
 [/us/stat/104/4457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4457
-[/us/pl/102/582/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2Fs404
+[/us/pl/102/582/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2FtIV
 [/us/stat/106/4909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4909
-[/us/pl/104/297/s117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs117%2Fa
+[/us/pl/104/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtI
 [/us/stat/110/3603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3603
-[/us/pl/108/199/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs801
+[/us/pl/108/199/dB/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdB%2FtVIII
 [/us/stat/118/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F108
-[/us/pl/109/479/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs214
+[/us/pl/109/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtII
 [/us/stat/120/3619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3619
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
 [/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
-[/us/pl/109/304/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
-[/us/pl/109/479/s214/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs214%2F1
-[/us/pl/109/479/s214/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs214%2F2
-[/us/pl/109/479/s214/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs214%2F3
-[/us/pl/109/479/s214/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs214%2F4
-[/us/pl/109/479/s214/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs214%2F5
-[/us/pl/109/479/s214/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs214%2F7
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
 [/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
-[/us/pl/104/297/s117/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs117%2Fa%2F1
-[/us/pl/104/297/s117/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs117%2Fa%2F2
-[/us/pl/104/297/s117/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs117%2Fa%2F3
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
 [/us/pl/102/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582
 
 

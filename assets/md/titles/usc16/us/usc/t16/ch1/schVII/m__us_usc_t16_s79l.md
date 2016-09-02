@@ -87,7 +87,7 @@
 
         Nothing in this section shall be construed to affect any additional or alternative rights under a law, regulation, or contract (including, but not limited to, veteran preference and contracts between private employers and unions) in effect as of March 27, 1978, and the implementation of this section shall be carried out in accord with applicable civil service laws and regulations except as otherwise provided for in this section. Employees appointed to Federal jobs pursuant to this section shall have their compensation fixed at rates not to exceed that now or hereafter prescribed for the highest rate of grade 15 of the General Schedule under [section 5332 of title 5][/us/usc/t5/s5332].
 
-([Pub. L. 95–250, title I, § 103][/us/pl/95/250/s103], Mar. 27, 1978, [92 Stat. 167][/us/stat/92/167]; [Pub. L. 96–417, title VI, § 602][/us/pl/96/417/s602], Oct. 10, 1980, [94 Stat. 1744][/us/stat/94/1744]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(b)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–417.)
+([Pub. L. 95–250, title I][/us/pl/95/250/tI], § 103, Mar. 27, 1978, [92 Stat. 167][/us/stat/92/167]; [Pub. L. 96–417, title VI][/us/pl/96/417/tVI], § 602, Oct. 10, 1980, [94 Stat. 1744][/us/stat/94/1744]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 405(b)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–417.)
 
  __References in Text__ 
 
@@ -99,9 +99,9 @@
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(b)(1)\], struck out at end “In filling these positions, preference shall be given to affected employees (as defined in title II of this Act) for a period ending on September 30, 1984, notwithstanding applicable civil service laws and regulations.”
+    1998—Subsec. (a). [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 405(b)(1)\], struck out at end “In filling these positions, preference shall be given to affected employees (as defined in title II of this Act) for a period ending on September 30, 1984, notwithstanding applicable civil service laws and regulations.”
 
-    Subsec. (b). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(b)(2)\], struck out after first sentence “In filling these positions, preference shall be given to affected employees (as defined in title II) for a period ending on September 30, 1984, notwithstanding applicable civil service laws and regulations.”
+    Subsec. (b). [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 405(b)(2)\], struck out after first sentence “In filling these positions, preference shall be given to affected employees (as defined in title II) for a period ending on September 30, 1984, notwithstanding applicable civil service laws and regulations.”
 
     1980—Subsec. (h). [Pub. L. 96–417][/us/pl/96/417] substituted provision for judicial review under [section 2395 of title 19][/us/usc/t19/s2395] for review under [section 2322 of title 19][/us/usc/t19/s2322] and provided for review in the appropriate court of appeals of the United States and for review of the judgment of the court of appeals by the Supreme Court of the United States upon certiorari or certification as provided in [section 1254 of title 28][/us/usc/t28/s1254].
 
@@ -123,19 +123,19 @@
 [/us/usc/t19/s2395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2395
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/95/250/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250%2Fs103
+[/us/pl/95/250/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250%2FtI
 [/us/stat/92/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F167
-[/us/pl/96/417/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2Fs602
+[/us/pl/96/417/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417%2FtVI
 [/us/stat/94/1744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1744
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
 [/us/pl/95/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250
 [/us/stat/92/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F163
 [/us/usc/t16/s79k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs79k
 [/us/pl/90/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F545
 [/us/stat/82/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F931
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/96/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F417
 [/us/usc/t19/s2395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2395
 [/us/usc/t19/s2322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2322

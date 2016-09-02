@@ -17,17 +17,17 @@
 
     The Secretary of the Interior is authorized and directed to acquire, on behalf of the United States, by gift, purchase, or condemnation, all right, title, and interest in and to the real property located at Booker Washington Birthplace, Virginia.
 
-([Apr. 2, 1956, ch. 158, § 1][/us/act/1956-04-02/ch158/s1], [70 Stat. 86][/us/stat/70/86].)
+([Apr. 2, 1956, ch. 158][/us/act/1956-04-02/ch158], § 1, [70 Stat. 86][/us/stat/70/86].)
 
  __Short Title of 2002 Amendment__ 
 
-[Pub. L. 107–215, § 1][/us/pl/107/215/s1], Aug. 21, 2002, [116 Stat. 1054][/us/stat/116/1054], provided that: 
+[Pub. L. 107–215][/us/pl/107/215], § 1, Aug. 21, 2002, [116 Stat. 1054][/us/stat/116/1054], provided that: 
 
 > “This Act \[enacting section 450ll–3 of this title\] may be cited as the ‘Booker T. Washington National Monument Boundary Adjustment Act of 2002’.”
 
  __Authorization of Appropriations__ 
 
-Section 4 of act Apr. 2, 1956, as amended by [Pub. L. 92–272, title II, § 201(2)][/us/pl/92/272/s201/2], Apr. 11, 1972, [86 Stat. 120][/us/stat/86/120], provided that: 
+Section 4 of act Apr. 2, 1956, as amended by [Pub. L. 92–272, title II][/us/pl/92/272/tII], § 201(2), Apr. 11, 1972, [86 Stat. 120][/us/stat/86/120], provided that: 
 
 > “There are authorized to be appropriated such sums not to exceed $600,000 as may be necessary to carry out the provisions of this act \[sections 450ll to 450ll–2 of this title\].”
 
@@ -38,11 +38,11 @@ Section 4 of act Apr. 2, 1956, as amended by [Pub. L. 92–272, title II, § 2
 ----------
 ----------
 
-[/us/act/1956-04-02/ch158/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-02%2Fch158%2Fs1
+[/us/act/1956-04-02/ch158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-02%2Fch158
 [/us/stat/70/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F86
-[/us/pl/107/215/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F215%2Fs1
+[/us/pl/107/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F215
 [/us/stat/116/1054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1054
-[/us/pl/92/272/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F272%2Fs201%2F2
+[/us/pl/92/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F272%2FtII
 [/us/stat/86/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F120
 
 

@@ -17,11 +17,11 @@
 
     The purpose of this subchapter is to develop, demonstrate, and make available information on feasible methods that have potential for commercial application to increase and improve utilization, in residential, commercial, and industrial or powerplant applications, of wood residues resulting from timber harvesting and forest protection and management activities occurring on public and private forest lands, and from the manufacture of forest products, including woodpulp.
 
-([Pub. L. 96–554, § 2][/us/pl/96/554/s2], Dec. 19, 1980, [94 Stat. 3257][/us/stat/94/3257].)
+([Pub. L. 96–554][/us/pl/96/554], § 2, Dec. 19, 1980, [94 Stat. 3257][/us/stat/94/3257].)
 
  __Effective Date__ 
 
-[Pub. L. 96–554, § 9][/us/pl/96/554/s9], Dec. 19, 1980, [94 Stat. 3259][/us/stat/94/3259], provided that: 
+[Pub. L. 96–554][/us/pl/96/554], § 9, Dec. 19, 1980, [94 Stat. 3259][/us/stat/94/3259], provided that: 
 
 > “This Act \[enacting this subchapter and enacting a provision set out as a note under [section 1600 of this title][/us/usc/t16/s1600]\] shall become effective October 1, 1981”.
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/96/554/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F554%2Fs2
+[/us/pl/96/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F554
 [/us/stat/94/3257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3257
-[/us/pl/96/554/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F554%2Fs9
+[/us/pl/96/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F554
 [/us/stat/94/3259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3259
 [/us/usc/t16/s1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1600
 [/us/pl/96/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F554

@@ -73,7 +73,7 @@
 
     (k) The term “transport” means to move, convey, carry, or ship by any means, or to deliver or receive for the purpose of movement, conveyance, carriage, or shipment.
 
-([Pub. L. 97–79, § 2][/us/pl/97/79/s2], Nov. 16, 1981, [95 Stat. 1073][/us/stat/95/1073]; [Pub. L. 108–191, § 2][/us/pl/108/191/s2], Dec. 19, 2003, [117 Stat. 2871][/us/stat/117/2871]; [Pub. L. 110–234, title VIII, § 8204(a)][/us/pl/110/234/s8204/a], May 22, 2008, [122 Stat. 1291][/us/stat/122/1291]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VIII, § 8204(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2052.)
+([Pub. L. 97–79][/us/pl/97/79], § 2, Nov. 16, 1981, [95 Stat. 1073][/us/stat/95/1073]; [Pub. L. 108–191][/us/pl/108/191], § 2, Dec. 19, 2003, [117 Stat. 2871][/us/stat/117/2871]; [Pub. L. 110–234, title VIII][/us/pl/110/234/tVIII], § 8204(a), May 22, 2008, [122 Stat. 1291][/us/stat/122/1291]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VIII, § 8204(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2052.)
 
  __References in Text__ 
 
@@ -89,11 +89,11 @@
 
  __Amendments__ 
 
-    2008—Subsec. (f). [Pub. L. 110–246, § 8204(a)(1)][/us/pl/110/246/s8204/a/1], amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The terms ‘plant’ and ‘plants’ mean any wild member of the plant kingdom, including roots, seeds, and other parts thereof (but excluding common food crops and cultivars) which is indigenous to any State and which is either (A) listed on an appendix to the Convention on International Trade in Endangered Species of Wild Fauna and Flora, or (B) listed pursuant to any State law that provides for the conservation of species threatened with extinction.”
+    2008—Subsec. (f). [Pub. L. 110–246][/us/pl/110/246], § 8204(a)(1), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The terms ‘plant’ and ‘plants’ mean any wild member of the plant kingdom, including roots, seeds, and other parts thereof (but excluding common food crops and cultivars) which is indigenous to any State and which is either (A) listed on an appendix to the Convention on International Trade in Endangered Species of Wild Fauna and Flora, or (B) listed pursuant to any State law that provides for the conservation of species threatened with extinction.”
 
-    Subsec. (h). [Pub. L. 110–246, § 8204(a)(2)][/us/pl/110/246/s8204/a/2], substituted “plants, the term also means” for “plants the term means”.
+    Subsec. (h). [Pub. L. 110–246][/us/pl/110/246], § 8204(a)(2), substituted “plants, the term also means” for “plants the term means”.
 
-    Subsec. (j). [Pub. L. 110–246, § 8204(a)(3)][/us/pl/110/246/s8204/a/3], amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “The term ‘taken’ means captured, killed, or collected.”
+    Subsec. (j). [Pub. L. 110–246][/us/pl/110/246], § 8204(a)(3), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “The term ‘taken’ means captured, killed, or collected.”
 
     2003—Subsecs. (g) to (k). [Pub. L. 108–191][/us/pl/108/191] added subsec. (g) and redesignated former subsecs. (g) to (j) as (h) to (k), respectively.
 
@@ -103,13 +103,13 @@
 
  __Short Title of 2003 Amendment__ 
 
-[Pub. L. 108–191, § 1][/us/pl/108/191/s1], Dec. 19, 2003, [117 Stat. 2871][/us/stat/117/2871], provided that: 
+[Pub. L. 108–191][/us/pl/108/191], § 1, Dec. 19, 2003, [117 Stat. 2871][/us/stat/117/2871], provided that: 
 
 > “This Act \[amending this section and [section 3372 of this title][/us/usc/t16/s3372] and enacting provisions set out as a note under [section 3372 of this title][/us/usc/t16/s3372]\] may be cited as the ‘Captive Wildlife Safety Act’.”
 
  __Short Title__ 
 
-[Pub. L. 97–79, § 1][/us/pl/97/79/s1], Nov. 16, 1981, [95 Stat. 1073][/us/stat/95/1073], provided: 
+[Pub. L. 97–79][/us/pl/97/79], § 1, Nov. 16, 1981, [95 Stat. 1073][/us/stat/95/1073], provided: 
 
 > “That this Act \[enacting this chapter, amending [section 1540 of this title][/us/usc/t16/s1540] and [section 42 of Title 18][/us/usc/t18/s42], Crimes and Criminal Procedure, repealing sections 667e and 851 to 856 of this title and sections 43, 44, 3054, and 3112 of Title 18, and enacting provisions set out as a note under [section 1540 of this title][/us/usc/t16/s1540]\] may be cited as the ‘Lacey Act Amendments of 1981’.”
 
@@ -123,13 +123,13 @@
 [/us/usc/t18/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1151
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
-[/us/pl/97/79/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F79%2Fs2
+[/us/pl/97/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F79
 [/us/stat/95/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1073
-[/us/pl/108/191/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F191%2Fs2
+[/us/pl/108/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F191
 [/us/stat/117/2871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2871
-[/us/pl/110/234/s8204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs8204%2Fa
+[/us/pl/110/234/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVIII
 [/us/stat/122/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1291
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/97/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F79
 [/us/stat/95/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1073
@@ -141,20 +141,20 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s8204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs8204%2Fa%2F1
-[/us/pl/110/246/s8204/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs8204%2Fa%2F2
-[/us/pl/110/246/s8204/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs8204%2Fa%2F3
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/108/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F191
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/108/191/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F191%2Fs1
+[/us/pl/108/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F191
 [/us/stat/117/2871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2871
 [/us/usc/t16/s3372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3372
 [/us/usc/t16/s3372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3372
-[/us/pl/97/79/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F79%2Fs1
+[/us/pl/97/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F79
 [/us/stat/95/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1073
 [/us/usc/t16/s1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1540
 [/us/usc/t18/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs42

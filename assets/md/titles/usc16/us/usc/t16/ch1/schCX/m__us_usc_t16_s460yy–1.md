@@ -63,7 +63,7 @@
 
         There is hereby authorized to be appropriated not to exceed $2,000,000 to carry out the provisions of this subchapter.
 
-([Pub. L. 100–696, title II, § 202][/us/pl/100/696/s202], Nov. 18, 1988, [102 Stat. 4574][/us/stat/102/4574].)
+([Pub. L. 100–696, title II][/us/pl/100/696/tII], § 202, Nov. 18, 1988, [102 Stat. 4574][/us/stat/102/4574].)
 
  __References in Text__ 
 
@@ -73,7 +73,7 @@
 
  __Permission To Hunt on Reserve; Restrictions__ 
 
-[Pub. L. 101–512, title I][/us/pl/101/512], Nov. 5, 1990, [104 Stat. 1923][/us/stat/104/1923], provided that: 
+[Pub. L. 101–512, title I][/us/pl/101/512/tI], Nov. 5, 1990, [104 Stat. 1923][/us/stat/104/1923], provided that: 
 
 > “with respect to lands and waters under the jurisdiction of the Secretary of the Interior within the City of Rocks National Reserve established by title II of [Public Law 100–696][/us/pl/100/696] \[enacting sections 460yy and 460yy–1 of this title\], the Secretary shall hereafter permit hunting in accordance with the otherwise applicable laws of the United States and the State of Idaho, except that he may designate zones where and periods when no hunting may be permitted for reasons of public safety, administration, floral and faunal protection and management, or public use and enjoyment: Provided further, That except in emergencies, any regulation prescribing such restrictions shall be put into effect only after consultation with the appropriate State agency having jurisdiction over hunting activities”.
 
@@ -86,7 +86,7 @@
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t30/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1001
-[/us/pl/100/696/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2Fs202
+[/us/pl/100/696/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2FtII
 [/us/stat/102/4574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4574
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
@@ -99,7 +99,7 @@
 [/us/pl/91/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581
 [/us/stat/84/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1566
 [/us/usc/t30/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1001
-[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2FtI
 [/us/stat/104/1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1923
 [/us/pl/100/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696
 

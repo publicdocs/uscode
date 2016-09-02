@@ -17,7 +17,7 @@
 
     All hunting or the killing, wounding, or capturing at any time of any wild bird or animal, except dangerous animals, when it is necessary to prevent them from destroying human lives or inflicting personal injury, is prohibited within the limits of said parks; nor shall any fish be taken out of any of the waters of the said parks, or any one of them, in any other way than by hook and line, and then only at such seasons and such times and manner as may be directed by the Secretary of the Interior.
 
-([June 2, 1920, ch. 218, § 5][/us/act/1920-06-02/ch218/s5], [41 Stat. 731][/us/stat/41/731].)
+([June 2, 1920, ch. 218][/us/act/1920-06-02/ch218], § 5, [41 Stat. 731][/us/stat/41/731].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1920-06-02/ch218/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-02%2Fch218%2Fs5
+[/us/act/1920-06-02/ch218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-02%2Fch218
 [/us/stat/41/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F731
 
 

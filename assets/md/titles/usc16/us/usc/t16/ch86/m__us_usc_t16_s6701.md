@@ -93,11 +93,11 @@
 
         (C) affected entities that collaborate in the development and implementation of wildfire treatment.
 
-([Pub. L. 108–317, § 2][/us/pl/108/317/s2], Oct. 5, 2004, [118 Stat. 1204][/us/stat/118/1204].)
+([Pub. L. 108–317][/us/pl/108/317], § 2, Oct. 5, 2004, [118 Stat. 1204][/us/stat/118/1204].)
 
  __Short Title__ 
 
-[Pub. L. 108–317, § 1][/us/pl/108/317/s1], Oct. 5, 2004, [118 Stat. 1204][/us/stat/118/1204], provided that: 
+[Pub. L. 108–317][/us/pl/108/317], § 1, Oct. 5, 2004, [118 Stat. 1204][/us/stat/118/1204], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Southwest Forest Health and Wildfire Prevention Act of 2004’.”
 
@@ -108,9 +108,9 @@
 ----------
 ----------
 
-[/us/pl/108/317/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F317%2Fs2
+[/us/pl/108/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F317
 [/us/stat/118/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1204
-[/us/pl/108/317/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F317%2Fs1
+[/us/pl/108/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F317
 [/us/stat/118/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1204
 
 

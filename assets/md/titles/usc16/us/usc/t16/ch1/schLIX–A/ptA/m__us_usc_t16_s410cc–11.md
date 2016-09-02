@@ -27,7 +27,7 @@
 
         The Secretary may make minor revisions of the park and preservation district boundaries established under subsection (a)(1) of this section, after consulting with the Commission and the city manager of Lowell, by publication of a revised drawing or other boundary description in the Federal Register; but no waters, lands, or other property outside of the park or preservation district boundaries established under such subsection may be added to the park or preservation district without the consent of the city manager of Lowell and the city council of Lowell. A boundary revision made under this subsection shall be effective only after timely notice in writing is given to the Congress.
 
-([Pub. L. 95–290, title I, § 101][/us/pl/95/290/s101], June 5, 1978, [92 Stat. 291][/us/stat/92/291]; [Pub. L. 110–229, title III, § 312(1)][/us/pl/110/229/s312/1], May 8, 2008, [122 Stat. 769][/us/stat/122/769].)
+([Pub. L. 95–290, title I][/us/pl/95/290/tI], § 101, June 5, 1978, [92 Stat. 291][/us/stat/92/291]; [Pub. L. 110–229, title III][/us/pl/110/229/tIII], § 312(1), May 8, 2008, [122 Stat. 769][/us/stat/122/769].)
 
  __Amendments__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t16/s410cc–22/a/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410cc%E2%80%9322%2Fa%2F2%2FG
-[/us/pl/95/290/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F290%2Fs101
+[/us/pl/95/290/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F290%2FtI
 [/us/stat/92/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F291
-[/us/pl/110/229/s312/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs312%2F1
+[/us/pl/110/229/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtIII
 [/us/stat/122/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F769
 [/us/pl/110/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229
 

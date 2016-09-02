@@ -19,7 +19,7 @@
 
     When such areas have been designated in the Grand Canyon National Forest as provided in [section 684 of this title][/us/usc/t16/s684], hunting, trapping, killing, or capturing of game animals upon the lands of the United States within the limits of said areas shall be unlawful, except under such regulations as may be prescribed from time to time by the Secretary of Agriculture.
 
-([Jan. 24, 1905, ch. 137, § 2][/us/act/1905-01-24/ch137/s2], [33 Stat. 614][/us/stat/33/614]; [June 29, 1906, ch. 3593, § 2][/us/act/1906-06-29/ch3593/s2], [34 Stat. 607][/us/stat/34/607]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], §§ 8, 9, [62 Stat. 860][/us/stat/62/860].)
+([Jan. 24, 1905, ch. 137][/us/act/1905-01-24/ch137], § 2, [33 Stat. 614][/us/stat/33/614]; [June 29, 1906, ch. 3593][/us/act/1906-06-29/ch3593], § 2, [34 Stat. 607][/us/stat/34/607]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], §§ 8, 9, [62 Stat. 860][/us/stat/62/860].)
 
  __Codification__ 
 
@@ -48,9 +48,9 @@
 
 [/us/usc/t16/s684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs684
 [/us/usc/t16/s684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs684
-[/us/act/1905-01-24/ch137/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-01-24%2Fch137%2Fs2
+[/us/act/1905-01-24/ch137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-01-24%2Fch137
 [/us/stat/33/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F614
-[/us/act/1906-06-29/ch3593/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-29%2Fch3593%2Fs2
+[/us/act/1906-06-29/ch3593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-29%2Fch3593
 [/us/stat/34/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F607
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645

@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated such sums as may be necessary to carry out this subchapter.
 
-([Pub. L. 101–313, title II, § 207][/us/pl/101/313/s207], June 27, 1990, [104 Stat. 279][/us/stat/104/279].)
+([Pub. L. 101–313, title II][/us/pl/101/313/tII], § 207, June 27, 1990, [104 Stat. 279][/us/stat/104/279].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/313/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F313%2Fs207
+[/us/pl/101/313/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F313%2FtII
 [/us/stat/104/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F279
 
 

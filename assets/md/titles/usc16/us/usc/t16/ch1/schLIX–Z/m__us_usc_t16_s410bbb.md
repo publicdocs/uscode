@@ -29,7 +29,7 @@
 
         In furtherance of the need to recognize the value and importance of jazz, it is the purpose of this subchapter to establish a New Orleans Jazz National Historical Park to preserve the origins, early history, development and progression of jazz; provide visitors with opportunities to experience the sights, sounds, and places where jazz evolved; and implement innovative ways of establishing jazz educational partnerships that will help to ensure that jazz continues as a vital element of the culture of New Orleans and our Nation.
 
-([Pub. L. 103–433, title XII, § 1202][/us/pl/103/433/s1202], Oct. 31, 1994, [108 Stat. 4519][/us/stat/108/4519].)
+([Pub. L. 103–433, title XII][/us/pl/103/433/tXII], § 1202, Oct. 31, 1994, [108 Stat. 4519][/us/stat/108/4519].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 
  __Short Title__ 
 
-[Pub. L. 103–433, title XII, § 1201][/us/pl/103/433/s1201], Oct. 31, 1994, [108 Stat. 4519][/us/stat/108/4519], provided that: 
+[Pub. L. 103–433, title XII][/us/pl/103/433/tXII], § 1201, Oct. 31, 1994, [108 Stat. 4519][/us/stat/108/4519], provided that: 
 
 > “This title \[enacting this subchapter\] may be cited as the ‘New Orleans Jazz National Historical Park Act of 1994’.”
 
@@ -48,10 +48,10 @@
 ----------
 ----------
 
-[/us/pl/103/433/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs1202
+[/us/pl/103/433/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtXII
 [/us/stat/108/4519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4519
 [/us/stat/101/2013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F2013
-[/us/pl/103/433/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs1201
+[/us/pl/103/433/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtXII
 [/us/stat/108/4519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4519
 
 

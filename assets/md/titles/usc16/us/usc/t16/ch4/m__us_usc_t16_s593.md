@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch4/m__us_usc_t16_ch4.md) | [Next](./../../../..//us/usc/t16/ch4/m__us_usc_t16_s594.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs593)
+[Previous](./../../../..//us/usc/t16/ch4/m__us_usc_t16_s591 _us_usc_t16_s592.md) | [Next](./../../../..//us/usc/t16/ch4/m__us_usc_t16_s594.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs593)
 
 ## § 593. Protection of timber in Florida
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch4/m__us_usc_t16_ch4.md) | [Next](./../../../..//us/usc/t16/ch4/m__us_usc_t16_s594.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs593)
+[Previous](./../../../..//us/usc/t16/ch4/m__us_usc_t16_s591 _us_usc_t16_s592.md) | [Next](./../../../..//us/usc/t16/ch4/m__us_usc_t16_s594.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs593)
 
 ----------
 ----------

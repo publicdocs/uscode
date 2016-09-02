@@ -105,11 +105,11 @@
 
                 (iii) academic institutions.
 
-([Pub. L. 114–113, div. O, title IX, § 906][/us/pl/114/113/s906], Dec. 18, 2015, [129 Stat. 3032][/us/stat/129/3032].)
+([Pub. L. 114–113, div. O, title IX][/us/pl/114/113/dO/tIX], § 906, Dec. 18, 2015, [129 Stat. 3032][/us/stat/129/3032].)
 
  __References in Text__ 
 
-    [Section 7503 of this title][/us/usc/t16/s7503], referred to in subsec. (b), was in the original “section 904”, meaning [section 904 of div. O of Pub. L. 114–113][/us/pl/114/113/s904], which is classified to [section 7503 of this title][/us/usc/t16/s7503], but probably should have been a reference to [section 905 of div. O of Pub. L. 114–113][/us/pl/114/113/s905], which is classified to [section 7504 of this title][/us/usc/t16/s7504]. See subsec. (c)(1) of this section.
+    [Section 7503 of this title][/us/usc/t16/s7503], referred to in subsec. (b), was in the original “section 904”, meaning [section 904 of div. O of Pub. L. 114–113][/us/pl/114/113/dO/s904], which is classified to [section 7503 of this title][/us/usc/t16/s7503], but probably should have been a reference to [section 905 of div. O of Pub. L. 114–113][/us/pl/114/113/dO/s905], which is classified to [section 7504 of this title][/us/usc/t16/s7504]. See subsec. (c)(1) of this section.
 
 ----------
 
@@ -120,12 +120,12 @@
 
 [/us/usc/t16/s7504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7504
 [/us/usc/t16/s7504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7504
-[/us/pl/114/113/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs906
+[/us/pl/114/113/dO/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdO%2FtIX
 [/us/stat/129/3032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3032
 [/us/usc/t16/s7503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7503
-[/us/pl/114/113/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs904
+[/us/pl/114/113/dO/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdO%2Fs904
 [/us/usc/t16/s7503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7503
-[/us/pl/114/113/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs905
+[/us/pl/114/113/dO/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdO%2Fs905
 [/us/usc/t16/s7504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7504
 
 

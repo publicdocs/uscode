@@ -31,7 +31,7 @@
 
         (4) Furthering the goals of the Shenandoah Valley Battlefields Foundation related to the Park.
 
-([Pub. L. 107–373, § 12][/us/pl/107/373/s12], Dec. 19, 2002, [116 Stat. 3109][/us/stat/116/3109].)
+([Pub. L. 107–373][/us/pl/107/373], § 12, Dec. 19, 2002, [116 Stat. 3109][/us/stat/116/3109].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/107/373/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F373%2Fs12
+[/us/pl/107/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F373
 [/us/stat/116/3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3109
 
 

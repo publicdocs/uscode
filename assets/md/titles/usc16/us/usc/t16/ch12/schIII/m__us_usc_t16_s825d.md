@@ -77,11 +77,11 @@
 
             (B) The terms “holding company”, “registered holding company”, and “holding company system” have the same meaning as when used in the Public Utility Holding Company Act of 1935. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. III, § 305, as added [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, § 213, [49 Stat. 856][/us/stat/49/856]; amended [Pub. L. 95–617, title II, § 211(a)][/us/pl/95/617/s211/a], Nov. 9, 1978, [92 Stat. 3147][/us/stat/92/3147]; [Pub. L. 106–102, title VII, § 737][/us/pl/106/102/s737], Nov. 12, 1999, [113 Stat. 1479][/us/stat/113/1479].)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. III, § 305, as added [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, § 213, [49 Stat. 856][/us/stat/49/856]; amended [Pub. L. 95–617, title II][/us/pl/95/617/tII], § 211(a), Nov. 9, 1978, [92 Stat. 3147][/us/stat/92/3147]; [Pub. L. 106–102, title VII][/us/pl/106/102/tVII], § 737, Nov. 12, 1999, [113 Stat. 1479][/us/stat/113/1479].)
 
  __References in Text__ 
 
-    The Public Utility Holding Company Act of 1935, referred to in subsec. (c)(3)(B), is title I of [act Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], [49 Stat. 803][/us/stat/49/803], as amended, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by [Pub. L. 109–58, title XII, § 1263][/us/pl/109/58/s1263], Aug. 8, 2005, [119 Stat. 974][/us/stat/119/974]. For complete classification of this Act to the Code, see Tables.
+    The Public Utility Holding Company Act of 1935, referred to in subsec. (c)(3)(B), is title I of [act Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], [49 Stat. 803][/us/stat/49/803], as amended, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by [Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1263, Aug. 8, 2005, [119 Stat. 974][/us/stat/119/974]. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
@@ -91,7 +91,7 @@
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–617, title II, § 211(b)][/us/pl/95/617/s211/b], Nov. 9, 1978, [92 Stat. 3147][/us/stat/92/3147], provided that: 
+[Pub. L. 95–617, title II][/us/pl/95/617/tII], § 211(b), Nov. 9, 1978, [92 Stat. 3147][/us/stat/92/3147], provided that: 
 
 > “No person shall be required to file a statement under section 305(c)(1) of the Federal Power Act \[subsec. (c)(1) of this section\] before April 30 of the second calendar year which begins after the date of the enactment of this Act \[Nov. 9, 1978\] and no public utility shall be required to publish a list under section 305(c)(2) of such Act \[subsec. (c)(2) of this section\] before January 31 of such second calendar year.”
 
@@ -105,17 +105,17 @@
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
 [/us/act/1935-08-26/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-26%2Fch687
 [/us/stat/49/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F856
-[/us/pl/95/617/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs211%2Fa
+[/us/pl/95/617/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtII
 [/us/stat/92/3147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3147
-[/us/pl/106/102/s737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs737
+[/us/pl/106/102/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtVII
 [/us/stat/113/1479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1479
 [/us/act/1935-08-26/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-26%2Fch687
 [/us/stat/49/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F803
-[/us/pl/109/58/s1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1263
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F974
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
-[/us/pl/95/617/s211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs211%2Fb
+[/us/pl/95/617/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtII
 [/us/stat/92/3147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3147
 
 

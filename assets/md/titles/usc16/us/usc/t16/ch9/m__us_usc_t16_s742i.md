@@ -17,7 +17,7 @@
 
     Nothing in this Act shall be construed (1) to interfere in any manner with the rights of any State under the Submerged Lands Act \[[43 U.S.C. 1301][/us/usc/t43/s1301] et seq.\] or otherwise provided by law, or to supersede any regulatory authority over fisheries exercised by the States either individually or under interstate compacts; or (2) to interfere in any manner with the authority exercised by any International Commission established under any treaty or convention to which the United States is a party.
 
-([Aug. 8, 1956, ch. 1036, § 10][/us/act/1956-08-08/ch1036/s10], [70 Stat. 1124][/us/stat/70/1124].)
+([Aug. 8, 1956, ch. 1036][/us/act/1956-08-08/ch1036], § 10, [70 Stat. 1124][/us/stat/70/1124].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t43/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1301
-[/us/act/1956-08-08/ch1036/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1036%2Fs10
+[/us/act/1956-08-08/ch1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1036
 [/us/stat/70/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1124
 [/us/act/1956-08-08/ch1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1036
 [/us/stat/70/1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1119

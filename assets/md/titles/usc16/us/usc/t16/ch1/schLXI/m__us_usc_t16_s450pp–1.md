@@ -17,7 +17,7 @@
 
     The property acquired pursuant to [section 450pp of this title][/us/usc/t16/s450pp] shall be established as the Roger Williams National Memorial and the Secretary of the Interior shall publish notice of such establishment in the Federal Register. Such national Memorial shall be administered by the Secretary subject to the provisions of the Act entitled “An Act to establish a National Park Service, and for other purposes,” approved August 25, 1916 ([39 Stat. 535][/us/stat/39/535]), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended and supplemented, and the Act entitled “An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes,” approved August 21, 1935 ([49 Stat. 666][/us/stat/49/666]). <sup>\[1\]</sup> 
 
-([Pub. L. 89–293, § 2][/us/pl/89/293/s2], Oct. 22, 1965, [79 Stat. 1069][/us/stat/79/1069].)
+([Pub. L. 89–293][/us/pl/89/293], § 2, Oct. 22, 1965, [79 Stat. 1069][/us/stat/79/1069].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 [/us/usc/t16/s450pp]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450pp
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
-[/us/pl/89/293/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F293%2Fs2
+[/us/pl/89/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F293
 [/us/stat/79/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1069
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408

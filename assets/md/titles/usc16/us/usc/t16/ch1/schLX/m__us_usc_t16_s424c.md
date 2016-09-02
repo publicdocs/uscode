@@ -77,11 +77,11 @@
 
             Not later than 3 years after funds are made available under this section, the Secretary shall develop a general management plan for the archeological district. The general management plan shall describe the appropriate protection and preservation of natural, cultural, and scenic resources, visitor use, and facility development within the archeological district consistent with the purposes of this section, while ensuring continued access by private landowners to their property.
 
-([Pub. L. 108–7, div. F, title I, § 160][/us/pl/108/7/s160], Feb. 20, 2003, [117 Stat. 247][/us/stat/117/247].)
+([Pub. L. 108–7, div. F, title I][/us/pl/108/7/dF/tI], § 160, Feb. 20, 2003, [117 Stat. 247][/us/stat/117/247].)
 
  __Codification__ 
 
-    Section is comprised of [section 160 of div. F of Pub. L. 108–7][/us/pl/108/7/s160]. Subsec. (e) of [section 160 of div. F of Pub. L. 108–7][/us/pl/108/7/s160] repealed [section 424a–4 of this title][/us/usc/t16/s424a–4].
+    Section is comprised of [section 160 of div. F of Pub. L. 108–7][/us/pl/108/7/dF/s160]. Subsec. (e) of [section 160 of div. F of Pub. L. 108–7][/us/pl/108/7/dF/s160] repealed [section 424a–4 of this title][/us/usc/t16/s424a–4].
 
 ----------
 
@@ -90,10 +90,10 @@
 ----------
 ----------
 
-[/us/pl/108/7/s160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs160
+[/us/pl/108/7/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtI
 [/us/stat/117/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F247
-[/us/pl/108/7/s160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs160
-[/us/pl/108/7/s160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs160
+[/us/pl/108/7/dF/s160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2Fs160
+[/us/pl/108/7/dF/s160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2Fs160
 [/us/usc/t16/s424a–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs424a%E2%80%934
 
 

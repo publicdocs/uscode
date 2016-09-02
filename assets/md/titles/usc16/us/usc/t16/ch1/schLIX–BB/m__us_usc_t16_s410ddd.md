@@ -143,7 +143,7 @@
 
             (C) not more than $50,000 annually of Federal funds may be used for interpretive and education programs for the Schooner Ernestina pursuant to cooperative agreements under subsection (e)(2).
 
-([Pub. L. 104–333, div. I, title V, § 511][/us/pl/104/333/s511], Nov. 12, 1996, [110 Stat. 4159][/us/stat/110/4159]; [Pub. L. 106–176, title I, § 111(a)][/us/pl/106/176/s111/a], Mar. 10, 2000, [114 Stat. 26][/us/stat/114/26]; [Pub. L. 108–7, div. F, title I, § 154][/us/pl/108/7/s154], Feb. 20, 2003, [117 Stat. 246][/us/stat/117/246].)
+([Pub. L. 104–333, div. I, title V][/us/pl/104/333/dI/tV], § 511, Nov. 12, 1996, [110 Stat. 4159][/us/stat/110/4159]; [Pub. L. 106–176, title I][/us/pl/106/176/tI], § 111(a), Mar. 10, 2000, [114 Stat. 26][/us/stat/114/26]; [Pub. L. 108–7, div. F, title I][/us/pl/108/7/dF/tI], § 154, Feb. 20, 2003, [117 Stat. 246][/us/stat/117/246].)
 
  __References in Text__ 
 
@@ -153,27 +153,27 @@
 
  __Codification__ 
 
-    In subsec. (f), “[section 100502 of title 54][/us/usc/t54/s100502]” substituted for “[section 12(b) of the Act of August 18, 1970][/us/act/1970-08-18/s12/b] ([16 U.S.C. 1a–7(b)][/us/usc/t16/s1a–7/b])” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (f), “[section 100502 of title 54][/us/usc/t54/s100502]” substituted for “[section 12(b) of the Act of August 18, 1970][/us/act/1970-08-18/s12/b] ([16 U.S.C. 1a–7(b)][/us/usc/t16/s1a–7/b])” on authority of [Pub. L. 113–287][/us/pl/113/287], § 6(e), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
  __Amendments__ 
 
     2003—Subsec. (g)(2)(A). [Pub. L. 108–7][/us/pl/108/7] substituted “$5,000,000” for “$2,000,000”.
 
-    2000—[Pub. L. 106–176, § 111(a)(1)][/us/pl/106/176/s111/a/1], substituted “Whaling National Historical Park” for “National Historic Landmark District” in section catchline.
+    2000—[Pub. L. 106–176][/us/pl/106/176], § 111(a)(1), substituted “Whaling National Historical Park” for “National Historic Landmark District” in section catchline.
 
-    Subsec. (c)(1). [Pub. L. 106–176, § 111(a)(2)(A)][/us/pl/106/176/s111/a/2/A], substituted “certain districts, structures, and relics” for “certain districts structures, and relics”.
+    Subsec. (c)(1). [Pub. L. 106–176][/us/pl/106/176], § 111(a)(2)(A), substituted “certain districts, structures, and relics” for “certain districts structures, and relics”.
 
-    Subsec. (c)(2)(A)(i). [Pub. L. 106–176, § 111(a)(2)(B)][/us/pl/106/176/s111/a/2/B], substituted “The area included within the New Bedford Historic District (a National Landmark District), also known as the” for “The area included with the New Bedford National Historic Landmark District, known as the”.
+    Subsec. (c)(2)(A)(i). [Pub. L. 106–176][/us/pl/106/176], § 111(a)(2)(B), substituted “The area included within the New Bedford Historic District (a National Landmark District), also known as the” for “The area included with the New Bedford National Historic Landmark District, known as the”.
 
-    Subsec. (d)(2). [Pub. L. 106–176, § 111(a)(3)][/us/pl/106/176/s111/a/3], struck out “to provide” before “appropriate assistance”.
+    Subsec. (d)(2). [Pub. L. 106–176][/us/pl/106/176], § 111(a)(3), struck out “to provide” before “appropriate assistance”.
 
-    Subsecs. (e), (f). [Pub. L. 106–176, § 111(a)(4)][/us/pl/106/176/s111/a/4], redesignated subsec. (e), relating to general management plan, as (f). Former subsec. (f) redesignated (g).
+    Subsecs. (e), (f). [Pub. L. 106–176][/us/pl/106/176], § 111(a)(4), redesignated subsec. (e), relating to general management plan, as (f). Former subsec. (f) redesignated (g).
 
-    Subsec. (g). [Pub. L. 106–176, § 111(a)(4)][/us/pl/106/176/s111/a/4], redesignated subsec. (f) as (g).
+    Subsec. (g). [Pub. L. 106–176][/us/pl/106/176], § 111(a)(4), redesignated subsec. (f) as (g).
 
-    Subsec. (g)(1). [Pub. L. 106–176, § 111(a)(5)(A)][/us/pl/106/176/s111/a/5/A], substituted “subsection (d).” for “section 3(D).”
+    Subsec. (g)(1). [Pub. L. 106–176][/us/pl/106/176], § 111(a)(5)(A), substituted “subsection (d).” for “section 3(D).”
 
-    Subsec. (g)(2)(C). [Pub. L. 106–176, § 111(a)(5)(B)][/us/pl/106/176/s111/a/5/B], substituted “cooperative agreements under subsection (e)(2)” for “cooperative grants under subsection (d)(2)”.
+    Subsec. (g)(2)(C). [Pub. L. 106–176][/us/pl/106/176], § 111(a)(5)(B), substituted “cooperative agreements under subsection (e)(2)” for “cooperative grants under subsection (d)(2)”.
 
  __Change of Name__ 
 
@@ -191,11 +191,11 @@
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
 [/us/usc/t16/s461–467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461%E2%80%93467
 [/us/usc/t54/s100502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100502
-[/us/pl/104/333/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs511
+[/us/pl/104/333/dI/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtV
 [/us/stat/110/4159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4159
-[/us/pl/106/176/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs111%2Fa
+[/us/pl/106/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2FtI
 [/us/stat/114/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F26
-[/us/pl/108/7/s154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs154
+[/us/pl/108/7/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtI
 [/us/stat/117/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F246
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
@@ -217,16 +217,16 @@
 [/us/usc/t54/s100502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100502
 [/us/act/1970-08-18/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1970-08-18%2Fs12%2Fb
 [/us/usc/t16/s1a–7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%937%2Fb
-[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
-[/us/pl/106/176/s111/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs111%2Fa%2F1
-[/us/pl/106/176/s111/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs111%2Fa%2F2%2FA
-[/us/pl/106/176/s111/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs111%2Fa%2F2%2FB
-[/us/pl/106/176/s111/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs111%2Fa%2F3
-[/us/pl/106/176/s111/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs111%2Fa%2F4
-[/us/pl/106/176/s111/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs111%2Fa%2F4
-[/us/pl/106/176/s111/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs111%2Fa%2F5%2FA
-[/us/pl/106/176/s111/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs111%2Fa%2F5%2FB
+[/us/pl/106/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176
+[/us/pl/106/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176
+[/us/pl/106/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176
+[/us/pl/106/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176
+[/us/pl/106/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176
+[/us/pl/106/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176
+[/us/pl/106/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176
+[/us/pl/106/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176
 
 

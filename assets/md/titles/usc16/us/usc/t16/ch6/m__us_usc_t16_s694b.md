@@ -17,7 +17,7 @@
 
     The Secretaries of Agriculture and Commerce shall execute the provisions of sections 694 to 694b of this title, and they are jointly authorized to make all needful rules and regulations for the administration of such fish and game sanctuaries or refuges in accordance with the purpose of sections 694 to 694b of this title, including regulations not in contravention of State laws for hunting, capturing, or killing predatory animals, such as wolves, coyotes, foxes, pumas, and other species destructive to livestock or wildlife or agriculture within the limits of said fish and game sanctuaries or refuges: Provided, That the present jurisdiction of the States shall not be altered or changed without the legislative approval of such States.
 
-([Mar. 10, 1934, ch. 54, § 3][/us/act/1934-03-10/ch54/s3], [48 Stat. 401][/us/stat/48/401].)
+([Mar. 10, 1934, ch. 54][/us/act/1934-03-10/ch54], § 3, [48 Stat. 401][/us/stat/48/401].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1934-03-10/ch54/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-10%2Fch54%2Fs3
+[/us/act/1934-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-10%2Fch54
 [/us/stat/48/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F401
 [/us/stat/93/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1373
 [/us/pl/102/486/s3012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3012%2Fb

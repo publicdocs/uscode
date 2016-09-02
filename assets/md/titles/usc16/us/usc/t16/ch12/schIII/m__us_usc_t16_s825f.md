@@ -39,7 +39,7 @@
 
         Witnesses whose depositions are taken as authorized in this chapter, and the person or officer taking the same, shall be entitled to the same fees as are paid for like services in the courts of the United States.
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. III, § 307, as added [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, § 213, [49 Stat. 856][/us/stat/49/856]; amended [Pub. L. 91–452, title II, § 221][/us/pl/91/452/s221], Oct. 15, 1970, [84 Stat. 929][/us/stat/84/929]; [Pub. L. 109–58, title XII, § 1284(b)][/us/pl/109/58/s1284/b], Aug. 8, 2005, [119 Stat. 980][/us/stat/119/980].)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. III, § 307, as added [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, § 213, [49 Stat. 856][/us/stat/49/856]; amended [Pub. L. 91–452, title II][/us/pl/91/452/tII], § 221, Oct. 15, 1970, [84 Stat. 929][/us/stat/84/929]; [Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1284(b), Aug. 8, 2005, [119 Stat. 980][/us/stat/119/980].)
 
  __Amendments__ 
 
@@ -61,9 +61,9 @@
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
 [/us/act/1935-08-26/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-26%2Fch687
 [/us/stat/49/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F856
-[/us/pl/91/452/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs221
+[/us/pl/91/452/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtII
 [/us/stat/84/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F929
-[/us/pl/109/58/s1284/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1284%2Fb
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F980
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/91/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452

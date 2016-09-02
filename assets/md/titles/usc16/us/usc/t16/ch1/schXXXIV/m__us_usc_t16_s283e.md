@@ -19,7 +19,7 @@
 
     (b) In addition to amounts authorized to be appropriated under subsection (a), there is authorized to be appropriated such sums as may be necessary for the construction of a fence to protect the natural and cultural resources of the area added to Guadalupe Mountains National Park by [section 283a(b) of this title][/us/usc/t16/s283a/b].
 
-([Pub. L. 89–667, § 6][/us/pl/89/667/s6], Oct. 15, 1966, [80 Stat. 922][/us/stat/80/922]; [Pub. L. 95–625, title I, § 101(12)][/us/pl/95/625/s101/12], Nov. 10, 1978, [92 Stat. 3471][/us/stat/92/3471]; [Pub. L. 100–541, § 2][/us/pl/100/541/s2], Oct. 28, 1988, [102 Stat. 2720][/us/stat/102/2720].)
+([Pub. L. 89–667][/us/pl/89/667], § 6, Oct. 15, 1966, [80 Stat. 922][/us/stat/80/922]; [Pub. L. 95–625, title I][/us/pl/95/625/tI], § 101(12), Nov. 10, 1978, [92 Stat. 3471][/us/stat/92/3471]; [Pub. L. 100–541][/us/pl/100/541], § 2, Oct. 28, 1988, [102 Stat. 2720][/us/stat/102/2720].)
 
  __Amendments__ 
 
@@ -35,11 +35,11 @@
 ----------
 
 [/us/usc/t16/s283a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs283a%2Fb
-[/us/pl/89/667/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F667%2Fs6
+[/us/pl/89/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F667
 [/us/stat/80/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F922
-[/us/pl/95/625/s101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs101%2F12
+[/us/pl/95/625/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtI
 [/us/stat/92/3471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3471
-[/us/pl/100/541/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F541%2Fs2
+[/us/pl/100/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F541
 [/us/stat/102/2720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2720
 [/us/pl/100/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F541
 [/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625

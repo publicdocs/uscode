@@ -69,7 +69,7 @@
 
         (2) The term “public lands” has the same meaning given such term in the Federal Land Policy and Management Act of 1976 \[[43 U.S.C. 1701][/us/usc/t43/s1701] et seq.\].
 
-([Pub. L. 90–543, § 9][/us/pl/90/543/s9], Oct. 2, 1968, [82 Stat. 925][/us/stat/82/925]; [Pub. L. 95–91, title III, § 301(b)][/us/pl/95/91/s301/b], Aug. 4, 1977, [91 Stat. 578][/us/stat/91/578]; [Pub. L. 100–470, § 3][/us/pl/100/470/s3], Oct. 4, 1988, [102 Stat. 2281][/us/stat/102/2281]; [Pub. L. 104–88, title III, § 317(2)][/us/pl/104/88/s317/2], Dec. 29, 1995, [109 Stat. 949][/us/stat/109/949]; [Pub. L. 113–287, § 5(d)(25)][/us/pl/113/287/s5/d/25], Dec. 19, 2014, [128 Stat. 3266][/us/stat/128/3266].)
+([Pub. L. 90–543][/us/pl/90/543], § 9, Oct. 2, 1968, [82 Stat. 925][/us/stat/82/925]; [Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 301(b), Aug. 4, 1977, [91 Stat. 578][/us/stat/91/578]; [Pub. L. 100–470][/us/pl/100/470], § 3, Oct. 4, 1988, [102 Stat. 2281][/us/stat/102/2281]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 317(2), Dec. 29, 1995, [109 Stat. 949][/us/stat/109/949]; [Pub. L. 113–287][/us/pl/113/287], § 5(d)(25), Dec. 19, 2014, [128 Stat. 3266][/us/stat/128/3266].)
 
  __References in Text__ 
 
@@ -93,13 +93,13 @@
 
     Enforcement functions of Secretary or other official in Department of the Interior related to compliance with system activities requiring coordination and approval under this chapter and such functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(e), (f), 203(a), 44 F.R. 33663, 33666, [93 Stat. 1373][/us/stat/93/1373], 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by [section 3012(b) of Pub. L. 102–486][/us/pl/102/486/s3012/b], set out as an Abolition of Office of Federal Inspector note under [section 719e of Title 15][/us/usc/t15/s719e], Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by [section 720d(f) of Title 15][/us/usc/t15/s720d/f].
 
-    “Secretary of Energy” substituted for “Federal Power Commission” in subsec. (b) pursuant to [Pub. L. 95–91, § 301(b)][/us/pl/95/91/s301/b], which is classified to [section 7151(b) of Title 42][/us/usc/t42/s7151/b], The Public Health and Welfare.
+    “Secretary of Energy” substituted for “Federal Power Commission” in subsec. (b) pursuant to [Pub. L. 95–91][/us/pl/95/91], § 301(b), which is classified to [section 7151(b) of Title 42][/us/usc/t42/s7151/b], The Public Health and Welfare.
 
     Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions which were transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 
  __Abandoned Railroad Grants; Congressional Findings__ 
 
-[Pub. L. 100–470, § 2][/us/pl/100/470/s2], Oct. 4, 1988, [102 Stat. 2281][/us/stat/102/2281], provided that: 
+[Pub. L. 100–470][/us/pl/100/470], § 2, Oct. 4, 1988, [102 Stat. 2281][/us/stat/102/2281], provided that: 
 
 > “Congress hereby finds that—
 
@@ -111,7 +111,7 @@
 
  __Condemnation__ 
 
-[Pub. L. 100–470, § 5][/us/pl/100/470/s5], Oct. 4, 1988, [102 Stat. 2283][/us/stat/102/2283], provided that:
+[Pub. L. 100–470][/us/pl/100/470], § 5, Oct. 4, 1988, [102 Stat. 2283][/us/stat/102/2283], provided that:
 
 >     “(a) Nothing in this Act \[amending this section and [section 1244 of this title][/us/usc/t16/s1244] and enacting provisions set out as notes under this section and [section 1241 of this title][/us/usc/t16/s1241]\] shall be construed as authorizing the Secretary of the Interior to use condemnation proceedings to retain or acquire all or any portion of a right-of-way described in this Act.
 
@@ -131,15 +131,15 @@
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
-[/us/pl/90/543/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F543%2Fs9
+[/us/pl/90/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F543
 [/us/stat/82/925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F925
-[/us/pl/95/91/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fb
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F578
-[/us/pl/100/470/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F470%2Fs3
+[/us/pl/100/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F470
 [/us/stat/102/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2281
-[/us/pl/104/88/s317/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs317%2F2
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F949
-[/us/pl/113/287/s5/d/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F25
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3266
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
 [/us/stat/90/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2743
@@ -158,12 +158,12 @@
 [/us/pl/102/486/s3012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3012%2Fb
 [/us/usc/t15/s719e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719e
 [/us/usc/t15/s720d/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs720d%2Ff
-[/us/pl/95/91/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fb
+[/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/usc/t42/s7151/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7151%2Fb
-[/us/pl/100/470/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F470%2Fs2
+[/us/pl/100/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F470
 [/us/stat/102/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2281
 [/us/usc/t16/s1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1241
-[/us/pl/100/470/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F470%2Fs5
+[/us/pl/100/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F470
 [/us/stat/102/2283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2283
 [/us/usc/t16/s1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1244
 [/us/usc/t16/s1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1241

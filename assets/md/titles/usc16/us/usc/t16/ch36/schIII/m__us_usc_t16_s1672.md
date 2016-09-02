@@ -47,7 +47,7 @@
 
         In implementing this section, all appropriate educational methods may be used, including, but not limited to, meetings, short courses, workshops, tours, demonstrations, publications, news releases, and radio and television programs.
 
-([Pub. L. 95–306, § 3][/us/pl/95/306/s3], June 30, 1978, [92 Stat. 349][/us/stat/92/349]; [Pub. L. 101–624, title XII][/us/pl/101/624], §§ 1219(b)(1), 1251(b), Nov. 28, 1990, [104 Stat. 3538][/us/stat/104/3538], 3552; [Pub. L. 102–237, title X, § 1018(d)][/us/pl/102/237/s1018/d], Dec. 13, 1991, [105 Stat. 1905][/us/stat/105/1905].)
+([Pub. L. 95–306][/us/pl/95/306], § 3, June 30, 1978, [92 Stat. 349][/us/stat/92/349]; [Pub. L. 101–624, title XII][/us/pl/101/624/tXII], §§ 1219(b)(1), 1251(b), Nov. 28, 1990, [104 Stat. 3538][/us/stat/104/3538], 3552; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1018(d), Dec. 13, 1991, [105 Stat. 1905][/us/stat/105/1905].)
 
  __References in Text__ 
 
@@ -61,9 +61,9 @@
 
     1991—Subsec. (a)(8) to (10). [Pub. L. 102–237][/us/pl/102/237] struck out “and” at end of par. (8), substituted “; and” for period at end of par. (9), and redesignated par. (9), relating to education program, as (10).
 
-    1990—Subsec. (a)(9). [Pub. L. 101–624, § 1251(b)][/us/pl/101/624/s1251/b], added par. (9) relating to education programs for landowners, managers, public officials, and the public.
+    1990—Subsec. (a)(9). [Pub. L. 101–624][/us/pl/101/624], § 1251(b), added par. (9) relating to education programs for landowners, managers, public officials, and the public.
 
-    [Pub. L. 101–624, § 1219(b)(1)][/us/pl/101/624/s1219/b/1], added par. (9) relating to promotion of public understanding of energy conservation, economic, social, environmental, and psychological values of trees and open space in urban and community environments.
+    [Pub. L. 101–624][/us/pl/101/624], § 1219(b)(1), added par. (9) relating to promotion of public understanding of energy conservation, economic, social, environmental, and psychological values of trees and open space in urban and community environments.
 
 ----------
 
@@ -78,11 +78,11 @@
 [/us/usc/t7/s321–326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs321%E2%80%93326
 [/us/stat/76/806-807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F806-807
 [/us/usc/t16/s582a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs582a
-[/us/pl/95/306/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F306%2Fs3
+[/us/pl/95/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F306
 [/us/stat/92/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F349
-[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXII
 [/us/stat/104/3538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3538
-[/us/pl/102/237/s1018/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1018%2Fd
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1905
 [/us/stat/12/503-505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F503-505
 [/us/usc/t7/s301–305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs301%E2%80%93305
@@ -99,7 +99,7 @@
 [/us/stat/76/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F806
 [/us/usc/t16/s582a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs582a
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
-[/us/pl/101/624/s1251/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1251%2Fb
-[/us/pl/101/624/s1219/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1219%2Fb%2F1
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 
 

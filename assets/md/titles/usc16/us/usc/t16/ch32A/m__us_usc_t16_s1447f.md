@@ -29,7 +29,7 @@
 
         (4) Twenty-five percent of funds appropriated in a fiscal year available after allocation pursuant to paragraphs (1) and (2), shall be allocated among Boards located in regions submitting research project grant applications pursuant to [section 1447d(b) of this title][/us/usc/t16/s1447d/b] which, in the judgment of the Administrator of the National Oceanic and Atmospheric Administration, in consultation with the Administrator of the Environmental Protection Agency, propose the most needed and highest quality research.
 
-([Pub. L. 92–532, title IV, § 407][/us/pl/92/532/s407], as added [Pub. L. 101–593, title III, § 301][/us/pl/101/593/s301], Nov. 16, 1990, [104 Stat. 2969][/us/stat/104/2969].)
+([Pub. L. 92–532, title IV][/us/pl/92/532/tIV], § 407, as added [Pub. L. 101–593, title III][/us/pl/101/593/tIII], § 301, Nov. 16, 1990, [104 Stat. 2969][/us/stat/104/2969].)
 
 ----------
 
@@ -41,8 +41,8 @@
 [/us/usc/t16/s1447b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1447b%2Fa
 [/us/usc/t16/s1447d/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1447d%2Fb
 [/us/usc/t16/s1447d/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1447d%2Fb
-[/us/pl/92/532/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs407
-[/us/pl/101/593/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2Fs301
+[/us/pl/92/532/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2FtIV
+[/us/pl/101/593/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2FtIII
 [/us/stat/104/2969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2969
 
 

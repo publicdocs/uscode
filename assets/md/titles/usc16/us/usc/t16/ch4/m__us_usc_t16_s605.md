@@ -17,7 +17,7 @@
 
     It shall be the duty of such officer as the Secretary of the Interior may designate in whose district any mineral land may be situated to ascertain from time to time whether any timber is being cut or used upon any such lands, except for the purposes authorized by [section 604 of this title][/us/usc/t16/s604], within such land district; and, if so, he shall immediately notify the Secretary of the Interior of that fact; and all necessary expenses incurred in making such proper examinations shall be paid for and allowed such officer in making up his next quarterly account.
 
-([June 3, 1878, ch. 150, § 2][/us/act/1878-06-03/ch150/s2], [20 Stat. 88][/us/stat/20/88]; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, [60 Stat. 1100][/us/stat/60/1100].)
+([June 3, 1878, ch. 150][/us/act/1878-06-03/ch150], § 2, [20 Stat. 88][/us/stat/20/88]; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, [60 Stat. 1100][/us/stat/60/1100].)
 
  __Transfer of Functions__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t16/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs604
-[/us/act/1878-06-03/ch150/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1878-06-03%2Fch150%2Fs2
+[/us/act/1878-06-03/ch150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1878-06-03%2Fch150
 [/us/stat/20/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F20%2F88
 [/us/stat/60/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1100
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262

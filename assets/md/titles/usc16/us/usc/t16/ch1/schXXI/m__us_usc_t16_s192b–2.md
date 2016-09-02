@@ -21,7 +21,7 @@ sixth principal meridian
 
     Township 5 north, range 73 west, section 27, southwest quarter northwest quarter, and west half southwest quarter; section 34, west half northeast quarter northwest quarter.
 
-([Aug. 24, 1949, ch. 501, § 1][/us/act/1949-08-24/ch501/s1], [63 Stat. 626][/us/stat/63/626].)
+([Aug. 24, 1949, ch. 501][/us/act/1949-08-24/ch501], § 1, [63 Stat. 626][/us/stat/63/626].)
 
 ----------
 
@@ -30,7 +30,7 @@ sixth principal meridian
 ----------
 ----------
 
-[/us/act/1949-08-24/ch501/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-24%2Fch501%2Fs1
+[/us/act/1949-08-24/ch501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-24%2Fch501
 [/us/stat/63/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F626
 
 

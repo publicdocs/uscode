@@ -17,7 +17,7 @@
 
     The Secretary is also authorized to accept the donation of the main dwelling on said lands, which was the birthplace and residence of General William Floyd (a signer of the Declaration of Independence) and the furnishings therein and any outbuildings, subject to like terms, covenants, and conditions. The Secretary is authorized to lease said lands, dwellings, and outbuildings to the grantors thereof for a term of not more than twenty-five years, at $1 per annum, and during the period of the leasehold the Secretary may provide protective custody for such property.
 
-([Pub. L. 89–244, § 2][/us/pl/89/244/s2], Oct. 9, 1965, [79 Stat. 967][/us/stat/79/967].)
+([Pub. L. 89–244][/us/pl/89/244], § 2, Oct. 9, 1965, [79 Stat. 967][/us/stat/79/967].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/244/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F244%2Fs2
+[/us/pl/89/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F244
 [/us/stat/79/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F967
 
 

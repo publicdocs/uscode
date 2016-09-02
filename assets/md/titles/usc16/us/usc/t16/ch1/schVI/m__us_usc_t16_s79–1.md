@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, no Federal lands may be used for the expansion of the capacity of any reservoir which is located within the boundaries of Yosemite National Park unless Congress enacts specific statutory authorization after October 31, 1988, for such expansion.
 
-([Pub. L. 100–563, § 6][/us/pl/100/563/s6], Oct. 31, 1988, [102 Stat. 2830][/us/stat/102/2830].)
+([Pub. L. 100–563][/us/pl/100/563], § 6, Oct. 31, 1988, [102 Stat. 2830][/us/stat/102/2830].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/563/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F563%2Fs6
+[/us/pl/100/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F563
 [/us/stat/102/2830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2830
 
 

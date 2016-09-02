@@ -31,7 +31,7 @@
 
         (4) Vacation cabin site use, in accordance with existing policies of the Department of the Interior relating to such use, or as such policies may be revised hereafter by the Secretary.
 
-([Pub. L. 88–639, § 4][/us/pl/88/639/s4], Oct. 8, 1964, [78 Stat. 1040][/us/stat/78/1040].)
+([Pub. L. 88–639][/us/pl/88/639], § 4, Oct. 8, 1964, [78 Stat. 1040][/us/stat/78/1040].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/88/639/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F639%2Fs4
+[/us/pl/88/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F639
 [/us/stat/78/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1040
 
 

@@ -73,7 +73,7 @@
 
         There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-([Pub. L. 101–624, title XII, § 1232][/us/pl/101/624/s1232], Nov. 28, 1990, [104 Stat. 3543][/us/stat/104/3543].)
+([Pub. L. 101–624, title XII][/us/pl/101/624/tXII], § 1232, Nov. 28, 1990, [104 Stat. 3543][/us/stat/104/3543].)
 
  __Codification__ 
 
@@ -87,7 +87,7 @@
 ----------
 
 [/us/usc/t16/s582a–4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs582a%E2%80%934%2Fb
-[/us/pl/101/624/s1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1232
+[/us/pl/101/624/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXII
 [/us/stat/104/3543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3543
 
 

@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act May 25, 1926, ch. 382, § 4][/us/act/1926-05-25/ch382/s4], [44 Stat. 636][/us/stat/44/636], authorized the Secretary of the Interior to employ, for the purpose of carrying out the provisions of sections 404 to 404b of this title, the commission authorized by [act Feb. 21, 1925, ch. 281][/us/act/1925-02-21/ch281], [43 Stat. 958][/us/stat/43/958] (a temporary act).
+    Section, [act May 25, 1926, ch. 382][/us/act/1926-05-25/ch382], § 4, [44 Stat. 636][/us/stat/44/636], authorized the Secretary of the Interior to employ, for the purpose of carrying out the provisions of sections 404 to 404b of this title, the commission authorized by [act Feb. 21, 1925, ch. 281][/us/act/1925-02-21/ch281], [43 Stat. 958][/us/stat/43/958] (a temporary act).
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1926-05-25/ch382/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-25%2Fch382%2Fs4
+[/us/act/1926-05-25/ch382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-25%2Fch382
 [/us/stat/44/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F636
 [/us/act/1925-02-21/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-21%2Fch281
 [/us/stat/43/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F958

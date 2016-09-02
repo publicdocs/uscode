@@ -301,7 +301,7 @@
 
         (4) the term “vessel of the United States” has the same meaning as it does in section 1802(27) 2 of this title.
 
-([Pub. L. 92–522, title I, § 114][/us/pl/92/522/s114], as added [Pub. L. 100–711, § 2(a)(2)][/us/pl/100/711/s2/a/2], Nov. 23, 1988, [102 Stat. 4755][/us/stat/102/4755]; amended [Pub. L. 103–86][/us/pl/103/86], Sept. 30, 1993, [107 Stat. 930][/us/stat/107/930]; [Pub. L. 103–228][/us/pl/103/228], Mar. 31, 1994, [108 Stat. 281][/us/stat/108/281]; [Pub. L. 103–238, § 15(a)][/us/pl/103/238/s15/a], Apr. 30, 1994, [108 Stat. 559][/us/stat/108/559]; [Pub. L. 104–43, title IV, § 404(a)(1)][/us/pl/104/43/s404/a/1], Nov. 3, 1995, [109 Stat. 390][/us/stat/109/390]; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41.)
+([Pub. L. 92–522, title I][/us/pl/92/522/tI], § 114, as added [Pub. L. 100–711][/us/pl/100/711], § 2(a)(2), Nov. 23, 1988, [102 Stat. 4755][/us/stat/102/4755]; amended [Pub. L. 103–86][/us/pl/103/86], Sept. 30, 1993, [107 Stat. 930][/us/stat/107/930]; [Pub. L. 103–228][/us/pl/103/228], Mar. 31, 1994, [108 Stat. 281][/us/stat/108/281]; [Pub. L. 103–238][/us/pl/103/238], § 15(a), Apr. 30, 1994, [108 Stat. 559][/us/stat/108/559]; [Pub. L. 104–43, title IV][/us/pl/104/43/tIV], § 404(a)(1), Nov. 3, 1995, [109 Stat. 390][/us/stat/109/390]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41.)
 
  __References in Text__ 
 
@@ -321,11 +321,11 @@
 
  __Effective Date of 1996 Amendment__ 
 
-    [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
  __Effective Date of 1995 Amendment__ 
 
-[Pub. L. 104–43, title IV, § 404(a)(2)][/us/pl/104/43/s404/a/2], Nov. 3, 1995, [109 Stat. 391][/us/stat/109/391], provided that: 
+[Pub. L. 104–43, title IV][/us/pl/104/43/tIV], § 404(a)(2), Nov. 3, 1995, [109 Stat. 391][/us/stat/109/391], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall be effective on and after April 30, 1994.”
 
@@ -348,18 +348,18 @@
 [/us/usc/t16/s1374/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1374%2Fh%2F2
 [/us/usc/t16/s1374/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1374%2Fh%2F2
 [/us/usc/t16/s1374/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1374%2Fh%2F2
-[/us/pl/92/522/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs114
-[/us/pl/100/711/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711%2Fs2%2Fa%2F2
+[/us/pl/92/522/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtI
+[/us/pl/100/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711
 [/us/stat/102/4755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4755
 [/us/pl/103/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F86
 [/us/stat/107/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F930
 [/us/pl/103/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F228
 [/us/stat/108/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F281
-[/us/pl/103/238/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs15%2Fa
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
 [/us/stat/108/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F559
-[/us/pl/104/43/s404/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs404%2Fa%2F1
+[/us/pl/104/43/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtIV
 [/us/stat/109/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F390
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
 [/us/usc/t16/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1802
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
@@ -370,9 +370,9 @@
 [/us/usc/t16/s1387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1387
 [/us/pl/103/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F228
 [/us/pl/103/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F86
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
-[/us/pl/104/43/s404/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs404%2Fa%2F2
+[/us/pl/104/43/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtIV
 [/us/stat/109/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F391
 [/us/pl/104/14/s1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fb%2F3
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s486.md) | [Next](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s487a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs487)
+[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s486a...486w.md) | [Next](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s487a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs487)
 
 ## § 487. Cutting timber on land added to Siskiyou National Forest
 
     The Secretary of Agriculture is authorized, in his discretion, to sell the merchantable timber on the land added to the Siskiyou National Forest by section 1 hereof, in accordance with the regulations governing the sale of public timber in the national forests, and the entire proceeds of any sale of the timber on such land shall be deposited in the Treasury of the United States in a special fund designated as “The Oregon and California land-grant fund”, referred to in the Act of Congress approved June 9, 1916, chapter 137, section 10, Thirty-ninth Statutes, page 222, and be disposed of in the manner therein designated, the land added forming part of the area which revested in the United States under the provisions of the said Act.
 
-([Sept. 22, 1922, ch. 407, § 2][/us/act/1922-09-22/ch407/s2], [42 Stat. 1019][/us/stat/42/1019].)
+([Sept. 22, 1922, ch. 407][/us/act/1922-09-22/ch407], § 2, [42 Stat. 1019][/us/stat/42/1019].)
 
  __References in Text__ 
 
@@ -27,12 +27,12 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s486.md) | [Next](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s487a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs487)
+[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s486a...486w.md) | [Next](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s487a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs487)
 
 ----------
 ----------
 
-[/us/act/1922-09-22/ch407/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-22%2Fch407%2Fs2
+[/us/act/1922-09-22/ch407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-22%2Fch407
 [/us/stat/42/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1019
 [/us/act/1922-09-22/ch407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-22%2Fch407
 [/us/stat/42/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1019

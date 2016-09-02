@@ -41,7 +41,7 @@
 
     (l) To produce, distribute, and sell electric power, as herein particularly specified.
 
-([May 18, 1933, ch. 32, § 5][/us/act/1933-05-18/ch32/s5], [48 Stat. 61][/us/stat/48/61]; [Aug. 31, 1935, ch. 836, § 4][/us/act/1935-08-31/ch836/s4], [49 Stat. 1076][/us/stat/49/1076]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]; [July 3, 1952, ch. 570, § 2(a)][/us/act/1952-07-03/ch570/s2/a], [66 Stat. 334][/us/stat/66/334]; [Pub. L. 86–137, § 3][/us/pl/86/137/s3], Aug. 6, 1959, [73 Stat. 285][/us/stat/73/285]; [Pub. L. 94–412, title V, § 501(d)][/us/pl/94/412/s501/d], Sept. 14, 1976, [90 Stat. 1258][/us/stat/90/1258]; [Pub. L. 108–447, div. C, title VI, § 603(a)(2)][/us/pl/108/447/s603/a/2], Dec. 8, 2004, [118 Stat. 2966][/us/stat/118/2966].)
+([May 18, 1933, ch. 32][/us/act/1933-05-18/ch32], § 5, [48 Stat. 61][/us/stat/48/61]; [Aug. 31, 1935, ch. 836][/us/act/1935-08-31/ch836], § 4, [49 Stat. 1076][/us/stat/49/1076]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]; [July 3, 1952, ch. 570][/us/act/1952-07-03/ch570], § 2(a), [66 Stat. 334][/us/stat/66/334]; [Pub. L. 86–137][/us/pl/86/137], § 3, Aug. 6, 1959, [73 Stat. 285][/us/stat/73/285]; [Pub. L. 94–412, title V][/us/pl/94/412/tV], § 501(d), Sept. 14, 1976, [90 Stat. 1258][/us/stat/90/1258]; [Pub. L. 108–447, div. C, title VI][/us/pl/108/447/dC/tVI], § 603(a)(2), Dec. 8, 2004, [118 Stat. 2966][/us/stat/118/2966].)
 
  __Codification__ 
 
@@ -61,7 +61,7 @@
 
  __Change of Name__ 
 
-    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
+    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343, title II][/us/act/1947-07-26/ch343/tII], [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
 
  __Effective Date of 2004 Amendment__ 
 
@@ -69,7 +69,7 @@
 
  __Effective Date of 1952 Amendment__ 
 
-    Joint Res. [July 3, 1952, ch. 570, § 7][/us/act/1952-07-03/ch570/s7], [66 Stat. 334][/us/stat/66/334], provided that the amendment is effective June 16, 1952.
+    Joint Res. [July 3, 1952, ch. 570][/us/act/1952-07-03/ch570], § 7, [66 Stat. 334][/us/stat/66/334], provided that the amendment is effective June 16, 1952.
 
  __Repeal of Prior Acts Continuing Subsection (m)__ 
 
@@ -85,7 +85,7 @@
 
  __Termination of Foreign Sales__ 
 
-    Joint Res. [Mar. 31, 1953, ch. 13, § 1][/us/act/1953-03-31/ch13/s1], [67 Stat. 18][/us/stat/67/18], provided for the extension of certain emergency provisions (previously extended to April 1, 1953, by Joint Res. [July 3, 1952, ch. 570, § 2(a)][/us/act/1952-07-03/ch570/s2/a], [66 Stat. 334][/us/stat/66/334]) until July 1, 1953. Section 2 of said Joint Res. Mar. 31, 1953, provided that such extension did not apply to the provisions of this section.
+    Joint Res. [Mar. 31, 1953, ch. 13][/us/act/1953-03-31/ch13], § 1, [67 Stat. 18][/us/stat/67/18], provided for the extension of certain emergency provisions (previously extended to April 1, 1953, by Joint Res. [July 3, 1952, ch. 570][/us/act/1952-07-03/ch570], § 2(a), [66 Stat. 334][/us/stat/66/334]) until July 1, 1953. Section 2 of said Joint Res. Mar. 31, 1953, provided that such extension did not apply to the provisions of this section.
 
 ----------
 
@@ -94,24 +94,24 @@
 ----------
 ----------
 
-[/us/act/1933-05-18/ch32/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32%2Fs5
+[/us/act/1933-05-18/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32
 [/us/stat/48/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F61
-[/us/act/1935-08-31/ch836/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-31%2Fch836%2Fs4
+[/us/act/1935-08-31/ch836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-31%2Fch836
 [/us/stat/49/1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1076
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
-[/us/act/1952-07-03/ch570/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-03%2Fch570%2Fs2%2Fa
+[/us/act/1952-07-03/ch570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-03%2Fch570
 [/us/stat/66/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F334
-[/us/pl/86/137/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F137%2Fs3
+[/us/pl/86/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F137
 [/us/stat/73/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F285
-[/us/pl/94/412/s501/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412%2Fs501%2Fd
+[/us/pl/94/412/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412%2FtV
 [/us/stat/90/1258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1258
-[/us/pl/108/447/s603/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs603%2Fa%2F2
+[/us/pl/108/447/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdC%2FtVI
 [/us/stat/118/2966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2966
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/94/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412
 [/us/pl/86/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F137
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
+[/us/act/1947-07-26/ch343/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtII
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641
@@ -119,7 +119,7 @@
 [/us/pl/108/447/s604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs604%2Fa
 [/us/pl/108/447/s604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs604%2Fb
 [/us/usc/t16/s831a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs831a
-[/us/act/1952-07-03/ch570/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-03%2Fch570%2Fs7
+[/us/act/1952-07-03/ch570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-03%2Fch570
 [/us/stat/66/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F334
 [/us/act/1952-07-03/ch570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-03%2Fch570
 [/us/stat/66/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F334
@@ -134,9 +134,9 @@
 [/us/pl/94/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412
 [/us/pl/94/412/s501/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412%2Fs501%2Fh
 [/us/usc/t50/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1601
-[/us/act/1953-03-31/ch13/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-03-31%2Fch13%2Fs1
+[/us/act/1953-03-31/ch13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-03-31%2Fch13
 [/us/stat/67/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F18
-[/us/act/1952-07-03/ch570/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-03%2Fch570%2Fs2%2Fa
+[/us/act/1952-07-03/ch570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-03%2Fch570
 [/us/stat/66/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F334
 
 

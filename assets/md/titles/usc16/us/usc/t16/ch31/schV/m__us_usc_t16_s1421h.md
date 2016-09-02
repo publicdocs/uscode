@@ -57,13 +57,13 @@
 
         (C) demands immediate response.
 
-([Pub. L. 92–522, title IV, § 410][/us/pl/92/522/s410], formerly title III, § 309, as added [Pub. L. 102–587, title III, § 3003(a)][/us/pl/102/587/s3003/a], Nov. 4, 1992, [106 Stat. 5066][/us/stat/106/5066]; renumbered title IV, § 409, and amended [Pub. L. 103–238, § 24(b)][/us/pl/103/238/s24/b], (c)(7), (8), Apr. 30, 1994, [108 Stat. 565][/us/stat/108/565], 566; renumbered § 410, [Pub. L. 106–555, title II, § 202(a)(1)][/us/pl/106/555/s202/a/1], Dec. 21, 2000, [114 Stat. 2767][/us/stat/114/2767].)
+([Pub. L. 92–522, title IV][/us/pl/92/522/tIV], § 410, formerly title III, § 309, as added [Pub. L. 102–587, title III][/us/pl/102/587/tIII], § 3003(a), Nov. 4, 1992, [106 Stat. 5066][/us/stat/106/5066]; renumbered title IV, § 409, and amended [Pub. L. 103–238][/us/pl/103/238], § 24(b), (c)(7), (8), Apr. 30, 1994, [108 Stat. 565][/us/stat/108/565], 566; renumbered § 410, [Pub. L. 106–555, title II][/us/pl/106/555/tII], § 202(a)(1), Dec. 21, 2000, [114 Stat. 2767][/us/stat/114/2767].)
 
  __Amendments__ 
 
-    1994—Par. (1). [Pub. L. 103–238, § 24(c)(7)][/us/pl/103/238/s24/c/7], made technical amendment to reference to [section 1421d(a) of this title][/us/usc/t16/s1421d/a] to reflect renumbering of corresponding section of original act.
+    1994—Par. (1). [Pub. L. 103–238][/us/pl/103/238], § 24(c)(7), made technical amendment to reference to [section 1421d(a) of this title][/us/usc/t16/s1421d/a] to reflect renumbering of corresponding section of original act.
 
-    Par. (5). [Pub. L. 103–238, § 24(c)(8)][/us/pl/103/238/s24/c/8], made technical amendment to reference to [section 1421f(a) of this title][/us/usc/t16/s1421f/a] to reflect renumbering of corresponding section of original act.
+    Par. (5). [Pub. L. 103–238][/us/pl/103/238], § 24(c)(8), made technical amendment to reference to [section 1421f(a) of this title][/us/usc/t16/s1421f/a] to reflect renumbering of corresponding section of original act.
 
 ----------
 
@@ -76,16 +76,16 @@
 [/us/usc/t16/s1382/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1382%2Fc
 [/us/usc/t16/s1379/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1379%2Fh%2F1
 [/us/usc/t16/s1421f/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1421f%2Fa
-[/us/pl/92/522/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs410
-[/us/pl/102/587/s3003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs3003%2Fa
+[/us/pl/92/522/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtIV
+[/us/pl/102/587/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtIII
 [/us/stat/106/5066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5066
-[/us/pl/103/238/s24/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs24%2Fb
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
 [/us/stat/108/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F565
-[/us/pl/106/555/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F555%2Fs202%2Fa%2F1
+[/us/pl/106/555/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F555%2FtII
 [/us/stat/114/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2767
-[/us/pl/103/238/s24/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs24%2Fc%2F7
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
 [/us/usc/t16/s1421d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1421d%2Fa
-[/us/pl/103/238/s24/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs24%2Fc%2F8
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
 [/us/usc/t16/s1421f/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1421f%2Fa
 
 

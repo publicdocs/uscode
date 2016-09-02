@@ -23,7 +23,7 @@
 
         In issuing any direction regarding implementation of this chapter under subsection (a), the Secretary shall consider whether to phase-in any significant increases in annual land or facility use fees for organizational camps.
 
-([Pub. L. 108–7, div. F, title V, § 504][/us/pl/108/7/s504], Feb. 20, 2003, [117 Stat. 296][/us/stat/117/296].)
+([Pub. L. 108–7, div. F, title V][/us/pl/108/7/dF/tV], § 504, Feb. 20, 2003, [117 Stat. 296][/us/stat/117/296].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/108/7/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs504
+[/us/pl/108/7/dF/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtV
 [/us/stat/117/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F296
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 

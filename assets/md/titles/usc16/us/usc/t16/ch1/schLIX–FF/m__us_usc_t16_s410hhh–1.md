@@ -57,7 +57,7 @@
 
         The term “uses” means the uses described in [section 410hhh of this title][/us/usc/t16/s410hhh].
 
-([Pub. L. 106–530, § 3][/us/pl/106/530/s3], Nov. 22, 2000, [114 Stat. 2528][/us/stat/114/2528].)
+([Pub. L. 106–530][/us/pl/106/530], § 3, Nov. 22, 2000, [114 Stat. 2528][/us/stat/114/2528].)
 
 ----------
 
@@ -71,7 +71,7 @@
 [/us/usc/t16/s410hhh–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410hhh%E2%80%933
 [/us/usc/t16/s410hhh]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410hhh
 [/us/usc/t16/s410hhh]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410hhh
-[/us/pl/106/530/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F530%2Fs3
+[/us/pl/106/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F530
 [/us/stat/114/2528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2528
 
 

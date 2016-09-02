@@ -43,11 +43,11 @@
 
         (2) to assist in the conservation and protection of great apes by supporting conservation programs of countries in which populations of great apes are located and by supporting the CITES Secretariat.
 
-([Pub. L. 106–411, § 2][/us/pl/106/411/s2], Nov. 1, 2000, [114 Stat. 1789][/us/stat/114/1789].)
+([Pub. L. 106–411][/us/pl/106/411], § 2, Nov. 1, 2000, [114 Stat. 1789][/us/stat/114/1789].)
 
  __Short Title__ 
 
-[Pub. L. 106–411, § 1][/us/pl/106/411/s1], Nov. 1, 2000, [114 Stat. 1789][/us/stat/114/1789], provided that: 
+[Pub. L. 106–411][/us/pl/106/411], § 1, Nov. 1, 2000, [114 Stat. 1789][/us/stat/114/1789], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Great Ape Conservation Act of 2000’.”
 
@@ -59,9 +59,9 @@
 ----------
 
 [/us/usc/t16/s1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1533
-[/us/pl/106/411/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F411%2Fs2
+[/us/pl/106/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F411
 [/us/stat/114/1789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1789
-[/us/pl/106/411/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F411%2Fs1
+[/us/pl/106/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F411
 [/us/stat/114/1789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1789
 
 

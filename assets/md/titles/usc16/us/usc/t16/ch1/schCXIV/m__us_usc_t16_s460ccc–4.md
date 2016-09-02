@@ -27,7 +27,7 @@
 
         All exchanges pursuant to subsection (a) shall be made in a manner consistent with [section 1716 of title 43][/us/usc/t43/s1716].
 
-([Pub. L. 101–621, § 6][/us/pl/101/621/s6], Nov. 16, 1990, [104 Stat. 3344][/us/stat/104/3344]; [Pub. L. 110–161, div. F, title I, § 120][/us/pl/110/161/s120], Dec. 26, 2007, [121 Stat. 2121][/us/stat/121/2121].)
+([Pub. L. 101–621][/us/pl/101/621], § 6, Nov. 16, 1990, [104 Stat. 3344][/us/stat/104/3344]; [Pub. L. 110–161, div. F, title I][/us/pl/110/161/dF/tI], § 120, Dec. 26, 2007, [121 Stat. 2121][/us/stat/121/2121].)
 
  __Amendments__ 
 
@@ -35,7 +35,7 @@
 
  __Addition of Land to Red Rock Canyon National Conservation Area; Military Overflights__ 
 
-[Pub. L. 113–291, div. B, title XXX, § 3092(b)][/us/pl/113/291/s3092/b], (l), Dec. 19, 2014, [128 Stat. 3867][/us/stat/128/3867], 3879, provided that:
+[Pub. L. 113–291, div. B, title XXX][/us/pl/113/291/dB/tXXX], § 3092(b), (l), Dec. 19, 2014, [128 Stat. 3867][/us/stat/128/3867], 3879, provided that:
 
 >     “(b) __Addition of Land to Red Rock Canyon National Conservation Area.—__ 
 
@@ -111,7 +111,7 @@
 
  __Red Rock Canyon National Conservation Area Protection and Enhancement__ 
 
-[Pub. L. 107–282, title I][/us/pl/107/282], Nov. 6, 2002, [116 Stat. 1995][/us/stat/116/1995], provided that:
+[Pub. L. 107–282, title I][/us/pl/107/282/tI], Nov. 6, 2002, [116 Stat. 1995][/us/stat/116/1995], provided that:
 
 > “SEC. 101. __SHORT TITLE.__ 
 
@@ -273,12 +273,12 @@
 ----------
 
 [/us/usc/t43/s1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1716
-[/us/pl/101/621/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F621%2Fs6
+[/us/pl/101/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F621
 [/us/stat/104/3344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3344
-[/us/pl/110/161/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs120
+[/us/pl/110/161/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdF%2FtI
 [/us/stat/121/2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2121
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
-[/us/pl/113/291/s3092/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3092%2Fb
+[/us/pl/113/291/dB/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXX
 [/us/stat/128/3867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3867
 [/us/usc/t16/s460ccc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460ccc
 [/us/usc/t16/s460aaaa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460aaaa
@@ -286,7 +286,7 @@
 [/us/usc/t54/s320301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320301
 [/us/usc/t54/s320301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320301
 [/us/usc/t16/s460ccc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460ccc
-[/us/pl/107/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F282
+[/us/pl/107/282/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F282%2FtI
 [/us/stat/116/1995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1995
 [/us/usc/t16/s460ccc–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460ccc%E2%80%931
 [/us/usc/t16/s460ccc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460ccc

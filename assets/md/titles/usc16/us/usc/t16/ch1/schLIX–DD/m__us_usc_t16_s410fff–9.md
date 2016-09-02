@@ -71,7 +71,7 @@
 
                 (ii) administer newly-acquired land according to applicable laws (including regulations).
 
-([Pub. L. 106–76, § 11][/us/pl/106/76/s11], Oct. 21, 1999, [113 Stat. 1131][/us/stat/113/1131].)
+([Pub. L. 106–76][/us/pl/106/76], § 11, Oct. 21, 1999, [113 Stat. 1131][/us/stat/113/1131].)
 
 ----------
 
@@ -80,7 +80,7 @@
 ----------
 ----------
 
-[/us/pl/106/76/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F76%2Fs11
+[/us/pl/106/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F76
 [/us/stat/113/1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1131
 
 

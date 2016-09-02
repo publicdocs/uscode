@@ -17,7 +17,7 @@
 
     The Secretary of the Interior may enter into cooperative agreements with the State of Washington, political subdivisions thereof, corporations, associations, or individuals, for the preservation of nationally significant historic sites and structures and for the interpretation of significant events which occurred on San Juan Island, in Puget Sound, and on the nearby mainland, and he may erect and maintain tablets or markers at appropriate sites in accordance with the provisions of the Act of August 21, 1935 ([49 Stat. 666][/us/stat/49/666]; [16 U.S.C. 461][/us/usc/t16/s461] et seq.). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-([Pub. L. 89–565, § 3][/us/pl/89/565/s3], Sept. 9, 1966, [80 Stat. 737][/us/stat/80/737].)
+([Pub. L. 89–565][/us/pl/89/565], § 3, Sept. 9, 1966, [80 Stat. 737][/us/stat/80/737].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
 [/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
-[/us/pl/89/565/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F565%2Fs3
+[/us/pl/89/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F565
 [/us/stat/80/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F737
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
 [/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461

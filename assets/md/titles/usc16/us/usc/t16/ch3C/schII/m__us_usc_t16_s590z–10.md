@@ -17,7 +17,7 @@
 
     To carry out the purposes of this subchapter there is hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated (1) for the Department of the Interior such sums as may be necessary to carry out its functions under this subchapter, and (2) for the Department of Agriculture such sums as may be necessary to carry out its functions under this subchapter.
 
-([Aug. 11, 1939, ch. 717, § 12][/us/act/1939-08-11/ch717/s12], as added [Oct. 14, 1940, ch. 861][/us/act/1940-10-14/ch861], [54 Stat. 1125][/us/stat/54/1125].)
+([Aug. 11, 1939, ch. 717][/us/act/1939-08-11/ch717], § 12, as added [Oct. 14, 1940, ch. 861][/us/act/1940-10-14/ch861], [54 Stat. 1125][/us/stat/54/1125].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1939-08-11/ch717/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-11%2Fch717%2Fs12
+[/us/act/1939-08-11/ch717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-11%2Fch717
 [/us/act/1940-10-14/ch861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch861
 [/us/stat/54/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1125
 

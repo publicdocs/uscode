@@ -71,7 +71,7 @@
 
         (2) A high seas fishing vessel (including its fishing gear, furniture, appurtenances, stores, and cargo) used in the commission of an act prohibited by [section 5505 of this title][/us/usc/t16/s5505] shall be liable in rem for any civil penalty assessed for such violation under subsection (a) of this section and may be proceeded against in any district court of the United States having jurisdiction thereof. Such penalty shall constitute a maritime lien on such vessel that may be recovered in an action in rem in the district court of the United States having jurisdiction over the vessel.
 
-([Pub. L. 104–43, title I, § 108][/us/pl/104/43/s108], Nov. 3, 1995, [109 Stat. 373][/us/stat/109/373].)
+([Pub. L. 104–43, title I][/us/pl/104/43/tI], § 108, Nov. 3, 1995, [109 Stat. 373][/us/stat/109/373].)
 
 ----------
 
@@ -88,7 +88,7 @@
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t5/s706/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs706%2F2
 [/us/usc/t16/s5505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5505
-[/us/pl/104/43/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs108
+[/us/pl/104/43/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtI
 [/us/stat/109/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F373
 
 

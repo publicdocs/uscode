@@ -259,13 +259,13 @@
 
             (B) develop and submit recommendations to the Secretary of State, and to the Congress, for international actions that will end overfishing in the fishery and rebuild the affected stocks, taking into account the relative impact of vessels of other nations and vessels of the United States on the relevant stock.
 
-([Pub. L. 94–265, title III, § 304][/us/pl/94/265/s304], Apr. 13, 1976, [90 Stat. 352][/us/stat/90/352]; [Pub. L. 97–453, § 7(a)][/us/pl/97/453/s7/a], Jan. 12, 1983, [96 Stat. 2487][/us/stat/96/2487]; [Pub. L. 99–659, title I, § 106][/us/pl/99/659/s106], Nov. 14, 1986, [100 Stat. 3712][/us/stat/100/3712]; [Pub. L. 101–627, title I][/us/pl/101/627], §§ 110(a), (b)(1), (c), 111(a)(2), 120(d), Nov. 28, 1990, [104 Stat. 4449–4452][/us/stat/104/4449-4452], 4459; [Pub. L. 102–567, title III, § 303][/us/pl/102/567/s303], Oct. 29, 1992, [106 Stat. 4283][/us/stat/106/4283]; [Pub. L. 103–206, title VII, § 702][/us/pl/103/206/s702], Dec. 20, 1993, [107 Stat. 2446][/us/stat/107/2446]; [Pub. L. 104–297, title I, § 109(a)][/us/pl/104/297/s109/a]–(c), (e)–(g), (i), Oct. 11, 1996, [110 Stat. 3581–3585][/us/stat/110/3581-3585], 3587; [Pub. L. 109–479, § 3(d)(2)][/us/pl/109/479/s3/d/2], title I, §§ 104(c), 106(b), (d), 107, title IV, § 406, Jan. 12, 2007, [120 Stat. 3578][/us/stat/120/3578], 3584, 3593, 3594, 3633.)
+([Pub. L. 94–265, title III][/us/pl/94/265/tIII], § 304, Apr. 13, 1976, [90 Stat. 352][/us/stat/90/352]; [Pub. L. 97–453][/us/pl/97/453], § 7(a), Jan. 12, 1983, [96 Stat. 2487][/us/stat/96/2487]; [Pub. L. 99–659, title I][/us/pl/99/659/tI], § 106, Nov. 14, 1986, [100 Stat. 3712][/us/stat/100/3712]; [Pub. L. 101–627, title I][/us/pl/101/627/tI], §§ 110(a), (b)(1), (c), 111(a)(2), 120(d), Nov. 28, 1990, [104 Stat. 4449–4452][/us/stat/104/4449-4452], 4459; [Pub. L. 102–567, title III][/us/pl/102/567/tIII], § 303, Oct. 29, 1992, [106 Stat. 4283][/us/stat/106/4283]; [Pub. L. 103–206, title VII][/us/pl/103/206/tVII], § 702, Dec. 20, 1993, [107 Stat. 2446][/us/stat/107/2446]; [Pub. L. 104–297, title I][/us/pl/104/297/tI], § 109(a)–(c), (e)–(g), (i), Oct. 11, 1996, [110 Stat. 3581–3585][/us/stat/110/3581-3585], 3587; [Pub. L. 109–479][/us/pl/109/479], § 3(d)(2), title I, §§ 104(c), 106(b), (d), 107, title IV, § 406, Jan. 12, 2007, [120 Stat. 3578][/us/stat/120/3578], 3584, 3593, 3594, 3633.)
 
  __References in Text__ 
 
     This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 94–265][/us/pl/94/265], Apr. 13, 1976, [90 Stat. 331][/us/stat/90/331], as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title][/us/usc/t16/s1801] and Tables.
 
-    Paragraph (3), referred to in subsec. (f)(1), was repealed by [Pub. L. 104–297, title I, § 109(f)][/us/pl/104/297/s109/f], Oct. 11, 1996, [110 Stat. 3585][/us/stat/110/3585].
+    Paragraph (3), referred to in subsec. (f)(1), was repealed by [Pub. L. 104–297, title I][/us/pl/104/297/tI], § 109(f), Oct. 11, 1996, [110 Stat. 3585][/us/stat/110/3585].
 
     The Atlantic Tunas Convention Act of 1975, referred to in subsec. (g)(2), is [Pub. L. 94–70][/us/pl/94/70], Aug. 5, 1975, [89 Stat. 385][/us/stat/89/385], as amended, which is classified generally to chapter 16A (§ 971 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 971 of this title][/us/usc/t16/s971] and Tables.
 
@@ -275,49 +275,49 @@
 
  __Amendments__ 
 
-    2007—Subsec. (c)(3). [Pub. L. 109–479, § 3(d)(2)(A)][/us/pl/109/479/s3/d/2/A], substituted “limited access privilege” for “individual fishing quota”.
+    2007—Subsec. (c)(3). [Pub. L. 109–479][/us/pl/109/479], § 3(d)(2)(A), substituted “limited access privilege” for “individual fishing quota”.
 
-    Subsec. (d)(2)(A). [Pub. L. 109–479, § 106(b)][/us/pl/109/479/s106/b], substituted “management, data collection, and enforcement” for “management and enforcement” in introductory provisions.
+    Subsec. (d)(2)(A). [Pub. L. 109–479][/us/pl/109/479], § 106(b), substituted “management, data collection, and enforcement” for “management and enforcement” in introductory provisions.
 
-    Subsec. (d)(2)(A)(i). [Pub. L. 109–479, § 3(d)(2)(B)][/us/pl/109/479/s3/d/2/B], substituted “limited access privilege” for “individual fishing quota”.
+    Subsec. (d)(2)(A)(i). [Pub. L. 109–479][/us/pl/109/479], § 3(d)(2)(B), substituted “limited access privilege” for “individual fishing quota”.
 
-    Subsec. (d)(2)(C)(i). [Pub. L. 109–479, § 106(d)][/us/pl/109/479/s106/d], substituted “[section 1855(h)(5)(B) of this title][/us/usc/t16/s1855/h/5/B].” for “[section 1855(h)(5)(B) of this title][/us/usc/t16/s1855/h/5/B], except that the portion of any such fees reserved under [section 1853(d)(4)(A) of this title][/us/usc/t16/s1853/d/4/A] shall be deposited in the Treasury and available, subject to annual appropriations, to cover the costs of new direct loan obligations and new loan guarantee commitments as required by [section 661c(b)(1) of title 2][/us/usc/t2/s661c/b/1].”
+    Subsec. (d)(2)(C)(i). [Pub. L. 109–479][/us/pl/109/479], § 106(d), substituted “[section 1855(h)(5)(B) of this title][/us/usc/t16/s1855/h/5/B].” for “[section 1855(h)(5)(B) of this title][/us/usc/t16/s1855/h/5/B], except that the portion of any such fees reserved under [section 1853(d)(4)(A) of this title][/us/usc/t16/s1853/d/4/A] shall be deposited in the Treasury and available, subject to annual appropriations, to cover the costs of new direct loan obligations and new loan guarantee commitments as required by [section 661c(b)(1) of title 2][/us/usc/t2/s661c/b/1].”
 
-    Subsec. (e)(3). [Pub. L. 109–479, § 104(c)(1)][/us/pl/109/479/s104/c/1], (2), substituted “2 years after” for “one year of” and inserted “and implement” after “prepare” in introductory provisions.
+    Subsec. (e)(3). [Pub. L. 109–479][/us/pl/109/479], § 104(c)(1), (2), substituted “2 years after” for “one year of” and inserted “and implement” after “prepare” in introductory provisions.
 
-    Subsec. (e)(3)(A). [Pub. L. 109–479, § 104(c)(3)][/us/pl/109/479/s104/c/3], inserted “immediately” after “overfishing”.
+    Subsec. (e)(3)(A). [Pub. L. 109–479][/us/pl/109/479], § 104(c)(3), inserted “immediately” after “overfishing”.
 
-    Subsec. (e)(4)(A). [Pub. L. 109–479, § 104(c)(4)][/us/pl/109/479/s104/c/4], struck out “ending overfishing and” before “rebuilding” in introductory provisions.
+    Subsec. (e)(4)(A). [Pub. L. 109–479][/us/pl/109/479], § 104(c)(4), struck out “ending overfishing and” before “rebuilding” in introductory provisions.
 
-    Subsec. (e)(5). [Pub. L. 109–479, § 104(c)(5)][/us/pl/109/479/s104/c/5], substituted “2-year” for “one-year”.
+    Subsec. (e)(5). [Pub. L. 109–479][/us/pl/109/479], § 104(c)(5), substituted “2-year” for “one-year”.
 
-    Subsec. (g)(2). [Pub. L. 109–479, § 406(b)][/us/pl/109/479/s406/b], substituted “([16 U.S.C. 971d][/us/usc/t16/s971d]), or highly migratory species harvested in a commercial fishery managed by a Council under this Act or the Western and Central Pacific Fisheries Convention Implementation Act,” for “([16 U.S.C. 971d][/us/usc/t16/s971d])”.
+    Subsec. (g)(2). [Pub. L. 109–479][/us/pl/109/479], § 406(b), substituted “([16 U.S.C. 971d][/us/usc/t16/s971d]), or highly migratory species harvested in a commercial fishery managed by a Council under this Act or the Western and Central Pacific Fisheries Convention Implementation Act,” for “([16 U.S.C. 971d][/us/usc/t16/s971d])”.
 
-    Subsec. (i). [Pub. L. 109–479, § 406(a)][/us/pl/109/479/s406/a], added subsec. (i) relating to international overfishing.
+    Subsec. (i). [Pub. L. 109–479][/us/pl/109/479], § 406(a), added subsec. (i) relating to international overfishing.
 
-    [Pub. L. 109–479, § 107][/us/pl/109/479/s107], added subsec. (i) relating to environmental review process.
+    [Pub. L. 109–479][/us/pl/109/479], § 107, added subsec. (i) relating to environmental review process.
 
-    1996—Subsecs. (a), (b). [Pub. L. 104–297, § 109(a)][/us/pl/104/297/s109/a], added subsecs. (a) and (b) and struck out former subsecs. (a) which related to actions by Secretary after receipt of a fishery management plan or amendment to a plan and (b) which related to implementation of approved plans and amendments and submission and review of revised plans and amendments.
+    1996—Subsecs. (a), (b). [Pub. L. 104–297][/us/pl/104/297], § 109(a), added subsecs. (a) and (b) and struck out former subsecs. (a) which related to actions by Secretary after receipt of a fishery management plan or amendment to a plan and (b) which related to implementation of approved plans and amendments and submission and review of revised plans and amendments.
 
-    Subsec. (c). [Pub. L. 104–297, § 109(b)(1)][/us/pl/104/297/s109/b/1], amended heading to read “Preparation and review of Secretarial plans”.
+    Subsec. (c). [Pub. L. 104–297][/us/pl/104/297], § 109(b)(1), amended heading to read “Preparation and review of Secretarial plans”.
 
-    Subsec. (c)(1). [Pub. L. 104–297, § 109(b)(2)][/us/pl/104/297/s109/b/2]–(4), struck out “or” at end of subpar. (A), substituted “or amendment; or” for “or amendment, as the case may be.” in subpar. (B), added subpar. (C), and struck out concluding provisions which read as follows: “In preparing any such plan or amendment, the Secretary shall consult with the Secretary of State with respect to foreign fishing and with the Secretary of the department in which the Coast Guard is operating with respect to enforcement at sea. The Secretary shall also prepare such proposed regulations as he deems necessary or appropriate to carry out each plan or amendment prepared by him under this paragraph.”
+    Subsec. (c)(1). [Pub. L. 104–297][/us/pl/104/297], § 109(b)(2)–(4), struck out “or” at end of subpar. (A), substituted “or amendment; or” for “or amendment, as the case may be.” in subpar. (B), added subpar. (C), and struck out concluding provisions which read as follows: “In preparing any such plan or amendment, the Secretary shall consult with the Secretary of State with respect to foreign fishing and with the Secretary of the department in which the Coast Guard is operating with respect to enforcement at sea. The Secretary shall also prepare such proposed regulations as he deems necessary or appropriate to carry out each plan or amendment prepared by him under this paragraph.”
 
-    Subsec. (c)(2). [Pub. L. 104–297, § 109(b)(5)][/us/pl/104/297/s109/b/5], added par. (2) and struck out former par. (2) which related to procedures for making fishery management plans and amendments available for review and comment.
+    Subsec. (c)(2). [Pub. L. 104–297][/us/pl/104/297], § 109(b)(5), added par. (2) and struck out former par. (2) which related to procedures for making fishery management plans and amendments available for review and comment.
 
-    Subsec. (c)(3). [Pub. L. 104–297, § 109(b)(6)][/us/pl/104/297/s109/b/6], (7), inserted “for a fishery under the authority of a Council” after “paragraph (1)” and substituted “system, including any individual fishing quota program” for “system described in [section 1853(b)(6) of this title][/us/usc/t16/s1853/b/6]”.
+    Subsec. (c)(3). [Pub. L. 104–297][/us/pl/104/297], § 109(b)(6), (7), inserted “for a fishery under the authority of a Council” after “paragraph (1)” and substituted “system, including any individual fishing quota program” for “system described in [section 1853(b)(6) of this title][/us/usc/t16/s1853/b/6]”.
 
-    Subsec. (c)(4) to (7). [Pub. L. 104–297, § 109(b)(8)][/us/pl/104/297/s109/b/8], added pars. (4) to (7).
+    Subsec. (c)(4) to (7). [Pub. L. 104–297][/us/pl/104/297], § 109(b)(8), added pars. (4) to (7).
 
-    Subsec. (d). [Pub. L. 104–297, § 109(c)][/us/pl/104/297/s109/c], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (d). [Pub. L. 104–297][/us/pl/104/297], § 109(c), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (e). [Pub. L. 104–297, § 109(e)][/us/pl/104/297/s109/e], amended heading and text of subsec. (e) generally. Prior to amendment, subsec. (e) required Secretary to initiate and maintain a comprehensive program of fishery research.
+    Subsec. (e). [Pub. L. 104–297][/us/pl/104/297], § 109(e), amended heading and text of subsec. (e) generally. Prior to amendment, subsec. (e) required Secretary to initiate and maintain a comprehensive program of fishery research.
 
-    Subsec. (f)(3). [Pub. L. 104–297, § 109(f)][/us/pl/104/297/s109/f], struck out par. (3) which related to authority of Secretary over any highly migratory species fishery that is within the area of authority of more than one of certain Councils and to the preparation and amendment of fishery management plans with respect to such fishery.
+    Subsec. (f)(3). [Pub. L. 104–297][/us/pl/104/297], § 109(f), struck out par. (3) which related to authority of Secretary over any highly migratory species fishery that is within the area of authority of more than one of certain Councils and to the preparation and amendment of fishery management plans with respect to such fishery.
 
-    Subsec. (g). [Pub. L. 104–297, § 109(g)][/us/pl/104/297/s109/g], added subsec. (g) and struck out former subsec. (g) which required the Secretary to establish a 3-year program to assess the impact on fishery resources of incidental harvest by the shrimp trawl fishery within the authority of the Gulf of Mexico Fishery Management Council and the South Atlantic Fishery Management Council.
+    Subsec. (g). [Pub. L. 104–297][/us/pl/104/297], § 109(g), added subsec. (g) and struck out former subsec. (g) which required the Secretary to establish a 3-year program to assess the impact on fishery resources of incidental harvest by the shrimp trawl fishery within the authority of the Gulf of Mexico Fishery Management Council and the South Atlantic Fishery Management Council.
 
-    Subsec. (h). [Pub. L. 104–297, § 109(i)][/us/pl/104/297/s109/i], added subsec. (h).
+    Subsec. (h). [Pub. L. 104–297][/us/pl/104/297], § 109(i), added subsec. (h).
 
     1993—Subsec. (g)(6)(B). [Pub. L. 103–206][/us/pl/103/206] substituted “April 1, 1994” for “January 1, 1994”.
 
@@ -329,67 +329,67 @@
 
     Subsec. (e)(4). [Pub. L. 102–567][/us/pl/102/567] redesignated par. (3) as (4) and substituted “(2)” for “(1)”.
 
-    1990—Subsec. (b)(1), (3)(D). [Pub. L. 101–627, § 111(a)(2)(A)][/us/pl/101/627/s111/a/2/A], (B), substituted “section 1855(a)” for “section 1855(c)”.
+    1990—Subsec. (b)(1), (3)(D). [Pub. L. 101–627][/us/pl/101/627], § 111(a)(2)(A), (B), substituted “section 1855(a)” for “section 1855(c)”.
 
-    Subsec. (c)(2)(B). [Pub. L. 101–627, § 120(d)][/us/pl/101/627/s120/d], substituted “appropriate Council” for “appropriate council”.
+    Subsec. (c)(2)(B). [Pub. L. 101–627][/us/pl/101/627], § 120(d), substituted “appropriate Council” for “appropriate council”.
 
-    [Pub. L. 101–627, § 111(a)(2)(C)][/us/pl/101/627/s111/a/2/C], substituted “section 1855(a)” for “section 1855(c)”.
+    [Pub. L. 101–627][/us/pl/101/627], § 111(a)(2)(C), substituted “section 1855(a)” for “section 1855(c)”.
 
-    Subsec. (e). [Pub. L. 101–627, § 110(a)][/us/pl/101/627/s110/a], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The Secretary shall initiate and maintain, in cooperation with the Councils, a comprehensive program of fishery research to carry out and further the purposes, policy, and provisions of this chapter. Such program shall be designed to acquire knowledge and information, including statistics, on fishery conservation and management and on the economics of the fisheries, including, but not limited to, biological research concerning the interdependence of fisheries or stocks of fish, the impact of pollution on fish, the impact of wetland and estuarine degradation, and other matters bearing upon the abundance and availability of fish. The Secretary shall annually review and update the comprehensive program and make the results of the review and update available to the Councils.”
+    Subsec. (e). [Pub. L. 101–627][/us/pl/101/627], § 110(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The Secretary shall initiate and maintain, in cooperation with the Councils, a comprehensive program of fishery research to carry out and further the purposes, policy, and provisions of this chapter. Such program shall be designed to acquire knowledge and information, including statistics, on fishery conservation and management and on the economics of the fisheries, including, but not limited to, biological research concerning the interdependence of fisheries or stocks of fish, the impact of pollution on fish, the impact of wetland and estuarine degradation, and other matters bearing upon the abundance and availability of fish. The Secretary shall annually review and update the comprehensive program and make the results of the review and update available to the Councils.”
 
-    Subsec. (f). [Pub. L. 101–627, § 110(b)(1)][/us/pl/101/627/s110/b/1], in heading substituted “Fisheries under authority of more than one Council” for “Miscellaneous duties”, in par. (1) substituted “Except as provided in paragraph (3), if” for “If”, and added par. (3).
+    Subsec. (f). [Pub. L. 101–627][/us/pl/101/627], § 110(b)(1), in heading substituted “Fisheries under authority of more than one Council” for “Miscellaneous duties”, in par. (1) substituted “Except as provided in paragraph (3), if” for “If”, and added par. (3).
 
-    Subsec. (g). [Pub. L. 101–627, § 110(c)][/us/pl/101/627/s110/c], added subsec. (g).
+    Subsec. (g). [Pub. L. 101–627][/us/pl/101/627], § 110(c), added subsec. (g).
 
-    1986—Subsec. (a)(1). [Pub. L. 99–659, § 106(1)(A)][/us/pl/99/659/s106/1/A], struck out “(the date of receipt of which is hereafter in this section referred to as the ‘receipt date’)” after “by a Council” in introductory provisions.
+    1986—Subsec. (a)(1). [Pub. L. 99–659][/us/pl/99/659], § 106(1)(A), struck out “(the date of receipt of which is hereafter in this section referred to as the ‘receipt date’)” after “by a Council” in introductory provisions.
 
-    Subsec. (a)(1)(A), (B). [Pub. L. 99–659, § 106(1)(B)][/us/pl/99/659/s106/1/B], (C), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
+    Subsec. (a)(1)(A), (B). [Pub. L. 99–659][/us/pl/99/659], § 106(1)(B), (C), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 
-    Subsec. (a)(1)(C). [Pub. L. 99–659, § 106(1)(B)][/us/pl/99/659/s106/1/B], (D), redesignated former subpar. (B) as (C) and substituted “60-day” for “75-day”. Former subpar. (C) redesignated (D).
+    Subsec. (a)(1)(C). [Pub. L. 99–659][/us/pl/99/659], § 106(1)(B), (D), redesignated former subpar. (B) as (C) and substituted “60-day” for “75-day”. Former subpar. (C) redesignated (D).
 
-    Subsec. (a)(1)(D). [Pub. L. 99–659, § 106(1)(B)][/us/pl/99/659/s106/1/B], (E), redesignated former subpar. (C) as (D) and substituted “15th day” for “30th day”.
+    Subsec. (a)(1)(D). [Pub. L. 99–659][/us/pl/99/659], § 106(1)(B), (E), redesignated former subpar. (C) as (D) and substituted “15th day” for “30th day”.
 
-    Subsec. (a)(2). [Pub. L. 99–659, § 106(1)(F)][/us/pl/99/659/s106/1/F], substituted “paragraph (1)(B)” for “paragraph (1)(A)” in introductory provisions and inserted “and to fishery access adjustments referred to in [section 1853(a)(6) of this title][/us/usc/t16/s1853/a/6]” in subpar. (C).
+    Subsec. (a)(2). [Pub. L. 99–659][/us/pl/99/659], § 106(1)(F), substituted “paragraph (1)(B)” for “paragraph (1)(A)” in introductory provisions and inserted “and to fishery access adjustments referred to in [section 1853(a)(6) of this title][/us/usc/t16/s1853/a/6]” in subpar. (C).
 
-    Subsec. (a)(3). [Pub. L. 99–659, § 106(1)(G)][/us/pl/99/659/s106/1/G], added par. (3).
+    Subsec. (a)(3). [Pub. L. 99–659][/us/pl/99/659], § 106(1)(G), added par. (3).
 
-    Subsec. (b)(1)(A). [Pub. L. 99–659, § 106(2)(A)][/us/pl/99/659/s106/2/A], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the Secretary does not notify the Council in writing of his disapproval, or partial disapproval, under paragraph (2), of the plan or amendment before the close of the 95th day after the receipt date; or”.
+    Subsec. (b)(1)(A). [Pub. L. 99–659][/us/pl/99/659], § 106(2)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the Secretary does not notify the Council in writing of his disapproval, or partial disapproval, under paragraph (2), of the plan or amendment before the close of the 95th day after the receipt date; or”.
 
-    Subsec. (b)(1)(B). [Pub. L. 99–659, § 106(2)(B)][/us/pl/99/659/s106/2/B], substituted “60th day” for “75th day”.
+    Subsec. (b)(1)(B). [Pub. L. 99–659][/us/pl/99/659], § 106(2)(B), substituted “60th day” for “75th day”.
 
-    Subsec. (b)(2). [Pub. L. 99–659, § 106(2)(C)][/us/pl/99/659/s106/2/C], substituted “paragraph (1)(B)” for “paragraph (1)(A)” in introductory provisions.
+    Subsec. (b)(2). [Pub. L. 99–659][/us/pl/99/659], § 106(2)(C), substituted “paragraph (1)(B)” for “paragraph (1)(A)” in introductory provisions.
 
-    Subsec. (b)(3)(A). [Pub. L. 99–659, § 106(2)(D)(i)][/us/pl/99/659/s106/2/D/i], inserted “disapproves a proposed plan or amendment under subsection (a)(1)(A)(ii) of this section, or”.
+    Subsec. (b)(3)(A). [Pub. L. 99–659][/us/pl/99/659], § 106(2)(D)(i), inserted “disapproves a proposed plan or amendment under subsection (a)(1)(A)(ii) of this section, or”.
 
-    Subsec. (b)(3)(B)(i), (C)(i). [Pub. L. 99–659, § 106(2)(D)(ii)][/us/pl/99/659/s106/2/D/ii], substituted “subsection (a)(1)(B)” for “subsection (a)(1)(A)”.
+    Subsec. (b)(3)(B)(i), (C)(i). [Pub. L. 99–659][/us/pl/99/659], § 106(2)(D)(ii), substituted “subsection (a)(1)(B)” for “subsection (a)(1)(A)”.
 
-    Subsec. (c)(2)(A)(ii). [Pub. L. 99–659, § 106(3)(A)][/us/pl/99/659/s106/3/A], substituted “60-day” for “75-day”.
+    Subsec. (c)(2)(A)(ii). [Pub. L. 99–659][/us/pl/99/659], § 106(3)(A), substituted “60-day” for “75-day”.
 
-    Subsec. (c)(2)(A)(iii). [Pub. L. 99–659, § 106(3)(B)][/us/pl/99/659/s106/3/B], substituted “15th day” for “30th day”.
+    Subsec. (c)(2)(A)(iii). [Pub. L. 99–659][/us/pl/99/659], § 106(3)(B), substituted “15th day” for “30th day”.
 
-    Subsec. (c)(2)(B). [Pub. L. 99–659, § 106(3)(C)][/us/pl/99/659/s106/3/C], substituted “60-day” for “75-day” in two places.
+    Subsec. (c)(2)(B). [Pub. L. 99–659][/us/pl/99/659], § 106(3)(C), substituted “60-day” for “75-day” in two places.
 
-    Subsec. (e). [Pub. L. 99–659, § 106(4)][/us/pl/99/659/s106/4], inserted “, in cooperation with the Councils,”, “and on the economics of the fisheries”, and “The Secretary shall annually review and update the comprehensive program and make the results of the review and update available to the Councils.”
+    Subsec. (e). [Pub. L. 99–659][/us/pl/99/659], § 106(4), inserted “, in cooperation with the Councils,”, “and on the economics of the fisheries”, and “The Secretary shall annually review and update the comprehensive program and make the results of the review and update available to the Councils.”
 
-    1983—Subsec. (a). [Pub. L. 97–453, § 7(a)(1)][/us/pl/97/453/s7/a/1], amended subsec. (a) generally, which had provided that within 60 days after the Secretary received any fishery management plan, or any amendment to any such plan, which was prepared by any Council, the Secretary was to review such plan or amendment pursuant to subsection (b) of this section, notify such Council in writing of his approval, disapproval, or partial disapproval of such plan or amendment, and that in the case of disapproval or partial disapproval, the Secretary was to include in such notification a statement and explanation of the Secretary’s objections and the reasons therefor, suggestions for improvement, a request to such Council to change such plan or amendment to satisfy the objections, and a request to resubmit the plan or amendment, as so modified, to the Secretary within 45 days after the date on which the Council received such notification.
+    1983—Subsec. (a). [Pub. L. 97–453][/us/pl/97/453], § 7(a)(1), amended subsec. (a) generally, which had provided that within 60 days after the Secretary received any fishery management plan, or any amendment to any such plan, which was prepared by any Council, the Secretary was to review such plan or amendment pursuant to subsection (b) of this section, notify such Council in writing of his approval, disapproval, or partial disapproval of such plan or amendment, and that in the case of disapproval or partial disapproval, the Secretary was to include in such notification a statement and explanation of the Secretary’s objections and the reasons therefor, suggestions for improvement, a request to such Council to change such plan or amendment to satisfy the objections, and a request to resubmit the plan or amendment, as so modified, to the Secretary within 45 days after the date on which the Council received such notification.
 
-    Subsec. (b). [Pub. L. 97–453, § 7(a)(1)][/us/pl/97/453/s7/a/1], amended subsec. (b) generally, which had provided that the Secretary was to review any fishery management plan, and any amendment to any such plan, prepared by any Council and submitted to him to determine whether it was consistent with the national standards, the other provisions of this chapter, and any other applicable law, and that in carrying out such review, the Secretary was to consult with the Secretary of State with respect to foreign fishing, and the Secretary of the department in which the Coast Guard was operating with respect to enforcement at sea.
+    Subsec. (b). [Pub. L. 97–453][/us/pl/97/453], § 7(a)(1), amended subsec. (b) generally, which had provided that the Secretary was to review any fishery management plan, and any amendment to any such plan, prepared by any Council and submitted to him to determine whether it was consistent with the national standards, the other provisions of this chapter, and any other applicable law, and that in carrying out such review, the Secretary was to consult with the Secretary of State with respect to foreign fishing, and the Secretary of the department in which the Coast Guard was operating with respect to enforcement at sea.
 
-    Subsec. (c)(1). [Pub. L. 97–453, § 7(a)(2)(A)][/us/pl/97/453/s7/a/2/A], in subpar. (B) substituted “or disapproves a revised plan or amendment, and the Council involved fails to submit a revised or further revised plan or amendment, as the case may be” for “and the Council involved fails to change such plan or amendment in accordance with the notification made under subsection (a)(2) of this section”, and added to the provisions following subpar. (B) a requirement that the Secretary also prepare such proposed regulations as he deems necessary or appropriate to carry out each plan or amendment prepared by him under this paragraph.
+    Subsec. (c)(1). [Pub. L. 97–453][/us/pl/97/453], § 7(a)(2)(A), in subpar. (B) substituted “or disapproves a revised plan or amendment, and the Council involved fails to submit a revised or further revised plan or amendment, as the case may be” for “and the Council involved fails to change such plan or amendment in accordance with the notification made under subsection (a)(2) of this section”, and added to the provisions following subpar. (B) a requirement that the Secretary also prepare such proposed regulations as he deems necessary or appropriate to carry out each plan or amendment prepared by him under this paragraph.
 
-    Subsec. (c)(2). [Pub. L. 97–453, § 7(a)(2)(B)][/us/pl/97/453/s7/a/2/B], amended par. (2) generally, which had provided that whenever, pursuant to paragraph (1), the Secretary prepared a fishery management plan or amendment, the Secretary was to promptly transmit such plan or amendment to the appropriate Council for consideration and comment, that within 45 days after the date of receipt of such plan or amendment, the appropriate Council could recommend, to the Secretary, changes in such plan or amendment, consistent with the national standards, the other provisions of this chapter, and any other applicable law, and that after the expiration of such 45-day period, the Secretary could implement such plan or amendment pursuant to [section 1855 of this title][/us/usc/t16/s1855].
+    Subsec. (c)(2). [Pub. L. 97–453][/us/pl/97/453], § 7(a)(2)(B), amended par. (2) generally, which had provided that whenever, pursuant to paragraph (1), the Secretary prepared a fishery management plan or amendment, the Secretary was to promptly transmit such plan or amendment to the appropriate Council for consideration and comment, that within 45 days after the date of receipt of such plan or amendment, the appropriate Council could recommend, to the Secretary, changes in such plan or amendment, consistent with the national standards, the other provisions of this chapter, and any other applicable law, and that after the expiration of such 45-day period, the Secretary could implement such plan or amendment pursuant to [section 1855 of this title][/us/usc/t16/s1855].
 
-    Subsec. (d). [Pub. L. 97–453, § 7(a)(3)][/us/pl/97/453/s7/a/3], inserted provisions relating to agreements with the States for the administration of the permit system and the permissible accrual to the States of fees collected under the system.
+    Subsec. (d). [Pub. L. 97–453][/us/pl/97/453], § 7(a)(3), inserted provisions relating to agreements with the States for the administration of the permit system and the permissible accrual to the States of fees collected under the system.
 
  __Effective Date of 2007 Amendment__ 
 
-[Pub. L. 109–479, title I, § 104(d)][/us/pl/109/479/s104/d], Jan. 12, 2007, [120 Stat. 3585][/us/stat/120/3585], provided that: 
+[Pub. L. 109–479, title I][/us/pl/109/479/tI], § 104(d), Jan. 12, 2007, [120 Stat. 3585][/us/stat/120/3585], provided that: 
 
 > “The amendments made by subsection (c) \[amending this section\] shall take effect 30 months after the date of enactment of this Act \[Jan. 12, 2007\].”
 
  __Effective Date of 1983 Amendment__ 
 
-[Pub. L. 97–453, § 7(b)][/us/pl/97/453/s7/b], Jan. 12, 1983, [96 Stat. 2489][/us/stat/96/2489], provided that: 
+[Pub. L. 97–453][/us/pl/97/453], § 7(b), Jan. 12, 1983, [96 Stat. 2489][/us/stat/96/2489], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall only apply with respect to fishery management plans and amendments thereto that are initially submitted to the Secretary of Commerce on or after the date of the enactment of this Act \[Jan. 12, 1983\] for action under section 304 \[this section\].”
 
@@ -403,7 +403,7 @@
 
  __International Fisheries Agreement__ 
 
-[Pub. L. 111–348, title II][/us/pl/111/348], Jan. 4, 2011, [124 Stat. 3671][/us/stat/124/3671], provided that:
+[Pub. L. 111–348, title II][/us/pl/111/348/tII], Jan. 4, 2011, [124 Stat. 3671][/us/stat/124/3671], provided that:
 
 > “SEC. 201. __SHORT TITLE.__ 
 
@@ -443,13 +443,13 @@
 
  __Delay of Collection of Fees in Quahog and Wreckfish Fisheries__ 
 
-[Pub. L. 104–297, title I, § 109(d)][/us/pl/104/297/s109/d], Oct. 11, 1996, [110 Stat. 3584][/us/stat/110/3584], as amended by [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that: 
+[Pub. L. 104–297, title I][/us/pl/104/297/tI], § 109(d), Oct. 11, 1996, [110 Stat. 3584][/us/stat/110/3584], as amended by [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that: 
 
 > “Notwithstanding any other provision of law, the Secretary shall not begin the collection of fees under section 304(d)(2) of the Magnuson-Stevens Fishery Conservation and Management Act \[[16 U.S.C. 1854(d)(2)][/us/usc/t16/s1854/d/2]\], as amended by this Act, in the surf clam and ocean (including mahogany) quahog fishery or in the wreckfish fishery until after January 1, 2000.”
 
  __Comprehensive Management System for Atlantic Pelagic Longline Fishery__ 
 
-[Pub. L. 104–297, title I, § 109(h)][/us/pl/104/297/s109/h], Oct. 11, 1996, [110 Stat. 3586][/us/stat/110/3586], as amended by [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that:
+[Pub. L. 104–297, title I][/us/pl/104/297/tI], § 109(h), Oct. 11, 1996, [110 Stat. 3586][/us/stat/110/3586], as amended by [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that:
 
 >     “(1)
 
@@ -467,13 +467,13 @@
 
  __Inapplicability of Subsection (h) to American Lobster Fishery Management Plan__ 
 
-[Pub. L. 104–297, title I, § 109(j)][/us/pl/104/297/s109/j], Oct. 11, 1996, [110 Stat. 3587][/us/stat/110/3587], as amended by [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that: 
+[Pub. L. 104–297, title I][/us/pl/104/297/tI], § 109(j), Oct. 11, 1996, [110 Stat. 3587][/us/stat/110/3587], as amended by [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that: 
 
 > “Section 304(h) of the Magnuson-Stevens Fishery Conservation and Management Act \[[16 U.S.C. 1854(h)][/us/usc/t16/s1854/h]\], as amended by this Act, shall not apply to the American Lobster Fishery Management Plan.”
 
  __Interim Management of Highly Migratory Species Fisheries__ 
 
-[Pub. L. 101–627, title I, § 108(k)][/us/pl/101/627/s108/k], Nov. 28, 1990, [104 Stat. 4447][/us/stat/104/4447], as amended by [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that: 
+[Pub. L. 101–627, title I][/us/pl/101/627/tI], § 108(k), Nov. 28, 1990, [104 Stat. 4447][/us/stat/104/4447], as amended by [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that: 
 
 > “Notwithstanding the amendments made by subsections (a) and (g) \[amending [section 1852 of this title][/us/usc/t16/s1852]\], any fishery management plan or amendment which—
 
@@ -507,26 +507,26 @@
 [/us/usc/t16/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6901
 [/us/usc/t42/s4231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4231
 [/us/usc/t16/s1852/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1852%2Fa%2F3
-[/us/pl/94/265/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs304
+[/us/pl/94/265/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2FtIII
 [/us/stat/90/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F352
-[/us/pl/97/453/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453%2Fs7%2Fa
+[/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
 [/us/stat/96/2487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2487
-[/us/pl/99/659/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs106
+[/us/pl/99/659/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtI
 [/us/stat/100/3712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3712
-[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtI
 [/us/stat/104/4449-4452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4449-4452
-[/us/pl/102/567/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs303
+[/us/pl/102/567/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtIII
 [/us/stat/106/4283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4283
-[/us/pl/103/206/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs702
+[/us/pl/103/206/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtVII
 [/us/stat/107/2446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2446
-[/us/pl/104/297/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs109%2Fa
+[/us/pl/104/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtI
 [/us/stat/110/3581-3585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3581-3585
-[/us/pl/109/479/s3/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs3%2Fd%2F2
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
 [/us/stat/120/3578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3578
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
-[/us/pl/104/297/s109/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs109%2Ff
+[/us/pl/104/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtI
 [/us/stat/110/3585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3585
 [/us/pl/94/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F70
 [/us/stat/89/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F385
@@ -537,101 +537,101 @@
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/109/479/s3/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs3%2Fd%2F2%2FA
-[/us/pl/109/479/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs106%2Fb
-[/us/pl/109/479/s3/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs3%2Fd%2F2%2FB
-[/us/pl/109/479/s106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs106%2Fd
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
 [/us/usc/t16/s1855/h/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1855%2Fh%2F5%2FB
 [/us/usc/t16/s1855/h/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1855%2Fh%2F5%2FB
 [/us/usc/t16/s1853/d/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1853%2Fd%2F4%2FA
 [/us/usc/t2/s661c/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661c%2Fb%2F1
-[/us/pl/109/479/s104/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs104%2Fc%2F1
-[/us/pl/109/479/s104/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs104%2Fc%2F3
-[/us/pl/109/479/s104/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs104%2Fc%2F4
-[/us/pl/109/479/s104/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs104%2Fc%2F5
-[/us/pl/109/479/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs406%2Fb
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
 [/us/usc/t16/s971d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs971d
 [/us/usc/t16/s971d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs971d
-[/us/pl/109/479/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs406%2Fa
-[/us/pl/109/479/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs107
-[/us/pl/104/297/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs109%2Fa
-[/us/pl/104/297/s109/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs109%2Fb%2F1
-[/us/pl/104/297/s109/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs109%2Fb%2F2
-[/us/pl/104/297/s109/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs109%2Fb%2F5
-[/us/pl/104/297/s109/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs109%2Fb%2F6
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
 [/us/usc/t16/s1853/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1853%2Fb%2F6
-[/us/pl/104/297/s109/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs109%2Fb%2F8
-[/us/pl/104/297/s109/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs109%2Fc
-[/us/pl/104/297/s109/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs109%2Fe
-[/us/pl/104/297/s109/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs109%2Ff
-[/us/pl/104/297/s109/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs109%2Fg
-[/us/pl/104/297/s109/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs109%2Fi
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
 [/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
 [/us/pl/102/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567
 [/us/pl/102/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567
 [/us/pl/102/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567
 [/us/pl/102/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567
-[/us/pl/101/627/s111/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs111%2Fa%2F2%2FA
-[/us/pl/101/627/s120/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs120%2Fd
-[/us/pl/101/627/s111/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs111%2Fa%2F2%2FC
-[/us/pl/101/627/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs110%2Fa
-[/us/pl/101/627/s110/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs110%2Fb%2F1
-[/us/pl/101/627/s110/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs110%2Fc
-[/us/pl/99/659/s106/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs106%2F1%2FA
-[/us/pl/99/659/s106/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs106%2F1%2FB
-[/us/pl/99/659/s106/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs106%2F1%2FB
-[/us/pl/99/659/s106/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs106%2F1%2FB
-[/us/pl/99/659/s106/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs106%2F1%2FF
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
 [/us/usc/t16/s1853/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1853%2Fa%2F6
-[/us/pl/99/659/s106/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs106%2F1%2FG
-[/us/pl/99/659/s106/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs106%2F2%2FA
-[/us/pl/99/659/s106/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs106%2F2%2FB
-[/us/pl/99/659/s106/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs106%2F2%2FC
-[/us/pl/99/659/s106/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs106%2F2%2FD%2Fi
-[/us/pl/99/659/s106/2/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs106%2F2%2FD%2Fii
-[/us/pl/99/659/s106/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs106%2F3%2FA
-[/us/pl/99/659/s106/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs106%2F3%2FB
-[/us/pl/99/659/s106/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs106%2F3%2FC
-[/us/pl/99/659/s106/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs106%2F4
-[/us/pl/97/453/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453%2Fs7%2Fa%2F1
-[/us/pl/97/453/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453%2Fs7%2Fa%2F1
-[/us/pl/97/453/s7/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453%2Fs7%2Fa%2F2%2FA
-[/us/pl/97/453/s7/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453%2Fs7%2Fa%2F2%2FB
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
+[/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
+[/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
+[/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
+[/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
 [/us/usc/t16/s1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1855
-[/us/pl/97/453/s7/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453%2Fs7%2Fa%2F3
-[/us/pl/109/479/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs104%2Fd
+[/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
+[/us/pl/109/479/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtI
 [/us/stat/120/3585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3585
-[/us/pl/97/453/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453%2Fs7%2Fb
+[/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
 [/us/stat/96/2489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2489
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/pl/104/14/s1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fb%2F3
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
-[/us/pl/111/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F348
+[/us/pl/111/348/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F348%2FtII
 [/us/stat/124/3671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3671
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
 [/us/usc/t16/s1854/e/4/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1854%2Fe%2F4%2FA%2Fi
 [/us/usc/t16/s1854/e/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1854%2Fe%2F4%2FA%2Fii
 [/us/usc/t16/s1851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1851
-[/us/pl/104/297/s109/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs109%2Fd
+[/us/pl/104/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtI
 [/us/stat/110/3584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3584
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
 [/us/usc/t16/s1854/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1854%2Fd%2F2
-[/us/pl/104/297/s109/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs109%2Fh
+[/us/pl/104/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtI
 [/us/stat/110/3586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3586
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
 [/us/usc/t16/s1852/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1852%2Fg%2F4
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
 [/us/usc/t16/s1854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1854
-[/us/pl/104/297/s109/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs109%2Fj
+[/us/pl/104/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtI
 [/us/stat/110/3587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3587
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
 [/us/usc/t16/s1854/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1854%2Fh
-[/us/pl/101/627/s108/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs108%2Fk
+[/us/pl/101/627/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtI
 [/us/stat/104/4447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4447
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
 [/us/usc/t16/s1852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1852
 [/us/usc/t16/s1854/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1854%2Ff%2F3

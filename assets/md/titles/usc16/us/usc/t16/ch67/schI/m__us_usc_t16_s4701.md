@@ -89,7 +89,7 @@
 
         (5) to establish a program of research and technology development and assistance to States in the management and removal of zebra mussels.
 
-([Pub. L. 101–646, title I, § 1002][/us/pl/101/646/s1002], Nov. 29, 1990, [104 Stat. 4761][/us/stat/104/4761]; [Pub. L. 104–182, title III, § 308(a)][/us/pl/104/182/s308/a], Aug. 6, 1996, [110 Stat. 1689][/us/stat/110/1689]; [Pub. L. 104–332, § 2(a)(1)][/us/pl/104/332/s2/a/1], (h)(1), Oct. 26, 1996, [110 Stat. 4073][/us/stat/110/4073], 4091.)
+([Pub. L. 101–646, title I][/us/pl/101/646/tI], § 1002, Nov. 29, 1990, [104 Stat. 4761][/us/stat/104/4761]; [Pub. L. 104–182, title III][/us/pl/104/182/tIII], § 308(a), Aug. 6, 1996, [110 Stat. 1689][/us/stat/110/1689]; [Pub. L. 104–332][/us/pl/104/332], § 2(a)(1), (h)(1), Oct. 26, 1996, [110 Stat. 4073][/us/stat/110/4073], 4091.)
 
  __References in Text__ 
 
@@ -97,35 +97,35 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–332, § 2(h)(1)][/us/pl/104/332/s2/h/1], made technical amendment to [Pub. L. 101–646, § 1002][/us/pl/101/646/s1002], which enacted this section.
+    1996—[Pub. L. 104–332][/us/pl/104/332], § 2(h)(1), made technical amendment to [Pub. L. 101–646][/us/pl/101/646], § 1002, which enacted this section.
 
-    Subsec. (a)(2), (3). [Pub. L. 104–332, § 2(a)(1)(A)][/us/pl/104/332/s2/a/1/A], added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
+    Subsec. (a)(2), (3). [Pub. L. 104–332][/us/pl/104/332], § 2(a)(1)(A), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
 
     “(2) when environmental conditions are favorable, nonindigenous species, such as the zebra mussel (Dreissena polymorpha), become established and may disrupt the aquatic environment and economy of affected coastal areas;
 
     “(3) the zebra mussel was unintentionally introduced into the Great Lakes and, if left uncontrolled, is expected to infest over two-thirds of the continental United States through the unintentional transportation of larvae and adults by vessels operating in inland waters;”.
 
-    Subsec. (a)(4). [Pub. L. 104–332, § 2(a)(1)(B)(i)][/us/pl/104/332/s2/a/1/B/i], inserted “by the zebra mussel and ruffe, round goby, and other nonindigenous species” after “other species”.
+    Subsec. (a)(4). [Pub. L. 104–332][/us/pl/104/332], § 2(a)(1)(B)(i), inserted “by the zebra mussel and ruffe, round goby, and other nonindigenous species” after “other species”.
 
     Subsec. (a)(5). [Pub. L. 104–182][/us/pl/104/182] added par. (5).
 
-    Subsec. (a)(6) to (15). [Pub. L. 104–332, § 2(a)(1)(B)(ii)][/us/pl/104/332/s2/a/1/B/ii], (C), (D), added pars. (6) to (15).
+    Subsec. (a)(6) to (15). [Pub. L. 104–332][/us/pl/104/332], § 2(a)(1)(B)(ii), (C), (D), added pars. (6) to (15).
 
  __Short Title of 1996 Amendment__ 
 
-[Pub. L. 104–332, § 1(a)][/us/pl/104/332/s1/a], Oct. 26, 1996, [110 Stat. 4073][/us/stat/110/4073], provided that: 
+[Pub. L. 104–332][/us/pl/104/332], § 1(a), Oct. 26, 1996, [110 Stat. 4073][/us/stat/110/4073], provided that: 
 
 > “This Act \[enacting sections 4713 and 4714 of this title, amending sections 941 to 941g, 4701, 4702, 4711, 4712, 4721 to 4728, 4741 and 4751 of this title, [section 42 of Title 18][/us/usc/t18/s42], Crimes and Criminal Procedure, and [section 2761 of Title 33][/us/usc/t33/s2761], Navigation and Navigable Waters, enacting provisions set out as a note under this section, and amending provisions set out as notes under this section, [section 941 of this title][/us/usc/t16/s941], and [section 2701 of Title 33][/us/usc/t33/s2701]\] may be cited as the ‘National Invasive Species Act of 1996’.”
 
  __Short Title__ 
 
-[Pub. L. 101–646, title I, § 1001][/us/pl/101/646/s1001], Nov. 29, 1990, [104 Stat. 4761][/us/stat/104/4761], as amended by [Pub. L. 104–332, § 2(h)(1)][/us/pl/104/332/s2/h/1], Oct. 26, 1996, [110 Stat. 4091][/us/stat/110/4091], provided that: 
+[Pub. L. 101–646, title I][/us/pl/101/646/tI], § 1001, Nov. 29, 1990, [104 Stat. 4761][/us/stat/104/4761], as amended by [Pub. L. 104–332][/us/pl/104/332], § 2(h)(1), Oct. 26, 1996, [110 Stat. 4091][/us/stat/110/4091], provided that: 
 
 > “This title \[enacting this chapter and amending [section 42 of Title 18][/us/usc/t18/s42], Crimes and Criminal Procedure\] may be cited as the ‘Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990’.”
 
  __Aquatic Invasive Species Prevention__ 
 
-[Pub. L. 113–121, title I, § 1039(b)][/us/pl/113/121/s1039/b], June 10, 2014, [128 Stat. 1237][/us/stat/128/1237], provided that:
+[Pub. L. 113–121, title I][/us/pl/113/121/tI], § 1039(b), June 10, 2014, [128 Stat. 1237][/us/stat/128/1237], provided that:
 
 >     “(1) __Multiagency effort to slow the spread of asian carp in the upper mississippi and ohio river basins and tributaries.—__ 
 
@@ -159,7 +159,7 @@
 
  __Construction of 1996 Amendment__ 
 
-[Pub. L. 104–332, § 3][/us/pl/104/332/s3], Oct. 26, 1996, [110 Stat. 4092][/us/stat/110/4092], provided that: 
+[Pub. L. 104–332][/us/pl/104/332], § 3, Oct. 26, 1996, [110 Stat. 4092][/us/stat/110/4092], provided that: 
 
 > “Nothing in this Act \[see Short Title of 1996 Amendment note above\] or the amendments made by this Act is intended to affect the authorities and responsibilities of the Great Lakes Fishery Commission established under article II of the Convention on Great Lakes Fisheries between the United States of America and Canada, signed at Washington on September 10, 1954 (hereafter in this section referred to as the ‘Convention’), including the authorities and responsibilities of the Great Lakes Fishery Commission—
 
@@ -169,7 +169,7 @@
 
  __Report on Establishment of Program__ 
 
-[Pub. L. 102–567, title II, § 203(b)][/us/pl/102/567/s203/b], Oct. 29, 1992, [106 Stat. 4281][/us/stat/106/4281], provided that: 
+[Pub. L. 102–567, title II][/us/pl/102/567/tII], § 203(b), Oct. 29, 1992, [106 Stat. 4281][/us/stat/106/4281], provided that: 
 
 > “Not later than one year after the date of the enactment of this Act \[Oct. 29, 1992\], the Secretary of Commerce shall submit a report to the Congress on progress toward establishing a nonindigenous aquatic nuisance prevention and control program within the National Oceanic and Atmospheric Administration and projected funding for such a program for the following five fiscal years.”
 
@@ -180,37 +180,37 @@
 ----------
 ----------
 
-[/us/pl/101/646/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs1002
+[/us/pl/101/646/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2FtI
 [/us/stat/104/4761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4761
-[/us/pl/104/182/s308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs308%2Fa
+[/us/pl/104/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2FtIII
 [/us/stat/110/1689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1689
-[/us/pl/104/332/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fa%2F1
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
 [/us/stat/110/4073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4073
 [/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
 [/us/stat/104/4761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4761
-[/us/pl/104/332/s2/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fh%2F1
-[/us/pl/101/646/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs1002
-[/us/pl/104/332/s2/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fa%2F1%2FA
-[/us/pl/104/332/s2/a/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fa%2F1%2FB%2Fi
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
 [/us/pl/104/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182
-[/us/pl/104/332/s2/a/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fa%2F1%2FB%2Fii
-[/us/pl/104/332/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs1%2Fa
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
 [/us/stat/110/4073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4073
 [/us/usc/t18/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs42
 [/us/usc/t33/s2761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2761
 [/us/usc/t16/s941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs941
 [/us/usc/t33/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2701
-[/us/pl/101/646/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs1001
+[/us/pl/101/646/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2FtI
 [/us/stat/104/4761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4761
-[/us/pl/104/332/s2/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fh%2F1
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
 [/us/stat/110/4091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4091
 [/us/usc/t18/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs42
-[/us/pl/113/121/s1039/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1039%2Fb
+[/us/pl/113/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtI
 [/us/stat/128/1237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1237
-[/us/pl/104/332/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs3
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
 [/us/stat/110/4092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4092
 [/us/usc/t16/s931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs931
-[/us/pl/102/567/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs203%2Fb
+[/us/pl/102/567/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtII
 [/us/stat/106/4281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4281
 
 

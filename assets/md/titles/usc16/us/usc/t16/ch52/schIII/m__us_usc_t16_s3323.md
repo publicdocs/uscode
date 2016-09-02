@@ -23,7 +23,7 @@
 
         The total Federal share of all enhancement projects funded annually by this section shall not exceed 50 percent of the total amount expended for such projects, except that this limitation shall not apply to projects proposed by treaty tribes acting through the appropriate tribal coordinating body. A State share may include both real and personal property. Title to, or other interest in, such property shall remain within the State. The State of Washington shall be treated on December 22, 1980, as having expended $32,000,000 (reduced by the amount treated as expended by the State under [section 3336 of this title][/us/usc/t16/s3336]) on enhancement proj­ects set forth in the plan which are eligible for assistance under this chapter. The Federal share shall be paid in such amounts and at such times as the Secretary deems appropriate, consistent with this chapter and the goals of the comprehensive plan.
 
-([Pub. L. 96–561, title I, § 122][/us/pl/96/561/s122], Dec. 22, 1980, [94 Stat. 3282][/us/stat/94/3282].)
+([Pub. L. 96–561, title I][/us/pl/96/561/tI], § 122, Dec. 22, 1980, [94 Stat. 3282][/us/stat/94/3282].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t16/s3336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3336
-[/us/pl/96/561/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs122
+[/us/pl/96/561/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtI
 [/us/stat/94/3282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3282
 
 

@@ -17,7 +17,7 @@
 
     Patents shall not hereafter be issued for locations and claims heretofore made in the recreation area under the mining laws of the United States.
 
-([Pub. L. 92–400, § 12][/us/pl/92/400/s12], Aug. 22, 1972, [86 Stat. 615][/us/stat/86/615].)
+([Pub. L. 92–400][/us/pl/92/400], § 12, Aug. 22, 1972, [86 Stat. 615][/us/stat/86/615].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/400/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F400%2Fs12
+[/us/pl/92/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F400
 [/us/stat/86/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F615
 
 

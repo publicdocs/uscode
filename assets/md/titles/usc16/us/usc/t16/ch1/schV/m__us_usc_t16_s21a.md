@@ -23,7 +23,7 @@
 
     All of those lands lying within the boundary lines above described and the present north, east, and west boundary lines are included in and made a part of the Yellowstone National Park; and all of those lands of the present Yellowstone National Park excluded from the park are included in and made a part of the contiguous national forests subject to all laws and regulations applicable to national forests, and upon acceptance thereof by appropriate action of the State, jurisdiction for all purposes whatsoever shall be, and is, ceded over the land excluded from the park to the State of Wyoming.
 
-([Mar. 1, 1929, ch. 437, § 1][/us/act/1929-03-01/ch437/s1], [45 Stat. 1435][/us/stat/45/1435]; [Apr. 19, 1930, ch. 190][/us/act/1930-04-19/ch190], [46 Stat. 220][/us/stat/46/220].)
+([Mar. 1, 1929, ch. 437][/us/act/1929-03-01/ch437], § 1, [45 Stat. 1435][/us/stat/45/1435]; [Apr. 19, 1930, ch. 190][/us/act/1930-04-19/ch190], [46 Stat. 220][/us/stat/46/220].)
 
  __Amendments__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/act/1929-03-01/ch437/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-01%2Fch437%2Fs1
+[/us/act/1929-03-01/ch437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-01%2Fch437
 [/us/stat/45/1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1435
 [/us/act/1930-04-19/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-04-19%2Fch190
 [/us/stat/46/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F220

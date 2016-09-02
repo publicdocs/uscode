@@ -23,7 +23,7 @@
 
     (3) except as otherwise provided by this Act or other Federal laws, Federal land managing agencies, in managing subsistence activities on the public lands and in protecting the continued viability of all wild renewable resources in Alaska, shall cooperate with adjacent landowners and land managers, including Native Corporations, appropriate State and Federal agencies, and other nations.
 
-([Pub. L. 96–487, title VIII, § 802][/us/pl/96/487/s802], Dec. 2, 1980, [94 Stat. 2422][/us/stat/94/2422].)
+([Pub. L. 96–487, title VIII][/us/pl/96/487/tVIII], § 802, Dec. 2, 1980, [94 Stat. 2422][/us/stat/94/2422].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/96/487/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs802
+[/us/pl/96/487/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtVIII
 [/us/stat/94/2422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2422
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371

@@ -105,29 +105,29 @@
 
             Nothing in this subsection supersedes the official maps referred to in subsection (a).
 
-([Pub. L. 97–348, § 4][/us/pl/97/348/s4], Oct. 18, 1982, [96 Stat. 1654][/us/stat/96/1654]; [Pub. L. 97–396, § 8][/us/pl/97/396/s8], Dec. 31, 1982, [96 Stat. 2007][/us/stat/96/2007]; [Pub. L. 100–707, title II, § 204(b)][/us/pl/100/707/s204/b], Nov. 23, 1988, [102 Stat. 4713][/us/stat/102/4713]; [Pub. L. 101–591, § 3][/us/pl/101/591/s3], Nov. 16, 1990, [104 Stat. 2931][/us/stat/104/2931]; [Pub. L. 106–167, § 3(c)(3)][/us/pl/106/167/s3/c/3], Dec. 9, 1999, [113 Stat. 1804][/us/stat/113/1804]; [Pub. L. 106–514][/us/pl/106/514], §§ 2–3(b)(1), (c), (d), Nov. 13, 2000, [114 Stat. 2394][/us/stat/114/2394], 2395.)
+([Pub. L. 97–348][/us/pl/97/348], § 4, Oct. 18, 1982, [96 Stat. 1654][/us/stat/96/1654]; [Pub. L. 97–396][/us/pl/97/396], § 8, Dec. 31, 1982, [96 Stat. 2007][/us/stat/96/2007]; [Pub. L. 100–707, title II][/us/pl/100/707/tII], § 204(b), Nov. 23, 1988, [102 Stat. 4713][/us/stat/102/4713]; [Pub. L. 101–591][/us/pl/101/591], § 3, Nov. 16, 1990, [104 Stat. 2931][/us/stat/104/2931]; [Pub. L. 106–167][/us/pl/106/167], § 3(c)(3), Dec. 9, 1999, [113 Stat. 1804][/us/stat/113/1804]; [Pub. L. 106–514][/us/pl/106/514], §§ 2–3(b)(1), (c), (d), Nov. 13, 2000, [114 Stat. 2394][/us/stat/114/2394], 2395.)
 
  __Codification__ 
 
-    The text of [section 4(d) of Pub. L. 101–591][/us/pl/101/591/s4/d], which was transferred and redesignated so as to appear as subsec. (e) of this section and amended by [Pub. L. 106–514][/us/pl/106/514], was based on [Pub. L. 101–591, § 4(d)][/us/pl/101/591/s4/d], Nov. 16, 1990, [104 Stat. 2933][/us/stat/104/2933], formerly included in a note set out under this section.
+    The text of [section 4(d) of Pub. L. 101–591][/us/pl/101/591/s4/d], which was transferred and redesignated so as to appear as subsec. (e) of this section and amended by [Pub. L. 106–514][/us/pl/106/514], was based on [Pub. L. 101–591][/us/pl/101/591], § 4(d), Nov. 16, 1990, [104 Stat. 2933][/us/stat/104/2933], formerly included in a note set out under this section.
 
-    In subsec. (e)(1), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (e)(1), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
-    2000—Subsec. (a). [Pub. L. 106–514, § 3(d)][/us/pl/106/514/s3/d], substituted “which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled ‘Coastal Barrier Resources System’, dated October 24, 1990, as those maps may be modified, revised, or corrected under—” and pars. (1) to (3) for “which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled ‘Coastal Barrier Resources System’, dated October 24, 1990, as such maps may be revised by the Secretary under section 4 of the Coastal Barrier Improvement Act of 1990.”
+    2000—Subsec. (a). [Pub. L. 106–514][/us/pl/106/514], § 3(d), substituted “which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled ‘Coastal Barrier Resources System’, dated October 24, 1990, as those maps may be modified, revised, or corrected under—” and pars. (1) to (3) for “which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled ‘Coastal Barrier Resources System’, dated October 24, 1990, as such maps may be revised by the Secretary under section 4 of the Coastal Barrier Improvement Act of 1990.”
 
-    Subsec. (d). [Pub. L. 106–514, § 3(a)][/us/pl/106/514/s3/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 106–514][/us/pl/106/514], § 3(a), added subsec. (d).
 
-    Subsec. (e). [Pub. L. 106–514, § 3(b)(1)][/us/pl/106/514/s3/b/1], transferred and redesignated the text of [section 4(d) of Pub. L. 101–591][/us/pl/101/591/s4/d] so as to appear as subsec. (e) of this section, in par. (1), substituted “180” for “one hundred and eighty” in introductory provisions and struck out “shall” before “publish” in subpar. (B), in par. (2), substituted “paragraph (1)(B)” for “subsection (d)(1)(B)”, and struck out par. (3), which required revision of maps as soon as practicable after a unit was added to the System. See Codification note above.
+    Subsec. (e). [Pub. L. 106–514][/us/pl/106/514], § 3(b)(1), transferred and redesignated the text of [section 4(d) of Pub. L. 101–591][/us/pl/101/591/s4/d] so as to appear as subsec. (e) of this section, in par. (1), substituted “180” for “one hundred and eighty” in introductory provisions and struck out “shall” before “publish” in subpar. (B), in par. (2), substituted “paragraph (1)(B)” for “subsection (d)(1)(B)”, and struck out par. (3), which required revision of maps as soon as practicable after a unit was added to the System. See Codification note above.
 
-    Subsec. (f). [Pub. L. 106–514, § 3(c)][/us/pl/106/514/s3/c], added subsec. (f).
+    Subsec. (f). [Pub. L. 106–514][/us/pl/106/514], § 3(c), added subsec. (f).
 
-    Subsec. (g). [Pub. L. 106–514, § 2][/us/pl/106/514/s2], added subsec. (g).
+    Subsec. (g). [Pub. L. 106–514][/us/pl/106/514], § 2, added subsec. (g).
 
-    1999—[Pub. L. 106–167, § 3(c)(3)(A)][/us/pl/106/167/s3/c/3/A], substituted “John H. Chafee Coastal Barrier Resources System” for “Coastal Barrier Resources System” in section catchline.
+    1999—[Pub. L. 106–167][/us/pl/106/167], § 3(c)(3)(A), substituted “John H. Chafee Coastal Barrier Resources System” for “Coastal Barrier Resources System” in section catchline.
 
-    Subsec. (a). [Pub. L. 106–167, § 3(c)(3)(B)][/us/pl/106/167/s3/c/3/B], substituted “the John H. Chafee Coastal Barrier Resources System” for “the Coastal Barrier Resources System”.
+    Subsec. (a). [Pub. L. 106–167][/us/pl/106/167], § 3(c)(3)(B), substituted “the John H. Chafee Coastal Barrier Resources System” for “the Coastal Barrier Resources System”.
 
     1990—[Pub. L. 101–591][/us/pl/101/591] amended section generally, substituting provisions relating to establishment of Coastal Barrier Resources System consisting of undeveloped coastal barriers and other areas on United States coasts identified on maps entitled “Coastal Barrier Resources System” dated Oct. 24, 1990, as maintained and revised by the Secretary, for provisions which related to Coastal Barrier Resources System consisting of undeveloped coastal barriers on the Atlantic and Gulf Coasts of the United States and included within the System on Apr. 19, 1983, and undeveloped coastal barriers along Great Lakes shore areas to be recommended by the Secretary and so designated by Congress, with maps to be revised by the Secretary and maintained by Office of Director of United States Fish and Wildlife Service.
 
@@ -291,7 +291,7 @@
 
  __Digital Mapping Pilot Project__ 
 
-[Pub. L. 106–514, § 6][/us/pl/106/514/s6], Nov. 13, 2000, [114 Stat. 2396][/us/stat/114/2396], provided that:
+[Pub. L. 106–514][/us/pl/106/514], § 6, Nov. 13, 2000, [114 Stat. 2396][/us/stat/114/2396], provided that:
 
 >     “(a) __In General.—__ 
 
@@ -355,7 +355,7 @@
 
  __Findings__ 
 
-[Pub. L. 106–167, § 2][/us/pl/106/167/s2], Dec. 9, 1999, [113 Stat. 1803][/us/stat/113/1803], provided that: 
+[Pub. L. 106–167][/us/pl/106/167], § 2, Dec. 9, 1999, [113 Stat. 1803][/us/stat/113/1803], provided that: 
 
 > “Congress finds that—
 
@@ -373,7 +373,7 @@
 
  __Redesignation of Coastal Barrier Resources System__ 
 
-[Pub. L. 106–167, § 3(a)][/us/pl/106/167/s3/a], (b), Dec. 9, 1999, [113 Stat. 1804][/us/stat/113/1804], provided that:
+[Pub. L. 106–167][/us/pl/106/167], § 3(a), (b), Dec. 9, 1999, [113 Stat. 1804][/us/stat/113/1804], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -387,45 +387,47 @@
 
 The following acts directed the Secretary of the Interior to make technical revisions and corrections to maps relating to particular units of the John H. Chafee Coastal Barrier Resources System:
 
+    [Pub. L. 114–128][/us/pl/114/128], § 1, Feb. 29, 2016, [130 Stat. 287][/us/stat/130/287].
+
     [Pub. L. 113–253][/us/pl/113/253], Dec. 18, 2014, [128 Stat. 2895][/us/stat/128/2895].
 
-    [Pub. L. 110–419, § 1][/us/pl/110/419/s1], Oct. 15, 2008, [122 Stat. 4773][/us/stat/122/4773].
+    [Pub. L. 110–419][/us/pl/110/419], § 1, Oct. 15, 2008, [122 Stat. 4773][/us/stat/122/4773].
 
-    [Pub. L. 109–355, § 1][/us/pl/109/355/s1], Oct. 16, 2006, [120 Stat. 2018][/us/stat/120/2018].
+    [Pub. L. 109–355][/us/pl/109/355], § 1, Oct. 16, 2006, [120 Stat. 2018][/us/stat/120/2018].
 
-    [Pub. L. 109–354, § 1][/us/pl/109/354/s1], Oct. 16, 2006, [120 Stat. 2017][/us/stat/120/2017].
+    [Pub. L. 109–354][/us/pl/109/354], § 1, Oct. 16, 2006, [120 Stat. 2017][/us/stat/120/2017].
 
-    [Pub. L. 108–380, § 1][/us/pl/108/380/s1], Oct. 30, 2004, [118 Stat. 2210][/us/stat/118/2210].
+    [Pub. L. 108–380][/us/pl/108/380], § 1, Oct. 30, 2004, [118 Stat. 2210][/us/stat/118/2210].
 
-    [Pub. L. 108–339, § 1][/us/pl/108/339/s1], Oct. 18, 2004, [118 Stat. 1361][/us/stat/118/1361].
+    [Pub. L. 108–339][/us/pl/108/339], § 1, Oct. 18, 2004, [118 Stat. 1361][/us/stat/118/1361].
 
-    [Pub. L. 108–138, § 1][/us/pl/108/138/s1], Dec. 1, 2003, [117 Stat. 1869][/us/stat/117/1869].
+    [Pub. L. 108–138][/us/pl/108/138], § 1, Dec. 1, 2003, [117 Stat. 1869][/us/stat/117/1869].
 
-    [Pub. L. 108–7, div. F, title I, § 155][/us/pl/108/7/s155], Feb. 20, 2003, [117 Stat. 246][/us/stat/117/246].
+    [Pub. L. 108–7, div. F, title I][/us/pl/108/7/dF/tI], § 155, Feb. 20, 2003, [117 Stat. 246][/us/stat/117/246].
 
-    [Pub. L. 106–360, § 1][/us/pl/106/360/s1], Oct. 27, 2000, [114 Stat. 1399][/us/stat/114/1399].
+    [Pub. L. 106–360][/us/pl/106/360], § 1, Oct. 27, 2000, [114 Stat. 1399][/us/stat/114/1399].
 
     [Pub. L. 106–332][/us/pl/106/332], Oct. 19, 2000, [114 Stat. 1306][/us/stat/114/1306].
 
-    [Pub. L. 106–128, § 1][/us/pl/106/128/s1], Dec. 6, 1999, [113 Stat. 1652][/us/stat/113/1652].
+    [Pub. L. 106–128][/us/pl/106/128], § 1, Dec. 6, 1999, [113 Stat. 1652][/us/stat/113/1652].
 
-    [Pub. L. 106–116, § 1][/us/pl/106/116/s1], Nov. 29, 1999, [113 Stat. 1544][/us/stat/113/1544].
+    [Pub. L. 106–116][/us/pl/106/116], § 1, Nov. 29, 1999, [113 Stat. 1544][/us/stat/113/1544].
 
-    [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title I, title I, § 134, title III, § 335\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–238, 2681–264, 2681–295.
+    [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title I, title I, § 134, title III, § 335\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–238, 2681–264, 2681–295.
 
-    [Pub. L. 104–333, div. I, title II, § 220][/us/pl/104/333/s220], Nov. 12, 1996, [110 Stat. 4115][/us/stat/110/4115].
+    [Pub. L. 104–333, div. I, title II][/us/pl/104/333/dI/tII], § 220, Nov. 12, 1996, [110 Stat. 4115][/us/stat/110/4115].
 
-    [Pub. L. 104–265, title II, § 201][/us/pl/104/265/s201], Oct. 9, 1996, [110 Stat. 3289][/us/stat/110/3289].
+    [Pub. L. 104–265, title II][/us/pl/104/265/tII], § 201, Oct. 9, 1996, [110 Stat. 3289][/us/stat/110/3289].
 
-    [Pub. L. 104–148, § 2][/us/pl/104/148/s2], May 24, 1996, [110 Stat. 1378][/us/stat/110/1378].
+    [Pub. L. 104–148][/us/pl/104/148], § 2, May 24, 1996, [110 Stat. 1378][/us/stat/110/1378].
 
-    [Pub. L. 103–461, § 1(a)][/us/pl/103/461/s1/a], (b), Nov. 2, 1994, [108 Stat. 4804][/us/stat/108/4804].
+    [Pub. L. 103–461][/us/pl/103/461], § 1(a), (b), Nov. 2, 1994, [108 Stat. 4804][/us/stat/108/4804].
 
-    [Pub. L. 102–440, title III, § 303][/us/pl/102/440/s303], Oct. 23, 1992, [106 Stat. 2234][/us/stat/106/2234].
+    [Pub. L. 102–440, title III][/us/pl/102/440/tIII], § 303, Oct. 23, 1992, [106 Stat. 2234][/us/stat/106/2234].
 
  __Correction of Errors in Maps; Modification of Boundaries; Additions to System__ 
 
-[Pub. L. 101–591, § 4][/us/pl/101/591/s4], Nov. 16, 1990, [104 Stat. 2932][/us/stat/104/2932], as amended by [Pub. L. 106–514, § 3(b)(1)(A)][/us/pl/106/514/s3/b/1/A], (2), Nov. 13, 2000, [114 Stat. 2395][/us/stat/114/2395], provided that:
+[Pub. L. 101–591][/us/pl/101/591], § 4, Nov. 16, 1990, [104 Stat. 2932][/us/stat/104/2932], as amended by [Pub. L. 106–514][/us/pl/106/514], § 3(b)(1)(A), (2), Nov. 13, 2000, [114 Stat. 2395][/us/stat/114/2395], provided that:
 
 >     “(a)  __Technical Revision of Maps and Provision to State and Local Government__  __.—__ 
 
@@ -525,11 +527,11 @@ The following acts directed the Secretary of the Interior to make technical revi
 
  __Report Regarding Coastal Barrier Management__ 
 
-    [Pub. L. 101–591, § 8][/us/pl/101/591/s8], Nov. 16, 1990, [104 Stat. 2937][/us/stat/104/2937], which established the Coastal Barriers Task Force, provided for its membership, required the Task Force to submit a report to Congress regarding the Coastal Barrier Resources System not later than the expiration of the 2-year period beginning on Nov. 16, 1990, and required the Task Force to terminate 90 days after submission of the report, was repealed by [Pub. L. 106–514, § 4(b)][/us/pl/106/514/s4/b], Nov. 13, 2000, [114 Stat. 2396][/us/stat/114/2396].
+    [Pub. L. 101–591][/us/pl/101/591], § 8, Nov. 16, 1990, [104 Stat. 2937][/us/stat/104/2937], which established the Coastal Barriers Task Force, provided for its membership, required the Task Force to submit a report to Congress regarding the Coastal Barrier Resources System not later than the expiration of the 2-year period beginning on Nov. 16, 1990, and required the Task Force to terminate 90 days after submission of the report, was repealed by [Pub. L. 106–514][/us/pl/106/514], § 4(b), Nov. 13, 2000, [114 Stat. 2396][/us/stat/114/2396].
 
  __Definitions__ 
 
-[Pub. L. 101–591, § 12][/us/pl/101/591/s12], Nov. 16, 1990, [104 Stat. 2940][/us/stat/104/2940], as amended by [Pub. L. 106–167, § 3(c)(6)][/us/pl/106/167/s3/c/6], Dec. 9, 1999, [113 Stat. 1804][/us/stat/113/1804], provided that: 
+[Pub. L. 101–591][/us/pl/101/591], § 12, Nov. 16, 1990, [104 Stat. 2940][/us/stat/104/2940], as amended by [Pub. L. 106–167][/us/pl/106/167], § 3(c)(6), Dec. 9, 1999, [113 Stat. 1804][/us/stat/113/1804], provided that: 
 
 > “For purposes of this Act \[see Short Title of 1990 Amendment note set out under [section 3501 of this title][/us/usc/t16/s3501]\]—
 
@@ -566,34 +568,34 @@ The following acts directed the Secretary of the Interior to make technical revi
 
 [/us/usc/t16/s3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3503
 [/us/pl/101/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591
-[/us/pl/97/348/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F348%2Fs4
+[/us/pl/97/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F348
 [/us/stat/96/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1654
-[/us/pl/97/396/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F396%2Fs8
+[/us/pl/97/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F396
 [/us/stat/96/2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2007
-[/us/pl/100/707/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs204%2Fb
+[/us/pl/100/707/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtII
 [/us/stat/102/4713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4713
-[/us/pl/101/591/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591%2Fs3
+[/us/pl/101/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591
 [/us/stat/104/2931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2931
-[/us/pl/106/167/s3/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F167%2Fs3%2Fc%2F3
+[/us/pl/106/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F167
 [/us/stat/113/1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1804
 [/us/pl/106/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F514
 [/us/stat/114/2394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2394
 [/us/pl/101/591/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591%2Fs4%2Fd
 [/us/pl/106/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F514
-[/us/pl/101/591/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591%2Fs4%2Fd
+[/us/pl/101/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591
 [/us/stat/104/2933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2933
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/pl/106/514/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F514%2Fs3%2Fd
-[/us/pl/106/514/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F514%2Fs3%2Fa
-[/us/pl/106/514/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F514%2Fs3%2Fb%2F1
+[/us/pl/106/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F514
+[/us/pl/106/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F514
+[/us/pl/106/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F514
 [/us/pl/101/591/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591%2Fs4%2Fd
-[/us/pl/106/514/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F514%2Fs3%2Fc
-[/us/pl/106/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F514%2Fs2
-[/us/pl/106/167/s3/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F167%2Fs3%2Fc%2F3%2FA
-[/us/pl/106/167/s3/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F167%2Fs3%2Fc%2F3%2FB
+[/us/pl/106/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F514
+[/us/pl/106/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F514
+[/us/pl/106/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F167
+[/us/pl/106/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F167
 [/us/pl/101/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591
 [/us/pl/100/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707
 [/us/pl/97/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F396
@@ -611,57 +613,59 @@ The following acts directed the Secretary of the Interior to make technical revi
 [/us/usc/t16/s3503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3503%2Fa
 [/us/usc/t43/s1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1457
 [/us/usc/t16/s3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3510
-[/us/pl/106/514/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F514%2Fs6
+[/us/pl/106/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F514
 [/us/stat/114/2396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2396
 [/us/usc/t16/s3503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3503%2Fa
 [/us/usc/t16/s3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3503
 [/us/pl/101/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591
 [/us/usc/t43/s1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1457
-[/us/pl/106/167/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F167%2Fs2
+[/us/pl/106/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F167
 [/us/stat/113/1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1803
 [/us/usc/t16/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3501
-[/us/pl/106/167/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F167%2Fs3%2Fa
+[/us/pl/106/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F167
 [/us/stat/113/1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1804
 [/us/usc/t16/s3503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3503%2Fa
+[/us/pl/114/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F128
+[/us/stat/130/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F287
 [/us/pl/113/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F253
 [/us/stat/128/2895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2895
-[/us/pl/110/419/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F419%2Fs1
+[/us/pl/110/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F419
 [/us/stat/122/4773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4773
-[/us/pl/109/355/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F355%2Fs1
+[/us/pl/109/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F355
 [/us/stat/120/2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2018
-[/us/pl/109/354/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F354%2Fs1
+[/us/pl/109/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F354
 [/us/stat/120/2017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2017
-[/us/pl/108/380/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F380%2Fs1
+[/us/pl/108/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F380
 [/us/stat/118/2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2210
-[/us/pl/108/339/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F339%2Fs1
+[/us/pl/108/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F339
 [/us/stat/118/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1361
-[/us/pl/108/138/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F138%2Fs1
+[/us/pl/108/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F138
 [/us/stat/117/1869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1869
-[/us/pl/108/7/s155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs155
+[/us/pl/108/7/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtI
 [/us/stat/117/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F246
-[/us/pl/106/360/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F360%2Fs1
+[/us/pl/106/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F360
 [/us/stat/114/1399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1399
 [/us/pl/106/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F332
 [/us/stat/114/1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1306
-[/us/pl/106/128/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F128%2Fs1
+[/us/pl/106/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F128
 [/us/stat/113/1652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1652
-[/us/pl/106/116/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F116%2Fs1
+[/us/pl/106/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F116
 [/us/stat/113/1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1544
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
-[/us/pl/104/333/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs220
+[/us/pl/104/333/dI/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtII
 [/us/stat/110/4115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4115
-[/us/pl/104/265/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F265%2Fs201
+[/us/pl/104/265/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F265%2FtII
 [/us/stat/110/3289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3289
-[/us/pl/104/148/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F148%2Fs2
+[/us/pl/104/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F148
 [/us/stat/110/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1378
-[/us/pl/103/461/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F461%2Fs1%2Fa
+[/us/pl/103/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F461
 [/us/stat/108/4804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4804
-[/us/pl/102/440/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2Fs303
+[/us/pl/102/440/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2FtIII
 [/us/stat/106/2234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2234
-[/us/pl/101/591/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591%2Fs4
+[/us/pl/101/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591
 [/us/stat/104/2932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2932
-[/us/pl/106/514/s3/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F514%2Fs3%2Fb%2F1%2FA
+[/us/pl/106/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F514
 [/us/stat/114/2395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2395
 [/us/usc/t16/s3503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3503%2Fa
 [/us/usc/t16/s1455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1455
@@ -672,13 +676,13 @@ The following acts directed the Secretary of the Interior to make technical revi
 [/us/usc/t16/s3503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3503%2Fa
 [/us/pl/101/591/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591%2Fs6
 [/us/usc/t16/s3502/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3502%2F1
-[/us/pl/101/591/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591%2Fs8
+[/us/pl/101/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591
 [/us/stat/104/2937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2937
-[/us/pl/106/514/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F514%2Fs4%2Fb
+[/us/pl/106/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F514
 [/us/stat/114/2396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2396
-[/us/pl/101/591/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591%2Fs12
+[/us/pl/101/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591
 [/us/stat/104/2940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2940
-[/us/pl/106/167/s3/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F167%2Fs3%2Fc%2F6
+[/us/pl/106/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F167
 [/us/stat/113/1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1804
 [/us/usc/t16/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3501
 [/us/usc/t26/s170/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs170%2Fh%2F3

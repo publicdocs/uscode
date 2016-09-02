@@ -21,7 +21,7 @@
 
     (2) to provide financial resources for those programs.
 
-([Pub. L. 100–478, title II, § 2004][/us/pl/100/478/s2004], Oct. 7, 1988, [102 Stat. 2316][/us/stat/102/2316].)
+([Pub. L. 100–478, title II][/us/pl/100/478/tII], § 2004, Oct. 7, 1988, [102 Stat. 2316][/us/stat/102/2316].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/100/478/s2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2Fs2004
+[/us/pl/100/478/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2FtII
 [/us/stat/102/2316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2316
 
 

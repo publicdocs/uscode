@@ -93,7 +93,7 @@
 
         (3) The provisions of this subsection shall become effective on October 1, 1976.
 
-([Pub. L. 94–588, § 14][/us/pl/94/588/s14], Oct. 22, 1976, [90 Stat. 2958][/us/stat/90/2958]; [Pub. L. 95–233][/us/pl/95/233], Feb. 20, 1978, [92 Stat. 32][/us/stat/92/32]; [Pub. L. 101–626, title I, § 105(a)][/us/pl/101/626/s105/a], Nov. 28, 1990, [104 Stat. 4427][/us/stat/104/4427]; [Pub. L. 113–79, title VIII, § 8303][/us/pl/113/79/s8303], Feb. 7, 2014, [128 Stat. 924][/us/stat/128/924].)
+([Pub. L. 94–588][/us/pl/94/588], § 14, Oct. 22, 1976, [90 Stat. 2958][/us/stat/90/2958]; [Pub. L. 95–233][/us/pl/95/233], Feb. 20, 1978, [92 Stat. 32][/us/stat/92/32]; [Pub. L. 101–626, title I][/us/pl/101/626/tI], § 105(a), Nov. 28, 1990, [104 Stat. 4427][/us/stat/104/4427]; [Pub. L. 113–79, title VIII][/us/pl/113/79/tVIII], § 8303, Feb. 7, 2014, [128 Stat. 924][/us/stat/128/924].)
 
  __References in Text__ 
 
@@ -103,7 +103,7 @@
 
     This Act, referred to in subsec. (e)(1)(D), is [Pub. L. 94–588][/us/pl/94/588], Oct. 22, 1976, [90 Stat. 2949][/us/stat/90/2949], as amended, known as the National Forest Management Act of 1976. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 1600 of this title][/us/usc/t16/s1600] and Tables.
 
-    The Small Business Act, referred to in subsec. (i)(1), is [Pub. L. 85–536, § 2][/us/pl/85/536/s2](1 et seq.), July 18, 1958, [72 Stat. 384][/us/stat/72/384], which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15][/us/usc/t15/s631] and Tables.
+    The Small Business Act, referred to in subsec. (i)(1), is [Pub. L. 85–536][/us/pl/85/536], § 2(1 et seq.), July 18, 1958, [72 Stat. 384][/us/stat/72/384], which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15][/us/usc/t15/s631] and Tables.
 
  __Amendments__ 
 
@@ -119,7 +119,7 @@
 
  __Qualifying Timber Contract Options__ 
 
-[Pub. L. 110–234, title VIII, § 8401][/us/pl/110/234/s8401], May 22, 2008, [122 Stat. 1300][/us/stat/122/1300], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VIII, § 8401, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2061, provided that:
+[Pub. L. 110–234, title VIII][/us/pl/110/234/tVIII], § 8401, May 22, 2008, [122 Stat. 1300][/us/stat/122/1300], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VIII, § 8401, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2061, provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -245,7 +245,7 @@
 
  __Use of Receipts From Timber Sales for Road Construction__ 
 
-[Pub. L. 99–500, § 101(h)][/us/pl/99/500/s101/h] \[title II\], Oct. 18, 1986, [100 Stat. 1783–242][/us/stat/100/1783-242], 1783–271, and [Pub. L. 99–591, § 101(h)][/us/pl/99/591/s101/h] \[title II\], Oct. 30, 1986, [100 Stat. 3341–242][/us/stat/100/3341-242], 3341–271, provided that: 
+[Pub. L. 99–500][/us/pl/99/500], § 101(h) \[title II\], Oct. 18, 1986, [100 Stat. 1783–242][/us/stat/100/1783-242], 1783–271, and [Pub. L. 99–591][/us/pl/99/591], § 101(h) \[title II\], Oct. 30, 1986, [100 Stat. 3341–242][/us/stat/100/3341-242], 3341–271, provided that: 
 
 > “Notwithstanding any other provision of law, the Secretary of Agriculture is hereafter authorized to use from any receipts from the sale of timber a sum equal to the cost of construction of roads under the purchaser election program as described and authorized in section 14(i) of the National Forest Management Act of 1976 \[[16 U.S.C. 472a(i)][/us/usc/t16/s472a/i]\].”
 
@@ -263,13 +263,13 @@
 [/us/usc/t16/s1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1604
 [/us/usc/t16/s528–531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs528%E2%80%93531
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/94/588/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588%2Fs14
+[/us/pl/94/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588
 [/us/stat/90/2958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2958
 [/us/pl/95/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F233
 [/us/stat/92/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F32
-[/us/pl/101/626/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F626%2Fs105%2Fa
+[/us/pl/101/626/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F626%2FtI
 [/us/stat/104/4427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4427
-[/us/pl/113/79/s8303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8303
+[/us/pl/113/79/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVIII
 [/us/stat/128/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F924
 [/us/pl/86/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F517
 [/us/stat/74/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F215
@@ -280,7 +280,7 @@
 [/us/pl/94/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588
 [/us/stat/90/2949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2949
 [/us/usc/t16/s1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1600
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/stat/72/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F384
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
@@ -290,18 +290,18 @@
 [/us/pl/101/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F626
 [/us/pl/101/626/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F626%2Fs105%2Fc
 [/us/usc/t16/s539d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs539d
-[/us/pl/110/234/s8401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs8401
+[/us/pl/110/234/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVIII
 [/us/stat/122/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1300
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/99/500/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fh
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-242
-[/us/pl/99/591/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fh
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-242
 [/us/usc/t16/s472a/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs472a%2Fi
 

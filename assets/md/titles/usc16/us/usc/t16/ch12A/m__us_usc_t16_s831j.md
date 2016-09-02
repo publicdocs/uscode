@@ -17,7 +17,7 @@
 
     It is declared to be the policy of the Government so far as practical to distribute and sell the surplus power generated at Muscle Shoals equitably among the States, counties, and municipalities within transmission distance. This policy is further declared to be that the projects herein provided for shall be considered primarily as for the benefit of the people of the section as a whole and particularly the domestic and rural consumers to whom the power can economically be made available, and accordingly that sale to and use by industry shall be a secondary purpose, to be utilized principally to secure a sufficiently high load factor and revenue returns which will permit domestic and rural use at the lowest possible rates and in such manner as to encourage increased domestic and rural use of electricity. It is further declared to be the policy of the Government to utilize the Muscle Shoals properties so far as may be necessary to improve, increase, and cheapen the production of fertilizer and fertilizer ingredients by carrying out the provisions of this chapter.
 
-([May 18, 1933, ch. 32, § 11][/us/act/1933-05-18/ch32/s11], [48 Stat. 64][/us/stat/48/64].)
+([May 18, 1933, ch. 32][/us/act/1933-05-18/ch32], § 11, [48 Stat. 64][/us/stat/48/64].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1933-05-18/ch32/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32%2Fs11
+[/us/act/1933-05-18/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32
 [/us/stat/48/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F64
 
 

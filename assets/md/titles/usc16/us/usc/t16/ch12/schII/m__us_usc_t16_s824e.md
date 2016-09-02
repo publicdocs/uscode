@@ -59,41 +59,41 @@
 
             (C) In the case of any Federal power marketing agency or the Tennessee Valley Authority, the Commission shall not assert or exercise any regulatory authority or power under paragraph (2) other than the ordering of refunds to achieve a just and reasonable rate.
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 206, as added [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, § 213, [49 Stat. 852][/us/stat/49/852]; amended [Pub. L. 100–473, § 2][/us/pl/100/473/s2], Oct. 6, 1988, [102 Stat. 2299][/us/stat/102/2299]; [Pub. L. 109–58, title XII][/us/pl/109/58], §§ 1285, 1286, 1295(b), Aug. 8, 2005, [119 Stat. 980][/us/stat/119/980], 981, 985.)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 206, as added [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, § 213, [49 Stat. 852][/us/stat/49/852]; amended [Pub. L. 100–473][/us/pl/100/473], § 2, Oct. 6, 1988, [102 Stat. 2299][/us/stat/102/2299]; [Pub. L. 109–58, title XII][/us/pl/109/58/tXII], §§ 1285, 1286, 1295(b), Aug. 8, 2005, [119 Stat. 980][/us/stat/119/980], 981, 985.)
 
  __References in Text__ 
 
-    The Public Utility Holding Company Act of 1935, referred to in subsec. (c), is title I of [act Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], [49 Stat. 803][/us/stat/49/803], as amended, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by [Pub. L. 109–58, title XII, § 1263][/us/pl/109/58/s1263], Aug. 8, 2005, [119 Stat. 974][/us/stat/119/974]. For complete classification of this Act to the Code, see Tables.
+    The Public Utility Holding Company Act of 1935, referred to in subsec. (c), is title I of [act Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], [49 Stat. 803][/us/stat/49/803], as amended, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by [Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1263, Aug. 8, 2005, [119 Stat. 974][/us/stat/119/974]. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
-    2005—Subsec. (a). [Pub. L. 109–58, § 1295(b)(1)][/us/pl/109/58/s1295/b/1], substituted “hearing held” for “hearing had” in first sentence.
+    2005—Subsec. (a). [Pub. L. 109–58][/us/pl/109/58], § 1295(b)(1), substituted “hearing held” for “hearing had” in first sentence.
 
-    Subsec. (b). [Pub. L. 109–58, § 1295(b)(2)][/us/pl/109/58/s1295/b/2], struck out “the public utility to make” before “refunds of any amounts paid” in seventh sentence.
+    Subsec. (b). [Pub. L. 109–58][/us/pl/109/58], § 1295(b)(2), struck out “the public utility to make” before “refunds of any amounts paid” in seventh sentence.
 
-    [Pub. L. 109–58, § 1285][/us/pl/109/58/s1285], in second sentence, substituted “the date of the filing of such complaint nor later than 5 months after the filing of such complaint” for “the date 60 days after the filing of such complaint nor later than 5 months after the expiration of such 60-day period”, in third sentence, substituted “the date of the publication” for “the date 60 days after the publication” and “5 months after the publication date” for “5 months after the expiration of such 60-day period”, and in fifth sentence, substituted “If no final decision is rendered by the conclusion of the 180-day period commencing upon initiation of a proceeding pursuant to this section, the Commission shall state the reasons why it has failed to do so and shall state its best estimate as to when it reasonably expects to make such decision” for “If no final decision is rendered by the refund effective date or by the conclusion of the 180-day period commencing upon initiation of a proceeding pursuant to this section, whichever is earlier, the Commission shall state the reasons why it has failed to do so and shall state its best estimate as to when it reasonably expects to make such decision”.
+    [Pub. L. 109–58][/us/pl/109/58], § 1285, in second sentence, substituted “the date of the filing of such complaint nor later than 5 months after the filing of such complaint” for “the date 60 days after the filing of such complaint nor later than 5 months after the expiration of such 60-day period”, in third sentence, substituted “the date of the publication” for “the date 60 days after the publication” and “5 months after the publication date” for “5 months after the expiration of such 60-day period”, and in fifth sentence, substituted “If no final decision is rendered by the conclusion of the 180-day period commencing upon initiation of a proceeding pursuant to this section, the Commission shall state the reasons why it has failed to do so and shall state its best estimate as to when it reasonably expects to make such decision” for “If no final decision is rendered by the refund effective date or by the conclusion of the 180-day period commencing upon initiation of a proceeding pursuant to this section, whichever is earlier, the Commission shall state the reasons why it has failed to do so and shall state its best estimate as to when it reasonably expects to make such decision”.
 
-    Subsec. (e). [Pub. L. 109–58, § 1286][/us/pl/109/58/s1286], added subsec. (e).
+    Subsec. (e). [Pub. L. 109–58][/us/pl/109/58], § 1286, added subsec. (e).
 
-    1988—Subsec. (a). [Pub. L. 100–473, § 2(1)][/us/pl/100/473/s2/1], inserted provisions for a statement of reasons for listed changes, hearings, and specification of issues.
+    1988—Subsec. (a). [Pub. L. 100–473][/us/pl/100/473], § 2(1), inserted provisions for a statement of reasons for listed changes, hearings, and specification of issues.
 
-    Subsecs. (b) to (d). [Pub. L. 100–473, § 2(2)][/us/pl/100/473/s2/2], added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
+    Subsecs. (b) to (d). [Pub. L. 100–473][/us/pl/100/473], § 2(2), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–473, § 4][/us/pl/100/473/s4], Oct. 6, 1988, [102 Stat. 2300][/us/stat/102/2300], provided that: 
+[Pub. L. 100–473][/us/pl/100/473], § 4, Oct. 6, 1988, [102 Stat. 2300][/us/stat/102/2300], provided that: 
 
 > “The amendments made by this Act \[amending this section\] are not applicable to complaints filed or motions initiated before the date of enactment of this Act \[Oct. 6, 1988\] pursuant to section 206 of the Federal Power Act \[this section\]: Provided, however, That such complaints may be withdrawn and refiled without prejudice.”
 
  __Limitation on Authority Provided__ 
 
-[Pub. L. 100–473, § 3][/us/pl/100/473/s3], Oct. 6, 1988, [102 Stat. 2300][/us/stat/102/2300], provided that: 
+[Pub. L. 100–473][/us/pl/100/473], § 3, Oct. 6, 1988, [102 Stat. 2300][/us/stat/102/2300], provided that: 
 
 > “Nothing in subsection (c) of section 206 of the Federal Power Act, as amended ([16 U.S.C. 824e(c)][/us/usc/t16/s824e/c]) shall be interpreted to confer upon the Federal Energy Regulatory Commission any authority not granted to it elsewhere in such Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\] to issue an order that (1) requires a decrease in system production or transmission costs to be paid by one or more electric utility companies of a registered holding company; and (2) is based upon a determination that the amount of such decrease should be paid through an increase in the costs to be paid by other electric utility companies of such registered holding company. For purposes of this section, the terms ‘electric utility companies’ and ‘registered holding company’ shall have the same meanings as provided in the Public Utility Holding Company Act of 1935, as amended \[[15 U.S.C. 79][/us/usc/t15/s79] et seq.\].”
 
  __Study__ 
 
-    [Pub. L. 100–473, § 5][/us/pl/100/473/s5], Oct. 6, 1988, [102 Stat. 2301][/us/stat/102/2301], directed that, no earlier than three years and no later than four years after Oct. 6, 1988, Federal Energy Regulatory Commission perform a study of effect of amendments to this section, analyzing (1) impact, if any, of such amendments on cost of capital paid by public utilities, (2) any change in average time taken to resolve proceedings under this section, and (3) such other matters as Commission may deem appropriate in public interest, with study to be sent to Committee on Energy and Natural Resources of Senate and Committee on Energy and Commerce of House of Representatives.
+    [Pub. L. 100–473][/us/pl/100/473], § 5, Oct. 6, 1988, [102 Stat. 2301][/us/stat/102/2301], directed that, no earlier than three years and no later than four years after Oct. 6, 1988, Federal Energy Regulatory Commission perform a study of effect of amendments to this section, analyzing (1) impact, if any, of such amendments on cost of capital paid by public utilities, (2) any change in average time taken to resolve proceedings under this section, and (3) such other matters as Commission may deem appropriate in public interest, with study to be sent to Committee on Energy and Natural Resources of Senate and Committee on Energy and Commerce of House of Representatives.
 
 ----------
 
@@ -107,28 +107,28 @@
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
 [/us/act/1935-08-26/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-26%2Fch687
 [/us/stat/49/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F852
-[/us/pl/100/473/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F473%2Fs2
+[/us/pl/100/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F473
 [/us/stat/102/2299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2299
-[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F980
 [/us/act/1935-08-26/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-26%2Fch687
 [/us/stat/49/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F803
-[/us/pl/109/58/s1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1263
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F974
-[/us/pl/109/58/s1295/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1295%2Fb%2F1
-[/us/pl/109/58/s1295/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1295%2Fb%2F2
-[/us/pl/109/58/s1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1285
-[/us/pl/109/58/s1286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1286
-[/us/pl/100/473/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F473%2Fs2%2F1
-[/us/pl/100/473/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F473%2Fs2%2F2
-[/us/pl/100/473/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F473%2Fs4
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/100/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F473
+[/us/pl/100/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F473
+[/us/pl/100/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F473
 [/us/stat/102/2300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2300
-[/us/pl/100/473/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F473%2Fs3
+[/us/pl/100/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F473
 [/us/stat/102/2300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2300
 [/us/usc/t16/s824e/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824e%2Fc
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/usc/t15/s79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs79
-[/us/pl/100/473/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F473%2Fs5
+[/us/pl/100/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F473
 [/us/stat/102/2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2301
 
 

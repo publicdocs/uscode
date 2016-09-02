@@ -17,7 +17,7 @@
 
     Effective October 1, 1981, there is hereby authorized to be appropriated such funds as may be necessary to carry out the purposes of this subchapter.
 
-([Pub. L. 96–476, § 6][/us/pl/96/476/s6], Oct. 19, 1980, [94 Stat. 2274][/us/stat/94/2274].)
+([Pub. L. 96–476][/us/pl/96/476], § 6, Oct. 19, 1980, [94 Stat. 2274][/us/stat/94/2274].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/476/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F476%2Fs6
+[/us/pl/96/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F476
 [/us/stat/94/2274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2274
 
 

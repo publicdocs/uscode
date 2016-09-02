@@ -105,15 +105,15 @@
 
         The term “Tier III conservation security contract” means a contract described in [section 3838a(d)(5)(C) of this title][/us/usc/t16/s3838a/d/5/C].
 
-([Pub. L. 99–198, title XII, § 1238][/us/pl/99/198/s1238], as added [Pub. L. 107–171, title II, § 2001(a)][/us/pl/107/171/s2001/a], May 13, 2002, [116 Stat. 223][/us/stat/116/223].)
+([Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1238, as added [Pub. L. 107–171, title II][/us/pl/107/171/tII], § 2001(a), May 13, 2002, [116 Stat. 223][/us/stat/116/223].)
 
  __Prior Provisions__ 
 
-    A prior section 3838, [Pub. L. 99–198, title XII, § 1238][/us/pl/99/198/s1238], as added [Pub. L. 101–624, title XIV, § 1439][/us/pl/101/624/s1439], Nov. 28, 1990, [104 Stat. 3590][/us/stat/104/3590], related to policy of Congress on water quality protection, prior to repeal by [Pub. L. 104–127, title III, § 336(h)][/us/pl/104/127/s336/h], Apr. 4, 1996, [110 Stat. 1007][/us/stat/110/1007].
+    A prior section 3838, [Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1238, as added [Pub. L. 101–624, title XIV][/us/pl/101/624/tXIV], § 1439, Nov. 28, 1990, [104 Stat. 3590][/us/stat/104/3590], related to policy of Congress on water quality protection, prior to repeal by [Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 336(h), Apr. 4, 1996, [110 Stat. 1007][/us/stat/110/1007].
 
  __Regulations__ 
 
-[Pub. L. 107–171, title II, § 2001(b)][/us/pl/107/171/s2001/b], May 13, 2002, [116 Stat. 233][/us/stat/116/233], provided that: 
+[Pub. L. 107–171, title II][/us/pl/107/171/tII], § 2001(b), May 13, 2002, [116 Stat. 233][/us/stat/116/233], provided that: 
 
 > “Not later than 270 days after the date of enactment of this Act \[May 13, 2002\], the Secretary of Agriculture shall promulgate regulations implementing the amendment made by subsection (a) \[enacting this subpart\].”
 
@@ -136,15 +136,15 @@
 [/us/usc/t16/s3838a/d/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3838a%2Fd%2F5%2FA
 [/us/usc/t16/s3838a/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3838a%2Fd%2F5%2FB
 [/us/usc/t16/s3838a/d/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3838a%2Fd%2F5%2FC
-[/us/pl/99/198/s1238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1238
-[/us/pl/107/171/s2001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2001%2Fa
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/107/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtII
 [/us/stat/116/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F223
-[/us/pl/99/198/s1238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1238
-[/us/pl/101/624/s1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1439
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/101/624/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIV
 [/us/stat/104/3590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3590
-[/us/pl/104/127/s336/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs336%2Fh
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1007
-[/us/pl/107/171/s2001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2001%2Fb
+[/us/pl/107/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtII
 [/us/stat/116/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F233
 
 

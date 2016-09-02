@@ -25,7 +25,7 @@
 
         (2) Not later than 1 year after October 31, 1994, the Secretary shall submit a report to the Committee on Energy and Natural Resources and the Committee on Indian Affairs of the United States Senate, and the Committee on Natural Resources of the United States House of Representatives on the results of the study conducted under paragraph (1).
 
-([Pub. L. 103–433, title VII, § 705][/us/pl/103/433/s705], Oct. 31, 1994, [108 Stat. 4498][/us/stat/108/4498].)
+([Pub. L. 103–433, title VII][/us/pl/103/433/tVII], § 705, Oct. 31, 1994, [108 Stat. 4498][/us/stat/108/4498].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 [/us/usc/t42/s1996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1996
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
-[/us/pl/103/433/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs705
+[/us/pl/103/433/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtVII
 [/us/stat/108/4498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4498
 [/us/usc/t16/s410aaa–81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410aaa%E2%80%9381
 [/us/pl/95/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F341

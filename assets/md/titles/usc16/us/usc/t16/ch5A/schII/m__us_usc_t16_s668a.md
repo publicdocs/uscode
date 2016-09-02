@@ -17,7 +17,7 @@
 
     Whenever, after investigation, the Secretary of the Interior shall determine that it is compatible with the preservation of the bald eagle or the golden eagle to permit the taking, possession, and transportation of specimens thereof for the scientific or exhibition purposes of public museums, scientific societies, and zoological parks, or for the religious purposes of Indian tribes, or that it is necessary to permit the taking of such eagles for the protection of wildlife or of agricultural or other interests in any particular locality, he may authorize the taking of such eagles pursuant to regulations which he is hereby authorized to prescribe: Provided, That on request of the Governor of any State, the Secretary of the Interior shall authorize the taking of golden eagles for the purpose of seasonally protecting domesticated flocks and herds in such State, in accordance with regulations established under the provisions of this section, in such part or parts of such State and for such periods as the Secretary determines to be necessary to protect such interests: Provided further, That bald eagles may not be taken for any purpose unless, prior to such taking, a permit to do so is procured from the Secretary of the Interior: Provided further, That the Secretary of the Interior, pursuant to such regulations as he may prescribe, may permit the taking, possession, and transportation of golden eagles for the purposes of falconry, except that only golden eagles which would be taken because of depredations on livestock or wildlife may be taken for purposes of falconry: Provided further, That the Secretary of the Interior, pursuant to such regulations as he may prescribe, may permit the taking of golden eagle nests which interfere with resource development or recovery operations.
 
-([June 8, 1940, ch. 278, § 2][/us/act/1940-06-08/ch278/s2], [54 Stat. 251][/us/stat/54/251]; [Pub. L. 87–884][/us/pl/87/884], Oct. 24, 1962, [76 Stat. 1246][/us/stat/76/1246]; [Pub. L. 92–535, § 2][/us/pl/92/535/s2], Oct. 23, 1972, [86 Stat. 1065][/us/stat/86/1065]; [Pub. L. 95–616, § 9][/us/pl/95/616/s9], Nov. 8, 1979, [92 Stat. 3114][/us/stat/92/3114].)
+([June 8, 1940, ch. 278][/us/act/1940-06-08/ch278], § 2, [54 Stat. 251][/us/stat/54/251]; [Pub. L. 87–884][/us/pl/87/884], Oct. 24, 1962, [76 Stat. 1246][/us/stat/76/1246]; [Pub. L. 92–535][/us/pl/92/535], § 2, Oct. 23, 1972, [86 Stat. 1065][/us/stat/86/1065]; [Pub. L. 95–616][/us/pl/95/616], § 9, Nov. 8, 1979, [92 Stat. 3114][/us/stat/92/3114].)
 
  __Amendments__ 
 
@@ -70,13 +70,13 @@ I support and encourage the initial steps taken by the Department of the Interio
 ----------
 ----------
 
-[/us/act/1940-06-08/ch278/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-08%2Fch278%2Fs2
+[/us/act/1940-06-08/ch278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-08%2Fch278
 [/us/stat/54/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F251
 [/us/pl/87/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F884
 [/us/stat/76/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1246
-[/us/pl/92/535/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F535%2Fs2
+[/us/pl/92/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F535
 [/us/stat/86/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1065
-[/us/pl/95/616/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616%2Fs9
+[/us/pl/95/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616
 [/us/stat/92/3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3114
 [/us/pl/95/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616
 [/us/pl/92/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F535

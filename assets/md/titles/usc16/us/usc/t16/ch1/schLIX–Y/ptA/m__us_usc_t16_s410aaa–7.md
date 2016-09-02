@@ -17,7 +17,7 @@
 
     In preparing the maps and legal descriptions required by [section 410aaa–3 of this title][/us/usc/t16/s410aaa–3] and section 602 of this Act, the Secretary shall adjust the boundaries of the Death Valley National Park and Death Valley National Park Wilderness so as to exclude from such National Park and Wilderness the lands generally depicted on the map entitled “Porter Mine (Panamint Range) Exclusion Area” dated June 1994.
 
-([Pub. L. 103–433, title III, § 308][/us/pl/103/433/s308], Oct. 31, 1994, [108 Stat. 4487][/us/stat/108/4487].)
+([Pub. L. 103–433, title III][/us/pl/103/433/tIII], § 308, Oct. 31, 1994, [108 Stat. 4487][/us/stat/108/4487].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t16/s410aaa–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410aaa%E2%80%933
-[/us/pl/103/433/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs308
+[/us/pl/103/433/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtIII
 [/us/stat/108/4487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4487
 [/us/pl/103/433/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs602
 [/us/stat/108/4496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4496

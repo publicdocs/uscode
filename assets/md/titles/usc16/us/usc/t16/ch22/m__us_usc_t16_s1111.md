@@ -17,7 +17,7 @@
 
     The Commission shall not be subject to Federal, State, or municipal taxation in the United States on any real or personal property held by it or on any gift, bequest, or devise to it of any personal or real property, or on its income, whether from governmental appropriations, admission fees, concessions, or donations.
 
-([Pub. L. 88–363, § 12][/us/pl/88/363/s12], July 7, 1964, [78 Stat. 301][/us/stat/78/301].)
+([Pub. L. 88–363][/us/pl/88/363], § 12, July 7, 1964, [78 Stat. 301][/us/stat/78/301].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/363/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F363%2Fs12
+[/us/pl/88/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F363
 [/us/stat/78/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F301
 
 

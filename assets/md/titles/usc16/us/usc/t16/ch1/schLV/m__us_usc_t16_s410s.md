@@ -23,7 +23,7 @@
 
         The park shall be comprised of the lands depicted on the map entitled “Boundary Map NARO–406–20015C”, dated June 1991.
 
-([Pub. L. 86–321, § 1][/us/pl/86/321/s1], Sept. 21, 1959, [73 Stat. 591][/us/stat/73/591]; [Pub. L. 91–548, § 1][/us/pl/91/548/s1], Dec. 14, 1970, [84 Stat. 1436][/us/stat/84/1436]; [Pub. L. 102–488, § 2][/us/pl/102/488/s2]\[(1)\], Oct. 24, 1992, [106 Stat. 3135][/us/stat/106/3135].)
+([Pub. L. 86–321][/us/pl/86/321], § 1, Sept. 21, 1959, [73 Stat. 591][/us/stat/73/591]; [Pub. L. 91–548][/us/pl/91/548], § 1, Dec. 14, 1970, [84 Stat. 1436][/us/stat/84/1436]; [Pub. L. 102–488][/us/pl/102/488], § 2\[(1)\], Oct. 24, 1992, [106 Stat. 3135][/us/stat/106/3135].)
 
  __Amendments__ 
 
@@ -37,7 +37,7 @@
 
  __Short Title of 1992 Amendment__ 
 
-[Pub. L. 102–488, § 1][/us/pl/102/488/s1], Oct. 24, 1992, [106 Stat. 3135][/us/stat/106/3135], provided that: 
+[Pub. L. 102–488][/us/pl/102/488], § 1, Oct. 24, 1992, [106 Stat. 3135][/us/stat/106/3135], provided that: 
 
 > “This Act \[enacting sections 410x–1 and 410x–2 of this title and amending this section and sections 410t and 410x of this title\] may be cited as the ‘Minute Man National Historical Park Amendments of 1991’.”
 
@@ -48,17 +48,17 @@
 ----------
 ----------
 
-[/us/pl/86/321/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F321%2Fs1
+[/us/pl/86/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F321
 [/us/stat/73/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F591
-[/us/pl/91/548/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F548%2Fs1
+[/us/pl/91/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F548
 [/us/stat/84/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1436
-[/us/pl/102/488/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F488%2Fs2
+[/us/pl/102/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F488
 [/us/stat/106/3135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3135
 [/us/pl/102/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F488
 [/us/pl/102/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F488
 [/us/pl/102/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F488
 [/us/pl/91/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F548
-[/us/pl/102/488/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F488%2Fs1
+[/us/pl/102/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F488
 [/us/stat/106/3135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3135
 
 

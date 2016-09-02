@@ -33,7 +33,7 @@
 
         As used in this section, the term “visitor service” means any service made available for a fee or charge to persons who visit a conservation system unit, including such services as providing food, accommodations, transportation, tours, and guides excepting the guiding of sport hunting and fishing. Nothing in this Act shall limit or affect the authority of the Federal Government or the State of Alaska to license and regulate transportation services.
 
-([Pub. L. 96–487, title XIII, § 1307][/us/pl/96/487/s1307], Dec. 2, 1980, [94 Stat. 2479][/us/stat/94/2479]; [Pub. L. 105–333, § 10][/us/pl/105/333/s10], Oct. 31, 1998, [112 Stat. 3134][/us/stat/112/3134].)
+([Pub. L. 96–487, title XIII][/us/pl/96/487/tXIII], § 1307, Dec. 2, 1980, [94 Stat. 2479][/us/stat/94/2479]; [Pub. L. 105–333][/us/pl/105/333], § 10, Oct. 31, 1998, [112 Stat. 3134][/us/stat/112/3134].)
 
  __References in Text__ 
 
@@ -54,9 +54,9 @@
 
 [/us/act/1976-01-02/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1976-01-02%2Fs12
 [/us/pl/94/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F204
-[/us/pl/96/487/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1307
+[/us/pl/96/487/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXIII
 [/us/stat/94/2479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2479
-[/us/pl/105/333/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F333%2Fs10
+[/us/pl/105/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F333
 [/us/stat/112/3134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3134
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371

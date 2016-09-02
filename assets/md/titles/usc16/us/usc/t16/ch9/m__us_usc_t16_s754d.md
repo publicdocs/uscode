@@ -17,7 +17,7 @@
 
     In fiscal year 2001 and thereafter and notwithstanding any other provision of law, the United States Fish and Wildlife Service shall establish and implement a fee schedule to permit a return to the Service for forensic laboratory services provided to non-Department of the Interior entities. Fees shall be collected as determined appropriate by the Director of the Fish and Wildlife Service and shall be credited to this appropriation and be available for expenditure without further appropriation until expended.
 
-([Pub. L. 106–291, title I, § 136][/us/pl/106/291/s136], Oct. 11, 2000, [114 Stat. 948][/us/stat/114/948].)
+([Pub. L. 106–291, title I][/us/pl/106/291/tI], § 136, Oct. 11, 2000, [114 Stat. 948][/us/stat/114/948].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/291/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2Fs136
+[/us/pl/106/291/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2FtI
 [/us/stat/114/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F948
 
 

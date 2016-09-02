@@ -17,17 +17,17 @@
 
     In order to preserve and commemorate for the people of the United States the area associated with the heroic suffering, hardship, and determination and resolve of General George Washington’s Continental Army during the winter of 1777–1778 at Valley Forge, the Secretary of the Interior (hereinafter referred to as the “Secretary”) is authorized to establish the Valley Forge National Historical Park (hereinafter referred to as the “park”), in the Commonwealth of Pennsylvania.
 
-([Pub. L. 94–337, § 1][/us/pl/94/337/s1], July 4, 1976, [90 Stat. 796][/us/stat/90/796].)
+([Pub. L. 94–337][/us/pl/94/337], § 1, July 4, 1976, [90 Stat. 796][/us/stat/90/796].)
 
  __Short Title of 1999 Amendment__ 
 
-[Pub. L. 106–86, § 1][/us/pl/106/86/s1], Oct. 31, 1999, [113 Stat. 1298][/us/stat/113/1298], provided that: 
+[Pub. L. 106–86][/us/pl/106/86], § 1, Oct. 31, 1999, [113 Stat. 1298][/us/stat/113/1298], provided that: 
 
 > “This Act \[enacting provisions set out as a note under this section\] may be cited as the ‘Pennsylvania Battlefields Protection Act of 1999’.”
 
  __Valley Forge National Historical Park__ 
 
-[Pub. L. 106–86, title II][/us/pl/106/86], Oct. 31, 1999, [113 Stat. 1299][/us/stat/113/1299], provided that:
+[Pub. L. 106–86, title II][/us/pl/106/86/tII], Oct. 31, 1999, [113 Stat. 1299][/us/stat/113/1299], provided that:
 
 > “SEC. 201. __PURPOSE.__ 
 
@@ -74,11 +74,11 @@
 ----------
 ----------
 
-[/us/pl/94/337/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F337%2Fs1
+[/us/pl/94/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F337
 [/us/stat/90/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F796
-[/us/pl/106/86/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F86%2Fs1
-[/us/stat/113/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1298
 [/us/pl/106/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F86
+[/us/stat/113/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1298
+[/us/pl/106/86/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F86%2FtII
 [/us/stat/113/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1299
 
 

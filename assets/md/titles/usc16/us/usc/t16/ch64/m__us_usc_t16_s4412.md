@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, only those personnel and administrative costs directly related to acquisition of real property shall be levied against the Migratory Bird Conservation Account. <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Fund”. See [section 718d of this title][/us/usc/t16/s718d]. </sup></sup> 
 
-([Pub. L. 101–233, § 14][/us/pl/101/233/s14], Dec. 13, 1989, [103 Stat. 1977][/us/stat/103/1977].)
+([Pub. L. 101–233][/us/pl/101/233], § 14, Dec. 13, 1989, [103 Stat. 1977][/us/stat/103/1977].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s718d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs718d
-[/us/pl/101/233/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F233%2Fs14
+[/us/pl/101/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F233
 [/us/stat/103/1977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1977
 
 

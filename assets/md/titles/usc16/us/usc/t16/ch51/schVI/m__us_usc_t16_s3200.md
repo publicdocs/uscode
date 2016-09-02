@@ -35,7 +35,7 @@
 
         The lands withdrawn under subsection (a) of this section shall remain withdrawn until such time as the Congress acts on the President’s recommendation, but not to exceed two years after the recommendation is transmitted to the Congress.
 
-([Pub. L. 96–487, title XIII, § 1311][/us/pl/96/487/s1311], Dec. 2, 1980, [94 Stat. 2481][/us/stat/94/2481].)
+([Pub. L. 96–487, title XIII][/us/pl/96/487/tXIII], § 1311, Dec. 2, 1980, [94 Stat. 2481][/us/stat/94/2481].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/96/487/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1311
+[/us/pl/96/487/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXIII
 [/us/stat/94/2481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2481
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 

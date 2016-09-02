@@ -45,7 +45,7 @@
 
         (2) foster communication, cooperation, and exchange of information between land managers, those who utilize caves, and the public.
 
-([Pub. L. 100–691, § 4][/us/pl/100/691/s4], Nov. 18, 1988, [102 Stat. 4547][/us/stat/102/4547].)
+([Pub. L. 100–691][/us/pl/100/691], § 4, Nov. 18, 1988, [102 Stat. 4547][/us/stat/102/4547].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/100/691/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F691%2Fs4
+[/us/pl/100/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F691
 [/us/stat/102/4547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4547
 
 

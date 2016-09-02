@@ -21,7 +21,7 @@
 
     (2) After the termination of the reserved rights of owners as set forth in subsection (1) hereof, a further reservation of the right to customary royalties, applying at the time of production, in any oil, gas, or other minerals which may be produced from such lands at any time before January 1, 1985, should production ever be authorized by the Federal Government or its assigns.
 
-([Oct. 10, 1949, ch. 659, § 1][/us/act/1949-10-10/ch659/s1], [63 Stat. 733][/us/stat/63/733].)
+([Oct. 10, 1949, ch. 659][/us/act/1949-10-10/ch659], § 1, [63 Stat. 733][/us/stat/63/733].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1949-10-10/ch659/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-10%2Fch659%2Fs1
+[/us/act/1949-10-10/ch659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-10%2Fch659
 [/us/stat/63/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F733
 
 

@@ -17,7 +17,7 @@
 
     All citizens of the United States and other persons, bona fide residents of the States of Colorado, Nevada, New Mexico, Arizona, Utah, Wyoming, North Dakota, South Dakota, Idaho, or Montana, and all other mineral districts of the United States, are authorized and permitted to fell and remove, for building, agricultural, mining, or other domestic purposes, any timber or other trees growing or being on the public lands, said lands being mineral, and not subject to entry under existing laws of the United States, except for mineral entry, in said States or districts of which such citizens or persons may be at the time bona fide residents, subject to such rules and regulations as the Secretary of the Interior may prescribe for the protection of the timber and of the undergrowth growing upon such lands, and for other purposes. It shall be lawful for the Secretary of the Interior to grant permits in accordance with the provisions of this section, to corporations incorporated under a Federal law of the United States or incorporated under the laws of a State or Territory of the United States, other than the State in which the privilege is requested. Such permits to confer the same rights and benefits upon such corporations as are conferred upon corporations incorporated in the State in which the privilege is to be exercised, but all such corporations shall first have complied with the laws of that State so as to entitle them to do business therein. The provisions of this section and sections 605 and 606 of this title shall not extend to railroad corporations.
 
-([June 3, 1878, ch. 150, § 1][/us/act/1878-06-03/ch150/s1], [20 Stat. 88][/us/stat/20/88]; [Jan. 11, 1921, ch. 22][/us/act/1921-01-11/ch22], [41 Stat. 1088][/us/stat/41/1088].)
+([June 3, 1878, ch. 150][/us/act/1878-06-03/ch150], § 1, [20 Stat. 88][/us/stat/20/88]; [Jan. 11, 1921, ch. 22][/us/act/1921-01-11/ch22], [41 Stat. 1088][/us/stat/41/1088].)
 
  __Codification__ 
 
@@ -44,7 +44,7 @@ As originally enacted that act began with the following language:
 ----------
 ----------
 
-[/us/act/1878-06-03/ch150/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1878-06-03%2Fch150%2Fs1
+[/us/act/1878-06-03/ch150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1878-06-03%2Fch150
 [/us/stat/20/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F20%2F88
 [/us/act/1921-01-11/ch22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-01-11%2Fch22
 [/us/stat/41/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1088

@@ -29,7 +29,7 @@
 
     (d) the Commission has not made good faith efforts to (1) provide for the preservation, restoration, management, development, or maintenance of property within the park and preservation district or (2) carry out the park preservation plan approved under [section 410cc–32 of this title][/us/usc/t16/s410cc–32].
 
-([Pub. L. 95–290, title II, § 204][/us/pl/95/290/s204], June 5, 1978, [92 Stat. 294][/us/stat/92/294].)
+([Pub. L. 95–290, title II][/us/pl/95/290/tII], § 204, June 5, 1978, [92 Stat. 294][/us/stat/92/294].)
 
 ----------
 
@@ -43,7 +43,7 @@
 [/us/usc/t16/s410cc–32/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410cc%E2%80%9332%2Fd
 [/us/usc/t16/s410cc–32/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410cc%E2%80%9332%2Fe
 [/us/usc/t16/s410cc–32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410cc%E2%80%9332
-[/us/pl/95/290/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F290%2Fs204
+[/us/pl/95/290/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F290%2FtII
 [/us/stat/92/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F294
 
 

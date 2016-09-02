@@ -55,7 +55,7 @@
 
         For purposes of this section, the term “underutilized species of the northwest Atlantic Ocean” means any fish species of the northwest Atlantic Ocean that is identified, by the Director of the Northeast Fisheries Center of the National Marine Fisheries Service, as an underutilized species.
 
-([Pub. L. 94–265, title III, § 314][/us/pl/94/265/s314], as added [Pub. L. 102–567, title IX, § 902(a)][/us/pl/102/567/s902/a], Oct. 29, 1992, [106 Stat. 4317][/us/stat/106/4317]; amended [Pub. L. 104–297, title I, § 117(b)][/us/pl/104/297/s117/b], Oct. 11, 1996, [110 Stat. 3604][/us/stat/110/3604].)
+([Pub. L. 94–265, title III][/us/pl/94/265/tIII], § 314, as added [Pub. L. 102–567, title IX][/us/pl/102/567/tIX], § 902(a), Oct. 29, 1992, [106 Stat. 4317][/us/stat/106/4317]; amended [Pub. L. 104–297, title I][/us/pl/104/297/tI], § 117(b), Oct. 11, 1996, [110 Stat. 3604][/us/stat/110/3604].)
 
  __References in Text__ 
 
@@ -78,10 +78,10 @@
 [/us/usc/t15/s713c–3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713c%E2%80%933%2Fb
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/stat/104/3359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3359
-[/us/pl/94/265/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs314
-[/us/pl/102/567/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs902%2Fa
+[/us/pl/94/265/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2FtIII
+[/us/pl/102/567/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtIX
 [/us/stat/106/4317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4317
-[/us/pl/104/297/s117/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs117%2Fb
+[/us/pl/104/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtI
 [/us/stat/110/3604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3604
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331

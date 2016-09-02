@@ -17,7 +17,7 @@
 
     In order to cooperate with the Secretary of the Interior in consolidating in Federal ownership lands within the area described in [section 397 of this title][/us/usc/t16/s397], and to facilitate acquisition of the lands needed for the national historical park, the Governor of the Territory of Hawaii is also authorized to acquire lands for said park, at the expense of the Territory of Hawaii by exchange or otherwise, in accordance with procedure prescribed by [section 392 of this title][/us/usc/t16/s392].
 
-([July 26, 1955, ch. 385, § 4][/us/act/1955-07-26/ch385/s4], [69 Stat. 379][/us/stat/69/379].)
+([July 26, 1955, ch. 385][/us/act/1955-07-26/ch385], § 4, [69 Stat. 379][/us/stat/69/379].)
 
  __Admission of Hawaii as State__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t16/s397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs397
 [/us/usc/t16/s392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs392
-[/us/act/1955-07-26/ch385/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-26%2Fch385%2Fs4
+[/us/act/1955-07-26/ch385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-26%2Fch385
 [/us/stat/69/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F379
 [/us/pl/86/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F3
 [/us/stat/73/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F4

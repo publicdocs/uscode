@@ -17,7 +17,7 @@
 
     If any timber cut on the public lands shall be exported from the Territories of the United States, it shall be liable to seizure by United States authority wherever found.
 
-([Apr. 30, 1878, ch. 76, § 2][/us/act/1878-04-30/ch76/s2], [20 Stat. 46][/us/stat/20/46].)
+([Apr. 30, 1878, ch. 76][/us/act/1878-04-30/ch76], § 2, [20 Stat. 46][/us/stat/20/46].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1878-04-30/ch76/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1878-04-30%2Fch76%2Fs2
+[/us/act/1878-04-30/ch76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1878-04-30%2Fch76
 [/us/stat/20/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F20%2F46
 
 

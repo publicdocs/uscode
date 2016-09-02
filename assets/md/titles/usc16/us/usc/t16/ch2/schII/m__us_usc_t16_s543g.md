@@ -17,7 +17,7 @@
 
     In addition to other amounts available for such purposes, effective October 1, 1985, there are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of sections 543 to 543h of this title.
 
-([Pub. L. 98–425, title III, § 308][/us/pl/98/425/s308], Sept. 28, 1984, [98 Stat. 1638][/us/stat/98/1638].)
+([Pub. L. 98–425, title III][/us/pl/98/425/tIII], § 308, Sept. 28, 1984, [98 Stat. 1638][/us/stat/98/1638].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/98/425/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F425%2Fs308
+[/us/pl/98/425/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F425%2FtIII
 [/us/stat/98/1638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1638
 
 

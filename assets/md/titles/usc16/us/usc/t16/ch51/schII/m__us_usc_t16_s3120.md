@@ -37,7 +37,7 @@
 
         After compliance with the procedural requirements of this section and other applicable law, the head of the appropriate Federal agency may manage or dispose of public lands under his primary jurisdiction for any of those uses or purposes authorized by this Act or other law.
 
-([Pub. L. 96–487, title VIII, § 810][/us/pl/96/487/s810], Dec. 2, 1980, [94 Stat. 2427][/us/stat/94/2427].)
+([Pub. L. 96–487, title VIII][/us/pl/96/487/tVIII], § 810, Dec. 2, 1980, [94 Stat. 2427][/us/stat/94/2427].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 [/us/usc/t16/s3115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3115
 [/us/usc/t42/s4332/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332%2F2%2FC
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/96/487/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs810
+[/us/pl/96/487/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtVIII
 [/us/stat/94/2427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2427
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F339

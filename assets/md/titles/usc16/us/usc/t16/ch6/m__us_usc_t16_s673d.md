@@ -17,7 +17,7 @@
 
     It is the sense of Congress that the restoration and conservation of a Tule elk population in California of at least two thousand, except that the number of Tule elk in the Owens River Watershed area shall at no time exceed four hundred and ninety or such greater number which is determined by the State of California to be the maximum holding capacity of such area, is an appropriate national goal.
 
-([Pub. L. 94–389, § 1][/us/pl/94/389/s1], Aug. 14, 1976, [90 Stat. 1189][/us/stat/90/1189].)
+([Pub. L. 94–389][/us/pl/94/389], § 1, Aug. 14, 1976, [90 Stat. 1189][/us/stat/90/1189].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/389/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F389%2Fs1
+[/us/pl/94/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F389
 [/us/stat/90/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1189
 
 

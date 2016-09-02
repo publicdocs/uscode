@@ -55,7 +55,7 @@
 
         In appraising non-Federal land, development rights, or conservation easements for possible acquisition under this section or [section 460nnn–42 of this title][/us/usc/t16/s460nnn–42], the Secretary shall disregard any adverse impacts on values resulting from the designation of the Cooperative Management and Protection Area or the Wilderness Area.
 
-([Pub. L. 106–399, title I, § 114][/us/pl/106/399/s114], Oct. 30, 2000, [114 Stat. 1662][/us/stat/114/1662].)
+([Pub. L. 106–399, title I][/us/pl/106/399/tI], § 114, Oct. 30, 2000, [114 Stat. 1662][/us/stat/114/1662].)
 
 ----------
 
@@ -65,7 +65,7 @@
 ----------
 
 [/us/usc/t16/s460nnn–42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460nnn%E2%80%9342
-[/us/pl/106/399/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2Fs114
+[/us/pl/106/399/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2FtI
 [/us/stat/114/1662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1662
 
 

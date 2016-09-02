@@ -17,7 +17,7 @@
 
     Any person who shall violate or fail to comply with any provision of, or any regulation made pursuant to sections 690d to 690i of this title shall be deemed guilty of a misdemeanor, and upon conviction thereof shall be fined not more than $500 or be imprisoned not more than six months, or both.
 
-([Apr. 23, 1928, ch. 413, § 9][/us/act/1928-04-23/ch413/s9], [45 Stat. 450][/us/stat/45/450].)
+([Apr. 23, 1928, ch. 413][/us/act/1928-04-23/ch413], § 9, [45 Stat. 450][/us/stat/45/450].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1928-04-23/ch413/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-04-23%2Fch413%2Fs9
+[/us/act/1928-04-23/ch413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-04-23%2Fch413
 [/us/stat/45/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F450
 
 

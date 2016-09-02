@@ -27,7 +27,7 @@
 
         Where the aggregate amount involved does not exceed $300, the provisions of [section 6101 of title 41][/us/usc/t41/s6101] shall not apply to any purchase or service authorized for the Department of Agriculture under this subchapter or under the 1940 water conservation appropriation.
 
-([Aug. 11, 1939, ch. 717, § 5][/us/act/1939-08-11/ch717/s5], as added [Oct. 14, 1940, ch. 861][/us/act/1940-10-14/ch861], [54 Stat. 1122][/us/stat/54/1122]; amended [July 16, 1943, ch. 242, § 6][/us/act/1943-07-16/ch242/s6], [57 Stat. 568][/us/stat/57/568].)
+([Aug. 11, 1939, ch. 717][/us/act/1939-08-11/ch717], § 5, as added [Oct. 14, 1940, ch. 861][/us/act/1940-10-14/ch861], [54 Stat. 1122][/us/stat/54/1122]; amended [July 16, 1943, ch. 242][/us/act/1943-07-16/ch242], § 6, [57 Stat. 568][/us/stat/57/568].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 
  __Codification__ 
 
-    In subsec. (c), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (c), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -45,7 +45,7 @@
 
     Works Projects Administration and its functions transferred to Federal Works Agency by Reorg. Plan No. 1 of 1939, §§ 301, 306, eff. July 1, 1939, 4 F.R. 2729, [53 Stat. 1426][/us/stat/53/1426], set out in the Appendix to Title 5, Government Organization and Employees.
 
-    Functions of Federal Works Agency transferred to General Services Administration by [act June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title I, § 103, [63 Stat. 380][/us/stat/63/380]. See Historical and Revision Notes under [section 303(b) of Title 40][/us/usc/t40/s303/b], Public Buildings, Property, and Works. [Section 303(b) of Title 40][/us/usc/t40/s303/b] was amended generally by [Pub. L. 109–313, § 2(a)(1)][/us/pl/109/313/s2/a/1], Oct. 6, 2006, [120 Stat. 1734][/us/stat/120/1734], and, as so amended, no longer relates to the Federal Works Agency and Commissioner of Public Buildings. See 2006 Amendment note under [section 303 of Title 40][/us/usc/t40/s303].
+    Functions of Federal Works Agency transferred to General Services Administration by [act June 30, 1949, ch. 288, title I][/us/act/1949-06-30/ch288/tI], § 103, [63 Stat. 380][/us/stat/63/380]. See Historical and Revision Notes under [section 303(b) of Title 40][/us/usc/t40/s303/b], Public Buildings, Property, and Works. [Section 303(b) of Title 40][/us/usc/t40/s303/b] was amended generally by [Pub. L. 109–313][/us/pl/109/313], § 2(a)(1), Oct. 6, 2006, [120 Stat. 1734][/us/stat/120/1734], and, as so amended, no longer relates to the Federal Works Agency and Commissioner of Public Buildings. See 2006 Amendment note under [section 303 of Title 40][/us/usc/t40/s303].
 
     Civilian Conservation Corps and its functions consolidated with other agencies under Federal Security Agency, to be administered by Director of Corps under direction and supervision of Federal Security Administration by Reorg. Plan No. 1 of 1939, §§ 201, 207, eff. July 1, 1939, 4 F.R. 2728, 2729, [53 Stat. 1425][/us/stat/53/1425], set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -63,22 +63,22 @@
 [/us/usc/t16/s590z–10/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590z%E2%80%9310%2F2
 [/us/usc/t16/s590z–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590z%E2%80%932
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/act/1939-08-11/ch717/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-11%2Fch717%2Fs5
+[/us/act/1939-08-11/ch717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-11%2Fch717
 [/us/act/1940-10-14/ch861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch861
 [/us/stat/54/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1122
-[/us/act/1943-07-16/ch242/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-07-16%2Fch242%2Fs6
+[/us/act/1943-07-16/ch242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-07-16%2Fch242
 [/us/stat/57/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F568
 [/us/usc/t16/s590z–1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590z%E2%80%931%2Fc
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/stat/53/1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1426
-[/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
+[/us/act/1949-06-30/ch288/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288%2FtI
 [/us/stat/63/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F380
 [/us/usc/t40/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs303%2Fb
 [/us/usc/t40/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs303%2Fb
-[/us/pl/109/313/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313%2Fs2%2Fa%2F1
+[/us/pl/109/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313
 [/us/stat/120/1734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1734
 [/us/usc/t40/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs303
 [/us/stat/53/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1425

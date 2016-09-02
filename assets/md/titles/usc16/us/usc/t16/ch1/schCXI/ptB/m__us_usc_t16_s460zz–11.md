@@ -27,7 +27,7 @@
 
         There is hereby authorized to carry out the purposes of this part the sum of $100,000 annually; except that the Federal contribution to the Board shall not exceed one-third of the annual operating costs of the Board.
 
-([Pub. L. 100–696, title VII, § 711][/us/pl/100/696/s711], Nov. 18, 1988, [102 Stat. 4607][/us/stat/102/4607].)
+([Pub. L. 100–696, title VII][/us/pl/100/696/tVII], § 711, Nov. 18, 1988, [102 Stat. 4607][/us/stat/102/4607].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/100/696/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2Fs711
+[/us/pl/100/696/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2FtVII
 [/us/stat/102/4607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4607
 
 

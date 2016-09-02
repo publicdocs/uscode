@@ -23,21 +23,21 @@
 
         Any county funds not obligated by September 30, 2018, shall be returned to the Treasury of the United States.
 
-([Pub. L. 106–393, title III, § 304][/us/pl/106/393/s304], as added [Pub. L. 110–343, div. C, title VI, § 601(a)][/us/pl/110/343/s601/a], Oct. 3, 2008, [122 Stat. 3910][/us/stat/122/3910]; amended [Pub. L. 112–141, div. F, title I, § 100101(a)(2)][/us/pl/112/141/s100101/a/2], (10), July 6, 2012, [126 Stat. 905][/us/stat/126/905], 906; [Pub. L. 113–40, § 10(a)(3)][/us/pl/113/40/s10/a/3], Oct. 2, 2013, [127 Stat. 545][/us/stat/127/545]; [Pub. L. 114–10, title V, § 524(d)][/us/pl/114/10/s524/d], Apr. 16, 2015, [129 Stat. 180][/us/stat/129/180].)
+([Pub. L. 106–393, title III][/us/pl/106/393/tIII], § 304, as added [Pub. L. 110–343, div. C, title VI][/us/pl/110/343/dC/tVI], § 601(a), Oct. 3, 2008, [122 Stat. 3910][/us/stat/122/3910]; amended [Pub. L. 112–141, div. F, title I][/us/pl/112/141/dF/tI], § 100101(a)(2), (10), July 6, 2012, [126 Stat. 905][/us/stat/126/905], 906; [Pub. L. 113–40][/us/pl/113/40], § 10(a)(3), Oct. 2, 2013, [127 Stat. 545][/us/stat/127/545]; [Pub. L. 114–10, title V][/us/pl/114/10/tV], § 524(d), Apr. 16, 2015, [129 Stat. 180][/us/stat/129/180].)
 
  __Amendments__ 
 
-    2015—Subsec. (a). [Pub. L. 114–10, § 524(d)(1)][/us/pl/114/10/s524/d/1], substituted “2017” for “2013”.
+    2015—Subsec. (a). [Pub. L. 114–10][/us/pl/114/10], § 524(d)(1), substituted “2017” for “2013”.
 
-    Subsec. (b). [Pub. L. 114–10, § 524(d)(2)][/us/pl/114/10/s524/d/2], substituted “2018” for “2014”.
+    Subsec. (b). [Pub. L. 114–10][/us/pl/114/10], § 524(d)(2), substituted “2018” for “2014”.
 
-    2013—Subsec. (a). [Pub. L. 113–40, § 10(a)(3)(A)][/us/pl/113/40/s10/a/3/A], substituted “2013” for “2012”.
+    2013—Subsec. (a). [Pub. L. 113–40][/us/pl/113/40], § 10(a)(3)(A), substituted “2013” for “2012”.
 
-    Subsec. (b). [Pub. L. 113–40, § 10(a)(3)(B)][/us/pl/113/40/s10/a/3/B], substituted “2014” for “2013”.
+    Subsec. (b). [Pub. L. 113–40][/us/pl/113/40], § 10(a)(3)(B), substituted “2014” for “2013”.
 
-    2012—Subsec. (a). [Pub. L. 112–141, § 100101(a)(2)][/us/pl/112/141/s100101/a/2], substituted “2012” for “2011”.
+    2012—Subsec. (a). [Pub. L. 112–141][/us/pl/112/141], § 100101(a)(2), substituted “2012” for “2011”.
 
-    Subsec. (b). [Pub. L. 112–141, § 100101(a)(10)][/us/pl/112/141/s100101/a/10], substituted “2013” for “2012”.
+    Subsec. (b). [Pub. L. 112–141][/us/pl/112/141], § 100101(a)(10), substituted “2013” for “2012”.
 
 ----------
 
@@ -46,20 +46,20 @@
 ----------
 ----------
 
-[/us/pl/106/393/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393%2Fs304
-[/us/pl/110/343/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs601%2Fa
+[/us/pl/106/393/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393%2FtIII
+[/us/pl/110/343/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtVI
 [/us/stat/122/3910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3910
-[/us/pl/112/141/s100101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100101%2Fa%2F2
+[/us/pl/112/141/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtI
 [/us/stat/126/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F905
-[/us/pl/113/40/s10/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40%2Fs10%2Fa%2F3
+[/us/pl/113/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40
 [/us/stat/127/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F545
-[/us/pl/114/10/s524/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs524%2Fd
+[/us/pl/114/10/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2FtV
 [/us/stat/129/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F180
-[/us/pl/114/10/s524/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs524%2Fd%2F1
-[/us/pl/114/10/s524/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs524%2Fd%2F2
-[/us/pl/113/40/s10/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40%2Fs10%2Fa%2F3%2FA
-[/us/pl/113/40/s10/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40%2Fs10%2Fa%2F3%2FB
-[/us/pl/112/141/s100101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100101%2Fa%2F2
-[/us/pl/112/141/s100101/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100101%2Fa%2F10
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
+[/us/pl/113/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40
+[/us/pl/113/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 
 

@@ -49,11 +49,11 @@
 
         There are hereby authorized to be appropriated annually such sums as may be needed to implement this section.
 
-([Pub. L. 95–313, § 11][/us/pl/95/313/s11], formerly § 8, July 1, 1978, [92 Stat. 371][/us/stat/92/371]; renumbered § 11, [Pub. L. 101–624, title XII, § 1215(1)][/us/pl/101/624/s1215/1], Nov. 28, 1990, [104 Stat. 3525][/us/stat/104/3525].)
+([Pub. L. 95–313][/us/pl/95/313], § 11, formerly § 8, July 1, 1978, [92 Stat. 371][/us/stat/92/371]; renumbered § 11, [Pub. L. 101–624, title XII][/us/pl/101/624/tXII], § 1215(1), Nov. 28, 1990, [104 Stat. 3525][/us/stat/104/3525].)
 
  __Codification__ 
 
-    In subsec. (c)(2), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes ([31 U.S.C. 529][/us/usc/t31/s529])” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (c)(2), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes ([31 U.S.C. 529][/us/usc/t31/s529])” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Prior Provisions__ 
 
@@ -66,12 +66,12 @@
 ----------
 ----------
 
-[/us/pl/95/313/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313%2Fs11
+[/us/pl/95/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313
 [/us/stat/92/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F371
-[/us/pl/101/624/s1215/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1215%2F1
+[/us/pl/101/624/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXII
 [/us/stat/104/3525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3525
 [/us/usc/t31/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs529
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/95/313/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313%2Fs11
 [/us/usc/t16/s2110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2110

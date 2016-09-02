@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as are necessary to carry out sections 698q to 698t of this title.
 
-([Pub. L. 102–427, § 5][/us/pl/102/427/s5], Oct. 21, 1992, [106 Stat. 2182][/us/stat/106/2182].)
+([Pub. L. 102–427][/us/pl/102/427], § 5, Oct. 21, 1992, [106 Stat. 2182][/us/stat/106/2182].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/427/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F427%2Fs5
+[/us/pl/102/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F427
 [/us/stat/106/2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2182
 
 

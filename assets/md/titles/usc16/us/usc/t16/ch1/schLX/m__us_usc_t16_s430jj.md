@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as may be necessary to carry out the provisions of sections 430ff to 430jj of this title.
 
-([July 25, 1956, ch. 729, § 5][/us/act/1956-07-25/ch729/s5], [70 Stat. 651][/us/stat/70/651].)
+([July 25, 1956, ch. 729][/us/act/1956-07-25/ch729], § 5, [70 Stat. 651][/us/stat/70/651].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1956-07-25/ch729/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-25%2Fch729%2Fs5
+[/us/act/1956-07-25/ch729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-25%2Fch729
 [/us/stat/70/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F651
 
 

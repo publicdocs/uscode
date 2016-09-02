@@ -119,7 +119,7 @@
 
             The land referred to in paragraph (1) is the approximately 130 acres of land administered by the Bureau of Land Management that is within or adjacent to the Mount Hood National Recreation Area and that is identified as “BLM Lands” on the map entitled “National Recreation Areas—Shellrock Mountain”, dated February 2007.
 
-([Pub. L. 111–11, title I, § 1204][/us/pl/111/11/s1204], Mar. 30, 2009, [123 Stat. 1013][/us/stat/123/1013].)
+([Pub. L. 111–11, title I][/us/pl/111/11/tI], § 1204, Mar. 30, 2009, [123 Stat. 1013][/us/stat/123/1013].)
 
  __References in Text__ 
 
@@ -131,7 +131,7 @@
 
  __Definitions__ 
 
-[Pub. L. 111–11, title I, § 1201][/us/pl/111/11/s1201], Mar. 30, 2009, [123 Stat. 1007][/us/stat/123/1007], provided that: 
+[Pub. L. 111–11, title I][/us/pl/111/11/tI], § 1201, Mar. 30, 2009, [123 Stat. 1007][/us/stat/123/1007], provided that: 
 
 > “In this subtitle \[subtitle C (§§ 1201–1207) of title I of [Pub. L. 111–11][/us/pl/111/11], see References in Text note above\]:
 
@@ -151,7 +151,7 @@
 ----------
 
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
-[/us/pl/111/11/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs1204
+[/us/pl/111/11/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtI
 [/us/stat/123/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1013
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 [/us/stat/123/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1007
@@ -165,7 +165,7 @@
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
-[/us/pl/111/11/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs1201
+[/us/pl/111/11/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtI
 [/us/stat/123/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1007
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 

@@ -345,7 +345,7 @@ SUBCHAPTER I—ESTABLISHMENT AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs482" data-uslm-ref="/us/usc/t16/s482">482</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs482l" data-uslm-ref="/us/usc/t16/s482l">482l.</a>  </td>
 
     <td> Perfection of mining claims within forest.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER I—ESTABLISHMENT AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs482" data-uslm-ref="/us/usc/t16/s482">482</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs482o" data-uslm-ref="/us/usc/t16/s482o">482o.</a>  </td>
 
     <td> Kaibab National Forest; mining rights; protection of scenic values.  </td>
 
@@ -1113,7 +1113,7 @@ SUBCHAPTER I—ESTABLISHMENT AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs539" data-uslm-ref="/us/usc/t16/s539">539</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs539l" data-uslm-ref="/us/usc/t16/s539l">539l</a>.  </td>
 
     <td> Designation of James Peak Protection Area, Colorado.  </td>
 
@@ -1121,7 +1121,7 @@ SUBCHAPTER I—ESTABLISHMENT AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs539" data-uslm-ref="/us/usc/t16/s539">539</a>l–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs539l" data-uslm-ref="/us/usc/t16/s539l">539l</a>–1.  </td>
 
     <td> Inholdings.  </td>
 
@@ -1129,7 +1129,7 @@ SUBCHAPTER I—ESTABLISHMENT AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs539" data-uslm-ref="/us/usc/t16/s539">539</a>l–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs539l" data-uslm-ref="/us/usc/t16/s539l">539l</a>–2.  </td>
 
     <td> James Peak Fall River trailhead.  </td>
 
@@ -1137,7 +1137,7 @@ SUBCHAPTER I—ESTABLISHMENT AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs539" data-uslm-ref="/us/usc/t16/s539">539</a>l–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs539l" data-uslm-ref="/us/usc/t16/s539l">539l</a>–3.  </td>
 
     <td> Loop trail study; authorization.  </td>
 
@@ -1145,7 +1145,7 @@ SUBCHAPTER I—ESTABLISHMENT AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs539" data-uslm-ref="/us/usc/t16/s539">539</a>l–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs539l" data-uslm-ref="/us/usc/t16/s539l">539l</a>–4.  </td>
 
     <td> Other administrative provisions.  </td>
 
@@ -1153,7 +1153,7 @@ SUBCHAPTER I—ESTABLISHMENT AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs539" data-uslm-ref="/us/usc/t16/s539">539</a>l–5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs539l" data-uslm-ref="/us/usc/t16/s539l">539l</a>–5.  </td>
 
     <td> Wilderness potential.  </td>
 
@@ -1273,7 +1273,7 @@ SUBCHAPTER I—ESTABLISHMENT AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs539" data-uslm-ref="/us/usc/t16/s539">539</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs539o" data-uslm-ref="/us/usc/t16/s539o">539o.</a>  </td>
 
     <td> Ancient Bristlecone Pine Forest.  </td>
 
@@ -1593,7 +1593,7 @@ SUBCHAPTER II—SCENIC AREAS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs544" data-uslm-ref="/us/usc/t16/s544">544</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs544l" data-uslm-ref="/us/usc/t16/s544l">544l.</a>  </td>
 
     <td> Implementation measures.  </td>
 
@@ -1617,7 +1617,7 @@ SUBCHAPTER II—SCENIC AREAS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs544" data-uslm-ref="/us/usc/t16/s544">544</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs544o" data-uslm-ref="/us/usc/t16/s544o">544o.</a>  </td>
 
     <td> Savings provisions.  </td>
 

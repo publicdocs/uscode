@@ -35,7 +35,7 @@
 
         (3) If, at any time during the one-year period following October 23, 1972, the Secretary determines that any lands on Little Cumberland Island are threatened with development, or other uses, inconsistent with the establishment or continuation of the trust herein referred to, then the Secretary may acquire such lands, or interests therein, by any of the methods provided for in [section 459i–1 of this title][/us/usc/t16/s459i–1].
 
-([Pub. L. 92–536, § 4][/us/pl/92/536/s4], Oct. 23, 1972, [86 Stat. 1066][/us/stat/86/1066].)
+([Pub. L. 92–536][/us/pl/92/536], § 4, Oct. 23, 1972, [86 Stat. 1066][/us/stat/86/1066].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t16/s459i–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459i%E2%80%931
-[/us/pl/92/536/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F536%2Fs4
+[/us/pl/92/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F536
 [/us/stat/86/1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1066
 
 

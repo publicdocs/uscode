@@ -39,7 +39,7 @@
 
         The Secretary shall construct and maintain only those roads within the special management area and corridor which are indicated on the map: Provided, That the Secretary shall provide access to such roads, or to timber harvesting pursuant to subsection (c), in such a manner as to minimize environmental impact.
 
-([Pub. L. 102–220, § 4][/us/pl/102/220/s4], Dec. 11, 1991, [105 Stat. 1674][/us/stat/105/1674].)
+([Pub. L. 102–220][/us/pl/102/220], § 4, Dec. 11, 1991, [105 Stat. 1674][/us/stat/105/1674].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 
  __Greer Spring Acquisition and Protection__ 
 
-[Pub. L. 102–220][/us/pl/102/220], §§ 1–3, 5, Dec. 11, 1991, [105 Stat. 1674][/us/stat/105/1674], 1675, as amended by [Pub. L. 113–287, § 5(d)(13)][/us/pl/113/287/s5/d/13], Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265], provided that:
+[Pub. L. 102–220][/us/pl/102/220], §§ 1–3, 5, Dec. 11, 1991, [105 Stat. 1674][/us/stat/105/1674], 1675, as amended by [Pub. L. 113–287][/us/pl/113/287], § 5(d)(13), Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -69,7 +69,7 @@
 
 >     “There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this Act.”
 
-    \[[Pub. L. 113–287, § 5(d)(13)][/us/pl/113/287/s5/d/13], Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265], which directed amendment of [section 2(b) of Pub. L. 102–220][/us/pl/102/220/s2/b], set out above, by substituting “[section 100506 of title 54][/us/usc/t54/s100506], United States Code” for “section 7 of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–9)”, was executed by making the substitution for “section 7 of the Land and Water Conservation Fund Act ([16 U.S.C. 4601–9][/us/usc/t16/s4601–9])” to reflect the probable intent of Congress.\]
+    \[[Pub. L. 113–287][/us/pl/113/287], § 5(d)(13), Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265], which directed amendment of [section 2(b) of Pub. L. 102–220][/us/pl/102/220/s2/b], set out above, by substituting “[section 100506 of title 54][/us/usc/t54/s100506], United States Code” for “section 7 of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460][/us/usc/t16/s460]l–9)”, was executed by making the substitution for “section 7 of the Land and Water Conservation Fund Act ([16 U.S.C. 4601–9][/us/usc/t16/s4601–9])” to reflect the probable intent of Congress.\]
 
 ----------
 
@@ -78,19 +78,19 @@
 ----------
 ----------
 
-[/us/pl/102/220/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F220%2Fs4
+[/us/pl/102/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F220
 [/us/stat/105/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1674
 [/us/pl/102/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F220
 [/us/stat/105/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1674
 [/us/pl/102/220/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F220%2Fs1
 [/us/pl/102/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F220
 [/us/stat/105/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1674
-[/us/pl/113/287/s5/d/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F13
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3265
 [/us/usc/t54/s100506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100506
 [/us/usc/t16/s1271–128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1271%E2%80%93128
 [/us/usc/t16/s1277/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1277%2Fa%2F1
-[/us/pl/113/287/s5/d/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F13
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3265
 [/us/pl/102/220/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F220%2Fs2%2Fb
 [/us/usc/t54/s100506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100506

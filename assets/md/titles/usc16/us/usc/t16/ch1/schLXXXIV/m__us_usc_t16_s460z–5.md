@@ -25,7 +25,7 @@
 
     (d) property used on December 31, 1970, primarily for private, noncommercial recreational purposes if any improvements made to such property after said date are certified by the Secretary of Agriculture or his designee as compatible with the purposes of this subchapter.
 
-([Pub. L. 92–260, § 7][/us/pl/92/260/s7], Mar. 23, 1972, [86 Stat. 100][/us/stat/86/100].)
+([Pub. L. 92–260][/us/pl/92/260], § 7, Mar. 23, 1972, [86 Stat. 100][/us/stat/86/100].)
 
 ----------
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t16/s460z–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460z%E2%80%932
-[/us/pl/92/260/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F260%2Fs7
+[/us/pl/92/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F260
 [/us/stat/86/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F100
 
 

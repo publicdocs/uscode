@@ -29,7 +29,7 @@
 
     (6) to enter into agreements with landowners, operators, and occupiers, individually or collectively, based on conservation plans of such landowners, operators, and occupiers which are developed in cooperation with and approved by the soil and water conservation district in which the land described in the agreement is situated, to be carried out on such land during a period of not to exceed ten years, providing for changes in cropping systems and land uses and for the installation of soil and water conservation practices and measures needed to conserve and develop the soil, water, woodland, wildlife, energy, and recreation resources of and enhance the water quality of lands within the area included in plans for works of improvement, as provided for in such plans, including watershed or subwatershed work plans in connection with the eleven watershed improvement programs authorized by [section 13 of the Act of December 22, 1944][/us/act/1944-12-22/s13] ([58 Stat. 887][/us/stat/58/887]), as amended and supplemented. Applications for assistance in developing such conservation plans shall be made in writing to the soil and water conservation district involved, and the proposed agreement shall be reviewed by such district. In return for such agreements by landowners, operators, and occupiers the Secretary shall agree to share the costs of carrying out those practices and measures set forth in the agreement for which he determines that cost sharing is appropriate and in the public interest. The portion of such costs, including labor, to be shared shall be that part which the Secretary determines is appropriate and in the public interest for the carrying out of the practices and measures set forth in the agreement, except that the Federal assistance shall not exceed the rate of assistance for similar practices and measures under existing national programs. The Secretary may terminate any agreement with a landowner, operator, or occupier by mutual agreement if the Secretary determines that such termination would be in the public interest, and may agree to such modifications of agreements, previously entered into hereunder, as he deems desirable to carry out the purposes of this paragraph or to facilitate the practical administration of the agreements provided for herein. Notwithstanding any other provision of law, the Secretary, to the extent he deems it desirable to carry out the purposes of this paragraph, may provide in any agreement hereunder for (1) preservation for a period not to exceed the period covered by the agreement and an equal period thereafter of the cropland, crop acreage, and allotment history applicable to land covered by the agreement for the purpose of any Federal program under which such history is used as a basis for an allotment or other limitation on the production of any crop; or (2) surrender of any such history and allotments.
 
-([Aug. 4, 1954, ch. 656, § 3][/us/act/1954-08-04/ch656/s3], [68 Stat. 666][/us/stat/68/666]; [Aug. 7, 1956, ch. 1027, § 1(b)][/us/act/1956-08-07/ch1027/s1/b], [70 Stat. 1088][/us/stat/70/1088]; [Pub. L. 92–419, title II, § 201(c)][/us/pl/92/419/s201/c], Aug. 30, 1972, [86 Stat. 667][/us/stat/86/667]; [Pub. L. 97–98, title XV, § 1512(c)][/us/pl/97/98/s1512/c], Dec. 22, 1981, [95 Stat. 1333][/us/stat/95/1333]; [Pub. L. 101–624, title XIV, § 1464][/us/pl/101/624/s1464], Nov. 28, 1990, [104 Stat. 3616][/us/stat/104/3616].)
+([Aug. 4, 1954, ch. 656][/us/act/1954-08-04/ch656], § 3, [68 Stat. 666][/us/stat/68/666]; [Aug. 7, 1956, ch. 1027][/us/act/1956-08-07/ch1027], § 1(b), [70 Stat. 1088][/us/stat/70/1088]; [Pub. L. 92–419, title II][/us/pl/92/419/tII], § 201(c), Aug. 30, 1972, [86 Stat. 667][/us/stat/86/667]; [Pub. L. 97–98, title XV][/us/pl/97/98/tXV], § 1512(c), Dec. 22, 1981, [95 Stat. 1333][/us/stat/95/1333]; [Pub. L. 101–624, title XIV][/us/pl/101/624/tXIV], § 1464, Nov. 28, 1990, [104 Stat. 3616][/us/stat/104/3616].)
 
  __References in Text__ 
 
@@ -66,15 +66,15 @@
 
 [/us/act/1944-12-22/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-12-22%2Fs13
 [/us/stat/58/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F887
-[/us/act/1954-08-04/ch656/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-04%2Fch656%2Fs3
+[/us/act/1954-08-04/ch656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-04%2Fch656
 [/us/stat/68/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F666
-[/us/act/1956-08-07/ch1027/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1027%2Fs1%2Fb
+[/us/act/1956-08-07/ch1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1027
 [/us/stat/70/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1088
-[/us/pl/92/419/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs201%2Fc
+[/us/pl/92/419/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2FtII
 [/us/stat/86/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F667
-[/us/pl/97/98/s1512/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1512%2Fc
+[/us/pl/97/98/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXV
 [/us/stat/95/1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1333
-[/us/pl/101/624/s1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1464
+[/us/pl/101/624/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIV
 [/us/stat/104/3616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3616
 [/us/act/1944-12-22/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-12-22%2Fs13
 [/us/stat/58/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F887

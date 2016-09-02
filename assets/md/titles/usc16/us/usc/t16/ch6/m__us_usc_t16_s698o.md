@@ -33,7 +33,7 @@
 
     (8) The confederate fort known as the Yellow Bluff Fort State Historic Site.
 
-([Pub. L. 100–249, title II, § 202][/us/pl/100/249/s202], Feb. 16, 1988, [102 Stat. 14][/us/stat/102/14].)
+([Pub. L. 100–249, title II][/us/pl/100/249/tII], § 202, Feb. 16, 1988, [102 Stat. 14][/us/stat/102/14].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/100/249/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F249%2Fs202
+[/us/pl/100/249/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F249%2FtII
 [/us/stat/102/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F14
 
 

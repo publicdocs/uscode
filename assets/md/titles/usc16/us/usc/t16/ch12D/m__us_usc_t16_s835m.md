@@ -17,7 +17,7 @@
 
     On December 20, 1974, and thereafter at intervals coinciding with anniversary dates of Federal Energy Regulatory Commission general review of the rates and charges of the Bonneville Power Administration, the Secretary of the Interior shall recommend to the Congress any changes in the dollar limitations herein placed upon financial assistance to Pacific Northwest reclamation projects that he believes justified by changes in the cost-price levels existing on July 1, 1966, or by other relevant changes of circumstances.
 
-([Pub. L. 89–448, § 2(c)][/us/pl/89/448/s2/c], as added [Pub. L. 89–561, § 6(3)][/us/pl/89/561/s6/3], Sept. 7, 1966, [80 Stat. 715][/us/stat/80/715]; amended [Pub. L. 95–91, title IV, § 402(a)(1)(B)][/us/pl/95/91/s402/a/1/B], Aug. 4, 1977, [91 Stat. 583][/us/stat/91/583].)
+([Pub. L. 89–448][/us/pl/89/448], § 2(c), as added [Pub. L. 89–561][/us/pl/89/561], § 6(3), Sept. 7, 1966, [80 Stat. 715][/us/stat/80/715]; amended [Pub. L. 95–91, title IV][/us/pl/95/91/tIV], § 402(a)(1)(B), Aug. 4, 1977, [91 Stat. 583][/us/stat/91/583].)
 
  __Codification__ 
 
@@ -25,7 +25,7 @@
 
  __Transfer of Functions__ 
 
-    “Federal Energy Regulatory Commission” substituted in text for “Federal Power Commission” pursuant to [Pub. L. 95–91, § 402(a)(1)(B)][/us/pl/95/91/s402/a/1/B], which is classified to [section 7172(a)(1)(B) of Title 42][/us/usc/t42/s7172/a/1/B], The Public Health and Welfare.
+    “Federal Energy Regulatory Commission” substituted in text for “Federal Power Commission” pursuant to [Pub. L. 95–91][/us/pl/95/91], § 402(a)(1)(B), which is classified to [section 7172(a)(1)(B) of Title 42][/us/usc/t42/s7172/a/1/B], The Public Health and Welfare.
 
     Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 
@@ -38,14 +38,14 @@
 ----------
 ----------
 
-[/us/pl/89/448/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F448%2Fs2%2Fc
-[/us/pl/89/561/s6/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F561%2Fs6%2F3
+[/us/pl/89/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F448
+[/us/pl/89/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F561
 [/us/stat/80/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F715
-[/us/pl/95/91/s402/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs402%2Fa%2F1%2FB
+[/us/pl/95/91/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIV
 [/us/stat/91/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F583
 [/us/pl/89/448/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F448%2Fs2
 [/us/pl/89/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F561
-[/us/pl/95/91/s402/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs402%2Fa%2F1%2FB
+[/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/usc/t42/s7172/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7172%2Fa%2F1%2FB
 
 

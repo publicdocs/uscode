@@ -77,7 +77,7 @@
 
         The Commission shall cease to exist on January 1, 2004.
 
-([Pub. L. 102–419, title II, § 201][/us/pl/102/419/s201], Oct. 16, 1992, [106 Stat. 2144][/us/stat/106/2144]; [Pub. L. 104–333, div. I, title VIII, § 811][/us/pl/104/333/s811], Nov. 12, 1996, [110 Stat. 4189][/us/stat/110/4189].)
+([Pub. L. 102–419, title II][/us/pl/102/419/tII], § 201, Oct. 16, 1992, [106 Stat. 2144][/us/stat/106/2144]; [Pub. L. 104–333, div. I, title VIII][/us/pl/104/333/dI/tVIII], § 811, Nov. 12, 1996, [110 Stat. 4189][/us/stat/110/4189].)
 
  __References in Text__ 
 
@@ -96,9 +96,9 @@
 
 [/us/usc/t16/s410ww/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410ww%2Fb%2F1
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/102/419/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F419%2Fs201
+[/us/pl/102/419/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F419%2FtII
 [/us/stat/106/2144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2144
-[/us/pl/104/333/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs811
+[/us/pl/104/333/dI/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtVIII
 [/us/stat/110/4189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4189
 [/us/pl/92/463/s14/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14%2Fb
 [/us/pl/104/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333

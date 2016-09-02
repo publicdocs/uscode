@@ -17,7 +17,7 @@
 
     The Secretary of the Interior may direct the public sale of all unsold Government lots in Hot Springs National Park, and not permanently reserved on March 3, 1891, at the city of Hot Springs, after having had the same reappraised, and also advertised as required by law, and no lot shall be sold at less than the appraised price.
 
-([Mar. 3, 1891, ch. 533, § 7][/us/act/1891-03-03/ch533/s7], [26 Stat. 844][/us/stat/26/844]; [Mar. 4, 1921, ch. 161, § 1][/us/act/1921-03-04/ch161/s1], [41 Stat. 1407][/us/stat/41/1407].)
+([Mar. 3, 1891, ch. 533][/us/act/1891-03-03/ch533], § 7, [26 Stat. 844][/us/stat/26/844]; [Mar. 4, 1921, ch. 161][/us/act/1921-03-04/ch161], § 1, [41 Stat. 1407][/us/stat/41/1407].)
 
  __Change of Name__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1891-03-03/ch533/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch533%2Fs7
+[/us/act/1891-03-03/ch533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch533
 [/us/stat/26/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F844
-[/us/act/1921-03-04/ch161/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-03-04%2Fch161%2Fs1
+[/us/act/1921-03-04/ch161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-03-04%2Fch161
 [/us/stat/41/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1407
 
 

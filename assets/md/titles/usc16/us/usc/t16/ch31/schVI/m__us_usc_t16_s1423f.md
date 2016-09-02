@@ -23,7 +23,7 @@
 
         Not later than 60 days after the date on which the Secretary receives notice of the determination of the Commission of an annual taking limit, or of the adoption by the Commission of other restriction on the taking of polar bears for subsistence purposes, the Secretary shall publish a notice in the Federal Register announcing the determination or restriction.
 
-([Pub. L. 92–522, title V, § 507][/us/pl/92/522/s507], as added [Pub. L. 109–479, title IX, § 902(a)][/us/pl/109/479/s902/a], Jan. 12, 2007, [120 Stat. 3664][/us/stat/120/3664].)
+([Pub. L. 92–522, title V][/us/pl/92/522/tV], § 507, as added [Pub. L. 109–479, title IX][/us/pl/109/479/tIX], § 902(a), Jan. 12, 2007, [120 Stat. 3664][/us/stat/120/3664].)
 
 ----------
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/92/522/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs507
-[/us/pl/109/479/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs902%2Fa
+[/us/pl/92/522/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtV
+[/us/pl/109/479/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtIX
 [/us/stat/120/3664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3664
 
 

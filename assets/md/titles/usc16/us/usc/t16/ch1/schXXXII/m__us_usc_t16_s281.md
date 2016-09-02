@@ -17,7 +17,7 @@
 
     It is the purpose of this subchapter to facilitate protection and provide interpretation of sites in the Nez Perce country of Idaho and in the States of Oregon, Washington, Montana, and Wyoming that have exceptional value in commemorating the history of the Nation.
 
-([Pub. L. 89–19, § 1][/us/pl/89/19/s1], May 15, 1965, [79 Stat. 110][/us/stat/79/110]; [Pub. L. 102–576, § 2(1)][/us/pl/102/576/s2/1], Oct. 30, 1992, [106 Stat. 4770][/us/stat/106/4770].)
+([Pub. L. 89–19][/us/pl/89/19], § 1, May 15, 1965, [79 Stat. 110][/us/stat/79/110]; [Pub. L. 102–576][/us/pl/102/576], § 2(1), Oct. 30, 1992, [106 Stat. 4770][/us/stat/106/4770].)
 
  __Amendments__ 
 
@@ -25,7 +25,7 @@
 
  __Short Title of 1992 Amendment__ 
 
-[Pub. L. 102–576, § 1][/us/pl/102/576/s1], Oct. 30, 1992, [106 Stat. 4770][/us/stat/106/4770], provided that: 
+[Pub. L. 102–576][/us/pl/102/576], § 1, Oct. 30, 1992, [106 Stat. 4770][/us/stat/106/4770], provided that: 
 
 > “This Act \[amending this section and sections 281a to 281c, 281e, and 281f of this title\] may be cited as the ‘Nez Perce National Historical Park Additions Act of 1991’.”
 
@@ -36,12 +36,12 @@
 ----------
 ----------
 
-[/us/pl/89/19/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F19%2Fs1
+[/us/pl/89/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F19
 [/us/stat/79/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F110
-[/us/pl/102/576/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F576%2Fs2%2F1
+[/us/pl/102/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F576
 [/us/stat/106/4770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4770
 [/us/pl/102/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F576
-[/us/pl/102/576/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F576%2Fs1
+[/us/pl/102/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F576
 [/us/stat/106/4770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4770
 
 

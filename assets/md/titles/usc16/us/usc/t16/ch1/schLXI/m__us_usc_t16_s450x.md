@@ -17,7 +17,7 @@
 
     For the purpose of carrying out the suggestions and recommendations of the Secretary of the Interior, the necessary annual appropriations therefor are authorized.
 
-([Mar. 19, 1936, ch. 157, § 4][/us/act/1936-03-19/ch157/s4], [49 Stat. 1184][/us/stat/49/1184].)
+([Mar. 19, 1936, ch. 157][/us/act/1936-03-19/ch157], § 4, [49 Stat. 1184][/us/stat/49/1184].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1936-03-19/ch157/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-03-19%2Fch157%2Fs4
+[/us/act/1936-03-19/ch157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-03-19%2Fch157
 [/us/stat/49/1184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1184
 
 

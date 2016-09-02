@@ -37,7 +37,7 @@
 
         The Secretary may utilize mineral materials from within the recreation area for public purposes such as maintenance and construction of roads, trails, and facilities as long as such use is compatible with the purposes of the recreation area.
 
-([Pub. L. 103–104, § 3][/us/pl/103/104/s3], Oct. 12, 1993, [107 Stat. 1028][/us/stat/107/1028].)
+([Pub. L. 103–104][/us/pl/103/104], § 3, Oct. 12, 1993, [107 Stat. 1028][/us/stat/107/1028].)
 
  __Change of Name__ 
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t28/s1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1491
-[/us/pl/103/104/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F104%2Fs3
+[/us/pl/103/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F104
 [/us/stat/107/1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1028
 [/us/pl/102/572/s902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb
 [/us/usc/t28/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs171

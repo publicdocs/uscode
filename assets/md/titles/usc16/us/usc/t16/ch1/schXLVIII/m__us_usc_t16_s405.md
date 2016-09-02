@@ -17,7 +17,7 @@
 
     The northeast quarter northwest quarter, lot 1, section 7, township 28 south, range 9 west, the southwest quarter northeast quarter, north half southeast quarter, section 5, township 27 south, range 11 west, the west half southwest quarter, section 5, the south half northwest quarter, section 11, township 28 south, range 11 west, the south half southeast quarter and east half southwest quarter, section 35, township 27 south, range 12 west, Willamette Meridian, Coos County, Oregon, formerly a part of the Coos Bay military wagon road grant, subject to valid existing rights and as to lands withdrawn for water-power purposes to all the provisions of the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\], and to the cutting and removal of the merchantable timber on the northeast quarter southwest quarter, section 35, township 27 south, range 12 west, pursuant to a sale thereof heretofore made, are reserved and set apart as public parks and camp sites for recreational purposes and to preserve the rare groves of myrtle trees thereon, such lands to be placed under the care, control, and management of the county court of Coos County, Oregon, in accordance with such rules and regulations as the Secretary of the Interior may prescribe: Provided, That all the expense of such care, control, and management shall be paid by the said county court.
 
-([May 5, 1926, ch. 241, § 1][/us/act/1926-05-05/ch241/s1], [44 Stat. 397][/us/stat/44/397].)
+([May 5, 1926, ch. 241][/us/act/1926-05-05/ch241], § 1, [44 Stat. 397][/us/stat/44/397].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
-[/us/act/1926-05-05/ch241/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-05%2Fch241%2Fs1
+[/us/act/1926-05-05/ch241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-05%2Fch241
 [/us/stat/44/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F397
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285

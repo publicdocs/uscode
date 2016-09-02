@@ -17,7 +17,7 @@
 
     Notwithstanding any provision of this subchapter the vesting in the United States of all right, title, and interest in, and the right to immediate possession of, all real property and all down tree personal property within the area indicated as “Proposed Additions” on the map entitled “Additional Lands, Redwood National Park, California,” numbered 167–80005–D and dated March 1978, as established by [section 79c(b)(1) of this title][/us/usc/t16/s79c/b/1], shall be effective on March 27, 1978. The provisions of [section 79c(b)(3) of this title][/us/usc/t16/s79c/b/3] shall also relate to the effective date of this section. From the appropriations authorized for fiscal year 1978 and succeeding fiscal years such sums as may be necessary may be expended for the acquisition of lands and interests in lands, and down tree personal property, authorized to be acquired, or acquired, pursuant to the provisions of this Act.
 
-([Pub. L. 95–250, title I, § 101(c)][/us/pl/95/250/s101/c], Mar. 27, 1978, [92 Stat. 166][/us/stat/92/166].)
+([Pub. L. 95–250, title I][/us/pl/95/250/tI], § 101(c), Mar. 27, 1978, [92 Stat. 166][/us/stat/92/166].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 
 [/us/usc/t16/s79c/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs79c%2Fb%2F1
 [/us/usc/t16/s79c/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs79c%2Fb%2F3
-[/us/pl/95/250/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250%2Fs101%2Fc
+[/us/pl/95/250/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250%2FtI
 [/us/stat/92/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F166
 [/us/usc/t16/s79c/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs79c%2Fb%2F1
 [/us/pl/95/250/s101/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250%2Fs101%2Fa%2F4

@@ -35,7 +35,7 @@
 
         There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-([Pub. L. 104–333, div. I, title II, § 211][/us/pl/104/333/s211], Nov. 12, 1996, [110 Stat. 4109][/us/stat/110/4109]; [Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title I, § 122\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–159; [Pub. L. 106–176, title I, § 102][/us/pl/106/176/s102], Mar. 10, 2000, [114 Stat. 25][/us/stat/114/25].)
+([Pub. L. 104–333, div. I, title II][/us/pl/104/333/dI/tII], § 211, Nov. 12, 1996, [110 Stat. 4109][/us/stat/110/4109]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(3) \[title I, § 122\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–159; [Pub. L. 106–176, title I][/us/pl/106/176/tI], § 102, Mar. 10, 2000, [114 Stat. 25][/us/stat/114/25].)
 
  __Codification__ 
 
@@ -54,11 +54,11 @@
 ----------
 ----------
 
-[/us/pl/104/333/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs211
+[/us/pl/104/333/dI/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtII
 [/us/stat/110/4109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4109
-[/us/pl/106/113/s1000/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F3
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/106/176/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs102
+[/us/pl/106/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2FtI
 [/us/stat/114/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F25
 [/us/act/1930-07-03/ch837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-07-03%2Fch837
 [/us/stat/46/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F855

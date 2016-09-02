@@ -21,7 +21,7 @@
 
     (2) technical assistance to other public and private entities regarding fish and wildlife habitat restoration on private land.
 
-([Pub. L. 109–294, § 4][/us/pl/109/294/s4], Oct. 3, 2006, [120 Stat. 1354][/us/stat/120/1354].)
+([Pub. L. 109–294][/us/pl/109/294], § 4, Oct. 3, 2006, [120 Stat. 1354][/us/stat/120/1354].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/109/294/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F294%2Fs4
+[/us/pl/109/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F294
 [/us/stat/120/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1354
 
 

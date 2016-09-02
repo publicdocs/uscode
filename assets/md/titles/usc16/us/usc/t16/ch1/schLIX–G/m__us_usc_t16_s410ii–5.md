@@ -39,7 +39,7 @@
 
         The Secretary, acting through the Director of the National Park Service, shall assist the Navajo Nation in the protection and management of those Chaco Culture Archeological Protection Sites located on land under the jurisdiction of the Navajo Nation through a grant, contract, or cooperative agreement entered into pursuant to the Indian Self-Determination and Education Act ([Public Law 93–638][/us/pl/93/638]), as amended \[[25 U.S.C. 450][/us/usc/t25/s450] et seq.\], to assist the Navajo Nation in site planning, resource protection, interpretation, resource management actions, and such other purposes as may be identified in such grant, contract, or cooperative agreement. This cooperative assistance shall include assistance with the development of a Navajo facility to serve those who seek to appreciate the Chacoan Outlier Sites.
 
-([Pub. L. 96–550, title V, § 506][/us/pl/96/550/s506], Dec. 19, 1980, [94 Stat. 3229][/us/stat/94/3229]; [Pub. L. 104–11, § 5][/us/pl/104/11/s5], May 18, 1995, [109 Stat. 159][/us/stat/109/159].)
+([Pub. L. 96–550, title V][/us/pl/96/550/tV], § 506, Dec. 19, 1980, [94 Stat. 3229][/us/stat/94/3229]; [Pub. L. 104–11][/us/pl/104/11], § 5, May 18, 1995, [109 Stat. 159][/us/stat/109/159].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 
  __Codification__ 
 
-    In subsec. (e), “[section 100502 of title 54][/us/usc/t54/s100502]” substituted for “sub[section 12(b) of the Act of August 18, 1970][/us/act/1970-08-18/s12/b]” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (e), “[section 100502 of title 54][/us/usc/t54/s100502]” substituted for “sub[section 12(b) of the Act of August 18, 1970][/us/act/1970-08-18/s12/b]” on authority of [Pub. L. 113–287][/us/pl/113/287], § 6(e), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
  __Amendments__ 
 
@@ -76,9 +76,9 @@
 [/us/usc/t54/s100502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100502
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/96/550/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F550%2Fs506
+[/us/pl/96/550/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F550%2FtV
 [/us/stat/94/3229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3229
-[/us/pl/104/11/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F11%2Fs5
+[/us/pl/104/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F11
 [/us/stat/109/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F159
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
@@ -102,7 +102,7 @@
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/usc/t54/s100502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100502
 [/us/act/1970-08-18/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1970-08-18%2Fs12%2Fb
-[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/104/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F11
 

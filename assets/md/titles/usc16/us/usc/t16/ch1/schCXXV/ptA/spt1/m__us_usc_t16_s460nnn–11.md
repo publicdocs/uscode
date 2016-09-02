@@ -29,7 +29,7 @@
 
         (3) The wildlands juniper management area established by part E.
 
-([Pub. L. 106–399, title I, § 101][/us/pl/106/399/s101], Oct. 30, 2000, [114 Stat. 1658][/us/stat/114/1658].)
+([Pub. L. 106–399, title I][/us/pl/106/399/tI], § 101, Oct. 30, 2000, [114 Stat. 1658][/us/stat/114/1658].)
 
 ----------
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t16/s460nnn–23/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460nnn%E2%80%9323%2Fe
-[/us/pl/106/399/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2Fs101
+[/us/pl/106/399/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2FtI
 [/us/stat/114/1658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1658
 
 

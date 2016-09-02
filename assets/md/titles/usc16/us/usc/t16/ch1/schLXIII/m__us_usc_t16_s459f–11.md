@@ -33,7 +33,7 @@
 
         Notwithstanding any other provision of law, no Federal loan, grant, license, or other form of assistance for any project which, in the opinion of the Secretary would significantly adversely affect the administration, use, and environmental quality of the seashore shall be made, issued, or approved by the head of any Federal agency without first consulting with the Secretary to determine whether or not such project is consistent with the plan developed pursuant to this section and allowing him at least thirty days to comment in writing on such proposed action.
 
-([Pub. L. 89–195, § 12][/us/pl/89/195/s12], as added [Pub. L. 94–578, title III, § 301][/us/pl/94/578/s301], Oct. 21, 1976, [90 Stat. 2733][/us/stat/90/2733].)
+([Pub. L. 89–195][/us/pl/89/195], § 12, as added [Pub. L. 94–578, title III][/us/pl/94/578/tIII], § 301, Oct. 21, 1976, [90 Stat. 2733][/us/stat/90/2733].)
 
  __Change of Name__ 
 
@@ -48,8 +48,8 @@
 ----------
 ----------
 
-[/us/pl/89/195/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F195%2Fs12
-[/us/pl/94/578/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2Fs301
+[/us/pl/89/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F195
+[/us/pl/94/578/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2FtIII
 [/us/stat/90/2733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2733
 
 

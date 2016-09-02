@@ -31,7 +31,7 @@
 
         (B) developed and administered by, or in conjunction with, an avicultural, conservation, or zoological organization that meets standards developed by the Secretary.
 
-([Pub. L. 102–440, title I, § 112][/us/pl/102/440/s112], Oct. 23, 1992, [106 Stat. 2230][/us/stat/106/2230].)
+([Pub. L. 102–440, title I][/us/pl/102/440/tI], § 112, Oct. 23, 1992, [106 Stat. 2230][/us/stat/106/2230].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/102/440/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2Fs112
+[/us/pl/102/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2FtI
 [/us/stat/106/2230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2230
 
 

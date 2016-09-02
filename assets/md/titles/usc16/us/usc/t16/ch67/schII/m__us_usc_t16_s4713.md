@@ -23,7 +23,7 @@
 
         Subject to operational conditions, the Secretary, in consultation with the Task Force and the International Maritime Organization, shall implement a ballast water management program for seagoing vessels of the Coast Guard to minimize the risk of introduction of nonindigenous species from releases of ballast water.
 
-([Pub. L. 101–646, title I, § 1103][/us/pl/101/646/s1103], as added [Pub. L. 104–332, § 2(d)][/us/pl/104/332/s2/d], Oct. 26, 1996, [110 Stat. 4083][/us/stat/110/4083].)
+([Pub. L. 101–646, title I][/us/pl/101/646/tI], § 1103, as added [Pub. L. 104–332][/us/pl/104/332], § 2(d), Oct. 26, 1996, [110 Stat. 4083][/us/stat/110/4083].)
 
  __Transfer of Functions__ 
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/101/646/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs1103
-[/us/pl/104/332/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fd
+[/us/pl/101/646/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2FtI
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
 [/us/stat/110/4083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4083
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

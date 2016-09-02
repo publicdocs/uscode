@@ -23,7 +23,7 @@
 
         The Secretary shall appoint a council of not fewer than sixteen members which shall be constituted to give representation to Federal and State agencies concerned with developing and utilizing the Nation’s forest resources, the forest industries, the forestry schools of the State-certified eligible institutions, State agricultural experiment stations, and volunteer public groups concerned with forests and related natural resources. The council shall meet at least annually and shall submit a report to the Secretary on regional and national planning and coordination of forestry research within the Federal and State agencies, forestry schools, and the forest industries, and shall advise the Secretary on the apportionment of funds. The Secretary shall seek, at least once each year, the advice of the council to accomplish efficiently the purposes of this subchapter.
 
-([Pub. L. 87–788, § 5][/us/pl/87/788/s5], Oct. 10, 1962, [76 Stat. 807][/us/stat/76/807]; [Pub. L. 97–98, title XIV, § 1441(c)][/us/pl/97/98/s1441/c], Dec. 22, 1981, [95 Stat. 1320][/us/stat/95/1320].)
+([Pub. L. 87–788][/us/pl/87/788], § 5, Oct. 10, 1962, [76 Stat. 807][/us/stat/76/807]; [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1441(c), Dec. 22, 1981, [95 Stat. 1320][/us/stat/95/1320].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/87/788/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F788%2Fs5
+[/us/pl/87/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F788
 [/us/stat/76/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F807
-[/us/pl/97/98/s1441/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1441%2Fc
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1320
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/usc/t16/s582a–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs582a%E2%80%935

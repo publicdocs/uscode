@@ -37,11 +37,11 @@
 
         (3) If the amount of the lease payments to be made under the lease is not agreed upon within 1 year after October 31, 1988, the Secretary shall establish the escrow account referred to in paragraph (2) within 30 days after the expiration of such 1-year period and shall make monthly payments of $25,000 per month into the account until such time as the full value of the lease payments is agreed to and deposited. Such deposits, together with the interest thereon, may be used only to cover the amounts of the lease payments due and payable pursuant to an agreement under this subsection. If the amounts deposited in such account, together with interest thereon, exceeds  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “exceed”. </sup></sup>  the amount of the lease payments due and payable at the time the agreement is entered into, notwithstanding any other provision of law, the excess shall be transferred to the accounts provided to the Secretary for operation and maintenance and for development of the park.
 
-([Pub. L. 100–571, § 2][/us/pl/100/571/s2], Oct. 31, 1988, [102 Stat. 2879][/us/stat/102/2879]; [Pub. L. 107–336, § 1][/us/pl/107/336/s1], Dec. 16, 2002, [116 Stat. 2882][/us/stat/116/2882].)
+([Pub. L. 100–571][/us/pl/100/571], § 2, Oct. 31, 1988, [102 Stat. 2879][/us/stat/102/2879]; [Pub. L. 107–336][/us/pl/107/336], § 1, Dec. 16, 2002, [116 Stat. 2882][/us/stat/116/2882].)
 
  __Codification__ 
 
-    In subsec. (b)(1), “[section 100506(c) of title 54][/us/usc/t54/s100506/c]” substituted for “section 7(c) of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 4601–4][/us/usc/t16/s4601–4] \[sic\] and following)” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (b)(1), “[section 100506(c) of title 54][/us/usc/t54/s100506/c]” substituted for “section 7(c) of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 4601–4][/us/usc/t16/s4601–4] \[sic\] and following)” on authority of [Pub. L. 113–287][/us/pl/113/287], § 6(e), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
  __Amendments__ 
 
@@ -57,13 +57,13 @@
 [/us/usc/t16/s410qq/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410qq%2Fb
 [/us/usc/t54/s100506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100506%2Fc
 [/us/usc/t16/s410qq–2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410qq%E2%80%932%2Fa
-[/us/pl/100/571/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F571%2Fs2
+[/us/pl/100/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F571
 [/us/stat/102/2879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2879
-[/us/pl/107/336/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F336%2Fs1
+[/us/pl/107/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F336
 [/us/stat/116/2882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2882
 [/us/usc/t54/s100506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100506%2Fc
 [/us/usc/t16/s4601–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4601%E2%80%934
-[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/107/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F336
 

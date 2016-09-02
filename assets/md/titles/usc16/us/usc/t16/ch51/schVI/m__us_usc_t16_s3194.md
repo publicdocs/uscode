@@ -21,7 +21,7 @@
 
     (2) publish notice of such proposed designation or acquisition in the Federal Register.
 
-([Pub. L. 96–487, title XIII, § 1304][/us/pl/96/487/s1304], Dec. 2, 1980, [94 Stat. 2478][/us/stat/94/2478].)
+([Pub. L. 96–487, title XIII][/us/pl/96/487/tXIII], § 1304, Dec. 2, 1980, [94 Stat. 2478][/us/stat/94/2478].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/96/487/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1304
+[/us/pl/96/487/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXIII
 [/us/stat/94/2478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2478
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371

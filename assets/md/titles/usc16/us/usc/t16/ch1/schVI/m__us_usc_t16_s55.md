@@ -21,7 +21,7 @@
 
     Any mortgage, lien, or encumbrance created under the provisions hereof shall be subject to the rights of the Government to compel the enforcement of the terms of the lease or contract of the mortgagor, and any purchaser under a foreclosure of such encumbrance shall take subject to all the conditions assumed by the original lessee or contractor.
 
-([Oct. 1, 1890, ch. 1263, § 2][/us/act/1890-10-01/ch1263/s2], [26 Stat. 651][/us/stat/26/651]; [July 23, 1914, ch. 206][/us/act/1914-07-23/ch206], [38 Stat. 554][/us/stat/38/554]; [June 12, 1917, ch. 27, § 1][/us/act/1917-06-12/ch27/s1], [40 Stat. 153][/us/stat/40/153].)
+([Oct. 1, 1890, ch. 1263][/us/act/1890-10-01/ch1263], § 2, [26 Stat. 651][/us/stat/26/651]; [July 23, 1914, ch. 206][/us/act/1914-07-23/ch206], [38 Stat. 554][/us/stat/38/554]; [June 12, 1917, ch. 27][/us/act/1917-06-12/ch27], § 1, [40 Stat. 153][/us/stat/40/153].)
 
  __Codification__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/act/1890-10-01/ch1263/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-10-01%2Fch1263%2Fs2
+[/us/act/1890-10-01/ch1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-10-01%2Fch1263
 [/us/stat/26/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F651
 [/us/act/1914-07-23/ch206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-07-23%2Fch206
 [/us/stat/38/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F554
-[/us/act/1917-06-12/ch27/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-12%2Fch27%2Fs1
+[/us/act/1917-06-12/ch27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-12%2Fch27
 [/us/stat/40/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F153
 
 

@@ -57,7 +57,7 @@
 
         Upon a request by the Secretary, the Attorney General shall commence a civil action for appropriate relief, including permanent or temporary injunction, to enforce any order issued by the Secretary under this section.
 
-([Pub. L. 100–330, § 11][/us/pl/100/330/s11], June 7, 1988, [102 Stat. 598][/us/stat/102/598]; [Pub. L. 100–350, § 4(3)][/us/pl/100/350/s4/3], June 27, 1988, [102 Stat. 660][/us/stat/102/660].)
+([Pub. L. 100–330][/us/pl/100/330], § 11, June 7, 1988, [102 Stat. 598][/us/stat/102/598]; [Pub. L. 100–350][/us/pl/100/350], § 4(3), June 27, 1988, [102 Stat. 660][/us/stat/102/660].)
 
  __Amendments__ 
 
@@ -73,9 +73,9 @@
 [/us/usc/t16/s973h/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs973h%2Fb
 [/us/usc/t16/s973c/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs973c%2Fb%2F7
 [/us/usc/t16/s973c/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs973c%2Fa%2F7
-[/us/pl/100/330/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F330%2Fs11
+[/us/pl/100/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F330
 [/us/stat/102/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F598
-[/us/pl/100/350/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F350%2Fs4%2F3
+[/us/pl/100/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F350
 [/us/stat/102/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F660
 [/us/pl/100/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F350
 [/us/usc/t16/s973c/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs973c%2Fa%2F7

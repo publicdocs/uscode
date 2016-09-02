@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    [Section 376 of this title][/us/usc/t16/s376], referred to in text, was repealed by [act June 25, 1948, ch. 646, § 39][/us/act/1948-06-25/ch646/s39], [62 Stat. 992][/us/stat/62/992], eff. Sept. 1, 1948. See [section 636 of Title 28][/us/usc/t28/s636], Judiciary and Judicial Procedure.
+    [Section 376 of this title][/us/usc/t16/s376], referred to in text, was repealed by [act June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 39, [62 Stat. 992][/us/stat/62/992], eff. Sept. 1, 1948. See [section 636 of Title 28][/us/usc/t28/s636], Judiciary and Judicial Procedure.
 
 ----------
 
@@ -33,7 +33,7 @@
 [/us/act/1927-03-03/ch317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch317
 [/us/stat/44/1359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1359
 [/us/usc/t16/s376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs376
-[/us/act/1948-06-25/ch646/s39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs39
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F992
 [/us/usc/t28/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs636
 

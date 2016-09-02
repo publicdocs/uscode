@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXLVI/m__us_usc_t16_s403h–4.md) | [Next](./../../../../..//us/usc/t16/ch1/schXLVI/m__us_usc_t16_s403h–11.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs403h%E2%80%9310)
+[Previous](./../../../../..//us/usc/t16/ch1/schXLVI/m__us_usc_t16_s403h–5...403h–9.md) | [Next](./../../../../..//us/usc/t16/ch1/schXLVI/m__us_usc_t16_s403h–11.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs403h%E2%80%9310)
 
 ## § 403h–10. Notice to Governors of North Carolina and Tennessee; application of sections 403h–3 and 403h–4 to subsequent lands accepted
 
     The Secretary of the Interior shall notify in writing the Governors of the States of North Carolina and Tennessee of the passage and approval of this Act, and of the fact that the United States assumes police jurisdiction over said park as specified in said acts of the States of North Carolina and Tennessee. Upon the acceptance by the Secretary of the Interior of further cessions of jurisdiction over lands now or hereafter included in the Great Smoky Mountains National Park, the provisions of sections 2 to 9 inclusive, shall apply to such lands.
 
-([Apr. 29, 1942, ch. 264, § 10][/us/act/1942-04-29/ch264/s10], [56 Stat. 261][/us/stat/56/261].)
+([Apr. 29, 1942, ch. 264][/us/act/1942-04-29/ch264], § 10, [56 Stat. 261][/us/stat/56/261].)
 
  __References in Text__ 
 
@@ -27,12 +27,12 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXLVI/m__us_usc_t16_s403h–4.md) | [Next](./../../../../..//us/usc/t16/ch1/schXLVI/m__us_usc_t16_s403h–11.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs403h%E2%80%9310)
+[Previous](./../../../../..//us/usc/t16/ch1/schXLVI/m__us_usc_t16_s403h–5...403h–9.md) | [Next](./../../../../..//us/usc/t16/ch1/schXLVI/m__us_usc_t16_s403h–11.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs403h%E2%80%9310)
 
 ----------
 ----------
 
-[/us/act/1942-04-29/ch264/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-04-29%2Fch264%2Fs10
+[/us/act/1942-04-29/ch264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-04-29%2Fch264
 [/us/stat/56/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F261
 
 

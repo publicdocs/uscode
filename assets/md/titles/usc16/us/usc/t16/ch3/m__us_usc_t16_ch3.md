@@ -913,7 +913,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs580" data-uslm-ref="/us/usc/t16/s580">580</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs580l" data-uslm-ref="/us/usc/t16/s580l">580l.</a>  </td>
 
     <td> Permits for grazing livestock on national forests.  </td>
 
@@ -937,7 +937,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs580" data-uslm-ref="/us/usc/t16/s580">580</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs580o" data-uslm-ref="/us/usc/t16/s580o">580o.</a>  </td>
 
     <td> Forest Service appropriations.  </td>
 

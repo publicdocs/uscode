@@ -39,7 +39,7 @@
 
         The Secretary shall coordinate the management of the public lands within the Acquisition Planning District with that of surrounding county, State, and private lands consistent with the provisions of subsection (d).
 
-([Pub. L. 106–538, § 3][/us/pl/106/538/s3], Dec. 6, 2000, [114 Stat. 2564][/us/stat/114/2564].)
+([Pub. L. 106–538][/us/pl/106/538], § 3, Dec. 6, 2000, [114 Stat. 2564][/us/stat/114/2564].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
-[/us/pl/106/538/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F538%2Fs3
+[/us/pl/106/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F538
 [/us/stat/114/2564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2564
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
 [/us/stat/90/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2743

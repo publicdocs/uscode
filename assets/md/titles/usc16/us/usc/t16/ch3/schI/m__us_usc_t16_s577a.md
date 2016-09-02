@@ -17,7 +17,7 @@
 
     The principle of conserving the natural beauty of shore lines for recreational use shall apply to all Federal lands which border upon any boundary lake or stream contiguous to this area, or any other lake or stream within this area which is now or eventually to be in general use for boat or canoe travel, and that for the purpose of carrying out this principle logging of all such shores to a depth of four hundred feet from the natural water line is forbidden except as the Forest Service of the Department of Agriculture may see fit in particular instances to vary the distance for practical reasons: Provided, That in no case shall logging of any timber other than diseased, insect infested, dying, or dead be permitted closer to the natural shore line than two hundred feet, except where necessary to open areas for banking grounds, landings, and other uses connected with logging operations.
 
-([July 10, 1930, ch. 881, § 2][/us/act/1930-07-10/ch881/s2], [46 Stat. 1021][/us/stat/46/1021].)
+([July 10, 1930, ch. 881][/us/act/1930-07-10/ch881], § 2, [46 Stat. 1021][/us/stat/46/1021].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1930-07-10/ch881/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-07-10%2Fch881%2Fs2
+[/us/act/1930-07-10/ch881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-07-10%2Fch881
 [/us/stat/46/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1021
 [/us/stat/67/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F633
 

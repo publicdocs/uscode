@@ -45,7 +45,7 @@
 
         Members of the Commission shall serve without compensation as such. The Secretary is authorized to pay the expenses reasonably incurred by the Commission in carrying out its responsibilities under this subchapter upon presentation of vouchers signed by the Chairman.
 
-([Pub. L. 93–431, § 4][/us/pl/93/431/s4], Oct. 1, 1974, [88 Stat. 1185][/us/stat/88/1185].)
+([Pub. L. 93–431][/us/pl/93/431], § 4, Oct. 1, 1974, [88 Stat. 1185][/us/stat/88/1185].)
 
 ----------
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t16/s410z–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410z%E2%80%931
-[/us/pl/93/431/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F431%2Fs4
+[/us/pl/93/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F431
 [/us/stat/88/1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1185
 
 

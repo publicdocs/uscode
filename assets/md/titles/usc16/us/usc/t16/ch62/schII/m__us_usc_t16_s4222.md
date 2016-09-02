@@ -65,7 +65,7 @@
 
         Trade in raw or worked ivory that is confiscated by an ivory producing country or an intermediary country and is disposed of pursuant to the CITES Ivory Control System shall not be the sole cause for the establishment of a moratorium under this subchapter if all proceeds from the disposal of the confiscated ivory are used solely to enhance wildlife conservation programs or conservation purposes of CITES. With respect to any country that was not a party to CITES at the time of such confiscation, this subsection shall not apply until such country develops appropriate measures to assure that persons with a history of illegal dealings in ivory shall not benefit from the disposal of confiscated ivory.
 
-([Pub. L. 100–478, title II, § 2202][/us/pl/100/478/s2202], Oct. 7, 1988, [102 Stat. 2318][/us/stat/102/2318].)
+([Pub. L. 100–478, title II][/us/pl/100/478/tII], § 2202, Oct. 7, 1988, [102 Stat. 2318][/us/stat/102/2318].)
 
 ----------
 
@@ -77,7 +77,7 @@
 [/us/usc/t16/s4221/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4221%2Fb%2F1
 [/us/usc/t16/s4221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4221%2Fb
 [/us/usc/t16/s4221/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4221%2Fb%2F1
-[/us/pl/100/478/s2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2Fs2202
+[/us/pl/100/478/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2FtII
 [/us/stat/102/2318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2318
 
 

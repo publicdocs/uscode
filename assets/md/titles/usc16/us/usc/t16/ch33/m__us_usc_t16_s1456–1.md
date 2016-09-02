@@ -159,7 +159,7 @@
 
         There are authorized to be appropriated to the Secretary to carry out this section $60,000,000 for each of fiscal years 2009 through 2013.
 
-([Pub. L. 89–454, title III, § 307A][/us/pl/89/454/s307A], as added [Pub. L. 111–11, title XII, § 12502][/us/pl/111/11/s12502], Mar. 30, 2009, [123 Stat. 1442][/us/stat/123/1442].)
+([Pub. L. 89–454, title III][/us/pl/89/454/tIII], § 307A, as added [Pub. L. 111–11, title XII][/us/pl/111/11/tXII], § 12502, Mar. 30, 2009, [123 Stat. 1442][/us/stat/123/1442].)
 
 ----------
 
@@ -169,8 +169,8 @@
 ----------
 
 [/us/usc/t16/s1455a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1455a%2Fe
-[/us/pl/89/454/s307A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2Fs307A
-[/us/pl/111/11/s12502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs12502
+[/us/pl/89/454/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2FtIII
+[/us/pl/111/11/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXII
 [/us/stat/123/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1442
 
 

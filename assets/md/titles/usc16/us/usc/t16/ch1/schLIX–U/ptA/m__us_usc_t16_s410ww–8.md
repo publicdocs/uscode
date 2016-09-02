@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated such sums as may be necessary to carry out this part.
 
-([Pub. L. 102–419, title I, § 109][/us/pl/102/419/s109], Oct. 16, 1992, [106 Stat. 2143][/us/stat/106/2143]; [Pub. L. 106–356, § 2(b)][/us/pl/106/356/s2/b], Oct. 24, 2000, [114 Stat. 1391][/us/stat/114/1391].)
+([Pub. L. 102–419, title I][/us/pl/102/419/tI], § 109, Oct. 16, 1992, [106 Stat. 2143][/us/stat/106/2143]; [Pub. L. 106–356][/us/pl/106/356], § 2(b), Oct. 24, 2000, [114 Stat. 1391][/us/stat/114/1391].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/102/419/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F419%2Fs109
+[/us/pl/102/419/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F419%2FtI
 [/us/stat/106/2143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2143
-[/us/pl/106/356/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F356%2Fs2%2Fb
+[/us/pl/106/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F356
 [/us/stat/114/1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1391
 [/us/pl/106/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F356
 

@@ -59,7 +59,7 @@
 
         (3) subject to any agreement in existence as of March 11, 2009, and to the extent consistent with the purposes of the Refuge, use decreed water rights on the Refuge in approximately the same manner that the water rights have been used historically.
 
-([Pub. L. 106–530, § 6][/us/pl/106/530/s6], Nov. 22, 2000, [114 Stat. 2530][/us/stat/114/2530]; [Pub. L. 111–8, div. E, title I, § 117][/us/pl/111/8/s117], Mar. 11, 2009, [123 Stat. 724][/us/stat/123/724].)
+([Pub. L. 106–530][/us/pl/106/530], § 6, Nov. 22, 2000, [114 Stat. 2530][/us/stat/114/2530]; [Pub. L. 111–8, div. E, title I][/us/pl/111/8/dE/tI], § 117, Mar. 11, 2009, [123 Stat. 724][/us/stat/123/724].)
 
  __References in Text__ 
 
@@ -69,11 +69,11 @@
 
  __Amendments__ 
 
-    2009—Subsec. (a). [Pub. L. 111–8, § 117(1)][/us/pl/111/8/s117/1], substituted “Establishment and purpose” for “Establishment” in heading, designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and inserted headings, substituted “The establishment of the refuge under subparagraph (A)” for “Such establishment” in subpar. (B), and added par. (2).
+    2009—Subsec. (a). [Pub. L. 111–8][/us/pl/111/8], § 117(1), substituted “Establishment and purpose” for “Establishment” in heading, designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and inserted headings, substituted “The establishment of the refuge under subparagraph (A)” for “Such establishment” in subpar. (B), and added par. (2).
 
-    Subsec. (c). [Pub. L. 111–8, § 117(2)][/us/pl/111/8/s117/2], designated existing provisions as par. (1), inserted heading, and added par. (2).
+    Subsec. (c). [Pub. L. 111–8][/us/pl/111/8], § 117(2), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-    Subsec. (d)(3). [Pub. L. 111–8, § 117(3)][/us/pl/111/8/s117/3], added par. (3).
+    Subsec. (d)(3). [Pub. L. 111–8][/us/pl/111/8], § 117(3), added par. (3).
 
 ----------
 
@@ -84,17 +84,17 @@
 
 [/us/usc/t16/s668dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd
 [/us/usc/t16/s460k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460k
-[/us/pl/106/530/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F530%2Fs6
+[/us/pl/106/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F530
 [/us/stat/114/2530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2530
-[/us/pl/111/8/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs117
+[/us/pl/111/8/dE/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdE%2FtI
 [/us/stat/123/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F724
 [/us/pl/89/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F669
 [/us/stat/80/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F927
 [/us/usc/t16/s668dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd
 [/us/pl/87/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F714
 [/us/stat/76/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F653
-[/us/pl/111/8/s117/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs117%2F1
-[/us/pl/111/8/s117/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs117%2F2
-[/us/pl/111/8/s117/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs117%2F3
+[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
+[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
+[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
 
 

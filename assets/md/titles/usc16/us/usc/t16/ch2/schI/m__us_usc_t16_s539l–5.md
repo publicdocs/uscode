@@ -23,7 +23,7 @@
 
         In connection with the first revision of the land and resources management plan for the Arapaho/Roosevelt National Forest after August 21, 2002, the Secretary shall evaluate the suitability of the lands managed under the management prescription referred to in section 539l(d)(1)(F) of this title for inclusion in the National Wilderness Preservation System and make recommendations to Congress regarding such inclusion.
 
-([Pub. L. 107–216, § 8][/us/pl/107/216/s8], Aug. 21, 2002, [116 Stat. 1061][/us/stat/116/1061].)
+([Pub. L. 107–216][/us/pl/107/216], § 8, Aug. 21, 2002, [116 Stat. 1061][/us/stat/116/1061].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/107/216/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F216%2Fs8
+[/us/pl/107/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F216
 [/us/stat/116/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1061
 [/us/pl/107/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F216
 [/us/stat/116/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1055

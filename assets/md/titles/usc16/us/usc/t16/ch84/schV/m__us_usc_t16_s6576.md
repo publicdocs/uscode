@@ -27,7 +27,7 @@
 
         If protection under subsection (a) requires the taking of measures that are in addition to the measures covered by the applicable restoration plan agreed to under [section 6573 of this title][/us/usc/t16/s6573], the cost of the additional measures, as well as the cost of any permit, shall be considered part of the restoration plan for purposes of financial assistance under [section 6574 of this title][/us/usc/t16/s6574].
 
-([Pub. L. 108–148, title V, § 506][/us/pl/108/148/s506], Dec. 3, 2003, [117 Stat. 1914][/us/stat/117/1914].)
+([Pub. L. 108–148, title V][/us/pl/108/148/tV], § 506, Dec. 3, 2003, [117 Stat. 1914][/us/stat/117/1914].)
 
 ----------
 
@@ -40,7 +40,7 @@
 [/us/usc/t16/s1539/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1539%2Fa%2F1
 [/us/usc/t16/s6573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6573
 [/us/usc/t16/s6574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6574
-[/us/pl/108/148/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2Fs506
+[/us/pl/108/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2FtV
 [/us/stat/117/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1914
 
 

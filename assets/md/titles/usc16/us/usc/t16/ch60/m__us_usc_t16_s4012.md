@@ -67,7 +67,7 @@
 
             (B) removed from office if an officer or employee of a council or the Department of Commerce.
 
-([Pub. L. 99–659, title II, § 213][/us/pl/99/659/s213], Nov. 14, 1986, [100 Stat. 3727][/us/stat/100/3727].)
+([Pub. L. 99–659, title II][/us/pl/99/659/tII], § 213, Nov. 14, 1986, [100 Stat. 3727][/us/stat/100/3727].)
 
 ----------
 
@@ -83,7 +83,7 @@
 [/us/usc/t16/s4009/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4009%2Fb%2F6
 [/us/usc/t16/s4009/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4009%2Fb%2F6
 [/us/usc/t16/s4010/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4010%2Fc
-[/us/pl/99/659/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs213
+[/us/pl/99/659/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtII
 [/us/stat/100/3727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3727
 
 

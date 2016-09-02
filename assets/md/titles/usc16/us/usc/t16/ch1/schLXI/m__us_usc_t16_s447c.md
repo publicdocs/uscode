@@ -17,7 +17,7 @@
 
     The administration, protection, and development of the Ocmulgee National Monument shall be under the supervision of the Secretary of the Interior subject to the provisions of the Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended.
 
-([June 14, 1934, ch. 519, § 3][/us/act/1934-06-14/ch519/s3], [48 Stat. 959][/us/stat/48/959].)
+([June 14, 1934, ch. 519][/us/act/1934-06-14/ch519], § 3, [48 Stat. 959][/us/stat/48/959].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1934-06-14/ch519/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-14%2Fch519%2Fs3
+[/us/act/1934-06-14/ch519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-14%2Fch519
 [/us/stat/48/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F959
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535

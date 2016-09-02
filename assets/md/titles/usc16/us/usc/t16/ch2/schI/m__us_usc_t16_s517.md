@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture may do all things necessary to secure the safe title in the United States to the lands to be acquired under this Act, but no payment shall be made for any such lands until the title shall be satisfactory to the Attorney General or his designee and shall be vested in the United States.
 
-([Mar. 1, 1911, ch. 186, § 8][/us/act/1911-03-01/ch186/s8] (part), [36 Stat. 962][/us/stat/36/962]; [Pub. L. 91–393, § 3][/us/pl/91/393/s3], Sept. 1, 1970, [84 Stat. 835][/us/stat/84/835].)
+([Mar. 1, 1911, ch. 186][/us/act/1911-03-01/ch186], § 8 (part), [36 Stat. 962][/us/stat/36/962]; [Pub. L. 91–393][/us/pl/91/393], § 3, Sept. 1, 1970, [84 Stat. 835][/us/stat/84/835].)
 
  __References in Text__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/act/1911-03-01/ch186/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-01%2Fch186%2Fs8
+[/us/act/1911-03-01/ch186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-01%2Fch186
 [/us/stat/36/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F962
-[/us/pl/91/393/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F393%2Fs3
+[/us/pl/91/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F393
 [/us/stat/84/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F835
 [/us/act/1911-03-01/ch186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-01%2Fch186
 [/us/stat/36/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F961

@@ -25,7 +25,7 @@
 
     (b) Funds appropriated for the purposes of the Treaty may be used notwithstanding any of the provisions of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151][/us/usc/t22/s2151] et seq.) or of any appropriations Act that imposes restrictions on the maintenance or use of cash transfer assistance, which are inconsistent with the provisions of the Treaty.
 
-([Pub. L. 100–330, § 20][/us/pl/100/330/s20], June 7, 1988, [102 Stat. 601][/us/stat/102/601]; [Pub. L. 102–523, § 3(b)][/us/pl/102/523/s3/b], Oct. 26, 1992, [106 Stat. 3433][/us/stat/106/3433].)
+([Pub. L. 100–330][/us/pl/100/330], § 20, June 7, 1988, [102 Stat. 601][/us/stat/102/601]; [Pub. L. 102–523][/us/pl/102/523], § 3(b), Oct. 26, 1992, [106 Stat. 3433][/us/stat/106/3433].)
 
  __References in Text__ 
 
@@ -43,9 +43,9 @@
 ----------
 
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/pl/100/330/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F330%2Fs20
+[/us/pl/100/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F330
 [/us/stat/102/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F601
-[/us/pl/102/523/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F523%2Fs3%2Fb
+[/us/pl/102/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F523
 [/us/stat/106/3433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3433
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424

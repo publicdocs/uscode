@@ -17,7 +17,7 @@
 
     The Secretary shall prepare, in consultation with the city of Natchez, a study of the feasibility of extending the Natchez Trace within the city of Natchez, including the acceptance of donations of rights-of-way. The Secretary shall transmit the study to the Committee on Interior and Insular Affairs of the United States House of Representatives and to the Committee on Energy and Natural Resources of the United States Senate within one year after October 7, 1988.
 
-([Pub. L. 100–479, § 5][/us/pl/100/479/s5], Oct. 7, 1988, [102 Stat. 2326][/us/stat/102/2326].)
+([Pub. L. 100–479][/us/pl/100/479], § 5, Oct. 7, 1988, [102 Stat. 2326][/us/stat/102/2326].)
 
  __Change of Name__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/100/479/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F479%2Fs5
+[/us/pl/100/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F479
 [/us/stat/102/2326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2326
 
 

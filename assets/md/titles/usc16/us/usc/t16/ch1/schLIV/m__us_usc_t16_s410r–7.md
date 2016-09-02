@@ -43,7 +43,7 @@
 
         On completion of construction of the main visitor center facility at the headquarters of Everglades National Park, the Secretary shall designate the visitor center facility as the “Ernest F. Coe Visitor Center”, to commemorate the vision and leadership shown by Mr. Coe in the establishment and protection of Everglades National Park.
 
-([Pub. L. 101–229, title I, § 103][/us/pl/101/229/s103], Dec. 13, 1989, [103 Stat. 1948][/us/stat/103/1948]; [Pub. L. 105–82][/us/pl/105/82], §§ 4, 5, Nov. 13, 1997, [111 Stat. 1541][/us/stat/111/1541], 1542.)
+([Pub. L. 101–229, title I][/us/pl/101/229/tI], § 103, Dec. 13, 1989, [103 Stat. 1948][/us/stat/103/1948]; [Pub. L. 105–82][/us/pl/105/82], §§ 4, 5, Nov. 13, 1997, [111 Stat. 1541][/us/stat/111/1541], 1542.)
 
  __References in Text__ 
 
@@ -51,15 +51,15 @@
 
  __Amendments__ 
 
-    1997—Subsec. (c)(2). [Pub. L. 105–82, § 5(1)][/us/pl/105/82/s5/1], substituted “personally-owned” for “personnally-owned”.
+    1997—Subsec. (c)(2). [Pub. L. 105–82][/us/pl/105/82], § 5(1), substituted “personally-owned” for “personnally-owned”.
 
-    Subsec. (e). [Pub. L. 105–82, § 5(2)][/us/pl/105/82/s5/2], substituted “Marjory Stoneman Douglas Visitor Center” for “Visitor Center” in heading.
+    Subsec. (e). [Pub. L. 105–82][/us/pl/105/82], § 5(2), substituted “Marjory Stoneman Douglas Visitor Center” for “Visitor Center” in heading.
 
-    Subsec. (f). [Pub. L. 105–82, § 4][/us/pl/105/82/s4], added subsec. (f).
+    Subsec. (f). [Pub. L. 105–82][/us/pl/105/82], § 4, added subsec. (f).
 
  __Findings and Purpose of 1997 Amendment__ 
 
-[Pub. L. 105–82, § 2][/us/pl/105/82/s2], Nov. 13, 1997, [111 Stat. 1540][/us/stat/111/1540], provided that:
+[Pub. L. 105–82][/us/pl/105/82], § 2, Nov. 13, 1997, [111 Stat. 1540][/us/stat/111/1540], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -108,7 +108,7 @@
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1%E2%80%934
-[/us/pl/101/229/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F229%2Fs103
+[/us/pl/101/229/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F229%2FtI
 [/us/stat/103/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1948
 [/us/pl/105/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F82
 [/us/stat/111/1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1541
@@ -121,10 +121,10 @@
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
 [/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
-[/us/pl/105/82/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F82%2Fs5%2F1
-[/us/pl/105/82/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F82%2Fs5%2F2
-[/us/pl/105/82/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F82%2Fs4
-[/us/pl/105/82/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F82%2Fs2
+[/us/pl/105/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F82
+[/us/pl/105/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F82
+[/us/pl/105/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F82
+[/us/pl/105/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F82
 [/us/stat/111/1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1540
 [/us/usc/t16/s410r–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410r%E2%80%935
 

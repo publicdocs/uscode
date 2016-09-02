@@ -33,7 +33,7 @@
 
         In case of any discrepancy between or among the map described in subsection (a), the amount of acreage stated in subsection (a), or the legal description filed by the Secretary pursuant to subsection (b), the map described in subsection (a) shall control any question concerning the boundaries of the conservation area.
 
-([Pub. L. 101–621, § 3][/us/pl/101/621/s3], Nov. 16, 1990, [104 Stat. 3342][/us/stat/104/3342]; [Pub. L. 103–450, § 1][/us/pl/103/450/s1], Nov. 2, 1994, [108 Stat. 4766][/us/stat/108/4766]; [Pub. L. 105–263, § 8][/us/pl/105/263/s8], Oct. 19, 1998, [112 Stat. 2349][/us/stat/112/2349]; [Pub. L. 107–282, title I, § 105(c)][/us/pl/107/282/s105/c], Nov. 6, 2002, [116 Stat. 1998][/us/stat/116/1998].)
+([Pub. L. 101–621][/us/pl/101/621], § 3, Nov. 16, 1990, [104 Stat. 3342][/us/stat/104/3342]; [Pub. L. 103–450][/us/pl/103/450], § 1, Nov. 2, 1994, [108 Stat. 4766][/us/stat/108/4766]; [Pub. L. 105–263][/us/pl/105/263], § 8, Oct. 19, 1998, [112 Stat. 2349][/us/stat/112/2349]; [Pub. L. 107–282, title I][/us/pl/107/282/tI], § 105(c), Nov. 6, 2002, [116 Stat. 1998][/us/stat/116/1998].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 
  __Potential Conservation Lands__ 
 
-[Pub. L. 103–450, § 3][/us/pl/103/450/s3], Nov. 2, 1994, [108 Stat. 4767][/us/stat/108/4767], as amended by [Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title I, § 144(a)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–171, provided that:
+[Pub. L. 103–450][/us/pl/103/450], § 3, Nov. 2, 1994, [108 Stat. 4767][/us/stat/108/4767], as amended by [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(3) \[title I, § 144(a)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–171, provided that:
 
 >     “(a)  __Withdrawal__  __.—__ 
 
@@ -69,7 +69,7 @@
 
 >         “(2) For purposes of section 10(b) of the Red Rock Canyon National Conservation Area Establishment Act of 1990 \[[16 U.S.C. 460ccc–8(b)][/us/usc/t16/s460ccc–8/b]\], as amended by this Act, the date on which the lands identified in subsection (b) of this section are added to the Red Rock Canyon National Conservation Area shall be deemed to be the date of enactment of an Act adding such lands to the conservation area.”
 
-\[[Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title I, § 144(b)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–171, provided that: 
+\[[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(3) \[title I, § 144(b)\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–171, provided that: 
 
 > “The amendment made by subsection (a) \[amending [section 3 of Pub. L. 103–450][/us/pl/103/450/s3], set out above\] takes effect on November 1, 1999.”
 
@@ -82,13 +82,13 @@
 ----------
 ----------
 
-[/us/pl/101/621/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F621%2Fs3
+[/us/pl/101/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F621
 [/us/stat/104/3342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3342
-[/us/pl/103/450/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F450%2Fs1
+[/us/pl/103/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F450
 [/us/stat/108/4766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4766
-[/us/pl/105/263/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F263%2Fs8
+[/us/pl/105/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F263
 [/us/stat/112/2349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2349
-[/us/pl/107/282/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F282%2Fs105%2Fc
+[/us/pl/107/282/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F282%2FtI
 [/us/stat/116/1998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1998
 [/us/pl/107/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F282
 [/us/stat/116/1995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1995
@@ -96,13 +96,13 @@
 [/us/pl/107/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F282
 [/us/pl/105/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F263
 [/us/pl/103/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F450
-[/us/pl/103/450/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F450%2Fs3
+[/us/pl/103/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F450
 [/us/stat/108/4767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4767
-[/us/pl/106/113/s1000/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F3
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
 [/us/usc/t16/s460ccc–8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460ccc%E2%80%938%2Fb
-[/us/pl/106/113/s1000/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F3
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
 [/us/pl/103/450/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F450%2Fs3
 

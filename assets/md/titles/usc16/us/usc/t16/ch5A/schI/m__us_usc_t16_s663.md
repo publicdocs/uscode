@@ -39,7 +39,7 @@
 
         Any lands acquired pursuant to this section by any Federal agency within the exterior boundaries of a national forest shall, upon acquisition, be added to and become national forest lands, and shall be administered as a part of the forest within which they are situated, subject to all laws applicable to lands acquired under the provisions of the Act of March 1, 1911 ([36 Stat. 961][/us/stat/36/961]), unless such lands are acquired to carry out the National Migratory Bird Management Program.
 
-([Mar. 10, 1934, ch. 55, § 3][/us/act/1934-03-10/ch55/s3], [48 Stat. 401][/us/stat/48/401]; 1940 Reorg. Plan No. III, § 3, eff. June 30, 1940, 5 F.R. 2108, [54 Stat. 1232][/us/stat/54/1232]; [Aug. 14, 1946, ch. 965][/us/act/1946-08-14/ch965], [60 Stat. 1080][/us/stat/60/1080]; [Pub. L. 85–624, § 2][/us/pl/85/624/s2], Aug. 12, 1958, [72 Stat. 566][/us/stat/72/566].)
+([Mar. 10, 1934, ch. 55][/us/act/1934-03-10/ch55], § 3, [48 Stat. 401][/us/stat/48/401]; 1940 Reorg. Plan No. III, § 3, eff. June 30, 1940, 5 F.R. 2108, [54 Stat. 1232][/us/stat/54/1232]; [Aug. 14, 1946, ch. 965][/us/act/1946-08-14/ch965], [60 Stat. 1080][/us/stat/60/1080]; [Pub. L. 85–624][/us/pl/85/624], § 2, Aug. 12, 1958, [72 Stat. 566][/us/stat/72/566].)
 
  __References in Text__ 
 
@@ -70,12 +70,12 @@
 [/us/usc/t16/s662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs662
 [/us/usc/t16/s662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs662
 [/us/stat/36/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F961
-[/us/act/1934-03-10/ch55/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-10%2Fch55%2Fs3
+[/us/act/1934-03-10/ch55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-10%2Fch55
 [/us/stat/48/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F401
 [/us/stat/54/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1232
 [/us/act/1946-08-14/ch965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch965
 [/us/stat/60/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1080
-[/us/pl/85/624/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F624%2Fs2
+[/us/pl/85/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F624
 [/us/stat/72/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F566
 [/us/act/1911-03-01/ch186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-01%2Fch186
 [/us/stat/36/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F961

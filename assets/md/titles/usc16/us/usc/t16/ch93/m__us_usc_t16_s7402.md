@@ -53,7 +53,7 @@
 
         (B) does not include any scientific research activity that is conducted by a scientific research vessel.
 
-([Pub. L. 114–81, title III, § 303][/us/pl/114/81/s303], Nov. 5, 2015, [129 Stat. 664][/us/stat/129/664].)
+([Pub. L. 114–81, title III][/us/pl/114/81/tIII], § 303, Nov. 5, 2015, [129 Stat. 664][/us/stat/129/664].)
 
  __References in Text__ 
 
@@ -68,7 +68,7 @@
 
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
 [/us/usc/t16/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1802
-[/us/pl/114/81/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs303
+[/us/pl/114/81/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2FtIII
 [/us/stat/129/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F664
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331

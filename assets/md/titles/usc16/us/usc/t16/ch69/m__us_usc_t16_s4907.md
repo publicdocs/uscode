@@ -45,7 +45,7 @@
 
         The Secretary shall terminate a quota or moratorium established under subsection (a) of this section if the Secretary finds that the reasons for establishing the quota or moratorium no longer exist.
 
-([Pub. L. 102–440, title I, § 108][/us/pl/102/440/s108], Oct. 23, 1992, [106 Stat. 2229][/us/stat/106/2229].)
+([Pub. L. 102–440, title I][/us/pl/102/440/tI], § 108, Oct. 23, 1992, [106 Stat. 2229][/us/stat/106/2229].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/102/440/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2Fs108
+[/us/pl/102/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2FtI
 [/us/stat/106/2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2229
 
 

@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s446.md) | [Next](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s447a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs447)
 
-## § 447. Repealed. [Pub. L. 94–429, § 3(d)][/us/pl/94/429/s3/d], Sept. 28, 1976, [90 Stat. 1342][/us/stat/90/1342]
+## § 447. Repealed. [Pub. L. 94–429][/us/pl/94/429], § 3(d), Sept. 28, 1976, [90 Stat. 1342][/us/stat/90/1342]
 
     Section, [act June 13, 1933, ch. 70][/us/act/1933-06-13/ch70], [48 Stat. 139][/us/stat/48/139], extended mining laws of United States to lands within the park subject to regulation by Secretary of the Interior.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/94/429/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F429%2Fs3%2Fd
+[/us/pl/94/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F429
 [/us/stat/90/1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1342
 [/us/act/1933-06-13/ch70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch70
 [/us/stat/48/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F139

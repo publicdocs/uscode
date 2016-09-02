@@ -25,7 +25,7 @@
 
     (4) generally implement this chapter in accordance with its purposes.
 
-([Pub. L. 106–247, § 6][/us/pl/106/247/s6], July 20, 2000, [114 Stat. 595][/us/stat/114/595].)
+([Pub. L. 106–247][/us/pl/106/247], § 6, July 20, 2000, [114 Stat. 595][/us/stat/114/595].)
 
 ----------
 
@@ -37,7 +37,7 @@
 [/us/usc/t16/s6104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6104
 [/us/usc/t16/s6104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6104
 [/us/usc/t16/s6104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6104
-[/us/pl/106/247/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F247%2Fs6
+[/us/pl/106/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F247
 [/us/stat/114/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F595
 
 

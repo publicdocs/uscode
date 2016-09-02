@@ -31,7 +31,7 @@
 
         The Secretary shall administer the botanical areas in accordance with the laws, rules and regulations applicable to the national forests in such manner as will best further the purposes of this section, as set forth in subsection (a). Except as provided in [section 460vv–14 of this title][/us/usc/t16/s460vv–14], vegetative manipulation, including the cutting of trees, shall be permitted in such areas only when necessary for the protection and interpretation of the unique plant species and unique plant communities within the area. The Secretary may permit expansion of roads, improvements, and other facilities in the vicinity of the Robert S. Kerr Nature Center.
 
-([Pub. L. 100–499, § 9][/us/pl/100/499/s9], Oct. 18, 1988, [102 Stat. 2495][/us/stat/102/2495].)
+([Pub. L. 100–499][/us/pl/100/499], § 9, Oct. 18, 1988, [102 Stat. 2495][/us/stat/102/2495].)
 
  __Change of Name__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t16/s460vv–14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460vv%E2%80%9314
-[/us/pl/100/499/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F499%2Fs9
+[/us/pl/100/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F499
 [/us/stat/102/2495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2495
 
 

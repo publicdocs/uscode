@@ -17,7 +17,7 @@
 
     Notwithstanding the provisions of [section 837g of this title][/us/usc/t16/s837g], the Secretary of Energy is authorized to construct or participate in the construction of such additional facilities as he deems necessary to allow mutually beneficial power sales between the Pacific Northwest and California and to accept funds contributed by non-Federal entities for that purpose.
 
-([Pub. L. 98–360, title III][/us/pl/98/360], July 16, 1984, [98 Stat. 416][/us/stat/98/416].)
+([Pub. L. 98–360, title III][/us/pl/98/360/tIII], July 16, 1984, [98 Stat. 416][/us/stat/98/416].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t16/s837g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs837g
-[/us/pl/98/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F360
+[/us/pl/98/360/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F360%2FtIII
 [/us/stat/98/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F416
 [/us/pl/88/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F552
 

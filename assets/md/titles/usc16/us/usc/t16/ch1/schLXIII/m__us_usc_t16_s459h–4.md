@@ -33,7 +33,7 @@
 
             Nothing in this subsection authorizes the Secretary to enforce Federal regulations outside the land area within the designated boundary of the seashore.
 
-([Pub. L. 91–660, § 5][/us/pl/91/660/s5], Jan. 8, 1971, [84 Stat. 1968][/us/stat/84/1968]; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 137(d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–232.)
+([Pub. L. 91–660][/us/pl/91/660], § 5, Jan. 8, 1971, [84 Stat. 1968][/us/stat/84/1968]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 137(d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–232.)
 
  __References in Text__ 
 
@@ -61,9 +61,9 @@
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
 [/us/usc/t16/s461–467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461%E2%80%93467
-[/us/pl/91/660/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F660%2Fs5
+[/us/pl/91/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F660
 [/us/stat/84/1968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1968
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/stat/30/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1

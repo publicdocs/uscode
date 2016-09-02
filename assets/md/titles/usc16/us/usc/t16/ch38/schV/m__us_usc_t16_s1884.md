@@ -35,7 +35,7 @@
 
         Beginning 1 year after January 12, 2007, the Secretary, in consultation with the Councils, shall submit biennial reports to Congress and the public on steps taken by the Secretary to identify, monitor, and protect deep sea coral areas, including summaries of the results of mapping, research, and data collection performed under the program.
 
-([Pub. L. 94–265, title IV, § 408][/us/pl/94/265/s408], as added [Pub. L. 109–479, title II, § 211][/us/pl/109/479/s211], Jan. 12, 2007, [120 Stat. 3618][/us/stat/120/3618].)
+([Pub. L. 94–265, title IV][/us/pl/94/265/tIV], § 408, as added [Pub. L. 109–479, title II][/us/pl/109/479/tII], § 211, Jan. 12, 2007, [120 Stat. 3618][/us/stat/120/3618].)
 
 ----------
 
@@ -44,8 +44,8 @@
 ----------
 ----------
 
-[/us/pl/94/265/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs408
-[/us/pl/109/479/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs211
+[/us/pl/94/265/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2FtIV
+[/us/pl/109/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtII
 [/us/stat/120/3618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3618
 
 

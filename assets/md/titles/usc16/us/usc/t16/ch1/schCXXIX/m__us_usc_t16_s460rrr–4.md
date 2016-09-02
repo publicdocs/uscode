@@ -83,7 +83,7 @@
 
         The Secretary shall publish notice of the management plans in the Federal Register.
 
-([Pub. L. 109–337, § 6][/us/pl/109/337/s6], Oct. 12, 2006, [120 Stat. 1779][/us/stat/120/1779].)
+([Pub. L. 109–337][/us/pl/109/337], § 6, Oct. 12, 2006, [120 Stat. 1779][/us/stat/120/1779].)
 
 ----------
 
@@ -93,7 +93,7 @@
 ----------
 
 [/us/usc/t43/s1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1712
-[/us/pl/109/337/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F337%2Fs6
+[/us/pl/109/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F337
 [/us/stat/120/1779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1779
 
 

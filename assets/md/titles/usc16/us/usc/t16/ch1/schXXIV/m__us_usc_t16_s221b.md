@@ -17,7 +17,7 @@
 
     The provisions of the Act of February 26, 1919, entitled “An Act to establish the Grand Canyon National Park in the State of Arizona,” the Act of August 25, 1916, entitled “An Act to establish a national park service, and for other purposes,”  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and all acts supplementary to and amendatory of said Acts are made applicable to and extended over the lands hereby added to the park: Provided, That the provisions of the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\] shall not apply to or extend over such lands.
 
-([Feb. 25, 1927, ch. 197, § 2][/us/act/1927-02-25/ch197/s2], [44 Stat. 1240][/us/stat/44/1240].)
+([Feb. 25, 1927, ch. 197][/us/act/1927-02-25/ch197], § 2, [44 Stat. 1240][/us/stat/44/1240].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
-[/us/act/1927-02-25/ch197/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-25%2Fch197%2Fs2
+[/us/act/1927-02-25/ch197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-25%2Fch197
 [/us/stat/44/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1240
 [/us/act/1919-02-26/ch44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-02-26%2Fch44
 [/us/stat/40/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1175

@@ -31,7 +31,7 @@
 
         Furthermore, after timely notice and during the period of research provided in this section, duly authorized agents of the Secretary are hereby empowered to board and to accompany any commercial fishing vessel documented under the laws of the United States, there being space available, on a regular fishing trip for the purpose of conducting research or observing operations in regard to the development of improved fishing methods and gear as authorized by this section. Such research and observation shall be carried out in such manner as to minimize interference with fishing operations. The Secretary shall provide for the cost of quartering and maintaining such agents. No master, operator, or owner of such a vessel shall impair or in any way interfere with the research or observation being carried out by agents of the Secretary pursuant to this section.
 
-([Pub. L. 92–522, title I, § 111][/us/pl/92/522/s111], Oct. 21, 1972, [86 Stat. 1041][/us/stat/86/1041].)
+([Pub. L. 92–522, title I][/us/pl/92/522/tI], § 111, Oct. 21, 1972, [86 Stat. 1041][/us/stat/86/1041].)
 
 ----------
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t16/s1371/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1371%2Fa%2F2
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/92/522/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs111
+[/us/pl/92/522/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtI
 [/us/stat/86/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1041
 
 

@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated such sums as may be necessary to carry out this subchapter.
 
-([Pub. L. 105–342, § 6][/us/pl/105/342/s6], Nov. 2, 1998, [112 Stat. 3202][/us/stat/112/3202].)
+([Pub. L. 105–342][/us/pl/105/342], § 6, Nov. 2, 1998, [112 Stat. 3202][/us/stat/112/3202].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/105/342/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F342%2Fs6
+[/us/pl/105/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F342
 [/us/stat/112/3202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3202
 
 

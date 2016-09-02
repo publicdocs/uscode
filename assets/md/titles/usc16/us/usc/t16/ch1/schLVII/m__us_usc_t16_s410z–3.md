@@ -17,7 +17,7 @@
 
     The Secretary may acquire property or any interest therein by donation, purchase, or exchange for the visitor center, and notwithstanding any other provision of law, funds appropriated for the development and operation of the visitor center may be expended on property in which the Secretary has acquired less than the fee simple interest therein, including a leasehold interest.
 
-([Pub. L. 93–431, § 5][/us/pl/93/431/s5], Oct. 1, 1974, [88 Stat. 1186][/us/stat/88/1186].)
+([Pub. L. 93–431][/us/pl/93/431], § 5, Oct. 1, 1974, [88 Stat. 1186][/us/stat/88/1186].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/431/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F431%2Fs5
+[/us/pl/93/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F431
 [/us/stat/88/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1186
 
 

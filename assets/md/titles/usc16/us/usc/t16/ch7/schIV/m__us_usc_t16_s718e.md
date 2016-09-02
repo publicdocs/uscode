@@ -33,31 +33,31 @@
 
         of Migratory Bird Hunting and Conservation Stamps authorized by sections 718 to 718b, 718c, 718d, and 718f to 718h of this title, which otherwise satisfies the requirements of clauses (ii) and (iii) of [section 504(1) of title 18][/us/usc/t18/s504/1]. Any such reproduction shall be subject to those terms and conditions deemed necessary by the Secretary by regulation or otherwise and any proceeds received by the Federal Government as a result of such reproduction shall be paid, after deducting expenses for marketing, into the Migratory Bird Conservation Fund established under [section 718d of this title][/us/usc/t16/s718d].
 
-([Mar. 16, 1934, ch. 71, § 5][/us/act/1934-03-16/ch71/s5], [48 Stat. 452][/us/stat/48/452]; [June 15, 1935, ch. 261][/us/act/1935-06-15/ch261], title I, § 5, [49 Stat. 380][/us/stat/49/380]; [Pub. L. 98–369, div. A, title X, § 1077(a)][/us/pl/98/369/s1077/a], (b)(3), July 18, 1984, [98 Stat. 1054][/us/stat/98/1054], 1055; [Pub. L. 100–653, title III, § 302][/us/pl/100/653/s302], Nov. 14, 1988, [102 Stat. 3827][/us/stat/102/3827]; [Pub. L. 109–266, § 10(f)][/us/pl/109/266/s10/f], Aug. 3, 2006, [120 Stat. 677][/us/stat/120/677].)
+([Mar. 16, 1934, ch. 71][/us/act/1934-03-16/ch71], § 5, [48 Stat. 452][/us/stat/48/452]; [June 15, 1935, ch. 261][/us/act/1935-06-15/ch261], title I, § 5, [49 Stat. 380][/us/stat/49/380]; [Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1077(a), (b)(3), July 18, 1984, [98 Stat. 1054][/us/stat/98/1054], 1055; [Pub. L. 100–653, title III][/us/pl/100/653/tIII], § 302, Nov. 14, 1988, [102 Stat. 3827][/us/stat/102/3827]; [Pub. L. 109–266][/us/pl/109/266], § 10(f), Aug. 3, 2006, [120 Stat. 677][/us/stat/120/677].)
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–266, § 10(f)(1)][/us/pl/109/266/s10/f/1], inserted section catchline.
+    2006—[Pub. L. 109–266][/us/pl/109/266], § 10(f)(1), inserted section catchline.
 
-    Subsec. (a). [Pub. L. 109–266, § 10(f)(1)][/us/pl/109/266/s10/f/1], inserted heading and substituted “Migratory Bird Hunting and Conservation Stamp” for “migratory-bird hunting stamp” in text.
+    Subsec. (a). [Pub. L. 109–266][/us/pl/109/266], § 10(f)(1), inserted heading and substituted “Migratory Bird Hunting and Conservation Stamp” for “migratory-bird hunting stamp” in text.
 
-    Subsec. (b). [Pub. L. 109–266, § 10(f)(2)][/us/pl/109/266/s10/f/2], inserted heading and substituted “Except as provided in clauses (i) and (ii) of section 504(l)(D) of title 18, no person shall alter” for “Except as provided in clauses (i) and (ii) of [section 504(1)(D) of title 18][/us/usc/t18/s504/1/D], no person shall alter” in text.
+    Subsec. (b). [Pub. L. 109–266][/us/pl/109/266], § 10(f)(2), inserted heading and substituted “Except as provided in clauses (i) and (ii) of section 504(l)(D) of title 18, no person shall alter” for “Except as provided in clauses (i) and (ii) of [section 504(1)(D) of title 18][/us/usc/t18/s504/1/D], no person shall alter” in text.
 
-    Subsec. (c). [Pub. L. 109–266, § 10(f)(3)(C)(ii)][/us/pl/109/266/s10/f/3/C/ii], which directed substitution of “shall be paid, after deducting expenses for marketing, into the Migratory Bird Conservation Fund” for “shall be paid into the migratory bird conservation fund” in concluding provisions, was executed by making the substitution for “shall be paid, after deducting expenses for marketing, into the migratory bird conservation fund” to reflect the probable intent of Congress.
+    Subsec. (c). [Pub. L. 109–266][/us/pl/109/266], § 10(f)(3)(C)(ii), which directed substitution of “shall be paid, after deducting expenses for marketing, into the Migratory Bird Conservation Fund” for “shall be paid into the migratory bird conservation fund” in concluding provisions, was executed by making the substitution for “shall be paid, after deducting expenses for marketing, into the migratory bird conservation fund” to reflect the probable intent of Congress.
 
-    [Pub. L. 109–266, § 10(f)(3)(A)][/us/pl/109/266/s10/f/3/A], (B), (C)(i), inserted heading, substituted “Secretary may” for “Secretary of the Interior may” in introductory provisions, and substituted “Secretary” for “Secretary of the Interior” and “Migratory Bird Hunting and Conservation Stamps” for “migratory bird hunting stamps” in concluding provisions.
+    [Pub. L. 109–266][/us/pl/109/266], § 10(f)(3)(A), (B), (C)(i), inserted heading, substituted “Secretary may” for “Secretary of the Interior may” in introductory provisions, and substituted “Secretary” for “Secretary of the Interior” and “Migratory Bird Hunting and Conservation Stamps” for “migratory bird hunting stamps” in concluding provisions.
 
     1988—Subsec. (c). [Pub. L. 100–653][/us/pl/100/653] inserted “, after deducting expenses for marketing,” after “paid”.
 
-    1984—Subsec. (b). [Pub. L. 98–369, § 1077(b)(3)][/us/pl/98/369/s1077/b/3], substituted “Except as provided in clauses (i) and (ii) of [section 504(1)(D) of title 18][/us/usc/t18/s504/1/D], no person” for “No person”.
+    1984—Subsec. (b). [Pub. L. 98–369][/us/pl/98/369], § 1077(b)(3), substituted “Except as provided in clauses (i) and (ii) of [section 504(1)(D) of title 18][/us/usc/t18/s504/1/D], no person” for “No person”.
 
-    Subsec. (c). [Pub. L. 98–369, § 1077(a)][/us/pl/98/369/s1077/a], added subsec. (c).
+    Subsec. (c). [Pub. L. 98–369][/us/pl/98/369], § 1077(a), added subsec. (c).
 
     1935—Act June 15, 1935, amended section generally.
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title X, § 1077(c)][/us/pl/98/369/s1077/c], July 18, 1984, [98 Stat. 1055][/us/stat/98/1055], provided that: 
+[Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1077(c), July 18, 1984, [98 Stat. 1055][/us/stat/98/1055], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 504 of Title 18][/us/usc/t18/s504], Crimes and Criminal Procedure\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].”
 
@@ -72,27 +72,27 @@
 [/us/usc/t18/s474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs474
 [/us/usc/t18/s504/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs504%2F1
 [/us/usc/t16/s718d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs718d
-[/us/act/1934-03-16/ch71/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-16%2Fch71%2Fs5
+[/us/act/1934-03-16/ch71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-16%2Fch71
 [/us/stat/48/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F452
 [/us/act/1935-06-15/ch261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-06-15%2Fch261
 [/us/stat/49/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F380
-[/us/pl/98/369/s1077/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1077%2Fa
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1054
-[/us/pl/100/653/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2Fs302
+[/us/pl/100/653/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2FtIII
 [/us/stat/102/3827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3827
-[/us/pl/109/266/s10/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266%2Fs10%2Ff
+[/us/pl/109/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266
 [/us/stat/120/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F677
-[/us/pl/109/266/s10/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266%2Fs10%2Ff%2F1
-[/us/pl/109/266/s10/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266%2Fs10%2Ff%2F1
-[/us/pl/109/266/s10/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266%2Fs10%2Ff%2F2
+[/us/pl/109/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266
+[/us/pl/109/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266
+[/us/pl/109/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266
 [/us/usc/t18/s504/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs504%2F1%2FD
-[/us/pl/109/266/s10/f/3/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266%2Fs10%2Ff%2F3%2FC%2Fii
-[/us/pl/109/266/s10/f/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266%2Fs10%2Ff%2F3%2FA
+[/us/pl/109/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266
+[/us/pl/109/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266
 [/us/pl/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653
-[/us/pl/98/369/s1077/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1077%2Fb%2F3
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/usc/t18/s504/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs504%2F1%2FD
-[/us/pl/98/369/s1077/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1077%2Fa
-[/us/pl/98/369/s1077/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1077%2Fc
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1055
 [/us/usc/t18/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs504
 

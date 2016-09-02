@@ -57,7 +57,7 @@
 
         The Commission shall establish voluntary technical and citizen advisory committees to assist the Commission in carrying out its functions and responsibilities pursuant to sections 544 to 544p of this title.
 
-([Pub. L. 99–663, § 5][/us/pl/99/663/s5], Nov. 17, 1986, [100 Stat. 4277][/us/stat/100/4277].)
+([Pub. L. 99–663][/us/pl/99/663], § 5, Nov. 17, 1986, [100 Stat. 4277][/us/stat/100/4277].)
 
 ----------
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/pl/99/663/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663%2Fs5
+[/us/pl/99/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663
 [/us/stat/100/4277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4277
 
 

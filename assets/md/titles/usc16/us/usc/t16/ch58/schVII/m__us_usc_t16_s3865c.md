@@ -255,7 +255,7 @@
 
         The relevant provisions of this section shall also apply to a 30-year contract.
 
-([Pub. L. 99–198, title XII, § 1265C][/us/pl/99/198/s1265C], as added [Pub. L. 113–79, title II, § 2301(a)][/us/pl/113/79/s2301/a], Feb. 7, 2014, [128 Stat. 737][/us/stat/128/737].)
+([Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1265C, as added [Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2301(a), Feb. 7, 2014, [128 Stat. 737][/us/stat/128/737].)
 
 ----------
 
@@ -264,8 +264,8 @@
 ----------
 ----------
 
-[/us/pl/99/198/s1265C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1265C
-[/us/pl/113/79/s2301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2301%2Fa
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F737
 
 

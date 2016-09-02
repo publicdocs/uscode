@@ -17,7 +17,7 @@
 
     Effective on October 1, 1978, there are hereby authorized to be appropriated $33,000,000 to carry out the rehabilitation provisions of this Act.
 
-([Pub. L. 95–250, title I, § 105][/us/pl/95/250/s105], Mar. 27, 1978, [92 Stat. 171][/us/stat/92/171].)
+([Pub. L. 95–250, title I][/us/pl/95/250/tI], § 105, Mar. 27, 1978, [92 Stat. 171][/us/stat/92/171].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/95/250/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250%2Fs105
+[/us/pl/95/250/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250%2FtI
 [/us/stat/92/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F171
 [/us/pl/95/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250
 [/us/stat/92/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F163

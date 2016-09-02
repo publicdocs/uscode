@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated such sums, but not more than $193,233 as may be necessary to carry out the provisions of sections 111c to 111e of this title.
 
-([Pub. L. 88–235, § 3][/us/pl/88/235/s3], Dec. 23, 1963, [77 Stat. 474][/us/stat/77/474]; [Pub. L. 94–578, title I, § 101(8)][/us/pl/94/578/s101/8], Oct. 21, 1976, [90 Stat. 2732][/us/stat/90/2732].)
+([Pub. L. 88–235][/us/pl/88/235], § 3, Dec. 23, 1963, [77 Stat. 474][/us/stat/77/474]; [Pub. L. 94–578, title I][/us/pl/94/578/tI], § 101(8), Oct. 21, 1976, [90 Stat. 2732][/us/stat/90/2732].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/88/235/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F235%2Fs3
+[/us/pl/88/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F235
 [/us/stat/77/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F474
-[/us/pl/94/578/s101/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2Fs101%2F8
+[/us/pl/94/578/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2FtI
 [/us/stat/90/2732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2732
 [/us/pl/94/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578
 

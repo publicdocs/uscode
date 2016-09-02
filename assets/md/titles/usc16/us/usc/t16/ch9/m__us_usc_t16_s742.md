@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, acts [Mar. 4, 1911, ch. 285, § 1][/us/act/1911-03-04/ch285/s1], [36 Stat. 1436][/us/stat/36/1436]; [Mar. 4, 1913, ch. 141, § 1][/us/act/1913-03-04/ch141/s1], [37 Stat. 736][/us/stat/37/736], provided for an acting Commissioner of Fisheries.
+    Section, acts [Mar. 4, 1911, ch. 285][/us/act/1911-03-04/ch285], § 1, [36 Stat. 1436][/us/stat/36/1436]; [Mar. 4, 1913, ch. 141][/us/act/1913-03-04/ch141], § 1, [37 Stat. 736][/us/stat/37/736], provided for an acting Commissioner of Fisheries.
 
  __Transfer of Functions__ 
 
@@ -25,7 +25,7 @@
 
     Reorg. Plan No. III of 1940, § 3, eff. June 30, 1940, 5 F.R. 2108, [54 Stat. 1232][/us/stat/54/1232], set out in the Appendix to Title 5, Government Organization and Employees, consolidated Bureau of Fisheries and Bureau of Biological Survey into one agency in Department of the Interior to be known as the Fish and Wildlife Service. It was further provided that functions of consolidated agency should be administered under direction and supervision of Secretary of the Interior by a director and assistants, and that offices of Commissioner and Deputy Commissioner of Fisheries and offices of Chief and Associate Chief of Bureau of Biological Survey should be abolished and their functions transferred to consolidated agency.
 
-    The Fish and Wildlife Service, created by Reorg. Plan No. III of 1940 was succeeded by United States Fish and Wildlife Service established by [act Aug. 8, 1956, ch. 1036, § 3][/us/act/1956-08-08/ch1036/s3], [70 Stat. 1119][/us/stat/70/1119]. See [section 742b of this title][/us/usc/t16/s742b].
+    The Fish and Wildlife Service, created by Reorg. Plan No. III of 1940 was succeeded by United States Fish and Wildlife Service established by [act Aug. 8, 1956, ch. 1036][/us/act/1956-08-08/ch1036], § 3, [70 Stat. 1119][/us/stat/70/1119]. See [section 742b of this title][/us/usc/t16/s742b].
 
  __Ex. Ord. No. 9634. Establishment of Fishery Conservation Zones__ 
 
@@ -42,13 +42,13 @@
 ----------
 ----------
 
-[/us/act/1911-03-04/ch285/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-04%2Fch285%2Fs1
+[/us/act/1911-03-04/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-04%2Fch285
 [/us/stat/36/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1436
-[/us/act/1913-03-04/ch141/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141%2Fs1
+[/us/act/1913-03-04/ch141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141
 [/us/stat/37/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F736
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
 [/us/stat/54/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1232
-[/us/act/1956-08-08/ch1036/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1036%2Fs3
+[/us/act/1956-08-08/ch1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1036
 [/us/stat/70/1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1119
 [/us/usc/t16/s742b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs742b
 

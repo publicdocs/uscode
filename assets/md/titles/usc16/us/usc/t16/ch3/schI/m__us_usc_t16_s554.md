@@ -17,7 +17,7 @@
 
     Forest supervisors and rangers shall be selected, when practicable, from qualified citizens of the States or Territories in which the national forests, respectively, are situated.
 
-([Feb. 1, 1905, ch. 288, § 3][/us/act/1905-02-01/ch288/s3], [33 Stat. 628][/us/stat/33/628].)
+([Feb. 1, 1905, ch. 288][/us/act/1905-02-01/ch288], § 3, [33 Stat. 628][/us/stat/33/628].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1905-02-01/ch288/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-01%2Fch288%2Fs3
+[/us/act/1905-02-01/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-01%2Fch288
 [/us/stat/33/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F628
 [/us/act/1907-03-04/ch2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2907
 [/us/stat/34/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F1269

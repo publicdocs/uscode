@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as may be necessary to carry out the provisions of sections 459b to 459b–8 of this title; except that no more than $42,917,575 shall be appropriated for the acquisition of land and waters and improvements thereon, and interests therein, and incidental costs relating thereto, in accordance with the provisions of such sections.
 
-([Pub. L. 87–126, § 9][/us/pl/87/126/s9], Aug. 7, 1961, [75 Stat. 293][/us/stat/75/293]; [Pub. L. 91–252][/us/pl/91/252], May 14, 1970, [84 Stat. 216][/us/stat/84/216]; [Pub. L. 98–141, § 3][/us/pl/98/141/s3], Oct. 31, 1983, [97 Stat. 909][/us/stat/97/909].)
+([Pub. L. 87–126][/us/pl/87/126], § 9, Aug. 7, 1961, [75 Stat. 293][/us/stat/75/293]; [Pub. L. 91–252][/us/pl/91/252], May 14, 1970, [84 Stat. 216][/us/stat/84/216]; [Pub. L. 98–141][/us/pl/98/141], § 3, Oct. 31, 1983, [97 Stat. 909][/us/stat/97/909].)
 
  __Amendments__ 
 
@@ -32,11 +32,11 @@
 ----------
 ----------
 
-[/us/pl/87/126/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F126%2Fs9
+[/us/pl/87/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F126
 [/us/stat/75/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F293
 [/us/pl/91/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F252
 [/us/stat/84/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F216
-[/us/pl/98/141/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F141%2Fs3
+[/us/pl/98/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F141
 [/us/stat/97/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F909
 [/us/pl/98/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F141
 [/us/pl/91/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F252

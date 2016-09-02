@@ -17,7 +17,7 @@
 
     Upon completion of the acquisition of the land and the work of the commission, the Secretary of the Interior shall render a report thereon to Congress, and thereafter the park shall be placed in charge of a superintendent at a salary to be fixed by the Secretary of the Interior and paid out of the appropriation available for the maintenance of the park.
 
-([Feb. 14, 1927, ch. 127, § 10][/us/act/1927-02-14/ch127/s10], [44 Stat. 1094][/us/stat/44/1094]; Ex. Ord. No. 6166, § 2, June 10, 1933; Ex. Ord. No. 6228, § 1, July 28, 1933.)
+([Feb. 14, 1927, ch. 127][/us/act/1927-02-14/ch127], § 10, [44 Stat. 1094][/us/stat/44/1094]; Ex. Ord. No. 6166, § 2, June 10, 1933; Ex. Ord. No. 6228, § 1, July 28, 1933.)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1927-02-14/ch127/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-14%2Fch127%2Fs10
+[/us/act/1927-02-14/ch127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-14%2Fch127
 [/us/stat/44/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1094
 [/us/usc/t16/s425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs425
 

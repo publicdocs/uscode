@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated to the Fund $5,000,000 for each of fiscal years 2005 through 2009.
 
-([Pub. L. 108–266, § 7][/us/pl/108/266/s7], July 2, 2004, [118 Stat. 795][/us/stat/118/795].)
+([Pub. L. 108–266][/us/pl/108/266], § 7, July 2, 2004, [118 Stat. 795][/us/stat/118/795].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/108/266/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F266%2Fs7
+[/us/pl/108/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F266
 [/us/stat/118/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F795
 
 

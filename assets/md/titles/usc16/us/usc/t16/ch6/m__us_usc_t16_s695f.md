@@ -17,7 +17,7 @@
 
     The cost of investigation, planning, and construction of the works and the delivery of water as authorized in [section 695e of this title][/us/usc/t16/s695e] shall not be reimbursable or returnable under the Federal reclamation laws (Act of June 17, 1902, [32 Stat. 388][/us/stat/32/388], and the Acts amendatory thereof and supplementary thereto).
 
-([Aug. 27, 1954, ch. 1012, § 3][/us/act/1954-08-27/ch1012/s3], [68 Stat. 879][/us/stat/68/879].)
+([Aug. 27, 1954, ch. 1012][/us/act/1954-08-27/ch1012], § 3, [68 Stat. 879][/us/stat/68/879].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t16/s695e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs695e
 [/us/stat/32/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F388
-[/us/act/1954-08-27/ch1012/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1012%2Fs3
+[/us/act/1954-08-27/ch1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1012
 [/us/stat/68/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F879
 [/us/act/1902-06-17/ch1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-06-17%2Fch1093
 [/us/stat/32/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F388

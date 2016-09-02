@@ -147,7 +147,7 @@
 
             On the date of acquisition, any land acquired under subparagraph (A) shall be incorporated in, and be managed as part of, the Management Unit.
 
-([Pub. L. 111–11, title I, § 1205(a)][/us/pl/111/11/s1205/a], Mar. 30, 2009, [123 Stat. 1014][/us/stat/123/1014].)
+([Pub. L. 111–11, title I][/us/pl/111/11/tI], § 1205(a), Mar. 30, 2009, [123 Stat. 1014][/us/stat/123/1014].)
 
  __References in Text__ 
 
@@ -168,7 +168,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s1205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs1205%2Fa
+[/us/pl/111/11/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtI
 [/us/stat/123/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1014
 [/us/pl/111/11/s1206/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs1206%2Fa%2F2
 [/us/stat/123/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1018

@@ -17,7 +17,7 @@
 
     The Secretary is authorized to distribute pamphlets and other such appropriate items in order to promote the purposes of the TPIA Program.
 
-([Pub. L. 101–628, title XI, § 1107][/us/pl/101/628/s1107], Nov. 28, 1990, [104 Stat. 4503][/us/stat/104/4503].)
+([Pub. L. 101–628, title XI][/us/pl/101/628/tXI], § 1107, Nov. 28, 1990, [104 Stat. 4503][/us/stat/104/4503].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/628/s1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628%2Fs1107
+[/us/pl/101/628/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628%2FtXI
 [/us/stat/104/4503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4503
 
 

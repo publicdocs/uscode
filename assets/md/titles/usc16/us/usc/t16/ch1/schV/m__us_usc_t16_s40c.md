@@ -17,7 +17,7 @@
 
     For the purposes of sections 40a and 40b of this title, the Secretary of the Treasury is authorized to maintain hereafter in a special fund a sufficient portion of the park revenues, based upon estimates to be submitted by the Secretary of the Interior, and to expend the same upon certification by the Secretary of the Interior.
 
-([June 4, 1948, ch. 417, § 3][/us/act/1948-06-04/ch417/s3], [62 Stat. 339][/us/stat/62/339].)
+([June 4, 1948, ch. 417][/us/act/1948-06-04/ch417], § 3, [62 Stat. 339][/us/stat/62/339].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1948-06-04/ch417/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-04%2Fch417%2Fs3
+[/us/act/1948-06-04/ch417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-04%2Fch417
 [/us/stat/62/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F339
 
 

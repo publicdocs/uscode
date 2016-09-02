@@ -19,7 +19,7 @@
 
     The Secretary of the Interior and the Secretary of Agriculture shall consult with respect to the implementation and enforcement of this chapter and to the maximum feasible extent coordinate the activities of their respective departments and in the implementation and enforcement of this chapter. The Secretaries are authorized and directed to undertake those studies of the habits of wild free-roaming horses and burros that they may deem necessary in order to carry out the provisions of this chapter.
 
-([Pub. L. 92–195, § 11][/us/pl/92/195/s11], formerly § 10, Dec. 15, 1971, [85 Stat. 651][/us/stat/85/651], renumbered [Pub. L. 94–579, title IV, § 404][/us/pl/94/579/s404], Oct. 21, 1976, [90 Stat. 2775][/us/stat/90/2775].)
+([Pub. L. 92–195][/us/pl/92/195], § 11, formerly § 10, Dec. 15, 1971, [85 Stat. 651][/us/stat/85/651], renumbered [Pub. L. 94–579, title IV][/us/pl/94/579/tIV], § 404, Oct. 21, 1976, [90 Stat. 2775][/us/stat/90/2775].)
 
  __Termination of Reporting Requirements__ 
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/92/195/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F195%2Fs11
+[/us/pl/92/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F195
 [/us/stat/85/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F651
-[/us/pl/94/579/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2Fs404
+[/us/pl/94/579/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2FtIV
 [/us/stat/90/2775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2775
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

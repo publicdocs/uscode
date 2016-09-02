@@ -119,7 +119,7 @@
 
         Each Board shall cease to exist on October 1, 1999, unless extended by Congress.
 
-([Pub. L. 92–532, title IV, § 403][/us/pl/92/532/s403], as added [Pub. L. 101–593, title III, § 301][/us/pl/101/593/s301], Nov. 16, 1990, [104 Stat. 2964][/us/stat/104/2964].)
+([Pub. L. 92–532, title IV][/us/pl/92/532/tIV], § 403, as added [Pub. L. 101–593, title III][/us/pl/101/593/tIII], § 301, Nov. 16, 1990, [104 Stat. 2964][/us/stat/104/2964].)
 
  __References in Text__ 
 
@@ -136,8 +136,8 @@
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t16/s1447c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1447c
 [/us/usc/t16/s1447e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1447e
-[/us/pl/92/532/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs403
-[/us/pl/101/593/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2Fs301
+[/us/pl/92/532/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2FtIV
+[/us/pl/101/593/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2FtIII
 [/us/stat/104/2964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2964
 [/us/pl/92/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532
 

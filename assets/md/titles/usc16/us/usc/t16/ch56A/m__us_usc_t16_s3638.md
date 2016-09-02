@@ -23,11 +23,11 @@
 
     (c) be consistent with United States obligations under the Treaty, domestic Indian treaties and other applicable law.
 
-([Pub. L. 99–5, § 9][/us/pl/99/5/s9], Mar. 15, 1985, [99 Stat. 13][/us/stat/99/13].)
+([Pub. L. 99–5][/us/pl/99/5], § 9, Mar. 15, 1985, [99 Stat. 13][/us/stat/99/13].)
 
  __References in Text__ 
 
-    [Section 3632(g) of this title][/us/usc/t16/s3632/g], referred to in text, was redesignated [section 3632(h) of this title][/us/usc/t16/s3632/h] by [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 144(c)(5)(B)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–239.
+    [Section 3632(g) of this title][/us/usc/t16/s3632/g], referred to in text, was redesignated [section 3632(h) of this title][/us/usc/t16/s3632/h] by [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 144(c)(5)(B)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–239.
 
 ----------
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/99/5/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5%2Fs9
+[/us/pl/99/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5
 [/us/stat/99/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F13
 [/us/usc/t16/s3632/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3632%2Fg
 [/us/usc/t16/s3632/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3632%2Fh
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

@@ -17,7 +17,7 @@
 
     Such park shall be under the control and direction of the Secretary of the Interior. The Secretary is authorized to prescribe from time to time such regulations for the care and management of such park as he may deem necessary.
 
-([Mar. 3, 1931, ch. 437, § 3][/us/act/1931-03-03/ch437/s3], [46 Stat. 1508][/us/stat/46/1508]; Ex. Ord. No. 6166, § 2, June 10, 1933; Ex. Ord. No. 6228, § 1, July 28, 1933.)
+([Mar. 3, 1931, ch. 437][/us/act/1931-03-03/ch437], § 3, [46 Stat. 1508][/us/stat/46/1508]; Ex. Ord. No. 6166, § 2, June 10, 1933; Ex. Ord. No. 6228, § 1, July 28, 1933.)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1931-03-03/ch437/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-03%2Fch437%2Fs3
+[/us/act/1931-03-03/ch437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-03%2Fch437
 [/us/stat/46/1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1508
 [/us/usc/t16/s430a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs430a
 

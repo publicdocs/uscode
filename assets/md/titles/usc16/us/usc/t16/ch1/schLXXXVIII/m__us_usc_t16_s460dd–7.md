@@ -35,7 +35,7 @@
 
         The findings and conclusions of the Secretary and the Highway Department of the State of Utah, specified in subsection (a), shall be submitted to Congress within two years of October 27, 1972, and shall include recommendations for any further legislation necessary to implement the findings and conclusions. It shall specify the funds necessary for appropriation in order to meet the timetable fixed in subsection (b).
 
-([Pub. L. 92–593, § 8][/us/pl/92/593/s8], Oct. 27, 1972, [86 Stat. 1312][/us/stat/86/1312].)
+([Pub. L. 92–593][/us/pl/92/593], § 8, Oct. 27, 1972, [86 Stat. 1312][/us/stat/86/1312].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/92/593/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F593%2Fs8
+[/us/pl/92/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F593
 [/us/stat/86/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1312
 
 

@@ -17,7 +17,7 @@
 
     The Secretary shall coordinate the management of the conservation area with that of surrounding State and Federal lands in such a manner as best to meet the present and future needs of the American people.
 
-([Pub. L. 101–621, § 9][/us/pl/101/621/s9], Nov. 16, 1990, [104 Stat. 3345][/us/stat/104/3345].)
+([Pub. L. 101–621][/us/pl/101/621], § 9, Nov. 16, 1990, [104 Stat. 3345][/us/stat/104/3345].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/621/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F621%2Fs9
+[/us/pl/101/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F621
 [/us/stat/104/3345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3345
 
 

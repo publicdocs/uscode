@@ -17,7 +17,7 @@
 
     The administration, protection, and development of the park shall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]; [16 U.S.C. 1–4][/us/usc/t16/s1–4]), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended and supplemented, and the Historic Sites Act of August 21, 1935 ([49 Stat. 666][/us/stat/49/666]; [16 U.S.C. 461–467][/us/usc/t16/s461–467]). <sup>\[1\]</sup> 
 
-([June 28, 1948, ch. 687, § 5][/us/act/1948-06-28/ch687/s5], [62 Stat. 1062][/us/stat/62/1062].)
+([June 28, 1948, ch. 687][/us/act/1948-06-28/ch687], § 5, [62 Stat. 1062][/us/stat/62/1062].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 [/us/usc/t16/s1–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1%E2%80%934
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
 [/us/usc/t16/s461–467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461%E2%80%93467
-[/us/act/1948-06-28/ch687/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-28%2Fch687%2Fs5
+[/us/act/1948-06-28/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-28%2Fch687
 [/us/stat/62/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1062
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1%E2%80%934

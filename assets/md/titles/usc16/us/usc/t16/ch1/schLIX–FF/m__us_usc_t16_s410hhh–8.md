@@ -61,7 +61,7 @@
 
         The Advisory Council shall terminate upon the completion of the management plan for the national park and preserve.
 
-([Pub. L. 106–530, § 10][/us/pl/106/530/s10], Nov. 22, 2000, [114 Stat. 2535][/us/stat/114/2535].)
+([Pub. L. 106–530][/us/pl/106/530], § 10, Nov. 22, 2000, [114 Stat. 2535][/us/stat/114/2535].)
 
  __References in Text__ 
 
@@ -74,7 +74,7 @@
 ----------
 ----------
 
-[/us/pl/106/530/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F530%2Fs10
+[/us/pl/106/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F530
 [/us/stat/114/2535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2535
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

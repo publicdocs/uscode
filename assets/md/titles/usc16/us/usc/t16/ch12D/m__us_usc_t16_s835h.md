@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to perform any and all acts and to prescribe such regulations as he may deem appropriate to carry out the provisions of sections 835d to 835g of this title.
 
-([June 29, 1940, ch. 460, § 5][/us/act/1940-06-29/ch460/s5], [54 Stat. 704][/us/stat/54/704].)
+([June 29, 1940, ch. 460][/us/act/1940-06-29/ch460], § 5, [54 Stat. 704][/us/stat/54/704].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1940-06-29/ch460/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-29%2Fch460%2Fs5
+[/us/act/1940-06-29/ch460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-29%2Fch460
 [/us/stat/54/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F704
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

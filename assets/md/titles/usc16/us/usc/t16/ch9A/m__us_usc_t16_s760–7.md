@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to establish, construct, equip, operate, and maintain a new fish hatchery in the State of West Virginia.
 
-([Aug. 6, 1956, ch. 978, § 1][/us/act/1956-08-06/ch978/s1], [70 Stat. 1057][/us/stat/70/1057].)
+([Aug. 6, 1956, ch. 978][/us/act/1956-08-06/ch978], § 1, [70 Stat. 1057][/us/stat/70/1057].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1956-08-06/ch978/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch978%2Fs1
+[/us/act/1956-08-06/ch978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch978
 [/us/stat/70/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1057
 
 

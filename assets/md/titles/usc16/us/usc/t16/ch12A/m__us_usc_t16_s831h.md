@@ -31,21 +31,21 @@
 
         The Corporation shall determine its own system of administrative accounts and the forms and contents of its contracts and other business documents except as otherwise provided in this chapter.
 
-([May 18, 1933, ch. 32, § 9][/us/act/1933-05-18/ch32/s9], [48 Stat. 63][/us/stat/48/63]; [Aug. 31, 1935, ch. 836, § 14][/us/act/1935-08-31/ch836/s14], [49 Stat. 1080][/us/stat/49/1080]; [Nov. 21, 1941, ch. 485][/us/act/1941-11-21/ch485], [55 Stat. 775][/us/stat/55/775]; [Aug. 30, 1954, ch. 1076, § 1][/us/act/1954-08-30/ch1076/s1] (32), [68 Stat. 968][/us/stat/68/968]; [Pub. L. 93–356, § 5][/us/pl/93/356/s5], July 25, 1974, [88 Stat. 390][/us/stat/88/390]; [Pub. L. 94–273, § 5(1)][/us/pl/94/273/s5/1], Apr. 21, 1976, [90 Stat. 377][/us/stat/90/377]; [Pub. L. 98–191, § 9(d)][/us/pl/98/191/s9/d], Dec. 1, 1983, [97 Stat. 1332][/us/stat/97/1332]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 108–447, div. C, title VI, § 603(a)(2)][/us/pl/108/447/s603/a/2], (b), Dec. 8, 2004, [118 Stat. 2966][/us/stat/118/2966].)
+([May 18, 1933, ch. 32][/us/act/1933-05-18/ch32], § 9, [48 Stat. 63][/us/stat/48/63]; [Aug. 31, 1935, ch. 836][/us/act/1935-08-31/ch836], § 14, [49 Stat. 1080][/us/stat/49/1080]; [Nov. 21, 1941, ch. 485][/us/act/1941-11-21/ch485], [55 Stat. 775][/us/stat/55/775]; [Aug. 30, 1954, ch. 1076][/us/act/1954-08-30/ch1076], § 1 (32), [68 Stat. 968][/us/stat/68/968]; [Pub. L. 93–356][/us/pl/93/356], § 5, July 25, 1974, [88 Stat. 390][/us/stat/88/390]; [Pub. L. 94–273][/us/pl/94/273], § 5(1), Apr. 21, 1976, [90 Stat. 377][/us/stat/90/377]; [Pub. L. 98–191][/us/pl/98/191], § 9(d), Dec. 1, 1983, [97 Stat. 1332][/us/stat/97/1332]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 108–447, div. C, title VI][/us/pl/108/447/dC/tVI], § 603(a)(2), (b), Dec. 8, 2004, [118 Stat. 2966][/us/stat/118/2966].)
 
  __Codification__ 
 
-    In subsec. (c), “sections 3526(a) and 3702(a) of title 31” substituted for “section 236, Revised Statutes, as amended by section 305 of the Budget and Accounting Act, 1921 ([42 Stat. 24][/us/stat/42/24] \[[31 U.S.C. 71][/us/usc/t31/s71]\])” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (c), “sections 3526(a) and 3702(a) of title 31” substituted for “section 236, Revised Statutes, as amended by section 305 of the Budget and Accounting Act, 1921 ([42 Stat. 24][/us/stat/42/24] \[[31 U.S.C. 71][/us/usc/t31/s71]\])” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
-    2004—Subsec. (a). [Pub. L. 108–447, § 603(a)(2)][/us/pl/108/447/s603/a/2], substituted “Board” for “board”.
+    2004—Subsec. (a). [Pub. L. 108–447][/us/pl/108/447], § 603(a)(2), substituted “Board” for “board”.
 
-    Subsec. (b). [Pub. L. 108–447, § 603(b)][/us/pl/108/447/s603/b], designated second and third pars. as subsecs. (c) and (d), respectively.
+    Subsec. (b). [Pub. L. 108–447][/us/pl/108/447], § 603(b), designated second and third pars. as subsecs. (c) and (d), respectively.
 
     [Pub. L. 108–271][/us/pl/108/271], in second par., substituted “Government Accountability Office” for “General Accounting Office” wherever appearing.
 
-    Subsecs. (c), (d). [Pub. L. 108–447, § 603(b)][/us/pl/108/447/s603/b], designated second and third pars. of subsec. (b) as subsecs. (c) and (d), respectively, and inserted headings.
+    Subsecs. (c), (d). [Pub. L. 108–447][/us/pl/108/447], § 603(b), designated second and third pars. of subsec. (b) as subsecs. (c) and (d), respectively, and inserted headings.
 
     1983—Subsec. (b)(3). [Pub. L. 98–191][/us/pl/98/191] substituted “$25,000” for “$10,000”.
 
@@ -78,32 +78,32 @@
 ----------
 ----------
 
-[/us/act/1933-05-18/ch32/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32%2Fs9
+[/us/act/1933-05-18/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32
 [/us/stat/48/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F63
-[/us/act/1935-08-31/ch836/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-31%2Fch836%2Fs14
+[/us/act/1935-08-31/ch836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-31%2Fch836
 [/us/stat/49/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1080
 [/us/act/1941-11-21/ch485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-11-21%2Fch485
 [/us/stat/55/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F775
-[/us/act/1954-08-30/ch1076/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1076%2Fs1
+[/us/act/1954-08-30/ch1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1076
 [/us/stat/68/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F968
-[/us/pl/93/356/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F356%2Fs5
+[/us/pl/93/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F356
 [/us/stat/88/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F390
-[/us/pl/94/273/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs5%2F1
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F377
-[/us/pl/98/191/s9/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F191%2Fs9%2Fd
+[/us/pl/98/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F191
 [/us/stat/97/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1332
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/108/447/s603/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs603%2Fa%2F2
+[/us/pl/108/447/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdC%2FtVI
 [/us/stat/118/2966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2966
 [/us/stat/42/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F24
 [/us/usc/t31/s71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs71
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/108/447/s603/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs603%2Fa%2F2
-[/us/pl/108/447/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs603%2Fb
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
-[/us/pl/108/447/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs603%2Fb
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/98/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F191
 [/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/pl/93/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F356

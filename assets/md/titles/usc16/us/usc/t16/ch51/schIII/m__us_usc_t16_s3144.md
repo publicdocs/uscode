@@ -27,7 +27,7 @@
 
         Subject to valid existing rights and the provisions of [section 3142 of this title][/us/usc/t16/s3142], the wilderness study area designated by this section shall, until Congress determines otherwise, be administered by the Secretary so as to maintain presently existing wilderness character and potential for inclusion in the National Wilderness Preservation System. Already established uses may be permitted to continue, subject to such restrictions as the Secretary deems desirable, in the manner and degree in which the same were being conducted on December 2, 1980.
 
-([Pub. L. 96–487, title X, § 1004][/us/pl/96/487/s1004], Dec. 2, 1980, [94 Stat. 2452][/us/stat/94/2452].)
+([Pub. L. 96–487, title X][/us/pl/96/487/tX], § 1004, Dec. 2, 1980, [94 Stat. 2452][/us/stat/94/2452].)
 
 ----------
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t16/s3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3141
 [/us/usc/t16/s3142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3142
-[/us/pl/96/487/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1004
+[/us/pl/96/487/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtX
 [/us/stat/94/2452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2452
 
 

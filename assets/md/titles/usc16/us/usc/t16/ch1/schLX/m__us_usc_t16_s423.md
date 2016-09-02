@@ -17,7 +17,7 @@
 
     In order to commemorate the campaign and siege and defense of Petersburg, Virginia, in 1864 and 1865 and to preserve for historical purposes the breastworks, earthworks, walls, or other defenses or shelters used by the armies therein, the battle fields at Petersburg, in the State of Virginia, are declared a national battlefield whenever the title to the same shall have been acquired by the United States by donation and the usual jurisdiction over the lands and roads of the same shall have been granted to the United States by the State of Virginia—that is to say, one hundred and eighty-five acres or so much thereof as the Secretary of the Interior may deem necessary in and about the city of Petersburg, State of Virginia.
 
-([July 3, 1926, ch. 746, § 1][/us/act/1926-07-03/ch746/s1], [44 Stat. 822][/us/stat/44/822]; Ex. Ord. No. 6166, § 2, June 10, 1933; Ex. Ord. No. 6228, § 1, July 28, 1933; [Pub. L. 87–603, § 1][/us/pl/87/603/s1], Aug. 24, 1962, [76 Stat. 403][/us/stat/76/403].)
+([July 3, 1926, ch. 746][/us/act/1926-07-03/ch746], § 1, [44 Stat. 822][/us/stat/44/822]; Ex. Ord. No. 6166, § 2, June 10, 1933; Ex. Ord. No. 6228, § 1, July 28, 1933; [Pub. L. 87–603][/us/pl/87/603], § 1, Aug. 24, 1962, [76 Stat. 403][/us/stat/76/403].)
 
  __Change of Name__ 
 
@@ -27,7 +27,7 @@
 
     Administrative functions of Petersburg National Military Park transferred to Department of the Interior by Ex. Ord. Nos. 6166 and 6228, set out as notes under [section 901 of Title 5][/us/usc/t5/s901], Government Organization and Employees.
 
-    National Park Service substituted for Office of National Parks, Buildings, and Reservations referred to in Ex. Ord. No. 6166, § 2, by [act Mar. 2, 1934, ch. 38, § 1][/us/act/1934-03-02/ch38/s1], [48 Stat. 389][/us/stat/48/389].
+    National Park Service substituted for Office of National Parks, Buildings, and Reservations referred to in Ex. Ord. No. 6166, § 2, by [act Mar. 2, 1934, ch. 38][/us/act/1934-03-02/ch38], § 1, [48 Stat. 389][/us/stat/48/389].
 
  __Transfer of Portion of Lands to Secretary of the Army__ 
 
@@ -42,14 +42,14 @@
 ----------
 ----------
 
-[/us/act/1926-07-03/ch746/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-03%2Fch746%2Fs1
+[/us/act/1926-07-03/ch746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-03%2Fch746
 [/us/stat/44/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F822
-[/us/pl/87/603/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F603%2Fs1
+[/us/pl/87/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F603
 [/us/stat/76/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F403
 [/us/pl/87/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F603
 [/us/usc/t16/s423h–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs423h%E2%80%931
 [/us/usc/t5/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs901
-[/us/act/1934-03-02/ch38/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-02%2Fch38%2Fs1
+[/us/act/1934-03-02/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-02%2Fch38
 [/us/stat/48/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F389
 [/us/act/1942-06-05/ch345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-06-05%2Fch345
 [/us/stat/56/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F322

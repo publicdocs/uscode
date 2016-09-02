@@ -71,15 +71,15 @@
 
         The map referred to in subsection (b) shall be on file and available for public inspection in the appropriate offices of the National Park Service.
 
-([Pub. L. 108–387, title I, § 103][/us/pl/108/387/s103], Oct. 30, 2004, [118 Stat. 2234][/us/stat/118/2234].)
+([Pub. L. 108–387, title I][/us/pl/108/387/tI], § 103, Oct. 30, 2004, [118 Stat. 2234][/us/stat/118/2234].)
 
  __References in Text__ 
 
-    [Public Law 85–435][/us/pl/85/435], referred to in subsec. (b)(1), is [Pub. L. 85–435][/us/pl/85/435], May 29, 1958, [72 Stat. 153][/us/stat/72/153], which enacted sections 450mm to 450mm–3 of this title and was repealed by [Pub. L. 108–387, title I, § 105(a)][/us/pl/108/387/s105/a], Oct. 30, 2004, [118 Stat. 2236][/us/stat/118/2236]. For complete classification of this Act to the Code, see Tables.
+    [Public Law 85–435][/us/pl/85/435], referred to in subsec. (b)(1), is [Pub. L. 85–435][/us/pl/85/435], May 29, 1958, [72 Stat. 153][/us/stat/72/153], which enacted sections 450mm to 450mm–3 of this title and was repealed by [Pub. L. 108–387, title I][/us/pl/108/387/tI], § 105(a), Oct. 30, 2004, [118 Stat. 2236][/us/stat/118/2236]. For complete classification of this Act to the Code, see Tables.
 
  __Fort Clatsop National Memorial__ 
 
-[Pub. L. 107–221, § 2][/us/pl/107/221/s2], Aug. 21, 2002, [116 Stat. 1333][/us/stat/116/1333], provided that: 
+[Pub. L. 107–221][/us/pl/107/221], § 2, Aug. 21, 2002, [116 Stat. 1333][/us/stat/116/1333], provided that: 
 
 > “The Congress finds the following:
 
@@ -105,14 +105,14 @@
 ----------
 
 [/us/pl/85/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F435
-[/us/pl/108/387/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F387%2Fs103
+[/us/pl/108/387/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F387%2FtI
 [/us/stat/118/2234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2234
 [/us/pl/85/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F435
 [/us/pl/85/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F435
 [/us/stat/72/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F153
-[/us/pl/108/387/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F387%2Fs105%2Fa
+[/us/pl/108/387/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F387%2FtI
 [/us/stat/118/2236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2236
-[/us/pl/107/221/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F221%2Fs2
+[/us/pl/107/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F221
 [/us/stat/116/1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1333
 [/us/pl/85/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F435
 [/us/usc/t16/s410kkk–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410kkk%E2%80%933

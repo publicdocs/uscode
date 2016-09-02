@@ -25,7 +25,7 @@
 
     (d) Nothing in this subchapter shall deprive the members of the Hualapai Tribe of hunting and fishing privileges presently exercised by them, nor diminish those rights and privileges of that part of the reservation which is included in the Lake Mead Recreation Area. <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Lake Mead National Recreation Area”. </sup></sup> 
 
-([Pub. L. 88–639, § 3][/us/pl/88/639/s3], Oct. 8, 1964, [78 Stat. 1039][/us/stat/78/1039].)
+([Pub. L. 88–639][/us/pl/88/639], § 3, Oct. 8, 1964, [78 Stat. 1039][/us/stat/78/1039].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/88/639/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F639%2Fs3
+[/us/pl/88/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F639
 [/us/stat/78/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1039
 
 

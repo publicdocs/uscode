@@ -17,7 +17,7 @@
 
     Power and energy marketed by the Southwestern Power Administration pursuant to [section 825s of this title][/us/usc/t16/s825s], shall be sold at uniform systemwide rates, without discrimination between customers to whom the Southwestern Power Administration delivers such power and energy by means of transmission lines or facilities constructed with appropriated funds, and customers to whom the Southwestern Power Administration delivers such power and energy by means of transmission lines or facilities, the use of which is acquired by lease, wheeling, or other contractual arrangements.
 
-([Pub. L. 95–456, § 1][/us/pl/95/456/s1], Oct. 13, 1978, [92 Stat. 1230][/us/stat/92/1230].)
+([Pub. L. 95–456][/us/pl/95/456], § 1, Oct. 13, 1978, [92 Stat. 1230][/us/stat/92/1230].)
 
  __Codification__ 
 
@@ -25,7 +25,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 95–456, § 2][/us/pl/95/456/s2], Oct. 13, 1978, [92 Stat. 1230][/us/stat/92/1230], provided that: 
+[Pub. L. 95–456][/us/pl/95/456], § 2, Oct. 13, 1978, [92 Stat. 1230][/us/stat/92/1230], provided that: 
 
 > “This Act \[enacting this section\] shall not become effective until Contract No. 14–02–00001–1002, effective August 1, 1962, between the United States of America and Associated Electric Cooperative, Inc., Springfield, Missouri, has been amended in a manner mutually agreeable to the parties thereto.”
 
@@ -37,9 +37,9 @@
 ----------
 
 [/us/usc/t16/s825s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs825s
-[/us/pl/95/456/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F456%2Fs1
+[/us/pl/95/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F456
 [/us/stat/92/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1230
-[/us/pl/95/456/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F456%2Fs2
+[/us/pl/95/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F456
 [/us/stat/92/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1230
 
 

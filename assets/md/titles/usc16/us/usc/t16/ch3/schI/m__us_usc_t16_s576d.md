@@ -17,11 +17,11 @@
 
     Moneys transferred to the National Forest Reforestation Fund under the provisions of sections 576c to 576e  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title shall be available to the Secretary of Agriculture, for expenditure upon appropriation, for the purpose of supplementing programs of tree planting and seeding of national forest lands determined by the Secretary to be in need of reforestation. Such moneys shall be available until expended, and shall be provided without prejudice to appropriations or funds available from other sources for the same purposes, including those available pursuant to [section 576b of this title][/us/usc/t16/s576b].
 
-([Pub. L. 92–421, § 2][/us/pl/92/421/s2], Sept. 18, 1972, [86 Stat. 678][/us/stat/86/678].)
+([Pub. L. 92–421][/us/pl/92/421], § 2, Sept. 18, 1972, [86 Stat. 678][/us/stat/86/678].)
 
  __References in Text__ 
 
-    [Section 576e of this title][/us/usc/t16/s576e], referred to in text, was repealed by [Pub. L. 96–470, title I, § 102(b)][/us/pl/96/470/s102/b], Oct. 19, 1980, [94 Stat. 2237][/us/stat/94/2237].
+    [Section 576e of this title][/us/usc/t16/s576e], referred to in text, was repealed by [Pub. L. 96–470, title I][/us/pl/96/470/tI], § 102(b), Oct. 19, 1980, [94 Stat. 2237][/us/stat/94/2237].
 
 ----------
 
@@ -31,10 +31,10 @@
 ----------
 
 [/us/usc/t16/s576b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs576b
-[/us/pl/92/421/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F421%2Fs2
+[/us/pl/92/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F421
 [/us/stat/86/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F678
 [/us/usc/t16/s576e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs576e
-[/us/pl/96/470/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs102%2Fb
+[/us/pl/96/470/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2FtI
 [/us/stat/94/2237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2237
 
 

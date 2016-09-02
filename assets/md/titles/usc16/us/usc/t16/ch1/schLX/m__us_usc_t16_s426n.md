@@ -39,7 +39,7 @@
 
             (D) As used in this paragraph, the term “improved property” means a detached, year-round noncommercial residential dwelling, the construction of which was begun before December 11, 1991, together with so much of the land on which the dwelling is situated, such land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
 
-([Pub. L. 100–205, § 1][/us/pl/100/205/s1], Dec. 23, 1987, [101 Stat. 1433][/us/stat/101/1433]; [Pub. L. 102–225, § 1(1)][/us/pl/102/225/s1/1], (2), Dec. 11, 1991, [105 Stat. 1682][/us/stat/105/1682]; [Pub. L. 103–437, § 6(d)(15)][/us/pl/103/437/s6/d/15], Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
+([Pub. L. 100–205][/us/pl/100/205], § 1, Dec. 23, 1987, [101 Stat. 1433][/us/stat/101/1433]; [Pub. L. 102–225][/us/pl/102/225], § 1(1), (2), Dec. 11, 1991, [105 Stat. 1682][/us/stat/105/1682]; [Pub. L. 103–437][/us/pl/103/437], § 6(d)(15), Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
 
  __References in Text__ 
 
@@ -49,9 +49,9 @@
 
     1994—Subsec. (b)(2)(A). [Pub. L. 103–437][/us/pl/103/437] substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
-    1991—Subsec. (a). [Pub. L. 102–225, § 1(1)][/us/pl/102/225/s1/1], substituted “numbered 327/80,004B, and dated November 1991” for “numbered 327/80,001, and dated March 1987”.
+    1991—Subsec. (a). [Pub. L. 102–225][/us/pl/102/225], § 1(1), substituted “numbered 327/80,004B, and dated November 1991” for “numbered 327/80,001, and dated March 1987”.
 
-    Subsec. (b). [Pub. L. 102–225, § 1(2)][/us/pl/102/225/s1/2], designated existing provisions as par. (1) and added pars. (2) and (3).
+    Subsec. (b). [Pub. L. 102–225][/us/pl/102/225], § 1(2), designated existing provisions as par. (1) and added pars. (2) and (3).
 
 ----------
 
@@ -61,17 +61,17 @@
 ----------
 
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
-[/us/pl/100/205/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F205%2Fs1
+[/us/pl/100/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F205
 [/us/stat/101/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1433
-[/us/pl/102/225/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F225%2Fs1%2F1
+[/us/pl/102/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F225
 [/us/stat/105/1682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1682
-[/us/pl/103/437/s6/d/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fd%2F15
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4584
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/stat/94/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2767
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
-[/us/pl/102/225/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F225%2Fs1%2F1
-[/us/pl/102/225/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F225%2Fs1%2F2
+[/us/pl/102/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F225
+[/us/pl/102/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F225
 
 

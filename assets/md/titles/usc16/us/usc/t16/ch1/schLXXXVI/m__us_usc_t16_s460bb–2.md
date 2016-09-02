@@ -79,7 +79,7 @@
 
         With reference to those lands known as the San Francisco water department property shown on map numbered NRA GG–80,000–A, the Secretary shall administer such land in accordance with the provisions of the documents entitled “Grant of Scenic Easement”, and “Grant of Scenic and Recreational Easement”, both executed on January 15, 1969, between the city and county of San Francisco and the United States, including such amendments to the subject document as may be agreed to by the affected parties subsequent to December 28, 1980. The Secretary is authorized to seek appropriate agreements needed to establish a trail within this property and connecting with a suitable beach unit under the jurisdiction of the Secretary.
 
-([Pub. L. 92–589, § 3][/us/pl/92/589/s3], Oct. 27, 1972, [86 Stat. 1299][/us/stat/86/1299]; [Pub. L. 95–625, title III, § 317(b)][/us/pl/95/625/s317/b]–(e), Nov. 10, 1978, [92 Stat. 3485][/us/stat/92/3485]; [Pub. L. 96–607, title X, § 1001(3)][/us/pl/96/607/s1001/3]–(5), Dec. 28, 1980, [94 Stat. 3544][/us/stat/94/3544].)
+([Pub. L. 92–589][/us/pl/92/589], § 3, Oct. 27, 1972, [86 Stat. 1299][/us/stat/86/1299]; [Pub. L. 95–625, title III][/us/pl/95/625/tIII], § 317(b)–(e), Nov. 10, 1978, [92 Stat. 3485][/us/stat/92/3485]; [Pub. L. 96–607, title X][/us/pl/96/607/tX], § 1001(3)–(5), Dec. 28, 1980, [94 Stat. 3544][/us/stat/94/3544].)
 
  __References in Text__ 
 
@@ -87,27 +87,27 @@
 
  __Codification__ 
 
-    In subsec. (a), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 ([63 Stat. 377][/us/stat/63/377]), as amended” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (a), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 ([63 Stat. 377][/us/stat/63/377]), as amended” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    “[Section 3171 of title 40][/us/usc/t40/s3171] relating to purchase of sites for public buildings” substituted in subsec. (m) for “[section 34 of the Act of May 30, 1908][/us/act/1908-05-30/s34], relating to purchase of sites for public buildings ([35 Stat. 545][/us/stat/35/545])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    “[Section 3171 of title 40][/us/usc/t40/s3171] relating to purchase of sites for public buildings” substituted in subsec. (m) for “[section 34 of the Act of May 30, 1908][/us/act/1908-05-30/s34], relating to purchase of sites for public buildings ([35 Stat. 545][/us/stat/35/545])” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
-    In subsec. (m), “[section 1304 of title 31][/us/usc/t31/s1304]” substituted for “the Act of July 27, 1956 ([70 Stat. 624][/us/stat/70/624]) \[[31 U.S.C. 724a][/us/usc/t31/s724a]\]” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (m), “[section 1304 of title 31][/us/usc/t31/s1304]” substituted for “the Act of July 27, 1956 ([70 Stat. 624][/us/stat/70/624]) \[[31 U.S.C. 724a][/us/usc/t31/s724a]\]” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
-    1980—Subsec. (g). [Pub. L. 96–607, § 1001(3)][/us/pl/96/607/s1001/3], inserted reference to Point Montara.
+    1980—Subsec. (g). [Pub. L. 96–607][/us/pl/96/607], § 1001(3), inserted reference to Point Montara.
 
-    Subsec. (h). [Pub. L. 96–607, § 1001(4)][/us/pl/96/607/s1001/4], transferred to the jurisdiction of the Secretary the Pillar Point Military Reservation at such time as the property, or any portion thereof, becomes excess to the needs of the Department of Defense.
+    Subsec. (h). [Pub. L. 96–607][/us/pl/96/607], § 1001(4), transferred to the jurisdiction of the Secretary the Pillar Point Military Reservation at such time as the property, or any portion thereof, becomes excess to the needs of the Department of Defense.
 
-    Subsec. (p). [Pub. L. 96–607, § 1001(5)][/us/pl/96/607/s1001/5], added subsec. (p).
+    Subsec. (p). [Pub. L. 96–607][/us/pl/96/607], § 1001(5), added subsec. (p).
 
-    1978—Subsec. (i). [Pub. L. 95–625, § 317(b)][/us/pl/95/625/s317/b], in revising the text, substituted provision prohibiting new construction and development in the recreation area on lands under the administrative jurisdiction of a department other than that of the Secretary but authorized reconstruction or demolition of improvements upon the nontransferred lands of such agency after consultations with the Secretary and upon notice and hearing for prior provision limited to new construction and development on property under administrative jurisdiction of the Department of the Army required to accommodate facilities being relocated from property being transferred to administrative jurisdiction of the Secretary or directly related to the essential missions of the Sixth United States Army.
+    1978—Subsec. (i). [Pub. L. 95–625][/us/pl/95/625], § 317(b), in revising the text, substituted provision prohibiting new construction and development in the recreation area on lands under the administrative jurisdiction of a department other than that of the Secretary but authorized reconstruction or demolition of improvements upon the nontransferred lands of such agency after consultations with the Secretary and upon notice and hearing for prior provision limited to new construction and development on property under administrative jurisdiction of the Department of the Army required to accommodate facilities being relocated from property being transferred to administrative jurisdiction of the Secretary or directly related to the essential missions of the Sixth United States Army.
 
-    Subsec. (j). [Pub. L. 95–625, § 317(c)][/us/pl/95/625/s317/c], substituted provision making the subsection applicable to improved residential property and agricultural property for prior provision for application to improved property of a noncommercial residential nature and authorized lease of Federally-owned lands, subject to restrictive covenants, with first offer to prior owner or lease­holder.
+    Subsec. (j). [Pub. L. 95–625][/us/pl/95/625], § 317(c), substituted provision making the subsection applicable to improved residential property and agricultural property for prior provision for application to improved property of a noncommercial residential nature and authorized lease of Federally-owned lands, subject to restrictive covenants, with first offer to prior owner or lease­holder.
 
-    Subsec. (k). [Pub. L. 95–625, § 317(d)][/us/pl/95/625/s317/d], defined “improved property” to include residential dwelling, the construction of which was begun, in the case of areas added by action of the Ninety-fifth Congress, October 1, 1978, and included definition of “agricultural property”.
+    Subsec. (k). [Pub. L. 95–625][/us/pl/95/625], § 317(d), defined “improved property” to include residential dwelling, the construction of which was begun, in the case of areas added by action of the Ninety-fifth Congress, October 1, 1978, and included definition of “agricultural property”.
 
-    Subsecs. (n), (o). [Pub. L. 95–625, § 317(e)][/us/pl/95/625/s317/e], added subsecs. (n) and (o).
+    Subsecs. (n), (o). [Pub. L. 95–625][/us/pl/95/625], § 317(e), added subsecs. (n) and (o).
 
  __Transfer of Functions__ 
 
@@ -124,35 +124,35 @@
 [/us/usc/t42/s4601/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4601%2F6
 [/us/usc/t40/s3171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3171
 [/us/usc/t31/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1304
-[/us/pl/92/589/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F589%2Fs3
+[/us/pl/92/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F589
 [/us/stat/86/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1299
-[/us/pl/95/625/s317/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs317%2Fb
+[/us/pl/95/625/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtIII
 [/us/stat/92/3485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3485
-[/us/pl/96/607/s1001/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607%2Fs1001%2F3
+[/us/pl/96/607/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607%2FtX
 [/us/stat/94/3544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3544
 [/us/pl/92/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F589
 [/us/stat/63/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F377
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t40/s3171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3171
 [/us/act/1908-05-30/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-05-30%2Fs34
 [/us/stat/35/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F545
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/usc/t31/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1304
 [/us/stat/70/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F624
 [/us/usc/t31/s724a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs724a
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/96/607/s1001/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607%2Fs1001%2F3
-[/us/pl/96/607/s1001/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607%2Fs1001%2F4
-[/us/pl/96/607/s1001/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607%2Fs1001%2F5
-[/us/pl/95/625/s317/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs317%2Fb
-[/us/pl/95/625/s317/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs317%2Fc
-[/us/pl/95/625/s317/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs317%2Fd
-[/us/pl/95/625/s317/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs317%2Fe
+[/us/pl/96/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607
+[/us/pl/96/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607
+[/us/pl/96/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607
+[/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
+[/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
+[/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
+[/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

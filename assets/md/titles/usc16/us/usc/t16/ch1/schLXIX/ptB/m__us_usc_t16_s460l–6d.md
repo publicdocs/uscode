@@ -69,11 +69,11 @@
 
         The Secretary shall establish a process to ensure that the Secretary responds in a timely manner to permit applicants for commercial filming, still photography, or other activity.
 
-([Pub. L. 106–206, § 1][/us/pl/106/206/s1], May 26, 2000, [114 Stat. 314][/us/stat/114/314]; [Pub. L. 113–287][/us/pl/113/287], §§ 4(c), 7, Dec. 19, 2014, [128 Stat. 3261][/us/stat/128/3261], 3272.)
+([Pub. L. 106–206][/us/pl/106/206], § 1, May 26, 2000, [114 Stat. 314][/us/stat/114/314]; [Pub. L. 113–287][/us/pl/113/287], §§ 4(c), 7, Dec. 19, 2014, [128 Stat. 3261][/us/stat/128/3261], 3272.)
 
  __Repeals__ 
 
-    Section repealed by [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], insofar as applicable to the National Park System. See [section 100905 of Title 54][/us/usc/t54/s100905], National Park Service and Related Programs.
+    Section repealed by [Pub. L. 113–287][/us/pl/113/287], § 7, Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], insofar as applicable to the National Park System. See [section 100905 of Title 54][/us/usc/t54/s100905], National Park Service and Related Programs.
 
  __Codification__ 
 
@@ -81,7 +81,7 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–287, § 4(c)][/us/pl/113/287/s4/c], amended section generally. Prior to amendment, section related to commercial filming with respect to lands under the jurisdiction of the Secretaries of the Interior and Agriculture.
+    2014—[Pub. L. 113–287][/us/pl/113/287], § 4(c), amended section generally. Prior to amendment, section related to commercial filming with respect to lands under the jurisdiction of the Secretaries of the Interior and Agriculture.
 
 ----------
 
@@ -91,13 +91,13 @@
 ----------
 
 [/us/usc/t54/s100102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100102
-[/us/pl/106/206/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F206%2Fs1
+[/us/pl/106/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F206
 [/us/stat/114/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F314
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3261
-[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/usc/t54/s100905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100905
-[/us/pl/113/287/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs4%2Fc
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 
 

@@ -35,7 +35,7 @@
 
         This section shall take effect on January 1, 2009.
 
-([Pub. L. 109–479, title IV, § 408][/us/pl/109/479/s408], Jan. 12, 2007, [120 Stat. 3634][/us/stat/120/3634].)
+([Pub. L. 109–479, title IV][/us/pl/109/479/tIV], § 408, Jan. 12, 2007, [120 Stat. 3634][/us/stat/120/3634].)
 
  __Codification__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/109/479/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs408
+[/us/pl/109/479/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtIV
 [/us/stat/120/3634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3634
 
 

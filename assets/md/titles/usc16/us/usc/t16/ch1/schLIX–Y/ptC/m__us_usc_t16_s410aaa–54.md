@@ -17,7 +17,7 @@
 
     On October 31, 1994, the Secretary shall enter into a cooperative management agreement with California State University for the purposes of managing facilities at the Soda Springs Desert Study Center. Such cooperative agreement shall ensure continuation of the desert research and educational activities of California State University, consistent with the provisions of this part and laws generally applicable to units of the National Park System.
 
-([Pub. L. 103–433, title V, § 514][/us/pl/103/433/s514], Oct. 31, 1994, [108 Stat. 4494][/us/stat/108/4494].)
+([Pub. L. 103–433, title V][/us/pl/103/433/tV], § 514, Oct. 31, 1994, [108 Stat. 4494][/us/stat/108/4494].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/433/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs514
+[/us/pl/103/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtV
 [/us/stat/108/4494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4494
 
 

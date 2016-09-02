@@ -17,7 +17,7 @@
 
     The proceeds from any sale made under this subchapter shall be covered into the Treasury of the United States as miscellaneous receipts.
 
-([Aug. 6, 1956, ch. 987, § 6][/us/act/1956-08-06/ch987/s6], [70 Stat. 1066][/us/stat/70/1066].)
+([Aug. 6, 1956, ch. 987][/us/act/1956-08-06/ch987], § 6, [70 Stat. 1066][/us/stat/70/1066].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1956-08-06/ch987/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch987%2Fs6
+[/us/act/1956-08-06/ch987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch987
 [/us/stat/70/1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1066
 
 

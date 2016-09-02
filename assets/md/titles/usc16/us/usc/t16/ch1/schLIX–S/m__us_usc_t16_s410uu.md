@@ -17,7 +17,7 @@
 
     The Mound City Group National Monument established by proclamation of the President (Proclamation No. 1653, [42 Stat. 2298][/us/stat/42/2298]) and expanded by [section 701 of Public Law 96–607][/us/pl/96/607/s701] ([94 Stat. 3540][/us/stat/94/3540]), shall, on and after May 27, 1992, be known as the “Hopewell Culture National Historical Park”. Any reference to the Mound City Group National Monument in any law, regulation, map, document, record, or other paper of the United States shall be considered to be a reference to the Hopewell Culture National Historical Park.
 
-([Pub. L. 102–294, § 1][/us/pl/102/294/s1], May 27, 1992, [106 Stat. 185][/us/stat/106/185].)
+([Pub. L. 102–294][/us/pl/102/294], § 1, May 27, 1992, [106 Stat. 185][/us/stat/106/185].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 [/us/stat/42/2298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F2298
 [/us/pl/96/607/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607%2Fs701
 [/us/stat/94/3540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3540
-[/us/pl/102/294/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F294%2Fs1
+[/us/pl/102/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F294
 [/us/stat/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F185
 [/us/stat/42/2298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F2298
 [/us/pl/96/607/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607%2Fs701

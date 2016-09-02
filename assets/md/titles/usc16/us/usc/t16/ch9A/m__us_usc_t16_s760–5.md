@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized and directed to construct, equip, maintain, and operate a new fish hatchery in the vicinity of Paint Bank, Virginia.
 
-([Aug. 3, 1956, ch. 943, § 1][/us/act/1956-08-03/ch943/s1], [70 Stat. 1020][/us/stat/70/1020].)
+([Aug. 3, 1956, ch. 943][/us/act/1956-08-03/ch943], § 1, [70 Stat. 1020][/us/stat/70/1020].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1956-08-03/ch943/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch943%2Fs1
+[/us/act/1956-08-03/ch943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch943
 [/us/stat/70/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1020
 
 

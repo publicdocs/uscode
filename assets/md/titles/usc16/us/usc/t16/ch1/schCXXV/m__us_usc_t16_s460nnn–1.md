@@ -39,7 +39,7 @@
 
         Copies of the maps and legal descriptions referred to in subsection (a) shall be on file and available for public inspection in the Office of the Director of the Bureau of Land Management and in the appropriate office of the Bureau of Land Management in the State of Oregon.
 
-([Pub. L. 106–399, § 3][/us/pl/106/399/s3], Oct. 30, 2000, [114 Stat. 1657][/us/stat/114/1657].)
+([Pub. L. 106–399][/us/pl/106/399], § 3, Oct. 30, 2000, [114 Stat. 1657][/us/stat/114/1657].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/106/399/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2Fs3
+[/us/pl/106/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399
 [/us/stat/114/1657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1657
 [/us/pl/106/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399
 [/us/stat/114/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1655

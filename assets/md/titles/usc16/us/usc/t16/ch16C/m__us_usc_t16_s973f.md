@@ -49,13 +49,13 @@
 
         there shall be no referral to the Attorney General under subsection (c) of this section or in rem action under subsection (d) of this section in connection with such civil penalty.
 
-([Pub. L. 100–330, § 8][/us/pl/100/330/s8], June 7, 1988, [102 Stat. 594][/us/stat/102/594]; [Pub. L. 100–350, § 4(1)][/us/pl/100/350/s4/1], (2), June 27, 1988, [102 Stat. 660][/us/stat/102/660].)
+([Pub. L. 100–330][/us/pl/100/330], § 8, June 7, 1988, [102 Stat. 594][/us/stat/102/594]; [Pub. L. 100–350][/us/pl/100/350], § 4(1), (2), June 27, 1988, [102 Stat. 660][/us/stat/102/660].)
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–350, § 4(1)][/us/pl/100/350/s4/1], substituted “and gravity” for “any gravity” and “history of prior” for “history or prior”.
+    1988—Subsec. (a). [Pub. L. 100–350][/us/pl/100/350], § 4(1), substituted “and gravity” for “any gravity” and “history of prior” for “history or prior”.
 
-    Subsec. (g)(1). [Pub. L. 100–350, § 4(2)][/us/pl/100/350/s4/2], substituted “Treaty” for “Treasury”.
+    Subsec. (g)(1). [Pub. L. 100–350][/us/pl/100/350], § 4(2), substituted “Treaty” for “Treasury”.
 
 ----------
 
@@ -69,11 +69,11 @@
 [/us/usc/t5/s706/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs706%2F2
 [/us/usc/t16/s973c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs973c
 [/us/usc/t16/s973c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs973c%2Fb
-[/us/pl/100/330/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F330%2Fs8
+[/us/pl/100/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F330
 [/us/stat/102/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F594
-[/us/pl/100/350/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F350%2Fs4%2F1
+[/us/pl/100/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F350
 [/us/stat/102/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F660
-[/us/pl/100/350/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F350%2Fs4%2F1
-[/us/pl/100/350/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F350%2Fs4%2F2
+[/us/pl/100/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F350
+[/us/pl/100/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F350
 
 

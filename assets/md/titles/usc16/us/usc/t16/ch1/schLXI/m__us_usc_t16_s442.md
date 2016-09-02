@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s441o.md) | [Next](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s444.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs442)
+[Previous](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s441o.md) | [Next](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s443...443f.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs442)
 
 ## § 442. George Washington Birthplace National Monument
 
@@ -29,7 +29,7 @@
 
  __George Washington’s Boyhood Home, Ferry Farm__ 
 
-[Pub. L. 105–355, title V, § 509][/us/pl/105/355/s509], Nov. 6, 1998, [112 Stat. 3264][/us/stat/112/3264], provided that:
+[Pub. L. 105–355, title V][/us/pl/105/355/tV], § 509, Nov. 6, 1998, [112 Stat. 3264][/us/stat/112/3264], provided that:
 
 >     “(a)  __Acquisition of Easement__  __.—__ 
 
@@ -91,15 +91,9 @@
 
     Additional lands were added to and made part of the monument by Presidential Proc. No. 1944, Mar. 30, 1931, [47 Stat. 2446][/us/stat/47/2446].
 
-§§ 443 to 443f. __Transferred__ 
-
- __Codification__ 
-
-    Sections, acts [July 3, 1930, ch. 837][/us/act/1930-07-03/ch837], §§ 1–7, [46 Stat. 856][/us/stat/46/856]; [Mar. 3, 1931, ch. 405][/us/act/1931-03-03/ch405], [46 Stat. 1490][/us/stat/46/1490]; [June 5, 1936, ch. 525][/us/act/1936-06-05/ch525], §§ 1, 2, [49 Stat. 1483][/us/stat/49/1483], which related to Colonial National Historical Park, were transferred to sections 81, 81a, 81c, and 81e to 81i of this title.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s441o.md) | [Next](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s444.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs442)
+[Previous](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s441o.md) | [Next](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s443...443f.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs442)
 
 ----------
 ----------
@@ -114,18 +108,12 @@
 [/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
 [/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
-[/us/pl/105/355/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F355%2Fs509
+[/us/pl/105/355/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F355%2FtV
 [/us/stat/112/3264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3264
 [/us/pl/107/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F354
 [/us/stat/116/2984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2984
 [/us/pl/103/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F25
 [/us/stat/107/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F68
 [/us/stat/47/2446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F2446
-[/us/act/1930-07-03/ch837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-07-03%2Fch837
-[/us/stat/46/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F856
-[/us/act/1931-03-03/ch405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-03%2Fch405
-[/us/stat/46/1490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1490
-[/us/act/1936-06-05/ch525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-05%2Fch525
-[/us/stat/49/1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1483
 
 

@@ -27,7 +27,7 @@
 
     (b) The Secretary is authorized and directed to enter into and continue cooperative agreements with the Secretary of Commerce and the State of California for the enforcement of Federal and State laws and regulations on those lands and waters within and adjacent to the park which are owned by the State of California. No provision of this subchapter shall be deemed to affect the rights and jurisdiction of the State of California within the park, including, but not limited to, authority over submerged lands and waters within the park boundaries, and the marine resources therein.
 
-([Pub. L. 96–199, title II, § 203][/us/pl/96/199/s203], Mar. 5, 1980, [94 Stat. 75][/us/stat/94/75].)
+([Pub. L. 96–199, title II][/us/pl/96/199/tII], § 203, Mar. 5, 1980, [94 Stat. 75][/us/stat/94/75].)
 
  __Change of Name__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/96/199/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199%2Fs203
+[/us/pl/96/199/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199%2FtII
 [/us/stat/94/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F75
 
 

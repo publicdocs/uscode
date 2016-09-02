@@ -31,11 +31,11 @@
 
         (4) protect grazing uses and related conservation values by restoring and conserving eligible land.
 
-([Pub. L. 99–198, title XII, § 1265][/us/pl/99/198/s1265], as added [Pub. L. 113–79, title II, § 2301(a)][/us/pl/113/79/s2301/a], Feb. 7, 2014, [128 Stat. 731][/us/stat/128/731].)
+([Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1265, as added [Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2301(a), Feb. 7, 2014, [128 Stat. 731][/us/stat/128/731].)
 
  __References in Text__ 
 
-    Sections 3837, 3838n, and 3838i of this title, referred to in subsec. (b)(1), were repealed by [Pub. L. 113–79, title II][/us/pl/113/79], §§ 2703(a), 2704(a), 2705(a), Feb. 7, 2014, [128 Stat. 767][/us/stat/128/767], 768.
+    Sections 3837, 3838n, and 3838i of this title, referred to in subsec. (b)(1), were repealed by [Pub. L. 113–79, title II][/us/pl/113/79/tII], §§ 2703(a), 2704(a), 2705(a), Feb. 7, 2014, [128 Stat. 767][/us/stat/128/767], 768.
 
 ----------
 
@@ -44,10 +44,10 @@
 ----------
 ----------
 
-[/us/pl/99/198/s1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1265
-[/us/pl/113/79/s2301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2301%2Fa
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F731
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F767
 
 

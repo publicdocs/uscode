@@ -41,7 +41,7 @@ gila and salt river meridian
 
     Township 19 north, range 24 east: the southwest quarter of the southwest quarter of section 27.
 
-([Pub. L. 85–358, § 2][/us/pl/85/358/s2], Mar. 28, 1958, [72 Stat. 69][/us/stat/72/69]; [Pub. L. 99–250, § 1][/us/pl/99/250/s1], Feb. 27, 1986, [100 Stat. 13][/us/stat/100/13].)
+([Pub. L. 85–358][/us/pl/85/358], § 2, Mar. 28, 1958, [72 Stat. 69][/us/stat/72/69]; [Pub. L. 99–250][/us/pl/99/250], § 1, Feb. 27, 1986, [100 Stat. 13][/us/stat/100/13].)
 
  __Amendments__ 
 
@@ -49,7 +49,7 @@ gila and salt river meridian
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–250, § 2][/us/pl/99/250/s2], Feb. 27, 1986, [100 Stat. 13][/us/stat/100/13], provided that: 
+[Pub. L. 99–250][/us/pl/99/250], § 2, Feb. 27, 1986, [100 Stat. 13][/us/stat/100/13], provided that: 
 
 > “The provisions of this Act \[amending this section\] shall not take effect until the Secretary of the Interior determines that fee simple title to the property described in section 1 has vested in the United States. Such determination of the Secretary shall be published in the Federal Register.”
 
@@ -61,12 +61,12 @@ gila and salt river meridian
 ----------
 
 [/us/usc/t16/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs119
-[/us/pl/85/358/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F358%2Fs2
+[/us/pl/85/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F358
 [/us/stat/72/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F69
-[/us/pl/99/250/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F250%2Fs1
+[/us/pl/99/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F250
 [/us/stat/100/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F13
 [/us/pl/99/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F250
-[/us/pl/99/250/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F250%2Fs2
+[/us/pl/99/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F250
 [/us/stat/100/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F13
 
 

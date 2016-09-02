@@ -55,7 +55,7 @@
 
         (2) a regional multientity pass authorized [section 6804(d) of this title][/us/usc/t16/s6804/d] during the 5-year period beginning on the date the regional multientity pass agreement for that recreation pass takes effect.
 
-([Pub. L. 108–447, div. J, title VIII, § 808][/us/pl/108/447/s808], Dec. 8, 2004, [118 Stat. 3388][/us/stat/118/3388]; [Pub. L. 111–11, title VII, § 7116(h)][/us/pl/111/11/s7116/h], Mar. 30, 2009, [123 Stat. 1203][/us/stat/123/1203].)
+([Pub. L. 108–447, div. J, title VIII][/us/pl/108/447/dJ/tVIII], § 808, Dec. 8, 2004, [118 Stat. 3388][/us/stat/118/3388]; [Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7116(h), Mar. 30, 2009, [123 Stat. 1203][/us/stat/123/1203].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 
     This chapter, referred to in subsecs. (c) and (d), was in the original “this Act”, and was translated as reading “this title”, meaning title VIII of div. J of [Pub. L. 108–447][/us/pl/108/447], Dec. 8, 2004, [118 Stat. 3377][/us/stat/118/3377], known as the Federal Lands Recreation Enhancement Act, to reflect the probable intent of Congress. For complete classification of title VIII to the Code, see Short Title note set out under [section 6801 of this title][/us/usc/t16/s6801] and Tables.
 
-    [Section 6804 of this title][/us/usc/t16/s6804], referred to in subsec. (d), was in the original a reference to section 5 and was translated as meaning [section 805 of title VIII of div. J of Pub. L. 108–447][/us/pl/108/447/s805], to reflect the probable intent of Congress.
+    [Section 6804 of this title][/us/usc/t16/s6804], referred to in subsec. (d), was in the original a reference to section 5 and was translated as meaning [section 805 of title VIII of div. J of Pub. L. 108–447][/us/pl/108/447/dJ/tVIII/s805], to reflect the probable intent of Congress.
 
  __Amendments__ 
 
@@ -80,9 +80,9 @@
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/usc/t16/s6804/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6804%2Fa%2F7
 [/us/usc/t16/s6804/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6804%2Fd
-[/us/pl/108/447/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs808
+[/us/pl/108/447/dJ/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtVIII
 [/us/stat/118/3388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3388
-[/us/pl/111/11/s7116/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7116%2Fh
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1203
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F884
@@ -91,7 +91,7 @@
 [/us/stat/118/3377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3377
 [/us/usc/t16/s6801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6801
 [/us/usc/t16/s6804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6804
-[/us/pl/108/447/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs805
+[/us/pl/108/447/dJ/tVIII/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtVIII%2Fs805
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 [/us/usc/t16/s6805/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6805%2Fa
 

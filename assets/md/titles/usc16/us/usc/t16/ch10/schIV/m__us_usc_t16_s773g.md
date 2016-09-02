@@ -27,13 +27,13 @@
 
         There is Federal jurisdiction over any offense described in this section.
 
-([Pub. L. 97–176, § 9][/us/pl/97/176/s9], May 17, 1982, [96 Stat. 81][/us/stat/96/81]; [Pub. L. 109–479, title III, § 301(c)][/us/pl/109/479/s301/c], Jan. 12, 2007, [120 Stat. 3623][/us/stat/120/3623].)
+([Pub. L. 97–176][/us/pl/97/176], § 9, May 17, 1982, [96 Stat. 81][/us/stat/96/81]; [Pub. L. 109–479, title III][/us/pl/109/479/tIII], § 301(c), Jan. 12, 2007, [120 Stat. 3623][/us/stat/120/3623].)
 
  __References in Text__ 
 
-    Subsec. (a) and pars. (2), (3), (4), and (6) of [section 773e of this title][/us/usc/t16/s773e], referred to in subsec. (a), was renumbered par. (1) and subpars. (B), (C), (D), and (F), respectively, of par. (1) of [section 773e of this title][/us/usc/t16/s773e] by [Pub. L. 114–81, title I, § 110(1)][/us/pl/114/81/s110/1], (2), Nov. 5, 2015, [129 Stat. 659][/us/stat/129/659].
+    Subsec. (a) and pars. (2), (3), (4), and (6) of [section 773e of this title][/us/usc/t16/s773e], referred to in subsec. (a), was renumbered par. (1) and subpars. (B), (C), (D), and (F), respectively, of par. (1) of [section 773e of this title][/us/usc/t16/s773e] by [Pub. L. 114–81, title I][/us/pl/114/81/tI], § 110(1), (2), Nov. 5, 2015, [129 Stat. 659][/us/stat/129/659].
 
-    Subsec. (b) of [section 773e of this title][/us/usc/t16/s773e], referred to in subsec. (a), was renumbered par. (2) of [section 773e of this title][/us/usc/t16/s773e] by [Pub. L. 114–81, title I, § 110(2)][/us/pl/114/81/s110/2], Nov. 5, 2015, [129 Stat. 659][/us/stat/129/659].
+    Subsec. (b) of [section 773e of this title][/us/usc/t16/s773e], referred to in subsec. (a), was renumbered par. (2) of [section 773e of this title][/us/usc/t16/s773e] by [Pub. L. 114–81, title I][/us/pl/114/81/tI], § 110(2), Nov. 5, 2015, [129 Stat. 659][/us/stat/129/659].
 
  __Amendments__ 
 
@@ -46,17 +46,17 @@
 ----------
 ----------
 
-[/us/pl/97/176/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F176%2Fs9
+[/us/pl/97/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F176
 [/us/stat/96/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F81
-[/us/pl/109/479/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs301%2Fc
+[/us/pl/109/479/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtIII
 [/us/stat/120/3623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3623
 [/us/usc/t16/s773e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs773e
 [/us/usc/t16/s773e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs773e
-[/us/pl/114/81/s110/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs110%2F1
+[/us/pl/114/81/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2FtI
 [/us/stat/129/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F659
 [/us/usc/t16/s773e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs773e
 [/us/usc/t16/s773e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs773e
-[/us/pl/114/81/s110/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs110%2F2
+[/us/pl/114/81/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2FtI
 [/us/stat/129/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F659
 [/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
 

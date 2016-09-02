@@ -21,7 +21,7 @@
 
     (2) other hazardous fuel reduction activities of the Secretary, including making grants to States, local governments, Indian tribes, and other eligible recipients for activities authorized by law.
 
-([Pub. L. 108–148, title I, § 108][/us/pl/108/148/s108], Dec. 3, 2003, [117 Stat. 1901][/us/stat/117/1901].)
+([Pub. L. 108–148, title I][/us/pl/108/148/tI], § 108, Dec. 3, 2003, [117 Stat. 1901][/us/stat/117/1901].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/108/148/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2Fs108
+[/us/pl/108/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2FtI
 [/us/stat/117/1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1901
 
 

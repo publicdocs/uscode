@@ -17,7 +17,7 @@
 
     For the purposes of conserving and protecting the fish and shellfish resources in the coastal waters of the United States and the Commonwealth of Puerto Rico, and promoting and safeguarding water-based recreation for present and future generations in these waters, the Secretary of Commerce is authorized to cooperate with, and provide assistance to, the States in controlling and eliminating jellyfish, commonly referred to as “sea nettles”, and other such pests and in conducting research for the purposes of controlling floating seaweed in such waters.
 
-([Pub. L. 89–720, § 1][/us/pl/89/720/s1], Nov. 2, 1966, [80 Stat. 1149][/us/stat/80/1149]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
+([Pub. L. 89–720][/us/pl/89/720], § 1, Nov. 2, 1966, [80 Stat. 1149][/us/stat/80/1149]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/89/720/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F720%2Fs1
+[/us/pl/89/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F720
 [/us/stat/80/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1149
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090

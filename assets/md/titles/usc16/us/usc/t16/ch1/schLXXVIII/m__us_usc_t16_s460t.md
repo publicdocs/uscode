@@ -23,7 +23,7 @@
 
         As soon as practicable after October 15, 1966, the Secretary of the Interior shall publish in the Federal Register a detailed description of the boundaries of the area which shall encompass, to the extent practicable, the lands and waters shown on the drawing referred to in subsection (a) of this section. The Secretary may subsequently make adjustments in the boundary of the area, subject to the provisions of [section 460t–1(b) of this title][/us/usc/t16/s460t–1/b], by publication of an amended description in the Federal Register.
 
-([Pub. L. 89–664, § 1][/us/pl/89/664/s1], Oct. 15, 1966, [80 Stat. 913][/us/stat/80/913].)
+([Pub. L. 89–664][/us/pl/89/664], § 1, Oct. 15, 1966, [80 Stat. 913][/us/stat/80/913].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t16/s460t–1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460t%E2%80%931%2Fb
-[/us/pl/89/664/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F664%2Fs1
+[/us/pl/89/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F664
 [/us/stat/80/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F913
 
 

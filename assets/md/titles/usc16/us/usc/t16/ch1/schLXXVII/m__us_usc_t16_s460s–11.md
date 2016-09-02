@@ -17,7 +17,7 @@
 
     The Secretary shall, at the request of any township or county in or adjacent to the lakeshore affected by this subchapter, assist and consult with the appropriate officers and employees of such township or county in establishing zoning bylaws. Such assistance may include payments to the county or township for technical aid.
 
-([Pub. L. 89–668, § 12][/us/pl/89/668/s12], Oct. 15, 1966, [80 Stat. 925][/us/stat/80/925].)
+([Pub. L. 89–668][/us/pl/89/668], § 12, Oct. 15, 1966, [80 Stat. 925][/us/stat/80/925].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/668/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F668%2Fs12
+[/us/pl/89/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F668
 [/us/stat/80/925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F925
 
 

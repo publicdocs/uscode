@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t16/ch1/schXXIV/m__us_usc_t16_s222.md) | [Next](./../../../../..//us/usc/t16/ch1/schXXIV/m__us_usc_t16_s224.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs223)
 
-## § 223. Repealed. [Pub. L. 93–620, § 10(f)][/us/pl/93/620/s10/f], Jan. 3, 1975, [88 Stat. 2093][/us/stat/88/2093]
+## § 223. Repealed. [Pub. L. 93–620][/us/pl/93/620], § 10(f), Jan. 3, 1975, [88 Stat. 2093][/us/stat/88/2093]
 
-    Section, [act Feb. 26, 1919, ch. 44, § 3][/us/act/1919-02-26/ch44/s3], [40 Stat. 1177][/us/stat/40/1177], enumerated occupancy rights of the Havasupai Indians. See [section 228i of this title][/us/usc/t16/s228i] and Codification note set out thereunder.
+    Section, [act Feb. 26, 1919, ch. 44][/us/act/1919-02-26/ch44], § 3, [40 Stat. 1177][/us/stat/40/1177], enumerated occupancy rights of the Havasupai Indians. See [section 228i of this title][/us/usc/t16/s228i] and Codification note set out thereunder.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/93/620/s10/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F620%2Fs10%2Ff
+[/us/pl/93/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F620
 [/us/stat/88/2093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2093
-[/us/act/1919-02-26/ch44/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-02-26%2Fch44%2Fs3
+[/us/act/1919-02-26/ch44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-02-26%2Fch44
 [/us/stat/40/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1177
 [/us/usc/t16/s228i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs228i
 

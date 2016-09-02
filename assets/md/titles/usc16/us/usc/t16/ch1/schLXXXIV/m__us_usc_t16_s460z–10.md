@@ -35,7 +35,7 @@
 
         The members shall not receive any compensation for their services as members of the council, as such, but the Secretary is authorized to pay expenses reasonably incurred by the council in carrying out its responsibilities.
 
-([Pub. L. 92–260, § 12][/us/pl/92/260/s12], Mar. 23, 1972, [86 Stat. 102][/us/stat/86/102].)
+([Pub. L. 92–260][/us/pl/92/260], § 12, Mar. 23, 1972, [86 Stat. 102][/us/stat/86/102].)
 
  __Termination of Advisory Councils__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/92/260/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F260%2Fs12
+[/us/pl/92/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F260
 [/us/stat/86/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F102
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

@@ -187,7 +187,7 @@
 
         (B) the use, hunting, trapping, or gathering of plants, animals, wood, water, and other natural resources for a noncommercial purpose.
 
-([Pub. L. 108–7, div. F, title IV, § 403][/us/pl/108/7/s403], Feb. 20, 2003, [117 Stat. 280][/us/stat/117/280].)
+([Pub. L. 108–7, div. F, title IV][/us/pl/108/7/dF/tIV], § 403, Feb. 20, 2003, [117 Stat. 280][/us/stat/117/280].)
 
  __References in Text__ 
 
@@ -206,7 +206,7 @@
 
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
-[/us/pl/108/7/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs403
+[/us/pl/108/7/dF/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtIV
 [/us/stat/117/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F280
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/stat/117/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F279

@@ -59,7 +59,7 @@
 
         In preparing the management plan, the Secretary shall consult with appropriate State and local government officials, provide for full public participation, and consider the views of all interested parties, organizations, and individuals.
 
-([Pub. L. 106–431, § 4][/us/pl/106/431/s4], Nov. 6, 2000, [114 Stat. 1906][/us/stat/114/1906].)
+([Pub. L. 106–431][/us/pl/106/431], § 4, Nov. 6, 2000, [114 Stat. 1906][/us/stat/114/1906].)
 
 ----------
 
@@ -70,7 +70,7 @@
 
 [/us/usc/t16/s546a–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs546a%E2%80%934
 [/us/usc/t16/s1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1604
-[/us/pl/106/431/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F431%2Fs4
+[/us/pl/106/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F431
 [/us/stat/114/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1906
 
 

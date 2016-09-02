@@ -55,7 +55,7 @@
 
         In carrying out their functions under the Agreement, Panel members may consult with such other interested parties as they consider appropriate.
 
-([Pub. L. 104–43, title VII, § 704][/us/pl/104/43/s704], Nov. 3, 1995, [109 Stat. 393][/us/stat/109/393].)
+([Pub. L. 104–43, title VII][/us/pl/104/43/tVII], § 704, Nov. 3, 1995, [109 Stat. 393][/us/stat/109/393].)
 
 ----------
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/104/43/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs704
+[/us/pl/104/43/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtVII
 [/us/stat/109/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F393
 
 

@@ -49,7 +49,7 @@
 
         Hearings held during proceedings for the assessment of civil penalties authorized by subsection (a) shall be conducted in accordance with [section 554 of title 5][/us/usc/t5/s554]. The Federal land manager may issue subpenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and administer oaths. Witnesses summoned shall be paid the same fees and mileage that are paid to witnesses in the courts of the United States. In case of contumacy or refusal to obey a subpena served upon any person pursuant to this paragraph, the district court of the United States for any district in which such person is found or resides or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Federal land manager or to appear and produce documents before the Federal land manager, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
-([Pub. L. 96–95, § 7][/us/pl/96/95/s7], Oct. 31, 1979, [93 Stat. 725][/us/stat/93/725].)
+([Pub. L. 96–95][/us/pl/96/95], § 7, Oct. 31, 1979, [93 Stat. 725][/us/stat/93/725].)
 
 ----------
 
@@ -59,7 +59,7 @@
 ----------
 
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
-[/us/pl/96/95/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95%2Fs7
+[/us/pl/96/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95
 [/us/stat/93/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F725
 
 

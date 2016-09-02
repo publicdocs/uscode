@@ -21,7 +21,7 @@
 
     (2) the withdrawal made by paragraph (iii) of [section 1280(a) of this title][/us/usc/t16/s1280/a] shall apply to the minerals in Federal lands which constitute the bed or bank or are situated within one-half mile of the bank of any river designated a wild river by the Alaska National Interest Lands Conservation Act.
 
-([Pub. L. 90–542, § 15][/us/pl/90/542/s15], as added [Pub. L. 96–487, title VI, § 606(a)][/us/pl/96/487/s606/a], Dec. 2, 1980, [94 Stat. 2416][/us/stat/94/2416].)
+([Pub. L. 90–542][/us/pl/90/542], § 15, as added [Pub. L. 96–487, title VI][/us/pl/96/487/tVI], § 606(a), Dec. 2, 1980, [94 Stat. 2416][/us/stat/94/2416].)
 
  __References in Text__ 
 
@@ -36,8 +36,8 @@
 
 [/us/usc/t16/s1274/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1274%2Fa
 [/us/usc/t16/s1280/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1280%2Fa
-[/us/pl/90/542/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F542%2Fs15
-[/us/pl/96/487/s606/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs606%2Fa
+[/us/pl/90/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F542
+[/us/pl/96/487/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtVI
 [/us/stat/94/2416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2416
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371

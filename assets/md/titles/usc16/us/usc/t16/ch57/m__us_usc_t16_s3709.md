@@ -55,17 +55,17 @@
 
         (2) any activity the purpose of which is to influence legislation pending before Congress.
 
-([Pub. L. 98–244, § 10][/us/pl/98/244/s10], Mar. 26, 1984, [98 Stat. 110][/us/stat/98/110]; [Pub. L. 100–240, § 4][/us/pl/100/240/s4], Jan. 11, 1988, [101 Stat. 1786][/us/stat/101/1786]; [Pub. L. 101–593, title I, § 110(c)][/us/pl/101/593/s110/c], Nov. 16, 1990, [104 Stat. 2960][/us/stat/104/2960]; [Pub. L. 103–232, title I, § 104][/us/pl/103/232/s104], Apr. 11, 1994, [108 Stat. 337][/us/stat/108/337]; [Pub. L. 106–408, title II, § 207][/us/pl/106/408/s207], Nov. 1, 2000, [114 Stat. 1781][/us/stat/114/1781]; [Pub. L. 107–141, § 6][/us/pl/107/141/s6], Feb. 12, 2002, [116 Stat. 14][/us/stat/116/14]; [Pub. L. 109–363, title II][/us/pl/109/363], §§ 202, 204, Oct. 17, 2006, [120 Stat. 2075][/us/stat/120/2075].)
+([Pub. L. 98–244][/us/pl/98/244], § 10, Mar. 26, 1984, [98 Stat. 110][/us/stat/98/110]; [Pub. L. 100–240][/us/pl/100/240], § 4, Jan. 11, 1988, [101 Stat. 1786][/us/stat/101/1786]; [Pub. L. 101–593, title I][/us/pl/101/593/tI], § 110(c), Nov. 16, 1990, [104 Stat. 2960][/us/stat/104/2960]; [Pub. L. 103–232, title I][/us/pl/103/232/tI], § 104, Apr. 11, 1994, [108 Stat. 337][/us/stat/108/337]; [Pub. L. 106–408, title II][/us/pl/106/408/tII], § 207, Nov. 1, 2000, [114 Stat. 1781][/us/stat/114/1781]; [Pub. L. 107–141][/us/pl/107/141], § 6, Feb. 12, 2002, [116 Stat. 14][/us/stat/116/14]; [Pub. L. 109–363, title II][/us/pl/109/363/tII], §§ 202, 204, Oct. 17, 2006, [120 Stat. 2075][/us/stat/120/2075].)
 
  __Amendments__ 
 
-    2006—Subsec. (a)(1). [Pub. L. 109–363, § 202][/us/pl/109/363/s202], substituted “fiscal years 2006 through 2010” for “fiscal years 2001 through 2005”.
+    2006—Subsec. (a)(1). [Pub. L. 109–363][/us/pl/109/363], § 202, substituted “fiscal years 2006 through 2010” for “fiscal years 2001 through 2005”.
 
-    Subsec. (a)(3). [Pub. L. 109–363, § 204][/us/pl/109/363/s204], inserted “, or to a recipient of a grant provided by the Foundation,” after “made to the Foundation”.
+    Subsec. (a)(3). [Pub. L. 109–363][/us/pl/109/363], § 204, inserted “, or to a recipient of a grant provided by the Foundation,” after “made to the Foundation”.
 
-    2002—Subsec. (a)(1). [Pub. L. 107–141, § 6(1)][/us/pl/107/141/s6/1], substituted “2005” for “2003”.
+    2002—Subsec. (a)(1). [Pub. L. 107–141][/us/pl/107/141], § 6(1), substituted “2005” for “2003”.
 
-    Subsec. (a)(1)(A). [Pub. L. 107–141, § 6(2)][/us/pl/107/141/s6/2], substituted “$25,000,000” for “$20,000,000”.
+    Subsec. (a)(1)(A). [Pub. L. 107–141][/us/pl/107/141], § 6(2), substituted “$25,000,000” for “$20,000,000”.
 
     2000—[Pub. L. 106–408][/us/pl/106/408] added text of section and struck out former text which read as follows:
 
@@ -77,11 +77,11 @@
 
     “(c) Additional Authorization.—The amounts authorized to be appropriated under this section are in addition to any amounts provided or available to the Foundation under any other Federal law.”
 
-    1994—Subsec. (a). [Pub. L. 103–232, § 104(a)(1)][/us/pl/103/232/s104/a/1], substituted “$25,000,000 for each of fiscal years 1994, 1995, 1996, 1997, and 1998” for “not to exceed $15,000,000 for fiscal year 1991, not to exceed $20,000,000 for fiscal year 1992, and not to exceed $25,000,000 for fiscal year 1993”.
+    1994—Subsec. (a). [Pub. L. 103–232][/us/pl/103/232], § 104(a)(1), substituted “$25,000,000 for each of fiscal years 1994, 1995, 1996, 1997, and 1998” for “not to exceed $15,000,000 for fiscal year 1991, not to exceed $20,000,000 for fiscal year 1992, and not to exceed $25,000,000 for fiscal year 1993”.
 
-    Subsec. (b). [Pub. L. 103–232, § 104(b)][/us/pl/103/232/s104/b], substituted “paragraph (2)” for “paragraphs (2) and (3)”.
+    Subsec. (b). [Pub. L. 103–232][/us/pl/103/232], § 104(b), substituted “paragraph (2)” for “paragraphs (2) and (3)”.
 
-    Subsec. (c). [Pub. L. 103–232, § 104(a)(2)][/us/pl/103/232/s104/a/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 103–232][/us/pl/103/232], § 104(a)(2), added subsec. (c).
 
     1990—[Pub. L. 101–593][/us/pl/101/593] amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated to the Department of the Interior for each of fiscal years 1988 through 1993, inclusive, not to exceed $5,000,000 to be made available to the Foundation—
 
@@ -102,28 +102,28 @@
 ----------
 ----------
 
-[/us/pl/98/244/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F244%2Fs10
+[/us/pl/98/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F244
 [/us/stat/98/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F110
-[/us/pl/100/240/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F240%2Fs4
+[/us/pl/100/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F240
 [/us/stat/101/1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1786
-[/us/pl/101/593/s110/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2Fs110%2Fc
+[/us/pl/101/593/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2FtI
 [/us/stat/104/2960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2960
-[/us/pl/103/232/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F232%2Fs104
+[/us/pl/103/232/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F232%2FtI
 [/us/stat/108/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F337
-[/us/pl/106/408/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2Fs207
+[/us/pl/106/408/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2FtII
 [/us/stat/114/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1781
-[/us/pl/107/141/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F141%2Fs6
+[/us/pl/107/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F141
 [/us/stat/116/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F14
-[/us/pl/109/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363
+[/us/pl/109/363/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2FtII
 [/us/stat/120/2075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2075
-[/us/pl/109/363/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2Fs202
-[/us/pl/109/363/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2Fs204
-[/us/pl/107/141/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F141%2Fs6%2F1
-[/us/pl/107/141/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F141%2Fs6%2F2
+[/us/pl/109/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363
+[/us/pl/109/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363
+[/us/pl/107/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F141
+[/us/pl/107/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F141
 [/us/pl/106/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408
-[/us/pl/103/232/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F232%2Fs104%2Fa%2F1
-[/us/pl/103/232/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F232%2Fs104%2Fb
-[/us/pl/103/232/s104/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F232%2Fs104%2Fa%2F2
+[/us/pl/103/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F232
+[/us/pl/103/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F232
+[/us/pl/103/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F232
 [/us/pl/101/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593
 [/us/usc/t16/s3704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3704
 [/us/pl/100/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F240

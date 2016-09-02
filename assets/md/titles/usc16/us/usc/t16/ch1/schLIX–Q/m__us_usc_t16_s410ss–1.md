@@ -31,7 +31,7 @@
 
         In administering the park, the Secretary shall utilize such interpretative materials and other devices as may be necessary to give appropriate recognition to the role of the Jesuit Missionary Priest, Father Eusebio Francisco Kino, in the development of the mission sites and the settlement of the region.
 
-([Pub. L. 101–344, § 2][/us/pl/101/344/s2], Aug. 6, 1990, [104 Stat. 393][/us/stat/104/393].)
+([Pub. L. 101–344][/us/pl/101/344], § 2, Aug. 6, 1990, [104 Stat. 393][/us/stat/104/393].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 [/us/usc/t16/s1–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1%E2%80%934
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
 [/us/usc/t16/s461–467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461%E2%80%93467
-[/us/pl/101/344/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F344%2Fs2
+[/us/pl/101/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F344
 [/us/stat/104/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F393
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1%E2%80%934

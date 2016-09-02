@@ -25,7 +25,7 @@
 
  __Land Exchange in Great Smoky Mountains National Park__ 
 
-    [Pub. L. 108–108, title I, § 138][/us/pl/108/108/s138], Nov. 10, 2003, [117 Stat. 1271][/us/stat/117/1271], known as the Eastern Band of Cherokee Indians Land Exchange Act of 2003, provided for land exchange between National Park Service and Eastern Band of Cherokee Indians, by directing Secretary of the Interior to exchange the Ravensford tract, in the Great Smoky Mountains National Park and the Blue Ridge Parkway, for the Yellow Face tract adjacent to the Waterrock Knob Visitor Center on the Blue Ridge Parkway; stated congressional findings and purposes for such land exchange; contained descriptions and provision relating to treatment of exchanged lands; set forth implementation process; and prohibited gaming on the Ravensford tract.
+    [Pub. L. 108–108, title I][/us/pl/108/108/tI], § 138, Nov. 10, 2003, [117 Stat. 1271][/us/stat/117/1271], known as the Eastern Band of Cherokee Indians Land Exchange Act of 2003, provided for land exchange between National Park Service and Eastern Band of Cherokee Indians, by directing Secretary of the Interior to exchange the Ravensford tract, in the Great Smoky Mountains National Park and the Blue Ridge Parkway, for the Yellow Face tract adjacent to the Waterrock Knob Visitor Center on the Blue Ridge Parkway; stated congressional findings and purposes for such land exchange; contained descriptions and provision relating to treatment of exchanged lands; set forth implementation process; and prohibited gaming on the Ravensford tract.
 
 ----------
 
@@ -38,7 +38,7 @@
 [/us/stat/75/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F196
 [/us/pl/111/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F167
 [/us/stat/124/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1188
-[/us/pl/108/108/s138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2Fs138
+[/us/pl/108/108/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2FtI
 [/us/stat/117/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1271
 
 

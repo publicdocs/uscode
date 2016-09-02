@@ -43,7 +43,7 @@
 
         The Secretary of the Interior or the Secretary of Agriculture, as the case may be, may grant easements and rights-of-way upon, over, under, across, or through any component of the national wild and scenic rivers system in accordance with the laws applicable to the national park system and the national forest system, respectively: Provided, That any conditions precedent to granting such easements and rights-of-way shall be related to the policy and purpose of this chapter.
 
-([Pub. L. 90–542, § 13][/us/pl/90/542/s13], Oct. 2, 1968, [82 Stat. 917][/us/stat/82/917].)
+([Pub. L. 90–542][/us/pl/90/542], § 13, Oct. 2, 1968, [82 Stat. 917][/us/stat/82/917].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/90/542/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F542%2Fs13
+[/us/pl/90/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F542
 [/us/stat/82/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F917
 
 

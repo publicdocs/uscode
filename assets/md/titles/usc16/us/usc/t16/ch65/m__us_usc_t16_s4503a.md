@@ -61,7 +61,7 @@
 
             (E) to develop new methods of reclaiming and restoring degraded lands.
 
-([Pub. L. 101–513, title VI, § 605][/us/pl/101/513/s605], as added [Pub. L. 102–574, § 2(a)(2)][/us/pl/102/574/s2/a/2], Oct. 29, 1992, [106 Stat. 4593][/us/stat/106/4593]; amended [Pub. L. 103–437, § 6(d)(42)][/us/pl/103/437/s6/d/42], Nov. 2, 1994, [108 Stat. 4585][/us/stat/108/4585].)
+([Pub. L. 101–513, title VI][/us/pl/101/513/tVI], § 605, as added [Pub. L. 102–574][/us/pl/102/574], § 2(a)(2), Oct. 29, 1992, [106 Stat. 4593][/us/stat/106/4593]; amended [Pub. L. 103–437][/us/pl/103/437], § 6(d)(42), Nov. 2, 1994, [108 Stat. 4585][/us/stat/108/4585].)
 
  __References in Text__ 
 
@@ -77,7 +77,7 @@
 
  __Hawaii Tropical Forest Recovery Task Force__ 
 
-[Pub. L. 102–574, § 4][/us/pl/102/574/s4], Oct. 29, 1992, [106 Stat. 4597][/us/stat/106/4597], provided that:
+[Pub. L. 102–574][/us/pl/102/574], § 4, Oct. 29, 1992, [106 Stat. 4597][/us/stat/106/4597], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -199,17 +199,17 @@
 ----------
 
 [/us/usc/t16/s4503b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4503b
-[/us/pl/101/513/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs605
-[/us/pl/102/574/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F574%2Fs2%2Fa%2F2
+[/us/pl/101/513/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtVI
+[/us/pl/102/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F574
 [/us/stat/106/4593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4593
-[/us/pl/103/437/s6/d/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fd%2F42
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4585
 [/us/pl/102/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F574
 [/us/usc/t16/s4502a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4502a
 [/us/pl/101/513/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs605
 [/us/usc/t16/s4504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4504
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
-[/us/pl/102/574/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F574%2Fs4
+[/us/pl/102/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F574
 [/us/stat/106/4597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4597
 
 

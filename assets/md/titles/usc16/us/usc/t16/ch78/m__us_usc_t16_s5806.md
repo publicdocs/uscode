@@ -17,7 +17,7 @@
 
     For each of fiscal years 1996 through 1998, the Secretary may provide, without reimbursement, personnel, facilities, and other administrative services of the Department to the Foundation.
 
-([Pub. L. 104–127, title III, § 357][/us/pl/104/127/s357], Apr. 4, 1996, [110 Stat. 1014][/us/stat/110/1014].)
+([Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 357, Apr. 4, 1996, [110 Stat. 1014][/us/stat/110/1014].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs357
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1014
 
 

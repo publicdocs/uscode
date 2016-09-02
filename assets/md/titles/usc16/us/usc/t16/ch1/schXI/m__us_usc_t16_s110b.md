@@ -17,7 +17,7 @@
 
     The headquarters site provided pursuant to [section 110a of this title][/us/usc/t16/s110a] shall constitute a part of Mount Rainier National Park and be administered in accordance with the laws applicable thereto.
 
-([Pub. L. 86–521, § 2][/us/pl/86/521/s2], June 27, 1960, [74 Stat. 219][/us/stat/74/219].)
+([Pub. L. 86–521][/us/pl/86/521], § 2, June 27, 1960, [74 Stat. 219][/us/stat/74/219].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s110a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs110a
-[/us/pl/86/521/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F521%2Fs2
+[/us/pl/86/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F521
 [/us/stat/74/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F219
 
 

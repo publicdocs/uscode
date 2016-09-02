@@ -35,7 +35,7 @@
 
         The Secretary, the Secretary of the Treasury, and the Secretary of the department in which the Coast Guard is operating shall enforce this subchapter in the same manner such Secretaries carry out enforcement activities under [section 1540(e) of this title][/us/usc/t16/s1540/e]. [Section 1540(c) of this title][/us/usc/t16/s1540/c] shall apply to actions arising under this subchapter.
 
-([Pub. L. 100–478, title II, § 2204][/us/pl/100/478/s2204], Oct. 7, 1988, [102 Stat. 2320][/us/stat/102/2320].)
+([Pub. L. 100–478, title II][/us/pl/100/478/tII], § 2204, Oct. 7, 1988, [102 Stat. 2320][/us/stat/102/2320].)
 
  __Transfer of Functions__ 
 
@@ -54,7 +54,7 @@
 [/us/usc/t16/s4225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4225
 [/us/usc/t16/s1540/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1540%2Fe
 [/us/usc/t16/s1540/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1540%2Fc
-[/us/pl/100/478/s2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2Fs2204
+[/us/pl/100/478/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2FtII
 [/us/stat/102/2320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2320
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

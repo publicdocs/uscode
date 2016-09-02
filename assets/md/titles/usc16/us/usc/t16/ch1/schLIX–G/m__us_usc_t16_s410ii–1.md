@@ -509,7 +509,7 @@
 
         (2) The map referred to in paragraph (1) shall be kept on file and available for public inspection in the appropriate offices of the National Park Service, the office of the State Director of the Bureau of Land Management located in Santa Fe, New Mexico, the office of the Area Director of the Bureau of Indian Affairs located in Window Rock, Arizona, and the offices of the Arizona and New Mexico State Historic Preservation Officers.
 
-([Pub. L. 96–550, title V, § 502][/us/pl/96/550/s502], Dec. 19, 1980, [94 Stat. 3227][/us/stat/94/3227]; [Pub. L. 104–11, § 3][/us/pl/104/11/s3], May 18, 1995, [109 Stat. 158][/us/stat/109/158].)
+([Pub. L. 96–550, title V][/us/pl/96/550/tV], § 502, Dec. 19, 1980, [94 Stat. 3227][/us/stat/94/3227]; [Pub. L. 104–11][/us/pl/104/11], § 3, May 18, 1995, [109 Stat. 158][/us/stat/109/158].)
 
  __Amendments__ 
 
@@ -522,9 +522,9 @@
 ----------
 ----------
 
-[/us/pl/96/550/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F550%2Fs502
+[/us/pl/96/550/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F550%2FtV
 [/us/stat/94/3227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3227
-[/us/pl/104/11/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F11%2Fs3
+[/us/pl/104/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F11
 [/us/stat/109/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F158
 [/us/pl/104/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F11
 

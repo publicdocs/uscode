@@ -29,7 +29,7 @@
 
             The inclusion of the Lost Spring Canyon Addition in the park shall not affect the operation or maintenance by the Northwest Pipeline Corporation (or its successors or assigns) of the natural gas pipeline and related facilities located in the Lost Spring Canyon Addition on October 30, 1998.
 
-([Pub. L. 92–155, § 5][/us/pl/92/155/s5], Nov. 12, 1971, [85 Stat. 422][/us/stat/85/422]; [Pub. L. 105–329, § 2(d)][/us/pl/105/329/s2/d], Oct. 30, 1998, [112 Stat. 3061][/us/stat/112/3061].)
+([Pub. L. 92–155][/us/pl/92/155], § 5, Nov. 12, 1971, [85 Stat. 422][/us/stat/85/422]; [Pub. L. 105–329][/us/pl/105/329], § 2(d), Oct. 30, 1998, [112 Stat. 3061][/us/stat/112/3061].)
 
  __References in Text__ 
 
@@ -37,9 +37,9 @@
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–329, § 2(d)(1)][/us/pl/105/329/s2/d/1], inserted heading and amended text generally. Prior to amendment, text read as follows: “The National Park Service, under the direction of the Secretary, shall administer, protect, and develop the park, subject to the provisions of sections 1, 2, 3, and 4 of this title.”
+    1998—Subsec. (a). [Pub. L. 105–329][/us/pl/105/329], § 2(d)(1), inserted heading and amended text generally. Prior to amendment, text read as follows: “The National Park Service, under the direction of the Secretary, shall administer, protect, and develop the park, subject to the provisions of sections 1, 2, 3, and 4 of this title.”
 
-    Subsec. (b). [Pub. L. 105–329, § 2(d)(2)][/us/pl/105/329/s2/d/2], inserted heading and amended text generally. Prior to amendment, text read as follows: “Within three years from November 12, 1971, the Secretary of the Interior shall report to the President, in accordance with subsections 3(c) and 3(d) of the Wilderness Act, his recommendations as the suitability or nonsuitability of any area within the park for preservation as wilderness, and any designation of any such area as a wilderness shall be in accordance with said Wilderness Act.”
+    Subsec. (b). [Pub. L. 105–329][/us/pl/105/329], § 2(d)(2), inserted heading and amended text generally. Prior to amendment, text read as follows: “Within three years from November 12, 1971, the Secretary of the Interior shall report to the President, in accordance with subsections 3(c) and 3(d) of the Wilderness Act, his recommendations as the suitability or nonsuitability of any area within the park for preservation as wilderness, and any designation of any such area as a wilderness shall be in accordance with said Wilderness Act.”
 
 ----------
 
@@ -49,9 +49,9 @@
 ----------
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
-[/us/pl/92/155/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F155%2Fs5
+[/us/pl/92/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F155
 [/us/stat/85/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F422
-[/us/pl/105/329/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F329%2Fs2%2Fd
+[/us/pl/105/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F329
 [/us/stat/112/3061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3061
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
@@ -61,7 +61,7 @@
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
 [/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
-[/us/pl/105/329/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F329%2Fs2%2Fd%2F1
-[/us/pl/105/329/s2/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F329%2Fs2%2Fd%2F2
+[/us/pl/105/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F329
+[/us/pl/105/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F329
 
 

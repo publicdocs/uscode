@@ -31,7 +31,7 @@
 
         The Secretary may enter into agreements with the Burns Paiute Tribe to protect cultural sites in the Cooperative Management and Protection Area of importance to the tribe.
 
-([Pub. L. 106–399, title I, § 121][/us/pl/106/399/s121], Oct. 30, 2000, [114 Stat. 1663][/us/stat/114/1663].)
+([Pub. L. 106–399, title I][/us/pl/106/399/tI], § 121, Oct. 30, 2000, [114 Stat. 1663][/us/stat/114/1663].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/106/399/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2Fs121
+[/us/pl/106/399/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2FtI
 [/us/stat/114/1663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1663
 
 

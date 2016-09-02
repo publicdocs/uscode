@@ -49,7 +49,7 @@
 
         (2) the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of the one-hundred-and-twenty-day calendar period.
 
-([Pub. L. 96–487, title XV, § 1502][/us/pl/96/487/s1502], Dec. 2, 1980, [94 Stat. 2549][/us/stat/94/2549].)
+([Pub. L. 96–487, title XV][/us/pl/96/487/tXV], § 1502, Dec. 2, 1980, [94 Stat. 2549][/us/stat/94/2549].)
 
  __References in Text__ 
 
@@ -68,7 +68,7 @@
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s4332/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332%2F2%2FC
 [/us/usc/t42/s4332/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332%2F2%2FC
-[/us/pl/96/487/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1502
+[/us/pl/96/487/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXV
 [/us/stat/94/2549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2549
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371

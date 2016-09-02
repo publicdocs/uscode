@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall be construed as affecting in any way rights of owners and operators of cattle and sheep herds, existing on the date immediately prior to December 18, 1971, to trail their herds on traditional courses used by them prior to December 18, 1971, and to water their stock, notwithstanding the fact that the lands involving such trails and watering are situated within the park: Provided, That the Secretary may promulgate reasonable regulations providing for the use of such driveways.
 
-([Pub. L. 92–207, § 4][/us/pl/92/207/s4], Dec. 18, 1971, [85 Stat. 740][/us/stat/85/740].)
+([Pub. L. 92–207][/us/pl/92/207], § 4, Dec. 18, 1971, [85 Stat. 740][/us/stat/85/740].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/207/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F207%2Fs4
+[/us/pl/92/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F207
 [/us/stat/85/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F740
 
 

@@ -57,7 +57,7 @@
 
         The Secretary shall have, and shall not delegate to any private person or entity, authority to determine whether a person has complied with this subchapter.
 
-([Pub. L. 99–198, title XII, § 1211][/us/pl/99/198/s1211], Dec. 23, 1985, [99 Stat. 1506][/us/stat/99/1506]; [Pub. L. 101–624, title XIV, § 1411][/us/pl/101/624/s1411], Nov. 28, 1990, [104 Stat. 3569][/us/stat/104/3569]; [Pub. L. 102–237, title II, § 204(1)][/us/pl/102/237/s204/1], Dec. 13, 1991, [105 Stat. 1854][/us/stat/105/1854]; [Pub. L. 104–127, title III, § 311][/us/pl/104/127/s311], Apr. 4, 1996, [110 Stat. 982][/us/stat/110/982]; [Pub. L. 107–171, title II, § 2002(a)][/us/pl/107/171/s2002/a], May 13, 2002, [116 Stat. 233][/us/stat/116/233]; [Pub. L. 113–79, title II][/us/pl/113/79], §§ 2611(a)(1), 2713(b), Feb. 7, 2014, [128 Stat. 762][/us/stat/128/762], 772.)
+([Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1211, Dec. 23, 1985, [99 Stat. 1506][/us/stat/99/1506]; [Pub. L. 101–624, title XIV][/us/pl/101/624/tXIV], § 1411, Nov. 28, 1990, [104 Stat. 3569][/us/stat/104/3569]; [Pub. L. 102–237, title II][/us/pl/102/237/tII], § 204(1), Dec. 13, 1991, [105 Stat. 1854][/us/stat/105/1854]; [Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 311, Apr. 4, 1996, [110 Stat. 982][/us/stat/110/982]; [Pub. L. 107–171, title II][/us/pl/107/171/tII], § 2002(a), May 13, 2002, [116 Stat. 233][/us/stat/116/233]; [Pub. L. 113–79, title II][/us/pl/113/79/tII], §§ 2611(a)(1), 2713(b), Feb. 7, 2014, [128 Stat. 762][/us/stat/128/762], 772.)
 
  __References in Text__ 
 
@@ -71,25 +71,25 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–79, § 2713(b)][/us/pl/113/79/s2713/b], substituted “predominant” for “predominate” in two places in introductory provisions.
+    2014—Subsec. (a). [Pub. L. 113–79][/us/pl/113/79], § 2713(b), substituted “predominant” for “predominate” in two places in introductory provisions.
 
-    Subsec. (a)(1)(E). [Pub. L. 113–79, § 2611(a)(1)][/us/pl/113/79/s2611/a/1], added subpar. (E).
+    Subsec. (a)(1)(E). [Pub. L. 113–79][/us/pl/113/79], § 2611(a)(1), added subpar. (E).
 
     2002—[Pub. L. 107–171][/us/pl/107/171] designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-    1996—[Pub. L. 104–127, § 311(1)][/us/pl/104/127/s311/1], struck out “following December 23, 1985,” before “any person who” in introductory provisions.
+    1996—[Pub. L. 104–127][/us/pl/104/127], § 311(1), struck out “following December 23, 1985,” before “any person who” in introductory provisions.
 
-    Par. (1)(A). [Pub. L. 104–127, § 311(2)(A)][/us/pl/104/127/s311/2/A], added subpar. (A) and struck out former subpar. (A) which read as follows: “any type of price support or payment made available under the Agricultural Act of 1949 ([7 U.S.C. 1421][/us/usc/t7/s1421] et seq.), the Commodity Credit Corporation Charter Act ([15 U.S.C. 714][/us/usc/t15/s714] et seq.), or any other Act;”.
+    Par. (1)(A). [Pub. L. 104–127][/us/pl/104/127], § 311(2)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “any type of price support or payment made available under the Agricultural Act of 1949 ([7 U.S.C. 1421][/us/usc/t7/s1421] et seq.), the Commodity Credit Corporation Charter Act ([15 U.S.C. 714][/us/usc/t15/s714] et seq.), or any other Act;”.
 
-    Par. (1)(C). [Pub. L. 104–127, § 311(2)(B)][/us/pl/104/127/s311/2/B], (E), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “crop insurance under the Federal Crop Insurance Act ([7 U.S.C. 1501][/us/usc/t7/s1501] et seq.);”.
+    Par. (1)(C). [Pub. L. 104–127][/us/pl/104/127], § 311(2)(B), (E), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “crop insurance under the Federal Crop Insurance Act ([7 U.S.C. 1501][/us/usc/t7/s1501] et seq.);”.
 
-    Par. (1)(D). [Pub. L. 104–127, § 311(2)(E)][/us/pl/104/127/s311/2/E], redesignated subpar. (E) as (D). Former subpar. (D) redesignated (C).
+    Par. (1)(D). [Pub. L. 104–127][/us/pl/104/127], § 311(2)(E), redesignated subpar. (E) as (D). Former subpar. (D) redesignated (C).
 
-    [Pub. L. 104–127, § 311(2)(C)][/us/pl/104/127/s311/2/C], struck out before semicolon “made under the Agricultural Act of 1949 ([7 U.S.C. 1421][/us/usc/t7/s1421] et seq.), under section 132 of the Disaster Assistance Act of 1989 ([7 U.S.C. 1421][/us/usc/t7/s1421] note), or under any similar provision enacted subsequent to August 14, 1989”.
+    [Pub. L. 104–127][/us/pl/104/127], § 311(2)(C), struck out before semicolon “made under the Agricultural Act of 1949 ([7 U.S.C. 1421][/us/usc/t7/s1421] et seq.), under section 132 of the Disaster Assistance Act of 1989 ([7 U.S.C. 1421][/us/usc/t7/s1421] note), or under any similar provision enacted subsequent to August 14, 1989”.
 
-    Par. (1)(E). [Pub. L. 104–127, § 311(2)(D)][/us/pl/104/127/s311/2/D], (E), substituted “Consolidated Farm Service Agency” for “Farmers Home Administration” and redesignated subpar. (E) as (D).
+    Par. (1)(E). [Pub. L. 104–127][/us/pl/104/127], § 311(2)(D), (E), substituted “Consolidated Farm Service Agency” for “Farmers Home Administration” and redesignated subpar. (E) as (D).
 
-    Par. (3). [Pub. L. 104–127, § 311(3)][/us/pl/104/127/s311/3], added par. (3) and struck out former par. (3) which read as follows: “during such crop year—
+    Par. (3). [Pub. L. 104–127][/us/pl/104/127], § 311(3), added par. (3) and struck out former par. (3) which read as follows: “during such crop year—
 
     “(A) a payment made under section 590h, section 590l or [section 590p(b) of this title][/us/usc/t16/s590p/b];
 
@@ -103,27 +103,27 @@
 
     “(F) a payment, loan or other assistance under section 1003 or [section 1006a of this title][/us/usc/t16/s1006a].”
 
-    1991—Par. (1)(D). [Pub. L. 102–237, § 204(1)(A)][/us/pl/102/237/s204/1/A], substituted “([7 U.S.C. 1421][/us/usc/t7/s1421] note)” for “([16 U.S.C. 1421][/us/usc/t16/s1421] note)”.
+    1991—Par. (1)(D). [Pub. L. 102–237][/us/pl/102/237], § 204(1)(A), substituted “([7 U.S.C. 1421][/us/usc/t7/s1421] note)” for “([16 U.S.C. 1421][/us/usc/t16/s1421] note)”.
 
-    Par. (3)(D), (E). [Pub. L. 102–237, § 204(1)(B)][/us/pl/102/237/s204/1/B], (C), made technical amendments to references to part II of subchapter IV of this chapter and part III of subchapter IV of this chapter, in subpars. (D) and (E), respectively, to clarify references in corresponding provisions of original Act.
+    Par. (3)(D), (E). [Pub. L. 102–237][/us/pl/102/237], § 204(1)(B), (C), made technical amendments to references to part II of subchapter IV of this chapter and part III of subchapter IV of this chapter, in subpars. (D) and (E), respectively, to clarify references in corresponding provisions of original Act.
 
-    1990—[Pub. L. 101–624, § 1411(1)][/us/pl/101/624/s1411/1], inserted “, or designates land on which highly erodible land is predominate to be set aside, diverted, devoted to conservation uses, or otherwise not cultivated under a program administered by the Secretary to reduce production of an agricultural commodity, as determined by the Secretary” after “is predominate” in first sentence.
+    1990—[Pub. L. 101–624][/us/pl/101/624], § 1411(1), inserted “, or designates land on which highly erodible land is predominate to be set aside, diverted, devoted to conservation uses, or otherwise not cultivated under a program administered by the Secretary to reduce production of an agricultural commodity, as determined by the Secretary” after “is predominate” in first sentence.
 
-    Par. (1)(D). [Pub. L. 101–624, § 1411(2)][/us/pl/101/624/s1411/2], inserted reference to section 132 of the Disaster Assistance Act of 1989 and similar provisions enacted after Aug. 14, 1989.
+    Par. (1)(D). [Pub. L. 101–624][/us/pl/101/624], § 1411(2), inserted reference to section 132 of the Disaster Assistance Act of 1989 and similar provisions enacted after Aug. 14, 1989.
 
-    Par. (3). [Pub. L. 101–624, § 1411(3)][/us/pl/101/624/s1411/3]–(5), added par. (3).
+    Par. (3). [Pub. L. 101–624][/us/pl/101/624], § 1411(3)–(5), added par. (3).
 
  __Effective Date of 1996 Amendment__ 
 
-    [Pub. L. 104–127, title III, § 311][/us/pl/104/127/s311], Apr. 4, 1996, [110 Stat. 982][/us/stat/110/982], provided that the amendment made by that section is effective 90 days after Apr. 4, 1996.
+    [Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 311, Apr. 4, 1996, [110 Stat. 982][/us/stat/110/982], provided that the amendment made by that section is effective 90 days after Apr. 4, 1996.
 
  __Short Title__ 
 
-    [Pub. L. 99–198, title XII][/us/pl/99/198], subtitle B, Dec. 23, 1985, [99 Stat. 1506][/us/stat/99/1506], which is classified generally to this subchapter, is popularly known as the sodbuster provisions.
+    [Pub. L. 99–198, title XII][/us/pl/99/198/tXII], subtitle B, Dec. 23, 1985, [99 Stat. 1506][/us/stat/99/1506], which is classified generally to this subchapter, is popularly known as the sodbuster provisions.
 
  __Wind Erosion Estimation Pilot Project__ 
 
-[Pub. L. 104–127, title III, § 317][/us/pl/104/127/s317], Apr. 4, 1996, [110 Stat. 986][/us/stat/110/986], provided that:
+[Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 317, Apr. 4, 1996, [110 Stat. 986][/us/stat/110/986], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -157,17 +157,17 @@
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/usc/t7/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1501
 [/us/usc/t15/s714b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs714b
-[/us/pl/99/198/s1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1211
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
 [/us/stat/99/1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1506
-[/us/pl/101/624/s1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1411
+[/us/pl/101/624/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIV
 [/us/stat/104/3569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3569
-[/us/pl/102/237/s204/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs204%2F1
+[/us/pl/102/237/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtII
 [/us/stat/105/1854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1854
-[/us/pl/104/127/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs311
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F982
-[/us/pl/107/171/s2002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2002%2Fa
+[/us/pl/107/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtII
 [/us/stat/116/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F233
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F762
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/stat/110/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F896
@@ -181,37 +181,37 @@
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F72
 [/us/usc/t7/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1501
-[/us/pl/113/79/s2713/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2713%2Fb
-[/us/pl/113/79/s2611/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2611%2Fa%2F1
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
-[/us/pl/104/127/s311/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs311%2F1
-[/us/pl/104/127/s311/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs311%2F2%2FA
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
 [/us/usc/t15/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs714
-[/us/pl/104/127/s311/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs311%2F2%2FB
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/usc/t7/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1501
-[/us/pl/104/127/s311/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs311%2F2%2FE
-[/us/pl/104/127/s311/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs311%2F2%2FC
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
-[/us/pl/104/127/s311/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs311%2F2%2FD
-[/us/pl/104/127/s311/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs311%2F3
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/usc/t16/s590p/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590p%2Fb
 [/us/usc/t16/s2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2202
 [/us/usc/t16/s3831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3831
 [/us/usc/t16/s1006a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1006a
-[/us/pl/102/237/s204/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs204%2F1%2FA
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
 [/us/usc/t16/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1421
-[/us/pl/102/237/s204/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs204%2F1%2FB
-[/us/pl/101/624/s1411/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1411%2F1
-[/us/pl/101/624/s1411/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1411%2F2
-[/us/pl/101/624/s1411/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1411%2F3
-[/us/pl/104/127/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs311
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F982
-[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
 [/us/stat/99/1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1506
-[/us/pl/104/127/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs317
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F986
 [/us/usc/t16/s3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3811
 [/us/usc/t16/s3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3801

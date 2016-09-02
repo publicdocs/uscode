@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this subchapter.
 
-([Pub. L. 100–433, § 6][/us/pl/100/433/s6], Sept. 16, 1988, [102 Stat. 1642][/us/stat/102/1642].)
+([Pub. L. 100–433][/us/pl/100/433], § 6, Sept. 16, 1988, [102 Stat. 1642][/us/stat/102/1642].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/433/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F433%2Fs6
+[/us/pl/100/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F433
 [/us/stat/102/1642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1642
 
 

@@ -109,7 +109,7 @@
 
         A council is not an instrumentality of the United States Government.
 
-([Pub. L. 99–659, title II, § 210][/us/pl/99/659/s210], Nov. 14, 1986, [100 Stat. 3721][/us/stat/100/3721].)
+([Pub. L. 99–659, title II][/us/pl/99/659/tII], § 210, Nov. 14, 1986, [100 Stat. 3721][/us/stat/100/3721].)
 
 ----------
 
@@ -121,7 +121,7 @@
 [/us/usc/t16/s4010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4010
 [/us/usc/t16/s4012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4012
 [/us/usc/t16/s4012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4012
-[/us/pl/99/659/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs210
+[/us/pl/99/659/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtII
 [/us/stat/100/3721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3721
 
 

@@ -39,7 +39,7 @@
 
         The term “Trust” means the Oklahoma City National Memorial Trust.
 
-([Pub. L. 105–58, § 3][/us/pl/105/58/s3], Oct. 9, 1997, [111 Stat. 1262][/us/stat/111/1262]; [Pub. L. 108–199, div. F, title V, § 544(b)][/us/pl/108/199/s544/b], Jan. 23, 2004, [118 Stat. 347][/us/stat/118/347].)
+([Pub. L. 105–58][/us/pl/105/58], § 3, Oct. 9, 1997, [111 Stat. 1262][/us/stat/111/1262]; [Pub. L. 108–199, div. F, title V][/us/pl/108/199/dF/tV], § 544(b), Jan. 23, 2004, [118 Stat. 347][/us/stat/118/347].)
 
  __Amendments__ 
 
@@ -54,9 +54,9 @@
 
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/usc/t16/s450ss–2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450ss%E2%80%932%2Fa
-[/us/pl/105/58/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F58%2Fs3
+[/us/pl/105/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F58
 [/us/stat/111/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1262
-[/us/pl/108/199/s544/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs544%2Fb
+[/us/pl/108/199/dF/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdF%2FtV
 [/us/stat/118/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F347
 [/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
 [/us/usc/t16/s450ss–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450ss%E2%80%933%2Fa

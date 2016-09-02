@@ -23,7 +23,7 @@
 
     (3) the term “Secretary” means the Secretary of Agriculture of the United States.
 
-([Pub. L. 97–465, § 1][/us/pl/97/465/s1], Jan. 12, 1983, [96 Stat. 2535][/us/stat/96/2535].)
+([Pub. L. 97–465][/us/pl/97/465], § 1, Jan. 12, 1983, [96 Stat. 2535][/us/stat/96/2535].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/97/465/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F465%2Fs1
+[/us/pl/97/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F465
 [/us/stat/96/2535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2535
 
 

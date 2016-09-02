@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t16/ch12D/m__us_usc_t16_s835c–4.md) | [Next](./../../../..//us/usc/t16/ch12D/m__us_usc_t16_s835d.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs835c%E2%80%935)
 
-## § 835c–5. Repealed. [Pub. L. 87–728, § 3][/us/pl/87/728/s3], Oct. 1, 1962, [76 Stat. 678][/us/stat/76/678]
+## § 835c–5. Repealed. [Pub. L. 87–728][/us/pl/87/728], § 3, Oct. 1, 1962, [76 Stat. 678][/us/stat/76/678]
 
-    Section, [act May 27, 1937, ch. 269, § 9][/us/act/1937-05-27/ch269/s9], as added [Mar. 10, 1943, ch. 14][/us/act/1943-03-10/ch14], [57 Stat. 20][/us/stat/57/20], related to the consent of the Government to the sale of school and public lands of the State of Washington.
+    Section, [act May 27, 1937, ch. 269][/us/act/1937-05-27/ch269], § 9, as added [Mar. 10, 1943, ch. 14][/us/act/1943-03-10/ch14], [57 Stat. 20][/us/stat/57/20], related to the consent of the Government to the sale of school and public lands of the State of Washington.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/87/728/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F728%2Fs3
+[/us/pl/87/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F728
 [/us/stat/76/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F678
-[/us/act/1937-05-27/ch269/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-27%2Fch269%2Fs9
+[/us/act/1937-05-27/ch269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-27%2Fch269
 [/us/act/1943-03-10/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-03-10%2Fch14
 [/us/stat/57/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F20
 

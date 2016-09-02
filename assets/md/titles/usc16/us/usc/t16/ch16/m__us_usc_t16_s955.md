@@ -23,7 +23,7 @@
 
         The Secretary may promulgate regulations as may be necessary to carry out the United States international obligations under the Convention and this chapter, applicable to all vessels and persons subject to the jurisdiction of the United States, including vessels documented under chapter 121 of title 46, wherever they may be operating, on such date as the Secretary shall prescribe.
 
-([Sept. 7, 1950, ch. 907, § 6][/us/act/1950-09-07/ch907/s6], [64 Stat. 778][/us/stat/64/778]; [Pub. L. 87–814, § 2][/us/pl/87/814/s2], Oct. 15, 1962, [76 Stat. 923][/us/stat/76/923]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090]; [Pub. L. 114–81, title II, § 206][/us/pl/114/81/s206], Nov. 5, 2015, [129 Stat. 663][/us/stat/129/663].)
+([Sept. 7, 1950, ch. 907][/us/act/1950-09-07/ch907], § 6, [64 Stat. 778][/us/stat/64/778]; [Pub. L. 87–814][/us/pl/87/814], § 2, Oct. 15, 1962, [76 Stat. 923][/us/stat/76/923]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090]; [Pub. L. 114–81, title II][/us/pl/114/81/tII], § 206, Nov. 5, 2015, [129 Stat. 663][/us/stat/129/663].)
 
  __References in Text__ 
 
@@ -49,12 +49,12 @@
 ----------
 
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
-[/us/act/1950-09-07/ch907/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-07%2Fch907%2Fs6
+[/us/act/1950-09-07/ch907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-07%2Fch907
 [/us/stat/64/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F778
-[/us/pl/87/814/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F814%2Fs2
+[/us/pl/87/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F814
 [/us/stat/76/923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F923
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
-[/us/pl/114/81/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs206
+[/us/pl/114/81/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2FtII
 [/us/stat/129/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F663
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331

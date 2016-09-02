@@ -27,7 +27,7 @@
 
         The district courts of the United States shall have jurisdiction over any offense described in this section.
 
-([Pub. L. 100–330, § 7][/us/pl/100/330/s7], June 7, 1988, [102 Stat. 594][/us/stat/102/594].)
+([Pub. L. 100–330][/us/pl/100/330], § 7, June 7, 1988, [102 Stat. 594][/us/stat/102/594].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/100/330/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F330%2Fs7
+[/us/pl/100/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F330
 [/us/stat/102/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F594
 
 

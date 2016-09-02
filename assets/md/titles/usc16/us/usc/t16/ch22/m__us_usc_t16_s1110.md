@@ -27,7 +27,7 @@
 
         No liability of the Commission shall be imputed to any member of the Commission solely on the basis that he occupies the position of member of the Commission.
 
-([Pub. L. 88–363, § 11][/us/pl/88/363/s11], July 7, 1964, [78 Stat. 301][/us/stat/78/301].)
+([Pub. L. 88–363][/us/pl/88/363], § 11, July 7, 1964, [78 Stat. 301][/us/stat/78/301].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/88/363/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F363%2Fs11
+[/us/pl/88/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F363
 [/us/stat/78/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F301
 
 

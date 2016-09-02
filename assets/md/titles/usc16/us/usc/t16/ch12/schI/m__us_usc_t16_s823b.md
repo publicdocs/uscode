@@ -61,7 +61,7 @@
 
             (B) The Commission shall be represented by the Attorney General, or the Solicitor General, as appropriate, in actions under this subsection, except to the extent provided in subparagraph (A) of this paragraph.
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. I, § 31, as added [Pub. L. 99–495, § 12][/us/pl/99/495/s12], Oct. 16, 1986, [100 Stat. 1255][/us/stat/100/1255].)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. I, § 31, as added [Pub. L. 99–495][/us/pl/99/495], § 12, Oct. 16, 1986, [100 Stat. 1255][/us/stat/100/1255].)
 
  __Effective Date__ 
 
@@ -76,7 +76,7 @@
 
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
-[/us/pl/99/495/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495%2Fs12
+[/us/pl/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495
 [/us/stat/100/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1255
 [/us/pl/99/495/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495%2Fs18
 [/us/usc/t16/s797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs797

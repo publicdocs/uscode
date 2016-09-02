@@ -37,7 +37,7 @@
 
         The Secretary shall not allow any unauthorized use of the Addition after November 10, 1988, except that the Secretary may permit the orderly termination of all operations on the Addition and the removal of equipment, facilities, and personal property from the Addition.
 
-([Apr. 17, 1954, ch. 153, § 1][/us/act/1954-04-17/ch153/s1], [68 Stat. 56][/us/stat/68/56], as renumbered and amended [Pub. L. 96–442, § 2][/us/pl/96/442/s2], Oct. 13, 1980, [94 Stat. 1885][/us/stat/94/1885]; [Pub. L. 100–647, title X, § 10002][/us/pl/100/647/s10002], Nov. 10, 1988, [102 Stat. 3810][/us/stat/102/3810].)
+([Apr. 17, 1954, ch. 153][/us/act/1954-04-17/ch153], § 1, [68 Stat. 56][/us/stat/68/56], as renumbered and amended [Pub. L. 96–442][/us/pl/96/442], § 2, Oct. 13, 1980, [94 Stat. 1885][/us/stat/94/1885]; [Pub. L. 100–647, title X][/us/pl/100/647/tX], § 10002, Nov. 10, 1988, [102 Stat. 3810][/us/stat/102/3810].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 
  __Codification__ 
 
-    In subsec. (a), “[section 100506(c) of title 54][/us/usc/t54/s100506/c]” substituted for “section 7(c) of the Land and Water Conservation Fund Act of 1965 ([91 Stat. 211][/us/stat/91/211]), as amended ([16 U.S.C. 460][/us/usc/t16/s460]l)” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (a), “[section 100506(c) of title 54][/us/usc/t54/s100506/c]” substituted for “section 7(c) of the Land and Water Conservation Fund Act of 1965 ([91 Stat. 211][/us/stat/91/211]), as amended ([16 U.S.C. 460][/us/usc/t16/s460]l)” on authority of [Pub. L. 113–287][/us/pl/113/287], § 6(e), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
  __Amendments__ 
 
@@ -55,19 +55,19 @@
 
  __Short Title of 1988 Amendment__ 
 
-[Pub. L. 100–647, title X, § 10001][/us/pl/100/647/s10001], Nov. 10, 1988, [102 Stat. 3810][/us/stat/102/3810], provided that: 
+[Pub. L. 100–647, title X][/us/pl/100/647/tX], § 10001, Nov. 10, 1988, [102 Stat. 3810][/us/stat/102/3810], provided that: 
 
 > “This title \[amending this section and [section 429b–1 of this title][/us/usc/t16/s429b–1] and enacting provisions set out as a note below\] may be cited as the ‘Manassas National Battlefield Park Amendments of 1988’.”
 
  __Short Title__ 
 
-[Pub. L. 96–442, § 1][/us/pl/96/442/s1], Oct. 13, 1980, [94 Stat. 1885][/us/stat/94/1885], provided: 
+[Pub. L. 96–442][/us/pl/96/442], § 1, Oct. 13, 1980, [94 Stat. 1885][/us/stat/94/1885], provided: 
 
 > “That this Act \[enacting sections 429b–1 to 429b–5 of this title, amending this section, and enacting provisions set out as a note under [section 460cc of this title][/us/usc/t16/s460cc]\] may be cited as the ‘Manassas National Battlefield Park Amendments of 1980’.”
 
  __Highway Relocation__ 
 
-[Pub. L. 100–647, title X, § 10004][/us/pl/100/647/s10004], Nov. 10, 1988, [102 Stat. 3811][/us/stat/102/3811], provided that:
+[Pub. L. 100–647, title X][/us/pl/100/647/tX], § 10004, Nov. 10, 1988, [102 Stat. 3811][/us/stat/102/3811], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -94,27 +94,27 @@
 
 [/us/usc/t54/s100506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100506%2Fc
 [/us/usc/t31/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1304
-[/us/act/1954-04-17/ch153/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-04-17%2Fch153%2Fs1
+[/us/act/1954-04-17/ch153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-04-17%2Fch153
 [/us/stat/68/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F56
-[/us/pl/96/442/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F442%2Fs2
+[/us/pl/96/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F442
 [/us/stat/94/1885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1885
-[/us/pl/100/647/s10002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs10002
+[/us/pl/100/647/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtX
 [/us/stat/102/3810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3810
 [/us/pl/96/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F442
 [/us/usc/t54/s100506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100506%2Fc
 [/us/stat/91/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F211
 [/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
-[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/96/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F442
-[/us/pl/100/647/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs10001
+[/us/pl/100/647/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtX
 [/us/stat/102/3810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3810
 [/us/usc/t16/s429b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs429b%E2%80%931
-[/us/pl/96/442/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F442%2Fs1
+[/us/pl/96/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F442
 [/us/stat/94/1885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1885
 [/us/usc/t16/s460cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460cc
-[/us/pl/100/647/s10004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs10004
+[/us/pl/100/647/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtX
 [/us/stat/102/3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3811
 
 

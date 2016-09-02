@@ -17,7 +17,7 @@
 
     Lands and interests therein acquired pursuant to sections 430a–1 to 430a–3 of this title shall thereupon become a part of the Kings Mountain National Military Park and be subject to all the laws and regulations applicable thereto.
 
-([Pub. L. 86–62, § 3][/us/pl/86/62/s3], June 23, 1959, [73 Stat. 108][/us/stat/73/108].)
+([Pub. L. 86–62][/us/pl/86/62], § 3, June 23, 1959, [73 Stat. 108][/us/stat/73/108].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/62/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F62%2Fs3
+[/us/pl/86/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F62
 [/us/stat/73/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F108
 
 

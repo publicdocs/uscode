@@ -27,7 +27,7 @@
 
         Amounts repaid on loans made pursuant to this chapter shall be deposited into the United States Treasury as miscellaneous receipts.
 
-([Pub. L. 95–617, title IV, § 404][/us/pl/95/617/s404], Nov. 9, 1978, [92 Stat. 3155][/us/stat/92/3155].)
+([Pub. L. 95–617, title IV][/us/pl/95/617/tIV], § 404, Nov. 9, 1978, [92 Stat. 3155][/us/stat/92/3155].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 [/us/usc/t42/s1962d–17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%9317
 [/us/usc/t16/s2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2702
 [/us/usc/t16/s2703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2703
-[/us/pl/95/617/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs404
+[/us/pl/95/617/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtIV
 [/us/stat/92/3155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3155
 [/us/usc/t42/s1962d–17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%9317
 [/us/usc/t42/s1962–17/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962%E2%80%9317%2Fa

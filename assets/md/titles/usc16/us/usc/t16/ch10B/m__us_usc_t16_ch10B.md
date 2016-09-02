@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch10A/m__us_usc_t16_ch10A.md) | [Next](./../../../..//us/usc/t16/ch10B/m__us_usc_t16_s777.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch10B)
+[Previous](./../../../..//us/usc/t16/ch10A/m__us_usc_t16_s776...776f.md) | [Next](./../../../..//us/usc/t16/ch10B/m__us_usc_t16_s777.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch10B)
 
 ## CHAPTER 10B—FISH RESTORATION AND MANAGEMENT PROJECTS
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs777" data-uslm-ref="/us/usc/t16/s777">777</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs777l" data-uslm-ref="/us/usc/t16/s777l">777l.</a>  </td>
 
     <td> State use of contributions.  </td>
 
@@ -163,7 +163,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch10A/m__us_usc_t16_ch10A.md) | [Next](./../../../..//us/usc/t16/ch10B/m__us_usc_t16_s777.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch10B)
+[Previous](./../../../..//us/usc/t16/ch10A/m__us_usc_t16_s776...776f.md) | [Next](./../../../..//us/usc/t16/ch10B/m__us_usc_t16_s777.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch10B)
 
 ----------
 ----------

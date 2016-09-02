@@ -17,7 +17,7 @@
 
     Upon the delivery and acceptance of the conveyance herein authorized, any jurisdiction heretofore ceded to the United States by the State of Tennessee over the lands conveyed shall thereby cease and determine and shall thereafter vest and be in the State of Tennessee.
 
-([Pub. L. 85–406, § 4][/us/pl/85/406/s4], May 16, 1958, [72 Stat. 115][/us/stat/72/115].)
+([Pub. L. 85–406][/us/pl/85/406], § 4, May 16, 1958, [72 Stat. 115][/us/stat/72/115].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/85/406/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F406%2Fs4
+[/us/pl/85/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F406
 [/us/stat/72/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F115
 [/us/pl/85/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F406
 

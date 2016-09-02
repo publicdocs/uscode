@@ -47,7 +47,7 @@
 
         In the case of a pipeline described in [section 185(a) of title 30][/us/usc/t30/s185/a], a right-of-way issued pursuant to this subchapter shall be issued in the same manner as a right-of-way is granted under [section 185 of title 30][/us/usc/t30/s185], and the provisions of subsections (c) through (j), (l) through (q), and (u) through (y) of [section 185 of title 30][/us/usc/t30/s185] shall apply to rights-of-way issued pursuant to this subchapter.
 
-([Pub. L. 96–487, title XI, § 1107][/us/pl/96/487/s1107], Dec. 2, 1980, [94 Stat. 2463][/us/stat/94/2463].)
+([Pub. L. 96–487, title XI][/us/pl/96/487/tXI], § 1107, Dec. 2, 1980, [94 Stat. 2463][/us/stat/94/2463].)
 
 ----------
 
@@ -59,7 +59,7 @@
 [/us/usc/t30/s185/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs185%2Fa
 [/us/usc/t30/s185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs185
 [/us/usc/t30/s185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs185
-[/us/pl/96/487/s1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1107
+[/us/pl/96/487/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXI
 [/us/stat/94/2463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2463
 
 

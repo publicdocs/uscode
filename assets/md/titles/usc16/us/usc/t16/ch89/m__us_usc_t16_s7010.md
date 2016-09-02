@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the Secretary such sums as may be necessary to carry out the obligations of the United States under the Agreement and this chapter.
 
-([Pub. L. 109–479, title VI, § 611][/us/pl/109/479/s611], Jan. 12, 2007, [120 Stat. 3649][/us/stat/120/3649].)
+([Pub. L. 109–479, title VI][/us/pl/109/479/tVI], § 611, Jan. 12, 2007, [120 Stat. 3649][/us/stat/120/3649].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/479/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs611
+[/us/pl/109/479/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtVI
 [/us/stat/120/3649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3649
 
 

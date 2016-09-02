@@ -21,7 +21,7 @@
 
     (2) Certain lands in the Ouachita National Forest, Oklahoma, which comprise approximately 9,371 acres, as generally depicted on a map entitled “Upper Kiamichi River Wilderness—Proposed”, dated March 1988, and which shall be known as the Upper Kiamichi River Wilderness.
 
-([Pub. L. 100–499, § 3][/us/pl/100/499/s3], Oct. 18, 1988, [102 Stat. 2492][/us/stat/102/2492].)
+([Pub. L. 100–499][/us/pl/100/499], § 3, Oct. 18, 1988, [102 Stat. 2492][/us/stat/102/2492].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
-[/us/pl/100/499/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F499%2Fs3
+[/us/pl/100/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F499
 [/us/stat/102/2492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2492
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890

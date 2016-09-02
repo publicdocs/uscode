@@ -27,7 +27,7 @@
 
         The United States Commissioner and Deputy Commissioner, although officers of the United States Government, shall receive no compensation for their services.
 
-([Aug. 9, 1950, ch. 653, § 3][/us/act/1950-08-09/ch653/s3], [64 Stat. 421][/us/stat/64/421]; 1970 Reorg. Plan. No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
+([Aug. 9, 1950, ch. 653][/us/act/1950-08-09/ch653], § 3, [64 Stat. 421][/us/stat/64/421]; 1970 Reorg. Plan. No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
 
  __Transfer of Functions__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/act/1950-08-09/ch653/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch653%2Fs3
+[/us/act/1950-08-09/ch653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch653
 [/us/stat/64/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F421
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
 [/us/usc/t16/s916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs916

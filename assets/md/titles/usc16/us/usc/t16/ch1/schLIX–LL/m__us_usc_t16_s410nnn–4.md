@@ -17,7 +17,7 @@
 
     In furtherance of the purposes of this subchapter, the Secretary is authorized to enter into cooperative agreements with the United States of Mexico, in accordance with existing international agreements, and with other owners of Mexican-American War properties within the United States of America for the purposes of conducting joint research and interpretive planning for the historical park and related Mexican-American War sites. Interpretive information and programs shall reflect historical data and perspectives of both countries and the series of historical events associated with the Mexican-American War.
 
-([Pub. L. 102–304, § 6][/us/pl/102/304/s6], June 23, 1992, [106 Stat. 257][/us/stat/106/257]; [Pub. L. 111–11, title VII, § 7113(a)(3)(C)][/us/pl/111/11/s7113/a/3/C], Mar. 30, 2009, [123 Stat. 1202][/us/stat/123/1202].)
+([Pub. L. 102–304][/us/pl/102/304], § 6, June 23, 1992, [106 Stat. 257][/us/stat/106/257]; [Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7113(a)(3)(C), Mar. 30, 2009, [123 Stat. 1202][/us/stat/123/1202].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/102/304/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F304%2Fs6
+[/us/pl/102/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F304
 [/us/stat/106/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F257
-[/us/pl/111/11/s7113/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7113%2Fa%2F3%2FC
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1202
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 

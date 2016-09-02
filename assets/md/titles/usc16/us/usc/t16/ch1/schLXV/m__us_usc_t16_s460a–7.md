@@ -23,7 +23,7 @@
 
     (3) The Secretary of the Interior may relocate and reconstruct portions of the Appalachian Trail, including trail shelters, that may be disturbed by the parkway extension and such relocation and reconstruction may be performed (A) on non-Federal lands when the Appalachian Trail Conference obtains the consent of the owner to the use of the lands for the purpose and agrees to assume maintenance thereof, and (B) upon national forest lands with the approval of the Secretary of Agriculture.
 
-([Pub. L. 90–555, § 2][/us/pl/90/555/s2], Oct. 9, 1968, [82 Stat. 968][/us/stat/82/968].)
+([Pub. L. 90–555][/us/pl/90/555], § 2, Oct. 9, 1968, [82 Stat. 968][/us/stat/82/968].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/stat/75/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F337
-[/us/pl/90/555/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F555%2Fs2
+[/us/pl/90/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F555
 [/us/stat/82/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F968
 [/us/pl/87/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F135
 [/us/stat/75/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F337

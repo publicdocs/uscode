@@ -17,7 +17,7 @@
 
     The provisions of the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\] shall not apply to or extend over the land acquired for inclusion in the Lassen Volcanic National Park in accordance with the provisions of this section and [section 207 of this title][/us/usc/t16/s207].
 
-([Apr. 19, 1930, ch. 191, § 2][/us/act/1930-04-19/ch191/s2], [46 Stat. 222][/us/stat/46/222].)
+([Apr. 19, 1930, ch. 191][/us/act/1930-04-19/ch191], § 2, [46 Stat. 222][/us/stat/46/222].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/usc/t16/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs207
-[/us/act/1930-04-19/ch191/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-04-19%2Fch191%2Fs2
+[/us/act/1930-04-19/ch191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-04-19%2Fch191
 [/us/stat/46/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F222
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285

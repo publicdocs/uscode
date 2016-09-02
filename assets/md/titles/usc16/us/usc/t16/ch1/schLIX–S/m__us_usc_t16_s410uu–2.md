@@ -17,7 +17,7 @@
 
     The Secretary may enter into a cooperative agreement with the Ohio Historical Society, the Archeological  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Archaeological”. </sup></sup>  Conservancy, and other public and private entities for consultation and assistance in the interpretation and management of the park.
 
-([Pub. L. 102–294, § 3][/us/pl/102/294/s3], May 27, 1992, [106 Stat. 186][/us/stat/106/186].)
+([Pub. L. 102–294][/us/pl/102/294], § 3, May 27, 1992, [106 Stat. 186][/us/stat/106/186].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/294/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F294%2Fs3
+[/us/pl/102/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F294
 [/us/stat/106/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F186
 
 

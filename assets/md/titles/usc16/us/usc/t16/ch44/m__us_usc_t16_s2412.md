@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed as contravening or superseding the provisions of any international treaty, convention, or agreement, if such treaty, convention, or agreement is in force with respect to the United States on October 28, 1978, or of any statute which implements any such treaty, convention, or agreement.
 
-([Pub. L. 95–541, § 13][/us/pl/95/541/s13], Oct. 28, 1978, [92 Stat. 2056][/us/stat/92/2056].)
+([Pub. L. 95–541][/us/pl/95/541], § 13, Oct. 28, 1978, [92 Stat. 2056][/us/stat/92/2056].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/541/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F541%2Fs13
+[/us/pl/95/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F541
 [/us/stat/92/2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2056
 
 

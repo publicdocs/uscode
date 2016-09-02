@@ -17,7 +17,7 @@
 
     The Secretary of the Interior shall, on the basis of studies carried out pursuant to sections 757a to 757f of this title and [section 665 of this title][/us/usc/t16/s665], make recommendations to the Secretary of Health and Human Services concerning the elimination or reduction of polluting substances detrimental to fish and wildlife in interstate or navigable waters or the tributaries thereof. Such recommendations and any enforcement measures initiated pursuant thereto by the Secretary of Health and Human Services shall be designed to enhance the quality of such waters, and shall take into consideration all other legitimate uses of such waters.
 
-([Pub. L. 89–304, § 6][/us/pl/89/304/s6], Oct. 30, 1965, [79 Stat. 1126][/us/stat/79/1126]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Pub. L. 89–304][/us/pl/89/304], § 6, Oct. 30, 1965, [79 Stat. 1126][/us/stat/79/1126]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __Change of Name__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t16/s665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs665
-[/us/pl/89/304/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F304%2Fs6
+[/us/pl/89/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F304
 [/us/stat/79/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1126
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb

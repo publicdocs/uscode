@@ -35,7 +35,7 @@
 
         The Secretary of the Interior may enter into agreements to finance up to 75 per centum of the initial costs of the acquisition of lands or interests therein and the construction of structures or facilities from appropriations currently available for the purposes of this chapter; and to agree to finance up to 75 per centum of the remaining costs over such a period of time as the Secretary may consider necessary. The liability of the United States in any such agreement is contingent upon the continued availability of funds for the purposes of this chapter.
 
-([Aug. 9, 1950, ch. 658, § 6][/us/act/1950-08-09/ch658/s6], [64 Stat. 432][/us/stat/64/432]; [Pub. L. 91–503, title II, § 202][/us/pl/91/503/s202], Oct. 23, 1970, [84 Stat. 1102][/us/stat/84/1102]; [Pub. L. 98–369, div. A, title X, § 1014(a)(5)][/us/pl/98/369/s1014/a/5], July 18, 1984, [98 Stat. 1016][/us/stat/98/1016]; [Pub. L. 114–94, div. A, title X, § 10001(c)][/us/pl/114/94/s10001/c], Dec. 4, 2015, [129 Stat. 1621][/us/stat/129/1621].)
+([Aug. 9, 1950, ch. 658][/us/act/1950-08-09/ch658], § 6, [64 Stat. 432][/us/stat/64/432]; [Pub. L. 91–503, title II][/us/pl/91/503/tII], § 202, Oct. 23, 1970, [84 Stat. 1102][/us/stat/84/1102]; [Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1014(a)(5), July 18, 1984, [98 Stat. 1016][/us/stat/98/1016]; [Pub. L. 114–94, div. A, title X][/us/pl/114/94/dA/tX], § 10001(c), Dec. 4, 2015, [129 Stat. 1621][/us/stat/129/1621].)
 
  __Amendments__ 
 
@@ -66,13 +66,13 @@
 ----------
 ----------
 
-[/us/act/1950-08-09/ch658/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch658%2Fs6
+[/us/act/1950-08-09/ch658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch658
 [/us/stat/64/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F432
-[/us/pl/91/503/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F503%2Fs202
+[/us/pl/91/503/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F503%2FtII
 [/us/stat/84/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1102
-[/us/pl/98/369/s1014/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1014%2Fa%2F5
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1016
-[/us/pl/114/94/s10001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs10001%2Fc
+[/us/pl/114/94/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtX
 [/us/stat/129/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1621
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369

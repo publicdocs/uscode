@@ -17,7 +17,7 @@
 
     Within three complete fiscal years from March 5, 1980, the Secretary shall review the area within the park and shall report to the President, in accordance with section 1132(c) and (d) of this title, his recommendations as to the suitability or nonsuitability of any area within the park for designation as wilderness. Any designation of any such areas as wilderness shall be accomplished in accordance with section 1132(c) and (d) of this title.
 
-([Pub. L. 96–199, title II, § 206][/us/pl/96/199/s206], Mar. 5, 1980, [94 Stat. 77][/us/stat/94/77].)
+([Pub. L. 96–199, title II][/us/pl/96/199/tII], § 206, Mar. 5, 1980, [94 Stat. 77][/us/stat/94/77].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/199/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199%2Fs206
+[/us/pl/96/199/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199%2FtII
 [/us/stat/94/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F77
 
 

@@ -37,7 +37,7 @@
 
         The Secretary shall permit hunting, fishing, and trapping on lands and waters under his jurisdiction within the preserve in accordance with the applicable laws of the United States and the State of Texas, except that he may designate zones where and periods when, no hunting, fishing, trapping, or entry may be permitted for reasons of public safety, administration, floral and faunal protection and management, or public use and enjoyment. Except in emergencies, any regulations prescribing such restrictions relating to hunting, fishing, or trapping shall be put into effect only after consultation with the appropriate State agency having jurisdiction over hunting, fishing and trapping activities.
 
-([Pub. L. 93–439, § 4][/us/pl/93/439/s4], Oct. 11, 1974, [88 Stat. 1257][/us/stat/88/1257].)
+([Pub. L. 93–439][/us/pl/93/439], § 4, Oct. 11, 1974, [88 Stat. 1257][/us/stat/88/1257].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 [/us/usc/t16/s698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs698
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1%E2%80%934
-[/us/pl/93/439/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F439%2Fs4
+[/us/pl/93/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F439
 [/us/stat/88/1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1257
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1%E2%80%934

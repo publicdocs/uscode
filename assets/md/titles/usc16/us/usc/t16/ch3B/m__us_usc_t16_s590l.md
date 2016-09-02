@@ -23,7 +23,7 @@
 
         The Secretary is authorized to make advances to producers for the purpose of assisting them to insure their crops with the Federal Crop Insurance Corporation. The Secretary shall remit the amount of any such advances to a producer directly to such Corporation in payment of the premium on the insurance for which the producer has made application. Advances shall only be made to producers who are participating or who agree to participate in a program formulated pursuant to [section 590h of this title][/us/usc/t16/s590h]. Except as otherwise provided in this subsection, the terms and conditions of such advances shall be fixed by the Secretary. In carrying out the provisions of this subsection, the Secretary may transfer to the Federal Crop Insurance Corporation, prior to the execution of applications for insurance or requests for advances by producers, the funds estimated as necessary to cover the advances which will be requested for the payment of premiums under a crop-insurance program, and any portion of such funds not used for advances to producers under such program shall be returned to the Secretary by the Federal Crop Insurance Corporation.
 
-([Apr. 27, 1935, ch. 85, § 12][/us/act/1935-04-27/ch85/s12], as added [Feb. 29, 1936, ch. 104, § 1][/us/act/1936-02-29/ch104/s1], [49 Stat. 1151][/us/stat/49/1151]; amended [Mar. 25, 1939, ch. 15][/us/act/1939-03-25/ch15], [53 Stat. 550][/us/stat/53/550]; [July 2, 1940, ch. 521, § 1][/us/act/1940-07-02/ch521/s1], [54 Stat. 727][/us/stat/54/727].)
+([Apr. 27, 1935, ch. 85][/us/act/1935-04-27/ch85], § 12, as added [Feb. 29, 1936, ch. 104][/us/act/1936-02-29/ch104], § 1, [49 Stat. 1151][/us/stat/49/1151]; amended [Mar. 25, 1939, ch. 15][/us/act/1939-03-25/ch15], [53 Stat. 550][/us/stat/53/550]; [July 2, 1940, ch. 521][/us/act/1940-07-02/ch521], § 1, [54 Stat. 727][/us/stat/54/727].)
 
  __Amendments__ 
 
@@ -48,12 +48,12 @@
 
 [/us/usc/t16/s590g/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590g%2Fa
 [/us/usc/t16/s590h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h
-[/us/act/1935-04-27/ch85/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-04-27%2Fch85%2Fs12
-[/us/act/1936-02-29/ch104/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-02-29%2Fch104%2Fs1
+[/us/act/1935-04-27/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-04-27%2Fch85
+[/us/act/1936-02-29/ch104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-02-29%2Fch104
 [/us/stat/49/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1151
 [/us/act/1939-03-25/ch15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-03-25%2Fch15
 [/us/stat/53/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F550
-[/us/act/1940-07-02/ch521/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-02%2Fch521%2Fs1
+[/us/act/1940-07-02/ch521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-02%2Fch521
 [/us/stat/54/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F727
 [/us/stat/60/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1100
 [/us/usc/t16/s590a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590a

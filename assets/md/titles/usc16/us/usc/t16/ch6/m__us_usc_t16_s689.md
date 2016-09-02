@@ -19,7 +19,7 @@
 
     That where the Government survey has not been completed the aforesaid description shall be deemed to refer to and be determined by lines projected from the official survey.
 
-([July 3, 1926, ch. 776, § 1][/us/act/1926-07-03/ch776/s1], [44 Stat. 889][/us/stat/44/889].)
+([July 3, 1926, ch. 776][/us/act/1926-07-03/ch776], § 1, [44 Stat. 889][/us/stat/44/889].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/act/1926-07-03/ch776/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-03%2Fch776%2Fs1
+[/us/act/1926-07-03/ch776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-03%2Fch776
 [/us/stat/44/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F889
 
 

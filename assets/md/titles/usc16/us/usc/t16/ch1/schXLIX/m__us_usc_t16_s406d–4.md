@@ -23,7 +23,7 @@ sixth principal meridian
 
     Containing seventy-eight and ninety-three one-hundredths acres, more or less.
 
-([Sept. 14, 1950, ch. 950, § 7][/us/act/1950-09-14/ch950/s7], [64 Stat. 852][/us/stat/64/852].)
+([Sept. 14, 1950, ch. 950][/us/act/1950-09-14/ch950], § 7, [64 Stat. 852][/us/stat/64/852].)
 
  __Repeal of Inconsistent Laws__ 
 
@@ -36,7 +36,7 @@ sixth principal meridian
 ----------
 ----------
 
-[/us/act/1950-09-14/ch950/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-14%2Fch950%2Fs7
+[/us/act/1950-09-14/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-14%2Fch950
 [/us/stat/64/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F852
 [/us/usc/t16/s406d–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs406d%E2%80%931
 

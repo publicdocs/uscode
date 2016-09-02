@@ -17,7 +17,7 @@
 
     In administering Vicksburg National Military Park, the Secretary shall interpret the campaign and siege of Vicksburg from April 1862 to July 4, 1863, and the history of Vicksburg under Union occupation during the Civil War and Reconstruction.
 
-([Pub. L. 101–442, title I, § 103][/us/pl/101/442/s103], Oct. 18, 1990, [104 Stat. 1020][/us/stat/104/1020].)
+([Pub. L. 101–442, title I][/us/pl/101/442/tI], § 103, Oct. 18, 1990, [104 Stat. 1020][/us/stat/104/1020].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/442/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F442%2Fs103
+[/us/pl/101/442/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F442%2FtI
 [/us/stat/104/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1020
 
 

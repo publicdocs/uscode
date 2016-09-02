@@ -41,7 +41,7 @@
 
         The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the advisory group.
 
-([Pub. L. 108–266, § 6][/us/pl/108/266/s6], July 2, 2004, [118 Stat. 795][/us/stat/118/795].)
+([Pub. L. 108–266][/us/pl/108/266], § 6, July 2, 2004, [118 Stat. 795][/us/stat/118/795].)
 
  __References in Text__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/108/266/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F266%2Fs6
+[/us/pl/108/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F266
 [/us/stat/118/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F795
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

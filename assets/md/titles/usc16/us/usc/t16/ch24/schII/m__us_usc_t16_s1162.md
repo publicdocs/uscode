@@ -21,7 +21,7 @@
 
     (2) to provide the employees of the Department of Commerce and other Federal agencies and their dependents, at reasonable rates to be determined by the Secretary, with such facilities, services, and equipment as he deems necessary, including, but not limited to, food, fuel, shelter, and transportation.
 
-([Pub. L. 89–702, title II, § 202][/us/pl/89/702/s202], Nov. 2, 1966, [80 Stat. 1093][/us/stat/80/1093]; [Pub. L. 98–129, § 2][/us/pl/98/129/s2], Oct. 14, 1983, [97 Stat. 838][/us/stat/97/838].)
+([Pub. L. 89–702, title II][/us/pl/89/702/tII], § 202, Nov. 2, 1966, [80 Stat. 1093][/us/stat/80/1093]; [Pub. L. 98–129][/us/pl/98/129], § 2, Oct. 14, 1983, [97 Stat. 838][/us/stat/97/838].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/89/702/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2Fs202
+[/us/pl/89/702/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2FtII
 [/us/stat/80/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1093
-[/us/pl/98/129/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129%2Fs2
+[/us/pl/98/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129
 [/us/stat/97/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F838
 [/us/pl/98/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129
 

@@ -27,7 +27,7 @@
 
         Nothing in this section shall be construed as affecting the administration of any unit of the National Park System or unit of National Wildlife Refuge System in accordance with this Act or other applicable provisions of law unless and until Congress provides otherwise by taking action on any Presidential recommendation made pursuant to subsection (b) of this section.
 
-([Pub. L. 96–487, title XIII, § 1317][/us/pl/96/487/s1317], Dec. 2, 1980, [94 Stat. 2485][/us/stat/94/2485].)
+([Pub. L. 96–487, title XIII][/us/pl/96/487/tXIII], § 1317, Dec. 2, 1980, [94 Stat. 2485][/us/stat/94/2485].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t16/s1132/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132%2Fd
-[/us/pl/96/487/s1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1317
+[/us/pl/96/487/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXIII
 [/us/stat/94/2485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2485
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371

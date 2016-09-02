@@ -41,7 +41,7 @@
 
         The Secretary shall seek to ensure that regulations promulgated under this section will not have the effect of deterring captive breeding of exotic birds.
 
-([Pub. L. 102–440, title I, § 115][/us/pl/102/440/s115], Oct. 23, 1992, [106 Stat. 2232][/us/stat/106/2232].)
+([Pub. L. 102–440, title I][/us/pl/102/440/tI], § 115, Oct. 23, 1992, [106 Stat. 2232][/us/stat/106/2232].)
 
 ----------
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t16/s4910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4910
-[/us/pl/102/440/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2Fs115
+[/us/pl/102/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2FtI
 [/us/stat/106/2232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2232
 
 

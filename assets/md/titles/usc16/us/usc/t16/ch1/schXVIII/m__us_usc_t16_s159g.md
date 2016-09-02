@@ -51,7 +51,7 @@
 
         Any owner of lands or interests therein within the park who desires to have such lands or interests acquired by the Secretary may notify the Secretary in writing of such desire. It is the intention of the Congress that, upon receipt of such notification, and on the condition that such acquisition will transpire at fair market value and in accordance with other conditions acceptable to the Secretary, the Secretary shall endeavor to acquire such lands or interests therein within six months of the date of receipt of such notice from the owner.
 
-([Pub. L. 97–460, § 2][/us/pl/97/460/s2], Jan. 12, 1983, [96 Stat. 2520][/us/stat/96/2520].)
+([Pub. L. 97–460][/us/pl/97/460], § 2, Jan. 12, 1983, [96 Stat. 2520][/us/stat/96/2520].)
 
  __References in Text__ 
 
@@ -65,7 +65,7 @@
 ----------
 
 [/us/usc/t16/s159e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs159e
-[/us/pl/97/460/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F460%2Fs2
+[/us/pl/97/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F460
 [/us/stat/96/2520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2520
 [/us/pl/97/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F460
 [/us/stat/96/2520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2520

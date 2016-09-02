@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXVII/m__us_usc_t16_s158.md) | [Next](./../../../../..//us/usc/t16/ch1/schXVIII/m__us_usc_t16_s159.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch1%2FschXVIII)
+[Previous](./../../../../..//us/usc/t16/ch1/schXVII/m__us_usc_t16_s158a...158d.md) | [Next](./../../../../..//us/usc/t16/ch1/schXVIII/m__us_usc_t16_s159.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch1%2FschXVIII)
 
 ### SUBCHAPTER XVIII—SARATOGA NATIONAL HISTORICAL PARK
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXVII/m__us_usc_t16_s158.md) | [Next](./../../../../..//us/usc/t16/ch1/schXVIII/m__us_usc_t16_s159.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch1%2FschXVIII)
+[Previous](./../../../../..//us/usc/t16/ch1/schXVII/m__us_usc_t16_s158a...158d.md) | [Next](./../../../../..//us/usc/t16/ch1/schXVIII/m__us_usc_t16_s159.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch1%2FschXVIII)
 
 ----------
 ----------

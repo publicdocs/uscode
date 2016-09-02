@@ -21,7 +21,7 @@
 
     (b) “Sustained yield of the several products and services” means the achievement and maintenance in perpetuity of a high-level annual or regular periodic output of the various renewable resources of the national forests without impairment of the productivity of the land.
 
-([Pub. L. 86–517, § 4][/us/pl/86/517/s4], June 12, 1960, [74 Stat. 215][/us/stat/74/215].)
+([Pub. L. 86–517][/us/pl/86/517], § 4, June 12, 1960, [74 Stat. 215][/us/stat/74/215].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/86/517/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F517%2Fs4
+[/us/pl/86/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F517
 [/us/stat/74/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F215
 
 

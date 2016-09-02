@@ -19,11 +19,11 @@
 
     Any person who violates a rule or regulation issued pursuant to this subchapter shall be guilty of a misdemeanor, and may be punished by a fine of not more than $500, or by imprisonment not exceeding six months, or by both such fine and imprisonment.
 
-([Pub. L. 88–639, § 6][/us/pl/88/639/s6], Oct. 8, 1964, [78 Stat. 1040][/us/stat/78/1040]; [Pub. L. 91–383, § 10(a)(4)][/us/pl/91/383/s10/a/4], as added [Pub. L. 94–458, § 2][/us/pl/94/458/s2], Oct. 7, 1976, [90 Stat. 1941][/us/stat/90/1941].)
+([Pub. L. 88–639][/us/pl/88/639], § 6, Oct. 8, 1964, [78 Stat. 1040][/us/stat/78/1040]; [Pub. L. 91–383][/us/pl/91/383], § 10(a)(4), as added [Pub. L. 94–458][/us/pl/94/458], § 2, Oct. 7, 1976, [90 Stat. 1941][/us/stat/90/1941].)
 
  __Amendments__ 
 
-    1976—[Pub. L. 91–383, § 10(a)(4)][/us/pl/91/383/s10/a/4], as added [Pub. L. 94–458][/us/pl/94/458], struck out provisions relating to arrest powers of superintendent, caretakers, officers, or rangers of the Lake Mead National Recreation Area.
+    1976—[Pub. L. 91–383][/us/pl/91/383], § 10(a)(4), as added [Pub. L. 94–458][/us/pl/94/458], struck out provisions relating to arrest powers of superintendent, caretakers, officers, or rangers of the Lake Mead National Recreation Area.
 
 ----------
 
@@ -32,12 +32,12 @@
 ----------
 ----------
 
-[/us/pl/88/639/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F639%2Fs6
+[/us/pl/88/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F639
 [/us/stat/78/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1040
-[/us/pl/91/383/s10/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F383%2Fs10%2Fa%2F4
-[/us/pl/94/458/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F458%2Fs2
+[/us/pl/91/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F383
+[/us/pl/94/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F458
 [/us/stat/90/1941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1941
-[/us/pl/91/383/s10/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F383%2Fs10%2Fa%2F4
+[/us/pl/91/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F383
 [/us/pl/94/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F458
 
 

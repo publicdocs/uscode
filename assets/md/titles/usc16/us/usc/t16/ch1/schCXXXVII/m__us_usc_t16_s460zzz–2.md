@@ -27,7 +27,7 @@
 
         (2) any reference in the Wilderness Act to the Secretary of Agriculture shall be considered to be a reference to the Secretary of the Interior.
 
-([Pub. L. 111–11, title II, § 2403][/us/pl/111/11/s2403], Mar. 30, 2009, [123 Stat. 1103][/us/stat/123/1103].)
+([Pub. L. 111–11, title II][/us/pl/111/11/tII], § 2403, Mar. 30, 2009, [123 Stat. 1103][/us/stat/123/1103].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
-[/us/pl/111/11/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs2403
+[/us/pl/111/11/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtII
 [/us/stat/123/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1103
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890

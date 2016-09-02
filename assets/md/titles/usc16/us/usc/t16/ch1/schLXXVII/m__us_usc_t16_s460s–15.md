@@ -63,7 +63,7 @@
 
         There are authorized to be appropriated to the Secretary $225,000 to restore, preserve, and maintain the public land transferred under subsection (a).
 
-([Pub. L. 107–295, title IV, § 437][/us/pl/107/295/s437], Nov. 25, 2002, [116 Stat. 2129][/us/stat/116/2129].)
+([Pub. L. 107–295, title IV][/us/pl/107/295/tIV], § 437, Nov. 25, 2002, [116 Stat. 2129][/us/stat/116/2129].)
 
  __Codification__ 
 
@@ -80,7 +80,7 @@
 ----------
 ----------
 
-[/us/pl/107/295/s437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs437
+[/us/pl/107/295/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIV
 [/us/stat/116/2129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2129
 [/us/pl/89/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F668
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

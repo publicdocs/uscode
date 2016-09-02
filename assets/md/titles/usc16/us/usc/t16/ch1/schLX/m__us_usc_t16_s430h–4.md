@@ -17,7 +17,7 @@
 
     Upon the delivery and acceptance of the conveyances herein authorized, any jurisdiction heretofore ceded to the United States by the State of Mississippi over the lands and roads transferred shall thereby cease and thereafter rest in the State of Mississippi.
 
-([Pub. L. 88–37, § 2][/us/pl/88/37/s2], June 4, 1963, [77 Stat. 56][/us/stat/77/56].)
+([Pub. L. 88–37][/us/pl/88/37], § 2, June 4, 1963, [77 Stat. 56][/us/stat/77/56].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/37/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F37%2Fs2
+[/us/pl/88/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F37
 [/us/stat/77/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F56
 
 

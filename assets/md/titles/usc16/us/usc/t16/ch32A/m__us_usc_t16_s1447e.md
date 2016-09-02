@@ -29,7 +29,7 @@
 
         Upon receipt of a report prepared by a Board under subsection (a), the Administrator of the National Oceanic and Atmospheric Administration and the Administrator of the Environmental Protection Agency shall transmit a copy of such report to the Committees on Commerce, Science, and Transportation and on Environment and Public Works of the Senate and to the Committee on Merchant Marine and Fisheries of the House of Representatives.
 
-([Pub. L. 92–532, title IV, § 406][/us/pl/92/532/s406], as added [Pub. L. 101–593, title III, § 301][/us/pl/101/593/s301], Nov. 16, 1990, [104 Stat. 2969][/us/stat/104/2969].)
+([Pub. L. 92–532, title IV][/us/pl/92/532/tIV], § 406, as added [Pub. L. 101–593, title III][/us/pl/101/593/tIII], § 301, Nov. 16, 1990, [104 Stat. 2969][/us/stat/104/2969].)
 
  __Abolition of House Committee on Merchant Marine and Fisheries__ 
 
@@ -44,8 +44,8 @@
 
 [/us/usc/t16/s1447d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1447d
 [/us/usc/t16/s1447d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1447d
-[/us/pl/92/532/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs406
-[/us/pl/101/593/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2Fs301
+[/us/pl/92/532/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2FtIV
+[/us/pl/101/593/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2FtIII
 [/us/stat/104/2969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2969
 [/us/pl/104/14/s1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fb%2F3
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

@@ -67,11 +67,11 @@
 
         (3) is determined by the Secretary to be a commercial fishery failure under [section 1861a(a) of this title][/us/usc/t16/s1861a/a] or a fishery resource disaster or [section 4107(d) of this title][/us/usc/t16/s4107/d].
 
-([Pub. L. 94–265, title III, § 315][/us/pl/94/265/s315], as added [Pub. L. 109–479, title I, § 113(a)][/us/pl/109/479/s113/a], Jan. 12, 2007, [120 Stat. 3601][/us/stat/120/3601].)
+([Pub. L. 94–265, title III][/us/pl/94/265/tIII], § 315, as added [Pub. L. 109–479, title I][/us/pl/109/479/tI], § 113(a), Jan. 12, 2007, [120 Stat. 3601][/us/stat/120/3601].)
 
  __Fisheries Hurricane Assistance Program__ 
 
-[Pub. L. 109–479, title I, § 115][/us/pl/109/479/s115], Jan. 12, 2007, [120 Stat. 3604][/us/stat/120/3604], provided that:
+[Pub. L. 109–479, title I][/us/pl/109/479/tI], § 115, Jan. 12, 2007, [120 Stat. 3604][/us/stat/120/3604], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -125,10 +125,10 @@
 [/us/usc/t16/s4107/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4107%2Fd%2F3
 [/us/usc/t16/s1861a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1861a%2Fa
 [/us/usc/t16/s4107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4107%2Fd
-[/us/pl/94/265/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs315
-[/us/pl/109/479/s113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs113%2Fa
+[/us/pl/94/265/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2FtIII
+[/us/pl/109/479/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtI
 [/us/stat/120/3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3601
-[/us/pl/109/479/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs115
+[/us/pl/109/479/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtI
 [/us/stat/120/3604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3604
 
 

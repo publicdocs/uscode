@@ -17,7 +17,7 @@
 
     Abraham Lincoln Birthplace National Historical Park shall be under the control of the National Park Service and administered under such regulations not inconsistent with law as it may from time to time prescribe.
 
-([July 17, 1916, ch. 247, § 4][/us/act/1916-07-17/ch247/s4], [39 Stat. 386][/us/stat/39/386]; Ex. Ord. No. 6166, § 2, June 10, 1933; Ex. Ord. No. 6228, § 1, July 28, 1933; [Mar. 2, 1934, ch. 38, § 1][/us/act/1934-03-02/ch38/s1], [48 Stat. 389][/us/stat/48/389]; [Aug. 11, 1939, ch. 686][/us/act/1939-08-11/ch686], [53 Stat. 1405][/us/stat/53/1405]; [Pub. L. 86–231][/us/pl/86/231], Sept. 8, 1959, [73 Stat. 466][/us/stat/73/466]; [Pub. L. 111–11, title VII, § 7114(b)][/us/pl/111/11/s7114/b], Mar. 30, 2009, [123 Stat. 1202][/us/stat/123/1202].)
+([July 17, 1916, ch. 247][/us/act/1916-07-17/ch247], § 4, [39 Stat. 386][/us/stat/39/386]; Ex. Ord. No. 6166, § 2, June 10, 1933; Ex. Ord. No. 6228, § 1, July 28, 1933; [Mar. 2, 1934, ch. 38][/us/act/1934-03-02/ch38], § 1, [48 Stat. 389][/us/stat/48/389]; [Aug. 11, 1939, ch. 686][/us/act/1939-08-11/ch686], [53 Stat. 1405][/us/stat/53/1405]; [Pub. L. 86–231][/us/pl/86/231], Sept. 8, 1959, [73 Stat. 466][/us/stat/73/466]; [Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7114(b), Mar. 30, 2009, [123 Stat. 1202][/us/stat/123/1202].)
 
  __Codification__ 
 
@@ -50,15 +50,15 @@ As originally enacted, this section read as follows:
 ----------
 ----------
 
-[/us/act/1916-07-17/ch247/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-07-17%2Fch247%2Fs4
+[/us/act/1916-07-17/ch247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-07-17%2Fch247
 [/us/stat/39/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F386
-[/us/act/1934-03-02/ch38/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-02%2Fch38%2Fs1
+[/us/act/1934-03-02/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-02%2Fch38
 [/us/stat/48/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F389
 [/us/act/1939-08-11/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-11%2Fch686
 [/us/stat/53/1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1405
 [/us/pl/86/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F231
 [/us/stat/73/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F466
-[/us/pl/111/11/s7114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7114%2Fb
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1202
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 [/us/pl/86/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F231

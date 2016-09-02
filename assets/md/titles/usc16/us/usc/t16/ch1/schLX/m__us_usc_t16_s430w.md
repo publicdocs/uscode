@@ -17,7 +17,7 @@
 
     The administration, protection, and development of the aforesaid national battlefield park shall be exercised under the direction of the Secretary of the Interior by the National Park Service subject to the provisions of the Act of August 25, 1916, entitled “An Act to establish a National Park Service, and for other purposes”, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended.
 
-([June 26, 1935, ch. 315, § 4][/us/act/1935-06-26/ch315/s4], [49 Stat. 424][/us/stat/49/424].)
+([June 26, 1935, ch. 315][/us/act/1935-06-26/ch315], § 4, [49 Stat. 424][/us/stat/49/424].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1935-06-26/ch315/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-06-26%2Fch315%2Fs4
+[/us/act/1935-06-26/ch315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-06-26%2Fch315
 [/us/stat/49/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F424
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535

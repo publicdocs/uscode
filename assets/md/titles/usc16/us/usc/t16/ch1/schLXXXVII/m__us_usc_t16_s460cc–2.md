@@ -53,7 +53,7 @@
 
         Notwithstanding the provisions of subsection (a) of this section, the United States hereby conveys to the city of New York all rights to the methane gas and associated byproducts resulting from solid waste decomposition on the area within the Jamaica Bay Unit known as the Fountain Avenue Landfill site, subject to payments to the United States of 50 per centum of the revenue received by the city of New York, if any, from the development of such rights. The Secretary shall grant to the City, its lessee or assignee, all rights-of-way and other permits necessary from the Department of the Interior to extract and transport the gas from the site: Provided, That the rights-of-way and other permits shall provide for reasonable restoration of the site, including removal of any processing or storage facilities used in the disposal, development, or extraction of the gas, access by the Secretary to the site for safety and other recreation area purposes, and such other reasonable conditions as the Secretary deems necessary to further purposes of the recreation area. All such payments to the United States shall be credited to the appropriations of the National Park Service for the development and improvement of Gateway National Recreation Area.
 
-([Pub. L. 92–592, § 3][/us/pl/92/592/s3], Oct. 27, 1972, [86 Stat. 1309][/us/stat/86/1309]; [Pub. L. 96–344, § 11(1)][/us/pl/96/344/s11/1], Sept. 8, 1980, [94 Stat. 1136][/us/stat/94/1136]; [Pub. L. 97–232, § 1][/us/pl/97/232/s1], Aug. 9, 1982, [96 Stat. 259][/us/stat/96/259]; [Pub. L. 106–132, § 1][/us/pl/106/132/s1], Dec. 7, 1999, [113 Stat. 1681][/us/stat/113/1681].)
+([Pub. L. 92–592][/us/pl/92/592], § 3, Oct. 27, 1972, [86 Stat. 1309][/us/stat/86/1309]; [Pub. L. 96–344][/us/pl/96/344], § 11(1), Sept. 8, 1980, [94 Stat. 1136][/us/stat/94/1136]; [Pub. L. 97–232][/us/pl/97/232], § 1, Aug. 9, 1982, [96 Stat. 259][/us/stat/96/259]; [Pub. L. 106–132][/us/pl/106/132], § 1, Dec. 7, 1999, [113 Stat. 1681][/us/stat/113/1681].)
 
  __References in Text__ 
 
@@ -76,13 +76,13 @@
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
-[/us/pl/92/592/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F592%2Fs3
+[/us/pl/92/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F592
 [/us/stat/86/1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1309
-[/us/pl/96/344/s11/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F344%2Fs11%2F1
+[/us/pl/96/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F344
 [/us/stat/94/1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1136
-[/us/pl/97/232/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F232%2Fs1
+[/us/pl/97/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F232
 [/us/stat/96/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F259
-[/us/pl/106/132/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F132%2Fs1
+[/us/pl/106/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F132
 [/us/stat/113/1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1681
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1

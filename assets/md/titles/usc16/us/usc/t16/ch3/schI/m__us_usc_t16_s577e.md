@@ -17,7 +17,7 @@
 
     Lands shall be acquired by purchase or condemnation under the supplemental authority granted in [section 577c of this title][/us/usc/t16/s577c] only with prior approval of the National Forest Reservation Commission created by section 4 of the Act approved March 1, 1911, as amended, and lands so acquired shall become parts of the Superior National Forest and be subject to the provisions of said Act, as amended, and of such other laws as apply to land acquired under the provisions of said Act, as amended, except as hereinafter provided.
 
-([June 22, 1948, ch. 593, § 3][/us/act/1948-06-22/ch593/s3], [62 Stat. 570][/us/stat/62/570].)
+([June 22, 1948, ch. 593][/us/act/1948-06-22/ch593], § 3, [62 Stat. 570][/us/stat/62/570].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t16/s577c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs577c
-[/us/act/1948-06-22/ch593/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-22%2Fch593%2Fs3
+[/us/act/1948-06-22/ch593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-22%2Fch593
 [/us/stat/62/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F570
 [/us/usc/t16/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs513
 [/us/pl/94/588/s17/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588%2Fs17%2Fa%2F1

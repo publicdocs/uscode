@@ -33,7 +33,7 @@
 
         The federally owned lands within the recreation area administered by the Secretary of the Interior on November 16, 1990, comprising approximately 20 acres, are hereby transferred to the jurisdiction of the Secretary of Agriculture and shall be managed in accordance with the laws applicable to the National Forest System and this subchapter.
 
-([Pub. L. 101–612, § 4][/us/pl/101/612/s4], Nov. 16, 1990, [104 Stat. 3210][/us/stat/104/3210].)
+([Pub. L. 101–612][/us/pl/101/612], § 4, Nov. 16, 1990, [104 Stat. 3210][/us/stat/104/3210].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/101/612/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612%2Fs4
+[/us/pl/101/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612
 [/us/stat/104/3210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3210
 [/us/pl/101/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612
 [/us/stat/104/3209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3209

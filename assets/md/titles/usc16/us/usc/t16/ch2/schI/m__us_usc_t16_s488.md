@@ -17,7 +17,7 @@
 
     On and after Mar. 3, 1899, all standard, meander, township, and section lines of the public-land surveys shall be established under the direction and supervision of the Secretary of the Interior or such officer as he may designate, whether the lands to be surveyed are within or without national forests, except that where the exterior boundaries of national forests are required to be coincident with standard, township, or section lines, such boundaries may, if not previously established in the ordinary course of the public-land surveys, be established and marked under the supervision of the Director of the United States Geological Survey whenever necessary to complete the survey of such exterior boundaries.
 
-([Mar. 3, 1899, ch. 424, § 1][/us/act/1899-03-03/ch424/s1], [30 Stat. 1097][/us/stat/30/1097]; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, [60 Stat. 1100][/us/stat/60/1100].)
+([Mar. 3, 1899, ch. 424][/us/act/1899-03-03/ch424], § 1, [30 Stat. 1097][/us/stat/30/1097]; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, [60 Stat. 1100][/us/stat/60/1100].)
 
  __Codification__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/act/1899-03-03/ch424/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-03%2Fch424%2Fs1
+[/us/act/1899-03-03/ch424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-03%2Fch424
 [/us/stat/30/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F1097
 [/us/stat/60/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1100
 [/us/act/1907-03-04/ch2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2907

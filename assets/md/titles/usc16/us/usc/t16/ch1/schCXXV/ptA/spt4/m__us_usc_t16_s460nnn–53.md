@@ -17,7 +17,7 @@
 
     The Secretary shall appoint, as needed or at the request of the advisory council, a team of respected, knowledgeable, and diverse scientists to provide advice on questions relating to the management of the Cooperative Management and Protection Area to the Secretary and the advisory council. The Secretary shall seek the advice of the advisory council in making these appointments.
 
-([Pub. L. 106–399, title I, § 133][/us/pl/106/399/s133], Oct. 30, 2000, [114 Stat. 1666][/us/stat/114/1666].)
+([Pub. L. 106–399, title I][/us/pl/106/399/tI], § 133, Oct. 30, 2000, [114 Stat. 1666][/us/stat/114/1666].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/399/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2Fs133
+[/us/pl/106/399/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2FtI
 [/us/stat/114/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1666
 
 

@@ -29,7 +29,7 @@
 
     (3) The direct hire authority under this section may not be exercised with respect to a specific qualified candidate after the end of the two-year period beginning on the date on which the candidate completed the undergraduate or graduate degree, as the case may be.
 
-([Pub. L. 112–74, div. E, title I, § 121(a)][/us/pl/112/74/s121/a], Dec. 23, 2011, [125 Stat. 1012][/us/stat/125/1012].)
+([Pub. L. 112–74, div. E, title I][/us/pl/112/74/dE/tI], § 121(a), Dec. 23, 2011, [125 Stat. 1012][/us/stat/125/1012].)
 
  __Codification__ 
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t16/s1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1722
-[/us/pl/112/74/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs121%2Fa
+[/us/pl/112/74/dE/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdE%2FtI
 [/us/stat/125/1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1012
 
 

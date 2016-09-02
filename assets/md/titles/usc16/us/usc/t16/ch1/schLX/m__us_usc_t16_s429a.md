@@ -17,7 +17,7 @@
 
     Each parcel of land acquired under [section 429 of this title][/us/usc/t16/s429] shall be under the jurisdiction and control of the Secretary of the Interior, and there is authorized to be appropriated for the maintenance of each such parcel of land, fence, approach, and marker a sum not to exceed $250 per annum.
 
-([Feb. 21, 1929, ch. 289, § 3][/us/act/1929-02-21/ch289/s3], [45 Stat. 1254][/us/stat/45/1254]; Ex. Ord. No. 6166, § 2, June 10, 1933; Ex. Ord. No. 6228, § 1, July 28, 1933.)
+([Feb. 21, 1929, ch. 289][/us/act/1929-02-21/ch289], § 3, [45 Stat. 1254][/us/stat/45/1254]; Ex. Ord. No. 6166, § 2, June 10, 1933; Ex. Ord. No. 6228, § 1, July 28, 1933.)
 
  __Transfer of Functions__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t16/s429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs429
-[/us/act/1929-02-21/ch289/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-21%2Fch289%2Fs3
+[/us/act/1929-02-21/ch289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-21%2Fch289
 [/us/stat/45/1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1254
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 [/us/usc/t5/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs901

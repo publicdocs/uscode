@@ -17,7 +17,7 @@
 
     The head of each Federal agency responsible for acquiring, managing, or disposing of Federal lands and waters shall, to the extent consistent with the mission of such agency and existing statutory authorities, cooperate with the Director of the United States Fish and Wildlife Service to restore, protect, and enhance the wetland ecosystems and other habitats for migratory birds, fish, and wildlife within the lands and waters of each such agency.
 
-([Pub. L. 101–233, § 9][/us/pl/101/233/s9], Dec. 13, 1989, [103 Stat. 1976][/us/stat/103/1976].)
+([Pub. L. 101–233][/us/pl/101/233], § 9, Dec. 13, 1989, [103 Stat. 1976][/us/stat/103/1976].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/233/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F233%2Fs9
+[/us/pl/101/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F233
 [/us/stat/103/1976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1976
 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch12D/m__us_usc_t16_s835–1.md) | [Next](./../../../..//us/usc/t16/ch12D/m__us_usc_t16_s835c–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs835c)
+[Previous](./../../../..//us/usc/t16/ch12D/m__us_usc_t16_s835a _us_usc_t16_s835b.md) | [Next](./../../../..//us/usc/t16/ch12D/m__us_usc_t16_s835c–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs835c)
 
 ## § 835c. Duties of Secretary of the Interior
 
@@ -23,7 +23,7 @@
 
         Contracts, exchanges, and leases made under this section shall be on terms that, in the Secretary’s judgment, are in keeping with sound project development. In addition, land sale and exchange contracts shall be on a basis that, in the Secretary’s judgment, provides for the return, in a reasonable period of years, of not less than the appraised value of the land and improvements thereon. Qualification of applicants for the purchase of land for irrigation farming shall be prescribed as provided in [section 433 of title 43][/us/usc/t43/s433], notwithstanding any other provisions of law. No farm unit shall be sold to, and no contract to sell a farm unit shall be entered into with, any person, corporation, or joint-stock association which has theretofore purchased or entered into a contract to purchase a farm unit from the United States on the Columbia Basin project. The foregoing provisions of this subsection shall apply only to the sale of farm units which are suitable for settlement purposes. Farm units which, in the opinion of the Secretary, are not suitable for settlement purposes may be sold with a preference to resident project landowners as supplemental units, subject to the applicable irrigable acreage limitations on the delivery of water, but the purchasers thereof shall not be entitled to benefits of the Act of August 13, 1953 ([67 Stat. 566][/us/stat/67/566]) \[[43 U.S.C. 451][/us/usc/t43/s451] et seq.\] with respect thereto.
 
-([May 27, 1937, ch. 269, § 4][/us/act/1937-05-27/ch269/s4], [50 Stat. 210][/us/stat/50/210]; [Mar. 10, 1943, ch. 14][/us/act/1943-03-10/ch14], [57 Stat. 18][/us/stat/57/18]; [Sept. 26, 1950, ch. 1048, § 1(4)][/us/act/1950-09-26/ch1048/s1/4], [64 Stat. 1037][/us/stat/64/1037]; [Pub. L. 85–264, § 1(d)][/us/pl/85/264/s1/d], Sept. 2, 1957, [71 Stat. 591][/us/stat/71/591]; [Pub. L. 87–728, § 3][/us/pl/87/728/s3], Oct. 1, 1962, [76 Stat. 678][/us/stat/76/678].)
+([May 27, 1937, ch. 269][/us/act/1937-05-27/ch269], § 4, [50 Stat. 210][/us/stat/50/210]; [Mar. 10, 1943, ch. 14][/us/act/1943-03-10/ch14], [57 Stat. 18][/us/stat/57/18]; [Sept. 26, 1950, ch. 1048][/us/act/1950-09-26/ch1048], § 1(4), [64 Stat. 1037][/us/stat/64/1037]; [Pub. L. 85–264][/us/pl/85/264], § 1(d), Sept. 2, 1957, [71 Stat. 591][/us/stat/71/591]; [Pub. L. 87–728][/us/pl/87/728], § 3, Oct. 1, 1962, [76 Stat. 678][/us/stat/76/678].)
 
  __References in Text__ 
 
@@ -45,13 +45,13 @@
 
  __Amendment of Contracts, Instruments, Rules, Regulations, Forms, and Procedures__ 
 
-[Pub. L. 87–728, § 4][/us/pl/87/728/s4], Oct. 1, 1962, [76 Stat. 679][/us/stat/76/679], provided that: 
+[Pub. L. 87–728][/us/pl/87/728], § 4, Oct. 1, 1962, [76 Stat. 679][/us/stat/76/679], provided that: 
 
 > “The Secretary is hereby authorized and directed to amend or modify all existing contracts, instruments, rules, regulations, forms, and procedures entered into or issued under the Columbia Basin Project Act, as amended (16 U.S.C., chap. 12D) \[sections 835 and 835a to 835c–5 of this title\] prior to the date of enactment of this act \[Oct. 1, 1962\] to conform to the provisions of this Act \[enacting [section 835–1 of this title][/us/usc/t16/s835–1], amending sections 835c, 835c–1, 835–2, 835c–4 of this title, repealing sections 835a, 835b, 835c–3, and 835c–5 of this title, and enacting provisions set out as notes under sections 835a and 835b of this title\].”
 
  __Amendment of Contracts, Deeds or Documents by Secretary__ 
 
-[Pub. L. 85–264, § 2][/us/pl/85/264/s2], Sept. 2, 1957, [71 Stat. 591][/us/stat/71/591], provided that: 
+[Pub. L. 85–264][/us/pl/85/264], § 2, Sept. 2, 1957, [71 Stat. 591][/us/stat/71/591], provided that: 
 
 > “The Secretary of the Interior is authorized to amend any contract, which has been entered into prior to the date of enactment of this Act \[Sept. 2, 1957\], or any existing deed or other document to conform with the provisions of the first section of this Act \[amending this section and [section 835a of this title][/us/usc/t16/s835a]\]. The consent of the United States is hereby given to the recording, at the expense of the party benefited thereby, of any such amendment.”
 
@@ -189,7 +189,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch12D/m__us_usc_t16_s835–1.md) | [Next](./../../../..//us/usc/t16/ch12D/m__us_usc_t16_s835c–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs835c)
+[Previous](./../../../..//us/usc/t16/ch12D/m__us_usc_t16_s835a _us_usc_t16_s835b.md) | [Next](./../../../..//us/usc/t16/ch12D/m__us_usc_t16_s835c–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs835c)
 
 ----------
 ----------
@@ -197,15 +197,15 @@
 [/us/usc/t43/s433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs433
 [/us/stat/67/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F566
 [/us/usc/t43/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs451
-[/us/act/1937-05-27/ch269/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-27%2Fch269%2Fs4
+[/us/act/1937-05-27/ch269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-27%2Fch269
 [/us/stat/50/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F210
 [/us/act/1943-03-10/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-03-10%2Fch14
 [/us/stat/57/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F18
-[/us/act/1950-09-26/ch1048/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-26%2Fch1048%2Fs1%2F4
+[/us/act/1950-09-26/ch1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-26%2Fch1048
 [/us/stat/64/1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1037
-[/us/pl/85/264/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F264%2Fs1%2Fd
+[/us/pl/85/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F264
 [/us/stat/71/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F591
-[/us/pl/87/728/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F728%2Fs3
+[/us/pl/87/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F728
 [/us/stat/76/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F678
 [/us/act/1937-05-27/ch269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-27%2Fch269
 [/us/act/1943-03-10/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-03-10%2Fch14
@@ -218,10 +218,10 @@
 [/us/pl/87/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F728
 [/us/usc/t16/s835a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs835a%2Fc
 [/us/pl/85/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F264
-[/us/pl/87/728/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F728%2Fs4
+[/us/pl/87/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F728
 [/us/stat/76/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F679
 [/us/usc/t16/s835–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs835%E2%80%931
-[/us/pl/85/264/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F264%2Fs2
+[/us/pl/85/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F264
 [/us/stat/71/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F591
 [/us/usc/t16/s835a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs835a
 [/us/pl/85/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F240

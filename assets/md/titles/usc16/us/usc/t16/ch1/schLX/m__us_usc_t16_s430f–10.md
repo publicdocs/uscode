@@ -71,7 +71,7 @@
 
         Nothing in subsection (c)(2) authorizes the Secretary to own or manage any resource outside the Unit.
 
-([Pub. L. 106–271, § 6][/us/pl/106/271/s6], Sept. 22, 2000, [114 Stat. 794][/us/stat/114/794].)
+([Pub. L. 106–271][/us/pl/106/271], § 6, Sept. 22, 2000, [114 Stat. 794][/us/stat/114/794].)
 
  __References in Text__ 
 
@@ -89,7 +89,7 @@
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
 [/us/usc/t16/s430f–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs430f%E2%80%935
-[/us/pl/106/271/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F271%2Fs6
+[/us/pl/106/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F271
 [/us/stat/114/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F794
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408

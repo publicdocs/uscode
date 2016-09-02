@@ -17,7 +17,7 @@
 
     When title to the site of Fort Frederica, on Saint Simon Island, Georgia, and such other related sites located thereon, as may be designated by the Secretary of the Interior, in the exercise of his discretion, as necessary or desirable for national-monument purposes, shall have been vested in the United States, said area not to exceed two hundred and fifty acres shall be, and is, set apart as a national monument for the benefit and inspiration of the people, and shall be called the “Fort Frederica National Monument.”
 
-([May 26, 1936, ch. 451, § 1][/us/act/1936-05-26/ch451/s1], [49 Stat. 1373][/us/stat/49/1373]; [Sept. 20, 1950, ch. 957, § 1][/us/act/1950-09-20/ch957/s1], [64 Stat. 869][/us/stat/64/869]; [Pub. L. 85–401, § 1][/us/pl/85/401/s1], May 16, 1958, [72 Stat. 110][/us/stat/72/110].)
+([May 26, 1936, ch. 451][/us/act/1936-05-26/ch451], § 1, [49 Stat. 1373][/us/stat/49/1373]; [Sept. 20, 1950, ch. 957][/us/act/1950-09-20/ch957], § 1, [64 Stat. 869][/us/stat/64/869]; [Pub. L. 85–401][/us/pl/85/401], § 1, May 16, 1958, [72 Stat. 110][/us/stat/72/110].)
 
  __Amendments__ 
 
@@ -27,7 +27,7 @@
 
  __Appropriations__ 
 
-[Act Sept. 20, 1950, ch. 957, § 2][/us/act/1950-09-20/ch957/s2], [64 Stat. 869][/us/stat/64/869], provided that: 
+[Act Sept. 20, 1950, ch. 957][/us/act/1950-09-20/ch957], § 2, [64 Stat. 869][/us/stat/64/869], provided that: 
 
 > “There is hereby authorized to be appropriated not to exceed $5,000 for the acquisition of land and interests in land for the said national monument. The Secretary of the Interior is authorized to use any funds so appropriated, together with any donated funds made available pursuant to the aforesaid Act of May 26, 1936 \[sections 433g, 433h, 433i, and 433j of this title\], for this procurement of land and interests in land for the national monument.”
 
@@ -56,14 +56,14 @@
 ----------
 ----------
 
-[/us/act/1936-05-26/ch451/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-26%2Fch451%2Fs1
+[/us/act/1936-05-26/ch451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-26%2Fch451
 [/us/stat/49/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1373
-[/us/act/1950-09-20/ch957/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-20%2Fch957%2Fs1
+[/us/act/1950-09-20/ch957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-20%2Fch957
 [/us/stat/64/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F869
-[/us/pl/85/401/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F401%2Fs1
+[/us/pl/85/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F401
 [/us/stat/72/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F110
 [/us/pl/85/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F401
-[/us/act/1950-09-20/ch957/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-20%2Fch957%2Fs2
+[/us/act/1950-09-20/ch957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-20%2Fch957
 [/us/stat/64/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F869
 [/us/pl/108/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F417
 [/us/stat/118/2339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2339

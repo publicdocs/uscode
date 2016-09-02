@@ -27,7 +27,7 @@
 
         In exercising his authority to acquire property by exchange, the Secretary may accept title to any non-Federal property located within such area and convey to the grantor of such property any federally owned property under the jurisdiction of the Secretary within California and adjacent States, notwithstanding any other provision of law. The properties so exchanged shall be approximately equal in fair market value, provided that the Secretary may accept cash from or pay cash to the grantor in such an exchange in order to equalize the values of the properties exchanged.
 
-([Pub. L. 87–657, § 3][/us/pl/87/657/s3], Sept. 13, 1962, [76 Stat. 539][/us/stat/76/539]; [Pub. L. 91–223, § 2(a)][/us/pl/91/223/s2/a], Apr. 3, 1970, [84 Stat. 90][/us/stat/84/90].)
+([Pub. L. 87–657][/us/pl/87/657], § 3, Sept. 13, 1962, [76 Stat. 539][/us/stat/76/539]; [Pub. L. 91–223][/us/pl/91/223], § 2(a), Apr. 3, 1970, [84 Stat. 90][/us/stat/84/90].)
 
  __Amendments__ 
 
@@ -43,9 +43,9 @@
 [/us/usc/t16/s459c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459c%E2%80%931
 [/us/usc/t16/s459c–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459c%E2%80%934
 [/us/usc/t16/s459c–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459c%E2%80%937
-[/us/pl/87/657/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F657%2Fs3
+[/us/pl/87/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F657
 [/us/stat/76/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F539
-[/us/pl/91/223/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F223%2Fs2%2Fa
+[/us/pl/91/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F223
 [/us/stat/84/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F90
 [/us/pl/91/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F223
 [/us/usc/t16/s459c–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459c%E2%80%933

@@ -115,7 +115,7 @@
 
         Nothing in this section shall be deemed to amend, modify or otherwise affect the Secretary’s duties under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.) and the Forest and Rangeland Renewable Resources Planning Act of 1974 ([16 U.S.C. 1600][/us/usc/t16/s1600] et seq.), including his duties to involve the public in his decisionmaking and planning for the national forests.
 
-([Pub. L. 99–522, § 3][/us/pl/99/522/s3], Oct. 22, 1986, [100 Stat. 3000][/us/stat/100/3000]; [Pub. L. 112–46, § 3][/us/pl/112/46/s3], Nov. 7, 2011, [125 Stat. 538][/us/stat/125/538].)
+([Pub. L. 99–522][/us/pl/99/522], § 3, Oct. 22, 1986, [100 Stat. 3000][/us/stat/100/3000]; [Pub. L. 112–46][/us/pl/112/46], § 3, Nov. 7, 2011, [125 Stat. 538][/us/stat/125/538].)
 
  __References in Text__ 
 
@@ -129,41 +129,41 @@
 
  __Amendments__ 
 
-    2011—Subsec. (a). [Pub. L. 112–46, § 3(1)][/us/pl/112/46/s3/1], substituted “ski areas and associated facilities” for “nordic and alpine ski areas and facilities”.
+    2011—Subsec. (a). [Pub. L. 112–46][/us/pl/112/46], § 3(1), substituted “ski areas and associated facilities” for “nordic and alpine ski areas and facilities”.
 
-    Subsec. (b). [Pub. L. 112–46, § 3(2)][/us/pl/112/46/s3/2], substituted “skiing and other snow sports and recreational uses authorized by this section” for “nordic and alpine skiing operations and purposes” in introductory provisions.
+    Subsec. (b). [Pub. L. 112–46][/us/pl/112/46], § 3(2), substituted “skiing and other snow sports and recreational uses authorized by this section” for “nordic and alpine skiing operations and purposes” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 112–46, § 3(4)][/us/pl/112/46/s3/4], added subsec. (c). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 112–46][/us/pl/112/46], § 3(4), added subsec. (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 112–46, § 3(5)][/us/pl/112/46/s3/5], added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “Within one year after October 22, 1986, the Secretary shall promulgate rules and regulations to implement the provisions of this section, and shall, to the extent practicable and with the consent of existing permit holders, convert all existing ski area permits or leases on National Forest System lands into ski area permits which conform to the provisions of this section within 3 years of October 22, 1986.”
+    Subsec. (d). [Pub. L. 112–46][/us/pl/112/46], § 3(5), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “Within one year after October 22, 1986, the Secretary shall promulgate rules and regulations to implement the provisions of this section, and shall, to the extent practicable and with the consent of existing permit holders, convert all existing ski area permits or leases on National Forest System lands into ski area permits which conform to the provisions of this section within 3 years of October 22, 1986.”
 
-    [Pub. L. 112–46, § 3(3)][/us/pl/112/46/s3/3], redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+    [Pub. L. 112–46][/us/pl/112/46], § 3(3), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 112–46, § 3(6)][/us/pl/112/46/s3/6], substituted “the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.) and the Forest and Rangeland Renewable Resources Planning Act of 1974 ([16 U.S.C. 1600][/us/usc/t16/s1600] et seq.)” for “the National Environmental Policy Act, or the Forest and Rangelands Renewable Resources Planning Act as amended by the National Forest Management Act”.
+    Subsec. (e). [Pub. L. 112–46][/us/pl/112/46], § 3(6), substituted “the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.) and the Forest and Rangeland Renewable Resources Planning Act of 1974 ([16 U.S.C. 1600][/us/usc/t16/s1600] et seq.)” for “the National Environmental Policy Act, or the Forest and Rangelands Renewable Resources Planning Act as amended by the National Forest Management Act”.
 
-    [Pub. L. 112–46, § 3(3)][/us/pl/112/46/s3/3], redesignated subsec. (d) as (e).
+    [Pub. L. 112–46][/us/pl/112/46], § 3(3), redesignated subsec. (d) as (e).
 
  __Short Title of 2011 Amendment__ 
 
-[Pub. L. 112–46, § 1][/us/pl/112/46/s1], Nov. 7, 2011, [125 Stat. 538][/us/stat/125/538], provided that: 
+[Pub. L. 112–46][/us/pl/112/46], § 1, Nov. 7, 2011, [125 Stat. 538][/us/stat/125/538], provided that: 
 
 > “This Act \[amending this section and enacting provisions set out as notes under this section\] may be cited as the ‘Ski Area Recreational Opportunity Enhancement Act of 2011’.”
 
  __Short Title__ 
 
-[Pub. L. 99–522, § 1][/us/pl/99/522/s1], Oct. 22, 1986, [100 Stat. 3000][/us/stat/100/3000], provided that: 
+[Pub. L. 99–522][/us/pl/99/522], § 1, Oct. 22, 1986, [100 Stat. 3000][/us/stat/100/3000], provided that: 
 
 > “This Act \[enacting this section and provisions set out as a note below\] may be cited as the ‘National Forest Ski Area Permit Act of 1986’.”
 
  __Effect__ 
 
-[Pub. L. 112–46, § 4][/us/pl/112/46/s4], Nov. 7, 2011, [125 Stat. 540][/us/stat/125/540], provided that: 
+[Pub. L. 112–46][/us/pl/112/46], § 4, Nov. 7, 2011, [125 Stat. 540][/us/stat/125/540], provided that: 
 
 > “Nothing in the amendments made by this Act \[amending this section\] establishes a legal preference for the holder of a ski area permit to provide activities and associated facilities authorized by section 3(c) of the National Forest Ski Area Permit Act of 1986 ([16 U.S.C. 497b(c)][/us/usc/t16/s497b/c]) (as amended by section 3).”
 
  __Purposes__ 
 
-[Pub. L. 112–46, § 2][/us/pl/112/46/s2], Nov. 7, 2011, [125 Stat. 538][/us/stat/125/538], provided that: 
+[Pub. L. 112–46][/us/pl/112/46], § 2, Nov. 7, 2011, [125 Stat. 538][/us/stat/125/538], provided that: 
 
 > “The purpose of this Act \[see Short Title of 2011 Amendment note above\] is to amend the National Forest Ski Area Permit Act of 1986 ([16 U.S.C. 497b][/us/usc/t16/s497b])—
 
@@ -171,7 +171,7 @@
 
 >     “(2) to clarify the authority of the Secretary of Agriculture to permit appropriate additional seasonal or year-round recreational activities and facilities on National Forest System land subject to ski area permits issued by the Secretary of Agriculture under section 3 of the National Forest Ski Area Permit Act of 1986 ([16 U.S.C. 497b][/us/usc/t16/s497b]).”
 
-[Pub. L. 99–522, § 2][/us/pl/99/522/s2], Oct. 22, 1986, [100 Stat. 3000][/us/stat/100/3000], provided that: 
+[Pub. L. 99–522][/us/pl/99/522], § 2, Oct. 22, 1986, [100 Stat. 3000][/us/stat/100/3000], provided that: 
 
 > “The purposes of this Act \[see Short Title note above\] are to—
 
@@ -191,9 +191,9 @@
 [/us/usc/t16/s497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs497
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t16/s1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1600
-[/us/pl/99/522/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F522%2Fs3
+[/us/pl/99/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F522
 [/us/stat/100/3000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3000
-[/us/pl/112/46/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F46%2Fs3
+[/us/pl/112/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F46
 [/us/stat/125/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F538
 [/us/usc/t16/s497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs497
 [/us/act/1915-03-04/ch144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-04%2Fch144
@@ -206,28 +206,28 @@
 [/us/pl/93/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F378
 [/us/stat/88/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F476
 [/us/usc/t16/s1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1600
-[/us/pl/112/46/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F46%2Fs3%2F1
-[/us/pl/112/46/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F46%2Fs3%2F2
-[/us/pl/112/46/s3/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F46%2Fs3%2F4
-[/us/pl/112/46/s3/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F46%2Fs3%2F5
-[/us/pl/112/46/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F46%2Fs3%2F3
-[/us/pl/112/46/s3/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F46%2Fs3%2F6
+[/us/pl/112/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F46
+[/us/pl/112/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F46
+[/us/pl/112/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F46
+[/us/pl/112/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F46
+[/us/pl/112/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F46
+[/us/pl/112/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F46
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t16/s1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1600
-[/us/pl/112/46/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F46%2Fs3%2F3
-[/us/pl/112/46/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F46%2Fs1
+[/us/pl/112/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F46
+[/us/pl/112/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F46
 [/us/stat/125/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F538
-[/us/pl/99/522/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F522%2Fs1
+[/us/pl/99/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F522
 [/us/stat/100/3000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3000
-[/us/pl/112/46/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F46%2Fs4
+[/us/pl/112/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F46
 [/us/stat/125/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F540
 [/us/usc/t16/s497b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs497b%2Fc
-[/us/pl/112/46/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F46%2Fs2
+[/us/pl/112/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F46
 [/us/stat/125/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F538
 [/us/usc/t16/s497b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs497b
 [/us/usc/t16/s497b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs497b
 [/us/usc/t16/s497b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs497b
-[/us/pl/99/522/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F522%2Fs2
+[/us/pl/99/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F522
 [/us/stat/100/3000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3000
 
 

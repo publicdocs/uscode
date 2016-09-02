@@ -17,7 +17,7 @@
 
     Upon expiration or surrender of the aforesaid lease the property shall become a detached unit of the Fire Island National Seashore, and shall be administered, protected, and developed in accordance with the laws applicable thereto subject, with respect to said main dwelling and the furnishings therein, to such terms, covenants, and conditions which the Secretary shall have accepted and approved upon the donation thereof as in the public interest.
 
-([Pub. L. 89–244, § 3][/us/pl/89/244/s3], Oct. 9, 1965, [79 Stat. 967][/us/stat/79/967].)
+([Pub. L. 89–244][/us/pl/89/244], § 3, Oct. 9, 1965, [79 Stat. 967][/us/stat/79/967].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F244%2Fs3
+[/us/pl/89/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F244
 [/us/stat/79/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F967
 
 

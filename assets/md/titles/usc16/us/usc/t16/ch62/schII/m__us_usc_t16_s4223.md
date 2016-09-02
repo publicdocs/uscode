@@ -27,7 +27,7 @@
 
     (5) to import raw or worked ivory from a country for which a moratorium is in effect under [section 4222 of this title][/us/usc/t16/s4222].
 
-([Pub. L. 100–478, title II, § 2203][/us/pl/100/478/s2203], Oct. 7, 1988, [102 Stat. 2320][/us/stat/102/2320].)
+([Pub. L. 100–478, title II][/us/pl/100/478/tII], § 2203, Oct. 7, 1988, [102 Stat. 2320][/us/stat/102/2320].)
 
 ----------
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t16/s4222/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4222%2Fe
 [/us/usc/t16/s4222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4222
-[/us/pl/100/478/s2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2Fs2203
+[/us/pl/100/478/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2FtII
 [/us/stat/102/2320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2320
 
 

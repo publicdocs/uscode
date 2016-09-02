@@ -17,7 +17,7 @@
 
     The President of the United States is authorized to designate as game refuges such lands of the United States within the Ocala National Forest, in the State of Florida, as in his judgment should be set aside for the protection of game animals and birds, but it is not intended that the lands so designated shall cease to be parts of the national forest within which they are located, and the establishment of such game sanctuaries or refuges shall not prevent the Secretary of Agriculture from permitting other uses of the lands under and in conformity with the laws and regulations applicable thereto so far as such uses may be consistent with the purposes for which such game sanctuaries or refuges are established.
 
-([June 28, 1930, ch. 709, § 1][/us/act/1930-06-28/ch709/s1], [46 Stat. 827][/us/stat/46/827].)
+([June 28, 1930, ch. 709][/us/act/1930-06-28/ch709], § 1, [46 Stat. 827][/us/stat/46/827].)
 
  __Presidential Designation__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1930-06-28/ch709/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-28%2Fch709%2Fs1
+[/us/act/1930-06-28/ch709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-28%2Fch709
 [/us/stat/46/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F827
 [/us/stat/46/3031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F3031
 

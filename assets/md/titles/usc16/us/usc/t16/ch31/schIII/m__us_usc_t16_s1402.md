@@ -45,7 +45,7 @@
 
         Any recommendations made by the Commission to the Secretary and other Federal officials shall be responded to by those individuals within one hundred and twenty days after receipt thereof. Any recommendations which are not followed or adopted shall be referred to the Commission together with a detailed explanation of the reasons why those recommendations were not followed or adopted.
 
-([Pub. L. 92–522, title II, § 202][/us/pl/92/522/s202], Oct. 21, 1972, [86 Stat. 1044][/us/stat/86/1044]; [Pub. L. 93–205, § 13(e)(4)][/us/pl/93/205/s13/e/4], Dec. 28, 1973, [87 Stat. 903][/us/stat/87/903]; [Pub. L. 97–58, § 6(1)][/us/pl/97/58/s6/1], Oct. 9, 1981, [95 Stat. 987][/us/stat/95/987]; [Pub. L. 100–711, § 5(e)(4)][/us/pl/100/711/s5/e/4], Nov. 23, 1988, [102 Stat. 4771][/us/stat/102/4771].)
+([Pub. L. 92–522, title II][/us/pl/92/522/tII], § 202, Oct. 21, 1972, [86 Stat. 1044][/us/stat/86/1044]; [Pub. L. 93–205][/us/pl/93/205], § 13(e)(4), Dec. 28, 1973, [87 Stat. 903][/us/stat/87/903]; [Pub. L. 97–58][/us/pl/97/58], § 6(1), Oct. 9, 1981, [95 Stat. 987][/us/stat/95/987]; [Pub. L. 100–711][/us/pl/100/711], § 5(e)(4), Nov. 23, 1988, [102 Stat. 4771][/us/stat/102/4771].)
 
  __References in Text__ 
 
@@ -78,13 +78,13 @@
 [/us/usc/t16/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1151
 [/us/usc/t16/s1533/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1533%2Fc%2F1
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/92/522/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs202
+[/us/pl/92/522/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtII
 [/us/stat/86/1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1044
-[/us/pl/93/205/s13/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205%2Fs13%2Fe%2F4
+[/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F903
-[/us/pl/97/58/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58%2Fs6%2F1
+[/us/pl/97/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58
 [/us/stat/95/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F987
-[/us/pl/100/711/s5/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711%2Fs5%2Fe%2F4
+[/us/pl/100/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711
 [/us/stat/102/4771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4771
 [/us/act/1950-08-09/ch653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch653
 [/us/stat/64/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F421

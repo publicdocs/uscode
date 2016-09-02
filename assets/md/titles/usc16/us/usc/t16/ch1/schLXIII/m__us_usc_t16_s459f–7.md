@@ -17,7 +17,7 @@
 
     The Secretary of the Interior and the Secretary of the Army shall cooperate in the study and formulation of plans for beach erosion control and hurricane protection of the seashore; and any such protective works that are undertaken by the Chief of Engineers, Department of the Army, shall be carried out in accordance with a plan that is acceptable to the Secretary of the Interior and is consistent with the purposes of sections 459f to 459f–11 of this title.
 
-([Pub. L. 89–195, § 8][/us/pl/89/195/s8], Sept. 21, 1965, [79 Stat. 827][/us/stat/79/827].)
+([Pub. L. 89–195][/us/pl/89/195], § 8, Sept. 21, 1965, [79 Stat. 827][/us/stat/79/827].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/195/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F195%2Fs8
+[/us/pl/89/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F195
 [/us/stat/79/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F827
 
 

@@ -19,7 +19,7 @@
 
     (b) The Secretary of Commerce and the Secretary of Labor, in consultation with the Secretary, and pursuant to his study, shall apply such existing programs as are necessary and appropriate to further mitigate identified employment and other adverse economic impacts on public and private segments of the local economy, other than with regard to the payment of just compensation to the owners of properties taken by this Act and by this subchapter. In addition to the land rehabilitation and employment provisions of this Act, which should have a substantial positive economic effect on the local economy, the Secretaries of Commerce and Labor are further authorized and directed to implement existing authorities to establish employment programs, pursuant to such grants, contracts and cooperative agreements with agencies of the Federal Executive, the State of California, any political or governmental subdivision thereof, any corporation, not-for-profit corporation, private entity or person, for the development and implementation of such programs, as, in the discretion of the Secretaries of Commerce and Labor, may be necessary to provide employment opportunities to those individuals affected by this taking and to contribute to the economic revival of Del Norte and Humboldt Counties, in northern California. Effective on October 1, 1978, there are authorized such sums as may be necessary to carry out the employment and economic mitigation provisions of this Act: Provided, That the authority to make payments under this section shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.
 
-([Pub. L. 95–250, title I, § 102(a)][/us/pl/95/250/s102/a], (b), Mar. 27, 1978, [92 Stat. 166][/us/stat/92/166], 167.)
+([Pub. L. 95–250, title I][/us/pl/95/250/tI], § 102(a), (b), Mar. 27, 1978, [92 Stat. 166][/us/stat/92/166], 167.)
 
  __References in Text__ 
 
@@ -33,11 +33,11 @@
 
  __Study of Timber Harvest Scheduling Alternatives for Six Rivers National Forest; Scope; Report to Congress__ 
 
-    [Pub. L. 95–250, title I, § 102(c)][/us/pl/95/250/s102/c], Mar. 27, 1978, [92 Stat. 167][/us/stat/92/167], directed Secretary of Agriculture, within one year after Mar. 27, 1978, to prepare and transmit to Congress a study of timber harvest scheduling alternatives for Six Rivers National Forest, which alternatives were to exclude timber inventories standing on units of Wilderness Preservation System at time of study and were to be consistent with laws applicable to management of national forests.
+    [Pub. L. 95–250, title I][/us/pl/95/250/tI], § 102(c), Mar. 27, 1978, [92 Stat. 167][/us/stat/92/167], directed Secretary of Agriculture, within one year after Mar. 27, 1978, to prepare and transmit to Congress a study of timber harvest scheduling alternatives for Six Rivers National Forest, which alternatives were to exclude timber inventories standing on units of Wilderness Preservation System at time of study and were to be consistent with laws applicable to management of national forests.
 
  __Reference to Secretary as Reference to Secretary of Department of the Interior; Exception__ 
 
-[Pub. L. 95–250, title I, § 109][/us/pl/95/250/s109], Mar. 27, 1978, [92 Stat. 172][/us/stat/92/172], provided that: 
+[Pub. L. 95–250, title I][/us/pl/95/250/tI], § 109, Mar. 27, 1978, [92 Stat. 172][/us/stat/92/172], provided that: 
 
 > “Unless otherwise indicated hereinbefore, a reference to the Secretary will refer to the Secretary of the Department of the Interior, except in subsections 103(d) through 103(i) \[section 79l(d) to (i) of this title\], where a reference to the Secretary will refer to the Secretary of the Department of Labor.”
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/95/250/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250%2Fs102%2Fa
+[/us/pl/95/250/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250%2FtI
 [/us/stat/92/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F166
 [/us/pl/95/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250
 [/us/stat/92/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F163
@@ -56,9 +56,9 @@
 [/us/pl/95/250/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250%2Fs101
 [/us/pl/90/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F545
 [/us/stat/82/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F931
-[/us/pl/95/250/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250%2Fs102%2Fc
+[/us/pl/95/250/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250%2FtI
 [/us/stat/92/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F167
-[/us/pl/95/250/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250%2Fs109
+[/us/pl/95/250/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250%2FtI
 [/us/stat/92/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F172
 
 

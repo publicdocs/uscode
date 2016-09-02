@@ -33,7 +33,7 @@
 
         The Secretary is authorized to grant to the State of Alaska a highway right-of-way across lands in the Chilkoot Trail unit, in the area of Dyea, for the purpose of linking the communities of Haines and Skagway by road if he finds that (1) there is no feasible and prudent alternative to the use of such lands, (2) the road proposal includes all possible planning to minimize harm to the park resulting from such road use, and (3) to grant such right-of-way will not have significant adverse effects on the historical and archeological resources of the park and its administration, protection, and management in accordance with the purposes of this subchapter.
 
-([Pub. L. 94–323, § 1][/us/pl/94/323/s1], June 30, 1976, [90 Stat. 717][/us/stat/90/717]; [Pub. L. 96–487, title XIII, § 1309][/us/pl/96/487/s1309], Dec. 2, 1980, [94 Stat. 2481][/us/stat/94/2481]; [Pub. L. 103–437, § 6(h)(1)][/us/pl/103/437/s6/h/1], Nov. 2, 1994, [108 Stat. 4585][/us/stat/108/4585].)
+([Pub. L. 94–323][/us/pl/94/323], § 1, June 30, 1976, [90 Stat. 717][/us/stat/90/717]; [Pub. L. 96–487, title XIII][/us/pl/96/487/tXIII], § 1309, Dec. 2, 1980, [94 Stat. 2481][/us/stat/94/2481]; [Pub. L. 103–437][/us/pl/103/437], § 6(h)(1), Nov. 2, 1994, [108 Stat. 4585][/us/stat/108/4585].)
 
  __References in Text__ 
 
@@ -66,11 +66,11 @@
 [/us/stat/49/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F678
 [/us/stat/67/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F557
 [/us/stat/30/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F409
-[/us/pl/94/323/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F323%2Fs1
+[/us/pl/94/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F323
 [/us/stat/90/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F717
-[/us/pl/96/487/s1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1309
+[/us/pl/96/487/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXIII
 [/us/stat/94/2481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2481
-[/us/pl/103/437/s6/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fh%2F1
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4585
 [/us/act/1958-07-07/s6/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1958-07-07%2Fs6%2Fi
 [/us/pl/85/508/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508%2Fs6

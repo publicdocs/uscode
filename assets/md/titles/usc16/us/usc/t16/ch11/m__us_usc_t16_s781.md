@@ -17,7 +17,7 @@
 
     It is unlawful for any citizen of the United States, or person owing duty of obedience to the laws of the United States, or any boat or vessel of the United States, or person belonging to or on any such boat or vessel, to take or catch, by any means or method, in the waters of the Gulf of Mexico or the Straits of Florida outside of State territorial limits, any commercial sponges measuring when wet less than five inches in their maximum diameter, or for any person or vessel to land, deliver, cure, offer for sale, or have in possession at any port or place in the United States, or on any boat or vessel of the United States, any such commercial sponges.
 
-([Aug. 15, 1914, ch. 253, § 1][/us/act/1914-08-15/ch253/s1], [38 Stat. 692][/us/stat/38/692].)
+([Aug. 15, 1914, ch. 253][/us/act/1914-08-15/ch253], § 1, [38 Stat. 692][/us/stat/38/692].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1914-08-15/ch253/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-08-15%2Fch253%2Fs1
+[/us/act/1914-08-15/ch253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-08-15%2Fch253
 [/us/stat/38/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F692
 
 

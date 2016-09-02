@@ -17,7 +17,7 @@
 
     The Secretary may provide for roadways from the north and south boundaries of such public recreation area to the access highways from the mainland to Padre Island.
 
-([Pub. L. 87–712, § 6][/us/pl/87/712/s6], Sept. 28, 1962, [76 Stat. 652][/us/stat/76/652].)
+([Pub. L. 87–712][/us/pl/87/712], § 6, Sept. 28, 1962, [76 Stat. 652][/us/stat/76/652].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/712/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F712%2Fs6
+[/us/pl/87/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F712
 [/us/stat/76/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F652
 
 

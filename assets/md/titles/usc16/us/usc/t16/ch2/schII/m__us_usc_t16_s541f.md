@@ -17,7 +17,7 @@
 
     The lands within the Area, subject to valid existing rights, are hereby withdrawn from location, entry, and patent under the United States mining laws and from disposition under all laws pertaining to mineral leasing and all amendments thereto.
 
-([Pub. L. 93–535, § 7][/us/pl/93/535/s7], Dec. 22, 1974, [88 Stat. 1733][/us/stat/88/1733].)
+([Pub. L. 93–535][/us/pl/93/535], § 7, Dec. 22, 1974, [88 Stat. 1733][/us/stat/88/1733].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/535/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F535%2Fs7
+[/us/pl/93/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F535
 [/us/stat/88/1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1733
 
 

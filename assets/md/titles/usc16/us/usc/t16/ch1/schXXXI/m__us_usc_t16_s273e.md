@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 92–207, § 6][/us/pl/92/207/s6], Dec. 18, 1971, [85 Stat. 740][/us/stat/85/740], authorized the Secretary to conduct a study of proposed road alinements within and adjacent to the park and to submit a report on the findings and conclusions of the study to the Congress within two years of Dec. 18, 1971.
+    Section, [Pub. L. 92–207][/us/pl/92/207], § 6, Dec. 18, 1971, [85 Stat. 740][/us/stat/85/740], authorized the Secretary to conduct a study of proposed road alinements within and adjacent to the park and to submit a report on the findings and conclusions of the study to the Congress within two years of Dec. 18, 1971.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/207/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F207%2Fs6
+[/us/pl/92/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F207
 [/us/stat/85/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F740
 
 

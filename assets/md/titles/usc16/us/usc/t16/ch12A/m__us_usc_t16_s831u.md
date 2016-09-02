@@ -17,7 +17,7 @@
 
     To aid further the proper use, conservation, and development of the natural resources of the Tennessee River drainage basin and of such adjoining territory as may be related to or materially affected by the development consequent to this chapter, and to provide for the general welfare of the citizens of said areas, the President is authorized, by such means or methods as he may deem proper within the limits of appropriations made therefor by Congress, to make such surveys of and general plans for said Tennessee basin and adjoining territory as may be useful to the Congress and to the several States in guiding and controlling the extent, sequence, and nature of development that may be equitably and economically advanced through the expenditure of public funds, or through the guidance or control of public authority, all for the general purpose of fostering an orderly and proper physical, economic, and social development of said areas; and the President is further authorized in making said surveys and plans to cooperate with the States affected thereby, or subdivisions or agencies of such States, or with cooperative or other organizations, and to make such studies, experiments, or demonstrations as may be necessary and suitable to that end.
 
-([May 18, 1933, ch. 32, § 22][/us/act/1933-05-18/ch32/s22], [48 Stat. 69][/us/stat/48/69].)
+([May 18, 1933, ch. 32][/us/act/1933-05-18/ch32], § 22, [48 Stat. 69][/us/stat/48/69].)
 
  __Ex. Ord. No. 6161. Conservation and Development of the Natural Resources of the Tennessee River Drainage Basin__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1933-05-18/ch32/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32%2Fs22
+[/us/act/1933-05-18/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32
 [/us/stat/48/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F69
 
 

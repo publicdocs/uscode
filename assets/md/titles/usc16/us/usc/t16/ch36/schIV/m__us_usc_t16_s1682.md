@@ -23,7 +23,7 @@
 
         Pilot projects and demonstrations carried out under this section may include, but are not limited to (1) establishment and operation of utilization demonstration areas; (2) establishment and operation of fuel wood concentration and distribution centers; and (3) construction of access roads needed to facilitate wood residue utilization: Provided, That residue removal credits may be utilized by the Secretary only as provided in [section 1683 of this title][/us/usc/t16/s1683].
 
-([Pub. L. 96–554, § 3][/us/pl/96/554/s3], Dec. 19, 1980, [94 Stat. 3257][/us/stat/94/3257].)
+([Pub. L. 96–554][/us/pl/96/554], § 3, Dec. 19, 1980, [94 Stat. 3257][/us/stat/94/3257].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t16/s1683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1683
-[/us/pl/96/554/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F554%2Fs3
+[/us/pl/96/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F554
 [/us/stat/94/3257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3257
 
 

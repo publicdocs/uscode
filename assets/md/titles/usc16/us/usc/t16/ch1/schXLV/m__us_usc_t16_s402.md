@@ -17,7 +17,7 @@
 
     Nothing herein contained shall affect any valid claim, location, or entry existing under the land laws of the United States prior to June 7, 1924, whether for homestead, mineral, right-of-way, or any other purpose whatsoever, or shall affect the rights of any such claimant, locator, or entryman to the full use and enjoyment of his land. The Secretary of the Interior is authorized to exchange, in his discretion, alienated lands in Bryce Canyon National Park for unappropriated and unreserved public lands of equal value and approximately equal area in the State of Utah outside of said park.
 
-([June 7, 1924, ch. 305, § 3][/us/act/1924-06-07/ch305/s3], [43 Stat. 594][/us/stat/43/594]; [Feb. 25, 1928, ch. 102, § 1][/us/act/1928-02-25/ch102/s1], [45 Stat. 147][/us/stat/45/147].)
+([June 7, 1924, ch. 305][/us/act/1924-06-07/ch305], § 3, [43 Stat. 594][/us/stat/43/594]; [Feb. 25, 1928, ch. 102][/us/act/1928-02-25/ch102], § 1, [45 Stat. 147][/us/stat/45/147].)
 
  __References in Text__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/act/1924-06-07/ch305/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch305%2Fs3
+[/us/act/1924-06-07/ch305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch305
 [/us/stat/43/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F594
-[/us/act/1928-02-25/ch102/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-02-25%2Fch102%2Fs1
+[/us/act/1928-02-25/ch102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-02-25%2Fch102
 [/us/stat/45/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F147
 [/us/usc/t16/s346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs346
 [/us/usc/t16/s402a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs402a

@@ -23,7 +23,7 @@
 
         The Secretary of Agriculture or the Secretary of the Interior is authorized to accept private contributions and gifts to be used to further the purposes of this chapter.
 
-([Pub. L. 88–577, § 6][/us/pl/88/577/s6], Sept. 3, 1964, [78 Stat. 896][/us/stat/78/896].)
+([Pub. L. 88–577][/us/pl/88/577], § 6, Sept. 3, 1964, [78 Stat. 896][/us/stat/78/896].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/88/577/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577%2Fs6
+[/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F896
 
 

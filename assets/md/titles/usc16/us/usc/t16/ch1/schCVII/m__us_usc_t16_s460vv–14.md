@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall preclude the Secretary of Agriculture from carrying out such measures in the recreation area, the national scenic and wildlife area, the national scenic area, or in the botanical areas established by this subchapter as the Secretary, in his discretion, deems necessary in the event of fire, or infestation of insects or disease or for public health and safety. As provided in [section 1133(d)(1) of this title][/us/usc/t16/s1133/d/1], the Secretary may take such measures as may be necessary to control fire, insects, and diseases within the wilderness areas designated by this subchapter.
 
-([Pub. L. 100–499, § 16][/us/pl/100/499/s16], Oct. 18, 1988, [102 Stat. 2498][/us/stat/102/2498].)
+([Pub. L. 100–499][/us/pl/100/499], § 16, Oct. 18, 1988, [102 Stat. 2498][/us/stat/102/2498].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s1133/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1133%2Fd%2F1
-[/us/pl/100/499/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F499%2Fs16
+[/us/pl/100/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F499
 [/us/stat/102/2498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2498
 
 

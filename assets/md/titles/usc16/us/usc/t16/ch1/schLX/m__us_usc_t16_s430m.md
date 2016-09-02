@@ -17,7 +17,7 @@
 
     The administration, development, preservation, and maintenance of the battlefield shall be exercised by the Secretary of the Interior in accordance with the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]; [16 U.S.C. 1][/us/usc/t16/s1] et seq.), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended and supplemented, and the Act of August 21, 1935 ([49 Stat. 666][/us/stat/49/666]). <sup>\[1\]</sup> 
 
-([June 21, 1934, ch. 694, § 4][/us/act/1934-06-21/ch694/s4], [48 Stat. 1199][/us/stat/48/1199]; [Pub. L. 94–578, title III, § 319(4)][/us/pl/94/578/s319/4], Oct. 21, 1976, [90 Stat. 2738][/us/stat/90/2738].)
+([June 21, 1934, ch. 694][/us/act/1934-06-21/ch694], § 4, [48 Stat. 1199][/us/stat/48/1199]; [Pub. L. 94–578, title III][/us/pl/94/578/tIII], § 319(4), Oct. 21, 1976, [90 Stat. 2738][/us/stat/90/2738].)
 
  __References in Text__ 
 
@@ -39,9 +39,9 @@
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
-[/us/act/1934-06-21/ch694/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-21%2Fch694%2Fs4
+[/us/act/1934-06-21/ch694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-21%2Fch694
 [/us/stat/48/1199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1199
-[/us/pl/94/578/s319/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2Fs319%2F4
+[/us/pl/94/578/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2FtIII
 [/us/stat/90/2738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2738
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1

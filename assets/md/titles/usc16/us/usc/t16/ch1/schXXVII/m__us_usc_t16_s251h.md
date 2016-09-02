@@ -19,7 +19,7 @@
 
     (2) As used in sections 251e to 251m of this title, the term “improved property” shall mean any single-family dwelling on which construction was begun before January 1, 1976, together with so much of the land on which the dwelling is situated (such land being in the same ownership as the dwelling) as shall be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, as the Secretary shall designate. The amount of the land so designated shall in every case be not more than three acres in area: Provided, That the Secretary may exclude from the land so designated any beach or water, together with so much of the land adjoining any such beach or water, as he may deem necessary for public access thereto.
 
-([Pub. L. 94–578, title III, § 320(e)][/us/pl/94/578/s320/e], Oct. 21, 1976, [90 Stat. 2740][/us/stat/90/2740].)
+([Pub. L. 94–578, title III][/us/pl/94/578/tIII], § 320(e), Oct. 21, 1976, [90 Stat. 2740][/us/stat/90/2740].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/94/578/s320/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2Fs320%2Fe
+[/us/pl/94/578/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2FtIII
 [/us/stat/90/2740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2740
 [/us/pl/94/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578
 [/us/pl/94/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578

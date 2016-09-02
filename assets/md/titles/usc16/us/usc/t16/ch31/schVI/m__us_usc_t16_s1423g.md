@@ -27,7 +27,7 @@
 
         The provisions of subchapters II through V of this chapter do not apply with respect to the implementation or administration of this subchapter, except as specified in [section 1423b of this title][/us/usc/t16/s1423b].
 
-([Pub. L. 92–522, title V, § 508][/us/pl/92/522/s508], as added [Pub. L. 109–479, title IX, § 902(a)][/us/pl/109/479/s902/a], Jan. 12, 2007, [120 Stat. 3664][/us/stat/120/3664].)
+([Pub. L. 92–522, title V][/us/pl/92/522/tV], § 508, as added [Pub. L. 109–479, title IX][/us/pl/109/479/tIX], § 902(a), Jan. 12, 2007, [120 Stat. 3664][/us/stat/120/3664].)
 
  __References in Text__ 
 
@@ -45,8 +45,8 @@
 [/us/usc/t16/s3371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3371
 [/us/usc/t16/s1371/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1371%2Fb
 [/us/usc/t16/s1423b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1423b
-[/us/pl/92/522/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs508
-[/us/pl/109/479/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs902%2Fa
+[/us/pl/92/522/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtV
+[/us/pl/109/479/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtIX
 [/us/stat/120/3664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3664
 [/us/pl/92/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522
 [/us/pl/92/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522

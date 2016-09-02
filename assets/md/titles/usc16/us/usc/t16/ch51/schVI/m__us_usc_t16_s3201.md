@@ -17,7 +17,7 @@
 
     A National Preserve in Alaska shall be administered and managed as a unit of the National Park System in the same manner as a national park except as otherwise provided in this Act and except that the taking of fish and wildlife for sport purposes and subsistence uses, and trapping shall be allowed in a national preserve under applicable State and Federal law and regulation. Consistent with the provisions of [section 3126 of this title][/us/usc/t16/s3126], within national preserves the Secretary may designate zones where and periods when no hunting, fishing, trapping, or entry may be permitted for reasons of public safety, administration, floral and faunal protection, or public use and enjoyment. Except in emergencies, any regulations prescribing such restrictions relating to hunting, fishing, or trapping shall be put into effect only after consultation with the appropriate State agency having responsibility over hunting, fishing, and trapping activities.
 
-([Pub. L. 96–487, title XIII, § 1313][/us/pl/96/487/s1313], Dec. 2, 1980, [94 Stat. 2483][/us/stat/94/2483].)
+([Pub. L. 96–487, title XIII][/us/pl/96/487/tXIII], § 1313, Dec. 2, 1980, [94 Stat. 2483][/us/stat/94/2483].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t16/s3126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3126
-[/us/pl/96/487/s1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1313
+[/us/pl/96/487/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXIII
 [/us/stat/94/2483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2483
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371

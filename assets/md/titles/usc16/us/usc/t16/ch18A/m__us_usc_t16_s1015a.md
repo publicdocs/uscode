@@ -243,7 +243,7 @@
 
         (4) $20,000,000 for each of fiscal years 2012 through 2020.
 
-([Pub. L. 111–11, title VI, § 6002][/us/pl/111/11/s6002], Mar. 30, 2009, [123 Stat. 1166][/us/stat/123/1166].)
+([Pub. L. 111–11, title VI][/us/pl/111/11/tVI], § 6002, Mar. 30, 2009, [123 Stat. 1166][/us/stat/123/1166].)
 
 ----------
 
@@ -252,7 +252,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s6002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs6002
+[/us/pl/111/11/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVI
 [/us/stat/123/1166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1166
 
 

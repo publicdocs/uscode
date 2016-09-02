@@ -59,7 +59,7 @@
 
         All provisions of law relating to the seizure, forfeiture, and condemnation of a vessel for violation of the customs laws, the disposition of such vessel or the proceeds from the sale thereof, and the remission or mitigation of such forfeitures, shall apply to the seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this section, insofar as such provisions of law are applicable and not inconsistent with the provisions of this section; except that all powers, rights, and duties conferred or imposed by the customs laws upon any officer or employee of the Treasury Department shall, for the purposes of this section, be exercised or performed by the Secretary of the Interior or by such persons as he may designate.
 
-([Aug. 8, 1956, ch. 1036, § 13][/us/act/1956-08-08/ch1036/s13], as added [Pub. L. 92–159, § 1][/us/pl/92/159/s1], Nov. 18, 1971, [85 Stat. 480][/us/stat/85/480]; amended [Pub. L. 92–502][/us/pl/92/502], Oct. 18, 1972, [86 Stat. 905][/us/stat/86/905]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
+([Aug. 8, 1956, ch. 1036][/us/act/1956-08-08/ch1036], § 13, as added [Pub. L. 92–159][/us/pl/92/159], § 1, Nov. 18, 1971, [85 Stat. 480][/us/stat/85/480]; amended [Pub. L. 92–502][/us/pl/92/502], Oct. 18, 1972, [86 Stat. 905][/us/stat/86/905]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
 
  __Amendments__ 
 
@@ -71,7 +71,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 92–159, § 3][/us/pl/92/159/s3], Nov. 18, 1971, [85 Stat. 481][/us/stat/85/481], provided that: 
+[Pub. L. 92–159][/us/pl/92/159], § 3, Nov. 18, 1971, [85 Stat. 481][/us/stat/85/481], provided that: 
 
 > “The amendments made by the first section of this Act \[enacting this section\] shall take effect as of the thirtieth day after the date of enactment of such section \[Nov. 18, 1971\]; except that, in any case in which a State is not authorized to issue any permit referred to in the amendments made by such first section, such amendments shall take effect in any such State as of the thirtieth day after the expiration of the next regular session of the legislature of such State which begins on or after the date of enactment of this Act.”
 
@@ -82,17 +82,17 @@
 ----------
 ----------
 
-[/us/act/1956-08-08/ch1036/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1036%2Fs13
-[/us/pl/92/159/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F159%2Fs1
+[/us/act/1956-08-08/ch1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1036
+[/us/pl/92/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F159
 [/us/stat/85/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F480
 [/us/pl/92/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F502
 [/us/stat/86/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F905
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
 [/us/pl/92/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F502
 [/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
 [/us/usc/t28/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs631
-[/us/pl/92/159/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F159%2Fs3
+[/us/pl/92/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F159
 [/us/stat/85/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F481
 
 

@@ -17,7 +17,7 @@
 
     Any denial of port privileges or sanction under [section 1826a of this title][/us/usc/t16/s1826a] with respect to a nation shall remain in effect until such time as the Secretary of Commerce certifies to the President and the Congress that such nation has terminated large-scale driftnet fishing by its nationals and vessels beyond the exclusive economic zone of any nation or effectively addressed the offending activities for which the nation received a negative certification under 1826j(d)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “section”. </sup></sup>  or 1826k(c) of this title.
 
-([Pub. L. 102–582, title I, § 102][/us/pl/102/582/s102], Nov. 2, 1992, [106 Stat. 4903][/us/stat/106/4903]; [Pub. L. 109–479, title IV, § 403(b)(2)][/us/pl/109/479/s403/b/2], Jan. 12, 2007, [120 Stat. 3632][/us/stat/120/3632]; [Pub. L. 114–81, title I, § 102(b)][/us/pl/114/81/s102/b], Nov. 5, 2015, [129 Stat. 656][/us/stat/129/656].)
+([Pub. L. 102–582, title I][/us/pl/102/582/tI], § 102, Nov. 2, 1992, [106 Stat. 4903][/us/stat/106/4903]; [Pub. L. 109–479, title IV][/us/pl/109/479/tIV], § 403(b)(2), Jan. 12, 2007, [120 Stat. 3632][/us/stat/120/3632]; [Pub. L. 114–81, title I][/us/pl/114/81/tI], § 102(b), Nov. 5, 2015, [129 Stat. 656][/us/stat/129/656].)
 
  __Codification__ 
 
@@ -37,11 +37,11 @@
 ----------
 
 [/us/usc/t16/s1826a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826a
-[/us/pl/102/582/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2Fs102
+[/us/pl/102/582/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2FtI
 [/us/stat/106/4903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4903
-[/us/pl/109/479/s403/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs403%2Fb%2F2
+[/us/pl/109/479/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtIV
 [/us/stat/120/3632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3632
-[/us/pl/114/81/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs102%2Fb
+[/us/pl/114/81/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2FtI
 [/us/stat/129/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F656
 [/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
 [/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479

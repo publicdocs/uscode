@@ -63,7 +63,7 @@
 
         (2) are substantial in character and design.
 
-([Pub. L. 96–366, § 5][/us/pl/96/366/s5], Sept. 29, 1980, [94 Stat. 1324][/us/stat/94/1324].)
+([Pub. L. 96–366][/us/pl/96/366], § 5, Sept. 29, 1980, [94 Stat. 1324][/us/stat/94/1324].)
 
  __References in Text__ 
 
@@ -89,7 +89,7 @@
 [/us/usc/t16/s2905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2905
 [/us/usc/t16/s2905/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2905%2Fa%2F3
 [/us/usc/t16/s2903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2903
-[/us/pl/96/366/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F366%2Fs5
+[/us/pl/96/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F366
 [/us/stat/94/1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1324
 [/us/act/1937-09-02/ch899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-02%2Fch899
 [/us/stat/50/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F917

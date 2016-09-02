@@ -27,15 +27,15 @@
 
         Funds appropriated to carry out this subchapter shall remain available until expended.
 
-([Pub. L. 97–98, title XV, § 1537][/us/pl/97/98/s1537], as added [Pub. L. 107–171, title II, § 2504][/us/pl/107/171/s2504], May 13, 2002, [116 Stat. 274][/us/stat/116/274].)
+([Pub. L. 97–98, title XV][/us/pl/97/98/tXV], § 1537, as added [Pub. L. 107–171, title II][/us/pl/107/171/tII], § 2504, May 13, 2002, [116 Stat. 274][/us/stat/116/274].)
 
  __Prior Provisions__ 
 
     Prior sections 3460 and 3461 were omitted in the general amendment of this subchapter by [Pub. L. 107–171][/us/pl/107/171].
 
-    Section 3460, [Pub. L. 97–98, title XV, § 1537][/us/pl/97/98/s1537], Dec. 22, 1981, [95 Stat. 1340][/us/stat/95/1340], related to supplemental authority of Secretary.
+    Section 3460, [Pub. L. 97–98, title XV][/us/pl/97/98/tXV], § 1537, Dec. 22, 1981, [95 Stat. 1340][/us/stat/95/1340], related to supplemental authority of Secretary.
 
-    Section 3461, [Pub. L. 97–98, title XV, § 1538][/us/pl/97/98/s1538], Dec. 22, 1981, [95 Stat. 1341][/us/stat/95/1341]; [Pub. L. 101–624, title XIV, § 1452(b)][/us/pl/101/624/s1452/b], Nov. 28, 1990, [104 Stat. 3611][/us/stat/104/3611]; [Pub. L. 104–127, title III, § 383][/us/pl/104/127/s383], Apr. 4, 1996, [110 Stat. 1016][/us/stat/110/1016], authorized appropriations for each of the fiscal years 1996 through 2002.
+    Section 3461, [Pub. L. 97–98, title XV][/us/pl/97/98/tXV], § 1538, Dec. 22, 1981, [95 Stat. 1341][/us/stat/95/1341]; [Pub. L. 101–624, title XIV][/us/pl/101/624/tXIV], § 1452(b), Nov. 28, 1990, [104 Stat. 3611][/us/stat/104/3611]; [Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 383, Apr. 4, 1996, [110 Stat. 1016][/us/stat/110/1016], authorized appropriations for each of the fiscal years 1996 through 2002.
 
 ----------
 
@@ -44,17 +44,17 @@
 ----------
 ----------
 
-[/us/pl/97/98/s1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1537
-[/us/pl/107/171/s2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2504
+[/us/pl/97/98/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXV
+[/us/pl/107/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtII
 [/us/stat/116/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F274
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
-[/us/pl/97/98/s1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1537
+[/us/pl/97/98/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXV
 [/us/stat/95/1340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1340
-[/us/pl/97/98/s1538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1538
+[/us/pl/97/98/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXV
 [/us/stat/95/1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1341
-[/us/pl/101/624/s1452/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1452%2Fb
+[/us/pl/101/624/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIV
 [/us/stat/104/3611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3611
-[/us/pl/104/127/s383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs383
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1016
 
 

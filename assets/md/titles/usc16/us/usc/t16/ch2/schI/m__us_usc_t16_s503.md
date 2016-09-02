@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s502.md) | [Next](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s503a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs503)
 
-## § 503. Repealed. [Pub. L. 85–767, § 2][/us/pl/85/767/s2]\[1\], Aug. 27, 1958, [72 Stat. 919][/us/stat/72/919]
+## § 503. Repealed. [Pub. L. 85–767][/us/pl/85/767], § 2\[1\], Aug. 27, 1958, [72 Stat. 919][/us/stat/72/919]
 
-    Section, [act July 11, 1916, ch. 241, § 8][/us/act/1916-07-11/ch241/s8], [39 Stat. 358][/us/stat/39/358], related to appropriations for roads and trails, and cooperative agreements by the Secretary of Agriculture and States.
+    Section, [act July 11, 1916, ch. 241][/us/act/1916-07-11/ch241], § 8, [39 Stat. 358][/us/stat/39/358], related to appropriations for roads and trails, and cooperative agreements by the Secretary of Agriculture and States.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/85/767/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767%2Fs2
+[/us/pl/85/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F767
 [/us/stat/72/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F919
-[/us/act/1916-07-11/ch241/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-07-11%2Fch241%2Fs8
+[/us/act/1916-07-11/ch241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-07-11%2Fch241
 [/us/stat/39/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F358
 
 

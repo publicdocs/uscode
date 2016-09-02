@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2475 derived from [act Mar. 1, 1872, ch. 24, § 2][/us/act/1872-03-01/ch24/s2], [17 Stat. 33][/us/stat/17/33].
+    R.S. § 2475 derived from [act Mar. 1, 1872, ch. 24][/us/act/1872-03-01/ch24], § 2, [17 Stat. 33][/us/stat/17/33].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1872-03-01/ch24/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-03-01%2Fch24%2Fs2
+[/us/act/1872-03-01/ch24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-03-01%2Fch24
 [/us/stat/17/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F33
 
 

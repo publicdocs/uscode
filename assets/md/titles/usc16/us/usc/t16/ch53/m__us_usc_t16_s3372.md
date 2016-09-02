@@ -219,7 +219,7 @@
 
             (C) to limit the scope of the exclusion provided by paragraph (3), if the limitations in scope are warranted as a result of the review.
 
-([Pub. L. 97–79, § 3][/us/pl/97/79/s3], Nov. 16, 1981, [95 Stat. 1074][/us/stat/95/1074]; [Pub. L. 100–653, title I, § 101][/us/pl/100/653/s101], Nov. 14, 1988, [102 Stat. 3825][/us/stat/102/3825]; [Pub. L. 108–191, § 3(a)][/us/pl/108/191/s3/a], Dec. 19, 2003, [117 Stat. 2871][/us/stat/117/2871]; [Pub. L. 110–234, title VIII, § 8204(b)][/us/pl/110/234/s8204/b], May 22, 2008, [122 Stat. 1292][/us/stat/122/1292]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VIII, § 8204(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2053.)
+([Pub. L. 97–79][/us/pl/97/79], § 3, Nov. 16, 1981, [95 Stat. 1074][/us/stat/95/1074]; [Pub. L. 100–653, title I][/us/pl/100/653/tI], § 101, Nov. 14, 1988, [102 Stat. 3825][/us/stat/102/3825]; [Pub. L. 108–191][/us/pl/108/191], § 3(a), Dec. 19, 2003, [117 Stat. 2871][/us/stat/117/2871]; [Pub. L. 110–234, title VIII][/us/pl/110/234/tVIII], § 8204(b), May 22, 2008, [122 Stat. 1292][/us/stat/122/1292]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VIII, § 8204(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2053.)
 
  __References in Text__ 
 
@@ -233,25 +233,25 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a)(2)(B). [Pub. L. 110–246, § 8204(b)(1)(A)][/us/pl/110/246/s8204/b/1/A], added subpar. (B) and struck out former subpar. (B) which read as follows: “any plant taken, possessed, transported, or sold in violation of any law or regulation of any State; or”.
+    2008—Subsec. (a)(2)(B). [Pub. L. 110–246][/us/pl/110/246], § 8204(b)(1)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “any plant taken, possessed, transported, or sold in violation of any law or regulation of any State; or”.
 
-    Subsec. (a)(3)(B). [Pub. L. 110–246, § 8204(b)(1)(B)][/us/pl/110/246/s8204/b/1/B], added subpar. (B) and struck out former subpar. (B) which read as follows: “to possess any plant taken, possessed, transported, or sold in violation of any law or regulation of any State; or”.
+    Subsec. (a)(3)(B). [Pub. L. 110–246][/us/pl/110/246], § 8204(b)(1)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “to possess any plant taken, possessed, transported, or sold in violation of any law or regulation of any State; or”.
 
-    Subsec. (f). [Pub. L. 110–246, § 8204(b)(2)][/us/pl/110/246/s8204/b/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 110–246][/us/pl/110/246], § 8204(b)(2), added subsec. (f).
 
-    2003—Subsec. (a)(2)(C). [Pub. L. 108–191, § 3(a)(1)(A)][/us/pl/108/191/s3/a/1/A], added subpar. (C).
+    2003—Subsec. (a)(2)(C). [Pub. L. 108–191][/us/pl/108/191], § 3(a)(1)(A), added subpar. (C).
 
-    Subsec. (a)(3)(B). [Pub. L. 108–191, § 3(a)(1)(B)][/us/pl/108/191/s3/a/1/B], inserted “or” after semicolon at end.
+    Subsec. (a)(3)(B). [Pub. L. 108–191][/us/pl/108/191], § 3(a)(1)(B), inserted “or” after semicolon at end.
 
-    Subsec. (a)(4). [Pub. L. 108–191, § 3(a)(1)(C)][/us/pl/108/191/s3/a/1/C], substituted “paragraphs (1) through (3)” for “paragraphs (1) through (4)”.
+    Subsec. (a)(4). [Pub. L. 108–191][/us/pl/108/191], § 3(a)(1)(C), substituted “paragraphs (1) through (3)” for “paragraphs (1) through (4)”.
 
-    Subsec. (e). [Pub. L. 108–191, § 3(a)(2)][/us/pl/108/191/s3/a/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 108–191][/us/pl/108/191], § 3(a)(2), added subsec. (e).
 
-    1988—Subsec. (a)(1). [Pub. L. 100–653, § 101(1)][/us/pl/100/653/s101/1], substituted “taken, possessed, transported, or sold” for “taken or possessed”.
+    1988—Subsec. (a)(1). [Pub. L. 100–653][/us/pl/100/653], § 101(1), substituted “taken, possessed, transported, or sold” for “taken or possessed”.
 
-    Subsec. (a)(4), (5). [Pub. L. 100–653, § 101(2)][/us/pl/100/653/s101/2], redesignated par. (5) as (4) and struck out former par. (4), which made it unlawful for any person having imported, exported, transported, sold, purchased, or received any fish or wildlife or plant imported from any foreign country or transported in interstate or foreign commerce, to make or submit any false record, account, label, or identification thereof.
+    Subsec. (a)(4), (5). [Pub. L. 100–653][/us/pl/100/653], § 101(2), redesignated par. (5) as (4) and struck out former par. (4), which made it unlawful for any person having imported, exported, transported, sold, purchased, or received any fish or wildlife or plant imported from any foreign country or transported in interstate or foreign commerce, to make or submit any false record, account, label, or identification thereof.
 
-    Subsecs. (c), (d). [Pub. L. 100–653, § 101(3)][/us/pl/100/653/s101/3], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 100–653][/us/pl/100/653], § 101(3), added subsecs. (c) and (d).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -259,7 +259,7 @@
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–191, § 3(b)][/us/pl/108/191/s3/b], Dec. 19, 2003, [117 Stat. 2872][/us/stat/117/2872], provided that: 
+[Pub. L. 108–191][/us/pl/108/191], § 3(b), Dec. 19, 2003, [117 Stat. 2872][/us/stat/117/2872], provided that: 
 
 > “Section 3(a)(2)(C) of the Lacey Act Amendments of 1981 \[[16 U.S.C. 3372(a)(2)(C)][/us/usc/t16/s3372/a/2/C]\] (as added by subsection (a)(1)(A)(iii)) shall apply beginning on the effective date of regulations promulgated under section 3(e)(3) of that Act \[[16 U.S.C. 3372(e)(3)][/us/usc/t16/s3372/e/3]\] (as added by subsection (a)(2)) \[Sept. 17, 2007, see 72 F.R. 45938\].”
 
@@ -275,15 +275,15 @@
 [/us/usc/t26/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fa
 [/us/usc/t16/s3371/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3371%2Fg
 [/us/usc/t16/s3371/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3371%2Fg
-[/us/pl/97/79/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F79%2Fs3
+[/us/pl/97/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F79
 [/us/stat/95/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1074
-[/us/pl/100/653/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2Fs101
+[/us/pl/100/653/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2FtI
 [/us/stat/102/3825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3825
-[/us/pl/108/191/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F191%2Fs3%2Fa
+[/us/pl/108/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F191
 [/us/stat/117/2871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2871
-[/us/pl/110/234/s8204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs8204%2Fb
+[/us/pl/110/234/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVIII
 [/us/stat/122/1292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1292
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/97/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F79
 [/us/stat/95/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1073
@@ -293,22 +293,22 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s8204/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs8204%2Fb%2F1%2FA
-[/us/pl/110/246/s8204/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs8204%2Fb%2F1%2FB
-[/us/pl/110/246/s8204/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs8204%2Fb%2F2
-[/us/pl/108/191/s3/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F191%2Fs3%2Fa%2F1%2FA
-[/us/pl/108/191/s3/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F191%2Fs3%2Fa%2F1%2FB
-[/us/pl/108/191/s3/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F191%2Fs3%2Fa%2F1%2FC
-[/us/pl/108/191/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F191%2Fs3%2Fa%2F2
-[/us/pl/100/653/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2Fs101%2F1
-[/us/pl/100/653/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2Fs101%2F2
-[/us/pl/100/653/s101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2Fs101%2F3
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/108/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F191
+[/us/pl/108/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F191
+[/us/pl/108/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F191
+[/us/pl/108/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F191
+[/us/pl/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653
+[/us/pl/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653
+[/us/pl/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/108/191/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F191%2Fs3%2Fb
+[/us/pl/108/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F191
 [/us/stat/117/2872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2872
 [/us/usc/t16/s3372/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3372%2Fa%2F2%2FC
 [/us/usc/t16/s3372/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3372%2Fe%2F3

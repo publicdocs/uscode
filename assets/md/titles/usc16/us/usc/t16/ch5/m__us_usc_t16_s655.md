@@ -17,11 +17,11 @@
 
     The persons charged with the management of the seal fisheries in Alaska, and the performance of such other duties as may be assigned to them by the Secretary of the Interior, shall never be interested directly or indirectly in any lease of the right to take seals, nor in any proceeds or profits thereof either as owner, agent, partner, or otherwise.
 
-(R.S. §§ 1973, 1975; [Feb. 14, 1903, ch. 552, § 7][/us/act/1903-02-14/ch552/s7], [32 Stat. 828][/us/stat/32/828]; [Mar. 4, 1913, ch. 141, § 1][/us/act/1913-03-04/ch141/s1], [37 Stat. 736][/us/stat/37/736]; 1939 Reorg. Plan No. II, § 4(e), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433].)
+(R.S. §§ 1973, 1975; [Feb. 14, 1903, ch. 552][/us/act/1903-02-14/ch552], § 7, [32 Stat. 828][/us/stat/32/828]; [Mar. 4, 1913, ch. 141][/us/act/1913-03-04/ch141], § 1, [37 Stat. 736][/us/stat/37/736]; 1939 Reorg. Plan No. II, § 4(e), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433].)
 
  __Codification__ 
 
-    R.S. §§ 1973, 1975 derived from [act Mar. 5, 1872, ch. 31, § 1][/us/act/1872-03-05/ch31/s1], [17 Stat. 35][/us/stat/17/35].
+    R.S. §§ 1973, 1975 derived from [act Mar. 5, 1872, ch. 31][/us/act/1872-03-05/ch31], § 1, [17 Stat. 35][/us/stat/17/35].
 
     R.S. § 1973 read as follows: “The Secretary of the Treasury is authorized to appoint one agent and three assistant agents, who shall be charged with the management of the seal fisheries in Alaska, and the performance of such other duties as may be assigned to them by the Secretary of the Treasury.”
 
@@ -50,12 +50,12 @@
 ----------
 ----------
 
-[/us/act/1903-02-14/ch552/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-14%2Fch552%2Fs7
+[/us/act/1903-02-14/ch552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-14%2Fch552
 [/us/stat/32/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F828
-[/us/act/1913-03-04/ch141/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141%2Fs1
+[/us/act/1913-03-04/ch141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141
 [/us/stat/37/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F736
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
-[/us/act/1872-03-05/ch31/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-03-05%2Fch31%2Fs1
+[/us/act/1872-03-05/ch31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-03-05%2Fch31
 [/us/stat/17/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F35
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 [/us/stat/54/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1232

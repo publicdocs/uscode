@@ -17,7 +17,7 @@
 
     The land exchange authority relating to Theodore Roosevelt National Park prescribed by sections 241b and 243 of this title shall be applicable also to the lands described in [section 241c of this title][/us/usc/t16/s241c].
 
-([Mar. 24, 1956, ch. 94, § 4][/us/act/1956-03-24/ch94/s4], [70 Stat. 57][/us/stat/70/57]; [Pub. L. 95–625, title VI, § 610][/us/pl/95/625/s610], Nov. 10, 1978, [92 Stat. 3521][/us/stat/92/3521].)
+([Mar. 24, 1956, ch. 94][/us/act/1956-03-24/ch94], § 4, [70 Stat. 57][/us/stat/70/57]; [Pub. L. 95–625, title VI][/us/pl/95/625/tVI], § 610, Nov. 10, 1978, [92 Stat. 3521][/us/stat/92/3521].)
 
  __Codification__ 
 
@@ -25,7 +25,7 @@
 
  __Change of Name__ 
 
-    Theodore Roosevelt National Memorial Park redesignated Theodore Roosevelt National Park pursuant to [Pub. L. 95–625, title VI, § 610][/us/pl/95/625/s610], Nov. 10, 1978, [92 Stat. 3521][/us/stat/92/3521], which is classified to [section 241g of this title][/us/usc/t16/s241g].
+    Theodore Roosevelt National Memorial Park redesignated Theodore Roosevelt National Park pursuant to [Pub. L. 95–625, title VI][/us/pl/95/625/tVI], § 610, Nov. 10, 1978, [92 Stat. 3521][/us/stat/92/3521], which is classified to [section 241g of this title][/us/usc/t16/s241g].
 
 ----------
 
@@ -35,13 +35,13 @@
 ----------
 
 [/us/usc/t16/s241c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs241c
-[/us/act/1956-03-24/ch94/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-03-24%2Fch94%2Fs4
+[/us/act/1956-03-24/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-03-24%2Fch94
 [/us/stat/70/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F57
-[/us/pl/95/625/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs610
+[/us/pl/95/625/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtVI
 [/us/stat/92/3521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3521
 [/us/act/1947-04-25/ch41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-04-25%2Fch41
 [/us/stat/61/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F52
-[/us/pl/95/625/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs610
+[/us/pl/95/625/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtVI
 [/us/stat/92/3521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3521
 [/us/usc/t16/s241g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs241g
 

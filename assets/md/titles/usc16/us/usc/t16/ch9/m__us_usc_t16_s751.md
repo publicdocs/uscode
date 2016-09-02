@@ -17,7 +17,7 @@
 
     In connection with the establishment of such fish-rescue station there is authorized the following personnel, namely: One district supervisor, to have general charge of fish-rescue and fish-cultural operations in the Mississippi Valley; a superintendent, two field foremen, four fish-culturists at large, one engineer at large, one clerk, two coxswains at large, and two apprentice fish-culturists.
 
-([Apr. 28, 1922, ch. 153, § 2][/us/act/1922-04-28/ch153/s2], [42 Stat. 501][/us/stat/42/501].)
+([Apr. 28, 1922, ch. 153][/us/act/1922-04-28/ch153], § 2, [42 Stat. 501][/us/stat/42/501].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1922-04-28/ch153/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-04-28%2Fch153%2Fs2
+[/us/act/1922-04-28/ch153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-04-28%2Fch153
 [/us/stat/42/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F501
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

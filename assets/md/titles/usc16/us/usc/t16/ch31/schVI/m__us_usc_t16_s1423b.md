@@ -49,7 +49,7 @@
 
             If necessary to carry out this subchapter and the Agreement, and to improve compliance with any annual taking limit or other restriction on taking adopted by the Commission and implemented by the Secretary in accordance with this subchapter, the Secretary may promulgate regulations that adopt any ordinance or regulation that restricts the taking of polar bears for subsistence purposes if the ordinance or regulation has been promulgated by the Alaska Nanuuq Commission.
 
-([Pub. L. 92–522, title V, § 503][/us/pl/92/522/s503], as added [Pub. L. 109–479, title IX, § 902(a)][/us/pl/109/479/s902/a], Jan. 12, 2007, [120 Stat. 3662][/us/stat/120/3662].)
+([Pub. L. 92–522, title V][/us/pl/92/522/tV], § 503, as added [Pub. L. 109–479, title IX][/us/pl/109/479/tIX], § 902(a), Jan. 12, 2007, [120 Stat. 3662][/us/stat/120/3662].)
 
 ----------
 
@@ -60,8 +60,8 @@
 
 [/us/usc/t16/s3375/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3375%2Fb
 [/us/usc/t16/s1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1376
-[/us/pl/92/522/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs503
-[/us/pl/109/479/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs902%2Fa
+[/us/pl/92/522/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtV
+[/us/pl/109/479/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtIX
 [/us/stat/120/3662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3662
 
 

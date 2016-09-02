@@ -17,7 +17,7 @@
 
     In order to improve Federal law enforcement activities relating to the use and production of narcotics and controlled substances on lands administered by the Forest Service, from amounts appropriated there shall be made available to the Secretary, in addition to sums made available under other authority of law, $10,000,000 for fiscal year 1989, and for each fiscal year thereafter, to be used for employment and training of additional and existing Forest Service law enforcement personnel, for expenses related to such employment, training, equipment, and facilities, and for cooperative programs with State and local law enforcement agencies.
 
-([Pub. L. 99–570, title XV, § 15006][/us/pl/99/570/s15006], Oct. 27, 1986, [100 Stat. 3207–192][/us/stat/100/3207-192]; [Pub. L. 100–690, title VI, § 6254(d)(1)][/us/pl/100/690/s6254/d/1], Nov. 18, 1988, [102 Stat. 4364][/us/stat/102/4364].)
+([Pub. L. 99–570, title XV][/us/pl/99/570/tXV], § 15006, Oct. 27, 1986, [100 Stat. 3207–192][/us/stat/100/3207-192]; [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6254(d)(1), Nov. 18, 1988, [102 Stat. 4364][/us/stat/102/4364].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/99/570/s15006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs15006
+[/us/pl/99/570/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtXV
 [/us/stat/100/3207-192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-192
-[/us/pl/100/690/s6254/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6254%2Fd%2F1
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4364
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 

@@ -37,7 +37,7 @@
 
             The Secretary shall permanently retire all grazing permits applicable to certain lands in the Wilderness Area, as depicted on the map referred to in [section 460nnn–11(a) of this title][/us/usc/t16/s460nnn–11/a], and livestock shall be excluded from these lands.
 
-([Pub. L. 106–399, title II, § 202][/us/pl/106/399/s202], Oct. 30, 2000, [114 Stat. 1666][/us/stat/114/1666].)
+([Pub. L. 106–399, title II][/us/pl/106/399/tII], § 202, Oct. 30, 2000, [114 Stat. 1666][/us/stat/114/1666].)
 
  __References in Text__ 
 
@@ -58,7 +58,7 @@
 [/us/usc/t16/s460nnn–23/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460nnn%E2%80%9323%2Fe%2F2
 [/us/usc/t16/s1133/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1133%2Fd%2F4
 [/us/usc/t16/s460nnn–11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460nnn%E2%80%9311%2Fa
-[/us/pl/106/399/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2Fs202
+[/us/pl/106/399/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2FtII
 [/us/stat/114/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1666
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890

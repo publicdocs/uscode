@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated such sums as may be necessary to carry out the purpose of this subchapter.
 
-([Pub. L. 100–534, title II, § 204][/us/pl/100/534/s204], Oct. 26, 1988, [102 Stat. 2704][/us/stat/102/2704].)
+([Pub. L. 100–534, title II][/us/pl/100/534/tII], § 204, Oct. 26, 1988, [102 Stat. 2704][/us/stat/102/2704].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/534/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F534%2Fs204
+[/us/pl/100/534/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F534%2FtII
 [/us/stat/102/2704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2704
 
 

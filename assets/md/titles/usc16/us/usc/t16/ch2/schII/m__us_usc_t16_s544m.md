@@ -95,7 +95,7 @@
 
             (D) any civil penalties assessed by the Commission pursuant to subsection (a)(3) of this section.
 
-([Pub. L. 99–663, § 15][/us/pl/99/663/s15], Nov. 17, 1986, [100 Stat. 4297][/us/stat/100/4297].)
+([Pub. L. 99–663][/us/pl/99/663], § 15, Nov. 17, 1986, [100 Stat. 4297][/us/stat/100/4297].)
 
 ----------
 
@@ -106,7 +106,7 @@
 
 [/us/usc/t16/s544d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs544d
 [/us/usc/t16/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs551
-[/us/pl/99/663/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663%2Fs15
+[/us/pl/99/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663
 [/us/stat/100/4297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4297
 
 

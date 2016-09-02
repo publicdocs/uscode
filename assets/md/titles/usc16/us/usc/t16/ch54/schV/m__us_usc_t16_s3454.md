@@ -37,7 +37,7 @@
 
             A coordinator for a council shall be directly responsible for the provision of technical assistance to the council.
 
-([Pub. L. 97–98, title XV, § 1531][/us/pl/97/98/s1531], as added [Pub. L. 107–171, title II, § 2504][/us/pl/107/171/s2504], May 13, 2002, [116 Stat. 272][/us/stat/116/272]; amended [Pub. L. 110–234, title II, § 2805(c)][/us/pl/110/234/s2805/c], May 22, 2008, [122 Stat. 1088][/us/stat/122/1088]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2805(c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1816.)
+([Pub. L. 97–98, title XV][/us/pl/97/98/tXV], § 1531, as added [Pub. L. 107–171, title II][/us/pl/107/171/tII], § 2504, May 13, 2002, [116 Stat. 272][/us/stat/116/272]; amended [Pub. L. 110–234, title II][/us/pl/110/234/tII], § 2805(c), May 22, 2008, [122 Stat. 1088][/us/stat/122/1088]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title II, § 2805(c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1816.)
 
  __Codification__ 
 
@@ -45,11 +45,11 @@
 
  __Prior Provisions__ 
 
-    A prior section 3454, [Pub. L. 97–98, title XV, § 1531][/us/pl/97/98/s1531], Dec. 22, 1981, [95 Stat. 1339][/us/stat/95/1339], related to selection of designated areas for assistance, prior to the general amendment of this subchapter by [Pub. L. 107–171][/us/pl/107/171].
+    A prior section 3454, [Pub. L. 97–98, title XV][/us/pl/97/98/tXV], § 1531, Dec. 22, 1981, [95 Stat. 1339][/us/stat/95/1339], related to selection of designated areas for assistance, prior to the general amendment of this subchapter by [Pub. L. 107–171][/us/pl/107/171].
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–246, § 2805(c)][/us/pl/110/246/s2805/c], designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 2805(c), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -63,21 +63,21 @@
 ----------
 
 [/us/usc/t16/s3455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3455
-[/us/pl/97/98/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1531
-[/us/pl/107/171/s2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2504
+[/us/pl/97/98/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXV
+[/us/pl/107/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtII
 [/us/stat/116/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F272
-[/us/pl/110/234/s2805/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2805%2Fc
+[/us/pl/110/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtII
 [/us/stat/122/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1088
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/97/98/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1531
+[/us/pl/97/98/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXV
 [/us/stat/95/1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1339
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
-[/us/pl/110/246/s2805/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2805%2Fc
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

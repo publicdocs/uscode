@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to acquire lands and interests in lands within the revised boundaries of the Coronado National Memorial by purchase, donation, with donated funds, or by such other means as he may consider to be in the public interest. Lands and interests in lands acquired pursuant to this Act shall become a part of the Memorial and be administered by the Secretary of the Interior in accordance with the provisions of the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended, and pursuant to sections 450y–1 to 450y–3 of this title.
 
-([Pub. L. 86–689, § 2][/us/pl/86/689/s2], Sept. 2, 1960, [74 Stat. 737][/us/stat/74/737].)
+([Pub. L. 86–689][/us/pl/86/689], § 2, Sept. 2, 1960, [74 Stat. 737][/us/stat/74/737].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
-[/us/pl/86/689/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F689%2Fs2
+[/us/pl/86/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F689
 [/us/stat/74/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F737
 [/us/pl/86/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F689
 [/us/usc/t16/s17j–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs17j%E2%80%932

@@ -119,7 +119,7 @@
 
         The President shall utilize appropriate assets of the Department of Defense, the United States Coast Guard, and other Federal agencies to detect, monitor, and prevent violations of the United Nations moratorium on large-scale driftnet fishing on the high seas for all fisheries under the jurisdiction of the United States and, in the case of fisheries not under the jurisdiction of the United States, to the fullest extent permitted under international law.
 
-([Pub. L. 104–43, title VI, § 606][/us/pl/104/43/s606], Nov. 3, 1995, [109 Stat. 392][/us/stat/109/392]; [Pub. L. 114–81, title I, § 101(a)(1)][/us/pl/114/81/s101/a/1], Nov. 5, 2015, [129 Stat. 650][/us/stat/129/650].)
+([Pub. L. 104–43, title VI][/us/pl/104/43/tVI], § 606, Nov. 3, 1995, [109 Stat. 392][/us/stat/109/392]; [Pub. L. 114–81, title I][/us/pl/114/81/tI], § 101(a)(1), Nov. 5, 2015, [129 Stat. 650][/us/stat/129/650].)
 
  __References in Text__ 
 
@@ -127,19 +127,19 @@
 
     The Pacific Salmon Treaty Act of 1985, referred to in subsec. (b)(1), is [Pub. L. 99–5][/us/pl/99/5], Mar. 15, 1985, [99 Stat. 7][/us/stat/99/7], which is classified generally to chapter 56A (§ 3631 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3631 of this title][/us/usc/t16/s3631] and Tables.
 
-    The Dolphin Protection Consumer Information Act, referred to in subsec. (b)(2), is [Pub. L. 101–627, title IX, § 901][/us/pl/101/627/s901], Nov. 28, 1990, [104 Stat. 4465][/us/stat/104/4465], which is classified to [section 1385 of this title][/us/usc/t16/s1385]. For complete classification of this Act to the Code, see Tables.
+    The Dolphin Protection Consumer Information Act, referred to in subsec. (b)(2), is [Pub. L. 101–627, title IX][/us/pl/101/627/tIX], § 901, Nov. 28, 1990, [104 Stat. 4465][/us/stat/104/4465], which is classified to [section 1385 of this title][/us/usc/t16/s1385]. For complete classification of this Act to the Code, see Tables.
 
     The Tuna Conventions Act of 1950, referred to in subsec. (b)(3), is [act Sept. 7, 1950, ch. 907][/us/act/1950-09-07/ch907], [64 Stat. 777][/us/stat/64/777] , which is classified generally to chapter 16 (§951 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 951 of this title][/us/usc/t16/s951] and Tables.
 
-    The North Pacific Anadromous Stocks Act of 1992, referred to in subsec. (b)(4), is [Pub. L. 102–567, title VIII][/us/pl/102/567], Oct. 29, 1992, [106 Stat. 4309][/us/stat/106/4309], which is classified generally to chapter 70 (§ 5001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5001 of this title][/us/usc/t16/s5001] and Tables.
+    The North Pacific Anadromous Stocks Act of 1992, referred to in subsec. (b)(4), is [Pub. L. 102–567, title VIII][/us/pl/102/567/tVIII], Oct. 29, 1992, [106 Stat. 4309][/us/stat/106/4309], which is classified generally to chapter 70 (§ 5001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5001 of this title][/us/usc/t16/s5001] and Tables.
 
     The Atlantic Tunas Convention Act of 1975, referred to in subsecs. (b)(5) and (d)(2)(A), is [Pub. L. 94–70][/us/pl/94/70], Aug. 5, 1975, [89 Stat. 385][/us/stat/89/385], which is classified generally to chapter 16A (§ 971 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 971 of this title][/us/usc/t16/s971] and Tables.
 
-    The Northwest Atlantic Fisheries Convention Act of 1995, referred to in subsec. (b)(6), is [Pub. L. 104–43, title II][/us/pl/104/43], Nov. 3, 1995, [109 Stat. 377][/us/stat/109/377], which is classified generally to chapter 76 (§ 5601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5601 of this title][/us/usc/t16/s5601] and Tables.
+    The Northwest Atlantic Fisheries Convention Act of 1995, referred to in subsec. (b)(6), is [Pub. L. 104–43, title II][/us/pl/104/43/tII], Nov. 3, 1995, [109 Stat. 377][/us/stat/109/377], which is classified generally to chapter 76 (§ 5601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5601 of this title][/us/usc/t16/s5601] and Tables.
 
-    The Western and Central Pacific Fisheries Convention Implementation Act, referred to in subsecs. (b)(7) and (d)(2)(A), is [Pub. L. 109–479, title V][/us/pl/109/479], Jan. 12, 2007, [120 Stat. 3635][/us/stat/120/3635], which is classified generally to chapter 88 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t16/s6901] and Tables.
+    The Western and Central Pacific Fisheries Convention Implementation Act, referred to in subsecs. (b)(7) and (d)(2)(A), is [Pub. L. 109–479, title V][/us/pl/109/479/tV], Jan. 12, 2007, [120 Stat. 3635][/us/stat/120/3635], which is classified generally to chapter 88 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t16/s6901] and Tables.
 
-    The Antigua Convention Implementing Act of 2015, referred to in subsec. (b)(8), is [Pub. L. 114–81, title II][/us/pl/114/81], Nov. 5, 2015, [129 Stat. 660][/us/stat/129/660]. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under [section 951 of this title][/us/usc/t16/s951] and Tables.
+    The Antigua Convention Implementing Act of 2015, referred to in subsec. (b)(8), is [Pub. L. 114–81, title II][/us/pl/114/81/tII], Nov. 5, 2015, [129 Stat. 660][/us/stat/129/660]. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under [section 951 of this title][/us/usc/t16/s951] and Tables.
 
     The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (d)(2)(A), is [Pub. L. 94–265][/us/pl/94/265], Apr. 13, 1976, [90 Stat. 331][/us/stat/90/331], which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title][/us/usc/t16/s1801] and Tables.
 
@@ -178,9 +178,9 @@
 [/us/usc/t16/s1881a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1881a
 [/us/usc/t16/s1858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1858
 [/us/usc/t16/s1859/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1859%2Fb
-[/us/pl/104/43/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs606
+[/us/pl/104/43/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtVI
 [/us/stat/109/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F392
-[/us/pl/114/81/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs101%2Fa%2F1
+[/us/pl/114/81/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2FtI
 [/us/stat/129/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F650
 [/us/pl/104/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43
 [/us/stat/109/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F391
@@ -188,25 +188,25 @@
 [/us/pl/99/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5
 [/us/stat/99/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F7
 [/us/usc/t16/s3631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3631
-[/us/pl/101/627/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs901
+[/us/pl/101/627/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtIX
 [/us/stat/104/4465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4465
 [/us/usc/t16/s1385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1385
 [/us/act/1950-09-07/ch907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-07%2Fch907
 [/us/stat/64/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F777
 [/us/usc/t16/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs951
-[/us/pl/102/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567
+[/us/pl/102/567/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtVIII
 [/us/stat/106/4309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4309
 [/us/usc/t16/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5001
 [/us/pl/94/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F70
 [/us/stat/89/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F385
 [/us/usc/t16/s971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs971
-[/us/pl/104/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43
+[/us/pl/104/43/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtII
 [/us/stat/109/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F377
 [/us/usc/t16/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5601
-[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtV
 [/us/stat/120/3635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3635
 [/us/usc/t16/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6901
-[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
+[/us/pl/114/81/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2FtII
 [/us/stat/129/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F660
 [/us/usc/t16/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs951
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265

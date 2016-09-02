@@ -17,7 +17,7 @@
 
     Where any Federal lands included within the Canyonlands National Park are legally occupied or utilized on the date of approval of this Act or any amendment thereto for grazing purposes, pursuant to a lease, permit, or license for a fixed term of years issued or authorized by any department, establishment, or agency of the United States, the Secretary of the Interior shall permit the persons holding such grazing privileges to continue in the exercise thereof during the term of the lease, permit, or license, and one period of renewal thereafter.
 
-([Pub. L. 88–590, § 3][/us/pl/88/590/s3], Sept. 12, 1964, [78 Stat. 938][/us/stat/78/938]; [Pub. L. 92–154, § 1(c)][/us/pl/92/154/s1/c], Nov. 12, 1971, [85 Stat. 421][/us/stat/85/421].)
+([Pub. L. 88–590][/us/pl/88/590], § 3, Sept. 12, 1964, [78 Stat. 938][/us/stat/78/938]; [Pub. L. 92–154][/us/pl/92/154], § 1(c), Nov. 12, 1971, [85 Stat. 421][/us/stat/85/421].)
 
  __References in Text__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/88/590/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F590%2Fs3
+[/us/pl/88/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F590
 [/us/stat/78/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F938
-[/us/pl/92/154/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F154%2Fs1%2Fc
+[/us/pl/92/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F154
 [/us/stat/85/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F421
 [/us/pl/88/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F590
 [/us/pl/92/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F154

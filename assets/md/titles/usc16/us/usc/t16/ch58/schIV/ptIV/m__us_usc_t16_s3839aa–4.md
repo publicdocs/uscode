@@ -41,7 +41,7 @@
 
     (6) to comply with such additional provisions as the Secretary determines are necessary to carry out the program plan.
 
-([Pub. L. 99–198, title XII, § 1240D][/us/pl/99/198/s1240D], as added [Pub. L. 107–171, title II, § 2301][/us/pl/107/171/s2301], May 13, 2002, [116 Stat. 256][/us/stat/116/256]; amended [Pub. L. 110–234, title II, § 2505][/us/pl/110/234/s2505], May 22, 2008, [122 Stat. 1062][/us/stat/122/1062]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2505, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1790; [Pub. L. 113–79, title II, § 2205][/us/pl/113/79/s2205], Feb. 7, 2014, [128 Stat. 730][/us/stat/128/730].)
+([Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1240D, as added [Pub. L. 107–171, title II][/us/pl/107/171/tII], § 2301, May 13, 2002, [116 Stat. 256][/us/stat/116/256]; amended [Pub. L. 110–234, title II][/us/pl/110/234/tII], § 2505, May 22, 2008, [122 Stat. 1062][/us/stat/122/1062]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title II, § 2505, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1790; [Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2205, Feb. 7, 2014, [128 Stat. 730][/us/stat/128/730].)
 
  __Codification__ 
 
@@ -49,17 +49,17 @@
 
  __Prior Provisions__ 
 
-    A prior section 3839aa–4, [Pub. L. 99–198, title XII, § 1240D][/us/pl/99/198/s1240D], as added [Pub. L. 104–127, title III, § 334][/us/pl/104/127/s334], Apr. 4, 1996, [110 Stat. 1000][/us/stat/110/1000], related to duties of producers, prior to the general amendment of this part by [Pub. L. 107–171][/us/pl/107/171].
+    A prior section 3839aa–4, [Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1240D, as added [Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 334, Apr. 4, 1996, [110 Stat. 1000][/us/stat/110/1000], related to duties of producers, prior to the general amendment of this part by [Pub. L. 107–171][/us/pl/107/171].
 
  __Amendments__ 
 
     2014—Par. (2). [Pub. L. 113–79][/us/pl/113/79] substituted “enrolled” for “farm, ranch, or forest”.
 
-    2008—[Pub. L. 110–246, § 2505(1)][/us/pl/110/246/s2505/1], struck out “technical assistance, cost-share payments, or incentive” before “payments” in introductory provisions.
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 2505(1), struck out “technical assistance, cost-share payments, or incentive” before “payments” in introductory provisions.
 
-    Par. (2). [Pub. L. 110–246, § 2505(2)][/us/pl/110/246/s2505/2], substituted “farm, ranch, or forest land” for “farm or ranch”.
+    Par. (2). [Pub. L. 110–246][/us/pl/110/246], § 2505(2), substituted “farm, ranch, or forest land” for “farm or ranch”.
 
-    Par. (4). [Pub. L. 110–246, § 2505(3)][/us/pl/110/246/s2505/3], struck out “cost-share payments and incentive” before “payments”.
+    Par. (4). [Pub. L. 110–246][/us/pl/110/246], § 2505(3), struck out “cost-share payments and incentive” before “payments”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -72,27 +72,27 @@
 ----------
 ----------
 
-[/us/pl/99/198/s1240D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1240D
-[/us/pl/107/171/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2301
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/107/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtII
 [/us/stat/116/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F256
-[/us/pl/110/234/s2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2505
+[/us/pl/110/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtII
 [/us/stat/122/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1062
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2205
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F730
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/99/198/s1240D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1240D
-[/us/pl/104/127/s334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs334
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1000
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/110/246/s2505/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2505%2F1
-[/us/pl/110/246/s2505/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2505%2F2
-[/us/pl/110/246/s2505/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2505%2F3
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

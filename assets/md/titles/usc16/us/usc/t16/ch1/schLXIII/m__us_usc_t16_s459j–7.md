@@ -17,7 +17,7 @@
 
     Within three years from January 3, 1975, the Secretary shall review the area within the seashore and shall report to the President, in accordance with section 1132(c) and (d) of this title, his recommendations as to the suitability or nonsuitability of any area within the seashore for preservation as wilderness, and any designation of any such areas as a wilderness shall be accomplished in accordance with section 1132(c) and (d) of this title.
 
-([Pub. L. 93–626, § 8][/us/pl/93/626/s8], Jan. 3, 1975, [88 Stat. 2125][/us/stat/88/2125].)
+([Pub. L. 93–626][/us/pl/93/626], § 8, Jan. 3, 1975, [88 Stat. 2125][/us/stat/88/2125].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/626/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F626%2Fs8
+[/us/pl/93/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F626
 [/us/stat/88/2125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2125
 
 

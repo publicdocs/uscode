@@ -17,7 +17,7 @@
 
     In establishing catch allocations under international fisheries agreements, the Secretary, in consultation with the Secretary of the Department in which the Coast Guard is operating, and the Secretary of State, shall ensure that all catch history associated with a vessel of the United States remains with the United States and is not transferred or credited to any other nation or vessel of such nation, including when a vessel of the United States is sold or transferred to a citizen of another nation or to an entity controlled by citizens of another nation.
 
-([Pub. L. 109–479, title IV, § 407][/us/pl/109/479/s407], Jan. 12, 2007, [120 Stat. 3634][/us/stat/120/3634].)
+([Pub. L. 109–479, title IV][/us/pl/109/479/tIV], § 407, Jan. 12, 2007, [120 Stat. 3634][/us/stat/120/3634].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/109/479/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs407
+[/us/pl/109/479/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtIV
 [/us/stat/120/3634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3634
 
 

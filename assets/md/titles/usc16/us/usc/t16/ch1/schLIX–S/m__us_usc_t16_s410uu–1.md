@@ -49,7 +49,7 @@
 
         (3) The Secretary may acquire lands added by subsection (a)(5) only from willing sellers.
 
-([Pub. L. 102–294, § 2][/us/pl/102/294/s2], May 27, 1992, [106 Stat. 185][/us/stat/106/185]; [Pub. L. 111–11, title VII, § 7104][/us/pl/111/11/s7104], Mar. 30, 2009, [123 Stat. 1191][/us/stat/123/1191].)
+([Pub. L. 102–294][/us/pl/102/294], § 2, May 27, 1992, [106 Stat. 185][/us/stat/106/185]; [Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7104, Mar. 30, 2009, [123 Stat. 1191][/us/stat/123/1191].)
 
  __References in Text__ 
 
@@ -57,9 +57,9 @@
 
  __Amendments__ 
 
-    2009—Subsec. (a)(5). [Pub. L. 111–11, § 7104(1)][/us/pl/111/11/s7104/1]–(3), added par. (5).
+    2009—Subsec. (a)(5). [Pub. L. 111–11][/us/pl/111/11], § 7104(1)–(3), added par. (5).
 
-    Subsec. (d)(3). [Pub. L. 111–11, § 7104(4)][/us/pl/111/11/s7104/4], added par. (3).
+    Subsec. (d)(3). [Pub. L. 111–11][/us/pl/111/11], § 7104(4), added par. (3).
 
 ----------
 
@@ -69,14 +69,14 @@
 ----------
 
 [/us/usc/t42/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4601
-[/us/pl/102/294/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F294%2Fs2
+[/us/pl/102/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F294
 [/us/stat/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F185
-[/us/pl/111/11/s7104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7104
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1191
 [/us/pl/91/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646
 [/us/stat/84/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1894
 [/us/usc/t42/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4601
-[/us/pl/111/11/s7104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7104%2F1
-[/us/pl/111/11/s7104/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7104%2F4
+[/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
+[/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 
 

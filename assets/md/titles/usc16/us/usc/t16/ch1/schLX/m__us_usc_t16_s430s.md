@@ -25,7 +25,7 @@
 
     No funds authorized to be appropriated pursuant to this section shall be available prior to October 1, 1977.
 
-([June 21, 1934, ch. 694, § 10][/us/act/1934-06-21/ch694/s10], [48 Stat. 1200][/us/stat/48/1200]; [Pub. L. 94–578, title III, § 319(9)][/us/pl/94/578/s319/9], Oct. 21, 1976, [90 Stat. 2739][/us/stat/90/2739].)
+([June 21, 1934, ch. 694][/us/act/1934-06-21/ch694], § 10, [48 Stat. 1200][/us/stat/48/1200]; [Pub. L. 94–578, title III][/us/pl/94/578/tIII], § 319(9), Oct. 21, 1976, [90 Stat. 2739][/us/stat/90/2739].)
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 
  __Authorization of Appropriations for Additional Land Acquisition__ 
 
-[Pub. L. 102–202, § 1][/us/pl/102/202/s1], Dec. 10, 1991, [105 Stat. 1634][/us/stat/105/1634], provided that: 
+[Pub. L. 102–202][/us/pl/102/202], § 1, Dec. 10, 1991, [105 Stat. 1634][/us/stat/105/1634], provided that: 
 
 > “There are authorized to be appropriated up to $20,000,000 for acqusition \[sic\] of lands and interests in lands for purposes of the Monocacy National Battlefield, Maryland; such sums shall be in addition to other funds available for such purposes.”
 
@@ -50,12 +50,12 @@
 ----------
 ----------
 
-[/us/act/1934-06-21/ch694/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-21%2Fch694%2Fs10
+[/us/act/1934-06-21/ch694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-21%2Fch694
 [/us/stat/48/1200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1200
-[/us/pl/94/578/s319/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2Fs319%2F9
+[/us/pl/94/578/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2FtIII
 [/us/stat/90/2739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2739
 [/us/pl/94/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578
-[/us/pl/102/202/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F202%2Fs1
+[/us/pl/102/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F202
 [/us/stat/105/1634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1634
 
 

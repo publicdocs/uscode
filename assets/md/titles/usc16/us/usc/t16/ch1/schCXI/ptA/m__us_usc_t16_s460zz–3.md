@@ -35,7 +35,7 @@
 
             (B) In planning for the development and public use of the Area, the Secretary shall consult with the Secretary of the Army to assure that public use of adjacent or related water resource developments or flood control projects and that of the Area are compatible.
 
-([Pub. L. 100–696, title VII, § 704][/us/pl/100/696/s704], Nov. 18, 1988, [102 Stat. 4604][/us/stat/102/4604].)
+([Pub. L. 100–696, title VII][/us/pl/100/696/tVII], § 704, Nov. 18, 1988, [102 Stat. 4604][/us/stat/102/4604].)
 
  __Transfer of Functions__ 
 
@@ -51,7 +51,7 @@
 [/us/usc/t16/s460zz–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460zz%E2%80%931
 [/us/usc/t16/s460zz–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460zz%E2%80%932
 [/us/usc/t16/s460zz–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460zz%E2%80%932
-[/us/pl/100/696/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2Fs704
+[/us/pl/100/696/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2FtVII
 [/us/stat/102/4604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4604
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

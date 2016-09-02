@@ -35,21 +35,21 @@
 
         Notwithstanding any other provision of law, no fee or admission charge may be levied for admission of the general public to the seashore.
 
-([Pub. L. 87–657, § 5][/us/pl/87/657/s5], formerly § 6, Sept. 13, 1962, [76 Stat. 541][/us/stat/76/541]; renumbered § 5, [Pub. L. 91–223, § 2(c)][/us/pl/91/223/s2/c], Apr. 3, 1970, [84 Stat. 90][/us/stat/84/90]; amended [Pub. L. 95–625, title III, § 318(b)][/us/pl/95/625/s318/b]–(d), Nov. 10, 1978, [92 Stat. 3487][/us/stat/92/3487]; [Pub. L. 96–199, title I, § 101(a)(2)][/us/pl/96/199/s101/a/2]–(4), Mar. 5, 1980, [94 Stat. 67][/us/stat/94/67].)
+([Pub. L. 87–657][/us/pl/87/657], § 5, formerly § 6, Sept. 13, 1962, [76 Stat. 541][/us/stat/76/541]; renumbered § 5, [Pub. L. 91–223][/us/pl/91/223], § 2(c), Apr. 3, 1970, [84 Stat. 90][/us/stat/84/90]; amended [Pub. L. 95–625, title III][/us/pl/95/625/tIII], § 318(b)–(d), Nov. 10, 1978, [92 Stat. 3487][/us/stat/92/3487]; [Pub. L. 96–199, title I][/us/pl/96/199/tI], § 101(a)(2)–(4), Mar. 5, 1980, [94 Stat. 67][/us/stat/94/67].)
 
  __Amendments__ 
 
-    1980—Subsec. (a). [Pub. L. 96–199, § 101(a)(2)][/us/pl/96/199/s101/a/2], substituted “Except for property which the Secretary specifically determines is needed for interpretive or resources management purposes of the seashore, the” for “The” in first sentence.
+    1980—Subsec. (a). [Pub. L. 96–199][/us/pl/96/199], § 101(a)(2), substituted “Except for property which the Secretary specifically determines is needed for interpretive or resources management purposes of the seashore, the” for “The” in first sentence.
 
-    Subsec. (b). [Pub. L. 96–199, § 101(a)(3)][/us/pl/96/199/s101/a/3], inserted “or, in the case of areas inserted by action of the Ninety-sixth Congress, May 1, 1979,” after “May 1, 1978” and “that were in existence or under construction as of May 1, 1978” after “related to the above uses of the property”.
+    Subsec. (b). [Pub. L. 96–199][/us/pl/96/199], § 101(a)(3), inserted “or, in the case of areas inserted by action of the Ninety-sixth Congress, May 1, 1979,” after “May 1, 1978” and “that were in existence or under construction as of May 1, 1978” after “related to the above uses of the property”.
 
-    Subsecs. (d), (e). [Pub. L. 96–199, § 101(a)(4)][/us/pl/96/199/s101/a/4], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 96–199][/us/pl/96/199], § 101(a)(4), added subsecs. (d) and (e).
 
-    1978—Subsec. (a). [Pub. L. 95–625, § 318(b)][/us/pl/95/625/s318/b], extended provision to agricultural property; provided for: retention rights of heirs and assigns, retention rights for term of twenty-five years or for term ending with death of owner or spouse, whichever was later, as elected by owner, which provision previously authorized retention for term of fifty years, termination of right of retention and notice thereof, and for lease of federally owned lands, subject to restrictive covenants, with first offer to prior owner or leaseholder; and included clause relating to donation of property to the United States.
+    1978—Subsec. (a). [Pub. L. 95–625][/us/pl/95/625], § 318(b), extended provision to agricultural property; provided for: retention rights of heirs and assigns, retention rights for term of twenty-five years or for term ending with death of owner or spouse, whichever was later, as elected by owner, which provision previously authorized retention for term of fifty years, termination of right of retention and notice thereof, and for lease of federally owned lands, subject to restrictive covenants, with first offer to prior owner or leaseholder; and included clause relating to donation of property to the United States.
 
-    Subsec. (b). [Pub. L. 95–625, § 318(c)][/us/pl/95/625/s318/c], defined “improved property” to include private dwelling, the construction of which was begun, in the case of areas added by action of the Ninety-fifth Congress, October 1, 1978, and included definition of “agricultural property”.
+    Subsec. (b). [Pub. L. 95–625][/us/pl/95/625], § 318(c), defined “improved property” to include private dwelling, the construction of which was begun, in the case of areas added by action of the Ninety-fifth Congress, October 1, 1978, and included definition of “agricultural property”.
 
-    Subsec. (c). [Pub. L. 95–625, § 318(d)][/us/pl/95/625/s318/d], added subsec. (c).
+    Subsec. (c). [Pub. L. 95–625][/us/pl/95/625], § 318(d), added subsec. (c).
 
 ----------
 
@@ -58,19 +58,19 @@
 ----------
 ----------
 
-[/us/pl/87/657/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F657%2Fs5
+[/us/pl/87/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F657
 [/us/stat/76/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F541
-[/us/pl/91/223/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F223%2Fs2%2Fc
+[/us/pl/91/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F223
 [/us/stat/84/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F90
-[/us/pl/95/625/s318/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs318%2Fb
+[/us/pl/95/625/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtIII
 [/us/stat/92/3487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3487
-[/us/pl/96/199/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199%2Fs101%2Fa%2F2
+[/us/pl/96/199/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199%2FtI
 [/us/stat/94/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F67
-[/us/pl/96/199/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199%2Fs101%2Fa%2F2
-[/us/pl/96/199/s101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199%2Fs101%2Fa%2F3
-[/us/pl/96/199/s101/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199%2Fs101%2Fa%2F4
-[/us/pl/95/625/s318/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs318%2Fb
-[/us/pl/95/625/s318/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs318%2Fc
-[/us/pl/95/625/s318/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs318%2Fd
+[/us/pl/96/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199
+[/us/pl/96/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199
+[/us/pl/96/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199
+[/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
+[/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
+[/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
 
 

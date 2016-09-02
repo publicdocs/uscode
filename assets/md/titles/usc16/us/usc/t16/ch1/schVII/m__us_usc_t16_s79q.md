@@ -17,7 +17,7 @@
 
     The Congress further acknowledges and directs that the full faith and credit of the United States is pledged to the prompt payment of just compensation as provided for by the fifth amendment to the Constitution of the United States for those lands and properties taken by this Act.
 
-([Pub. L. 95–250, title I, § 108][/us/pl/95/250/s108], Mar. 27, 1978, [92 Stat. 172][/us/stat/92/172].)
+([Pub. L. 95–250, title I][/us/pl/95/250/tI], § 108, Mar. 27, 1978, [92 Stat. 172][/us/stat/92/172].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/95/250/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250%2Fs108
+[/us/pl/95/250/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250%2FtI
 [/us/stat/92/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F172
 [/us/pl/95/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250
 [/us/stat/92/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F163

@@ -71,17 +71,17 @@
 
         As used in this section, the term “facilities” means only facilities used for the generation or transmission of electric energy.
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 211, as added [Pub. L. 95–617, title II, § 203][/us/pl/95/617/s203], Nov. 9, 1978, [92 Stat. 3136][/us/stat/92/3136]; amended [Pub. L. 96–294, title VI, § 643(a)(3)][/us/pl/96/294/s643/a/3], June 30, 1980, [94 Stat. 770][/us/stat/94/770]; [Pub. L. 99–495, § 15][/us/pl/99/495/s15], Oct. 16, 1986, [100 Stat. 1257][/us/stat/100/1257]; [Pub. L. 102–486, title VII, § 721][/us/pl/102/486/s721], Oct. 24, 1992, [106 Stat. 2915][/us/stat/106/2915]; [Pub. L. 109–58, title XII, § 1295(c)][/us/pl/109/58/s1295/c], Aug. 8, 2005, [119 Stat. 985][/us/stat/119/985].)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 211, as added [Pub. L. 95–617, title II][/us/pl/95/617/tII], § 203, Nov. 9, 1978, [92 Stat. 3136][/us/stat/92/3136]; amended [Pub. L. 96–294, title VI][/us/pl/96/294/tVI], § 643(a)(3), June 30, 1980, [94 Stat. 770][/us/stat/94/770]; [Pub. L. 99–495][/us/pl/99/495], § 15, Oct. 16, 1986, [100 Stat. 1257][/us/stat/100/1257]; [Pub. L. 102–486, title VII][/us/pl/102/486/tVII], § 721, Oct. 24, 1992, [106 Stat. 2915][/us/stat/106/2915]; [Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1295(c), Aug. 8, 2005, [119 Stat. 985][/us/stat/119/985].)
 
  __Amendments__ 
 
-    2005—Subsec. (c). [Pub. L. 109–58, § 1295(c)(1)][/us/pl/109/58/s1295/c/1], struck out par. (2) designation before introductory provisions, redesignated former subpars. (A) and (B) as pars. (1) and (2), respectively, and in par. (2) substituted “termination or modification” for “termination of modification”.
+    2005—Subsec. (c). [Pub. L. 109–58][/us/pl/109/58], § 1295(c)(1), struck out par. (2) designation before introductory provisions, redesignated former subpars. (A) and (B) as pars. (1) and (2), respectively, and in par. (2) substituted “termination or modification” for “termination of modification”.
 
-    Subsec. (d)(1). [Pub. L. 109–58, § 1295(c)(2)][/us/pl/109/58/s1295/c/2], substituted “if the transmitting utility providing” for “if the electric utility providing” in introductory provisions.
+    Subsec. (d)(1). [Pub. L. 109–58][/us/pl/109/58], § 1295(c)(2), substituted “if the transmitting utility providing” for “if the electric utility providing” in introductory provisions.
 
-    1992—Subsec. (a). [Pub. L. 102–486, § 721(1)][/us/pl/102/486/s721/1], amended first sentence generally. Prior to amendment, first sentence read as follows: “Any electric utility, geothermal power producer (including a producer which is not an electric utility), or Federal power marketing agency may apply to the Commission for an order under this subsection requiring any other electric utility to provide transmission services to the applicant (including any enlargement of transmission capacity necessary to provide such services).”
+    1992—Subsec. (a). [Pub. L. 102–486][/us/pl/102/486], § 721(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “Any electric utility, geothermal power producer (including a producer which is not an electric utility), or Federal power marketing agency may apply to the Commission for an order under this subsection requiring any other electric utility to provide transmission services to the applicant (including any enlargement of transmission capacity necessary to provide such services).”
 
-    [Pub. L. 102–486, § 721(2)][/us/pl/102/486/s721/2], in second sentence, substituted “the Commission may issue such order if it finds that such order meets the requirements of [section 824k of this title][/us/usc/t16/s824k], and would otherwise be in the public interest. No order may be issued under this subsection unless the applicant has made a request for transmission services to the transmitting utility that would be the subject of such order at least 60 days prior to its filing of an application for such order.” for “the Commission may issue such order if it finds that such order—
+    [Pub. L. 102–486][/us/pl/102/486], § 721(2), in second sentence, substituted “the Commission may issue such order if it finds that such order meets the requirements of [section 824k of this title][/us/usc/t16/s824k], and would otherwise be in the public interest. No order may be issued under this subsection unless the applicant has made a request for transmission services to the transmitting utility that would be the subject of such order at least 60 days prior to its filing of an application for such order.” for “the Commission may issue such order if it finds that such order—
 
     “(1) is in the public interest,
 
@@ -95,9 +95,9 @@
 
     “(3) meets the requirements of [section 824k of this title][/us/usc/t16/s824k].”
 
-    Subsec. (b). [Pub. L. 102–486, § 721(3)][/us/pl/102/486/s721/3], amended subsec. (b) generally, substituting provisions relating to reliability of electric service for provisions which related to transmission service by sellers of electric energy for resale and notice, hearing, and determinations by Commission.
+    Subsec. (b). [Pub. L. 102–486][/us/pl/102/486], § 721(3), amended subsec. (b) generally, substituting provisions relating to reliability of electric service for provisions which related to transmission service by sellers of electric energy for resale and notice, hearing, and determinations by Commission.
 
-    Subsec. (c). [Pub. L. 102–486, § 721(4)][/us/pl/102/486/s721/4], struck out pars. (1), (3), and (4), and substituted “which requires the transmitting” for “which requires the electric” in introductory provisions of par. (2). Prior to amendment, pars. (1), (3), and (4) read as follows:
+    Subsec. (c). [Pub. L. 102–486][/us/pl/102/486], § 721(4), struck out pars. (1), (3), and (4), and substituted “which requires the transmitting” for “which requires the electric” in introductory provisions of par. (2). Prior to amendment, pars. (1), (3), and (4) read as follows:
 
     “(1) No order may be issued under subsection (a) of this section unless the Commission determines that such order would reasonably preserve existing competitive relationships.
 
@@ -105,7 +105,7 @@
 
     “(4) No order may be issued under subsection (a) or (b) of this section which provides for the transmission of electric energy directly to an ultimate consumer.”
 
-    Subsec. (d). [Pub. L. 102–486, § 721(5)][/us/pl/102/486/s721/5], in first sentence substituted “transmitting” for “electric” before “utility” in two places, in second sentence inserted “each affected transmitting utility,” before “and each affected electric utility”, in par. (1) substituted “, or” for period at end of subpar. (B) and added subpar. (C), and in par. (3)(B) substituted “transmitting” for “electric” before “utility”.
+    Subsec. (d). [Pub. L. 102–486][/us/pl/102/486], § 721(5), in first sentence substituted “transmitting” for “electric” before “utility” in two places, in second sentence inserted “each affected transmitting utility,” before “and each affected electric utility”, in par. (1) substituted “, or” for period at end of subpar. (B) and added subpar. (C), and in par. (3)(B) substituted “transmitting” for “electric” before “utility”.
 
     1986—Subsec. (c)(2)(B). [Pub. L. 99–495][/us/pl/99/495] inserted provisions that nothing in this subparagraph shall prevent an application for an order hereunder to be filed prior to termination or modification of an existing rate schedule, provided that such order shall not become effective until termination of such rate schedule or the modification becomes effective.
 
@@ -130,25 +130,25 @@
 [/us/usc/t16/s824i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824i
 [/us/usc/t16/s824k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824k
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
-[/us/pl/95/617/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs203
+[/us/pl/95/617/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtII
 [/us/stat/92/3136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3136
-[/us/pl/96/294/s643/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs643%2Fa%2F3
+[/us/pl/96/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtVI
 [/us/stat/94/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F770
-[/us/pl/99/495/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495%2Fs15
+[/us/pl/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495
 [/us/stat/100/1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1257
-[/us/pl/102/486/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs721
+[/us/pl/102/486/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtVII
 [/us/stat/106/2915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2915
-[/us/pl/109/58/s1295/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1295%2Fc
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F985
-[/us/pl/109/58/s1295/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1295%2Fc%2F1
-[/us/pl/109/58/s1295/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1295%2Fc%2F2
-[/us/pl/102/486/s721/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs721%2F1
-[/us/pl/102/486/s721/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs721%2F2
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/usc/t16/s824k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824k
 [/us/usc/t16/s824k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824k
-[/us/pl/102/486/s721/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs721%2F3
-[/us/pl/102/486/s721/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs721%2F4
-[/us/pl/102/486/s721/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs721%2F5
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
 [/us/pl/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495

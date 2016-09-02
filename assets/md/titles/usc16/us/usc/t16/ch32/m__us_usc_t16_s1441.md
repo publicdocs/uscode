@@ -85,23 +85,23 @@
 
         Nothing in this section shall be considered to require a person to obtain a permit under this section for the conduct of any fishing activities in a national marine sanctuary.
 
-([Pub. L. 92–532, title III, § 310][/us/pl/92/532/s310], as added [Pub. L. 100–627, title II, § 203(3)][/us/pl/100/627/s203/3], Nov. 7, 1988, [102 Stat. 3214][/us/stat/102/3214]; amended [Pub. L. 106–513, § 11][/us/pl/106/513/s11], Nov. 13, 2000, [114 Stat. 2389][/us/stat/114/2389].)
+([Pub. L. 92–532, title III][/us/pl/92/532/tIII], § 310, as added [Pub. L. 100–627, title II][/us/pl/100/627/tII], § 203(3), Nov. 7, 1988, [102 Stat. 3214][/us/stat/102/3214]; amended [Pub. L. 106–513][/us/pl/106/513], § 11, Nov. 13, 2000, [114 Stat. 2389][/us/stat/114/2389].)
 
  __Amendments__ 
 
-    2000—Subsec. (b). [Pub. L. 106–513, § 11(1)][/us/pl/106/513/s11/1], added subsec. (b). Former subsec. (b) redesignated (c).
+    2000—Subsec. (b). [Pub. L. 106–513][/us/pl/106/513], § 11(1), added subsec. (b). Former subsec. (b) redesignated (c).
 
-    Subsec. (c). [Pub. L. 106–513, § 11(1)][/us/pl/106/513/s11/1], (2), redesignated subsec. (b) as (c) and substituted “insurance, or post an equivalent bond,” for “insurance” in par. (4). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 106–513][/us/pl/106/513], § 11(1), (2), redesignated subsec. (b) as (c) and substituted “insurance, or post an equivalent bond,” for “insurance” in par. (4). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 106–513, § 11(1)][/us/pl/106/513/s11/1], redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 106–513][/us/pl/106/513], § 11(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (d)(2)(C). [Pub. L. 106–513, § 11(3)][/us/pl/106/513/s11/3], substituted “resource.” for “resource and a reasonable return to the United States Government.”
+    Subsec. (d)(2)(C). [Pub. L. 106–513][/us/pl/106/513], § 11(3), substituted “resource.” for “resource and a reasonable return to the United States Government.”
 
-    Subsec. (d)(3)(B). [Pub. L. 106–513, § 11(4)][/us/pl/106/513/s11/4], struck out “designating and” after “expenses of”.
+    Subsec. (d)(3)(B). [Pub. L. 106–513][/us/pl/106/513], § 11(4), struck out “designating and” after “expenses of”.
 
-    Subsec. (d)(4). [Pub. L. 106–513, § 11(5)][/us/pl/106/513/s11/5], added par. (4).
+    Subsec. (d)(4). [Pub. L. 106–513][/us/pl/106/513], § 11(5), added par. (4).
 
-    Subsecs. (e) to (g). [Pub. L. 106–513, § 11(1)][/us/pl/106/513/s11/1], redesignated subsecs. (d) to (f) as (e) to (g), respectively.
+    Subsecs. (e) to (g). [Pub. L. 106–513][/us/pl/106/513], § 11(1), redesignated subsecs. (d) to (f) as (e) to (g), respectively.
 
 ----------
 
@@ -111,17 +111,17 @@
 ----------
 
 [/us/usc/t16/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1437
-[/us/pl/92/532/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs310
-[/us/pl/100/627/s203/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F627%2Fs203%2F3
+[/us/pl/92/532/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2FtIII
+[/us/pl/100/627/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F627%2FtII
 [/us/stat/102/3214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3214
-[/us/pl/106/513/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513%2Fs11
+[/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
 [/us/stat/114/2389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2389
-[/us/pl/106/513/s11/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513%2Fs11%2F1
-[/us/pl/106/513/s11/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513%2Fs11%2F1
-[/us/pl/106/513/s11/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513%2Fs11%2F1
-[/us/pl/106/513/s11/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513%2Fs11%2F3
-[/us/pl/106/513/s11/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513%2Fs11%2F4
-[/us/pl/106/513/s11/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513%2Fs11%2F5
-[/us/pl/106/513/s11/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513%2Fs11%2F1
+[/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
+[/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
+[/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
+[/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
+[/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
+[/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
+[/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
 
 

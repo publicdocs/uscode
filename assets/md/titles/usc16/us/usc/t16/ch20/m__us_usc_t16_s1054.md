@@ -17,7 +17,7 @@
 
     There is established a nonpartisan Advisory Board to be known as the National Fisheries Center and Aquarium Advisory Board. The Advisory Board shall meet from time to time on the call of the Chairman. The functions of the Board shall be to render advice and to submit recommendations to the Secretary of the Interior upon his request, or upon its own initiative, concerning the management and operation of the National Fisheries Center and Aquarium. Five members shall constitute a quorum to transact business. The Secretary may designate an employee of the Department to serve as Executive Secretary to the Board.
 
-([Pub. L. 87–758, § 4][/us/pl/87/758/s4], Oct. 9, 1962, [76 Stat. 753][/us/stat/76/753].)
+([Pub. L. 87–758][/us/pl/87/758], § 4, Oct. 9, 1962, [76 Stat. 753][/us/stat/76/753].)
 
  __Termination of Advisory Boards__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/87/758/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F758%2Fs4
+[/us/pl/87/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F758
 [/us/stat/76/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F753
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

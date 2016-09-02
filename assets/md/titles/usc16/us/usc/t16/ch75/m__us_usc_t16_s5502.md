@@ -69,7 +69,7 @@
 
     (10) The terms “vessel subject to the jurisdiction of the United States” and “vessel without nationality” have the same meaning as in subsections (c) and (d) of [section 70502 of title 46][/us/usc/t46/s70502].
 
-([Pub. L. 104–43, title I, § 103][/us/pl/104/43/s103], Nov. 3, 1995, [109 Stat. 367][/us/stat/109/367]; [Pub. L. 106–562, title III, § 305][/us/pl/106/562/s305], Dec. 23, 2000, [114 Stat. 2807][/us/stat/114/2807].)
+([Pub. L. 104–43, title I][/us/pl/104/43/tI], § 103, Nov. 3, 1995, [109 Stat. 367][/us/stat/109/367]; [Pub. L. 106–562, title III][/us/pl/106/562/tIII], § 305, Dec. 23, 2000, [114 Stat. 2807][/us/stat/114/2807].)
 
  __References in Text__ 
 
@@ -77,7 +77,7 @@
 
  __Codification__ 
 
-    In par. (10), “subsections (c) and (d) of [section 70502 of title 46][/us/usc/t46/s70502]” substituted for “section 3(c) of the Maritime Drug Law Enforcement Act ([46 U.S.C. 1903(c)][/us/usc/t46/s1903/c])” on authority of [Pub. L. 109–304, § 18(c)][/us/pl/109/304/s18/c], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 70502 of Title 46][/us/usc/t46/s70502], Shipping.
+    In par. (10), “subsections (c) and (d) of [section 70502 of title 46][/us/usc/t46/s70502]” substituted for “section 3(c) of the Maritime Drug Law Enforcement Act ([46 U.S.C. 1903(c)][/us/usc/t46/s1903/c])” on authority of [Pub. L. 109–304][/us/pl/109/304], § 18(c), Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 70502 of Title 46][/us/usc/t46/s70502], Shipping.
 
  __Amendments__ 
 
@@ -91,14 +91,14 @@
 ----------
 
 [/us/usc/t46/s70502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70502
-[/us/pl/104/43/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs103
+[/us/pl/104/43/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtI
 [/us/stat/109/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F367
-[/us/pl/106/562/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs305
+[/us/pl/106/562/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2FtIII
 [/us/stat/114/2807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2807
 [/us/pl/104/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43
 [/us/usc/t46/s70502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70502
 [/us/usc/t46/s1903/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs1903%2Fc
-[/us/pl/109/304/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
 [/us/usc/t46/s70502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70502
 [/us/pl/106/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562

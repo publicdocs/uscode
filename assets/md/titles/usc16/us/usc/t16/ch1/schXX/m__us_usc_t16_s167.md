@@ -17,7 +17,7 @@
 
     All timber on Government lands in the park must be cut and removed under regulations to be prescribed by the Secretary of the Interior, and any damage which may result to the roads or any part of the park or the national forests in consequence of the cutting and removal of the timber therefrom shall be borne by the owners of the patented lands, and bonds satisfactory to the Secretary of the Interior and the Secretary of Agriculture, jointly, must be given for the payment of such damages, if any, as shall be determined by the Secretary of the Interior so far as the same relates to lands within a national park and by the Secretary of Agriculture where the same relates to lands in the national forests. The Secretary of Agriculture and the Secretary of the Interior shall jointly report to Congress in detail the factors upon which valuations were made.
 
-([Mar. 3, 1917, ch. 164, § 3][/us/act/1917-03-03/ch164/s3], [39 Stat. 1122][/us/stat/39/1122].)
+([Mar. 3, 1917, ch. 164][/us/act/1917-03-03/ch164], § 3, [39 Stat. 1122][/us/stat/39/1122].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1917-03-03/ch164/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-03%2Fch164%2Fs3
+[/us/act/1917-03-03/ch164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-03%2Fch164
 [/us/stat/39/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F1122
 
 

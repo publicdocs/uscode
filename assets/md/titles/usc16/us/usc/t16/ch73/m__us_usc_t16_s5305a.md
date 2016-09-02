@@ -51,7 +51,7 @@
 
         Amounts received as penalties, fines, or forfeiture of property under this section shall be used in accordance with [section 3375(d) of this title][/us/usc/t16/s3375/d].
 
-([Pub. L. 103–391, § 7][/us/pl/103/391/s7], as added [Pub. L. 105–312, title IV, § 405(2)][/us/pl/105/312/s405/2], Oct. 30, 1998, [112 Stat. 2960][/us/stat/112/2960].)
+([Pub. L. 103–391][/us/pl/103/391], § 7, as added [Pub. L. 105–312, title IV][/us/pl/105/312/tIV], § 405(2), Oct. 30, 1998, [112 Stat. 2960][/us/stat/112/2960].)
 
  __References in Text__ 
 
@@ -76,8 +76,8 @@
 [/us/usc/t16/s1540/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1540%2Fa
 [/us/usc/t16/s1540/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1540%2Fe
 [/us/usc/t16/s3375/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3375%2Fd
-[/us/pl/103/391/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F391%2Fs7
-[/us/pl/105/312/s405/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312%2Fs405%2F2
+[/us/pl/103/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F391
+[/us/pl/105/312/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312%2FtIV
 [/us/stat/112/2960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2960
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F884

@@ -33,7 +33,7 @@
 
         In cases in which a violation of the prohibition contained in subsection (a), (b), or (c) of [section 470ee of this title][/us/usc/t16/s470ee] involve archaeological resources excavated or removed from Indian lands, the Federal land manager or the court, as the case may be, shall provide for the payment to the Indian or Indian tribe involved of all penalties collected pursuant to [section 470ff of this title][/us/usc/t16/s470ff] and for the transfer to such Indian or Indian tribe of all items forfeited under this section.
 
-([Pub. L. 96–95, § 8][/us/pl/96/95/s8], Oct. 31, 1979, [93 Stat. 726][/us/stat/93/726].)
+([Pub. L. 96–95][/us/pl/96/95], § 8, Oct. 31, 1979, [93 Stat. 726][/us/stat/93/726].)
 
 ----------
 
@@ -47,7 +47,7 @@
 [/us/usc/t16/s470ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470ff
 [/us/usc/t16/s470ee]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470ee
 [/us/usc/t16/s470ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470ff
-[/us/pl/96/95/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95%2Fs8
+[/us/pl/96/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95
 [/us/stat/93/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F726
 
 

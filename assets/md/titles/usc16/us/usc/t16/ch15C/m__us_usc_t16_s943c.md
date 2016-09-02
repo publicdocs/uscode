@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated to the Secretary, $250,000 for each of fiscal years 1993 and 1994 to carry out this chapter.
 
-([Pub. L. 102–440, title II, § 205][/us/pl/102/440/s205], Oct. 23, 1992, [106 Stat. 2234][/us/stat/106/2234].)
+([Pub. L. 102–440, title II][/us/pl/102/440/tII], § 205, Oct. 23, 1992, [106 Stat. 2234][/us/stat/106/2234].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/440/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2Fs205
+[/us/pl/102/440/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2FtII
 [/us/stat/106/2234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2234
 
 

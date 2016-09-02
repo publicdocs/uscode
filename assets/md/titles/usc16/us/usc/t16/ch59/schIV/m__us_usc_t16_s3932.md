@@ -67,7 +67,7 @@
 
         (7) recommendations for the conservation of wetlands resources based on an evaluation and comparison of all management alternatives, and combinations of management alternatives, such as State and local actions, Federal actions, and initiatives by private organizations and individuals.
 
-([Pub. L. 99–645, title IV, § 402][/us/pl/99/645/s402], Nov. 10, 1986, [100 Stat. 3589][/us/stat/100/3589].)
+([Pub. L. 99–645, title IV][/us/pl/99/645/tIV], § 402, Nov. 10, 1986, [100 Stat. 3589][/us/stat/100/3589].)
 
 ----------
 
@@ -76,7 +76,7 @@
 ----------
 ----------
 
-[/us/pl/99/645/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F645%2Fs402
+[/us/pl/99/645/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F645%2FtIV
 [/us/stat/100/3589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3589
 
 

@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall be construed as prohibiting any governmental jurisdiction in the State of Michigan from assessing taxes upon any interest in real estate retained under the provisions of [section 460x–9 of this title][/us/usc/t16/s460x–9] to the owner of such interest.
 
-([Pub. L. 91–479, § 7][/us/pl/91/479/s7], Oct. 21, 1970, [84 Stat. 1077][/us/stat/84/1077].)
+([Pub. L. 91–479][/us/pl/91/479], § 7, Oct. 21, 1970, [84 Stat. 1077][/us/stat/84/1077].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s460x–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460x%E2%80%939
-[/us/pl/91/479/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F479%2Fs7
+[/us/pl/91/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F479
 [/us/stat/84/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1077
 
 

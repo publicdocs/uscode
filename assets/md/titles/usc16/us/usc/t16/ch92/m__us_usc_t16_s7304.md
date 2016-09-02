@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the Secretary and the Secretary of the Interior such sums as are necessary to carry out this chapter.
 
-([Pub. L. 111–11, title IV, § 4004][/us/pl/111/11/s4004], Mar. 30, 2009, [123 Stat. 1147][/us/stat/123/1147].)
+([Pub. L. 111–11, title IV][/us/pl/111/11/tIV], § 4004, Mar. 30, 2009, [123 Stat. 1147][/us/stat/123/1147].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s4004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs4004
+[/us/pl/111/11/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtIV
 [/us/stat/123/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1147
 
 

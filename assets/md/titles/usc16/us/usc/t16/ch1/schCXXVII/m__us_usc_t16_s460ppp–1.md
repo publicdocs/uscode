@@ -23,7 +23,7 @@
 
     (3) The term “conservation area” means the Black Rock Desert-High Rock Canyon Emigrant Trails National Conservation Area established pursuant to [section 460ppp–2 of this title][/us/usc/t16/s460ppp–2].
 
-([Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 125 \[§ 3\]\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–229, 2763A–354.)
+([Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 125 \[§ 3\]\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–229, 2763A–354.)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t43/s1702/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1702%2Fe
 [/us/usc/t16/s460ppp–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460ppp%E2%80%932
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

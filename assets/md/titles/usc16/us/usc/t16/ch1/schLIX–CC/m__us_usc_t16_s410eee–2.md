@@ -35,7 +35,7 @@
 
         The map of the historical park shall be on file and available for public inspection in the appropriate offices of the National Park Service.
 
-([Pub. L. 105–342, § 4][/us/pl/105/342/s4], Nov. 2, 1998, [112 Stat. 3201][/us/stat/112/3201].)
+([Pub. L. 105–342][/us/pl/105/342], § 4, Nov. 2, 1998, [112 Stat. 3201][/us/stat/112/3201].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/105/342/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F342%2Fs4
+[/us/pl/105/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F342
 [/us/stat/112/3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3201
 
 

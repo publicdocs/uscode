@@ -25,7 +25,7 @@
 
     (4) To acquire lands, or rights or interests therein, by purchase, gift, condemnation, or otherwise, whenever necessary for the purposes of this chapter.
 
-([Apr. 27, 1935, ch. 85, § 1][/us/act/1935-04-27/ch85/s1], [49 Stat. 163][/us/stat/49/163]; [Pub. L. 110–234, title II, § 2802(a)(1)][/us/pl/110/234/s2802/a/1], May 22, 2008, [122 Stat. 1085][/us/stat/122/1085]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2802(a)(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1813.)
+([Apr. 27, 1935, ch. 85][/us/act/1935-04-27/ch85], § 1, [49 Stat. 163][/us/stat/49/163]; [Pub. L. 110–234, title II][/us/pl/110/234/tII], § 2802(a)(1), May 22, 2008, [122 Stat. 1085][/us/stat/122/1085]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title II, § 2802(a)(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1813.)
 
  __Codification__ 
 
@@ -33,7 +33,7 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–246, § 2802(a)(1)][/us/pl/110/246/s2802/a/1], inserted section catchline and substituted “to preserve soil, water, and related resources, promote soil and water quality,” for “and thereby to preserve natural resources,” in introductory provisions.
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 2802(a)(1), inserted section catchline and substituted “to preserve soil, water, and related resources, promote soil and water quality,” for “and thereby to preserve natural resources,” in introductory provisions.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -62,17 +62,17 @@
 ----------
 ----------
 
-[/us/act/1935-04-27/ch85/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-04-27%2Fch85%2Fs1
+[/us/act/1935-04-27/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-04-27%2Fch85
 [/us/stat/49/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F163
-[/us/pl/110/234/s2802/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2802%2Fa%2F1
+[/us/pl/110/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtII
 [/us/stat/122/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1085
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s2802/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2802%2Fa%2F1
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

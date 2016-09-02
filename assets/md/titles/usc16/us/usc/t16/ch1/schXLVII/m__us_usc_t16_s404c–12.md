@@ -17,7 +17,7 @@
 
     For the purpose of developing a proper and suitable entrance road to the Mammoth Cave National Park, the Secretary of the Interior is authorized in his discretion to accept on behalf of the United States donations of lands, buildings, structures, and other property or interests therein, or to acquire such property with donated funds by purchase, condemnation, or otherwise, within an area or areas to be determined by him, but (a) not to exceed one mile in width, extending from the exterior boundary of the Mammoth Cave National Park to a point to be selected by him on United States Highway Numbered 31–W, and (b) not to exceed one-half mile in width on either side of United States Highway Numbered 31–W and running for a distance of not to exceed two miles along said highway. Lands acquired for purposes of protecting such entrance roads shall not be less than five hundred feet in width on either side of said roads: Provided, That only one such entrance road shall be established between United States Highway Numbered 31–W and Mammoth Cave National Park pursuant to this Act.
 
-([June 5, 1942, ch. 341, § 12][/us/act/1942-06-05/ch341/s12], [56 Stat. 320][/us/stat/56/320].)
+([June 5, 1942, ch. 341][/us/act/1942-06-05/ch341], § 12, [56 Stat. 320][/us/stat/56/320].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1942-06-05/ch341/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-06-05%2Fch341%2Fs12
+[/us/act/1942-06-05/ch341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-06-05%2Fch341
 [/us/stat/56/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F320
 
 

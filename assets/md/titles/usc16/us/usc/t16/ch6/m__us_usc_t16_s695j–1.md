@@ -17,7 +17,7 @@
 
     The Secretary is hereby authorized to negotiate amendments to existing contracts to conform said contracts to the provisions of sections 695d to 695j–1 of this title.
 
-([Aug. 27, 1954, ch. 1012, § 8][/us/act/1954-08-27/ch1012/s8], as added [Pub. L. 95–616, § 10(b)][/us/pl/95/616/s10/b], Nov. 8, 1978, [92 Stat. 3115][/us/stat/92/3115].)
+([Aug. 27, 1954, ch. 1012][/us/act/1954-08-27/ch1012], § 8, as added [Pub. L. 95–616][/us/pl/95/616], § 10(b), Nov. 8, 1978, [92 Stat. 3115][/us/stat/92/3115].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1954-08-27/ch1012/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1012%2Fs8
-[/us/pl/95/616/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616%2Fs10%2Fb
+[/us/act/1954-08-27/ch1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1012
+[/us/pl/95/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616
 [/us/stat/92/3115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3115
 
 

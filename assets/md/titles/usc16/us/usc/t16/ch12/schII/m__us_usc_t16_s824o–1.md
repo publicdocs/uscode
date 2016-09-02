@@ -215,7 +215,7 @@
 
             Nothing in this subsection shall be construed to require dismissal of a cause of action against an entity that, in the course of complying with an order for emergency measures issued under subsection (b)(1) by taking an action or omission for which they would be liable but for paragraph (1) or (2 ), <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “(2),”. </sup></sup>  takes such action or omission in a grossly negligent manner.
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 215A, as added [Pub. L. 114–94, div. F, § 61003(a)][/us/pl/114/94/s61003/a], Dec. 4, 2015, [129 Stat. 1773][/us/stat/129/1773].)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 215A, as added [Pub. L. 114–94, div. F][/us/pl/114/94/dF], § 61003(a), Dec. 4, 2015, [129 Stat. 1773][/us/stat/129/1773].)
 
 ----------
 
@@ -229,7 +229,7 @@
 [/us/usc/t16/s824a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824a%2Fc
 [/us/usc/t16/s824a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824a%2Fc
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
-[/us/pl/114/94/s61003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs61003%2Fa
+[/us/pl/114/94/dF]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdF
 [/us/stat/129/1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1773
 
 

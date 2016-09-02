@@ -35,11 +35,11 @@
 
         It is the policy of the United States that Federal lands be managed in a manner which protects and maintains, to the extent practical, significant caves.
 
-([Pub. L. 100–691, § 2][/us/pl/100/691/s2], Nov. 18, 1988, [102 Stat. 4546][/us/stat/102/4546].)
+([Pub. L. 100–691][/us/pl/100/691], § 2, Nov. 18, 1988, [102 Stat. 4546][/us/stat/102/4546].)
 
  __Short Title__ 
 
-[Pub. L. 100–691, § 1][/us/pl/100/691/s1], Nov. 18, 1988, [102 Stat. 4546][/us/stat/102/4546], provided that: 
+[Pub. L. 100–691][/us/pl/100/691], § 1, Nov. 18, 1988, [102 Stat. 4546][/us/stat/102/4546], provided that: 
 
 > “This Act \[enacting this chapter\] may be referred to as the ‘Federal Cave Resources Protection Act of 1988’.”
 
@@ -112,9 +112,9 @@
 ----------
 ----------
 
-[/us/pl/100/691/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F691%2Fs2
+[/us/pl/100/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F691
 [/us/stat/102/4546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4546
-[/us/pl/100/691/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F691%2Fs1
+[/us/pl/100/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F691
 [/us/stat/102/4546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4546
 [/us/pl/103/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F169
 [/us/stat/107/1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1983

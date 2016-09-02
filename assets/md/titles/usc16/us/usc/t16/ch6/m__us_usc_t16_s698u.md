@@ -53,7 +53,7 @@
 
         (2) to preserve and interpret for the public the historic and cultural values represented on the Spring Hill Ranch.
 
-([Pub. L. 104–333, div. I, title X, § 1002][/us/pl/104/333/s1002], Nov. 12, 1996, [110 Stat. 4204][/us/stat/110/4204]; [Pub. L. 106–176, title I, § 122(1)][/us/pl/106/176/s122/1], Mar. 10, 2000, [114 Stat. 29][/us/stat/114/29].)
+([Pub. L. 104–333, div. I, title X][/us/pl/104/333/dI/tX], § 1002, Nov. 12, 1996, [110 Stat. 4204][/us/stat/110/4204]; [Pub. L. 106–176, title I][/us/pl/106/176/tI], § 122(1), Mar. 10, 2000, [114 Stat. 29][/us/stat/114/29].)
 
  __References in Text__ 
 
@@ -65,7 +65,7 @@
 
  __Short Title__ 
 
-[Pub. L. 104–333, div. I, title X, § 1001][/us/pl/104/333/s1001], Nov. 12, 1996, [110 Stat. 4204][/us/stat/110/4204], provided that: 
+[Pub. L. 104–333, div. I, title X][/us/pl/104/333/dI/tX], § 1001, Nov. 12, 1996, [110 Stat. 4204][/us/stat/110/4204], provided that: 
 
 > “This subtitle \[subtitle A (§§ 1001–1009) of title X of div. I of [Pub. L. 104–333][/us/pl/104/333], enacting this section and sections 698u–1 to 698u–7 of this title\] may be cited as the ‘Tallgrass Prairie National Preserve Act of 1996’.”
 
@@ -77,16 +77,16 @@
 ----------
 
 [/us/usc/t16/s470a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470a
-[/us/pl/104/333/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs1002
+[/us/pl/104/333/dI/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtX
 [/us/stat/110/4204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4204
-[/us/pl/106/176/s122/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs122%2F1
+[/us/pl/106/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2FtI
 [/us/stat/114/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F29
 [/us/usc/t16/s470a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470a
 [/us/pl/89/665/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665%2Fs101
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
 [/us/pl/106/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176
-[/us/pl/104/333/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs1001
+[/us/pl/104/333/dI/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtX
 [/us/stat/110/4204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4204
 [/us/pl/104/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333
 

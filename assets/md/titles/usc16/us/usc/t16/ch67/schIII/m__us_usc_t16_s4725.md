@@ -17,7 +17,7 @@
 
     All actions taken by Federal agencies in implementing the provisions of [section 4722 of this title][/us/usc/t16/s4722] shall be consistent with all applicable Federal, State, and local environmental laws. Nothing in this chapter shall affect the authority of any State or political subdivision thereof to adopt or enforce control measures for aquatic nuisance species, or diminish or affect the jurisdiction of any State over species of fish and wildlife. Compliance with the control and eradication measures of any State or political subdivision thereof regarding aquatic nuisance species shall not relieve any person of the obligation to comply with the provisions of this subchapter.
 
-([Pub. L. 101–646, title I, § 1205][/us/pl/101/646/s1205], Nov. 29, 1990, [104 Stat. 4771][/us/stat/104/4771]; [Pub. L. 104–332, § 2(h)(1)][/us/pl/104/332/s2/h/1], Oct. 26, 1996, [110 Stat. 4091][/us/stat/110/4091].)
+([Pub. L. 101–646, title I][/us/pl/101/646/tI], § 1205, Nov. 29, 1990, [104 Stat. 4771][/us/stat/104/4771]; [Pub. L. 104–332][/us/pl/104/332], § 2(h)(1), Oct. 26, 1996, [110 Stat. 4091][/us/stat/110/4091].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–332][/us/pl/104/332] made technical amendment to [Pub. L. 101–646, § 1205][/us/pl/101/646/s1205], which enacted this section.
+    1996—[Pub. L. 104–332][/us/pl/104/332] made technical amendment to [Pub. L. 101–646][/us/pl/101/646], § 1205, which enacted this section.
 
 ----------
 
@@ -35,14 +35,14 @@
 ----------
 
 [/us/usc/t16/s4722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4722
-[/us/pl/101/646/s1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs1205
+[/us/pl/101/646/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2FtI
 [/us/stat/104/4771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4771
-[/us/pl/104/332/s2/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fh%2F1
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
 [/us/stat/110/4091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4091
 [/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
 [/us/stat/104/4761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4761
 [/us/usc/t16/s4701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4701
 [/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
-[/us/pl/101/646/s1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs1205
+[/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
 
 

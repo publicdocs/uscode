@@ -37,7 +37,7 @@
 
         The Commission shall have an Executive Director, who shall be appointed (without regard to the provisions of title 5 governing appointments in the competitive service) by the Chairman with the approval of the Commission and shall be paid at a rate not in excess of the rate for GS–18 of the General Schedule under [section 5332 of title 5][/us/usc/t5/s5332]. The Executive Director shall have such duties as the Chairman may assign.
 
-([Pub. L. 92–522, title II, § 201][/us/pl/92/522/s201], Oct. 21, 1972, [86 Stat. 1043][/us/stat/86/1043]; [Pub. L. 97–389, title II, § 202][/us/pl/97/389/s202], Dec. 29, 1982, [96 Stat. 1951][/us/stat/96/1951]; [Pub. L. 98–364, title I, § 103(a)][/us/pl/98/364/s103/a], July 17, 1984, [98 Stat. 441][/us/stat/98/441].)
+([Pub. L. 92–522, title II][/us/pl/92/522/tII], § 201, Oct. 21, 1972, [86 Stat. 1043][/us/stat/86/1043]; [Pub. L. 97–389, title II][/us/pl/97/389/tII], § 202, Dec. 29, 1982, [96 Stat. 1951][/us/stat/96/1951]; [Pub. L. 98–364, title I][/us/pl/98/364/tI], § 103(a), July 17, 1984, [98 Stat. 441][/us/stat/98/441].)
 
  __Amendments__ 
 
@@ -59,11 +59,11 @@
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/92/522/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs201
+[/us/pl/92/522/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtII
 [/us/stat/86/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1043
-[/us/pl/97/389/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F389%2Fs202
+[/us/pl/97/389/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F389%2FtII
 [/us/stat/96/1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1951
-[/us/pl/98/364/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2Fs103%2Fa
+[/us/pl/98/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2FtI
 [/us/stat/98/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F441
 [/us/pl/98/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364
 [/us/pl/97/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F389

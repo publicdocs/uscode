@@ -31,7 +31,7 @@
 
         Beginning in fiscal year 1983, the Secretary or the Secretary of the Treasury shall pay, from sums received as penalties, fines, or forfeitures of property for any violation of this chapter or any regulation issued hereunder (1) a reward to any person who furnishes information which leads to an arrest, a criminal conviction, civil penalty assessment, or forfeiture of property for any violation of this chapter or any regulation issued hereunder, and (2) the reasonable and necessary costs incurred by any person in providing temporary care for any fish, wildlife, or plant pending the disposition of any civil or criminal proceeding alleging a violation of this chapter with respect to that fish, wildlife, or plant. The amount of the reward, if any, is to be designated by the Secretary or the Secretary of the Treasury, as appropriate. Any officer or employee of the United States or any State or local government who furnishes information or renders service in the performance of his official duties is ineligible for payment under this subsection.
 
-([Pub. L. 97–79, § 6][/us/pl/97/79/s6], Nov. 16, 1981, [95 Stat. 1077][/us/stat/95/1077]; [Pub. L. 98–327, § 4][/us/pl/98/327/s4], June 25, 1984, [98 Stat. 271][/us/stat/98/271]; [Pub. L. 100–653, title I, § 104][/us/pl/100/653/s104], Nov. 14, 1988, [102 Stat. 3826][/us/stat/102/3826]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
+([Pub. L. 97–79][/us/pl/97/79], § 6, Nov. 16, 1981, [95 Stat. 1077][/us/stat/95/1077]; [Pub. L. 98–327][/us/pl/98/327], § 4, June 25, 1984, [98 Stat. 271][/us/stat/98/271]; [Pub. L. 100–653, title I][/us/pl/100/653/tI], § 104, Nov. 14, 1988, [102 Stat. 3826][/us/stat/102/3826]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
 
  __References in Text__ 
 
@@ -62,13 +62,13 @@
 
 [/us/usc/t16/s3374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3374
 [/us/usc/t28/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs460
-[/us/pl/97/79/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F79%2Fs6
+[/us/pl/97/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F79
 [/us/stat/95/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1077
-[/us/pl/98/327/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F327%2Fs4
+[/us/pl/98/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F327
 [/us/stat/98/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F271
-[/us/pl/100/653/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2Fs104
+[/us/pl/100/653/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2FtI
 [/us/stat/102/3826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3826
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
 [/us/pl/97/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F79
 [/us/stat/95/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1073

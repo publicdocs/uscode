@@ -17,7 +17,7 @@
 
     The Secretary shall permit hunting and fishing on lands and waters under his jurisdiction within the Spruce Knob-Seneca Rocks National Recreation Area in accordance with applicable Federal and State laws. The Secretary may designate zones where, and establish periods when, no hunting shall be permitted for reasons of public safety, administration, or public use and enjoyment, and shall issue regulations after consultation with the Department of Natural Resources of the State of West Virginia.
 
-([Pub. L. 89–207, § 6][/us/pl/89/207/s6], Sept. 28, 1965, [79 Stat. 844][/us/stat/79/844].)
+([Pub. L. 89–207][/us/pl/89/207], § 6, Sept. 28, 1965, [79 Stat. 844][/us/stat/79/844].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/207/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F207%2Fs6
+[/us/pl/89/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F207
 [/us/stat/79/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F844
 
 

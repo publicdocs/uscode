@@ -123,7 +123,7 @@
 
             The Secretary of Agriculture shall also consider the cost-effectiveness of each agreement or easement, and associated restoration plans, so as to maximize the environmental benefits per dollar expended.
 
-([Pub. L. 108–148, title V, § 502][/us/pl/108/148/s502], Dec. 3, 2003, [117 Stat. 1911][/us/stat/117/1911]; [Pub. L. 110–234, title VIII, § 8205(a)][/us/pl/110/234/s8205/a], May 22, 2008, [122 Stat. 1294][/us/stat/122/1294]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VIII, § 8205(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2056; [Pub. L. 113–79, title VIII, § 8203(a)][/us/pl/113/79/s8203/a], Feb. 7, 2014, [128 Stat. 914][/us/stat/128/914].)
+([Pub. L. 108–148, title V][/us/pl/108/148/tV], § 502, Dec. 3, 2003, [117 Stat. 1911][/us/stat/117/1911]; [Pub. L. 110–234, title VIII][/us/pl/110/234/tVIII], § 8205(a), May 22, 2008, [122 Stat. 1294][/us/stat/122/1294]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VIII, § 8205(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2056; [Pub. L. 113–79, title VIII][/us/pl/113/79/tVIII], § 8203(a), Feb. 7, 2014, [128 Stat. 914][/us/stat/128/914].)
 
  __Codification__ 
 
@@ -131,11 +131,11 @@
 
  __Amendments__ 
 
-    2014—Subsec. (e)(3). [Pub. L. 113–79, § 8203(a)(2)][/us/pl/113/79/s8203/a/2], (3), added subpar. (A), designated existing provisions as subpar. (B) and inserted heading, and redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (B) and realigned margins.
+    2014—Subsec. (e)(3). [Pub. L. 113–79][/us/pl/113/79], § 8203(a)(2), (3), added subpar. (A), designated existing provisions as subpar. (B) and inserted heading, and redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (B) and realigned margins.
 
-    Subsec. (e)(3)(C). [Pub. L. 113–79, § 8203(a)(1)][/us/pl/113/79/s8203/a/1], substituted “clauses (i) and (ii)” for “subparagraphs (A) and (B)”.
+    Subsec. (e)(3)(C). [Pub. L. 113–79][/us/pl/113/79], § 8203(a)(1), substituted “clauses (i) and (ii)” for “subparagraphs (A) and (B)”.
 
-    2008—Subsecs. (e) to (g). [Pub. L. 110–246, § 8205(a)][/us/pl/110/246/s8205/a], added subsec. (e), redesignated subsec. (g) as (f), and struck out former subsecs. (e) and (f) which related to maximum number of enrolled acres and methods of enrollment.
+    2008—Subsecs. (e) to (g). [Pub. L. 110–246][/us/pl/110/246], § 8205(a), added subsec. (e), redesignated subsec. (g) as (f), and struck out former subsecs. (e) and (f) which related to maximum number of enrolled acres and methods of enrollment.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -154,21 +154,21 @@
 [/us/usc/t43/s1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1607
 [/us/usc/t16/s1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1533
 [/us/usc/t16/s1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1533
-[/us/pl/108/148/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2Fs502
+[/us/pl/108/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2FtV
 [/us/stat/117/1911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1911
-[/us/pl/110/234/s8205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs8205%2Fa
+[/us/pl/110/234/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVIII
 [/us/stat/122/1294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1294
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s8203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8203%2Fa
+[/us/pl/113/79/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVIII
 [/us/stat/128/914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F914
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s8203/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8203%2Fa%2F2
-[/us/pl/113/79/s8203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8203%2Fa%2F1
-[/us/pl/110/246/s8205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs8205%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

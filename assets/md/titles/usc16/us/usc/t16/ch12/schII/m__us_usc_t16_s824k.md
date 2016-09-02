@@ -19,7 +19,7 @@
 
         An order under [section 824j of this title][/us/usc/t16/s824j] shall require the transmitting utility subject to the order to provide wholesale transmission services at rates, charges, terms, and conditions which permit the recovery by such utility of all the costs incurred in connection with the transmission services and necessary associated services, including, but not limited to, an appropriate share, if any, of legitimate, verifiable and economic costs, including taking into account any benefits to the transmission system of providing the transmission service, and the costs of any enlargement of transmission facilities. Such rates, charges, terms, and conditions shall promote the economically efficient transmission and generation of electricity and shall be just and reasonable, and not unduly discriminatory or preferential. Rates, charges, terms, and conditions for transmission services provided pursuant to an order under [section 824j of this title][/us/usc/t16/s824j] shall ensure that, to the extent practicable, costs incurred in providing the wholesale transmission services, and properly allocable to the provision of such services, are recovered from the applicant for such order and not from a transmitting utility’s existing wholesale, retail, and transmission customers.
 
-    (b) __Repealed.__  __[__  __Pub. L. 102–486, title VII, § 722(1)__  __][/us/pl/102/486/s722/1]__  __,__  __Oct. 24, 1992__  __,__  __[__  __106 Stat. 2916__  __][/us/stat/106/2916]__ 
+    (b) __Repealed.__  __[__  __Pub. L. 102–486, title VII__  __][/us/pl/102/486/tVII]__  __, § 722(1),__  __Oct. 24, 1992__  __,__  __[__  __106 Stat. 2916__  __][/us/stat/106/2916]__ 
 
     (c) __Issuance of proposed order; agreement by parties to terms and conditions of order; approval by Commission; inclusion in final order; failure to agree__ 
 
@@ -131,7 +131,7 @@
 
             (B) the term “ERCOT utility” means a transmitting utility which is a member of ERCOT.
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 212, as added [Pub. L. 95–617, title II, § 204(a)][/us/pl/95/617/s204/a], Nov. 9, 1978, [92 Stat. 3138][/us/stat/92/3138]; amended [Pub. L. 102–486, title VII, § 722][/us/pl/102/486/s722], Oct. 24, 1992, [106 Stat. 2916][/us/stat/106/2916].)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 212, as added [Pub. L. 95–617, title II][/us/pl/95/617/tII], § 204(a), Nov. 9, 1978, [92 Stat. 3138][/us/stat/92/3138]; amended [Pub. L. 102–486, title VII][/us/pl/102/486/tVII], § 722, Oct. 24, 1992, [106 Stat. 2916][/us/stat/106/2916].)
 
  __References in Text__ 
 
@@ -143,13 +143,13 @@
 
  __Amendments__ 
 
-    1992—Subsec. (a). [Pub. L. 102–486, § 722(1)][/us/pl/102/486/s722/1], added subsec. (a) and struck out former subsec. (a) which related to determinations by Commission.
+    1992—Subsec. (a). [Pub. L. 102–486][/us/pl/102/486], § 722(1), added subsec. (a) and struck out former subsec. (a) which related to determinations by Commission.
 
-    Subsec. (b). [Pub. L. 102–486, § 722(1)][/us/pl/102/486/s722/1], struck out subsec. (b) which required applicants for orders to be ready, willing, and able to reimburse parties subject to such orders.
+    Subsec. (b). [Pub. L. 102–486][/us/pl/102/486], § 722(1), struck out subsec. (b) which required applicants for orders to be ready, willing, and able to reimburse parties subject to such orders.
 
-    Subsec. (e). [Pub. L. 102–486, § 722(2)][/us/pl/102/486/s722/2], amended subsec. (e) generally. Prior to amendment, subsec. (e) related to utilization of interconnection or wheeling authority in lieu of other authority and limitation of Commission authority.
+    Subsec. (e). [Pub. L. 102–486][/us/pl/102/486], § 722(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to utilization of interconnection or wheeling authority in lieu of other authority and limitation of Commission authority.
 
-    Subsecs. (g) to (k). [Pub. L. 102–486, § 722(3)][/us/pl/102/486/s722/3], added subsecs. (g) to (k).
+    Subsecs. (g) to (k). [Pub. L. 102–486][/us/pl/102/486], § 722(3), added subsecs. (g) to (k).
 
  __State Authorities; Construction__ 
 
@@ -164,7 +164,7 @@
 
 [/us/usc/t16/s824j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824j
 [/us/usc/t16/s824j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824j
-[/us/pl/102/486/s722/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs722%2F1
+[/us/pl/102/486/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtVII
 [/us/stat/106/2916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2916
 [/us/usc/t16/s824i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824i
 [/us/usc/t16/s824j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824j
@@ -196,9 +196,9 @@
 [/us/usc/t16/s824j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824j
 [/us/usc/t16/s824j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824j
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
-[/us/pl/95/617/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs204%2Fa
+[/us/pl/95/617/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtII
 [/us/stat/92/3138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3138
-[/us/pl/102/486/s722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs722
+[/us/pl/102/486/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtVII
 [/us/stat/106/2916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2916
 [/us/act/1933-05-18/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32
 [/us/stat/48/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F58
@@ -209,10 +209,10 @@
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/stat/106/2776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2776
 [/us/usc/t42/s13201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13201
-[/us/pl/102/486/s722/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs722%2F1
-[/us/pl/102/486/s722/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs722%2F1
-[/us/pl/102/486/s722/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs722%2F2
-[/us/pl/102/486/s722/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs722%2F3
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/102/486/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs731
 [/us/usc/t16/s796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs796

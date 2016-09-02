@@ -137,7 +137,7 @@
 
         There is hereby established within the administration an executive position for conservation and renewable resources. Such executive shall be appointed by the Administrator and shall be assigned responsibility for conservation and direct-application renewable resource programs (including the administration of financial assistance for such programs). Such position is hereby established in the senior executive service in addition to the number of such positions heretofore established in accordance with other provisions of law applicable to such positions.
 
-([Pub. L. 96–501, § 9][/us/pl/96/501/s9], Dec. 5, 1980, [94 Stat. 2729][/us/stat/94/2729]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
+([Pub. L. 96–501][/us/pl/96/501], § 9, Dec. 5, 1980, [94 Stat. 2729][/us/stat/94/2729]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
  __References in Text__ 
 
@@ -147,9 +147,9 @@
 
     The Federal Columbia River Transmission System Act, referred to in subsec. (e)(5), is [Pub. L. 93–454][/us/pl/93/454], Oct. 18, 1974, [88 Stat. 1376][/us/stat/88/1376], as amended, which is classified generally to chapter 12G (§ 838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 838 of this title][/us/usc/t16/s838] and Tables.
 
-    [Section 103 of title 26][/us/usc/t26/s103], referred to in subsec. (f), which related to interest on certain governmental obligations was amended generally by [Pub. L. 99–514, title XIII, § 1301(a)][/us/pl/99/514/s1301/a], Oct. 22, 1986, [100 Stat. 2602][/us/stat/100/2602], and as so amended relates to interest on State and local bonds. Section 103(b)(3), which prior to the general amendment defined exempt persons, relates to the applicability of the interest exclusion to bonds not in registered form, etc.
+    [Section 103 of title 26][/us/usc/t26/s103], referred to in subsec. (f), which related to interest on certain governmental obligations was amended generally by [Pub. L. 99–514, title XIII][/us/pl/99/514/tXIII], § 1301(a), Oct. 22, 1986, [100 Stat. 2602][/us/stat/100/2602], and as so amended relates to interest on State and local bonds. Section 103(b)(3), which prior to the general amendment defined exempt persons, relates to the applicability of the interest exclusion to bonds not in registered form, etc.
 
-    Chapter 2C of title 15, referred to in subsec. (h), contained the Public Utility Holding Company Act of 1935, [act Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title I, [49 Stat. 803][/us/stat/49/803], as amended, and consisted of section 79 et seq. of Title 15, Commerce and Trade, prior to repeal by [Pub. L. 109–58, title XII, § 1263][/us/pl/109/58/s1263], Aug. 8, 2005, [119 Stat. 974][/us/stat/119/974]. For complete classification of this Act to the Code, see Tables.
+    Chapter 2C of title 15, referred to in subsec. (h), contained the Public Utility Holding Company Act of 1935, [act Aug. 26, 1935, ch. 687, title I][/us/act/1935-08-26/ch687/tI], [49 Stat. 803][/us/stat/49/803], as amended, and consisted of section 79 et seq. of Title 15, Commerce and Trade, prior to repeal by [Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1263, Aug. 8, 2005, [119 Stat. 974][/us/stat/119/974]. For complete classification of this Act to the Code, see Tables.
 
     The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (j)(1), is [Pub. L. 95–617][/us/pl/95/617], Nov. 9, 1978, [92 Stat. 3117][/us/stat/92/3117], as amended. For complete classification of this Act to Code, see Short Title note set out under [section 2601 of this title][/us/usc/t16/s2601] and Tables.
 
@@ -197,9 +197,9 @@
 [/us/usc/t16/s839d/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs839d%2Fm
 [/us/usc/t16/s839c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs839c%2Fb
 [/us/usc/t16/s839d/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs839d%2Fh
-[/us/pl/96/501/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501%2Fs9
+[/us/pl/96/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501
 [/us/stat/94/2729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2729
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/act/1937-08-20/ch720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-20%2Fch720
 [/us/stat/50/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F731
@@ -210,11 +210,11 @@
 [/us/stat/88/1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1376
 [/us/usc/t16/s838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs838
 [/us/usc/t26/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs103
-[/us/pl/99/514/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1301%2Fa
+[/us/pl/99/514/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIII
 [/us/stat/100/2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2602
-[/us/act/1935-08-26/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-26%2Fch687
+[/us/act/1935-08-26/ch687/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-26%2Fch687%2FtI
 [/us/stat/49/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F803
-[/us/pl/109/58/s1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1263
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F974
 [/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
 [/us/stat/92/3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3117

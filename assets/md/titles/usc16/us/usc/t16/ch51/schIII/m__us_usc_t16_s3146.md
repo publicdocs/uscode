@@ -23,7 +23,7 @@
 
     (3) the environmental and economic costs and other values associated with such alternative routes.
 
-([Pub. L. 96–487, title X, § 1006][/us/pl/96/487/s1006], Dec. 2, 1980, [94 Stat. 2453][/us/stat/94/2453].)
+([Pub. L. 96–487, title X][/us/pl/96/487/tX], § 1006, Dec. 2, 1980, [94 Stat. 2453][/us/stat/94/2453].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/96/487/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1006
+[/us/pl/96/487/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtX
 [/us/stat/94/2453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2453
 
 

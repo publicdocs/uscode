@@ -17,7 +17,7 @@
 
     Nothing herein contained shall affect any vested and accrued rights of ownership of lands or any valid existing claim, location, or entry existing under the land laws of the United States on July 3, 1930, whether for homestead, mineral, rights-of-way, or any other purposes whatsoever, or any water rights and/or rights-of-way connected therewith, including reservoirs, conduits, and ditches, as may be recognized by local customs, laws, and decisions of courts, or shall affect the right of any such owner, claimant, locator, or entryman to the full use and enjoyment of his land.
 
-([July 3, 1930, ch. 834, § 3][/us/act/1930-07-03/ch834/s3], [46 Stat. 853][/us/stat/46/853].)
+([July 3, 1930, ch. 834][/us/act/1930-07-03/ch834], § 3, [46 Stat. 853][/us/stat/46/853].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1930-07-03/ch834/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-07-03%2Fch834%2Fs3
+[/us/act/1930-07-03/ch834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-07-03%2Fch834
 [/us/stat/46/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F853
 
 

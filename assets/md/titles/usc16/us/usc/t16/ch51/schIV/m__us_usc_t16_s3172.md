@@ -27,7 +27,7 @@
 
         The provisions of this section shall apply to that section of the North Slope Haul Road, which extends from the southern terminus of the Yukon River Bridge to the northern terminus of the Road at Prudhoe Bay.
 
-([Pub. L. 96–487, title XI, § 1112][/us/pl/96/487/s1112], Dec. 2, 1980, [94 Stat. 2465][/us/stat/94/2465].)
+([Pub. L. 96–487, title XI][/us/pl/96/487/tXI], § 1112, Dec. 2, 1980, [94 Stat. 2465][/us/stat/94/2465].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/96/487/s1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1112
+[/us/pl/96/487/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXI
 [/us/stat/94/2465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2465
 
 

@@ -215,13 +215,13 @@
 
             The Secretary may enter into such contracts and agreements with the State of New Jersey and other public and private entities as may be necessary and appropriate to carry out the authorities and responsibilities of the Secretary under this subsection. For purposes of this subsection, there is authorized to be appropriated not more than $500,000 to prepare and complete the study pursuant to paragraph (1) and $3,000,000 to implement the recommendations of such study upon its approval by the Congress, the Federal share of which may not exceed 75 percent of the total cost.
 
-([Pub. L. 95–625, title V, § 502][/us/pl/95/625/s502], Nov. 10, 1978, [92 Stat. 3492][/us/stat/92/3492]; [Pub. L. 100–486][/us/pl/100/486], Oct. 13, 1988, [102 Stat. 2429][/us/stat/102/2429]; [Pub. L. 113–287, § 5(d)(10)][/us/pl/113/287/s5/d/10], Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265].)
+([Pub. L. 95–625, title V][/us/pl/95/625/tV], § 502, Nov. 10, 1978, [92 Stat. 3492][/us/stat/92/3492]; [Pub. L. 100–486][/us/pl/100/486], Oct. 13, 1988, [102 Stat. 2429][/us/stat/102/2429]; [Pub. L. 113–287][/us/pl/113/287], § 5(d)(10), Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265].)
 
  __References in Text__ 
 
-    The Clean Water Act, referred to in subsec. (f)(9), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
+    The Clean Water Act, referred to in subsec. (f)(9), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
 
-    The Safe Drinking Water Act, referred to in subsec. (f)(9), is title XIV of act July 1, 1944, as added Dec. 16, 1974, [Pub. L. 93–523, § 2(a)][/us/pl/93/523/s2/a], [88 Stat. 1660][/us/stat/88/1660], as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42][/us/usc/t42/s201] and Tables.
+    The Safe Drinking Water Act, referred to in subsec. (f)(9), is title XIV of act July 1, 1944, as added Dec. 16, 1974, [Pub. L. 93–523][/us/pl/93/523], § 2(a), [88 Stat. 1660][/us/stat/88/1660], as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42][/us/usc/t42/s201] and Tables.
 
     The Outer Continental Shelf Lands Act, as amended, referred to in subsec. (k)(1), is [act Aug. 7, 1953, ch. 345][/us/act/1953-08-07/ch345], [67 Stat. 462][/us/stat/67/462], as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43][/us/usc/t43/s1301] and Tables.
 
@@ -231,9 +231,9 @@
 
     2014—Subsec. (h)(1)(B). [Pub. L. 113–287][/us/pl/113/287], which directed substitution of “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act” in section 502 of the National Parks and Recreation Act of 1998, was executed to this section, which is section 502 of the National Parks and Recreation Act of 1978, to reflect the probable intent of Congress.
 
-    1988—Subsec. (k). [Pub. L. 100–486, § 2][/us/pl/100/486/s2], designated existing provisions as par. (1) and added par. (2).
+    1988—Subsec. (k). [Pub. L. 100–486][/us/pl/100/486], § 2, designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (l). [Pub. L. 100–486, § 1][/us/pl/100/486/s1], added subsec. (l).
+    Subsec. (l). [Pub. L. 100–486][/us/pl/100/486], § 1, added subsec. (l).
 
 ----------
 
@@ -245,17 +245,17 @@
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/usc/t42/s300f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300f
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
-[/us/pl/95/625/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs502
+[/us/pl/95/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtV
 [/us/stat/92/3492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3492
 [/us/pl/100/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F486
 [/us/stat/102/2429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2429
-[/us/pl/113/287/s5/d/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F10
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3265
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F816
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
-[/us/pl/93/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs2%2Fa
+[/us/pl/93/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523
 [/us/stat/88/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1660
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/act/1953-08-07/ch345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-07%2Fch345
@@ -263,7 +263,7 @@
 [/us/usc/t43/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1301
 [/us/pl/100/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F486
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
-[/us/pl/100/486/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F486%2Fs2
-[/us/pl/100/486/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F486%2Fs1
+[/us/pl/100/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F486
+[/us/pl/100/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F486
 
 

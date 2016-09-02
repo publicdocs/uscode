@@ -29,7 +29,7 @@
 
         the Secretary shall immediately discontinue any further funding under subchapter III.
 
-([Pub. L. 96–561, title I, § 141][/us/pl/96/561/s141], Dec. 22, 1980, [94 Stat. 3286][/us/stat/94/3286].)
+([Pub. L. 96–561, title I][/us/pl/96/561/tI], § 141, Dec. 22, 1980, [94 Stat. 3286][/us/stat/94/3286].)
 
 ----------
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t16/s3314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3314
-[/us/pl/96/561/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs141
+[/us/pl/96/561/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtI
 [/us/stat/94/3286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3286
 
 

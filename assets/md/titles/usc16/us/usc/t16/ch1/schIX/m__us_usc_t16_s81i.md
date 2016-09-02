@@ -17,7 +17,7 @@
 
     In the event that lands and/or buildings, structures, and so forth, within the city of Williamsburg are donated to the United States and are thereafter revenue producing, the United States shall pay in the treasury of the city of Williamsburg 25 per centum of any rentals included in said revenues, and 25 per centum of the net proceeds of any commercial enterprise there conducted by the United States, such payment into the treasury of the city of Williamsburg not to exceed $20,000 in any year.
 
-([July 3, 1930, ch. 837, § 7][/us/act/1930-07-03/ch837/s7], [46 Stat. 856][/us/stat/46/856].)
+([July 3, 1930, ch. 837][/us/act/1930-07-03/ch837], § 7, [46 Stat. 856][/us/stat/46/856].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1930-07-03/ch837/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-07-03%2Fch837%2Fs7
+[/us/act/1930-07-03/ch837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-07-03%2Fch837
 [/us/stat/46/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F856
 [/us/usc/t16/s443f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs443f
 

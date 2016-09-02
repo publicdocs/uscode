@@ -23,7 +23,7 @@
 
         In addition to the funds authorized by subsection (a), there are authorized to be appropriated such sums as are necessary to acquire land and submerged land on and adjacent to Cat Island, Mississippi.
 
-([Pub. L. 91–660, § 11][/us/pl/91/660/s11], Jan. 8, 1971, [84 Stat. 1970][/us/stat/84/1970]; [Pub. L. 92–275, § 1(2)][/us/pl/92/275/s1/2], Apr. 20, 1972, [86 Stat. 123][/us/stat/86/123]; [Pub. L. 94–578, title I, § 101(6)][/us/pl/94/578/s101/6], Oct. 21, 1976, [90 Stat. 2732][/us/stat/90/2732]; [Pub. L. 95–625, title I, § 101(13)][/us/pl/95/625/s101/13], Nov. 10, 1978, [92 Stat. 3471][/us/stat/92/3471]; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 137(e)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–232.)
+([Pub. L. 91–660][/us/pl/91/660], § 11, Jan. 8, 1971, [84 Stat. 1970][/us/stat/84/1970]; [Pub. L. 92–275][/us/pl/92/275], § 1(2), Apr. 20, 1972, [86 Stat. 123][/us/stat/86/123]; [Pub. L. 94–578, title I][/us/pl/94/578/tI], § 101(6), Oct. 21, 1976, [90 Stat. 2732][/us/stat/90/2732]; [Pub. L. 95–625, title I][/us/pl/95/625/tI], § 101(13), Nov. 10, 1978, [92 Stat. 3471][/us/stat/92/3471]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 137(e)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–232.)
 
  __Amendments__ 
 
@@ -42,15 +42,15 @@
 ----------
 ----------
 
-[/us/pl/91/660/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F660%2Fs11
+[/us/pl/91/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F660
 [/us/stat/84/1970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1970
-[/us/pl/92/275/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F275%2Fs1%2F2
+[/us/pl/92/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F275
 [/us/stat/86/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F123
-[/us/pl/94/578/s101/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2Fs101%2F6
+[/us/pl/94/578/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2FtI
 [/us/stat/90/2732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2732
-[/us/pl/95/625/s101/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs101%2F13
+[/us/pl/95/625/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtI
 [/us/stat/92/3471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3471
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625

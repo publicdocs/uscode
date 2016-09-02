@@ -17,7 +17,7 @@
 
     In the administration of the area for the purposes of this subchapter, the Secretary of the Interior may utilize such statutory authorities relating to areas of the national park system and such statutory authorities otherwise available to him for the conservation, management, or disposal of vegetative, mineral, or fish or wildlife resources as he deems appropriate to carry out the purposes of this subchapter. To assure consistent and effective planning, development, and operation for all purposes of the project, the Secretary of the Interior and the Secretary of the Army shall coordinate the administration of their respective responsibilities in the project; and such administration shall be consistent with the joint resolution approved September 27, 1961 (re Delaware River Basin compact; [75 Stat. 688][/us/stat/75/688]).
 
-([Pub. L. 89–158, § 4][/us/pl/89/158/s4], Sept. 1, 1965, [79 Stat. 613][/us/stat/79/613].)
+([Pub. L. 89–158][/us/pl/89/158], § 4, Sept. 1, 1965, [79 Stat. 613][/us/stat/79/613].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/stat/75/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F688
-[/us/pl/89/158/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F158%2Fs4
+[/us/pl/89/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F158
 [/us/stat/79/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F613
 
 

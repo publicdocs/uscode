@@ -109,7 +109,7 @@
 
         A council may submit to the Secretary amendments to the text of the council’s charter. Any proposed amendments to a charter shall be approved or disapproved in the same manner as the original charter was approved under section 4009(d) and (e) of this title, with the exception of [section 4009(d)(1)(B) of this title][/us/usc/t16/s4009/d/1/B].
 
-([Pub. L. 99–659, title II, § 211][/us/pl/99/659/s211], Nov. 14, 1986, [100 Stat. 3724][/us/stat/100/3724].)
+([Pub. L. 99–659, title II][/us/pl/99/659/tII], § 211, Nov. 14, 1986, [100 Stat. 3724][/us/stat/100/3724].)
 
 ----------
 
@@ -129,7 +129,7 @@
 [/us/usc/t16/s4009/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4009%2Fb%2F3
 [/us/usc/t16/s4015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4015
 [/us/usc/t16/s4009/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4009%2Fd%2F1%2FB
-[/us/pl/99/659/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs211
+[/us/pl/99/659/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtII
 [/us/stat/100/3724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3724
 
 

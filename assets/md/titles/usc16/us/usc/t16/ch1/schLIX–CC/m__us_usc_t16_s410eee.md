@@ -37,7 +37,7 @@
 
         The purpose of this subchapter is to establish the Adams National Historical Park in the City of Quincy, in the Commonwealth of Massachusetts, to preserve, maintain and interpret the home, property, birthplaces, and burial site of John Adams and his wife Abigail, John Quincy Adams, and subsequent generations of the Adams family associated with the Adams property in Quincy, Massachusetts, for the benefit, education and inspiration of present and future generations of Americans.
 
-([Pub. L. 105–342, § 2][/us/pl/105/342/s2], Nov. 2, 1998, [112 Stat. 3200][/us/stat/112/3200].)
+([Pub. L. 105–342][/us/pl/105/342], § 2, Nov. 2, 1998, [112 Stat. 3200][/us/stat/112/3200].)
 
  __References in Text__ 
 
@@ -51,11 +51,11 @@
 
  __Codification__ 
 
-    In subsec. (a)(1), “[section 1866(a) of title 18][/us/usc/t18/s1866/a] and [section 320102 of title 54][/us/usc/t54/s320102]” substituted for “section 2 of the Historic Sites Act of August 21, 1935” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (a)(1), “[section 1866(a) of title 18][/us/usc/t18/s1866/a] and [section 320102 of title 54][/us/usc/t54/s320102]” substituted for “section 2 of the Historic Sites Act of August 21, 1935” on authority of [Pub. L. 113–287][/us/pl/113/287], § 6(e), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
  __Short Title__ 
 
-[Pub. L. 105–342, § 1][/us/pl/105/342/s1], Nov. 2, 1998, [112 Stat. 3200][/us/stat/112/3200], provided that: 
+[Pub. L. 105–342][/us/pl/105/342], § 1, Nov. 2, 1998, [112 Stat. 3200][/us/stat/112/3200], provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘Adams National Historical Park Act of 1998’.”
 
@@ -71,7 +71,7 @@
 [/us/pl/92/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F272
 [/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
 [/us/pl/96/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F435
-[/us/pl/105/342/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F342%2Fs2
+[/us/pl/105/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F342
 [/us/stat/112/3200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3200
 [/us/act/1935-08-21/ch593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-21%2Fch593
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
@@ -94,9 +94,9 @@
 [/us/stat/94/1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1861
 [/us/usc/t18/s1866/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1866%2Fa
 [/us/usc/t54/s320102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320102
-[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
-[/us/pl/105/342/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F342%2Fs1
+[/us/pl/105/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F342
 [/us/stat/112/3200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3200
 
 

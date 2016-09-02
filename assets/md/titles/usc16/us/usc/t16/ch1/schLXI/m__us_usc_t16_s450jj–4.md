@@ -25,7 +25,7 @@
 
     In transferring any lands or interest in lands under this section, the Secretary shall take into account the views of the Commission established under [section 450jj–6 of this title][/us/usc/t16/s450jj–6].
 
-([May 17, 1954, ch. 204, § 5][/us/act/1954-05-17/ch204/s5], as added [Pub. L. 98–398, title II, § 201(a)][/us/pl/98/398/s201/a], Aug. 24, 1984, [98 Stat. 1468][/us/stat/98/1468].)
+([May 17, 1954, ch. 204][/us/act/1954-05-17/ch204], § 5, as added [Pub. L. 98–398, title II][/us/pl/98/398/tII], § 201(a), Aug. 24, 1984, [98 Stat. 1468][/us/stat/98/1468].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 
  __Codification__ 
 
-    In introductory provisions, “sections 100903 and 102901 of title 54” substituted for “[section 5 of the Act of July 15, 1968][/us/act/1968-07-15/s5] ([82 Stat. 356][/us/stat/82/356]; [16 U.S.C. 460][/us/usc/t16/s460]l–22)” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In introductory provisions, “sections 100903 and 102901 of title 54” substituted for “[section 5 of the Act of July 15, 1968][/us/act/1968-07-15/s5] ([82 Stat. 356][/us/stat/82/356]; [16 U.S.C. 460][/us/usc/t16/s460]l–22)” on authority of [Pub. L. 113–287][/us/pl/113/287], § 6(e), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
  __Prior Provisions__ 
 
@@ -48,15 +48,15 @@
 
 [/us/usc/t16/s450jj–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450jj%E2%80%933
 [/us/usc/t16/s450jj–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450jj%E2%80%936
-[/us/act/1954-05-17/ch204/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-17%2Fch204%2Fs5
-[/us/pl/98/398/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F398%2Fs201%2Fa
+[/us/act/1954-05-17/ch204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-17%2Fch204
+[/us/pl/98/398/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F398%2FtII
 [/us/stat/98/1468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1468
 [/us/usc/t16/s450jj–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450jj%E2%80%936
 [/us/act/1954-05-17/ch204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-17%2Fch204
 [/us/act/1968-07-15/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1968-07-15%2Fs5
 [/us/stat/82/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F356
 [/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
-[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/usc/t16/s450jj]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450jj
 [/us/pl/85/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F936

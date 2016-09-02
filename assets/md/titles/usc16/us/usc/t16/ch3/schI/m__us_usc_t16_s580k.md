@@ -35,11 +35,11 @@
 
         (2) Any such local advisory board may at any time recommend to the Secretary of Agriculture, or his representative, the issuance of regulations or instructions relating to the use of national forest lands, seasons of use, grazing capacity of such lands, and any other matters affecting the administration of grazing in the area represented by such board.
 
-([Apr. 24, 1950, ch. 97, § 18][/us/act/1950-04-24/ch97/s18], [64 Stat. 87][/us/stat/64/87].)
+([Apr. 24, 1950, ch. 97][/us/act/1950-04-24/ch97], § 18, [64 Stat. 87][/us/stat/64/87].)
 
  __References in Text__ 
 
-    [Section 581 of this title][/us/usc/t16/s581], referred to in subsec. (c)(1), was repealed by [Pub. L. 95–307, § 8(a)][/us/pl/95/307/s8/a], June 30, 1978, [92 Stat. 356][/us/stat/92/356].
+    [Section 581 of this title][/us/usc/t16/s581], referred to in subsec. (c)(1), was repealed by [Pub. L. 95–307][/us/pl/95/307], § 8(a), June 30, 1978, [92 Stat. 356][/us/stat/92/356].
 
  __Termination of Advisory Boards__ 
 
@@ -52,10 +52,10 @@
 ----------
 ----------
 
-[/us/act/1950-04-24/ch97/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-24%2Fch97%2Fs18
+[/us/act/1950-04-24/ch97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-24%2Fch97
 [/us/stat/64/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F87
 [/us/usc/t16/s581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs581
-[/us/pl/95/307/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F307%2Fs8%2Fa
+[/us/pl/95/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F307
 [/us/stat/92/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F356
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

@@ -63,7 +63,7 @@
 
         In order to encourage unified and cost-effective interpretation of the Great Basin physiographic region, the Secretary is authorized and encouraged to enter into cooperative agreements with other Federal, State, and local public departments and agencies providing for the interpretation of the Great Basin physiographic region. Such agreements shall include, but not be limited to, authority for the Secretary to develop and operate interpretive facilities and programs on lands and waters outside of the boundaries of such park, with the concurrence of the owner or administrator thereof.
 
-([Pub. L. 99–565, § 3][/us/pl/99/565/s3], Oct. 27, 1986, [100 Stat. 3182][/us/stat/100/3182]; [Pub. L. 104–134, title I, § 101(c)][/us/pl/104/134/s101/c] \[title III, § 319\], Apr. 26, 1996, [110 Stat. 1321–156][/us/stat/110/1321-156], 1321–203; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].)
+([Pub. L. 99–565][/us/pl/99/565], § 3, Oct. 27, 1986, [100 Stat. 3182][/us/stat/100/3182]; [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(c) \[title III, § 319\], Apr. 26, 1996, [110 Stat. 1321–156][/us/stat/110/1321-156], 1321–203; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].)
 
  __References in Text__ 
 
@@ -73,9 +73,9 @@
 
  __Amendments__ 
 
-    1996—Subsec. (e). [Pub. L. 104–134, § 101(c)][/us/pl/104/134/s101/c] \[title III, § 319(1)\], substituted “may permit” for “shall permit” in first sentence.
+    1996—Subsec. (e). [Pub. L. 104–134][/us/pl/104/134], § 101(c) \[title III, § 319(1)\], substituted “may permit” for “shall permit” in first sentence.
 
-    Subsec. (f). [Pub. L. 104–134, § 101(c)][/us/pl/104/134/s101/c] \[title III, § 319(2)\], designated existing provisions as par. (1), inserted heading, substituted “grazing permits and grazing leases” for “grazing permits”, and added par. (2).
+    Subsec. (f). [Pub. L. 104–134][/us/pl/104/134], § 101(c) \[title III, § 319(2)\], designated existing provisions as par. (1), inserted heading, substituted “grazing permits and grazing leases” for “grazing permits”, and added par. (2).
 
  __Change of Name__ 
 
@@ -93,11 +93,11 @@
 [/us/usc/t30/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1001
 [/us/usc/t16/s410mm]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410mm
 [/us/usc/t16/s410mm]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410mm
-[/us/pl/99/565/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F565%2Fs3
+[/us/pl/99/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F565
 [/us/stat/100/3182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3182
-[/us/pl/104/134/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fc
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-156
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1%E2%80%934
@@ -111,7 +111,7 @@
 [/us/pl/91/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581
 [/us/stat/84/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1566
 [/us/usc/t30/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1001
-[/us/pl/104/134/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fc
-[/us/pl/104/134/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fc
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 
 

@@ -35,7 +35,7 @@
 
         The Secretary of the Interior is authorized to purchase with donated or appropriated funds, or acquire by exchange, not to exceed one hundred acres of lands or interests in lands at or near Beaufort, North Carolina, as an administrative site, and for a landing dock and related facilities that may be used to provide a suitable approach or access to the seashore.
 
-([Pub. L. 89–366, § 2][/us/pl/89/366/s2], Mar. 10, 1966, [80 Stat. 34][/us/stat/80/34]; [Pub. L. 93–477, title IV, § 406(2)][/us/pl/93/477/s406/2], Oct. 26, 1974, [88 Stat. 1448][/us/stat/88/1448].)
+([Pub. L. 89–366][/us/pl/89/366], § 2, Mar. 10, 1966, [80 Stat. 34][/us/stat/80/34]; [Pub. L. 93–477, title IV][/us/pl/93/477/tIV], § 406(2), Oct. 26, 1974, [88 Stat. 1448][/us/stat/88/1448].)
 
  __Amendments__ 
 
@@ -49,9 +49,9 @@
 ----------
 
 [/us/usc/t16/s459g–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459g%E2%80%936
-[/us/pl/89/366/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F366%2Fs2
+[/us/pl/89/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F366
 [/us/stat/80/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F34
-[/us/pl/93/477/s406/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F477%2Fs406%2F2
+[/us/pl/93/477/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F477%2FtIV
 [/us/stat/88/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1448
 [/us/pl/93/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F477
 

@@ -103,7 +103,7 @@
 
         The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to any activity carried out under this section.
 
-([Sept. 2, 1937, ch. 899, § 11][/us/act/1937-09-02/ch899/s11], as added [Pub. L. 106–408, title I, § 113][/us/pl/106/408/s113], Nov. 1, 2000, [114 Stat. 1767][/us/stat/114/1767].)
+([Sept. 2, 1937, ch. 899][/us/act/1937-09-02/ch899], § 11, as added [Pub. L. 106–408, title I][/us/pl/106/408/tI], § 113, Nov. 1, 2000, [114 Stat. 1767][/us/stat/114/1767].)
 
  __References in Text__ 
 
@@ -122,8 +122,8 @@
 
 [/us/usc/t16/s669c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs669c%2Fb
 [/us/usc/t16/s669c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs669c%2Fb
-[/us/act/1937-09-02/ch899/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-02%2Fch899%2Fs11
-[/us/pl/106/408/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2Fs113
+[/us/act/1937-09-02/ch899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-02%2Fch899
+[/us/pl/106/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2FtI
 [/us/stat/114/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1767
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

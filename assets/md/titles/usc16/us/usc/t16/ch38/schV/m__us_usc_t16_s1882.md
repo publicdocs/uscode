@@ -63,7 +63,7 @@
 
             The Secretary is authorized to provide necessary technical advice and assistance, including grants, to the Councils for the development and design of regional pilot programs that build upon the recommendations of the advisory panel and, when completed, the study.
 
-([Pub. L. 94–265, title IV, § 406][/us/pl/94/265/s406], Apr. 13, 1976, [90 Stat. 361][/us/stat/90/361]; [Pub. L. 95–354, § 1][/us/pl/95/354/s1], Aug. 28, 1978, [92 Stat. 519][/us/stat/92/519]; [Pub. L. 96–61, § 1][/us/pl/96/61/s1], Aug. 15, 1979, [93 Stat. 407][/us/stat/93/407]; [Pub. L. 97–453, § 14(a)][/us/pl/97/453/s14/a], Jan. 12, 1983, [96 Stat. 2492][/us/stat/96/2492]; [Pub. L. 99–659, title I, § 111(a)][/us/pl/99/659/s111/a], Nov. 14, 1986, [100 Stat. 3715][/us/stat/100/3715]; [Pub. L. 101–627, title I, § 119][/us/pl/101/627/s119], Nov. 28, 1990, [104 Stat. 4459][/us/stat/104/4459]; [Pub. L. 104–297, title II, § 207(a)][/us/pl/104/297/s207/a], Oct. 11, 1996, [110 Stat. 3612][/us/stat/110/3612]; [Pub. L. 109–479, title II, § 210][/us/pl/109/479/s210], Jan. 12, 2007, [120 Stat. 3617][/us/stat/120/3617].)
+([Pub. L. 94–265, title IV][/us/pl/94/265/tIV], § 406, Apr. 13, 1976, [90 Stat. 361][/us/stat/90/361]; [Pub. L. 95–354][/us/pl/95/354], § 1, Aug. 28, 1978, [92 Stat. 519][/us/stat/92/519]; [Pub. L. 96–61][/us/pl/96/61], § 1, Aug. 15, 1979, [93 Stat. 407][/us/stat/93/407]; [Pub. L. 97–453][/us/pl/97/453], § 14(a), Jan. 12, 1983, [96 Stat. 2492][/us/stat/96/2492]; [Pub. L. 99–659, title I][/us/pl/99/659/tI], § 111(a), Nov. 14, 1986, [100 Stat. 3715][/us/stat/100/3715]; [Pub. L. 101–627, title I][/us/pl/101/627/tI], § 119, Nov. 28, 1990, [104 Stat. 4459][/us/stat/104/4459]; [Pub. L. 104–297, title II][/us/pl/104/297/tII], § 207(a), Oct. 11, 1996, [110 Stat. 3612][/us/stat/110/3612]; [Pub. L. 109–479, title II][/us/pl/109/479/tII], § 210, Jan. 12, 2007, [120 Stat. 3617][/us/stat/120/3617].)
 
  __References in Text__ 
 
@@ -97,21 +97,21 @@
 ----------
 
 [/us/usc/t16/s1852/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1852%2Fg
-[/us/pl/94/265/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs406
+[/us/pl/94/265/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2FtIV
 [/us/stat/90/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F361
-[/us/pl/95/354/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F354%2Fs1
+[/us/pl/95/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F354
 [/us/stat/92/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F519
-[/us/pl/96/61/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F61%2Fs1
+[/us/pl/96/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F61
 [/us/stat/93/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F407
-[/us/pl/97/453/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453%2Fs14%2Fa
+[/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
 [/us/stat/96/2492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2492
-[/us/pl/99/659/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs111%2Fa
+[/us/pl/99/659/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtI
 [/us/stat/100/3715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3715
-[/us/pl/101/627/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs119
+[/us/pl/101/627/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtI
 [/us/stat/104/4459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4459
-[/us/pl/104/297/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs207%2Fa
+[/us/pl/104/297/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtII
 [/us/stat/110/3612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3612
-[/us/pl/109/479/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs210
+[/us/pl/109/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtII
 [/us/stat/120/3617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3617
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331

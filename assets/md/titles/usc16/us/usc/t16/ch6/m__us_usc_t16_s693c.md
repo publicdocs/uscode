@@ -17,7 +17,7 @@
 
     The area designated as the Robert S. Kerr Memorial Arboretum and Nature Center shall be administered, protected, and developed within and as a part of the Ouachita National Forest by the Secretary of Agriculture in accordance with the laws, rules, and regulations applicable to national forests in such manner as in his judgment will best provide for the purposes of sections 693b to 693d of this title and to provide for such management, utilization, and disposal of the natural resources as in his judgment will promote or is compatible with and does not significantly impair the purposes for which the Robert S. Kerr Memorial Arboretum and Nature Center is established.
 
-([Pub. L. 90–327, § 2][/us/pl/90/327/s2], June 4, 1968, [82 Stat. 169][/us/stat/82/169].)
+([Pub. L. 90–327][/us/pl/90/327], § 2, June 4, 1968, [82 Stat. 169][/us/stat/82/169].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/327/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F327%2Fs2
+[/us/pl/90/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F327
 [/us/stat/82/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F169
 
 

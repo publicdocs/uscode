@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated not more than $7,100,000 for the acquisition of land and interests in land pursuant to [section 460n–1 of this title][/us/usc/t16/s460n–1].
 
-([Pub. L. 88–639, § 10][/us/pl/88/639/s10], Oct. 8, 1964, [78 Stat. 1041][/us/stat/78/1041]; [Pub. L. 93–477, title I, § 101(12)][/us/pl/93/477/s101/12], Oct. 26, 1974, [88 Stat. 1445][/us/stat/88/1445].)
+([Pub. L. 88–639][/us/pl/88/639], § 10, Oct. 8, 1964, [78 Stat. 1041][/us/stat/78/1041]; [Pub. L. 93–477, title I][/us/pl/93/477/tI], § 101(12), Oct. 26, 1974, [88 Stat. 1445][/us/stat/88/1445].)
 
  __Amendments__ 
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/usc/t16/s460n–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460n%E2%80%931
-[/us/pl/88/639/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F639%2Fs10
+[/us/pl/88/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F639
 [/us/stat/78/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1041
-[/us/pl/93/477/s101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F477%2Fs101%2F12
+[/us/pl/93/477/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F477%2FtI
 [/us/stat/88/1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1445
 [/us/pl/93/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F477
 

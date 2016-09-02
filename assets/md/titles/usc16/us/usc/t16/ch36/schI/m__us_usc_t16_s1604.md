@@ -143,7 +143,7 @@
 
         (2) exceptions to these standards for the harvest of particular species of trees in management units after consideration has been given to the multiple uses of the forest including, but not limited to, recreation, wildlife habitat, and range and after completion of public participation processes utilizing the procedures of subsection (d) of this section.
 
-([Pub. L. 93–378, § 6][/us/pl/93/378/s6], formerly, § 5, Aug. 17, 1974, [88 Stat. 477][/us/stat/88/477], renumbered § 6 and amended [Pub. L. 94–588][/us/pl/94/588], §§ 2, 6, 12(a), Oct. 22, 1976, [90 Stat. 2949][/us/stat/90/2949], 2952, 2958.)
+([Pub. L. 93–378][/us/pl/93/378], § 6, formerly, § 5, Aug. 17, 1974, [88 Stat. 477][/us/stat/88/477], renumbered § 6 and amended [Pub. L. 94–588][/us/pl/94/588], §§ 2, 6, 12(a), Oct. 22, 1976, [90 Stat. 2949][/us/stat/90/2949], 2952, 2958.)
 
  __References in Text__ 
 
@@ -153,9 +153,9 @@
 
  __Amendments__ 
 
-    1976—Subsec. (a). [Pub. L. 94–588, § 12(a)][/us/pl/94/588/s12/a], substituted “section 4” for “section 3” in the original, which, because of the translation as “[section 1602 of this title][/us/usc/t16/s1602]” required no change in text.
+    1976—Subsec. (a). [Pub. L. 94–588][/us/pl/94/588], § 12(a), substituted “section 4” for “section 3” in the original, which, because of the translation as “[section 1602 of this title][/us/usc/t16/s1602]” required no change in text.
 
-    Subsecs. (c) to (m). [Pub. L. 94–588, § 6][/us/pl/94/588/s6], added subsecs. (c) to (m).
+    Subsecs. (c) to (m). [Pub. L. 94–588][/us/pl/94/588], § 6, added subsecs. (c) to (m).
 
  __Transfer of Functions__ 
 
@@ -163,47 +163,47 @@
 
  __Revision of Forest Plans__ 
 
-[Pub. L. 114–113, div. G, title IV, § 407][/us/pl/114/113/s407], Dec. 18, 2015, [129 Stat. 2575][/us/stat/129/2575], provided that: 
+[Pub. L. 114–113, div. G, title IV][/us/pl/114/113/dG/tIV], § 407, Dec. 18, 2015, [129 Stat. 2575][/us/stat/129/2575], provided that: 
 
 > “The Secretary of Agriculture shall not be considered to be in violation of subparagraph 6(f)(5)(A) of the Forest and Rangeland Renewable Resources Planning Act of 1974 ([16 U.S.C. 1604(f)(5)(A)][/us/usc/t16/s1604/f/5/A]) solely because more than 15 years have passed without revision of the plan for a unit of the National Forest System. Nothing in this section exempts the Secretary from any other requirement of the Forest and Rangeland Renewable Resources Planning Act ([16 U.S.C. 1600][/us/usc/t16/s1600] et seq.) or any other law: Provided, That if the Secretary is not acting expeditiously and in good faith, within the funding available, to revise a plan for a unit of the National Forest System, this section shall be void with respect to such plan and a court of proper jurisdiction may order completion of the plan on an accelerated basis.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 113–235, div. F, title IV, § 408][/us/pl/113/235/s408], Dec. 16, 2014, [128 Stat. 2445][/us/stat/128/2445].
+    [Pub. L. 113–235, div. F, title IV][/us/pl/113/235/dF/tIV], § 408, Dec. 16, 2014, [128 Stat. 2445][/us/stat/128/2445].
 
-    [Pub. L. 113–76, div. G, title IV, § 407][/us/pl/113/76/s407], Jan. 17, 2014, [128 Stat. 338][/us/stat/128/338].
+    [Pub. L. 113–76, div. G, title IV][/us/pl/113/76/dG/tIV], § 407, Jan. 17, 2014, [128 Stat. 338][/us/stat/128/338].
 
-    [Pub. L. 112–74, div. E, title IV, § 409][/us/pl/112/74/s409], Dec. 23, 2011, [125 Stat. 1039][/us/stat/125/1039].
+    [Pub. L. 112–74, div. E, title IV][/us/pl/112/74/dE/tIV], § 409, Dec. 23, 2011, [125 Stat. 1039][/us/stat/125/1039].
 
-    [Pub. L. 111–88, div. A, title IV, § 410][/us/pl/111/88/s410], Oct. 30, 2009, [123 Stat. 2957][/us/stat/123/2957].
+    [Pub. L. 111–88, div. A, title IV][/us/pl/111/88/dA/tIV], § 410, Oct. 30, 2009, [123 Stat. 2957][/us/stat/123/2957].
 
-    [Pub. L. 111–8, div. E, title IV, § 410][/us/pl/111/8/s410], Mar. 11, 2009, [123 Stat. 746][/us/stat/123/746].
+    [Pub. L. 111–8, div. E, title IV][/us/pl/111/8/dE/tIV], § 410, Mar. 11, 2009, [123 Stat. 746][/us/stat/123/746].
 
-    [Pub. L. 110–161, div. F, title IV, § 410][/us/pl/110/161/s410], Dec. 26, 2007, [121 Stat. 2146][/us/stat/121/2146].
+    [Pub. L. 110–161, div. F, title IV][/us/pl/110/161/dF/tIV], § 410, Dec. 26, 2007, [121 Stat. 2146][/us/stat/121/2146].
 
-    [Pub. L. 109–54, title IV, § 415][/us/pl/109/54/s415], Aug. 2, 2005, [119 Stat. 551][/us/stat/119/551].
+    [Pub. L. 109–54, title IV][/us/pl/109/54/tIV], § 415, Aug. 2, 2005, [119 Stat. 551][/us/stat/119/551].
 
-    [Pub. L. 108–447, div. E, title III, § 320][/us/pl/108/447/s320], Dec. 8, 2004, [118 Stat. 3097][/us/stat/118/3097].
+    [Pub. L. 108–447, div. E, title III][/us/pl/108/447/dE/tIII], § 320, Dec. 8, 2004, [118 Stat. 3097][/us/stat/118/3097].
 
-    [Pub. L. 108–108, title III, § 320][/us/pl/108/108/s320], Nov. 10, 2003, [117 Stat. 1306][/us/stat/117/1306].
+    [Pub. L. 108–108, title III][/us/pl/108/108/tIII], § 320, Nov. 10, 2003, [117 Stat. 1306][/us/stat/117/1306].
 
-    [Pub. L. 108–7, div. F, title III, § 320][/us/pl/108/7/s320], Feb. 20, 2003, 117 Stat 274.
+    [Pub. L. 108–7, div. F, title III][/us/pl/108/7/dF/tIII], § 320, Feb. 20, 2003, 117 Stat 274.
 
-    [Pub. L. 107–63, title III, § 327][/us/pl/107/63/s327], Nov. 5, 2001, [115 Stat. 470][/us/stat/115/470].
+    [Pub. L. 107–63, title III][/us/pl/107/63/tIII], § 327, Nov. 5, 2001, [115 Stat. 470][/us/stat/115/470].
 
  __Expeditious Completion of Management Plans of Forest Service and Bureau of Land Management; Continuation of Existing Plans; Judicial Review__ 
 
-[Pub. L. 101–121, title III, § 312][/us/pl/101/121/s312], Oct. 23, 1989, [103 Stat. 743][/us/stat/103/743], provided that: 
+[Pub. L. 101–121, title III][/us/pl/101/121/tIII], § 312, Oct. 23, 1989, [103 Stat. 743][/us/stat/103/743], provided that: 
 
 > “The Forest Service and Bureau of Land Management are to continue to complete as expeditiously as possible development of their respective Forest Land and Resource Management Plans to meet all applicable statutory requirements. Notwithstanding the date in section 6(c) of the NFMA ([16 U.S.C. 1600][/us/usc/t16/s1600]) \[[16 U.S.C. 1604(c)][/us/usc/t16/s1604/c]\], the Forest Service, and the Bureau of Land Management under separate authority, may continue the management of lands within their jurisdiction under existing land and resource management plans pending the completion of new plans. Nothing shall limit judicial review of particular activities on these lands: Provided, however, That there shall be no challenges to any existing plan on the sole basis that the plan in its entirety is outdated, or in the case of the Bureau of Land Management, solely on the basis that the plan does not incorporate information available subsequent to the completion of the existing plan: Provided further, That any and all particular activities to be carried out under existing plans may nevertheless be challenged.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 100–446, title III, § 314][/us/pl/100/446/s314], Sept. 27, 1988, [102 Stat. 1825][/us/stat/102/1825].
+    [Pub. L. 100–446, title III][/us/pl/100/446/tIII], § 314, Sept. 27, 1988, [102 Stat. 1825][/us/stat/102/1825].
 
-    [Pub. L. 100–202, § 101(g)][/us/pl/100/202/s101/g] \[title III, § 314\], Dec. 22, 1987, [101 Stat. 1329–213][/us/stat/101/1329-213], 1329–254.
+    [Pub. L. 100–202][/us/pl/100/202], § 101(g) \[title III, § 314\], Dec. 22, 1987, [101 Stat. 1329–213][/us/stat/101/1329-213], 1329–254.
 
-    [Pub. L. 99–500, § 101(h)][/us/pl/99/500/s101/h] \[title II\], Oct. 18, 1986, [100 Stat. 1783–242][/us/stat/100/1783-242], 1783–268, and [Pub. L. 99–591, § 101(h)][/us/pl/99/591/s101/h] \[title II\], Oct. 30, 1986, [100 Stat. 3341–242][/us/stat/100/3341-242], 3341–268.
+    [Pub. L. 99–500][/us/pl/99/500], § 101(h) \[title II\], Oct. 18, 1986, [100 Stat. 1783–242][/us/stat/100/1783-242], 1783–268, and [Pub. L. 99–591][/us/pl/99/591], § 101(h) \[title II\], Oct. 30, 1986, [100 Stat. 3341–242][/us/stat/100/3341-242], 3341–268.
 
 ----------
 
@@ -221,7 +221,7 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t42/s4332/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332%2F2%2FC
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t16/s1606/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1606%2Fc
-[/us/pl/93/378/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F378%2Fs6
+[/us/pl/93/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F378
 [/us/stat/88/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F477
 [/us/pl/94/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588
 [/us/stat/90/2949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2949
@@ -231,46 +231,46 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/94/588/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588%2Fs12%2Fa
+[/us/pl/94/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588
 [/us/usc/t16/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1602
-[/us/pl/94/588/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588%2Fs6
+[/us/pl/94/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588
 [/us/usc/t16/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1601
-[/us/pl/114/113/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs407
+[/us/pl/114/113/dG/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdG%2FtIV
 [/us/stat/129/2575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2575
 [/us/usc/t16/s1604/f/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1604%2Ff%2F5%2FA
 [/us/usc/t16/s1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1600
-[/us/pl/113/235/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs408
+[/us/pl/113/235/dF/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdF%2FtIV
 [/us/stat/128/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2445
-[/us/pl/113/76/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs407
+[/us/pl/113/76/dG/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdG%2FtIV
 [/us/stat/128/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F338
-[/us/pl/112/74/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs409
+[/us/pl/112/74/dE/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdE%2FtIV
 [/us/stat/125/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1039
-[/us/pl/111/88/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F88%2Fs410
+[/us/pl/111/88/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F88%2FdA%2FtIV
 [/us/stat/123/2957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2957
-[/us/pl/111/8/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs410
+[/us/pl/111/8/dE/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdE%2FtIV
 [/us/stat/123/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F746
-[/us/pl/110/161/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs410
+[/us/pl/110/161/dF/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdF%2FtIV
 [/us/stat/121/2146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2146
-[/us/pl/109/54/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54%2Fs415
+[/us/pl/109/54/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54%2FtIV
 [/us/stat/119/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F551
-[/us/pl/108/447/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs320
+[/us/pl/108/447/dE/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdE%2FtIII
 [/us/stat/118/3097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3097
-[/us/pl/108/108/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2Fs320
+[/us/pl/108/108/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2FtIII
 [/us/stat/117/1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1306
-[/us/pl/108/7/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs320
-[/us/pl/107/63/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63%2Fs327
+[/us/pl/108/7/dF/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtIII
+[/us/pl/107/63/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63%2FtIII
 [/us/stat/115/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F470
-[/us/pl/101/121/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121%2Fs312
+[/us/pl/101/121/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121%2FtIII
 [/us/stat/103/743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F743
 [/us/usc/t16/s1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1600
 [/us/usc/t16/s1604/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1604%2Fc
-[/us/pl/100/446/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F446%2Fs314
+[/us/pl/100/446/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F446%2FtIII
 [/us/stat/102/1825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1825
-[/us/pl/100/202/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fg
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-213
-[/us/pl/99/500/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fh
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-242
-[/us/pl/99/591/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fh
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-242
 
 

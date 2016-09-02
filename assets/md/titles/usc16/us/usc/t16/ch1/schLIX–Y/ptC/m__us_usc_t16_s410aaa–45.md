@@ -17,7 +17,7 @@
 
     The East Mojave National Scenic Area, designated on January 13, 1981 (46 FR 3994), and modified on August 9, 1983 (48 FR 36210), is hereby abolished.
 
-([Pub. L. 103–433, title V, § 505][/us/pl/103/433/s505], Oct. 31, 1994, [108 Stat. 4490][/us/stat/108/4490].)
+([Pub. L. 103–433, title V][/us/pl/103/433/tV], § 505, Oct. 31, 1994, [108 Stat. 4490][/us/stat/108/4490].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/433/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs505
+[/us/pl/103/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtV
 [/us/stat/108/4490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4490
 
 

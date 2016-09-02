@@ -27,7 +27,7 @@
 
         The Forest Service is authorized to accept law enforcement designation from any other Federal agency or agency of a State or political subdivision thereof for the purpose of cooperating in the investigation and enforcement of any Federal or State law or ordinance and regulation of any such agency, when such investigation or enforcement is mutually beneficial to the National Forest System and the cooperating agency or jurisdiction, upon entering into a memorandum of understanding or cooperative agreement with such agency or jurisdiction.
 
-([Pub. L. 99–570, title XV, § 15008][/us/pl/99/570/s15008], as added [Pub. L. 100–690, title VI, § 6254(e)][/us/pl/100/690/s6254/e], Nov. 18, 1988, [102 Stat. 4365][/us/stat/102/4365].)
+([Pub. L. 99–570, title XV][/us/pl/99/570/tXV], § 15008, as added [Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6254(e), Nov. 18, 1988, [102 Stat. 4365][/us/stat/102/4365].)
 
 ----------
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/99/570/s15008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs15008
-[/us/pl/100/690/s6254/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6254%2Fe
+[/us/pl/99/570/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtXV
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4365
 
 

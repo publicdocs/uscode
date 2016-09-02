@@ -23,7 +23,7 @@
 
         The Secretary shall require that project sponsors of watershed projects provide up to 50 percent of the cost of acquiring easements under subsection (a).
 
-([Aug. 4, 1954, ch. 656, § 3A][/us/act/1954-08-04/ch656/s3A], as added [Pub. L. 101–624, title XIV, § 1462][/us/pl/101/624/s1462], Nov. 28, 1990, [104 Stat. 3615][/us/stat/104/3615].)
+([Aug. 4, 1954, ch. 656][/us/act/1954-08-04/ch656], § 3A, as added [Pub. L. 101–624, title XIV][/us/pl/101/624/tXIV], § 1462, Nov. 28, 1990, [104 Stat. 3615][/us/stat/104/3615].)
 
 ----------
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/act/1954-08-04/ch656/s3A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-04%2Fch656%2Fs3A
-[/us/pl/101/624/s1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1462
+[/us/act/1954-08-04/ch656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-04%2Fch656
+[/us/pl/101/624/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIV
 [/us/stat/104/3615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3615
 
 

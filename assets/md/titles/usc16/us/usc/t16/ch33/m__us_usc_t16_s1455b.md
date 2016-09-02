@@ -223,7 +223,7 @@
 
         (6) the term “Secretary” means the Secretary of Commerce.
 
-([Pub. L. 101–508, title VI, § 6217][/us/pl/101/508/s6217], Nov. 5, 1990, [104 Stat. 1388–314][/us/stat/104/1388-314]; [Pub. L. 102–587, title II, § 2205(b)(24)][/us/pl/102/587/s2205/b/24], Nov. 4, 1992, [106 Stat. 5052][/us/stat/106/5052].)
+([Pub. L. 101–508, title VI][/us/pl/101/508/tVI], § 6217, Nov. 5, 1990, [104 Stat. 1388–314][/us/stat/104/1388-314]; [Pub. L. 102–587, title II][/us/pl/102/587/tII], § 2205(b)(24), Nov. 4, 1992, [106 Stat. 5052][/us/stat/106/5052].)
 
  __References in Text__ 
 
@@ -231,7 +231,7 @@
 
     This Act, referred to in subsecs. (a)(2) and (c)(2)(B), is [Pub. L. 101–508][/us/pl/101/508], Nov. 5, 1990, [104 Stat. 1388][/us/stat/104/1388], known as the Omnibus Budget Reconciliation Act of 1990. For complete classification of this Act to the Code, see Tables.
 
-    Section 318(a) of the Coastal Zone Management Act of 1972, referred to in subsec. (h)(2)(A), which is classified to [section 1464(a) of this title][/us/usc/t16/s1464/a], was amended by [Pub. L. 104–150, § 4(1)][/us/pl/104/150/s4/1], June 3, 1996, [110 Stat. 1381][/us/stat/110/1381], and, as so amended, does not contain a par. (4).
+    Section 318(a) of the Coastal Zone Management Act of 1972, referred to in subsec. (h)(2)(A), which is classified to [section 1464(a) of this title][/us/usc/t16/s1464/a], was amended by [Pub. L. 104–150][/us/pl/104/150], § 4(1), June 3, 1996, [110 Stat. 1381][/us/stat/110/1381], and, as so amended, does not contain a par. (4).
 
  __Codification__ 
 
@@ -262,9 +262,9 @@
 [/us/usc/t16/s1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1453
 [/us/usc/t16/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1451
 [/us/usc/t16/s1455/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1455%2Fd%2F6
-[/us/pl/101/508/s6217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6217
+[/us/pl/101/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVI
 [/us/stat/104/1388-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-314
-[/us/pl/102/587/s2205/b/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2205%2Fb%2F24
+[/us/pl/102/587/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtII
 [/us/stat/106/5052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5052
 [/us/pl/89/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454
 [/us/pl/92/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F583
@@ -273,7 +273,7 @@
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/stat/104/1388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388
 [/us/usc/t16/s1464/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1464%2Fa
-[/us/pl/104/150/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F150%2Fs4%2F1
+[/us/pl/104/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F150
 [/us/stat/110/1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1381
 [/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
 

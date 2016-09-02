@@ -25,7 +25,7 @@
 
     (d) “Secretary” means the Secretary of State.
 
-([Pub. L. 99–513, § 3][/us/pl/99/513/s3], Oct. 21, 1986, [100 Stat. 2082][/us/stat/100/2082].)
+([Pub. L. 99–513][/us/pl/99/513], § 3, Oct. 21, 1986, [100 Stat. 2082][/us/stat/100/2082].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/99/513/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F513%2Fs3
+[/us/pl/99/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F513
 [/us/stat/100/2082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2082
 
 

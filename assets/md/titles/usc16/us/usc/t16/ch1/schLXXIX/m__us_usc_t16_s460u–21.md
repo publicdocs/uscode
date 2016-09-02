@@ -47,7 +47,7 @@
 
         Effective October 1, 1981, there is hereby authorized to be appropriated not to exceed $200,000 for this study.
 
-([Pub. L. 89–761, § 21][/us/pl/89/761/s21], as added [Pub. L. 96–612, § 1(11)][/us/pl/96/612/s1/11], Dec. 28, 1980, [94 Stat. 3576][/us/stat/94/3576].)
+([Pub. L. 89–761][/us/pl/89/761], § 21, as added [Pub. L. 96–612][/us/pl/96/612], § 1(11), Dec. 28, 1980, [94 Stat. 3576][/us/stat/94/3576].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 
  __Codification__ 
 
-    In subsec. (b), “[section 6506 of title 31][/us/usc/t31/s6506]” substituted for “title IV of the Intergovernmental Cooperation Act of 1968 \[[42 U.S.C. 4231][/us/usc/t42/s4231] et seq.\]” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (b), “[section 6506 of title 31][/us/usc/t31/s6506]” substituted for “title IV of the Intergovernmental Cooperation Act of 1968 \[[42 U.S.C. 4231][/us/usc/t42/s4231] et seq.\]” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
 ----------
 
@@ -65,13 +65,13 @@
 ----------
 
 [/us/usc/t31/s6506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6506
-[/us/pl/89/761/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761%2Fs21
-[/us/pl/96/612/s1/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F612%2Fs1%2F11
+[/us/pl/89/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761
+[/us/pl/96/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F612
 [/us/stat/94/3576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3576
 [/us/pl/96/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F612
 [/us/usc/t31/s6506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6506
 [/us/usc/t42/s4231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4231
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 
 

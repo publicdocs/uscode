@@ -17,7 +17,7 @@
 
     The Secretary is authorized to provide for incidental expenses, such as transportation, uniforms, lodging, and subsistence.
 
-([Pub. L. 92–300, § 2][/us/pl/92/300/s2], May 18, 1972, [86 Stat. 147][/us/stat/86/147].)
+([Pub. L. 92–300][/us/pl/92/300], § 2, May 18, 1972, [86 Stat. 147][/us/stat/86/147].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/300/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F300%2Fs2
+[/us/pl/92/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F300
 [/us/stat/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F147
 
 

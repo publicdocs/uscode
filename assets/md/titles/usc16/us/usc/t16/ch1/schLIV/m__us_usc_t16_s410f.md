@@ -17,7 +17,7 @@
 
     Unless consented to by an owner retaining the reservation set forth in subsection (1) of [section 410e of this title][/us/usc/t16/s410e], no action shall be taken by the Federal Government during the period of such reservation to purchase, acquire, or otherwise terminate or interfere with any lease or leases which may be applicable to said owner’s lands.
 
-([Oct. 10, 1949, ch. 659, § 2][/us/act/1949-10-10/ch659/s2], [63 Stat. 734][/us/stat/63/734].)
+([Oct. 10, 1949, ch. 659][/us/act/1949-10-10/ch659], § 2, [63 Stat. 734][/us/stat/63/734].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s410e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410e
-[/us/act/1949-10-10/ch659/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-10%2Fch659%2Fs2
+[/us/act/1949-10-10/ch659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-10%2Fch659
 [/us/stat/63/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F734
 
 

@@ -17,7 +17,7 @@
 
     The trail shall be marked with appropriate markers to guide the public. With the concurrence and assistance of the State or local entity having jurisdiction over the roads designated as part of the trail, the Secretary may erect thereon and maintain signs and other informational devices displaying the Masau Trail Marker. The Secretary is authorized to accept the donation of suitable signs and other informational devices for placement at appropriate locations.
 
-([Pub. L. 100–225, title II, § 204][/us/pl/100/225/s204], Dec. 31, 1987, [101 Stat. 1541][/us/stat/101/1541].)
+([Pub. L. 100–225, title II][/us/pl/100/225/tII], § 204, Dec. 31, 1987, [101 Stat. 1541][/us/stat/101/1541].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/225/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F225%2Fs204
+[/us/pl/100/225/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F225%2FtII
 [/us/stat/101/1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1541
 
 

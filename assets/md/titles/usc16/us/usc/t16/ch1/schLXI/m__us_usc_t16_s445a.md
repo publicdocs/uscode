@@ -17,7 +17,7 @@
 
     Nothing herein shall be construed as in any way impairing the right, title, and interest of the Navajo Tribe of Indians which they now have and hold to all lands and minerals, including oil and gas, and the surface use of such lands for agricultural, grazing, and other purposes, except as defined in [section 445b of this title][/us/usc/t16/s445b]; and the said tribe of Indians is granted the preferential right, under regulations to be prescribed by the Secretary of the Interior, of furnishing riding animals for the use of visitors to the monument.
 
-([Feb. 14, 1931, ch. 188, § 2][/us/act/1931-02-14/ch188/s2], [46 Stat. 1161][/us/stat/46/1161].)
+([Feb. 14, 1931, ch. 188][/us/act/1931-02-14/ch188], § 2, [46 Stat. 1161][/us/stat/46/1161].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t16/s445b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs445b
-[/us/act/1931-02-14/ch188/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-02-14%2Fch188%2Fs2
+[/us/act/1931-02-14/ch188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-02-14%2Fch188
 [/us/stat/46/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1161
 
 

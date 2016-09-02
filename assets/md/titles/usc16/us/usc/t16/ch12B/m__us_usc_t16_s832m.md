@@ -63,7 +63,7 @@
 
         Unless superseded by an Act of Congress, the authority provided by this section is expressly intended to extend beyond the fiscal year.
 
-([Pub. L. 104–46, title V, § 508][/us/pl/104/46/s508], Nov. 13, 1995, [109 Stat. 419][/us/stat/109/419].)
+([Pub. L. 104–46, title V][/us/pl/104/46/tV], § 508, Nov. 13, 1995, [109 Stat. 419][/us/stat/109/419].)
 
  __Codification__ 
 
@@ -71,7 +71,7 @@
 
  __Voluntary Separation Incentives to Employees__ 
 
-[Pub. L. 104–206, title V, § 511][/us/pl/104/206/s511], Sept. 30, 1996, [110 Stat. 3004][/us/stat/110/3004], as amended by [Pub. L. 106–377, § 1(a)(2)][/us/pl/106/377/s1/a/2] \[title III\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–76, provided that: 
+[Pub. L. 104–206, title V][/us/pl/104/206/tV], § 511, Sept. 30, 1996, [110 Stat. 3004][/us/stat/110/3004], as amended by [Pub. L. 106–377][/us/pl/106/377], § 1(a)(2) \[title III\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–76, provided that: 
 
 > “The Administrator may offer employees voluntary separation incentives as deemed necessary which shall not exceed $25,000. Recipients who accept employment with the United States within five years after separation shall repay the entire amount to the Bonneville Power Administration. This authority shall expire January 1, 2003.”
 
@@ -93,11 +93,11 @@
 [/us/usc/t16/s839e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs839e
 [/us/usc/t16/s839c/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs839c%2Fc
 [/us/usc/t16/s839c/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs839c%2Fc%2F1
-[/us/pl/104/46/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F46%2Fs508
+[/us/pl/104/46/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F46%2FtV
 [/us/stat/109/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F419
-[/us/pl/104/206/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F206%2Fs511
+[/us/pl/104/206/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F206%2FtV
 [/us/stat/110/3004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3004
-[/us/pl/106/377/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377%2Fs1%2Fa%2F2
+[/us/pl/106/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F377
 [/us/stat/114/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1441
 
 

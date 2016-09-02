@@ -47,7 +47,7 @@
 
             (B) the short- and long-term effects of not undertaking the agency action.
 
-([Pub. L. 108–148, title I, § 106][/us/pl/108/148/s106], Dec. 3, 2003, [117 Stat. 1900][/us/stat/117/1900].)
+([Pub. L. 108–148, title I][/us/pl/108/148/tI], § 106, Dec. 3, 2003, [117 Stat. 1900][/us/stat/117/1900].)
 
 ----------
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/usc/t28/s1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1391
-[/us/pl/108/148/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2Fs106
+[/us/pl/108/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2FtI
 [/us/stat/117/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1900
 
 

@@ -17,7 +17,7 @@
 
     As used in sections 690 to 690i of this title the term “person” includes an individual, partnership, association, or corporation.
 
-([Apr. 23, 1928, ch. 413, § 10][/us/act/1928-04-23/ch413/s10], [45 Stat. 450][/us/stat/45/450].)
+([Apr. 23, 1928, ch. 413][/us/act/1928-04-23/ch413], § 10, [45 Stat. 450][/us/stat/45/450].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1928-04-23/ch413/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-04-23%2Fch413%2Fs10
+[/us/act/1928-04-23/ch413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-04-23%2Fch413
 [/us/stat/45/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F450
 
 

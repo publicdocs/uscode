@@ -17,7 +17,7 @@
 
     All laws affecting the Chickamauga and Chattanooga National Military Park shall be extended and apply to any addition or additions which may be added to said park under the authority of this section and [section 424a of this title][/us/usc/t16/s424a].
 
-([May 4, 1934, ch. 218, § 2][/us/act/1934-05-04/ch218/s2], [48 Stat. 666][/us/stat/48/666].)
+([May 4, 1934, ch. 218][/us/act/1934-05-04/ch218], § 2, [48 Stat. 666][/us/stat/48/666].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s424a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs424a
-[/us/act/1934-05-04/ch218/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-04%2Fch218%2Fs2
+[/us/act/1934-05-04/ch218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-04%2Fch218
 [/us/stat/48/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F666
 
 

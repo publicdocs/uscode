@@ -17,7 +17,7 @@
 
     The property acquired by the Secretary of the Interior under this joint resolution shall constitute the Fort Sumter National Monument and shall be a public national memorial commemorating historical events at or near Fort Sumter. The Director of the National Park Service under the direction of the Secretary of the Interior shall have the supervision, management, and control of such national monument, and shall maintain and preserve it for the benefit and enjoyment of the people of the United States, subject to the provisions of the Act entitled “An Act to establish a National Park Service and for other purposes”, approved August 25, 1916, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended.
 
-([Apr. 28, 1948, ch. 239, § 2][/us/act/1948-04-28/ch239/s2], [62 Stat. 204][/us/stat/62/204].)
+([Apr. 28, 1948, ch. 239][/us/act/1948-04-28/ch239], § 2, [62 Stat. 204][/us/stat/62/204].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/act/1948-04-28/ch239/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-04-28%2Fch239%2Fs2
+[/us/act/1948-04-28/ch239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-04-28%2Fch239
 [/us/stat/62/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F204
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535

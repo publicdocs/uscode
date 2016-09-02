@@ -17,7 +17,7 @@
 
     Nothing in sections 565a–1 to 565a–3 of this title shall be construed as limiting or modifying the authority of the Secretary to enter into cooperative agreements otherwise authorized by law.
 
-([Pub. L. 94–148, § 3][/us/pl/94/148/s3], Dec. 12, 1975, [89 Stat. 804][/us/stat/89/804].)
+([Pub. L. 94–148][/us/pl/94/148], § 3, Dec. 12, 1975, [89 Stat. 804][/us/stat/89/804].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/148/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F148%2Fs3
+[/us/pl/94/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F148
 [/us/stat/89/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F804
 
 

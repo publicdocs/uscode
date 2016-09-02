@@ -63,7 +63,7 @@
 
         (4) Concerned local, State, and National organizations and interested individuals.
 
-([Pub. L. 96–487, title XIII, § 1301][/us/pl/96/487/s1301], Dec. 2, 1980, [94 Stat. 2472][/us/stat/94/2472].)
+([Pub. L. 96–487, title XIII][/us/pl/96/487/tXIII], § 1301, Dec. 2, 1980, [94 Stat. 2472][/us/stat/94/2472].)
 
  __References in Text__ 
 
@@ -78,7 +78,7 @@
 ----------
 ----------
 
-[/us/pl/96/487/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1301
+[/us/pl/96/487/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXIII
 [/us/stat/94/2472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2472
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371

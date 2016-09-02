@@ -41,7 +41,7 @@
 
         The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the advisory group.
 
-([Pub. L. 103–391, § 9][/us/pl/103/391/s9], as added [Pub. L. 107–112, § 4][/us/pl/107/112/s4], Jan. 8, 2002, [115 Stat. 2097][/us/stat/115/2097].)
+([Pub. L. 103–391][/us/pl/103/391], § 9, as added [Pub. L. 107–112][/us/pl/107/112], § 4, Jan. 8, 2002, [115 Stat. 2097][/us/stat/115/2097].)
 
  __References in Text__ 
 
@@ -58,8 +58,8 @@
 ----------
 ----------
 
-[/us/pl/103/391/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F391%2Fs9
-[/us/pl/107/112/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F112%2Fs4
+[/us/pl/103/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F391
+[/us/pl/107/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F112
 [/us/stat/115/2097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2097
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

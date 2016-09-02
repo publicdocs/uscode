@@ -43,7 +43,7 @@
 
         (B) indicated that the certification of China would remain in effect and directed that additional monitoring of China’s progress be undertaken.
 
-([Pub. L. 103–391, § 2][/us/pl/103/391/s2], Oct. 22, 1994, [108 Stat. 4094][/us/stat/108/4094].)
+([Pub. L. 103–391][/us/pl/103/391], § 2, Oct. 22, 1994, [108 Stat. 4094][/us/stat/108/4094].)
 
  __References in Text__ 
 
@@ -51,25 +51,25 @@
 
  __Short Title of 2002 Amendment__ 
 
-[Pub. L. 107–112, § 1][/us/pl/107/112/s1], Jan. 8, 2002, [115 Stat. 2097][/us/stat/115/2097], provided that: 
+[Pub. L. 107–112][/us/pl/107/112], § 1, Jan. 8, 2002, [115 Stat. 2097][/us/stat/115/2097], provided that: 
 
 > “This Act \[enacting [section 5305c of this title][/us/usc/t16/s5305c] and amending sections 4246, 5303 to 5305, and 5306 of this title\] may be cited as the ‘Rhinoceros and Tiger Conservation Reauthorization Act of 2001’.”
 
  __Short Title of 1998 Amendment__ 
 
-[Pub. L. 105–312, title IV, § 401][/us/pl/105/312/s401], Oct. 30, 1998, [112 Stat. 2959][/us/stat/112/2959], provided that: 
+[Pub. L. 105–312, title IV][/us/pl/105/312/tIV], § 401, Oct. 30, 1998, [112 Stat. 2959][/us/stat/112/2959], provided that: 
 
 > “This title \[enacting sections 5305a and 5305b of this title, amending sections 5302, 5303, and 5306 of this title, and enacting provisions set out as a note below\] may be cited as the ‘Rhinoceros and Tiger Conservation Act of 1998’.”
 
  __Short Title__ 
 
-[Pub. L. 103–391, § 1][/us/pl/103/391/s1], Oct. 22, 1994, [108 Stat. 4094][/us/stat/108/4094], provided that: 
+[Pub. L. 103–391][/us/pl/103/391], § 1, Oct. 22, 1994, [108 Stat. 4094][/us/stat/108/4094], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Rhinoceros and Tiger Conservation Act of 1994’.”
 
  __Congressional Findings__ 
 
-[Pub. L. 105–312, title IV, § 402][/us/pl/105/312/s402], Oct. 30, 1998, [112 Stat. 2959][/us/stat/112/2959], provided that: 
+[Pub. L. 105–312, title IV][/us/pl/105/312/tIV], § 402, Oct. 30, 1998, [112 Stat. 2959][/us/stat/112/2959], provided that: 
 
 > “Congress finds that—
 
@@ -108,19 +108,19 @@
 [/us/usc/t22/s1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1978
 [/us/usc/t22/s1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1978
 [/us/usc/t22/s1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1978
-[/us/pl/103/391/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F391%2Fs2
+[/us/pl/103/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F391
 [/us/stat/108/4094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4094
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F884
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
-[/us/pl/107/112/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F112%2Fs1
+[/us/pl/107/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F112
 [/us/stat/115/2097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2097
 [/us/usc/t16/s5305c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5305c
-[/us/pl/105/312/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312%2Fs401
+[/us/pl/105/312/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312%2FtIV
 [/us/stat/112/2959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2959
-[/us/pl/103/391/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F391%2Fs1
+[/us/pl/103/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F391
 [/us/stat/108/4094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4094
-[/us/pl/105/312/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312%2Fs402
+[/us/pl/105/312/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312%2FtIV
 [/us/stat/112/2959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2959
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 

@@ -61,7 +61,7 @@
 
         With respect to improved properties acquired prior to December 28, 1980, and upon which a valid existing right of use and occupancy has been reserved for a term of not more than twenty years, the Secretary may, in his discretion, extend the term of such retained right for a period of not more than nine years upon receipt of payment prior to September 30, 1983, from the holder of the retained right. The amount of such payment shall be equivalent to the amount discounted from the purchase price paid by the Secretary for the identical period of time under the terms of the original sale adjusted by a general index adopted by the Secretary reflecting overall value trends within Indiana Dunes National Lakeshore between the time of the original sale and the time of the retained right of extension offered by this subsection.
 
-([Pub. L. 89–761, § 5][/us/pl/89/761/s5], formerly § 6, Nov. 5, 1966, [80 Stat. 1311][/us/stat/80/1311]; renumbered § 5 and amended [Pub. L. 94–549, § 1(4)][/us/pl/94/549/s1/4], (9), Oct. 18, 1976, [90 Stat. 2529][/us/stat/90/2529], 2533; [Pub. L. 96–612, § 1(6)][/us/pl/96/612/s1/6], (7), Dec. 28, 1980, [94 Stat. 3576][/us/stat/94/3576]; [Pub. L. 99–583, § 1(c)][/us/pl/99/583/s1/c], Oct. 29, 1986, [100 Stat. 3319][/us/stat/100/3319]; [Pub. L. 102–430, § 4(b)][/us/pl/102/430/s4/b], (c), Oct. 23, 1992, [106 Stat. 2208][/us/stat/106/2208], 2209; [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title I, § 141\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–266.)
+([Pub. L. 89–761][/us/pl/89/761], § 5, formerly § 6, Nov. 5, 1966, [80 Stat. 1311][/us/stat/80/1311]; renumbered § 5 and amended [Pub. L. 94–549][/us/pl/94/549], § 1(4), (9), Oct. 18, 1976, [90 Stat. 2529][/us/stat/90/2529], 2533; [Pub. L. 96–612][/us/pl/96/612], § 1(6), (7), Dec. 28, 1980, [94 Stat. 3576][/us/stat/94/3576]; [Pub. L. 99–583][/us/pl/99/583], § 1(c), Oct. 29, 1986, [100 Stat. 3319][/us/stat/100/3319]; [Pub. L. 102–430][/us/pl/102/430], § 4(b), (c), Oct. 23, 1992, [106 Stat. 2208][/us/stat/106/2208], 2209; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title I, § 141\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–266.)
 
  __References in Text__ 
 
@@ -69,27 +69,27 @@
 
  __Prior Provisions__ 
 
-    A prior [section 5 of Pub. L. 89–761][/us/pl/89/761/s5] was classified to [section 460u–4 of this title][/us/usc/t16/s460u–4], prior to repeal by [Pub. L. 94–549, § 1(9)][/us/pl/94/549/s1/9].
+    A prior [section 5 of Pub. L. 89–761][/us/pl/89/761/s5] was classified to [section 460u–4 of this title][/us/usc/t16/s460u–4], prior to repeal by [Pub. L. 94–549][/us/pl/94/549], § 1(9).
 
  __Amendments__ 
 
-    1998—Subsec. (a)(3)(A). [Pub. L. 105–277, § 101(e)][/us/pl/105/277/s101/e] \[title I, § 141(1)\], in introductory provisions, struck out “as of that date” after “record of such property” and inserted “, subject to subparagraph (B),” after “term ending”.
+    1998—Subsec. (a)(3)(A). [Pub. L. 105–277][/us/pl/105/277], § 101(e) \[title I, § 141(1)\], in introductory provisions, struck out “as of that date” after “record of such property” and inserted “, subject to subparagraph (B),” after “term ending”.
 
-    Subsec. (a)(3)(B). [Pub. L. 105–277, § 101(e)][/us/pl/105/277/s101/e] \[title I, § 141(2)\], substituted “Subparagraph (A)(ii)” for “Subparagraph (A)” in introductory provisions.
+    Subsec. (a)(3)(B). [Pub. L. 105–277][/us/pl/105/277], § 101(e) \[title I, § 141(2)\], substituted “Subparagraph (A)(ii)” for “Subparagraph (A)” in introductory provisions.
 
-    1992—Subsec. (a)(1). [Pub. L. 102–430, § 4(c)][/us/pl/102/430/s4/c], substituted a comma for a period after first reference to “626–91014”.
+    1992—Subsec. (a)(1). [Pub. L. 102–430][/us/pl/102/430], § 4(c), substituted a comma for a period after first reference to “626–91014”.
 
-    Subsec. (a)(3). [Pub. L. 102–430, § 4(b)][/us/pl/102/430/s4/b], added par. (3).
+    Subsec. (a)(3). [Pub. L. 102–430][/us/pl/102/430], § 4(b), added par. (3).
 
     1986—Subsec. (a). [Pub. L. 99–583][/us/pl/99/583] designated existing provisions as par. (1), inserted “owners described in paragraph (2) and” and substituted reference to the map referred to in [section 460u–3 of this title][/us/usc/t16/s460u–3] for reference to the map referred to in [section 460u of this title][/us/usc/t16/s460u], “(A)” for “(1)” in two places, “(B)” for “(2)”, and “. In the case of improved property within the boundaries of the map dated December 1980 and numbered 626–91014” for “: Provided, That”, and added par. (2).
 
-    1980—Subsec. (a). [Pub. L. 96–612, § 1(6)][/us/pl/96/612/s1/6], substituted provisions authorizing certain owners of improved property, except such owners within area II–B, to retain rights of use and occupancy of such property for noncommercial residential purposes for a term either ending at death or at a specified date no later than September 30, 2010, for provisions authorizing certain owners of similar property to retain such rights for similar purposes for a fixed term of twenty years or less, as elected, authorizing the conveyance or leasing of such rights, and specifying the formula for reimbursing such owners upon acquisition of such property by the Secretary.
+    1980—Subsec. (a). [Pub. L. 96–612][/us/pl/96/612], § 1(6), substituted provisions authorizing certain owners of improved property, except such owners within area II–B, to retain rights of use and occupancy of such property for noncommercial residential purposes for a term either ending at death or at a specified date no later than September 30, 2010, for provisions authorizing certain owners of similar property to retain such rights for similar purposes for a fixed term of twenty years or less, as elected, authorizing the conveyance or leasing of such rights, and specifying the formula for reimbursing such owners upon acquisition of such property by the Secretary.
 
-    Subsec. (c). [Pub. L. 96–612, § 1(7)][/us/pl/96/612/s1/7], added subsec. (c).
+    Subsec. (c). [Pub. L. 96–612][/us/pl/96/612], § 1(7), added subsec. (c).
 
-    1976—Subsec. (a). [Pub. L. 94–549, § 1(4)(a)][/us/pl/94/549/s1/4/a], provided that owners within unit II–B on the map referred to in [section 460u of this title][/us/usc/t16/s460u] be excluded from use and occupancy rights, that owners attain the age of majority to be eligible to retain use and occupancy rights, and that the maximum term that an owner may retain use and occupancy rights be reduced to twenty years from twenty-five years.
+    1976—Subsec. (a). [Pub. L. 94–549][/us/pl/94/549], § 1(4)(a), provided that owners within unit II–B on the map referred to in [section 460u of this title][/us/usc/t16/s460u] be excluded from use and occupancy rights, that owners attain the age of majority to be eligible to retain use and occupancy rights, and that the maximum term that an owner may retain use and occupancy rights be reduced to twenty years from twenty-five years.
 
-    Subsec. (b). [Pub. L. 94–549, § 1(4)(b)][/us/pl/94/549/s1/4/b], substituted provision requiring failure of property to be used in accordance with the terms and applicable conditions as grounds for termination by the Secretary for provision which required failure of the property to be used in accordance with applicable zoning standards, added nonpayment of property taxes as a ground for termination, and provided that the standards for right of use and occupancy applicable prior to Oct. 18, 1976 remain in effect for such right, including applicable zoning regulations.
+    Subsec. (b). [Pub. L. 94–549][/us/pl/94/549], § 1(4)(b), substituted provision requiring failure of property to be used in accordance with the terms and applicable conditions as grounds for termination by the Secretary for provision which required failure of the property to be used in accordance with applicable zoning standards, added nonpayment of property taxes as a ground for termination, and provided that the standards for right of use and occupancy applicable prior to Oct. 18, 1976 remain in effect for such right, including applicable zoning regulations.
 
 ----------
 
@@ -100,33 +100,33 @@
 
 [/us/usc/t16/s460u–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460u%E2%80%933
 [/us/usc/t16/s460u–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460u%E2%80%933
-[/us/pl/89/761/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761%2Fs5
+[/us/pl/89/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761
 [/us/stat/80/1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1311
-[/us/pl/94/549/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549%2Fs1%2F4
+[/us/pl/94/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549
 [/us/stat/90/2529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2529
-[/us/pl/96/612/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F612%2Fs1%2F6
+[/us/pl/96/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F612
 [/us/stat/94/3576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3576
-[/us/pl/99/583/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F583%2Fs1%2Fc
+[/us/pl/99/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F583
 [/us/stat/100/3319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3319
-[/us/pl/102/430/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F430%2Fs4%2Fb
+[/us/pl/102/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F430
 [/us/stat/106/2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2208
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 [/us/pl/94/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549
 [/us/pl/89/761/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761%2Fs5
 [/us/usc/t16/s460u–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460u%E2%80%934
-[/us/pl/94/549/s1/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549%2Fs1%2F9
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
-[/us/pl/102/430/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F430%2Fs4%2Fc
-[/us/pl/102/430/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F430%2Fs4%2Fb
+[/us/pl/94/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/102/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F430
+[/us/pl/102/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F430
 [/us/pl/99/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F583
 [/us/usc/t16/s460u–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460u%E2%80%933
 [/us/usc/t16/s460u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460u
-[/us/pl/96/612/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F612%2Fs1%2F6
-[/us/pl/96/612/s1/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F612%2Fs1%2F7
-[/us/pl/94/549/s1/4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549%2Fs1%2F4%2Fa
+[/us/pl/96/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F612
+[/us/pl/96/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F612
+[/us/pl/94/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549
 [/us/usc/t16/s460u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460u
-[/us/pl/94/549/s1/4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549%2Fs1%2F4%2Fb
+[/us/pl/94/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549
 
 

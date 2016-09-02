@@ -103,7 +103,7 @@
 
         This section shall not affect or otherwise modify the provisions of [section 1371(b) of this title][/us/usc/t16/s1371/b].
 
-([Pub. L. 92–522, title I, § 117][/us/pl/92/522/s117], as added [Pub. L. 103–238, § 10][/us/pl/103/238/s10], Apr. 30, 1994, [108 Stat. 543][/us/stat/108/543].)
+([Pub. L. 92–522, title I][/us/pl/92/522/tI], § 117, as added [Pub. L. 103–238][/us/pl/103/238], § 10, Apr. 30, 1994, [108 Stat. 543][/us/stat/108/543].)
 
  __References in Text__ 
 
@@ -121,8 +121,8 @@
 [/us/usc/t16/s1371/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1371%2Fb
 [/us/usc/t16/s1371/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1371%2Fb
 [/us/usc/t16/s1371/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1371%2Fb
-[/us/pl/92/522/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs117
-[/us/pl/103/238/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs10
+[/us/pl/92/522/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtI
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
 [/us/stat/108/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F543
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

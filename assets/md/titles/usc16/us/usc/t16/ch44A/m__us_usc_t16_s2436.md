@@ -35,7 +35,7 @@
 
             Upon publication of such regulation in the Federal Register, such conservation measure shall enter into force with respect to the United States.
 
-([Pub. L. 98–623, title III, § 307][/us/pl/98/623/s307], Nov. 8, 1984, [98 Stat. 3401][/us/stat/98/3401]; [Pub. L. 114–81, title I, § 106(2)][/us/pl/114/81/s106/2], Nov. 5, 2015, [129 Stat. 658][/us/stat/129/658].)
+([Pub. L. 98–623, title III][/us/pl/98/623/tIII], § 307, Nov. 8, 1984, [98 Stat. 3401][/us/stat/98/3401]; [Pub. L. 114–81, title I][/us/pl/114/81/tI], § 106(2), Nov. 5, 2015, [129 Stat. 658][/us/stat/129/658].)
 
  __Amendments__ 
 
@@ -55,9 +55,9 @@
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t16/s2434/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2434%2Fa%2F1
 [/us/usc/t16/s2434/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2434%2Fa%2F1
-[/us/pl/98/623/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs307
+[/us/pl/98/623/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtIII
 [/us/stat/98/3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3401
-[/us/pl/114/81/s106/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs106%2F2
+[/us/pl/114/81/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2FtI
 [/us/stat/129/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F658
 [/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

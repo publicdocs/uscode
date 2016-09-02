@@ -31,7 +31,7 @@
 
         Members of such advisory committee shall be eligible for reappointment.
 
-([Pub. L. 106–450, title II, § 203][/us/pl/106/450/s203], Nov. 7, 2000, [114 Stat. 1943][/us/stat/114/1943].)
+([Pub. L. 106–450, title II][/us/pl/106/450/tII], § 203, Nov. 7, 2000, [114 Stat. 1943][/us/stat/114/1943].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/106/450/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F450%2Fs203
+[/us/pl/106/450/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F450%2FtII
 [/us/stat/114/1943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1943
 
 

@@ -17,7 +17,7 @@
 
     No person shall take, injure, or disturb any bird, or nest or egg thereof, or injure or destroy any notice, signboard, fence, dike, ditch, dam, spillway, improvement, or other property of the United States on any area acquired or received under sections 690 to 690i of this title, or remove therefrom or cut, burn, injure, or destroy any grass or other natural growth thereon, or enter, use, or occupy the refuge for any purpose, except in accordance with regulations prescribed by the Secretary of the Interior: Provided, That at no time shall less than 60 per centum of the total acreage of the said refuge be maintained as an inviolate sanctuary for such migratory birds.
 
-([Apr. 23, 1928, ch. 413, § 5][/us/act/1928-04-23/ch413/s5], [45 Stat. 449][/us/stat/45/449]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433].)
+([Apr. 23, 1928, ch. 413][/us/act/1928-04-23/ch413], § 5, [45 Stat. 449][/us/stat/45/449]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1928-04-23/ch413/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-04-23%2Fch413%2Fs5
+[/us/act/1928-04-23/ch413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-04-23%2Fch413
 [/us/stat/45/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F449
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
 [/us/usc/t16/s671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs671

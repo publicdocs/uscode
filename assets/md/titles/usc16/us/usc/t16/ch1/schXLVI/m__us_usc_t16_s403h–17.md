@@ -17,7 +17,7 @@
 
     The conveyance of the lands described in sections 403h–15 and 403h–16 of this title shall eliminate them from the park and parkway. Upon such conveyance and upon acceptance by the State of Tennessee of legislative jurisdiction over the lands and notification of such acceptance being given to the Secretary of the Interior, such jurisdiction is retroceded to the State.
 
-([Pub. L. 91–57, § 3][/us/pl/91/57/s3], Aug. 9, 1969, [83 Stat. 100][/us/stat/83/100].)
+([Pub. L. 91–57][/us/pl/91/57], § 3, Aug. 9, 1969, [83 Stat. 100][/us/stat/83/100].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/57/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F57%2Fs3
+[/us/pl/91/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F57
 [/us/stat/83/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F100
 
 

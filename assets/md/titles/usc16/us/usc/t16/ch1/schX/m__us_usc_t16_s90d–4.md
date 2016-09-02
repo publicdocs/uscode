@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall be construed to supersede, repeal, modify, or impair the jurisdiction of the Federal Power Commission under the Federal Power Act ([41 Stat. 1063][/us/stat/41/1063]), as amended \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\], in the lands and waters within the Skagit River Hydroelectric Project, Federal Energy and Regulatory Commission Project 553, including the proposed Copper Creek, High Ross, and Thunder Creek elements of the Project; and the Newhalem Project, Federal Energy and Regulatory Commission Project 2705, within the Ross Lake National Recreation Area; the lands and waters within the Lake Chelan Project, Federal Energy and Regulatory Commission Project 637; the Company Creek small hydroelectric project at Stehekin within the Lake Chelan National Recreation Area; and existing hydrologic monitoring stations necessary for the proper operation of the hydroelectric projects listed herein.
 
-([Pub. L. 90–544, title V, § 505][/us/pl/90/544/s505], Oct. 2, 1968, [82 Stat. 930][/us/stat/82/930]; [Pub. L. 100–668, title II, § 202][/us/pl/100/668/s202], Nov. 16, 1988, [102 Stat. 3963][/us/stat/102/3963].)
+([Pub. L. 90–544, title V][/us/pl/90/544/tV], § 505, Oct. 2, 1968, [82 Stat. 930][/us/stat/82/930]; [Pub. L. 100–668, title II][/us/pl/100/668/tII], § 202, Nov. 16, 1988, [102 Stat. 3963][/us/stat/102/3963].)
 
  __References in Text__ 
 
@@ -40,9 +40,9 @@
 
 [/us/stat/41/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1063
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
-[/us/pl/90/544/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F544%2Fs505
+[/us/pl/90/544/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F544%2FtV
 [/us/stat/82/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F930
-[/us/pl/100/668/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F668%2Fs202
+[/us/pl/100/668/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F668%2FtII
 [/us/stat/102/3963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3963
 [/us/act/1920-06-20/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-20%2Fch285
 [/us/stat/41/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1063

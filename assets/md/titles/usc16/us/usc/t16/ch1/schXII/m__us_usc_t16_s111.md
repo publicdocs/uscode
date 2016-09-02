@@ -21,7 +21,7 @@
 
     Said park shall be known as Mesa Verde National Park.
 
-([June 29, 1906, ch. 3607][/us/act/1906-06-29/ch3607], §§ 1, 2, [34 Stat. 616][/us/stat/34/616], 617; [June 30, 1913, ch. 4, § 1][/us/act/1913-06-30/ch4/s1], [38 Stat. 83][/us/stat/38/83].)
+([June 29, 1906, ch. 3607][/us/act/1906-06-29/ch3607], §§ 1, 2, [34 Stat. 616][/us/stat/34/616], 617; [June 30, 1913, ch. 4][/us/act/1913-06-30/ch4], § 1, [38 Stat. 83][/us/stat/38/83].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 
  __Mesa Verde National Park Boundary Change__ 
 
-[Pub. L. 110–161, div. F, title I, § 133][/us/pl/110/161/s133], Dec. 26, 2007, [121 Stat. 2123][/us/stat/121/2123], provided that:
+[Pub. L. 110–161, div. F, title I][/us/pl/110/161/dF/tI], § 133, Dec. 26, 2007, [121 Stat. 2123][/us/stat/121/2123], provided that:
 
 >     “(a) __Acquisition of Land.—__ 
 
@@ -72,10 +72,10 @@
 
 [/us/act/1906-06-29/ch3607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-29%2Fch3607
 [/us/stat/34/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F616
-[/us/act/1913-06-30/ch4/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-06-30%2Fch4%2Fs1
+[/us/act/1913-06-30/ch4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-06-30%2Fch4
 [/us/stat/38/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F83
 [/us/usc/t16/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs112
-[/us/pl/110/161/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs133
+[/us/pl/110/161/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdF%2FtI
 [/us/stat/121/2123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2123
 
 

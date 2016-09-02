@@ -39,7 +39,7 @@
 
         (3) the acquired land shall be administered as part of the Vicksburg National Military Park in accordance with applicable laws (including regulations).
 
-([Pub. L. 113–291, div. B, title XXX, § 3044][/us/pl/113/291/s3044], Dec. 19, 2014, [128 Stat. 3798][/us/stat/128/3798].)
+([Pub. L. 113–291, div. B, title XXX][/us/pl/113/291/dB/tXXX], § 3044, Dec. 19, 2014, [128 Stat. 3798][/us/stat/128/3798].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/113/291/s3044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3044
+[/us/pl/113/291/dB/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXX
 [/us/stat/128/3798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3798
 
 

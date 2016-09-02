@@ -17,7 +17,7 @@
 
     The facts constituting the bases for any payment or grant or the amount thereof authorized to be made under [section 590g of this title][/us/usc/t16/s590g], when officially determined in conformity with rules or regulations prescribed by the Secretary of Agriculture, shall be reviewable only by the Secretary of Agriculture.
 
-([Apr. 27, 1935, ch. 85, § 14][/us/act/1935-04-27/ch85/s14], as added [Feb. 29, 1936, ch. 104, § 1][/us/act/1936-02-29/ch104/s1], [49 Stat. 1151][/us/stat/49/1151]; amended [Aug. 3, 1956, ch. 950, § 6(a)][/us/act/1956-08-03/ch950/s6/a], [70 Stat. 1033][/us/stat/70/1033]; [Pub. L. 104–127, title III, § 336(a)(1)(C)][/us/pl/104/127/s336/a/1/C], Apr. 4, 1996, [110 Stat. 1005][/us/stat/110/1005].)
+([Apr. 27, 1935, ch. 85][/us/act/1935-04-27/ch85], § 14, as added [Feb. 29, 1936, ch. 104][/us/act/1936-02-29/ch104], § 1, [49 Stat. 1151][/us/stat/49/1151]; amended [Aug. 3, 1956, ch. 950][/us/act/1956-08-03/ch950], § 6(a), [70 Stat. 1033][/us/stat/70/1033]; [Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 336(a)(1)(C), Apr. 4, 1996, [110 Stat. 1005][/us/stat/110/1005].)
 
  __Amendments__ 
 
@@ -37,12 +37,12 @@
 ----------
 
 [/us/usc/t16/s590g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590g
-[/us/act/1935-04-27/ch85/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-04-27%2Fch85%2Fs14
-[/us/act/1936-02-29/ch104/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-02-29%2Fch104%2Fs1
+[/us/act/1935-04-27/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-04-27%2Fch85
+[/us/act/1936-02-29/ch104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-02-29%2Fch104
 [/us/stat/49/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1151
-[/us/act/1956-08-03/ch950/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch950%2Fs6%2Fa
+[/us/act/1956-08-03/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch950
 [/us/stat/70/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1033
-[/us/pl/104/127/s336/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs336%2Fa%2F1%2FC
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1005
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/usc/t16/s590a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590a

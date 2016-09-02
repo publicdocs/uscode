@@ -17,7 +17,7 @@
 
     All Acts or parts of Acts inconsistent with this subchapter are repealed to the extent of such inconsistency.
 
-([Aug. 10, 1939, ch. 640, § 5][/us/act/1939-08-10/ch640/s5], [53 Stat. 1342][/us/stat/53/1342].)
+([Aug. 10, 1939, ch. 640][/us/act/1939-08-10/ch640], § 5, [53 Stat. 1342][/us/stat/53/1342].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1939-08-10/ch640/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-10%2Fch640%2Fs5
+[/us/act/1939-08-10/ch640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-10%2Fch640
 [/us/stat/53/1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1342
 
 

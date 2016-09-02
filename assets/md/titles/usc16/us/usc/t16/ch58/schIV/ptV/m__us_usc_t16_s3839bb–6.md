@@ -177,7 +177,7 @@
 
             As soon as practicable after February 7, 2014, the Secretary shall transfer to the “Bureau of Reclamation—Water and Related Resources” account $150,000,000 from the funds of the Commodity Credit Corporation to carry out subsection (d), to remain available until expended.
 
-([Pub. L. 107–171, title II, § 2507][/us/pl/107/171/s2507], May 13, 2002, [116 Stat. 275][/us/stat/116/275]; [Pub. L. 110–234, title II, § 2807][/us/pl/110/234/s2807], May 22, 2008, [122 Stat. 1090][/us/stat/122/1090]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2807, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1818; [Pub. L. 111–85, title II, § 207][/us/pl/111/85/s207], Oct. 28, 2009, [123 Stat. 2858][/us/stat/123/2858]; [Pub. L. 112–74, div. B, title II, § 208(a)][/us/pl/112/74/s208/a], Dec. 23, 2011, [125 Stat. 866][/us/stat/125/866]; [Pub. L. 113–79, title II, § 2507][/us/pl/113/79/s2507], Feb. 7, 2014, [128 Stat. 753][/us/stat/128/753].)
+([Pub. L. 107–171, title II][/us/pl/107/171/tII], § 2507, May 13, 2002, [116 Stat. 275][/us/stat/116/275]; [Pub. L. 110–234, title II][/us/pl/110/234/tII], § 2807, May 22, 2008, [122 Stat. 1090][/us/stat/122/1090]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title II, § 2807, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1818; [Pub. L. 111–85, title II][/us/pl/111/85/tII], § 207, Oct. 28, 2009, [123 Stat. 2858][/us/stat/123/2858]; [Pub. L. 112–74, div. B, title II][/us/pl/112/74/dB/tII], § 208(a), Dec. 23, 2011, [125 Stat. 866][/us/stat/125/866]; [Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2507, Feb. 7, 2014, [128 Stat. 753][/us/stat/128/753].)
 
  __References in Text__ 
 
@@ -205,21 +205,21 @@
 
     2014—[Pub. L. 113–79][/us/pl/113/79] amended section generally. Prior to amendment, section directed Secretary of Agriculture, subject to certain other provisions, to transfer $175,000,000 of the funds of the Commodity Credit Corporation to the Bureau of Reclamation Water and Related Resources Account to provide water to at-risk natural desert terminal lakes.
 
-    2011—Subsec. (b). [Pub. L. 112–74, § 208(a)(1)][/us/pl/112/74/s208/a/1], substituted “For the benefit of at-risk natural desert terminal lakes and associated riparian and watershed resources, in any case in which there are willing sellers or willing participants” for “In any case in which there are willing sellers” in introductory provisions.
+    2011—Subsec. (b). [Pub. L. 112–74][/us/pl/112/74], § 208(a)(1), substituted “For the benefit of at-risk natural desert terminal lakes and associated riparian and watershed resources, in any case in which there are willing sellers or willing participants” for “In any case in which there are willing sellers” in introductory provisions.
 
-    Subsec. (b)(2). [Pub. L. 112–74, § 208(a)(2)][/us/pl/112/74/s208/a/2], struck out “in the Walker River Basin in accordance with section 208(a)(1)(A) of the Energy and Water Development Appropriations Act, 2006 ([Public Law 109–103][/us/pl/109/103]; [119 Stat. 2268][/us/stat/119/2268])” before “; and”.
+    Subsec. (b)(2). [Pub. L. 112–74][/us/pl/112/74], § 208(a)(2), struck out “in the Walker River Basin in accordance with section 208(a)(1)(A) of the Energy and Water Development Appropriations Act, 2006 ([Public Law 109–103][/us/pl/109/103]; [119 Stat. 2268][/us/stat/119/2268])” before “; and”.
 
-    Subsec. (b)(3). [Pub. L. 112–74, § 208(a)(3)][/us/pl/112/74/s208/a/3], struck out “in the Walker River Basin” before period at end.
+    Subsec. (b)(3). [Pub. L. 112–74][/us/pl/112/74], § 208(a)(3), struck out “in the Walker River Basin” before period at end.
 
     2009—Subsec. (b)(3). [Pub. L. 111–85][/us/pl/111/85] added par. (3).
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 2807(1)][/us/pl/110/246/s2807/1], substituted “Transfer” for “In general” in heading and “Subject to subsection (b) and paragraph (1) of [section 207(a) of Public Law 108–7][/us/pl/108/7/s207/a] ([117 Stat. 146][/us/stat/117/146]), notwithstanding paragraph (3) of that section, on the date of enactment of the Food, Conservation, and Energy Act of 2008, the Secretary of Agriculture shall transfer $175,000,000” for “Subject to subsection (b), as soon as practicable after the date of enactment of this Act, the Secretary of Agriculture shall transfer $200,000,000” in text and deleted quotation marks before “(1)” and “(2)”.
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 2807(1), substituted “Transfer” for “In general” in heading and “Subject to subsection (b) and paragraph (1) of [section 207(a) of Public Law 108–7][/us/pl/108/7/s207/a] ([117 Stat. 146][/us/stat/117/146]), notwithstanding paragraph (3) of that section, on the date of enactment of the Food, Conservation, and Energy Act of 2008, the Secretary of Agriculture shall transfer $175,000,000” for “Subject to subsection (b), as soon as practicable after the date of enactment of this Act, the Secretary of Agriculture shall transfer $200,000,000” in text and deleted quotation marks before “(1)” and “(2)”.
 
-    Subsec. (b). [Pub. L. 110–246, § 2807(2)][/us/pl/110/246/s2807/2], added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The funds described in subsection (a) shall not be used to purchase or lease water rights.”
+    Subsec. (b). [Pub. L. 110–246][/us/pl/110/246], § 2807(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The funds described in subsection (a) shall not be used to purchase or lease water rights.”
 
  __Transfer of Funds__ 
 
-    [Pub. L. 107–206, title I, § 103][/us/pl/107/206/s103], Aug. 2, 2002, [116 Stat. 823][/us/stat/116/823], provided that not later than 14 days after Aug. 2, 2002, the Secretary of Agriculture was to carry out a transfer of funds under former [section 2507(a) of Pub. L. 107–171][/us/pl/107/171/s2507/a].
+    [Pub. L. 107–206, title I][/us/pl/107/206/tI], § 103, Aug. 2, 2002, [116 Stat. 823][/us/stat/116/823], provided that not later than 14 days after Aug. 2, 2002, the Secretary of Agriculture was to carry out a transfer of funds under former [section 2507(a) of Pub. L. 107–171][/us/pl/107/171/s2507/a].
 
 ----------
 
@@ -242,17 +242,17 @@
 [/us/stat/123/2858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2858
 [/us/stat/123/2967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2967
 [/us/stat/125/867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F867
-[/us/pl/107/171/s2507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2507
+[/us/pl/107/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtII
 [/us/stat/116/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F275
-[/us/pl/110/234/s2807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2807
+[/us/pl/110/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtII
 [/us/stat/122/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1090
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/111/85/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85%2Fs207
+[/us/pl/111/85/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85%2FtII
 [/us/stat/123/2858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2858
-[/us/pl/112/74/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs208%2Fa
+[/us/pl/112/74/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdB%2FtII
 [/us/stat/125/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F866
-[/us/pl/113/79/s2507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2507
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F753
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/stat/99/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1354
@@ -280,17 +280,17 @@
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/usc/t43/s2211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs2211
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/112/74/s208/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs208%2Fa%2F1
-[/us/pl/112/74/s208/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs208%2Fa%2F2
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/pl/109/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103
 [/us/stat/119/2268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2268
-[/us/pl/112/74/s208/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs208%2Fa%2F3
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/pl/111/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85
-[/us/pl/110/246/s2807/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2807%2F1
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/108/7/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs207%2Fa
 [/us/stat/117/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F146
-[/us/pl/110/246/s2807/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2807%2F2
-[/us/pl/107/206/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs103
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/107/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtI
 [/us/stat/116/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F823
 [/us/pl/107/171/s2507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2507%2Fa
 

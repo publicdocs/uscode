@@ -17,7 +17,7 @@
 
     The following-described lands are eliminated from the Bryce Canyon National Park and shall hereafter be included in and become a part of the Powell National Forest, subject to all laws and regulations applicable thereto, to wit: Section 30, township 37 south, range 3 west; section 25, unsurveyed township 37 south, range 4 west, Salt Lake meridian.
 
-([Feb. 17, 1931, ch. 209, § 2][/us/act/1931-02-17/ch209/s2], [46 Stat. 1167][/us/stat/46/1167].)
+([Feb. 17, 1931, ch. 209][/us/act/1931-02-17/ch209], § 2, [46 Stat. 1167][/us/stat/46/1167].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1931-02-17/ch209/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-02-17%2Fch209%2Fs2
+[/us/act/1931-02-17/ch209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-02-17%2Fch209
 [/us/stat/46/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1167
 
 

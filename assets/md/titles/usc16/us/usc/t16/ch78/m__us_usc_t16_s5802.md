@@ -65,7 +65,7 @@
 
             No funds of the Foundation may be used to bring or join an action against the United States.
 
-([Pub. L. 104–127, title III, § 353][/us/pl/104/127/s353], Apr. 4, 1996, [110 Stat. 1010][/us/stat/110/1010].)
+([Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 353, Apr. 4, 1996, [110 Stat. 1010][/us/stat/110/1010].)
 
 ----------
 
@@ -74,7 +74,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs353
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1010
 
 

@@ -17,7 +17,7 @@
 
     Nothing in sections 546 to 546a–5 of this title shall be construed as affecting the jurisdiction or responsibilities of the State of Michigan with respect to fish and wildlife in the scenic area.
 
-([Pub. L. 106–431, § 5][/us/pl/106/431/s5], Nov. 6, 2000, [114 Stat. 1907][/us/stat/114/1907].)
+([Pub. L. 106–431][/us/pl/106/431], § 5, Nov. 6, 2000, [114 Stat. 1907][/us/stat/114/1907].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/431/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F431%2Fs5
+[/us/pl/106/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F431
 [/us/stat/114/1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1907
 
 

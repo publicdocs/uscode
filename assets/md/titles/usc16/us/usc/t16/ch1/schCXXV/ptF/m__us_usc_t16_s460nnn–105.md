@@ -31,7 +31,7 @@
 
         The exact acreage and legal description of all lands to be exchanged under this part shall be determined by surveys satisfactory to the Secretary. The costs of any such survey, as well as other administrative costs incurred to execute a land exchange under this part, shall be borne by the Secretary.
 
-([Pub. L. 106–399, title VI, § 605][/us/pl/106/399/s605], Oct. 30, 2000, [114 Stat. 1673][/us/stat/114/1673].)
+([Pub. L. 106–399, title VI][/us/pl/106/399/tVI], § 605, Oct. 30, 2000, [114 Stat. 1673][/us/stat/114/1673].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/106/399/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2Fs605
+[/us/pl/106/399/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2FtVI
 [/us/stat/114/1673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1673
 
 

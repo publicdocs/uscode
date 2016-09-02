@@ -17,7 +17,7 @@
 
     In any agreement authorized by [section 565a–1 of this title][/us/usc/t16/s565a–1], cooperators and their employees may perform cooperative work under supervision of the Forest Service in emergencies or otherwise as mutually agreed to, but shall not be deemed to be Federal employees other than for the purposes of chapter 171 of title 28 and chapter 81 of title 5.
 
-([Pub. L. 94–148, § 2][/us/pl/94/148/s2], Dec. 12, 1975, [89 Stat. 804][/us/stat/89/804].)
+([Pub. L. 94–148][/us/pl/94/148], § 2, Dec. 12, 1975, [89 Stat. 804][/us/stat/89/804].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s565a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs565a%E2%80%931
-[/us/pl/94/148/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F148%2Fs2
+[/us/pl/94/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F148
 [/us/stat/89/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F804
 
 

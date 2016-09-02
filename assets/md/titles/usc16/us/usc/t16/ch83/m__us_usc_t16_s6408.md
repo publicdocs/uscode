@@ -31,7 +31,7 @@
 
         From the amounts appropriated under subsection (a) of this section, there shall be made available to the Secretary $8,000,000 for each of fiscal years 2001, 2002, 2003, and 2004 for activities under [section 6406 of this title][/us/usc/t16/s6406].
 
-([Pub. L. 106–562, title II, § 209][/us/pl/106/562/s209], Dec. 23, 2000, [114 Stat. 2805][/us/stat/114/2805].)
+([Pub. L. 106–562, title II][/us/pl/106/562/tII], § 209, Dec. 23, 2000, [114 Stat. 2805][/us/stat/114/2805].)
 
 ----------
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t16/s6403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6403
 [/us/usc/t16/s6406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6406
-[/us/pl/106/562/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs209
+[/us/pl/106/562/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2FtII
 [/us/stat/114/2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2805
 
 

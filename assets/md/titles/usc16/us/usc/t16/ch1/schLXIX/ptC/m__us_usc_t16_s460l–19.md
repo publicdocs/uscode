@@ -17,7 +17,7 @@
 
     Effective on and after July 1, 1966, neither the Secretary of the Interior nor any bureau nor any person acting under his authority shall engage in the preparation of any feasibility report under reclamation law with respect to any water resource project unless the preparation of such feasibility report has been specifically authorized by law, any other provision of law to the contrary notwithstanding.
 
-([Pub. L. 89–72, § 8][/us/pl/89/72/s8], July 9, 1965, [79 Stat. 217][/us/stat/79/217].)
+([Pub. L. 89–72][/us/pl/89/72], § 8, July 9, 1965, [79 Stat. 217][/us/stat/79/217].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/72/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F72%2Fs8
+[/us/pl/89/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F72
 [/us/stat/79/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F217
 
 

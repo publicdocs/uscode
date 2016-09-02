@@ -151,7 +151,7 @@
 
             Nothing in this section shall be construed to compel action by any State official.
 
-([Pub. L. 95–313, § 19][/us/pl/95/313/s19], as added [Pub. L. 101–624, title XII, § 1222][/us/pl/101/624/s1222], Nov. 28, 1990, [104 Stat. 3540][/us/stat/104/3540]; amended [Pub. L. 110–234, title VII, § 7511(c)(37)][/us/pl/110/234/s7511/c/37], title VIII, §§ 8005, 8006, May 22, 2008, [122 Stat. 1271][/us/stat/122/1271], 1284, 1285; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7511(c)(37), title VIII, §§ 8005, 8006, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2032, 2045–2047.)
+([Pub. L. 95–313][/us/pl/95/313], § 19, as added [Pub. L. 101–624, title XII][/us/pl/101/624/tXII], § 1222, Nov. 28, 1990, [104 Stat. 3540][/us/stat/104/3540]; amended [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7511(c)(37), title VIII, §§ 8005, 8006, May 22, 2008, [122 Stat. 1271][/us/stat/122/1271], 1284, 1285; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7511(c)(37), title VIII, §§ 8005, 8006, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2032, 2045–2047.)
 
  __Codification__ 
 
@@ -159,15 +159,15 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 8005][/us/pl/110/246/s8005], added subsec. (a) and struck out former subsec (a) which related to: in par. (1) establishment of a Forest Resource Coordinating Committee; in par. (2) composition of the Committee; in par. (3) designation of a chairperson; and in par. (4) duties of the Committee.
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 8005, added subsec. (a) and struck out former subsec (a) which related to: in par. (1) establishment of a Forest Resource Coordinating Committee; in par. (2) composition of the Committee; in par. (3) designation of a chairperson; and in par. (4) duties of the Committee.
 
-    Subsec. (b)(1)(B)(i). [Pub. L. 110–246, § 7511(c)(37)][/us/pl/110/246/s7511/c/37], substituted “National Institute of Food and Agriculture” for “Extension Service”.
+    Subsec. (b)(1)(B)(i). [Pub. L. 110–246][/us/pl/110/246], § 7511(c)(37), substituted “National Institute of Food and Agriculture” for “Extension Service”.
 
-    Subsec. (b)(1)(B)(ii)(IX). [Pub. L. 110–246, § 8006(1)][/us/pl/110/246/s8006/1], added subcl. (IX).
+    Subsec. (b)(1)(B)(ii)(IX). [Pub. L. 110–246][/us/pl/110/246], § 8006(1), added subcl. (IX).
 
-    Subsec. (b)(2)(C). [Pub. L. 110–246, § 8006(2)][/us/pl/110/246/s8006/2], substituted “the State-wide assessment and strategy regarding forest resource conditions under [section 2101a of this title][/us/usc/t16/s2101a]” for “a Forest Stewardship Plan under paragraph (3)”.
+    Subsec. (b)(2)(C). [Pub. L. 110–246][/us/pl/110/246], § 8006(2), substituted “the State-wide assessment and strategy regarding forest resource conditions under [section 2101a of this title][/us/usc/t16/s2101a]” for “a Forest Stewardship Plan under paragraph (3)”.
 
-    Subsec. (b)(3) to (6). [Pub. L. 110–246, § 8006(3)][/us/pl/110/246/s8006/3], (4), redesignated pars. (5) and (6) as (3) and (4), respectively, and struck out former pars. (3) and (4) which related to development of a Forest Stewardship Plan and authorized the use of other plans if they fully conformed to section objectives.
+    Subsec. (b)(3) to (6). [Pub. L. 110–246][/us/pl/110/246], § 8006(3), (4), redesignated pars. (5) and (6) as (3) and (4), respectively, and struck out former pars. (3) and (4) which related to development of a Forest Stewardship Plan and authorized the use of other plans if they fully conformed to section objectives.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -189,23 +189,23 @@
 [/us/usc/t16/s2101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2101%2Fc
 [/us/usc/t16/s2101a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2101a
 [/us/usc/t16/s2103c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2103c
-[/us/pl/95/313/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313%2Fs19
-[/us/pl/101/624/s1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1222
+[/us/pl/95/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313
+[/us/pl/101/624/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXII
 [/us/stat/104/3540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3540
-[/us/pl/110/234/s7511/c/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7511%2Fc%2F37
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1271
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s8005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs8005
-[/us/pl/110/246/s7511/c/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F37
-[/us/pl/110/246/s8006/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs8006%2F1
-[/us/pl/110/246/s8006/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs8006%2F2
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t16/s2101a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2101a
-[/us/pl/110/246/s8006/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs8006%2F3
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

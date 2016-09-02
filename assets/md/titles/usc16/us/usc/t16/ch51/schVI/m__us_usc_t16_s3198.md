@@ -73,15 +73,15 @@
 
                 (ii) not later than 90 days of the submission of a request under clause (i), the Secretary shall redesignate the service of the person as being part of the competitive service.
 
-([Pub. L. 96–487, title XIII, § 1308][/us/pl/96/487/s1308], Dec. 2, 1980, [94 Stat. 2480][/us/stat/94/2480]; [Pub. L. 100–689, title IV, § 401][/us/pl/100/689/s401], Nov. 18, 1988, [102 Stat. 4177][/us/stat/102/4177]; [Pub. L. 102–415, § 16][/us/pl/102/415/s16], Oct. 14, 1992, [106 Stat. 2124][/us/stat/106/2124]; [Pub. L. 108–199, div. H, § 147][/us/pl/108/199/s147], Jan. 23, 2004, [118 Stat. 445][/us/stat/118/445]; [Pub. L. 111–11, title VI, § 6101][/us/pl/111/11/s6101], Mar. 30, 2009, [123 Stat. 1170][/us/stat/123/1170]; [Pub. L. 112–74, div. E, title I, § 121(b)][/us/pl/112/74/s121/b], Dec. 23, 2011, [125 Stat. 1012][/us/stat/125/1012].)
+([Pub. L. 96–487, title XIII][/us/pl/96/487/tXIII], § 1308, Dec. 2, 1980, [94 Stat. 2480][/us/stat/94/2480]; [Pub. L. 100–689, title IV][/us/pl/100/689/tIV], § 401, Nov. 18, 1988, [102 Stat. 4177][/us/stat/102/4177]; [Pub. L. 102–415][/us/pl/102/415], § 16, Oct. 14, 1992, [106 Stat. 2124][/us/stat/106/2124]; [Pub. L. 108–199, div. H][/us/pl/108/199/dH], § 147, Jan. 23, 2004, [118 Stat. 445][/us/stat/118/445]; [Pub. L. 111–11, title VI][/us/pl/111/11/tVI], § 6101, Mar. 30, 2009, [123 Stat. 1170][/us/stat/123/1170]; [Pub. L. 112–74, div. E, title I][/us/pl/112/74/dE/tI], § 121(b), Dec. 23, 2011, [125 Stat. 1012][/us/stat/125/1012].)
 
  __Amendments__ 
 
-    2011—Subsec. (a). [Pub. L. 112–74, § 121(b)(1)][/us/pl/112/74/s121/b/1], substituted “establish an excepted service appointment authority,” for “establish a program” in introductory provisions.
+    2011—Subsec. (a). [Pub. L. 112–74][/us/pl/112/74], § 121(b)(1), substituted “establish an excepted service appointment authority,” for “establish a program” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 112–74, § 121(b)(2)][/us/pl/112/74/s121/b/2], substituted “excepted service as defined in section 2103 of such title” for “competitive service as defined in section 2102 of such title for which such person is eligible under subchapter I of chapter 33 of such title, in selection to such position”.
+    Subsec. (b). [Pub. L. 112–74][/us/pl/112/74], § 121(b)(2), substituted “excepted service as defined in section 2103 of such title” for “competitive service as defined in section 2102 of such title for which such person is eligible under subchapter I of chapter 33 of such title, in selection to such position”.
 
-    Subsec. (e)(2), (3). [Pub. L. 112–74, § 121(b)(3)][/us/pl/112/74/s121/b/3], added par. (2) and redesignated former par. (2) as (3).
+    Subsec. (e)(2), (3). [Pub. L. 112–74][/us/pl/112/74], § 121(b)(3), added par. (2) and redesignated former par. (2) as (3).
 
     2009—Subsec. (e). [Pub. L. 111–11][/us/pl/111/11] added subsec. (e).
 
@@ -93,7 +93,7 @@
 
  __Pilot Program__ 
 
-[Pub. L. 106–488, § 2][/us/pl/106/488/s2], Nov. 9, 2000, [114 Stat. 2205][/us/stat/114/2205], provided that:
+[Pub. L. 106–488][/us/pl/106/488], § 2, Nov. 9, 2000, [114 Stat. 2205][/us/stat/114/2205], provided that:
 
 >     “(a)
 
@@ -117,7 +117,7 @@
 
  __Local Hire Report__ 
 
-[Pub. L. 105–333, § 11][/us/pl/105/333/s11], Oct. 31, 1998, [112 Stat. 3135][/us/stat/112/3135], provided that:
+[Pub. L. 105–333][/us/pl/105/333], § 11, Oct. 31, 1998, [112 Stat. 3135][/us/stat/112/3135], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -145,30 +145,30 @@
 ----------
 
 [/us/usc/t5/s2108/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2108%2F3
-[/us/pl/96/487/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1308
+[/us/pl/96/487/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXIII
 [/us/stat/94/2480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2480
-[/us/pl/100/689/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689%2Fs401
+[/us/pl/100/689/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689%2FtIV
 [/us/stat/102/4177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4177
-[/us/pl/102/415/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F415%2Fs16
+[/us/pl/102/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F415
 [/us/stat/106/2124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2124
-[/us/pl/108/199/s147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs147
+[/us/pl/108/199/dH]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdH
 [/us/stat/118/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F445
-[/us/pl/111/11/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs6101
+[/us/pl/111/11/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVI
 [/us/stat/123/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1170
-[/us/pl/112/74/s121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs121%2Fb
+[/us/pl/112/74/dE/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdE%2FtI
 [/us/stat/125/1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1012
-[/us/pl/112/74/s121/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs121%2Fb%2F1
-[/us/pl/112/74/s121/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs121%2Fb%2F2
-[/us/pl/112/74/s121/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs121%2Fb%2F3
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 [/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
 [/us/pl/102/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F415
 [/us/pl/100/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689
-[/us/pl/106/488/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F488%2Fs2
+[/us/pl/106/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F488
 [/us/stat/114/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2205
 [/us/usc/t16/s3197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3197
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/105/333/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F333%2Fs11
+[/us/pl/105/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F333
 [/us/stat/112/3135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3135
 [/us/usc/t16/s3198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3198
 

@@ -47,7 +47,7 @@
 
         In developing the plan, the Commission shall consult with appropriate officials of any local government or Federal or State agency which has jurisdiction over historic aviation resources in the Miami Valley area. The Commission shall also consult with property owners and business, historic, professional, neighborhood, and citizen organizations affected by the actions proposed in the plan.
 
-([Pub. L. 102–419, title II, § 202][/us/pl/102/419/s202], Oct. 16, 1992, [106 Stat. 2145][/us/stat/106/2145].)
+([Pub. L. 102–419, title II][/us/pl/102/419/tII], § 202, Oct. 16, 1992, [106 Stat. 2145][/us/stat/106/2145].)
 
 ----------
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/102/419/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F419%2Fs202
+[/us/pl/102/419/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F419%2FtII
 [/us/stat/106/2145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2145
 
 

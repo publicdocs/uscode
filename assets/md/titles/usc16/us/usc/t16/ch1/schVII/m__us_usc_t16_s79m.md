@@ -29,7 +29,7 @@
 
         (4) the specific locations and types of foot trail access to the Tall Trees Grove, of which one route shall, unless shown by the Secretary to be inadvisable, principally traverse the east side of Redwood Creek through the essentially virgin forest, connecting with the roadhead on the west side of the park east of Orick.
 
-([Pub. L. 95–250, title I, § 104][/us/pl/95/250/s104], Mar. 27, 1978, [92 Stat. 170][/us/stat/92/170].)
+([Pub. L. 95–250, title I][/us/pl/95/250/tI], § 104, Mar. 27, 1978, [92 Stat. 170][/us/stat/92/170].)
 
  __References in Text__ 
 
@@ -69,7 +69,7 @@
 [/us/usc/t16/s79b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs79b
 [/us/usc/t16/s79k/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs79k%2Fb
 [/us/usc/t16/s79c/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs79c%2Fb%2F2
-[/us/pl/95/250/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250%2Fs104
+[/us/pl/95/250/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250%2FtI
 [/us/stat/92/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F170
 [/us/usc/t16/s79c/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs79c%2Fb%2F1
 [/us/pl/95/250/s101/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250%2Fs101%2Fa%2F4

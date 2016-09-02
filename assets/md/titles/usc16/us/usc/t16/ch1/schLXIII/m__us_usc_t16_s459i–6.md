@@ -17,7 +17,7 @@
 
     Nothing in sections 459i to 459i–9 of this title shall deprive the State of Georgia or any political subdivision thereof of its civil or criminal jurisdiction over persons found, acts performed, and offenses committed within the boundaries of the seashore, or of its right to tax persons, corporations, franchises, or other non-Federal property on lands included therein.
 
-([Pub. L. 92–536, § 7][/us/pl/92/536/s7], Oct. 23, 1972, [86 Stat. 1068][/us/stat/86/1068].)
+([Pub. L. 92–536][/us/pl/92/536], § 7, Oct. 23, 1972, [86 Stat. 1068][/us/stat/86/1068].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/536/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F536%2Fs7
+[/us/pl/92/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F536
 [/us/stat/86/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1068
 
 

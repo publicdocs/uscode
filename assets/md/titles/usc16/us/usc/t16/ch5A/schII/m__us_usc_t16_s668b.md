@@ -27,7 +27,7 @@
 
         All provisions of law relating to the seizure, forfeiture, and condemnation of a vessel for violation of the customs laws, the disposition of such vessel or the proceeds from the sale thereof, and the remission or mitigation of such forfeitures, shall apply to the seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this subchapter, insofar as such provisions of law are applicable and not inconsistent with the provisions of this subchapter: Provided, That all powers, rights, and duties conferred or imposed by the customs laws upon any officer or employee of the Treasury Department shall, for the purposes of this subchapter, be exercised or performed by the Secretary of the Interior or by such persons as he may designate.
 
-([June 8, 1940, ch. 278, § 3][/us/act/1940-06-08/ch278/s3], [54 Stat. 251][/us/stat/54/251]; [Pub. L. 90–578, title IV, § 402(b)(2)][/us/pl/90/578/s402/b/2], Oct. 17, 1968, [82 Stat. 1118][/us/stat/82/1118]; [Pub. L. 92–535, § 3][/us/pl/92/535/s3], Oct. 23, 1972, [86 Stat. 1065][/us/stat/86/1065]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
+([June 8, 1940, ch. 278][/us/act/1940-06-08/ch278], § 3, [54 Stat. 251][/us/stat/54/251]; [Pub. L. 90–578, title IV][/us/pl/90/578/tIV], § 402(b)(2), Oct. 17, 1968, [82 Stat. 1118][/us/stat/82/1118]; [Pub. L. 92–535][/us/pl/92/535], § 3, Oct. 23, 1972, [86 Stat. 1065][/us/stat/86/1065]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
 
  __Amendments__ 
 
@@ -48,13 +48,13 @@
 ----------
 ----------
 
-[/us/act/1940-06-08/ch278/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-08%2Fch278%2Fs3
+[/us/act/1940-06-08/ch278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-08%2Fch278
 [/us/stat/54/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F251
-[/us/pl/90/578/s402/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2Fs402%2Fb%2F2
+[/us/pl/90/578/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2FtIV
 [/us/stat/82/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1118
-[/us/pl/92/535/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F535%2Fs3
+[/us/pl/92/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F535
 [/us/stat/86/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1065
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
 [/us/pl/92/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F535
 [/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321

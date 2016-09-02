@@ -23,7 +23,7 @@
 
     (3) to promote and encourage research in preparation for the implementation of the use of ecosystems and interspecies approaches to the conservation and management of interjurisdictional fishery resources throughout their range.
 
-([Pub. L. 99–659, title III, § 302][/us/pl/99/659/s302], Nov. 14, 1986, [100 Stat. 3732][/us/stat/100/3732]; [Pub. L. 107–372, title III, § 302(b)][/us/pl/107/372/s302/b], Dec. 19, 2002, [116 Stat. 3095][/us/stat/116/3095].)
+([Pub. L. 99–659, title III][/us/pl/99/659/tIII], § 302, Nov. 14, 1986, [100 Stat. 3732][/us/stat/100/3732]; [Pub. L. 107–372, title III][/us/pl/107/372/tIII], § 302(b), Dec. 19, 2002, [116 Stat. 3095][/us/stat/116/3095].)
 
  __References in Text__ 
 
@@ -35,13 +35,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 99–659, title III, § 310][/us/pl/99/659/s310], Nov. 14, 1986, [100 Stat. 3736][/us/stat/100/3736], provided that: 
+[Pub. L. 99–659, title III][/us/pl/99/659/tIII], § 310, Nov. 14, 1986, [100 Stat. 3736][/us/stat/100/3736], provided that: 
 
 > “This title \[enacting this chapter and repealing chapter 10D (§ 779 et seq.) of this title\] takes effect October 1, 1987.”
 
  __Short Title__ 
 
-[Pub. L. 99–659, title III, § 301][/us/pl/99/659/s301], Nov. 14, 1986, [100 Stat. 3731][/us/stat/100/3731], provided that: 
+[Pub. L. 99–659, title III][/us/pl/99/659/tIII], § 301, Nov. 14, 1986, [100 Stat. 3731][/us/stat/100/3731], provided that: 
 
 > “This title \[enacting this chapter and repealing chapter 10D (§ 779 et seq.) of this title\] may be cited as the ‘Interjurisdictional Fisheries Act of 1986’.”
 
@@ -52,16 +52,16 @@
 ----------
 ----------
 
-[/us/pl/99/659/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs302
+[/us/pl/99/659/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtIII
 [/us/stat/100/3732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3732
-[/us/pl/107/372/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs302%2Fb
+[/us/pl/107/372/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtIII
 [/us/stat/116/3095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3095
 [/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
 [/us/stat/100/3731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3731
 [/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372
-[/us/pl/99/659/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs310
+[/us/pl/99/659/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtIII
 [/us/stat/100/3736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3736
-[/us/pl/99/659/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs301
+[/us/pl/99/659/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtIII
 [/us/stat/100/3731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3731
 
 

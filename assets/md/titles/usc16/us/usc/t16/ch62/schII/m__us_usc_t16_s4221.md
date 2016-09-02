@@ -43,7 +43,7 @@
 
             If the Secretary finds within one year after October 7, 1988, that there is insufficient information upon which to make the determination under paragraph (1), the Secretary may delay issuing the determination until no later than December 31, 1989. The Secretary shall issue and publish in the Federal Register at the time of the finding a statement explaining the reasons for any such delay.
 
-([Pub. L. 100–478, title II, § 2201][/us/pl/100/478/s2201], Oct. 7, 1988, [102 Stat. 2318][/us/stat/102/2318].)
+([Pub. L. 100–478, title II][/us/pl/100/478/tII], § 2201, Oct. 7, 1988, [102 Stat. 2318][/us/stat/102/2318].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/100/478/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2Fs2201
+[/us/pl/100/478/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2FtII
 [/us/stat/102/2318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2318
 
 

@@ -17,7 +17,7 @@
 
     If in the opinion of the Secretary of the Interior, the aforesaid educational facilities cannot be provided adequately and payment made therefor on a pro rata basis, as prescribed in [section 40a of this title][/us/usc/t16/s40a], the Secretary of the Interior, in his discretion, may enter into cooperative agreements with States or local agencies for (a) the operation of school facilities, (b) for the construction and expansion of local facilities at Federal expense, and (c) for contribution by the Federal Government, on an equitable basis satisfactory to the Secretary, to cover the increased cost to local agencies for providing the educational services required for the purposes of sections 40a to 40c of this title.
 
-([June 4, 1948, ch. 417, § 2][/us/act/1948-06-04/ch417/s2], [62 Stat. 339][/us/stat/62/339].)
+([June 4, 1948, ch. 417][/us/act/1948-06-04/ch417], § 2, [62 Stat. 339][/us/stat/62/339].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s40a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs40a
-[/us/act/1948-06-04/ch417/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-04%2Fch417%2Fs2
+[/us/act/1948-06-04/ch417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-04%2Fch417
 [/us/stat/62/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F339
 
 

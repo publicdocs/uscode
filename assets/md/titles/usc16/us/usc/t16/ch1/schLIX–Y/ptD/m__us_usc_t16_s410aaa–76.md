@@ -31,7 +31,7 @@
 
         The Federal water rights reserved by this Act are specific to the wilderness area located in the State of California designated under this Act. Nothing in this Act related to the reserved Federal water rights shall be construed as establishing a precedent with regard to any future designations, nor shall it constitute an interpretation of any other Act or any designation made thereto.
 
-([Pub. L. 103–433, title VII, § 706][/us/pl/103/433/s706], Oct. 31, 1994, [108 Stat. 4498][/us/stat/108/4498].)
+([Pub. L. 103–433, title VII][/us/pl/103/433/tVII], § 706, Oct. 31, 1994, [108 Stat. 4498][/us/stat/108/4498].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t43/s666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs666
-[/us/pl/103/433/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs706
+[/us/pl/103/433/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtVII
 [/us/stat/108/4498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4498
 [/us/pl/103/433/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs204
 [/us/stat/108/4485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4485

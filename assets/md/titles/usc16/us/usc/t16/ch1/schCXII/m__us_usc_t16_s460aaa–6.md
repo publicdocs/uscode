@@ -41,7 +41,7 @@
 
         In preparing the comprehensive management plan, the Secretary shall consult with the appropriate State and local government officials, provide for full public participation, and consider the views of all interested parties, organizations, and individuals.
 
-([Pub. L. 101–292, § 7][/us/pl/101/292/s7], May 17, 1990, [104 Stat. 188][/us/stat/104/188].)
+([Pub. L. 101–292][/us/pl/101/292], § 7, May 17, 1990, [104 Stat. 188][/us/stat/104/188].)
 
 ----------
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t16/s460aaa–2/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460aaa%E2%80%932%2Fb%2F4
-[/us/pl/101/292/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F292%2Fs7
+[/us/pl/101/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F292
 [/us/stat/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F188
 
 

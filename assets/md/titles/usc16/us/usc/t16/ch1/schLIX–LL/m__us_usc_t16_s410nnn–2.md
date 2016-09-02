@@ -17,7 +17,7 @@
 
     The Secretary, acting through the Director of the National Park Service, shall manage the historical park in accordance with this subchapter and the provisions of law generally applicable to the National Park System, including the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]; [16 U.S.C. 1][/us/usc/t16/s1] et seq.), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and the Act of August 21, 1935 ([49 Stat. 666][/us/stat/49/666]). <sup>\[1\]</sup>  The Secretary shall protect, manage, and administer the historical park for the purposes of preserving and interpreting the cultural and natural resources of the historical park and providing for the public understanding and appreciation of the historical park in such a manner as to perpetuate these qualities and values for future generations.
 
-([Pub. L. 102–304, § 4][/us/pl/102/304/s4], June 23, 1992, [106 Stat. 257][/us/stat/106/257]; [Pub. L. 111–11, title VII, § 7113(a)(3)(C)][/us/pl/111/11/s7113/a/3/C], Mar. 30, 2009, [123 Stat. 1202][/us/stat/123/1202].)
+([Pub. L. 102–304][/us/pl/102/304], § 4, June 23, 1992, [106 Stat. 257][/us/stat/106/257]; [Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7113(a)(3)(C), Mar. 30, 2009, [123 Stat. 1202][/us/stat/123/1202].)
 
  __References in Text__ 
 
@@ -39,9 +39,9 @@
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
-[/us/pl/102/304/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F304%2Fs4
+[/us/pl/102/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F304
 [/us/stat/106/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F257
-[/us/pl/111/11/s7113/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7113%2Fa%2F3%2FC
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1202
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1

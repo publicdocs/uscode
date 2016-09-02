@@ -133,7 +133,7 @@
 
         If the Commission determines at any time that conditions within the scenic area have significantly changed, it may amend the management plan. The Commission shall submit amendments to the management plan to the Secretary for review, in accordance with the provisions of this section for adoption of the management plan.
 
-([Pub. L. 99–663, § 6][/us/pl/99/663/s6], Nov. 17, 1986, [100 Stat. 4279][/us/stat/100/4279].)
+([Pub. L. 99–663][/us/pl/99/663], § 6, Nov. 17, 1986, [100 Stat. 4279][/us/stat/100/4279].)
 
 ----------
 
@@ -148,7 +148,7 @@
 [/us/usc/t16/s544f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs544f
 [/us/usc/t16/s544f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs544f
 [/us/usc/t16/s544b/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs544b%2Fe
-[/us/pl/99/663/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663%2Fs6
+[/us/pl/99/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663
 [/us/stat/100/4279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4279
 
 

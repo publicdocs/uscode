@@ -17,7 +17,7 @@
 
     Sections 430ff to 430jj of this title shall become effective if and when the requirements of sections 430ff and 430gg of this title shall have been fully complied with to the satisfaction of the President of the United States, who shall then issue a notice declaring that the requirements herein have been met, and said notice shall formally dedicate and set aside the areas transferred to the United States in accordance with the provisions of [section 430ff of this title][/us/usc/t16/s430ff].
 
-([July 25, 1956, ch. 729, § 4][/us/act/1956-07-25/ch729/s4], [70 Stat. 651][/us/stat/70/651].)
+([July 25, 1956, ch. 729][/us/act/1956-07-25/ch729], § 4, [70 Stat. 651][/us/stat/70/651].)
 
  __Proc. No. 3308. Establishment of Park__ 
 
@@ -65,7 +65,7 @@ WHEREAS the requirements of sections 1 and 2 of the act of July 25, 1956 ([70 St
 ----------
 
 [/us/usc/t16/s430ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs430ff
-[/us/act/1956-07-25/ch729/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-25%2Fch729%2Fs4
+[/us/act/1956-07-25/ch729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-25%2Fch729
 [/us/stat/70/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F651
 [/us/stat/70/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F651
 [/us/usc/t16/s430ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs430ff

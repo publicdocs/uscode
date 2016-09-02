@@ -121,7 +121,7 @@
 
         The term “Secretary” means the Secretary of the Interior.
 
-([Pub. L. 109–294, § 3][/us/pl/109/294/s3], Oct. 3, 2006, [120 Stat. 1352][/us/stat/120/1352].)
+([Pub. L. 109–294][/us/pl/109/294], § 3, Oct. 3, 2006, [120 Stat. 1352][/us/stat/120/1352].)
 
 ----------
 
@@ -131,7 +131,7 @@
 ----------
 
 [/us/usc/t16/s3773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3773
-[/us/pl/109/294/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F294%2Fs3
+[/us/pl/109/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F294
 [/us/stat/120/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1352
 
 

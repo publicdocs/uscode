@@ -23,7 +23,7 @@
 
     (3) road rights-of-way, reserved or acquired, which are substantially surrounded by lands not owned by the United States and which are no longer needed by the United States, subject to the first right of abutting landowners to acquire such rights-of-way.
 
-([Pub. L. 97–465, § 3][/us/pl/97/465/s3], Jan. 12, 1983, [96 Stat. 2535][/us/stat/96/2535].)
+([Pub. L. 97–465][/us/pl/97/465], § 3, Jan. 12, 1983, [96 Stat. 2535][/us/stat/96/2535].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/97/465/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F465%2Fs3
+[/us/pl/97/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F465
 [/us/stat/96/2535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2535
 
 

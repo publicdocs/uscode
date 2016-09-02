@@ -81,7 +81,7 @@
 
             (C) disposition under all laws relating to mineral and geothermal leasing or mineral materials.
 
-([Pub. L. 111–11, title I, § 1808][/us/pl/111/11/s1808], Mar. 30, 2009, [123 Stat. 1060][/us/stat/123/1060].)
+([Pub. L. 111–11, title I][/us/pl/111/11/tI], § 1808, Mar. 30, 2009, [123 Stat. 1060][/us/stat/123/1060].)
 
  __References in Text__ 
 
@@ -101,7 +101,7 @@
 ----------
 
 [/us/usc/t16/s1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1600
-[/us/pl/111/11/s1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs1808
+[/us/pl/111/11/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtI
 [/us/stat/123/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1060
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 [/us/stat/123/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1052

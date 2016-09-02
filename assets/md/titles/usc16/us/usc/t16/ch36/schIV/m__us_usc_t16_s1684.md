@@ -17,7 +17,7 @@
 
     The Secretary shall make annual reports to the Congress on the programs authorized by this subchapter. These reports shall be submitted with the reports required under [section 1606(c) of this title][/us/usc/t16/s1606/c].
 
-([Pub. L. 96–554, § 5][/us/pl/96/554/s5], Dec. 19, 1980, [94 Stat. 3258][/us/stat/94/3258].)
+([Pub. L. 96–554][/us/pl/96/554], § 5, Dec. 19, 1980, [94 Stat. 3258][/us/stat/94/3258].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s1606/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1606%2Fc
-[/us/pl/96/554/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F554%2Fs5
+[/us/pl/96/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F554
 [/us/stat/94/3258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3258
 
 

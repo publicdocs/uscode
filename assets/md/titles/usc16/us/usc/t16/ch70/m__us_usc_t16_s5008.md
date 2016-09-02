@@ -59,7 +59,7 @@
 
         (2) When requested by the appropriate authorities of a Party, an authorized officer may be directed to attend as a witness, and to produce such available records and files or duly certified copies thereof as may be necessary, for the prosecution by that Party of any violation of the provisions of the Convention or any law of that Party relating to the enforcement thereof.
 
-([Pub. L. 102–567, title VIII, § 809][/us/pl/102/567/s809], Oct. 29, 1992, [106 Stat. 4312][/us/stat/106/4312]; [Pub. L. 102–587, title VIII, § 8009][/us/pl/102/587/s8009], Nov. 4, 1992, [106 Stat. 5101][/us/stat/106/5101]; [Pub. L. 106–562, title III, § 304(a)][/us/pl/106/562/s304/a], Dec. 23, 2000, [114 Stat. 2806][/us/stat/114/2806].)
+([Pub. L. 102–567, title VIII][/us/pl/102/567/tVIII], § 809, Oct. 29, 1992, [106 Stat. 4312][/us/stat/106/4312]; [Pub. L. 102–587, title VIII][/us/pl/102/587/tVIII], § 8009, Nov. 4, 1992, [106 Stat. 5101][/us/stat/106/5101]; [Pub. L. 106–562, title III][/us/pl/106/562/tIII], § 304(a), Dec. 23, 2000, [114 Stat. 2806][/us/stat/114/2806].)
 
  __Codification__ 
 
@@ -73,11 +73,11 @@
 ----------
 
 [/us/usc/t16/s5009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5009
-[/us/pl/102/567/s809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs809
+[/us/pl/102/567/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtVIII
 [/us/stat/106/4312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4312
-[/us/pl/102/587/s8009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs8009
+[/us/pl/102/587/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtVIII
 [/us/stat/106/5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5101
-[/us/pl/106/562/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs304%2Fa
+[/us/pl/106/562/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2FtIII
 [/us/stat/114/2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2806
 [/us/pl/102/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567
 [/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587

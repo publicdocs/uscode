@@ -23,7 +23,7 @@
 
         The Secretary may promulgate regulations applicable to all vessels and persons subject to the jurisdiction of the United States, including United States flag vessels wherever they may be operating, on such date as the Secretary shall prescribe.
 
-([Pub. L. 109–479, title V, § 505][/us/pl/109/479/s505], Jan. 12, 2007, [120 Stat. 3639][/us/stat/120/3639].)
+([Pub. L. 109–479, title V][/us/pl/109/479/tV], § 505, Jan. 12, 2007, [120 Stat. 3639][/us/stat/120/3639].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
-[/us/pl/109/479/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs505
+[/us/pl/109/479/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtV
 [/us/stat/120/3639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3639
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331

@@ -23,7 +23,7 @@
 
         In the administration of the area for the purposes of this subchapter, the Secretary may utilize such statutory authorities relating to areas administered and supervised by the Secretary through the National Park Service and such statutory authorities otherwise available to him for the conservation and management of natural resources as he deems appropriate to carry out the purposes of this subchapter.
 
-([Pub. L. 89–664, § 3][/us/pl/89/664/s3], Oct. 15, 1966, [80 Stat. 914][/us/stat/80/914].)
+([Pub. L. 89–664][/us/pl/89/664], § 3, Oct. 15, 1966, [80 Stat. 914][/us/stat/80/914].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/89/664/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F664%2Fs3
+[/us/pl/89/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F664
 [/us/stat/80/914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F914
 
 

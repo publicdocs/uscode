@@ -35,7 +35,7 @@
 
         the Secretary of State shall submit the matter in disagreement, together with a statement of the opposing positions, to the President for timely disposition.
 
-([Pub. L. 97–389, title III, § 304][/us/pl/97/389/s304], Dec. 29, 1982, [96 Stat. 1952][/us/stat/96/1952].)
+([Pub. L. 97–389, title III][/us/pl/97/389/tIII], § 304, Dec. 29, 1982, [96 Stat. 1952][/us/stat/96/1952].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/97/389/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F389%2Fs304
+[/us/pl/97/389/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F389%2FtIII
 [/us/stat/96/1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1952
 
 

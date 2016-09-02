@@ -73,7 +73,7 @@
 
         [Section 1276(d)(1) of this title][/us/usc/t16/s1276/d/1] shall not apply to the Natural Area.
 
-([Pub. L. 109–337, § 7][/us/pl/109/337/s7], Oct. 12, 2006, [120 Stat. 1780][/us/stat/120/1780].)
+([Pub. L. 109–337][/us/pl/109/337], § 7, Oct. 12, 2006, [120 Stat. 1780][/us/stat/120/1780].)
 
 ----------
 
@@ -84,7 +84,7 @@
 
 [/us/usc/t16/s460rrr–4/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460rrr%E2%80%934%2Fb%2F2%2FA
 [/us/usc/t16/s1276/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1276%2Fd%2F1
-[/us/pl/109/337/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F337%2Fs7
+[/us/pl/109/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F337
 [/us/stat/120/1780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1780
 
 

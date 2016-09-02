@@ -37,7 +37,7 @@
 
         (2) The aggregate amount of funds made available by the Secretary to the Commission from funds appropriated under subsection (a)(2) of this section may not exceed the amount certified by the Secretary in the most recent statement submitted to the Congress under paragraph (1) of this subsection.
 
-([Pub. L. 95–290, title I, § 103][/us/pl/95/290/s103], June 5, 1978, [92 Stat. 292][/us/stat/92/292]; [Pub. L. 100–134, § 1(1)][/us/pl/100/134/s1/1], Oct. 16, 1987, [101 Stat. 810][/us/stat/101/810].)
+([Pub. L. 95–290, title I][/us/pl/95/290/tI], § 103, June 5, 1978, [92 Stat. 292][/us/stat/92/292]; [Pub. L. 100–134][/us/pl/100/134], § 1(1), Oct. 16, 1987, [101 Stat. 810][/us/stat/101/810].)
 
  __Amendments__ 
 
@@ -45,7 +45,7 @@
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–134, § 2][/us/pl/100/134/s2], Oct. 16, 1987, [101 Stat. 810][/us/stat/101/810], provided that:
+[Pub. L. 100–134][/us/pl/100/134], § 2, Oct. 16, 1987, [101 Stat. 810][/us/stat/101/810], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -72,12 +72,12 @@
 [/us/usc/t16/s410cc–33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410cc%E2%80%9333
 [/us/usc/t16/s410cc–34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410cc%E2%80%9334
 [/us/usc/t16/s410cc–32/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410cc%E2%80%9332%2Fc
-[/us/pl/95/290/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F290%2Fs103
+[/us/pl/95/290/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F290%2FtI
 [/us/stat/92/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F292
-[/us/pl/100/134/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F134%2Fs1%2F1
+[/us/pl/100/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F134
 [/us/stat/101/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F810
 [/us/pl/100/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F134
-[/us/pl/100/134/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F134%2Fs2
+[/us/pl/100/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F134
 [/us/stat/101/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F810
 [/us/usc/t16/s410cc–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410cc%E2%80%9313
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

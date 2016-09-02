@@ -11,22 +11,22 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXX/m__us_usc_t16_s180.md) | [Next](./../../../../..//us/usc/t16/ch1/schXXI/m__us_usc_t16_ch1_schXXI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs181b)
+[Previous](./../../../../..//us/usc/t16/ch1/schXX/m__us_usc_t16_s181 _us_usc_t16_s181a.md) | [Next](./../../../../..//us/usc/t16/ch1/schXXI/m__us_usc_t16_ch1_schXXI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs181b)
 
-## § 181b. Repealed. [June 25, 1948, ch. 646, § 39][/us/act/1948-06-25/ch646/s39], [62 Stat. 992][/us/stat/62/992], eff. Sept. 1, 1948
+## § 181b. Repealed. [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 39, [62 Stat. 992][/us/stat/62/992], eff. Sept. 1, 1948
 
-    Section, [act May 2, 1932, ch. 155, § 3][/us/act/1932-05-02/ch155/s3], [47 Stat. 145][/us/stat/47/145], related to jurisdiction of commissioner. See provisions for United States magistrate judges in section 631 et seq. of Title 28, Judiciary and Judicial Procedure.
-
-----------
-
-[Previous](./../../../../..//us/usc/t16/ch1/schXX/m__us_usc_t16_s180.md) | [Next](./../../../../..//us/usc/t16/ch1/schXXI/m__us_usc_t16_ch1_schXXI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs181b)
+    Section, [act May 2, 1932, ch. 155][/us/act/1932-05-02/ch155], § 3, [47 Stat. 145][/us/stat/47/145], related to jurisdiction of commissioner. See provisions for United States magistrate judges in section 631 et seq. of Title 28, Judiciary and Judicial Procedure.
 
 ----------
+
+[Previous](./../../../../..//us/usc/t16/ch1/schXX/m__us_usc_t16_s181 _us_usc_t16_s181a.md) | [Next](./../../../../..//us/usc/t16/ch1/schXXI/m__us_usc_t16_ch1_schXXI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs181b)
+
+----------
 ----------
 
-[/us/act/1948-06-25/ch646/s39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs39
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F992
-[/us/act/1932-05-02/ch155/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-05-02%2Fch155%2Fs3
+[/us/act/1932-05-02/ch155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-05-02%2Fch155
 [/us/stat/47/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F145
 
 

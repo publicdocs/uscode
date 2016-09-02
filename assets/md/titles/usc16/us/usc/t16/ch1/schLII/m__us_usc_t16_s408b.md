@@ -17,7 +17,7 @@
 
     The administration, protection, and development of the aforesaid park shall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]), entitled “An Act to establish a National Park Service, and for other purposes,”  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended: Provided, That the provisions of the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\] shall not apply to this park.
 
-([Mar. 3, 1931, ch. 448, § 3][/us/act/1931-03-03/ch448/s3], [46 Stat. 1514][/us/stat/46/1514].)
+([Mar. 3, 1931, ch. 448][/us/act/1931-03-03/ch448], § 3, [46 Stat. 1514][/us/stat/46/1514].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
-[/us/act/1931-03-03/ch448/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-03%2Fch448%2Fs3
+[/us/act/1931-03-03/ch448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-03%2Fch448
 [/us/stat/46/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1514
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408

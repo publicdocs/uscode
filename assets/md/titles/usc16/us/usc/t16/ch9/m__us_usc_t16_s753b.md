@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated such sums as may be necessary to carry out the purposes of [section 753a of this title][/us/usc/t16/s753a].
 
-([Pub. L. 86–686, § 2][/us/pl/86/686/s2], Sept. 2, 1960, [74 Stat. 733][/us/stat/74/733].)
+([Pub. L. 86–686][/us/pl/86/686], § 2, Sept. 2, 1960, [74 Stat. 733][/us/stat/74/733].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s753a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs753a
-[/us/pl/86/686/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F686%2Fs2
+[/us/pl/86/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F686
 [/us/stat/74/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F733
 
 

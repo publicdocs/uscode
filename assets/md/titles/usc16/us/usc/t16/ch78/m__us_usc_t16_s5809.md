@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the Department to be made available to the Foundation $1,000,000 for each of fiscal years 1997 through 1999 to initially establish and carry out activities of the Foundation.
 
-([Pub. L. 104–127, title III, § 360][/us/pl/104/127/s360], Apr. 4, 1996, [110 Stat. 1014][/us/stat/110/1014].)
+([Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 360, Apr. 4, 1996, [110 Stat. 1014][/us/stat/110/1014].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs360
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1014
 
 

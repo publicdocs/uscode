@@ -17,7 +17,7 @@
 
     Nothing herein shall be construed as preventing or discouraging postauthorization development of any project for recreation or fish and wildlife enhancement or both by non-Federal public bodies pursuant to agreement with the head of the Federal agency having jurisdiction over the project. Such development shall not be the basis for any allocation or reallocation of project costs to recreation or fish and wildlife enhancement.
 
-([Pub. L. 89–72, § 5][/us/pl/89/72/s5], July 9, 1965, [79 Stat. 215][/us/stat/79/215].)
+([Pub. L. 89–72][/us/pl/89/72], § 5, July 9, 1965, [79 Stat. 215][/us/stat/79/215].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/72/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F72%2Fs5
+[/us/pl/89/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F72
 [/us/stat/79/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F215
 
 

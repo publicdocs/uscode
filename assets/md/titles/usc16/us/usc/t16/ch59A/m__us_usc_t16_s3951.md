@@ -43,7 +43,7 @@
 
     (10) “Director” means the Director of the United States Fish and Wildlife Service.
 
-([Pub. L. 101–646, title III, § 302][/us/pl/101/646/s302], Nov. 29, 1990, [104 Stat. 4778][/us/stat/104/4778].)
+([Pub. L. 101–646, title III][/us/pl/101/646/tIII], § 302, Nov. 29, 1990, [104 Stat. 4778][/us/stat/104/4778].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 
  __Short Title__ 
 
-[Pub. L. 101–646, title III, § 301][/us/pl/101/646/s301], Nov. 29, 1990, [104 Stat. 4778][/us/stat/104/4778], provided that: 
+[Pub. L. 101–646, title III][/us/pl/101/646/tIII], § 301, Nov. 29, 1990, [104 Stat. 4778][/us/stat/104/4778], provided that: 
 
 > “This title \[enacting this chapter and amending [section 777c of this title][/us/usc/t16/s777c]\] may be cited as the ‘Coastal Wetlands Planning, Protection and Restoration Act’.”
 
@@ -66,11 +66,11 @@
 ----------
 ----------
 
-[/us/pl/101/646/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs302
+[/us/pl/101/646/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2FtIII
 [/us/stat/104/4778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4778
 [/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
 [/us/stat/104/4778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4778
-[/us/pl/101/646/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs301
+[/us/pl/101/646/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2FtIII
 [/us/stat/104/4778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4778
 [/us/usc/t16/s777c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681

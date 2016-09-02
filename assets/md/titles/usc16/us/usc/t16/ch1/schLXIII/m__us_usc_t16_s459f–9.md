@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to purchase from a public utility any facilities of that utility which are no longer of value to it as a result of the establishment of the Assateague Island National Seashore and shall pay for such facilities an amount equal to the cost of constructing such facilities less depreciation.
 
-([Pub. L. 89–195, § 10][/us/pl/89/195/s10], Sept. 21, 1965, [79 Stat. 827][/us/stat/79/827].)
+([Pub. L. 89–195][/us/pl/89/195], § 10, Sept. 21, 1965, [79 Stat. 827][/us/stat/79/827].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/195/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F195%2Fs10
+[/us/pl/89/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F195
 [/us/stat/79/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F827
 
 

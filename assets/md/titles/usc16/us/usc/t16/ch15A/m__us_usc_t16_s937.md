@@ -17,7 +17,7 @@
 
     The United States Section shall, for the purposes of these  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “those”. </sup></sup>  provisions of title 28, relating to claims against the United States and tort claims procedure, be deemed to be an agency of the United States.
 
-([June 4, 1956, ch. 358, § 8][/us/act/1956-06-04/ch358/s8], [70 Stat. 243][/us/stat/70/243].)
+([June 4, 1956, ch. 358][/us/act/1956-06-04/ch358], § 8, [70 Stat. 243][/us/stat/70/243].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1956-06-04/ch358/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-04%2Fch358%2Fs8
+[/us/act/1956-06-04/ch358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-04%2Fch358
 [/us/stat/70/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F243
 
 

@@ -11,44 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch54/schII/m__us_usc_t16_s3420.md) | [Next](./../../../../..//us/usc/t16/ch54/schIV/m__us_usc_t16_ch54_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch54%2FschIII)
+[Previous](./../../../../..//us/usc/t16/ch54/schII/m__us_usc_t16_s3420.md) | [Next](./../../../../..//us/usc/t16/ch54/schIII/m__us_usc_t16_s3431...3436.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch54%2FschIII)
 
 ### SUBCHAPTER III—MATCHING GRANTS FOR CONSERVATION ACTIVITIES
 
-§§ 3431 to 3436. __Repealed.__  __[__  __Pub. L. 104–127, title III, § 336(f)(1)__  __][/us/pl/104/127/s336/f/1]__  __,__  __Apr. 4, 1996__  __,__  __[__  __110 Stat. 1007__  __][/us/stat/110/1007]__ 
-
-    Section 3431, [Pub. L. 97–98, title XV, § 1514][/us/pl/97/98/s1514], Dec. 22, 1981, [95 Stat. 1333][/us/stat/95/1333], authorized formulation and implementation of grants program.
-
-    Section 3432, [Pub. L. 97–98, title XV, § 1515][/us/pl/97/98/s1515], Dec. 22, 1981, [95 Stat. 1334][/us/stat/95/1334], related to program and plan review and implementation.
-
-    Section 3433, [Pub. L. 97–98, title XV, § 1516][/us/pl/97/98/s1516], Dec. 22, 1981, [95 Stat. 1334][/us/stat/95/1334], related to long-range programs and annual work plans.
-
-    Section 3434, [Pub. L. 97–98, title XV, § 1517][/us/pl/97/98/s1517], Dec. 22, 1981, [95 Stat. 1334][/us/stat/95/1334], authorized technical assistance to landowners and operators.
-
-    Section 3435, [Pub. L. 97–98, title XV, § 1518][/us/pl/97/98/s1518], Dec. 22, 1981, [95 Stat. 1335][/us/stat/95/1335], related to recordkeeping, audit and examination, and access to books and records.
-
-    Section 3436, [Pub. L. 97–98, title XV, § 1519][/us/pl/97/98/s1519], Dec. 22, 1981, [95 Stat. 1335][/us/stat/95/1335], authorized appropriations to carry out provisions of subchapter III.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch54/schII/m__us_usc_t16_s3420.md) | [Next](./../../../../..//us/usc/t16/ch54/schIV/m__us_usc_t16_ch54_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch54%2FschIII)
+[Previous](./../../../../..//us/usc/t16/ch54/schII/m__us_usc_t16_s3420.md) | [Next](./../../../../..//us/usc/t16/ch54/schIII/m__us_usc_t16_s3431...3436.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch54%2FschIII)
 
 ----------
 ----------
 
-[/us/pl/104/127/s336/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs336%2Ff%2F1
-[/us/stat/110/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1007
-[/us/pl/97/98/s1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1514
-[/us/stat/95/1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1333
-[/us/pl/97/98/s1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1515
-[/us/stat/95/1334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1334
-[/us/pl/97/98/s1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1516
-[/us/stat/95/1334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1334
-[/us/pl/97/98/s1517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1517
-[/us/stat/95/1334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1334
-[/us/pl/97/98/s1518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1518
-[/us/stat/95/1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1335
-[/us/pl/97/98/s1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1519
-[/us/stat/95/1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1335
 
 

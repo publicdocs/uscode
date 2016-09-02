@@ -19,7 +19,7 @@
 
     No monuments or memorials shall be erected upon any lands of the park, or remain upon any lands which may be purchased for the park, except upon ground actually occupied in the course of the battle by troops of the State which the proposed monuments are intended to commemorate, except upon those sections of the park set apart for memorials to troops which were engaged in the campaigns, but operated outside of the legal limits of the park. Notwithstanding the restrictive provisions of this paragraph, the Secretary of the Interior is authorized in his discretion to permit without cost to the United States the erection of monuments or memorials to commemorate encampments of Spanish War organizations which were encamped in said park during the period of the Spanish-American War.
 
-([Aug. 19, 1890, ch. 806][/us/act/1890-08-19/ch806], §§ 1–11, [26 Stat. 333–336][/us/stat/26/333-336]; [Mar. 3, 1891, ch. 542][/us/act/1891-03-03/ch542], [26 Stat. 978][/us/stat/26/978]; [Feb. 26, 1896, ch. 33][/us/act/1896-02-26/ch33], [29 Stat. 21][/us/stat/29/21]; [June 4, 1897, ch. 2, § 1][/us/act/1897-06-04/ch2/s1], [30 Stat. 43][/us/stat/30/43]; [Apr. 15, 1926, ch. 146][/us/act/1926-04-15/ch146], title II, [44 Stat. 289][/us/stat/44/289]; [Feb. 23, 1927, ch. 167][/us/act/1927-02-23/ch167], title II, [44 Stat. 1140][/us/stat/44/1140]; Ex. Ord. No. 6166, § 2, June 10, 1933; Ex. Ord. No. 6228, § 1, July 28, 1933.)
+([Aug. 19, 1890, ch. 806][/us/act/1890-08-19/ch806], §§ 1–11, [26 Stat. 333–336][/us/stat/26/333-336]; [Mar. 3, 1891, ch. 542][/us/act/1891-03-03/ch542], [26 Stat. 978][/us/stat/26/978]; [Feb. 26, 1896, ch. 33][/us/act/1896-02-26/ch33], [29 Stat. 21][/us/stat/29/21]; [June 4, 1897, ch. 2][/us/act/1897-06-04/ch2], § 1, [30 Stat. 43][/us/stat/30/43]; [Apr. 15, 1926, ch. 146][/us/act/1926-04-15/ch146], title II, [44 Stat. 289][/us/stat/44/289]; [Feb. 23, 1927, ch. 167][/us/act/1927-02-23/ch167], title II, [44 Stat. 1140][/us/stat/44/1140]; Ex. Ord. No. 6166, § 2, June 10, 1933; Ex. Ord. No. 6228, § 1, July 28, 1933.)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 
     Administrative functions of Chickamauga and Chattanooga National Military Park transferred to Department of the Interior by Ex. Ord. Nos. 6166 and 6228, set out as a note under [section 901 of Title 5][/us/usc/t5/s901], Government Organization and Employees.
 
-    National Park Service substituted for Office of National Parks, Buildings, and Reservations referred to in Ex. Ord. No. 6166, § 2, by [act Mar. 2, 1934, ch. 38, § 1][/us/act/1934-03-02/ch38/s1], [48 Stat. 389][/us/stat/48/389].
+    National Park Service substituted for Office of National Parks, Buildings, and Reservations referred to in Ex. Ord. No. 6166, § 2, by [act Mar. 2, 1934, ch. 38][/us/act/1934-03-02/ch38], § 1, [48 Stat. 389][/us/stat/48/389].
 
 ----------
 
@@ -50,14 +50,14 @@
 [/us/stat/26/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F978
 [/us/act/1896-02-26/ch33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1896-02-26%2Fch33
 [/us/stat/29/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F21
-[/us/act/1897-06-04/ch2/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-06-04%2Fch2%2Fs1
+[/us/act/1897-06-04/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-06-04%2Fch2
 [/us/stat/30/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F43
 [/us/act/1926-04-15/ch146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-04-15%2Fch146
 [/us/stat/44/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F289
 [/us/act/1927-02-23/ch167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-23%2Fch167
 [/us/stat/44/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1140
 [/us/usc/t5/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs901
-[/us/act/1934-03-02/ch38/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-02%2Fch38%2Fs1
+[/us/act/1934-03-02/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-02%2Fch38
 [/us/stat/48/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F389
 
 

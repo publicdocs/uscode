@@ -17,7 +17,7 @@
 
     Where privately owned lands within the said park lie within three hundred feet of the rim of the Grand Canyon no building, tent, fence, or other structure shall be erected on the park lands lying between said privately owned lands and the rim.
 
-([Feb. 26, 1919, ch. 44, § 8][/us/act/1919-02-26/ch44/s8], [40 Stat. 1178][/us/stat/40/1178].)
+([Feb. 26, 1919, ch. 44][/us/act/1919-02-26/ch44], § 8, [40 Stat. 1178][/us/stat/40/1178].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1919-02-26/ch44/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-02-26%2Fch44%2Fs8
+[/us/act/1919-02-26/ch44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-02-26%2Fch44
 [/us/stat/40/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1178
 
 

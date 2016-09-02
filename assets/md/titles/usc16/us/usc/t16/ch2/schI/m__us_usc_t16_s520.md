@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture is authorized, under general regulations to be prescribed by him, to permit the prospecting, development, and utilization of the mineral resources of the lands acquired under the Act of March first, nineteen hundred and eleven, known as the Weeks law, upon such terms and for specified periods or otherwise, as he may deem to be for the best interests of the United States; and all moneys received on account of charges, if any, made under this Act shall be disposed of as is provided by existing law for the disposition of receipts from national forests.
 
-([Mar. 4, 1917, ch. 179][/us/act/1917-03-04/ch179], [39 Stat. 1150][/us/stat/39/1150]; 1946 Reorg. Plan No. 3, § 402, eff. July 16, 1946, 11 F.R. 7876, [60 Stat. 1099][/us/stat/60/1099]; [Pub. L. 86–509, § 1][/us/pl/86/509/s1](l), June 11, 1960, [74 Stat. 205][/us/stat/74/205].)
+([Mar. 4, 1917, ch. 179][/us/act/1917-03-04/ch179], [39 Stat. 1150][/us/stat/39/1150]; 1946 Reorg. Plan No. 3, § 402, eff. July 16, 1946, 11 F.R. 7876, [60 Stat. 1099][/us/stat/60/1099]; [Pub. L. 86–509][/us/pl/86/509], § 1(l), June 11, 1960, [74 Stat. 205][/us/stat/74/205].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 [/us/act/1917-03-04/ch179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-03-04%2Fch179
 [/us/stat/39/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F1150
 [/us/stat/60/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1099
-[/us/pl/86/509/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F509%2Fs1
+[/us/pl/86/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F509
 [/us/stat/74/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F205
 [/us/act/1911-03-01/ch186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-01%2Fch186
 [/us/stat/36/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F961

@@ -17,7 +17,7 @@
 
     The Secretary of Commerce, through the Secretary of State, shall immediately initiate negotiations for the purpose of developing appropriate bilateral agreements with Mexico and Canada for the protection and conservation of whales.
 
-([Pub. L. 94–532, § 5][/us/pl/94/532/s5], Oct. 17, 1976, [90 Stat. 2492][/us/stat/90/2492].)
+([Pub. L. 94–532][/us/pl/94/532], § 5, Oct. 17, 1976, [90 Stat. 2492][/us/stat/90/2492].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/532/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F532%2Fs5
+[/us/pl/94/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F532
 [/us/stat/90/2492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2492
 
 

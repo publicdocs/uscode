@@ -31,7 +31,7 @@
 
         The Director of the United States Fish and Wildlife Service shall make a report to Congress at the end of any fiscal year that the provisions of this section are utilized, which describes the use of the provisions of this section, and the additional cost, if any, to the Federal Government resulting therefrom. Such report shall be referred in the Senate to the Committee on Commerce, Science, and Transportation and in the House of Representatives to the Committee on Merchant Marine and Fisheries.
 
-([Mar. 3, 1885, ch. 360, § 1(2)][/us/act/1885-03-03/ch360/s1/2], as added [Pub. L. 93–280, § 1(3)][/us/pl/93/280/s1/3], May 10, 1974, [88 Stat. 123][/us/stat/88/123]; amended [Pub. L. 96–470, title II, § 206(a)][/us/pl/96/470/s206/a], Oct. 19, 1980, [94 Stat. 2244][/us/stat/94/2244]; [Pub. L. 103–437, § 6(t)][/us/pl/103/437/s6/t], Nov. 2, 1994, [108 Stat. 4587][/us/stat/108/4587].)
+([Mar. 3, 1885, ch. 360][/us/act/1885-03-03/ch360], § 1(2), as added [Pub. L. 93–280][/us/pl/93/280], § 1(3), May 10, 1974, [88 Stat. 123][/us/stat/88/123]; amended [Pub. L. 96–470, title II][/us/pl/96/470/tII], § 206(a), Oct. 19, 1980, [94 Stat. 2244][/us/stat/94/2244]; [Pub. L. 103–437][/us/pl/103/437], § 6(t), Nov. 2, 1994, [108 Stat. 4587][/us/stat/108/4587].)
 
  __References in Text__ 
 
@@ -60,12 +60,12 @@
 ----------
 ----------
 
-[/us/act/1885-03-03/ch360/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1885-03-03%2Fch360%2Fs1%2F2
-[/us/pl/93/280/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F280%2Fs1%2F3
+[/us/act/1885-03-03/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1885-03-03%2Fch360
+[/us/pl/93/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F280
 [/us/stat/88/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F123
-[/us/pl/96/470/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs206%2Fa
+[/us/pl/96/470/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2FtII
 [/us/stat/94/2244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2244
-[/us/pl/103/437/s6/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Ft
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4587
 [/us/usc/t16/s742b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs742b%2Fc
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437

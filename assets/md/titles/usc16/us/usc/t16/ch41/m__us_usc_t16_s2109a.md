@@ -27,7 +27,7 @@
 
         The Secretary shall give priority for funding to States for which the long-term State-wide forest resource strategies submitted under [section 2101a(a)(2) of this title][/us/usc/t16/s2101a/a/2] will best promote the national priorities specified in [section 2101(c) of this title][/us/usc/t16/s2101/c].
 
-([Pub. L. 95–313, § 13A][/us/pl/95/313/s13A], as added [Pub. L. 110–234, title VIII, § 8007][/us/pl/110/234/s8007], May 22, 2008, [122 Stat. 1285][/us/stat/122/1285], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VIII, § 8007, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2047.)
+([Pub. L. 95–313][/us/pl/95/313], § 13A, as added [Pub. L. 110–234, title VIII][/us/pl/110/234/tVIII], § 8007, May 22, 2008, [122 Stat. 1285][/us/stat/122/1285], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VIII, § 8007, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2047.)
 
  __References in Text__ 
 
@@ -53,10 +53,10 @@
 [/us/usc/t16/s2113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2113%2Fa
 [/us/usc/t16/s2101a/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2101a%2Fa%2F2
 [/us/usc/t16/s2101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2101%2Fc
-[/us/pl/95/313/s13A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313%2Fs13A
-[/us/pl/110/234/s8007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs8007
+[/us/pl/95/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313
+[/us/pl/110/234/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVIII
 [/us/stat/122/1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1285
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/95/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313

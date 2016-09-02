@@ -11,22 +11,22 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXII/m__us_usc_t16_s117d.md) | [Next](./../../../../..//us/usc/t16/ch1/schXIII/m__us_usc_t16_ch1_schXIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs118)
+[Previous](./../../../../..//us/usc/t16/ch1/schXII/m__us_usc_t16_s117e...117j.md) | [Next](./../../../../..//us/usc/t16/ch1/schXIII/m__us_usc_t16_ch1_schXIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs118)
 
 ## § 118. Appropriations; availability for operation of Aileen Nusbaum Hospital
 
     Appropriations made for Mesa Verde National Park shall be available for the operation of the Aileen Nusbaum Hospital and the furnishing of the necessary service in connection therewith at rates to be fixed by the Secretary of the Interior.
 
-([May 14, 1930, ch. 273, § 1][/us/act/1930-05-14/ch273/s1], [46 Stat. 315][/us/stat/46/315].)
+([May 14, 1930, ch. 273][/us/act/1930-05-14/ch273], § 1, [46 Stat. 315][/us/stat/46/315].)
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXII/m__us_usc_t16_s117d.md) | [Next](./../../../../..//us/usc/t16/ch1/schXIII/m__us_usc_t16_ch1_schXIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs118)
+[Previous](./../../../../..//us/usc/t16/ch1/schXII/m__us_usc_t16_s117e...117j.md) | [Next](./../../../../..//us/usc/t16/ch1/schXIII/m__us_usc_t16_ch1_schXIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs118)
 
 ----------
 ----------
 
-[/us/act/1930-05-14/ch273/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-14%2Fch273%2Fs1
+[/us/act/1930-05-14/ch273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-14%2Fch273
 [/us/stat/46/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F315
 
 

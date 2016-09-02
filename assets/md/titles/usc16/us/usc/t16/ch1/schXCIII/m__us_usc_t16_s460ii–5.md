@@ -61,13 +61,13 @@
 
         The Advisory Commission shall terminate on the date ten years after October 30, 1984.
 
-([Pub. L. 95–344, title I, § 106][/us/pl/95/344/s106], as added [Pub. L. 98–568, § 1(f)][/us/pl/98/568/s1/f], Oct. 30, 1984, [98 Stat. 2931][/us/stat/98/2931]; amended [Pub. L. 106–154, § 2(e)(5)][/us/pl/106/154/s2/e/5], (6), Dec. 9, 1999, [113 Stat. 1739][/us/stat/113/1739].)
+([Pub. L. 95–344, title I][/us/pl/95/344/tI], § 106, as added [Pub. L. 98–568][/us/pl/98/568], § 1(f), Oct. 30, 1984, [98 Stat. 2931][/us/stat/98/2931]; amended [Pub. L. 106–154][/us/pl/106/154], § 2(e)(5), (6), Dec. 9, 1999, [113 Stat. 1739][/us/stat/113/1739].)
 
  __Amendments__ 
 
-    1999—Subsec. (a). [Pub. L. 106–154, § 2(e)(5)][/us/pl/106/154/s2/e/5], substituted “this subchapter” for “this subchapter and chapter 43 of this title” in introductory provisions.
+    1999—Subsec. (a). [Pub. L. 106–154][/us/pl/106/154], § 2(e)(5), substituted “this subchapter” for “this subchapter and chapter 43 of this title” in introductory provisions.
 
-    Subsec. (d). [Pub. L. 106–154, § 2(e)(6)][/us/pl/106/154/s2/e/6], substituted “this subchapter” for “this subchapter and chapter 43 of this title”.
+    Subsec. (d). [Pub. L. 106–154][/us/pl/106/154], § 2(e)(6), substituted “this subchapter” for “this subchapter and chapter 43 of this title”.
 
 ----------
 
@@ -76,12 +76,12 @@
 ----------
 ----------
 
-[/us/pl/95/344/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F344%2Fs106
-[/us/pl/98/568/s1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F568%2Fs1%2Ff
+[/us/pl/95/344/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F344%2FtI
+[/us/pl/98/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F568
 [/us/stat/98/2931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2931
-[/us/pl/106/154/s2/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154%2Fs2%2Fe%2F5
+[/us/pl/106/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154
 [/us/stat/113/1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1739
-[/us/pl/106/154/s2/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154%2Fs2%2Fe%2F5
-[/us/pl/106/154/s2/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154%2Fs2%2Fe%2F6
+[/us/pl/106/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154
+[/us/pl/106/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154
 
 

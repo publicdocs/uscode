@@ -65,7 +65,7 @@
 
             (C) on the condition that the real property or interest in real property so conveyed is used for public purposes.
 
-([Pub. L. 102–419, title II, § 203][/us/pl/102/419/s203], Oct. 16, 1992, [106 Stat. 2146][/us/stat/106/2146].)
+([Pub. L. 102–419, title II][/us/pl/102/419/tII], § 203, Oct. 16, 1992, [106 Stat. 2146][/us/stat/106/2146].)
 
 ----------
 
@@ -76,7 +76,7 @@
 
 [/us/usc/t16/s410ww–22/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410ww%E2%80%9322%2Fa
 [/us/usc/t16/s410ww–22/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410ww%E2%80%9322%2Fa
-[/us/pl/102/419/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F419%2Fs203
+[/us/pl/102/419/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F419%2FtII
 [/us/stat/106/2146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2146
 
 

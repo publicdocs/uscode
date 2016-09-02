@@ -25,7 +25,7 @@
 
     (4) modifying or repealing the provisions of any Federal law governing the conservation or protection of fish and wildlife, including the National Wildlife Refuge System Administration Act of 1966 ([80 Stat. 927][/us/stat/80/927]; [16 U.S.C. 668dd][/us/usc/t16/s668dd]–jj), section 100101(b)(1), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54, the Fur Seal Act of 1966 ([80 Stat. 1091][/us/stat/80/1091]; [16 U.S.C. 1187][/us/usc/t16/s1187]) \[[16 U.S.C. 1151][/us/usc/t16/s1151] et seq.\], the Endangered Species Act of 1973 ([87 Stat. 884][/us/stat/87/884]; [16 U.S.C. 1531–154][/us/usc/t16/s1531–154]3), the Marine Mammal Protection Act of 1972 ([86 Stat. 1027][/us/stat/86/1027]; [16 U.S.C. 1361–140][/us/usc/t16/s1361–140]7), the Act entitled “An Act for the Protection of the Bald Eagle”, approved June 8, 1940 ([54 Stat. 250][/us/stat/54/250]; [16 U.S.C. 742a–754][/us/usc/t16/s742a–754]) \[[16 U.S.C. 668][/us/usc/t16/s668] et seq.\], the Migratory Bird Treaty Act ([40 Stat. 755][/us/stat/40/755]; [16 U.S.C. 703–711][/us/usc/t16/s703–711]), the Federal Aid in Wildlife Restoration Act ([50 Stat. 917][/us/stat/50/917]; [16 U.S.C. 669–669i][/us/usc/t16/s669–669i]), the Magnuson-Stevens Fishery Conservation and Management Act ([90 Stat. 331][/us/stat/90/331]; [16 U.S.C. 1801–188][/us/usc/t16/s1801–188]2), the Federal Aid in Fish Restoration Act ([64 Stat. 430][/us/stat/64/430]; [16 U.S.C. 777–777k][/us/usc/t16/s777–777k]), or any amendments to any one or more of such Acts or such title.
 
-([Pub. L. 96–487, title VIII, § 815][/us/pl/96/487/s815], Dec. 2, 1980, [94 Stat. 2429][/us/stat/94/2429]; [Pub. L. 96–561, title II, § 238(b)][/us/pl/96/561/s238/b], Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300]; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41; [Pub. L. 105–83, title III, § 316(b)(9)][/us/pl/105/83/s316/b/9], (d), Nov. 14, 1997, [111 Stat. 1594][/us/stat/111/1594], 1595; [Pub. L. 113–287, § 5(d)(33)][/us/pl/113/287/s5/d/33], Dec. 19, 2014, [128 Stat. 3267][/us/stat/128/3267].)
+([Pub. L. 96–487, title VIII][/us/pl/96/487/tVIII], § 815, Dec. 2, 1980, [94 Stat. 2429][/us/stat/94/2429]; [Pub. L. 96–561, title II][/us/pl/96/561/tII], § 238(b), Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41; [Pub. L. 105–83, title III][/us/pl/105/83/tIII], § 316(b)(9), (d), Nov. 14, 1997, [111 Stat. 1594][/us/stat/111/1594], 1595; [Pub. L. 113–287][/us/pl/113/287], § 5(d)(33), Dec. 19, 2014, [128 Stat. 3267][/us/stat/128/3267].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 
     2014—Par. (4). [Pub. L. 113–287][/us/pl/113/287] substituted “section 100101(b)(1), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54” for “the National Park Service Organic Act ([39 Stat. 535][/us/stat/39/535], [16 U.S.C. 1][/us/usc/t16/s1], 2, 3, 4)” and inserted “or such title” after “such Acts”.
 
-    1997—Par. (5). [Pub. L. 105–83, § 316(b)(9)][/us/pl/105/83/s316/b/9], which directed amendment of section by adding par. (5) reading as follows: “prohibiting the Secretary or the State from entering into co-management agreements with Alaska Native organizations or other local or regional entities when such organization or entity is managing fish and wildlife on public lands in Alaska for subsistence uses.”, was repealed by [Pub. L. 105–83, § 316(d)][/us/pl/105/83/s316/d]. See Effective and Termination Dates of 1997 Amendment note below.
+    1997—Par. (5). [Pub. L. 105–83][/us/pl/105/83], § 316(b)(9), which directed amendment of section by adding par. (5) reading as follows: “prohibiting the Secretary or the State from entering into co-management agreements with Alaska Native organizations or other local or regional entities when such organization or entity is managing fish and wildlife on public lands in Alaska for subsistence uses.”, was repealed by [Pub. L. 105–83][/us/pl/105/83], § 316(d). See Effective and Termination Dates of 1997 Amendment note below.
 
     1996—Par. (4). [Pub. L. 104–208][/us/pl/104/208] substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
@@ -63,11 +63,11 @@
 
  __Effective Date of 1996 Amendment__ 
 
-    [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
  __Effective Date of 1980 Amendment__ 
 
-    [Pub. L. 96–561, title II, § 238(b)][/us/pl/96/561/s238/b], Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300], provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
+    [Pub. L. 96–561, title II][/us/pl/96/561/tII], § 238(b), Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300], provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 
 ----------
 
@@ -97,15 +97,15 @@
 [/us/usc/t16/s1801–188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801%E2%80%93188
 [/us/stat/64/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F430
 [/us/usc/t16/s777–777k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777%E2%80%93777k
-[/us/pl/96/487/s815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs815
+[/us/pl/96/487/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtVIII
 [/us/stat/94/2429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2429
-[/us/pl/96/561/s238/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs238%2Fb
+[/us/pl/96/561/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtII
 [/us/stat/94/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3300
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
-[/us/pl/105/83/s316/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs316%2Fb%2F9
+[/us/pl/105/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtIII
 [/us/stat/111/1594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1594
-[/us/pl/113/287/s5/d/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F33
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3267
 [/us/pl/89/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F669
 [/us/stat/80/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F927
@@ -136,16 +136,16 @@
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
-[/us/pl/105/83/s316/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs316%2Fb%2F9
-[/us/pl/105/83/s316/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs316%2Fd
+[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
+[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/96/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561
 [/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
 [/us/pl/105/83/s316/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs316%2Fd
 [/us/usc/t16/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3102
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
-[/us/pl/96/561/s238/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs238%2Fb
+[/us/pl/96/561/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtII
 [/us/stat/94/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3300
 
 

@@ -17,7 +17,7 @@
 
     The Secretary of the Interior shall administer, protect, develop, and maintain the George Rogers Clark National Historical Park in accordance with the provisions of the Act of August 25, 1916 (39 Stat 535; [16 U.S.C. 1][/us/usc/t16/s1] et seq.), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended and supplemented.
 
-([Pub. L. 89–517, § 3][/us/pl/89/517/s3], July 23, 1966, [80 Stat. 325][/us/stat/80/325].)
+([Pub. L. 89–517][/us/pl/89/517], § 3, July 23, 1966, [80 Stat. 325][/us/stat/80/325].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
-[/us/pl/89/517/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F517%2Fs3
+[/us/pl/89/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F517
 [/us/stat/80/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F325
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408

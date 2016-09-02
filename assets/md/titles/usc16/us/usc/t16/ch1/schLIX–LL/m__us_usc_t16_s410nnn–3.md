@@ -17,7 +17,7 @@
 
     Within the historical park, the Secretary is authorized to acquire lands and interest in lands by donation, purchase with donated or appropriated funds, or exchange. Lands or interests in lands owned by the State of Texas or political subdivisions thereof may be acquired only by donation.
 
-([Pub. L. 102–304, § 5][/us/pl/102/304/s5], June 23, 1992, [106 Stat. 257][/us/stat/106/257]; [Pub. L. 111–11, title VII, § 7113(a)(3)(C)][/us/pl/111/11/s7113/a/3/C], Mar. 30, 2009, [123 Stat. 1202][/us/stat/123/1202].)
+([Pub. L. 102–304][/us/pl/102/304], § 5, June 23, 1992, [106 Stat. 257][/us/stat/106/257]; [Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7113(a)(3)(C), Mar. 30, 2009, [123 Stat. 1202][/us/stat/123/1202].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/102/304/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F304%2Fs5
+[/us/pl/102/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F304
 [/us/stat/106/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F257
-[/us/pl/111/11/s7113/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7113%2Fa%2F3%2FC
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1202
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 

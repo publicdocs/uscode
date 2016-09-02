@@ -29,17 +29,17 @@
 
         (2) The Secretary shall promptly submit a report to the Congress consisting of the information required under paragraph (1) of this subsection. Such report shall include recommendations for changes necessary to resolve existing conflicts among Federal laws and programs that affect the uses of coastal resources.
 
-([Pub. L. 89–454, title III, § 316][/us/pl/89/454/s316], formerly § 313, as added [Pub. L. 92–583][/us/pl/92/583], Oct. 27, 1972, [86 Stat. 1288][/us/stat/86/1288]; renumbered § 316 and amended [Pub. L. 94–370][/us/pl/94/370], §§ 7, 13, July 26, 1976, [90 Stat. 1019][/us/stat/90/1019], 1030; [Pub. L. 96–464, § 10][/us/pl/96/464/s10], Oct. 17, 1980, [94 Stat. 2066][/us/stat/94/2066]; [Pub. L. 102–587, title II, § 2205(b)(23)][/us/pl/102/587/s2205/b/23], Nov. 4, 1992, [106 Stat. 5052][/us/stat/106/5052].)
+([Pub. L. 89–454, title III][/us/pl/89/454/tIII], § 316, formerly § 313, as added [Pub. L. 92–583][/us/pl/92/583], Oct. 27, 1972, [86 Stat. 1288][/us/stat/86/1288]; renumbered § 316 and amended [Pub. L. 94–370][/us/pl/94/370], §§ 7, 13, July 26, 1976, [90 Stat. 1019][/us/stat/90/1019], 1030; [Pub. L. 96–464][/us/pl/96/464], § 10, Oct. 17, 1980, [94 Stat. 2066][/us/stat/94/2066]; [Pub. L. 102–587, title II][/us/pl/102/587/tII], § 2205(b)(23), Nov. 4, 1992, [106 Stat. 5052][/us/stat/106/5052].)
 
  __Amendments__ 
 
     1992—Subsec. (a)(5). [Pub. L. 102–587][/us/pl/102/587] substituted “subsections (c) and (d) of [section 1458 of this title][/us/usc/t16/s1458]” for “subsections (c) and (d) of this section”.
 
-    1980—Subsec. (a). [Pub. L. 96–464, § 10(2)][/us/pl/96/464/s10/2], in provision preceding opening sentence, substituted provisions that the Secretary consult with Congress concerning the administration of this chapter and prepare and submit a biennial report to the President for transmittal to Congress for provisions that the Secretary prepare and submit to the President for transmittal to Congress an annual report for the preceding year not later than November 1 of each year, in cl. (4), substituted “reviewed and disapproved and a” for “reviewed and disapproved or with respect to which grants have been terminated under this chapter, and a”, added cl. (5), and redesignated cls. (5) to (12) as (6) to (13) respectively.
+    1980—Subsec. (a). [Pub. L. 96–464][/us/pl/96/464], § 10(2), in provision preceding opening sentence, substituted provisions that the Secretary consult with Congress concerning the administration of this chapter and prepare and submit a biennial report to the President for transmittal to Congress for provisions that the Secretary prepare and submit to the President for transmittal to Congress an annual report for the preceding year not later than November 1 of each year, in cl. (4), substituted “reviewed and disapproved and a” for “reviewed and disapproved or with respect to which grants have been terminated under this chapter, and a”, added cl. (5), and redesignated cls. (5) to (12) as (6) to (13) respectively.
 
-    Subsec. (c). [Pub. L. 96–464, § 10(3)][/us/pl/96/464/s10/3], added subsec. (c).
+    Subsec. (c). [Pub. L. 96–464][/us/pl/96/464], § 10(3), added subsec. (c).
 
-    1976—Subsec. (a). [Pub. L. 94–370, § 13][/us/pl/94/370/s13], added cls. (9) to (11) and redesignated former cl. (9) as (12).
+    1976—Subsec. (a). [Pub. L. 94–370][/us/pl/94/370], § 13, added cls. (9) to (11) and redesignated former cl. (9) as (12).
 
  __Termination of Reporting Requirements__ 
 
@@ -47,7 +47,7 @@
 
  __Shellfish Sanitation__ 
 
-[Pub. L. 94–370, § 16][/us/pl/94/370/s16], July 26, 1976, [90 Stat. 1032][/us/stat/90/1032], provided that:
+[Pub. L. 94–370][/us/pl/94/370], § 16, July 26, 1976, [90 Stat. 1032][/us/stat/90/1032], provided that:
 
 >     “(a)
 
@@ -84,23 +84,23 @@
 [/us/usc/t16/s1458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1458
 [/us/usc/t16/s1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1456
 [/us/usc/t16/s1456a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1456a
-[/us/pl/89/454/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2Fs316
+[/us/pl/89/454/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2FtIII
 [/us/pl/92/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F583
 [/us/stat/86/1288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1288
 [/us/pl/94/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F370
 [/us/stat/90/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1019
-[/us/pl/96/464/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F464%2Fs10
+[/us/pl/96/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F464
 [/us/stat/94/2066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2066
-[/us/pl/102/587/s2205/b/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2205%2Fb%2F23
+[/us/pl/102/587/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtII
 [/us/stat/106/5052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5052
 [/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
 [/us/usc/t16/s1458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1458
-[/us/pl/96/464/s10/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F464%2Fs10%2F2
-[/us/pl/96/464/s10/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F464%2Fs10%2F3
-[/us/pl/94/370/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F370%2Fs13
+[/us/pl/96/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F464
+[/us/pl/96/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F464
+[/us/pl/94/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F370
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/94/370/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F370%2Fs16
+[/us/pl/94/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F370
 [/us/stat/90/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1032
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/usc/t16/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1451

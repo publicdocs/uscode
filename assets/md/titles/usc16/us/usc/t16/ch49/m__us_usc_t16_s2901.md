@@ -37,11 +37,11 @@
 
         (2) to encourage all Federal departments and agencies to utilize their statutory and administrative authority, to the maximum extent practicable and consistent with each agency’s statutory responsibilities, to conserve and to promote conservation of nongame fish and wildlife and their habitats, in furtherance of the provisions of this chapter.
 
-([Pub. L. 96–366, § 2][/us/pl/96/366/s2], Sept. 29, 1980, [94 Stat. 1322][/us/stat/94/1322].)
+([Pub. L. 96–366][/us/pl/96/366], § 2, Sept. 29, 1980, [94 Stat. 1322][/us/stat/94/1322].)
 
  __Short Title__ 
 
-[Pub. L. 96–366, § 1][/us/pl/96/366/s1], Sept. 29, 1980, [94 Stat. 1322][/us/stat/94/1322], provided: 
+[Pub. L. 96–366][/us/pl/96/366], § 1, Sept. 29, 1980, [94 Stat. 1322][/us/stat/94/1322], provided: 
 
 > “That this Act \[enacting this chapter\] may be cited as the ‘Fish and Wildlife Conservation Act of 1980’.”
 
@@ -52,9 +52,9 @@
 ----------
 ----------
 
-[/us/pl/96/366/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F366%2Fs2
+[/us/pl/96/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F366
 [/us/stat/94/1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1322
-[/us/pl/96/366/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F366%2Fs1
+[/us/pl/96/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F366
 [/us/stat/94/1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1322
 
 

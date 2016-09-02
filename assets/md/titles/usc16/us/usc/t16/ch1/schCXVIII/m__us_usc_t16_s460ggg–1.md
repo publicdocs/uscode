@@ -35,7 +35,7 @@
 
         (7) The Secretary shall protect, enhance, and promote the public’s opportunities for primitive and semiprimitive experiences in the scenic area.
 
-([Pub. L. 102–217, § 3][/us/pl/102/217/s3], Dec. 11, 1991, [105 Stat. 1667][/us/stat/105/1667].)
+([Pub. L. 102–217][/us/pl/102/217], § 3, Dec. 11, 1991, [105 Stat. 1667][/us/stat/105/1667].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/102/217/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F217%2Fs3
+[/us/pl/102/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F217
 [/us/stat/105/1667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1667
 
 

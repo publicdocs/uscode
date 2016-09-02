@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture (hereinafter referred to as the “Secretary”) is authorized to recruit, train, and accept without regard to the civil service  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The word “and” probably should appear after “civil service”. </sup></sup>  classification laws, rules, or regulations the services of individuals without compensation as volunteers for or in aid of interpretive functions, visitor services, conservation measures and development, or other activities in and related to areas administered by the Secretary through the Forest Service. In carrying out this section, the Secretary shall consider referrals of prospective volunteers made by the Corporation for National and Community Service.
 
-([Pub. L. 92–300, § 1][/us/pl/92/300/s1], May 18, 1972, [86 Stat. 147][/us/stat/86/147]; [Pub. L. 103–82, title IV, § 405(d)][/us/pl/103/82/s405/d], Sept. 21, 1993, [107 Stat. 921][/us/stat/107/921].)
+([Pub. L. 92–300][/us/pl/92/300], § 1, May 18, 1972, [86 Stat. 147][/us/stat/86/147]; [Pub. L. 103–82, title IV][/us/pl/103/82/tIV], § 405(d), Sept. 21, 1993, [107 Stat. 921][/us/stat/107/921].)
 
  __Amendments__ 
 
@@ -29,7 +29,7 @@
 
  __Short Title__ 
 
-[Pub. L. 92–300, § 5][/us/pl/92/300/s5], May 18, 1972, [86 Stat. 147][/us/stat/86/147], provided that: 
+[Pub. L. 92–300][/us/pl/92/300], § 5, May 18, 1972, [86 Stat. 147][/us/stat/86/147], provided that: 
 
 > “This Act \[enacting this section and sections 558b to 558d of this title\] may be cited as the ‘Volunteers in the National Forests Act of 1972’.”
 
@@ -40,15 +40,15 @@
 ----------
 ----------
 
-[/us/pl/92/300/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F300%2Fs1
+[/us/pl/92/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F300
 [/us/stat/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F147
-[/us/pl/103/82/s405/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs405%2Fd
+[/us/pl/103/82/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtIV
 [/us/stat/107/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F921
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/103/82/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs406%2Fb
 [/us/usc/t5/s8332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8332
-[/us/pl/92/300/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F300%2Fs5
+[/us/pl/92/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F300
 [/us/stat/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F147
 
 

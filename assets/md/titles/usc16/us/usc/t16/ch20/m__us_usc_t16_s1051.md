@@ -23,7 +23,7 @@
 
         The Administrator is further authorized to use Federal land and property for purposes of this chapter with the consent of the particular agency having administrative jurisdiction thereover, and, if said property is unavailable for purposes hereof, he may purchase, lease, or otherwise acquire such lands, waters, and interests therein, as he may deem necessary to carry out the provisions of subsection (a) of this section.
 
-([Pub. L. 87–758, § 1][/us/pl/87/758/s1], Oct. 9, 1962, [76 Stat. 752][/us/stat/76/752].)
+([Pub. L. 87–758][/us/pl/87/758], § 1, Oct. 9, 1962, [76 Stat. 752][/us/stat/76/752].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/87/758/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F758%2Fs1
+[/us/pl/87/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F758
 [/us/stat/76/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F752
 
 

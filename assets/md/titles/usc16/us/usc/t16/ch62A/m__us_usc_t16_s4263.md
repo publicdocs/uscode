@@ -27,11 +27,11 @@
 
     (5) The term “Administrator” means the Administrator of the Agency for International Development.
 
-([Pub. L. 105–96, § 4][/us/pl/105/96/s4], Nov. 19, 1997, [111 Stat. 2151][/us/stat/111/2151]; [Pub. L. 107–141, § 5(a)(1)][/us/pl/107/141/s5/a/1], Feb. 12, 2002, [116 Stat. 14][/us/stat/116/14].)
+([Pub. L. 105–96][/us/pl/105/96], § 4, Nov. 19, 1997, [111 Stat. 2151][/us/stat/111/2151]; [Pub. L. 107–141][/us/pl/107/141], § 5(a)(1), Feb. 12, 2002, [116 Stat. 14][/us/stat/116/14].)
 
  __References in Text__ 
 
-    Division A, section 101(e), title I of [Public Law 105–277][/us/pl/105/277], referred to in par. (3), is [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title I\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–232. Provisions under the heading “multinational species conservation fund” in [Pub. L. 105–277, § 101(e)][/us/pl/105/277/s101/e] \[title I\] appear at [112 Stat. 2681–237][/us/stat/112/2681-237] and are classified in part to [section 4246 of this title][/us/usc/t16/s4246].
+    Division A, section 101(e), title I of [Public Law 105–277][/us/pl/105/277], referred to in par. (3), is [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title I\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–232. Provisions under the heading “multinational species conservation fund” in [Pub. L. 105–277][/us/pl/105/277], § 101(e) \[title I\] appear at [112 Stat. 2681–237][/us/stat/112/2681-237] and are classified in part to [section 4246 of this title][/us/usc/t16/s4246].
 
  __Amendments__ 
 
@@ -46,14 +46,14 @@
 
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t16/s4246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4246
-[/us/pl/105/96/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F96%2Fs4
+[/us/pl/105/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F96
 [/us/stat/111/2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2151
-[/us/pl/107/141/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F141%2Fs5%2Fa%2F1
+[/us/pl/107/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F141
 [/us/stat/116/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F14
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-237
 [/us/usc/t16/s4246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4246
 [/us/pl/107/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F141

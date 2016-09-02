@@ -43,7 +43,7 @@
 
         (3) Whenever a vacancy occurs among Commissioners appointed under subsection (a)(1)(B), the President shall appoint an individual to fill that vacancy for the remainder of the applicable term.
 
-([June 4, 1956, ch. 358, § 3][/us/act/1956-06-04/ch358/s3], [70 Stat. 242][/us/stat/70/242]; [Pub. L. 99–659, title IV, § 405(a)][/us/pl/99/659/s405/a], Nov. 14, 1986, [100 Stat. 3737][/us/stat/100/3737]; [Pub. L. 106–562, title III, § 301][/us/pl/106/562/s301], Dec. 23, 2000, [114 Stat. 2806][/us/stat/114/2806].)
+([June 4, 1956, ch. 358][/us/act/1956-06-04/ch358], § 3, [70 Stat. 242][/us/stat/70/242]; [Pub. L. 99–659, title IV][/us/pl/99/659/tIV], § 405(a), Nov. 14, 1986, [100 Stat. 3737][/us/stat/100/3737]; [Pub. L. 106–562, title III][/us/pl/106/562/tIII], § 301, Dec. 23, 2000, [114 Stat. 2806][/us/stat/114/2806].)
 
  __Amendments__ 
 
@@ -57,7 +57,7 @@
 
  __Termination and Transitional Service of Incumbent Commissioners__ 
 
-[Pub. L. 99–659, title IV, § 405(b)][/us/pl/99/659/s405/b], Nov. 14, 1986, [100 Stat. 3738][/us/stat/100/3738], provided that: 
+[Pub. L. 99–659, title IV][/us/pl/99/659/tIV], § 405(b), Nov. 14, 1986, [100 Stat. 3738][/us/stat/100/3738], provided that: 
 
 > “The term of office of each United States Commissioner on the Great Lakes Fishery Commission who is serving on the date of enactment of this Act \[Nov. 14, 1986\] is terminated (except the United States Government official appointed under section 3(a) of the Great Lakes Fishery Act of 1956 ([16 U.S.C. 932(a)][/us/usc/t16/s932/a], as in effect before the date of enactment). However, the individuals appointed to those terms shall continue to serve as Commissioners until the President makes appointments under section 3(b)(2) of the Act of 1956 (as added by subsection (a)), which appointments shall be made within 60 days after the date of enactment.”
 
@@ -72,15 +72,15 @@
 ----------
 ----------
 
-[/us/act/1956-06-04/ch358/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-04%2Fch358%2Fs3
+[/us/act/1956-06-04/ch358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-04%2Fch358
 [/us/stat/70/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F242
-[/us/pl/99/659/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs405%2Fa
+[/us/pl/99/659/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtIV
 [/us/stat/100/3737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3737
-[/us/pl/106/562/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs301
+[/us/pl/106/562/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2FtIII
 [/us/stat/114/2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2806
 [/us/pl/106/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562
 [/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
-[/us/pl/99/659/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs405%2Fb
+[/us/pl/99/659/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtIV
 [/us/stat/100/3738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3738
 [/us/usc/t16/s932/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs932%2Fa
 

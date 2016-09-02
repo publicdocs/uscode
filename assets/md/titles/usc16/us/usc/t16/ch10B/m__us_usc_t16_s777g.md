@@ -87,7 +87,7 @@
 
             A State that conducts a public boat access needs survey under paragraph (2) may fund the costs of conducting that assessment out of amounts allocated to it as funding dedicated to motorboat access to recreational waters under subsection (b)(1) of this section.
 
-([Aug. 9, 1950, ch. 658, § 8][/us/act/1950-08-09/ch658/s8], [64 Stat. 433][/us/stat/64/433]; [Pub. L. 91–503, title II, § 202][/us/pl/91/503/s202], Oct. 23, 1970, [84 Stat. 1103][/us/stat/84/1103]; [Pub. L. 98–369, div. A, title X, § 1014(a)(6)][/us/pl/98/369/s1014/a/6], July 18, 1984, [98 Stat. 1016][/us/stat/98/1016]; [Pub. L. 102–587, title V, § 5604(b)][/us/pl/102/587/s5604/b], Nov. 4, 1992, [106 Stat. 5088][/us/stat/106/5088]; [Pub. L. 105–178, title VII][/us/pl/105/178], §§ 7402(c), 7404(b), June 9, 1998, [112 Stat. 484][/us/stat/112/484], 486; [Pub. L. 105–206, title IX, § 9012(c)][/us/pl/105/206/s9012/c], July 22, 1998, [112 Stat. 864][/us/stat/112/864]; [Pub. L. 109–59, title X, § 10114][/us/pl/109/59/s10114], Aug. 10, 2005, [119 Stat. 1928][/us/stat/119/1928]; [Pub. L. 114–94, div. A, title X, § 10001(d)][/us/pl/114/94/s10001/d], Dec. 4, 2015, [129 Stat. 1621][/us/stat/129/1621].)
+([Aug. 9, 1950, ch. 658][/us/act/1950-08-09/ch658], § 8, [64 Stat. 433][/us/stat/64/433]; [Pub. L. 91–503, title II][/us/pl/91/503/tII], § 202, Oct. 23, 1970, [84 Stat. 1103][/us/stat/84/1103]; [Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1014(a)(6), July 18, 1984, [98 Stat. 1016][/us/stat/98/1016]; [Pub. L. 102–587, title V][/us/pl/102/587/tV], § 5604(b), Nov. 4, 1992, [106 Stat. 5088][/us/stat/106/5088]; [Pub. L. 105–178, title VII][/us/pl/105/178/tVII], §§ 7402(c), 7404(b), June 9, 1998, [112 Stat. 484][/us/stat/112/484], 486; [Pub. L. 105–206, title IX][/us/pl/105/206/tIX], § 9012(c), July 22, 1998, [112 Stat. 864][/us/stat/112/864]; [Pub. L. 109–59, title X][/us/pl/109/59/tX], § 10114, Aug. 10, 2005, [119 Stat. 1928][/us/stat/119/1928]; [Pub. L. 114–94, div. A, title X][/us/pl/114/94/dA/tX], § 10001(d), Dec. 4, 2015, [129 Stat. 1621][/us/stat/129/1621].)
 
  __References in Text__ 
 
@@ -99,27 +99,27 @@
 
     2015—Subsec. (b)(2). [Pub. L. 114–94][/us/pl/114/94] substituted “58.012 percent” for “57 percent”.
 
-    2005—Subsec. (b)(2). [Pub. L. 109–59, § 10114(1)][/us/pl/109/59/s10114/1], substituted “to supplement the 57 percent of the balance of each annual appropriation to be apportioned among the States under [section 777c(c) of this title][/us/usc/t16/s777c/c]” for “in carrying out the research program of the Fish and Wildlife Service in respect to fish of material value for sport or recreation”.
+    2005—Subsec. (b)(2). [Pub. L. 109–59][/us/pl/109/59], § 10114(1), substituted “to supplement the 57 percent of the balance of each annual appropriation to be apportioned among the States under [section 777c(c) of this title][/us/usc/t16/s777c/c]” for “in carrying out the research program of the Fish and Wildlife Service in respect to fish of material value for sport or recreation”.
 
-    Subsec. (d)(3). [Pub. L. 109–59, § 10114(2)][/us/pl/109/59/s10114/2], substituted “subsection (a)(5) or subsection (b)” for “subsection (c) or (d)” in introductory provisions.
+    Subsec. (d)(3). [Pub. L. 109–59][/us/pl/109/59], § 10114(2), substituted “subsection (a)(5) or subsection (b)” for “subsection (c) or (d)” in introductory provisions.
 
-    1998—Subsec. (b)(1). [Pub. L. 105–178, § 7402(c)(1)][/us/pl/105/178/s7402/c/1], which directed the substitution of “15 percent” for “12½ percentum” wherever appearing, was executed by making the substitution for “12½ per centum” to reflect the probable intent of Congress.
+    1998—Subsec. (b)(1). [Pub. L. 105–178][/us/pl/105/178], § 7402(c)(1), which directed the substitution of “15 percent” for “12½ percentum” wherever appearing, was executed by making the substitution for “12½ per centum” to reflect the probable intent of Congress.
 
-    Subsec. (c). [Pub. L. 105–178, § 7402(c)(3)][/us/pl/105/178/s7402/c/3], inserted “and communications” after “outreach”.
+    Subsec. (c). [Pub. L. 105–178][/us/pl/105/178], § 7402(c)(3), inserted “and communications” after “outreach”.
 
-    [Pub. L. 105–178, § 7402(c)(2)][/us/pl/105/178/s7402/c/2], which directed the substitution of “15 percent” for “10 percentum”, was executed by making the substitution for “10 per centum” to reflect the probable intent of Congress.
+    [Pub. L. 105–178][/us/pl/105/178], § 7402(c)(2), which directed the substitution of “15 percent” for “10 percentum”, was executed by making the substitution for “10 per centum” to reflect the probable intent of Congress.
 
-    Subsecs. (d) to (f). [Pub. L. 105–178, § 7402(c)(4)][/us/pl/105/178/s7402/c/4], added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
+    Subsecs. (d) to (f). [Pub. L. 105–178][/us/pl/105/178], § 7402(c)(4), added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
 
-    Subsec. (g). [Pub. L. 105–178, § 7404(b)][/us/pl/105/178/s7404/b], as amended by [Pub. L. 105–206, § 9012(c)][/us/pl/105/206/s9012/c], added subsec. (g).
+    Subsec. (g). [Pub. L. 105–178][/us/pl/105/178], § 7404(b), as amended by [Pub. L. 105–206][/us/pl/105/206], § 9012(c), added subsec. (g).
 
-    1992—Subsec. (b)(1). [Pub. L. 102–587, § 5604(b)(1)][/us/pl/102/587/s5604/b/1], substituted “12½ per centum” for “10 per centum” after “allocate” and inserted at end “Notwithstanding this provision, States within a United States Fish and Wildlife Service Administrative Region may allocate more or less than 12½ per centum in a fiscal year, provided that the total regional allocation averages 12½ per centum over a 5 year period.”
+    1992—Subsec. (b)(1). [Pub. L. 102–587][/us/pl/102/587], § 5604(b)(1), substituted “12½ per centum” for “10 per centum” after “allocate” and inserted at end “Notwithstanding this provision, States within a United States Fish and Wildlife Service Administrative Region may allocate more or less than 12½ per centum in a fiscal year, provided that the total regional allocation averages 12½ per centum over a 5 year period.”
 
-    Subsec. (b)(2). [Pub. L. 102–587, § 5604(b)(2)][/us/pl/102/587/s5604/b/2], substituted “four fiscal years” for “fiscal year” after first reference to “succeeding” and “period” for second reference to “succeeding fiscal year”.
+    Subsec. (b)(2). [Pub. L. 102–587][/us/pl/102/587], § 5604(b)(2), substituted “four fiscal years” for “fiscal year” after first reference to “succeeding” and “period” for second reference to “succeeding fiscal year”.
 
-    Subsec. (c). [Pub. L. 102–587, § 5604(b)(3)][/us/pl/102/587/s5604/b/3], inserted “and outreach” after “education”.
+    Subsec. (c). [Pub. L. 102–587][/us/pl/102/587], § 5604(b)(3), inserted “and outreach” after “education”.
 
-    Subsec. (d). [Pub. L. 102–587, § 5604(b)(4)][/us/pl/102/587/s5604/b/4], added subsec. (d).
+    Subsec. (d). [Pub. L. 102–587][/us/pl/102/587], § 5604(b)(4), added subsec. (d).
 
     1984—[Pub. L. 98–369][/us/pl/98/369] designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
@@ -155,21 +155,21 @@
 [/us/usc/t16/s777c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c
 [/us/usc/t16/s777c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c
 [/us/usc/t16/s777c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c
-[/us/act/1950-08-09/ch658/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch658%2Fs8
+[/us/act/1950-08-09/ch658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch658
 [/us/stat/64/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F433
-[/us/pl/91/503/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F503%2Fs202
+[/us/pl/91/503/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F503%2FtII
 [/us/stat/84/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1103
-[/us/pl/98/369/s1014/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1014%2Fa%2F6
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1016
-[/us/pl/102/587/s5604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs5604%2Fb
+[/us/pl/102/587/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtV
 [/us/stat/106/5088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5088
-[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtVII
 [/us/stat/112/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F484
-[/us/pl/105/206/s9012/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9012%2Fc
+[/us/pl/105/206/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIX
 [/us/stat/112/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F864
-[/us/pl/109/59/s10114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10114
+[/us/pl/109/59/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtX
 [/us/stat/119/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1928
-[/us/pl/114/94/s10001/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs10001%2Fd
+[/us/pl/114/94/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtX
 [/us/stat/129/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1621
 [/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
 [/us/stat/106/5086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5086
@@ -177,19 +177,19 @@
 [/us/usc/t33/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1322
 [/us/usc/t33/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1322
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/109/59/s10114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10114%2F1
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t16/s777c/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c%2Fc
-[/us/pl/109/59/s10114/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10114%2F2
-[/us/pl/105/178/s7402/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7402%2Fc%2F1
-[/us/pl/105/178/s7402/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7402%2Fc%2F3
-[/us/pl/105/178/s7402/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7402%2Fc%2F2
-[/us/pl/105/178/s7402/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7402%2Fc%2F4
-[/us/pl/105/178/s7404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7404%2Fb
-[/us/pl/105/206/s9012/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9012%2Fc
-[/us/pl/102/587/s5604/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs5604%2Fb%2F1
-[/us/pl/102/587/s5604/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs5604%2Fb%2F2
-[/us/pl/102/587/s5604/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs5604%2Fb%2F3
-[/us/pl/102/587/s5604/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs5604%2Fb%2F4
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
+[/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
+[/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
+[/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/91/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F503
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94

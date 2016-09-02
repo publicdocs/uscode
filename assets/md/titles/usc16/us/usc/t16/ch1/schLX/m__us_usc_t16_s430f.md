@@ -17,7 +17,7 @@
 
     In order that the armies of the southwest which served in the civil war, like their comrades of the eastern armies at Gettysburg and those of the central west at Chickamauga, may have the history of one of their memorable battles preserved on the ground where they fought, that part of the battlefield of Shiloh, in the State of Tennessee, title to which has heretofore been acquired by the United States, and as to which the usual jurisdiction over the lands and the roads of same has been granted to the United States by the State of Tennessee, containing 3,000 acres, more or less, shall be a national military park, and shall be known as the Shiloh National Military Park. The Secretary of the Interior is authorized to enter into agreements whereby he may lease, upon such terms as he may prescribe, with such persons, who were owners or tenants of the land on December 27, 1894, as may desire to remain upon it to occupy and cultivate their then holdings upon condition that they will preserve the then buildings and roads and the then outlines of field and forest, and that they only will cut trees or underbrush under such regulations as the Secretary may prescribe, and that they will assist in caring for and protecting all tablets, monuments, or such other artificial works as may from time to time be erected by proper authority. It shall be the duty of the Secretary of the Interior to cause to be opened or repaired such roads as may be necessary for the purposes of the park and to cause to be ascertained and marked with historical tablets or otherwise, as he may determine, all lines of battle of the troops engaged in the battle of Shiloh and other historical points of interest pertaining to the battle within the park or its vicinity, and the Secretary of the Interior shall make and enforce all needed regulations for the care of the park. It shall be lawful for any State that had troops engaged in the battle of Shiloh to enter upon the lands of the Shiloh National Military Park for the purpose of ascertaining and marking the lines of battle of its troops therein: Provided, That before any such lines are permanently designated the position of the lines and the proposed methods of marking them by monuments, tablets, or otherwise shall be submitted to and approved by the Secretary of the Interior, and all such lines, designs and inscriptions for the same shall first receive the written approval of the Secretary: Provided, That no discrimination shall be made against any State as to the manner of designating lines, but any grant made to any State by the Secretary of the Interior may be used by any other State.
 
-([Dec. 27, 1894, ch. 12][/us/act/1894-12-27/ch12], [28 Stat. 597][/us/stat/28/597]; Ex. Ord. No. 6166, § 2, June 10, 1933; Ex. Ord. No. 6228, § 1, July 28, 1933; [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 637][/us/stat/80/637].)
+([Dec. 27, 1894, ch. 12][/us/act/1894-12-27/ch12], [28 Stat. 597][/us/stat/28/597]; Ex. Ord. No. 6166, § 2, June 10, 1933; Ex. Ord. No. 6228, § 1, July 28, 1933; [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 637][/us/stat/80/637].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 
     Administrative functions of Shiloh National Military Park transferred to Department of the Interior by Ex. Ord. Nos. 6166 and 6228, set out as notes under [section 901 of Title 5][/us/usc/t5/s901], Government Organization and Employees.
 
-    National Park Service substituted for Office of National Parks, Buildings, and Reservations referred to in Ex. Ord. No. 6166, by [act Mar. 2, 1934, ch. 38, § 1][/us/act/1934-03-02/ch38/s1], [48 Stat. 389][/us/stat/48/389].
+    National Park Service substituted for Office of National Parks, Buildings, and Reservations referred to in Ex. Ord. No. 6166, by [act Mar. 2, 1934, ch. 38][/us/act/1934-03-02/ch38], § 1, [48 Stat. 389][/us/stat/48/389].
 
  __Exchange of Lands__ 
 
@@ -50,11 +50,11 @@
 
 [/us/act/1894-12-27/ch12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-12-27%2Fch12
 [/us/stat/28/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F597
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F637
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/usc/t5/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs901
-[/us/act/1934-03-02/ch38/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-02%2Fch38%2Fs1
+[/us/act/1934-03-02/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-02%2Fch38
 [/us/stat/48/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F389
 [/us/act/1947-06-25/ch126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch126
 [/us/stat/61/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F173

@@ -33,11 +33,11 @@
 
     (8) The Black Rock Desert playa is a unique natural resource that serves as the primary destination for the majority of visitors to the conservation area, including visitors associated with large-scale permitted events. It is expected that such permitted events will continue to be administered in accordance with the management plan for the conservation area and other applicable laws and regulations.
 
-([Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 125 \[§ 2\]\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–229, 2763A–353.)
+([Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 125 \[§ 2\]\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–229, 2763A–353.)
 
  __Short Title__ 
 
-[Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 125 \[§ 1\]\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–229, 2763A–353, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 125 \[§ 1\]\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–229, 2763A–353, provided that: 
 
 > “This Act \[S. 2273, as enacted by section 1(a)(4)\[div. B, title I, § 125\] of [Pub. L. 106–554][/us/pl/106/554], enacting this subchapter and provisions listed in a table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132]\] may be cited as the ‘Black Rock Desert-High Rock Canyon Emigrant Trails National Conservation Area Act of 2000’.”
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132

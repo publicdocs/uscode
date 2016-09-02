@@ -31,7 +31,7 @@
 
         Lands acquired under this section shall be administered by the Secretary of the Interior as part of Mount Rainier National Park in accordance with applicable laws and regulations.
 
-([Pub. L. 108–312, § 3][/us/pl/108/312/s3], Oct. 5, 2004, [118 Stat. 1194][/us/stat/118/1194].)
+([Pub. L. 108–312][/us/pl/108/312], § 3, Oct. 5, 2004, [118 Stat. 1194][/us/stat/118/1194].)
 
  __Short Title__ 
 
@@ -39,7 +39,7 @@
 
  __Findings__ 
 
-[Pub. L. 108–312, § 2][/us/pl/108/312/s2], Oct. 5, 2004, [118 Stat. 1194][/us/stat/118/1194], provided that: 
+[Pub. L. 108–312][/us/pl/108/312], § 2, Oct. 5, 2004, [118 Stat. 1194][/us/stat/118/1194], provided that: 
 
 > “The Congress finds the following:
 
@@ -58,12 +58,12 @@
 ----------
 ----------
 
-[/us/pl/108/312/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F312%2Fs3
+[/us/pl/108/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F312
 [/us/stat/118/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1194
 [/us/pl/108/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F312
 [/us/pl/108/312/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F312%2Fs1
 [/us/usc/t16/s91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs91
-[/us/pl/108/312/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F312%2Fs2
+[/us/pl/108/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F312
 [/us/stat/118/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1194
 
 

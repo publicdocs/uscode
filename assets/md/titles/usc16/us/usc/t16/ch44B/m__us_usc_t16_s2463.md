@@ -17,7 +17,7 @@
 
     It is unlawful for any person to engage in, finance, or otherwise knowingly provide assistance to any Antarctic mineral resource activity.
 
-([Pub. L. 101–594, § 4][/us/pl/101/594/s4], Nov. 16, 1990, [104 Stat. 2977][/us/stat/104/2977]; [Pub. L. 104–227, title II, § 202(a)][/us/pl/104/227/s202/a], Oct. 2, 1996, [110 Stat. 3044][/us/stat/110/3044].)
+([Pub. L. 101–594][/us/pl/101/594], § 4, Nov. 16, 1990, [104 Stat. 2977][/us/stat/104/2977]; [Pub. L. 104–227, title II][/us/pl/104/227/tII], § 202(a), Oct. 2, 1996, [110 Stat. 3044][/us/stat/110/3044].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/101/594/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F594%2Fs4
+[/us/pl/101/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F594
 [/us/stat/104/2977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2977
-[/us/pl/104/227/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2Fs202%2Fa
+[/us/pl/104/227/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2FtII
 [/us/stat/110/3044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3044
 [/us/pl/104/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227
 

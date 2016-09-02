@@ -19,7 +19,7 @@
 
     (b) The Secretary is hereby authorized to acquire, with the consent of the owner, lands outside of the authorized boundaries of North Cascades National Park Service Complex for the purpose of construction and operation of a backcountry information center not to exceed five acres. The Secretary of the Interior is further authorized to acquire with the consent of the owner, lands for the construction of a headquarters and administrative site or sites, for the North Cascades National Park, Ross Lake National Recreation Area, and Lake Chelan National Recreation Area not to exceed ten acres. The lands so acquired shall be managed as part of the park.
 
-([Pub. L. 90–544, title III, § 301][/us/pl/90/544/s301], Oct. 2, 1968, [82 Stat. 927][/us/stat/82/927]; [Pub. L. 100–668, title II, § 203][/us/pl/100/668/s203], Nov. 16, 1988, [102 Stat. 3963][/us/stat/102/3963].)
+([Pub. L. 90–544, title III][/us/pl/90/544/tIII], § 301, Oct. 2, 1968, [82 Stat. 927][/us/stat/82/927]; [Pub. L. 100–668, title II][/us/pl/100/668/tII], § 203, Nov. 16, 1988, [102 Stat. 3963][/us/stat/102/3963].)
 
  __Amendments__ 
 
@@ -27,7 +27,7 @@
 
  __Boundary Adjustments for Road__ 
 
-    [Pub. L. 100–668, title II, § 207][/us/pl/100/668/s207], as added by [Pub. L. 113–291, div. B, title XXX, § 3040][/us/pl/113/291/s3040], Dec. 19, 2014, [128 Stat. 3788][/us/stat/128/3788], authorized Secretary to adjust boundaries of North Cascades National Park and Stephen Mather Wilderness in order to provide a 100-foot-wide corridor along which the Stehekin Valley Road could be rebuilt and directed that such adjustment be made so that equal acreage amounts would be exchanged, resulting in no net loss of acreage to either the Park or the Wilderness.
+    [Pub. L. 100–668, title II][/us/pl/100/668/tII], § 207, as added by [Pub. L. 113–291, div. B, title XXX][/us/pl/113/291/dB/tXXX], § 3040, Dec. 19, 2014, [128 Stat. 3788][/us/stat/128/3788], authorized Secretary to adjust boundaries of North Cascades National Park and Stephen Mather Wilderness in order to provide a 100-foot-wide corridor along which the Stehekin Valley Road could be rebuilt and directed that such adjustment be made so that equal acreage amounts would be exchanged, resulting in no net loss of acreage to either the Park or the Wilderness.
 
 ----------
 
@@ -36,13 +36,13 @@
 ----------
 ----------
 
-[/us/pl/90/544/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F544%2Fs301
+[/us/pl/90/544/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F544%2FtIII
 [/us/stat/82/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F927
-[/us/pl/100/668/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F668%2Fs203
+[/us/pl/100/668/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F668%2FtII
 [/us/stat/102/3963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3963
 [/us/pl/100/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F668
-[/us/pl/100/668/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F668%2Fs207
-[/us/pl/113/291/s3040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3040
+[/us/pl/100/668/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F668%2FtII
+[/us/pl/113/291/dB/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXX
 [/us/stat/128/3788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3788
 
 

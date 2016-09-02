@@ -17,7 +17,7 @@
 
     The President of the United States is authorized to designate such areas on any lands which have been, or which may hereafter be, purchased by the United States under the provisions of the Act of March first, nineteen hundred and eleven, and Acts supplementary thereto and amendatory thereof, as should, in his opinion, be set aside for the protection of game animals, birds, or fish; and, except under such rules and regulations as the Secretary of Agriculture may from time to time prescribe, it shall be unlawful for any person to hunt, catch, trap, willfully disturb or kill any kind of game animal, game or nongame bird, or fish, or take the eggs of any such bird on any lands so set aside, or in or on the waters thereof.
 
-([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], [39 Stat. 476][/us/stat/39/476]; [June 25, 1948, ch. 645, § 10][/us/act/1948-06-25/ch645/s10], [62 Stat. 860][/us/stat/62/860].)
+([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], [39 Stat. 476][/us/stat/39/476]; [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], § 10, [62 Stat. 860][/us/stat/62/860].)
 
  __References in Text__ 
 
@@ -56,7 +56,7 @@
 
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
 [/us/stat/39/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F476
-[/us/act/1948-06-25/ch645/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645%2Fs10
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F860
 [/us/usc/t16/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs552
 [/us/usc/t18/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs41

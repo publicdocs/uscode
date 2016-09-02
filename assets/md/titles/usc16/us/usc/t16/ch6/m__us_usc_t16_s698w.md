@@ -35,7 +35,7 @@
 
             The Secretary of the Interior shall permit hunting on lands within the Craters of the Moon National Preserve in accordance with the applicable laws of the United States and the State of Idaho. The Secretary, in consultation with the State of Idaho, may designate zones where, and establish periods when, no hunting may be permitted for reasons of public safety, protection of the area’s resources, administration, or public use and enjoyment. Except in emergencies, any regulations prescribing such restrictions relating to hunting shall be put into effect only after consultation with the State of Idaho.
 
-([Pub. L. 107–213, § 1][/us/pl/107/213/s1], Aug. 21, 2002, [116 Stat. 1052][/us/stat/116/1052].)
+([Pub. L. 107–213][/us/pl/107/213], § 1, Aug. 21, 2002, [116 Stat. 1052][/us/stat/116/1052].)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 [/us/stat/34/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F225
 [/us/usc/t16/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs431
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
-[/us/pl/107/213/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F213%2Fs1
+[/us/pl/107/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F213
 [/us/stat/116/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1052
 [/us/usc/t54/s320301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320301
 [/us/stat/34/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F225

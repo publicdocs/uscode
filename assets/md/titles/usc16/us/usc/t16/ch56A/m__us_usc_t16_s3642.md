@@ -17,7 +17,7 @@
 
     The Secretary of State shall dispose of any United States property held by the International Pacific Salmon Fisheries Commission on the date of its termination in a manner which would further the purposes of this chapter.
 
-([Pub. L. 99–5, § 13][/us/pl/99/5/s13] (part), Mar. 15, 1985, [99 Stat. 15][/us/stat/99/15].)
+([Pub. L. 99–5][/us/pl/99/5], § 13 (part), Mar. 15, 1985, [99 Stat. 15][/us/stat/99/15].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/99/5/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5%2Fs13
+[/us/pl/99/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5
 [/us/stat/99/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F15
 [/us/pl/99/5/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5%2Fs13
 [/us/pl/99/5/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5%2Fs13

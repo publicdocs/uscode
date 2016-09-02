@@ -17,7 +17,7 @@
 
     In administering this chapter, the Secretary may use or contract for the use of helicopters or, for the purpose of transporting captured animals, motor vehicles. Such use shall be undertaken only after a public hearing and under the direct supervision of the Secretary or of a duly authorized official or employee of the Department. The provisions of [section 47(a) of title 18][/us/usc/t18/s47/a] shall not be applicable to such use. Such use shall be in accordance with humane procedures prescribed by the Secretary. Nothing in this chapter shall be deemed to limit the authority of the Secretary in the management of units of the National Park System, and the Secretary may, without regard either to the provisions of this chapter, or the provisions of [section 47(a) of title 18][/us/usc/t18/s47/a], use motor vehicles, fixed-wing aircraft, or helicopters, or to contract for such use, in furtherance of the management of the National Park System, and [section 47(a) of title 18][/us/usc/t18/s47/a] shall be applicable to such use.
 
-([Pub. L. 92–195, § 9][/us/pl/92/195/s9], as added [Pub. L. 94–579, title IV, § 404][/us/pl/94/579/s404], Oct. 21, 1976, [90 Stat. 2775][/us/stat/90/2775]; amended [Pub. L. 104–333, div. I, title VIII, § 803(a)][/us/pl/104/333/s803/a], Nov. 12, 1996, [110 Stat. 4186][/us/stat/110/4186].)
+([Pub. L. 92–195][/us/pl/92/195], § 9, as added [Pub. L. 94–579, title IV][/us/pl/94/579/tIV], § 404, Oct. 21, 1976, [90 Stat. 2775][/us/stat/90/2775]; amended [Pub. L. 104–333, div. I, title VIII][/us/pl/104/333/dI/tVIII], § 803(a), Nov. 12, 1996, [110 Stat. 4186][/us/stat/110/4186].)
 
  __References in Text__ 
 
@@ -37,10 +37,10 @@
 [/us/usc/t18/s47/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs47%2Fa
 [/us/usc/t18/s47/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs47%2Fa
 [/us/usc/t18/s47/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs47%2Fa
-[/us/pl/92/195/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F195%2Fs9
-[/us/pl/94/579/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2Fs404
+[/us/pl/92/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F195
+[/us/pl/94/579/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2FtIV
 [/us/stat/90/2775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2775
-[/us/pl/104/333/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs803%2Fa
+[/us/pl/104/333/dI/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtVIII
 [/us/stat/110/4186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4186
 [/us/pl/104/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333
 [/us/usc/t18/s47/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs47%2Fa

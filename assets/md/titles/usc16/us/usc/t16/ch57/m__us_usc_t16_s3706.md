@@ -33,11 +33,11 @@
 
         the Attorney General of the United States may petition in the United States District Court for the District of Columbia for such equitable relief as may be necessary or appropriate.
 
-([Pub. L. 98–244, § 7][/us/pl/98/244/s7], Mar. 26, 1984, [98 Stat. 110][/us/stat/98/110]; [Pub. L. 100–240, § 2(b)(2)][/us/pl/100/240/s2/b/2], Jan. 11, 1988, [101 Stat. 1786][/us/stat/101/1786]; [Pub. L. 106–408, title II, § 205][/us/pl/106/408/s205], Nov. 1, 2000, [114 Stat. 1780][/us/stat/114/1780].)
+([Pub. L. 98–244][/us/pl/98/244], § 7, Mar. 26, 1984, [98 Stat. 110][/us/stat/98/110]; [Pub. L. 100–240][/us/pl/100/240], § 2(b)(2), Jan. 11, 1988, [101 Stat. 1786][/us/stat/101/1786]; [Pub. L. 106–408, title II][/us/pl/106/408/tII], § 205, Nov. 1, 2000, [114 Stat. 1780][/us/stat/114/1780].)
 
  __Codification__ 
 
-    In subsec. (a), “[section 10101 of title 36][/us/usc/t36/s10101]” substituted for “the Act entitled ‘An Act for audit of accounts of private corporations established under Federal law’, approved August 30, 1964 ([Public Law 88–504][/us/pl/88/504], [36 U.S.C. 1101–110][/us/usc/t36/s1101–110]3)” and “a corporation in part B of subtitle II of title 36” substituted for “a private corporation established under Federal law” on authority of [Pub. L. 105–225, § 5(b)][/us/pl/105/225/s5/b], Aug. 12, 1998, [112 Stat. 1499][/us/stat/112/1499], the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
+    In subsec. (a), “[section 10101 of title 36][/us/usc/t36/s10101]” substituted for “the Act entitled ‘An Act for audit of accounts of private corporations established under Federal law’, approved August 30, 1964 ([Public Law 88–504][/us/pl/88/504], [36 U.S.C. 1101–110][/us/usc/t36/s1101–110]3)” and “a corporation in part B of subtitle II of title 36” substituted for “a private corporation established under Federal law” on authority of [Pub. L. 105–225][/us/pl/105/225], § 5(b), Aug. 12, 1998, [112 Stat. 1499][/us/stat/112/1499], the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
 
  __Amendments__ 
 
@@ -63,16 +63,16 @@
 [/us/usc/t36/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs10101
 [/us/usc/t16/s3703/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3703%2Fe
 [/us/usc/t16/s3701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3701%2Fb
-[/us/pl/98/244/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F244%2Fs7
+[/us/pl/98/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F244
 [/us/stat/98/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F110
-[/us/pl/100/240/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F240%2Fs2%2Fb%2F2
+[/us/pl/100/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F240
 [/us/stat/101/1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1786
-[/us/pl/106/408/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2Fs205
+[/us/pl/106/408/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2FtII
 [/us/stat/114/1780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1780
 [/us/usc/t36/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs10101
 [/us/pl/88/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F504
 [/us/usc/t36/s1101–110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs1101%E2%80%93110
-[/us/pl/105/225/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225%2Fs5%2Fb
+[/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1499
 [/us/pl/106/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408
 [/us/pl/100/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F240

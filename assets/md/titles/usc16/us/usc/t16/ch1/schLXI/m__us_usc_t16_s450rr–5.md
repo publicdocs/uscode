@@ -17,7 +17,7 @@
 
     It is the sense of Congress that research and limited exploration activities concerning the R.M.S. Titanic should continue for the purpose of enhancing public knowledge of its scientific, cultural, and historical significance: Provided, That, pending adoption of the international agreement described in [section 450rr–4(a) of this title][/us/usc/t16/s450rr–4/a] or implementation of the international guidelines described in [section 450rr–3 of this title][/us/usc/t16/s450rr–3], no person should conduct any such research or exploration activity which would physically alter, disturb, or salvage the R.M.S. Titanic.
 
-([Pub. L. 99–513, § 7][/us/pl/99/513/s7], Oct. 21, 1986, [100 Stat. 2084][/us/stat/100/2084].)
+([Pub. L. 99–513][/us/pl/99/513], § 7, Oct. 21, 1986, [100 Stat. 2084][/us/stat/100/2084].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t16/s450rr–4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450rr%E2%80%934%2Fa
 [/us/usc/t16/s450rr–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450rr%E2%80%933
-[/us/pl/99/513/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F513%2Fs7
+[/us/pl/99/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F513
 [/us/stat/100/2084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2084
 
 

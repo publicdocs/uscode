@@ -65,7 +65,7 @@
 
                 In allocating funding under this paragraph, the Secretary should, to the maximum extent practicable, give priority to communities that have adopted a community wildfire protection plan or have taken proactive measures to encourage willing property owners to reduce fire risk on private property.
 
-([Pub. L. 108–148, title I, § 103][/us/pl/108/148/s103], Dec. 3, 2003, [117 Stat. 1896][/us/stat/117/1896].)
+([Pub. L. 108–148, title I][/us/pl/108/148/tI], § 103, Dec. 3, 2003, [117 Stat. 1896][/us/stat/117/1896].)
 
  __References in Text__ 
 
@@ -85,7 +85,7 @@
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t16/s6512/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6512%2Fa%2F4
 [/us/usc/t16/s6511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6511
-[/us/pl/108/148/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2Fs103
+[/us/pl/108/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2FtI
 [/us/stat/117/1896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1896
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

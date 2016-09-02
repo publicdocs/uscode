@@ -17,11 +17,11 @@
 
     In carrying out this subchapter, the Secretary shall provide technical assistance and financial assistance with respect to not more than 450 active designated areas.
 
-([Pub. L. 97–98, title XV, § 1535][/us/pl/97/98/s1535], as added [Pub. L. 107–171, title II, § 2504][/us/pl/107/171/s2504], May 13, 2002, [116 Stat. 274][/us/stat/116/274].)
+([Pub. L. 97–98, title XV][/us/pl/97/98/tXV], § 1535, as added [Pub. L. 107–171, title II][/us/pl/107/171/tII], § 2504, May 13, 2002, [116 Stat. 274][/us/stat/116/274].)
 
  __Prior Provisions__ 
 
-    A prior section 3458, [Pub. L. 97–98, title XV, § 1535][/us/pl/97/98/s1535], Dec. 22, 1981, [95 Stat. 1340][/us/stat/95/1340], related to program evaluation, prior to the general amendment of this subchapter by [Pub. L. 107–171][/us/pl/107/171].
+    A prior section 3458, [Pub. L. 97–98, title XV][/us/pl/97/98/tXV], § 1535, Dec. 22, 1981, [95 Stat. 1340][/us/stat/95/1340], related to program evaluation, prior to the general amendment of this subchapter by [Pub. L. 107–171][/us/pl/107/171].
 
 ----------
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/pl/97/98/s1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1535
-[/us/pl/107/171/s2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2504
+[/us/pl/97/98/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXV
+[/us/pl/107/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtII
 [/us/stat/116/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F274
-[/us/pl/97/98/s1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1535
+[/us/pl/97/98/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXV
 [/us/stat/95/1340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1340
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 

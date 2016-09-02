@@ -63,7 +63,7 @@
 
     (10) Yukon-Charley Rivers National Preserve, containing approximately one million seven hundred and thirteen thousand acres of public lands, as generally depicted on map numbered YUCH–90,008, and dated October 1978. The preserve shall be managed for the following purposes, among others: To maintain the environmental integrity of the entire Charley River basin, including streams, lakes and other natural features, in its undeveloped natural condition for public benefit and scientific study; to protect habitat for, and populations of, fish and wildlife, including but not limited to the peregrine falcons and other raptorial birds, caribou, moose, Dall sheep, grizzly bears, and wolves; and in a manner consistent with the foregoing, to protect and interpret historical sites and events associated with the gold rush on the Yukon River and the geological and paleontological history and cultural prehistory of the area. Except at such times when and locations where to do so would be inconsistent with the purposes of the preserve, the Secretary shall permit aircraft to continue to land at sites in the Upper Charley River watershed.
 
-([Pub. L. 96–487, title II, § 201][/us/pl/96/487/s201], Dec. 2, 1980, [94 Stat. 2377][/us/stat/94/2377]; [Pub. L. 104–333, div. I, title III, § 302(c)(2)][/us/pl/104/333/s302/c/2], Nov. 12, 1996, [110 Stat. 4119][/us/stat/110/4119].)
+([Pub. L. 96–487, title II][/us/pl/96/487/tII], § 201, Dec. 2, 1980, [94 Stat. 2377][/us/stat/94/2377]; [Pub. L. 104–333, div. I, title III][/us/pl/104/333/dI/tIII], § 302(c)(2), Nov. 12, 1996, [110 Stat. 4119][/us/stat/110/4119].)
 
  __References in Text__ 
 
@@ -79,7 +79,7 @@
 
  __Anaktuvuk Pass Land Exchange__ 
 
-[Pub. L. 104–333, div. I, title III, § 302][/us/pl/104/333/s302], Nov. 12, 1996, [110 Stat. 4117][/us/stat/110/4117], provided that:
+[Pub. L. 104–333, div. I, title III][/us/pl/104/333/dI/tIII], § 302, Nov. 12, 1996, [110 Stat. 4117][/us/stat/110/4117], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -147,9 +147,9 @@
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/usc/t43/s1610/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1610%2Fa%2F3%2FA
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/96/487/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs201
+[/us/pl/96/487/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtII
 [/us/stat/94/2377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2377
-[/us/pl/104/333/s302/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs302%2Fc%2F2
+[/us/pl/104/333/dI/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtIII
 [/us/stat/110/4119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4119
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371
@@ -161,7 +161,7 @@
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/pl/104/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333
-[/us/pl/104/333/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs302
+[/us/pl/104/333/dI/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtIII
 [/us/stat/110/4117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4117
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487

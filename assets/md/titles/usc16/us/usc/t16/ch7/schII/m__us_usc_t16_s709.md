@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act July 3, 1918, ch. 128, § 8][/us/act/1918-07-03/ch128/s8], [40 Stat. 756][/us/stat/40/756], authorized taking and use of migratory birds, nests, or eggs for scientific or propagating purposes until adoption and approval, pursuant to [section 704 of this title][/us/usc/t16/s704], of regulations dealing therewith. Regulations were promulgated by Proc. July 31, 1918, [40 Stat. 1812][/us/stat/40/1812].
+    Section, [act July 3, 1918, ch. 128][/us/act/1918-07-03/ch128], § 8, [40 Stat. 756][/us/stat/40/756], authorized taking and use of migratory birds, nests, or eggs for scientific or propagating purposes until adoption and approval, pursuant to [section 704 of this title][/us/usc/t16/s704], of regulations dealing therewith. Regulations were promulgated by Proc. July 31, 1918, [40 Stat. 1812][/us/stat/40/1812].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1918-07-03/ch128/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-07-03%2Fch128%2Fs8
+[/us/act/1918-07-03/ch128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-07-03%2Fch128
 [/us/stat/40/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F756
 [/us/usc/t16/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs704
 [/us/stat/40/1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1812

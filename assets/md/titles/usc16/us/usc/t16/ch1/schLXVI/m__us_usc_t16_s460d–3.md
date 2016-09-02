@@ -37,11 +37,11 @@
 
             All fees collected under this subsection shall be deposited into the Treasury account for the Corps of Engineers established by section 460l–6a(i) 1 of this title and, subject to the availability of appropriations, shall be used for the purposes specified in section 460l–6a(i)(3) 1 of this title at the water resources development project at which the fees were collected.
 
-([Pub. L. 90–483, title II, § 210][/us/pl/90/483/s210], Aug. 13, 1968, [82 Stat. 746][/us/stat/82/746]; [Pub. L. 103–66, title V, § 5001(a)][/us/pl/103/66/s5001/a], Aug. 10, 1993, [107 Stat. 378][/us/stat/107/378]; [Pub. L. 104–303, title II, § 208(b)(1)][/us/pl/104/303/s208/b/1], Oct. 12, 1996, [110 Stat. 3680][/us/stat/110/3680].)
+([Pub. L. 90–483, title II][/us/pl/90/483/tII], § 210, Aug. 13, 1968, [82 Stat. 746][/us/stat/82/746]; [Pub. L. 103–66, title V][/us/pl/103/66/tV], § 5001(a), Aug. 10, 1993, [107 Stat. 378][/us/stat/107/378]; [Pub. L. 104–303, title II][/us/pl/104/303/tII], § 208(b)(1), Oct. 12, 1996, [110 Stat. 3680][/us/stat/110/3680].)
 
  __References in Text__ 
 
-    Subsections (b) and (i) of section 460l–6a of this title, referred to in subsec. (b)(1), (4), were repealed, except for par. (1)(C) of subsec. (i), by [Pub. L. 108–447, div. J, title VIII, § 813(a)][/us/pl/108/447/s813/a], Dec. 8, 2004, [118 Stat. 3390][/us/stat/118/3390], as amended by [Pub. L. 109–54, title I, § 132(a)][/us/pl/109/54/s132/a], Aug. 2, 2005, [119 Stat. 526][/us/stat/119/526]. Subsec. (i)(1)(C) of section 460l–6a of this title was repealed and restated as [section 100904(a) of Title 54][/us/usc/t54/s100904/a], National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287], §§ 3, 7, Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094], 3272.
+    Subsections (b) and (i) of section 460l–6a of this title, referred to in subsec. (b)(1), (4), were repealed, except for par. (1)(C) of subsec. (i), by [Pub. L. 108–447, div. J, title VIII][/us/pl/108/447/dJ/tVIII], § 813(a), Dec. 8, 2004, [118 Stat. 3390][/us/stat/118/3390], as amended by [Pub. L. 109–54, title I][/us/pl/109/54/tI], § 132(a), Aug. 2, 2005, [119 Stat. 526][/us/stat/119/526]. Subsec. (i)(1)(C) of section 460l–6a of this title was repealed and restated as [section 100904(a) of Title 54][/us/usc/t54/s100904/a], National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287], §§ 3, 7, Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094], 3272.
 
  __Amendments__ 
 
@@ -51,7 +51,7 @@
 
  __Alternative to Annual Passes__ 
 
-[Section 208(c) of Pub. L. 104–303][/us/pl/104/303/s208/c], as amended by [Pub. L. 106–53, title II, § 218][/us/pl/106/53/s218], Aug. 17, 1999, [113 Stat. 294][/us/stat/113/294], provided that:
+[Section 208(c) of Pub. L. 104–303][/us/pl/104/303/s208/c], as amended by [Pub. L. 106–53, title II][/us/pl/106/53/tII], § 218, Aug. 17, 1999, [113 Stat. 294][/us/stat/113/294], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -76,15 +76,15 @@
 ----------
 ----------
 
-[/us/pl/90/483/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F483%2Fs210
+[/us/pl/90/483/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F483%2FtII
 [/us/stat/82/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F746
-[/us/pl/103/66/s5001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs5001%2Fa
+[/us/pl/103/66/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtV
 [/us/stat/107/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F378
-[/us/pl/104/303/s208/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs208%2Fb%2F1
+[/us/pl/104/303/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtII
 [/us/stat/110/3680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3680
-[/us/pl/108/447/s813/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs813%2Fa
+[/us/pl/108/447/dJ/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtVIII
 [/us/stat/118/3390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3390
-[/us/pl/109/54/s132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54%2Fs132%2Fa
+[/us/pl/109/54/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54%2FtI
 [/us/stat/119/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F526
 [/us/usc/t54/s100904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100904%2Fa
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
@@ -92,7 +92,7 @@
 [/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/104/303/s208/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs208%2Fc
-[/us/pl/106/53/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs218
+[/us/pl/106/53/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2FtII
 [/us/stat/113/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F294
 
 

@@ -47,7 +47,7 @@
 
         The term “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act ([43 U.S.C. 1601][/us/usc/t43/s1601] et seq.), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
-([Pub. L. 86–797, title I, § 100][/us/pl/86/797/s100], as added [Pub. L. 105–85, div. B, title XXIX, § 2911][/us/pl/105/85/s2911], Nov. 18, 1997, [111 Stat. 2021][/us/stat/111/2021]; amended [Pub. L. 112–81, div. A, title III, § 312(a)(1)][/us/pl/112/81/s312/a/1], Dec. 31, 2011, [125 Stat. 1351][/us/stat/125/1351]; [Pub. L. 112–239, div. A, title III, § 312(b)][/us/pl/112/239/s312/b], Jan. 2, 2013, [126 Stat. 1691][/us/stat/126/1691].)
+([Pub. L. 86–797, title I][/us/pl/86/797/tI], § 100, as added [Pub. L. 105–85, div. B, title XXIX][/us/pl/105/85/dB/tXXIX], § 2911, Nov. 18, 1997, [111 Stat. 2021][/us/stat/111/2021]; amended [Pub. L. 112–81, div. A, title III][/us/pl/112/81/dA/tIII], § 312(a)(1), Dec. 31, 2011, [125 Stat. 1351][/us/stat/125/1351]; [Pub. L. 112–239, div. A, title III][/us/pl/112/239/dA/tIII], § 312(b), Jan. 2, 2013, [126 Stat. 1691][/us/stat/126/1691].)
 
  __References in Text__ 
 
@@ -61,19 +61,19 @@
 
  __Short Title of 1997 Amendment__ 
 
-[Pub. L. 105–85, div. B, title XXIX, § 2901][/us/pl/105/85/s2901], Nov. 18, 1997, [111 Stat. 2016][/us/stat/111/2016], provided that: 
+[Pub. L. 105–85, div. B, title XXIX][/us/pl/105/85/dB/tXXIX], § 2901, Nov. 18, 1997, [111 Stat. 2016][/us/stat/111/2016], provided that: 
 
 > “This title \[enacting this section and sections 670e–1 and 670e–2 of this title, amending sections 670a, 670b, 670c, 670c–1, 670f, and 670o of this title, repealing [section 670a–1 of this title][/us/usc/t16/s670a–1], and enacting provisions set out as notes under this section and [section 670a of this title][/us/usc/t16/s670a]\] may be cited as the ‘Sikes Act Improvement Act of 1997’.”
 
  __Short Title of 1978 Amendment__ 
 
-[Pub. L. 95–420, § 1][/us/pl/95/420/s1], Oct. 5, 1978, [92 Stat. 921][/us/stat/92/921], provided: 
+[Pub. L. 95–420][/us/pl/95/420], § 1, Oct. 5, 1978, [92 Stat. 921][/us/stat/92/921], provided: 
 
 > “That this Act \[amending sections 670f and 670o of this title\] may be cited as the ‘Sikes Act Amendments of 1978’.”
 
  __Short Title__ 
 
-[Pub. L. 86–797, § 1][/us/pl/86/797/s1], as added by [Pub. L. 105–85, div. B, title XXIX, § 2903][/us/pl/105/85/s2903], Nov. 18, 1997, [111 Stat. 2016][/us/stat/111/2016], provided that: 
+[Pub. L. 86–797][/us/pl/86/797], § 1, as added by [Pub. L. 105–85, div. B, title XXIX][/us/pl/105/85/dB/tXXIX], § 2903, Nov. 18, 1997, [111 Stat. 2016][/us/stat/111/2016], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Sikes Act’.”
 
@@ -87,26 +87,26 @@
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/86/797/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F797%2Fs100
-[/us/pl/105/85/s2911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2911
+[/us/pl/86/797/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F797%2FtI
+[/us/pl/105/85/dB/tXXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdB%2FtXXIX
 [/us/stat/111/2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2021
-[/us/pl/112/81/s312/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs312%2Fa%2F1
+[/us/pl/112/81/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIII
 [/us/stat/125/1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1351
-[/us/pl/112/239/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs312%2Fb
+[/us/pl/112/239/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIII
 [/us/stat/126/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1691
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/105/85/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2901
+[/us/pl/105/85/dB/tXXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdB%2FtXXIX
 [/us/stat/111/2016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2016
 [/us/usc/t16/s670a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs670a%E2%80%931
 [/us/usc/t16/s670a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs670a
-[/us/pl/95/420/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F420%2Fs1
+[/us/pl/95/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F420
 [/us/stat/92/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F921
-[/us/pl/86/797/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F797%2Fs1
-[/us/pl/105/85/s2903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2903
+[/us/pl/86/797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F797
+[/us/pl/105/85/dB/tXXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdB%2FtXXIX
 [/us/stat/111/2016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2016
 
 

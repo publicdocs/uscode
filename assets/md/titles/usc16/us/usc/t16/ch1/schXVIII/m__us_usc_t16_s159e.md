@@ -19,7 +19,7 @@
 
     (b) For the purposes of acquiring land and interest in land added to the unit referred to in subsection (a) there are authorized to be appropriated from the Land and Water Conservation Fund such sums as may be necessary but not to exceed $74,000 for Saratoga National Historic Park.
 
-([Pub. L. 96–199, title I, § 115][/us/pl/96/199/s115], Mar. 5, 1980, [94 Stat. 71][/us/stat/94/71].)
+([Pub. L. 96–199, title I][/us/pl/96/199/tI], § 115, Mar. 5, 1980, [94 Stat. 71][/us/stat/94/71].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/96/199/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199%2Fs115
+[/us/pl/96/199/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199%2FtI
 [/us/stat/94/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F71
 
 

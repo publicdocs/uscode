@@ -17,7 +17,7 @@
 
     The Governor of the Territory of Hawaii is authorized to convey to the United States any and all lands and interests in lands acquired by the Territorial Government under the provisions of sections 391b, 391b–1, 392c, 396, 396a of this title.
 
-([June 20, 1938, ch. 530, § 4][/us/act/1938-06-20/ch530/s4], [52 Stat. 785][/us/stat/52/785].)
+([June 20, 1938, ch. 530][/us/act/1938-06-20/ch530], § 4, [52 Stat. 785][/us/stat/52/785].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1938-06-20/ch530/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-20%2Fch530%2Fs4
+[/us/act/1938-06-20/ch530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-20%2Fch530
 [/us/stat/52/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F785
 [/us/usc/t16/s391b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs391b%E2%80%931
 [/us/pl/86/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F3

@@ -25,7 +25,7 @@
 
         The term “Secretary” means the Secretary of the Interior.
 
-([Pub. L. 108–387, title I, § 102][/us/pl/108/387/s102], Oct. 30, 2004, [118 Stat. 2234][/us/stat/118/2234].)
+([Pub. L. 108–387, title I][/us/pl/108/387/tI], § 102, Oct. 30, 2004, [118 Stat. 2234][/us/stat/118/2234].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 
  __Short Title__ 
 
-[Pub. L. 108–387, title I, § 101][/us/pl/108/387/s101], Oct. 30, 2004, [118 Stat. 2234][/us/stat/118/2234], provided that: 
+[Pub. L. 108–387, title I][/us/pl/108/387/tI], § 101, Oct. 30, 2004, [118 Stat. 2234][/us/stat/118/2234], provided that: 
 
 > “This title \[enacting this subchapter and repealing sections 450mm to 450mm–3 of this title\] may be cited as the ‘Lewis and Clark National Historical Park Designation Act’.”
 
@@ -45,11 +45,11 @@
 ----------
 
 [/us/usc/t16/s410kkk–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410kkk%E2%80%931
-[/us/pl/108/387/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F387%2Fs102
+[/us/pl/108/387/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F387%2FtI
 [/us/stat/118/2234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2234
 [/us/pl/108/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F387
 [/us/stat/118/2234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2234
-[/us/pl/108/387/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F387%2Fs101
+[/us/pl/108/387/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F387%2FtI
 [/us/stat/118/2234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2234
 
 

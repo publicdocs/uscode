@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch3A/schII/m__us_usc_t16_s587a.md) | [Next](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch3B)
+[Previous](./../../../..//us/usc/t16/ch3A/schII/m__us_usc_t16_s588...590.md) | [Next](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch3B)
 
 ## CHAPTER 3B—SOIL CONSERVATION
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs590" data-uslm-ref="/us/usc/t16/s590">590</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs590l" data-uslm-ref="/us/usc/t16/s590l">590l.</a>  </td>
 
     <td> Expansion of domestic and foreign markets for agricultural commodities; advances for crop insurance; transfer of funds to corporation.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs590" data-uslm-ref="/us/usc/t16/s590">590</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs590o" data-uslm-ref="/us/usc/t16/s590o">590o.</a>  </td>
 
     <td> Authorization of appropriations; distribution of appropriated funds.  </td>
 
@@ -219,7 +219,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch3A/schII/m__us_usc_t16_s587a.md) | [Next](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch3B)
+[Previous](./../../../..//us/usc/t16/ch3A/schII/m__us_usc_t16_s588...590.md) | [Next](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch3B)
 
 ----------
 ----------

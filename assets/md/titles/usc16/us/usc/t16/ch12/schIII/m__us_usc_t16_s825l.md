@@ -27,7 +27,7 @@
 
         The filing of an application for rehearing under subsection (a) shall not, unless specifically ordered by the Commission, operate as a stay of the Commission’s order. The commencement of proceedings under subsection (b) of this section shall not, unless specifically ordered by the court, operate as a stay of the Commission’s order.
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. III, § 313, as added [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, § 213, [49 Stat. 860][/us/stat/49/860]; amended [June 25, 1948, ch. 646, § 32(a)][/us/act/1948-06-25/ch646/s32/a], [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139, § 127][/us/act/1949-05-24/ch139/s127], [63 Stat. 107][/us/stat/63/107]; [Pub. L. 85–791, § 16][/us/pl/85/791/s16], Aug. 28, 1958, [72 Stat. 947][/us/stat/72/947]; [Pub. L. 109–58, title XII, § 1284(c)][/us/pl/109/58/s1284/c], Aug. 8, 2005, [119 Stat. 980][/us/stat/119/980].)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. III, § 313, as added [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, § 213, [49 Stat. 860][/us/stat/49/860]; amended [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 32(a), [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 127, [63 Stat. 107][/us/stat/63/107]; [Pub. L. 85–791][/us/pl/85/791], § 16, Aug. 28, 1958, [72 Stat. 947][/us/stat/72/947]; [Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1284(c), Aug. 8, 2005, [119 Stat. 980][/us/stat/119/980].)
 
  __Codification__ 
 
@@ -37,9 +37,9 @@
 
     2005—Subsec. (a). [Pub. L. 109–58][/us/pl/109/58] inserted “electric utility,” after “Any person,” and “to which such person,” and substituted “brought by any entity unless such entity” for “brought by any person unless such person”.
 
-    1958—Subsec. (a). [Pub. L. 85–791, § 16(a)][/us/pl/85/791/s16/a], inserted sentence to provide that Commission may modify or set aside findings or orders until record has been filed in court of appeals.
+    1958—Subsec. (a). [Pub. L. 85–791][/us/pl/85/791], § 16(a), inserted sentence to provide that Commission may modify or set aside findings or orders until record has been filed in court of appeals.
 
-    Subsec. (b). [Pub. L. 85–791, § 16(b)][/us/pl/85/791/s16/b], in second sentence, substituted “transmitted by the clerk of the court to” for “served upon”, substituted “file with the court” for “certify and file with the court a transcript of”, and inserted “as provided in [section 2112 of title 28][/us/usc/t28/s2112]”, and in third sentence, substituted “jurisdiction, which upon the filing of the record with it shall be exclusive” for “exclusive jurisdiction”.
+    Subsec. (b). [Pub. L. 85–791][/us/pl/85/791], § 16(b), in second sentence, substituted “transmitted by the clerk of the court to” for “served upon”, substituted “file with the court” for “certify and file with the court a transcript of”, and inserted “as provided in [section 2112 of title 28][/us/usc/t28/s2112]”, and in third sentence, substituted “jurisdiction, which upon the filing of the record with it shall be exclusive” for “exclusive jurisdiction”.
 
  __Change of Name__ 
 
@@ -57,20 +57,20 @@
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
 [/us/act/1935-08-26/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-26%2Fch687
 [/us/stat/49/860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F860
-[/us/act/1948-06-25/ch646/s32/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs32%2Fa
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F991
-[/us/act/1949-05-24/ch139/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs127
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F107
-[/us/pl/85/791/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791%2Fs16
+[/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
 [/us/stat/72/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F947
-[/us/pl/109/58/s1284/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1284%2Fc
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F980
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F869
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
-[/us/pl/85/791/s16/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791%2Fs16%2Fa
-[/us/pl/85/791/s16/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791%2Fs16%2Fb
+[/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
+[/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 
 

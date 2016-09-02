@@ -35,15 +35,15 @@
 
         For additional prohibitions relating to this chapter and enforcement of this chapter, see [section 1826g of this title][/us/usc/t16/s1826g].
 
-([Pub. L. 104–43, title II, § 207][/us/pl/104/43/s207], Nov. 3, 1995, [109 Stat. 379][/us/stat/109/379]; [Pub. L. 105–384, title II, § 201(b)(1)][/us/pl/105/384/s201/b/1], Nov. 13, 1998, [112 Stat. 3451][/us/stat/112/3451]; [Pub. L. 114–81, title I, § 111][/us/pl/114/81/s111], Nov. 5, 2015, [129 Stat. 659][/us/stat/129/659].)
+([Pub. L. 104–43, title II][/us/pl/104/43/tII], § 207, Nov. 3, 1995, [109 Stat. 379][/us/stat/109/379]; [Pub. L. 105–384, title II][/us/pl/105/384/tII], § 201(b)(1), Nov. 13, 1998, [112 Stat. 3451][/us/stat/112/3451]; [Pub. L. 114–81, title I][/us/pl/114/81/tI], § 111, Nov. 5, 2015, [129 Stat. 659][/us/stat/129/659].)
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–81, § 111(1)][/us/pl/114/81/s111/1], in section catchline, substituted “and enforcement” for “and penalties”.
+    2015—[Pub. L. 114–81][/us/pl/114/81], § 111(1), in section catchline, substituted “and enforcement” for “and penalties”.
 
-    Subsec. (a)(2), (3). [Pub. L. 114–81, § 111(2)][/us/pl/114/81/s111/2], (3), inserted “, investigation,” before “or inspection”.
+    Subsec. (a)(2), (3). [Pub. L. 114–81][/us/pl/114/81], § 111(2), (3), inserted “, investigation,” before “or inspection”.
 
-    Subsecs. (b) to (f). [Pub. L. 114–81, § 111(4)][/us/pl/114/81/s111/4], added subsec. (b) and struck out former subsecs. (b) to (f), which related to civil penalty, criminal penalty, civil forfeitures, enforcement, and jurisdiction of courts.
+    Subsecs. (b) to (f). [Pub. L. 114–81][/us/pl/114/81], § 111(4), added subsec. (b) and struck out former subsecs. (b) to (f), which related to civil penalty, criminal penalty, civil forfeitures, enforcement, and jurisdiction of courts.
 
     1998—Subsec. (e). [Pub. L. 105–384][/us/pl/105/384] substituted “section” for “sections”.
 
@@ -59,15 +59,15 @@
 ----------
 
 [/us/usc/t16/s1826g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826g
-[/us/pl/104/43/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs207
+[/us/pl/104/43/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtII
 [/us/stat/109/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F379
-[/us/pl/105/384/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2Fs201%2Fb%2F1
+[/us/pl/105/384/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2FtII
 [/us/stat/112/3451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3451
-[/us/pl/114/81/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs111
+[/us/pl/114/81/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2FtI
 [/us/stat/129/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F659
-[/us/pl/114/81/s111/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs111%2F1
-[/us/pl/114/81/s111/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs111%2F2
-[/us/pl/114/81/s111/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs111%2F4
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
 [/us/pl/105/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

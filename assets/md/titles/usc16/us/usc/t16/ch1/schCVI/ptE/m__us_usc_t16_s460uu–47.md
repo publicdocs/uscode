@@ -37,7 +37,7 @@
 
         The Secretary is authorized to establish an advisory committee to advise the Secretary concerning the implementation of this section. Any such advisory committee shall include representatives of the Pueblo of Acoma, the Pueblo of Zuni, other appropriate Indian tribes and other persons or groups interested in the implementation of this section.
 
-([Pub. L. 100–225, title V, § 507][/us/pl/100/225/s507], Dec. 31, 1987, [101 Stat. 1548][/us/stat/101/1548]; [Pub. L. 103–437, § 6(d)(19)][/us/pl/103/437/s6/d/19], Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
+([Pub. L. 100–225, title V][/us/pl/100/225/tV], § 507, Dec. 31, 1987, [101 Stat. 1548][/us/stat/101/1548]; [Pub. L. 103–437][/us/pl/103/437], § 6(d)(19), Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
 
  __References in Text__ 
 
@@ -65,9 +65,9 @@
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
 [/us/usc/t16/s460uu–41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460uu%E2%80%9341
 [/us/usc/t42/s1996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1996
-[/us/pl/100/225/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F225%2Fs507
+[/us/pl/100/225/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F225%2FtV
 [/us/stat/101/1548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1548
-[/us/pl/103/437/s6/d/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fd%2F19
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4584
 [/us/pl/95/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F341
 [/us/stat/92/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F469

@@ -31,7 +31,7 @@
 
         In issuing rules and regulations pursuant to subsection (c), the appropriate Secretaries may include therein provisions authorizing the said Secretaries, in their discretion, to exclude from the limitations imposed by this section sales having an appraised value of less than $2,000.
 
-([Apr. 12, 1926, ch. 117, § 2][/us/act/1926-04-12/ch117/s2], as added [Pub. L. 90–554][/us/pl/90/554], pt. IV, § 401, Oct. 8, 1968, [82 Stat. 966][/us/stat/82/966]; amended [Pub. L. 91–609, title IX, § 921][/us/pl/91/609/s921], Dec. 31, 1970, [84 Stat. 1817][/us/stat/84/1817].)
+([Apr. 12, 1926, ch. 117][/us/act/1926-04-12/ch117], § 2, as added [Pub. L. 90–554][/us/pl/90/554], pt. IV, § 401, Oct. 8, 1968, [82 Stat. 966][/us/stat/82/966]; amended [Pub. L. 91–609, title IX][/us/pl/91/609/tIX], § 921, Dec. 31, 1970, [84 Stat. 1817][/us/stat/84/1817].)
 
  __Amendments__ 
 
@@ -44,10 +44,10 @@
 ----------
 ----------
 
-[/us/act/1926-04-12/ch117/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-04-12%2Fch117%2Fs2
+[/us/act/1926-04-12/ch117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-04-12%2Fch117
 [/us/pl/90/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F554
 [/us/stat/82/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F966
-[/us/pl/91/609/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2Fs921
+[/us/pl/91/609/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2FtIX
 [/us/stat/84/1817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1817
 [/us/pl/91/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609
 

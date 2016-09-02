@@ -23,13 +23,13 @@
 
         The Conservation Area shall consist of approximately 122,300 acres of public land as generally depicted on the Map.
 
-([Pub. L. 106–353, § 4][/us/pl/106/353/s4], Oct. 24, 2000, [114 Stat. 1375][/us/stat/114/1375]; [Pub. L. 108–400, § 1(c)][/us/pl/108/400/s1/c], Oct. 30, 2004, [118 Stat. 2254][/us/stat/118/2254].)
+([Pub. L. 106–353][/us/pl/106/353], § 4, Oct. 24, 2000, [114 Stat. 1375][/us/stat/114/1375]; [Pub. L. 108–400][/us/pl/108/400], § 1(c), Oct. 30, 2004, [118 Stat. 2254][/us/stat/118/2254].)
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–400, § 1(c)(1)][/us/pl/108/400/s1/c/1], substituted “McInnis” for “Colorado” in section catchline.
+    2004—[Pub. L. 108–400][/us/pl/108/400], § 1(c)(1), substituted “McInnis” for “Colorado” in section catchline.
 
-    Subsec. (a). [Pub. L. 108–400, § 1(c)(2)][/us/pl/108/400/s1/c/2], substituted “McInnis Canyons” for “Colorado Canyons”.
+    Subsec. (a). [Pub. L. 108–400][/us/pl/108/400], § 1(c)(2), substituted “McInnis Canyons” for “Colorado Canyons”.
 
  __Effective Date of 2004 Amendment__ 
 
@@ -42,12 +42,12 @@
 ----------
 ----------
 
-[/us/pl/106/353/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F353%2Fs4
+[/us/pl/106/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F353
 [/us/stat/114/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1375
-[/us/pl/108/400/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F400%2Fs1%2Fc
+[/us/pl/108/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F400
 [/us/stat/118/2254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2254
-[/us/pl/108/400/s1/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F400%2Fs1%2Fc%2F1
-[/us/pl/108/400/s1/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F400%2Fs1%2Fc%2F2
+[/us/pl/108/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F400
+[/us/pl/108/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F400
 [/us/pl/108/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F400
 [/us/pl/108/400/s1/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F400%2Fs1%2Fg
 [/us/usc/t16/s460mmm]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460mmm

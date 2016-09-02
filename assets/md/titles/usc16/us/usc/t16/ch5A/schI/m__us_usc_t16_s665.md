@@ -17,7 +17,7 @@
 
     The Secretary of the Interior, through the Fish and Wildlife Service and the United States Bureau of Mines, is authorized to make such investigations as he deems necessary to determine the effects of domestic sewage, mine, petroleum, and industrial wastes, erosion silt, and other polluting substances on wildlife, and to make reports to the Congress concerning such investigations and of recommendations for alleviating dangerous and undesirable effects of such pollution. These investigations shall include (1) the determination of standards of water quality for the maintenance of wildlife; (2) the study of methods of abating and preventing pollution, including methods for the recovery of useful or marketable products and byproducts of wastes; and (3) the collation and distribution of data on the progress and results of such investigations for the use of Federal, State, municipal, and private agencies, individuals, organizations, or enterprises.
 
-([Mar. 10, 1934, ch. 55, § 5][/us/act/1934-03-10/ch55/s5], [48 Stat. 402][/us/stat/48/402]; 1940 Reorg. Plan No. III, § 3, eff. June 30, 1940, 5 F.R. 2108, [54 Stat. 1232][/us/stat/54/1232]; [Aug. 14, 1946, ch. 965][/us/act/1946-08-14/ch965], [60 Stat. 1080][/us/stat/60/1080]; [Pub. L. 102–285, § 10(b)][/us/pl/102/285/s10/b], May 18, 1992, [106 Stat. 172][/us/stat/106/172].)
+([Mar. 10, 1934, ch. 55][/us/act/1934-03-10/ch55], § 5, [48 Stat. 402][/us/stat/48/402]; 1940 Reorg. Plan No. III, § 3, eff. June 30, 1940, 5 F.R. 2108, [54 Stat. 1232][/us/stat/54/1232]; [Aug. 14, 1946, ch. 965][/us/act/1946-08-14/ch965], [60 Stat. 1080][/us/stat/60/1080]; [Pub. L. 102–285][/us/pl/102/285], § 10(b), May 18, 1992, [106 Stat. 172][/us/stat/106/172].)
 
  __Amendments__ 
 
@@ -38,12 +38,12 @@
 ----------
 ----------
 
-[/us/act/1934-03-10/ch55/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-10%2Fch55%2Fs5
+[/us/act/1934-03-10/ch55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-10%2Fch55
 [/us/stat/48/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F402
 [/us/stat/54/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1232
 [/us/act/1946-08-14/ch965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch965
 [/us/stat/60/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1080
-[/us/pl/102/285/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285%2Fs10%2Fb
+[/us/pl/102/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285
 [/us/stat/106/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F172
 [/us/pl/102/285/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285%2Fs10%2Fb
 [/us/usc/t30/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1

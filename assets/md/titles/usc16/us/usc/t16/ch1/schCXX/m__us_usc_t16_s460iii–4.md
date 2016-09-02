@@ -29,7 +29,7 @@
 
         The Secretary shall, within 4 years after August 4, 1993, study, identify, and initiate voluntary land exchanges which would resolve ownership related land use conflicts within the conservation area.
 
-([Pub. L. 103–64, § 5][/us/pl/103/64/s5], Aug. 4, 1993, [107 Stat. 308][/us/stat/107/308]; [Pub. L. 113–287, § 5(d)(4)][/us/pl/113/287/s5/d/4], Dec. 19, 2014, [128 Stat. 3264][/us/stat/128/3264].)
+([Pub. L. 103–64][/us/pl/103/64], § 5, Aug. 4, 1993, [107 Stat. 308][/us/stat/107/308]; [Pub. L. 113–287][/us/pl/113/287], § 5(d)(4), Dec. 19, 2014, [128 Stat. 3264][/us/stat/128/3264].)
 
  __Amendments__ 
 
@@ -45,9 +45,9 @@
 [/us/usc/t43/s1748/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1748%2Fd
 [/us/usc/t54/s200306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs200306%2Fa
 [/us/usc/t16/s1534/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1534%2Fb
-[/us/pl/103/64/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F64%2Fs5
+[/us/pl/103/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F64
 [/us/stat/107/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F308
-[/us/pl/113/287/s5/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F4
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3264
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t54/s200306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs200306%2Fa

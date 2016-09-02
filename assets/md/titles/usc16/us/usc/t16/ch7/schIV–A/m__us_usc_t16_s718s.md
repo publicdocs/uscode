@@ -37,7 +37,7 @@
 
         An electronic stamp issued by a State shall be valid for a period agreed to by the State and the Secretary, which shall not exceed 45 days.
 
-([Pub. L. 113–239, § 6][/us/pl/113/239/s6], Dec. 18, 2014, [128 Stat. 2849][/us/stat/128/2849].)
+([Pub. L. 113–239][/us/pl/113/239], § 6, Dec. 18, 2014, [128 Stat. 2849][/us/stat/128/2849].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/113/239/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F239%2Fs6
+[/us/pl/113/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F239
 [/us/stat/128/2849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2849
 
 

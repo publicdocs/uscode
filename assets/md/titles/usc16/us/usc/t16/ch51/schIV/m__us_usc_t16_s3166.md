@@ -73,7 +73,7 @@
 
         (6) After an application for a transportation or utility system has been approved under subsection (a), the appropriate Federal agencies shall issue appropriate authorizations in accordance with applicable law. In any case in which an application for a transportation or utility system has been approved pursuant to subsection (b), the appropriate Federal agencies shall issue appropriate authorizations in accordance with title V of the Federal Lands Policy Management Act \[[43 U.S.C. 1761][/us/usc/t43/s1761] et seq.\] or other applicable law. After issuance pursuant to this subsection, the appropriate land managing agency shall administer the right-of-way in accordance with relevant management authorities of the land managing agency and title V of the Federal Lands Policy Management Act.
 
-([Pub. L. 96–487, title XI, § 1106][/us/pl/96/487/s1106], Dec. 2, 1980, [94 Stat. 2461][/us/stat/94/2461].)
+([Pub. L. 96–487, title XI][/us/pl/96/487/tXI], § 1106, Dec. 2, 1980, [94 Stat. 2461][/us/stat/94/2461].)
 
  __References in Text__ 
 
@@ -96,7 +96,7 @@
 [/us/usc/t16/s3164/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3164%2Fe
 [/us/usc/t15/s719f/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719f%2Fd
 [/us/usc/t43/s1761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1761
-[/us/pl/96/487/s1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1106
+[/us/pl/96/487/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXI
 [/us/stat/94/2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2461
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371

@@ -111,7 +111,7 @@
 
             This subsection shall not apply to any land offered to the Secretary for acquisition after March 31, 2001.
 
-([Pub. L. 99–663, § 8][/us/pl/99/663/s8], Nov. 17, 1986, [100 Stat. 4283][/us/stat/100/4283]; [Pub. L. 106–291, title III, § 346(b)][/us/pl/106/291/s346/b], Oct. 11, 2000, [114 Stat. 999][/us/stat/114/999].)
+([Pub. L. 99–663][/us/pl/99/663], § 8, Nov. 17, 1986, [100 Stat. 4283][/us/stat/100/4283]; [Pub. L. 106–291, title III][/us/pl/106/291/tIII], § 346(b), Oct. 11, 2000, [114 Stat. 999][/us/stat/114/999].)
 
  __Amendments__ 
 
@@ -119,7 +119,7 @@
 
  __Administration, Operation, and Maintenance of Pierce National Wildlife Refuge and Little White Salmon National Fish Hatchery__ 
 
-[Pub. L. 100–71, title I][/us/pl/100/71], July 11, 1987, [101 Stat. 418][/us/stat/101/418], provided in part that: 
+[Pub. L. 100–71, title I][/us/pl/100/71/tI], July 11, 1987, [101 Stat. 418][/us/stat/101/418], provided in part that: 
 
 > “Notwithstanding the provisions of [Public Law 99–663][/us/pl/99/663] \[enacting sections 544 to 544p of this title and amending sections 1274 and 1276 of this title\], which established the Columbia River Gorge National Scenic Area, the Pierce National Wildlife Refuge and the Little White Salmon National Fish Hatchery shall continue to be administered, operated and maintained in accordance with the provisions of the National Wildlife Refuge System Administration Act \[[16 U.S.C. 668dd][/us/usc/t16/s668dd], 668ee\], Fish and Wildlife Coordination Act \[[16 U.S.C. 661][/us/usc/t16/s661] et seq.\], and Fish and Wildlife Act of 1956 \[[16 U.S.C. 742a][/us/usc/t16/s742a] et seq.\] by the U.S. Fish and Wildlife Service.”
 
@@ -137,13 +137,13 @@
 [/us/usc/t16/s544n/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs544n%2Fc
 [/us/usc/t16/s544g/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs544g%2Fe
 [/us/usc/t16/s544e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs544e
-[/us/pl/99/663/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663%2Fs8
+[/us/pl/99/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663
 [/us/stat/100/4283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4283
-[/us/pl/106/291/s346/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2Fs346%2Fb
+[/us/pl/106/291/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2FtIII
 [/us/stat/114/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F999
 [/us/pl/106/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291
 [/us/usc/t16/s544g/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs544g%2Fe
-[/us/pl/100/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71
+[/us/pl/100/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71%2FtI
 [/us/stat/101/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F418
 [/us/pl/99/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663
 [/us/usc/t16/s668dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd

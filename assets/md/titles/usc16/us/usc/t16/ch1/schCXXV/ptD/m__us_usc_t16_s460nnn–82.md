@@ -29,7 +29,7 @@
 
         (3) a combination of a conveyance under paragraph (1) and a monetary payment under paragraph (2).
 
-([Pub. L. 106–399, title IV, § 402][/us/pl/106/399/s402], Oct. 30, 2000, [114 Stat. 1669][/us/stat/114/1669].)
+([Pub. L. 106–399, title IV][/us/pl/106/399/tIV], § 402, Oct. 30, 2000, [114 Stat. 1669][/us/stat/114/1669].)
 
 ----------
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t16/s460nnn–81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460nnn%E2%80%9381
-[/us/pl/106/399/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2Fs402
+[/us/pl/106/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2FtIV
 [/us/stat/114/1669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1669
 
 

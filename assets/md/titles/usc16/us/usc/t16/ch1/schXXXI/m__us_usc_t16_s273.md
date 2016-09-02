@@ -23,7 +23,7 @@
 
         The Capitol Reef National Monument is hereby abolished, and any funds available for purposes of the monument shall be available for purposes of the park. Federal lands, waters, and interests therein excluded from the monument by this subchapter shall be administered by the Secretary of the Interior (hereinafter referred to as the “Secretary”) in accordance with the laws applicable to the public lands of the United States.
 
-([Pub. L. 92–207, § 1][/us/pl/92/207/s1], Dec. 18, 1971, [85 Stat. 739][/us/stat/85/739].)
+([Pub. L. 92–207][/us/pl/92/207], § 1, Dec. 18, 1971, [85 Stat. 739][/us/stat/85/739].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/92/207/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F207%2Fs1
+[/us/pl/92/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F207
 [/us/stat/85/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F739
 
 

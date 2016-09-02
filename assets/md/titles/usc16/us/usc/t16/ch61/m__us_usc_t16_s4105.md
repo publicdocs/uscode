@@ -27,7 +27,7 @@
 
         If a State disposes of any real or personal property acquired under this chapter, the State shall pay into the Treasury of the United States the amount of any proceeds resulting from the property disposed to the extent of and in the same ratio that funds provided under this chapter were used in the acquisition of the property. In no case shall the amount paid into the Treasury of the United States under this section exceed the amount of funds provided by this chapter for the acquisition of the property involved.
 
-([Pub. L. 99–659, title III, § 306][/us/pl/99/659/s306], Nov. 14, 1986, [100 Stat. 3735][/us/stat/100/3735].)
+([Pub. L. 99–659, title III][/us/pl/99/659/tIII], § 306, Nov. 14, 1986, [100 Stat. 3735][/us/stat/100/3735].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/99/659/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs306
+[/us/pl/99/659/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtIII
 [/us/stat/100/3735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3735
 [/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
 [/us/stat/100/3731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3731

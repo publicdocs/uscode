@@ -97,7 +97,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs469" data-uslm-ref="/us/usc/t16/s469">469</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs469l" data-uslm-ref="/us/usc/t16/s469l">469l.</a>  </td>
 
     <td> Omitted or Transferred.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs469" data-uslm-ref="/us/usc/t16/s469">469</a>l–1 to 469l–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs469l" data-uslm-ref="/us/usc/t16/s469l">469l</a>–1 to 469l–3.  </td>
 
     <td> Repealed.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs469" data-uslm-ref="/us/usc/t16/s469">469</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs469o" data-uslm-ref="/us/usc/t16/s469o">469o.</a>  </td>
 
     <td> Repealed.  </td>
 

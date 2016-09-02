@@ -61,7 +61,7 @@
 
         In addition to the authority provided elsewhere in this chapter, the Secretary may provide assistance to other countries with respect to the activities described in paragraphs (1) through (10) of [section 2102(b) of this title][/us/usc/t16/s2102/b], paragraphs (1) through (5) of section 2104(b)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, and paragraphs (1) through (3) of [section 2105(b) of this title][/us/usc/t16/s2105/b]. For the purposes of providing assistance to other countries under this subsection, the term “non-Federal forest land” shall mean any forest land and related renewable natural resources in such countries. In providing the assistance authorized under this subsection, the Secretary shall coordinate with other Federal officials, departments, agencies, or international organizations, as the President may direct. The references to “State foresters or equivalent State officials” in this chapter shall not apply to the assistance provided by the Secretary to other countries under this subsection.
 
-([Pub. L. 95–313, § 13][/us/pl/95/313/s13], formerly § 10, July 1, 1978, [92 Stat. 373][/us/stat/92/373]; [Pub. L. 101–513, title VI, § 611(b)(3)][/us/pl/101/513/s611/b/3], formerly § 607(b)(3), Nov. 5, 1990, [104 Stat. 2072][/us/stat/104/2072], renumbered § 611(b)(3), [Pub. L. 102–574, § 2(a)(1)][/us/pl/102/574/s2/a/1], Oct. 29, 1992, [106 Stat. 4593][/us/stat/106/4593]; renumbered § 13 and amended [Pub. L. 101–624, title XII][/us/pl/101/624], §§ 1215(1), 1224(3), Nov. 28, 1990, [104 Stat. 3525][/us/stat/104/3525], 3542; [Pub. L. 110–234, title VIII, § 8004][/us/pl/110/234/s8004], May 22, 2008, [122 Stat. 1284][/us/stat/122/1284]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VIII, § 8004, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2045.)
+([Pub. L. 95–313][/us/pl/95/313], § 13, formerly § 10, July 1, 1978, [92 Stat. 373][/us/stat/92/373]; [Pub. L. 101–513, title VI][/us/pl/101/513/tVI], § 611(b)(3), formerly § 607(b)(3), Nov. 5, 1990, [104 Stat. 2072][/us/stat/104/2072], renumbered § 611(b)(3), [Pub. L. 102–574][/us/pl/102/574], § 2(a)(1), Oct. 29, 1992, [106 Stat. 4593][/us/stat/106/4593]; renumbered § 13 and amended [Pub. L. 101–624, title XII][/us/pl/101/624/tXII], §§ 1215(1), 1224(3), Nov. 28, 1990, [104 Stat. 3525][/us/stat/104/3525], 3542; [Pub. L. 110–234, title VIII][/us/pl/110/234/tVIII], § 8004, May 22, 2008, [122 Stat. 1284][/us/stat/122/1284]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VIII, § 8004, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2045.)
 
  __References in Text__ 
 
@@ -77,9 +77,9 @@
 
  __Amendments__ 
 
-    2008—Subsec. (d)(1). [Pub. L. 110–246, § 8004][/us/pl/110/246/s8004], substituted “the Federated States of Micronesia, the Republic of the Marshall Islands, the Republic of Palau,” for “the Trust Territory of the Pacific Islands,”.
+    2008—Subsec. (d)(1). [Pub. L. 110–246][/us/pl/110/246], § 8004, substituted “the Federated States of Micronesia, the Republic of the Marshall Islands, the Republic of Palau,” for “the Trust Territory of the Pacific Islands,”.
 
-    1990—Subsec. (g). [Pub. L. 101–624, § 1224(3)][/us/pl/101/624/s1224/3], made technical amendment to reference to [section 2111 of this title][/us/usc/t16/s2111] to reflect renumbering of corresponding section of original act.
+    1990—Subsec. (g). [Pub. L. 101–624][/us/pl/101/624], § 1224(3), made technical amendment to reference to [section 2111 of this title][/us/usc/t16/s2111] to reflect renumbering of corresponding section of original act.
 
     Subsec. (h). [Pub. L. 101–513][/us/pl/101/513], which directed amendment of [section 12 of Pub. L. 95–313][/us/pl/95/313/s12] by adding a new subsec. (h), was executed to this section to reflect the probable intent of Congress.
 
@@ -97,17 +97,17 @@
 [/us/usc/t16/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2111
 [/us/usc/t16/s2102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2102%2Fb
 [/us/usc/t16/s2105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2105%2Fb
-[/us/pl/95/313/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313%2Fs13
+[/us/pl/95/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313
 [/us/stat/92/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F373
-[/us/pl/101/513/s611/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs611%2Fb%2F3
+[/us/pl/101/513/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtVI
 [/us/stat/104/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2072
-[/us/pl/102/574/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F574%2Fs2%2Fa%2F1
+[/us/pl/102/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F574
 [/us/stat/106/4593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4593
-[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXII
 [/us/stat/104/3525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3525
-[/us/pl/110/234/s8004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs8004
+[/us/pl/110/234/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVIII
 [/us/stat/122/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1284
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t16/s2104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2104%2Fb
 [/us/pl/95/313/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313%2Fs7%2Fb
@@ -120,8 +120,8 @@
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/95/313/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313%2Fs13
 [/us/usc/t16/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2111
-[/us/pl/110/246/s8004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs8004
-[/us/pl/101/624/s1224/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1224%2F3
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/usc/t16/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2111
 [/us/pl/101/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513
 [/us/pl/95/313/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313%2Fs12

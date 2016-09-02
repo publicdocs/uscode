@@ -27,7 +27,7 @@
 
         Each Federal land manager shall establish a program to increase public awareness of the significance of the archaeological resources located on public lands and Indian lands and the need to protect such resources.
 
-([Pub. L. 96–95, § 10][/us/pl/96/95/s10], Oct. 31, 1979, [93 Stat. 727][/us/stat/93/727]; [Pub. L. 100–588, § 1(d)][/us/pl/100/588/s1/d], Nov. 3, 1988, [102 Stat. 2983][/us/stat/102/2983]; [Pub. L. 103–437, § 6(d)(30)][/us/pl/103/437/s6/d/30], Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584]; [Pub. L. 104–333, div. I, title VIII, § 814(d)(2)(A)][/us/pl/104/333/s814/d/2/A], Nov. 12, 1996, [110 Stat. 4196][/us/stat/110/4196].)
+([Pub. L. 96–95][/us/pl/96/95], § 10, Oct. 31, 1979, [93 Stat. 727][/us/stat/93/727]; [Pub. L. 100–588][/us/pl/100/588], § 1(d), Nov. 3, 1988, [102 Stat. 2983][/us/stat/102/2983]; [Pub. L. 103–437][/us/pl/103/437], § 6(d)(30), Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584]; [Pub. L. 104–333, div. I, title VIII][/us/pl/104/333/dI/tVIII], § 814(d)(2)(A), Nov. 12, 1996, [110 Stat. 4196][/us/stat/110/4196].)
 
  __References in Text__ 
 
@@ -50,13 +50,13 @@
 
 [/us/stat/92/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F469
 [/us/usc/t42/s1996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1996
-[/us/pl/96/95/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95%2Fs10
+[/us/pl/96/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95
 [/us/stat/93/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F727
-[/us/pl/100/588/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F588%2Fs1%2Fd
+[/us/pl/100/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F588
 [/us/stat/102/2983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2983
-[/us/pl/103/437/s6/d/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fd%2F30
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4584
-[/us/pl/104/333/s814/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs814%2Fd%2F2%2FA
+[/us/pl/104/333/dI/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtVIII
 [/us/stat/110/4196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4196
 [/us/pl/95/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F341
 [/us/stat/92/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F469

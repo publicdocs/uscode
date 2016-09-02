@@ -17,7 +17,7 @@
 
     The Secretary may accept, without regard to the civil service classification laws, rules and regulations, any director, officer, employee or agent of the Foundation as a volunteer for purposes of the Volunteers in the National Forests Act of 1972 ([16 U.S.C. 558a][/us/usc/t16/s558a] through 558d; [86 Stat. 147][/us/stat/86/147]).
 
-([Pub. L. 101–593, title IV, § 406][/us/pl/101/593/s406], Nov. 16, 1990, [104 Stat. 2973][/us/stat/104/2973].)
+([Pub. L. 101–593, title IV][/us/pl/101/593/tIV], § 406, Nov. 16, 1990, [104 Stat. 2973][/us/stat/104/2973].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t16/s558a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs558a
 [/us/stat/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F147
-[/us/pl/101/593/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2Fs406
+[/us/pl/101/593/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2FtIV
 [/us/stat/104/2973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2973
 [/us/pl/92/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F300
 [/us/stat/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F147

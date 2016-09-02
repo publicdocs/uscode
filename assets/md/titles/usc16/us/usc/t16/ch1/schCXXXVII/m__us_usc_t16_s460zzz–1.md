@@ -77,7 +77,7 @@
 
                     This subparagraph shall not apply to the Wilderness.
 
-([Pub. L. 111–11, title II, § 2402][/us/pl/111/11/s2402], Mar. 30, 2009, [123 Stat. 1102][/us/stat/123/1102].)
+([Pub. L. 111–11, title II][/us/pl/111/11/tII], § 2402, Mar. 30, 2009, [123 Stat. 1102][/us/stat/123/1102].)
 
  __References in Text__ 
 
@@ -91,7 +91,7 @@
 ----------
 
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
-[/us/pl/111/11/s2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs2402
+[/us/pl/111/11/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtII
 [/us/stat/123/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1102
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
 [/us/stat/90/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2743

@@ -17,7 +17,7 @@
 
     Unless and until acquired by the United States, no lands within the boundaries of wilderness areas or National Park System units designated or enlarged by this Act that are owned by any person or entity other than the United States shall be subject to any of the rules or regulations applicable solely to the Federal lands within such boundaries and may be used to the extent allowed by applicable law. Neither the location of such lands within such boundaries nor the possible acquisition of such lands by the United States shall constitute a bar to the otherwise lawful issuance of any Federal license or permit other than a license or permit related to activities governed by [section 100903 of title 54][/us/usc/t54/s100903]. Nothing in this section shall be construed as affecting the applicability of any provision of [section 1865(b) of title 18][/us/usc/t18/s1865/b], subchapter III of chapter 1007 of title 54, the Clean Air Act ([42 U.S.C. 7401][/us/usc/t42/s7401] et seq.), or regulations applicable to oil and gas development as set forth in 36 CFR 9B.
 
-([Pub. L. 103–433, title V, § 519][/us/pl/103/433/s519], Oct. 31, 1994, [108 Stat. 4495][/us/stat/108/4495].)
+([Pub. L. 103–433, title V][/us/pl/103/433/tV], § 519, Oct. 31, 1994, [108 Stat. 4495][/us/stat/108/4495].)
 
  __References in Text__ 
 
@@ -27,7 +27,7 @@
 
  __Codification__ 
 
-    In text, “[section 100903 of title 54][/us/usc/t54/s100903]” substituted for “[16 U.S.C. 460][/us/usc/t16/s460]l–22(c)” and “[section 1865(b) of title 18][/us/usc/t18/s1865/b], subchapter III of chapter 1007 of title 54” substituted for “the Mining in the Parks Act ([16 U.S.C. 1901][/us/usc/t16/s1901] et seq.)” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In text, “[section 100903 of title 54][/us/usc/t54/s100903]” substituted for “[16 U.S.C. 460][/us/usc/t16/s460]l–22(c)” and “[section 1865(b) of title 18][/us/usc/t18/s1865/b], subchapter III of chapter 1007 of title 54” substituted for “the Mining in the Parks Act ([16 U.S.C. 1901][/us/usc/t16/s1901] et seq.)” on authority of [Pub. L. 113–287][/us/pl/113/287], § 6(e), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
 ----------
 
@@ -39,7 +39,7 @@
 [/us/usc/t54/s100903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100903
 [/us/usc/t18/s1865/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1865%2Fb
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/103/433/s519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs519
+[/us/pl/103/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtV
 [/us/stat/108/4495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4495
 [/us/usc/t16/s410aaa–81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410aaa%E2%80%9381
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
@@ -49,7 +49,7 @@
 [/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
 [/us/usc/t18/s1865/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1865%2Fb
 [/us/usc/t16/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1901
-[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 
 

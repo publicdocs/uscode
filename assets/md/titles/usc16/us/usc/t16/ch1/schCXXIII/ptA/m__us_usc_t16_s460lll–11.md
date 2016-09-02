@@ -59,7 +59,7 @@
 
             Subject to the jurisdiction of the Tennessee Valley Authority and the Army Corps of Engineers, the Secretary shall have jurisdiction to regulate the occupancy and use of the surface waters of the lakes for recreational purposes.
 
-([Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title V, § 511\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–312.)
+([Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title V, § 511\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–312.)
 
 ----------
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 
 

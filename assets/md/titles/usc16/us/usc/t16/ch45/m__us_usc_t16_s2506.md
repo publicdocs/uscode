@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t16/ch45/m__us_usc_t16_s2505.md) | [Next](./../../../..//us/usc/t16/ch45/m__us_usc_t16_s2507.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2506)
 
-## § 2506. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
+## § 2506. Repealed. [Pub. L. 113–287][/us/pl/113/287], § 7, Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [Pub. L. 95–625, title X, § 1007][/us/pl/95/625/s1007], Nov. 10, 1978, [92 Stat. 3541][/us/stat/92/3541]; [Pub. L. 103–322, title III, § 31504][/us/pl/103/322/s31504], Sept. 13, 1994, [108 Stat. 1889][/us/stat/108/1889], related to local commitments to system recovery and maintenance. See [section 200504 of Title 54][/us/usc/t54/s200504], National Park Service and Related Programs.
+    Section, [Pub. L. 95–625, title X][/us/pl/95/625/tX], § 1007, Nov. 10, 1978, [92 Stat. 3541][/us/stat/92/3541]; [Pub. L. 103–322, title III][/us/pl/103/322/tIII], § 31504, Sept. 13, 1994, [108 Stat. 1889][/us/stat/108/1889], related to local commitments to system recovery and maintenance. See [section 200504 of Title 54][/us/usc/t54/s200504], National Park Service and Related Programs.
 
 ----------
 
@@ -24,11 +24,11 @@
 ----------
 ----------
 
-[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
-[/us/pl/95/625/s1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs1007
+[/us/pl/95/625/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtX
 [/us/stat/92/3541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3541
-[/us/pl/103/322/s31504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs31504
+[/us/pl/103/322/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtIII
 [/us/stat/108/1889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1889
 [/us/usc/t54/s200504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs200504
 

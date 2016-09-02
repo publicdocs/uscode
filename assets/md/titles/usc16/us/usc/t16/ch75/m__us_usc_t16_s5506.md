@@ -57,7 +57,7 @@
 
         Any person assessed a civil penalty for, or convicted of, any violation of this chapter shall be liable for the cost incurred in storage, care, and maintenance of any living marine resource or other property seized in connection with the violation.
 
-([Pub. L. 104–43, title I, § 107][/us/pl/104/43/s107], Nov. 3, 1995, [109 Stat. 372][/us/stat/109/372].)
+([Pub. L. 104–43, title I][/us/pl/104/43/tI], § 107, Nov. 3, 1995, [109 Stat. 372][/us/stat/109/372].)
 
  __References in Text__ 
 
@@ -76,7 +76,7 @@
 
 [/us/usc/t16/s5505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5505
 [/us/usc/t16/s5505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5505
-[/us/pl/104/43/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs107
+[/us/pl/104/43/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtI
 [/us/stat/109/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F372
 [/us/pl/104/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

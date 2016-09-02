@@ -41,7 +41,7 @@
 
         Notwithstanding any other provision of law, the Secretary shall only be required to prepare an environmental assessment of any exchange of mineral or geothermal interest authorized by sections 543 to 543h of this title.
 
-([Pub. L. 98–425, title III, § 303][/us/pl/98/425/s303], Sept. 28, 1984, [98 Stat. 1633][/us/stat/98/1633].)
+([Pub. L. 98–425, title III][/us/pl/98/425/tIII], § 303, Sept. 28, 1984, [98 Stat. 1633][/us/stat/98/1633].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/98/425/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F425%2Fs303
+[/us/pl/98/425/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F425%2FtIII
 [/us/stat/98/1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1633
 
 

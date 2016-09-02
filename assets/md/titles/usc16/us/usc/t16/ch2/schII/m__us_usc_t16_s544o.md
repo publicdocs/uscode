@@ -61,7 +61,7 @@
 
         (2) Except as provided in paragraph (1) of this subsection, nothing in sections 544 to 544p of this title shall expand, restrict, or otherwise alter the duties of the Secretary under the National Environmental Policy Act.
 
-([Pub. L. 99–663, § 17][/us/pl/99/663/s17], Nov. 17, 1986, [100 Stat. 4300][/us/stat/100/4300].)
+([Pub. L. 99–663][/us/pl/99/663], § 17, Nov. 17, 1986, [100 Stat. 4300][/us/stat/100/4300].)
 
  __References in Text__ 
 
@@ -88,7 +88,7 @@
 [/us/usc/t16/s544h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs544h
 [/us/usc/t42/s4332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/99/663/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663%2Fs17
+[/us/pl/99/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663
 [/us/stat/100/4300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4300
 [/us/pl/99/663/s13/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663%2Fs13%2Fc
 [/us/stat/100/4294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4294

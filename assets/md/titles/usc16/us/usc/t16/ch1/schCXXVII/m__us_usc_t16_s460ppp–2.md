@@ -27,7 +27,7 @@
 
         As soon as practicable after December 21, 2000, the Secretary shall submit to Congress a map and legal description of the conservation area. The map and legal description shall have the same force and effect as if included in this subchapter, except the Secretary may correct clerical and typographical errors in such map and legal description. Copies of the map and legal description shall be on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
 
-([Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 125 \[§ 4\]\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–229, 2763A–354; [Pub. L. 107–63, title I, § 135(a)][/us/pl/107/63/s135/a], Nov. 5, 2001, [115 Stat. 443][/us/stat/115/443].)
+([Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 125 \[§ 4\]\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–229, 2763A–354; [Pub. L. 107–63, title I][/us/pl/107/63/tI], § 135(a), Nov. 5, 2001, [115 Stat. 443][/us/stat/115/443].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/63/s135/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63%2Fs135%2Fa
+[/us/pl/107/63/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63%2FtI
 [/us/stat/115/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F443
 [/us/pl/107/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63
 

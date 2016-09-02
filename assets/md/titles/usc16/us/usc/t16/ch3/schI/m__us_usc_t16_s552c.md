@@ -17,7 +17,7 @@
 
     Whenever national-forest lands are withdrawn under sections 552a to 552d of this title, and the municipality concerned objects to the utilization of the timber or other resources of lands withdrawn, and the Secretary of Agriculture agrees to withhold such resources from utilization, said municipality shall pay to the Forest Service annually an amount which the Secretary of Agriculture shall determine is necessary to reimburse the United States for the loss of net annual revenues which would be derived from the resources so withheld from disposition.
 
-([May 28, 1940, ch. 220, § 3][/us/act/1940-05-28/ch220/s3], [54 Stat. 225][/us/stat/54/225].)
+([May 28, 1940, ch. 220][/us/act/1940-05-28/ch220], § 3, [54 Stat. 225][/us/stat/54/225].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1940-05-28/ch220/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-05-28%2Fch220%2Fs3
+[/us/act/1940-05-28/ch220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-05-28%2Fch220
 [/us/stat/54/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F225
 
 

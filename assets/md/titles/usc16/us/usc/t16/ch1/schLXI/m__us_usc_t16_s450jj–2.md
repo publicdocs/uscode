@@ -17,7 +17,7 @@
 
     The memorial project authorized herein shall not be undertaken until there shall have been reached an agreement satisfactory to the Secretary of the Interior providing for the relocation of the railroad tracks and structures now situated on lands adjacent to the Jefferson National Expansion Memorial National Historic Site, between the boundary of the site and the river. Such agreement shall contain such terms as may be deemed desirable by the Secretary but shall contain a provision limiting the Federal expenditure of funds in connection with such relocation of the tracks and structures to work undertaken within the historic site area.
 
-([May 17, 1954, ch. 204, § 3][/us/act/1954-05-17/ch204/s3], [68 Stat. 99][/us/stat/68/99].)
+([May 17, 1954, ch. 204][/us/act/1954-05-17/ch204], § 3, [68 Stat. 99][/us/stat/68/99].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1954-05-17/ch204/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-17%2Fch204%2Fs3
+[/us/act/1954-05-17/ch204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-17%2Fch204
 [/us/stat/68/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F99
 
 

@@ -17,7 +17,7 @@
 
     Any person found guilty of violating any of the provisions of this subchapter shall be deemed guilty of a misdemeanor, and shall be subjected to a fine of not more than $500 or imprisonment not exceeding six months, or both, and be adjudged to pay all costs of the proceedings.
 
-([Feb. 26, 1917, ch. 121, § 8][/us/act/1917-02-26/ch121/s8], [39 Stat. 939][/us/stat/39/939].)
+([Feb. 26, 1917, ch. 121][/us/act/1917-02-26/ch121], § 8, [39 Stat. 939][/us/stat/39/939].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1917-02-26/ch121/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-02-26%2Fch121%2Fs8
+[/us/act/1917-02-26/ch121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-02-26%2Fch121
 [/us/stat/39/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F939
 
 

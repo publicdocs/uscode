@@ -35,7 +35,7 @@
 
         The assessment of a civil penalty under subsection (a) for any act shall not be deemed to preclude the assessment of a civil penalty for such act under any other law.
 
-([Pub. L. 98–623, title III, § 308][/us/pl/98/623/s308], Nov. 8, 1984, [98 Stat. 3401][/us/stat/98/3401]; [Pub. L. 114–81, title I, § 101(a)(2)][/us/pl/114/81/s101/a/2], Nov. 5, 2015, [129 Stat. 653][/us/stat/129/653].)
+([Pub. L. 98–623, title III][/us/pl/98/623/tIII], § 308, Nov. 8, 1984, [98 Stat. 3401][/us/stat/98/3401]; [Pub. L. 114–81, title I][/us/pl/114/81/tI], § 101(a)(2), Nov. 5, 2015, [129 Stat. 653][/us/stat/129/653].)
 
  __Amendments__ 
 
@@ -53,9 +53,9 @@
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t5/s706/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs706%2F2%2FE
-[/us/pl/98/623/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs308
+[/us/pl/98/623/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtIII
 [/us/stat/98/3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3401
-[/us/pl/114/81/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs101%2Fa%2F2
+[/us/pl/114/81/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2FtI
 [/us/stat/129/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F653
 [/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
 

@@ -165,15 +165,15 @@
 
             No money authorized to be appropriated under [section 460ss–5 of this title][/us/usc/t16/s460ss–5] may be used to reimburse any agency or governmental unit (whose employees are Council members) for time spent by any such employee performing Council duties.
 
-([Pub. L. 99–552, § 3][/us/pl/99/552/s3], Oct. 27, 1986, [100 Stat. 3082][/us/stat/100/3082]; [Pub. L. 100–653, title VI][/us/pl/100/653], §§ 602(a), 603(1), (2), Nov. 14, 1988, [102 Stat. 3830][/us/stat/102/3830].)
+([Pub. L. 99–552][/us/pl/99/552], § 3, Oct. 27, 1986, [100 Stat. 3082][/us/stat/100/3082]; [Pub. L. 100–653, title VI][/us/pl/100/653/tVI], §§ 602(a), 603(1), (2), Nov. 14, 1988, [102 Stat. 3830][/us/stat/102/3830].)
 
  __Amendments__ 
 
-    1988—Subsec. (g)(1). [Pub. L. 100–653, § 602(a)][/us/pl/100/653/s602/a], substituted “Procedures” for “Decisions of Council” as par. heading and amended text generally. Prior to amendment, text read as follows: “All decisions of the Council must be by unanimous vote of all of the members.”
+    1988—Subsec. (g)(1). [Pub. L. 100–653][/us/pl/100/653], § 602(a), substituted “Procedures” for “Decisions of Council” as par. heading and amended text generally. Prior to amendment, text read as follows: “All decisions of the Council must be by unanimous vote of all of the members.”
 
-    Subsec. (i). [Pub. L. 100–653, § 603(1)][/us/pl/100/653/s603/1], substituted “, the State of California, or the State of Oregon” for “or the State of California”.
+    Subsec. (i). [Pub. L. 100–653][/us/pl/100/653], § 603(1), substituted “, the State of California, or the State of Oregon” for “or the State of California”.
 
-    Subsec. (j)(1). [Pub. L. 100–653, § 603(2)][/us/pl/100/653/s603/2], inserted provision at end that any Council member who is employee of agency or governmental unit and is eligible for travel expenses from that agency or unit for performing services for Council not be eligible for travel expenses under this par.
+    Subsec. (j)(1). [Pub. L. 100–653][/us/pl/100/653], § 603(2), inserted provision at end that any Council member who is employee of agency or governmental unit and is eligible for travel expenses from that agency or unit for performing services for Council not be eligible for travel expenses under this par.
 
 ----------
 
@@ -184,12 +184,12 @@
 
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t16/s460ss–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460ss%E2%80%935
-[/us/pl/99/552/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F552%2Fs3
+[/us/pl/99/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F552
 [/us/stat/100/3082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3082
-[/us/pl/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653
+[/us/pl/100/653/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2FtVI
 [/us/stat/102/3830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3830
-[/us/pl/100/653/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2Fs602%2Fa
-[/us/pl/100/653/s603/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2Fs603%2F1
-[/us/pl/100/653/s603/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2Fs603%2F2
+[/us/pl/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653
+[/us/pl/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653
+[/us/pl/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653
 
 

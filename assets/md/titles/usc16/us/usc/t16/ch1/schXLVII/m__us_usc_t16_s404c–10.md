@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXLVII/m__us_usc_t16_s404c–4.md) | [Next](./../../../../..//us/usc/t16/ch1/schXLVII/m__us_usc_t16_s404c–11.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs404c%E2%80%9310)
+[Previous](./../../../../..//us/usc/t16/ch1/schXLVII/m__us_usc_t16_s404c–5...404c–9.md) | [Next](./../../../../..//us/usc/t16/ch1/schXLVII/m__us_usc_t16_s404c–11.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs404c%E2%80%9310)
 
 ## § 404c–10. Notice of assumption of police jurisdiction by United States; acceptance by Secretary of further cessions
 
     The Secretary of the Interior shall notify in writing the Governor of the Commonwealth of Kentucky of the passage and approval of this Act, and of the fact that the United States assumes police jurisdiction over the park. Upon the acceptance by the Secretary of the Interior of further cessions of jurisdiction over lands now or hereafter included in the Mammoth Cave National Park, the provisions of sections 2 to 9 inclusive, shall apply to such lands.
 
-([June 5, 1942, ch. 341, § 10][/us/act/1942-06-05/ch341/s10], [56 Stat. 319][/us/stat/56/319].)
+([June 5, 1942, ch. 341][/us/act/1942-06-05/ch341], § 10, [56 Stat. 319][/us/stat/56/319].)
 
  __References in Text__ 
 
@@ -27,12 +27,12 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXLVII/m__us_usc_t16_s404c–4.md) | [Next](./../../../../..//us/usc/t16/ch1/schXLVII/m__us_usc_t16_s404c–11.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs404c%E2%80%9310)
+[Previous](./../../../../..//us/usc/t16/ch1/schXLVII/m__us_usc_t16_s404c–5...404c–9.md) | [Next](./../../../../..//us/usc/t16/ch1/schXLVII/m__us_usc_t16_s404c–11.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs404c%E2%80%9310)
 
 ----------
 ----------
 
-[/us/act/1942-06-05/ch341/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-06-05%2Fch341%2Fs10
+[/us/act/1942-06-05/ch341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-06-05%2Fch341
 [/us/stat/56/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F319
 
 

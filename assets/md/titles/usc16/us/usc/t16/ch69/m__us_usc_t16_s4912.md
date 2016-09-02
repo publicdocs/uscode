@@ -49,7 +49,7 @@
 
         The authority of the Secretary under this chapter is in addition to and shall not affect the authority of the Secretary under the Endangered Species Act of 1973 ([16 U.S.C. 1531][/us/usc/t16/s1531] et seq.) or diminish the authority of the Secretary under the Lacey Act Amendments of 1981 ([16 U.S.C. 3371][/us/usc/t16/s3371] et seq.). Nothing in this chapter shall be construed as repealing, superseding, or modifying any provision of Federal law.
 
-([Pub. L. 102–440, title I, § 113][/us/pl/102/440/s113], Oct. 23, 1992, [106 Stat. 2231][/us/stat/106/2231].)
+([Pub. L. 102–440, title I][/us/pl/102/440/tI], § 113, Oct. 23, 1992, [106 Stat. 2231][/us/stat/106/2231].)
 
  __References in Text__ 
 
@@ -79,7 +79,7 @@
 [/us/usc/t16/s3372/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3372%2Fa
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/usc/t16/s3371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3371
-[/us/pl/102/440/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2Fs113
+[/us/pl/102/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2FtI
 [/us/stat/106/2231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2231
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F884

@@ -17,7 +17,7 @@
 
     The Secretary shall cooperate with the State of Oregon and political subdivisions thereof in the administration of the Area and in the administration and protection of lands within and adjacent to the Area owned or controlled by the State or political subdivisions thereof. Nothing in this subchapter shall deprive the State of Oregon or any political subdivision thereof of its right to exercise civil and criminal jurisdiction within the Area consistent with the provisions of this subchapter, or of its right to tax persons, corporations, franchises or other non-Federal property, in or on the lands or waters within the Area.
 
-([Pub. L. 93–535, § 9][/us/pl/93/535/s9], Dec. 22, 1974, [88 Stat. 1734][/us/stat/88/1734].)
+([Pub. L. 93–535][/us/pl/93/535], § 9, Dec. 22, 1974, [88 Stat. 1734][/us/stat/88/1734].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/535/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F535%2Fs9
+[/us/pl/93/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F535
 [/us/stat/88/1734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1734
 
 

@@ -19,7 +19,7 @@
 
     In the event of said abandonment, the Secretary of the Interior shall execute any suitable quitclaim deeds, or other writings entitled to record in the proper counties of North Carolina stating the fact of abandonment, whereupon title shall revert to those entitled thereto by law and no further conveyance or proof of reversion of title shall be required.
 
-([Aug. 17, 1937, ch. 687, § 4][/us/act/1937-08-17/ch687/s4], [50 Stat. 670][/us/stat/50/670]; [June 29, 1940, ch. 459, § 1][/us/act/1940-06-29/ch459/s1], [54 Stat. 702][/us/stat/54/702]; [Mar. 6, 1946, ch. 50][/us/act/1946-03-06/ch50], [60 Stat. 32][/us/stat/60/32].)
+([Aug. 17, 1937, ch. 687][/us/act/1937-08-17/ch687], § 4, [50 Stat. 670][/us/stat/50/670]; [June 29, 1940, ch. 459][/us/act/1940-06-29/ch459], § 1, [54 Stat. 702][/us/stat/54/702]; [Mar. 6, 1946, ch. 50][/us/act/1946-03-06/ch50], [60 Stat. 32][/us/stat/60/32].)
 
  __Amendments__ 
 
@@ -43,9 +43,9 @@
 [/us/usc/t16/s459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459
 [/us/usc/t16/s459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459
 [/us/usc/t16/s459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459
-[/us/act/1937-08-17/ch687/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-17%2Fch687%2Fs4
+[/us/act/1937-08-17/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-17%2Fch687
 [/us/stat/50/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F670
-[/us/act/1940-06-29/ch459/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-29%2Fch459%2Fs1
+[/us/act/1940-06-29/ch459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-29%2Fch459
 [/us/stat/54/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F702
 [/us/act/1946-03-06/ch50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-03-06%2Fch50
 [/us/stat/60/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F32

@@ -57,7 +57,7 @@
 
         The Director, the Secretary of the Treasury, the Secretary of Commerce, the Secretary of the Interior, and the Secretary of the department in which the Coast Guard is operating may prescribe such regulations as may be appropriate to enforce the provisions of this chapter and of any regulation prescribed or permit issued under this chapter, and charge reasonable fees for the expenses of the United States incurred in carrying out inspections and in transferring, boarding, handling, or storing native mammals, native birds, native plants, animals and plants not indigenous to Antarctica, and other evidentiary items seized or forfeited under this chapter.
 
-([Pub. L. 95–541, § 10][/us/pl/95/541/s10], Oct. 28, 1978, [92 Stat. 2055][/us/stat/92/2055].)
+([Pub. L. 95–541][/us/pl/95/541], § 10, Oct. 28, 1978, [92 Stat. 2055][/us/stat/92/2055].)
 
  __Transfer of Functions__ 
 
@@ -76,7 +76,7 @@
 [/us/usc/t16/s2403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2403%2Fa
 [/us/usc/t16/s2403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2403%2Fa
 [/us/usc/t16/s2403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2403%2Fa
-[/us/pl/95/541/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F541%2Fs10
+[/us/pl/95/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F541
 [/us/stat/92/2055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2055
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 88–587, § 9][/us/pl/88/587/s9], Sept. 11, 1964, [78 Stat. 932][/us/stat/78/932], which provided for the creation of a Fire Island National Seashore Advisory Commission, has been omitted as executed in view of a provision of subsec. (a) that the Commission terminate on Sept. 11, 1974, or on the declaration of the establishment of the Fire Island National Seashore, whichever occurs first.
+    Section, [Pub. L. 88–587][/us/pl/88/587], § 9, Sept. 11, 1964, [78 Stat. 932][/us/stat/78/932], which provided for the creation of a Fire Island National Seashore Advisory Commission, has been omitted as executed in view of a provision of subsec. (a) that the Commission terminate on Sept. 11, 1974, or on the declaration of the establishment of the Fire Island National Seashore, whichever occurs first.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/587/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F587%2Fs9
+[/us/pl/88/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F587
 [/us/stat/78/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F932
 
 

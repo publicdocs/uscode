@@ -33,7 +33,7 @@
 
         (3) to provide the Pueblo, the parties to the civil action, and the public with a fair and just settlement of the Pueblo’s claim.
 
-([Pub. L. 108–7, div. F, title IV, § 402][/us/pl/108/7/s402], Feb. 20, 2003, [117 Stat. 279][/us/stat/117/279].)
+([Pub. L. 108–7, div. F, title IV][/us/pl/108/7/dF/tIV], § 402, Feb. 20, 2003, [117 Stat. 279][/us/stat/117/279].)
 
  __References in Text__ 
 
@@ -41,19 +41,19 @@
 
  __Effective Date__ 
 
-[Pub. L. 108–7, div. F, title IV, § 415][/us/pl/108/7/s415], Feb. 20, 2003, [117 Stat. 294][/us/stat/117/294], provided that: 
+[Pub. L. 108–7, div. F, title IV][/us/pl/108/7/dF/tIV], § 415, Feb. 20, 2003, [117 Stat. 294][/us/stat/117/294], provided that: 
 
 > “The provisions of this title \[see Short Title note below\] shall take effect immediately on enactment of this Act \[Feb. 20, 2003\].”
 
  __Short Title of 2014 Amendment__ 
 
-[Pub. L. 113–119, § 1][/us/pl/113/119/s1], June 9, 2014, [128 Stat. 1185][/us/stat/128/1185], provided that: 
+[Pub. L. 113–119][/us/pl/113/119], § 1, June 9, 2014, [128 Stat. 1185][/us/stat/128/1185], provided that: 
 
 > “This Act \[amending [section 539m–11 of this title][/us/usc/t16/s539m–11]\] may be cited as the ‘Sandia Pueblo Settlement Technical Amendment Act’.”
 
  __Short Title__ 
 
-[Pub. L. 108–7, div. F, title IV, § 401][/us/pl/108/7/s401], Feb. 20, 2003, [117 Stat. 279][/us/stat/117/279], provided that: 
+[Pub. L. 108–7, div. F, title IV][/us/pl/108/7/dF/tIV], § 401, Feb. 20, 2003, [117 Stat. 279][/us/stat/117/279], provided that: 
 
 > “This title \[enacting this section and sections 539m–1 to 539m–12 of this title, amending [section 1746 of Title 43][/us/usc/t43/s1746], Public Lands, and enacting provisions set out as a note above\] may be cited as the ‘T’uf Shur Bien Preservation Trust Area Act’.”
 
@@ -65,16 +65,16 @@
 ----------
 
 [/us/stat/11/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F11%2F374
-[/us/pl/108/7/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs402
+[/us/pl/108/7/dF/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtIV
 [/us/stat/117/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F279
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/stat/117/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F279
-[/us/pl/108/7/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs415
+[/us/pl/108/7/dF/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtIV
 [/us/stat/117/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F294
-[/us/pl/113/119/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F119%2Fs1
+[/us/pl/113/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F119
 [/us/stat/128/1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1185
 [/us/usc/t16/s539m–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs539m%E2%80%9311
-[/us/pl/108/7/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs401
+[/us/pl/108/7/dF/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtIV
 [/us/stat/117/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F279
 [/us/usc/t43/s1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1746
 

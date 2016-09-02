@@ -17,7 +17,7 @@
 
     The provisions of the Federal Power Act, as amended \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\], shall not apply to any of the lands added to the Yosemite National Park pursuant to the provisions of [section 47e of this title][/us/usc/t16/s47e].
 
-([July 9, 1937, ch. 469, § 3][/us/act/1937-07-09/ch469/s3], [50 Stat. 486][/us/stat/50/486].)
+([July 9, 1937, ch. 469][/us/act/1937-07-09/ch469], § 3, [50 Stat. 486][/us/stat/50/486].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/usc/t16/s47e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs47e
-[/us/act/1937-07-09/ch469/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-07-09%2Fch469%2Fs3
+[/us/act/1937-07-09/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-07-09%2Fch469
 [/us/stat/50/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F486
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285

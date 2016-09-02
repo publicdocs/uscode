@@ -17,7 +17,7 @@
 
     In order to promote the conservation of migratory waterfowl and to offset or prevent the serious loss of important wetlands and other waterfowl habitat essential to the preservation of such waterfowl, there is authorized to be appropriated for the period beginning on July 1, 1961, and ending when all amounts authorized to be appropriated have been expended, not to exceed $200,000,000.
 
-([Pub. L. 87–383, § 1][/us/pl/87/383/s1], Oct. 4, 1961, [75 Stat. 813][/us/stat/75/813]; [Pub. L. 90–205, § 1(a)][/us/pl/90/205/s1/a], Dec. 15, 1967, [81 Stat. 612][/us/stat/81/612]; [Pub. L. 94–215, § 2(a)][/us/pl/94/215/s2/a], Feb. 17, 1976, [90 Stat. 189][/us/stat/90/189]; [Pub. L. 98–200, § 1][/us/pl/98/200/s1], Dec. 2, 1983, [97 Stat. 1378][/us/stat/97/1378]; [Pub. L. 98–548, title I, § 101][/us/pl/98/548/s101], Oct. 26, 1984, [98 Stat. 2774][/us/stat/98/2774]; [Pub. L. 99–645, title I, § 101(a)][/us/pl/99/645/s101/a], Nov. 10, 1986, [100 Stat. 3584][/us/stat/100/3584]; [Pub. L. 100–653, title III, § 301][/us/pl/100/653/s301], Nov. 14, 1988, [102 Stat. 3827][/us/stat/102/3827].)
+([Pub. L. 87–383][/us/pl/87/383], § 1, Oct. 4, 1961, [75 Stat. 813][/us/stat/75/813]; [Pub. L. 90–205][/us/pl/90/205], § 1(a), Dec. 15, 1967, [81 Stat. 612][/us/stat/81/612]; [Pub. L. 94–215][/us/pl/94/215], § 2(a), Feb. 17, 1976, [90 Stat. 189][/us/stat/90/189]; [Pub. L. 98–200][/us/pl/98/200], § 1, Dec. 2, 1983, [97 Stat. 1378][/us/stat/97/1378]; [Pub. L. 98–548, title I][/us/pl/98/548/tI], § 101, Oct. 26, 1984, [98 Stat. 2774][/us/stat/98/2774]; [Pub. L. 99–645, title I][/us/pl/99/645/tI], § 101(a), Nov. 10, 1986, [100 Stat. 3584][/us/stat/100/3584]; [Pub. L. 100–653, title III][/us/pl/100/653/tIII], § 301, Nov. 14, 1988, [102 Stat. 3827][/us/stat/102/3827].)
 
  __Codification__ 
 
@@ -48,19 +48,19 @@
 ----------
 ----------
 
-[/us/pl/87/383/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F383%2Fs1
+[/us/pl/87/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F383
 [/us/stat/75/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F813
-[/us/pl/90/205/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F205%2Fs1%2Fa
+[/us/pl/90/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F205
 [/us/stat/81/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F612
-[/us/pl/94/215/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F215%2Fs2%2Fa
+[/us/pl/94/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F215
 [/us/stat/90/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F189
-[/us/pl/98/200/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F200%2Fs1
+[/us/pl/98/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F200
 [/us/stat/97/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1378
-[/us/pl/98/548/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F548%2Fs101
+[/us/pl/98/548/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F548%2FtI
 [/us/stat/98/2774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2774
-[/us/pl/99/645/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F645%2Fs101%2Fa
+[/us/pl/99/645/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F645%2FtI
 [/us/stat/100/3584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3584
-[/us/pl/100/653/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2Fs301
+[/us/pl/100/653/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2FtIII
 [/us/stat/102/3827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3827
 [/us/pl/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653
 [/us/pl/99/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F645

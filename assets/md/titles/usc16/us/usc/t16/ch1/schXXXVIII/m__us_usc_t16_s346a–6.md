@@ -17,7 +17,7 @@
 
     Administrative jurisdiction over the land identified as the Watchman Wilderness on the Northeastern Washington County Wilderness Map is hereby transferred to the National Park Service, to be included in, and administered as part of Zion National Park.
 
-([Pub. L. 111–11, title I, § 1972(d)][/us/pl/111/11/s1972/d], Mar. 30, 2009, [123 Stat. 1080][/us/stat/123/1080].)
+([Pub. L. 111–11, title I][/us/pl/111/11/tI], § 1972(d), Mar. 30, 2009, [123 Stat. 1080][/us/stat/123/1080].)
 
  __Definition__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s1972/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs1972%2Fd
+[/us/pl/111/11/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtI
 [/us/stat/123/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1080
 [/us/pl/111/11/s1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs1971
 [/us/usc/t16/s460www]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460www

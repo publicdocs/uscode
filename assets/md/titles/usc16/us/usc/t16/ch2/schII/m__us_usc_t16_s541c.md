@@ -19,7 +19,7 @@
 
     (b) Notwithstanding any other provision of law, any Federal property located on the lands added to the Siuslaw National Forest by this section may, with the concurrence of the agency having custody thereof, be transferred without consideration to the administrative jurisdiction of the Secretary. Any lands so transferred shall become part of the Siuslaw National Forest.
 
-([Pub. L. 93–535, § 4][/us/pl/93/535/s4], Dec. 22, 1974, [88 Stat. 1733][/us/stat/88/1733].)
+([Pub. L. 93–535][/us/pl/93/535], § 4, Dec. 22, 1974, [88 Stat. 1733][/us/stat/88/1733].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/usc/t16/s541b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs541b
-[/us/pl/93/535/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F535%2Fs4
+[/us/pl/93/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F535
 [/us/stat/88/1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1733
 
 

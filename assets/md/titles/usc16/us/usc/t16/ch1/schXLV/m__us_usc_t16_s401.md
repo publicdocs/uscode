@@ -19,7 +19,7 @@
 
     Unsurveyed sections 31 and 32, township 36 south, range 3 west; surveyed section 36, township 36 south, range 4 west; north half, southwest quarter and west half of the southeast quarter of partially surveyed section 5; unsurveyed sections 6 and 7, west half, west half of the northeast quarter, and west half of the southeast quarter of partially surveyed section 8, partially surveyed section 17, and unsurveyed section 18, township 37 south, range 3 west; and unsurveyed sections 1, 12, and 13, township 37 south, range 4, all west of the Salt Lake meridian in the State of Utah. All the land within the exterior boundaries of the aforesaid tract shall first become the property of the United States. The administration, protection, and promotion of said Bryce Canyon National Park shall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of the Act of August 25, 1916, entitled “An Act to establish a National Park Service, and for other purposes.”  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-([June 7, 1924, ch. 305][/us/act/1924-06-07/ch305], §§ 1, 2, [43 Stat. 593][/us/stat/43/593], 594; [Feb. 25, 1928, ch. 102, § 1][/us/act/1928-02-25/ch102/s1], [45 Stat. 147][/us/stat/45/147]; [May 12, 1928, ch. 533, § 1][/us/act/1928-05-12/ch533/s1], [45 Stat. 502][/us/stat/45/502].)
+([June 7, 1924, ch. 305][/us/act/1924-06-07/ch305], §§ 1, 2, [43 Stat. 593][/us/stat/43/593], 594; [Feb. 25, 1928, ch. 102][/us/act/1928-02-25/ch102], § 1, [45 Stat. 147][/us/stat/45/147]; [May 12, 1928, ch. 533][/us/act/1928-05-12/ch533], § 1, [45 Stat. 502][/us/stat/45/502].)
 
  __References in Text__ 
 
@@ -46,9 +46,9 @@
 
 [/us/act/1924-06-07/ch305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch305
 [/us/stat/43/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F593
-[/us/act/1928-02-25/ch102/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-02-25%2Fch102%2Fs1
+[/us/act/1928-02-25/ch102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-02-25%2Fch102
 [/us/stat/45/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F147
-[/us/act/1928-05-12/ch533/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-12%2Fch533%2Fs1
+[/us/act/1928-05-12/ch533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-12%2Fch533
 [/us/stat/45/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F502
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535

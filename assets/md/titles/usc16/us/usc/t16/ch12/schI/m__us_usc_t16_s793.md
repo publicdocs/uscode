@@ -19,17 +19,17 @@
 
     The commission may make such expenditures (including expenditures for rent and personal services at the seat of government and elsewhere, for law books, periodicals, and books of reference, and for printing and binding) as are necessary to execute its functions. Expenditures by the commission shall be allowed and paid upon the presentation of itemized vouchers therefor, approved by the chairman of the commission or by such other member or officer as may be authorized by the commission for that purpose subject to applicable regulations under chapters 1 to 11 of title 40 and division C (except sections 3302, 3306(f), 3307(e), 3501(b), 3509, 3906, 4104, 4710, and 4711) of subtitle I of title 41.
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. I, § 2, [41 Stat. 1063][/us/stat/41/1063]; [June 23, 1930, ch. 572, § 1][/us/act/1930-06-23/ch572/s1], [46 Stat. 798][/us/stat/46/798]; renumbered pt. I, [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, § 212, [49 Stat. 847][/us/stat/49/847]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title XI, § 1106(a), [63 Stat. 972][/us/stat/63/972]; [Oct. 31, 1951, ch. 654, § 2(14)][/us/act/1951-10-31/ch654/s2/14], [65 Stat. 707][/us/stat/65/707].)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. I, § 2, [41 Stat. 1063][/us/stat/41/1063]; [June 23, 1930, ch. 572][/us/act/1930-06-23/ch572], § 1, [46 Stat. 798][/us/stat/46/798]; renumbered pt. I, [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, § 212, [49 Stat. 847][/us/stat/49/847]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title XI, § 1106(a), [63 Stat. 972][/us/stat/63/972]; [Oct. 31, 1951, ch. 654][/us/act/1951-10-31/ch654], § 2(14), [65 Stat. 707][/us/stat/65/707].)
 
  __Codification__ 
 
-    All appointments referred to in the first sentence are subject to the civil service laws unless specifically excepted by those laws or by laws enacted subsequent to Executive Order 8743, Apr. 23, 1941, issued by the President pursuant to the [Act of Nov. 26, 1940, ch. 919][/us/act/1940-11-26/ch919], title I, § 1, [54 Stat. 1211][/us/stat/54/1211], which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under [section 3301 of Title 5][/us/usc/t5/s3301], Government Organization and Employees.
+    All appointments referred to in the first sentence are subject to the civil service laws unless specifically excepted by those laws or by laws enacted subsequent to Executive Order 8743, Apr. 23, 1941, issued by the President pursuant to the [Act of Nov. 26, 1940, ch. 919, title I][/us/act/1940-11-26/ch919/tI], § 1, [54 Stat. 1211][/us/stat/54/1211], which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under [section 3301 of Title 5][/us/usc/t5/s3301], Government Organization and Employees.
 
     As to the compensation of such personnel, sections 1202 and 1204 of the Classification Act of 1949, [63 Stat. 972][/us/stat/63/972], 973, repealed the Classification Act of 1923 and all other laws or parts of laws inconsistent with the 1949 Act. The Classification Act of 1949 was repealed [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, § 8(a), [80 Stat. 632][/us/stat/80/632], and reenacted as chapter 51 and subchapter III of chapter 53 of Title 5. [Section 5102 of Title 5][/us/usc/t5/s5102] contains the applicability provisions of the 1949 Act, and [section 5103 of Title 5][/us/usc/t5/s5103] authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
 
-    In text, “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In text, “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
-    In text, “chapters 1 to 11 of title 40 and division C (except sections 3302, 3306(f), 3307(e), 3501(b), 3509, 3906, 4104, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, as amended” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In text, “chapters 1 to 11 of title 40 and division C (except sections 3302, 3306(f), 3307(e), 3501(b), 3509, 3906, 4104, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, as amended” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -52,15 +52,15 @@
 
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
 [/us/stat/41/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1063
-[/us/act/1930-06-23/ch572/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-23%2Fch572%2Fs1
+[/us/act/1930-06-23/ch572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-23%2Fch572
 [/us/stat/46/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F798
 [/us/act/1935-08-26/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-26%2Fch687
 [/us/stat/49/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F847
 [/us/act/1949-10-28/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782
 [/us/stat/63/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F972
-[/us/act/1951-10-31/ch654/s2/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch654%2Fs2%2F14
+[/us/act/1951-10-31/ch654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch654
 [/us/stat/65/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F707
-[/us/act/1940-11-26/ch919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-11-26%2Fch919
+[/us/act/1940-11-26/ch919/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-11-26%2Fch919%2FtI
 [/us/stat/54/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1211
 [/us/usc/t5/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3301
 [/us/stat/63/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F972
@@ -68,11 +68,11 @@
 [/us/stat/80/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F632
 [/us/usc/t5/s5102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5102
 [/us/usc/t5/s5103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5103
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/act/1949-10-28/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554

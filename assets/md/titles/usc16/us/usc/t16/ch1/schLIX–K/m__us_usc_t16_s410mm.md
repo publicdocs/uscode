@@ -33,7 +33,7 @@
 
         (2) Any funds available for purposes of the national monument shall be available for purposes of the park.
 
-([Pub. L. 99–565, § 2][/us/pl/99/565/s2], Oct. 27, 1986, [100 Stat. 3181][/us/stat/100/3181].)
+([Pub. L. 99–565][/us/pl/99/565], § 2, Oct. 27, 1986, [100 Stat. 3181][/us/stat/100/3181].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 
  __Short Title__ 
 
-[Pub. L. 99–565, § 1][/us/pl/99/565/s1], Oct. 27, 1986, [100 Stat. 3181][/us/stat/100/3181], provided that: 
+[Pub. L. 99–565][/us/pl/99/565], § 1, Oct. 27, 1986, [100 Stat. 3181][/us/stat/100/3181], provided that: 
 
 > “This Act \[enacting this subchapter\] may be known as the ‘Great Basin National Park Act of 1986’.”
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/stat/34/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F225
-[/us/pl/99/565/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F565%2Fs2
+[/us/pl/99/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F565
 [/us/stat/100/3181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3181
 [/us/stat/34/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F225
 [/us/act/1906-06-08/ch3060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-08%2Fch3060
@@ -66,7 +66,7 @@
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
 [/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
-[/us/pl/99/565/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F565%2Fs1
+[/us/pl/99/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F565
 [/us/stat/100/3181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3181
 
 

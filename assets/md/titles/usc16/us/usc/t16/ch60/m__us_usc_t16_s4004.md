@@ -65,7 +65,7 @@
 
         Members of the National Council shall serve without compensation, but shall be reimbursed in accordance with [section 5703 of title 5][/us/usc/t5/s5703] for reasonable travel costs and expenses incurred in performing their duties as members of the National Council.
 
-([Pub. L. 99–659, title II, § 205][/us/pl/99/659/s205], Nov. 14, 1986, [100 Stat. 3717][/us/stat/100/3717]; [Pub. L. 100–350, § 3][/us/pl/100/350/s3], June 27, 1988, [102 Stat. 660][/us/stat/102/660].)
+([Pub. L. 99–659, title II][/us/pl/99/659/tII], § 205, Nov. 14, 1986, [100 Stat. 3717][/us/stat/100/3717]; [Pub. L. 100–350][/us/pl/100/350], § 3, June 27, 1988, [102 Stat. 660][/us/stat/102/660].)
 
  __Amendments__ 
 
@@ -73,7 +73,7 @@
 
  __Continuity of National Council Membership__ 
 
-[Pub. L. 101–627, title VII, § 704(a)][/us/pl/101/627/s704/a], (b), Nov. 28, 1990, [104 Stat. 4464][/us/stat/104/4464], provided that:
+[Pub. L. 101–627, title VII][/us/pl/101/627/tVII], § 704(a), (b), Nov. 28, 1990, [104 Stat. 4464][/us/stat/104/4464], provided that:
 
 >     “(a)  __Uninterrupted Service__  __.—__ 
 
@@ -91,12 +91,12 @@
 ----------
 
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/99/659/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs205
+[/us/pl/99/659/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtII
 [/us/stat/100/3717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3717
-[/us/pl/100/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F350%2Fs3
+[/us/pl/100/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F350
 [/us/stat/102/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F660
 [/us/pl/100/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F350
-[/us/pl/101/627/s704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs704%2Fa
+[/us/pl/101/627/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtVII
 [/us/stat/104/4464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4464
 [/us/usc/t16/s4005/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4005%2Fe
 

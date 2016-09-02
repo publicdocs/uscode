@@ -153,7 +153,7 @@
 
             (C) after the effective date of the finding under subsection (g)(2), where such finding is that the intentional deployment on or encirclement of dolphins is having a significant adverse impact on any such depleted stock.
 
-([Pub. L. 101–627, title IX, § 901][/us/pl/101/627/s901], Nov. 28, 1990, [104 Stat. 4465][/us/stat/104/4465]; [Pub. L. 105–42, § 5][/us/pl/105/42/s5], Aug. 15, 1997, [111 Stat. 1125][/us/stat/111/1125]; [Pub. L. 114–81, title I, § 109][/us/pl/114/81/s109], Nov. 5, 2015, [129 Stat. 659][/us/stat/129/659].)
+([Pub. L. 101–627, title IX][/us/pl/101/627/tIX], § 901, Nov. 28, 1990, [104 Stat. 4465][/us/stat/104/4465]; [Pub. L. 105–42][/us/pl/105/42], § 5, Aug. 15, 1997, [111 Stat. 1125][/us/stat/111/1125]; [Pub. L. 114–81, title I][/us/pl/114/81/tI], § 109, Nov. 5, 2015, [129 Stat. 659][/us/stat/129/659].)
 
  __Codification__ 
 
@@ -163,7 +163,7 @@
 
     2015—Subsec. (e). [Pub. L. 114–81][/us/pl/114/81] amended subsec. (e) generally. Prior to amendment, text read as follows:“Any person who knowingly and willfully makes a statement or endorsement described in subsection (d)(2)(B) that is false is liable for a civil penalty of not to exceed $100,000 assessed in an action brought in any appropriate district court of the United States on behalf of the Secretary.”
 
-    1997—Subsec. (d). [Pub. L. 105–42, § 5(a)][/us/pl/105/42/s5/a], amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows:
+    1997—Subsec. (d). [Pub. L. 105–42][/us/pl/105/42], § 5(a), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows:
 
     “(1) It is a violation of [section 45 of title 15][/us/usc/t15/s45] for any producer, importer, exporter, distributor, or seller of any tuna product that is exported from or offered for sale in the United States to include on the label of that product the term ‘Dolphin Safe’ or any other term or symbol that falsely claims or suggests that the tuna contained in the product was harvested using a method of fishing that is not harmful to dolphins if the product contains—
 
@@ -187,11 +187,11 @@
 
     “(iii) the statements referred to in clauses (i) and (ii) are endorsed in writing by each exporter, importer, and processor of the product.”
 
-    Subsec. (f). [Pub. L. 105–42, § 5(b)][/us/pl/105/42/s5/b], amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “The Secretary, in consultation with the Secretary of the Treasury, shall issue regulations to implement this section not later than 6 months after November 28, 1990, including regulations establishing procedures and requirements for ensuring that tuna products are labeled in accordance with subsection (d) of this section.”
+    Subsec. (f). [Pub. L. 105–42][/us/pl/105/42], § 5(b), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “The Secretary, in consultation with the Secretary of the Treasury, shall issue regulations to implement this section not later than 6 months after November 28, 1990, including regulations establishing procedures and requirements for ensuring that tuna products are labeled in accordance with subsection (d) of this section.”
 
-    Subsec. (g). [Pub. L. 105–42, § 5(c)][/us/pl/105/42/s5/c], added subsec. (g) and struck out former subsec. (g), which had amended [section 1371 of this title][/us/usc/t16/s1371].
+    Subsec. (g). [Pub. L. 105–42][/us/pl/105/42], § 5(c), added subsec. (g) and struck out former subsec. (g), which had amended [section 1371 of this title][/us/usc/t16/s1371].
 
-    Subsecs. (h), (i). [Pub. L. 105–42, § 5(c)][/us/pl/105/42/s5/c], added subsec. (h) and struck out former subsecs. (h) and (i) which read as follows:
+    Subsecs. (h), (i). [Pub. L. 105–42][/us/pl/105/42], § 5(c), added subsec. (h) and struck out former subsecs. (h) and (i) which read as follows:
 
     “(h) Negotiations.—The Secretary of State shall immediately seek, through negotiations and discussions with appropriate foreign governments, to reduce and, as soon as possible, eliminate the practice of harvesting tuna through the use of purse seine nets intentionally deployed to encircle dolphins.
 
@@ -219,19 +219,19 @@
 [/us/usc/t16/s1826g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826g
 [/us/usc/t16/s1414a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1414a%2Fa
 [/us/usc/t16/s1414a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1414a%2Fa
-[/us/pl/101/627/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs901
+[/us/pl/101/627/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtIX
 [/us/stat/104/4465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4465
-[/us/pl/105/42/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs5
+[/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
 [/us/stat/111/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1125
-[/us/pl/114/81/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs109
+[/us/pl/114/81/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2FtI
 [/us/stat/129/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F659
 [/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
-[/us/pl/105/42/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs5%2Fa
+[/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
-[/us/pl/105/42/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs5%2Fb
-[/us/pl/105/42/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs5%2Fc
+[/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
+[/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
 [/us/usc/t16/s1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1371
-[/us/pl/105/42/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs5%2Fc
+[/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
 [/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
 [/us/pl/105/42/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs8
 [/us/usc/t16/s1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1362

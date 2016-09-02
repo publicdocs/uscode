@@ -79,7 +79,7 @@
 
         Nothing in this Act shall preclude the renewal or continuation of valid leases or permits in effect on December 2, 1980, for cabins, homesites, or similar structures on Federal lands. Unless the Secretary, or in the case of national forest lands, the Secretary of Agriculture, issues specific findings following notice and an opportunity for the lease-holder or permittee to respond, that renewal or continuation of such valid permit or lease constitutes a direct threat to or a significant impairment to the purposes for which a conservation system unit was established (in the case of a structure located within a conservation system unit) or the public domain or national forest (in case of a structure located outside conservation system units), he shall renew such valid leases or permits upon their expiration in accordance with the provisions of the original lease or permit, subject to such reasonable regulations as he may prescribe. Subject to the provisions of the original lease or permit, nothing in this Act or subsection shall necessarily preclude the appropriate Secretary from transferring such a lease or permit to another person at the election or death of the original permittee or leasee.
 
-([Pub. L. 96–487, title XIII, § 1303][/us/pl/96/487/s1303], Dec. 2, 1980, [94 Stat. 2476][/us/stat/94/2476].)
+([Pub. L. 96–487, title XIII][/us/pl/96/487/tXIII], § 1303, Dec. 2, 1980, [94 Stat. 2476][/us/stat/94/2476].)
 
  __References in Text__ 
 
@@ -92,7 +92,7 @@
 ----------
 ----------
 
-[/us/pl/96/487/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1303
+[/us/pl/96/487/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXIII
 [/us/stat/94/2476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2476
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371

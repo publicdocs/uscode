@@ -35,19 +35,19 @@
 
         For additional prohibitions relating to this chapter and enforcement of this chapter, see [section 1826g of this title][/us/usc/t16/s1826g].
 
-([Pub. L. 99–5, § 8][/us/pl/99/5/s8], Mar. 15, 1985, [99 Stat. 12][/us/stat/99/12]; [Pub. L. 114–81, title I, § 104][/us/pl/114/81/s104], Nov. 5, 2015, [129 Stat. 657][/us/stat/129/657].)
+([Pub. L. 99–5][/us/pl/99/5], § 8, Mar. 15, 1985, [99 Stat. 12][/us/stat/99/12]; [Pub. L. 114–81, title I][/us/pl/114/81/tI], § 104, Nov. 5, 2015, [129 Stat. 657][/us/stat/129/657].)
 
  __Amendments__ 
 
-    2015—Subsec. (a)(2). [Pub. L. 114–81, § 104(1)(B)][/us/pl/114/81/s104/1/B], made technical amendment to reference in original act which appears as a reference to “this chapter”.
+    2015—Subsec. (a)(2). [Pub. L. 114–81][/us/pl/114/81], § 104(1)(B), made technical amendment to reference in original act which appears as a reference to “this chapter”.
 
-    [Pub. L. 114–81, § 104(1)(A)][/us/pl/114/81/s104/1/A], inserted “, investigation,” after “search”.
+    [Pub. L. 114–81][/us/pl/114/81], § 104(1)(A), inserted “, investigation,” after “search”.
 
-    Subsec. (a)(3). [Pub. L. 114–81, § 104(2)][/us/pl/114/81/s104/2], inserted “, investigation,” after “search” and substituted “paragraph (2);” for “subparagraph (2);”.
+    Subsec. (a)(3). [Pub. L. 114–81][/us/pl/114/81], § 104(2), inserted “, investigation,” after “search” and substituted “paragraph (2);” for “subparagraph (2);”.
 
-    Subsec. (a)(5). [Pub. L. 114–81, § 104(3)][/us/pl/114/81/s104/3], made technical amendment to reference in original act which appears as a reference to “this chapter”.
+    Subsec. (a)(5). [Pub. L. 114–81][/us/pl/114/81], § 104(3), made technical amendment to reference in original act which appears as a reference to “this chapter”.
 
-    Subsecs. (b) to (f). [Pub. L. 114–81, § 104(4)][/us/pl/114/81/s104/4], added subsec. (b) and struck out former subsecs. (b) to (f), which related to civil penalty, criminal penalty, forfeiture, enforcement authority, and jurisdiction.
+    Subsecs. (b) to (f). [Pub. L. 114–81][/us/pl/114/81], § 104(4), added subsec. (b) and struck out former subsecs. (b) to (f), which related to civil penalty, criminal penalty, forfeiture, enforcement authority, and jurisdiction.
 
  __Transfer of Functions__ 
 
@@ -61,15 +61,15 @@
 ----------
 
 [/us/usc/t16/s1826g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826g
-[/us/pl/99/5/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5%2Fs8
+[/us/pl/99/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5
 [/us/stat/99/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F12
-[/us/pl/114/81/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs104
+[/us/pl/114/81/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2FtI
 [/us/stat/129/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F657
-[/us/pl/114/81/s104/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs104%2F1%2FB
-[/us/pl/114/81/s104/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs104%2F1%2FA
-[/us/pl/114/81/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs104%2F2
-[/us/pl/114/81/s104/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs104%2F3
-[/us/pl/114/81/s104/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs104%2F4
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

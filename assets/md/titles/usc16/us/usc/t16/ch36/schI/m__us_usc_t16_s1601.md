@@ -59,7 +59,7 @@
 
         The Secretary shall submit an annual report to the Congress on the amounts, types, and uses of herbicides and pesticides used in the National Forest System, including the beneficial or adverse effects of such uses.
 
-([Pub. L. 93–378, § 3][/us/pl/93/378/s3], formerly § 2, Aug. 17, 1974, [88 Stat. 476][/us/stat/88/476]; renumbered § 3 and amended [Pub. L. 94–588][/us/pl/94/588], §§ 2–4, Oct. 22, 1976, [90 Stat. 2949][/us/stat/90/2949], 2950; [Pub. L. 101–624, title XXIV, § 2408(a)][/us/pl/101/624/s2408/a], Nov. 28, 1990, [104 Stat. 4061][/us/stat/104/4061].)
+([Pub. L. 93–378][/us/pl/93/378], § 3, formerly § 2, Aug. 17, 1974, [88 Stat. 476][/us/stat/88/476]; renumbered § 3 and amended [Pub. L. 94–588][/us/pl/94/588], §§ 2–4, Oct. 22, 1976, [90 Stat. 2949][/us/stat/90/2949], 2950; [Pub. L. 101–624, title XXIV][/us/pl/101/624/tXXIV], § 2408(a), Nov. 28, 1990, [104 Stat. 4061][/us/stat/104/4061].)
 
  __Codification__ 
 
@@ -81,7 +81,7 @@
 
  __Presidential Commission on State and Private Forests__ 
 
-    [Pub. L. 101–624, title XII, § 1245][/us/pl/101/624/s1245], Nov. 28, 1990, [104 Stat. 3548][/us/stat/104/3548], as amended by [Pub. L. 102–237, title X, § 1018(b)][/us/pl/102/237/s1018/b], Dec. 13, 1991, [105 Stat. 1905][/us/stat/105/1905], established the Commission on State and Private Forests, which was to assess the status of the State and private forest lands of the United States and report its findings and recommendations to the President by Dec. 1, 1992, and which terminated 90 days after submitting its report.
+    [Pub. L. 101–624, title XII][/us/pl/101/624/tXII], § 1245, Nov. 28, 1990, [104 Stat. 3548][/us/stat/104/3548], as amended by [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1018(b), Dec. 13, 1991, [105 Stat. 1905][/us/stat/105/1905], established the Commission on State and Private Forests, which was to assess the status of the State and private forest lands of the United States and report its findings and recommendations to the President by Dec. 1, 1992, and which terminated 90 days after submitting its report.
 
 ----------
 
@@ -93,11 +93,11 @@
 [/us/usc/t16/s1606/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1606%2Fc
 [/us/usc/t16/s1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1607
 [/us/usc/t16/s1606/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1606%2Fc
-[/us/pl/93/378/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F378%2Fs3
+[/us/pl/93/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F378
 [/us/stat/88/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F476
 [/us/pl/94/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588
 [/us/stat/90/2949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2949
-[/us/pl/101/624/s2408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2408%2Fa
+[/us/pl/101/624/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIV
 [/us/stat/104/4061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4061
 [/us/usc/t16/s581h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs581h
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
@@ -108,9 +108,9 @@
 [/us/pl/102/486/s3012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3012%2Fb
 [/us/usc/t15/s719e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719e
 [/us/usc/t15/s720d/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs720d%2Ff
-[/us/pl/101/624/s1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1245
+[/us/pl/101/624/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXII
 [/us/stat/104/3548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3548
-[/us/pl/102/237/s1018/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1018%2Fb
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1905
 
 

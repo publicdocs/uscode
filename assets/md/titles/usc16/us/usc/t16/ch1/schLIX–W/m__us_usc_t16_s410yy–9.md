@@ -19,13 +19,13 @@
 
     (b) There are authorized to be appropriated annually to the Commission to carry out its duties under this subchapter, $250,000.
 
-([Pub. L. 102–543, § 10][/us/pl/102/543/s10], Oct. 27, 1992, [106 Stat. 3574][/us/stat/106/3574]; [Pub. L. 111–11, title VII, § 7101(c)][/us/pl/111/11/s7101/c], Mar. 30, 2009, [123 Stat. 1190][/us/stat/123/1190].)
+([Pub. L. 102–543][/us/pl/102/543], § 10, Oct. 27, 1992, [106 Stat. 3574][/us/stat/106/3574]; [Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7101(c), Mar. 30, 2009, [123 Stat. 1190][/us/stat/123/1190].)
 
  __Amendments__ 
 
-    2009—Subsec. (a). [Pub. L. 111–11, § 7101(c)(1)][/us/pl/111/11/s7101/c/1], substituted “$50,000,000 for development, and $25,000,000” for “$25,000,000 for development, and $3,000,000”.
+    2009—Subsec. (a). [Pub. L. 111–11][/us/pl/111/11], § 7101(c)(1), substituted “$50,000,000 for development, and $25,000,000” for “$25,000,000 for development, and $3,000,000”.
 
-    Subsec. (b). [Pub. L. 111–11, § 7101(c)(2)][/us/pl/111/11/s7101/c/2], substituted “$250,000” for “$100,000 except that the Federal contribution to the Commission shall not exceed 50 percent of the annual costs to the Commission in carrying out those duties”.
+    Subsec. (b). [Pub. L. 111–11][/us/pl/111/11], § 7101(c)(2), substituted “$250,000” for “$100,000 except that the Federal contribution to the Commission shall not exceed 50 percent of the annual costs to the Commission in carrying out those duties”.
 
 ----------
 
@@ -35,11 +35,11 @@
 ----------
 
 [/us/usc/t16/s410yy–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410yy%E2%80%937
-[/us/pl/102/543/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F543%2Fs10
+[/us/pl/102/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F543
 [/us/stat/106/3574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3574
-[/us/pl/111/11/s7101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7101%2Fc
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1190
-[/us/pl/111/11/s7101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7101%2Fc%2F1
-[/us/pl/111/11/s7101/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7101%2Fc%2F2
+[/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
+[/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 
 

@@ -85,7 +85,7 @@
 
             Nothing in this section is intended to affect the jurisdiction of the State, both civil and criminal, over any person within the Forest by reason of the establishment of the Forest under this section, except in the case of a penalty for an offense against the United States.
 
-([Pub. L. 101–513, title VI, § 606][/us/pl/101/513/s606], as added [Pub. L. 102–574, § 2(a)(2)][/us/pl/102/574/s2/a/2], Oct. 29, 1992, [106 Stat. 4594][/us/stat/106/4594].)
+([Pub. L. 101–513, title VI][/us/pl/101/513/tVI], § 606, as added [Pub. L. 102–574][/us/pl/102/574], § 2(a)(2), Oct. 29, 1992, [106 Stat. 4594][/us/stat/106/4594].)
 
  __Prior Provisions__ 
 
@@ -99,8 +99,8 @@
 ----------
 
 [/us/usc/t16/s1643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1643
-[/us/pl/101/513/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs606
-[/us/pl/102/574/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F574%2Fs2%2Fa%2F2
+[/us/pl/101/513/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtVI
+[/us/pl/102/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F574
 [/us/stat/106/4594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4594
 [/us/pl/101/513/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs606
 [/us/usc/t16/s4505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4505

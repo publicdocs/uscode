@@ -141,7 +141,7 @@
 
             The amounts payable to owners and operators in the form of rental payments under contracts entered into under this section shall reflect incentives that are provided to owners and operators to enroll filterstrips in the conservation reserve under [section 3834 of this title][/us/usc/t16/s3834].
 
-([Pub. L. 99–198, title XII, § 1231B][/us/pl/99/198/s1231B], as added [Pub. L. 110–234, title II, § 2106(a)(1)][/us/pl/110/234/s2106/a/1], May 22, 2008, [122 Stat. 1029][/us/stat/122/1029], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2106(a)(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1757; amended [Pub. L. 113–79, title II, § 2002][/us/pl/113/79/s2002], Feb. 7, 2014, [128 Stat. 714][/us/stat/128/714].)
+([Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1231B, as added [Pub. L. 110–234, title II][/us/pl/110/234/tII], § 2106(a)(1), May 22, 2008, [122 Stat. 1029][/us/stat/122/1029], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title II, § 2106(a)(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1757; amended [Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2002, Feb. 7, 2014, [128 Stat. 714][/us/stat/128/714].)
 
  __Codification__ 
 
@@ -153,15 +153,15 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–79, § 2002(d)(1)][/us/pl/113/79/s2002/d/1], substituted “Farmable wetland program” for “Pilot program for enrollment of wetland and buffer acreage in conservation reserve” in section catchline.
+    2014—[Pub. L. 113–79][/us/pl/113/79], § 2002(d)(1), substituted “Farmable wetland program” for “Pilot program for enrollment of wetland and buffer acreage in conservation reserve” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 113–79, § 2002(a)][/us/pl/113/79/s2002/a], substituted “2018” for “2012” and “a farmable wetland program” for “a program”.
+    Subsec. (a)(1). [Pub. L. 113–79][/us/pl/113/79], § 2002(a), substituted “2018” for “2012” and “a farmable wetland program” for “a program”.
 
-    Subsec. (b)(1)(B). [Pub. L. 113–79, § 2002(b)][/us/pl/113/79/s2002/b], substituted “surface and subsurface flow from row crop agricultural production” for “flow from a row crop agriculture drainage system”.
+    Subsec. (b)(1)(B). [Pub. L. 113–79][/us/pl/113/79], § 2002(b), substituted “surface and subsurface flow from row crop agricultural production” for “flow from a row crop agriculture drainage system”.
 
-    Subsec. (c)(1)(B). [Pub. L. 113–79, § 2002(c)][/us/pl/113/79/s2002/c], substituted “750,000” for “1,000,000”.
+    Subsec. (c)(1)(B). [Pub. L. 113–79][/us/pl/113/79], § 2002(c), substituted “750,000” for “1,000,000”.
 
-    Subsec. (f)(2). [Pub. L. 113–79, § 2002(d)(2)][/us/pl/113/79/s2002/d/2], substituted “section 3834(d)(2)(A)(ii)” for “section 3834(c)(2)(B)”.
+    Subsec. (f)(2). [Pub. L. 113–79][/us/pl/113/79], § 2002(d)(2), substituted “section 3834(d)(2)(A)(ii)” for “section 3834(c)(2)(B)”.
 
  __Effective Date__ 
 
@@ -178,12 +178,12 @@
 [/us/usc/t16/s3832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3832
 [/us/usc/t16/s3834/d/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3834%2Fd%2F2%2FA%2Fii
 [/us/usc/t16/s3834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3834
-[/us/pl/99/198/s1231B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1231B
-[/us/pl/110/234/s2106/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2106%2Fa%2F1
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/110/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtII
 [/us/stat/122/1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1029
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2002
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F714
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -191,11 +191,11 @@
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/usc/t16/s3831/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3831%2Fh
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
-[/us/pl/113/79/s2002/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2002%2Fd%2F1
-[/us/pl/113/79/s2002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2002%2Fa
-[/us/pl/113/79/s2002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2002%2Fb
-[/us/pl/113/79/s2002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2002%2Fc
-[/us/pl/113/79/s2002/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2002%2Fd%2F2
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

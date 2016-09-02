@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as may be necessary to carry out this subchapter.
 
-([Pub. L. 103–64, § 7][/us/pl/103/64/s7], Aug. 4, 1993, [107 Stat. 310][/us/stat/107/310].)
+([Pub. L. 103–64][/us/pl/103/64], § 7, Aug. 4, 1993, [107 Stat. 310][/us/stat/107/310].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/64/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F64%2Fs7
+[/us/pl/103/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F64
 [/us/stat/107/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F310
 
 

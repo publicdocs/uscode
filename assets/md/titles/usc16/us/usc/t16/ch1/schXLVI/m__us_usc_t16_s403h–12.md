@@ -19,7 +19,7 @@
 
     All property acquired pursuant to this section shall become a part of the Great Smoky Mountains National Park upon acceptance of title thereto by the Secretary, and shall be subject to all laws, rules, and regulations applicable thereto.
 
-([Pub. L. 88–120, § 1][/us/pl/88/120/s1], Sept. 9, 1963, [77 Stat. 154][/us/stat/77/154]; [Pub. L. 91–108, § 1(1)][/us/pl/91/108/s1/1], (2), Nov. 4, 1969, [83 Stat. 182][/us/stat/83/182].)
+([Pub. L. 88–120][/us/pl/88/120], § 1, Sept. 9, 1963, [77 Stat. 154][/us/stat/77/154]; [Pub. L. 91–108][/us/pl/91/108], § 1(1), (2), Nov. 4, 1969, [83 Stat. 182][/us/stat/83/182].)
 
  __Amendments__ 
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/88/120/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F120%2Fs1
+[/us/pl/88/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F120
 [/us/stat/77/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F154
-[/us/pl/91/108/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F108%2Fs1%2F1
+[/us/pl/91/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F108
 [/us/stat/83/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F182
 [/us/pl/91/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F108
 

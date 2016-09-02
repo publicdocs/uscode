@@ -17,7 +17,7 @@
 
     The lands within the recreation area, subject to valid existing rights, are hereby withdrawn from location, entry, and patent under the United States mining laws and from disposition under all laws pertaining to mineral leasing and all amendments thereto.
 
-([Pub. L. 92–260, § 10][/us/pl/92/260/s10], Mar. 23, 1972, [86 Stat. 101][/us/stat/86/101].)
+([Pub. L. 92–260][/us/pl/92/260], § 10, Mar. 23, 1972, [86 Stat. 101][/us/stat/86/101].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/260/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F260%2Fs10
+[/us/pl/92/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F260
 [/us/stat/86/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F101
 
 

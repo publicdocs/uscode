@@ -17,7 +17,7 @@
 
     The Secretary of the Interior, in furtherance of the purposes of sections 423, 423a, and 423b to 423h of this title referred to in [section 423h–1 of this title][/us/usc/t16/s423h–1], may acquire by purchase with donated or appropriated funds, exchange, transfer, or by such other means as he deems to be in the public interest, not to exceed twelve hundred acres of land or interests in land at the site of the Battle of Five Forks for addition to the Petersburg National Battlefield. Lands and interests in lands acquired by the Secretary pursuant to this section shall, upon publication of a description thereof in the Federal Register, become a part of the Petersburg National Battlefield, and thereafter shall be administered by the Secretary of the Interior in accordance with the provisions of the Act entitled “An Act to establish a National Park Service, and for other purposes,” approved August 25, 1916 ([39 Stat. 535][/us/stat/39/535]; [16 U.S.C. 1][/us/usc/t16/s1], 2, 3), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended and supplemented.
 
-([Pub. L. 87–603, § 2][/us/pl/87/603/s2], Aug. 24, 1962, [76 Stat. 403][/us/stat/76/403].)
+([Pub. L. 87–603][/us/pl/87/603], § 2, Aug. 24, 1962, [76 Stat. 403][/us/stat/76/403].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 [/us/usc/t16/s423h–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs423h%E2%80%931
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
-[/us/pl/87/603/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F603%2Fs2
+[/us/pl/87/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F603
 [/us/stat/76/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F403
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1

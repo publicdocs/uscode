@@ -17,7 +17,7 @@
 
     The Secretary of the Interior, subject to the availability of appropriated funds, shall construct and maintain docking facilities at the Northwest Company area for use in connection with the monument. Such facilities shall be available for use by the Minnesota Chippewa Tribe and its recognized members, without charge to them, under regulations to be prescribed by the Secretary.
 
-([Pub. L. 85–910, § 8][/us/pl/85/910/s8], Sept. 2, 1958, [72 Stat. 1753][/us/stat/72/1753].)
+([Pub. L. 85–910][/us/pl/85/910], § 8, Sept. 2, 1958, [72 Stat. 1753][/us/stat/72/1753].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/85/910/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F910%2Fs8
+[/us/pl/85/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F910
 [/us/stat/72/1753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1753
 
 

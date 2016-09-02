@@ -413,11 +413,11 @@
 
         The Councils may establish a Council coordination committee consisting of the chairs, vice chairs, and executive directors of each of the 8 Councils described in subsection (a)(1), or other Council members or staff, in order to discuss issues of relevance to all Councils, including issues related to the implementation of this chapter.
 
-([Pub. L. 94–265, title III, § 302][/us/pl/94/265/s302], Apr. 13, 1976, [90 Stat. 347][/us/stat/90/347]; [Pub. L. 95–354, § 5(1)][/us/pl/95/354/s5/1], Aug. 28, 1978, [92 Stat. 521][/us/stat/92/521]; [Pub. L. 96–561, title II, § 234][/us/pl/96/561/s234], Dec. 22, 1980, [94 Stat. 3299][/us/stat/94/3299]; [Pub. L. 97–453, § 5][/us/pl/97/453/s5], Jan. 12, 1983, [96 Stat. 2484][/us/stat/96/2484]; [Pub. L. 99–659, title I, § 104(a)(1)][/us/pl/99/659/s104/a/1], (b)–(e)(1), Nov. 14, 1986, [100 Stat. 3709][/us/stat/100/3709], 3710; [Pub. L. 101–627, title I][/us/pl/101/627], §§ 108(a)–(j), 120(c), Nov. 28, 1990, [104 Stat. 4444–4446][/us/stat/104/4444-4446], 4459; [Pub. L. 102–582, title IV, § 403][/us/pl/102/582/s403], Nov. 2, 1992, [106 Stat. 4909][/us/stat/106/4909]; [Pub. L. 104–297, title I, § 107][/us/pl/104/297/s107], Oct. 11, 1996, [110 Stat. 3570][/us/stat/110/3570]; [Pub. L. 106–113, div. B, § 1000(a)(1)][/us/pl/106/113/s1000/a/1] \[title II, § 210\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–33; [Pub. L. 109–479, title I][/us/pl/109/479], §§ 102, 103, Jan. 12, 2007, [120 Stat. 3579][/us/stat/120/3579].)
+([Pub. L. 94–265, title III][/us/pl/94/265/tIII], § 302, Apr. 13, 1976, [90 Stat. 347][/us/stat/90/347]; [Pub. L. 95–354][/us/pl/95/354], § 5(1), Aug. 28, 1978, [92 Stat. 521][/us/stat/92/521]; [Pub. L. 96–561, title II][/us/pl/96/561/tII], § 234, Dec. 22, 1980, [94 Stat. 3299][/us/stat/94/3299]; [Pub. L. 97–453][/us/pl/97/453], § 5, Jan. 12, 1983, [96 Stat. 2484][/us/stat/96/2484]; [Pub. L. 99–659, title I][/us/pl/99/659/tI], § 104(a)(1), (b)–(e)(1), Nov. 14, 1986, [100 Stat. 3709][/us/stat/100/3709], 3710; [Pub. L. 101–627, title I][/us/pl/101/627/tI], §§ 108(a)–(j), 120(c), Nov. 28, 1990, [104 Stat. 4444–4446][/us/stat/104/4444-4446], 4459; [Pub. L. 102–582, title IV][/us/pl/102/582/tIV], § 403, Nov. 2, 1992, [106 Stat. 4909][/us/stat/106/4909]; [Pub. L. 104–297, title I][/us/pl/104/297/tI], § 107, Oct. 11, 1996, [110 Stat. 3570][/us/stat/110/3570]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(1) \[title II, § 210\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–33; [Pub. L. 109–479, title I][/us/pl/109/479/tI], §§ 102, 103, Jan. 12, 2007, [120 Stat. 3579][/us/stat/120/3579].)
 
  __References in Text__ 
 
-    Subsection (k), referred to in subsec. (b)(2)(C), was redesignated subsec. (j) of this section by [Pub. L. 104–297, title I, § 107(g)][/us/pl/104/297/s107/g], Oct. 11, 1996, [110 Stat. 3572][/us/stat/110/3572].
+    Subsection (k), referred to in subsec. (b)(2)(C), was redesignated subsec. (j) of this section by [Pub. L. 104–297, title I][/us/pl/104/297/tI], § 107(g), Oct. 11, 1996, [110 Stat. 3572][/us/stat/110/3572].
 
     The General Schedule, referred to in subsec. (d), is set out under [section 5332 of Title 5][/us/usc/t5/s5332], Government Organization and Employees.
 
@@ -431,81 +431,81 @@
 
  __Amendments__ 
 
-    2007—Subsec. (a)(1)(D). [Pub. L. 109–479, § 102][/us/pl/109/479/s102], inserted “and of commonwealths, territories, and possessions of the United States in the Caribbean Sea” after “seaward of such States”.
+    2007—Subsec. (a)(1)(D). [Pub. L. 109–479][/us/pl/109/479], § 102, inserted “and of commonwealths, territories, and possessions of the United States in the Caribbean Sea” after “seaward of such States”.
 
-    Subsec. (b)(2)(D), (E). [Pub. L. 109–479, § 103(j)][/us/pl/109/479/s103/j], added subpar. (D) and redesignated former subpar. (D) as (E).
+    Subsec. (b)(2)(D), (E). [Pub. L. 109–479][/us/pl/109/479], § 103(j), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-    Subsec. (b)(5)(D). [Pub. L. 109–479, § 103(a)][/us/pl/109/479/s103/a], added subpar. (D).
+    Subsec. (b)(5)(D). [Pub. L. 109–479][/us/pl/109/479], § 103(a), added subpar. (D).
 
-    Subsec. (g). [Pub. L. 109–479, § 103(b)(1)][/us/pl/109/479/s103/b/1], substituted “Committees and advisory panels” for “Committees and panels” in heading.
+    Subsec. (g). [Pub. L. 109–479][/us/pl/109/479], § 103(b)(1), substituted “Committees and advisory panels” for “Committees and panels” in heading.
 
-    Subsec. (g)(1). [Pub. L. 109–479, § 103(b)(1)][/us/pl/109/479/s103/b/1], added par. (1) and struck out former par. (1) which read as follows: “Each Council shall establish and maintain, and appoint the members of, a scientific and statistical committee to assist it in the development, collection, and evaluation of such statistical, biological, economic, social, and other scientific information as is relevant to such Council’s development and amendment of any fishery management plan.”
+    Subsec. (g)(1). [Pub. L. 109–479][/us/pl/109/479], § 103(b)(1), added par. (1) and struck out former par. (1) which read as follows: “Each Council shall establish and maintain, and appoint the members of, a scientific and statistical committee to assist it in the development, collection, and evaluation of such statistical, biological, economic, social, and other scientific information as is relevant to such Council’s development and amendment of any fishery management plan.”
 
-    Subsec. (g)(2). [Pub. L. 109–479, § 103(b)(2)][/us/pl/109/479/s103/b/2], (3), struck out “other” before “advisory panels” and realigned margins.
+    Subsec. (g)(2). [Pub. L. 109–479][/us/pl/109/479], § 103(b)(2), (3), struck out “other” before “advisory panels” and realigned margins.
 
-    Subsec. (g)(3) to (5). [Pub. L. 109–479, § 103(b)(3)][/us/pl/109/479/s103/b/3], realigned margins.
+    Subsec. (g)(3) to (5). [Pub. L. 109–479][/us/pl/109/479], § 103(b)(3), realigned margins.
 
-    Subsec. (h)(5). [Pub. L. 109–479, § 103(c)(1)][/us/pl/109/479/s103/c/1], which directed substitution of “authority;” for “authority, and”, was executed by making the substitution for “authority; and” to reflect the probable intent of Congress.
+    Subsec. (h)(5). [Pub. L. 109–479][/us/pl/109/479], § 103(c)(1), which directed substitution of “authority;” for “authority, and”, was executed by making the substitution for “authority; and” to reflect the probable intent of Congress.
 
-    Subsec. (h)(6). [Pub. L. 109–479, § 103(c)(3)][/us/pl/109/479/s103/c/3], added par. (6). Former par. (6) redesignated (7).
+    Subsec. (h)(6). [Pub. L. 109–479][/us/pl/109/479], § 103(c)(3), added par. (6). Former par. (6) redesignated (7).
 
-    Subsec. (h)(7). [Pub. L. 109–479, § 103(d)(1)][/us/pl/109/479/s103/d/1], (3), added par. (7). Former par. (7) redesignated (8).
+    Subsec. (h)(7). [Pub. L. 109–479][/us/pl/109/479], § 103(d)(1), (3), added par. (7). Former par. (7) redesignated (8).
 
-    [Pub. L. 109–479, § 103(c)(2)][/us/pl/109/479/s103/c/2], redesignated par. (6) as (7).
+    [Pub. L. 109–479][/us/pl/109/479], § 103(c)(2), redesignated par. (6) as (7).
 
-    Subsec. (h)(8). [Pub. L. 109–479, § 103(d)(2)][/us/pl/109/479/s103/d/2], redesignated par. (7) as (8).
+    Subsec. (h)(8). [Pub. L. 109–479][/us/pl/109/479], § 103(d)(2), redesignated par. (7) as (8).
 
-    Subsec. (i)(1). [Pub. L. 109–479, § 103(h)(1)][/us/pl/109/479/s103/h/1], substituted “to the Councils, the Council coordination committee established under subsection (l), or to the scientific and statistical committees or other committees or advisory panels established under subsection (g).” for “to the Councils or to the scientific and statistical committees or advisory panels established under subsection (g) of this section.”
+    Subsec. (i)(1). [Pub. L. 109–479][/us/pl/109/479], § 103(h)(1), substituted “to the Councils, the Council coordination committee established under subsection (l), or to the scientific and statistical committees or other committees or advisory panels established under subsection (g).” for “to the Councils or to the scientific and statistical committees or advisory panels established under subsection (g) of this section.”
 
-    Subsec. (i)(2). [Pub. L. 109–479, § 103(h)(2)][/us/pl/109/479/s103/h/2], in introductory provisions, substituted “of a Council, of the Council coordination committee established under subsection (l), and of the scientific and statistical committees or other committees or advisory panels established under subsection (g):” for “of a Council, and of the scientific and statistical committee and advisory panels established under subsection (g) of this section:”.
+    Subsec. (i)(2). [Pub. L. 109–479][/us/pl/109/479], § 103(h)(2), in introductory provisions, substituted “of a Council, of the Council coordination committee established under subsection (l), and of the scientific and statistical committees or other committees or advisory panels established under subsection (g):” for “of a Council, and of the scientific and statistical committee and advisory panels established under subsection (g) of this section:”.
 
-    Subsec. (i)(2)(C). [Pub. L. 109–479, § 103(e)][/us/pl/109/479/s103/e], substituted “provided by any means that will result in wide publicity in the major fishing ports of the region (and in other major fishing ports having a direct interest in the affected fishery), except that e-mail notification and website postings alone are not sufficient.” for “published in local newspapers in the major fishing ports of the region (and in other major fishing ports having a direct interest in the affected fishery) and such notice may be given by such other means as will result in wide publicity.”
+    Subsec. (i)(2)(C). [Pub. L. 109–479][/us/pl/109/479], § 103(e), substituted “provided by any means that will result in wide publicity in the major fishing ports of the region (and in other major fishing ports having a direct interest in the affected fishery), except that e-mail notification and website postings alone are not sufficient.” for “published in local newspapers in the major fishing ports of the region (and in other major fishing ports having a direct interest in the affected fishery) and such notice may be given by such other means as will result in wide publicity.”
 
-    Subsec. (i)(3)(A). [Pub. L. 109–479, § 103(h)(3)][/us/pl/109/479/s103/h/3], (4), in introductory provisions, inserted “the Council Coordination Committee established under subsection (l),” after “Council,” and “other committees,” after “committee,”.
+    Subsec. (i)(3)(A). [Pub. L. 109–479][/us/pl/109/479], § 103(h)(3), (4), in introductory provisions, inserted “the Council Coordination Committee established under subsection (l),” after “Council,” and “other committees,” after “committee,”.
 
-    Subsec. (i)(3)(B). [Pub. L. 109–479, § 103(f)][/us/pl/109/479/s103/f], which directed substitution of “provide notice by any means that will result in wide publicity in the major fishing ports of the region (and in other major fishing ports having a direct interest in the affected fishery), except that e-mail notification and website postings alone are not sufficient,” for “notify local newspapers in the major fishing ports within its region (and in other major, affected fishing ports,”, was executed by making the substitution for text which ended with “ports),” to reflect the probable intent of Congress.
+    Subsec. (i)(3)(B). [Pub. L. 109–479][/us/pl/109/479], § 103(f), which directed substitution of “provide notice by any means that will result in wide publicity in the major fishing ports of the region (and in other major fishing ports having a direct interest in the affected fishery), except that e-mail notification and website postings alone are not sufficient,” for “notify local newspapers in the major fishing ports within its region (and in other major, affected fishing ports,”, was executed by making the substitution for text which ended with “ports),” to reflect the probable intent of Congress.
 
-    Subsec. (j)(2). [Pub. L. 109–479, § 103(i)(1)][/us/pl/109/479/s103/i/1], (2), in concluding provisions, inserted “lobbying, advocacy,” after “processing,” and substituted “jurisdiction, or with respect to an individual or organization with a financial interest in such activity.” for “jurisdiction.”
+    Subsec. (j)(2). [Pub. L. 109–479][/us/pl/109/479], § 103(i)(1), (2), in concluding provisions, inserted “lobbying, advocacy,” after “processing,” and substituted “jurisdiction, or with respect to an individual or organization with a financial interest in such activity.” for “jurisdiction.”
 
-    Subsec. (j)(5)(B). [Pub. L. 109–479, § 103(i)(3)][/us/pl/109/479/s103/i/3], added subpar. (B) and struck out former subpar. (B) which read as follows: “be kept on file, and made available for public inspection at reasonable hours, at the Council offices; and”.
+    Subsec. (j)(5)(B). [Pub. L. 109–479][/us/pl/109/479], § 103(i)(3), added subpar. (B) and struck out former subpar. (B) which read as follows: “be kept on file, and made available for public inspection at reasonable hours, at the Council offices; and”.
 
-    Subsec. (j)(9). [Pub. L. 109–479, § 103(i)(4)][/us/pl/109/479/s103/i/4], added par. (9).
+    Subsec. (j)(9). [Pub. L. 109–479][/us/pl/109/479], § 103(i)(4), added par. (9).
 
-    Subsecs. (k), (l). [Pub. L. 109–479, § 103(g)][/us/pl/109/479/s103/g], added subsecs. (k) and (l).
+    Subsecs. (k), (l). [Pub. L. 109–479][/us/pl/109/479], § 103(g), added subsecs. (k) and (l).
 
     1999—Subsec. (a)(1)(A). [Pub. L. 106–113][/us/pl/106/113] substituted “18” for “17” and “12” for “11”.
 
-    1996—Subsec. (a). [Pub. L. 104–297, § 107(a)(1)][/us/pl/104/297/s107/a/1], (2), (6), inserted “(1)” before “There shall be established”, redesignated former pars. (1) to (8) as subpars. (A) to (H), respectively, adjusted margin of last sentence, and inserted “(2)” before “Each Council”.
+    1996—Subsec. (a). [Pub. L. 104–297][/us/pl/104/297], § 107(a)(1), (2), (6), inserted “(1)” before “There shall be established”, redesignated former pars. (1) to (8) as subpars. (A) to (H), respectively, adjusted margin of last sentence, and inserted “(2)” before “Each Council”.
 
-    Subsec. (a)(1)(A). [Pub. L. 104–297, § 107(a)(3)][/us/pl/104/297/s107/a/3], substituted “paragraph (3)” for “[section 1854(f)(3) of this title][/us/usc/t16/s1854/f/3]”.
+    Subsec. (a)(1)(A). [Pub. L. 104–297][/us/pl/104/297], § 107(a)(3), substituted “paragraph (3)” for “[section 1854(f)(3) of this title][/us/usc/t16/s1854/f/3]”.
 
-    Subsec. (a)(1)(B). [Pub. L. 104–297, § 107(a)(3)][/us/pl/104/297/s107/a/3], (4), substituted “Virginia, and North Carolina” for “and Virginia”, inserted “North Carolina, and” after “except”, and substituted “paragraph (3)” for “[section 1854(f)(3) of this title][/us/usc/t16/s1854/f/3]”, “21 voting” for “19 voting”, and “13 appointed” for “12 appointed”.
+    Subsec. (a)(1)(B). [Pub. L. 104–297][/us/pl/104/297], § 107(a)(3), (4), substituted “Virginia, and North Carolina” for “and Virginia”, inserted “North Carolina, and” after “except”, and substituted “paragraph (3)” for “[section 1854(f)(3) of this title][/us/usc/t16/s1854/f/3]”, “21 voting” for “19 voting”, and “13 appointed” for “12 appointed”.
 
-    Subsec. (a)(1)(C) to (E). [Pub. L. 104–297, § 107(a)(3)][/us/pl/104/297/s107/a/3], substituted “paragraph (3)” for “[section 1854(f)(3) of this title][/us/usc/t16/s1854/f/3]”.
+    Subsec. (a)(1)(C) to (E). [Pub. L. 104–297][/us/pl/104/297], § 107(a)(3), substituted “paragraph (3)” for “[section 1854(f)(3) of this title][/us/usc/t16/s1854/f/3]”.
 
-    Subsec. (a)(1)(F). [Pub. L. 104–297, § 107(a)(5)][/us/pl/104/297/s107/a/5], amended heading and text of subpar. (F) generally. Prior to amendment, text read as follows: “The Pacific Fishery Management Council shall consist of the States of California, Oregon, Washington, and Idaho and shall have authority over the fisheries in the Pacific Ocean seaward of such States. The Pacific Council shall have 13 voting members, including 8 appointed by the Secretary in accordance with subsection (b)(2) of this section (at least one of whom shall be appointed from each such State).”
+    Subsec. (a)(1)(F). [Pub. L. 104–297][/us/pl/104/297], § 107(a)(5), amended heading and text of subpar. (F) generally. Prior to amendment, text read as follows: “The Pacific Fishery Management Council shall consist of the States of California, Oregon, Washington, and Idaho and shall have authority over the fisheries in the Pacific Ocean seaward of such States. The Pacific Council shall have 13 voting members, including 8 appointed by the Secretary in accordance with subsection (b)(2) of this section (at least one of whom shall be appointed from each such State).”
 
-    Subsec. (a)(3). [Pub. L. 104–297, § 107(a)(7)][/us/pl/104/297/s107/a/7], added par. (3).
+    Subsec. (a)(3). [Pub. L. 104–297][/us/pl/104/297], § 107(a)(7), added par. (3).
 
-    Subsec. (b)(1)(C). [Pub. L. 104–297, § 107(b)(1)][/us/pl/104/297/s107/b/1], substituted “paragraphs (2) and (5)” for “subsection (b)(2) of this section”.
+    Subsec. (b)(1)(C). [Pub. L. 104–297][/us/pl/104/297], § 107(b)(1), substituted “paragraphs (2) and (5)” for “subsection (b)(2) of this section”.
 
-    Subsec. (b)(3). [Pub. L. 104–297, § 107(b)(1)][/us/pl/104/297/s107/b/1], (2), substituted “paragraphs (2) and (5)” for “subsection (b)(2) of this section” and “Any term in which an individual was appointed to replace a member who left office during the term shall not be counted in determining the number of consecutive terms served by that Council member.” for “Any term completed prior to December 31, 1987, shall not be counted in determining the number of consecutive terms served by any Council member.”
+    Subsec. (b)(3). [Pub. L. 104–297][/us/pl/104/297], § 107(b)(1), (2), substituted “paragraphs (2) and (5)” for “subsection (b)(2) of this section” and “Any term in which an individual was appointed to replace a member who left office during the term shall not be counted in determining the number of consecutive terms served by that Council member.” for “Any term completed prior to December 31, 1987, shall not be counted in determining the number of consecutive terms served by any Council member.”
 
-    Subsec. (b)(5), (6). [Pub. L. 104–297, § 107(b)(3)][/us/pl/104/297/s107/b/3], added pars. (5) and (6) and struck out former par. (5) which read as follows: “The Secretary may remove for cause any member of a Council required to be appointed by the Secretary in accordance with subsection (b)(2) of this section if the Council concerned first recommends removal by not less than two-thirds of the members who are voting members. A removal recommendation of a Council must be in writing and accompanied by a statement of the reasons upon which the recommendation is based.”
+    Subsec. (b)(5), (6). [Pub. L. 104–297][/us/pl/104/297], § 107(b)(3), added pars. (5) and (6) and struck out former par. (5) which read as follows: “The Secretary may remove for cause any member of a Council required to be appointed by the Secretary in accordance with subsection (b)(2) of this section if the Council concerned first recommends removal by not less than two-thirds of the members who are voting members. A removal recommendation of a Council must be in writing and accompanied by a statement of the reasons upon which the recommendation is based.”
 
-    Subsec. (d). [Pub. L. 104–297, § 107(c)][/us/pl/104/297/s107/c], substituted “each Council who are required to be appointed by the Secretary and” for “each Council,” and “shall receive compensation at the daily rate for GS–15, step 7” for “shall, until January 1, 1992, receive compensation at the daily rate for GS–18 of the General Schedule, and after December 31, 1991, at the daily rate for GS–16”.
+    Subsec. (d). [Pub. L. 104–297][/us/pl/104/297], § 107(c), substituted “each Council who are required to be appointed by the Secretary and” for “each Council,” and “shall receive compensation at the daily rate for GS–15, step 7” for “shall, until January 1, 1992, receive compensation at the daily rate for GS–18 of the General Schedule, and after December 31, 1991, at the daily rate for GS–16”.
 
-    Subsec. (e)(5). [Pub. L. 104–297, § 107(d)][/us/pl/104/297/s107/d], added par. (5).
+    Subsec. (e)(5). [Pub. L. 104–297][/us/pl/104/297], § 107(d), added par. (5).
 
-    Subsec. (g)(4), (5). [Pub. L. 104–297, § 107(e)][/us/pl/104/297/s107/e], added par. (4) and redesignated former par. (4) as (5).
+    Subsec. (g)(4), (5). [Pub. L. 104–297][/us/pl/104/297], § 107(e), added par. (4) and redesignated former par. (4) as (5).
 
-    Subsec. (h)(1). [Pub. L. 104–297, § 107(f)(1)][/us/pl/104/297/s107/f/1], added par. (1) and struck out former par. (1) which read as follows: “prepare and submit to the Secretary a fishery management plan with respect to each fishery (except as provided in [section 1854(f)(3) of this title][/us/usc/t16/s1854/f/3]) within its geographical area of authority that requires conservation and management and, from time to time, such amendments to each such plan as are necessary;”.
+    Subsec. (h)(1). [Pub. L. 104–297][/us/pl/104/297], § 107(f)(1), added par. (1) and struck out former par. (1) which read as follows: “prepare and submit to the Secretary a fishery management plan with respect to each fishery (except as provided in [section 1854(f)(3) of this title][/us/usc/t16/s1854/f/3]) within its geographical area of authority that requires conservation and management and, from time to time, such amendments to each such plan as are necessary;”.
 
-    Subsec. (h)(2). [Pub. L. 104–297, § 107(f)(2)][/us/pl/104/297/s107/f/2], substituted “[section 1824(b)(4)(C) of this title][/us/usc/t16/s1824/b/4/C] or [section 1824(d) of this title][/us/usc/t16/s1824/d]” for “[section 1824(b)(4)(C) of this title][/us/usc/t16/s1824/b/4/C]” and “section 1854(c)(4)” for “section 1854(c)(2)”.
+    Subsec. (h)(2). [Pub. L. 104–297][/us/pl/104/297], § 107(f)(2), substituted “[section 1824(b)(4)(C) of this title][/us/usc/t16/s1824/b/4/C] or [section 1824(d) of this title][/us/usc/t16/s1824/d]” for “[section 1824(b)(4)(C) of this title][/us/usc/t16/s1824/b/4/C]” and “section 1854(c)(4)” for “section 1854(c)(2)”.
 
-    Subsec. (h)(5). [Pub. L. 104–297, § 107(f)(3)][/us/pl/104/297/s107/f/3], substituted “subsection (a)(3)” for “1854(f)(3) of this title”.
+    Subsec. (h)(5). [Pub. L. 104–297][/us/pl/104/297], § 107(f)(3), substituted “subsection (a)(3)” for “1854(f)(3) of this title”.
 
-    Subsec. (i). [Pub. L. 104–297, § 107(g)][/us/pl/104/297/s107/g], redesignated subsec. (j) as (i) and struck out heading and text of former subsec. (i). Text read as follows:
+    Subsec. (i). [Pub. L. 104–297][/us/pl/104/297], § 107(g), redesignated subsec. (j) as (i) and struck out heading and text of former subsec. (i). Text read as follows:
 
     “(1) Each Council—
 
@@ -515,23 +515,23 @@
 
     “(2) Within 45 days after receiving a comment or recommendation under paragraph (1) from a Council, a Federal agency shall provide a detailed response, in writing, to the Council regarding the matter. In the case of a comment or recommendation under paragraph (1)(B), the response shall include a description of measures being considered by the agency for mitigating or offsetting the impact of the activity on such habitat.”
 
-    Subsec. (i)(1). [Pub. L. 104–297, § 107(h)(1)][/us/pl/104/297/s107/h/1], substituted “established under subsection (g) of this section” for “of the Councils”.
+    Subsec. (i)(1). [Pub. L. 104–297][/us/pl/104/297], § 107(h)(1), substituted “established under subsection (g) of this section” for “of the Councils”.
 
-    Subsec. (i)(2). [Pub. L. 104–297, § 107(h)(2)][/us/pl/104/297/s107/h/2], substituted “established under subsection (g) of this section” for “of a Council” in introductory provisions.
+    Subsec. (i)(2). [Pub. L. 104–297][/us/pl/104/297], § 107(h)(2), substituted “established under subsection (g) of this section” for “of a Council” in introductory provisions.
 
-    Subsec. (i)(2)(C). [Pub. L. 104–297, § 107(h)(3)][/us/pl/104/297/s107/h/3], (4), struck out “Council’s” after “fishing ports of the” and inserted at end “The published agenda of the meeting may not be modified to include additional matters for Council action without public notice or within 14 days prior to the meeting date, unless such modification is to address an emergency action under [section 1855(c) of this title][/us/usc/t16/s1855/c], in which case public notice shall be given immediately.”
+    Subsec. (i)(2)(C). [Pub. L. 104–297][/us/pl/104/297], § 107(h)(3), (4), struck out “Council’s” after “fishing ports of the” and inserted at end “The published agenda of the meeting may not be modified to include additional matters for Council action without public notice or within 14 days prior to the meeting date, unless such modification is to address an emergency action under [section 1855(c) of this title][/us/usc/t16/s1855/c], in which case public notice shall be given immediately.”
 
-    Subsec. (i)(2)(D). [Pub. L. 104–297, § 107(h)(5)][/us/pl/104/297/s107/h/5], inserted at end “All written information submitted to a Council by an interested person shall include a statement of the source and date of such information. Any oral or written statement shall include a brief description of the background and interests of the person in the subject of the oral or written statement.”
+    Subsec. (i)(2)(D). [Pub. L. 104–297][/us/pl/104/297], § 107(h)(5), inserted at end “All written information submitted to a Council by an interested person shall include a statement of the source and date of such information. Any oral or written statement shall include a brief description of the background and interests of the person in the subject of the oral or written statement.”
 
-    Subsec. (i)(2)(E). [Pub. L. 104–297, § 107(h)(6)][/us/pl/104/297/s107/h/6], added subpar. (E) and struck out former subpar. (E) which read as follows: “Minutes of each meeting shall be kept and shall contain a record of the persons present, an accurate description of matters discussed and conclusions reached, and copies of all statements filed.”
+    Subsec. (i)(2)(E). [Pub. L. 104–297][/us/pl/104/297], § 107(h)(6), added subpar. (E) and struck out former subpar. (E) which read as follows: “Minutes of each meeting shall be kept and shall contain a record of the persons present, an accurate description of matters discussed and conclusions reached, and copies of all statements filed.”
 
-    Subsec. (i)(2)(F). [Pub. L. 104–297, § 107(h)(7)][/us/pl/104/297/s107/h/7]–(9), struck out “by the Council” after “procedures established”, substituted “section 1881a(b)” for “section 1853(d)”, and inserted “or the Secretary, as appropriate” after “of the Council”.
+    Subsec. (i)(2)(F). [Pub. L. 104–297][/us/pl/104/297], § 107(h)(7)–(9), struck out “by the Council” after “procedures established”, substituted “section 1881a(b)” for “section 1853(d)”, and inserted “or the Secretary, as appropriate” after “of the Council”.
 
-    Subsec. (i)(4). [Pub. L. 104–297, § 107(h)(10)][/us/pl/104/297/s107/h/10], substituted “section 1881a(b)” for “section 1853(d)”.
+    Subsec. (i)(4). [Pub. L. 104–297][/us/pl/104/297], § 107(h)(10), substituted “section 1881a(b)” for “section 1853(d)”.
 
-    Subsec. (j). [Pub. L. 104–297, § 107(g)][/us/pl/104/297/s107/g], (i)(1), redesignated subsec. (k) as (j) and inserted “and recusal” at the end of subsection heading. Former subsec. (j) redesignated (i).
+    Subsec. (j). [Pub. L. 104–297][/us/pl/104/297], § 107(g), (i)(1), redesignated subsec. (k) as (j) and inserted “and recusal” at the end of subsection heading. Former subsec. (j) redesignated (i).
 
-    Subsec. (j)(1). [Pub. L. 104–297, § 107(i)(2)][/us/pl/104/297/s107/i/2], added par. (1) and struck out former par. (1) which read as follows: “For purposes of this subsection, the term ‘affected individual’ means an individual who—
+    Subsec. (j)(1). [Pub. L. 104–297][/us/pl/104/297], § 107(i)(2), added par. (1) and struck out former par. (1) which read as follows: “For purposes of this subsection, the term ‘affected individual’ means an individual who—
 
     “(A) is nominated by the Governor of a State for appointment as a voting member of a Council in accordance with subsection (b)(2) of this section;
 
@@ -539,27 +539,27 @@
 
     “(C) is the executive director of a Council.”
 
-    Subsec. (j)(3)(A). [Pub. L. 104–297, § 107(i)(3)][/us/pl/104/297/s107/i/3], substituted “(1)(A)(i)” for “(1)(A)”.
+    Subsec. (j)(3)(A). [Pub. L. 104–297][/us/pl/104/297], § 107(i)(3), substituted “(1)(A)(i)” for “(1)(A)”.
 
-    Subsec. (j)(3)(B), (4). [Pub. L. 104–297, § 107(i)(4)][/us/pl/104/297/s107/i/4], (5), substituted “(1)(A)(ii)” for “(1)(B) or (C)”.
+    Subsec. (j)(3)(B), (4). [Pub. L. 104–297][/us/pl/104/297], § 107(i)(4), (5), substituted “(1)(A)(ii)” for “(1)(B) or (C)”.
 
-    Subsec. (j)(5)(C). [Pub. L. 104–297, § 107(i)(6)][/us/pl/104/297/s107/i/6], added subpar. (C).
+    Subsec. (j)(5)(C). [Pub. L. 104–297][/us/pl/104/297], § 107(i)(6), added subpar. (C).
 
-    Subsec. (j)(6). [Pub. L. 104–297, § 107(i)(7)][/us/pl/104/297/s107/i/7], substituted “(1)(A)(ii)” for “(1)(B) or (C)”.
+    Subsec. (j)(6). [Pub. L. 104–297][/us/pl/104/297], § 107(i)(7), substituted “(1)(A)(ii)” for “(1)(B) or (C)”.
 
-    Subsec. (j)(7). [Pub. L. 104–297, § 107(i)(8)][/us/pl/104/297/s107/i/8], added par. (7). Former par. (7) redesignated (8).
+    Subsec. (j)(7). [Pub. L. 104–297][/us/pl/104/297], § 107(i)(8), added par. (7). Former par. (7) redesignated (8).
 
-    Subsec. (j)(8). [Pub. L. 104–297, § 107(i)(9)][/us/pl/104/297/s107/i/9], substituted “(1)(A)(ii)” for “(1)(B) or (C)”.
+    Subsec. (j)(8). [Pub. L. 104–297][/us/pl/104/297], § 107(i)(9), substituted “(1)(A)(ii)” for “(1)(B) or (C)”.
 
-    [Pub. L. 104–297, § 107(i)(8)][/us/pl/104/297/s107/i/8], redesignated par. (7) as (8).
+    [Pub. L. 104–297][/us/pl/104/297], § 107(i)(8), redesignated par. (7) as (8).
 
-    Subsec. (k). [Pub. L. 104–297, § 107(g)][/us/pl/104/297/s107/g], redesignated subsec. (k) as (j).
+    Subsec. (k). [Pub. L. 104–297][/us/pl/104/297], § 107(g), redesignated subsec. (k) as (j).
 
     1992—Subsec. (b)(3). [Pub. L. 102–582][/us/pl/102/582] substituted “December 31, 1987” for “January 1, 1986”.
 
-    1990—Subsec. (a). [Pub. L. 101–627, § 108(a)][/us/pl/101/627/s108/a], inserted “(except as provided in [section 1854(f)(3) of this title][/us/usc/t16/s1854/f/3])” before period at end of first sentence in pars. (1) to (5).
+    1990—Subsec. (a). [Pub. L. 101–627][/us/pl/101/627], § 108(a), inserted “(except as provided in [section 1854(f)(3) of this title][/us/usc/t16/s1854/f/3])” before period at end of first sentence in pars. (1) to (5).
 
-    Subsec. (b)(2). [Pub. L. 101–627, § 108(b)][/us/pl/101/627/s108/b], amended par. (2) generally. Prior to amendment, par. (2) read as follows:
+    Subsec. (b)(2). [Pub. L. 101–627][/us/pl/101/627], § 108(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
     “(A) The members of each Council required to be appointed by the Secretary must be individuals who are knowledgeable and experienced with regard to the conservation and management, or the recreational or commercial harvest, of the fishery resources of the geographical area concerned. The Secretary, in making appointments under this section, shall, to the extent practicable, ensure a fair apportionment, on a rotating or other basis, of the active participants (or their representatives) involved in the fisheries under Council jurisdiction.
 
@@ -567,63 +567,63 @@
 
     “(C) Whenever the Secretary makes an appointment to a Council, he shall make a public announcement of such appointment not less than 45 days before the first day on which the individual is to take office as a member of the Council.”
 
-    Subsec. (b)(3). [Pub. L. 101–627, § 108(c)][/us/pl/101/627/s108/c], inserted at end “No member appointed after January 1, 1986, may serve more than three consecutive terms. Any term completed prior to January 1, 1986, shall not be counted in determining the number of consecutive terms served by any Council member.”
+    Subsec. (b)(3). [Pub. L. 101–627][/us/pl/101/627], § 108(c), inserted at end “No member appointed after January 1, 1986, may serve more than three consecutive terms. Any term completed prior to January 1, 1986, shall not be counted in determining the number of consecutive terms served by any Council member.”
 
-    Subsec. (d). [Pub. L. 101–627, § 108(d)][/us/pl/101/627/s108/d], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The voting members of each Council, who are not employed by the Federal Government or any State or local government, shall receive compensation at the daily rate for GS–18 of the General Schedule when engaged in the actual performance of duties for such Council. The voting members of each Council, any nonvoting member described in subsection (c)(1)(C) of this section, and the nonvoting member appointed pursuant to subsection (c)(2) of this section shall be reimbursed for actual expenses incurred in the performance of such duties, and other nonvoting members may be reimbursed for actual expenses.”
+    Subsec. (d). [Pub. L. 101–627][/us/pl/101/627], § 108(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The voting members of each Council, who are not employed by the Federal Government or any State or local government, shall receive compensation at the daily rate for GS–18 of the General Schedule when engaged in the actual performance of duties for such Council. The voting members of each Council, any nonvoting member described in subsection (c)(1)(C) of this section, and the nonvoting member appointed pursuant to subsection (c)(2) of this section shall be reimbursed for actual expenses incurred in the performance of such duties, and other nonvoting members may be reimbursed for actual expenses.”
 
-    Subsec. (e)(3). [Pub. L. 101–627, § 108(e)(1)][/us/pl/101/627/s108/e/1], substituted “at appropriate times and places in any of the constituent States of the Council” for “in the geographical area concerned”.
+    Subsec. (e)(3). [Pub. L. 101–627][/us/pl/101/627], § 108(e)(1), substituted “at appropriate times and places in any of the constituent States of the Council” for “in the geographical area concerned”.
 
-    Subsec. (e)(4). [Pub. L. 101–627, § 108(e)(2)][/us/pl/101/627/s108/e/2], inserted at end “The regional director of the National Marine Fisheries Service serving on the Council, or the regional director’s designee, shall submit such a statement, which shall be made available to the public upon request, if the regional director disagrees with any such matter.”
+    Subsec. (e)(4). [Pub. L. 101–627][/us/pl/101/627], § 108(e)(2), inserted at end “The regional director of the National Marine Fisheries Service serving on the Council, or the regional director’s designee, shall submit such a statement, which shall be made available to the public upon request, if the regional director disagrees with any such matter.”
 
-    Subsec. (g)(3), (4). [Pub. L. 101–627, § 108(f)][/us/pl/101/627/s108/f], added pars. (3) and (4).
+    Subsec. (g)(3), (4). [Pub. L. 101–627][/us/pl/101/627], § 108(f), added pars. (3) and (4).
 
-    Subsec. (h). [Pub. L. 101–627, § 108(g)][/us/pl/101/627/s108/g], inserted “(except as provided in [section 1854(f)(3) of this title][/us/usc/t16/s1854/f/3])” before “within its geographical” in pars. (1) and (5).
+    Subsec. (h). [Pub. L. 101–627][/us/pl/101/627], § 108(g), inserted “(except as provided in [section 1854(f)(3) of this title][/us/usc/t16/s1854/f/3])” before “within its geographical” in pars. (1) and (5).
 
-    Subsec. (i). [Pub. L. 101–627, § 108(h)][/us/pl/101/627/s108/h], amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: “Each Council may comment on, or make recommendations concerning, any activity undertaken, or proposed to be undertaken, by any State or Federal agency that, in the view of the Council, may affect the habitat of a fishery resource under its jurisdiction. Within 45 days after receiving such a comment or recommendation from a Council, a Federal agency must provide a detailed response, in writing, to the Council regarding the matter.”
+    Subsec. (i). [Pub. L. 101–627][/us/pl/101/627], § 108(h), amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: “Each Council may comment on, or make recommendations concerning, any activity undertaken, or proposed to be undertaken, by any State or Federal agency that, in the view of the Council, may affect the habitat of a fishery resource under its jurisdiction. Within 45 days after receiving such a comment or recommendation from a Council, a Federal agency must provide a detailed response, in writing, to the Council regarding the matter.”
 
-    Subsec. (j)(3)(A). [Pub. L. 101–627, § 108(i)(1)][/us/pl/101/627/s108/i/1], substituted period for semicolon in cl. (ii), and in concluding provisions struck out “and if any meeting or portion is closed, the Council, committee, or panel concerned shall publish notice of the closure in local newspapers in the major fishing ports within its region (and in other major, affected fishing ports), including the time and place of the meeting.” before “Subparagraphs (D) and (F)” and inserted “of paragraph (2)” after “Subparagraphs (D) and (F)”.
+    Subsec. (j)(3)(A). [Pub. L. 101–627][/us/pl/101/627], § 108(i)(1), substituted period for semicolon in cl. (ii), and in concluding provisions struck out “and if any meeting or portion is closed, the Council, committee, or panel concerned shall publish notice of the closure in local newspapers in the major fishing ports within its region (and in other major, affected fishing ports), including the time and place of the meeting.” before “Subparagraphs (D) and (F)” and inserted “of paragraph (2)” after “Subparagraphs (D) and (F)”.
 
-    Subsec. (j)(3)(B). [Pub. L. 101–627, § 108(i)(2)][/us/pl/101/627/s108/i/2], added subpar. (B).
+    Subsec. (j)(3)(B). [Pub. L. 101–627][/us/pl/101/627], § 108(i)(2), added subpar. (B).
 
-    Subsec. (j)(4). [Pub. L. 101–627, § 120(c)][/us/pl/101/627/s120/c], substituted “Council employee” for “council employee”.
+    Subsec. (j)(4). [Pub. L. 101–627][/us/pl/101/627], § 120(c), substituted “Council employee” for “council employee”.
 
-    Subsec. (j)(6). [Pub. L. 101–627, § 108(j)][/us/pl/101/627/s108/j], added par. (6).
+    Subsec. (j)(6). [Pub. L. 101–627][/us/pl/101/627], § 108(j), added par. (6).
 
-    1986—Subsec. (b)(2)(A). [Pub. L. 99–659, § 104(a)(1)(A)][/us/pl/99/659/s104/a/1/A], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The members of each Council required to be appointed by the Secretary must be individuals who are knowledgeable or experienced with regard to the management, conservation, or recreational or commercial harvest of the fishery resources of the geographical area concerned.”
+    1986—Subsec. (b)(2)(A). [Pub. L. 99–659][/us/pl/99/659], § 104(a)(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The members of each Council required to be appointed by the Secretary must be individuals who are knowledgeable or experienced with regard to the management, conservation, or recreational or commercial harvest of the fishery resources of the geographical area concerned.”
 
-    Subsec. (b)(2)(B). [Pub. L. 99–659, § 104(a)(1)(B)][/us/pl/99/659/s104/a/1/B], inserted provision that a Governor may not submit the names of individuals to the Secretary for appointment unless the Governor has, to the extent practicable, first consulted with representatives of the commercial and recreational fishing interests of the state regarding those individuals, substituted “knowledge and experience” for “knowledge or experience”, and inserted provision that an individual is not eligible for appointment by the Secretary until that individual complies with applicable financial disclosure requirements under subsec. (k) of this section.
+    Subsec. (b)(2)(B). [Pub. L. 99–659][/us/pl/99/659], § 104(a)(1)(B), inserted provision that a Governor may not submit the names of individuals to the Secretary for appointment unless the Governor has, to the extent practicable, first consulted with representatives of the commercial and recreational fishing interests of the state regarding those individuals, substituted “knowledge and experience” for “knowledge or experience”, and inserted provision that an individual is not eligible for appointment by the Secretary until that individual complies with applicable financial disclosure requirements under subsec. (k) of this section.
 
-    Subsec. (b)(3). [Pub. L. 99–659, § 104(a)(1)(C)][/us/pl/99/659/s104/a/1/C], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Each voting member appointed to a Council by the Secretary in accordance with subsection (b)(2) of this section shall serve for a term of 3 years; except that, with respect to the members initially so appointed, the Secretary shall designate up to one-third thereof to serve for a term of 1 year, up to one-third thereof to serve for a term of 2 years, and the remaining such members to serve for a term of 3 years.”
+    Subsec. (b)(3). [Pub. L. 99–659][/us/pl/99/659], § 104(a)(1)(C), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Each voting member appointed to a Council by the Secretary in accordance with subsection (b)(2) of this section shall serve for a term of 3 years; except that, with respect to the members initially so appointed, the Secretary shall designate up to one-third thereof to serve for a term of 1 year, up to one-third thereof to serve for a term of 2 years, and the remaining such members to serve for a term of 3 years.”
 
-    Subsec. (i). [Pub. L. 99–659, § 104(b)][/us/pl/99/659/s104/b], added subsec. (i). Former subsec. (i) redesignated (j).
+    Subsec. (i). [Pub. L. 99–659][/us/pl/99/659], § 104(b), added subsec. (i). Former subsec. (i) redesignated (j).
 
-    Subsec. (j). [Pub. L. 99–659, § 104(b)(1)][/us/pl/99/659/s104/b/1], redesignated former subsec. (i) as (j).
+    Subsec. (j). [Pub. L. 99–659][/us/pl/99/659], § 104(b)(1), redesignated former subsec. (i) as (j).
 
-    Subsec. (j)(4). [Pub. L. 99–659, § 104(c)][/us/pl/99/659/s104/c], substituted “; except that such procedures, in the case of statistics submitted to the Council by a State or by the Secretary under [section 1853(d) of this title][/us/usc/t16/s1853/d], must be consistent with the laws and regulations of that State, or with the procedures of the Secretary, as the case may be, concerning the confidentiality of the statistics” for “; except that such procedures must, in the case of statistics submitted to the Council by a State, be consistent with the laws and regulations of that State concerning the confidentiality of such statistics”.
+    Subsec. (j)(4). [Pub. L. 99–659][/us/pl/99/659], § 104(c), substituted “; except that such procedures, in the case of statistics submitted to the Council by a State or by the Secretary under [section 1853(d) of this title][/us/usc/t16/s1853/d], must be consistent with the laws and regulations of that State, or with the procedures of the Secretary, as the case may be, concerning the confidentiality of the statistics” for “; except that such procedures must, in the case of statistics submitted to the Council by a State, be consistent with the laws and regulations of that State concerning the confidentiality of such statistics”.
 
-    Subsec. (j)(5). [Pub. L. 99–659, § 104(d)][/us/pl/99/659/s104/d], added par. (5).
+    Subsec. (j)(5). [Pub. L. 99–659][/us/pl/99/659], § 104(d), added par. (5).
 
-    Subsec. (k). [Pub. L. 99–659, § 104(e)(1)][/us/pl/99/659/s104/e/1], added subsec. (k).
+    Subsec. (k). [Pub. L. 99–659][/us/pl/99/659], § 104(e)(1), added subsec. (k).
 
-    1983—Subsec. (a)(1) to (7). [Pub. L. 97–453, § 5(1)(A)][/us/pl/97/453/s5/1/A], substituted “in accordance with subsection (b)(2)” for “pursuant to subsection (b)(1)(C)” wherever appearing.
+    1983—Subsec. (a)(1) to (7). [Pub. L. 97–453][/us/pl/97/453], § 5(1)(A), substituted “in accordance with subsection (b)(2)” for “pursuant to subsection (b)(1)(C)” wherever appearing.
 
-    Subsec. (a)(8). [Pub. L. 97–453, § 5(1)(B)][/us/pl/97/453/s5/1/B], substituted provision that the Western Pacific Fishery Management Council shall consist of the States of Hawaii, American Samoa, Guam, and the Northern Mariana Islands and shall have authority over the fisheries in the Pacific Ocean seaward of such States and of the Commonwealths, territories, and possessions of the United States in the Pacific Ocean area, for provision that the Western Pacific Fishery Management Council would consist of the State of Hawaii, American Samoa, and Guam and have authority over the fisheries in the Pacific Ocean seaward of such States, and provision that the Western Pacific Council shall have 13 voting members, including 8 appointed by the Secretary in accordance with subsection (b)(2) of this section at least one of whom shall be appointed from each of Hawaii, American Samoa, Guam, and the Northern Mariana Islands, for provision that the Western Pacific Council would have 11 voting members, including 7 appointed by the Secretary pursuant to former subsection (b)(1)(C) of this section (at least one of whom would be appointed from each such State).
+    Subsec. (a)(8). [Pub. L. 97–453][/us/pl/97/453], § 5(1)(B), substituted provision that the Western Pacific Fishery Management Council shall consist of the States of Hawaii, American Samoa, Guam, and the Northern Mariana Islands and shall have authority over the fisheries in the Pacific Ocean seaward of such States and of the Commonwealths, territories, and possessions of the United States in the Pacific Ocean area, for provision that the Western Pacific Fishery Management Council would consist of the State of Hawaii, American Samoa, and Guam and have authority over the fisheries in the Pacific Ocean seaward of such States, and provision that the Western Pacific Council shall have 13 voting members, including 8 appointed by the Secretary in accordance with subsection (b)(2) of this section at least one of whom shall be appointed from each of Hawaii, American Samoa, Guam, and the Northern Mariana Islands, for provision that the Western Pacific Council would have 11 voting members, including 7 appointed by the Secretary pursuant to former subsection (b)(1)(C) of this section (at least one of whom would be appointed from each such State).
 
-    Subsec. (b)(1)(C). [Pub. L. 97–453, § 5(2)(A)][/us/pl/97/453/s5/2/A], substituted reference to subsec. (b)(2) of this section for characterization of the members to be appointed as members of a list of qualified individuals submitted by the Governor of each applicable constituent State, that with respect to initial appointments, such Governors submit such lists to the Secretary as soon as practicable, not later than 45 days after April 13, 1976, that “list of qualified individuals” included the names (including pertinent biographical data) of not less than three such individuals for each applicable vacancy, and that “qualified individual” meant an individual knowledgeable or experienced with regard to the management, conservation, or recreational or commercial harvest, of the fishery resources of the geographical area concerned.
+    Subsec. (b)(1)(C). [Pub. L. 97–453][/us/pl/97/453], § 5(2)(A), substituted reference to subsec. (b)(2) of this section for characterization of the members to be appointed as members of a list of qualified individuals submitted by the Governor of each applicable constituent State, that with respect to initial appointments, such Governors submit such lists to the Secretary as soon as practicable, not later than 45 days after April 13, 1976, that “list of qualified individuals” included the names (including pertinent biographical data) of not less than three such individuals for each applicable vacancy, and that “qualified individual” meant an individual knowledgeable or experienced with regard to the management, conservation, or recreational or commercial harvest, of the fishery resources of the geographical area concerned.
 
-    Subsec. (b)(2) to (5). [Pub. L. 97–453, § 5(2)(B)][/us/pl/97/453/s5/2/B]–(E), added pars. (2) and (5), redesignated existing pars. (2) and (3) as (3) and (4), respectively, and in par. (3), as redesignated, substituted “by the Secretary in accordance with subsection (b)(2) of this section” for “pursuant to paragraph (1)(C)” after “appointed to a Council”.
+    Subsec. (b)(2) to (5). [Pub. L. 97–453][/us/pl/97/453], § 5(2)(B)–(E), added pars. (2) and (5), redesignated existing pars. (2) and (3) as (3) and (4), respectively, and in par. (3), as redesignated, substituted “by the Secretary in accordance with subsection (b)(2) of this section” for “pursuant to paragraph (1)(C)” after “appointed to a Council”.
 
-    Subsec. (f)(6). [Pub. L. 97–453, § 5(3)][/us/pl/97/453/s5/3], inserted requirement that the procedures of a Council and associated committees and panels be consistent with the procedural guidelines set forth in subsec. (i)(2).
+    Subsec. (f)(6). [Pub. L. 97–453][/us/pl/97/453], § 5(3), inserted requirement that the procedures of a Council and associated committees and panels be consistent with the procedural guidelines set forth in subsec. (i)(2).
 
-    Subsec. (h)(1). [Pub. L. 97–453, § 5(4)(A)][/us/pl/97/453/s5/4/A], inserted “that requires conservation and management” after “authority”.
+    Subsec. (h)(1). [Pub. L. 97–453][/us/pl/97/453], § 5(4)(A), inserted “that requires conservation and management” after “authority”.
 
-    Subsec. (h)(2). [Pub. L. 97–453, § 5(4)(B)][/us/pl/97/453/s5/4/B], substituted “section 1824(b)(4)(C)” for “section 1824(b)(4)(B)”.
+    Subsec. (h)(2). [Pub. L. 97–453][/us/pl/97/453], § 5(4)(B), substituted “section 1824(b)(4)(C)” for “section 1824(b)(4)(B)”.
 
-    Subsec. (h)(3). [Pub. L. 97–453, § 5(4)(C)][/us/pl/97/453/s5/4/C], inserted parenthetical definition of “geographical area concerned”.
+    Subsec. (h)(3). [Pub. L. 97–453][/us/pl/97/453], § 5(4)(C), inserted parenthetical definition of “geographical area concerned”.
 
-    Subsec. (h)(4). [Pub. L. 97–453, § 5(4)(D)][/us/pl/97/453/s5/4/D], struck out subpar. (A) which provided for a report, before Feb. 1 of each year, on the Council’s activities during the immediately preceding calendar year, and struck out the subparagraph designators before subpars. (B) and (C).
+    Subsec. (h)(4). [Pub. L. 97–453][/us/pl/97/453], § 5(4)(D), struck out subpar. (A) which provided for a report, before Feb. 1 of each year, on the Council’s activities during the immediately preceding calendar year, and struck out the subparagraph designators before subpars. (B) and (C).
 
-    Subsec. (i). [Pub. L. 97–453, § 5(5)][/us/pl/97/453/s5/5], added subsec. (i).
+    Subsec. (i). [Pub. L. 97–453][/us/pl/97/453], § 5(5), added subsec. (i).
 
     1980—Subsec. (d). [Pub. L. 96–561][/us/pl/96/561] inserted provision that other nonvoting members may be reimbursed for actual expenses.
 
@@ -635,7 +635,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–659, title I, § 104(a)(2)][/us/pl/99/659/s104/a/2], Nov. 14, 1986, [100 Stat. 3709][/us/stat/100/3709], provided that: 
+[Pub. L. 99–659, title I][/us/pl/99/659/tI], § 104(a)(2), Nov. 14, 1986, [100 Stat. 3709][/us/stat/100/3709], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] shall apply with respect to voting members of regional fishery management councils who are appointed, and to individuals who are nominated for appointment as voting members, on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
 
@@ -649,11 +649,11 @@
 
  __Disclosure of Financial Interest by Incumbent Voting Members and Executive Directors__ 
 
-    [Pub. L. 99–659, title I, § 104(e)(2)][/us/pl/99/659/s104/e/2], Nov. 14, 1986, [100 Stat. 3711][/us/stat/100/3711], provided that for purposes of applying subsec. (k) of this section to voting members and executive directors of regional fishery management councils who were serving in those capacities on date on which regulations prescribed to carry out subsec. (k) first took effect, each such member or director must file a disclosure form under subsec. (k) within 45 days after that date.
+    [Pub. L. 99–659, title I][/us/pl/99/659/tI], § 104(e)(2), Nov. 14, 1986, [100 Stat. 3711][/us/stat/100/3711], provided that for purposes of applying subsec. (k) of this section to voting members and executive directors of regional fishery management councils who were serving in those capacities on date on which regulations prescribed to carry out subsec. (k) first took effect, each such member or director must file a disclosure form under subsec. (k) within 45 days after that date.
 
  __Directions Regarding Fishery Management Council Membership__ 
 
-[Pub. L. 99–659, title I, § 113][/us/pl/99/659/s113], Nov. 14, 1986, [100 Stat. 3715][/us/stat/100/3715], provided that: 
+[Pub. L. 99–659, title I][/us/pl/99/659/tI], § 113, Nov. 14, 1986, [100 Stat. 3715][/us/stat/100/3715], provided that: 
 
 > “Notwithstanding section 302 of the Act ([16 U.S.C. 1852][/us/usc/t16/s1852]) and effective on and after the date of the enactment of this Act \[Nov. 14, 1986\], the Secretary shall take action to ensure, to the extent practicable, that those persons dependent for their livelihood upon the fisheries within the respective jurisdictions of the Regional Fishery Management Councils are fairly represented as voting members of the Councils.”
 
@@ -676,27 +676,27 @@
 [/us/usc/t16/s1881a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1881a%2Fb
 [/us/usc/t18/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs208
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/94/265/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs302
+[/us/pl/94/265/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2FtIII
 [/us/stat/90/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F347
-[/us/pl/95/354/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F354%2Fs5%2F1
+[/us/pl/95/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F354
 [/us/stat/92/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F521
-[/us/pl/96/561/s234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs234
+[/us/pl/96/561/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtII
 [/us/stat/94/3299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3299
-[/us/pl/97/453/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453%2Fs5
+[/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
 [/us/stat/96/2484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2484
-[/us/pl/99/659/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs104%2Fa%2F1
+[/us/pl/99/659/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtI
 [/us/stat/100/3709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3709
-[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtI
 [/us/stat/104/4444-4446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4444-4446
-[/us/pl/102/582/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2Fs403
+[/us/pl/102/582/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2FtIV
 [/us/stat/106/4909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4909
-[/us/pl/104/297/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs107
+[/us/pl/104/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtI
 [/us/stat/110/3570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3570
-[/us/pl/106/113/s1000/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F1
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtI
 [/us/stat/120/3579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3579
-[/us/pl/104/297/s107/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs107%2Fg
+[/us/pl/104/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtI
 [/us/stat/110/3572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3572
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
@@ -709,114 +709,114 @@
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/109/479/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs102
-[/us/pl/109/479/s103/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs103%2Fj
-[/us/pl/109/479/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs103%2Fa
-[/us/pl/109/479/s103/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs103%2Fb%2F1
-[/us/pl/109/479/s103/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs103%2Fb%2F1
-[/us/pl/109/479/s103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs103%2Fb%2F2
-[/us/pl/109/479/s103/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs103%2Fb%2F3
-[/us/pl/109/479/s103/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs103%2Fc%2F1
-[/us/pl/109/479/s103/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs103%2Fc%2F3
-[/us/pl/109/479/s103/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs103%2Fd%2F1
-[/us/pl/109/479/s103/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs103%2Fc%2F2
-[/us/pl/109/479/s103/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs103%2Fd%2F2
-[/us/pl/109/479/s103/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs103%2Fh%2F1
-[/us/pl/109/479/s103/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs103%2Fh%2F2
-[/us/pl/109/479/s103/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs103%2Fe
-[/us/pl/109/479/s103/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs103%2Fh%2F3
-[/us/pl/109/479/s103/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs103%2Ff
-[/us/pl/109/479/s103/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs103%2Fi%2F1
-[/us/pl/109/479/s103/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs103%2Fi%2F3
-[/us/pl/109/479/s103/i/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs103%2Fi%2F4
-[/us/pl/109/479/s103/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs103%2Fg
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
-[/us/pl/104/297/s107/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs107%2Fa%2F1
-[/us/pl/104/297/s107/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs107%2Fa%2F3
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
 [/us/usc/t16/s1854/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1854%2Ff%2F3
-[/us/pl/104/297/s107/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs107%2Fa%2F3
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
 [/us/usc/t16/s1854/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1854%2Ff%2F3
-[/us/pl/104/297/s107/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs107%2Fa%2F3
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
 [/us/usc/t16/s1854/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1854%2Ff%2F3
-[/us/pl/104/297/s107/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs107%2Fa%2F5
-[/us/pl/104/297/s107/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs107%2Fa%2F7
-[/us/pl/104/297/s107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs107%2Fb%2F1
-[/us/pl/104/297/s107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs107%2Fb%2F1
-[/us/pl/104/297/s107/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs107%2Fb%2F3
-[/us/pl/104/297/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs107%2Fc
-[/us/pl/104/297/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs107%2Fd
-[/us/pl/104/297/s107/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs107%2Fe
-[/us/pl/104/297/s107/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs107%2Ff%2F1
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
 [/us/usc/t16/s1854/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1854%2Ff%2F3
-[/us/pl/104/297/s107/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs107%2Ff%2F2
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
 [/us/usc/t16/s1824/b/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1824%2Fb%2F4%2FC
 [/us/usc/t16/s1824/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1824%2Fd
 [/us/usc/t16/s1824/b/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1824%2Fb%2F4%2FC
-[/us/pl/104/297/s107/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs107%2Ff%2F3
-[/us/pl/104/297/s107/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs107%2Fg
-[/us/pl/104/297/s107/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs107%2Fh%2F1
-[/us/pl/104/297/s107/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs107%2Fh%2F2
-[/us/pl/104/297/s107/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs107%2Fh%2F3
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
 [/us/usc/t16/s1855/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1855%2Fc
-[/us/pl/104/297/s107/h/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs107%2Fh%2F5
-[/us/pl/104/297/s107/h/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs107%2Fh%2F6
-[/us/pl/104/297/s107/h/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs107%2Fh%2F7
-[/us/pl/104/297/s107/h/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs107%2Fh%2F10
-[/us/pl/104/297/s107/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs107%2Fg
-[/us/pl/104/297/s107/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs107%2Fi%2F2
-[/us/pl/104/297/s107/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs107%2Fi%2F3
-[/us/pl/104/297/s107/i/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs107%2Fi%2F4
-[/us/pl/104/297/s107/i/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs107%2Fi%2F6
-[/us/pl/104/297/s107/i/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs107%2Fi%2F7
-[/us/pl/104/297/s107/i/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs107%2Fi%2F8
-[/us/pl/104/297/s107/i/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs107%2Fi%2F9
-[/us/pl/104/297/s107/i/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs107%2Fi%2F8
-[/us/pl/104/297/s107/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs107%2Fg
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
 [/us/pl/102/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582
-[/us/pl/101/627/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs108%2Fa
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
 [/us/usc/t16/s1854/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1854%2Ff%2F3
-[/us/pl/101/627/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs108%2Fb
-[/us/pl/101/627/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs108%2Fc
-[/us/pl/101/627/s108/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs108%2Fd
-[/us/pl/101/627/s108/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs108%2Fe%2F1
-[/us/pl/101/627/s108/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs108%2Fe%2F2
-[/us/pl/101/627/s108/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs108%2Ff
-[/us/pl/101/627/s108/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs108%2Fg
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
 [/us/usc/t16/s1854/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1854%2Ff%2F3
-[/us/pl/101/627/s108/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs108%2Fh
-[/us/pl/101/627/s108/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs108%2Fi%2F1
-[/us/pl/101/627/s108/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs108%2Fi%2F2
-[/us/pl/101/627/s120/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs120%2Fc
-[/us/pl/101/627/s108/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs108%2Fj
-[/us/pl/99/659/s104/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs104%2Fa%2F1%2FA
-[/us/pl/99/659/s104/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs104%2Fa%2F1%2FB
-[/us/pl/99/659/s104/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs104%2Fa%2F1%2FC
-[/us/pl/99/659/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs104%2Fb
-[/us/pl/99/659/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs104%2Fb%2F1
-[/us/pl/99/659/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs104%2Fc
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
 [/us/usc/t16/s1853/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1853%2Fd
-[/us/pl/99/659/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs104%2Fd
-[/us/pl/99/659/s104/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs104%2Fe%2F1
-[/us/pl/97/453/s5/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453%2Fs5%2F1%2FA
-[/us/pl/97/453/s5/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453%2Fs5%2F1%2FB
-[/us/pl/97/453/s5/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453%2Fs5%2F2%2FA
-[/us/pl/97/453/s5/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453%2Fs5%2F2%2FB
-[/us/pl/97/453/s5/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453%2Fs5%2F3
-[/us/pl/97/453/s5/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453%2Fs5%2F4%2FA
-[/us/pl/97/453/s5/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453%2Fs5%2F4%2FB
-[/us/pl/97/453/s5/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453%2Fs5%2F4%2FC
-[/us/pl/97/453/s5/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453%2Fs5%2F4%2FD
-[/us/pl/97/453/s5/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453%2Fs5%2F5
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
+[/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
+[/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
+[/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
+[/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
+[/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
+[/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
+[/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
+[/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
+[/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
+[/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
 [/us/pl/96/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561
 [/us/pl/95/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F354
-[/us/pl/99/659/s104/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs104%2Fa%2F2
+[/us/pl/99/659/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtI
 [/us/stat/100/3709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3709
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/pl/104/14/s1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fb%2F3
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
-[/us/pl/99/659/s104/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs104%2Fe%2F2
+[/us/pl/99/659/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtI
 [/us/stat/100/3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3711
-[/us/pl/99/659/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs113
+[/us/pl/99/659/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtI
 [/us/stat/100/3715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3715
 [/us/usc/t16/s1852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1852
 

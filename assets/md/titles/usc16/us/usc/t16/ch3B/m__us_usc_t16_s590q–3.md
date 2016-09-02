@@ -57,11 +57,11 @@
 
         There are authorized to be appropriated for the period beginning October 1, 1977, and ending September 30, 1981, such sums as may be necessary to carry out the program provided for in this section. The Secretary is authorized to utilize the facilities, services, and authorities of the Commodity Credit Corporation in discharging the Secretary’s functions and responsibilities under the program, including payment of costs of administration: Provided, That the Commodity Credit Corporation shall not make any expenditures for such purposes unless the Corporation has received funds to cover such expenditures from appropriations made to carry out this section.
 
-([Pub. L. 95–113, title XV, § 1511][/us/pl/95/113/s1511], Sept. 29, 1977, [91 Stat. 1022][/us/stat/91/1022].)
+([Pub. L. 95–113, title XV][/us/pl/95/113/tXV], § 1511, Sept. 29, 1977, [91 Stat. 1022][/us/stat/91/1022].)
 
  __References in Text__ 
 
-    [Section 590p of this title][/us/usc/t16/s590p], referred to in subsec. (a), was repealed by [Pub. L. 104–127, title III, § 336(b)(1)][/us/pl/104/127/s336/b/1], Apr. 4, 1996, [110 Stat. 1006][/us/stat/110/1006].
+    [Section 590p of this title][/us/usc/t16/s590p], referred to in subsec. (a), was repealed by [Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 336(b)(1), Apr. 4, 1996, [110 Stat. 1006][/us/stat/110/1006].
 
  __Codification__ 
 
@@ -79,10 +79,10 @@
 ----------
 
 [/us/usc/t16/s590h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h
-[/us/pl/95/113/s1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1511
+[/us/pl/95/113/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXV
 [/us/stat/91/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1022
 [/us/usc/t16/s590p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590p
-[/us/pl/104/127/s336/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs336%2Fb%2F1
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1006
 [/us/pl/95/113/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1901
 [/us/usc/t7/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1307

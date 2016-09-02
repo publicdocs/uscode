@@ -19,7 +19,7 @@
 
     Grazing of livestock within the memorial area to the extent now permitted within the said area when such grazing will not interfere with recreational development authorized by sections 450y to 450y–4 of this title.
 
-([Aug. 18, 1941, ch. 365, § 3][/us/act/1941-08-18/ch365/s3], [55 Stat. 631][/us/stat/55/631]; [Pub. L. 94–429, § 3(f)][/us/pl/94/429/s3/f], Sept. 28, 1976, [90 Stat. 1342][/us/stat/90/1342].)
+([Aug. 18, 1941, ch. 365][/us/act/1941-08-18/ch365], § 3, [55 Stat. 631][/us/stat/55/631]; [Pub. L. 94–429][/us/pl/94/429], § 3(f), Sept. 28, 1976, [90 Stat. 1342][/us/stat/90/1342].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/act/1941-08-18/ch365/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-08-18%2Fch365%2Fs3
+[/us/act/1941-08-18/ch365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-08-18%2Fch365
 [/us/stat/55/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F631
-[/us/pl/94/429/s3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F429%2Fs3%2Ff
+[/us/pl/94/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F429
 [/us/stat/90/1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1342
 [/us/pl/94/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F429
 [/us/pl/94/429/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F429%2Fs3

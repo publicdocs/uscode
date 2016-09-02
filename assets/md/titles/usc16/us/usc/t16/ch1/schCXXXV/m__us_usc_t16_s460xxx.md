@@ -139,7 +139,7 @@
 
             If the Secretary acquires additional land that is located in the National Conservation Area after March 30, 2009, the land is withdrawn from operation of the laws referred to in paragraph (1) on the date of acquisition of the land.
 
-([Pub. L. 111–11, title I, § 1975][/us/pl/111/11/s1975], Mar. 30, 2009, [123 Stat. 1083][/us/stat/123/1083].)
+([Pub. L. 111–11, title I][/us/pl/111/11/tI], § 1975, Mar. 30, 2009, [123 Stat. 1083][/us/stat/123/1083].)
 
  __References in Text__ 
 
@@ -158,7 +158,7 @@
 
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
-[/us/pl/111/11/s1975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs1975
+[/us/pl/111/11/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtI
 [/us/stat/123/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1083
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
 [/us/stat/90/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2743

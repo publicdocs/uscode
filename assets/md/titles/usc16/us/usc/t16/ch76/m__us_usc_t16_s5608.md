@@ -33,7 +33,7 @@
 
         A person shall not be considered to be a Federal employee by reason of any service of the person in a capacity described in subsection (a) of this section, except for purposes of injury compensation and tort claims liability under chapter 81 of title 5 and chapter 171 of title 28, respectively.
 
-([Pub. L. 104–43, title II, § 209][/us/pl/104/43/s209], Nov. 3, 1995, [109 Stat. 381][/us/stat/109/381]; [Pub. L. 105–384, title II, § 201(b)(2)][/us/pl/105/384/s201/b/2], Nov. 13, 1998, [112 Stat. 3451][/us/stat/112/3451].)
+([Pub. L. 104–43, title II][/us/pl/104/43/tII], § 209, Nov. 3, 1995, [109 Stat. 381][/us/stat/109/381]; [Pub. L. 105–384, title II][/us/pl/105/384/tII], § 201(b)(2), Nov. 13, 1998, [112 Stat. 3451][/us/stat/112/3451].)
 
  __Amendments__ 
 
@@ -49,9 +49,9 @@
 [/us/usc/t16/s5601/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5601%2Fe
 [/us/usc/t16/s5607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5607
 [/us/usc/t16/s5601/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5601%2Fe
-[/us/pl/104/43/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs209
+[/us/pl/104/43/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtII
 [/us/stat/109/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F381
-[/us/pl/105/384/s201/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2Fs201%2Fb%2F2
+[/us/pl/105/384/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2FtII
 [/us/stat/112/3451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3451
 [/us/pl/105/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384
 

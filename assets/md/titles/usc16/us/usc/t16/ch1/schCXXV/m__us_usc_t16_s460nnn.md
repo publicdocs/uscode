@@ -71,7 +71,7 @@
 
         The term “Wilderness Area” means the Steens Mountain Wilderness Area designated by part B.
 
-([Pub. L. 106–399, § 2][/us/pl/106/399/s2], Oct. 30, 2000, [114 Stat. 1656][/us/stat/114/1656].)
+([Pub. L. 106–399][/us/pl/106/399], § 2, Oct. 30, 2000, [114 Stat. 1656][/us/stat/114/1656].)
 
  __References in Text__ 
 
@@ -81,13 +81,13 @@
 
  __Short Title__ 
 
-[Pub. L. 106–399, § 1(a)][/us/pl/106/399/s1/a], Oct. 30, 2000, [114 Stat. 1655][/us/stat/114/1655], provided that: 
+[Pub. L. 106–399][/us/pl/106/399], § 1(a), Oct. 30, 2000, [114 Stat. 1655][/us/stat/114/1655], provided that: 
 
 > “This Act \[enacting this subchapter and provisions listed in a table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132] and amending [section 1274 of this title][/us/usc/t16/s1274]\] may be cited as the ‘Steens Mountain Cooperative Management and Protection Act of 2000’.”
 
  __Purposes__ 
 
-[Pub. L. 106–399, § 1(b)][/us/pl/106/399/s1/b], Oct. 30, 2000, [114 Stat. 1655][/us/stat/114/1655], provided that: 
+[Pub. L. 106–399][/us/pl/106/399], § 1(b), Oct. 30, 2000, [114 Stat. 1655][/us/stat/114/1655], provided that: 
 
 > “The purposes of this Act \[see Short Title note above\] are the following:
 
@@ -127,16 +127,16 @@
 [/us/usc/t16/s460nnn–21/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460nnn%E2%80%9321%2Fb
 [/us/usc/t16/s460nnn–72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460nnn%E2%80%9372
 [/us/usc/t16/s460nnn–53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460nnn%E2%80%9353
-[/us/pl/106/399/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2Fs2
+[/us/pl/106/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399
 [/us/stat/114/1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1656
 [/us/pl/106/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399
 [/us/stat/114/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1655
 [/us/pl/106/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399
-[/us/pl/106/399/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2Fs1%2Fa
+[/us/pl/106/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399
 [/us/stat/114/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1655
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132
 [/us/usc/t16/s1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1274
-[/us/pl/106/399/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2Fs1%2Fb
+[/us/pl/106/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399
 [/us/stat/114/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1655
 
 

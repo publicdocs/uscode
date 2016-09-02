@@ -17,7 +17,7 @@
 
     The Secretary of the Interior may, in the name of the United States, under the supervision of the Attorney General, bring such suits at law or in equity as in his judgment may be necessary to carry out the purposes of this chapter; and he shall be represented in the prosecution and defense of all litigation affecting the status or operation of the Fort Peck project by the United States attorneys for the districts, respectively, in which such litigation may arise, or by such attorney or attorneys as the Attorney General may designate as authorized by law, in conjunction with the regularly employed attorneys of the Bureau.
 
-([May 18, 1938, ch. 250, § 11][/us/act/1938-05-18/ch250/s11], [52 Stat. 407][/us/stat/52/407].)
+([May 18, 1938, ch. 250][/us/act/1938-05-18/ch250], § 11, [52 Stat. 407][/us/stat/52/407].)
 
  __Transfer of Functions__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1938-05-18/ch250/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-18%2Fch250%2Fs11
+[/us/act/1938-05-18/ch250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-18%2Fch250
 [/us/stat/52/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F407
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

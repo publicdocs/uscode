@@ -23,7 +23,7 @@
 
         Amounts in the Fund shall be available to the Secretary until expended, without further Act of appropriation, for the management of the Recreation Area, including payment of salaries and expenses.
 
-([Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title V, § 524\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–315.)
+([Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title V, § 524\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–315.)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 
 

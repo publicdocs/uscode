@@ -37,7 +37,7 @@
 
         The Secretary may identify other significant sites of the colonial and Revolutionary periods of American history in the city of Boston, Massachusetts, and its environs, which are related to the historical park created by this subchapter, and, with the consent of the owner or owners thereof, may mark them appropriately and make reference to them in any interpretive literature.
 
-([Pub. L. 93–431, § 3][/us/pl/93/431/s3], Oct. 1, 1974, [88 Stat. 1185][/us/stat/88/1185]; [Pub. L. 95–625, title III, § 310(b)][/us/pl/95/625/s310/b], Nov. 10, 1978, [92 Stat. 3478][/us/stat/92/3478]; [Pub. L. 104–333, div. I, title V, § 504][/us/pl/104/333/s504], Nov. 12, 1996, [110 Stat. 4155][/us/stat/110/4155].)
+([Pub. L. 93–431][/us/pl/93/431], § 3, Oct. 1, 1974, [88 Stat. 1185][/us/stat/88/1185]; [Pub. L. 95–625, title III][/us/pl/95/625/tIII], § 310(b), Nov. 10, 1978, [92 Stat. 3478][/us/stat/92/3478]; [Pub. L. 104–333, div. I, title V][/us/pl/104/333/dI/tV], § 504, Nov. 12, 1996, [110 Stat. 4155][/us/stat/110/4155].)
 
  __Amendments__ 
 
@@ -55,11 +55,11 @@
 [/us/usc/t16/s410z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410z
 [/us/usc/t16/s410z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410z
 [/us/usc/t16/s410z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410z
-[/us/pl/93/431/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F431%2Fs3
+[/us/pl/93/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F431
 [/us/stat/88/1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1185
-[/us/pl/95/625/s310/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs310%2Fb
+[/us/pl/95/625/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtIII
 [/us/stat/92/3478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3478
-[/us/pl/104/333/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs504
+[/us/pl/104/333/dI/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtV
 [/us/stat/110/4155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4155
 [/us/pl/104/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333
 [/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625

@@ -17,7 +17,7 @@
 
     Such parts of the Grand Canyon National Game Preserve, designated under authority of [section 684 of this title][/us/usc/t16/s684], as are by this Act included with  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “within”. </sup></sup>  the Grand Canyon National Park are excluded and eliminated from said game preserve.
 
-([Feb. 26, 1919, ch. 44, § 9][/us/act/1919-02-26/ch44/s9], [40 Stat. 1178][/us/stat/40/1178].)
+([Feb. 26, 1919, ch. 44][/us/act/1919-02-26/ch44], § 9, [40 Stat. 1178][/us/stat/40/1178].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t16/s684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs684
-[/us/act/1919-02-26/ch44/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-02-26%2Fch44%2Fs9
+[/us/act/1919-02-26/ch44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-02-26%2Fch44
 [/us/stat/40/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1178
 [/us/act/1919-02-26/ch44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-02-26%2Fch44
 [/us/stat/40/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1175

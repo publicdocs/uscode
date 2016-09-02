@@ -19,7 +19,7 @@
 
     Each cooperative agreement shall be placed on record in the county or counties in which the lands of the cooperating private landowner covered thereby are located, and the costs incident to such recordation may be paid out of any funds available for the protection or management of federally owned or administered forest land within the unit. When thus recorded, the agreement shall be binding upon the heirs, successors, and assigns of the owner of such land, and upon purchasers of timber or other forest products from such land, throughout the life of such cooperative agreement.
 
-([Mar. 29, 1944, ch. 146, § 2][/us/act/1944-03-29/ch146/s2], [58 Stat. 132][/us/stat/58/132].)
+([Mar. 29, 1944, ch. 146][/us/act/1944-03-29/ch146], § 2, [58 Stat. 132][/us/stat/58/132].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/usc/t16/s583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs583
-[/us/act/1944-03-29/ch146/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-03-29%2Fch146%2Fs2
+[/us/act/1944-03-29/ch146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-03-29%2Fch146
 [/us/stat/58/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F132
 
 

@@ -53,27 +53,27 @@
 
         Congress declares that aquaculture has the potential for reducing the United States trade deficit in fisheries products, for augmenting existing commercial and recreational fisheries and for producing other renewable resources, thereby assisting the United States in meeting its future food needs and contributing to the solution of world resource problems. It is, therefore, in the national interest, and it is the national policy, to encourage the development of aquaculture in the United States.
 
-([Pub. L. 96–362, § 2][/us/pl/96/362/s2], Sept. 26, 1980, [94 Stat. 1198][/us/stat/94/1198]; [Pub. L. 99–198, title XVII, § 1732][/us/pl/99/198/s1732], Dec. 23, 1985, [99 Stat. 1641][/us/stat/99/1641].)
+([Pub. L. 96–362][/us/pl/96/362], § 2, Sept. 26, 1980, [94 Stat. 1198][/us/stat/94/1198]; [Pub. L. 99–198, title XVII][/us/pl/99/198/tXVII], § 1732, Dec. 23, 1985, [99 Stat. 1641][/us/stat/99/1641].)
 
  __Amendments__ 
 
-    1985—Subsec. (a)(3). [Pub. L. 99–198, § 1732(1)][/us/pl/99/198/s1732/1], substituted “13 percent” for “10 per centum” and “6 percent” for “3 per centum”.
+    1985—Subsec. (a)(3). [Pub. L. 99–198][/us/pl/99/198], § 1732(1), substituted “13 percent” for “10 per centum” and “6 percent” for “3 per centum”.
 
-    Subsec. (a)(7). [Pub. L. 99–198, § 1732(2)][/us/pl/99/198/s1732/2], inserted “scientific,” before “economic,” and “the lack of supportive Government policies,” after “management information,”.
+    Subsec. (a)(7). [Pub. L. 99–198][/us/pl/99/198], § 1732(2), inserted “scientific,” before “economic,” and “the lack of supportive Government policies,” after “management information,”.
 
-    Subsec. (b)(3), (4). [Pub. L. 99–198, § 1732(3)][/us/pl/99/198/s1732/3], added par. (3) and redesignated former par. (3) as (4).
+    Subsec. (b)(3), (4). [Pub. L. 99–198][/us/pl/99/198], § 1732(3), added par. (3) and redesignated former par. (3) as (4).
 
-    Subsec. (c). [Pub. L. 99–198, § 1732(4)][/us/pl/99/198/s1732/4], inserted “or reducing the United States trade deficit in fisheries products,”.
+    Subsec. (c). [Pub. L. 99–198][/us/pl/99/198], § 1732(4), inserted “or reducing the United States trade deficit in fisheries products,”.
 
  __Short Title of 1985 Amendment__ 
 
-[Pub. L. 99–198, title XVII, § 1731][/us/pl/99/198/s1731], Dec. 23, 1985, [99 Stat. 1641][/us/stat/99/1641], provided that: 
+[Pub. L. 99–198, title XVII][/us/pl/99/198/tXVII], § 1731, Dec. 23, 1985, [99 Stat. 1641][/us/stat/99/1641], provided that: 
 
 > “This subtitle \[subtitle C \[D\] (§§ 1731–1737) of title XVII of [Pub. L. 99–198][/us/pl/99/198], amending this section and sections 2802 to 2805 and 2809 of this title\] may be cited as the ‘National Aquaculture Improvement Act of 1985’.”
 
  __Short Title__ 
 
-[Pub. L. 96–362, § 1][/us/pl/96/362/s1], Sept. 26, 1980, [94 Stat. 1198][/us/stat/94/1198], provided: 
+[Pub. L. 96–362][/us/pl/96/362], § 1, Sept. 26, 1980, [94 Stat. 1198][/us/stat/94/1198], provided: 
 
 > “That this Act \[enacting this chapter\] may be cited as the ‘National Aquaculture Act of 1980’.”
 
@@ -84,18 +84,18 @@
 ----------
 ----------
 
-[/us/pl/96/362/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F362%2Fs2
+[/us/pl/96/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F362
 [/us/stat/94/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1198
-[/us/pl/99/198/s1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1732
-[/us/stat/99/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1641
-[/us/pl/99/198/s1732/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1732%2F1
-[/us/pl/99/198/s1732/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1732%2F2
-[/us/pl/99/198/s1732/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1732%2F3
-[/us/pl/99/198/s1732/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1732%2F4
-[/us/pl/99/198/s1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1731
+[/us/pl/99/198/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVII
 [/us/stat/99/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1641
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
-[/us/pl/96/362/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F362%2Fs1
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVII
+[/us/stat/99/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1641
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/96/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F362
 [/us/stat/94/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1198
 
 

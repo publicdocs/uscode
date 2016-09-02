@@ -17,7 +17,7 @@
 
     For the purpose of protecting the scenery along the Point Lookout Road between the north boundary of the Mesa Verde National Park and this road’s juncture with the Cortez-Mancos Road, the President of the United States is authorized, upon the recommendation of the Secretary of the Interior, to add to the said Mesa Verde National Park, Colorado, by executive proclamation, a strip of land two hundred and sixty feet wide along and including said Point Lookout Road, and the triangle formed by the fork in said road and such other public land along or adjacent to said road and right-of-way and lands as may be acquired by gift or by exchanges as hereinafter provided, which lands shall thereupon become and be a part of said park subject to all laws and regulations applicable thereto.
 
-([Feb. 26, 1931, ch. 308, § 1][/us/act/1931-02-26/ch308/s1], [46 Stat. 1422][/us/stat/46/1422].)
+([Feb. 26, 1931, ch. 308][/us/act/1931-02-26/ch308], § 1, [46 Stat. 1422][/us/stat/46/1422].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1931-02-26/ch308/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-02-26%2Fch308%2Fs1
+[/us/act/1931-02-26/ch308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-02-26%2Fch308
 [/us/stat/46/1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1422
 
 

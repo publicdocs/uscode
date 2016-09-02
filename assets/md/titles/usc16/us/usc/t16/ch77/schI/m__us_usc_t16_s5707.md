@@ -17,7 +17,7 @@
 
     In the event that the Treaty between Canada and the United States of America concerning Pacific Salmon, signed at Ottawa, January 28, 1985, terminates prior to the termination of the Agreement, and the functions of the Panel are assumed by the “Yukon River Salmon Commission” referenced in the Agreement, the provisions of this subchapter which apply to the Panel shall thereafter apply to the Yukon River Salmon Commission, and the other provisions of this subchapter shall remain in effect.
 
-([Pub. L. 104–43, title VII, § 708][/us/pl/104/43/s708], Nov. 3, 1995, [109 Stat. 394][/us/stat/109/394].)
+([Pub. L. 104–43, title VII][/us/pl/104/43/tVII], § 708, Nov. 3, 1995, [109 Stat. 394][/us/stat/109/394].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/104/43/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs708
+[/us/pl/104/43/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtVII
 [/us/stat/109/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F394
 
 

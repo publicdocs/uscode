@@ -63,17 +63,17 @@
 
         (2) Total payments to the State under this subsection shall not exceed the sum of $5,000,000 in any one fiscal year. The Secretary shall advise the Congress at least once in every five years as to whether or not the maximum payments specified in this subsection are adequate to ensure the effectiveness of the program established by the State to provide the preference for subsistence uses of fish and wildlife set forth in [section 3114 of this title][/us/usc/t16/s3114].
 
-([Pub. L. 96–487, title VIII, § 805][/us/pl/96/487/s805], Dec. 2, 1980, [94 Stat. 2424][/us/stat/94/2424]; [Pub. L. 105–83, title III, § 316(b)(6)][/us/pl/105/83/s316/b/6], (d), Nov. 14, 1997, [111 Stat. 1593][/us/stat/111/1593], 1595; [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title III, § 339(c)\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–296.)
+([Pub. L. 96–487, title VIII][/us/pl/96/487/tVIII], § 805, Dec. 2, 1980, [94 Stat. 2424][/us/stat/94/2424]; [Pub. L. 105–83, title III][/us/pl/105/83/tIII], § 316(b)(6), (d), Nov. 14, 1997, [111 Stat. 1593][/us/stat/111/1593], 1595; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title III, § 339(c)\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–296.)
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–277, § 101(e)][/us/pl/105/277/s101/e] \[title III, § 339(c)(1)\], struck out “one year after December 2, 1980,” before “the Secretary” in introductory provisions.
+    1998—Subsec. (a). [Pub. L. 105–277][/us/pl/105/277], § 101(e) \[title III, § 339(c)(1)\], struck out “one year after December 2, 1980,” before “the Secretary” in introductory provisions.
 
-    Subsec. (d). [Pub. L. 105–277, § 101(e)][/us/pl/105/277/s101/e] \[title III, § 339(c)(2)\], struck out “within one year from December 2, 1980,” before “the State enacts” in first sentence.
+    Subsec. (d). [Pub. L. 105–277][/us/pl/105/277], § 101(e) \[title III, § 339(c)(2)\], struck out “within one year from December 2, 1980,” before “the State enacts” in first sentence.
 
-    1997—Subsec. (a). [Pub. L. 105–83, § 316(b)(6)(A)][/us/pl/105/83/s316/b/6/A], which directed the amendment of subsec. (a) by striking out “one year after December 2, 1980,” before “the Secretary” in introductory provisions, was repealed by [Pub. L. 105–83, § 316(d)][/us/pl/105/83/s316/d]. See Effective and Termination Dates of 1997 Amendment note below.
+    1997—Subsec. (a). [Pub. L. 105–83][/us/pl/105/83], § 316(b)(6)(A), which directed the amendment of subsec. (a) by striking out “one year after December 2, 1980,” before “the Secretary” in introductory provisions, was repealed by [Pub. L. 105–83][/us/pl/105/83], § 316(d). See Effective and Termination Dates of 1997 Amendment note below.
 
-    Subsec. (d). [Pub. L. 105–83, § 316(b)(6)(B)][/us/pl/105/83/s316/b/6/B], which directed the amendment of subsec. (d) generally to provide for supersedure by enactment and implementation of State laws governing State responsibility, consideration of recommendations by State rulemaking authority, and for the creation of regional advisory councils, was repealed by [Pub. L. 105–83, § 316(d)][/us/pl/105/83/s316/d]. See Effective and Termination Dates of 1997 Amendment note below.
+    Subsec. (d). [Pub. L. 105–83][/us/pl/105/83], § 316(b)(6)(B), which directed the amendment of subsec. (d) generally to provide for supersedure by enactment and implementation of State laws governing State responsibility, consideration of recommendations by State rulemaking authority, and for the creation of regional advisory councils, was repealed by [Pub. L. 105–83][/us/pl/105/83], § 316(d). See Effective and Termination Dates of 1997 Amendment note below.
 
  __Effective and Termination Dates of 1997 Amendment__ 
 
@@ -92,18 +92,18 @@
 
 [/us/usc/t16/s3116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3116
 [/us/usc/t16/s3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3114
-[/us/pl/96/487/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs805
+[/us/pl/96/487/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtVIII
 [/us/stat/94/2424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2424
-[/us/pl/105/83/s316/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs316%2Fb%2F6
+[/us/pl/105/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtIII
 [/us/stat/111/1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1593
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
-[/us/pl/105/83/s316/b/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs316%2Fb%2F6%2FA
-[/us/pl/105/83/s316/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs316%2Fd
-[/us/pl/105/83/s316/b/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs316%2Fb%2F6%2FB
-[/us/pl/105/83/s316/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs316%2Fd
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
+[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
+[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
+[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
 [/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
 [/us/pl/105/83/s316/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs316%2Fd
 [/us/usc/t16/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3102

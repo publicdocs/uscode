@@ -53,7 +53,7 @@
 
             (E) other areas or concerns the Secretary considers appropriate.
 
-([Pub. L. 99–645, title III, § 301][/us/pl/99/645/s301], Nov. 10, 1986, [100 Stat. 3586][/us/stat/100/3586].)
+([Pub. L. 99–645, title III][/us/pl/99/645/tIII], § 301, Nov. 10, 1986, [100 Stat. 3586][/us/stat/100/3586].)
 
 ----------
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/99/645/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F645%2Fs301
+[/us/pl/99/645/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F645%2FtIII
 [/us/stat/100/3586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3586
 
 

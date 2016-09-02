@@ -17,7 +17,7 @@
 
     For the purposes of this subchapter, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, the Virgin Islands, and any other territory or possession of the United States.
 
-([Pub. L. 103–340, § 5][/us/pl/103/340/s5], as added [Pub. L. 106–316, § 2(3)][/us/pl/106/316/s2/3], Oct. 19, 2000, [114 Stat. 1276][/us/stat/114/1276].)
+([Pub. L. 103–340][/us/pl/103/340], § 5, as added [Pub. L. 106–316][/us/pl/106/316], § 2(3), Oct. 19, 2000, [114 Stat. 1276][/us/stat/114/1276].)
 
  __Prior Provisions__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/103/340/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F340%2Fs5
-[/us/pl/106/316/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F316%2Fs2%2F3
+[/us/pl/103/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F340
+[/us/pl/106/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F316
 [/us/stat/114/1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1276
 [/us/pl/103/340/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F340%2Fs5
 [/us/usc/t16/s719c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs719c

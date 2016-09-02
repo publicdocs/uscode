@@ -19,11 +19,11 @@
 
     (b) To facilitate the acquisition of the original site of the engine house known as John Brown’s “Fort” and the old Federal arsenal, the Secretary of the Interior is authorized to exchange therefor federally owned park lands or interests in lands of approximately equal value in the vicinity of Cumberland, Maryland, which he finds are no longer required for park purposes.
 
-([Pub. L. 86–655, § 2][/us/pl/86/655/s2], July 14, 1960, [74 Stat. 520][/us/stat/74/520].)
+([Pub. L. 86–655][/us/pl/86/655], § 2, July 14, 1960, [74 Stat. 520][/us/stat/74/520].)
 
  __References in Text__ 
 
-    [Section 2 of the Act of December 15, 1868][/us/act/1868-12-15/s2], referred to in subsec. (a), means [act Dec. 15, 1868, ch. 2, § 2][/us/act/1868-12-15/ch2/s2], [15 Stat. 266][/us/stat/15/266], which was not classified to the Code.
+    [Section 2 of the Act of December 15, 1868][/us/act/1868-12-15/s2], referred to in subsec. (a), means [act Dec. 15, 1868, ch. 2][/us/act/1868-12-15/ch2], § 2, [15 Stat. 266][/us/stat/15/266], which was not classified to the Code.
 
 ----------
 
@@ -34,10 +34,10 @@
 
 [/us/act/1868-12-15/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1868-12-15%2Fs2
 [/us/stat/15/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F15%2F266
-[/us/pl/86/655/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F655%2Fs2
+[/us/pl/86/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F655
 [/us/stat/74/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F520
 [/us/act/1868-12-15/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1868-12-15%2Fs2
-[/us/act/1868-12-15/ch2/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1868-12-15%2Fch2%2Fs2
+[/us/act/1868-12-15/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1868-12-15%2Fch2
 [/us/stat/15/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F15%2F266
 
 

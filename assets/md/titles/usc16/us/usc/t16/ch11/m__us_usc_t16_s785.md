@@ -17,7 +17,7 @@
 
     The Secretary of Commerce shall enforce the provisions of this chapter, and he is authorized to empower such officers and employees of the Department of Commerce as he may designate, or such officers and employees of other departments as may be detailed for the purpose, to make arrests and seize vessels and sponges, and upon his request the Secretary of the Treasury may employ the vessels of the Coast Guard or the employees of the Customs Service to that end.
 
-([Aug. 15, 1914, ch. 253, § 5][/us/act/1914-08-15/ch253/s5], [38 Stat. 692][/us/stat/38/692]; [Jan. 28, 1915, ch. 20, § 1][/us/act/1915-01-28/ch20/s1], [38 Stat. 800][/us/stat/38/800]; 1939 Reorg. Plan No. II, § 4(e), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1431][/us/stat/53/1431]; [Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], §§ 1, 20, [63 Stat. 495][/us/stat/63/495], 561; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
+([Aug. 15, 1914, ch. 253][/us/act/1914-08-15/ch253], § 5, [38 Stat. 692][/us/stat/38/692]; [Jan. 28, 1915, ch. 20][/us/act/1915-01-28/ch20], § 1, [38 Stat. 800][/us/stat/38/800]; 1939 Reorg. Plan No. II, § 4(e), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1431][/us/stat/53/1431]; [Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], §§ 1, 20, [63 Stat. 495][/us/stat/63/495], 561; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
 
  __Transfer of Functions__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/act/1914-08-15/ch253/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-08-15%2Fch253%2Fs5
+[/us/act/1914-08-15/ch253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-08-15%2Fch253
 [/us/stat/38/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F692
-[/us/act/1915-01-28/ch20/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-01-28%2Fch20%2Fs1
+[/us/act/1915-01-28/ch20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-01-28%2Fch20
 [/us/stat/38/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F800
 [/us/stat/53/1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1431
 [/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393

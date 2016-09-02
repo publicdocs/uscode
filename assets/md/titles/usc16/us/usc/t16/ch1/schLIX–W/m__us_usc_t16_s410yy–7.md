@@ -27,7 +27,7 @@
 
         Funds authorized to be appropriated to the Secretary for the purposes of this section shall be expended in the ratio of $1 of Federal funds for each $1 of funds contributed by non-Federal sources. For the purposes of this subsection, the Secretary is authorized to accept from non-Federal sources, and to utilize for purposes of this subchapter, any money so contributed. Donations of land, or interests in land, by the State of Michigan may be considered as a contribution from non-Federal sources for the purposes of this subsection.
 
-([Pub. L. 102–543, § 8][/us/pl/102/543/s8], Oct. 27, 1992, [106 Stat. 3571][/us/stat/106/3571]; [Pub. L. 111–11, title VII, § 7101(b)][/us/pl/111/11/s7101/b], Mar. 30, 2009, [123 Stat. 1190][/us/stat/123/1190].)
+([Pub. L. 102–543][/us/pl/102/543], § 8, Oct. 27, 1992, [106 Stat. 3571][/us/stat/106/3571]; [Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7101(b), Mar. 30, 2009, [123 Stat. 1190][/us/stat/123/1190].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/102/543/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F543%2Fs8
+[/us/pl/102/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F543
 [/us/stat/106/3571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3571
-[/us/pl/111/11/s7101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7101%2Fb
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1190
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 

@@ -17,7 +17,7 @@
 
     Any employee of the Department of the Interior authorized by the Secretary of the Interior to enforce the provisions of this subchapter shall have power, without warrant, to arrest any person committing a violation of this subchapter in his presence or view and to take such person immediately for examination or trial before an officer or court of competent jurisdiction; shall have power to execute any warrant or other process issued by an officer or court of competent jurisdiction for the enforcement of the provisions of this subchapter; and shall have authority, with a search warrant, to search any place. The several judges of the courts established under the laws of the United States, and United States magistrate judges may, within their respective jurisdictions, upon proper oath or affirmation showing probable cause, issue warrants in all such cases. All birds, or parts, nests, or eggs thereof, captured, killed, taken, sold or offered for sale, bartered or offered for barter, purchased, shipped, transported, carried, imported, exported, or possessed contrary to the provisions of this subchapter or of any regulation prescribed thereunder shall, when found, be seized and, upon conviction of the offender or upon judgment of a court of the United States that the same were captured, killed, taken, sold or offered for sale, bartered or offered for barter, purchased, shipped, transported, carried, imported, exported, or possessed contrary to the provisions of this subchapter or of any regulation prescribed thereunder, shall be forfeited to the United States and disposed of by the Secretary of the Interior in such manner as he deems appropriate.
 
-([July 3, 1918, ch. 128, § 5][/us/act/1918-07-03/ch128/s5], [40 Stat. 756][/us/stat/40/756]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; [Pub. L. 90–578, title IV, § 402(b)(2)][/us/pl/90/578/s402/b/2], Oct. 17, 1968, [82 Stat. 1118][/us/stat/82/1118]; [Pub. L. 95–616, § 3(h)(1)][/us/pl/95/616/s3/h/1], Nov. 8, 1978, [92 Stat. 3111][/us/stat/92/3111]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
+([July 3, 1918, ch. 128][/us/act/1918-07-03/ch128], § 5, [40 Stat. 756][/us/stat/40/756]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; [Pub. L. 90–578, title IV][/us/pl/90/578/tIV], § 402(b)(2), Oct. 17, 1968, [82 Stat. 1118][/us/stat/82/1118]; [Pub. L. 95–616][/us/pl/95/616], § 3(h)(1), Nov. 8, 1978, [92 Stat. 3111][/us/stat/92/3111]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
 
  __Amendments__ 
 
@@ -40,14 +40,14 @@
 ----------
 ----------
 
-[/us/act/1918-07-03/ch128/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-07-03%2Fch128%2Fs5
+[/us/act/1918-07-03/ch128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-07-03%2Fch128
 [/us/stat/40/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F756
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
-[/us/pl/90/578/s402/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2Fs402%2Fb%2F2
+[/us/pl/90/578/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2FtIV
 [/us/stat/82/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1118
-[/us/pl/95/616/s3/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616%2Fs3%2Fh%2F1
+[/us/pl/95/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616
 [/us/stat/92/3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3111
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
 [/us/pl/95/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616
 [/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321

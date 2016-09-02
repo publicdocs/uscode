@@ -23,7 +23,7 @@
 
     (3) Exclusion from the Memorial and inclusion in the Coronado National Forest of the north half southwest quarter northwest quarter section 13, and the north half southeast quarter northeast quarter section 14, all in township 24 south, range 20 east, Gila and Salt River base and meridian.
 
-([Pub. L. 86–689, § 1][/us/pl/86/689/s1], Sept. 2, 1960, [74 Stat. 736][/us/stat/74/736].)
+([Pub. L. 86–689][/us/pl/86/689], § 1, Sept. 2, 1960, [74 Stat. 736][/us/stat/74/736].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/86/689/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F689%2Fs1
+[/us/pl/86/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F689
 [/us/stat/74/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F736
 
 

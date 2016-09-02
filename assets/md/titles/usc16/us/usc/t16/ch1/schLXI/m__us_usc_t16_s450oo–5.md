@@ -17,7 +17,7 @@
 
     The Secretary of the Interior shall encourage recognized members of the Minnesota Chippewa Tribe in the production and sale of handicraft objects within the monument. The administration of the Grand Portage National Monument shall not in any manner interfere with the operation or existence of any trade or business of said tribe outside the boundaries of the national monument.
 
-([Pub. L. 85–910, § 6][/us/pl/85/910/s6], Sept. 2, 1958, [72 Stat. 1753][/us/stat/72/1753].)
+([Pub. L. 85–910][/us/pl/85/910], § 6, Sept. 2, 1958, [72 Stat. 1753][/us/stat/72/1753].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/85/910/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F910%2Fs6
+[/us/pl/85/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F910
 [/us/stat/72/1753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1753
 
 

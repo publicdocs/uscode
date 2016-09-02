@@ -19,7 +19,7 @@
 
     (b) There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section, such sums to remain available until expended.
 
-([Pub. L. 97–98, title XV, § 1552][/us/pl/97/98/s1552], Dec. 22, 1981, [95 Stat. 1344][/us/stat/95/1344].)
+([Pub. L. 97–98, title XV][/us/pl/97/98/tXV], § 1552, Dec. 22, 1981, [95 Stat. 1344][/us/stat/95/1344].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/97/98/s1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1552
+[/us/pl/97/98/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXV
 [/us/stat/95/1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1344
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/stat/95/1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1344

@@ -55,17 +55,17 @@
 
         For purposes of carrying out this subchapter and [section 1374(c)(2)(D) of this title][/us/usc/t16/s1374/c/2/D], the Secretary may accept, solicit, and use the services of volunteers, and may accept, solicit, receive, hold, administer, and use gifts, devises, and bequests.
 
-([Pub. L. 92–522, title IV, § 405][/us/pl/92/522/s405], formerly title III, § 305, as added [Pub. L. 102–587, title III, § 3003(a)][/us/pl/102/587/s3003/a], Nov. 4, 1992, [106 Stat. 5064][/us/stat/106/5064]; renumbered title IV, § 405, and amended [Pub. L. 103–238][/us/pl/103/238], §§ 6, 16(b), 24(b), (c)(2), Apr. 30, 1994, [108 Stat. 542][/us/stat/108/542], 559, 565, 566.)
+([Pub. L. 92–522, title IV][/us/pl/92/522/tIV], § 405, formerly title III, § 305, as added [Pub. L. 102–587, title III][/us/pl/102/587/tIII], § 3003(a), Nov. 4, 1992, [106 Stat. 5064][/us/stat/106/5064]; renumbered title IV, § 405, and amended [Pub. L. 103–238][/us/pl/103/238], §§ 6, 16(b), 24(b), (c)(2), Apr. 30, 1994, [108 Stat. 542][/us/stat/108/542], 559, 565, 566.)
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–238, § 16(b)][/us/pl/103/238/s16/b], substituted “an interest bearing fund” for “a fund”.
+    1994—Subsec. (a). [Pub. L. 103–238][/us/pl/103/238], § 16(b), substituted “an interest bearing fund” for “a fund”.
 
-    Subsec. (b)(1)(A)(i). [Pub. L. 103–238, § 24(c)(2)][/us/pl/103/238/s24/c/2], made technical amendment to reference to [section 1421c(b) of this title][/us/usc/t16/s1421c/b] to reflect renumbering of corresponding section of original act.
+    Subsec. (b)(1)(A)(i). [Pub. L. 103–238][/us/pl/103/238], § 24(c)(2), made technical amendment to reference to [section 1421c(b) of this title][/us/usc/t16/s1421c/b] to reflect renumbering of corresponding section of original act.
 
-    Subsec. (b)(1)(A)(iii). [Pub. L. 103–238, § 6(1)][/us/pl/103/238/s6/1], added cl. (iii).
+    Subsec. (b)(1)(A)(iii). [Pub. L. 103–238][/us/pl/103/238], § 6(1), added cl. (iii).
 
-    Subsec. (d). [Pub. L. 103–238, § 6(2)][/us/pl/103/238/s6/2], inserted “and [section 1374(c)(2)(D) of this title][/us/usc/t16/s1374/c/2/D]”.
+    Subsec. (d). [Pub. L. 103–238][/us/pl/103/238], § 6(2), inserted “and [section 1374(c)(2)(D) of this title][/us/usc/t16/s1374/c/2/D]”.
 
 ----------
 
@@ -77,16 +77,16 @@
 [/us/usc/t16/s1421c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1421c%2Fb
 [/us/usc/t16/s1374/c/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1374%2Fc%2F2%2FD
 [/us/usc/t16/s1374/c/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1374%2Fc%2F2%2FD
-[/us/pl/92/522/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs405
-[/us/pl/102/587/s3003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs3003%2Fa
+[/us/pl/92/522/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtIV
+[/us/pl/102/587/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtIII
 [/us/stat/106/5064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5064
 [/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
 [/us/stat/108/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F542
-[/us/pl/103/238/s16/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs16%2Fb
-[/us/pl/103/238/s24/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs24%2Fc%2F2
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
 [/us/usc/t16/s1421c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1421c%2Fb
-[/us/pl/103/238/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs6%2F1
-[/us/pl/103/238/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs6%2F2
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
 [/us/usc/t16/s1374/c/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1374%2Fc%2F2%2FD
 
 

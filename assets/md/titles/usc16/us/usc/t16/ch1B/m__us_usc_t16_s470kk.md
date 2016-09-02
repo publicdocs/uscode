@@ -27,7 +27,7 @@
 
         Nothing in this chapter shall be construed to affect any land other than public land or Indian land or to affect the lawful recovery, collection, or sale of archaeological resources from land other than public land or Indian land.
 
-([Pub. L. 96–95, § 12][/us/pl/96/95/s12], Oct. 31, 1979, [93 Stat. 728][/us/stat/93/728].)
+([Pub. L. 96–95][/us/pl/96/95], § 12, Oct. 31, 1979, [93 Stat. 728][/us/stat/93/728].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t16/s470bb/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470bb%2F1
-[/us/pl/96/95/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95%2Fs12
+[/us/pl/96/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95
 [/us/stat/93/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F728
 
 

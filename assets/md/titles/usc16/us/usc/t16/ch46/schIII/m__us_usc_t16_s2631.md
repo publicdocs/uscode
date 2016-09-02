@@ -27,7 +27,7 @@
 
         Any intervention or participation under this section, in any proceeding commenced before November 9, 1978, but not completed before such date, shall be permitted under this section only to the extent such intervention or participation is timely under otherwise applicable law.
 
-([Pub. L. 95–617, title I, § 121][/us/pl/95/617/s121], Nov. 9, 1978, [92 Stat. 3128][/us/stat/92/3128].)
+([Pub. L. 95–617, title I][/us/pl/95/617/tI], § 121, Nov. 9, 1978, [92 Stat. 3128][/us/stat/92/3128].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/95/617/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs121
+[/us/pl/95/617/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtI
 [/us/stat/92/3128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3128
 [/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
 [/us/stat/92/3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3120

@@ -17,7 +17,7 @@
 
     When title to lands within the areas hereinafter referred to shall have been vested in the United States in fee simple there are established, dedicated, and set apart as public parks for the benefit and enjoyment of the people, the tract of land in the Blue Ridge, in the State of Virginia, being approximately five hundred and twenty-one thousand acres recommended by the Secretary of the Interior in his report of April 14, 1926, which area, or any part or parts thereof as may be accepted on behalf of the United States in accordance with the provisions hereof, shall be known as the Shenandoah National Park; and the tract of land in the Great Smoky Mountains in the States of North Carolina and Tennessee being approximately seven hundred and four thousand acres, recommended by the Secretary of the Interior in his report of April 14, 1926, which area, or any part or parts thereof as may be accepted on behalf of the United States in accordance with the provisions hereof, shall be known as the Great Smoky Mountains National Park: Provided, That the United States shall not purchase by appropriation of public moneys any land within the aforesaid areas, but that such lands shall be secured by the United States only by public or private donation.
 
-([May 22, 1926, ch. 363, § 1][/us/act/1926-05-22/ch363/s1], [44 Stat. 616][/us/stat/44/616].)
+([May 22, 1926, ch. 363][/us/act/1926-05-22/ch363], § 1, [44 Stat. 616][/us/stat/44/616].)
 
  __Tapoco Project Licensing__ 
 
@@ -33,11 +33,11 @@
 
  __Shenandoah National Park; Roads on Federal Land; Transfer of County Road Corridors__ 
 
-    [Pub. L. 104–59, title III, § 349(b)][/us/pl/104/59/s349/b], Nov. 28, 1995, [109 Stat. 618][/us/stat/109/618], permitted State of Virginia to maintain and provide for safe public use of certain roads that State donated to United States at time of establishment of Shenandoah National Park; established transfer from United States to State of county road corridors for that purpose; defined “county road corridor” and “Shenandoah county road”; and provided for reversion of corridors should they be withdrawn from use as public roadways.
+    [Pub. L. 104–59, title III][/us/pl/104/59/tIII], § 349(b), Nov. 28, 1995, [109 Stat. 618][/us/stat/109/618], permitted State of Virginia to maintain and provide for safe public use of certain roads that State donated to United States at time of establishment of Shenandoah National Park; established transfer from United States to State of county road corridors for that purpose; defined “county road corridor” and “Shenandoah county road”; and provided for reversion of corridors should they be withdrawn from use as public roadways.
 
  __Transfer of Land for Use as Customs Service Canine Enforcement Training Center__ 
 
-[Pub. L. 102–393, title V, § 533][/us/pl/102/393/s533], Oct. 6, 1992, [106 Stat. 1763][/us/stat/106/1763], provided that:
+[Pub. L. 102–393, title V][/us/pl/102/393/tV], § 533, Oct. 6, 1992, [106 Stat. 1763][/us/stat/106/1763], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -72,7 +72,7 @@
 ----------
 ----------
 
-[/us/act/1926-05-22/ch363/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-22%2Fch363%2Fs1
+[/us/act/1926-05-22/ch363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-22%2Fch363
 [/us/stat/44/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F616
 [/us/pl/108/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F343
 [/us/stat/118/1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1372
@@ -80,9 +80,9 @@
 [/us/usc/t16/s460a–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460a%E2%80%935
 [/us/pl/107/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F223
 [/us/stat/116/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1338
-[/us/pl/104/59/s349/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2Fs349%2Fb
+[/us/pl/104/59/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F59%2FtIII
 [/us/stat/109/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F618
-[/us/pl/102/393/s533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2Fs533
+[/us/pl/102/393/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2FtV
 [/us/stat/106/1763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1763
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

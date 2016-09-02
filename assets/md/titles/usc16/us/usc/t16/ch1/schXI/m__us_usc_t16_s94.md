@@ -17,7 +17,7 @@
 
     The location of mining claims under the mineral land laws of the United States is prohibited within the area of the Mount Rainier National Park, in the State of Washington. This provision shall not affect rights acquired in good faith before May 27, 1908, under the mineral land laws of the United States to any mining location or locations in said Mount Rainier National Park.
 
-([May 27, 1908, ch. 200, § 1][/us/act/1908-05-27/ch200/s1], [35 Stat. 365][/us/stat/35/365].)
+([May 27, 1908, ch. 200][/us/act/1908-05-27/ch200], § 1, [35 Stat. 365][/us/stat/35/365].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1908-05-27/ch200/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-05-27%2Fch200%2Fs1
+[/us/act/1908-05-27/ch200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-05-27%2Fch200
 [/us/stat/35/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F365
 
 

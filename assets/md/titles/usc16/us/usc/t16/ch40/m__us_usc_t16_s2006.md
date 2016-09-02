@@ -33,7 +33,7 @@
 
         Not later than the date on which Congress convenes in 2012, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the plans of the Department of Agriculture for improving the resource appraisal and national conservation program required under this chapter, based on the recommendations received under sections 2004(d) and 2005(c) of this title.
 
-([Pub. L. 95–192, § 7][/us/pl/95/192/s7], Nov. 18, 1977, [91 Stat. 1410][/us/stat/91/1410]; [Pub. L. 99–198, title XII, § 1252(c)][/us/pl/99/198/s1252/c], Dec. 23, 1985, [99 Stat. 1516][/us/stat/99/1516]; [Pub. L. 110–234, title II, § 2804(d)][/us/pl/110/234/s2804/d], May 22, 2008, [122 Stat. 1087][/us/stat/122/1087]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2804(d), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1815.)
+([Pub. L. 95–192][/us/pl/95/192], § 7, Nov. 18, 1977, [91 Stat. 1410][/us/stat/91/1410]; [Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1252(c), Dec. 23, 1985, [99 Stat. 1516][/us/stat/99/1516]; [Pub. L. 110–234, title II][/us/pl/110/234/tII], § 2804(d), May 22, 2008, [122 Stat. 1087][/us/stat/122/1087]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title II, § 2804(d), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1815.)
 
  __Codification__ 
 
@@ -41,11 +41,11 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–246, § 2804(d)][/us/pl/110/246/s2804/d], amended section generally. Prior to amendment, section related to transmission of appraisal developed under [section 2004 of this title][/us/usc/t16/s2004] at the time Congress convened in 1980, 1987, 1996, and 2006, transmission of program developed under [section 2005 of this title][/us/usc/t16/s2005] and statement of policy at the time Congress convened in 1980, 1988, 1998, and 2008, and annual report on program effectiveness.
+    2008—[Pub. L. 110–246][/us/pl/110/246], § 2804(d), amended section generally. Prior to amendment, section related to transmission of appraisal developed under [section 2004 of this title][/us/usc/t16/s2004] at the time Congress convened in 1980, 1987, 1996, and 2006, transmission of program developed under [section 2005 of this title][/us/usc/t16/s2005] and statement of policy at the time Congress convened in 1980, 1988, 1998, and 2008, and annual report on program effectiveness.
 
-    1985—Subsec. (a). [Pub. L. 99–198, § 1252(c)(1)][/us/pl/99/198/s1252/c/1], added subsec. (a) and struck out former subsec. (a) which read as follows: “On the first day Congress convenes in 1980 and at each five-year interval thereafter during the period this chapter is in effect the President shall transmit to the Speaker of the House of Representatives and the President of the Senate, the appraisal and the program as required by sections 2004 and 2005 of this title, together with a detailed statement of policy regarding soil and water conservation activities of the United States Department of Agriculture.”
+    1985—Subsec. (a). [Pub. L. 99–198][/us/pl/99/198], § 1252(c)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “On the first day Congress convenes in 1980 and at each five-year interval thereafter during the period this chapter is in effect the President shall transmit to the Speaker of the House of Representatives and the President of the Senate, the appraisal and the program as required by sections 2004 and 2005 of this title, together with a detailed statement of policy regarding soil and water conservation activities of the United States Department of Agriculture.”
 
-    Subsecs. (b), (c). [Pub. L. 99–198, § 1252(c)(2)][/us/pl/99/198/s1252/c/2], (3), struck out subsec. (b) which provided for an annual report of program and policy achievement, and redesignated subsec. (c) as (b).
+    Subsecs. (b), (c). [Pub. L. 99–198][/us/pl/99/198], § 1252(c)(2), (3), struck out subsec. (b) which provided for an annual report of program and policy achievement, and redesignated subsec. (c) as (b).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -72,23 +72,23 @@
 
 [/us/usc/t16/s2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2004
 [/us/usc/t16/s2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2005
-[/us/pl/95/192/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F192%2Fs7
+[/us/pl/95/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F192
 [/us/stat/91/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1410
-[/us/pl/99/198/s1252/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1252%2Fc
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
 [/us/stat/99/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1516
-[/us/pl/110/234/s2804/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2804%2Fd
+[/us/pl/110/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtII
 [/us/stat/122/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1087
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s2804/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2804%2Fd
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t16/s2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2004
 [/us/usc/t16/s2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2005
-[/us/pl/99/198/s1252/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1252%2Fc%2F1
-[/us/pl/99/198/s1252/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1252%2Fc%2F2
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

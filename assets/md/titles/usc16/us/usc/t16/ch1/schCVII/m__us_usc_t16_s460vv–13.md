@@ -35,7 +35,7 @@
 
         The Secretary is authorized and encouraged to seek local nonprofit entities and the private sector for development of tourism and recreation initiatives in implementing the tourism and recreation section of the plan.
 
-([Pub. L. 100–499, § 15][/us/pl/100/499/s15], Oct. 18, 1988, [102 Stat. 2498][/us/stat/102/2498].)
+([Pub. L. 100–499][/us/pl/100/499], § 15, Oct. 18, 1988, [102 Stat. 2498][/us/stat/102/2498].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/usc/t16/s460vv–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460vv%E2%80%9312
-[/us/pl/100/499/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F499%2Fs15
+[/us/pl/100/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F499
 [/us/stat/102/2498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2498
 [/us/pl/94/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588
 [/us/stat/90/2949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2949

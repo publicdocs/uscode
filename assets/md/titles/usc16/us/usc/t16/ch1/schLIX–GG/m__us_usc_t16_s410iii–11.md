@@ -49,7 +49,7 @@
 
             The Shenandoah Valley Battlefields Foundation may continue to administer and manage the Shenandoah Valley Battlefields National Historic District in partnership with the National Park Service and in accordance with the Management Plan for the District in which the Park is located.
 
-([Pub. L. 107–373, § 13][/us/pl/107/373/s13], Dec. 19, 2002, [116 Stat. 3109][/us/stat/116/3109].)
+([Pub. L. 107–373][/us/pl/107/373], § 13, Dec. 19, 2002, [116 Stat. 3109][/us/stat/116/3109].)
 
 ----------
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/107/373/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F373%2Fs13
+[/us/pl/107/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F373
 [/us/stat/116/3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3109
 
 

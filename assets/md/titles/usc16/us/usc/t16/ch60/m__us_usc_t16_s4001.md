@@ -31,17 +31,17 @@
 
     (7) the United States fishing industry has the potential to expand greatly its contribution to interstate and foreign commerce, favorably affecting the balance of trade.
 
-([Pub. L. 99–659, title II, § 202][/us/pl/99/659/s202], Nov. 14, 1986, [100 Stat. 3715][/us/stat/100/3715].)
+([Pub. L. 99–659, title II][/us/pl/99/659/tII], § 202, Nov. 14, 1986, [100 Stat. 3715][/us/stat/100/3715].)
 
  __Short Title__ 
 
-[Pub. L. 99–659, title II, § 201][/us/pl/99/659/s201], Nov. 14, 1986, [100 Stat. 3715][/us/stat/100/3715], provided that: 
+[Pub. L. 99–659, title II][/us/pl/99/659/tII], § 201, Nov. 14, 1986, [100 Stat. 3715][/us/stat/100/3715], provided that: 
 
 > “This title \[enacting this chapter and amending [section 713c–3 of Title 15][/us/usc/t15/s713c–3], Commerce and Trade\] may be cited as the ‘Fish and Seafood Promotion Act of 1986’.”
 
  __Report to Congress on Fish and Seafood Promotion__ 
 
-[Pub. L. 99–659, title II, § 219][/us/pl/99/659/s219], Nov. 14, 1986, [100 Stat. 3731][/us/stat/100/3731], provided that: 
+[Pub. L. 99–659, title II][/us/pl/99/659/tII], § 219, Nov. 14, 1986, [100 Stat. 3731][/us/stat/100/3731], provided that: 
 
 > “The Secretary shall, not later than March 1, 1989, submit to the Congress a report on the effectiveness of the implementation of this title \[enacting this chapter and amending [section 713c–3 of Title 15][/us/usc/t15/s713c–3], Commerce and Trade\] in achieving the purposes of this title.”
 
@@ -52,12 +52,12 @@
 ----------
 ----------
 
-[/us/pl/99/659/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs202
+[/us/pl/99/659/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtII
 [/us/stat/100/3715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3715
-[/us/pl/99/659/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs201
+[/us/pl/99/659/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtII
 [/us/stat/100/3715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3715
 [/us/usc/t15/s713c–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713c%E2%80%933
-[/us/pl/99/659/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs219
+[/us/pl/99/659/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtII
 [/us/stat/100/3731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3731
 [/us/usc/t15/s713c–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713c%E2%80%933
 

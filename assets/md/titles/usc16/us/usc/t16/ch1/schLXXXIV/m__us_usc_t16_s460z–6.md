@@ -31,7 +31,7 @@
 
         The term “improved property” wherever used in this subchapter shall mean a detached one-family dwelling the construction of which was begun before December 31, 1970, together with any structures accessory to it and the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary finds necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use.
 
-([Pub. L. 92–260, § 8][/us/pl/92/260/s8], Mar. 23, 1972, [86 Stat. 100][/us/stat/86/100].)
+([Pub. L. 92–260][/us/pl/92/260], § 8, Mar. 23, 1972, [86 Stat. 100][/us/stat/86/100].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/92/260/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F260%2Fs8
+[/us/pl/92/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F260
 [/us/stat/86/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F100
 
 

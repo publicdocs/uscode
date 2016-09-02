@@ -17,7 +17,7 @@
 
     Upon the vesting of title in the United States to such additional lands as may be designated by the Secretary of the Interior as necessary and desirable for the purposes of the Chalmette Unit of the Jean Lafitte National Historical Park and Preserve, such lands shall become a part of the said Unit and shall be subject to all laws, rules, and regulations applicable thereto: Provided, however, That the total area included within the said Unit and any enlargement thereof shall not exceed five hundred acres.
 
-([Aug. 10, 1939, ch. 640, § 2][/us/act/1939-08-10/ch640/s2], [53 Stat. 1342][/us/stat/53/1342]; [Pub. L. 95–625, title IX, § 909][/us/pl/95/625/s909], Nov. 10, 1978, [92 Stat. 3538][/us/stat/92/3538]; [Pub. L. 111–11, title VII, § 7105(f)(1)(B)][/us/pl/111/11/s7105/f/1/B], Mar. 30, 2009, [123 Stat. 1193][/us/stat/123/1193].)
+([Aug. 10, 1939, ch. 640][/us/act/1939-08-10/ch640], § 2, [53 Stat. 1342][/us/stat/53/1342]; [Pub. L. 95–625, title IX][/us/pl/95/625/tIX], § 909, Nov. 10, 1978, [92 Stat. 3538][/us/stat/92/3538]; [Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7105(f)(1)(B), Mar. 30, 2009, [123 Stat. 1193][/us/stat/123/1193].)
 
  __Change of Name__ 
 
@@ -27,7 +27,7 @@
 
  __Acquisition of Lands__ 
 
-[Pub. L. 87–759, § 5][/us/pl/87/759/s5], Oct. 9, 1962, [76 Stat. 756][/us/stat/76/756], provided:
+[Pub. L. 87–759][/us/pl/87/759], § 5, Oct. 9, 1962, [76 Stat. 756][/us/stat/76/756], provided:
 
 >     “Within the boundaries of Chalmette National Historical Park \[now Chalmette Unit of the Jean Lafitte National Historical Park and Preserve\] as designated by the Secretary of the Interior on March 20, 1958, pursuant to the Act of August 10, 1939 ([53 Stat. 1342][/us/stat/53/1342]), and depicted on drawing numbered NHP–CHAL–7008, said Secretary, notwithstanding the proviso in section 3 of said Act, is hereby authorized to acquire the following lands and interests in lands with funds heretofore appropriated and otherwise available for such purpose;
 
@@ -46,15 +46,15 @@
 ----------
 ----------
 
-[/us/act/1939-08-10/ch640/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-10%2Fch640%2Fs2
+[/us/act/1939-08-10/ch640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-10%2Fch640
 [/us/stat/53/1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1342
-[/us/pl/95/625/s909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs909
+[/us/pl/95/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtIX
 [/us/stat/92/3538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3538
-[/us/pl/111/11/s7105/f/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7105%2Ff%2F1%2FB
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1193
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 [/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
-[/us/pl/87/759/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F759%2Fs5
+[/us/pl/87/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F759
 [/us/stat/76/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F756
 [/us/stat/53/1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1342
 

@@ -17,7 +17,7 @@
 
     The Secretary of the Interior may enter into agreements with other Federal agencies and with any concessioner or its successor in order to effectuate the purposes of sections 47–2 to 47–6 of this title.
 
-([Pub. L. 90–409, § 3][/us/pl/90/409/s3], formerly § 2, July 21, 1968, [82 Stat. 393][/us/stat/82/393]; renumbered § 3, [Pub. L. 99–542, § 1(4)][/us/pl/99/542/s1/4], Oct. 27, 1986, [100 Stat. 3037][/us/stat/100/3037].)
+([Pub. L. 90–409][/us/pl/90/409], § 3, formerly § 2, July 21, 1968, [82 Stat. 393][/us/stat/82/393]; renumbered § 3, [Pub. L. 99–542][/us/pl/99/542], § 1(4), Oct. 27, 1986, [100 Stat. 3037][/us/stat/100/3037].)
 
  __Codification__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/90/409/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F409%2Fs3
+[/us/pl/90/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F409
 [/us/stat/82/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F393
-[/us/pl/99/542/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F542%2Fs1%2F4
+[/us/pl/99/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F542
 [/us/stat/100/3037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3037
 [/us/usc/t16/s47–2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs47%E2%80%932%2Fb
 [/us/pl/99/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F542

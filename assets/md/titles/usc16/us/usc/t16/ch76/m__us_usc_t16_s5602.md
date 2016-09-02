@@ -31,7 +31,7 @@
 
         (2) any specification, under Article VIII(2) of the Convention, of the terms of reference for the consideration of a question referred to the Scientific Council pursuant to Article VII(1) of the Convention.
 
-([Pub. L. 104–43, title II, § 203][/us/pl/104/43/s203], Nov. 3, 1995, [109 Stat. 378][/us/stat/109/378].)
+([Pub. L. 104–43, title II][/us/pl/104/43/tII], § 203, Nov. 3, 1995, [109 Stat. 378][/us/stat/109/378].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/104/43/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs203
+[/us/pl/104/43/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtII
 [/us/stat/109/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F378
 
 

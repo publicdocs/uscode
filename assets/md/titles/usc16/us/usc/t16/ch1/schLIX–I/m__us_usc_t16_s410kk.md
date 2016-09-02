@@ -17,7 +17,7 @@
 
     In order to preserve in public ownership historically significant properties associated with the life of Lyndon B. Johnson, the Secretary of the Interior is authorized to acquire, by donation or by purchase with donated or appropriated funds, such lands and interests in lands, together with the buildings and improvements thereon, at or in the vicinity of Johnson City, Texas, as are depicted on the drawings entitled “Boundary Map, Lyndon B. Johnson National Historical Park”, numbered 447–40,008B and 447–40,000A, and dated January 1980, together with such lands as from time to time may be donated for addition to the site and such lands as he shall deem necessary to provide adequate public parking for visitors at a suitable location. The drawing shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior. When acquired such site shall be known as the Lyndon B. Johnson National Historical Park.
 
-([Pub. L. 91–134, § 1][/us/pl/91/134/s1], Dec. 2, 1969, [83 Stat. 274][/us/stat/83/274]; [Pub. L. 96–607, title VI, § 601(1)][/us/pl/96/607/s601/1], (3), Dec. 28, 1980, [94 Stat. 3540][/us/stat/94/3540].)
+([Pub. L. 91–134][/us/pl/91/134], § 1, Dec. 2, 1969, [83 Stat. 274][/us/stat/83/274]; [Pub. L. 96–607, title VI][/us/pl/96/607/tVI], § 601(1), (3), Dec. 28, 1980, [94 Stat. 3540][/us/stat/94/3540].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/91/134/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F134%2Fs1
+[/us/pl/91/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F134
 [/us/stat/83/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F274
-[/us/pl/96/607/s601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607%2Fs601%2F1
+[/us/pl/96/607/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607%2FtVI
 [/us/stat/94/3540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3540
 [/us/pl/96/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607
 

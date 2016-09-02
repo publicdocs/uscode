@@ -27,7 +27,7 @@
 
     (b) The recreation area shall consist of the Federal lands, waters, and interests therein within the area generally depicted on the map entitled “Boundary Map, Proposed Amistad National Recreation Area”, numbered 621/20,013–B, and dated July 1969. The map shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior. The Secretary of the Interior (hereafter in this Act referred to as the “Secretary”) may from time to time make minor revisions in the boundary of the recreation area, but the total acreage of the recreation area may not exceed 58,500 acres. Within the boundary of the recreation area, the Secretary may acquire lands and interests in lands by purchase with donated or appropriated funds, exchange, or transfer without reimbursement from any Federal agency.
 
-([Pub. L. 101–628, title V, § 505][/us/pl/101/628/s505], Nov. 28, 1990, [104 Stat. 4494][/us/stat/104/4494].)
+([Pub. L. 101–628, title V][/us/pl/101/628/tV], § 505, Nov. 28, 1990, [104 Stat. 4494][/us/stat/104/4494].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t16/s460fff–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460fff%E2%80%931
-[/us/pl/101/628/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628%2Fs505
+[/us/pl/101/628/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628%2FtV
 [/us/stat/104/4494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4494
 [/us/pl/101/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628
 [/us/stat/104/4469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4469

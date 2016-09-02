@@ -137,7 +137,7 @@
 
         (5) For purposes of this subsection, the term “State” shall include the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-([Sept. 2, 1937, ch. 899, § 4][/us/act/1937-09-02/ch899/s4], [50 Stat. 918][/us/stat/50/918]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; [July 24, 1946, ch. 605, § 1][/us/act/1946-07-24/ch605/s1], [60 Stat. 656][/us/stat/60/656]; [Pub. L. 91–503, title I, § 102][/us/pl/91/503/s102], Oct. 23, 1970, [84 Stat. 1098][/us/stat/84/1098]; [Pub. L. 92–558, title I, § 101(b)][/us/pl/92/558/s101/b], Oct. 25, 1972, [86 Stat. 1172][/us/stat/86/1172]; [Pub. L. 94–273, § 4(1)][/us/pl/94/273/s4/1], Apr. 21, 1976, [90 Stat. 377][/us/stat/90/377]; [Pub. L. 99–396, § 8(b)][/us/pl/99/396/s8/b], Aug. 27, 1986, [100 Stat. 839][/us/stat/100/839]; [Pub. L. 101–233, § 7(a)(2)][/us/pl/101/233/s7/a/2], Dec. 13, 1989, [103 Stat. 1975][/us/stat/103/1975]; [Pub. L. 106–408, title I, § 111(a)][/us/pl/106/408/s111/a], Nov. 1, 2000, [114 Stat. 1763][/us/stat/114/1763]; [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title IX, § 902(e)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–121.)
+([Sept. 2, 1937, ch. 899][/us/act/1937-09-02/ch899], § 4, [50 Stat. 918][/us/stat/50/918]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; [July 24, 1946, ch. 605][/us/act/1946-07-24/ch605], § 1, [60 Stat. 656][/us/stat/60/656]; [Pub. L. 91–503, title I][/us/pl/91/503/tI], § 102, Oct. 23, 1970, [84 Stat. 1098][/us/stat/84/1098]; [Pub. L. 92–558, title I][/us/pl/92/558/tI], § 101(b), Oct. 25, 1972, [86 Stat. 1172][/us/stat/86/1172]; [Pub. L. 94–273][/us/pl/94/273], § 4(1), Apr. 21, 1976, [90 Stat. 377][/us/stat/90/377]; [Pub. L. 99–396][/us/pl/99/396], § 8(b), Aug. 27, 1986, [100 Stat. 839][/us/stat/100/839]; [Pub. L. 101–233][/us/pl/101/233], § 7(a)(2), Dec. 13, 1989, [103 Stat. 1975][/us/stat/103/1975]; [Pub. L. 106–408, title I][/us/pl/106/408/tI], § 111(a), Nov. 1, 2000, [114 Stat. 1763][/us/stat/114/1763]; [Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title IX, § 902(e)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–121.)
 
  __Amendments__ 
 
@@ -173,7 +173,7 @@
 
  __Suspension of Expense Limitation__ 
 
-    The Interior Department Appropriation Act, 1945, [act June 28, 1944, ch. 298, § 1][/us/act/1944-06-28/ch298/s1], [58 Stat. 504][/us/stat/58/504], provided that the limitations in this chapter were waived to the extent necessary to provide overtime under the provisions of the War Overtime Pay Act, 1943, former sections 1401 to 1415 of the former Appendix to Title 50, War and National Defense, which act expired June 30, 1945.
+    The Interior Department Appropriation Act, 1945, [act June 28, 1944, ch. 298][/us/act/1944-06-28/ch298], § 1, [58 Stat. 504][/us/stat/58/504], provided that the limitations in this chapter were waived to the extent necessary to provide overtime under the provisions of the War Overtime Pay Act, 1943, former sections 1401 to 1415 of the former Appendix to Title 50, War and National Defense, which act expired June 30, 1945.
 
 ----------
 
@@ -186,24 +186,24 @@
 [/us/usc/t16/s669h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs669h
 [/us/usc/t16/s669g–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs669g%E2%80%931
 [/us/usc/t16/s669g/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs669g%2Fa
-[/us/act/1937-09-02/ch899/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-02%2Fch899%2Fs4
+[/us/act/1937-09-02/ch899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-02%2Fch899
 [/us/stat/50/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F918
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
-[/us/act/1946-07-24/ch605/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-24%2Fch605%2Fs1
+[/us/act/1946-07-24/ch605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-24%2Fch605
 [/us/stat/60/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F656
-[/us/pl/91/503/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F503%2Fs102
+[/us/pl/91/503/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F503%2FtI
 [/us/stat/84/1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1098
-[/us/pl/92/558/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F558%2Fs101%2Fb
+[/us/pl/92/558/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F558%2FtI
 [/us/stat/86/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1172
-[/us/pl/94/273/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs4%2F1
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F377
-[/us/pl/99/396/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396%2Fs8%2Fb
+[/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
 [/us/stat/100/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F839
-[/us/pl/101/233/s7/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F233%2Fs7%2Fa%2F2
+[/us/pl/101/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F233
 [/us/stat/103/1975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1975
-[/us/pl/106/408/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2Fs111%2Fa
+[/us/pl/106/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2FtI
 [/us/stat/114/1763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1763
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
 [/us/pl/106/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408
 [/us/usc/t16/s669b/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs669b%2Fb
@@ -222,7 +222,7 @@
 [/us/pl/92/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F558
 [/us/pl/92/558/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F558%2Fs101%2Fc
 [/us/usc/t16/s669b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs669b
-[/us/act/1944-06-28/ch298/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-28%2Fch298%2Fs1
+[/us/act/1944-06-28/ch298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-28%2Fch298
 [/us/stat/58/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F504
 
 

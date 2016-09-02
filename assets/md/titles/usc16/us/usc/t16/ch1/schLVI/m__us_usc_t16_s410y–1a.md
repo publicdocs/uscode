@@ -17,7 +17,7 @@
 
     The boundaries of the park are revised to include approximately 600 additional acres.
 
-([Pub. L. 95–625, title III, § 320][/us/pl/95/625/s320], Nov. 10, 1978, [92 Stat. 3488][/us/stat/92/3488]; [Pub. L. 96–199, title I, § 101(c)][/us/pl/96/199/s101/c], Mar. 5, 1980, [94 Stat. 68][/us/stat/94/68].)
+([Pub. L. 95–625, title III][/us/pl/95/625/tIII], § 320, Nov. 10, 1978, [92 Stat. 3488][/us/stat/92/3488]; [Pub. L. 96–199, title I][/us/pl/96/199/tI], § 101(c), Mar. 5, 1980, [94 Stat. 68][/us/stat/94/68].)
 
  __Codification__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/95/625/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs320
+[/us/pl/95/625/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtIII
 [/us/stat/92/3488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3488
-[/us/pl/96/199/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199%2Fs101%2Fc
+[/us/pl/96/199/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199%2FtI
 [/us/stat/94/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F68
 [/us/pl/96/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199
 

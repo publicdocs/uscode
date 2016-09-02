@@ -29,7 +29,7 @@
 
         Based on the guidance developed under subsection (a), the Secretary of the Interior may, with assistance from the Fish and Wildlife Management Assistance Program, develop or enhance hatchery educational programs as appropriate, based on the resources of individual hatcheries and the opportunities available for such programs in State, local, and private schools. In developing and implementing each program, the Secretary should cooperate with State and local education authorities, and may cooperate with partner organizations in accordance with subsection (d). <sup>\[1\]</sup>  <sup><sup> 1 So in original. No subsec. (d) has been enacted. </sup></sup> 
 
-([Pub. L. 109–360, § 6][/us/pl/109/360/s6], Oct. 16, 2006, [120 Stat. 2060][/us/stat/120/2060].)
+([Pub. L. 109–360][/us/pl/109/360], § 6, Oct. 16, 2006, [120 Stat. 2060][/us/stat/120/2060].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/109/360/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F360%2Fs6
+[/us/pl/109/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F360
 [/us/stat/120/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2060
 
 

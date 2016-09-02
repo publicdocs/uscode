@@ -17,7 +17,7 @@
 
     In appointing the members of the commission created by [section 428 of this title][/us/usc/t16/s428] the Secretary of the Interior shall, as far as practicable, select persons familiar with the terrain of the battlefield of Fort Donelson, Tennessee, and the historical events associated therewith.
 
-([Mar. 26, 1928, ch. 248, § 2][/us/act/1928-03-26/ch248/s2], [45 Stat. 367][/us/stat/45/367]; Ex. Ord. No. 6166, § 2, June 10, 1933; Ex. Ord. No. 6228, § 1, July 28, 1933; [Pub. L. 86–738, § 5][/us/pl/86/738/s5], Sept. 8, 1960, [74 Stat. 876][/us/stat/74/876].)
+([Mar. 26, 1928, ch. 248][/us/act/1928-03-26/ch248], § 2, [45 Stat. 367][/us/stat/45/367]; Ex. Ord. No. 6166, § 2, June 10, 1933; Ex. Ord. No. 6228, § 1, July 28, 1933; [Pub. L. 86–738][/us/pl/86/738], § 5, Sept. 8, 1960, [74 Stat. 876][/us/stat/74/876].)
 
  __Transfer of Functions__ 
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/usc/t16/s428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs428
-[/us/act/1928-03-26/ch248/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-26%2Fch248%2Fs2
+[/us/act/1928-03-26/ch248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-26%2Fch248
 [/us/stat/45/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F367
-[/us/pl/86/738/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F738%2Fs5
+[/us/pl/86/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F738
 [/us/stat/74/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F876
 [/us/usc/t16/s428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs428
 

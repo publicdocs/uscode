@@ -21,7 +21,7 @@
 
     (2) the Secretary, with the agreement of the property owner, may make such minor improvements to such property as the Secretary deems necessary to enhance the public use and enjoyment of such property, exhibits, and programs.
 
-([Pub. L. 102–543, § 7][/us/pl/102/543/s7], Oct. 27, 1992, [106 Stat. 3571][/us/stat/106/3571].)
+([Pub. L. 102–543][/us/pl/102/543], § 7, Oct. 27, 1992, [106 Stat. 3571][/us/stat/106/3571].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/102/543/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F543%2Fs7
+[/us/pl/102/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F543
 [/us/stat/106/3571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3571
 
 

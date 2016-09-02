@@ -17,7 +17,7 @@
 
     It is recognized that research in forestry is the driving force behind progress in developing and utilizing the resources of the Nation’s forest and related rangelands. The production, protection, and utilization of the forest resources depend on strong technological advances and continuing development of the knowledge necessary to increase the efficiency of forestry practices and to extend the benefits that flow from forest and related rangelands. It is recognized that the total forestry research efforts of the several State colleges and universities and of the Federal Government are more fully effective if there is close coordination between such programs, and it is further recognized that forestry schools are especially vital in the training of research workers in forestry. It is also recognized that the provisions of this subchapter are essential to assist in providing the research background that undergirds the Forest and Rangeland Renewable Resources Planning Act of 1974 \[[16 U.S.C. 1600][/us/usc/t16/s1600] et seq.\], the Renewable Resources Extension Act of 1978, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and the Soil and Water Resources Conservation Act of 1977 \[[16 U.S.C. 2001][/us/usc/t16/s2001] et seq.\].
 
-([Pub. L. 87–788, § 1][/us/pl/87/788/s1], Oct. 10, 1962, [76 Stat. 806][/us/stat/76/806]; [Pub. L. 97–98, title XIV, § 1441(a)][/us/pl/97/98/s1441/a], Dec. 22, 1981, [95 Stat. 1320][/us/stat/95/1320].)
+([Pub. L. 87–788][/us/pl/87/788], § 1, Oct. 10, 1962, [76 Stat. 806][/us/stat/76/806]; [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1441(a), Dec. 22, 1981, [95 Stat. 1320][/us/stat/95/1320].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 
  __Reaffirmation of McIntire-Stennis Research Program__ 
 
-[Pub. L. 101–624, title XII, § 1231][/us/pl/101/624/s1231], Nov. 28, 1990, [104 Stat. 3543][/us/stat/104/3543], provided that: 
+[Pub. L. 101–624, title XII][/us/pl/101/624/tXII], § 1231, Nov. 28, 1990, [104 Stat. 3543][/us/stat/104/3543], provided that: 
 
 > “It is the sense of Congress to reaffirm the importance of [Public Law 87–788][/us/pl/87/788] ([16 U.S.C. 582a][/us/usc/t16/s582a] et seq.) commonly known as the McIntire-Stennis Cooperative Forestry Act.”
 
@@ -54,9 +54,9 @@
 
 [/us/usc/t16/s1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1600
 [/us/usc/t16/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2001
-[/us/pl/87/788/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F788%2Fs1
+[/us/pl/87/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F788
 [/us/stat/76/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F806
-[/us/pl/97/98/s1441/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1441%2Fa
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1320
 [/us/pl/93/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F378
 [/us/stat/88/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F476
@@ -74,7 +74,7 @@
 [/us/usc/t7/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs4301
 [/us/pl/87/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F788
 [/us/stat/76/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F806
-[/us/pl/101/624/s1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1231
+[/us/pl/101/624/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXII
 [/us/stat/104/3543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3543
 [/us/pl/87/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F788
 [/us/usc/t16/s582a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs582a

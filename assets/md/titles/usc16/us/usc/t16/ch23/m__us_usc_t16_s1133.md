@@ -65,7 +65,7 @@
 
             Nothing in this chapter shall be construed as affecting the jurisdiction or responsibilities of the several States with respect to wildlife and fish in the national forests.
 
-([Pub. L. 88–577, § 4][/us/pl/88/577/s4], Sept. 3, 1964, [78 Stat. 893][/us/stat/78/893]; [Pub. L. 95–495, § 4(b)][/us/pl/95/495/s4/b], Oct. 21, 1978, [92 Stat. 1650][/us/stat/92/1650]; [Pub. L. 102–154, title I][/us/pl/102/154], Nov. 13, 1991, [105 Stat. 1000][/us/stat/105/1000]; [Pub. L. 102–285, § 10(b)][/us/pl/102/285/s10/b], May 18, 1992, [106 Stat. 172][/us/stat/106/172]; [Pub. L. 113–287, § 5(d)(21)][/us/pl/113/287/s5/d/21], Dec. 19, 2014, [128 Stat. 3266][/us/stat/128/3266].)
+([Pub. L. 88–577][/us/pl/88/577], § 4, Sept. 3, 1964, [78 Stat. 893][/us/stat/78/893]; [Pub. L. 95–495][/us/pl/95/495], § 4(b), Oct. 21, 1978, [92 Stat. 1650][/us/stat/92/1650]; [Pub. L. 102–154, title I][/us/pl/102/154/tI], Nov. 13, 1991, [105 Stat. 1000][/us/stat/105/1000]; [Pub. L. 102–285][/us/pl/102/285], § 10(b), May 18, 1992, [106 Stat. 172][/us/stat/106/172]; [Pub. L. 113–287][/us/pl/113/287], § 5(d)(21), Dec. 19, 2014, [128 Stat. 3266][/us/stat/128/3266].)
 
  __References in Text__ 
 
@@ -81,9 +81,9 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(3). [Pub. L. 113–287, § 5(d)(21)(B)][/us/pl/113/287/s5/d/21/B], which directed substitution of “[section 796(2) of this title][/us/usc/t16/s796/2]; and chapters 3201 and 3203 of title 54” for “the Act of June 8, 1906 ([34 Stat. 225][/us/stat/34/225]; [16 U.S.C. 432][/us/usc/t16/s432] et seq); section 3(2) of the Federal Power Act ([16 U.S.C. 796(2)][/us/usc/t16/s796/2]); and the Act of August 21, 1935 ([49 Stat. 666][/us/stat/49/666]; [16 U.S.C. 461][/us/usc/t16/s461] et seq.)”, was executed by making the substitution for the same text as directed except with a period at the end of “432 et seq”, to reflect the probable intent of Congress.
+    2014—Subsec. (a)(3). [Pub. L. 113–287][/us/pl/113/287], § 5(d)(21)(B), which directed substitution of “[section 796(2) of this title][/us/usc/t16/s796/2]; and chapters 3201 and 3203 of title 54” for “the Act of June 8, 1906 ([34 Stat. 225][/us/stat/34/225]; [16 U.S.C. 432][/us/usc/t16/s432] et seq); section 3(2) of the Federal Power Act ([16 U.S.C. 796(2)][/us/usc/t16/s796/2]); and the Act of August 21, 1935 ([49 Stat. 666][/us/stat/49/666]; [16 U.S.C. 461][/us/usc/t16/s461] et seq.)”, was executed by making the substitution for the same text as directed except with a period at the end of “432 et seq”, to reflect the probable intent of Congress.
 
-    [Pub. L. 113–287, § 5(d)(21)(A)][/us/pl/113/287/s5/d/21/A], substituted “section 100101(b)(1), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54” for “sections 1, 2, 3, and 4 of this title”.
+    [Pub. L. 113–287][/us/pl/113/287], § 5(d)(21)(A), substituted “section 100101(b)(1), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54” for “sections 1, 2, 3, and 4 of this title”.
 
     1978—Subsec. (d)(5) to (8). [Pub. L. 95–495][/us/pl/95/495] redesignated pars. (6) to (8) as (5) to (7), respectively. Former par. (5), which related to the management of the Boundary Waters Canoe Area, Superior National Forest, Minnesota, was struck out.
 
@@ -99,7 +99,7 @@
 
  __Livestock Grazing in National Forest Wilderness Areas__ 
 
-[Pub. L. 96–560, title I, § 108][/us/pl/96/560/s108], Dec. 22, 1980, [94 Stat. 3271][/us/stat/94/3271], provided that: 
+[Pub. L. 96–560, title I][/us/pl/96/560/tI], § 108, Dec. 22, 1980, [94 Stat. 3271][/us/stat/94/3271], provided that: 
 
 > “The Congress hereby declares that, without amending the Wilderness Act of 1964 \[this chapter\], with respect to livestock grazing in National Forest wilderness areas, the provisions of the Wilderness Act relating to grazing shall be interpreted and administered in accordance with the guidelines contained under the heading ‘Grazing in National Forest Wilderness’ in the House Committee Report (H. Report 96–617) accompanying this Act \[[Pub. L. 96–560][/us/pl/96/560]\].”
 
@@ -117,15 +117,15 @@
 [/us/stat/62/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F568
 [/us/stat/70/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F326
 [/us/usc/t16/s796/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs796%2F2
-[/us/pl/88/577/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577%2Fs4
+[/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F893
-[/us/pl/95/495/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F495%2Fs4%2Fb
+[/us/pl/95/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F495
 [/us/stat/92/1650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1650
-[/us/pl/102/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154
+[/us/pl/102/154/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154%2FtI
 [/us/stat/105/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1000
-[/us/pl/102/285/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285%2Fs10%2Fb
+[/us/pl/102/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F285
 [/us/stat/106/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F172
-[/us/pl/113/287/s5/d/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F21
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3266
 [/us/act/1897-06-04/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-06-04%2Fch2
 [/us/stat/30/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F11
@@ -140,14 +140,14 @@
 [/us/usc/t16/s577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs577
 [/us/act/1956-06-22/ch425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-22%2Fch425
 [/us/stat/70/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F326
-[/us/pl/113/287/s5/d/21/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F21%2FB
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t16/s796/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs796%2F2
 [/us/stat/34/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F225
 [/us/usc/t16/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs432
 [/us/usc/t16/s796/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs796%2F2
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
 [/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
-[/us/pl/113/287/s5/d/21/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F21%2FA
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/pl/95/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F495
 [/us/pl/102/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154
 [/us/usc/t43/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs31
@@ -158,7 +158,7 @@
 [/us/pl/102/486/s3012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3012%2Fb
 [/us/usc/t15/s719e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719e
 [/us/usc/t15/s720d/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs720d%2Ff
-[/us/pl/96/560/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F560%2Fs108
+[/us/pl/96/560/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F560%2FtI
 [/us/stat/94/3271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3271
 [/us/pl/96/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F560
 

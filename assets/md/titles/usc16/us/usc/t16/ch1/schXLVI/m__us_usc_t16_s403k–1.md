@@ -17,7 +17,7 @@
 
     Subject to valid existing rights, all lands within the boundaries of Great Smoky Mountains National Park, as redefined by sections 403k to 403k–2 of this title, hereafter shall be a part of the national park and shall be subject to all laws, rules, and regulations applicable to the national park. All federally owned lands eliminated from the national park by said sections shall hereafter be a part of the Pisgah National Forest and shall be subject to all laws, rules, and regulations relating to such national forest.
 
-([July 26, 1950, ch. 492, § 2][/us/act/1950-07-26/ch492/s2], [64 Stat. 378][/us/stat/64/378].)
+([July 26, 1950, ch. 492][/us/act/1950-07-26/ch492], § 2, [64 Stat. 378][/us/stat/64/378].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1950-07-26/ch492/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-07-26%2Fch492%2Fs2
+[/us/act/1950-07-26/ch492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-07-26%2Fch492
 [/us/stat/64/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F378
 
 

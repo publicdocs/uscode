@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 95–625, title X, § 1002][/us/pl/95/625/s1002], Nov. 10, 1978, [92 Stat. 3538][/us/stat/92/3538], which related to congressional findings, was omitted from the Code following the enactment of Title 54, National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287].
+    Section, [Pub. L. 95–625, title X][/us/pl/95/625/tX], § 1002, Nov. 10, 1978, [92 Stat. 3538][/us/stat/92/3538], which related to congressional findings, was omitted from the Code following the enactment of Title 54, National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/625/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs1002
+[/us/pl/95/625/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtX
 [/us/stat/92/3538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3538
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 

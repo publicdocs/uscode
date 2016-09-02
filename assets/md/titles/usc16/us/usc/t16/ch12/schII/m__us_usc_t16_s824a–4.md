@@ -51,7 +51,7 @@
 
         This section shall not affect any Federal law governing Federal lands.
 
-([Pub. L. 95–617, title VI, § 602][/us/pl/95/617/s602], Nov. 9, 1978, [92 Stat. 3164][/us/stat/92/3164].)
+([Pub. L. 95–617, title VI][/us/pl/95/617/tVI], § 602, Nov. 9, 1978, [92 Stat. 3164][/us/stat/92/3164].)
 
  __Codification__ 
 
@@ -72,7 +72,7 @@
 
 [/us/usc/t42/s7151/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7151%2Fb
 [/us/usc/t16/s824a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824a%2Fe
-[/us/pl/95/617/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs602
+[/us/pl/95/617/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtVI
 [/us/stat/92/3164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3164
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

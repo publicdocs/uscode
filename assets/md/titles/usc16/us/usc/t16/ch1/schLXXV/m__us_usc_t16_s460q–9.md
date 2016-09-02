@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated for the acquisition of lands and interests in land pursuant to the provisions of this subchapter not more than $21,600,000. There are also authorized to be appropriated not more than $24,649,000 for the development of recreation facilities pursuant to the provisions of this subchapter.
 
-([Pub. L. 89–336, § 10][/us/pl/89/336/s10], Nov. 8, 1965, [79 Stat. 1300][/us/stat/79/1300]; [Pub. L. 95–625, title I, § 101(27)][/us/pl/95/625/s101/27], Nov. 10, 1978, [92 Stat. 3472][/us/stat/92/3472].)
+([Pub. L. 89–336][/us/pl/89/336], § 10, Nov. 8, 1965, [79 Stat. 1300][/us/stat/79/1300]; [Pub. L. 95–625, title I][/us/pl/95/625/tI], § 101(27), Nov. 10, 1978, [92 Stat. 3472][/us/stat/92/3472].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/89/336/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F336%2Fs10
+[/us/pl/89/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F336
 [/us/stat/79/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1300
-[/us/pl/95/625/s101/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs101%2F27
+[/us/pl/95/625/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtI
 [/us/stat/92/3472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3472
 [/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
 

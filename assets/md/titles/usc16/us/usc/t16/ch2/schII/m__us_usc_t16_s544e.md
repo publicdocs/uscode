@@ -45,7 +45,7 @@
 
         The Secretary is hereby authorized to design, construct, operate and maintain such facilities as are included in the recreation assessment.
 
-([Pub. L. 99–663, § 7][/us/pl/99/663/s7], Nov. 17, 1986, [100 Stat. 4282][/us/stat/100/4282].)
+([Pub. L. 99–663][/us/pl/99/663], § 7, Nov. 17, 1986, [100 Stat. 4282][/us/stat/100/4282].)
 
 ----------
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t16/s544b/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs544b%2Fe
-[/us/pl/99/663/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663%2Fs7
+[/us/pl/99/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663
 [/us/stat/100/4282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4282
 
 

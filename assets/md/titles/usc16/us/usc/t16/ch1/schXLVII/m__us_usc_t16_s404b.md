@@ -17,7 +17,7 @@
 
     The administration, protection, and development of the aforesaid park shall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of the Act of August 25, 1916, entitled “An Act to establish a National Park Service, and for other purposes,”  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended: Provided, That the provisions of the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\] shall not apply to this park: And provided further, That the minimum area to be administered and protected by the National Park Service shall be, for the said Mammoth Cave National Park, twenty thousand acres: Provided further, That no general development of said area shall be undertaken until a major portion of the remainder in such area, including all the caves thereof, shall have been accepted by said Secretary, and he shall have established a schedule of fees for admission to such caves.
 
-([May 25, 1926, ch. 382, § 3][/us/act/1926-05-25/ch382/s3], [44 Stat. 636][/us/stat/44/636]; [May 14, 1934, ch. 282, § 1][/us/act/1934-05-14/ch282/s1], [48 Stat. 775][/us/stat/48/775].)
+([May 25, 1926, ch. 382][/us/act/1926-05-25/ch382], § 3, [44 Stat. 636][/us/stat/44/636]; [May 14, 1934, ch. 282][/us/act/1934-05-14/ch282], § 1, [48 Stat. 775][/us/stat/48/775].)
 
  __References in Text__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
-[/us/act/1926-05-25/ch382/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-25%2Fch382%2Fs3
+[/us/act/1926-05-25/ch382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-25%2Fch382
 [/us/stat/44/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F636
-[/us/act/1934-05-14/ch282/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-14%2Fch282%2Fs1
+[/us/act/1934-05-14/ch282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-14%2Fch282
 [/us/stat/48/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F775
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535

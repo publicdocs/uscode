@@ -273,7 +273,7 @@
 
         (2) Such annual permits for the incidental taking of marine mammals in the course of commercial purse seine fishing for yellowfin tuna in the eastern tropical Pacific Ocean shall be governed by [section 1416 of this title][/us/usc/t16/s1416], subject to the regulations issued pursuant to [section 1413 of this title][/us/usc/t16/s1413].
 
-([Pub. L. 92–522, title I, § 104][/us/pl/92/522/s104], Oct. 21, 1972, [86 Stat. 1034][/us/stat/86/1034]; [Pub. L. 98–364, title I, § 102][/us/pl/98/364/s102], July 17, 1984, [98 Stat. 440][/us/stat/98/440]; [Pub. L. 100–711][/us/pl/100/711], §§ 4(d), 5(d), Nov. 23, 1988, [102 Stat. 4767][/us/stat/102/4767], 4769; [Pub. L. 103–238, § 5(b)][/us/pl/103/238/s5/b], Apr. 30, 1994, [108 Stat. 537][/us/stat/108/537]; [Pub. L. 105–18, title V, § 5004][/us/pl/105/18/s5004], June 12, 1997, [111 Stat. 187][/us/stat/111/187]; [Pub. L. 105–42, § 4(d)][/us/pl/105/42/s4/d], Aug. 15, 1997, [111 Stat. 1125][/us/stat/111/1125]; [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title I\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–238; [Pub. L. 106–31, title V, § 5004(1)][/us/pl/106/31/s5004/1], May 21, 1999, [113 Stat. 110][/us/stat/113/110]; [Pub. L. 108–108, title I, § 149][/us/pl/108/108/s149], Nov. 10, 2003, [117 Stat. 1281][/us/stat/117/1281].)
+([Pub. L. 92–522, title I][/us/pl/92/522/tI], § 104, Oct. 21, 1972, [86 Stat. 1034][/us/stat/86/1034]; [Pub. L. 98–364, title I][/us/pl/98/364/tI], § 102, July 17, 1984, [98 Stat. 440][/us/stat/98/440]; [Pub. L. 100–711][/us/pl/100/711], §§ 4(d), 5(d), Nov. 23, 1988, [102 Stat. 4767][/us/stat/102/4767], 4769; [Pub. L. 103–238][/us/pl/103/238], § 5(b), Apr. 30, 1994, [108 Stat. 537][/us/stat/108/537]; [Pub. L. 105–18, title V][/us/pl/105/18/tV], § 5004, June 12, 1997, [111 Stat. 187][/us/stat/111/187]; [Pub. L. 105–42][/us/pl/105/42], § 4(d), Aug. 15, 1997, [111 Stat. 1125][/us/stat/111/1125]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title I\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–238; [Pub. L. 106–31, title V][/us/pl/106/31/tV], § 5004(1), May 21, 1999, [113 Stat. 110][/us/stat/113/110]; [Pub. L. 108–108, title I][/us/pl/108/108/tI], § 149, Nov. 10, 2003, [117 Stat. 1281][/us/stat/117/1281].)
 
  __References in Text__ 
 
@@ -287,27 +287,27 @@
 
     1998—Subsec. (c)(5)(B). [Pub. L. 105–277][/us/pl/105/277], as amended by [Pub. L. 106–31][/us/pl/106/31], inserted “until expended” after “Secretary” in second sentence.
 
-    1997—Subsec. (c)(5)(A). [Pub. L. 105–18, § 5004(1)][/us/pl/105/18/s5004/1], struck out “, including polar bears taken but not imported prior to April 30, 1994,” after “sport hunts in Canada”.
+    1997—Subsec. (c)(5)(A). [Pub. L. 105–18][/us/pl/105/18], § 5004(1), struck out “, including polar bears taken but not imported prior to April 30, 1994,” after “sport hunts in Canada”.
 
-    Subsec. (c)(5)(D). [Pub. L. 105–18, § 5004(2)][/us/pl/105/18/s5004/2], added subpar. (D).
+    Subsec. (c)(5)(D). [Pub. L. 105–18][/us/pl/105/18], § 5004(2), added subpar. (D).
 
     Subsec. (h). [Pub. L. 105–42][/us/pl/105/42] amended subsec. (h) generally. Prior to amendment, subsec. (h) related to general permits, extension of general permit to American Tunaboat Association, and monitoring of incidental taking of marine mammals.
 
-    1994—Subsec. (a). [Pub. L. 103–238, § 5(b)(1)][/us/pl/103/238/s5/b/1], inserted at end “Permits for the incidental taking of marine mammals in the course of commercial fishing operations may only be issued as specifically provided for in sections 1371(a)(5) or 1416 of this title, or subsection (h) of this section.”
+    1994—Subsec. (a). [Pub. L. 103–238][/us/pl/103/238], § 5(b)(1), inserted at end “Permits for the incidental taking of marine mammals in the course of commercial fishing operations may only be issued as specifically provided for in sections 1371(a)(5) or 1416 of this title, or subsection (h) of this section.”
 
-    Subsec. (c)(1). [Pub. L. 103–238, § 5(b)(2)(A)][/us/pl/103/238/s5/b/2/A], struck out “and after” after “must be observed pursuant to”.
+    Subsec. (c)(1). [Pub. L. 103–238][/us/pl/103/238], § 5(b)(2)(A), struck out “and after” after “must be observed pursuant to”.
 
-    Subsec. (c)(2). [Pub. L. 103–238, § 5(b)(2)(B)][/us/pl/103/238/s5/b/2/B], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A permit may be issued for public display purposes only to an applicant which offers a program for education or conservation purposes that, based on professionally recognized standards of the public display community, is acceptable to the Secretary and which submits with the permit application information indicating that the applicant’s facilities are open to the public on a regularly scheduled basis and that access to the facilities is not limited or restricted other than by the charging of an admission fee.”
+    Subsec. (c)(2). [Pub. L. 103–238][/us/pl/103/238], § 5(b)(2)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A permit may be issued for public display purposes only to an applicant which offers a program for education or conservation purposes that, based on professionally recognized standards of the public display community, is acceptable to the Secretary and which submits with the permit application information indicating that the applicant’s facilities are open to the public on a regularly scheduled basis and that access to the facilities is not limited or restricted other than by the charging of an admission fee.”
 
-    Subsec. (c)(3). [Pub. L. 103–238, § 5(b)(2)(C)][/us/pl/103/238/s5/b/2/C], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “A permit may be issued for scientific research purposes only to an applicant which submits with its permit application information indicating that the taking is required to further a bona fide scientific purpose and does not involve unnecessary duplication of research. No permit issued for purposes of scientific research shall authorize the killing of a marine mammal unless the applicant demonstrates that a nonlethal method for carrying out the research is not feasible. The Secretary shall not issue a permit for research which involves the lethal taking of a marine mammal from a species or stock designated as depleted, unless the Secretary determines that the results of such research will directly benefit that species or stock, or that such research fulfills a critically important research need.”
+    Subsec. (c)(3). [Pub. L. 103–238][/us/pl/103/238], § 5(b)(2)(C), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “A permit may be issued for scientific research purposes only to an applicant which submits with its permit application information indicating that the taking is required to further a bona fide scientific purpose and does not involve unnecessary duplication of research. No permit issued for purposes of scientific research shall authorize the killing of a marine mammal unless the applicant demonstrates that a nonlethal method for carrying out the research is not feasible. The Secretary shall not issue a permit for research which involves the lethal taking of a marine mammal from a species or stock designated as depleted, unless the Secretary determines that the results of such research will directly benefit that species or stock, or that such research fulfills a critically important research need.”
 
-    Subsec. (c)(5) to (10). [Pub. L. 103–238, § 5(b)(2)(D)][/us/pl/103/238/s5/b/2/D], added pars. (5) to (10).
+    Subsec. (c)(5) to (10). [Pub. L. 103–238][/us/pl/103/238], § 5(b)(2)(D), added pars. (5) to (10).
 
-    Subsec. (e)(1)(C). [Pub. L. 103–238, § 5(b)(3)][/us/pl/103/238/s5/b/3], added subpar. (C).
+    Subsec. (e)(1)(C). [Pub. L. 103–238][/us/pl/103/238], § 5(b)(3), added subpar. (C).
 
-    1988—Subsec. (c). [Pub. L. 100–711, § 5(d)][/us/pl/100/711/s5/d], designated existing provisions as par. (1) and substituted “scientific research, public display, or enhancing the survival or recovery of a species or stock” for “display or scientific research” in two places, and added pars. (2) to (4).
+    1988—Subsec. (c). [Pub. L. 100–711][/us/pl/100/711], § 5(d), designated existing provisions as par. (1) and substituted “scientific research, public display, or enhancing the survival or recovery of a species or stock” for “display or scientific research” in two places, and added pars. (2) to (4).
 
-    Subsec. (h)(2)(B). [Pub. L. 100–711, § 4(d)][/us/pl/100/711/s4/d], added cls. (iv) to (ix).
+    Subsec. (h)(2)(B). [Pub. L. 100–711][/us/pl/100/711], § 4(d), added cls. (iv) to (ix).
 
     1984—Subsec. (h). [Pub. L. 98–364][/us/pl/98/364] designated existing provisions as par. (1), and added pars. (2) and (3).
 
@@ -317,7 +317,7 @@
 
  __Modification of Permits Existing Prior to April 30, 1994__ 
 
-[Pub. L. 103–238, § 5(c)][/us/pl/103/238/s5/c], Apr. 30, 1994, [108 Stat. 541][/us/stat/108/541], provided that: 
+[Pub. L. 103–238][/us/pl/103/238], § 5(c), Apr. 30, 1994, [108 Stat. 541][/us/stat/108/541], provided that: 
 
 > “Any permit issued under section 104(c)(2) of the Marine Mammal Protection Act of 1972 ([16 U.S.C. 1374(c)(2)][/us/usc/t16/s1374/c/2]) before the date of the enactment of this Act \[Apr. 30, 1994\] is hereby modified to be consistent with that section as amended by this Act.”
 
@@ -340,23 +340,23 @@
 [/us/usc/t16/s1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1371
 [/us/usc/t16/s1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1416
 [/us/usc/t16/s1413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1413
-[/us/pl/92/522/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs104
+[/us/pl/92/522/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtI
 [/us/stat/86/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1034
-[/us/pl/98/364/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2Fs102
+[/us/pl/98/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2FtI
 [/us/stat/98/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F440
 [/us/pl/100/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711
 [/us/stat/102/4767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4767
-[/us/pl/103/238/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs5%2Fb
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
 [/us/stat/108/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F537
-[/us/pl/105/18/s5004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2Fs5004
+[/us/pl/105/18/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2FtV
 [/us/stat/111/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F187
-[/us/pl/105/42/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs4%2Fd
+[/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
 [/us/stat/111/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1125
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
-[/us/pl/106/31/s5004/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs5004%2F1
+[/us/pl/106/31/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2FtV
 [/us/stat/113/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F110
-[/us/pl/108/108/s149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2Fs149
+[/us/pl/108/108/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2FtI
 [/us/stat/117/1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1281
 [/us/usc/t7/s2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2131
 [/us/pl/89/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F544
@@ -368,22 +368,22 @@
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/106/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31
-[/us/pl/105/18/s5004/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2Fs5004%2F1
-[/us/pl/105/18/s5004/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2Fs5004%2F2
+[/us/pl/105/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18
+[/us/pl/105/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18
 [/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
-[/us/pl/103/238/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs5%2Fb%2F1
-[/us/pl/103/238/s5/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs5%2Fb%2F2%2FA
-[/us/pl/103/238/s5/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs5%2Fb%2F2%2FB
-[/us/pl/103/238/s5/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs5%2Fb%2F2%2FC
-[/us/pl/103/238/s5/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs5%2Fb%2F2%2FD
-[/us/pl/103/238/s5/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs5%2Fb%2F3
-[/us/pl/100/711/s5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711%2Fs5%2Fd
-[/us/pl/100/711/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711%2Fs4%2Fd
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
+[/us/pl/100/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711
+[/us/pl/100/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711
 [/us/pl/98/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364
 [/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
 [/us/pl/105/42/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs8
 [/us/usc/t16/s1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1362
-[/us/pl/103/238/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs5%2Fc
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
 [/us/stat/108/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F541
 [/us/usc/t16/s1374/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1374%2Fc%2F2
 

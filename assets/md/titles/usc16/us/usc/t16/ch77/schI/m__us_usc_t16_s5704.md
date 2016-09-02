@@ -31,7 +31,7 @@
 
         Advisory Committee members shall be eligible for reappointment.
 
-([Pub. L. 104–43, title VII, § 705][/us/pl/104/43/s705], Nov. 3, 1995, [109 Stat. 394][/us/stat/109/394].)
+([Pub. L. 104–43, title VII][/us/pl/104/43/tVII], § 705, Nov. 3, 1995, [109 Stat. 394][/us/stat/109/394].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/104/43/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs705
+[/us/pl/104/43/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtVII
 [/us/stat/109/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F394
 
 

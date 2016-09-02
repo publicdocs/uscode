@@ -27,7 +27,7 @@
 
         No property may be acquired under this section without the consent of the owner of the property. The United States may not acquire fee ownership of any lands within the Preserve other than lands described in this section.
 
-([Pub. L. 104–333, div. I, title X, § 1006][/us/pl/104/333/s1006], Nov. 12, 1996, [110 Stat. 4208][/us/stat/110/4208]; [Pub. L. 108–352, § 17][/us/pl/108/352/s17], Oct. 21, 2004, [118 Stat. 1398][/us/stat/118/1398].)
+([Pub. L. 104–333, div. I, title X][/us/pl/104/333/dI/tX], § 1006, Nov. 12, 1996, [110 Stat. 4208][/us/stat/110/4208]; [Pub. L. 108–352][/us/pl/108/352], § 17, Oct. 21, 2004, [118 Stat. 1398][/us/stat/118/1398].)
 
  __Amendments__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t16/s698u–2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs698u%E2%80%932%2Fb
-[/us/pl/104/333/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs1006
+[/us/pl/104/333/dI/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtX
 [/us/stat/110/4208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4208
-[/us/pl/108/352/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F352%2Fs17
+[/us/pl/108/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F352
 [/us/stat/118/1398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1398
 [/us/pl/108/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F352
 

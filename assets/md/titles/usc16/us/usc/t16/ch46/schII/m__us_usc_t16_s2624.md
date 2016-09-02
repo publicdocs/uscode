@@ -27,7 +27,7 @@
 
         [Section 2634 of this title][/us/usc/t16/s2634] shall not apply to the requirements of this section.
 
-([Pub. L. 95–617, title I, § 114][/us/pl/95/617/s114], Nov. 9, 1978, [92 Stat. 3124][/us/stat/92/3124].)
+([Pub. L. 95–617, title I][/us/pl/95/617/tI], § 114, Nov. 9, 1978, [92 Stat. 3124][/us/stat/92/3124].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t16/s2621/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2621%2Fd%2F1
 [/us/usc/t16/s2634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2634
-[/us/pl/95/617/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs114
+[/us/pl/95/617/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtI
 [/us/stat/92/3124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3124
 [/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
 [/us/stat/92/3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3120

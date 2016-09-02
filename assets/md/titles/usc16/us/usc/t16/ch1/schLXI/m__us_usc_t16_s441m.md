@@ -31,17 +31,17 @@
 
         Purchases under subsection (b) and clause (ii) of subsection (c) of this section shall be made on the terms provided in section 441l(b) of this title.
 
-([Pub. L. 90–468, § 4][/us/pl/90/468/s4], Aug. 8, 1968, [82 Stat. 664][/us/stat/82/664]; [Pub. L. 95–625, title VI, § 611][/us/pl/95/625/s611], Nov. 10, 1978, [92 Stat. 3521][/us/stat/92/3521].)
+([Pub. L. 90–468][/us/pl/90/468], § 4, Aug. 8, 1968, [82 Stat. 664][/us/stat/82/664]; [Pub. L. 95–625, title VI][/us/pl/95/625/tVI], § 611, Nov. 10, 1978, [92 Stat. 3521][/us/stat/92/3521].)
 
  __References in Text__ 
 
-    The National Industrial Recovery Act of June 16, 1933, referred to in subsec. (a), is [act June 16, 1933, ch. 90][/us/act/1933-06-16/ch90], [48 Stat. 195][/us/stat/48/195], as amended. Title II of the Act was classified principally to subchapter I (§ 401 et seq.) of chapter 8 of former Title 40, Public Buildings, Property, and Works, and was terminated June 30, 1943 by [act June 27, 1942, ch. 450, § 1][/us/act/1942-06-27/ch450/s1], [56 Stat. 410][/us/stat/56/410]. Provisions of title II of the Act which were classified to former Title 40 were repealed by [Pub. L. 107–217, § 6(b)][/us/pl/107/217/s6/b], Aug. 21, 2002, [116 Stat. 1304][/us/stat/116/1304]. For complete classification of this Act to the Code, see Tables.
+    The National Industrial Recovery Act of June 16, 1933, referred to in subsec. (a), is [act June 16, 1933, ch. 90][/us/act/1933-06-16/ch90], [48 Stat. 195][/us/stat/48/195], as amended. Title II of the Act was classified principally to subchapter I (§ 401 et seq.) of chapter 8 of former Title 40, Public Buildings, Property, and Works, and was terminated June 30, 1943 by [act June 27, 1942, ch. 450][/us/act/1942-06-27/ch450], § 1, [56 Stat. 410][/us/stat/56/410]. Provisions of title II of the Act which were classified to former Title 40 were repealed by [Pub. L. 107–217][/us/pl/107/217], § 6(b), Aug. 21, 2002, [116 Stat. 1304][/us/stat/116/1304]. For complete classification of this Act to the Code, see Tables.
 
     Executive Order Numbered 7868, dated April 15, 1938, referred to in subsec. (a), was not classified to the Code.
 
  __Change of Name__ 
 
-    Word “park” substituted for “monument” in subsecs. (a) to (c) pursuant to [Pub. L. 95–625, § 611][/us/pl/95/625/s611], which is classified to [section 441e–1 of this title][/us/usc/t16/s441e–1] and which redesignated Badlands National Monument as Badlands National Park.
+    Word “park” substituted for “monument” in subsecs. (a) to (c) pursuant to [Pub. L. 95–625][/us/pl/95/625], § 611, which is classified to [section 441e–1 of this title][/us/usc/t16/s441e–1] and which redesignated Badlands National Monument as Badlands National Park.
 
 ----------
 
@@ -52,17 +52,17 @@
 
 [/us/stat/48/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F200
 [/us/usc/t16/s441k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs441k
-[/us/pl/90/468/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F468%2Fs4
+[/us/pl/90/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F468
 [/us/stat/82/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F664
-[/us/pl/95/625/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs611
+[/us/pl/95/625/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtVI
 [/us/stat/92/3521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3521
 [/us/act/1933-06-16/ch90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch90
 [/us/stat/48/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F195
-[/us/act/1942-06-27/ch450/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-06-27%2Fch450%2Fs1
+[/us/act/1942-06-27/ch450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-06-27%2Fch450
 [/us/stat/56/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F410
-[/us/pl/107/217/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs6%2Fb
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1304
-[/us/pl/95/625/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs611
+[/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
 [/us/usc/t16/s441e–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs441e%E2%80%931
 
 

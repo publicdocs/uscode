@@ -91,7 +91,7 @@
 
         A person authorized by the Secretary or the Secretary of the department in which the Coast Guard is operating may take any action to enforce a moratorium declared under subsection (c) of this section that an officer authorized by the Secretary under section 311(b) of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1861(b)][/us/usc/t16/s1861/b]) may take to enforce that Act \[[16 U.S.C. 1801][/us/usc/t16/s1801] et seq.\]. The Secretary may, by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment (including aircraft and vessels), and facilities of any other Federal department or agency and of any agency of a State in carrying out that enforcement.
 
-([Pub. L. 103–206, title VIII, § 807][/us/pl/103/206/s807], Dec. 20, 1993, [107 Stat. 2451][/us/stat/107/2451]; [Pub. L. 106–555, title I, § 122(b)(3)][/us/pl/106/555/s122/b/3], Dec. 21, 2000, [114 Stat. 2766][/us/stat/114/2766].)
+([Pub. L. 103–206, title VIII][/us/pl/103/206/tVIII], § 807, Dec. 20, 1993, [107 Stat. 2451][/us/stat/107/2451]; [Pub. L. 106–555, title I][/us/pl/106/555/tI], § 122(b)(3), Dec. 21, 2000, [114 Stat. 2766][/us/stat/114/2766].)
 
  __References in Text__ 
 
@@ -122,9 +122,9 @@
 [/us/usc/t16/s1860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1860
 [/us/usc/t16/s1861/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1861%2Fb
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
-[/us/pl/103/206/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs807
+[/us/pl/103/206/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtVIII
 [/us/stat/107/2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2451
-[/us/pl/106/555/s122/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F555%2Fs122%2Fb%2F3
+[/us/pl/106/555/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F555%2FtI
 [/us/stat/114/2766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2766
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331

@@ -17,11 +17,11 @@
 
     Rights-of-way for the construction and maintenance of dams, reservoirs, water plants, ditches, flumes, pipes, tunnels, and canals, within and across the national forests of the United States, are granted to citizens and corporations of the United States for municipal or mining purposes, and for the purposes of the milling and reduction of ores, during the period of their beneficial use, under such rules and regulations as may be prescribed by the Secretary of the Interior, and subject to the laws of the State or Territory in which said forests are respectively situated.
 
-([Feb. 1, 1905, ch. 288, § 4][/us/act/1905-02-01/ch288/s4], [33 Stat. 628][/us/stat/33/628].)
+([Feb. 1, 1905, ch. 288][/us/act/1905-02-01/ch288], § 4, [33 Stat. 628][/us/stat/33/628].)
 
  __Repeals__ 
 
-    Section repealed by [Pub. L. 94–579, title VII, § 706(a)][/us/pl/94/579/s706/a], Oct. 21, 1976, [90 Stat. 2793][/us/stat/90/2793], effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
+    Section repealed by [Pub. L. 94–579, title VII][/us/pl/94/579/tVII], § 706(a), Oct. 21, 1976, [90 Stat. 2793][/us/stat/90/2793], effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
 
  __Codification__ 
 
@@ -29,7 +29,7 @@
 
  __Savings Provision__ 
 
-    Repeal by [Pub. L. 94–579, title VII, § 706(a)][/us/pl/94/579/s706/a], Oct. 21, 1976, [90 Stat. 2793][/us/stat/90/2793], insofar as applicable to the issuance of rights-of-way, not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see note set out under [section 1701 of Title 43][/us/usc/t43/s1701], Public Lands.
+    Repeal by [Pub. L. 94–579, title VII][/us/pl/94/579/tVII], § 706(a), Oct. 21, 1976, [90 Stat. 2793][/us/stat/90/2793], insofar as applicable to the issuance of rights-of-way, not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see note set out under [section 1701 of Title 43][/us/usc/t43/s1701], Public Lands.
 
 ----------
 
@@ -38,13 +38,13 @@
 ----------
 ----------
 
-[/us/act/1905-02-01/ch288/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-01%2Fch288%2Fs4
+[/us/act/1905-02-01/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-01%2Fch288
 [/us/stat/33/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F628
-[/us/pl/94/579/s706/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2Fs706%2Fa
+[/us/pl/94/579/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2FtVII
 [/us/stat/90/2793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2793
 [/us/act/1907-03-04/ch2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2907
 [/us/stat/34/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F1269
-[/us/pl/94/579/s706/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2Fs706%2Fa
+[/us/pl/94/579/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2FtVII
 [/us/stat/90/2793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2793
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
 

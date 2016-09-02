@@ -17,7 +17,7 @@
 
     The boundaries of the Glacier Peak Wilderness, an area classified as such more than thirty days before the effective date of the Wilderness Act \[[16 U.S.C. 1131][/us/usc/t16/s1131] et seq.\] and being within and a part of the Wenatchee National Forest and the Mount Baker National Forest, subject to valid existing rights, are hereby extended to include portions of the Suiattle River corridor and the White Chuck River corridor on the western side thereof, comprising areas totaling about ten thousand acres, as depicted in the area designated as “Additions to Glacier Peak Wilderness” on the map referred to in [section 90 of this title][/us/usc/t16/s90].
 
-([Pub. L. 90–544, title VI, § 602][/us/pl/90/544/s602], Oct. 2, 1968, [82 Stat. 930][/us/stat/82/930].)
+([Pub. L. 90–544, title VI][/us/pl/90/544/tVI], § 602, Oct. 2, 1968, [82 Stat. 930][/us/stat/82/930].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
 [/us/usc/t16/s90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs90
-[/us/pl/90/544/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F544%2Fs602
+[/us/pl/90/544/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F544%2FtVI
 [/us/stat/82/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F930
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890

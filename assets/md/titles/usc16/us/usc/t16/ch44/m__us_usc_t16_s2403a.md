@@ -89,7 +89,7 @@
 
         Whenever the Secretary of State makes a determination under paragraph (2) of subsection (b) of this section, or receives a draft comprehensive environmental evaluation in accordance with Annex I, Article 3(3) to the Protocol, the Secretary of State shall cause timely notice thereof to be published in the Federal Register.
 
-([Pub. L. 95–541, § 4A][/us/pl/95/541/s4A], as added [Pub. L. 104–227, title I, § 104][/us/pl/104/227/s104], Oct. 2, 1996, [110 Stat. 3038][/us/stat/110/3038].)
+([Pub. L. 95–541][/us/pl/95/541], § 4A, as added [Pub. L. 104–227, title I][/us/pl/104/227/tI], § 104, Oct. 2, 1996, [110 Stat. 3038][/us/stat/110/3038].)
 
  __References in Text__ 
 
@@ -105,8 +105,8 @@
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t42/s4332/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332%2F2%2FC
 [/us/usc/t16/s2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2404
-[/us/pl/95/541/s4A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F541%2Fs4A
-[/us/pl/104/227/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2Fs104
+[/us/pl/95/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F541
+[/us/pl/104/227/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2FtI
 [/us/stat/110/3038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3038
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

@@ -53,7 +53,7 @@
 
         Within the Shasta and Clair Engle-Lewiston units any owner of unimproved property who proposes to develop his property or a part thereof for service to the public may submit to the Secretary of Agriculture a development plan which shall set forth the manner in which and the time by which the property is to be developed and the use to which it is proposed to be put. If upon review of such plan the Secretary determines that the development and use of the property in the manner prescribed conforms to a zoning ordinance approved in accordance with the provisions of this section and that such use and development would serve the purposes of this subchapter, the Secretary of Agriculture may in his discretion issue to such owner a certificate to that effect. Upon the issuance of any such certificate and so long as such property is developed, maintained, and used in conformity therewith, the authority of the Secretary of Agriculture to acquire such property or any interest therein without the consent of the owner shall be suspended. This subsection shall not apply to any property which the Secretary of Agriculture determines to be needed for easements and rights-of-way for access, utilities, or facilities, or for administrative sites, campgrounds, or other areas needed for use by the United States for visitors to the national recreation area.
 
-([Pub. L. 89–336, § 2][/us/pl/89/336/s2], Nov. 8, 1965, [79 Stat. 1295][/us/stat/79/1295].)
+([Pub. L. 89–336][/us/pl/89/336], § 2, Nov. 8, 1965, [79 Stat. 1295][/us/stat/79/1295].)
 
 ----------
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/89/336/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F336%2Fs2
+[/us/pl/89/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F336
 [/us/stat/79/1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1295
 
 

@@ -17,7 +17,7 @@
 
     Except as otherwise provided in this chapter, no provision of this chapter shall take precedence over any more restrictive conflicting provision of the Marine Mammal Protection Act of 1972 \[[16 U.S.C. 1361][/us/usc/t16/s1361] et seq.\].
 
-([Pub. L. 93–205, § 17][/us/pl/93/205/s17], Dec. 28, 1973, [87 Stat. 903][/us/stat/87/903].)
+([Pub. L. 93–205][/us/pl/93/205], § 17, Dec. 28, 1973, [87 Stat. 903][/us/stat/87/903].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t16/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1361
-[/us/pl/93/205/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205%2Fs17
+[/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F903
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/81/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F884

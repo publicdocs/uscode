@@ -187,7 +187,7 @@
 
         Notwithstanding any other provision of this section, rates established by the Administrator, under this section shall recover costs for protection, mitigation and enhancement of fish and wildlife, whether under this chapter or any other Act, not to exceed such amounts the Administrator forecasts will be expended during the fiscal year 2002–2006 rate period, while preserving the Administrator’s ability to establish appropriate reserves and maintain a high Treasury payment probability for the subsequent rate period.
 
-([Pub. L. 96–501, § 7][/us/pl/96/501/s7], Dec. 5, 1980, [94 Stat. 2723][/us/stat/94/2723]; [Pub. L. 106–60, title III, § 316][/us/pl/106/60/s316], Sept. 29, 1999, [113 Stat. 497][/us/stat/113/497].)
+([Pub. L. 96–501][/us/pl/96/501], § 7, Dec. 5, 1980, [94 Stat. 2723][/us/stat/94/2723]; [Pub. L. 106–60, title III][/us/pl/106/60/tIII], § 316, Sept. 29, 1999, [113 Stat. 497][/us/stat/113/497].)
 
  __References in Text__ 
 
@@ -233,9 +233,9 @@
 [/us/usc/t16/s838a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs838a%2Fc
 [/us/usc/t16/s838i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs838i
 [/us/usc/t16/s838k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs838k
-[/us/pl/96/501/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501%2Fs7
+[/us/pl/96/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501
 [/us/stat/94/2723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2723
-[/us/pl/106/60/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F60%2Fs316
+[/us/pl/106/60/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F60%2FtIII
 [/us/stat/113/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F497
 [/us/act/1937-08-20/ch720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-20%2Fch720
 [/us/stat/50/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F731

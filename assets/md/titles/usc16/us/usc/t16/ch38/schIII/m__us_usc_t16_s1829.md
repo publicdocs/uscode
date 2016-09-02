@@ -37,7 +37,7 @@
 
         (7) support coordinated international efforts to ensure that all large-scale fishing vessels operating on the high seas are required by their flag State to be fitted with vessel monitoring systems no later than December 31, 2008, or earlier if so decided by the relevant flag State or any relevant international fishery management organization.
 
-([Pub. L. 94–265, title II, § 207][/us/pl/94/265/s207], as added [Pub. L. 109–479, title IV, § 401][/us/pl/109/479/s401], Jan. 12, 2007, [120 Stat. 3625][/us/stat/120/3625].)
+([Pub. L. 94–265, title II][/us/pl/94/265/tII], § 207, as added [Pub. L. 109–479, title IV][/us/pl/109/479/tIV], § 401, Jan. 12, 2007, [120 Stat. 3625][/us/stat/120/3625].)
 
 ----------
 
@@ -46,8 +46,8 @@
 ----------
 ----------
 
-[/us/pl/94/265/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs207
-[/us/pl/109/479/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs401
+[/us/pl/94/265/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2FtII
+[/us/pl/109/479/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtIV
 [/us/stat/120/3625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3625
 
 

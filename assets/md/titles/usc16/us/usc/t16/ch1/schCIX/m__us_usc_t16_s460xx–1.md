@@ -35,7 +35,7 @@
 
         Any person who violates any provision of this subchapter or any regulation promulgated by the Secretary to implement this subchapter shall be subject to a fine of up to $10,000, or imprisonment for up to one year, or both.
 
-([Pub. L. 100–696, title I, § 102][/us/pl/100/696/s102], Nov. 18, 1988, [102 Stat. 4571][/us/stat/102/4571].)
+([Pub. L. 100–696, title I][/us/pl/100/696/tI], § 102, Nov. 18, 1988, [102 Stat. 4571][/us/stat/102/4571].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
 [/us/usc/t16/s460xx–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460xx%E2%80%932
-[/us/pl/100/696/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2Fs102
+[/us/pl/100/696/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2FtI
 [/us/stat/102/4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4571
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
 [/us/stat/90/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2743

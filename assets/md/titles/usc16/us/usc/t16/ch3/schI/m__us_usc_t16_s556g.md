@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, in fiscal year 1993 and thereafter, appropriations or funds available to the Department of the Interior or the Forest Service, Department of Agriculture, may be used to reimburse employees for the cost of State licenses and certification fees pursuant to their employment and that are necessary to comply with State or Federal laws, regulations, or requirements.
 
-([Pub. L. 102–381, title III, § 317][/us/pl/102/381/s317], Oct. 5, 1992, [106 Stat. 1417][/us/stat/106/1417].)
+([Pub. L. 102–381, title III][/us/pl/102/381/tIII], § 317, Oct. 5, 1992, [106 Stat. 1417][/us/stat/106/1417].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/381/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F381%2Fs317
+[/us/pl/102/381/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F381%2FtIII
 [/us/stat/106/1417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1417
 
 

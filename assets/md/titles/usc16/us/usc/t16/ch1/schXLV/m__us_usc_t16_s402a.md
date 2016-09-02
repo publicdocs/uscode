@@ -17,7 +17,7 @@
 
     The area within the State of Utah described in [section 401 of this title][/us/usc/t16/s401], providing for the establishment of the Utah National Park, shall be, when established as a national park, known as the Bryce Canyon National Park.
 
-([Feb. 25, 1928, ch. 102, § 1][/us/act/1928-02-25/ch102/s1], [45 Stat. 147][/us/stat/45/147].)
+([Feb. 25, 1928, ch. 102][/us/act/1928-02-25/ch102], § 1, [45 Stat. 147][/us/stat/45/147].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs401
-[/us/act/1928-02-25/ch102/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-02-25%2Fch102%2Fs1
+[/us/act/1928-02-25/ch102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-02-25%2Fch102
 [/us/stat/45/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F147
 
 

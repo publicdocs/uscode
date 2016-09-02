@@ -17,7 +17,7 @@
 
     The activities of the Foundation authorized under the provisions of this Act shall be supplemental to and shall not preempt any authority or responsibility of the United States Forest Service under any other provision of law.
 
-([Pub. L. 101–593, title IV, § 409][/us/pl/101/593/s409], Nov. 16, 1990, [104 Stat. 2973][/us/stat/104/2973].)
+([Pub. L. 101–593, title IV][/us/pl/101/593/tIV], § 409, Nov. 16, 1990, [104 Stat. 2973][/us/stat/104/2973].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/101/593/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2Fs409
+[/us/pl/101/593/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2FtIV
 [/us/stat/104/2973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2973
 [/us/pl/101/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593
 [/us/stat/104/2954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2954

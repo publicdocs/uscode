@@ -107,7 +107,7 @@
 
             If the use of, or conduct of an activity on, private land that shares a boundary with the Conservation Area is consistent with applicable law, nothing in this subchapter concerning the establishment of the Conservation Area shall prohibit or limit the use or conduct of the activity.
 
-([Pub. L. 107–282, title VI, § 605][/us/pl/107/282/s605], Nov. 6, 2002, [116 Stat. 2010][/us/stat/116/2010].)
+([Pub. L. 107–282, title VI][/us/pl/107/282/tVI], § 605, Nov. 6, 2002, [116 Stat. 2010][/us/stat/116/2010].)
 
  __References in Text__ 
 
@@ -126,7 +126,7 @@
 
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
 [/us/usc/t16/s460qqq]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460qqq
-[/us/pl/107/282/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F282%2Fs605
+[/us/pl/107/282/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F282%2FtVI
 [/us/stat/116/2010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2010
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
 [/us/stat/90/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2743

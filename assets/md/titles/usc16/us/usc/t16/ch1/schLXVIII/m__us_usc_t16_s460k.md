@@ -21,7 +21,7 @@
 
     (b) that funds are available for the development, operation, and maintenance of these permitted forms of recreation. This section shall not be construed to repeal or amend previous enactments relating to particular areas.
 
-([Pub. L. 87–714, § 1][/us/pl/87/714/s1], Sept. 28, 1962, [76 Stat. 653][/us/stat/76/653]; [Pub. L. 89–669, § 9][/us/pl/89/669/s9], Oct. 15, 1966, [80 Stat. 930][/us/stat/80/930].)
+([Pub. L. 87–714][/us/pl/87/714], § 1, Sept. 28, 1962, [76 Stat. 653][/us/stat/76/653]; [Pub. L. 89–669][/us/pl/89/669], § 9, Oct. 15, 1966, [80 Stat. 930][/us/stat/80/930].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/87/714/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F714%2Fs1
+[/us/pl/87/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F714
 [/us/stat/76/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F653
-[/us/pl/89/669/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F669%2Fs9
+[/us/pl/89/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F669
 [/us/stat/80/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F930
 [/us/pl/89/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F669
 [/us/pl/87/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F714

@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of [section 760–9 of this title][/us/usc/t16/s760–9].
 
-([Pub. L. 86–205, § 2][/us/pl/86/205/s2], Aug. 25, 1959, [73 Stat. 430][/us/stat/73/430].)
+([Pub. L. 86–205][/us/pl/86/205], § 2, Aug. 25, 1959, [73 Stat. 430][/us/stat/73/430].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s760–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs760%E2%80%939
-[/us/pl/86/205/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F205%2Fs2
+[/us/pl/86/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F205
 [/us/stat/73/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F430
 
 

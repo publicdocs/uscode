@@ -49,7 +49,7 @@
 
         under [section 6804 of title 42][/us/usc/t42/s6804].
 
-([Pub. L. 95–617, title I, § 123][/us/pl/95/617/s123], Nov. 9, 1978, [92 Stat. 3130][/us/stat/92/3130].)
+([Pub. L. 95–617, title I][/us/pl/95/617/tI], § 123, Nov. 9, 1978, [92 Stat. 3130][/us/stat/92/3130].)
 
  __References in Text__ 
 
@@ -65,7 +65,7 @@
 [/us/usc/t16/s2631/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2631%2Fa
 [/us/usc/t16/s2631/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2631%2Fa
 [/us/usc/t42/s6804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6804
-[/us/pl/95/617/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs123
+[/us/pl/95/617/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtI
 [/us/stat/92/3130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3130
 [/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
 [/us/stat/92/3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3120

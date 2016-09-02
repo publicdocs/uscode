@@ -23,7 +23,7 @@
 
         Any offense described in subsection (a) of this section is a class A misdemeanor punishable by a fine under title 18, or imprisonment for not more than one year, or both; except that if in the commission of any offense the person uses a dangerous weapon, engages in conduct that causes bodily injury to any authorized officer, or places any such officer in fear of imminent bodily injury, the offense is a felony punishable by a fine under title 18, or imprisonment for not more than 10 years, or both.
 
-([Pub. L. 104–43, title I, § 109][/us/pl/104/43/s109], Nov. 3, 1995, [109 Stat. 375][/us/stat/109/375].)
+([Pub. L. 104–43, title I][/us/pl/104/43/tI], § 109, Nov. 3, 1995, [109 Stat. 375][/us/stat/109/375].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t16/s5505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5505
-[/us/pl/104/43/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs109
+[/us/pl/104/43/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtI
 [/us/stat/109/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F375
 
 

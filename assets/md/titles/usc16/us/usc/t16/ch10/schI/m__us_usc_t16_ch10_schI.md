@@ -11,26 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch10/m__us_usc_t16_ch10.md) | [Next](./../../../../..//us/usc/t16/ch10/schII/m__us_usc_t16_ch10_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch10%2FschI)
+[Previous](./../../../../..//us/usc/t16/ch10/m__us_usc_t16_ch10.md) | [Next](./../../../../..//us/usc/t16/ch10/schI/m__us_usc_t16_s761...769.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch10%2FschI)
 
 ### SUBCHAPTER I—NORTHERN PACIFIC HALIBUT ACT OF 1924
 
-§§ 761 to 769. __Omitted__ 
-
- __Codification__ 
-
-    Sections, [act June 7, 1924, ch. 345][/us/act/1924-06-07/ch345], §§ 1–10, 12, [43 Stat. 648–650][/us/stat/43/648-650], constituting the Northern Pacific Halibut Act of 1924, are covered by act May 17, 1982, [Pub. L. 97–176][/us/pl/97/176], §§ 1–13, [96 Stat. 78–84][/us/stat/96/78-84], incorporated in sections 773 to 773k of this title.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch10/m__us_usc_t16_ch10.md) | [Next](./../../../../..//us/usc/t16/ch10/schII/m__us_usc_t16_ch10_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch10%2FschI)
+[Previous](./../../../../..//us/usc/t16/ch10/m__us_usc_t16_ch10.md) | [Next](./../../../../..//us/usc/t16/ch10/schI/m__us_usc_t16_s761...769.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch10%2FschI)
 
 ----------
 ----------
 
-[/us/act/1924-06-07/ch345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch345
-[/us/stat/43/648-650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F648-650
-[/us/pl/97/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F176
-[/us/stat/96/78-84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F78-84
 
 

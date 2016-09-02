@@ -109,7 +109,7 @@
 
         The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands of the United States, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-([Pub. L. 91–378, title II, § 203][/us/pl/91/378/s203], as added [Pub. L. 103–82, title I, § 105(6)][/us/pl/103/82/s105/6], Sept. 21, 1993, [107 Stat. 849][/us/stat/107/849]; amended [Pub. L. 109–154, § 2(a)][/us/pl/109/154/s2/a], Dec. 30, 2005, [119 Stat. 2890][/us/stat/119/2890].)
+([Pub. L. 91–378, title II][/us/pl/91/378/tII], § 203, as added [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 105(6), Sept. 21, 1993, [107 Stat. 849][/us/stat/107/849]; amended [Pub. L. 109–154][/us/pl/109/154], § 2(a), Dec. 30, 2005, [119 Stat. 2890][/us/stat/119/2890].)
 
  __References in Text__ 
 
@@ -141,10 +141,10 @@
 [/us/usc/t43/s1602/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1602%2Fc
 [/us/usc/t16/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6501
 [/us/usc/t16/s1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1725
-[/us/pl/91/378/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F378%2Fs203
-[/us/pl/103/82/s105/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs105%2F6
+[/us/pl/91/378/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F378%2FtII
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F849
-[/us/pl/109/154/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F154%2Fs2%2Fa
+[/us/pl/109/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F154
 [/us/stat/119/2890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2890
 [/us/act/1921-07-09/ch42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-07-09%2Fch42
 [/us/stat/42/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F108

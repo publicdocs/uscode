@@ -23,7 +23,7 @@
 
         In carrying out the provisions of the Convention and this chapter, the Secretary of Commerce may arrange for cooperation with agencies of the United States, the States, private institutions and organizations, and agencies of the government of any Party, to conduct scientific and other programs, and may execute such memoranda as may be necessary to reflect such agreements.
 
-([Pub. L. 102–567, title VIII, § 808][/us/pl/102/567/s808], Oct. 29, 1992, [106 Stat. 4312][/us/stat/106/4312]; [Pub. L. 102–587, title VIII, § 8008][/us/pl/102/587/s8008], Nov. 4, 1992, [106 Stat. 5101][/us/stat/106/5101]; [Pub. L. 106–562, title III, § 304(a)][/us/pl/106/562/s304/a], Dec. 23, 2000, [114 Stat. 2806][/us/stat/114/2806].)
+([Pub. L. 102–567, title VIII][/us/pl/102/567/tVIII], § 808, Oct. 29, 1992, [106 Stat. 4312][/us/stat/106/4312]; [Pub. L. 102–587, title VIII][/us/pl/102/587/tVIII], § 8008, Nov. 4, 1992, [106 Stat. 5101][/us/stat/106/5101]; [Pub. L. 106–562, title III][/us/pl/106/562/tIII], § 304(a), Dec. 23, 2000, [114 Stat. 2806][/us/stat/114/2806].)
 
  __Codification__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/102/567/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs808
+[/us/pl/102/567/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtVIII
 [/us/stat/106/4312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4312
-[/us/pl/102/587/s8008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs8008
+[/us/pl/102/587/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtVIII
 [/us/stat/106/5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5101
-[/us/pl/106/562/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs304%2Fa
+[/us/pl/106/562/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2FtIII
 [/us/stat/114/2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2806
 [/us/pl/102/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567
 [/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587

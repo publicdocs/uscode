@@ -17,7 +17,7 @@
 
     Any lands within the boundaries of a wilderness area designated under this Act which are acquired by the Federal Government, shall become part of the wilderness area within which they are located and shall be managed in accordance with all the provisions of this Act and other laws applicable to such wilderness area.
 
-([Pub. L. 103–433, title VII, § 704][/us/pl/103/433/s704], Oct. 31, 1994, [108 Stat. 4497][/us/stat/108/4497].)
+([Pub. L. 103–433, title VII][/us/pl/103/433/tVII], § 704, Oct. 31, 1994, [108 Stat. 4497][/us/stat/108/4497].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/103/433/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs704
+[/us/pl/103/433/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtVII
 [/us/stat/108/4497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4497
 [/us/usc/t16/s410aaa–81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410aaa%E2%80%9381
 

@@ -23,7 +23,7 @@
 
     (3) The term “Yukon River Joint Technical Committee” means the technical committee established by paragraph C.2 of the Memorandum of Understanding concerning the Pacific Salmon Treaty between the Government of the United States and the Government of Canada recorded January 28, 1985.
 
-([Pub. L. 104–43, title VII, § 703][/us/pl/104/43/s703], Nov. 3, 1995, [109 Stat. 393][/us/stat/109/393].)
+([Pub. L. 104–43, title VII][/us/pl/104/43/tVII], § 703, Nov. 3, 1995, [109 Stat. 393][/us/stat/109/393].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/104/43/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs703
+[/us/pl/104/43/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtVII
 [/us/stat/109/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F393
 
 

@@ -19,7 +19,7 @@
 
     (b) The Secretary shall permit hunting, fishing, and trapping on lands and waters within the preserve designated by this Act in accordance with applicable Federal and State laws except that the Secretary may designate areas where, and establish periods when, no hunting, fishing, or trapping will be permitted for reasons of public safety, administration, or compliance with provisions of applicable law. Except in emergencies, regulations closing areas to hunting, fishing, or trapping pursuant to this subsection shall be put into effect only after consultation with the appropriate State agency having responsibility for fish and wildlife. Nothing in this Act shall be construed as affecting the jurisdiction or responsibilities of the States with respect to fish and wildlife on Federal lands and waters covered by this part nor shall anything in this Act be construed as authorizing the Secretary concerned to require a Federal permit to hunt, fish, or trap on Federal lands and waters covered by this part.
 
-([Pub. L. 103–433, title V, § 506][/us/pl/103/433/s506], Oct. 31, 1994, [108 Stat. 4490][/us/stat/108/4490].)
+([Pub. L. 103–433, title V][/us/pl/103/433/tV], § 506, Oct. 31, 1994, [108 Stat. 4490][/us/stat/108/4490].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
-[/us/pl/103/433/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs506
+[/us/pl/103/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtV
 [/us/stat/108/4490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4490
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1

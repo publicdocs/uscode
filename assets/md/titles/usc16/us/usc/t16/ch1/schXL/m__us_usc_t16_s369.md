@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to assess and collect from physicians who desire to prescribe the hot waters from the Hot Springs National Park reasonable fees for examination and registration; and he is also authorized to assess and collect from bath attendants and masseurs operating in bathhouses receiving hot water from the park reasonable annual charges to cover the cost of physical examinations.
 
-([June 5, 1920, ch. 235, § 1][/us/act/1920-06-05/ch235/s1], [41 Stat. 918][/us/stat/41/918]; [Mar. 4, 1921, ch. 161, § 1][/us/act/1921-03-04/ch161/s1], [41 Stat. 1407][/us/stat/41/1407]; [Mar. 2, 1931, ch. 365][/us/act/1931-03-02/ch365], [46 Stat. 1462][/us/stat/46/1462].)
+([June 5, 1920, ch. 235][/us/act/1920-06-05/ch235], § 1, [41 Stat. 918][/us/stat/41/918]; [Mar. 4, 1921, ch. 161][/us/act/1921-03-04/ch161], § 1, [41 Stat. 1407][/us/stat/41/1407]; [Mar. 2, 1931, ch. 365][/us/act/1931-03-02/ch365], [46 Stat. 1462][/us/stat/46/1462].)
 
  __Codification__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/act/1920-06-05/ch235/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch235%2Fs1
+[/us/act/1920-06-05/ch235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch235
 [/us/stat/41/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F918
-[/us/act/1921-03-04/ch161/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-03-04%2Fch161%2Fs1
+[/us/act/1921-03-04/ch161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-03-04%2Fch161
 [/us/stat/41/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1407
 [/us/act/1931-03-02/ch365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-02%2Fch365
 [/us/stat/46/1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1462

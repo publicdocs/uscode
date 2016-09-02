@@ -31,7 +31,7 @@
 
         Within 1 year after August 8, 2005, the Commission shall issue a report and submit such report to the Congress regarding the recommendations of the joint boards under this section and the Commission may consolidate the recommendations of more than one such regional joint board, including any consensus recommendations for statutory or regulatory reform.
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 223, as added [Pub. L. 109–58, title XII, § 1298][/us/pl/109/58/s1298], Aug. 8, 2005, [119 Stat. 986][/us/stat/119/986].)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 223, as added [Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1298, Aug. 8, 2005, [119 Stat. 986][/us/stat/119/986].)
 
 ----------
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t16/s824h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824h
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
-[/us/pl/109/58/s1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1298
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F986
 
 

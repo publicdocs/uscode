@@ -27,7 +27,7 @@
 
         Notwithstanding any other provision of law, the Secretary may restore and rehabilitate property within the park pursuant to cooperative agreements without regard as to whether title thereto is in the United States.
 
-([Pub. L. 94–323, § 2][/us/pl/94/323/s2], June 30, 1976, [90 Stat. 718][/us/stat/90/718].)
+([Pub. L. 94–323][/us/pl/94/323], § 2, June 30, 1976, [90 Stat. 718][/us/stat/90/718].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 
  __Codification__ 
 
-    In subsec. (b), “sections 100903 and 102901 of title 54” substituted for “[section 5 of the Act of July 15, 1968][/us/act/1968-07-15/s5], [82 Stat. 356][/us/stat/82/356]; [16 U.S.C. 460][/us/usc/t16/s460]l–22)” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (b), “sections 100903 and 102901 of title 54” substituted for “[section 5 of the Act of July 15, 1968][/us/act/1968-07-15/s5], [82 Stat. 356][/us/stat/82/356]; [16 U.S.C. 460][/us/usc/t16/s460]l–22)” on authority of [Pub. L. 113–287][/us/pl/113/287], § 6(e), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
 ----------
 
@@ -48,7 +48,7 @@
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
-[/us/pl/94/323/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F323%2Fs2
+[/us/pl/94/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F323
 [/us/stat/90/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F718
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
@@ -68,7 +68,7 @@
 [/us/act/1968-07-15/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1968-07-15%2Fs5
 [/us/stat/82/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F356
 [/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
-[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 
 

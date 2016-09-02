@@ -77,7 +77,7 @@
 
         Agreements entered into by State agencies under the authority of this section shall not be deemed to be, or treated as, cooperative agreements to which chapter 63 of title 31 applies.
 
-([Pub. L. 86–797, title II, § 202][/us/pl/86/797/s202], as added [Pub. L. 93–452, § 2][/us/pl/93/452/s2], Oct. 18, 1974, [88 Stat. 1369][/us/stat/88/1369]; amended [Pub. L. 97–396, § 4][/us/pl/97/396/s4], Dec. 31, 1982, [96 Stat. 2005][/us/stat/96/2005]; [Pub. L. 112–81, div. A, title III, § 312(b)(8)][/us/pl/112/81/s312/b/8], Dec. 31, 2011, [125 Stat. 1354][/us/stat/125/1354].)
+([Pub. L. 86–797, title II][/us/pl/86/797/tII], § 202, as added [Pub. L. 93–452][/us/pl/93/452], § 2, Oct. 18, 1974, [88 Stat. 1369][/us/stat/88/1369]; amended [Pub. L. 97–396][/us/pl/97/396], § 4, Dec. 31, 1982, [96 Stat. 2005][/us/stat/96/2005]; [Pub. L. 112–81, div. A, title III][/us/pl/112/81/dA/tIII], § 312(b)(8), Dec. 31, 2011, [125 Stat. 1354][/us/stat/125/1354].)
 
  __References in Text__ 
 
@@ -85,7 +85,7 @@
 
  __Codification__ 
 
-    In subsec. (d), “chapter 63 of title 31” substituted for “the Federal Grant and Cooperative Agreement Act of 1977 ([41 U.S.C. 501][/us/usc/t41/s501] et seq.)” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (d), “chapter 63 of title 31” substituted for “the Federal Grant and Cooperative Agreement Act of 1977 ([41 U.S.C. 501][/us/usc/t41/s501] et seq.)” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
@@ -110,18 +110,18 @@
 [/us/usc/t16/s670i/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs670i%2Fa
 [/us/usc/t16/s670i/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs670i%2Fb
 [/us/usc/t16/s670j/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs670j%2Fa
-[/us/pl/86/797/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F797%2Fs202
-[/us/pl/93/452/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F452%2Fs2
+[/us/pl/86/797/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F797%2FtII
+[/us/pl/93/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F452
 [/us/stat/88/1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1369
-[/us/pl/97/396/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F396%2Fs4
+[/us/pl/97/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F396
 [/us/stat/96/2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2005
-[/us/pl/112/81/s312/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs312%2Fb%2F8
+[/us/pl/112/81/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIII
 [/us/stat/125/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1354
 [/us/pl/86/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F517
 [/us/stat/74/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F215
 [/us/usc/t16/s528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs528
 [/us/usc/t41/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs501
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/97/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F396

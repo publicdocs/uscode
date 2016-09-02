@@ -17,7 +17,7 @@
 
     No part of any funds appropriated for the Forest Service shall be used to pay the transportation or traveling expenses of any forest officer or agent except he be traveling on business directly connected with the Forest Service and in furtherance of the works, aims, and objects specified and authorized by law; nor shall any such funds be paid or used for the purpose of paying for, in whole or in part, the preparation or publication of any newspaper or magazine article, but this shall not prevent the giving out to all persons, without discrimination, including newspapers and magazine writers and publishers, of any facts or official information of value to the public: Provided, That this prohibition shall not apply to scientific or technical articles prepared for or published in scientific publications.
 
-([May 11, 1922, ch. 185][/us/act/1922-05-11/ch185], [42 Stat. 521][/us/stat/42/521]; [Pub. L. 85–464, § 8][/us/pl/85/464/s8], June 20, 1958, [72 Stat. 218][/us/stat/72/218].)
+([May 11, 1922, ch. 185][/us/act/1922-05-11/ch185], [42 Stat. 521][/us/stat/42/521]; [Pub. L. 85–464][/us/pl/85/464], § 8, June 20, 1958, [72 Stat. 218][/us/stat/72/218].)
 
  __Amendments__ 
 
@@ -32,7 +32,7 @@
 
 [/us/act/1922-05-11/ch185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-05-11%2Fch185
 [/us/stat/42/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F521
-[/us/pl/85/464/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F464%2Fs8
+[/us/pl/85/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F464
 [/us/stat/72/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F218
 [/us/pl/85/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F464
 

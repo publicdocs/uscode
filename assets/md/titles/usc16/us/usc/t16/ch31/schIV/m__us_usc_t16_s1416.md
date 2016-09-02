@@ -65,7 +65,7 @@
 
         (5) No sanctions shall be imposed under this section unless there has been a prior opportunity for a hearing on the facts underlying the violation for which the sanction is imposed, either in conjunction with a civil penalty proceeding under this subchapter or otherwise.
 
-([Pub. L. 92–522, title III, § 306][/us/pl/92/522/s306], as added [Pub. L. 105–42, § 6(c)][/us/pl/105/42/s6/c], Aug. 15, 1997, [111 Stat. 1135][/us/stat/111/1135].)
+([Pub. L. 92–522, title III][/us/pl/92/522/tIII], § 306, as added [Pub. L. 105–42][/us/pl/105/42], § 6(c), Aug. 15, 1997, [111 Stat. 1135][/us/stat/111/1135].)
 
  __References in Text__ 
 
@@ -73,7 +73,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1416, [Pub. L. 92–522, title III, § 306][/us/pl/92/522/s306], as added [Pub. L. 102–523, § 2(a)][/us/pl/102/523/s2/a], Oct. 26, 1992, [106 Stat. 3430][/us/stat/106/3430], related to permits for taking dolphins, prior to repeal by [Pub. L. 105–42, § 6(c)][/us/pl/105/42/s6/c], Aug. 15, 1997, [111 Stat. 1130][/us/stat/111/1130].
+    A prior section 1416, [Pub. L. 92–522, title III][/us/pl/92/522/tIII], § 306, as added [Pub. L. 102–523][/us/pl/102/523], § 2(a), Oct. 26, 1992, [106 Stat. 3430][/us/stat/106/3430], related to permits for taking dolphins, prior to repeal by [Pub. L. 105–42][/us/pl/105/42], § 6(c), Aug. 15, 1997, [111 Stat. 1130][/us/stat/111/1130].
 
     A prior [section 306 of Pub. L. 92–522][/us/pl/92/522/s306] was renumbered section 406 and is classified to [section 1421e of this title][/us/usc/t16/s1421e].
 
@@ -92,16 +92,16 @@
 [/us/usc/t16/s1413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1413
 [/us/usc/t16/s1417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1417
 [/us/usc/t16/s1417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1417
-[/us/pl/92/522/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs306
-[/us/pl/105/42/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs6%2Fc
+[/us/pl/92/522/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtIII
+[/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
 [/us/stat/111/1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1135
 [/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
 [/us/pl/105/42/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs8
 [/us/usc/t16/s1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1362
-[/us/pl/92/522/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs306
-[/us/pl/102/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F523%2Fs2%2Fa
+[/us/pl/92/522/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtIII
+[/us/pl/102/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F523
 [/us/stat/106/3430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3430
-[/us/pl/105/42/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs6%2Fc
+[/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
 [/us/stat/111/1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1130
 [/us/pl/92/522/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs306
 [/us/usc/t16/s1421e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1421e

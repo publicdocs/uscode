@@ -17,7 +17,7 @@
 
     The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Panel, the Yukon River Joint Technical Committee, or the Advisory Committee created under [section 5704 of this title][/us/usc/t16/s5704].
 
-([Pub. L. 104–43, title VII, § 706][/us/pl/104/43/s706], Nov. 3, 1995, [109 Stat. 394][/us/stat/109/394].)
+([Pub. L. 104–43, title VII][/us/pl/104/43/tVII], § 706, Nov. 3, 1995, [109 Stat. 394][/us/stat/109/394].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t16/s5704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5704
-[/us/pl/104/43/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs706
+[/us/pl/104/43/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtVII
 [/us/stat/109/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F394
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

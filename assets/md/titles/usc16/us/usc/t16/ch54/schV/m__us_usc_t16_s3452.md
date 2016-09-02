@@ -21,11 +21,11 @@
 
     (2) to encourage and improve the capability of State, <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  units of government, Indian tribes, nonprofit organizations, and councils to carry out the purposes described in paragraph (1).
 
-([Pub. L. 97–98, title XV, § 1529][/us/pl/97/98/s1529], as added [Pub. L. 107–171, title II, § 2504][/us/pl/107/171/s2504], May 13, 2002, [116 Stat. 272][/us/stat/116/272].)
+([Pub. L. 97–98, title XV][/us/pl/97/98/tXV], § 1529, as added [Pub. L. 107–171, title II][/us/pl/107/171/tII], § 2504, May 13, 2002, [116 Stat. 272][/us/stat/116/272].)
 
  __Prior Provisions__ 
 
-    A prior section 3452, [Pub. L. 97–98, title XV, § 1529][/us/pl/97/98/s1529], Dec. 22, 1981, [95 Stat. 1337][/us/stat/95/1337], related to definitions, prior to the general amendment of this subchapter by [Pub. L. 107–171][/us/pl/107/171].
+    A prior section 3452, [Pub. L. 97–98, title XV][/us/pl/97/98/tXV], § 1529, Dec. 22, 1981, [95 Stat. 1337][/us/stat/95/1337], related to definitions, prior to the general amendment of this subchapter by [Pub. L. 107–171][/us/pl/107/171].
 
 ----------
 
@@ -34,10 +34,10 @@
 ----------
 ----------
 
-[/us/pl/97/98/s1529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1529
-[/us/pl/107/171/s2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2504
+[/us/pl/97/98/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXV
+[/us/pl/107/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtII
 [/us/stat/116/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F272
-[/us/pl/97/98/s1529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1529
+[/us/pl/97/98/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXV
 [/us/stat/95/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1337
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 

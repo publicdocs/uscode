@@ -23,7 +23,7 @@
 
         Nothing in this section shall be construed to prevent the application of provisions of the Convention, conservation measures adopted by the Commission pursuant to article IX of the Convention, or regulations promulgated under this chapter, which are more restrictive than the provisions of, measures adopted under, or regulations promulgated under, the treaties or statutes described in subsection (a).
 
-([Pub. L. 98–623, title III, § 313][/us/pl/98/623/s313], Nov. 8, 1984, [98 Stat. 3406][/us/stat/98/3406].)
+([Pub. L. 98–623, title III][/us/pl/98/623/tIII], § 313, Nov. 8, 1984, [98 Stat. 3406][/us/stat/98/3406].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/98/623/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs313
+[/us/pl/98/623/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtIII
 [/us/stat/98/3406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3406
 
 

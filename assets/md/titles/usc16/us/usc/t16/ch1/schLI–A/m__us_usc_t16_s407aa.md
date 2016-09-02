@@ -39,11 +39,11 @@
 
         (3) interpretation of the United States Constitution at those units of the National Park System particularly relevant to its history.
 
-([Pub. L. 100–433, § 2][/us/pl/100/433/s2], Sept. 16, 1988, [102 Stat. 1640][/us/stat/102/1640].)
+([Pub. L. 100–433][/us/pl/100/433], § 2, Sept. 16, 1988, [102 Stat. 1640][/us/stat/102/1640].)
 
  __Short Title__ 
 
-[Pub. L. 100–433, § 1][/us/pl/100/433/s1], Sept. 16, 1988, [102 Stat. 1640][/us/stat/102/1640], provided that: 
+[Pub. L. 100–433][/us/pl/100/433], § 1, Sept. 16, 1988, [102 Stat. 1640][/us/stat/102/1640], provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘Constitution Heritage Act of 1988’.”
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/100/433/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F433%2Fs2
+[/us/pl/100/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F433
 [/us/stat/102/1640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1640
-[/us/pl/100/433/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F433%2Fs1
+[/us/pl/100/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F433
 [/us/stat/102/1640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1640
 
 

@@ -39,7 +39,7 @@
 
             (E) any other purpose that the Secretary determines to be consistent with the purpose described in [section 460qqq of this title][/us/usc/t16/s460qqq].
 
-([Pub. L. 107–282, title VI, § 606][/us/pl/107/282/s606], Nov. 6, 2002, [116 Stat. 2012][/us/stat/116/2012].)
+([Pub. L. 107–282, title VI][/us/pl/107/282/tVI], § 606, Nov. 6, 2002, [116 Stat. 2012][/us/stat/116/2012].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 [/us/pl/105/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F263
 [/us/stat/112/2345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2345
 [/us/usc/t16/s460qqq]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460qqq
-[/us/pl/107/282/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F282%2Fs606
+[/us/pl/107/282/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F282%2FtVI
 [/us/stat/116/2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2012
 [/us/pl/105/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F263
 [/us/stat/112/2343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2343

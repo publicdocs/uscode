@@ -41,17 +41,17 @@
 
         Not later than 6 months after October 21, 1992, the Secretary of the Interior (referred to in sections 698q to 698t of this title as the “Secretary”) shall publish in the Federal Register a detailed description of the boundaries of the Preserve.
 
-([Pub. L. 102–427, § 2][/us/pl/102/427/s2], Oct. 21, 1992, [106 Stat. 2179][/us/stat/106/2179]; [Pub. L. 111–11, title VII, § 7103][/us/pl/111/11/s7103], Mar. 30, 2009, [123 Stat. 1190][/us/stat/123/1190].)
+([Pub. L. 102–427][/us/pl/102/427], § 2, Oct. 21, 1992, [106 Stat. 2179][/us/stat/106/2179]; [Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7103, Mar. 30, 2009, [123 Stat. 1190][/us/stat/123/1190].)
 
  __Amendments__ 
 
-    2009—Subsec. (b). [Pub. L. 111–11, § 7103(1)][/us/pl/111/11/s7103/1], designated existing provisions as par. (1), inserted heading, and added par. (2).
+    2009—Subsec. (b). [Pub. L. 111–11][/us/pl/111/11], § 7103(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-    Subsec. (c). [Pub. L. 111–11, § 7103(2)][/us/pl/111/11/s7103/2], substituted “maps” for “map” in introductory provisions.
+    Subsec. (c). [Pub. L. 111–11][/us/pl/111/11], § 7103(2), substituted “maps” for “map” in introductory provisions.
 
  __Short Title__ 
 
-[Pub. L. 102–427, § 1][/us/pl/102/427/s1], Oct. 21, 1992, [106 Stat. 2179][/us/stat/106/2179], provided that: 
+[Pub. L. 102–427][/us/pl/102/427], § 1, Oct. 21, 1992, [106 Stat. 2179][/us/stat/106/2179], provided that: 
 
 > “This Act \[enacting this section and sections 698r to 698t of this title\] may be cited as the ‘Little River Canyon National Preserve Act of 1992’.”
 
@@ -62,13 +62,13 @@
 ----------
 ----------
 
-[/us/pl/102/427/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F427%2Fs2
+[/us/pl/102/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F427
 [/us/stat/106/2179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2179
-[/us/pl/111/11/s7103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7103
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1190
-[/us/pl/111/11/s7103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7103%2F1
-[/us/pl/111/11/s7103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7103%2F2
-[/us/pl/102/427/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F427%2Fs1
+[/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
+[/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
+[/us/pl/102/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F427
 [/us/stat/106/2179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2179
 
 

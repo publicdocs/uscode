@@ -31,7 +31,7 @@
 
         (4) creating archives for programs on the bicentennial of the United States Constitution.
 
-([Pub. L. 100–433, § 3][/us/pl/100/433/s3], Sept. 16, 1988, [102 Stat. 1640][/us/stat/102/1640].)
+([Pub. L. 100–433][/us/pl/100/433], § 3, Sept. 16, 1988, [102 Stat. 1640][/us/stat/102/1640].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/100/433/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F433%2Fs3
+[/us/pl/100/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F433
 [/us/stat/102/1640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1640
 
 

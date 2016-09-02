@@ -83,7 +83,7 @@
 
             Any excess animal sold under this provision shall no longer be considered to be a wild free-roaming horse or burro for purposes of this chapter.
 
-([Pub. L. 92–195, § 3][/us/pl/92/195/s3], Dec. 15, 1971, [85 Stat. 649][/us/stat/85/649]; [Pub. L. 95–514, § 14(a)][/us/pl/95/514/s14/a], Oct. 25, 1978, [92 Stat. 1808][/us/stat/92/1808]; [Pub. L. 108–447, div. E, title I, § 142(a)][/us/pl/108/447/s142/a], Dec. 8, 2004, [118 Stat. 3070][/us/stat/118/3070].)
+([Pub. L. 92–195][/us/pl/92/195], § 3, Dec. 15, 1971, [85 Stat. 649][/us/stat/85/649]; [Pub. L. 95–514][/us/pl/95/514], § 14(a), Oct. 25, 1978, [92 Stat. 1808][/us/stat/92/1808]; [Pub. L. 108–447, div. E, title I][/us/pl/108/447/dE/tI], § 142(a), Dec. 8, 2004, [118 Stat. 3070][/us/stat/118/3070].)
 
  __References in Text__ 
 
@@ -91,9 +91,9 @@
 
  __Amendments__ 
 
-    2004—Subsec. (d)(5). [Pub. L. 108–447, § 142(a)(1)][/us/pl/108/447/s142/a/1], substituted “this section” for “this section; Provided, That no wild free-roaming horse or burro or its remains may be sold or transferred for consideration for processing into commercial products”.
+    2004—Subsec. (d)(5). [Pub. L. 108–447][/us/pl/108/447], § 142(a)(1), substituted “this section” for “this section; Provided, That no wild free-roaming horse or burro or its remains may be sold or transferred for consideration for processing into commercial products”.
 
-    Subsec. (e). [Pub. L. 108–447, § 142(a)(2)][/us/pl/108/447/s142/a/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 108–447][/us/pl/108/447], § 142(a)(2), added subsec. (e).
 
     1978—Subsec. (b). [Pub. L. 95–514][/us/pl/95/514] substituted provisions for: maintaining current inventory of wild free-roaming horses and burros; listing the purpose of the inventory and determinations to be made in consultation with persons of scientific expertise and special knowledge; immediate removal of excess animals from the range on the basis of information from various sources so as to achieve appropriate management levels; order and priority of removal; and research study  to  be  reported  to  Congress  for  prior  authorization of humane destruction of old, sick, or lame animals and capture and removal of additional excess animals for private maintenance under humane conditions and care, now incorporated in subsec. (b)(2)(A) and (B).
 
@@ -117,16 +117,16 @@
 [/us/usc/t43/s1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1712
 [/us/usc/t43/s1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1902
 [/us/usc/t16/s1334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1334
-[/us/pl/92/195/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F195%2Fs3
+[/us/pl/92/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F195
 [/us/stat/85/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F649
-[/us/pl/95/514/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F514%2Fs14%2Fa
+[/us/pl/95/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F514
 [/us/stat/92/1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1808
-[/us/pl/108/447/s142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs142%2Fa
+[/us/pl/108/447/dE/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdE%2FtI
 [/us/stat/118/3070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3070
 [/us/usc/t43/s1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1902
 [/us/usc/t43/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1901
-[/us/pl/108/447/s142/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs142%2Fa%2F1
-[/us/pl/108/447/s142/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs142%2Fa%2F2
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/95/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F514
 [/us/pl/95/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F514
 [/us/pl/95/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F514

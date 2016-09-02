@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized and directed to acquire, on behalf of the United States, by gift, purchase, or condemnation, the south half of the northwest quarter, the northeast quarter of the northwest quarter, and the southwest quarter of the northeast quarter section 26, township 4 north, range 5 east, of the sixth principal meridian, Gage County, Nebraska, the same being the first homestead entered upon under the General Homestead Act of May 20, 1862, by Daniel Freeman, and that when so acquired, the said area be designated “The Homestead National Monument of America.”
 
-([Mar. 19, 1936, ch. 157, § 1][/us/act/1936-03-19/ch157/s1], [49 Stat. 1184][/us/stat/49/1184].)
+([Mar. 19, 1936, ch. 157][/us/act/1936-03-19/ch157], § 1, [49 Stat. 1184][/us/stat/49/1184].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/act/1936-03-19/ch157/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-03-19%2Fch157%2Fs1
+[/us/act/1936-03-19/ch157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-03-19%2Fch157
 [/us/stat/49/1184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1184
 [/us/act/1862-05-20/ch75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1862-05-20%2Fch75
 [/us/stat/12/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F392

@@ -73,7 +73,7 @@
 
         For the purposes of this section, there are authorized to be appropriated in each fiscal year $5,000,000, commencing with fiscal year 1985.
 
-([Pub. L. 98–364, title II, § 201][/us/pl/98/364/s201], July 17, 1984, [98 Stat. 443][/us/stat/98/443].)
+([Pub. L. 98–364, title II][/us/pl/98/364/tII], § 201, July 17, 1984, [98 Stat. 443][/us/stat/98/443].)
 
  __References in Text__ 
 
@@ -94,7 +94,7 @@
 ----------
 ----------
 
-[/us/pl/98/364/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2Fs201
+[/us/pl/98/364/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2FtII
 [/us/stat/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F443
 [/us/pl/98/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463

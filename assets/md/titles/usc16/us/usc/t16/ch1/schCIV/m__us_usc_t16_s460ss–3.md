@@ -135,25 +135,25 @@
 
         (2) A representative of the Klamath Tribe, who shall be appointed by the governing body of the Tribe.
 
-([Pub. L. 99–552, § 4][/us/pl/99/552/s4], Oct. 27, 1986, [100 Stat. 3084][/us/stat/100/3084]; [Pub. L. 100–580, § 12(a)][/us/pl/100/580/s12/a], Oct. 31, 1988, [102 Stat. 2935][/us/stat/102/2935]; [Pub. L. 100–653, title VI][/us/pl/100/653], §§ 601, 602(b), 603(1), Nov. 14, 1988, [102 Stat. 3829][/us/stat/102/3829], 3830; [Pub. L. 102–570, § 2][/us/pl/102/570/s2], Oct. 29, 1992, [106 Stat. 4490][/us/stat/106/4490].)
+([Pub. L. 99–552][/us/pl/99/552], § 4, Oct. 27, 1986, [100 Stat. 3084][/us/stat/100/3084]; [Pub. L. 100–580][/us/pl/100/580], § 12(a), Oct. 31, 1988, [102 Stat. 2935][/us/stat/102/2935]; [Pub. L. 100–653, title VI][/us/pl/100/653/tVI], §§ 601, 602(b), 603(1), Nov. 14, 1988, [102 Stat. 3829][/us/stat/102/3829], 3830; [Pub. L. 102–570][/us/pl/102/570], § 2, Oct. 29, 1992, [106 Stat. 4490][/us/stat/106/4490].)
 
  __Amendments__ 
 
     1992—Subsec. (j). [Pub. L. 102–570][/us/pl/102/570] added subsec. (j).
 
-    1988—Subsec. (c). [Pub. L. 100–580, § 12(a)(A)][/us/pl/100/580/s12/a/A], substituted “14” for “12” in introductory provisions.
+    1988—Subsec. (c). [Pub. L. 100–580][/us/pl/100/580], § 12(a)(A), substituted “14” for “12” in introductory provisions.
 
-    Subsec. (c)(11), (12). [Pub. L. 100–580, § 12(a)(B)][/us/pl/100/580/s12/a/B], added pars. (11) and (12).
+    Subsec. (c)(11), (12). [Pub. L. 100–580][/us/pl/100/580], § 12(a)(B), added pars. (11) and (12).
 
-    Subsec. (f)(1). [Pub. L. 100–653, § 602(b)][/us/pl/100/653/s602/b], substituted “Procedures” for “Decisions of Task Force” as par. heading and amended text generally. Prior to amendment, text read as follows: “All decisions of the Task Force must be by unanimous vote of all the members.”
+    Subsec. (f)(1). [Pub. L. 100–653][/us/pl/100/653], § 602(b), substituted “Procedures” for “Decisions of Task Force” as par. heading and amended text generally. Prior to amendment, text read as follows: “All decisions of the Task Force must be by unanimous vote of all the members.”
 
-    Subsec. (h). [Pub. L. 100–653, § 603(1)][/us/pl/100/653/s603/1], substituted “, the State of California, or the State of Oregon” for “or the State of California”.
+    Subsec. (h). [Pub. L. 100–653][/us/pl/100/653], § 603(1), substituted “, the State of California, or the State of Oregon” for “or the State of California”.
 
-    Subsec. (i). [Pub. L. 100–653, § 601][/us/pl/100/653/s601], substituted “Expenses” for “Limitation on spending authority” in heading and amended text generally, designating existing provisions as par. (2) and adding par. (1).
+    Subsec. (i). [Pub. L. 100–653][/us/pl/100/653], § 601, substituted “Expenses” for “Limitation on spending authority” in heading and amended text generally, designating existing provisions as par. (2) and adding par. (1).
 
  __Special Rule__ 
 
-[Pub. L. 100–580, § 12(b)][/us/pl/100/580/s12/b], Oct. 31, 1988, [102 Stat. 2935][/us/stat/102/2935], provided that: 
+[Pub. L. 100–580][/us/pl/100/580], § 12(b), Oct. 31, 1988, [102 Stat. 2935][/us/stat/102/2935], provided that: 
 
 > “The initial term of the representative appointed pursuant to section 4(c)(11) and (12) of such Act \[[16 U.S.C. 460ss–3(c)(11)][/us/usc/t16/s460ss–3/c/11], (12)\] (as added by the amendment made by subsection (a)) shall be for that time which is the remainder of the terms of the members of the Task Force then serving. Thereafter, the term of such representatives shall be as provided in section 4(e) of such Act.”
 
@@ -166,21 +166,21 @@
 
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t16/s460ss–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460ss%E2%80%935
-[/us/pl/99/552/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F552%2Fs4
+[/us/pl/99/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F552
 [/us/stat/100/3084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3084
-[/us/pl/100/580/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F580%2Fs12%2Fa
+[/us/pl/100/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F580
 [/us/stat/102/2935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2935
-[/us/pl/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653
+[/us/pl/100/653/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2FtVI
 [/us/stat/102/3829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3829
-[/us/pl/102/570/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F570%2Fs2
+[/us/pl/102/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F570
 [/us/stat/106/4490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4490
 [/us/pl/102/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F570
-[/us/pl/100/580/s12/a/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F580%2Fs12%2Fa%2FA
-[/us/pl/100/580/s12/a/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F580%2Fs12%2Fa%2FB
-[/us/pl/100/653/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2Fs602%2Fb
-[/us/pl/100/653/s603/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2Fs603%2F1
-[/us/pl/100/653/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2Fs601
-[/us/pl/100/580/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F580%2Fs12%2Fb
+[/us/pl/100/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F580
+[/us/pl/100/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F580
+[/us/pl/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653
+[/us/pl/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653
+[/us/pl/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653
+[/us/pl/100/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F580
 [/us/stat/102/2935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2935
 [/us/usc/t16/s460ss–3/c/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460ss%E2%80%933%2Fc%2F11
 

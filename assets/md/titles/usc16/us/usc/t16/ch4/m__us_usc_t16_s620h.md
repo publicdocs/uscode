@@ -17,7 +17,7 @@
 
     Nothing in sections 620 to 620j of this title, or regulations issued under sections 620 to 620j of this title, shall be construed to abrogate or affect any timber sale contract entered into before August 20, 1990.
 
-([Pub. L. 101–382, title IV, § 497][/us/pl/101/382/s497], Aug. 20, 1990, [104 Stat. 725][/us/stat/104/725].)
+([Pub. L. 101–382, title IV][/us/pl/101/382/tIV], § 497, Aug. 20, 1990, [104 Stat. 725][/us/stat/104/725].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/101/382/s497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs497
+[/us/pl/101/382/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtIV
 [/us/stat/104/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F725
 [/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
 [/us/pl/101/382/s494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs494

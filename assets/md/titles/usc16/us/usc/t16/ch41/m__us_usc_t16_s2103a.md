@@ -67,7 +67,7 @@
 
         There are hereby authorized to be appropriated $25,000,000 for each of the fiscal years 1991 through 1995, and such sums as may be necessary thereafter, to carry out this section.
 
-([Pub. L. 95–313, § 5][/us/pl/95/313/s5], as added [Pub. L. 101–624, title XII, § 1215(2)][/us/pl/101/624/s1215/2], Nov. 28, 1990, [104 Stat. 3525][/us/stat/104/3525]; amended [Pub. L. 102–237, title X, § 1018(a)(1)][/us/pl/102/237/s1018/a/1], Dec. 13, 1991, [105 Stat. 1905][/us/stat/105/1905].)
+([Pub. L. 95–313][/us/pl/95/313], § 5, as added [Pub. L. 101–624, title XII][/us/pl/101/624/tXII], § 1215(2), Nov. 28, 1990, [104 Stat. 3525][/us/stat/104/3525]; amended [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1018(a)(1), Dec. 13, 1991, [105 Stat. 1905][/us/stat/105/1905].)
 
  __Prior Provisions__ 
 
@@ -84,10 +84,10 @@
 ----------
 ----------
 
-[/us/pl/95/313/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313%2Fs5
-[/us/pl/101/624/s1215/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1215%2F2
+[/us/pl/95/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313
+[/us/pl/101/624/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXII
 [/us/stat/104/3525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3525
-[/us/pl/102/237/s1018/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1018%2Fa%2F1
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1905
 [/us/pl/95/313/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313%2Fs5
 [/us/usc/t16/s2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2104

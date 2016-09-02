@@ -37,7 +37,7 @@
 
         If a council is terminated under subsection (a) of this section, the Secretary, after recovering all expenses incurred for the conduct of the referendum under subsection (a) of this section, shall take such action as is necessary and practicable to ensure that moneys remaining in the account established by the council under [section 4012(e) of this title][/us/usc/t16/s4012/e] are paid on a prorated basis to the sector participants from whom those moneys were collected under [section 4012 of this title][/us/usc/t16/s4012].
 
-([Pub. L. 99–659, title II, § 216][/us/pl/99/659/s216], Nov. 14, 1986, [100 Stat. 3728][/us/stat/100/3728].)
+([Pub. L. 99–659, title II][/us/pl/99/659/tII], § 216, Nov. 14, 1986, [100 Stat. 3728][/us/stat/100/3728].)
 
 ----------
 
@@ -50,7 +50,7 @@
 [/us/usc/t16/s4012/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4012%2Fe
 [/us/usc/t16/s4012/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4012%2Fe
 [/us/usc/t16/s4012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4012
-[/us/pl/99/659/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs216
+[/us/pl/99/659/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtII
 [/us/stat/100/3728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3728
 
 

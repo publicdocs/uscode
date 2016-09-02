@@ -17,7 +17,7 @@
 
     The administration, protection, and development of the Saratoga National Historical Park shall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of the Act of August 25, 1916, entitled “An Act to establish a National Park Service, and for other purposes”, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended.
 
-([June 1, 1938, ch. 316, § 3][/us/act/1938-06-01/ch316/s3], [52 Stat. 609][/us/stat/52/609].)
+([June 1, 1938, ch. 316][/us/act/1938-06-01/ch316], § 3, [52 Stat. 609][/us/stat/52/609].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1938-06-01/ch316/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-01%2Fch316%2Fs3
+[/us/act/1938-06-01/ch316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-01%2Fch316
 [/us/stat/52/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F609
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535

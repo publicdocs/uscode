@@ -31,7 +31,7 @@
 
         The owner of an improved property, as defined in this subchapter, on the date of its acquisition, as a condition of such acquisition, may retain for himself, his heirs and assigns, a right of use and occupancy of the improved property for noncommercial residential, or agricultural purposes, or the continuation of existing commercial operations, as the case may be, for a definite term of not more than twenty-five years, or, in lieu thereof, for a term ending at the death of the owner or the death of his spouse, whichever is later. The owner shall elect the term to be reserved. Unless the property is wholly or partially donated, the Secretary shall pay to the owner the fair market value of the property on the date of its acquisition, less the fair market value of the property on that date of the right retained by the owner. A right retained by the owner pursuant to this section shall be subject to termination by the Secretary upon his determination that it is being exercised in a manner inconsistent with the purposes of this subchapter, and it shall terminate by operation of law upon notification by the Secretary to the holder of the right of such determination and tendering to him the amount equal to the fair market value of that portion which remains unexpired.
 
-([Pub. L. 95–625, title XI, § 1102][/us/pl/95/625/s1102], Nov. 10, 1978, [92 Stat. 3545][/us/stat/92/3545]; [Pub. L. 99–500, § 101(h)][/us/pl/99/500/s101/h] \[title I, § 116(a)\], Oct. 18, 1986, [100 Stat. 1783–242][/us/stat/100/1783-242], 1783–266, and [Pub. L. 99–591, § 101(h)][/us/pl/99/591/s101/h] \[title I, § 116(a)\], Oct. 30, 1986, [100 Stat. 3341–242][/us/stat/100/3341-242], 3341–266; [Pub. L. 99–590, title X, § 1001][/us/pl/99/590/s1001], Oct. 30, 1986, [100 Stat. 3339][/us/stat/100/3339].)
+([Pub. L. 95–625, title XI][/us/pl/95/625/tXI], § 1102, Nov. 10, 1978, [92 Stat. 3545][/us/stat/92/3545]; [Pub. L. 99–500][/us/pl/99/500], § 101(h) \[title I, § 116(a)\], Oct. 18, 1986, [100 Stat. 1783–242][/us/stat/100/1783-242], 1783–266, and [Pub. L. 99–591][/us/pl/99/591], § 101(h) \[title I, § 116(a)\], Oct. 30, 1986, [100 Stat. 3341–242][/us/stat/100/3341-242], 3341–266; [Pub. L. 99–590, title X][/us/pl/99/590/tX], § 1001, Oct. 30, 1986, [100 Stat. 3339][/us/stat/100/3339].)
 
  __References in Text__ 
 
@@ -52,13 +52,13 @@
 ----------
 ----------
 
-[/us/pl/95/625/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs1102
+[/us/pl/95/625/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtXI
 [/us/stat/92/3545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3545
-[/us/pl/99/500/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fh
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-242
-[/us/pl/99/591/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fh
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-242
-[/us/pl/99/590/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F590%2Fs1001
+[/us/pl/99/590/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F590%2FtX
 [/us/stat/100/3339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3339
 [/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
 [/us/stat/92/3467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3467

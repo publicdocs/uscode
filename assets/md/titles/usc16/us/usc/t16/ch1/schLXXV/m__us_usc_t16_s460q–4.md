@@ -17,7 +17,7 @@
 
     Each Secretary shall permit hunting and fishing on lands and waters under his jurisdiction within the recreation area in accordance with the applicable laws of the State of California and of the United States: Provided, That each Secretary may designate zones where, and establish periods when, no hunting or fishing shall be permitted for reasons of public safety, administration, or public use and enjoyment not compatible with hunting or fishing. Regulations prescribing any such restrictions shall be issued after consultation with the California Department of Fish and Game.
 
-([Pub. L. 89–336, § 5][/us/pl/89/336/s5], Nov. 8, 1965, [79 Stat. 1298][/us/stat/79/1298].)
+([Pub. L. 89–336][/us/pl/89/336], § 5, Nov. 8, 1965, [79 Stat. 1298][/us/stat/79/1298].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/336/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F336%2Fs5
+[/us/pl/89/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F336
 [/us/stat/79/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1298
 
 

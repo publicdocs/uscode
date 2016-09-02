@@ -159,7 +159,7 @@
 
         The term “25-percent payment” means the payment to States required by the sixth paragraph under the heading of “FOREST SERVICE” in the Act of May 23, 1908 ([35 Stat. 260][/us/stat/35/260]; [16 U.S.C. 500][/us/usc/t16/s500]), and [section 13 of the Act of March 1, 1911][/us/act/1911-03-01/s13] ([36 Stat. 963][/us/stat/36/963]; [16 U.S.C. 500][/us/usc/t16/s500]).
 
-([Pub. L. 106–393, § 3][/us/pl/106/393/s3], as added [Pub. L. 110–343, div. C, title VI, § 601(a)][/us/pl/110/343/s601/a], Oct. 3, 2008, [122 Stat. 3894][/us/stat/122/3894]; amended [Pub. L. 112–141, div. F, title I, § 100101(a)(1)][/us/pl/112/141/s100101/a/1], July 6, 2012, [126 Stat. 905][/us/stat/126/905].)
+([Pub. L. 106–393][/us/pl/106/393], § 3, as added [Pub. L. 110–343, div. C, title VI][/us/pl/110/343/dC/tVI], § 601(a), Oct. 3, 2008, [122 Stat. 3894][/us/stat/122/3894]; amended [Pub. L. 112–141, div. F, title I][/us/pl/112/141/dF/tI], § 100101(a)(1), July 6, 2012, [126 Stat. 905][/us/stat/126/905].)
 
  __References in Text__ 
 
@@ -167,15 +167,15 @@
 
     The Act of July 22, 1937, referred to in par. (7)(A), is [act July 22, 1937, ch. 517][/us/act/1937-07-22/ch517], [50 Stat. 522][/us/stat/50/522], known as the Bankhead-Jones Farm Tenant Act, which is classified generally to chapter 33 (§ 1000 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1000 of Title 7][/us/usc/t7/s1000] and Tables.
 
-    Act of August 28, 1937, referred to in par. (10), is [act Aug. 28, 1937, ch. 876][/us/act/1937-08-28/ch876], [50 Stat. 874][/us/stat/50/874]. Section 3 of the Act was classified to [section 1181c of Title 43][/us/usc/t43/s1181c], Public Lands, prior to repeal by [Pub. L. 94–579, title VII, § 702][/us/pl/94/579/s702], Oct. 21, 1976, [90 Stat. 2787][/us/stat/90/2787]. Title II of the Act enacted [section 1181f of Title 43][/us/usc/t43/s1181f] and repealed [section 1174 of Title 43][/us/usc/t43/s1174]. For complete classification of this Act to the Code, see Tables.
+    Act of August 28, 1937, referred to in par. (10), is [act Aug. 28, 1937, ch. 876][/us/act/1937-08-28/ch876], [50 Stat. 874][/us/stat/50/874]. Section 3 of the Act was classified to [section 1181c of Title 43][/us/usc/t43/s1181c], Public Lands, prior to repeal by [Pub. L. 94–579, title VII][/us/pl/94/579/tVII], § 702, Oct. 21, 1976, [90 Stat. 2787][/us/stat/90/2787]. Title II of the Act enacted [section 1181f of Title 43][/us/usc/t43/s1181f] and repealed [section 1174 of Title 43][/us/usc/t43/s1174]. For complete classification of this Act to the Code, see Tables.
 
     The Act of May 24, 1939, referred to in par. (10), is [act May 24, 1939, ch. 144][/us/act/1939-05-24/ch144], [53 Stat. 753][/us/stat/53/753], which enacted sections 1181f–1 to 1181f–4 of Title 43, Public Lands, and provisions set out as a note under [section 1181f–1 of Title 43][/us/usc/t43/s1181f–1]. For complete classification of this Act to the Code, see Tables.
 
-    Sections 13982 and 13983 of the Omnibus Budget Reconciliation Act of 1993, referred to in par. (14), are sections 13982 and 13983 of [Pub. L. 103–66][/us/pl/103/66], which were set out as notes under [section 500 of this title][/us/usc/t16/s500] and [section 1181f of Title 43][/us/usc/t43/s1181f], Public Lands, respectively, prior to repeal by [Pub. L. 106–393, title IV, § 404][/us/pl/106/393/s404], Oct. 30, 2000, [114 Stat. 1623][/us/stat/114/1623].
+    Sections 13982 and 13983 of the Omnibus Budget Reconciliation Act of 1993, referred to in par. (14), are sections 13982 and 13983 of [Pub. L. 103–66][/us/pl/103/66], which were set out as notes under [section 500 of this title][/us/usc/t16/s500] and [section 1181f of Title 43][/us/usc/t43/s1181f], Public Lands, respectively, prior to repeal by [Pub. L. 106–393, title IV][/us/pl/106/393/tIV], § 404, Oct. 30, 2000, [114 Stat. 1623][/us/stat/114/1623].
 
  __Prior Provisions__ 
 
-    A prior [section 3 of Pub. L. 106–393][/us/pl/106/393/s3] was set out in a note under [section 500 of this title][/us/usc/t16/s500] prior to repeal by [Pub. L. 110–343, div. C, title VI, § 601(a)][/us/pl/110/343/s601/a], Oct. 3, 2008, [122 Stat. 3893][/us/stat/122/3893].
+    A prior [section 3 of Pub. L. 106–393][/us/pl/106/393/s3] was set out in a note under [section 500 of this title][/us/usc/t16/s500] prior to repeal by [Pub. L. 110–343, div. C, title VI][/us/pl/110/343/dC/tVI], § 601(a), Oct. 3, 2008, [122 Stat. 3893][/us/stat/122/3893].
 
  __Amendments__ 
 
@@ -208,10 +208,10 @@
 [/us/act/1911-03-01/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-01%2Fs13
 [/us/stat/36/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F963
 [/us/usc/t16/s500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs500
-[/us/pl/106/393/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393%2Fs3
-[/us/pl/110/343/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs601%2Fa
+[/us/pl/106/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393
+[/us/pl/110/343/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtVI
 [/us/stat/122/3894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3894
-[/us/pl/112/141/s100101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100101%2Fa%2F1
+[/us/pl/112/141/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtI
 [/us/stat/126/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F905
 [/us/pl/106/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393
 [/us/stat/114/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1607
@@ -222,7 +222,7 @@
 [/us/act/1937-08-28/ch876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-28%2Fch876
 [/us/stat/50/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F874
 [/us/usc/t43/s1181c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1181c
-[/us/pl/94/579/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2Fs702
+[/us/pl/94/579/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2FtVII
 [/us/stat/90/2787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2787
 [/us/usc/t43/s1181f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1181f
 [/us/usc/t43/s1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1174
@@ -232,11 +232,11 @@
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/usc/t16/s500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs500
 [/us/usc/t43/s1181f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1181f
-[/us/pl/106/393/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393%2Fs404
+[/us/pl/106/393/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393%2FtIV
 [/us/stat/114/1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1623
 [/us/pl/106/393/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393%2Fs3
 [/us/usc/t16/s500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs500
-[/us/pl/110/343/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs601%2Fa
+[/us/pl/110/343/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtVI
 [/us/stat/122/3893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3893
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 

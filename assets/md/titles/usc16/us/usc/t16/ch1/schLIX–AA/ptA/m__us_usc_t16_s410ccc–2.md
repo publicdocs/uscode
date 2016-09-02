@@ -37,7 +37,7 @@
 
         The Secretary, acting through the National Park Service, shall coordinate a comprehensive research program on the complex history of the Cane River region, including ethnography studies of the living communities along the Cane River, and how past and present generations have adapted to their environment, including genealogical studies of families within the Cane River area. Research shall include, but not be limited to, the extensive primary historic documents within the Natchitoches and Cane River areas, and curation methods for their care and exhibition. The research program shall be coordinated with Northwestern State University of Louisiana, and the National Center for Preservation of Technology and Training in Natchitoches.
 
-([Pub. L. 103–449, title III, § 304][/us/pl/103/449/s304], Nov. 2, 1994, [108 Stat. 4758][/us/stat/108/4758].)
+([Pub. L. 103–449, title III][/us/pl/103/449/tIII], § 304, Nov. 2, 1994, [108 Stat. 4758][/us/stat/108/4758].)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 [/us/usc/t16/s410ccc–1/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410ccc%E2%80%931%2Fb%2F4
 [/us/usc/t16/s410ccc–22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410ccc%E2%80%9322
 [/us/usc/t16/s410ccc–22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410ccc%E2%80%9322
-[/us/pl/103/449/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F449%2Fs304
+[/us/pl/103/449/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F449%2FtIII
 [/us/stat/108/4758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4758
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1

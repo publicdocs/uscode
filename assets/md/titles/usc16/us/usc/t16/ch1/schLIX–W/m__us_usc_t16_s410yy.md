@@ -43,7 +43,7 @@
 
         (2) to interpret the historic synergism between the geological, aboriginal, sociological, cultural technological, and corporate forces that relate the story of copper on the Keweenaw Peninsula.
 
-([Pub. L. 102–543, § 1][/us/pl/102/543/s1], Oct. 27, 1992, [106 Stat. 3569][/us/stat/106/3569].)
+([Pub. L. 102–543][/us/pl/102/543], § 1, Oct. 27, 1992, [106 Stat. 3569][/us/stat/106/3569].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/102/543/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F543%2Fs1
+[/us/pl/102/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F543
 [/us/stat/106/3569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3569
 
 

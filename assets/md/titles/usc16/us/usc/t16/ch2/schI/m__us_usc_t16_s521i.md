@@ -17,7 +17,7 @@
 
     Nothing in sections 521c to 521i of this title shall authorize conveyance of Federal lands within the National Wilderness Preservation System, National Wild and Scenic Rivers System, National Trails System, or National Monuments. Nothing in sections 521c to 521i of this title shall authorize sale of Federal lands, within National Recreation Areas.
 
-([Pub. L. 97–465, § 7][/us/pl/97/465/s7], Jan. 12, 1983, [96 Stat. 2536][/us/stat/96/2536].)
+([Pub. L. 97–465][/us/pl/97/465], § 7, Jan. 12, 1983, [96 Stat. 2536][/us/stat/96/2536].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/465/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F465%2Fs7
+[/us/pl/97/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F465
 [/us/stat/96/2536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2536
 
 

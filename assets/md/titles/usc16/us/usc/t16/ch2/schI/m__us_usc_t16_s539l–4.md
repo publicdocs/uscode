@@ -23,7 +23,7 @@
 
         If requested by one or more of the Colorado Counties of Grand, Gilpin, and Boulder, the Secretary shall provide technical assistance and otherwise cooperate with respect to repairing the Rollins Pass road in those counties sufficiently to allow two-wheel-drive vehicles to travel between Colorado State Highway 119 and U.S. Highway 40. If this road is repaired to such extent, the Secretary shall close the motorized roads and trails on Forest Service land indicated on the map entitled “Rollins Pass Road Reopening: Attendant Road and Trail Closures”, dated September 2001.
 
-([Pub. L. 107–216, § 7][/us/pl/107/216/s7], Aug. 21, 2002, [116 Stat. 1060][/us/stat/116/1060].)
+([Pub. L. 107–216][/us/pl/107/216], § 7, Aug. 21, 2002, [116 Stat. 1060][/us/stat/116/1060].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/107/216/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F216%2Fs7
+[/us/pl/107/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F216
 [/us/stat/116/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1060
 [/us/pl/107/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F216
 [/us/stat/116/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1055

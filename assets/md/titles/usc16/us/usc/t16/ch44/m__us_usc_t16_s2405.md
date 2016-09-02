@@ -43,7 +43,7 @@
 
         The regulations to be issued under subsection (a)(1) and (2) of this section shall be issued within 2 years after October 2, 1996. The regulations to be issued under subsection (a)(3) of this section shall be issued within 3 years after October 2, 1996.
 
-([Pub. L. 95–541, § 6][/us/pl/95/541/s6], Oct. 28, 1978, [92 Stat. 2053][/us/stat/92/2053]; [Pub. L. 104–227, title I, § 106][/us/pl/104/227/s106], Oct. 2, 1996, [110 Stat. 3041][/us/stat/110/3041].)
+([Pub. L. 95–541][/us/pl/95/541], § 6, Oct. 28, 1978, [92 Stat. 2053][/us/stat/92/2053]; [Pub. L. 104–227, title I][/us/pl/104/227/tI], § 106, Oct. 2, 1996, [110 Stat. 3041][/us/stat/110/3041].)
 
  __References in Text__ 
 
@@ -66,9 +66,9 @@
 
 [/us/usc/t16/s2403/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2403%2Fb%2F1
 [/us/usc/t33/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1901
-[/us/pl/95/541/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F541%2Fs6
+[/us/pl/95/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F541
 [/us/stat/92/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2053
-[/us/pl/104/227/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2Fs106
+[/us/pl/104/227/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2FtI
 [/us/stat/110/3041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3041
 [/us/pl/96/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F478
 [/us/stat/94/2297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2297

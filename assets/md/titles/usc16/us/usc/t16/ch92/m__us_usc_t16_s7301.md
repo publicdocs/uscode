@@ -37,7 +37,7 @@
 
         (B) the use of forest restoration byproducts can offset treatment costs while benefitting local rural economies and improving forest health.
 
-([Pub. L. 111–11, title IV, § 4001][/us/pl/111/11/s4001], Mar. 30, 2009, [123 Stat. 1141][/us/stat/123/1141].)
+([Pub. L. 111–11, title IV][/us/pl/111/11/tIV], § 4001, Mar. 30, 2009, [123 Stat. 1141][/us/stat/123/1141].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs4001
+[/us/pl/111/11/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtIV
 [/us/stat/123/1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1141
 
 

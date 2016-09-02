@@ -17,7 +17,7 @@
 
     The Secretary shall permit hunting, fishing, and trapping on lands and waters under his jurisdiction within the boundaries of the recreation area in accordance with applicable laws of the United States and the States of Utah and Arizona, except that the Secretary may designate zones where, and establish periods when, no hunting, fishing, or trapping shall be permitted for reasons of public safety, administration, or public use and enjoyment. Except in emergencies, any regulation of the Secretary pursuant to this section shall be put into effect only after consultation with the appropriate State fish and game department.
 
-([Pub. L. 92–593, § 5][/us/pl/92/593/s5], Oct. 27, 1972, [86 Stat. 1312][/us/stat/86/1312].)
+([Pub. L. 92–593][/us/pl/92/593], § 5, Oct. 27, 1972, [86 Stat. 1312][/us/stat/86/1312].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/593/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F593%2Fs5
+[/us/pl/92/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F593
 [/us/stat/86/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1312
 
 

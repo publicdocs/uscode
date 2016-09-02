@@ -35,7 +35,7 @@
 
         In the case of any discrepancy between or among the acreage referred to in subsection (b) and the map described in subsection (b), the map described in subsection (b) shall control any question concerning the boundaries of the Recreation Area.
 
-([Pub. L. 103–63, § 4][/us/pl/103/63/s4], Aug. 4, 1993, [107 Stat. 297][/us/stat/107/297].)
+([Pub. L. 103–63][/us/pl/103/63], § 4, Aug. 4, 1993, [107 Stat. 297][/us/stat/107/297].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/103/63/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F63%2Fs4
+[/us/pl/103/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F63
 [/us/stat/107/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F297
 
 

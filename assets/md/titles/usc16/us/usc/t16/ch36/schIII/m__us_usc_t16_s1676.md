@@ -17,7 +17,7 @@
 
     The Secretary is authorized to issue such rules and regulations as the Secretary deems necessary to implement the provisions of this subchapter and to coordinate this subchapter with title XIV of the Food and Agriculture Act of 1977 \[[7 U.S.C. 3101][/us/usc/t7/s3101] et seq.\].
 
-([Pub. L. 95–306, § 7][/us/pl/95/306/s7], June 30, 1978, [92 Stat. 352][/us/stat/92/352].)
+([Pub. L. 95–306][/us/pl/95/306], § 7, June 30, 1978, [92 Stat. 352][/us/stat/92/352].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t7/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3101
-[/us/pl/95/306/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F306%2Fs7
+[/us/pl/95/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F306
 [/us/stat/92/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F352
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/stat/91/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F913

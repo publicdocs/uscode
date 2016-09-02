@@ -17,7 +17,7 @@
 
     The lands hereinbefore described and the building to be erected thereon shall become a part of the Independence National Historical Park and shall be administered in accordance with the laws and regulations applicable thereto.
 
-([Pub. L. 88–477, § 3][/us/pl/88/477/s3], Aug. 21, 1964, [78 Stat. 587][/us/stat/78/587].)
+([Pub. L. 88–477][/us/pl/88/477], § 3, Aug. 21, 1964, [78 Stat. 587][/us/stat/78/587].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/88/477/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F477%2Fs3
+[/us/pl/88/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F477
 [/us/stat/78/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F587
 [/us/act/1948-06-28/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-28%2Fch687
 [/us/stat/62/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1061

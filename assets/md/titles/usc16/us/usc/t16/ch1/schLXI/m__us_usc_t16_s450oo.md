@@ -33,7 +33,7 @@ grand portage trail section
 
     Establishment of the foregoing areas as the Grand Portage National Monument shall be effective when title to that portion of the aforesaid lands and interests in lands which is held in trust by the United States of America for the Minnesota Chippewa Tribe and the Grand Portage Band of Chippewa Indians, Minnesota, has been relinquished in accordance with section 450oo–1 of this title to the Secretary of the Interior for administration as a part of the Grand Portage National Monument. Notice of the establishment of the monument as authorized and prescribed by sections 450oo to 450oo–10 of this title shall be published in the Federal Register.
 
-([Pub. L. 85–910, § 1][/us/pl/85/910/s1], Sept. 2, 1958, [72 Stat. 1751][/us/stat/72/1751].)
+([Pub. L. 85–910][/us/pl/85/910], § 1, Sept. 2, 1958, [72 Stat. 1751][/us/stat/72/1751].)
 
 ----------
 
@@ -42,7 +42,7 @@ grand portage trail section
 ----------
 ----------
 
-[/us/pl/85/910/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F910%2Fs1
+[/us/pl/85/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F910
 [/us/stat/72/1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1751
 
 

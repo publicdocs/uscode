@@ -47,7 +47,7 @@
 
         (3) criteria for approving applications.
 
-([Pub. L. 113–239, § 4][/us/pl/113/239/s4], Dec. 18, 2014, [128 Stat. 2848][/us/stat/128/2848].)
+([Pub. L. 113–239][/us/pl/113/239], § 4, Dec. 18, 2014, [128 Stat. 2848][/us/stat/128/2848].)
 
 ----------
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/113/239/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F239%2Fs4
+[/us/pl/113/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F239
 [/us/stat/128/2848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2848
 
 

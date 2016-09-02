@@ -21,7 +21,7 @@
 
  __Change of Name__ 
 
-    “Battlefield” substituted in text for “park” in view of redesignation of Fort Donelson National Military Park as Fort Donelson National Battlefield by [Pub. L. 86–738, § 4][/us/pl/86/738/s4], set out as [section 428n of this title][/us/usc/t16/s428n].
+    “Battlefield” substituted in text for “park” in view of redesignation of Fort Donelson National Military Park as Fort Donelson National Battlefield by [Pub. L. 86–738][/us/pl/86/738], § 4, set out as [section 428n of this title][/us/usc/t16/s428n].
 
 ----------
 
@@ -34,7 +34,7 @@
 [/us/usc/t16/s428k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs428k
 [/us/pl/86/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F738
 [/us/stat/74/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F876
-[/us/pl/86/738/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F738%2Fs4
+[/us/pl/86/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F738
 [/us/usc/t16/s428n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs428n
 
 

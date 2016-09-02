@@ -17,7 +17,7 @@
 
     The Secretary of the Interior may do all things and make all expenditures necessary to secure the safe title in the United States to the areas which may be acquired under sections 695 to 695c of this title, including purchase of options when deemed necessary, and expenses incident to the location, examination and survey of such areas and the acquisition of title thereto, but no payments shall be made for any such areas until the title thereto shall be satisfactory to the Attorney General. The acquisition of such areas by the United States shall in no case be defeated because of rights-of-way, easements, exceptions, and reservations which from their nature will, in the opinion of the Secretary of the Interior, in no manner interfere with the use of the areas so encumbered for the purposes of said sections.
 
-([May 18, 1948, ch. 303, § 2][/us/act/1948-05-18/ch303/s2], [62 Stat. 238][/us/stat/62/238].)
+([May 18, 1948, ch. 303][/us/act/1948-05-18/ch303], § 2, [62 Stat. 238][/us/stat/62/238].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1948-05-18/ch303/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-05-18%2Fch303%2Fs2
+[/us/act/1948-05-18/ch303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-05-18%2Fch303
 [/us/stat/62/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F238
 
 

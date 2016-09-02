@@ -59,7 +59,7 @@
 
         The Council shall terminate on the date that is 1 year from the date on which the management plan is adopted by the Secretary.
 
-([Pub. L. 111–11, title II, § 2407][/us/pl/111/11/s2407], Mar. 30, 2009, [123 Stat. 1107][/us/stat/123/1107].)
+([Pub. L. 111–11, title II][/us/pl/111/11/tII], § 2407, Mar. 30, 2009, [123 Stat. 1107][/us/stat/123/1107].)
 
  __References in Text__ 
 
@@ -75,7 +75,7 @@
 ----------
 
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
-[/us/pl/111/11/s2407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs2407
+[/us/pl/111/11/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtII
 [/us/stat/123/1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1107
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

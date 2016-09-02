@@ -17,7 +17,7 @@
 
     In order to encourage unified and cost-effective management and interpretation of natural and cultural resources in the conservation area, the Secretary is authorized and encouraged to enter into cooperative agreements with other Federal, State, and local agencies and nonprofit entities providing for the management and interpretation of natural and cultural resources in the conservation area.
 
-([Pub. L. 101–621, § 8][/us/pl/101/621/s8], Nov. 16, 1990, [104 Stat. 3345][/us/stat/104/3345].)
+([Pub. L. 101–621][/us/pl/101/621], § 8, Nov. 16, 1990, [104 Stat. 3345][/us/stat/104/3345].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/621/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F621%2Fs8
+[/us/pl/101/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F621
 [/us/stat/104/3345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3345
 
 

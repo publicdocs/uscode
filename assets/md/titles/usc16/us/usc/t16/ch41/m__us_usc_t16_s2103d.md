@@ -141,7 +141,7 @@
 
         There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-([Pub. L. 95–313, § 7A][/us/pl/95/313/s7A], as added [Pub. L. 110–234, title VIII, § 8003(b)][/us/pl/110/234/s8003/b], May 22, 2008, [122 Stat. 1281][/us/stat/122/1281], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VIII, § 8003(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2043.)
+([Pub. L. 95–313][/us/pl/95/313], § 7A, as added [Pub. L. 110–234, title VIII][/us/pl/110/234/tVIII], § 8003(b), May 22, 2008, [122 Stat. 1281][/us/stat/122/1281], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VIII, § 8003(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2043.)
 
  __Codification__ 
 
@@ -153,7 +153,7 @@
 
  __Findings__ 
 
-[Pub. L. 110–234, title VIII, § 8003(a)][/us/pl/110/234/s8003/a], May 22, 2008, [122 Stat. 1281][/us/stat/122/1281], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VIII, § 8003(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2043, provided that: 
+[Pub. L. 110–234, title VIII][/us/pl/110/234/tVIII], § 8003(a), May 22, 2008, [122 Stat. 1281][/us/stat/122/1281], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VIII, § 8003(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2043, provided that: 
 
 > “Congress finds that—
 
@@ -183,10 +183,10 @@
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/usc/t26/s170/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs170%2Fh%2F3
 [/us/usc/t26/s170/h/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs170%2Fh%2F4%2FA
-[/us/pl/95/313/s7A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313%2Fs7A
-[/us/pl/110/234/s8003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs8003%2Fb
+[/us/pl/95/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313
+[/us/pl/110/234/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVIII
 [/us/stat/122/1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1281
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -197,9 +197,9 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/110/234/s8003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs8003%2Fa
+[/us/pl/110/234/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVIII
 [/us/stat/122/1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1281
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

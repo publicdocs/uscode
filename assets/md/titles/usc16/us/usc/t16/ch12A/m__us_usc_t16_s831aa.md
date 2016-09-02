@@ -17,7 +17,7 @@
 
     All acts or parts of acts in conflict with this chapter are repealed, so far as they affect the operations contemplated by this chapter.
 
-([May 18, 1933, ch. 32, § 28][/us/act/1933-05-18/ch32/s28], [48 Stat. 71][/us/stat/48/71].)
+([May 18, 1933, ch. 32][/us/act/1933-05-18/ch32], § 28, [48 Stat. 71][/us/stat/48/71].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1933-05-18/ch32/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32%2Fs28
+[/us/act/1933-05-18/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32
 [/us/stat/48/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F71
 
 

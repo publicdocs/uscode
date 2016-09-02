@@ -17,7 +17,7 @@
 
     The Secretary and the chief executive officer of any other appropriate Federal department or agency may loan to any State such personnel and equipment of the department or agency, share such scientific or other appropriate information, and provide such other assistance as the Secretary or officer determines appropriate for purposes of assisting any State to develop or revise conservation plans.
 
-([Pub. L. 96–366, § 9][/us/pl/96/366/s9], Sept. 29, 1980, [94 Stat. 1329][/us/stat/94/1329].)
+([Pub. L. 96–366][/us/pl/96/366], § 9, Sept. 29, 1980, [94 Stat. 1329][/us/stat/94/1329].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/366/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F366%2Fs9
+[/us/pl/96/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F366
 [/us/stat/94/1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1329
 
 

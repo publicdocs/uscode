@@ -31,11 +31,11 @@
 
         Notwithstanding any other provisions of this chapter or any other law, benefits under subchapter III of chapter 83 of title 5 made available by reason of the provisions of this section shall be paid from the civil service retirement and disability fund subject to reimbursement to such fund from the Operations, Research, and Facilities Account of the National Oceanic and Atmospheric Administration in the Department of Commerce, for the purpose of compensating said retirement fund for the cost, as determined by the Director of the Office of Personnel Management during each fiscal year, of benefits provided by this section.
 
-([Pub. L. 89–702, title II, § 208][/us/pl/89/702/s208], Nov. 2, 1966, [80 Stat. 1096][/us/stat/80/1096]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3784][/us/stat/92/3784]; [Pub. L. 98–129, § 2][/us/pl/98/129/s2], Oct. 14, 1983, [97 Stat. 842][/us/stat/97/842].)
+([Pub. L. 89–702, title II][/us/pl/89/702/tII], § 208, Nov. 2, 1966, [80 Stat. 1096][/us/stat/80/1096]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3784][/us/stat/92/3784]; [Pub. L. 98–129][/us/pl/98/129], § 2, Oct. 14, 1983, [97 Stat. 842][/us/stat/97/842].)
 
  __Codification__ 
 
-    “Subchapter III of chapter 83 of title 5” substituted for “the Civil Service Retirement Act, as amended” in subsec. (a) and for “the Civil Service Retirement Act” in subsec. (d), and “[section 8342(h) of title 5][/us/usc/t5/s8342/h]” substituted for “section 11(h) of the Civil Service Retirement Act” in subsec. (c) on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    “Subchapter III of chapter 83 of title 5” substituted for “the Civil Service Retirement Act, as amended” in subsec. (a) and for “the Civil Service Retirement Act” in subsec. (d), and “[section 8342(h) of title 5][/us/usc/t5/s8342/h]” substituted for “section 11(h) of the Civil Service Retirement Act” in subsec. (c) on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
  __Amendments__ 
 
@@ -55,13 +55,13 @@
 ----------
 
 [/us/usc/t5/s8342/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8342%2Fh
-[/us/pl/89/702/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2Fs208
+[/us/pl/89/702/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2FtII
 [/us/stat/80/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1096
 [/us/stat/92/3784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3784
-[/us/pl/98/129/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129%2Fs2
+[/us/pl/98/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129
 [/us/stat/97/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F842
 [/us/usc/t5/s8342/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8342%2Fh
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/pl/98/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129
 [/us/pl/98/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129

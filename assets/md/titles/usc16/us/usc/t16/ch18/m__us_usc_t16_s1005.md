@@ -35,17 +35,17 @@
 
         Prior to any Federal participation in the works of improvement under this chapter, the President shall issue such rules and regulations as he deems necessary or desirable to carry out the purposes of this chapter, and to assure the coordination of the work authorized under this chapter and related work of other agencies, including the Department of the Interior and the Department of the Army.
 
-([Aug. 4, 1954, ch. 656, § 5][/us/act/1954-08-04/ch656/s5], [68 Stat. 667][/us/stat/68/667]; [July 19, 1956, ch. 639][/us/act/1956-07-19/ch639], [70 Stat. 580][/us/stat/70/580]; [Aug. 7, 1956, ch. 1027, § 1(f)][/us/act/1956-08-07/ch1027/s1/f], [70 Stat. 1089][/us/stat/70/1089]; [Pub. L. 87–703, title I, § 105][/us/pl/87/703/s105], Sept. 27, 1962, [76 Stat. 609][/us/stat/76/609]; [Pub. L. 90–361][/us/pl/90/361], June 27, 1968, [82 Stat. 250][/us/stat/82/250]; [Pub. L. 92–419, title II, § 201(g)][/us/pl/92/419/s201/g], Aug. 30, 1972, [86 Stat. 669][/us/stat/86/669]; [Pub. L. 95–113, title XV, § 1506(b)][/us/pl/95/113/s1506/b], (c), Sept. 29, 1977, [91 Stat. 1022][/us/stat/91/1022]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 97–98, title XV, § 1512(e)][/us/pl/97/98/s1512/e], (f), Dec. 22, 1981, [95 Stat. 1333][/us/stat/95/1333].)
+([Aug. 4, 1954, ch. 656][/us/act/1954-08-04/ch656], § 5, [68 Stat. 667][/us/stat/68/667]; [July 19, 1956, ch. 639][/us/act/1956-07-19/ch639], [70 Stat. 580][/us/stat/70/580]; [Aug. 7, 1956, ch. 1027][/us/act/1956-08-07/ch1027], § 1(f), [70 Stat. 1089][/us/stat/70/1089]; [Pub. L. 87–703, title I][/us/pl/87/703/tI], § 105, Sept. 27, 1962, [76 Stat. 609][/us/stat/76/609]; [Pub. L. 90–361][/us/pl/90/361], June 27, 1968, [82 Stat. 250][/us/stat/82/250]; [Pub. L. 92–419, title II][/us/pl/92/419/tII], § 201(g), Aug. 30, 1972, [86 Stat. 669][/us/stat/86/669]; [Pub. L. 95–113, title XV][/us/pl/95/113/tXV], § 1506(b), (c), Sept. 29, 1977, [91 Stat. 1022][/us/stat/91/1022]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 97–98, title XV][/us/pl/97/98/tXV], § 1512(e), (f), Dec. 22, 1981, [95 Stat. 1333][/us/stat/95/1333].)
 
  __Amendments__ 
 
-    1981—Subd. (3). [Pub. L. 97–98, § 1512(e)][/us/pl/97/98/s1512/e], substituted “$5,000,000” for “$1,000,000”.
+    1981—Subd. (3). [Pub. L. 97–98][/us/pl/97/98], § 1512(e), substituted “$5,000,000” for “$1,000,000”.
 
-    Subd. (4). [Pub. L. 97–98, § 1512(f)][/us/pl/97/98/s1512/f], substituted “$5,000,000” for “$1,000,000”.
+    Subd. (4). [Pub. L. 97–98][/us/pl/97/98], § 1512(f), substituted “$5,000,000” for “$1,000,000”.
 
-    1977—Subd. (3). [Pub. L. 95–113, § 1506(b)][/us/pl/95/113/s1506/b], substituted “$1,000,000” for “$250,000”.
+    1977—Subd. (3). [Pub. L. 95–113][/us/pl/95/113], § 1506(b), substituted “$1,000,000” for “$250,000”.
 
-    Subd. (4). [Pub. L. 95–113, § 1506(c)][/us/pl/95/113/s1506/c], substituted “$1,000,000” for “$250,000”.
+    Subd. (4). [Pub. L. 95–113][/us/pl/95/113], § 1506(c), substituted “$1,000,000” for “$250,000”.
 
     1972—Subd. (4). [Pub. L. 92–419][/us/pl/92/419] substituted in item (a) “works of improvement for reclamation or irrigation” for “reclamation or irrigation works”, in item (b) “goodwater” for “floodwater”, added items (c) and (d), required submission of plans to Secretary of Health, Education, and Welfare, or the Administrator of the Environmental Protection Agency and transmittal of views and recommendations of such officials to the Congress.
 
@@ -169,28 +169,28 @@ Sec. 2. General administration. The Secretary of Agriculture shall have the foll
 ----------
 
 [/us/usc/t16/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1004
-[/us/act/1954-08-04/ch656/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-04%2Fch656%2Fs5
+[/us/act/1954-08-04/ch656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-04%2Fch656
 [/us/stat/68/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F667
 [/us/act/1956-07-19/ch639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-19%2Fch639
 [/us/stat/70/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F580
-[/us/act/1956-08-07/ch1027/s1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1027%2Fs1%2Ff
+[/us/act/1956-08-07/ch1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1027
 [/us/stat/70/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1089
-[/us/pl/87/703/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs105
+[/us/pl/87/703/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtI
 [/us/stat/76/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F609
 [/us/pl/90/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F361
 [/us/stat/82/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F250
-[/us/pl/92/419/s201/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs201%2Fg
+[/us/pl/92/419/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2FtII
 [/us/stat/86/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F669
-[/us/pl/95/113/s1506/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1506%2Fb
+[/us/pl/95/113/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXV
 [/us/stat/91/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1022
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/97/98/s1512/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1512%2Fe
+[/us/pl/97/98/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXV
 [/us/stat/95/1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1333
-[/us/pl/97/98/s1512/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1512%2Fe
-[/us/pl/97/98/s1512/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1512%2Ff
-[/us/pl/95/113/s1506/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1506%2Fb
-[/us/pl/95/113/s1506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1506%2Fc
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
+[/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/pl/92/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419
 [/us/pl/90/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F361
 [/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703

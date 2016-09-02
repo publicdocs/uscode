@@ -17,7 +17,7 @@
 
     Congress finds that there is a need to study the effect of this Act upon the ability of the Government of Canada to obtain access in the Stikine River region of southeast Alaska. Accordingly, within five years from December 2, 1980, the President shall consult with the Government of Canada and shall submit a report to the Congress containing his findings and recommendations concerning the need, if any, to provide for such access. Such report shall include, among other things, an analysis of the need for access and the social, environmental and economic impacts which may result from various forms of access including, but not limited to, a road along the Stikine and Iskut Rivers, or other alternative routes, should such access be permitted.
 
-([Pub. L. 96–487, title XI, § 1113][/us/pl/96/487/s1113], Dec. 2, 1980, [94 Stat. 2466][/us/stat/94/2466].)
+([Pub. L. 96–487, title XI][/us/pl/96/487/tXI], § 1113, Dec. 2, 1980, [94 Stat. 2466][/us/stat/94/2466].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/96/487/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1113
+[/us/pl/96/487/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXI
 [/us/stat/94/2466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2466
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2466

@@ -41,7 +41,7 @@
 
         (2) the necessary travel expenses of such individuals.
 
-([Pub. L. 109–479, title VI, § 609][/us/pl/109/479/s609], Jan. 12, 2007, [120 Stat. 3647][/us/stat/120/3647]; [Pub. L. 111–348, title III, § 302(b)][/us/pl/111/348/s302/b], Jan. 4, 2011, [124 Stat. 3672][/us/stat/124/3672].)
+([Pub. L. 109–479, title VI][/us/pl/109/479/tVI], § 609, Jan. 12, 2007, [120 Stat. 3647][/us/stat/120/3647]; [Pub. L. 111–348, title III][/us/pl/111/348/tIII], § 302(b), Jan. 4, 2011, [124 Stat. 3672][/us/stat/124/3672].)
 
  __Amendments__ 
 
@@ -64,9 +64,9 @@
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t16/s7003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7003%2Fc
 [/us/usc/t16/s7004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7004%2Fb
-[/us/pl/109/479/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs609
+[/us/pl/109/479/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtVI
 [/us/stat/120/3647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3647
-[/us/pl/111/348/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F348%2Fs302%2Fb
+[/us/pl/111/348/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F348%2FtIII
 [/us/stat/124/3672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3672
 [/us/pl/111/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F348
 

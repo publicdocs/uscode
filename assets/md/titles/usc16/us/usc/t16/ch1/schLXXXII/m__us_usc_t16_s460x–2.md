@@ -45,7 +45,7 @@
 
         Not later than one hundred and fifty days after October 21, 1970, the Secretary shall notify owners of real property in categories II and III, other than property designated by him for fee acquisition, of the minimum restrictions on use and development of such property under which such property can be retained in a manner compatible with the purpose for which the lakeshore was established. If the owner of any real property in categories II and III agrees to the use and development of his property in accordance with such restrictions, the Secretary may not acquire, without the consent of such owner, such property or interests therein for so long as the property affected is used in accordance with such restrictions, unless he determines that such property is needed for public use development. The foregoing limitations on acquisition shall also apply to any owners of real property to whom the Secretary did not, within the time set forth, give such a notice, except that if any property owner has not, within ninety days of the notice agreed to use the property in accordance with the notice, then the Secretary may acquire, without limitation, fee or lesser interests in property by any of the methods set forth in [section 460x–7 of this title][/us/usc/t16/s460x–7]: Provided, That nothing contained in subsections (d) and (e), and in this subsection, which limits the acquisition of the fee simple title to property within the lakeshore, shall prevent the Secretary from acquiring, without the consent of the owner, the fee simple title whenever in the Secretary’s judgment the estimated cost of acquiring the lesser interest would be a substantial percentage of the estimated cost of acquiring the fee simple title.
 
-([Pub. L. 91–479, § 3][/us/pl/91/479/s3], Oct. 21, 1970, [84 Stat. 1075][/us/stat/84/1075].)
+([Pub. L. 91–479][/us/pl/91/479], § 3, Oct. 21, 1970, [84 Stat. 1075][/us/stat/84/1075].)
 
 ----------
 
@@ -57,7 +57,7 @@
 [/us/usc/t16/s460x–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460x%E2%80%937
 [/us/usc/t16/s460x–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460x%E2%80%937
 [/us/usc/t16/s460x–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460x%E2%80%937
-[/us/pl/91/479/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F479%2Fs3
+[/us/pl/91/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F479
 [/us/stat/84/1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1075
 
 

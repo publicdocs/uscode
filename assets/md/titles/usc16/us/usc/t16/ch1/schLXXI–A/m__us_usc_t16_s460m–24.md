@@ -17,7 +17,7 @@
 
     For the purposes of part C of the Clean Air Act \[[42 U.S.C. 7470][/us/usc/t42/s7470] et seq.\], the State may redes­ignate the national river only as class I or class II.
 
-([Pub. L. 95–625, title XI, § 1111][/us/pl/95/625/s1111], Nov. 10, 1978, [92 Stat. 3548][/us/stat/92/3548].)
+([Pub. L. 95–625, title XI][/us/pl/95/625/tXI], § 1111, Nov. 10, 1978, [92 Stat. 3548][/us/stat/92/3548].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s7470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7470
-[/us/pl/95/625/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs1111
+[/us/pl/95/625/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtXI
 [/us/stat/92/3548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3548
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/pl/88/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F206

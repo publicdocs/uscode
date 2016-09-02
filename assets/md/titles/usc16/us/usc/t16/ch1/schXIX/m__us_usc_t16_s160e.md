@@ -17,7 +17,7 @@
 
     The Secretary is authorized to pay a differential in value, as hereinafter set forth, to any owner of commercial timberlands within the park with whom the State of Minnesota has negotiated, for the purpose of conveyance to the United States, an exchange of lands for State lands outside the park. Payment hereunder may be made when an exchange is based upon valuations for timber purposes only, and shall be the difference between the value of such lands for timber purposes, as agreeable to the State, the Secretary, and any owner, and the higher value, if any, of such lands for recreational purposes not attributable to establishment or authorization of the park: Provided, That any payment shall be made only at such time as fee title of lands so acquired within the boundaries is conveyed to the United States.
 
-([Pub. L. 91–661, § 204][/us/pl/91/661/s204], Jan. 8, 1971, [84 Stat. 1972][/us/stat/84/1972].)
+([Pub. L. 91–661][/us/pl/91/661], § 204, Jan. 8, 1971, [84 Stat. 1972][/us/stat/84/1972].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/661/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F661%2Fs204
+[/us/pl/91/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F661
 [/us/stat/84/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1972
 
 

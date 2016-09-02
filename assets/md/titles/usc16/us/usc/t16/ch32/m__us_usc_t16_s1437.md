@@ -139,7 +139,7 @@
 
         In any action by the United States under this chapter, process may be served in any district where the defendant is found, resides, transacts business, or has appointed an agent for the service of process.
 
-([Pub. L. 92–532, title III, § 307][/us/pl/92/532/s307], as added [Pub. L. 98–498, title I, § 102][/us/pl/98/498/s102], Oct. 19, 1984, [98 Stat. 2302][/us/stat/98/2302]; amended [Pub. L. 100–627, title II, § 207][/us/pl/100/627/s207], Nov. 7, 1988, [102 Stat. 3219][/us/stat/102/3219]; [Pub. L. 102–587, title II, § 2107(a)][/us/pl/102/587/s2107/a]–(c), (e), Nov. 4, 1992, [106 Stat. 5043][/us/stat/106/5043], 5044; [Pub. L. 104–283, § 9(c)][/us/pl/104/283/s9/c], Oct. 11, 1996, [110 Stat. 3367][/us/stat/110/3367]; [Pub. L. 106–513, § 8][/us/pl/106/513/s8], Nov. 13, 2000, [114 Stat. 2387][/us/stat/114/2387].)
+([Pub. L. 92–532, title III][/us/pl/92/532/tIII], § 307, as added [Pub. L. 98–498, title I][/us/pl/98/498/tI], § 102, Oct. 19, 1984, [98 Stat. 2302][/us/stat/98/2302]; amended [Pub. L. 100–627, title II][/us/pl/100/627/tII], § 207, Nov. 7, 1988, [102 Stat. 3219][/us/stat/102/3219]; [Pub. L. 102–587, title II][/us/pl/102/587/tII], § 2107(a)–(c), (e), Nov. 4, 1992, [106 Stat. 5043][/us/stat/106/5043], 5044; [Pub. L. 104–283][/us/pl/104/283], § 9(c), Oct. 11, 1996, [110 Stat. 3367][/us/stat/110/3367]; [Pub. L. 106–513][/us/pl/106/513], § 8, Nov. 13, 2000, [114 Stat. 2387][/us/stat/114/2387].)
 
  __References in Text__ 
 
@@ -147,31 +147,31 @@
 
  __Amendments__ 
 
-    2000—Subsec. (b)(6). [Pub. L. 106–513, § 8(a)][/us/pl/106/513/s8/a], added par. (6).
+    2000—Subsec. (b)(6). [Pub. L. 106–513][/us/pl/106/513], § 8(a), added par. (6).
 
-    Subsecs. (c) to (f). [Pub. L. 106–513, § 8(b)][/us/pl/106/513/s8/b], added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively. Former subsec. (f) redesignated (g).
+    Subsecs. (c) to (f). [Pub. L. 106–513][/us/pl/106/513], § 8(b), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively. Former subsec. (f) redesignated (g).
 
-    Subsec. (g). [Pub. L. 106–513, § 8(b)][/us/pl/106/513/s8/b], (c), redesignated subsec. (f) as (g) and inserted “electronic files,” after “books,”. Former subsec. (g) redesignated (h).
+    Subsec. (g). [Pub. L. 106–513][/us/pl/106/513], § 8(b), (c), redesignated subsec. (f) as (g) and inserted “electronic files,” after “books,”. Former subsec. (g) redesignated (h).
 
-    Subsecs. (h) to (k). [Pub. L. 106–513, § 8(b)][/us/pl/106/513/s8/b], redesignated subsecs. (g) to (j) as (h) to (k), respectively.
+    Subsecs. (h) to (k). [Pub. L. 106–513][/us/pl/106/513], § 8(b), redesignated subsecs. (g) to (j) as (h) to (k), respectively.
 
-    Subsec. (l). [Pub. L. 106–513, § 8(c)][/us/pl/106/513/s8/c], added subsec. (l).
+    Subsec. (l). [Pub. L. 106–513][/us/pl/106/513], § 8(c), added subsec. (l).
 
     1996—Subsec. (e)(1)(A). [Pub. L. 104–283][/us/pl/104/283] made technical amendment to reference in original act which appears in text as reference to [section 9607(f)(1) of title 42][/us/usc/t42/s9607/f/1].
 
-    1992—Subsec. (c)(1). [Pub. L. 102–587, § 2107(a)(1)][/us/pl/102/587/s2107/a/1], substituted “$100,000” for “$50,000”.
+    1992—Subsec. (c)(1). [Pub. L. 102–587][/us/pl/102/587], § 2107(a)(1), substituted “$100,000” for “$50,000”.
 
-    Subsec. (c)(3). [Pub. L. 102–587, § 2107(a)(2)][/us/pl/102/587/s2107/a/2], struck out “and may be proceeded against in any district court of the United States having jurisdiction” after “assessed for such violation” and inserted at end “Such penalty shall constitute a maritime lien on the vessel and may be recovered in an action in rem in the district court of the United States having jurisdiction over the vessel.”
+    Subsec. (c)(3). [Pub. L. 102–587][/us/pl/102/587], § 2107(a)(2), struck out “and may be proceeded against in any district court of the United States having jurisdiction” after “assessed for such violation” and inserted at end “Such penalty shall constitute a maritime lien on the vessel and may be recovered in an action in rem in the district court of the United States having jurisdiction over the vessel.”
 
-    Subsec. (d)(1). [Pub. L. 102–587, § 2107(b)][/us/pl/102/587/s2107/b], inserted at end “The proceeds from forfeiture actions under this subsection shall constitute a separate recovery in addition to any amounts recovered as civil penalties under this section or as civil damages under [section 1443 of this title][/us/usc/t16/s1443]. None of those proceeds shall be subject to set-off.”
+    Subsec. (d)(1). [Pub. L. 102–587][/us/pl/102/587], § 2107(b), inserted at end “The proceeds from forfeiture actions under this subsection shall constitute a separate recovery in addition to any amounts recovered as civil penalties under this section or as civil damages under [section 1443 of this title][/us/usc/t16/s1443]. None of those proceeds shall be subject to set-off.”
 
-    Subsec. (e)(1). [Pub. L. 102–587, § 2107(c)][/us/pl/102/587/s2107/c], added par. (1) and struck out former par. (1) which read as follows: “In general.—Notwithstanding any other law, the Secretary may use amounts received under this section in the form of civil penalties, forfeitures of property, and costs imposed under paragraph (2) to pay—
+    Subsec. (e)(1). [Pub. L. 102–587][/us/pl/102/587], § 2107(c), added par. (1) and struck out former par. (1) which read as follows: “In general.—Notwithstanding any other law, the Secretary may use amounts received under this section in the form of civil penalties, forfeitures of property, and costs imposed under paragraph (2) to pay—
 
     “(A) the reasonable and necessary costs incurred by the Secretary in providing temporary storage, care, and maintenance of any sanctuary resource or other property seized under this section pending disposition of any civil proceeding relating to any alleged violation with respect to which such property or sanctuary resource was seized; and
 
     “(B) a reward to any person who furnishes information leading to an assessment of a civil penalty, or to a forfeiture of property, for a violation of this chapter or of any regulation or permit issued under this chapter.”
 
-    Subsec. (j). [Pub. L. 102–587, § 2107(e)][/us/pl/102/587/s2107/e], added subsec. (j).
+    Subsec. (j). [Pub. L. 102–587][/us/pl/102/587], § 2107(e), added subsec. (j).
 
     1988—[Pub. L. 100–627][/us/pl/100/627] amended section generally, substituting provisions consisting of subsecs. (a) to (i) relating to enforcement activities in general, powers of authorized officers, civil penalties, forfeiture, payment of storage, care, and other costs, subpoenas, use of resources of State and other Federal agencies, Coast Guard authority, and injunctive relief for former provisions consisting of subsecs. (a) to (c) relating to enforcement activities in general, civil penalties, and jurisdiction.
 
@@ -181,7 +181,7 @@
 
  __Study of Joint Enforcement of Marine Sanctuary Regulations__ 
 
-    [Pub. L. 102–241, § 51][/us/pl/102/241/s51], Dec. 19, 1991, [105 Stat. 2227][/us/stat/105/2227], directed Secretary of Transportation and Secretary of Commerce, not later than one year after Dec. 19, 1991, to submit to Congress a joint report describing methods by which Coast Guard enforcement efforts under the Marine Protection, Research, and Sanctuaries Act of 1972 ([16 U.S.C. 1431][/us/usc/t16/s1431] et seq., 1447 et seq., [33 U.S.C. 1401][/us/usc/t33/s1401] et seq., 2801 et seq.) could be enhanced and coordinated with those of the National Oceanic and Atmospheric Administration.
+    [Pub. L. 102–241][/us/pl/102/241], § 51, Dec. 19, 1991, [105 Stat. 2227][/us/stat/105/2227], directed Secretary of Transportation and Secretary of Commerce, not later than one year after Dec. 19, 1991, to submit to Congress a joint report describing methods by which Coast Guard enforcement efforts under the Marine Protection, Research, and Sanctuaries Act of 1972 ([16 U.S.C. 1431][/us/usc/t16/s1431] et seq., 1447 et seq., [33 U.S.C. 1401][/us/usc/t33/s1401] et seq., 2801 et seq.) could be enhanced and coordinated with those of the National Oceanic and Atmospheric Administration.
 
 ----------
 
@@ -197,34 +197,34 @@
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
 [/us/usc/t14/s89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs89
 [/us/usc/t16/s1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1443
-[/us/pl/92/532/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs307
-[/us/pl/98/498/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2Fs102
+[/us/pl/92/532/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2FtIII
+[/us/pl/98/498/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2FtI
 [/us/stat/98/2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2302
-[/us/pl/100/627/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F627%2Fs207
+[/us/pl/100/627/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F627%2FtII
 [/us/stat/102/3219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3219
-[/us/pl/102/587/s2107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2107%2Fa
+[/us/pl/102/587/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtII
 [/us/stat/106/5043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5043
-[/us/pl/104/283/s9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283%2Fs9%2Fc
+[/us/pl/104/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283
 [/us/stat/110/3367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3367
-[/us/pl/106/513/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513%2Fs8
+[/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
 [/us/stat/114/2387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2387
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
-[/us/pl/106/513/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513%2Fs8%2Fa
-[/us/pl/106/513/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513%2Fs8%2Fb
-[/us/pl/106/513/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513%2Fs8%2Fb
-[/us/pl/106/513/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513%2Fs8%2Fb
-[/us/pl/106/513/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513%2Fs8%2Fc
+[/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
+[/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
+[/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
+[/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
+[/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
 [/us/pl/104/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283
 [/us/usc/t42/s9607/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9607%2Ff%2F1
-[/us/pl/102/587/s2107/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2107%2Fa%2F1
-[/us/pl/102/587/s2107/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2107%2Fa%2F2
-[/us/pl/102/587/s2107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2107%2Fb
+[/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
+[/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
+[/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
 [/us/usc/t16/s1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1443
-[/us/pl/102/587/s2107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2107%2Fc
-[/us/pl/102/587/s2107/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2107%2Fe
+[/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
+[/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
 [/us/pl/100/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F627
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/102/241/s51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F241%2Fs51
+[/us/pl/102/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F241
 [/us/stat/105/2227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2227
 [/us/usc/t16/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1431
 [/us/usc/t33/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1401

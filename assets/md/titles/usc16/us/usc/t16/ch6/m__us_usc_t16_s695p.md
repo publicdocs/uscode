@@ -17,7 +17,7 @@
 
     In carrying out the obligations of the United States under any migratory bird treaty, the Migratory Bird Treaty Act ([40 Stat. 755][/us/stat/40/755]), as amended \[[16 U.S.C. 703][/us/usc/t16/s703] et seq.\], or the Migratory Bird Conservation Act ([45 Stat. 1222][/us/stat/45/1222]), as amended \[[16 U.S.C. 715][/us/usc/t16/s715] et seq.\], waters under the control of the Secretary of the Interior shall be regulated, subject to valid existing rights, to maintain sump levels in the Tule Lake National Wildlife Refuge at levels established by regulations issued by the Secretary pursuant to the contract between the United States and the Tulelake Irrigation District, dated September 10, 1956, or any amendment thereof. Such regulations shall accommodate to the maximum extent practicable waterfowl management needs.
 
-([Pub. L. 88–567, § 6][/us/pl/88/567/s6], Sept. 2, 1964, [78 Stat. 851][/us/stat/78/851].)
+([Pub. L. 88–567][/us/pl/88/567], § 6, Sept. 2, 1964, [78 Stat. 851][/us/stat/78/851].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 [/us/usc/t16/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs703
 [/us/stat/45/1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1222
 [/us/usc/t16/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs715
-[/us/pl/88/567/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F567%2Fs6
+[/us/pl/88/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F567
 [/us/stat/78/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F851
 [/us/stat/40/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F755
 [/us/act/1918-07-03/ch128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-07-03%2Fch128

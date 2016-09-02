@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch5A/schIII/m__us_usc_t16_s668dd.md) | [Next](./../../../../..//us/usc/t16/ch5B/m__us_usc_t16_ch5B.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668ee)
+[Previous](./../../../../..//us/usc/t16/ch5A/schIII/m__us_usc_t16_s668dd.md) | [Next](./../../../../..//us/usc/t16/ch5A/schIII/m__us_usc_t16_s668ff...668jj.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668ee)
 
 ## § 668ee. Definitions
 
@@ -53,7 +53,7 @@
 
     (15) The terms “take”, “taking”, and “taken” mean to pursue, hunt, shoot, capture, collect, or kill, or to attempt to pursue, hunt, shoot, capture, collect, or kill.
 
-([Pub. L. 89–669, § 5][/us/pl/89/669/s5], Oct. 15, 1966, [80 Stat. 929][/us/stat/80/929]; [Pub. L. 105–57, § 3(a)][/us/pl/105/57/s3/a], Oct. 9, 1997, [111 Stat. 1253][/us/stat/111/1253].)
+([Pub. L. 89–669][/us/pl/89/669], § 5, Oct. 15, 1966, [80 Stat. 929][/us/stat/80/929]; [Pub. L. 105–57][/us/pl/105/57], § 3(a), Oct. 9, 1997, [111 Stat. 1253][/us/stat/111/1253].)
 
  __References in Text__ 
 
@@ -71,17 +71,9 @@
 
     “(c) The terms ‘State’ and the ‘United States’ as used in this Act mean the several States of the United States, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, and Guam.”
 
-§§ 668ff to 668jj. __Omitted__ 
-
-    Sections, [Pub. L. 92–330][/us/pl/92/330], June 30, 1972, [86 Stat. 399][/us/stat/86/399], which established San Francisco Bay National Wildlife Refuge to be administered by Secretary of the Interior in accordance with the National Wildlife Refuge System Administration Act, have been omitted because of the limited scope of the subject matter. The San Francisco Bay National Wildlife Refuge \[now Don Edwards San Francisco Bay National Wildlife Refuge\] has been set out in the table of National Wildlife Refuges under [section 668dd of this title][/us/usc/t16/s668dd].
-
-§§ 668kk to 668ss. __Omitted__ 
-
-    Sections, [Pub. L. 94–466][/us/pl/94/466], Oct. 8, 1976, [90 Stat. 1992][/us/stat/90/1992], which established Minnesota Valley National Wildlife Refuge to be administered by Secretary of the Interior in accordance with the National Wildlife Refuge System Administration Act, have been omitted because of the limited scope of the subject matter. The Minnesota National Wildlife Refuge has been set out in the table of National Wildlife Refuges under [section 668dd of this title][/us/usc/t16/s668dd].
-
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch5A/schIII/m__us_usc_t16_s668dd.md) | [Next](./../../../../..//us/usc/t16/ch5B/m__us_usc_t16_ch5B.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668ee)
+[Previous](./../../../../..//us/usc/t16/ch5A/schIII/m__us_usc_t16_s668dd.md) | [Next](./../../../../..//us/usc/t16/ch5A/schIII/m__us_usc_t16_s668ff...668jj.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668ee)
 
 ----------
 ----------
@@ -90,9 +82,9 @@
 [/us/stat/50/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F525
 [/us/usc/t7/s1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1010
 [/us/usc/t16/s668dd/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd%2Fa%2F1
-[/us/pl/89/669/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F669%2Fs5
+[/us/pl/89/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F669
 [/us/stat/80/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F929
-[/us/pl/105/57/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57%2Fs3%2Fa
+[/us/pl/105/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57
 [/us/stat/111/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1253
 [/us/pl/89/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F669
 [/us/stat/80/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F927
@@ -100,11 +92,5 @@
 [/us/stat/50/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F522
 [/us/usc/t7/s1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1000
 [/us/pl/105/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57
-[/us/pl/92/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F330
-[/us/stat/86/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F399
-[/us/usc/t16/s668dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd
-[/us/pl/94/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F466
-[/us/stat/90/1992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1992
-[/us/usc/t16/s668dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd
 
 

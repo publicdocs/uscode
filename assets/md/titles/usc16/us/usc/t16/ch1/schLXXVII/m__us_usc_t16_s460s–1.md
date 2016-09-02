@@ -17,7 +17,7 @@
 
     The area comprising that particular land and water depicted on the map identified as “Proposed Pictured Rocks National Lakeshore, United States Department of the Interior, National Park Service, Boundary Map, NL–PR–7100A, July 1966”, which is on file and available for public inspection in the office of the National Park Service of the Department of the Interior, is hereby designated for establishment as the Pictured Rocks National Lakeshore. An exact copy of such map shall be filed for publication in the Federal Register within thirty days following October 15, 1966.
 
-([Pub. L. 89–668, § 2][/us/pl/89/668/s2], Oct. 15, 1966, [80 Stat. 922][/us/stat/80/922].)
+([Pub. L. 89–668][/us/pl/89/668], § 2, Oct. 15, 1966, [80 Stat. 922][/us/stat/80/922].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/668/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F668%2Fs2
+[/us/pl/89/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F668
 [/us/stat/80/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F922
 
 

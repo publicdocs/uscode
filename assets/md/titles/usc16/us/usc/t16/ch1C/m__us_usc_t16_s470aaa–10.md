@@ -29,7 +29,7 @@
 
     (6) create any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in that capacity. No person who is not an officer or employee of the United States acting in that capacity shall have standing to file any civil action in a court of the United States to enforce any provision or amendment made by this chapter.
 
-([Pub. L. 111–11, title VI, § 6311][/us/pl/111/11/s6311], Mar. 30, 2009, [123 Stat. 1177][/us/stat/123/1177]; [Pub. L. 113–287, § 5(d)(9)][/us/pl/113/287/s5/d/9], Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265].)
+([Pub. L. 111–11, title VI][/us/pl/111/11/tVI], § 6311, Mar. 30, 2009, [123 Stat. 1177][/us/stat/123/1177]; [Pub. L. 113–287][/us/pl/113/287], § 5(d)(9), Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265].)
 
  __References in Text__ 
 
@@ -54,9 +54,9 @@
 [/us/usc/t30/s1201–135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1201%E2%80%93135
 [/us/usc/t30/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1201
 [/us/usc/t16/s478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs478
-[/us/pl/111/11/s6311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs6311
+[/us/pl/111/11/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVI
 [/us/stat/123/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1177
-[/us/pl/113/287/s5/d/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F9
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3265
 [/us/usc/t43/s1701–178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701%E2%80%93178
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579

@@ -63,13 +63,13 @@
 
             (ii) during the period of such appointment, and the further period of two years after the termination thereof, to the prosecution or participation in the prosecution, by any person so appointed, of any claim against the Government involving any matter concerning which the appointee had any responsibility arising out of his appointment during the period of such appointment.
 
-([Pub. L. 87–126, § 8][/us/pl/87/126/s8], Aug. 7, 1961, [75 Stat. 292][/us/stat/75/292]; [Pub. L. 99–420, title II, § 201][/us/pl/99/420/s201], Sept. 25, 1986, [100 Stat. 960][/us/stat/100/960]; [Pub. L. 105–280, § 1(b)][/us/pl/105/280/s1/b], Oct. 26, 1998, [112 Stat. 2694][/us/stat/112/2694]; [Pub. L. 111–11, title VII, § 7402][/us/pl/111/11/s7402], Mar. 30, 2009, [123 Stat. 1219][/us/stat/123/1219].)
+([Pub. L. 87–126][/us/pl/87/126], § 8, Aug. 7, 1961, [75 Stat. 292][/us/stat/75/292]; [Pub. L. 99–420, title II][/us/pl/99/420/tII], § 201, Sept. 25, 1986, [100 Stat. 960][/us/stat/100/960]; [Pub. L. 105–280][/us/pl/105/280], § 1(b), Oct. 26, 1998, [112 Stat. 2694][/us/stat/112/2694]; [Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7402, Mar. 30, 2009, [123 Stat. 1219][/us/stat/123/1219].)
 
  __References in Text__ 
 
-    Sections 281, 283, 284, and 1914 of title 18, referred to in subsec. (h)(1), were repealed by [Pub. L. 87–849, § 2][/us/pl/87/849/s2], Oct. 23, 1962, [76 Stat. 1126][/us/stat/76/1126], “except as they \[sections 281 and 283\] may apply to retired officers of the armed forces of the United States”, and were supplanted by sections 203, 205, 207, and 209, respectively, of Title 18, Crimes and Criminal Procedure. For further details, see Exemptions note set out under [section 203 of Title 18][/us/usc/t18/s203].
+    Sections 281, 283, 284, and 1914 of title 18, referred to in subsec. (h)(1), were repealed by [Pub. L. 87–849][/us/pl/87/849], § 2, Oct. 23, 1962, [76 Stat. 1126][/us/stat/76/1126], “except as they \[sections 281 and 283\] may apply to retired officers of the armed forces of the United States”, and were supplanted by sections 203, 205, 207, and 209, respectively, of Title 18, Crimes and Criminal Procedure. For further details, see Exemptions note set out under [section 203 of Title 18][/us/usc/t18/s203].
 
-    Section 190 of the Revised Statutes ([5 U.S.C. 99][/us/usc/t5/s99]), referred to in subsec. (h)(1), was repealed by [Pub. L. 87–849, § 3][/us/pl/87/849/s3], Oct. 23, 1962, [76 Stat. 1126][/us/stat/76/1126]. See [section 207 of Title 18][/us/usc/t18/s207].
+    Section 190 of the Revised Statutes ([5 U.S.C. 99][/us/usc/t5/s99]), referred to in subsec. (h)(1), was repealed by [Pub. L. 87–849][/us/pl/87/849], § 3, Oct. 23, 1962, [76 Stat. 1126][/us/stat/76/1126]. See [section 207 of Title 18][/us/usc/t18/s207].
 
  __Amendments__ 
 
@@ -81,11 +81,11 @@
 
  __Effective Date of 2009 Amendment__ 
 
-    [Pub. L. 111–11, title VII, § 7402][/us/pl/111/11/s7402], Mar. 30, 2009, [123 Stat. 1219][/us/stat/123/1219], provided that the amendment made by section 7402 is effective Sept. 26, 2008.
+    [Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7402, Mar. 30, 2009, [123 Stat. 1219][/us/stat/123/1219], provided that the amendment made by section 7402 is effective Sept. 26, 2008.
 
  __Reestablishment and Extension of Commission__ 
 
-[Pub. L. 99–349, title I][/us/pl/99/349], July 2, 1986, [100 Stat. 731][/us/stat/100/731], provided: 
+[Pub. L. 99–349, title I][/us/pl/99/349/tI], July 2, 1986, [100 Stat. 731][/us/stat/100/731], provided: 
 
 > “That the Cape Cod National Seashore Advisory Commission established under [section 8(a) of the Act of August 7, 1961][/us/act/1961-08-07/s8/a] ([Public Law 87–126][/us/pl/87/126]; [75 Stat. 292][/us/stat/75/292]) \[[16 U.S.C. 459b–7(a)][/us/usc/t16/s459b–7/a]\] is reestablished and extended through February 28, 1996”.
 
@@ -98,28 +98,28 @@
 
 [/us/usc/t16/s459b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459b
 [/us/usc/t5/s99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs99
-[/us/pl/87/126/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F126%2Fs8
+[/us/pl/87/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F126
 [/us/stat/75/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F292
-[/us/pl/99/420/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F420%2Fs201
+[/us/pl/99/420/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F420%2FtII
 [/us/stat/100/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F960
-[/us/pl/105/280/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F280%2Fs1%2Fb
+[/us/pl/105/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F280
 [/us/stat/112/2694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2694
-[/us/pl/111/11/s7402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7402
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1219
-[/us/pl/87/849/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849%2Fs2
+[/us/pl/87/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849
 [/us/stat/76/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1126
 [/us/usc/t18/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs203
 [/us/usc/t5/s99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs99
-[/us/pl/87/849/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849%2Fs3
+[/us/pl/87/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849
 [/us/stat/76/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1126
 [/us/usc/t18/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs207
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 [/us/pl/105/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F280
 [/us/usc/t16/s459b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459b%E2%80%932
 [/us/pl/99/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F420
-[/us/pl/111/11/s7402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7402
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1219
-[/us/pl/99/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F349
+[/us/pl/99/349/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F349%2FtI
 [/us/stat/100/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F731
 [/us/act/1961-08-07/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1961-08-07%2Fs8%2Fa
 [/us/pl/87/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F126

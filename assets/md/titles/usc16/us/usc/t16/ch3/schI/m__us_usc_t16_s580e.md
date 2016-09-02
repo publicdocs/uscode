@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture is authorized to furnish persons attending Forest Service demonstrations, and users of national forest resources and recreational facilities, with meals, lodging, bedding, fuel, and other services, where such facilities are not otherwise available, at rates approximating but not less than the actual or estimated cost thereof and to deposit all moneys received therefor to the credit of the appropriation from which the cost thereof is paid, or a similar appropriation current at the time the moneys are received: Provided, That such receipts obtained in excess of $10,000 in any one fiscal year shall be deposited in the Treasury as miscellaneous receipts.
 
-([Apr. 24, 1950, ch. 97, § 8][/us/act/1950-04-24/ch97/s8], [64 Stat. 84][/us/stat/64/84].)
+([Apr. 24, 1950, ch. 97][/us/act/1950-04-24/ch97], § 8, [64 Stat. 84][/us/stat/64/84].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1950-04-24/ch97/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-24%2Fch97%2Fs8
+[/us/act/1950-04-24/ch97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-24%2Fch97
 [/us/stat/64/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F84
 
 

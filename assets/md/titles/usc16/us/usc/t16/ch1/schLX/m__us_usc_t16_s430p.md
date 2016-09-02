@@ -17,7 +17,7 @@
 
     It shall be lawful for the authorities of any State having had troops at the Battle of Monocacy to enter upon the lands and approaches of the battlefield for the purpose of ascertaining and marking the line of battle of troops engaged therein: Provided, That before any such lines are permanently designated the position of the lines and the proposed methods of marking them by monuments, tablets, or otherwise, including the design and inscription for the same, shall be submitted to the Secretary of the Interior and shall first receive written approval of the Secretary: Provided further, That no discrimination shall be made against any State as to the manner of designating lines, but any grant made to any State by the Secretary of the Interior may be used by any other State.
 
-([June 21, 1934, ch. 694, § 7][/us/act/1934-06-21/ch694/s7], [48 Stat. 1200][/us/stat/48/1200]; [Pub. L. 94–578, title III, § 319(7)][/us/pl/94/578/s319/7], Oct. 21, 1976, [90 Stat. 2738][/us/stat/90/2738].)
+([June 21, 1934, ch. 694][/us/act/1934-06-21/ch694], § 7, [48 Stat. 1200][/us/stat/48/1200]; [Pub. L. 94–578, title III][/us/pl/94/578/tIII], § 319(7), Oct. 21, 1976, [90 Stat. 2738][/us/stat/90/2738].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1934-06-21/ch694/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-21%2Fch694%2Fs7
+[/us/act/1934-06-21/ch694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-21%2Fch694
 [/us/stat/48/1200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1200
-[/us/pl/94/578/s319/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2Fs319%2F7
+[/us/pl/94/578/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2FtIII
 [/us/stat/90/2738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2738
 [/us/pl/94/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578
 

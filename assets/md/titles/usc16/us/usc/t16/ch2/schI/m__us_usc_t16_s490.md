@@ -17,7 +17,7 @@
 
     Purchasers of national-forest timber may be required by the Secretary of Agriculture to deposit the estimated cost to the United States of disposing of brush and other debris resulting from their cutting operations, such deposits to be covered into the Treasury and constitute a special fund, which is appropriated and shall remain available until expended: Provided, That any deposits in excess of the amount expended for disposals shall be transferred to miscellaneous receipts, forest-reserve fund, to be credited to the receipts of the year in which such transfer is made.
 
-([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], [39 Stat. 462][/us/stat/39/462]; [Apr. 24, 1950, ch. 97, § 6][/us/act/1950-04-24/ch97/s6], [64 Stat. 84][/us/stat/64/84].)
+([Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], [39 Stat. 462][/us/stat/39/462]; [Apr. 24, 1950, ch. 97][/us/act/1950-04-24/ch97], § 6, [64 Stat. 84][/us/stat/64/84].)
 
  __Amendments__ 
 
@@ -32,7 +32,7 @@
 
 [/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
 [/us/stat/39/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F462
-[/us/act/1950-04-24/ch97/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-24%2Fch97%2Fs6
+[/us/act/1950-04-24/ch97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-24%2Fch97
 [/us/stat/64/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F84
 
 

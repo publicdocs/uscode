@@ -17,7 +17,7 @@
 
     Effective October 1, 1981, there are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this subchapter but not to exceed $2,500,000 for acquisition of lands and interests in lands and $1,000,000 for development.
 
-([Pub. L. 96–565, title I, § 110][/us/pl/96/565/s110], Dec. 22, 1980, [94 Stat. 3324][/us/stat/94/3324].)
+([Pub. L. 96–565, title I][/us/pl/96/565/tI], § 110, Dec. 22, 1980, [94 Stat. 3324][/us/stat/94/3324].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/565/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F565%2Fs110
+[/us/pl/96/565/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F565%2FtI
 [/us/stat/94/3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3324
 
 

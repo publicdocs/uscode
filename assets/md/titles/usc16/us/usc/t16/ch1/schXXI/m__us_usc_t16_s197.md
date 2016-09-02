@@ -17,7 +17,7 @@
 
     The provisions of the Act of January 26, 1915, entitled “An Act to establish the Rocky Mountain National Park in the State of Colorado, and for other purposes,” and Act of August 25, 1916, entitled “An Act to establish a national–park service, and for other purposes,”  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and all Acts supplementary to and amendatory of said Acts are made applicable to and extended over the lands hereby added to the park: Provided, That the provisions of the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\] shall not apply to or extend over such lands.
 
-([June 9, 1926, ch. 515, § 3][/us/act/1926-06-09/ch515/s3], [44 Stat. 714][/us/stat/44/714].)
+([June 9, 1926, ch. 515][/us/act/1926-06-09/ch515], § 3, [44 Stat. 714][/us/stat/44/714].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
-[/us/act/1926-06-09/ch515/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-06-09%2Fch515%2Fs3
+[/us/act/1926-06-09/ch515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-06-09%2Fch515
 [/us/stat/44/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F714
 [/us/act/1915-01-26/ch19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-01-26%2Fch19
 [/us/stat/38/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F798

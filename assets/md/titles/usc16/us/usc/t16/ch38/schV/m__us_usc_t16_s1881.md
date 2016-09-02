@@ -149,7 +149,7 @@
 
             Within 24 months after establishment of the program, the Secretary shall submit a report to Congress that describes the progress made toward achieving the goals and objectives of the program.
 
-([Pub. L. 94–265, title IV, § 401][/us/pl/94/265/s401], as added [Pub. L. 104–297, title II, § 202][/us/pl/104/297/s202], Oct. 11, 1996, [110 Stat. 3605][/us/stat/110/3605]; amended [Pub. L. 109–479, title II, § 201][/us/pl/109/479/s201], Jan. 12, 2007, [120 Stat. 3611][/us/stat/120/3611].)
+([Pub. L. 94–265, title IV][/us/pl/94/265/tIV], § 401, as added [Pub. L. 104–297, title II][/us/pl/104/297/tII], § 202, Oct. 11, 1996, [110 Stat. 3605][/us/stat/110/3605]; amended [Pub. L. 109–479, title II][/us/pl/109/479/tII], § 201, Jan. 12, 2007, [120 Stat. 3611][/us/stat/120/3611].)
 
  __References in Text__ 
 
@@ -159,7 +159,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1881, [Pub. L. 94–265, title IV, § 401][/us/pl/94/265/s401], Apr. 13, 1976, [90 Stat. 359][/us/stat/90/359], related to authority to amend regulations to conform to Law of the Sea Treaty, prior to repeal by [Pub. L. 99–659, title I, § 110][/us/pl/99/659/s110], Nov. 14, 1986, [100 Stat. 3715][/us/stat/100/3715].
+    A prior section 1881, [Pub. L. 94–265, title IV][/us/pl/94/265/tIV], § 401, Apr. 13, 1976, [90 Stat. 359][/us/stat/90/359], related to authority to amend regulations to conform to Law of the Sea Treaty, prior to repeal by [Pub. L. 99–659, title I][/us/pl/99/659/tI], § 110, Nov. 14, 1986, [100 Stat. 3715][/us/stat/100/3715].
 
  __Amendments__ 
 
@@ -184,10 +184,10 @@
 [/us/usc/t16/s1881a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1881a%2Fb
 [/us/usc/t16/s1881a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1881a%2Fb
 [/us/usc/t16/s1881a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1881a
-[/us/pl/94/265/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs401
-[/us/pl/104/297/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs202
+[/us/pl/94/265/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2FtIV
+[/us/pl/104/297/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtII
 [/us/stat/110/3605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3605
-[/us/pl/109/479/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs201
+[/us/pl/109/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtII
 [/us/stat/120/3611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3611
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331
@@ -195,9 +195,9 @@
 [/us/pl/92/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522
 [/us/stat/86/1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1027
 [/us/usc/t16/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1361
-[/us/pl/94/265/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs401
+[/us/pl/94/265/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2FtIV
 [/us/stat/90/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F359
-[/us/pl/99/659/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs110
+[/us/pl/99/659/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtI
 [/us/stat/100/3715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3715
 [/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

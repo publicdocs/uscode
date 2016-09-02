@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to perform any and all acts and to prescribe such regulations as he may deem appropriate to carry out the provisions of sections 833l to 833p of this title.
 
-([Apr. 23, 1946, ch. 199, § 4][/us/act/1946-04-23/ch199/s4], [60 Stat. 118][/us/stat/60/118].)
+([Apr. 23, 1946, ch. 199][/us/act/1946-04-23/ch199], § 4, [60 Stat. 118][/us/stat/60/118].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1946-04-23/ch199/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-04-23%2Fch199%2Fs4
+[/us/act/1946-04-23/ch199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-04-23%2Fch199
 [/us/stat/60/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F118
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

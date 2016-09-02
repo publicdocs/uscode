@@ -49,7 +49,7 @@
 
         In developing the plan required under subsection (a), the Secretary shall consult with relevant Federal, State, and international agencies, scientific and technical experts, and other interested persons, public and private, and shall publish a proposed plan in the Federal Register for the purpose of receiving public comment on the plan. The Secretary shall ensure that affected commercial fishermen are actively involved in the development of the portion of the plan pertaining to conservation engineering research. Upon final publication in the Federal Register, the plan shall be submitted by the Secretary to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives.
 
-([Pub. L. 94–265, title IV, § 404][/us/pl/94/265/s404], as added [Pub. L. 104–297, title II, § 205][/us/pl/104/297/s205], Oct. 11, 1996, [110 Stat. 3609][/us/stat/110/3609]; amended [Pub. L. 109–479, title II, § 203(b)][/us/pl/109/479/s203/b], Jan. 12, 2007, [120 Stat. 3614][/us/stat/120/3614].)
+([Pub. L. 94–265, title IV][/us/pl/94/265/tIV], § 404, as added [Pub. L. 104–297, title II][/us/pl/104/297/tII], § 205, Oct. 11, 1996, [110 Stat. 3609][/us/stat/110/3609]; amended [Pub. L. 109–479, title II][/us/pl/109/479/tII], § 203(b), Jan. 12, 2007, [120 Stat. 3614][/us/stat/120/3614].)
 
  __References in Text__ 
 
@@ -69,7 +69,7 @@
 
  __Study of Contribution of Bycatch to Charitable Organizations__ 
 
-[Pub. L. 104–297, title II, § 208][/us/pl/104/297/s208], Oct. 11, 1996, [110 Stat. 3614][/us/stat/110/3614], as amended by [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that:
+[Pub. L. 104–297, title II][/us/pl/104/297/tII], § 208, Oct. 11, 1996, [110 Stat. 3614][/us/stat/110/3614], as amended by [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -96,10 +96,10 @@
 ----------
 ----------
 
-[/us/pl/94/265/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs404
-[/us/pl/104/297/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs205
+[/us/pl/94/265/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2FtIV
+[/us/pl/104/297/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtII
 [/us/stat/110/3609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3609
-[/us/pl/109/479/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs203%2Fb
+[/us/pl/109/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtII
 [/us/stat/120/3614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3614
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331
@@ -110,9 +110,9 @@
 [/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
 [/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
 [/us/usc/t16/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1881
-[/us/pl/104/297/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs208
+[/us/pl/104/297/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtII
 [/us/stat/110/3614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3614
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
 [/us/usc/t16/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1802
 

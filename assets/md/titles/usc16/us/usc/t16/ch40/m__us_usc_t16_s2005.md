@@ -47,7 +47,7 @@
 
         The initial program shall be completed not later than December 31, 2011, and December 31, 2016, respectively. <sup>\[1\]</sup>  <sup><sup> 1 So in original. See 2008 Amendment note below. </sup></sup> 
 
-([Pub. L. 95–192, § 6][/us/pl/95/192/s6], Nov. 18, 1977, [91 Stat. 1409][/us/stat/91/1409]; [Pub. L. 99–198, title XII, § 1252(b)][/us/pl/99/198/s1252/b], Dec. 23, 1985, [99 Stat. 1516][/us/stat/99/1516]; [Pub. L. 103–354, title II, § 246(f)(2)(C)][/us/pl/103/354/s246/f/2/C], Oct. 13, 1994, [108 Stat. 3225][/us/stat/108/3225]; [Pub. L. 110–234, title II, § 2804(c)][/us/pl/110/234/s2804/c], May 22, 2008, [122 Stat. 1087][/us/stat/122/1087]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2804(c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1815; [Pub. L. 113–79, title II, § 2508(c)][/us/pl/113/79/s2508/c], Feb. 7, 2014, [128 Stat. 756][/us/stat/128/756].)
+([Pub. L. 95–192][/us/pl/95/192], § 6, Nov. 18, 1977, [91 Stat. 1409][/us/stat/91/1409]; [Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1252(b), Dec. 23, 1985, [99 Stat. 1516][/us/stat/99/1516]; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 246(f)(2)(C), Oct. 13, 1994, [108 Stat. 3225][/us/stat/108/3225]; [Pub. L. 110–234, title II][/us/pl/110/234/tII], § 2804(c), May 22, 2008, [122 Stat. 1087][/us/stat/122/1087]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title II, § 2804(c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1815; [Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2508(c), Feb. 7, 2014, [128 Stat. 756][/us/stat/128/756].)
 
  __Codification__ 
 
@@ -57,7 +57,7 @@
 
     2014—Subsec. (a). [Pub. L. 113–79][/us/pl/113/79] inserted “, tribal,” after “conservation districts, State” and “, tribal,” after “private” in introductory provisions, and “, tribal” after “Federal, State” wherever appearing.
 
-    2008—Subsecs. (b) to (d). [Pub. L. 110–246, § 2804(c)][/us/pl/110/246/s2804/c], added subsecs. (b) and (c), redesignated former subsec. (b) as (d), and substituted “December 31, 2011, and December 31, 2016” for “December 31, 1979, and program updates shall be completed by December 31, 1987, December 31, 1997, and December 31, 2007”.
+    2008—Subsecs. (b) to (d). [Pub. L. 110–246][/us/pl/110/246], § 2804(c), added subsecs. (b) and (c), redesignated former subsec. (b) as (d), and substituted “December 31, 2011, and December 31, 2016” for “December 31, 1979, and program updates shall be completed by December 31, 1987, December 31, 1997, and December 31, 2007”.
 
     1994—Subsec. (a). [Pub. L. 103–354][/us/pl/103/354] in first sentence of introductory provisions substituted “Secretary” for “Soil Conservation Service” before “which assist”.
 
@@ -79,24 +79,24 @@
 ----------
 
 [/us/usc/t16/s2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2004
-[/us/pl/95/192/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F192%2Fs6
+[/us/pl/95/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F192
 [/us/stat/91/1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1409
-[/us/pl/99/198/s1252/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1252%2Fb
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
 [/us/stat/99/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1516
-[/us/pl/103/354/s246/f/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs246%2Ff%2F2%2FC
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3225
-[/us/pl/110/234/s2804/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2804%2Fc
+[/us/pl/110/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtII
 [/us/stat/122/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1087
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s2508/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2508%2Fc
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F756
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/110/246/s2804/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2804%2Fc
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

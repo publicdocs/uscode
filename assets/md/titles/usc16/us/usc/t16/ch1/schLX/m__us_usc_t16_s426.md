@@ -23,7 +23,7 @@
 
     (3) A veteran of the Civil War who served honorably in the military forces of the Confederate States of America.
 
-([Mar. 3, 1927, ch. 374, § 1][/us/act/1927-03-03/ch374/s1], [44 Stat. 1399][/us/stat/44/1399]; Ex. Ord. No. 6166, § 2, June 10, 1933; Ex. Ord. No. 6228, § 1, July 28, 1933; [Pub. L. 86–443][/us/pl/86/443], §§ 2, 3, Apr. 22, 1960, [74 Stat. 82][/us/stat/74/82].)
+([Mar. 3, 1927, ch. 374][/us/act/1927-03-03/ch374], § 1, [44 Stat. 1399][/us/stat/44/1399]; Ex. Ord. No. 6166, § 2, June 10, 1933; Ex. Ord. No. 6228, § 1, July 28, 1933; [Pub. L. 86–443][/us/pl/86/443], §§ 2, 3, Apr. 22, 1960, [74 Stat. 82][/us/stat/74/82].)
 
  __Change of Name__ 
 
@@ -33,7 +33,7 @@
 
     Administrative functions of Stones River National Military Park transferred to Department of the Interior by Ex. Ord. Nos. 6166 and 6228, set out as notes under [section 901 of Title 5][/us/usc/t5/s901], Government Organization and Employees. Administrative functions of Stones River National Battlefield assigned to Department of the Interior by [section 3 of Pub. L. 86–443][/us/pl/86/443/s3], set out as [section 426m of this title][/us/usc/t16/s426m].
 
-    National Park Service substituted for Office of National Parks, Buildings, and Reservations referred to in Ex. Ord. No. 6166, § 2, by [act Mar. 2, 1934, ch. 38, § 1][/us/act/1934-03-02/ch38/s1], [48 Stat. 389][/us/stat/48/389].
+    National Park Service substituted for Office of National Parks, Buildings, and Reservations referred to in Ex. Ord. No. 6166, § 2, by [act Mar. 2, 1934, ch. 38][/us/act/1934-03-02/ch38], § 1, [48 Stat. 389][/us/stat/48/389].
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/act/1927-03-03/ch374/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch374%2Fs1
+[/us/act/1927-03-03/ch374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch374
 [/us/stat/44/1399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1399
 [/us/pl/86/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F443
 [/us/stat/74/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F82
@@ -50,7 +50,7 @@
 [/us/usc/t5/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs901
 [/us/pl/86/443/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F443%2Fs3
 [/us/usc/t16/s426m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs426m
-[/us/act/1934-03-02/ch38/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-02%2Fch38%2Fs1
+[/us/act/1934-03-02/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-02%2Fch38
 [/us/stat/48/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F389
 
 

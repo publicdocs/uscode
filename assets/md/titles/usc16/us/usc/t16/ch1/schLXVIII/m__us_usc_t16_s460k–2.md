@@ -17,7 +17,7 @@
 
     In furtherance of the purposes of this subchapter, the Secretary is authorized to cooperate with public and private agencies, organizations, and individuals, and he may accept and use, without further authorization, donations of funds and real and personal property. Such acceptance may be accomplished under the terms and conditions of restrictive covenants imposed by donors when such covenants are deemed by the Secretary to be compatible with the purposes of the wildlife refuges, games ranges, fish hatcheries, and other fish and wildlife conservation areas.
 
-([Pub. L. 87–714, § 3][/us/pl/87/714/s3], Sept. 28, 1962, [76 Stat. 653][/us/stat/76/653].)
+([Pub. L. 87–714][/us/pl/87/714], § 3, Sept. 28, 1962, [76 Stat. 653][/us/stat/76/653].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/714/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F714%2Fs3
+[/us/pl/87/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F714
 [/us/stat/76/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F653
 
 

@@ -17,7 +17,7 @@
 
     Notwithstanding the limitation contained in [section 2612(b) of this title][/us/usc/t16/s2612/b], no contract between a Federal agency and any electric utility for the sale of electric energy by such Federal agency for resale which is entered into or renewed after November 9, 1978, may contain any provision which will have the effect of preventing the implementation of any requirement of subchapter II or III. Any provision in any such contract which has such effect shall be null and void.
 
-([Pub. L. 95–617, title I, § 103][/us/pl/95/617/s103], Nov. 9, 1978, [92 Stat. 3121][/us/stat/92/3121].)
+([Pub. L. 95–617, title I][/us/pl/95/617/tI], § 103, Nov. 9, 1978, [92 Stat. 3121][/us/stat/92/3121].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s2612/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2612%2Fb
-[/us/pl/95/617/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs103
+[/us/pl/95/617/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtI
 [/us/stat/92/3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3121
 
 

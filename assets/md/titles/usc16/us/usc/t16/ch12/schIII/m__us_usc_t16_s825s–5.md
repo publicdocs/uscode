@@ -17,7 +17,7 @@
 
     Notwithstanding the provisions of [section 3302 of title 31][/us/usc/t31/s3302], beginning in fiscal year 2008 and thereafter, such funds as are received by the Southeastern Power Administration from any State, municipality, corporation, association, firm, district, or individual as advance payment for work that is associated with Southeastern’s Operations and Maintenance, consistent with that authorized in [section 825s of this title][/us/usc/t16/s825s], shall be credited to this account and be available until expended.
 
-([Pub. L. 110–161, div. C, title III][/us/pl/110/161], Dec. 26, 2007, [121 Stat. 1965][/us/stat/121/1965].)
+([Pub. L. 110–161, div. C, title III][/us/pl/110/161/dC/tIII], Dec. 26, 2007, [121 Stat. 1965][/us/stat/121/1965].)
 
  __Codification__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
 [/us/usc/t16/s825s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs825s
-[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/161/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdC%2FtIII
 [/us/stat/121/1965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1965
 
 

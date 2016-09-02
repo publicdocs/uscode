@@ -17,7 +17,7 @@
 
     To the extent that appropriated funds and personnel are available therefor, the Secretary of the Interior shall provide consultative or advisory assistance to the Minnesota Chippewa Tribe and the Grand Portage Band of Chippewa Indians, Minnesota, in the planning of facilities or developments upon the lands adjacent to the monument.
 
-([Pub. L. 85–910, § 9][/us/pl/85/910/s9], Sept. 2, 1958, [72 Stat. 1753][/us/stat/72/1753].)
+([Pub. L. 85–910][/us/pl/85/910], § 9, Sept. 2, 1958, [72 Stat. 1753][/us/stat/72/1753].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/85/910/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F910%2Fs9
+[/us/pl/85/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F910
 [/us/stat/72/1753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1753
 
 

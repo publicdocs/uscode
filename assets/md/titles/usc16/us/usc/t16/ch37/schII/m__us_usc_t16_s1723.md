@@ -71,17 +71,17 @@
 
         Each appropriate conservation project carried out under this subchapter on eligible service lands shall be consistent with the provisions of law and policies relating to the management and administration of such lands, with all other applicable provisions of law, and with all management, operational, and other plans and documents which govern the administration of the area.
 
-([Pub. L. 91–378, title II, § 204][/us/pl/91/378/s204], as added [Pub. L. 103–82, title I, § 105(6)][/us/pl/103/82/s105/6], Sept. 21, 1993, [107 Stat. 850][/us/stat/107/850]; amended [Pub. L. 109–154, § 2(b)][/us/pl/109/154/s2/b], (c), (g)(1), Dec. 30, 2005, [119 Stat. 2891][/us/stat/119/2891], 2893.)
+([Pub. L. 91–378, title II][/us/pl/91/378/tII], § 204, as added [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 105(6), Sept. 21, 1993, [107 Stat. 850][/us/stat/107/850]; amended [Pub. L. 109–154][/us/pl/109/154], § 2(b), (c), (g)(1), Dec. 30, 2005, [119 Stat. 2891][/us/stat/119/2891], 2893.)
 
  __Amendments__ 
 
-    2005—Subsec. (b). [Pub. L. 109–154, § 2(g)(1)(A)][/us/pl/109/154/s2/g/1/A], substituted “Corps by the Secretary” for “Corps by the Secretary of the Interior or the Secretary of Agriculture” and “Secretary may” for “Secretaries may” in two places.
+    2005—Subsec. (b). [Pub. L. 109–154][/us/pl/109/154], § 2(g)(1)(A), substituted “Corps by the Secretary” for “Corps by the Secretary of the Interior or the Secretary of Agriculture” and “Secretary may” for “Secretaries may” in two places.
 
-    Subsec. (c). [Pub. L. 109–154, § 2(b)][/us/pl/109/154/s2/b], designated existing provisions as par. (1), inserted heading, substituted “The Secretary is” for “The Secretary of the Interior and the Secretary of Agriculture are”, and added par. (2).
+    Subsec. (c). [Pub. L. 109–154][/us/pl/109/154], § 2(b), designated existing provisions as par. (1), inserted heading, substituted “The Secretary is” for “The Secretary of the Interior and the Secretary of Agriculture are”, and added par. (2).
 
-    Subsec. (d). [Pub. L. 109–154, § 2(c)][/us/pl/109/154/s2/c], designated first sentence as par. (1), inserted heading, and substituted “The Secretary may” for “The Secretary of the Interior and the Secretary of Agriculture may each” and “the Secretary” for “such Secretary”, designated second sentence as par. (2) and inserted heading, added par. (3), and struck out former third sentence which read “The Secretaries may also authorize appropriate conservation projects and other appropriate projects to be carried out on Federal, State, local, or private lands as part of disaster prevention or relief efforts in response to an emergency or major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121][/us/usc/t42/s5121] et seq.).”
+    Subsec. (d). [Pub. L. 109–154][/us/pl/109/154], § 2(c), designated first sentence as par. (1), inserted heading, and substituted “The Secretary may” for “The Secretary of the Interior and the Secretary of Agriculture may each” and “the Secretary” for “such Secretary”, designated second sentence as par. (2) and inserted heading, added par. (3), and struck out former third sentence which read “The Secretaries may also authorize appropriate conservation projects and other appropriate projects to be carried out on Federal, State, local, or private lands as part of disaster prevention or relief efforts in response to an emergency or major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121][/us/usc/t42/s5121] et seq.).”
 
-    Subsec. (e). [Pub. L. 109–154, § 2(g)(1)(B)][/us/pl/109/154/s2/g/1/B], substituted “Secretary” for “Secretary of the Interior and the Secretary of Agriculture” in introductory provisions.
+    Subsec. (e). [Pub. L. 109–154][/us/pl/109/154], § 2(g)(1)(B), substituted “Secretary” for “Secretary of the Interior and the Secretary of Agriculture” in introductory provisions.
 
 ----------
 
@@ -91,15 +91,15 @@
 ----------
 
 [/us/usc/t42/s12591/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12591%2Fb
-[/us/pl/91/378/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F378%2Fs204
-[/us/pl/103/82/s105/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs105%2F6
+[/us/pl/91/378/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F378%2FtII
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F850
-[/us/pl/109/154/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F154%2Fs2%2Fb
+[/us/pl/109/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F154
 [/us/stat/119/2891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2891
-[/us/pl/109/154/s2/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F154%2Fs2%2Fg%2F1%2FA
-[/us/pl/109/154/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F154%2Fs2%2Fb
-[/us/pl/109/154/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F154%2Fs2%2Fc
+[/us/pl/109/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F154
+[/us/pl/109/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F154
+[/us/pl/109/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F154
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
-[/us/pl/109/154/s2/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F154%2Fs2%2Fg%2F1%2FB
+[/us/pl/109/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F154
 
 

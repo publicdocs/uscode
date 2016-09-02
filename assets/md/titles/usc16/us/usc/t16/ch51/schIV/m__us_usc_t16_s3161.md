@@ -23,7 +23,7 @@
 
     (c) to minimize the adverse impacts of siting transportation and utility systems within units established or expanded by this Act and to insure the effectiveness of the decisionmaking process, a single comprehensive statutory authority for the approval or disapproval of applications for such systems must be provided in this Act.
 
-([Pub. L. 96–487, title XI, § 1101][/us/pl/96/487/s1101], Dec. 2, 1980, [94 Stat. 2457][/us/stat/94/2457].)
+([Pub. L. 96–487, title XI][/us/pl/96/487/tXI], § 1101, Dec. 2, 1980, [94 Stat. 2457][/us/stat/94/2457].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/96/487/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1101
+[/us/pl/96/487/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXI
 [/us/stat/94/2457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2457
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371
 [/us/usc/t16/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3101

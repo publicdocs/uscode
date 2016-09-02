@@ -17,7 +17,7 @@
 
     Nothing contained herein shall affect any valid existing claim, location, or entry made under the land laws of the United States, whether for homestead, mineral, right-of-way, or any other purpose whatsoever, or shall affect the right of any such claimant, locator, or entryman to the full use and enjoyment of his land, nor the rights reserved by treaty to the Indians of any tribes. The boundaries of Olympic National Park may be revised only by Act of Congress.
 
-([June 29, 1938, ch. 812, § 5][/us/act/1938-06-29/ch812/s5], [52 Stat. 1242][/us/stat/52/1242]; [Pub. L. 94–578, title III, § 320(c)][/us/pl/94/578/s320/c], Oct. 21, 1976, [90 Stat. 2739][/us/stat/90/2739].)
+([June 29, 1938, ch. 812][/us/act/1938-06-29/ch812], § 5, [52 Stat. 1242][/us/stat/52/1242]; [Pub. L. 94–578, title III][/us/pl/94/578/tIII], § 320(c), Oct. 21, 1976, [90 Stat. 2739][/us/stat/90/2739].)
 
  __References in Text__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/act/1938-06-29/ch812/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-29%2Fch812%2Fs5
+[/us/act/1938-06-29/ch812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-29%2Fch812
 [/us/stat/52/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1242
-[/us/pl/94/578/s320/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2Fs320%2Fc
+[/us/pl/94/578/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2FtIII
 [/us/stat/90/2739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2739
 [/us/pl/94/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578
 

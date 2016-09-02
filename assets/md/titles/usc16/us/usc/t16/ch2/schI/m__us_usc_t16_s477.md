@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture may permit, under regulations to be prescribed by him, the use of timber and stone found upon national forests, free of charge, by bona fide settlers, miners, residents, and prospectors for minerals, for firewood, fencing, buildings, mining, prospecting, and other domestic purposes, as may be needed by such persons for such purposes; such timber to be used within the State or Territory, respectively, where such national forests may be located.
 
-([June 4, 1897, ch. 2, § 1][/us/act/1897-06-04/ch2/s1], [30 Stat. 35][/us/stat/30/35]; [Feb. 1, 1905, ch. 288, § 1][/us/act/1905-02-01/ch288/s1], [33 Stat. 628][/us/stat/33/628].)
+([June 4, 1897, ch. 2][/us/act/1897-06-04/ch2], § 1, [30 Stat. 35][/us/stat/30/35]; [Feb. 1, 1905, ch. 288][/us/act/1905-02-01/ch288], § 1, [33 Stat. 628][/us/stat/33/628].)
 
  __Codification__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/act/1897-06-04/ch2/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-06-04%2Fch2%2Fs1
+[/us/act/1897-06-04/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-06-04%2Fch2
 [/us/stat/30/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F35
-[/us/act/1905-02-01/ch288/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-01%2Fch288%2Fs1
+[/us/act/1905-02-01/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-01%2Fch288
 [/us/stat/33/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F628
 [/us/act/1907-03-04/ch2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2907
 [/us/stat/34/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F1269

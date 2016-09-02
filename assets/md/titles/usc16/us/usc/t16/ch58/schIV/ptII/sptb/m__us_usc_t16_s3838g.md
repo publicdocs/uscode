@@ -141,7 +141,7 @@
 
         (2) otherwise enable the Secretary to carry out the program.
 
-([Pub. L. 99–198, title XII, § 1238G][/us/pl/99/198/s1238G], as added [Pub. L. 110–234, title II, § 2301(a)(2)][/us/pl/110/234/s2301/a/2], May 22, 2008, [122 Stat. 1045][/us/stat/122/1045], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2301(a)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1773; [Pub. L. 113–79, title II, § 2101(a)][/us/pl/113/79/s2101/a], Feb. 7, 2014, [128 Stat. 726][/us/stat/128/726].)
+([Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1238G, as added [Pub. L. 110–234, title II][/us/pl/110/234/tII], § 2301(a)(2), May 22, 2008, [122 Stat. 1045][/us/stat/122/1045], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title II, § 2301(a)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1773; [Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2101(a), Feb. 7, 2014, [128 Stat. 726][/us/stat/128/726].)
 
  __References in Text__ 
 
@@ -163,12 +163,12 @@
 ----------
 
 [/us/usc/t7/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6501
-[/us/pl/99/198/s1238G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1238G
-[/us/pl/110/234/s2301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2301%2Fa%2F2
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/110/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtII
 [/us/stat/122/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1045
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s2101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2101%2Fa
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F726
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/stat/104/3935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3935

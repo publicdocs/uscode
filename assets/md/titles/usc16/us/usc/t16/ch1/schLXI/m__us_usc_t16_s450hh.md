@@ -11,17 +11,17 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450ff–6.md) | [Next](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450hh–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450hh)
+[Previous](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450gg...450gg–3.md) | [Next](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450hh–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450hh)
 
 ## § 450hh. Saint Croix Island International Historic Site; establishment; acceptance of land; size
 
     For the purpose of establishing a Federal area of national historical importance for the benefit of the people of the United States, the Secretary of the Interior is authorized to accept, for national monument purposes, on behalf of the United States, the donation of all non-Federal lands and interests in land situated on Saint Croix (Dochet) Island, located in the Saint Croix River, in the State of Maine. The Secretary is authorized to acquire, in such manner as he may consider to be in the public interest, not to exceed fifty acres of land or interests therein situated on the mainland, such property to be used for general administrative purposes and for a landing dock in order to provide a suitable approach and ready access to the island.
 
-([June 8, 1949, ch. 180, § 1][/us/act/1949-06-08/ch180/s1], [63 Stat. 158][/us/stat/63/158].)
+([June 8, 1949, ch. 180][/us/act/1949-06-08/ch180], § 1, [63 Stat. 158][/us/stat/63/158].)
 
  __Authorization of Appropriations__ 
 
-[Act June 8, 1949, ch. 180, § 4][/us/act/1949-06-08/ch180/s4], [63 Stat. 158][/us/stat/63/158], provided that: 
+[Act June 8, 1949, ch. 180][/us/act/1949-06-08/ch180], § 4, [63 Stat. 158][/us/stat/63/158], provided that: 
 
 > “There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this Act \[sections 450hh to 450hh–2 of this title\].”
 
@@ -109,14 +109,14 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450ff–6.md) | [Next](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450hh–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450hh)
+[Previous](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450gg...450gg–3.md) | [Next](./../../../../..//us/usc/t16/ch1/schLXI/m__us_usc_t16_s450hh–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450hh)
 
 ----------
 ----------
 
-[/us/act/1949-06-08/ch180/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-08%2Fch180%2Fs1
+[/us/act/1949-06-08/ch180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-08%2Fch180
 [/us/stat/63/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F158
-[/us/act/1949-06-08/ch180/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-08%2Fch180%2Fs4
+[/us/act/1949-06-08/ch180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-08%2Fch180
 [/us/stat/63/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F158
 [/us/pl/106/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F529
 [/us/stat/114/2524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2524

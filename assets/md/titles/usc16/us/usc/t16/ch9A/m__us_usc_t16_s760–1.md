@@ -17,7 +17,7 @@
 
     There is hereby authorized to be appropriated from time to time, out of any moneys in the Treasury not otherwise appropriated, such sums as may be necessary to carry out the purposes of [section 760 of this title][/us/usc/t16/s760].
 
-([July 18, 1950, ch. 465, § 2][/us/act/1950-07-18/ch465/s2], [64 Stat. 343][/us/stat/64/343].)
+([July 18, 1950, ch. 465][/us/act/1950-07-18/ch465], § 2, [64 Stat. 343][/us/stat/64/343].)
 
  __Appropriation for Acquisition of Lands and Construction__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t16/s760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs760
-[/us/act/1950-07-18/ch465/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-07-18%2Fch465%2Fs2
+[/us/act/1950-07-18/ch465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-07-18%2Fch465
 [/us/stat/64/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F343
 
 

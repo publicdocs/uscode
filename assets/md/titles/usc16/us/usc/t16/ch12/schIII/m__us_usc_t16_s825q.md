@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t16/ch12/schIII/m__us_usc_t16_s825p.md) | [Next](./../../../../..//us/usc/t16/ch12/schIII/m__us_usc_t16_s825q–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs825q)
 
-## § 825q. Repealed. [Pub. L. 109–58, title XII, § 1277(a)][/us/pl/109/58/s1277/a], Aug. 8, 2005, [119 Stat. 978][/us/stat/119/978]
+## § 825q. Repealed. [Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1277(a), Aug. 8, 2005, [119 Stat. 978][/us/stat/119/978]
 
     Section, [act June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. III, § 318, as added [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, § 213, [49 Stat. 863][/us/stat/49/863], related to conflict of jurisdiction.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/109/58/s1277/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1277%2Fa
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F978
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
 [/us/act/1935-08-26/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-26%2Fch687

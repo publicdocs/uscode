@@ -17,7 +17,7 @@
 
     The Secretary shall administer the park in accordance with the provisions of this subchapter and the provisions of law generally applicable to the administration of units of the National Park System, including the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]; [16 U.S.C. 1][/us/usc/t16/s1], 2–4), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and the Act of August 21, 1935 ([49 Stat. 666][/us/stat/49/666]; [16 U.S.C. 461–7][/us/usc/t16/s461–7]). <sup>\[1\]</sup> 
 
-([Pub. L. 101–313, title II, § 204][/us/pl/101/313/s204], June 27, 1990, [104 Stat. 279][/us/stat/104/279].)
+([Pub. L. 101–313, title II][/us/pl/101/313/tII], § 204, June 27, 1990, [104 Stat. 279][/us/stat/104/279].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
 [/us/usc/t16/s461–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461%E2%80%937
-[/us/pl/101/313/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F313%2Fs204
+[/us/pl/101/313/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F313%2FtII
 [/us/stat/104/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F279
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1

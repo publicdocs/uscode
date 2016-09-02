@@ -81,7 +81,7 @@
 
             (B) For salmon habitat restoration, salmon stock enhancement, salmon research, and supplementation activities, there is authorized to be appropriated in each of fiscal years 2000, 2001, 2002, and 2003, $10,000,000 to be divided between the Pacific Coastal tribes (as defined by the Secretary of Commerce) and the Columbia River tribes (as defined by the Secretary of Commerce).
 
-([Pub. L. 99–5, § 16][/us/pl/99/5/s16], formerly [Pub. L. 106–113, div. B, § 1000(a)(1)][/us/pl/106/113/s1000/a/1] \[title VI, § 623\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–56; [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title VI, § 628\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–108; [Pub. L. 108–447, div. B, title II][/us/pl/108/447], Dec. 8, 2004, [118 Stat. 2881][/us/stat/118/2881]; renumbered [Pub. L. 99–5, § 16][/us/pl/99/5/s16], and amended [Pub. L. 109–479, title III, § 302(d)][/us/pl/109/479/s302/d], Jan. 12, 2007, [120 Stat. 3623][/us/stat/120/3623]; [Pub. L. 111–8, div. B, title I, § 110][/us/pl/111/8/s110], Mar. 11, 2009, [123 Stat. 569][/us/stat/123/569].)
+([Pub. L. 99–5][/us/pl/99/5], § 16, formerly [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(1) \[title VI, § 623\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–56; [Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title VI, § 628\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–108; [Pub. L. 108–447, div. B, title II][/us/pl/108/447/dB/tII], Dec. 8, 2004, [118 Stat. 2881][/us/stat/118/2881]; renumbered [Pub. L. 99–5][/us/pl/99/5], § 16, and amended [Pub. L. 109–479, title III][/us/pl/109/479/tIII], § 302(d), Jan. 12, 2007, [120 Stat. 3623][/us/stat/120/3623]; [Pub. L. 111–8, div. B, title I][/us/pl/111/8/dB/tI], § 110, Mar. 11, 2009, [123 Stat. 569][/us/stat/123/569].)
 
  __References in Text__ 
 
@@ -91,21 +91,21 @@
 
     Section is comprised of [section 16 of Pub. L. 99–5][/us/pl/99/5/s16]. [Section 16(c) of Pub. L. 99–5][/us/pl/99/5/s16/c] amended [section 3632 of this title][/us/usc/t16/s3632].
 
-    [Pub. L. 109–479, § 302(d)(1)][/us/pl/109/479/s302/d/1], which directed that the text of section 623 of title VI of H.R. 3421 ([113 Stat. 1501][/us/stat/113/1501]A–56), as introduced on November 17, 1999, enacted into law by [section 1000(a)(1) of Pub. L. 106–113][/us/pl/106/113/s1000/a/1] and amended by [Pub. L. 106–533][/us/pl/106/533], [114 Stat. 2762][/us/stat/114/2762]A–108, be transferred to and renumbered as section 16 of the Pacific Salmon Treaty Act, was executed by transferring [Pub. L. 106–113, div. B, § 1000(a)(1)][/us/pl/106/113/s1000/a/1] \[title VI, § 623\], as amended by [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title VI, § 628\], to and renumbering it as [section 16 of Pub. L. 99–5][/us/pl/99/5/s16], which is the Pacific Salmon Treaty Act of 1985, to reflect the probable intent of Congress. See source credit above.
+    [Pub. L. 109–479][/us/pl/109/479], § 302(d)(1), which directed that the text of section 623 of title VI of H.R. 3421 ([113 Stat. 1501][/us/stat/113/1501]A–56), as introduced on November 17, 1999, enacted into law by [section 1000(a)(1) of Pub. L. 106–113][/us/pl/106/113/s1000/a/1] and amended by [Pub. L. 106–533][/us/pl/106/533], [114 Stat. 2762][/us/stat/114/2762]A–108, be transferred to and renumbered as section 16 of the Pacific Salmon Treaty Act, was executed by transferring [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(1) \[title VI, § 623\], as amended by [Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title VI, § 628\], to and renumbering it as [section 16 of Pub. L. 99–5][/us/pl/99/5/s16], which is the Pacific Salmon Treaty Act of 1985, to reflect the probable intent of Congress. See source credit above.
 
  __Amendments__ 
 
     2009—Subsec. (d)(2)(A). [Pub. L. 111–8][/us/pl/111/8], which directed amendment of “Section (d)(2)(A) of title [16 U.S.C. 3645][/us/usc/t16/s3645]” by inserting “Nevada,” after “Idaho,”, was executed by making the amendment to [section 16 of Pub. L. 99–5][/us/pl/99/5/s16], which is classified to this section, to reflect the probable intent of Congress.
 
-    2007—[Pub. L. 109–479, § 302(d)(1)(B)(ii)][/us/pl/109/479/s302/d/1/B/ii], inserted section catchline.
+    2007—[Pub. L. 109–479][/us/pl/109/479], § 302(d)(1)(B)(ii), inserted section catchline.
 
-    Subsec. (d)(2)(A). [Pub. L. 109–479, § 302(d)(2)][/us/pl/109/479/s302/d/2], inserted “sustainable salmon fisheries,” after “enhancement,”, “2005, 2006, 2007, 2008, and 2009,” after “2003,”, and “Idaho,” after “Oregon,”.
+    Subsec. (d)(2)(A). [Pub. L. 109–479][/us/pl/109/479], § 302(d)(2), inserted “sustainable salmon fisheries,” after “enhancement,”, “2005, 2006, 2007, 2008, and 2009,” after “2003,”, and “Idaho,” after “Oregon,”.
 
     2004—[Pub. L. 108–447][/us/pl/108/447], which directed the amendment of section 628(2)(A) of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001, [Pub. L. 106–553][/us/pl/106/553], by substituting “2005” for “2000, 2001, 2002, and 2003” and inserting “Idaho,” after “Oregon,”, was not executed, because this section was enacted by [Pub. L. 106–113][/us/pl/106/113], and section 628 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001, was an amendatory provision. See 2007 Amendment note above and 2000 Amendment note below.
 
-    2000—Subsec. (a)(1). [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title VI, § 628(a)\], which directed the amendment of par. (1) by striking out “The Northern Fund and Southern Fund shall each receive $10,000,000 of the amounts authorized by this section.”, was executed by striking out “The Northern Fund and Southern Fund shall each receive $10,000,000, of the amounts authorized by this section.” after the second sentence, to reflect the probable intent of Congress.
+    2000—Subsec. (a)(1). [Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title VI, § 628(a)\], which directed the amendment of par. (1) by striking out “The Northern Fund and Southern Fund shall each receive $10,000,000 of the amounts authorized by this section.”, was executed by striking out “The Northern Fund and Southern Fund shall each receive $10,000,000, of the amounts authorized by this section.” after the second sentence, to reflect the probable intent of Congress.
 
-    Subsec. (d). [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title VI, § 628(b)\], added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows:
+    Subsec. (d). [Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title VI, § 628(b)\], added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows:
 
     “(1) For capitalizing the Northern Fund and the Southern Fund, there is authorized to be appropriated in fiscal year 2000, $20,000,000.
 
@@ -131,17 +131,17 @@
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/pl/93/205/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205%2Fs7
 [/us/usc/t16/s1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1536
-[/us/pl/99/5/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5%2Fs16
-[/us/pl/106/113/s1000/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F1
+[/us/pl/99/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
-[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtII
 [/us/stat/118/2881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2881
-[/us/pl/99/5/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5%2Fs16
-[/us/pl/109/479/s302/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs302%2Fd
+[/us/pl/99/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5
+[/us/pl/109/479/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtIII
 [/us/stat/120/3623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3623
-[/us/pl/111/8/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs110
+[/us/pl/111/8/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdB%2FtI
 [/us/stat/123/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F569
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
@@ -150,23 +150,23 @@
 [/us/pl/99/5/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5%2Fs16
 [/us/pl/99/5/s16/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5%2Fs16%2Fc
 [/us/usc/t16/s3632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3632
-[/us/pl/109/479/s302/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs302%2Fd%2F1
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
 [/us/stat/113/1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1501
 [/us/pl/106/113/s1000/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F1
 [/us/pl/106/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F533
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
-[/us/pl/106/113/s1000/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F1
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/pl/99/5/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5%2Fs16
 [/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
 [/us/usc/t16/s3645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3645
 [/us/pl/99/5/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5%2Fs16
-[/us/pl/109/479/s302/d/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs302%2Fd%2F1%2FB%2Fii
-[/us/pl/109/479/s302/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs302%2Fd%2F2
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 
 

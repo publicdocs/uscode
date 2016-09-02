@@ -17,7 +17,7 @@
 
     For the purpose of establishing a Federal area of national historical importance for the benefit of the people of the United States, to be known as the “Fort Vancouver National Historic Site,” the Administrator of General Services and the Secretary of the Army are authorized to transfer to the Secretary of the Interior, without exchange of funds, administrative jurisdiction over such federally owned lands and other property, real or personal, under their jurisdiction, including the site of the old Hudson’s Bay Company stockade in the State of Washington, as they shall find to be surplus to the needs of their respective agencies, such properties to be selected, with their approval, by the Secretary of the Interior for inclusion within the national historic site.
 
-([June 19, 1948, ch. 546, § 1][/us/act/1948-06-19/ch546/s1], [62 Stat. 532][/us/stat/62/532]; [June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title I, § 105, [63 Stat. 381][/us/stat/63/381]; [Pub. L. 87–78, § 4][/us/pl/87/78/s4], June 30, 1961, [75 Stat. 197][/us/stat/75/197].)
+([June 19, 1948, ch. 546][/us/act/1948-06-19/ch546], § 1, [62 Stat. 532][/us/stat/62/532]; [June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title I, § 105, [63 Stat. 381][/us/stat/63/381]; [Pub. L. 87–78][/us/pl/87/78], § 4, June 30, 1961, [75 Stat. 197][/us/stat/75/197].)
 
  __Change of Name__ 
 
@@ -82,11 +82,11 @@
 ----------
 ----------
 
-[/us/act/1948-06-19/ch546/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-19%2Fch546%2Fs1
+[/us/act/1948-06-19/ch546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-19%2Fch546
 [/us/stat/62/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F532
 [/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
 [/us/stat/63/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F381
-[/us/pl/87/78/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F78%2Fs4
+[/us/pl/87/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F78
 [/us/stat/75/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F197
 [/us/pl/87/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F78
 [/us/usc/t16/s450ff–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450ff%E2%80%936

@@ -27,7 +27,7 @@
 
     (5) any adjustment made by the Secretary of relative value pursuant to [section 1716(f)(2)(B)(ii) of title 43][/us/usc/t43/s1716/f/2/B/ii].
 
-([Pub. L. 94–588, § 17(b)][/us/pl/94/588/s17/b], Oct. 22, 1976, [90 Stat. 2962][/us/stat/90/2962]; [Pub. L. 100–409, § 6][/us/pl/100/409/s6], Aug. 20, 1988, [102 Stat. 1090][/us/stat/102/1090]; [Pub. L. 103–437, § 6(r)][/us/pl/103/437/s6/r], Nov. 2, 1994, [108 Stat. 4587][/us/stat/108/4587].)
+([Pub. L. 94–588][/us/pl/94/588], § 17(b), Oct. 22, 1976, [90 Stat. 2962][/us/stat/90/2962]; [Pub. L. 100–409][/us/pl/100/409], § 6, Aug. 20, 1988, [102 Stat. 1090][/us/stat/102/1090]; [Pub. L. 103–437][/us/pl/103/437], § 6(r), Nov. 2, 1994, [108 Stat. 4587][/us/stat/108/4587].)
 
  __References in Text__ 
 
@@ -47,11 +47,11 @@
 ----------
 
 [/us/usc/t43/s1716/f/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1716%2Ff%2F2%2FB%2Fii
-[/us/pl/94/588/s17/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588%2Fs17%2Fb
+[/us/pl/94/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588
 [/us/stat/90/2962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2962
-[/us/pl/100/409/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F409%2Fs6
+[/us/pl/100/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F409
 [/us/stat/102/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1090
-[/us/pl/103/437/s6/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fr
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4587
 [/us/pl/94/588/s17/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588%2Fs17%2Fa%2F1
 [/us/stat/90/2961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2961

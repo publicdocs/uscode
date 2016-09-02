@@ -29,7 +29,7 @@
 
     (f) “excess animals” means wild free-roaming horses or burros (1) which have been removed from an area by the Secretary pursuant to applicable law or, (2) which must be removed from an area in order to preserve and maintain a thriving natural ecological balance and multiple-use relationship in that area.
 
-([Pub. L. 92–195, § 2][/us/pl/92/195/s2], Dec. 15, 1971, [85 Stat. 649][/us/stat/85/649]; [Pub. L. 95–514, § 14(b)][/us/pl/95/514/s14/b], Oct. 25, 1978, [92 Stat. 1810][/us/stat/92/1810].)
+([Pub. L. 92–195][/us/pl/92/195], § 2, Dec. 15, 1971, [85 Stat. 649][/us/stat/85/649]; [Pub. L. 95–514][/us/pl/95/514], § 14(b), Oct. 25, 1978, [92 Stat. 1810][/us/stat/92/1810].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/92/195/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F195%2Fs2
+[/us/pl/92/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F195
 [/us/stat/85/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F649
-[/us/pl/95/514/s14/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F514%2Fs14%2Fb
+[/us/pl/95/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F514
 [/us/stat/92/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1810
 [/us/pl/95/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F514
 

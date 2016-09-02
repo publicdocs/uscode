@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s1b.md) | [Next](./../../../../..//us/usc/t16/ch1/schI/m__us_usc_t16_s1d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1c)
 
-## § 1c. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
+## § 1c. Repealed. [Pub. L. 113–287][/us/pl/113/287], § 7, Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [act Aug. 8, 1953, ch. 384, § 2][/us/act/1953-08-08/ch384/s2], [67 Stat. 496][/us/stat/67/496]; [Pub. L. 91–383, § 2(b)][/us/pl/91/383/s2/b], Aug. 18, 1970, [84 Stat. 826][/us/stat/84/826], related to general administration provisions; system defined; particular areas. See sections 100501 and 100755 of Title 54, National Park Service and Related Programs.
+    Section, [act Aug. 8, 1953, ch. 384][/us/act/1953-08-08/ch384], § 2, [67 Stat. 496][/us/stat/67/496]; [Pub. L. 91–383][/us/pl/91/383], § 2(b), Aug. 18, 1970, [84 Stat. 826][/us/stat/84/826], related to general administration provisions; system defined; particular areas. See sections 100501 and 100755 of Title 54, National Park Service and Related Programs.
 
 ----------
 
@@ -24,11 +24,11 @@
 ----------
 ----------
 
-[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
-[/us/act/1953-08-08/ch384/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch384%2Fs2
+[/us/act/1953-08-08/ch384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch384
 [/us/stat/67/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F496
-[/us/pl/91/383/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F383%2Fs2%2Fb
+[/us/pl/91/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F383
 [/us/stat/84/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F826
 
 

@@ -17,7 +17,7 @@
 
     There is hereby established the Joshua Tree National Park, (hereinafter in this section referred to as the “park”), as generally depicted on a map entitled “Joshua Tree National Park Boundary—Proposed”, dated May 1991, and four maps entitled “Joshua Tree National Park Boundary and Wilderness”, numbered in the title one through four, and dated October 1991 or prior, which shall be on file and available for public inspection in the offices of the Superintendent of the park and the Director of the National Park Service, Department of the Interior. The Joshua Tree National Monument is hereby abolished as such, the lands and interests therein are hereby incorporated within and made part of the new Joshua Tree National Park, and any funds available for purposes of the monument shall be available for purposes of the park.
 
-([Pub. L. 103–433, title IV, § 402][/us/pl/103/433/s402], Oct. 31, 1994, [108 Stat. 4488][/us/stat/108/4488].)
+([Pub. L. 103–433, title IV][/us/pl/103/433/tIV], § 402, Oct. 31, 1994, [108 Stat. 4488][/us/stat/108/4488].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/433/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs402
+[/us/pl/103/433/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtIV
 [/us/stat/108/4488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4488
 
 

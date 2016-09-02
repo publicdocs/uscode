@@ -243,11 +243,11 @@
 
             In the case of violations occurring within the exclusive economic zone off American Samoa, Guam, or the Northern Mariana Islands, amounts received by the Secretary which are attributable to fines or penalties imposed under this chapter, including such sums collected from the forfeiture and disposition or sale of property seized subject to its authority, after payment of direct costs of the enforcement action to all entities involved in such action, shall be deposited into the Treasury of the Pacific Insular Area adjacent to the exclusive economic zone in which the violation occurred, to be used for fisheries enforcement and for implementation of a marine conservation plan under paragraph (4). In the case of violations by foreign vessels occurring within the exclusive economic zones off Midway Atoll, Johnston Atoll, Kingman Reef, Palmyra Atoll, Jarvis, Howland, Baker, and Wake Islands, amounts received by the Secretary attributable to fines and penalties imposed under this chapter, shall be deposited into the Western Pacific Sustainable Fisheries Fund established under paragraph (7) of this subsection.
 
-([Pub. L. 94–265, title II, § 204][/us/pl/94/265/s204], Apr. 13, 1976, [90 Stat. 342][/us/stat/90/342]; [Pub. L. 95–354, § 4(5)][/us/pl/95/354/s4/5]–(8), Aug. 28, 1978, [92 Stat. 520][/us/stat/92/520], 521; [Pub. L. 96–470, title I, § 111(b)][/us/pl/96/470/s111/b], title II, § 208, Oct. 19, 1980, [94 Stat. 2239][/us/stat/94/2239], 2245; [Pub. L. 96–561, title II, § 232][/us/pl/96/561/s232], Dec. 22, 1980, [94 Stat. 3298][/us/stat/94/3298]; [Pub. L. 97–453, § 3][/us/pl/97/453/s3], Jan. 12, 1983, [96 Stat. 2483][/us/stat/96/2483]; [Pub. L. 99–272, title VI, § 6021][/us/pl/99/272/s6021], Apr. 7, 1986, [100 Stat. 123][/us/stat/100/123]; [Pub. L. 99–659, title I][/us/pl/99/659], §§ 101(c)(2), 102, 103(b), Nov. 14, 1986, [100 Stat. 3707][/us/stat/100/3707], 3709; [Pub. L. 101–627, title I][/us/pl/101/627], §§ 106, 120(b), Nov. 28, 1990, [104 Stat. 4440][/us/stat/104/4440], 4459; [Pub. L. 102–251, title III, § 301(f)][/us/pl/102/251/s301/f], Mar. 9, 1992, [106 Stat. 64][/us/stat/106/64]; [Pub. L. 104–297, title I, § 105(d)][/us/pl/104/297/s105/d], Oct. 11, 1996, [110 Stat. 3564][/us/stat/110/3564]; [Pub. L. 109–479, § 6][/us/pl/109/479/s6], title IV, § 404(b), Jan. 12, 2007, [120 Stat. 3579][/us/stat/120/3579], 3632.)
+([Pub. L. 94–265, title II][/us/pl/94/265/tII], § 204, Apr. 13, 1976, [90 Stat. 342][/us/stat/90/342]; [Pub. L. 95–354][/us/pl/95/354], § 4(5)–(8), Aug. 28, 1978, [92 Stat. 520][/us/stat/92/520], 521; [Pub. L. 96–470, title I][/us/pl/96/470/tI], § 111(b), title II, § 208, Oct. 19, 1980, [94 Stat. 2239][/us/stat/94/2239], 2245; [Pub. L. 96–561, title II][/us/pl/96/561/tII], § 232, Dec. 22, 1980, [94 Stat. 3298][/us/stat/94/3298]; [Pub. L. 97–453][/us/pl/97/453], § 3, Jan. 12, 1983, [96 Stat. 2483][/us/stat/96/2483]; [Pub. L. 99–272, title VI][/us/pl/99/272/tVI], § 6021, Apr. 7, 1986, [100 Stat. 123][/us/stat/100/123]; [Pub. L. 99–659, title I][/us/pl/99/659/tI], §§ 101(c)(2), 102, 103(b), Nov. 14, 1986, [100 Stat. 3707][/us/stat/100/3707], 3709; [Pub. L. 101–627, title I][/us/pl/101/627/tI], §§ 106, 120(b), Nov. 28, 1990, [104 Stat. 4440][/us/stat/104/4440], 4459; [Pub. L. 102–251, title III][/us/pl/102/251/tIII], § 301(f), Mar. 9, 1992, [106 Stat. 64][/us/stat/106/64]; [Pub. L. 104–297, title I][/us/pl/104/297/tI], § 105(d), Oct. 11, 1996, [110 Stat. 3564][/us/stat/110/3564]; [Pub. L. 109–479][/us/pl/109/479], § 6, title IV, § 404(b), Jan. 12, 2007, [120 Stat. 3579][/us/stat/120/3579], 3632.)
 
  __Amendment of Subsection (a)__ 
 
-    [Pub. L. 102–251, title III][/us/pl/102/251], §§ 301(f), 308, Mar. 9, 1992, [106 Stat. 64][/us/stat/106/64], 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (a) is amended by inserting “within the special areas,” before “or for anadromous species” and “or areas” after “such zone”.
+    [Pub. L. 102–251, title III][/us/pl/102/251/tIII], §§ 301(f), 308, Mar. 9, 1992, [106 Stat. 64][/us/stat/106/64], 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (a) is amended by inserting “within the special areas,” before “or for anadromous species” and “or areas” after “such zone”.
 
  __References in Text__ 
 
@@ -257,41 +257,41 @@
 
  __Amendments__ 
 
-    2007—Subsec. (e)(4)(A)(i). [Pub. L. 109–479, § 404(b)][/us/pl/109/479/s404/b], amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “establishment of Pacific Insular Area observer programs, approved by the Secretary in consultation with the Western Pacific Council, that provide observer coverage for foreign fishing under Pacific Insular Area fishery agreements that is at least equal in effectiveness to the program established by the Secretary under [section 1821(h) of this title][/us/usc/t16/s1821/h];”.
+    2007—Subsec. (e)(4)(A)(i). [Pub. L. 109–479][/us/pl/109/479], § 404(b), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “establishment of Pacific Insular Area observer programs, approved by the Secretary in consultation with the Western Pacific Council, that provide observer coverage for foreign fishing under Pacific Insular Area fishery agreements that is at least equal in effectiveness to the program established by the Secretary under [section 1821(h) of this title][/us/usc/t16/s1821/h];”.
 
-    Subsec. (e)(7). [Pub. L. 109–479, § 6(1)][/us/pl/109/479/s6/1], inserted “and any funds or contributions received in support of conservation and management objectives under a marine conservation plan” after “agreement” in introductory provisions.
+    Subsec. (e)(7). [Pub. L. 109–479][/us/pl/109/479], § 6(1), inserted “and any funds or contributions received in support of conservation and management objectives under a marine conservation plan” after “agreement” in introductory provisions.
 
-    Subsec. (e)(8). [Pub. L. 109–479, § 6(2)][/us/pl/109/479/s6/2], inserted at end “In the case of violations by foreign vessels occurring within the exclusive economic zones off Midway Atoll, Johnston Atoll, Kingman Reef, Palmyra Atoll, Jarvis, Howland, Baker, and Wake Islands, amounts received by the Secretary attributable to fines and penalties imposed under this chapter, shall be deposited into the Western Pacific Sustainable Fisheries Fund established under paragraph (7) of this subsection.”
+    Subsec. (e)(8). [Pub. L. 109–479][/us/pl/109/479], § 6(2), inserted at end “In the case of violations by foreign vessels occurring within the exclusive economic zones off Midway Atoll, Johnston Atoll, Kingman Reef, Palmyra Atoll, Jarvis, Howland, Baker, and Wake Islands, amounts received by the Secretary attributable to fines and penalties imposed under this chapter, shall be deposited into the Western Pacific Sustainable Fisheries Fund established under paragraph (7) of this subsection.”
 
-    1996—Subsec. (b)(7). [Pub. L. 104–297, § 105(d)(1)][/us/pl/104/297/s105/d/1], inserted “or subsection (d)” after “under paragraph (6)” in introductory provisions.
+    1996—Subsec. (b)(7). [Pub. L. 104–297][/us/pl/104/297], § 105(d)(1), inserted “or subsection (d)” after “under paragraph (6)” in introductory provisions.
 
-    Subsec. (b)(7)(A). [Pub. L. 104–297, § 105(d)(2)][/us/pl/104/297/s105/d/2], substituted “any applicable Federal or State fishing regulations” for “the regulations promulgated to implement any such plan”.
+    Subsec. (b)(7)(A). [Pub. L. 104–297][/us/pl/104/297], § 105(d)(2), substituted “any applicable Federal or State fishing regulations” for “the regulations promulgated to implement any such plan”.
 
-    Subsec. (b)(7)(D). [Pub. L. 104–297, § 105(d)(3)][/us/pl/104/297/s105/d/3], inserted “or subsection (d)” after “under paragraph (6)(B)”.
+    Subsec. (b)(7)(D). [Pub. L. 104–297][/us/pl/104/297], § 105(d)(3), inserted “or subsection (d)” after “under paragraph (6)(B)”.
 
-    Subsecs. (d), (e). [Pub. L. 104–297, § 105(d)(4)][/us/pl/104/297/s105/d/4], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 104–297][/us/pl/104/297], § 105(d)(4), added subsecs. (d) and (e).
 
-    1990—Subsec. (b)(4)(C). [Pub. L. 101–627, § 120(b)][/us/pl/101/627/s120/b], substituted “Council” for “council”.
+    1990—Subsec. (b)(4)(C). [Pub. L. 101–627][/us/pl/101/627], § 120(b), substituted “Council” for “council”.
 
-    Subsec. (b)(10). [Pub. L. 101–627, § 106(a)][/us/pl/101/627/s106/a], amended par. (10) generally. Prior to amendment, par. (10) consisted of subpars. (A) to (F) relating to schedule of fees to be paid for permits for foreign fishing vessels, ratios for determining minimum fees, review and notice to Congress of performance by nations receiving allocations, factors included and excluded in cost of carrying out this chapter, use of amounts collected in fees, and deposit into general fund of United States Treasury of a determined amount.
+    Subsec. (b)(10). [Pub. L. 101–627][/us/pl/101/627], § 106(a), amended par. (10) generally. Prior to amendment, par. (10) consisted of subpars. (A) to (F) relating to schedule of fees to be paid for permits for foreign fishing vessels, ratios for determining minimum fees, review and notice to Congress of performance by nations receiving allocations, factors included and excluded in cost of carrying out this chapter, use of amounts collected in fees, and deposit into general fund of United States Treasury of a determined amount.
 
-    Subsec. (b)(12). [Pub. L. 101–627, § 106(b)][/us/pl/101/627/s106/b], struck out par. (12) which related to sanctions for violation of [section 1857 of this title][/us/usc/t16/s1857] or for failure to pay civil penalty under [section 1858 of this title][/us/usc/t16/s1858] or criminal fine under [section 1859 of this title][/us/usc/t16/s1859]. See [section 1858(g) of this title][/us/usc/t16/s1858/g].
+    Subsec. (b)(12). [Pub. L. 101–627][/us/pl/101/627], § 106(b), struck out par. (12) which related to sanctions for violation of [section 1857 of this title][/us/usc/t16/s1857] or for failure to pay civil penalty under [section 1858 of this title][/us/usc/t16/s1858] or criminal fine under [section 1859 of this title][/us/usc/t16/s1859]. See [section 1858(g) of this title][/us/usc/t16/s1858/g].
 
-    1986—Subsec. (a). [Pub. L. 99–659, § 101(c)(2)][/us/pl/99/659/s101/c/2], substituted “exclusive economic zone” for “fishery conservation zone”.
+    1986—Subsec. (a). [Pub. L. 99–659][/us/pl/99/659], § 101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
 
-    Subsec. (b)(1). [Pub. L. 99–659, § 102(1)][/us/pl/99/659/s102/1], inserted provision that no permit issued under this section may be valid for longer than a year, with [section 558(c) of title 5][/us/usc/t5/s558/c] inapplicable to the renewal of any such permit.
+    Subsec. (b)(1). [Pub. L. 99–659][/us/pl/99/659], § 102(1), inserted provision that no permit issued under this section may be valid for longer than a year, with [section 558(c) of title 5][/us/usc/t5/s558/c] inapplicable to the renewal of any such permit.
 
-    Subsec. (b)(3)(G). [Pub. L. 99–659, § 103(b)][/us/pl/99/659/s103/b], added subpar. (G).
+    Subsec. (b)(3)(G). [Pub. L. 99–659][/us/pl/99/659], § 103(b), added subpar. (G).
 
-    Subsec. (b)(4)(C). [Pub. L. 99–659, § 102(2)][/us/pl/99/659/s102/2], struck out “, upon its request” before period at end.
+    Subsec. (b)(4)(C). [Pub. L. 99–659][/us/pl/99/659], § 102(2), struck out “, upon its request” before period at end.
 
-    Subsec. (b)(6)(A). [Pub. L. 99–659, § 102(3)][/us/pl/99/659/s102/3], inserted “, or he may disapprove all or any portion of the application”.
+    Subsec. (b)(6)(A). [Pub. L. 99–659][/us/pl/99/659], § 102(3), inserted “, or he may disapprove all or any portion of the application”.
 
     Subsec. (b)(10). [Pub. L. 99–272][/us/pl/99/272] amended par. (10) generally. Prior to amendment, par. (10) read as follows: “Fees shall be paid to the Secretary by the owner or operator of any foreign fishing vessel for which a permit is issued pursuant to this subsection. The Secretary, in consultation with the Secretary of State, shall establish a schedule of such fees which shall apply nondiscriminatorily to each foreign nation. The fees imposed under this paragraph shall be at least in an amount sufficient to return to the United States an amount which bears to the total cost of carrying out the provisions of this chapter (including, but not limited to, fishery conservation and management, fisheries research, administration, and enforcement, but excluding costs for observers covered by surcharges under [section 1821(i)(4) of this title][/us/usc/t16/s1821/i/4]) during each fiscal year the same ratio as the aggregate quantity of fish harvested by foreign fishing vessels within the fishery conservation zone during the preceding year bears to the aggregate quantity of fish harvested by both foreign and domestic fishing vessels within such zone and the territorial waters of the United States during such preceding year. The amount collected by the Secretary under this paragraph shall be transferred to the fisheries loan fund established under [section 742c of this title][/us/usc/t16/s742c] for so long as such fund exists and used of the purpose of making loans therefrom, but only to the extent and in amounts provided for in advance in appropriation Acts.”
 
-    Subsec. (b)(10)(B), (C). [Pub. L. 99–659, § 101(c)(2)][/us/pl/99/659/s101/c/2], substituted “exclusive economic zone” for “fishery conservation zone”.
+    Subsec. (b)(10)(B), (C). [Pub. L. 99–659][/us/pl/99/659], § 101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
 
-    Subsec. (b)(12). [Pub. L. 99–659, § 102(4)][/us/pl/99/659/s102/4], amended par. (12) generally. Prior to amendment, par. (12) read as follows: “If any foreign fishing vessel for which a permit has been issued pursuant to this subsection has been used in the commission of any act prohibited by [section 1857 of this title][/us/usc/t16/s1857] the Secretary may, or if any civil penalty imposed under [section 1858 of this title][/us/usc/t16/s1858] or any criminal fine imposed under [section 1859 of this title][/us/usc/t16/s1859] has not been paid and is overdue the Secretary shall—
+    Subsec. (b)(12). [Pub. L. 99–659][/us/pl/99/659], § 102(4), amended par. (12) generally. Prior to amendment, par. (12) read as follows: “If any foreign fishing vessel for which a permit has been issued pursuant to this subsection has been used in the commission of any act prohibited by [section 1857 of this title][/us/usc/t16/s1857] the Secretary may, or if any civil penalty imposed under [section 1858 of this title][/us/usc/t16/s1858] or any criminal fine imposed under [section 1859 of this title][/us/usc/t16/s1859] has not been paid and is overdue the Secretary shall—
 
     “(A) revoke such permit, with or without prejudice to the right of the foreign nation involved to obtain a permit for such vessel in any subsequent year;
 
@@ -301,31 +301,31 @@
 
     Any permit which is suspended under this paragraph for nonpayment of a civil penalty shall be reinstated by the Secretary upon the payment of such civil penalty together with interest thereon at the prevailing rate.”
 
-    1983—Subsec. (b)(3)(B). [Pub. L. 97–453, § 3(1)][/us/pl/97/453/s3/1], inserted “hold” before “capacity”.
+    1983—Subsec. (b)(3)(B). [Pub. L. 97–453][/us/pl/97/453], § 3(1), inserted “hold” before “capacity”.
 
-    Subsec. (b)(4). [Pub. L. 97–453, § 3(2)][/us/pl/97/453/s3/2], struck out “and shall be set forth under the name of each Council to which it will be transmitted for comment” after “in paragraph (3)”.
+    Subsec. (b)(4). [Pub. L. 97–453][/us/pl/97/453], § 3(2), struck out “and shall be set forth under the name of each Council to which it will be transmitted for comment” after “in paragraph (3)”.
 
-    Subsec. (b)(4)(B). [Pub. L. 97–453, § 3(3)][/us/pl/97/453/s3/3], struck out “to each appropriate Council and” after “application”.
+    Subsec. (b)(4)(B). [Pub. L. 97–453][/us/pl/97/453], § 3(3), struck out “to each appropriate Council and” after “application”.
 
-    Subsec. (b)(4)(C). [Pub. L. 97–453, § 3(3)][/us/pl/97/453/s3/3], substituted “a copy or a summary of the application to the appropriate council, upon its request” for “a monthly summary of foreign fishing applications including a report on approved applications as described in paragraphs (6) and (7) to the Committee on Merchant Marine and Fisheries of the House of Representatives and to the Committees on Commerce and Foreign Relations of the Senate”.
+    Subsec. (b)(4)(C). [Pub. L. 97–453][/us/pl/97/453], § 3(3), substituted “a copy or a summary of the application to the appropriate council, upon its request” for “a monthly summary of foreign fishing applications including a report on approved applications as described in paragraphs (6) and (7) to the Committee on Merchant Marine and Fisheries of the House of Representatives and to the Committees on Commerce and Foreign Relations of the Senate”.
 
-    Subsec. (b)(5). [Pub. L. 97–453, § 3(4)][/us/pl/97/453/s3/4], substituted “After receiving a copy or summary of an application under paragraph (4)(C), the Council may” for “After receipt of an application transmitted under paragraph (4)(B), each appropriate Council shall”.
+    Subsec. (b)(5). [Pub. L. 97–453][/us/pl/97/453], § 3(4), substituted “After receiving a copy or summary of an application under paragraph (4)(C), the Council may” for “After receipt of an application transmitted under paragraph (4)(B), each appropriate Council shall”.
 
-    1980—Subsec. (b)(4)(C). [Pub. L. 96–470, § 208][/us/pl/96/470/s208], substituted “a monthly summary of foreign fishing applications including a report on approval applications as described in paragraph (6) and (7)” for “a copy of such material”.
+    1980—Subsec. (b)(4)(C). [Pub. L. 96–470][/us/pl/96/470], § 208, substituted “a monthly summary of foreign fishing applications including a report on approval applications as described in paragraph (6) and (7)” for “a copy of such material”.
 
-    Subsec. (b)(8)(D). [Pub. L. 96–470, § 111(b)][/us/pl/96/470/s111/b], struck out subpar. (D) which required the Secretary to promptly transmit a copy of each application to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committees on Commerce and Foreign Relations of the Senate.
+    Subsec. (b)(8)(D). [Pub. L. 96–470][/us/pl/96/470], § 111(b), struck out subpar. (D) which required the Secretary to promptly transmit a copy of each application to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committees on Commerce and Foreign Relations of the Senate.
 
-    Subsec. (b)(10). [Pub. L. 96–561, § 232(b)][/us/pl/96/561/s232/b], substituted provision directing that fees imposed under this paragraph be at least in an amount sufficient to return to the United States an amount which bears to the total cost of carrying out the provisions of this chapter, including, but not limited to, fishery conservation and management, fisheries research, administration, and enforcement, but excluding costs for observers covered by surcharges under [section 1821(i)(4) of this title][/us/usc/t16/s1821/i/4], during each fiscal year, the same ratio as the aggregate quantity of fish harvested by foreign fishing vessels within the fishery conservation zone during the preceding year bears to the aggregate quantity of fish harvested by both foreign and domestic fishing vessels within such zone and the territorial waters of the United States during such preceding year and that the fees collected for permits issued after 1981 be transferred to the fisheries loan fund for provision directing that fees be formulated so as to ensure that receipts resulting from payments for fees issued for 1981 are not less than an amount equal to 7 percent of the ex vessel value of the total harvest by foreign fishing vessels in the fishery conservation zone during 1979 and that the fees collected for permits issued for 1981 be transferred to the fisheries loan fund.
+    Subsec. (b)(10). [Pub. L. 96–561][/us/pl/96/561], § 232(b), substituted provision directing that fees imposed under this paragraph be at least in an amount sufficient to return to the United States an amount which bears to the total cost of carrying out the provisions of this chapter, including, but not limited to, fishery conservation and management, fisheries research, administration, and enforcement, but excluding costs for observers covered by surcharges under [section 1821(i)(4) of this title][/us/usc/t16/s1821/i/4], during each fiscal year, the same ratio as the aggregate quantity of fish harvested by foreign fishing vessels within the fishery conservation zone during the preceding year bears to the aggregate quantity of fish harvested by both foreign and domestic fishing vessels within such zone and the territorial waters of the United States during such preceding year and that the fees collected for permits issued after 1981 be transferred to the fisheries loan fund for provision directing that fees be formulated so as to ensure that receipts resulting from payments for fees issued for 1981 are not less than an amount equal to 7 percent of the ex vessel value of the total harvest by foreign fishing vessels in the fishery conservation zone during 1979 and that the fees collected for permits issued for 1981 be transferred to the fisheries loan fund.
 
-    [Pub. L. 96–561, § 232(a)][/us/pl/96/561/s232/a], substituted provision directing that fees be formulated so as to ensure that receipts resulting from payments for fees issued for 1981 are not less than an amount equal to 7 percent of the ex vessel value of the total harvest by foreign fishing vessels in the fishery conservation zone during 1979 and that the fees collected for permits issued for 1981 be transferred to the fisheries loan fund for provision permitting the Secretary, in determining the level of fees, to take into account the cost of carrying out the provisions of this chapter with respect to foreign fishing, including, but not limited to, the cost of fishery conservation and management, fisheries research, administration, and enforcement.
+    [Pub. L. 96–561][/us/pl/96/561], § 232(a), substituted provision directing that fees be formulated so as to ensure that receipts resulting from payments for fees issued for 1981 are not less than an amount equal to 7 percent of the ex vessel value of the total harvest by foreign fishing vessels in the fishery conservation zone during 1979 and that the fees collected for permits issued for 1981 be transferred to the fisheries loan fund for provision permitting the Secretary, in determining the level of fees, to take into account the cost of carrying out the provisions of this chapter with respect to foreign fishing, including, but not limited to, the cost of fishery conservation and management, fisheries research, administration, and enforcement.
 
-    1978—Subsec. (b)(3)(D) to (F). [Pub. L. 95–354, § 4(5)][/us/pl/95/354/s4/5], in subpar. (D) substituted provisions relating to estimation of amount of tonnage which will be caught, taken, or harvested, for provisions relating to the amount of fish or tonnage of catch contemplated for each vessel, added subpar. (E), and redesignated former subpar. (E) as (F).
+    1978—Subsec. (b)(3)(D) to (F). [Pub. L. 95–354][/us/pl/95/354], § 4(5), in subpar. (D) substituted provisions relating to estimation of amount of tonnage which will be caught, taken, or harvested, for provisions relating to the amount of fish or tonnage of catch contemplated for each vessel, added subpar. (E), and redesignated former subpar. (E) as (F).
 
-    Subsec. (b)(4). [Pub. L. 95–354, § 4(6)][/us/pl/95/354/s4/6], substituted provisions relating to publication of the notice of receipt of the application in the Federal Register, for provisions relating to publication of the application in the Federal Register.
+    Subsec. (b)(4). [Pub. L. 95–354][/us/pl/95/354], § 4(6), substituted provisions relating to publication of the notice of receipt of the application in the Federal Register, for provisions relating to publication of the application in the Federal Register.
 
-    Subsec. (b)(6). [Pub. L. 95–354, § 4(7)][/us/pl/95/354/s4/7], redesignated existing provisions as subpar. (A) inserted reference to subpar. (B), and added subpar. (B).
+    Subsec. (b)(6). [Pub. L. 95–354][/us/pl/95/354], § 4(7), redesignated existing provisions as subpar. (A) inserted reference to subpar. (B), and added subpar. (B).
 
-    Subsec. (b)(7)(D) to (F). [Pub. L. 95–354, § 4(8)][/us/pl/95/354/s4/8], added subpars. (D) and (E) and redesignated former subpar. (D) as (F).
+    Subsec. (b)(7)(D) to (F). [Pub. L. 95–354][/us/pl/95/354], § 4(8), added subpars. (D) and (E) and redesignated former subpar. (D) as (F).
 
  __Effective Date of 1992 Amendment__ 
 
@@ -333,9 +333,9 @@
 
  __Effective Date of 1980 Amendment__ 
 
-    [Pub. L. 96–561, title II, § 232(a)][/us/pl/96/561/s232/a], Dec. 22, 1980, [94 Stat. 3298][/us/stat/94/3298], provided that the amendment made by that section is effective with respect to permits issued under subsec. (b) of this section for 1981.
+    [Pub. L. 96–561, title II][/us/pl/96/561/tII], § 232(a), Dec. 22, 1980, [94 Stat. 3298][/us/stat/94/3298], provided that the amendment made by that section is effective with respect to permits issued under subsec. (b) of this section for 1981.
 
-    [Pub. L. 96–561, title II, § 232(b)][/us/pl/96/561/s232/b], Dec. 22, 1980, [94 Stat. 3298][/us/stat/94/3298], provided that the amendment made by that section is effective with respect to permits issued under subsec. (b) of this section after 1981.
+    [Pub. L. 96–561, title II][/us/pl/96/561/tII], § 232(b), Dec. 22, 1980, [94 Stat. 3298][/us/stat/94/3298], provided that the amendment made by that section is effective with respect to permits issued under subsec. (b) of this section after 1981.
 
  __Transfer of Functions__ 
 
@@ -356,29 +356,29 @@
 [/us/usc/t16/s1821/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1821%2Fc
 [/us/usc/t16/s1821/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1821%2Fd
 [/us/usc/t16/s1821/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1821%2Fh
-[/us/pl/94/265/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs204
+[/us/pl/94/265/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2FtII
 [/us/stat/90/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F342
-[/us/pl/95/354/s4/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F354%2Fs4%2F5
+[/us/pl/95/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F354
 [/us/stat/92/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F520
-[/us/pl/96/470/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs111%2Fb
+[/us/pl/96/470/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2FtI
 [/us/stat/94/2239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2239
-[/us/pl/96/561/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs232
+[/us/pl/96/561/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtII
 [/us/stat/94/3298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3298
-[/us/pl/97/453/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453%2Fs3
+[/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
 [/us/stat/96/2483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2483
-[/us/pl/99/272/s6021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs6021
+[/us/pl/99/272/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtVI
 [/us/stat/100/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F123
-[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
+[/us/pl/99/659/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtI
 [/us/stat/100/3707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3707
-[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtI
 [/us/stat/104/4440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4440
-[/us/pl/102/251/s301/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2Fs301%2Ff
+[/us/pl/102/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2FtIII
 [/us/stat/106/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F64
-[/us/pl/104/297/s105/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs105%2Fd
+[/us/pl/104/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtI
 [/us/stat/110/3564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3564
-[/us/pl/109/479/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs6
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
 [/us/stat/120/3579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3579
-[/us/pl/102/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251
+[/us/pl/102/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2FtIII
 [/us/stat/106/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F64
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331
@@ -387,55 +387,55 @@
 [/us/usc/t16/s1856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1856
 [/us/pl/104/297/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs111%2Fb
 [/us/usc/t16/s1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1855
-[/us/pl/109/479/s404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs404%2Fb
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
 [/us/usc/t16/s1821/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1821%2Fh
-[/us/pl/109/479/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs6%2F1
-[/us/pl/109/479/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs6%2F2
-[/us/pl/104/297/s105/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs105%2Fd%2F1
-[/us/pl/104/297/s105/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs105%2Fd%2F2
-[/us/pl/104/297/s105/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs105%2Fd%2F3
-[/us/pl/104/297/s105/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs105%2Fd%2F4
-[/us/pl/101/627/s120/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs120%2Fb
-[/us/pl/101/627/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs106%2Fa
-[/us/pl/101/627/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs106%2Fb
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
 [/us/usc/t16/s1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1857
 [/us/usc/t16/s1858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1858
 [/us/usc/t16/s1859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1859
 [/us/usc/t16/s1858/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1858%2Fg
-[/us/pl/99/659/s101/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs101%2Fc%2F2
-[/us/pl/99/659/s102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs102%2F1
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
 [/us/usc/t5/s558/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs558%2Fc
-[/us/pl/99/659/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs103%2Fb
-[/us/pl/99/659/s102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs102%2F2
-[/us/pl/99/659/s102/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs102%2F3
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/usc/t16/s1821/i/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1821%2Fi%2F4
 [/us/usc/t16/s742c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs742c
-[/us/pl/99/659/s101/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs101%2Fc%2F2
-[/us/pl/99/659/s102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs102%2F4
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
 [/us/usc/t16/s1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1857
 [/us/usc/t16/s1858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1858
 [/us/usc/t16/s1859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1859
-[/us/pl/97/453/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453%2Fs3%2F1
-[/us/pl/97/453/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453%2Fs3%2F2
-[/us/pl/97/453/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453%2Fs3%2F3
-[/us/pl/97/453/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453%2Fs3%2F3
-[/us/pl/97/453/s3/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453%2Fs3%2F4
-[/us/pl/96/470/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs208
-[/us/pl/96/470/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs111%2Fb
-[/us/pl/96/561/s232/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs232%2Fb
+[/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
+[/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
+[/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
+[/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
+[/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
+[/us/pl/96/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470
+[/us/pl/96/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470
+[/us/pl/96/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561
 [/us/usc/t16/s1821/i/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1821%2Fi%2F4
-[/us/pl/96/561/s232/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs232%2Fa
-[/us/pl/95/354/s4/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F354%2Fs4%2F5
-[/us/pl/95/354/s4/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F354%2Fs4%2F6
-[/us/pl/95/354/s4/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F354%2Fs4%2F7
-[/us/pl/95/354/s4/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F354%2Fs4%2F8
+[/us/pl/96/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561
+[/us/pl/95/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F354
+[/us/pl/95/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F354
+[/us/pl/95/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F354
+[/us/pl/95/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F354
 [/us/pl/102/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251
 [/us/pl/102/251/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2Fs308
 [/us/usc/t16/s773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs773
-[/us/pl/96/561/s232/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs232%2Fa
+[/us/pl/96/561/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtII
 [/us/stat/94/3298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3298
-[/us/pl/96/561/s232/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs232%2Fb
+[/us/pl/96/561/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtII
 [/us/stat/94/3298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3298
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

@@ -37,7 +37,7 @@
 
         The term “strategy” means a landscape restoration strategy described in [section 7303(b)(1) of this title][/us/usc/t16/s7303/b/1].
 
-([Pub. L. 111–11, title IV, § 4002][/us/pl/111/11/s4002], Mar. 30, 2009, [123 Stat. 1141][/us/stat/123/1141].)
+([Pub. L. 111–11, title IV][/us/pl/111/11/tIV], § 4002, Mar. 30, 2009, [123 Stat. 1141][/us/stat/123/1141].)
 
 ----------
 
@@ -50,7 +50,7 @@
 [/us/usc/t16/s7303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7303%2Fa
 [/us/usc/t16/s7303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7303%2Fb
 [/us/usc/t16/s7303/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7303%2Fb%2F1
-[/us/pl/111/11/s4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs4002
+[/us/pl/111/11/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtIV
 [/us/stat/123/1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1141
 
 

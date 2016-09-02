@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s471a.md) | [Next](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s471c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs471b)
 
-## § 471b. Repealed. [Pub. L. 94–579, title VII, § 704(a)][/us/pl/94/579/s704/a], Oct. 21, 1976, [90 Stat. 2792][/us/stat/90/2792]
+## § 471b. Repealed. [Pub. L. 94–579, title VII][/us/pl/94/579/tVII], § 704(a), Oct. 21, 1976, [90 Stat. 2792][/us/stat/90/2792]
 
-    Section, [act July 20, 1939, ch. 334, § 1][/us/act/1939-07-20/ch334/s1], [53 Stat. 1071][/us/stat/53/1071], authorized addition of lands within State of Montana to existing or inclusion within new national forests.
+    Section, [act July 20, 1939, ch. 334][/us/act/1939-07-20/ch334], § 1, [53 Stat. 1071][/us/stat/53/1071], authorized addition of lands within State of Montana to existing or inclusion within new national forests.
 
  __Effective Date of Repeal__ 
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/94/579/s704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2Fs704%2Fa
+[/us/pl/94/579/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2FtVII
 [/us/stat/90/2792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2792
-[/us/act/1939-07-20/ch334/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-07-20%2Fch334%2Fs1
+[/us/act/1939-07-20/ch334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-07-20%2Fch334
 [/us/stat/53/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1071
 [/us/pl/94/579/s704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2Fs704%2Fa
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579

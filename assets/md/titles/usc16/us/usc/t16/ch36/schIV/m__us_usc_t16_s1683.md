@@ -29,7 +29,7 @@
 
     (6) For the purposes of [section 500 of this title][/us/usc/t16/s500], (A) any residue removal credit applied under this section shall be considered as “money received” or “moneys received”, respectively, and (B) the “money received” or “moneys received”, respectively, from the sales of wood residues removed to points of prospective use shall be the proceeds of the sales less the sum of any residue removal credit applied with respect to such residues plus any costs incurred by the Forest Service in processing and storing such residues.
 
-([Pub. L. 96–554, § 4][/us/pl/96/554/s4], Dec. 19, 1980, [94 Stat. 3257][/us/stat/94/3257].)
+([Pub. L. 96–554][/us/pl/96/554], § 4, Dec. 19, 1980, [94 Stat. 3257][/us/stat/94/3257].)
 
 ----------
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t16/s500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs500
-[/us/pl/96/554/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F554%2Fs4
+[/us/pl/96/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F554
 [/us/stat/94/3257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3257
 
 

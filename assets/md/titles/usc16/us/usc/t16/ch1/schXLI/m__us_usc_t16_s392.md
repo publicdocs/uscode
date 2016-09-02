@@ -41,7 +41,7 @@
 
  __Extension of Application__ 
 
-    [Act Apr. 11, 1928, ch. 359, § 2][/us/act/1928-04-11/ch359/s2], [45 Stat. 426][/us/stat/45/426], extended provisions of this section and made them applicable to lands added to the park and included within boundary established by [section 391 of this title][/us/usc/t16/s391].
+    [Act Apr. 11, 1928, ch. 359][/us/act/1928-04-11/ch359], § 2, [45 Stat. 426][/us/stat/45/426], extended provisions of this section and made them applicable to lands added to the park and included within boundary established by [section 391 of this title][/us/usc/t16/s391].
 
 ----------
 
@@ -58,7 +58,7 @@
 [/us/usc/t48/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs491
 [/us/usc/t16/s391d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs391d
 [/us/usc/t16/s396b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs396b
-[/us/act/1928-04-11/ch359/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-04-11%2Fch359%2Fs2
+[/us/act/1928-04-11/ch359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-04-11%2Fch359
 [/us/stat/45/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F426
 [/us/usc/t16/s391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs391
 

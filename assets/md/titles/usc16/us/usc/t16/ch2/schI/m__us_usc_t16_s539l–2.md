@@ -49,7 +49,7 @@
 
         After the consultation required by subsection (c), the Forest Supervisor shall submit to the Committee on Resources and the Committee on Appropriations of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Appropriations of the Senate a report regarding the amount of any additional funding required to implement this section.
 
-([Pub. L. 107–216, § 5][/us/pl/107/216/s5], Aug. 21, 2002, [116 Stat. 1060][/us/stat/116/1060].)
+([Pub. L. 107–216][/us/pl/107/216], § 5, Aug. 21, 2002, [116 Stat. 1060][/us/stat/116/1060].)
 
  __Change of Name__ 
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/107/216/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F216%2Fs5
+[/us/pl/107/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F216
 [/us/stat/116/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1060
 
 

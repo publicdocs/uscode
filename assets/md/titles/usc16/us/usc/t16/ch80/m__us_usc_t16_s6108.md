@@ -41,21 +41,21 @@
 
         The Secretary may accept and use donations to carry out this chapter. Amounts received by the Secretary in the form of donations shall be transferred to the Secretary of the Treasury for deposit into the Fund.
 
-([Pub. L. 106–247, § 9][/us/pl/106/247/s9], July 20, 2000, [114 Stat. 596][/us/stat/114/596]; [Pub. L. 109–363, title III, § 302(h)(1)][/us/pl/109/363/s302/h/1], (2), (3)(B), Oct. 17, 2006, [120 Stat. 2076][/us/stat/120/2076], 2077.)
+([Pub. L. 106–247][/us/pl/106/247], § 9, July 20, 2000, [114 Stat. 596][/us/stat/114/596]; [Pub. L. 109–363, title III][/us/pl/109/363/tIII], § 302(h)(1), (2), (3)(B), Oct. 17, 2006, [120 Stat. 2076][/us/stat/120/2076], 2077.)
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–363, § 302(h)(1)][/us/pl/109/363/s302/h/1], substituted “Neotropical Migratory Bird Conservation Fund” for “Neotropical Migratory Bird Conservation Account” in section catchline.
+    2006—[Pub. L. 109–363][/us/pl/109/363], § 302(h)(1), substituted “Neotropical Migratory Bird Conservation Fund” for “Neotropical Migratory Bird Conservation Account” in section catchline.
 
-    Subsecs. (a), (b). [Pub. L. 109–363, § 302(h)(1)][/us/pl/109/363/s302/h/1], added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to the establishment of and deposits into the Neotropical Migratory Bird Conservation Account.
+    Subsecs. (a), (b). [Pub. L. 109–363][/us/pl/109/363], § 302(h)(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to the establishment of and deposits into the Neotropical Migratory Bird Conservation Account.
 
-    Subsec. (c)(2). [Pub. L. 109–363, § 302(h)(2)][/us/pl/109/363/s302/h/2], substituted “$100,000” for “$80,000”.
+    Subsec. (c)(2). [Pub. L. 109–363][/us/pl/109/363], § 302(h)(2), substituted “$100,000” for “$80,000”.
 
-    Subsec. (d). [Pub. L. 109–363, § 302(h)(3)(B)][/us/pl/109/363/s302/h/3/B], substituted “Fund” for “Account”.
+    Subsec. (d). [Pub. L. 109–363][/us/pl/109/363], § 302(h)(3)(B), substituted “Fund” for “Account”.
 
  __Transfer of Funds__ 
 
-[Pub. L. 109–363, title III, § 302(h)(4)][/us/pl/109/363/s302/h/4], Oct. 17, 2006, [120 Stat. 2077][/us/stat/120/2077], provided that: 
+[Pub. L. 109–363, title III][/us/pl/109/363/tIII], § 302(h)(4), Oct. 17, 2006, [120 Stat. 2077][/us/stat/120/2077], provided that: 
 
 > “The Secretary of the Treasury may transfer to the Neotropical Migratory Bird Conservation Fund amounts that were in the Neotropical Migratory Bird Conservation Account immediately before the enactment of this Act \[Oct. 17, 2006\].”
 
@@ -66,15 +66,15 @@
 ----------
 ----------
 
-[/us/pl/106/247/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F247%2Fs9
+[/us/pl/106/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F247
 [/us/stat/114/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F596
-[/us/pl/109/363/s302/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2Fs302%2Fh%2F1
+[/us/pl/109/363/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2FtIII
 [/us/stat/120/2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2076
-[/us/pl/109/363/s302/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2Fs302%2Fh%2F1
-[/us/pl/109/363/s302/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2Fs302%2Fh%2F1
-[/us/pl/109/363/s302/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2Fs302%2Fh%2F2
-[/us/pl/109/363/s302/h/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2Fs302%2Fh%2F3%2FB
-[/us/pl/109/363/s302/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2Fs302%2Fh%2F4
+[/us/pl/109/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363
+[/us/pl/109/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363
+[/us/pl/109/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363
+[/us/pl/109/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363
+[/us/pl/109/363/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2FtIII
 [/us/stat/120/2077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2077
 
 

@@ -39,7 +39,7 @@
 
         All Federal lands, waters, and interests therein excluded from the boundaries of Chaco Canyon National Monument by this subchapter may be exchanged for non-Federal property to be acquired pursuant to this subchapter. Any lands so excluded shall be managed by the Secretary under the provisions of the Federal Land Policy and Management Act of 1976 \[[43 U.S.C. 1701][/us/usc/t43/s1701] et seq.\]. Transfer of administration of such lands to the Bureau of Land Management shall not be considered a withdrawal as that term is defined in section 103(j) of the Federal Land Policy and Management Act of 1976 \[[43 U.S.C. 1702(j)][/us/usc/t43/s1702/j]\].
 
-([Pub. L. 96–550, title V, § 504][/us/pl/96/550/s504], Dec. 19, 1980, [94 Stat. 3228][/us/stat/94/3228]; [Pub. L. 104–11, § 4][/us/pl/104/11/s4], May 18, 1995, [109 Stat. 159][/us/stat/109/159].)
+([Pub. L. 96–550, title V][/us/pl/96/550/tV], § 504, Dec. 19, 1980, [94 Stat. 3228][/us/stat/94/3228]; [Pub. L. 104–11][/us/pl/104/11], § 4, May 18, 1995, [109 Stat. 159][/us/stat/109/159].)
 
  __References in Text__ 
 
@@ -62,9 +62,9 @@
 [/us/usc/t16/s410ii–1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410ii%E2%80%931%2Fb
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
 [/us/usc/t43/s1702/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1702%2Fj
-[/us/pl/96/550/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F550%2Fs504
+[/us/pl/96/550/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F550%2FtV
 [/us/stat/94/3228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3228
-[/us/pl/104/11/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F11%2Fs4
+[/us/pl/104/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F11
 [/us/stat/109/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F159
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
 [/us/stat/90/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2743

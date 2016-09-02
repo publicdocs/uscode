@@ -33,7 +33,7 @@
 
         The Secretary shall consult periodically with the various governmental, private nonprofit, and other organizations and agencies which have to do with any phase of fish and wildlife with respect to any problems that may arise in connection with such fish and wildlife.
 
-([Aug. 8, 1956, ch. 1036, § 8][/us/act/1956-08-08/ch1036/s8], [70 Stat. 1123][/us/stat/70/1123].)
+([Aug. 8, 1956, ch. 1036][/us/act/1956-08-08/ch1036], § 8, [70 Stat. 1123][/us/stat/70/1123].)
 
  __Transfer of Functions__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t19/s1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1351
-[/us/act/1956-08-08/ch1036/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1036%2Fs8
+[/us/act/1956-08-08/ch1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1036
 [/us/stat/70/1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1123
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
 [/us/usc/t16/s742b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs742b

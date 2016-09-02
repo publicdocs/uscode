@@ -17,7 +17,7 @@
 
     The portion of the recreation area delineated as the “Inland Sector” on the map referenced in [section 460z–3 of this title][/us/usc/t16/s460z–3] is hereby established as an inland buffer sector in order to promote such management and use of the lands, waters, and other properties within such sector as will best protect the values which contribute to the purposes set forth in [section 460z of this title][/us/usc/t16/s460z].
 
-([Pub. L. 92–260, § 3][/us/pl/92/260/s3], Mar. 23, 1972, [86 Stat. 99][/us/stat/86/99].)
+([Pub. L. 92–260][/us/pl/92/260], § 3, Mar. 23, 1972, [86 Stat. 99][/us/stat/86/99].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t16/s460z–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460z%E2%80%933
 [/us/usc/t16/s460z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460z
-[/us/pl/92/260/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F260%2Fs3
+[/us/pl/92/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F260
 [/us/stat/86/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F99
 
 

@@ -17,7 +17,7 @@
 
     In order to provide present and future generations with the use and enjoyment of certain ocean headlands, rivers, streams, estuaries, and forested areas, to insure the protection and encourage the study of significant areas for research and scientific purposes, and to promote a more sensitive relationship between man and his adjacent environment, there is hereby established, subject to valid existing rights, the Cascade Head Scenic-Research Area (hereinafter referred to as “the Area”) in the Siuslaw National Forest in the State of Oregon.
 
-([Pub. L. 93–535, § 1][/us/pl/93/535/s1], Dec. 22, 1974, [88 Stat. 1732][/us/stat/88/1732].)
+([Pub. L. 93–535][/us/pl/93/535], § 1, Dec. 22, 1974, [88 Stat. 1732][/us/stat/88/1732].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/535/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F535%2Fs1
+[/us/pl/93/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F535
 [/us/stat/88/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1732
 
 

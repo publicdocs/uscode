@@ -33,7 +33,7 @@
 
     (8) None of these resources, sites, or stories of the Shenandoah Valley are protected by or interpreted within the National Park System.
 
-([Pub. L. 107–373, § 3][/us/pl/107/373/s3], Dec. 19, 2002, [116 Stat. 3104][/us/stat/116/3104].)
+([Pub. L. 107–373][/us/pl/107/373], § 3, Dec. 19, 2002, [116 Stat. 3104][/us/stat/116/3104].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/107/373/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F373%2Fs3
+[/us/pl/107/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F373
 [/us/stat/116/3104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3104
 
 

@@ -17,7 +17,7 @@
 
     That in order to encourage scientific research into atmospheric processes and astronomical phenomena, and to preserve conditions necessary for that research, there is hereby established the Langmuir Research Site (hereinafter referred to as the “research site”) in the Cibola National Forest in the State of New Mexico.
 
-([Pub. L. 96–550, title II, § 201][/us/pl/96/550/s201], Dec. 19, 1980, [94 Stat. 3225][/us/stat/94/3225].)
+([Pub. L. 96–550, title II][/us/pl/96/550/tII], § 201, Dec. 19, 1980, [94 Stat. 3225][/us/stat/94/3225].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/550/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F550%2Fs201
+[/us/pl/96/550/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F550%2FtII
 [/us/stat/94/3225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3225
 
 

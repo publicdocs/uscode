@@ -25,7 +25,7 @@
 
  __Change of Name__ 
 
-    Abraham Lincoln National Historical Park was renamed Abraham Lincoln Birthplace National Historic Site by [Pub. L. 86–231][/us/pl/86/231], Sept. 8, 1959, [73 Stat. 466][/us/stat/73/466], and then was renamed Abraham Lincoln Birthplace National Historical Park by [Pub. L. 111–11, title VII, § 7114(a)][/us/pl/111/11/s7114/a], Mar. 30, 2009, [123 Stat. 1202][/us/stat/123/1202].
+    Abraham Lincoln National Historical Park was renamed Abraham Lincoln Birthplace National Historic Site by [Pub. L. 86–231][/us/pl/86/231], Sept. 8, 1959, [73 Stat. 466][/us/stat/73/466], and then was renamed Abraham Lincoln Birthplace National Historical Park by [Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7114(a), Mar. 30, 2009, [123 Stat. 1202][/us/stat/123/1202].
 
 ----------
 
@@ -39,7 +39,7 @@
 [/us/usc/t16/s440a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs440a
 [/us/pl/86/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F231
 [/us/stat/73/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F466
-[/us/pl/111/11/s7114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7114%2Fa
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1202
 
 

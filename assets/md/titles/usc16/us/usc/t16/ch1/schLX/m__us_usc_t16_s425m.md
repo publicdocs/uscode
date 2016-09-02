@@ -27,7 +27,7 @@
 
         As used in this section, the term “improved property” means a year-round noncommercial single-family dwelling together with such land, in the same ownership as the dwelling, as the Secretary determines is reasonably necessary for the enjoyment of the dwelling for single-family residential use.
 
-([Pub. L. 101–214, § 4][/us/pl/101/214/s4], Dec. 11, 1989, [103 Stat. 1850][/us/stat/103/1850].)
+([Pub. L. 101–214][/us/pl/101/214], § 4, Dec. 11, 1989, [103 Stat. 1850][/us/stat/103/1850].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/101/214/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F214%2Fs4
+[/us/pl/101/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F214
 [/us/stat/103/1850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1850
 
 

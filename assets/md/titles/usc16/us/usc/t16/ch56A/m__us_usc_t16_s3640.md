@@ -31,7 +31,7 @@
 
         Except for officials of the United States Government, such individuals shall not be considered to be Federal employees while engaged in the actual performance of duties for the United States Section or for the Commission, except for the purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 71  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be chapter “171”. </sup></sup>  of title 28.
 
-([Pub. L. 99–5, § 11][/us/pl/99/5/s11], Mar. 15, 1985, [99 Stat. 14][/us/stat/99/14].)
+([Pub. L. 99–5][/us/pl/99/5], § 11, Mar. 15, 1985, [99 Stat. 14][/us/stat/99/14].)
 
  __References in Other Laws to GS–16, 17, or 18 Pay Rates__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/99/5/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5%2Fs11
+[/us/pl/99/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5
 [/us/stat/99/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F14
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376

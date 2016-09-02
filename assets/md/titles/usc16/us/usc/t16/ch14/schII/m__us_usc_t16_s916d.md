@@ -45,7 +45,7 @@
 
         Any person, in making application for a license to operate a land station or a factory ship must furnish evidence or affidavits to the satisfaction of the Secretary of Commerce that, in addition to conforming to other applicable laws and regulations, such land station or factory ship is adequately equipped to comply with provisions of the convention, of the regulations of the Commission, and of the regulations of the Secretary of Commerce with respect to the processing of whales or the manufacture of whale products.
 
-([Aug. 9, 1950, ch. 653, § 6][/us/act/1950-08-09/ch653/s6], [64 Stat. 422][/us/stat/64/422]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
+([Aug. 9, 1950, ch. 653][/us/act/1950-08-09/ch653], § 6, [64 Stat. 422][/us/stat/64/422]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
 
  __Transfer of Functions__ 
 
@@ -53,7 +53,7 @@
 
  __Refund of License Fees Paid Under Subchapter I of This Chapter__ 
 
-    [Act Aug. 9, 1950, ch. 653, § 16][/us/act/1950-08-09/ch653/s16], [64 Stat. 425][/us/stat/64/425], provided in part that the Secretary of the Interior is authorized to refund any part of a license fee paid under former [section 908 of this title][/us/usc/t16/s908] that is in excess of the license fee required under this section.
+    [Act Aug. 9, 1950, ch. 653][/us/act/1950-08-09/ch653], § 16, [64 Stat. 425][/us/stat/64/425], provided in part that the Secretary of the Interior is authorized to refund any part of a license fee paid under former [section 908 of this title][/us/usc/t16/s908] that is in excess of the license fee required under this section.
 
 ----------
 
@@ -62,11 +62,11 @@
 ----------
 ----------
 
-[/us/act/1950-08-09/ch653/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch653%2Fs6
+[/us/act/1950-08-09/ch653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch653
 [/us/stat/64/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F422
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
 [/us/usc/t16/s916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs916
-[/us/act/1950-08-09/ch653/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch653%2Fs16
+[/us/act/1950-08-09/ch653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch653
 [/us/stat/64/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F425
 [/us/usc/t16/s908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs908
 

@@ -117,7 +117,7 @@
 
         Within 180 days after December 23, 2000, the Administrator shall promulgate necessary guidelines for implementing this section. In developing those guidelines, the Administrator shall consult with State, regional, and local entities involved in setting priorities for conservation of coral reefs and provide for appropriate public notice and opportunity for comment.
 
-([Pub. L. 106–562, title II, § 204][/us/pl/106/562/s204], Dec. 23, 2000, [114 Stat. 2801][/us/stat/114/2801].)
+([Pub. L. 106–562, title II][/us/pl/106/562/tII], § 204, Dec. 23, 2000, [114 Stat. 2801][/us/stat/114/2801].)
 
  __References in Text__ 
 
@@ -132,7 +132,7 @@
 
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
 [/us/usc/t16/s6402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6402
-[/us/pl/106/562/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs204
+[/us/pl/106/562/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2FtII
 [/us/stat/114/2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2801
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331

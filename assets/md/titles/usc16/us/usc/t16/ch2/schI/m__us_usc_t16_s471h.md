@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture is hereby authorized to cooperate with and receive the cooperation of public and private agencies and organizations and individuals in the development, administration, and operation of the Cradle of Forestry in America. The Secretary of Agriculture is authorized to accept contributions and gifts to be used to further the purposes of sections 471f to 471h of this title.
 
-([Pub. L. 90–398, § 3][/us/pl/90/398/s3], July 11, 1968, [82 Stat. 342][/us/stat/82/342].)
+([Pub. L. 90–398][/us/pl/90/398], § 3, July 11, 1968, [82 Stat. 342][/us/stat/82/342].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/398/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F398%2Fs3
+[/us/pl/90/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F398
 [/us/stat/82/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F342
 
 

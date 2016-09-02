@@ -17,11 +17,11 @@
 
     The Secretary shall prescribe such regulations as are necessary and appropriate to carry out his responsibilities under this subchapter.
 
-([Pub. L. 96–487, title VIII, § 814][/us/pl/96/487/s814], Dec. 2, 1980, [94 Stat. 2429][/us/stat/94/2429]; [Pub. L. 105–83, title III, § 316(b)(8)][/us/pl/105/83/s316/b/8], (d), Nov. 14, 1997, [111 Stat. 1594][/us/stat/111/1594], 1595.)
+([Pub. L. 96–487, title VIII][/us/pl/96/487/tVIII], § 814, Dec. 2, 1980, [94 Stat. 2429][/us/stat/94/2429]; [Pub. L. 105–83, title III][/us/pl/105/83/tIII], § 316(b)(8), (d), Nov. 14, 1997, [111 Stat. 1594][/us/stat/111/1594], 1595.)
 
  __Amendments__ 
 
-    1997—[Pub. L. 105–83, § 316(b)(8)][/us/pl/105/83/s316/b/8], which directed amendment of section by inserting “, and the State at any time the State has complied with [section 3115(d) of this title][/us/usc/t16/s3115/d]” after “The Secretary” and inserting at end “During any time that the State has complied with [section 3115(d) of this title][/us/usc/t16/s3115/d], the Secretary shall not make or enforce regulations implementing section 3115(a), (b), or (c) of this title.”, was repealed by [Pub. L. 105–83, § 316(d)][/us/pl/105/83/s316/d]. See Effective and Termination Dates of 1997 Amendment note below.
+    1997—[Pub. L. 105–83][/us/pl/105/83], § 316(b)(8), which directed amendment of section by inserting “, and the State at any time the State has complied with [section 3115(d) of this title][/us/usc/t16/s3115/d]” after “The Secretary” and inserting at end “During any time that the State has complied with [section 3115(d) of this title][/us/usc/t16/s3115/d], the Secretary shall not make or enforce regulations implementing section 3115(a), (b), or (c) of this title.”, was repealed by [Pub. L. 105–83][/us/pl/105/83], § 316(d). See Effective and Termination Dates of 1997 Amendment note below.
 
  __Effective and Termination Dates of 1997 Amendment__ 
 
@@ -34,14 +34,14 @@
 ----------
 ----------
 
-[/us/pl/96/487/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs814
+[/us/pl/96/487/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtVIII
 [/us/stat/94/2429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2429
-[/us/pl/105/83/s316/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs316%2Fb%2F8
+[/us/pl/105/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtIII
 [/us/stat/111/1594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1594
-[/us/pl/105/83/s316/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs316%2Fb%2F8
+[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
 [/us/usc/t16/s3115/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3115%2Fd
 [/us/usc/t16/s3115/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3115%2Fd
-[/us/pl/105/83/s316/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs316%2Fd
+[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
 [/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
 [/us/pl/105/83/s316/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs316%2Fd
 [/us/usc/t16/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3102

@@ -53,11 +53,11 @@
 
     (12) Hydroelectric facilities for the generation and transmission of electricity exist within the Snake River Birds of Prey Area pursuant to a license(s) issued by the Federal Energy Regulatory Commission, or its predecessor, the Federal Power Commission.
 
-([Pub. L. 103–64, § 1][/us/pl/103/64/s1], Aug. 4, 1993, [107 Stat. 302][/us/stat/107/302].)
+([Pub. L. 103–64][/us/pl/103/64], § 1, Aug. 4, 1993, [107 Stat. 302][/us/stat/107/302].)
 
  __Change of Name__ 
 
-[Pub. L. 111–11, title II, § 2301(b)][/us/pl/111/11/s2301/b], Mar. 30, 2009, [123 Stat. 1101][/us/stat/123/1101], provided that: 
+[Pub. L. 111–11, title II][/us/pl/111/11/tII], § 2301(b), Mar. 30, 2009, [123 Stat. 1101][/us/stat/123/1101], provided that: 
 
 > “Any reference in a law, map, regulation, document, paper, or other record of the United States to the Snake River Birds of Prey National Conservation Area shall be deemed to be a reference to the Morley Nelson Snake River Birds of Prey National Conservation Area.”
 
@@ -71,9 +71,9 @@
 [/us/usc/t16/s460iii–3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460iii%E2%80%933%2Fe
 [/us/usc/t16/s460iii–3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460iii%E2%80%933%2Fe
 [/us/usc/t16/s460iii–3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460iii%E2%80%933%2Ff
-[/us/pl/103/64/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F64%2Fs1
+[/us/pl/103/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F64
 [/us/stat/107/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F302
-[/us/pl/111/11/s2301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs2301%2Fb
+[/us/pl/111/11/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtII
 [/us/stat/123/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1101
 
 

@@ -23,7 +23,7 @@
 
         The boundaries of the park shall be those generally depicted on the map entitled “Proposed Boundary Map, Rosie the Riveter/World War II Home Front National Historical Park” numbered 963/80,000 and dated May 2000. The map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
 
-([Pub. L. 106–352, § 2][/us/pl/106/352/s2], Oct. 24, 2000, [114 Stat. 1370][/us/stat/114/1370]; [Pub. L. 108–352, § 6(1)][/us/pl/108/352/s6/1], Oct. 21, 2004, [118 Stat. 1396][/us/stat/118/1396].)
+([Pub. L. 106–352][/us/pl/106/352], § 2, Oct. 24, 2000, [114 Stat. 1370][/us/stat/114/1370]; [Pub. L. 108–352][/us/pl/108/352], § 6(1), Oct. 21, 2004, [118 Stat. 1396][/us/stat/118/1396].)
 
  __Amendments__ 
 
@@ -31,7 +31,7 @@
 
  __Short Title__ 
 
-[Pub. L. 106–352, § 1][/us/pl/106/352/s1], Oct. 24, 2000, [114 Stat. 1370][/us/stat/114/1370], provided that: 
+[Pub. L. 106–352][/us/pl/106/352], § 1, Oct. 24, 2000, [114 Stat. 1370][/us/stat/114/1370], provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘Rosie the Riveter/World War II Home Front National Historical Park Establishment Act of 2000’.”
 
@@ -42,12 +42,12 @@
 ----------
 ----------
 
-[/us/pl/106/352/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F352%2Fs2
+[/us/pl/106/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F352
 [/us/stat/114/1370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1370
-[/us/pl/108/352/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F352%2Fs6%2F1
+[/us/pl/108/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F352
 [/us/stat/118/1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1396
 [/us/pl/108/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F352
-[/us/pl/106/352/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F352%2Fs1
+[/us/pl/106/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F352
 [/us/stat/114/1370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1370
 
 

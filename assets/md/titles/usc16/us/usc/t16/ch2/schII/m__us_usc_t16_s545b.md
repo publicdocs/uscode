@@ -409,7 +409,7 @@
 
             (C) as loans are repaid, make additional grants and loans with the money made available for obligation by such repayments.
 
-([Pub. L. 104–333, div. I, title X, § 1023][/us/pl/104/333/s1023], Nov. 12, 1996, [110 Stat. 4215][/us/stat/110/4215]; [Pub. L. 106–176, title I, § 125][/us/pl/106/176/s125], Mar. 10, 2000, [114 Stat. 30][/us/stat/114/30].)
+([Pub. L. 104–333, div. I, title X][/us/pl/104/333/dI/tX], § 1023, Nov. 12, 1996, [110 Stat. 4215][/us/stat/110/4215]; [Pub. L. 106–176, title I][/us/pl/106/176/tI], § 125, Mar. 10, 2000, [114 Stat. 30][/us/stat/114/30].)
 
  __References in Text__ 
 
@@ -441,7 +441,7 @@
 
  __Short Title__ 
 
-[Pub. L. 104–208, div. B, title I, § 101][/us/pl/104/208/s101], Sept. 30, 1996, [110 Stat. 3009–523][/us/stat/110/3009-523], provided that: 
+[Pub. L. 104–208, div. B, title I][/us/pl/104/208/dB/tI], § 101, Sept. 30, 1996, [110 Stat. 3009–523][/us/stat/110/3009-523], provided that: 
 
 > “This title \[see Codification note above\] may be cited as the ‘Opal Creek Wilderness and Opal Creek Scenic Recreation Area Act of 1996’.”
 
@@ -464,9 +464,9 @@
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
 [/us/usc/t43/s1716/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1716%2Fd
-[/us/pl/104/333/s1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs1023
+[/us/pl/104/333/dI/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtX
 [/us/stat/110/4215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4215
-[/us/pl/106/176/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs125
+[/us/pl/106/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2FtI
 [/us/stat/114/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F30
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890
@@ -494,7 +494,7 @@
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/stat/110/3009-523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-523
 [/us/pl/106/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176
-[/us/pl/104/208/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101
+[/us/pl/104/208/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdB%2FtI
 [/us/stat/110/3009-523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-523
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

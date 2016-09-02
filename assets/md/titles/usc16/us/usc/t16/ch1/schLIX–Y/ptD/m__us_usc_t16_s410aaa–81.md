@@ -17,7 +17,7 @@
 
     Any reference to the term “this Act” in titles I through IX shall be deemed to be solely a reference to sections 1 and 2, and titles I through IX.
 
-([Pub. L. 103–433, title VII, § 711][/us/pl/103/433/s711], Oct. 31, 1994, [108 Stat. 4501][/us/stat/108/4501].)
+([Pub. L. 103–433, title VII][/us/pl/103/433/tVII], § 711, Oct. 31, 1994, [108 Stat. 4501][/us/stat/108/4501].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/103/433/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs711
+[/us/pl/103/433/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtVII
 [/us/stat/108/4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4501
 [/us/pl/103/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433
 [/us/stat/108/4471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4471

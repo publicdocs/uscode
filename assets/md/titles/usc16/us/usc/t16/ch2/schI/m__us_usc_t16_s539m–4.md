@@ -31,7 +31,7 @@
 
         No person who exercises traditional or cultural use rights as authorized by [section 539m–3(a)(4) of this title][/us/usc/t16/s539m–3/a/4] may be prosecuted for a Federal wildlife offense requiring proof of a violation of a State law (including regulations).
 
-([Pub. L. 108–7, div. F, title IV, § 406][/us/pl/108/7/s406], Feb. 20, 2003, [117 Stat. 284][/us/stat/117/284].)
+([Pub. L. 108–7, div. F, title IV][/us/pl/108/7/dF/tIV], § 406, Feb. 20, 2003, [117 Stat. 284][/us/stat/117/284].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t16/s539m–2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs539m%E2%80%932%2Fe
 [/us/usc/t16/s539m–3/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs539m%E2%80%933%2Fa%2F4
-[/us/pl/108/7/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs406
+[/us/pl/108/7/dF/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtIV
 [/us/stat/117/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F284
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/stat/117/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F279

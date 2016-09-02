@@ -27,7 +27,7 @@
 
     (5) the Mojave Desert area provides an outstanding opportunity to develop services, programs, accommodations and facilities to ensure the use and enjoyment of the area by individuals with disabilities, consistent with [section 794 of title 29][/us/usc/t29/s794], [Public Law 101–336][/us/pl/101/336], the Americans With  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should not be capitalized. </sup></sup>  Disabilities Act of 1990 \[[42 U.S.C. 12101][/us/usc/t42/s12101] et seq.\], and other appropriate laws and regulations.
 
-([Pub. L. 103–433, title V, § 501][/us/pl/103/433/s501], Oct. 31, 1994, [108 Stat. 4489][/us/stat/108/4489].)
+([Pub. L. 103–433, title V][/us/pl/103/433/tV], § 501, Oct. 31, 1994, [108 Stat. 4489][/us/stat/108/4489].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 [/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
-[/us/pl/103/433/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs501
+[/us/pl/103/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtV
 [/us/stat/108/4489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4489
 [/us/usc/t16/s410aaa–81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410aaa%E2%80%9381
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577

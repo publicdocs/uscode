@@ -17,7 +17,7 @@
 
     All appropriations necessary to carry out the provisions of this chapter are authorized.
 
-([May 18, 1933, ch. 32, § 27][/us/act/1933-05-18/ch32/s27], [48 Stat. 71][/us/stat/48/71].)
+([May 18, 1933, ch. 32][/us/act/1933-05-18/ch32], § 27, [48 Stat. 71][/us/stat/48/71].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1933-05-18/ch32/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32%2Fs27
+[/us/act/1933-05-18/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32
 [/us/stat/48/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F71
 
 

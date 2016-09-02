@@ -17,7 +17,7 @@
 
     The Secretary of the Interior, in his discretion, is authorized to construct upon a portion of the land described in [section 407m of this title][/us/usc/t16/s407m], or upon other land that may be donated for such purpose, which property he is authorized to accept, such offices and administration buildings as he may deem advisable, together with a suitable auditorium for the interpretation of the historical features of the national historical park. The Secretary of the Interior is also authorized to accept donations of property of national historical significance located in the city of Philadelphia which the Secretary may deem proper for administration as part of the Independence National Historical Park. Any property donated for the purposes of this section shall become a part of the park, following its establishment, upon acceptance by the United States of title to such donated property. The Secretary of the Interior is authorized to permit the American Philosophical Society, a nonprofit corporation, without cost to the United States, to construct, operate, and maintain in the park a building to be located on approximately the original site of historic Library Hall to house the library of the American Philosophical Society and any additions to said library, such permission to be granted the society pursuant to a lease, contract, or authorization without charge, on such terms and conditions as may be approved by the Secretary and accepted by the society, and for such length of time as the society shall continue to use the said building for the housing, display, and use of a library and scientific and historical collections: Provided, That the plans for the construction of the building and any additions thereto shall be approved by the Secretary of the Interior.
 
-([June 28, 1948, ch. 687, § 3][/us/act/1948-06-28/ch687/s3], [62 Stat. 1062][/us/stat/62/1062]; [July 10, 1952, ch. 653, § 2][/us/act/1952-07-10/ch653/s2], [66 Stat. 575][/us/stat/66/575].)
+([June 28, 1948, ch. 687][/us/act/1948-06-28/ch687], § 3, [62 Stat. 1062][/us/stat/62/1062]; [July 10, 1952, ch. 653][/us/act/1952-07-10/ch653], § 2, [66 Stat. 575][/us/stat/66/575].)
 
  __Amendments__ 
 
@@ -39,9 +39,9 @@
 ----------
 
 [/us/usc/t16/s407m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs407m
-[/us/act/1948-06-28/ch687/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-28%2Fch687%2Fs3
+[/us/act/1948-06-28/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-28%2Fch687
 [/us/stat/62/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1062
-[/us/act/1952-07-10/ch653/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-10%2Fch653%2Fs2
+[/us/act/1952-07-10/ch653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-10%2Fch653
 [/us/stat/66/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F575
 [/us/pl/85/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F702
 [/us/stat/72/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F701

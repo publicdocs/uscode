@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized and directed to acquire, by condemnation or otherwise, such land as may be deemed appropriate, not exceeding one hundred and sixty acres, on the site of the battle with the Sioux Indians in which the commands of Major Marcus A. Reno and Major Frederick W. Benteen were engaged, and to erect thereon a suitable monument and historical tablet.
 
-([Apr. 14, 1926, ch. 138, § 1][/us/act/1926-04-14/ch138/s1], [44 Stat. 251][/us/stat/44/251].)
+([Apr. 14, 1926, ch. 138][/us/act/1926-04-14/ch138], § 1, [44 Stat. 251][/us/stat/44/251].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1926-04-14/ch138/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-04-14%2Fch138%2Fs1
+[/us/act/1926-04-14/ch138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-04-14%2Fch138
 [/us/stat/44/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F251
 
 

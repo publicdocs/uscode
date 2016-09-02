@@ -17,7 +17,7 @@
 
     The Secretary of the Army is authorized and directed to transfer, without consideration, to the Secretary of the Interior title to the site of the historic structure known as Fort Sumter, situated in Charleston Harbor, Charleston, South Carolina, together with such buildings and other improvements as are appurtenant to such site.
 
-([Apr. 28, 1948, ch. 239, § 1][/us/act/1948-04-28/ch239/s1], [62 Stat. 204][/us/stat/62/204].)
+([Apr. 28, 1948, ch. 239][/us/act/1948-04-28/ch239], § 1, [62 Stat. 204][/us/stat/62/204].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1948-04-28/ch239/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-04-28%2Fch239%2Fs1
+[/us/act/1948-04-28/ch239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-04-28%2Fch239
 [/us/stat/62/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F204
 
 

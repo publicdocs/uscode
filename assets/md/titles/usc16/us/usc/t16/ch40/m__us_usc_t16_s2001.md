@@ -25,7 +25,7 @@
 
     (4) Since individual and governmental decisions concerning soil and water resources often transcend administrative boundaries and affect other programs and decisions, a coordinated appraisal and program framework are essential.
 
-([Pub. L. 95–192, § 2][/us/pl/95/192/s2], Nov. 18, 1977, [91 Stat. 1407][/us/stat/91/1407]; [Pub. L. 103–354, title II, § 246(f)(2)(A)][/us/pl/103/354/s246/f/2/A], Oct. 13, 1994, [108 Stat. 3225][/us/stat/108/3225]; [Pub. L. 110–234, title II, § 2804(a)][/us/pl/110/234/s2804/a], May 22, 2008, [122 Stat. 1086][/us/stat/122/1086]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2804(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1814.)
+([Pub. L. 95–192][/us/pl/95/192], § 2, Nov. 18, 1977, [91 Stat. 1407][/us/stat/91/1407]; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 246(f)(2)(A), Oct. 13, 1994, [108 Stat. 3225][/us/stat/108/3225]; [Pub. L. 110–234, title II][/us/pl/110/234/tII], § 2804(a), May 22, 2008, [122 Stat. 1086][/us/stat/122/1086]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title II, § 2804(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1814.)
 
  __Codification__ 
 
@@ -33,9 +33,9 @@
 
  __Amendments__ 
 
-    2008—Par. (2). [Pub. L. 110–246, § 2804(a)(1)][/us/pl/110/246/s2804/a/1], substituted “base of the” for “base, of the”.
+    2008—Par. (2). [Pub. L. 110–246][/us/pl/110/246], § 2804(a)(1), substituted “base of the” for “base, of the”.
 
-    Pars. (3), (4). [Pub. L. 110–246, § 2804(a)(2)][/us/pl/110/246/s2804/a/2], added par. (3), redesignated former par. (3) as (4), and struck out “Resource appraisal is basic to effective soil and water conservation.” before “Since individual”.
+    Pars. (3), (4). [Pub. L. 110–246][/us/pl/110/246], § 2804(a)(2), added par. (3), redesignated former par. (3) as (4), and struck out “Resource appraisal is basic to effective soil and water conservation.” before “Since individual”.
 
     1994—Par. (2). [Pub. L. 103–354][/us/pl/103/354] struck out “created the Soil Conservation Service” after “resource base,” and substituted “, has ensured that the Department of Agriculture” for “Department of Agriculture which” after “United States”.
 
@@ -45,7 +45,7 @@
 
  __Short Title__ 
 
-[Pub. L. 95–192, § 1][/us/pl/95/192/s1], Nov. 18, 1977, [91 Stat. 1407][/us/stat/91/1407], provided: 
+[Pub. L. 95–192][/us/pl/95/192], § 1, Nov. 18, 1977, [91 Stat. 1407][/us/stat/91/1407], provided: 
 
 > “That this Act \[enacting this chapter\] may be cited as the ‘Soil and Water Resources Conservation Act of 1977’.”
 
@@ -56,27 +56,27 @@
 ----------
 ----------
 
-[/us/pl/95/192/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F192%2Fs2
+[/us/pl/95/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F192
 [/us/stat/91/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1407
-[/us/pl/103/354/s246/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs246%2Ff%2F2%2FA
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3225
-[/us/pl/110/234/s2804/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2804%2Fa
+[/us/pl/110/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtII
 [/us/stat/122/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1086
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s2804/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2804%2Fa%2F1
-[/us/pl/110/246/s2804/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2804%2Fa%2F2
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/95/192/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F192%2Fs1
+[/us/pl/95/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F192
 [/us/stat/91/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1407
 
 

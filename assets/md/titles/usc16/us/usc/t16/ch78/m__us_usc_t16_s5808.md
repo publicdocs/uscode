@@ -23,7 +23,7 @@
 
         An obligation issued by the Foundation, and a document offering an obligation, shall include a prominent statement that the obligation is not directly or indirectly guaranteed, in whole or in part, by the United States (or an agency or instrumentality of the United States).
 
-([Pub. L. 104–127, title III, § 359][/us/pl/104/127/s359], Apr. 4, 1996, [110 Stat. 1014][/us/stat/110/1014].)
+([Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 359, Apr. 4, 1996, [110 Stat. 1014][/us/stat/110/1014].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/104/127/s359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs359
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1014
 
 

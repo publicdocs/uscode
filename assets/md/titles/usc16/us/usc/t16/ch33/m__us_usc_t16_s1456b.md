@@ -73,7 +73,7 @@
 
         If the Secretary finds that the State is not undertaking the actions committed to under the terms of the grant, the Secretary shall suspend the State’s eligibility for further funding under this section for at least one year.
 
-([Pub. L. 89–454, title III, § 309][/us/pl/89/454/s309], as added [Pub. L. 94–370, § 8][/us/pl/94/370/s8], July 26, 1976, [90 Stat. 1028][/us/stat/90/1028]; amended [Pub. L. 96–464, § 8][/us/pl/96/464/s8], Oct. 17, 1980, [94 Stat. 2064][/us/stat/94/2064]; [Pub. L. 101–508, title VI, § 6210][/us/pl/101/508/s6210], Nov. 5, 1990, [104 Stat. 1388–309][/us/stat/104/1388-309]; [Pub. L. 102–587, title II, § 2205(b)(1)(B)][/us/pl/102/587/s2205/b/1/B], Nov. 4, 1992, [106 Stat. 5050][/us/stat/106/5050]; [Pub. L. 104–150][/us/pl/104/150], §§ 3, 7(2), June 3, 1996, [110 Stat. 1380][/us/stat/110/1380], 1382.)
+([Pub. L. 89–454, title III][/us/pl/89/454/tIII], § 309, as added [Pub. L. 94–370][/us/pl/94/370], § 8, July 26, 1976, [90 Stat. 1028][/us/stat/90/1028]; amended [Pub. L. 96–464][/us/pl/96/464], § 8, Oct. 17, 1980, [94 Stat. 2064][/us/stat/94/2064]; [Pub. L. 101–508, title VI][/us/pl/101/508/tVI], § 6210, Nov. 5, 1990, [104 Stat. 1388–309][/us/stat/104/1388-309]; [Pub. L. 102–587, title II][/us/pl/102/587/tII], § 2205(b)(1)(B), Nov. 4, 1992, [106 Stat. 5050][/us/stat/106/5050]; [Pub. L. 104–150][/us/pl/104/150], §§ 3, 7(2), June 3, 1996, [110 Stat. 1380][/us/stat/110/1380], 1382.)
 
  __Codification__ 
 
@@ -81,9 +81,9 @@
 
  __Amendments__ 
 
-    1996—Subsec. (a)(9). [Pub. L. 104–150, § 7(2)][/us/pl/104/150/s7/2], added par. (9).
+    1996—Subsec. (a)(9). [Pub. L. 104–150][/us/pl/104/150], § 7(2), added par. (9).
 
-    Subsec. (b). [Pub. L. 104–150, § 3][/us/pl/104/150/s3], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (b). [Pub. L. 104–150][/us/pl/104/150], § 3, designated existing provisions as par. (1) and added par. (2).
 
     1992—Subsec. (b). [Pub. L. 102–587][/us/pl/102/587] substituted “coastal states” for “coastal States”.
 
@@ -101,20 +101,20 @@
 [/us/usc/t16/s1455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1455
 [/us/usc/t16/s1455/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1455%2Fe
 [/us/usc/t16/s1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1463
-[/us/pl/89/454/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2Fs309
-[/us/pl/94/370/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F370%2Fs8
+[/us/pl/89/454/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2FtIII
+[/us/pl/94/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F370
 [/us/stat/90/1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1028
-[/us/pl/96/464/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F464%2Fs8
+[/us/pl/96/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F464
 [/us/stat/94/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2064
-[/us/pl/101/508/s6210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6210
+[/us/pl/101/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVI
 [/us/stat/104/1388-309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-309
-[/us/pl/102/587/s2205/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2205%2Fb%2F1%2FB
+[/us/pl/102/587/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtII
 [/us/stat/106/5050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5050
 [/us/pl/104/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F150
 [/us/stat/110/1380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1380
 [/us/pl/101/508/s6210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6210
-[/us/pl/104/150/s7/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F150%2Fs7%2F2
-[/us/pl/104/150/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F150%2Fs3
+[/us/pl/104/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F150
+[/us/pl/104/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F150
 [/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/96/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F464

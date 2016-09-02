@@ -17,7 +17,7 @@
 
     Any acquisition of lands, waters, or interests therein shall not diminish any existing rights-of-way or easements which are necessary for the transportation of oil and gas minerals through the seashore which oil and gas minerals are removed from outside the boundaries thereof; and, the Secretary, subject to appropriate regulations for the protection of the natural and recreational values for which the seashore is established, shall permit such additional rights-of-way or easements as he deems necessary and proper.
 
-([Pub. L. 91–660, § 4][/us/pl/91/660/s4], Jan. 8, 1971, [84 Stat. 1968][/us/stat/84/1968].)
+([Pub. L. 91–660][/us/pl/91/660], § 4, Jan. 8, 1971, [84 Stat. 1968][/us/stat/84/1968].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/660/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F660%2Fs4
+[/us/pl/91/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F660
 [/us/stat/84/1968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1968
 
 

@@ -23,7 +23,7 @@
 
         In providing temporary access pursuant to subsection (a), the Secretary may include such stipulations and conditions he deems necessary to insure that the private use of public lands is accomplished in a manner that is not inconsistent with the purposes for which the public lands are reserved and which insures that no permanent harm will result to the resources of the unit, area, Reserve or lands.
 
-([Pub. L. 96–487, title XI, § 1111][/us/pl/96/487/s1111], Dec. 2, 1980, [94 Stat. 2465][/us/stat/94/2465].)
+([Pub. L. 96–487, title XI][/us/pl/96/487/tXI], § 1111, Dec. 2, 1980, [94 Stat. 2465][/us/stat/94/2465].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/96/487/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1111
+[/us/pl/96/487/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXI
 [/us/stat/94/2465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2465
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371

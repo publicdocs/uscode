@@ -17,7 +17,7 @@
 
     At such time when there is no longer a resident patient community at Kalaupapa, the Secretary shall reevaluate the policies governing the management, administration, and public use of the park in order to identify any changes deemed to be appropriate.
 
-([Pub. L. 96–565, title I, § 109][/us/pl/96/565/s109], Dec. 22, 1980, [94 Stat. 3324][/us/stat/94/3324].)
+([Pub. L. 96–565, title I][/us/pl/96/565/tI], § 109, Dec. 22, 1980, [94 Stat. 3324][/us/stat/94/3324].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/565/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F565%2Fs109
+[/us/pl/96/565/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F565%2FtI
 [/us/stat/94/3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3324
 
 

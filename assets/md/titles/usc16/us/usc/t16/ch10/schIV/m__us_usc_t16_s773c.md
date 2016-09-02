@@ -31,7 +31,7 @@
 
         The Regional Fishery Management Council having authority for the geographic area concerned may develop regulations governing the United States portion of Convention waters, including limited access regulations, applicable to nationals or vessels of the United States, or both, which are in addition to, and not in conflict with regulations adopted by the Commission. Such regulations shall only be implemented with the approval of the Secretary, shall not discriminate between residents of different States, and shall be consistent with the limited entry criteria set forth in [section 1853(b)(6) of this title][/us/usc/t16/s1853/b/6]. If it becomes necessary to allocate or assign halibut fishing privileges among various United States fishermen, such allocation shall be fair and equitable to all such fishermen, based upon the rights and obligations in existing Federal law, reasonably calculated to promote conservation, and carried out in such manner that no particular individual, corporation, or other entity acquires an excessive share of the halibut fishing privileges: Provided, That the Regional Council may provide for the rural coastal villages of Alaska the opportunity to establish a commercial halibut fishery in areas in the Bering Sea to the north of 56 degrees north latitude during a 3 year development period.
 
-([Pub. L. 97–176, § 5][/us/pl/97/176/s5], May 17, 1982, [96 Stat. 79][/us/stat/96/79]; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41.)
+([Pub. L. 97–176][/us/pl/97/176], § 5, May 17, 1982, [96 Stat. 79][/us/stat/96/79]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41.)
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-    [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
  __Transfer of Functions__ 
 
@@ -53,13 +53,13 @@
 ----------
 
 [/us/usc/t16/s1853/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1853%2Fb%2F6
-[/us/pl/97/176/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F176%2Fs5
+[/us/pl/97/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F176
 [/us/stat/96/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F79
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t16/s1853/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1853%2Fb%2F6
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated $16,500,000 for the purposes of this subchapter, of which $10,000,000 shall be available for land acquisition in the national monument; $1 million shall be available for development within the national monument; $4 million shall be available for land acquisition within the conservation area; $1 million shall be available for development within the conservation area; and $500,000 shall be available for planning and development of the Masau Trail.
 
-([Pub. L. 100–225, title V, § 510][/us/pl/100/225/s510], Dec. 31, 1987, [101 Stat. 1549][/us/stat/101/1549].)
+([Pub. L. 100–225, title V][/us/pl/100/225/tV], § 510, Dec. 31, 1987, [101 Stat. 1549][/us/stat/101/1549].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/225/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F225%2Fs510
+[/us/pl/100/225/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F225%2FtV
 [/us/stat/101/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1549
 
 

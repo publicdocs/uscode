@@ -23,7 +23,7 @@
 
         Appropriate agencies of the United States may cooperate in the conduct of scientific and other programs, and may furnish facilities and personnel, for the purposes of assisting the Organization in carrying out its duties under the Convention. Such agencies may accept reimbursement from the Organization for providing such services, facilities, and personnel.
 
-([Pub. L. 97–389, title III, § 306][/us/pl/97/389/s306], Dec. 29, 1982, [96 Stat. 1953][/us/stat/96/1953].)
+([Pub. L. 97–389, title III][/us/pl/97/389/tIII], § 306, Dec. 29, 1982, [96 Stat. 1953][/us/stat/96/1953].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/97/389/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F389%2Fs306
+[/us/pl/97/389/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F389%2FtIII
 [/us/stat/96/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1953
 
 

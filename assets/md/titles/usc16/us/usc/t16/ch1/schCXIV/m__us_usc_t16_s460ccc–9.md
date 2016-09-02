@@ -17,7 +17,7 @@
 
     The Congress does not intend for the establishment of the conservation area to lead to the creation of protective perimeters or buffer zones around the conservation area. The fact that there may be activities or uses on lands outside the conservation area that would not be permitted in the conservation area shall not preclude such activities or uses on such lands up to the boundary of the conservation area to the extent consistent with other applicable law.
 
-([Pub. L. 101–621, § 11][/us/pl/101/621/s11], Nov. 16, 1990, [104 Stat. 3345][/us/stat/104/3345].)
+([Pub. L. 101–621][/us/pl/101/621], § 11, Nov. 16, 1990, [104 Stat. 3345][/us/stat/104/3345].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/621/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F621%2Fs11
+[/us/pl/101/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F621
 [/us/stat/104/3345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3345
 
 

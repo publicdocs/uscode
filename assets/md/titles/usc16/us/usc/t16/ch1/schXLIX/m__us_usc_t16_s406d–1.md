@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXLIX/m__us_usc_t16_ch1_schXLIX.md) | [Next](./../../../../..//us/usc/t16/ch1/schXLIX/m__us_usc_t16_s406d–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs406d%E2%80%931)
+[Previous](./../../../../..//us/usc/t16/ch1/schXLIX/m__us_usc_t16_s406...406d.md) | [Next](./../../../../..//us/usc/t16/ch1/schXLIX/m__us_usc_t16_s406d–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs406d%E2%80%931)
 
 ## § 406d–1. Establishment; boundaries; administration
 
     For the purpose of including in one national park, for public benefit and enjoyment, the lands within the present Grand Teton National Park and a portion of the lands within the Jackson Hole National Monument, there is established a new “Grand Teton National Park”. The park shall comprise, subject to valid existing rights, all of the present Grand Teton National Park and all lands of the Jackson Hole National Monument that are not otherwise expressly provided for in this Act, and an order setting forth the boundaries of the park shall be prepared by the Secretary of the Interior and published in the Federal Register. The national park so established shall, so far as consistent with the provisions of this Act, be administered in accordance with the general statutes governing national parks, and shall supersede the present Grand Teton National Park and the Jackson Hole National Monument.
 
-([Sept. 14, 1950, ch. 950, § 1][/us/act/1950-09-14/ch950/s1], [64 Stat. 849][/us/stat/64/849].)
+([Sept. 14, 1950, ch. 950][/us/act/1950-09-14/ch950], § 1, [64 Stat. 849][/us/stat/64/849].)
 
  __References in Text__ 
 
@@ -189,30 +189,30 @@
 
  __Availability of Unexpended Appropriated Funds__ 
 
-The third sentence of [act Sept. 14, 1950, ch. 950, § 9][/us/act/1950-09-14/ch950/s9], [64 Stat. 853][/us/stat/64/853], provided that: 
+The third sentence of [act Sept. 14, 1950, ch. 950][/us/act/1950-09-14/ch950], § 9, [64 Stat. 853][/us/stat/64/853], provided that: 
 
 > “The remaining unexpended balance of any funds appropriated for the present Grand Teton National Park and the Jackson Hole National Monument shall be available for expenditure in connection with the administration of the Grand Teton National Park established by this Act \[see References in Text note above\]”.
 
  __Revocation of Temporary Withdrawals of Public Lands__ 
 
-[Act Sept. 14, 1950, ch. 950, § 8][/us/act/1950-09-14/ch950/s8], [64 Stat. 853][/us/stat/64/853], provided that: 
+[Act Sept. 14, 1950, ch. 950][/us/act/1950-09-14/ch950], § 8, [64 Stat. 853][/us/stat/64/853], provided that: 
 
 > “All temporary withdrawals of public lands made by Executive order in aid of legislation pertaining to parks, monuments, or recreational areas, adjacent to the Grand Teton National Park as established by this Act \[see References in Text note above\] are hereby revoked.”
 
  __Repeal of Inconsistent Laws__ 
 
-The second sentence of [act Sept. 14, 1950, ch. 950, § 9][/us/act/1950-09-14/ch950/s9], [64 Stat. 853][/us/stat/64/853], provided: 
+The second sentence of [act Sept. 14, 1950, ch. 950][/us/act/1950-09-14/ch950], § 9, [64 Stat. 853][/us/stat/64/853], provided: 
 
 > “All provisions of law inconsistent with the provisions of this act \[see References in Text note above\] are hereby repealed to the extent of such inconsistency”.
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch1/schXLIX/m__us_usc_t16_ch1_schXLIX.md) | [Next](./../../../../..//us/usc/t16/ch1/schXLIX/m__us_usc_t16_s406d–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs406d%E2%80%931)
+[Previous](./../../../../..//us/usc/t16/ch1/schXLIX/m__us_usc_t16_s406...406d.md) | [Next](./../../../../..//us/usc/t16/ch1/schXLIX/m__us_usc_t16_s406d–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs406d%E2%80%931)
 
 ----------
 ----------
 
-[/us/act/1950-09-14/ch950/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-14%2Fch950%2Fs1
+[/us/act/1950-09-14/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-14%2Fch950
 [/us/stat/64/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F849
 [/us/act/1950-09-14/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-14%2Fch950
 [/us/stat/64/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F849
@@ -230,11 +230,11 @@ The second sentence of [act Sept. 14, 1950, ch. 950, § 9][/us/act/1950-09-14/
 [/us/usc/t54/s100101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101%2Fa
 [/us/act/1955-08-09/ch635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch635
 [/us/stat/69/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F555
-[/us/act/1950-09-14/ch950/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-14%2Fch950%2Fs9
+[/us/act/1950-09-14/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-14%2Fch950
 [/us/stat/64/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F853
-[/us/act/1950-09-14/ch950/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-14%2Fch950%2Fs8
+[/us/act/1950-09-14/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-14%2Fch950
 [/us/stat/64/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F853
-[/us/act/1950-09-14/ch950/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-14%2Fch950%2Fs9
+[/us/act/1950-09-14/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-14%2Fch950
 [/us/stat/64/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F853
 
 

@@ -95,7 +95,7 @@
 
         (2) All areas designated as Wilderness that are transferred to the administrative jurisdiction of the National Park Service shall remain subject to the Wilderness Act ([16 U.S.C. 1131][/us/usc/t16/s1131] et seq.) and the Colorado Wilderness Act of 1993 ([Public Law 103–77][/us/pl/103/77]; [16 U.S.C. 539i][/us/usc/t16/s539i] note). If any part of this subchapter conflicts with the provisions of the Wilderness Act or the Colorado Wilderness Act of 1993 with respect to the wilderness areas within the preserve boundaries, the provisions of those Acts shall control.
 
-([Pub. L. 106–530, § 7][/us/pl/106/530/s7], Nov. 22, 2000, [114 Stat. 2530][/us/stat/114/2530].)
+([Pub. L. 106–530][/us/pl/106/530], § 7, Nov. 22, 2000, [114 Stat. 2530][/us/stat/114/2530].)
 
  __References in Text__ 
 
@@ -122,7 +122,7 @@
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
 [/us/pl/103/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F77
 [/us/usc/t16/s539i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs539i
-[/us/pl/106/530/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F530%2Fs7
+[/us/pl/106/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F530
 [/us/stat/114/2530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2530
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408

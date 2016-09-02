@@ -29,7 +29,7 @@
 
         (3) his actions under this chapter, and his recommendations for such further Federal actions, including any legislation, regarding retail electric utility rates (and other practices) as may be necessary to carry out the purposes of this chapter.
 
-([Pub. L. 95–617, title I, § 116][/us/pl/95/617/s116], Nov. 9, 1978, [92 Stat. 3128][/us/stat/92/3128].)
+([Pub. L. 95–617, title I][/us/pl/95/617/tI], § 116, Nov. 9, 1978, [92 Stat. 3128][/us/stat/92/3128].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/95/617/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs116
+[/us/pl/95/617/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtI
 [/us/stat/92/3128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3128
 [/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
 [/us/stat/92/3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3120

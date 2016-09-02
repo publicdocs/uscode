@@ -37,7 +37,7 @@
 
         Any employee designated by the Secretary of the Interior or the Secretary of Agriculture shall have power, without warrant, to arrest any person committing in the presence of such employee a violation of this chapter or any regulation made pursuant thereto, and to take such person immediately for examination or trial before an officer or court of competent jurisdiction, and shall have power to execute any warrant or other process issued by an officer or court of competent jurisdiction to enforce the provisions of this chapter or regulations made pursuant thereto. Any judge of a court established under the laws of the United States, or any United States magistrate judge may, within his respective jurisdiction, upon proper oath or affirmation showing probable cause, issue warrants, in all such cases.
 
-([Pub. L. 92–195, § 8][/us/pl/92/195/s8], Dec. 15, 1971, [85 Stat. 650][/us/stat/85/650]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 108–447, div. E, title I, § 142(b)][/us/pl/108/447/s142/b], Dec. 8, 2004, [118 Stat. 3071][/us/stat/118/3071].)
+([Pub. L. 92–195][/us/pl/92/195], § 8, Dec. 15, 1971, [85 Stat. 650][/us/stat/85/650]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 108–447, div. E, title I][/us/pl/108/447/dE/tI], § 142(b), Dec. 8, 2004, [118 Stat. 3071][/us/stat/118/3071].)
 
  __Amendments__ 
 
@@ -57,11 +57,11 @@
 [/us/usc/t16/s1333/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1333%2Fe
 [/us/usc/t16/s1334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1334
 [/us/usc/t18/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3401
-[/us/pl/92/195/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F195%2Fs8
+[/us/pl/92/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F195
 [/us/stat/85/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F650
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
-[/us/pl/108/447/s142/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs142%2Fb
+[/us/pl/108/447/dE/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdE%2FtI
 [/us/stat/118/3071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3071
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/usc/t16/s1333/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1333%2Fe

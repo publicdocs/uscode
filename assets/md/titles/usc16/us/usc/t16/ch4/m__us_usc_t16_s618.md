@@ -97,7 +97,7 @@
 
         Effective January 1, 1985, in any contract for the sale of timber from the National Forests, the Secretary of Agriculture shall require a cash down-payment at the time the contract is executed and periodic payments to be made over the remaining period of the contract.
 
-([Pub. L. 98–478, § 2][/us/pl/98/478/s2], Oct. 16, 1984, [98 Stat. 2213][/us/stat/98/2213].)
+([Pub. L. 98–478][/us/pl/98/478], § 2, Oct. 16, 1984, [98 Stat. 2213][/us/stat/98/2213].)
 
  __References in Text__ 
 
@@ -105,13 +105,13 @@
 
  __Short Title__ 
 
-[Pub. L. 98–478, § 1][/us/pl/98/478/s1], Oct. 16, 1984, [98 Stat. 2213][/us/stat/98/2213], provided: 
+[Pub. L. 98–478][/us/pl/98/478], § 1, Oct. 16, 1984, [98 Stat. 2213][/us/stat/98/2213], provided: 
 
 > “That this Act \[enacting this section and sections 539f and 619 of this title\] may be cited as ‘Federal Timber Contract Payment Modification Act’.”
 
  __Administrative Appeals of Timber Sales__ 
 
-[Pub. L. 99–500, § 101(h)][/us/pl/99/500/s101/h] \[title III, § 320\], Oct. 18, 1986, [100 Stat. 1783–242][/us/stat/100/1783-242], 1783–286, and [Pub. L. 99–591, § 101(h)][/us/pl/99/591/s101/h] \[title III, § 320\], Oct. 30, 1986, [100 Stat. 3341–242][/us/stat/100/3341-242], 3341–287, provided that: 
+[Pub. L. 99–500][/us/pl/99/500], § 101(h) \[title III, § 320\], Oct. 18, 1986, [100 Stat. 1783–242][/us/stat/100/1783-242], 1783–286, and [Pub. L. 99–591][/us/pl/99/591], § 101(h) \[title III, § 320\], Oct. 30, 1986, [100 Stat. 3341–242][/us/stat/100/3341-242], 3341–287, provided that: 
 
 > “To assure that National Forest and Bureau of Land Management timber included in sales defaulted by the purchaser, or returned under the Federal Timber Contract Payment Modification Act ([Public Law 98–478][/us/pl/98/478]) \[see Short Title note above\], is available for resale in a timely manner, such sales shall be subject only to one level of administrative appeal. This limitation shall not abridge the right of judicial review. Actions on such administrative appeals should be completed within 90 days of receipt of the notice of appeal. Sales that are reoffered shall be modified, including minor additions or deletions, as appropriate, to reduce adverse environmental impacts, pursuant to current land management plans and guidelines, and such modifications in themselves should not be construed to require the preparation of new or supplemental environmental assessments. This section shall not apply to any decision on the determination of damages due to the Government for defaulted or canceled contracts.”
 
@@ -122,15 +122,15 @@
 ----------
 ----------
 
-[/us/pl/98/478/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F478%2Fs2
+[/us/pl/98/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F478
 [/us/stat/98/2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2213
 [/us/pl/98/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F478
 [/us/stat/98/2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2213
-[/us/pl/98/478/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F478%2Fs1
+[/us/pl/98/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F478
 [/us/stat/98/2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2213
-[/us/pl/99/500/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fh
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-242
-[/us/pl/99/591/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fh
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-242
 [/us/pl/98/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F478
 

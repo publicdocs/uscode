@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t16/ch1/schXXXV/m__us_usc_t16_s284e.md) | [Next](./../../../../..//us/usc/t16/ch1/schXXXV/m__us_usc_t16_s284g.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs284f)
 
-## § 284f. Repealed. [Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(D)][/us/pl/104/333/s814/d/1/D], Nov. 12, 1996, [110 Stat. 4196][/us/stat/110/4196]
+## § 284f. Repealed. [Pub. L. 104–333, div. I, title VIII][/us/pl/104/333/dI/tVIII], § 814(d)(1)(D), Nov. 12, 1996, [110 Stat. 4196][/us/stat/110/4196]
 
-    Section, [Pub. L. 89–671, § 7][/us/pl/89/671/s7], as added [Pub. L. 97–310][/us/pl/97/310], Oct. 14, 1982, [96 Stat. 1457][/us/stat/96/1457], related to reports to congressional committees respecting reconstruction of Center.
+    Section, [Pub. L. 89–671][/us/pl/89/671], § 7, as added [Pub. L. 97–310][/us/pl/97/310], Oct. 14, 1982, [96 Stat. 1457][/us/stat/96/1457], related to reports to congressional committees respecting reconstruction of Center.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/104/333/s814/d/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs814%2Fd%2F1%2FD
+[/us/pl/104/333/dI/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtVIII
 [/us/stat/110/4196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4196
-[/us/pl/89/671/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F671%2Fs7
+[/us/pl/89/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F671
 [/us/pl/97/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F310
 [/us/stat/96/1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1457
 

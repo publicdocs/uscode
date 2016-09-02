@@ -17,7 +17,7 @@
 
     The Secretary may accept and use for purposes of sections 459e to 459e–9 of this title any real or personal property or moneys that may be donated for such purposes.
 
-([Pub. L. 88–587, § 6][/us/pl/88/587/s6], Sept. 11, 1964, [78 Stat. 931][/us/stat/78/931].)
+([Pub. L. 88–587][/us/pl/88/587], § 6, Sept. 11, 1964, [78 Stat. 931][/us/stat/78/931].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/587/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F587%2Fs6
+[/us/pl/88/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F587
 [/us/stat/78/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F931
 
 

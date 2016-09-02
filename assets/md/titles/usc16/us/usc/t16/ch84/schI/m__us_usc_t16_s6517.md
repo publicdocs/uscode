@@ -23,7 +23,7 @@
 
         For projects and activities of the National Forest System other than authorized hazardous fuel reduction projects, nothing in this subchapter affects, or otherwise biases, the notice, comment, and appeal procedures for projects and activities of the National Forest System contained in part 215 of title 36, Code of Federal Regulations, or the consideration or disposition of any legal action brought with respect to the procedures.
 
-([Pub. L. 108–148, title I, § 107][/us/pl/108/148/s107], Dec. 3, 2003, [117 Stat. 1900][/us/stat/117/1900].)
+([Pub. L. 108–148, title I][/us/pl/108/148/tI], § 107, Dec. 3, 2003, [117 Stat. 1900][/us/stat/117/1900].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t16/s6512/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6512%2Fd
 [/us/usc/t16/s6514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6514
-[/us/pl/108/148/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2Fs107
+[/us/pl/108/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2FtI
 [/us/stat/117/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1900
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

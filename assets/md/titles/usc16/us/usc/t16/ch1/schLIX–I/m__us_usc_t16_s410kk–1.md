@@ -17,7 +17,7 @@
 
     The Secretary shall administer the Lyndon B. Johnson National Historical Park in accordance with the Act approved August 25, 1916 ([39 Stat. 535][/us/stat/39/535]; [16 U.S.C. 1][/us/usc/t16/s1] et seq.), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended and supplemented, and the Act approved August 21, 1935 ([49 Stat. 666][/us/stat/49/666]; [16 U.S.C. 461][/us/usc/t16/s461] et seq.), <sup>\[1\]</sup>  as amended.
 
-([Pub. L. 91–134, § 2][/us/pl/91/134/s2], Dec. 2, 1969, [83 Stat. 274][/us/stat/83/274]; [Pub. L. 96–607, title VI, § 601(3)][/us/pl/96/607/s601/3], Dec. 28, 1980, [94 Stat. 3540][/us/stat/94/3540].)
+([Pub. L. 91–134][/us/pl/91/134], § 2, Dec. 2, 1969, [83 Stat. 274][/us/stat/83/274]; [Pub. L. 96–607, title VI][/us/pl/96/607/tVI], § 601(3), Dec. 28, 1980, [94 Stat. 3540][/us/stat/94/3540].)
 
  __References in Text__ 
 
@@ -40,9 +40,9 @@
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
 [/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
-[/us/pl/91/134/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F134%2Fs2
+[/us/pl/91/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F134
 [/us/stat/83/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F274
-[/us/pl/96/607/s601/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607%2Fs601%2F3
+[/us/pl/96/607/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607%2FtVI
 [/us/stat/94/3540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3540
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1

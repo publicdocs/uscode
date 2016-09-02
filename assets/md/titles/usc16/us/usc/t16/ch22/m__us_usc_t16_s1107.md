@@ -17,7 +17,7 @@
 
     The Commission shall hold at least one meeting every calendar year and shall submit an annual report to the United States and Canadian Governments on or before March 31 of each year, including a general statement of the operation for the previous year and the results of an independent audit of the financial operations of the Commission. The Commission shall permit inspection of its records by the accounting agencies of both the United States and Canadian Governments.
 
-([Pub. L. 88–363, § 8][/us/pl/88/363/s8], July 7, 1964, [78 Stat. 301][/us/stat/78/301].)
+([Pub. L. 88–363][/us/pl/88/363], § 8, July 7, 1964, [78 Stat. 301][/us/stat/78/301].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/363/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F363%2Fs8
+[/us/pl/88/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F363
 [/us/stat/78/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F301
 
 

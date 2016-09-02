@@ -17,7 +17,7 @@
 
     All property acquired pursuant to sections 192b–2 to 192b–5 of this title shall become a part of the park, following acquisition of title thereto by the United States upon the issuance of an appropriate order or orders by the Secretary of the Interior setting forth the revised boundaries of the park, such order or orders to be effective immediately upon the expiration of thirty full calendar days after publication in the Federal Register. Lands so added to the park shall thereafter be subject to all laws and regulations applicable to the park.
 
-([Aug. 24, 1949, ch. 501, § 3][/us/act/1949-08-24/ch501/s3], [63 Stat. 627][/us/stat/63/627].)
+([Aug. 24, 1949, ch. 501][/us/act/1949-08-24/ch501], § 3, [63 Stat. 627][/us/stat/63/627].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1949-08-24/ch501/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-24%2Fch501%2Fs3
+[/us/act/1949-08-24/ch501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-24%2Fch501
 [/us/stat/63/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F627
 
 

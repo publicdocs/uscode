@@ -163,17 +163,17 @@
 
         The provisions of this section do not apply to Alaska or Hawaii.
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 215, as added [Pub. L. 109–58, title XII, § 1211(a)][/us/pl/109/58/s1211/a], Aug. 8, 2005, [119 Stat. 941][/us/stat/119/941].)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 215, as added [Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1211(a), Aug. 8, 2005, [119 Stat. 941][/us/stat/119/941].)
 
  __Status of ERO__ 
 
-[Pub. L. 109–58, title XII, § 1211(b)][/us/pl/109/58/s1211/b], Aug. 8, 2005, [119 Stat. 946][/us/stat/119/946], provided that: 
+[Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1211(b), Aug. 8, 2005, [119 Stat. 946][/us/stat/119/946], provided that: 
 
 > “The Electric Reliability Organization certified by the Federal Energy Regulatory Commission under section 215(c) of the Federal Power Act \[[16 U.S.C. 824][/us/usc/t16/s824]o(c)\] and any regional entity delegated enforcement authority pursuant to section 215(e)(4) of that Act \[[16 U.S.C. 824][/us/usc/t16/s824]o(e)(4)\] are not departments, agencies, or instrumentalities of the United States Government.”
 
  __Access Approvals by Federal Agencies__ 
 
-[Pub. L. 109–58, title XII, § 1211(c)][/us/pl/109/58/s1211/c], Aug. 8, 2005, [119 Stat. 946][/us/stat/119/946], provided that: 
+[Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1211(c), Aug. 8, 2005, [119 Stat. 946][/us/stat/119/946], provided that: 
 
 > “Federal agencies responsible for approving access to electric transmission or distribution facilities located on lands within the United States shall, in accordance with applicable law, expedite any Federal agency approvals that are necessary to allow the owners or operators of such facilities to comply with any reliability standard, approved by the \[Federal Energy Regulatory\] Commission under section 215 of the Federal Power Act \[[16 U.S.C. 824][/us/usc/t16/s824]o\], that pertains to vegetation management, electric service restoration, or resolution of situations that imminently endanger the reliability or safety of the facilities.”
 
@@ -187,13 +187,13 @@
 [/us/usc/t16/s824/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824%2Ff
 [/us/usc/t16/s824e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824e
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
-[/us/pl/109/58/s1211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1211%2Fa
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F941
-[/us/pl/109/58/s1211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1211%2Fb
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F946
 [/us/usc/t16/s824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824
 [/us/usc/t16/s824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824
-[/us/pl/109/58/s1211/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1211%2Fc
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F946
 [/us/usc/t16/s824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824
 

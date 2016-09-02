@@ -41,7 +41,7 @@
 
         (F) account for the effects of global climate change on forest and rangeland conditions, including potential effects on the geographic ranges of species, and on forest and rangeland products.
 
-([Pub. L. 93–378, § 4][/us/pl/93/378/s4], formerly § 3, Aug. 17, 1974, [88 Stat. 477][/us/stat/88/477], renumbered § 4 and amended [Pub. L. 94–588][/us/pl/94/588], §§ 2, 5, Oct. 22, 1976, [90 Stat. 2949][/us/stat/90/2949], 2951; [Pub. L. 101–624, title XXIV, § 2408(b)][/us/pl/101/624/s2408/b], Nov. 28, 1990, [104 Stat. 4061][/us/stat/104/4061].)
+([Pub. L. 93–378][/us/pl/93/378], § 4, formerly § 3, Aug. 17, 1974, [88 Stat. 477][/us/stat/88/477], renumbered § 4 and amended [Pub. L. 94–588][/us/pl/94/588], §§ 2, 5, Oct. 22, 1976, [90 Stat. 2949][/us/stat/90/2949], 2951; [Pub. L. 101–624, title XXIV][/us/pl/101/624/tXXIV], § 2408(b), Nov. 28, 1990, [104 Stat. 4061][/us/stat/104/4061].)
 
  __References in Text__ 
 
@@ -73,11 +73,11 @@
 [/us/usc/t16/s528–531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs528%E2%80%93531
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/93/378/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F378%2Fs4
+[/us/pl/93/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F378
 [/us/stat/88/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F477
 [/us/pl/94/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588
 [/us/stat/90/2949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2949
-[/us/pl/101/624/s2408/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2408%2Fb
+[/us/pl/101/624/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIV
 [/us/stat/104/4061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4061
 [/us/pl/86/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F517
 [/us/stat/74/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F215

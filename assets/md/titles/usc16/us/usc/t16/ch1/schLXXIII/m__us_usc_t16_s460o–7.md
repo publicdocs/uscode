@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated to the Secretary of the Interior for the acquisition of lands and interests in land pursuant to the provisions of section 460o–1 of this title and for expenses incident thereto not more than $65,000,000 which moneys shall be transferred to the Secretary of the Army. There are also authorized to be appropriated not more than $18,200,000 for the cost of installing and constructing recreation facilities on the lands and interests in lands so acquired. The amounts herein authorized to be appropriated are supplemental to those authorized to be appropriated for the Tocks Island project and related facilities by the Flood Control Act of 1962 ([76 Stat. 1182][/us/stat/76/1182]).
 
-([Pub. L. 89–158, § 8][/us/pl/89/158/s8], Sept. 1, 1965, [79 Stat. 614][/us/stat/79/614]; [Pub. L. 92–575, § 1][/us/pl/92/575/s1], Oct. 27, 1972, [86 Stat. 1250][/us/stat/86/1250].)
+([Pub. L. 89–158][/us/pl/89/158], § 8, Sept. 1, 1965, [79 Stat. 614][/us/stat/79/614]; [Pub. L. 92–575][/us/pl/92/575], § 1, Oct. 27, 1972, [86 Stat. 1250][/us/stat/86/1250].)
 
  __References in Text__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/stat/76/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1182
-[/us/pl/89/158/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F158%2Fs8
+[/us/pl/89/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F158
 [/us/stat/79/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F614
-[/us/pl/92/575/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F575%2Fs1
+[/us/pl/92/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F575
 [/us/stat/86/1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1250
 [/us/stat/76/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1182
 [/us/pl/87/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F874

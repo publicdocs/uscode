@@ -27,7 +27,7 @@
 
         (2) Within 180 days after October 27, 1992, the Secretary shall publish in the Federal Register a detailed description and map of the boundaries established under paragraph  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “subsection”. </sup></sup>  (a)(1).
 
-([Pub. L. 102–543, § 3][/us/pl/102/543/s3], Oct. 27, 1992, [106 Stat. 3570][/us/stat/106/3570].)
+([Pub. L. 102–543][/us/pl/102/543], § 3, Oct. 27, 1992, [106 Stat. 3570][/us/stat/106/3570].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
-[/us/pl/102/543/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F543%2Fs3
+[/us/pl/102/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F543
 [/us/stat/106/3570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3570
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408

@@ -17,7 +17,7 @@
 
     The Secretary shall permit hunting, fishing, and trapping on lands and waters under his jurisdiction within the boundaries of the seashore in accordance with the appropriate laws of the State of Florida and the United States to the extent applicable, except that he may designate zones where, and establish periods when, no hunting, fishing, or trapping shall be permitted for reasons of public safety, administration, fish and wildlife management, public use and enjoyment, protection of the resource, or competing public use. Except in emergencies, any regulations prescribing any such restrictions shall be put into effect only after consultation with the appropriate State agency responsible for hunting, fishing, and trapping activities.
 
-([Pub. L. 93–626, § 4][/us/pl/93/626/s4], Jan. 3, 1975, [88 Stat. 2123][/us/stat/88/2123].)
+([Pub. L. 93–626][/us/pl/93/626], § 4, Jan. 3, 1975, [88 Stat. 2123][/us/stat/88/2123].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/626/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F626%2Fs4
+[/us/pl/93/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F626
 [/us/stat/88/2123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2123
 
 

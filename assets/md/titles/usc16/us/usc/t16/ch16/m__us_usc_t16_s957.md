@@ -53,13 +53,13 @@
 
         For prohibitions relating to this chapter and enforcement of this chapter, see [section 1826g of this title][/us/usc/t16/s1826g].
 
-([Sept. 7, 1950, ch. 907, § 8][/us/act/1950-09-07/ch907/s8], [64 Stat. 779][/us/stat/64/779]; [Pub. L. 87–814, § 4][/us/pl/87/814/s4], Oct. 15, 1962, [76 Stat. 924][/us/stat/76/924]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090]; [Pub. L. 114–81, title II, § 207][/us/pl/114/81/s207], Nov. 5, 2015, [129 Stat. 663][/us/stat/129/663].)
+([Sept. 7, 1950, ch. 907][/us/act/1950-09-07/ch907], § 8, [64 Stat. 779][/us/stat/64/779]; [Pub. L. 87–814][/us/pl/87/814], § 4, Oct. 15, 1962, [76 Stat. 924][/us/stat/76/924]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090]; [Pub. L. 114–81, title II][/us/pl/114/81/tII], § 207, Nov. 5, 2015, [129 Stat. 663][/us/stat/129/663].)
 
  __Amendments__ 
 
-    2015—Subsecs. (a), (c). [Pub. L. 114–81, § 207(1)][/us/pl/114/81/s207/1], substituted “[section 955 of this title][/us/usc/t16/s955]” for “[section 955(c) of this title][/us/usc/t16/s955/c]” wherever appearing.
+    2015—Subsecs. (a), (c). [Pub. L. 114–81][/us/pl/114/81], § 207(1), substituted “[section 955 of this title][/us/usc/t16/s955]” for “[section 955(c) of this title][/us/usc/t16/s955/c]” wherever appearing.
 
-    Subsec. (i). [Pub. L. 114–81, § 207(2)][/us/pl/114/81/s207/2], added subsec. (i).
+    Subsec. (i). [Pub. L. 114–81][/us/pl/114/81], § 207(2), added subsec. (i).
 
     1962—[Pub. L. 87–814][/us/pl/87/814] substituted provisions respecting violations, fines, and forfeitures, and application of related laws for provisions respecting enforcement of chapter.
 
@@ -79,17 +79,17 @@
 [/us/usc/t16/s955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs955
 [/us/usc/t16/s955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs955
 [/us/usc/t16/s1826g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826g
-[/us/act/1950-09-07/ch907/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-07%2Fch907%2Fs8
+[/us/act/1950-09-07/ch907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-07%2Fch907
 [/us/stat/64/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F779
-[/us/pl/87/814/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F814%2Fs4
+[/us/pl/87/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F814
 [/us/stat/76/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F924
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
-[/us/pl/114/81/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs207
+[/us/pl/114/81/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2FtII
 [/us/stat/129/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F663
-[/us/pl/114/81/s207/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs207%2F1
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
 [/us/usc/t16/s955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs955
 [/us/usc/t16/s955/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs955%2Fc
-[/us/pl/114/81/s207/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs207%2F2
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
 [/us/pl/87/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F814
 [/us/usc/t16/s955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs955
 

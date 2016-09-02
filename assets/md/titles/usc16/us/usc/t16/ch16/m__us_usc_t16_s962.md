@@ -25,7 +25,7 @@
 
     (4) to reduce, to the maximum extent practicable, the mortality of juveniles of the target species.
 
-([Sept. 7, 1950, ch. 907, § 15][/us/act/1950-09-07/ch907/s15], as added [Pub. L. 105–42, § 7(c)][/us/pl/105/42/s7/c], Aug. 15, 1997, [111 Stat. 1138][/us/stat/111/1138]; amended [Pub. L. 114–81, title II, § 209][/us/pl/114/81/s209], Nov. 5, 2015, [129 Stat. 664][/us/stat/129/664].)
+([Sept. 7, 1950, ch. 907][/us/act/1950-09-07/ch907], § 15, as added [Pub. L. 105–42][/us/pl/105/42], § 7(c), Aug. 15, 1997, [111 Stat. 1138][/us/stat/111/1138]; amended [Pub. L. 114–81, title II][/us/pl/114/81/tII], § 209, Nov. 5, 2015, [129 Stat. 664][/us/stat/129/664].)
 
  __Codification__ 
 
@@ -46,10 +46,10 @@
 ----------
 ----------
 
-[/us/act/1950-09-07/ch907/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-07%2Fch907%2Fs15
-[/us/pl/105/42/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs7%2Fc
+[/us/act/1950-09-07/ch907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-07%2Fch907
+[/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
 [/us/stat/111/1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1138
-[/us/pl/114/81/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs209
+[/us/pl/114/81/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2FtII
 [/us/stat/129/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F664
 [/us/pl/105/42/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs7%2Fc
 [/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81

@@ -41,11 +41,11 @@
 
         Thirty per centum of the sums appropriated under [section 1706 of this title][/us/usc/t16/s1706] for any fiscal year shall be made available for grants under this section for such fiscal year.
 
-([Pub. L. 91–378, title I, § 104][/us/pl/91/378/s104], formerly § 4, Aug. 13, 1970, [84 Stat. 796][/us/stat/84/796]; [Pub. L. 92–597][/us/pl/92/597], Oct. 27, 1972, [86 Stat. 1320][/us/stat/86/1320]; [Pub. L. 93–408][/us/pl/93/408], Sept. 3, 1974, [88 Stat. 1067][/us/stat/88/1067]; renumbered title I, § 104, and amended [Pub. L. 103–82, title I, § 105(1)][/us/pl/103/82/s105/1], (3), (5), Sept. 21, 1993, [107 Stat. 848][/us/stat/107/848].)
+([Pub. L. 91–378, title I][/us/pl/91/378/tI], § 104, formerly § 4, Aug. 13, 1970, [84 Stat. 796][/us/stat/84/796]; [Pub. L. 92–597][/us/pl/92/597], Oct. 27, 1972, [86 Stat. 1320][/us/stat/86/1320]; [Pub. L. 93–408][/us/pl/93/408], Sept. 3, 1974, [88 Stat. 1067][/us/stat/88/1067]; renumbered title I, § 104, and amended [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 105(1), (3), (5), Sept. 21, 1993, [107 Stat. 848][/us/stat/107/848].)
 
  __Amendments__ 
 
-    1993—Subsec. (d). [Pub. L. 103–82, § 105(5)][/us/pl/103/82/s105/5], made technical amendment to reference to [section 1706 of this title][/us/usc/t16/s1706] to reflect renumbering of corresponding section of original act.
+    1993—Subsec. (d). [Pub. L. 103–82][/us/pl/103/82], § 105(5), made technical amendment to reference to [section 1706 of this title][/us/usc/t16/s1706] to reflect renumbering of corresponding section of original act.
 
     1974—Subsec. (a). [Pub. L. 93–408][/us/pl/93/408] substituted “jointly establish a program” for “jointly establish a pilot grant program”.
 
@@ -67,15 +67,15 @@
 ----------
 
 [/us/usc/t16/s1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1706
-[/us/pl/91/378/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F378%2Fs104
+[/us/pl/91/378/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F378%2FtI
 [/us/stat/84/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F796
 [/us/pl/92/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F597
 [/us/stat/86/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1320
 [/us/pl/93/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F408
 [/us/stat/88/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1067
-[/us/pl/103/82/s105/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs105%2F1
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F848
-[/us/pl/103/82/s105/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs105%2F5
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/usc/t16/s1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1706
 [/us/pl/93/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F408
 [/us/pl/92/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F579

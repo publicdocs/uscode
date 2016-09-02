@@ -17,7 +17,7 @@
 
     Within the area which lies within the boundaries of the park, the Secretary of the Interior is authorized to acquire lands and interests in lands by such means as he may deem to be in the public interest. The Secretary may accept title to any non-Federal property within the park, including State-owned school sections and riverbed lands, and in exchange therefor he may convey to the grantor of such property any federally owned property under his jurisdiction within the State of Utah, notwithstanding any other provision of law. The properties so exchanged shall be of the same classification, as near as may be, and shall be of approximately equal value, and the Secretary shall take administrative action to complete transfer on any lands in a proper application by the State of Utah on or before the expiration of one hundred twenty days following the date of enactment of this Act \[September 12, 1964\] or any amendment thereto: Provided, That the Secretary may accept cash from, or pay cash to, the grantor in such an exchange in order to equalize the values of the properties exchanged. Federal property located within the boundaries of the park may, with the concurrence of the agency having custody thereof, be transferred to the administrative jurisdiction of the Secretary of the Interior, without consideration, for use by him in carrying out the purposes of this subchapter. Any lands within the boundaries of the park which are subject to Bureau of Reclamation or Federal Power Commission withdrawals are hereby freed and exonerated from any such withdrawal and shall, on September 12, 1964, become a part of the Canyonlands National Park subject to no qualifications except those imposed by this subchapter or any amendment thereto.
 
-([Pub. L. 88–590, § 2][/us/pl/88/590/s2], Sept. 12, 1964, [78 Stat. 937][/us/stat/78/937]; [Pub. L. 92–154, § 1(b)][/us/pl/92/154/s1/b], Nov. 12, 1971, [85 Stat. 421][/us/stat/85/421].)
+([Pub. L. 88–590][/us/pl/88/590], § 2, Sept. 12, 1964, [78 Stat. 937][/us/stat/78/937]; [Pub. L. 92–154][/us/pl/92/154], § 1(b), Nov. 12, 1971, [85 Stat. 421][/us/stat/85/421].)
 
  __References in Text__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/88/590/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F590%2Fs2
+[/us/pl/88/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F590
 [/us/stat/78/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F937
-[/us/pl/92/154/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F154%2Fs1%2Fb
+[/us/pl/92/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F154
 [/us/stat/85/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F421
 [/us/pl/88/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F590
 [/us/pl/92/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F154

@@ -61,7 +61,7 @@
 
             The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the advisory group.
 
-([Pub. L. 106–247, § 7][/us/pl/106/247/s7], July 20, 2000, [114 Stat. 595][/us/stat/114/595]; [Pub. L. 109–363, title III, § 302(f)(1)][/us/pl/109/363/s302/f/1], Oct. 17, 2006, [120 Stat. 2076][/us/stat/120/2076].)
+([Pub. L. 106–247][/us/pl/106/247], § 7, July 20, 2000, [114 Stat. 595][/us/stat/114/595]; [Pub. L. 109–363, title III][/us/pl/109/363/tIII], § 302(f)(1), Oct. 17, 2006, [120 Stat. 2076][/us/stat/120/2076].)
 
  __References in Text__ 
 
@@ -73,7 +73,7 @@
 
  __Encouragement To Convene__ 
 
-[Pub. L. 109–363, title III, § 302(f)(2)][/us/pl/109/363/s302/f/2], Oct. 17, 2006, [120 Stat. 2076][/us/stat/120/2076], provided that: 
+[Pub. L. 109–363, title III][/us/pl/109/363/tIII], § 302(f)(2), Oct. 17, 2006, [120 Stat. 2076][/us/stat/120/2076], provided that: 
 
 > “The Secretary of the Interior is encouraged to convene an advisory group under section 7(b)(1) of such Act \[[Pub. L. 106–247][/us/pl/106/247], subsec. (b)(1) of this section\] by not later than 6 months after the effective date of this Act \[Oct. 17, 2006\]. This paragraph shall not be considered to authorize delay of the schedule previously established by the United States Fish and Wildlife Service for the submission, judging, and awarding of grants.”
 
@@ -85,15 +85,15 @@
 ----------
 
 [/us/usc/t16/s6103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6103%2F2
-[/us/pl/106/247/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F247%2Fs7
+[/us/pl/106/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F247
 [/us/stat/114/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F595
-[/us/pl/109/363/s302/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2Fs302%2Ff%2F1
+[/us/pl/109/363/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2FtIII
 [/us/stat/120/2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2076
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/109/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363
 [/us/usc/t16/s6103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6103%2F2
-[/us/pl/109/363/s302/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2Fs302%2Ff%2F2
+[/us/pl/109/363/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2FtIII
 [/us/stat/120/2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2076
 [/us/pl/106/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F247
 

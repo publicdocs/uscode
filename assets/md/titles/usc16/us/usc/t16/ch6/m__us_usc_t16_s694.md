@@ -17,7 +17,7 @@
 
     For the purpose of providing breeding places for game birds, game animals, and fish on lands and waters in the national forests not chiefly suitable for agriculture, the President of the United States is authorized, upon recommendation of the Secretary of Agriculture and the Secretary of Commerce and with the approval of the State legislatures of the respective States in which said national forests are situated, to establish by public proclamation certain specified and limited areas within said forests as fish and game sanctuaries or refuges which shall be devoted to the increase of game birds, game animals, and fish of all kinds naturally adapted thereto, but it is not intended that the lands included in such fish and game sanctuaries or refuges shall cease to be parts of the national forests wherein they are located, and the establishment of such fish and game sanctuaries or refuges shall not prevent the Secretary of Agriculture from permitting other uses of the national forests under and in conformity with the laws and the rules and regulations applicable thereto so far as such uses may be consistent with the purposes for which such fish and game sanctuaries or refuges are authorized to be established.
 
-([Mar. 10, 1934, ch. 54, § 1][/us/act/1934-03-10/ch54/s1], [48 Stat. 400][/us/stat/48/400].)
+([Mar. 10, 1934, ch. 54][/us/act/1934-03-10/ch54], § 1, [48 Stat. 400][/us/stat/48/400].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1934-03-10/ch54/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-10%2Fch54%2Fs1
+[/us/act/1934-03-10/ch54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-10%2Fch54
 [/us/stat/48/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F400
 [/us/stat/93/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1373
 [/us/pl/102/486/s3012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3012%2Fb

@@ -23,7 +23,7 @@
 
         Not later than 2 years after the date on which the Administrator publishes the national coral reef strategy under [section 6402 of this title][/us/usc/t16/s6402] and every 2 years thereafter, the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives a report describing all activities undertaken to implement that strategy, under [section 6402 of this title][/us/usc/t16/s6402], including a description of the funds obligated each fiscal year to advance coral reef conservation.
 
-([Pub. L. 106–562, title II, § 208][/us/pl/106/562/s208], Dec. 23, 2000, [114 Stat. 2804][/us/stat/114/2804].)
+([Pub. L. 106–562, title II][/us/pl/106/562/tII], § 208, Dec. 23, 2000, [114 Stat. 2804][/us/stat/114/2804].)
 
  __Change of Name__ 
 
@@ -39,7 +39,7 @@
 [/us/usc/t16/s6403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6403
 [/us/usc/t16/s6402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6402
 [/us/usc/t16/s6402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6402
-[/us/pl/106/562/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs208
+[/us/pl/106/562/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2FtII
 [/us/stat/114/2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2804
 
 

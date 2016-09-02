@@ -23,7 +23,7 @@
 
         The Steese National Conservation Area shall include approximately one million two hundred twenty thousand acres of public lands, as generally depicted on the map entitled “Steese National Conservation Area—proposed”, and dated October 1978. Special values to be considered in planning and management of the area are: caribou range and Birch Creek.
 
-([Pub. L. 96–487, title IV, § 401][/us/pl/96/487/s401], Dec. 2, 1980, [94 Stat. 2396][/us/stat/94/2396].)
+([Pub. L. 96–487, title IV][/us/pl/96/487/tIV], § 401, Dec. 2, 1980, [94 Stat. 2396][/us/stat/94/2396].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/96/487/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs401
+[/us/pl/96/487/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtIV
 [/us/stat/94/2396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2396
 
 

@@ -21,7 +21,7 @@ montana principal meridian
 
     Township 2 south, range 17, west: Section 13, southwest quarter southeast quarter, southeast quarter southwest quarter, east half southwest quarter southwest quarter; section 23, east half northeast quarter southeast quarter; section 24, west half east half, north half southwest quarter, southeast quarter southwest quarter, east half southwest quarter southwest quarter; section 25, those portions of the northeast quarter northwest quarter and the northwest quarter northeast quarter lying north of the north right-of-way line of relocated Montana State Route 43; consisting of approximately 466 acres.
 
-([Pub. L. 88–24, § 2][/us/pl/88/24/s2], May 17, 1963, [77 Stat. 18][/us/stat/77/18].)
+([Pub. L. 88–24][/us/pl/88/24], § 2, May 17, 1963, [77 Stat. 18][/us/stat/77/18].)
 
 ----------
 
@@ -30,7 +30,7 @@ montana principal meridian
 ----------
 ----------
 
-[/us/pl/88/24/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F24%2Fs2
+[/us/pl/88/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F24
 [/us/stat/77/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F18
 
 

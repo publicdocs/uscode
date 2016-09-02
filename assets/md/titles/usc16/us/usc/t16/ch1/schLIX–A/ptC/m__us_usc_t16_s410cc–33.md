@@ -69,7 +69,7 @@
 
         The Commission shall make available to the Secretary, upon request, all accounts, financial records, and other information of the Commission relating to grants and loans made under this section.
 
-([Pub. L. 95–290, title III, § 303][/us/pl/95/290/s303], June 5, 1978, [92 Stat. 300][/us/stat/92/300].)
+([Pub. L. 95–290, title III][/us/pl/95/290/tIII], § 303, June 5, 1978, [92 Stat. 300][/us/stat/92/300].)
 
  __Codification__ 
 
@@ -88,7 +88,7 @@
 [/us/usc/t16/s410cc–32/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410cc%E2%80%9332%2Fd%2F1
 [/us/usc/t16/s410cc–32/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410cc%E2%80%9332%2Fe
 [/us/usc/t16/s410cc–32/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410cc%E2%80%9332%2Fd
-[/us/pl/95/290/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F290%2Fs303
+[/us/pl/95/290/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F290%2FtIII
 [/us/stat/92/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F300
 [/us/usc/t16/s410cc–23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410cc%E2%80%9323
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

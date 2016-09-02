@@ -27,7 +27,7 @@
 
         A conviction under subsection (a) for any act shall not be deemed to preclude a conviction for such act under any other law.
 
-([Pub. L. 98–623, title III, § 309][/us/pl/98/623/s309], Nov. 8, 1984, [98 Stat. 3403][/us/stat/98/3403].)
+([Pub. L. 98–623, title III][/us/pl/98/623/tIII], § 309, Nov. 8, 1984, [98 Stat. 3403][/us/stat/98/3403].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t16/s2435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2435
-[/us/pl/98/623/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs309
+[/us/pl/98/623/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtIII
 [/us/stat/98/3403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3403
 
 

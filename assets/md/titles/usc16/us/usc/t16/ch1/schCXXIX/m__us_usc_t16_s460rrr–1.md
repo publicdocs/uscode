@@ -37,7 +37,7 @@
 
             The map and legal description of the Natural Area shall be available for public inspection in the appropriate offices of the Bureau of Land Management.
 
-([Pub. L. 109–337, § 3][/us/pl/109/337/s3], Oct. 12, 2006, [120 Stat. 1777][/us/stat/120/1777].)
+([Pub. L. 109–337][/us/pl/109/337], § 3, Oct. 12, 2006, [120 Stat. 1777][/us/stat/120/1777].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/109/337/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F337%2Fs3
+[/us/pl/109/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F337
 [/us/stat/120/1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1777
 
 

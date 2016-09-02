@@ -39,7 +39,7 @@
 
         The Secretary may acquire the Tredegar Iron Works buildings and associated land in the City of Richmond for use as a visitor center for the battlefield park.
 
-([Pub. L. 106–511, title V, § 504][/us/pl/106/511/s504], Nov. 13, 2000, [114 Stat. 2374][/us/stat/114/2374].)
+([Pub. L. 106–511, title V][/us/pl/106/511/tV], § 504, Nov. 13, 2000, [114 Stat. 2374][/us/stat/114/2374].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/106/511/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F511%2Fs504
+[/us/pl/106/511/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F511%2FtV
 [/us/stat/114/2374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2374
 [/us/pl/106/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F511
 [/us/stat/114/2373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2373

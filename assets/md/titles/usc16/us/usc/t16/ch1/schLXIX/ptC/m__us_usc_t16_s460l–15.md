@@ -17,7 +17,7 @@
 
     At projects, the construction of which has commenced or been completed as of July 9, 1965, where non-Federal public bodies agree to administer project land and water areas for recreation and fish and wildlife enhancement purposes and to bear the  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The word “the” probably should not appear. </sup></sup>  not less than one-half the costs of operation, maintenance, and replacement of existing facilities serving those purposes, such facilities and appropriate project lands may be leased to non-Federal public bodies.
 
-([Pub. L. 89–72, § 4][/us/pl/89/72/s4], July 9, 1965, [79 Stat. 215][/us/stat/79/215]; [Pub. L. 102–575, title XXVIII, § 2804(c)][/us/pl/102/575/s2804/c], Oct. 30, 1992, [106 Stat. 4691][/us/stat/106/4691].)
+([Pub. L. 89–72][/us/pl/89/72], § 4, July 9, 1965, [79 Stat. 215][/us/stat/79/215]; [Pub. L. 102–575, title XXVIII][/us/pl/102/575/tXXVIII], § 2804(c), Oct. 30, 1992, [106 Stat. 4691][/us/stat/106/4691].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/89/72/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F72%2Fs4
+[/us/pl/89/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F72
 [/us/stat/79/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F215
-[/us/pl/102/575/s2804/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575%2Fs2804%2Fc
+[/us/pl/102/575/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575%2FtXXVIII
 [/us/stat/106/4691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4691
 [/us/pl/102/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575
 

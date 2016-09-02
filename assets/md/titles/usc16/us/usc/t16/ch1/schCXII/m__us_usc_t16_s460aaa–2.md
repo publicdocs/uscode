@@ -57,7 +57,7 @@
 
         (9) Solely for purposes of payments pursuant to [section 6904 of title 31][/us/usc/t31/s6904], lands on Grand Island acquired by the United States after January 1, 1990 shall be considered to have been acquired for addition to a National Forest Wilderness Area (national forest portion of the National Wilderness Preservation System).
 
-([Pub. L. 101–292, § 3][/us/pl/101/292/s3], May 17, 1990, [104 Stat. 185][/us/stat/104/185].)
+([Pub. L. 101–292][/us/pl/101/292], § 3, May 17, 1990, [104 Stat. 185][/us/stat/104/185].)
 
  __References in Text__ 
 
@@ -76,7 +76,7 @@
 [/us/usc/t16/s497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs497
 [/us/usc/t16/s460aaa–6/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460aaa%E2%80%936%2Fb%2F4
 [/us/usc/t31/s6904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6904
-[/us/pl/101/292/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F292%2Fs3
+[/us/pl/101/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F292
 [/us/stat/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F185
 [/us/act/1915-03-04/ch144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-04%2Fch144
 [/us/stat/38/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F1086

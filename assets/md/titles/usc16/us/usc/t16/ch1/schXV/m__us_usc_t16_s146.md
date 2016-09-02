@@ -17,7 +17,7 @@
 
     All persons who shall unlawfully intrude upon said park, or who shall without permission appropriate any object therein or commit unauthorized injury or waste in any form whatever upon the lands or other public property therein, or who shall violate any of the rules and regulations prescribed hereunder, shall upon conviction be fined in a sum not more than $1,000 or be imprisoned for a period not more than twelve months, or shall suffer both fine and imprisonment, in the discretion of the court.
 
-([Jan. 9, 1903, ch. 63, § 6][/us/act/1903-01-09/ch63/s6], [32 Stat. 766][/us/stat/32/766].)
+([Jan. 9, 1903, ch. 63][/us/act/1903-01-09/ch63], § 6, [32 Stat. 766][/us/stat/32/766].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1903-01-09/ch63/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-01-09%2Fch63%2Fs6
+[/us/act/1903-01-09/ch63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-01-09%2Fch63
 [/us/stat/32/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F766
 [/us/act/1903-01-09/ch63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-01-09%2Fch63
 [/us/stat/32/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F765

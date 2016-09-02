@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch4/m__us_usc_t16_s613.md) | [Next](./../../../..//us/usc/t16/ch4/m__us_usc_t16_s615b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs615a)
+[Previous](./../../../..//us/usc/t16/ch4/m__us_usc_t16_s614 _us_usc_t16_s615.md) | [Next](./../../../..//us/usc/t16/ch4/m__us_usc_t16_s615b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs615a)
 
 ## § 615a. Sale of timber in Alaska; appraisal; local consumption; accounting; deposit in Treasury
 
     The Secretary of the Interior, under such rules and regulations as he may prescribe, may cause to be appraised the timber or any part thereof upon public lands in Alaska, and may from time to time sell so much thereof as he may deem proper for not less than the appraised value thereof, in such quantities to each purchaser as he shall prescribe, to be used in Alaska except as aforesaid, but not for export therefrom except as provided under [section 615b of this title][/us/usc/t16/s615b]. And such sales shall at all times be limited to actual necessities for consumption in Alaska from year to year, and payments for such timber shall be made to such officer as the Secretary of the Interior may designate of the local land office of the land district in which said timber may be sold, under such rules and regulations as the Secretary of the Interior may prescribe, and the moneys arising therefrom shall be accounted for by such officer as the Secretary of the Interior may designate to the Secretary of the Interior in a separate account, and shall be covered into the Treasury.
 
-([May 14, 1898, ch. 299, § 11][/us/act/1898-05-14/ch299/s11], [30 Stat. 414][/us/stat/30/414]; [Oct. 28, 1921, ch. 114, § 1][/us/act/1921-10-28/ch114/s1], [42 Stat. 208][/us/stat/42/208]; [Mar. 3, 1925, ch. 462][/us/act/1925-03-03/ch462], [43 Stat. 1144][/us/stat/43/1144]; 1946 Reorg. Plan. No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, [60 Stat. 1100][/us/stat/60/1100].)
+([May 14, 1898, ch. 299][/us/act/1898-05-14/ch299], § 11, [30 Stat. 414][/us/stat/30/414]; [Oct. 28, 1921, ch. 114][/us/act/1921-10-28/ch114], § 1, [42 Stat. 208][/us/stat/42/208]; [Mar. 3, 1925, ch. 462][/us/act/1925-03-03/ch462], [43 Stat. 1144][/us/stat/43/1144]; 1946 Reorg. Plan. No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, [60 Stat. 1100][/us/stat/60/1100].)
 
  __Codification__ 
 
@@ -37,15 +37,15 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch4/m__us_usc_t16_s613.md) | [Next](./../../../..//us/usc/t16/ch4/m__us_usc_t16_s615b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs615a)
+[Previous](./../../../..//us/usc/t16/ch4/m__us_usc_t16_s614 _us_usc_t16_s615.md) | [Next](./../../../..//us/usc/t16/ch4/m__us_usc_t16_s615b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs615a)
 
 ----------
 ----------
 
 [/us/usc/t16/s615b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs615b
-[/us/act/1898-05-14/ch299/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1898-05-14%2Fch299%2Fs11
+[/us/act/1898-05-14/ch299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1898-05-14%2Fch299
 [/us/stat/30/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F414
-[/us/act/1921-10-28/ch114/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-10-28%2Fch114%2Fs1
+[/us/act/1921-10-28/ch114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-10-28%2Fch114
 [/us/stat/42/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F208
 [/us/act/1925-03-03/ch462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch462
 [/us/stat/43/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1144

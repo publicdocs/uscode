@@ -71,19 +71,19 @@
 
         Revenues from the stamp established under the Act of March 16, 1934 ([16 U.S.C. 718][/us/usc/t16/s718] et seq.; commonly known as the Migratory Bird Hunting Stamp Act or Duck Stamp Act), shall not be covered by this chapter.
 
-([Pub. L. 108–447, div. J, title VIII, § 814][/us/pl/108/447/s814], Dec. 8, 2004, [118 Stat. 3392][/us/stat/118/3392].)
+([Pub. L. 108–447, div. J, title VIII][/us/pl/108/447/dJ/tVIII], § 814, Dec. 8, 2004, [118 Stat. 3392][/us/stat/118/3392].)
 
  __References in Text__ 
 
     This chapter, referred to in text, was in the original “this Act”, and was translated as reading “this title”, meaning title VIII of div. J of [Pub. L. 108–447][/us/pl/108/447], Dec. 8, 2004, [118 Stat. 3377][/us/stat/118/3377], known as the Federal Lands Recreation Enhancement Act, to reflect the probable intent of Congress. For complete classification of title VIII to the Code, see Short Title note set out under [section 6801 of this title][/us/usc/t16/s6801] and Tables.
 
-    [Section 6805 of this title][/us/usc/t16/s6805], referred to in subsec. (b), was in the original a reference to section 6, and was translated as meaning [section 806 of title VIII of div. J of Pub. L. 108–447][/us/pl/108/447/s806], to reflect the probable intent of Congress.
+    [Section 6805 of this title][/us/usc/t16/s6805], referred to in subsec. (b), was in the original a reference to section 6, and was translated as meaning [section 806 of title VIII of div. J of Pub. L. 108–447][/us/pl/108/447/dJ/tVIII/s806], to reflect the probable intent of Congress.
 
     The Act of August 8, 1937, referred to in subsec. (b)(5), probably means [act Aug. 28, 1937, ch. 876][/us/act/1937-08-28/ch876], [50 Stat. 874][/us/stat/50/874], as amended. Title II of the Act enacted [section 1181f of Title 43][/us/usc/t43/s1181f], Public Lands, and repealed [section 1174 of Title 43][/us/usc/t43/s1174]. For complete classification of this Act to the Code, see Tables.
 
     The Act of May 24, 1939, referred to in subsec. (b)(5), is [act May 24, 1939, ch. 144][/us/act/1939-05-24/ch144], [53 Stat. 753][/us/stat/53/753], which enacted sections 1181f–1 to 1181f–4 of Title 43, Public Lands, and provisions set out as a note under [section 1181f–1 of Title 43][/us/usc/t43/s1181f–1]. For complete classification of this Act to the Code, see Tables.
 
-    The Secure Rural Schools and Community Self-Determination Act of 2000, referred to in subsec. (b)(9), is [Pub. L. 106–393][/us/pl/106/393], Oct. 30, 2000, [114 Stat. 1607][/us/stat/114/1607]. Sections 1 to 3 and titles I to IV of the Act were set out as notes under [section 500 of this title][/us/usc/t16/s500] prior to the repeal and reenactment of sections 1 to 403 of the Act by [Pub. L. 110–343, div. C, title VI, § 601(a)][/us/pl/110/343/s601/a], Oct. 3, 2008, [122 Stat. 3893–3910][/us/stat/122/3893-3910]. The new sections 1 to 403 of the Act are classified generally to chapter 90 (§ 7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title][/us/usc/t16/s7101] and Tables.
+    The Secure Rural Schools and Community Self-Determination Act of 2000, referred to in subsec. (b)(9), is [Pub. L. 106–393][/us/pl/106/393], Oct. 30, 2000, [114 Stat. 1607][/us/stat/114/1607]. Sections 1 to 3 and titles I to IV of the Act were set out as notes under [section 500 of this title][/us/usc/t16/s500] prior to the repeal and reenactment of sections 1 to 403 of the Act by [Pub. L. 110–343, div. C, title VI][/us/pl/110/343/dC/tVI], § 601(a), Oct. 3, 2008, [122 Stat. 3893–3910][/us/stat/122/3893-3910]. The new sections 1 to 403 of the Act are classified generally to chapter 90 (§ 7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title][/us/usc/t16/s7101] and Tables.
 
     The Federal Water Project Recreation Act, referred to in subsec. (b)(11), is [Pub. L. 89–72][/us/pl/89/72], July 9, 1965, [79 Stat. 213][/us/stat/79/213], as amended, which is classified principally to part C (§ 460l–12 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460l–12 of this title and Tables.
 
@@ -122,13 +122,13 @@
 [/us/pl/106/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F298
 [/us/stat/114/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1047
 [/us/usc/t16/s718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs718
-[/us/pl/108/447/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs814
+[/us/pl/108/447/dJ/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtVIII
 [/us/stat/118/3392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3392
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/stat/118/3377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3377
 [/us/usc/t16/s6801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6801
 [/us/usc/t16/s6805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6805
-[/us/pl/108/447/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs806
+[/us/pl/108/447/dJ/tVIII/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtVIII%2Fs806
 [/us/act/1937-08-28/ch876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-28%2Fch876
 [/us/stat/50/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F874
 [/us/usc/t43/s1181f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1181f
@@ -139,7 +139,7 @@
 [/us/pl/106/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393
 [/us/stat/114/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1607
 [/us/usc/t16/s500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs500
-[/us/pl/110/343/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs601%2Fa
+[/us/pl/110/343/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtVI
 [/us/stat/122/3893-3910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3893-3910
 [/us/usc/t16/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7101
 [/us/pl/89/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F72

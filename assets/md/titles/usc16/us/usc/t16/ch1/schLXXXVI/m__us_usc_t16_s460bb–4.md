@@ -43,19 +43,19 @@
 
         The Commission shall cease to exist thirty years after October 27, 1972.
 
-([Pub. L. 92–589, § 5][/us/pl/92/589/s5], Oct. 27, 1972, [86 Stat. 1302][/us/stat/86/1302]; [Pub. L. 95–625, title III, § 317(g)][/us/pl/95/625/s317/g], Nov. 10, 1978, [92 Stat. 3486][/us/stat/92/3486]; [Pub. L. 96–344, § 4(2)][/us/pl/96/344/s4/2], (3), Sept. 8, 1980, [94 Stat. 1134][/us/stat/94/1134]; [Pub. L. 96–607, title X, § 1001(6)][/us/pl/96/607/s1001/6], (7), Dec. 28, 1980, [94 Stat. 3545][/us/stat/94/3545]; [Pub. L. 102–525, title III, § 303][/us/pl/102/525/s303], Oct. 26, 1992, [106 Stat. 3441][/us/stat/106/3441].)
+([Pub. L. 92–589][/us/pl/92/589], § 5, Oct. 27, 1972, [86 Stat. 1302][/us/stat/86/1302]; [Pub. L. 95–625, title III][/us/pl/95/625/tIII], § 317(g), Nov. 10, 1978, [92 Stat. 3486][/us/stat/92/3486]; [Pub. L. 96–344][/us/pl/96/344], § 4(2), (3), Sept. 8, 1980, [94 Stat. 1134][/us/stat/94/1134]; [Pub. L. 96–607, title X][/us/pl/96/607/tX], § 1001(6), (7), Dec. 28, 1980, [94 Stat. 3545][/us/stat/94/3545]; [Pub. L. 102–525, title III][/us/pl/102/525/tIII], § 303, Oct. 26, 1992, [106 Stat. 3441][/us/stat/106/3441].)
 
  __Amendments__ 
 
     1992—Subsec. (g). [Pub. L. 102–525][/us/pl/102/525] substituted “thirty” for “twenty”.
 
-    1980—Subsec. (b). [Pub. L. 96–607, § 1001(6)][/us/pl/96/607/s1001/6], substituted “eighteen” for “seventeen”.
+    1980—Subsec. (b). [Pub. L. 96–607][/us/pl/96/607], § 1001(6), substituted “eighteen” for “seventeen”.
 
-    [Pub. L. 96–344, § 4(2)][/us/pl/96/344/s4/2], substituted “five” for “three” and inserted proviso that the terms of members appointed or reappointed subsequent to Jan. 1, 1979, be extended so as not to expire before June 1, 1985.
+    [Pub. L. 96–344][/us/pl/96/344], § 4(2), substituted “five” for “three” and inserted proviso that the terms of members appointed or reappointed subsequent to Jan. 1, 1979, be extended so as not to expire before June 1, 1985.
 
-    Subsec. (e). [Pub. L. 96–607, § 1001(7)][/us/pl/96/607/s1001/7], substituted “Marin, San Mateo,” for “Marin”.
+    Subsec. (e). [Pub. L. 96–607][/us/pl/96/607], § 1001(7), substituted “Marin, San Mateo,” for “Marin”.
 
-    Subsec. (g). [Pub. L. 96–344, § 4(3)][/us/pl/96/344/s4/3], substituted “twenty” for “ten”.
+    Subsec. (g). [Pub. L. 96–344][/us/pl/96/344], § 4(3), substituted “twenty” for “ten”.
 
     1978—Subsec. (b). [Pub. L. 95–625][/us/pl/95/625] increased Commission membership from fifteen to seventeen.
 
@@ -66,21 +66,21 @@
 ----------
 ----------
 
-[/us/pl/92/589/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F589%2Fs5
+[/us/pl/92/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F589
 [/us/stat/86/1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1302
-[/us/pl/95/625/s317/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs317%2Fg
+[/us/pl/95/625/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtIII
 [/us/stat/92/3486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3486
-[/us/pl/96/344/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F344%2Fs4%2F2
+[/us/pl/96/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F344
 [/us/stat/94/1134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1134
-[/us/pl/96/607/s1001/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607%2Fs1001%2F6
+[/us/pl/96/607/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607%2FtX
 [/us/stat/94/3545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3545
-[/us/pl/102/525/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F525%2Fs303
+[/us/pl/102/525/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F525%2FtIII
 [/us/stat/106/3441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3441
 [/us/pl/102/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F525
-[/us/pl/96/607/s1001/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607%2Fs1001%2F6
-[/us/pl/96/344/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F344%2Fs4%2F2
-[/us/pl/96/607/s1001/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607%2Fs1001%2F7
-[/us/pl/96/344/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F344%2Fs4%2F3
+[/us/pl/96/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607
+[/us/pl/96/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F344
+[/us/pl/96/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607
+[/us/pl/96/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F344
 [/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
 
 

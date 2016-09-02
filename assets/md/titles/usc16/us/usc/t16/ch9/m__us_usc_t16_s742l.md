@@ -91,7 +91,7 @@
 
         (3) use appropriations to establish or acquire proprietary corporations or business entities as part of an undercover operation, operate such corporations or business entities on a commercial basis, lease space and make other necessary expenditures, and use the proceeds from such undercover operations to offset necessary and reasonable expenses incurred in such operations: Provided, That at the conclusion of each such operation the proceeds shall be deposited in the Treasury of the United States as miscellaneous receipts.
 
-([Pub. L. 95–616, § 3][/us/pl/95/616/s3] (less (e)–(j)), Nov. 8, 1978, [92 Stat. 3110][/us/stat/92/3110]; [Pub. L. 97–396, § 7][/us/pl/97/396/s7], Dec. 31, 1982, [96 Stat. 2006][/us/stat/96/2006]; [Pub. L. 105–328, § 3][/us/pl/105/328/s3], Oct. 30, 1998, [112 Stat. 3058][/us/stat/112/3058].)
+([Pub. L. 95–616][/us/pl/95/616], § 3 (less (e)–(j)), Nov. 8, 1978, [92 Stat. 3110][/us/stat/92/3110]; [Pub. L. 97–396][/us/pl/97/396], § 7, Dec. 31, 1982, [96 Stat. 2006][/us/stat/96/2006]; [Pub. L. 105–328][/us/pl/105/328], § 3, Oct. 30, 1998, [112 Stat. 3058][/us/stat/112/3058].)
 
  __References in Text__ 
 
@@ -109,7 +109,7 @@
 
  __Congressional Findings and Purposes__ 
 
-[Pub. L. 105–328, § 2][/us/pl/105/328/s2], Oct. 30, 1998, [112 Stat. 3057][/us/stat/112/3057], provided that:
+[Pub. L. 105–328][/us/pl/105/328], § 2, Oct. 30, 1998, [112 Stat. 3057][/us/stat/112/3057], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -148,18 +148,18 @@
 
 [/us/usc/t16/s1540/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1540%2Fd
 [/us/usc/t16/s3375/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3375%2Fd
-[/us/pl/95/616/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616%2Fs3
+[/us/pl/95/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616
 [/us/stat/92/3110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3110
-[/us/pl/97/396/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F396%2Fs7
+[/us/pl/97/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F396
 [/us/stat/96/2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2006
-[/us/pl/105/328/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F328%2Fs3
+[/us/pl/105/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F328
 [/us/stat/112/3058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3058
 [/us/pl/95/616/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616%2Fs3
 [/us/usc/t16/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs712
 [/us/pl/95/616/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616%2Fs3
 [/us/pl/105/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F328
 [/us/pl/97/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F396
-[/us/pl/105/328/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F328%2Fs2
+[/us/pl/105/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F328
 [/us/stat/112/3057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3057
 [/us/usc/t16/s742a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs742a
 

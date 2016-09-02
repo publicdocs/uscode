@@ -77,7 +77,7 @@
 
         If after 2 years after October 5, 2004, the Secretary finds that the Institute model established at the locations named in subsection (b)(2) would be constructive for other interior West States, the Secretary may establish 1 institute in each of those States.
 
-([Pub. L. 108–317, § 5][/us/pl/108/317/s5], Oct. 5, 2004, [118 Stat. 1207][/us/stat/118/1207].)
+([Pub. L. 108–317][/us/pl/108/317], § 5, Oct. 5, 2004, [118 Stat. 1207][/us/stat/118/1207].)
 
 ----------
 
@@ -86,7 +86,7 @@
 ----------
 ----------
 
-[/us/pl/108/317/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F317%2Fs5
+[/us/pl/108/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F317
 [/us/stat/118/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1207
 
 

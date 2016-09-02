@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to accept for park purposes any lands and rights-of-way, including the Grandfather Mountain, near or adjacent to the Government national forest in western North Carolina.
 
-([June 12, 1917, ch. 27, § 1][/us/act/1917-06-12/ch27/s1], [40 Stat. 152][/us/stat/40/152].)
+([June 12, 1917, ch. 27][/us/act/1917-06-12/ch27], § 1, [40 Stat. 152][/us/stat/40/152].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1917-06-12/ch27/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-12%2Fch27%2Fs1
+[/us/act/1917-06-12/ch27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-12%2Fch27
 [/us/stat/40/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F152
 [/us/act/1907-03-04/ch2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2907
 [/us/stat/34/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F1269

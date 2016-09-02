@@ -17,7 +17,7 @@
 
     The Secretary shall provide adequate access to nonfederally owned land or interests in land within the boundaries of the conservation units and wilderness areas designated by this Act which will provide the owner of such land or interest the reasonable use and enjoyment thereof.
 
-([Pub. L. 103–433, title VII, § 708][/us/pl/103/433/s708], Oct. 31, 1994, [108 Stat. 4500][/us/stat/108/4500].)
+([Pub. L. 103–433, title VII][/us/pl/103/433/tVII], § 708, Oct. 31, 1994, [108 Stat. 4500][/us/stat/108/4500].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/103/433/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs708
+[/us/pl/103/433/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtVII
 [/us/stat/108/4500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4500
 [/us/usc/t16/s410aaa–81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410aaa%E2%80%9381
 

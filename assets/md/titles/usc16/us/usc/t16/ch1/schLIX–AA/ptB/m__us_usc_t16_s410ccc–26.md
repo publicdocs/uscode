@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as may be necessary to carry out this subchapter.
 
-([Pub. L. 103–449, title IV, § 406][/us/pl/103/449/s406], Nov. 2, 1994, [108 Stat. 4765][/us/stat/108/4765].)
+([Pub. L. 103–449, title IV][/us/pl/103/449/tIV], § 406, Nov. 2, 1994, [108 Stat. 4765][/us/stat/108/4765].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/449/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F449%2Fs406
+[/us/pl/103/449/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F449%2FtIV
 [/us/stat/108/4765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4765
 
 

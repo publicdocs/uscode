@@ -45,7 +45,7 @@
 
         any project which utilizes or proposes to utilize natural water features for the generation of electricity, without the need for any dam or impoundment, in a manner which (as determined by the Commission) will achieve the purposes of this chapter and will do so without any adverse effect upon such natural water features.
 
-([Pub. L. 95–617, title IV, § 408][/us/pl/95/617/s408], Nov. 9, 1978, [92 Stat. 3156][/us/stat/92/3156]; [Pub. L. 96–294, title IV, § 408(a)][/us/pl/96/294/s408/a], (c), June 30, 1980, [94 Stat. 718][/us/stat/94/718]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 109–58, title II, § 246][/us/pl/109/58/s246], Aug. 8, 2005, [119 Stat. 679][/us/stat/119/679].)
+([Pub. L. 95–617, title IV][/us/pl/95/617/tIV], § 408, Nov. 9, 1978, [92 Stat. 3156][/us/stat/92/3156]; [Pub. L. 96–294, title IV][/us/pl/96/294/tIV], § 408(a), (c), June 30, 1980, [94 Stat. 718][/us/stat/94/718]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 109–58, title II][/us/pl/109/58/tII], § 246, Aug. 8, 2005, [119 Stat. 679][/us/stat/119/679].)
 
  __References in Text__ 
 
@@ -57,9 +57,9 @@
 
     1986—Subsec. (a)(3), (5). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-    1980—Subsec. (a). [Pub. L. 96–294, § 408(a)][/us/pl/96/294/s408/a], (c)(1), designated existing provisions as subsec. (a) and, as so designated, in par. (1) substituted “30,000” for “15,000”.
+    1980—Subsec. (a). [Pub. L. 96–294][/us/pl/96/294], § 408(a), (c)(1), designated existing provisions as subsec. (a) and, as so designated, in par. (1) substituted “30,000” for “15,000”.
 
-    Subsec. (b). [Pub. L. 96–294, § 408(c)(2)][/us/pl/96/294/s408/c/2], added subsec. (b).
+    Subsec. (b). [Pub. L. 96–294][/us/pl/96/294], § 408(c)(2), added subsec. (b).
 
 ----------
 
@@ -74,18 +74,18 @@
 [/us/usc/t26/s513/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs513%2Fa
 [/us/usc/t16/s796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs796
 [/us/usc/t16/s796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs796
-[/us/pl/95/617/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs408
+[/us/pl/95/617/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtIV
 [/us/stat/92/3156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3156
-[/us/pl/96/294/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs408%2Fa
+[/us/pl/96/294/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtIV
 [/us/stat/94/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F718
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/109/58/s246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs246
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F679
 [/us/usc/t16/s2602/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2602%2F3
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/96/294/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs408%2Fa
-[/us/pl/96/294/s408/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs408%2Fc%2F2
+[/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
+[/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
 
 

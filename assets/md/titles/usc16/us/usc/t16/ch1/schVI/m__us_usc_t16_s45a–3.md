@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t16/ch1/schVI/m__us_usc_t16_s45a–2.md) | [Next](./../../../../..//us/usc/t16/ch1/schVI/m__us_usc_t16_s45b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs45a%E2%80%933)
 
-## § 45a–3. Repealed. [Pub. L. 95–625, title III, § 314(g)][/us/pl/95/625/s314/g], Nov. 10, 1978, [92 Stat. 3483][/us/stat/92/3483]
+## § 45a–3. Repealed. [Pub. L. 95–625, title III][/us/pl/95/625/tIII], § 314(g), Nov. 10, 1978, [92 Stat. 3483][/us/stat/92/3483]
 
     Section, [Pub. L. 85–648][/us/pl/85/648], Aug. 14, 1958, [72 Stat. 604][/us/stat/72/604], authorized addition of certain lands to the Sequoia National Game Refuge and exclusion of such lands from the Sequoia National Park. See [section 45f(b)(2) of this title][/us/usc/t16/s45f/b/2].
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/95/625/s314/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs314%2Fg
+[/us/pl/95/625/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtIII
 [/us/stat/92/3483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3483
 [/us/pl/85/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F648
 [/us/stat/72/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F604

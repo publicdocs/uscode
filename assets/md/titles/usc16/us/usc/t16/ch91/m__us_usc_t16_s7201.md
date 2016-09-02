@@ -25,7 +25,7 @@
 
         The term “system” means the National Landscape Conservation System established by [section 7202(a) of this title][/us/usc/t16/s7202/a].
 
-([Pub. L. 111–11, title II, § 2001][/us/pl/111/11/s2001], Mar. 30, 2009, [123 Stat. 1094][/us/stat/123/1094].)
+([Pub. L. 111–11, title II][/us/pl/111/11/tII], § 2001, Mar. 30, 2009, [123 Stat. 1094][/us/stat/123/1094].)
 
 ----------
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t16/s7202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7202%2Fa
-[/us/pl/111/11/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs2001
+[/us/pl/111/11/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtII
 [/us/stat/123/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1094
 
 

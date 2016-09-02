@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to accept the donation by the State of Indiana of approximately seventeen acres of land comprising the George Rogers Clark Memorial in Vincennes, Indiana, for establishment and administration as the George Rogers Clark National Historical Park.
 
-([Pub. L. 89–517, § 1][/us/pl/89/517/s1], July 23, 1966, [80 Stat. 325][/us/stat/80/325].)
+([Pub. L. 89–517][/us/pl/89/517], § 1, July 23, 1966, [80 Stat. 325][/us/stat/80/325].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/517/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F517%2Fs1
+[/us/pl/89/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F517
 [/us/stat/80/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F325
 
 

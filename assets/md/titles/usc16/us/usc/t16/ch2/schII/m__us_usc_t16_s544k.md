@@ -39,7 +39,7 @@
 
         The provisions of subsection (a) shall not apply to those portions of tributary rivers or streams to the Columbia River which flow through or border on Indian reservations. Nothing in this section shall apply to or affect any segment of any river designated as a wild and scenic river under section 3 of the Wild and Scenic Rivers Act ([16 U.S.C. 1274][/us/usc/t16/s1274]) or any river designated for study under section 5 of such Act ([16 U.S.C. 1276][/us/usc/t16/s1276]).
 
-([Pub. L. 99–663, § 13(a)][/us/pl/99/663/s13/a], (b), Nov. 17, 1986, [100 Stat. 4293][/us/stat/100/4293], 4294; [Pub. L. 111–11, title I, § 1203(b)][/us/pl/111/11/s1203/b], Mar. 30, 2009, [123 Stat. 1012][/us/stat/123/1012].)
+([Pub. L. 99–663][/us/pl/99/663], § 13(a), (b), Nov. 17, 1986, [100 Stat. 4293][/us/stat/100/4293], 4294; [Pub. L. 111–11, title I][/us/pl/111/11/tI], § 1203(b), Mar. 30, 2009, [123 Stat. 1012][/us/stat/123/1012].)
 
  __References in Text__ 
 
@@ -70,9 +70,9 @@
 [/us/usc/t16/s1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1271
 [/us/usc/t16/s1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1274
 [/us/usc/t16/s1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1276
-[/us/pl/99/663/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663%2Fs13%2Fa
+[/us/pl/99/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663
 [/us/stat/100/4293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4293
-[/us/pl/111/11/s1203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs1203%2Fb
+[/us/pl/111/11/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtI
 [/us/stat/123/1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1012
 [/us/pl/99/663/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663%2Fs13
 [/us/stat/100/4294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4294

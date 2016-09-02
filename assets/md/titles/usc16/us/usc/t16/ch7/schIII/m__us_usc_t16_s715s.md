@@ -87,7 +87,7 @@
 
         (5) The term “county” means any county, parish, or organized or unorganized borough.
 
-([June 15, 1935, ch. 261][/us/act/1935-06-15/ch261], title IV, § 401, [49 Stat. 383][/us/stat/49/383]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; 1940 Reorg. Plan No. III, § 3, eff. June 30, 1940, 5 F.R. 2108, [54 Stat. 1232][/us/stat/54/1232]; [Oct. 31, 1951, ch. 654, § 2(13)][/us/act/1951-10-31/ch654/s2/13], [65 Stat. 707][/us/stat/65/707]; [Pub. L. 88–523][/us/pl/88/523], Aug. 30, 1964, [78 Stat. 701][/us/stat/78/701]; [Pub. L. 89–669, § 8(b)][/us/pl/89/669/s8/b], Oct. 15, 1966, [80 Stat. 930][/us/stat/80/930]; [Pub. L. 93–205, § 13(b)][/us/pl/93/205/s13/b], Dec. 28, 1973, [87 Stat. 902][/us/stat/87/902]; [Pub. L. 93–509, § 4][/us/pl/93/509/s4], Dec. 3, 1974, [88 Stat. 1603][/us/stat/88/1603]; [Pub. L. 95–469, § 1(a)][/us/pl/95/469/s1/a], Oct. 17, 1978, [92 Stat. 1319][/us/stat/92/1319]; [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068].)
+([June 15, 1935, ch. 261][/us/act/1935-06-15/ch261], title IV, § 401, [49 Stat. 383][/us/stat/49/383]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; 1940 Reorg. Plan No. III, § 3, eff. June 30, 1940, 5 F.R. 2108, [54 Stat. 1232][/us/stat/54/1232]; [Oct. 31, 1951, ch. 654][/us/act/1951-10-31/ch654], § 2(13), [65 Stat. 707][/us/stat/65/707]; [Pub. L. 88–523][/us/pl/88/523], Aug. 30, 1964, [78 Stat. 701][/us/stat/78/701]; [Pub. L. 89–669][/us/pl/89/669], § 8(b), Oct. 15, 1966, [80 Stat. 930][/us/stat/80/930]; [Pub. L. 93–205][/us/pl/93/205], § 13(b), Dec. 28, 1973, [87 Stat. 902][/us/stat/87/902]; [Pub. L. 93–509][/us/pl/93/509], § 4, Dec. 3, 1974, [88 Stat. 1603][/us/stat/88/1603]; [Pub. L. 95–469][/us/pl/95/469], § 1(a), Oct. 17, 1978, [92 Stat. 1319][/us/stat/92/1319]; [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068].)
 
  __References in Text__ 
 
@@ -117,21 +117,21 @@ The reference in subsec. (f) to “revenue producing activity referred to in sub
 
     1982—Subsec. (h). [Pub. L. 97–258][/us/pl/97/258] struck out subsec. (h) which had provided for administration of payments to local governments for entitlement lands, reserve areas as entitlement lands, and payments received by any unit of local government to be deemed payments under specified provisions. See sections 6901 and 6903 of Title 31, Money and Finance.
 
-    1978—Subsec. (a). [Pub. L. 95–469, § 1(a)(1)][/us/pl/95/469/s1/a/1], authorized the separate fund in the United States Treasury to include revenues from sale or other disposition of salmonoid carcasses and extended the operation and management provision to areas of National Fish Hatcheries and other areas administered by the Secretary.
+    1978—Subsec. (a). [Pub. L. 95–469][/us/pl/95/469], § 1(a)(1), authorized the separate fund in the United States Treasury to include revenues from sale or other disposition of salmonoid carcasses and extended the operation and management provision to areas of National Fish Hatcheries and other areas administered by the Secretary.
 
-    Subsec. (b). [Pub. L. 95–469, § 1(a)(2)][/us/pl/95/469/s1/a/2], substituted “revenue-producing and revenue-sharing measures” for “revenue-producing measures set forth in subsection (a) of this section”.
+    Subsec. (b). [Pub. L. 95–469][/us/pl/95/469], § 1(a)(2), substituted “revenue-producing and revenue-sharing measures” for “revenue-producing measures set forth in subsection (a) of this section”.
 
-    Subsec. (c). [Pub. L. 95–469, § 1(a)(3)][/us/pl/95/469/s1/a/3], in revising subsec. (c), substituted pars. (1) to (5) for prior text consisting of: introductory text authorizing expenditures solely for benefit of public schools and roads, now covered in par. (5)(C); par. (1) of first sentence, now included in par. (2); par. (2) of first sentence, now covered in pars. (1)(B), (C) and (4) in part; and second sentence now incorporated in par. (4)(B).
+    Subsec. (c). [Pub. L. 95–469][/us/pl/95/469], § 1(a)(3), in revising subsec. (c), substituted pars. (1) to (5) for prior text consisting of: introductory text authorizing expenditures solely for benefit of public schools and roads, now covered in par. (5)(C); par. (1) of first sentence, now included in par. (2); par. (2) of first sentence, now covered in pars. (1)(B), (C) and (4) in part; and second sentence now incorporated in par. (4)(B).
 
-    Subsec. (d). [Pub. L. 95–469, § 1(a)(3)][/us/pl/95/469/s1/a/3], substituted provision for authorization of appropriations equal to difference between amount of net receipts and aggregate amount of required payments for prior provision limiting amount payable to the counties to amount of net receipts in the fund for any fiscal year and a proportionate reduction of payments when net receipts are insufficient for aggregate amount of payments for any fiscal year.
+    Subsec. (d). [Pub. L. 95–469][/us/pl/95/469], § 1(a)(3), substituted provision for authorization of appropriations equal to difference between amount of net receipts and aggregate amount of required payments for prior provision limiting amount payable to the counties to amount of net receipts in the fund for any fiscal year and a proportionate reduction of payments when net receipts are insufficient for aggregate amount of payments for any fiscal year.
 
-    Subsec. (e). [Pub. L. 95–469, § 1(a)(3)][/us/pl/95/469/s1/a/3], in revising subsec. (e), substituted provision authorizing use of surplus funds for acquisition of suitable areas for migratory bird refuges for prior provision making remaining funds available for such land acquisition and eliminated provision prohibiting funds available for the Management of the National Wildlife Refuge System or for enforcement of the Migratory Bird Treaty Act from being diminished by the amendments made by [Pub. L. 93–509][/us/pl/93/509] to this subsection unless by specific congressional enactment.
+    Subsec. (e). [Pub. L. 95–469][/us/pl/95/469], § 1(a)(3), in revising subsec. (e), substituted provision authorizing use of surplus funds for acquisition of suitable areas for migratory bird refuges for prior provision making remaining funds available for such land acquisition and eliminated provision prohibiting funds available for the Management of the National Wildlife Refuge System or for enforcement of the Migratory Bird Treaty Act from being diminished by the amendments made by [Pub. L. 93–509][/us/pl/93/509] to this subsection unless by specific congressional enactment.
 
-    Subsec. (f). [Pub. L. 95–469, § 1(a)(3)][/us/pl/95/469/s1/a/3], substituted “The Secretary shall carry out any revenue producing activity referred to in subsection (a)(1), (2), and (3) within any fee area or reserve area subject to such terms, conditions, or regulations, including sales in the open markets, as the Secretary determines to be in the best interest of the United States.” for “The disposition or sale of surplus animals, minerals, and other products, the grant of privileges, and the carrying out of any other activities that result in the collection of revenues within any areas of the System may be accomplished upon such terms, conditions, or regulations, including sale in the open markets, as the Secretary shall determine to be in the best interest of the United States.” and reenacted substance of second sentence, setting out provision for regulations at beginning rather than end of sentence.
+    Subsec. (f). [Pub. L. 95–469][/us/pl/95/469], § 1(a)(3), substituted “The Secretary shall carry out any revenue producing activity referred to in subsection (a)(1), (2), and (3) within any fee area or reserve area subject to such terms, conditions, or regulations, including sales in the open markets, as the Secretary determines to be in the best interest of the United States.” for “The disposition or sale of surplus animals, minerals, and other products, the grant of privileges, and the carrying out of any other activities that result in the collection of revenues within any areas of the System may be accomplished upon such terms, conditions, or regulations, including sale in the open markets, as the Secretary shall determine to be in the best interest of the United States.” and reenacted substance of second sentence, setting out provision for regulations at beginning rather than end of sentence.
 
-    Subsec. (g). [Pub. L. 95–469, § 1(a)(3)][/us/pl/95/469/s1/a/3], substituted definitions of certain terms for prior provision for supersedure by [Pub. L. 88–523][/us/pl/88/523] of repealed paragraph of “Management of National Wildlife Refuges” in the General Appropriation Act, 1951, approved Sept. 6, 1950 ([64 Stat. 595][/us/stat/64/595], 693 to 694).
+    Subsec. (g). [Pub. L. 95–469][/us/pl/95/469], § 1(a)(3), substituted definitions of certain terms for prior provision for supersedure by [Pub. L. 88–523][/us/pl/88/523] of repealed paragraph of “Management of National Wildlife Refuges” in the General Appropriation Act, 1951, approved Sept. 6, 1950 ([64 Stat. 595][/us/stat/64/595], 693 to 694).
 
-    Subsec. (h). [Pub. L. 95–469, § 1(a)(4)][/us/pl/95/469/s1/a/4], added subsec. (h).
+    Subsec. (h). [Pub. L. 95–469][/us/pl/95/469], § 1(a)(4), added subsec. (h).
 
     1974—Subsec. (e). [Pub. L. 93–509][/us/pl/93/509] substituted provisions that moneys remaining in the fund after all payments under this section are made for any fiscal year shall be transferred to the Migratory Bird Conservation Fund and shall be available for land acquisition under the Migratory Bird Conservation Act with exception that the funds available for the management of the National Wildlife Refuge System or for enforcement of the Migratory Bird Treaty Act shall not be diminished for provisions that moneys remaining in the fund after all payments are made for any fiscal year may be used by the Secretary thereafter for management of the System, including but not limited to the construction, improvement, repair, and alteration of buildings, roads, and other facilities, and for enforcement of the Migratory Bird Treaty Act.
 
@@ -145,7 +145,7 @@ The reference in subsec. (f) to “revenue producing activity referred to in sub
 
  __Effective Date of 1978 Amendment; Fiscal Year of Availability of Appropriation Authorization__ 
 
-[Pub. L. 95–469, § 2][/us/pl/95/469/s2], Oct. 17, 1978, [92 Stat. 1321][/us/stat/92/1321], provided that: 
+[Pub. L. 95–469][/us/pl/95/469], § 2, Oct. 17, 1978, [92 Stat. 1321][/us/stat/92/1321], provided that: 
 
 > “The amendments made by this Act \[amending this section and sections 1603, 1605 and 1606 of former Title 31, Money and Finance\], shall apply with respect to payments made to counties under title IV of the Act of June 15, 1935 \[this section\], for the fiscal year ending September 30, 1979, and for fiscal years thereafter; except that the amendments made to such title IV \[this section\] which amend section 401(a) and (g), add paragraph (4) to section 401(c) \[subsecs. (a) and (g), and (c)(4) of this section\], and amend the title heading \[of this section\] shall take effect on the date of the enactment of this Act \[Oct. 17, 1978\]. No authorization for appropriation shall be available under this Act before the fiscal year ending September 30, 1980.”
 
@@ -163,7 +163,7 @@ The reference in subsec. (f) to “revenue producing activity referred to in sub
 
  __Refuge Revenue Sharing__ 
 
-[Pub. L. 105–83, title I, § 132][/us/pl/105/83/s132], Nov. 14, 1997, [111 Stat. 1570][/us/stat/111/1570], provided that: 
+[Pub. L. 105–83, title I][/us/pl/105/83/tI], § 132, Nov. 14, 1997, [111 Stat. 1570][/us/stat/111/1570], provided that: 
 
 > “Notwithstanding any other provision of law, hereafter the United States Fish and Wildlife Service may disburse to local entities impact funding pursuant to Refuge Revenue Sharing that is associated with Federal real property transferred to the United States Geological Survey from the United States Fish and Wildlife Service.”
 
@@ -180,19 +180,19 @@ The reference in subsec. (f) to “revenue producing activity referred to in sub
 [/us/stat/49/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F383
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
 [/us/stat/54/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1232
-[/us/act/1951-10-31/ch654/s2/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch654%2Fs2%2F13
+[/us/act/1951-10-31/ch654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch654
 [/us/stat/65/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F707
 [/us/pl/88/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F523
 [/us/stat/78/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F701
-[/us/pl/89/669/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F669%2Fs8%2Fb
+[/us/pl/89/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F669
 [/us/stat/80/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F930
-[/us/pl/93/205/s13/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205%2Fs13%2Fb
+[/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F902
-[/us/pl/93/509/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F509%2Fs4
+[/us/pl/93/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F509
 [/us/stat/88/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1603
-[/us/pl/95/469/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F469%2Fs1%2Fa
+[/us/pl/95/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F469
 [/us/stat/92/1319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1319
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1068
 [/us/pl/88/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F523
 [/us/act/1929-02-18/ch257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-18%2Fch257
@@ -200,31 +200,31 @@ The reference in subsec. (f) to “revenue producing activity referred to in sub
 [/us/usc/t16/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs715
 [/us/pl/95/469/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F469%2Fs1%2Fa%2F3
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
-[/us/pl/95/469/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F469%2Fs1%2Fa%2F1
-[/us/pl/95/469/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F469%2Fs1%2Fa%2F2
-[/us/pl/95/469/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F469%2Fs1%2Fa%2F3
-[/us/pl/95/469/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F469%2Fs1%2Fa%2F3
-[/us/pl/95/469/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F469%2Fs1%2Fa%2F3
+[/us/pl/95/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F469
+[/us/pl/95/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F469
+[/us/pl/95/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F469
+[/us/pl/95/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F469
+[/us/pl/95/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F469
 [/us/pl/93/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F509
-[/us/pl/95/469/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F469%2Fs1%2Fa%2F3
-[/us/pl/95/469/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F469%2Fs1%2Fa%2F3
+[/us/pl/95/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F469
+[/us/pl/95/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F469
 [/us/pl/88/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F523
 [/us/stat/64/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F595
-[/us/pl/95/469/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F469%2Fs1%2Fa%2F4
+[/us/pl/95/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F469
 [/us/pl/93/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F509
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/usc/t16/s1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1533
 [/us/pl/89/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F669
 [/us/pl/88/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F523
 [/us/usc/t40/s485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs485
-[/us/pl/95/469/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F469%2Fs2
+[/us/pl/95/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F469
 [/us/stat/92/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1321
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/pl/93/205/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205%2Fs16
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 [/us/usc/t16/s715a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs715a
-[/us/pl/105/83/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs132
+[/us/pl/105/83/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtI
 [/us/stat/111/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1570
 
 

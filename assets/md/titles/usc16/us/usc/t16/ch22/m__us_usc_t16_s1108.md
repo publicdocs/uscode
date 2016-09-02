@@ -17,7 +17,7 @@
 
     The Commission shall maintain insurance in reasonable amounts, including, but not limited to, liability and property insurance. Such insurance may not cover the Commissioners or employees of the Commission except when sued by name for acts done in the scope of their employment.
 
-([Pub. L. 88–363, § 9][/us/pl/88/363/s9], July 7, 1964, [78 Stat. 301][/us/stat/78/301].)
+([Pub. L. 88–363][/us/pl/88/363], § 9, July 7, 1964, [78 Stat. 301][/us/stat/78/301].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/363/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F363%2Fs9
+[/us/pl/88/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F363
 [/us/stat/78/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F301
 
 

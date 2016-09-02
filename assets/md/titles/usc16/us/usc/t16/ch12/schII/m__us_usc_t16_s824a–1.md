@@ -39,7 +39,7 @@
 
         (2) The Commission may recommend to electric utilities that such utilities should voluntarily enter into negotiations where the opportunities referred to in paragraph (1) exist. The Commission shall report annually to the President and the Congress regarding any such recommendations and subsequent actions taken by electric utilities, by the Commission, and by the Secretary under this Act, the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\], and any other provision of law. Such annual reports shall be included in the Commission’s annual report required under the Department of Energy Organization Act \[[42 U.S.C. 7101][/us/usc/t42/s7101] et seq.\].
 
-([Pub. L. 95–617, title II, § 205][/us/pl/95/617/s205], Nov. 9, 1978, [92 Stat. 3140][/us/stat/92/3140].)
+([Pub. L. 95–617, title II][/us/pl/95/617/tII], § 205, Nov. 9, 1978, [92 Stat. 3140][/us/stat/92/3140].)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 [/us/usc/t16/s824a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824a
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/usc/t42/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7101
-[/us/pl/95/617/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs205
+[/us/pl/95/617/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtII
 [/us/stat/92/3140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3140
 [/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
 [/us/stat/92/3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3117

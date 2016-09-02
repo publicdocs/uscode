@@ -95,7 +95,7 @@
 
         The term “stewardship threshold” means the level of management required, as determined by the Secretary, to conserve and improve the quality and condition of a natural resource.
 
-([Pub. L. 99–198, title XII, § 1238D][/us/pl/99/198/s1238D], as added [Pub. L. 110–234, title II, § 2301(a)(2)][/us/pl/110/234/s2301/a/2], May 22, 2008, [122 Stat. 1040][/us/stat/122/1040], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2301(a)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1768; [Pub. L. 113–79, title II, § 2101(a)][/us/pl/113/79/s2101/a], Feb. 7, 2014, [128 Stat. 721][/us/stat/128/721].)
+([Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1238D, as added [Pub. L. 110–234, title II][/us/pl/110/234/tII], § 2301(a)(2), May 22, 2008, [122 Stat. 1040][/us/stat/122/1040], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title II, § 2301(a)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1768; [Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2101(a), Feb. 7, 2014, [128 Stat. 721][/us/stat/128/721].)
 
  __Codification__ 
 
@@ -103,7 +103,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 3838d, [Pub. L. 99–198, title XII, § 1238D][/us/pl/99/198/s1238D], as added [Pub. L. 101–624, title XIV, § 1439][/us/pl/101/624/s1439], Nov. 28, 1990, [104 Stat. 3595][/us/stat/104/3595], related to technical assistance for water quality protection, prior to repeal by [Pub. L. 104–127, title III, § 336(h)][/us/pl/104/127/s336/h], Apr. 4, 1996, [110 Stat. 1007][/us/stat/110/1007].
+    A prior section 3838d, [Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1238D, as added [Pub. L. 101–624, title XIV][/us/pl/101/624/tXIV], § 1439, Nov. 28, 1990, [104 Stat. 3595][/us/stat/104/3595], related to technical assistance for water quality protection, prior to repeal by [Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 336(h), Apr. 4, 1996, [110 Stat. 1007][/us/stat/110/1007].
 
  __Amendments__ 
 
@@ -115,7 +115,7 @@
 
  __Effect on Existing Contracts__ 
 
-[Pub. L. 113–79, title II, § 2101(b)][/us/pl/113/79/s2101/b], Feb. 7, 2014, [128 Stat. 728][/us/stat/128/728], provided that:
+[Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2101(b), Feb. 7, 2014, [128 Stat. 728][/us/stat/128/728], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -132,21 +132,21 @@
 ----------
 ----------
 
-[/us/pl/99/198/s1238D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1238D
-[/us/pl/110/234/s2301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2301%2Fa%2F2
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/110/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtII
 [/us/stat/122/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1040
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s2101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2101%2Fa
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F721
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/99/198/s1238D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1238D
-[/us/pl/101/624/s1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1439
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/101/624/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIV
 [/us/stat/104/3595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3595
-[/us/pl/104/127/s336/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs336%2Fh
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1007
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -154,7 +154,7 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/113/79/s2101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2101%2Fb
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F728
 [/us/usc/t16/s3838d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3838d
 [/us/usc/t16/s3841/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3841%2Fa%2F4

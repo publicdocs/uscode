@@ -57,7 +57,7 @@
 
         The Migratory Bird Conservation Commission shall submit annually to the appropriate Committees a report including a list and description of the wetlands conservation projects approved by the Migratory Bird Conservation Commission for Federal funding under subsection (e) of this section in order of priority; the amounts and sources of Federal and non-Federal funding for such projects; a justification for the approval of such projects and the order of priority for funding such projects; a list and description of the wetlands conservation projects which the Council recommended, in order of priority that the Migratory Bird Conservation Commission approve for Federal funding; and a justification for any rejection or re-ordering of the priority of wetlands conservation projects recommended by the Council that was based on factors other than the criteria of subsection (a) of this section.
 
-([Pub. L. 101–233, § 5][/us/pl/101/233/s5], Dec. 13, 1989, [103 Stat. 1972][/us/stat/103/1972]; [Pub. L. 101–593, title I, § 112(4)][/us/pl/101/593/s112/4], Nov. 16, 1990, [104 Stat. 2962][/us/stat/104/2962]; [Pub. L. 107–308, § 8(a)(8)][/us/pl/107/308/s8/a/8]–(11), Dec. 2, 2002, [116 Stat. 2448][/us/stat/116/2448].)
+([Pub. L. 101–233][/us/pl/101/233], § 5, Dec. 13, 1989, [103 Stat. 1972][/us/stat/103/1972]; [Pub. L. 101–593, title I][/us/pl/101/593/tI], § 112(4), Nov. 16, 1990, [104 Stat. 2962][/us/stat/104/2962]; [Pub. L. 107–308][/us/pl/107/308], § 8(a)(8)–(11), Dec. 2, 2002, [116 Stat. 2448][/us/stat/116/2448].)
 
  __References in Text__ 
 
@@ -67,13 +67,13 @@
 
  __Amendments__ 
 
-    2002—Subsec. (a)(5). [Pub. L. 107–308, § 8(a)(8)][/us/pl/107/308/s8/a/8], inserted “of 1973” after “Endangered Species Act”.
+    2002—Subsec. (a)(5). [Pub. L. 107–308][/us/pl/107/308], § 8(a)(8), inserted “of 1973” after “Endangered Species Act”.
 
-    Subsec. (b). [Pub. L. 107–308, § 8(a)(9)][/us/pl/107/308/s8/a/9], substituted “each year” for “by January 1 of each year,”.
+    Subsec. (b). [Pub. L. 107–308][/us/pl/107/308], § 8(a)(9), substituted “each year” for “by January 1 of each year,”.
 
-    Subsec. (d). [Pub. L. 107–308, § 8(a)(10)][/us/pl/107/308/s8/a/10], substituted “2 Council members” for “one Council member”.
+    Subsec. (d). [Pub. L. 107–308][/us/pl/107/308], § 8(a)(10), substituted “2 Council members” for “one Council member”.
 
-    Subsec. (f). [Pub. L. 107–308, § 8(a)(11)][/us/pl/107/308/s8/a/11], substituted “subsection (e)” for “subsection (d)”.
+    Subsec. (f). [Pub. L. 107–308][/us/pl/107/308], § 8(a)(11), substituted “subsection (e)” for “subsection (d)”.
 
     1990—Subsec. (b). [Pub. L. 101–593][/us/pl/101/593] inserted at end “Solely for the purpose of the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.), recommendations by the Council for carrying out wetlands conservation projects under [section 4405(a) of this title][/us/usc/t16/s4405/a] shall be considered Federal actions requiring the preparation of environmental assessments or, where appropriate, environmental impact statements.”
 
@@ -95,11 +95,11 @@
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t16/s4405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4405%2Fa
 [/us/usc/t16/s669b/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs669b%2Fb
-[/us/pl/101/233/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F233%2Fs5
+[/us/pl/101/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F233
 [/us/stat/103/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1972
-[/us/pl/101/593/s112/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2Fs112%2F4
+[/us/pl/101/593/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2FtI
 [/us/stat/104/2962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2962
-[/us/pl/107/308/s8/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308%2Fs8%2Fa%2F8
+[/us/pl/107/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308
 [/us/stat/116/2448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2448
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F884
@@ -107,10 +107,10 @@
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/107/308/s8/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308%2Fs8%2Fa%2F8
-[/us/pl/107/308/s8/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308%2Fs8%2Fa%2F9
-[/us/pl/107/308/s8/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308%2Fs8%2Fa%2F10
-[/us/pl/107/308/s8/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308%2Fs8%2Fa%2F11
+[/us/pl/107/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308
+[/us/pl/107/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308
+[/us/pl/107/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308
+[/us/pl/107/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308
 [/us/pl/101/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t16/s4405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4405%2Fa

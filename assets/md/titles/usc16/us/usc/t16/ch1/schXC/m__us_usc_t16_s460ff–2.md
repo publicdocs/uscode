@@ -29,7 +29,7 @@
 
         It is the express intent of the Congress that the Secretary should substantially complete the land acquisition program contemplated by this subchapter within six years after December 27, 1974.
 
-([Pub. L. 93–555, § 3][/us/pl/93/555/s3], Dec. 27, 1974, [88 Stat. 1786][/us/stat/88/1786]; [Pub. L. 106–291, title I, § 149(c)(2)][/us/pl/106/291/s149/c/2], Oct. 11, 2000, [114 Stat. 956][/us/stat/114/956].)
+([Pub. L. 93–555][/us/pl/93/555], § 3, Dec. 27, 1974, [88 Stat. 1786][/us/stat/88/1786]; [Pub. L. 106–291, title I][/us/pl/106/291/tI], § 149(c)(2), Oct. 11, 2000, [114 Stat. 956][/us/stat/114/956].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/93/555/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F555%2Fs3
+[/us/pl/93/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F555
 [/us/stat/88/1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1786
-[/us/pl/106/291/s149/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2Fs149%2Fc%2F2
+[/us/pl/106/291/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2FtI
 [/us/stat/114/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F956
 [/us/pl/106/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291
 

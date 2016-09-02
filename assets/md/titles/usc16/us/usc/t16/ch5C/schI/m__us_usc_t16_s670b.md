@@ -23,7 +23,7 @@
 
         Possession of a special permit for hunting migratory game birds issued pursuant to this subchapter shall not relieve the permittee of the requirements of the Migratory Bird Hunting Stamp Act as amended \[[16 U.S.C. 718][/us/usc/t16/s718] et seq.\] nor of the requirements pertaining to State law set forth in [Public Law 85–337][/us/pl/85/337].
 
-([Pub. L. 86–797, title I, § 102][/us/pl/86/797/s102], formerly § 2, Sept. 15, 1960, [74 Stat. 1053][/us/stat/74/1053]; renumbered title I, § 102, and amended [Pub. L. 93–452, § 3(1)][/us/pl/93/452/s3/1], (3), Oct. 18, 1974, [88 Stat. 1375][/us/stat/88/1375]; [Pub. L. 105–85, div. B, title XXIX][/us/pl/105/85], §§ 2904(b)(5), 2913(5), Nov. 18, 1997, [111 Stat. 2018][/us/stat/111/2018], 2022; [Pub. L. 112–81, div. A, title III, § 312(b)(2)][/us/pl/112/81/s312/b/2], Dec. 31, 2011, [125 Stat. 1353][/us/stat/125/1353].)
+([Pub. L. 86–797, title I][/us/pl/86/797/tI], § 102, formerly § 2, Sept. 15, 1960, [74 Stat. 1053][/us/stat/74/1053]; renumbered title I, § 102, and amended [Pub. L. 93–452][/us/pl/93/452], § 3(1), (3), Oct. 18, 1974, [88 Stat. 1375][/us/stat/88/1375]; [Pub. L. 105–85, div. B, title XXIX][/us/pl/105/85/dB/tXXIX], §§ 2904(b)(5), 2913(5), Nov. 18, 1997, [111 Stat. 2018][/us/stat/111/2018], 2022; [Pub. L. 112–81, div. A, title III][/us/pl/112/81/dA/tIII], § 312(b)(2), Dec. 31, 2011, [125 Stat. 1353][/us/stat/125/1353].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 
     1997—[Pub. L. 105–85][/us/pl/105/85] substituted “military installations” for “military reservations” and “an integrated natural resources management plan” for “a cooperative plan”.
 
-    1974—[Pub. L. 93–452, § 3(3)][/us/pl/93/452/s3/3], substituted “title” for “Act” which for purposes of codification was translated as “subchapter”.
+    1974—[Pub. L. 93–452][/us/pl/93/452], § 3(3), substituted “title” for “Act” which for purposes of codification was translated as “subchapter”.
 
 ----------
 
@@ -48,13 +48,13 @@
 
 [/us/usc/t16/s718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs718
 [/us/pl/85/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F337
-[/us/pl/86/797/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F797%2Fs102
+[/us/pl/86/797/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F797%2FtI
 [/us/stat/74/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F1053
-[/us/pl/93/452/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F452%2Fs3%2F1
+[/us/pl/93/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F452
 [/us/stat/88/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1375
-[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85/dB/tXXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdB%2FtXXIX
 [/us/stat/111/2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2018
-[/us/pl/112/81/s312/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs312%2Fb%2F2
+[/us/pl/112/81/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIII
 [/us/stat/125/1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1353
 [/us/act/1934-03-16/ch71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-16%2Fch71
 [/us/stat/48/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F452
@@ -66,6 +66,6 @@
 [/us/usc/t40/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs102
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
-[/us/pl/93/452/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F452%2Fs3%2F3
+[/us/pl/93/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F452
 
 

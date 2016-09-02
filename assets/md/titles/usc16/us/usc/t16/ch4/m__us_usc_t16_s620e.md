@@ -105,7 +105,7 @@
 
         (B) in the case of a violation of a subsequent purchaser of the timber, an act or omission with respect to an operation at a particular processing facility or log yard.
 
-([Pub. L. 101–382, title IV, § 493][/us/pl/101/382/s493], Aug. 20, 1990, [104 Stat. 723][/us/stat/104/723]; [Pub. L. 105–83, title VI, § 604][/us/pl/105/83/s604], Nov. 14, 1997, [111 Stat. 1621][/us/stat/111/1621].)
+([Pub. L. 101–382, title IV][/us/pl/101/382/tIV], § 493, Aug. 20, 1990, [104 Stat. 723][/us/stat/104/723]; [Pub. L. 105–83, title VI][/us/pl/105/83/tVI], § 604, Nov. 14, 1997, [111 Stat. 1621][/us/stat/111/1621].)
 
  __References in Text__ 
 
@@ -113,15 +113,15 @@
 
  __Amendments__ 
 
-    1997—Pars. (3) to (8). [Pub. L. 105–83, § 604(1)][/us/pl/105/83/s604/1], (2), added pars. (3) and (4) and redesignated former pars. (3) to (6) as (5) to (8), respectively. Former pars. (7) and (8) redesignated (9) and (10), respectively.
+    1997—Pars. (3) to (8). [Pub. L. 105–83][/us/pl/105/83], § 604(1), (2), added pars. (3) and (4) and redesignated former pars. (3) to (6) as (5) to (8), respectively. Former pars. (7) and (8) redesignated (9) and (10), respectively.
 
-    Par. (9). [Pub. L. 105–83, § 604(1)][/us/pl/105/83/s604/1], redesignated par. (7) as (9).
+    Par. (9). [Pub. L. 105–83][/us/pl/105/83], § 604(1), redesignated par. (7) as (9).
 
-    Par. (9)(B)(ix). [Pub. L. 105–83, § 604(3)][/us/pl/105/83/s604/3], substituted “Pulp logs, cull logs, and incidental volumes of grade 3 and 4 sawlogs” for “Pulp logs or cull logs” and inserted “primary” before “purpose” and “, or to the extent that a small quantity of such logs are processed, into other products at domestic processing facilities” before period at end.
+    Par. (9)(B)(ix). [Pub. L. 105–83][/us/pl/105/83], § 604(3), substituted “Pulp logs, cull logs, and incidental volumes of grade 3 and 4 sawlogs” for “Pulp logs or cull logs” and inserted “primary” before “purpose” and “, or to the extent that a small quantity of such logs are processed, into other products at domestic processing facilities” before period at end.
 
-    Par. (10). [Pub. L. 105–83, § 604(1)][/us/pl/105/83/s604/1], redesignated par. (8) as (10).
+    Par. (10). [Pub. L. 105–83][/us/pl/105/83], § 604(1), redesignated par. (8) as (10).
 
-    Par. (11). [Pub. L. 105–83, § 604(4)][/us/pl/105/83/s604/4], added par. (11).
+    Par. (11). [Pub. L. 105–83][/us/pl/105/83], § 604(4), added par. (11).
 
 ----------
 
@@ -133,18 +133,18 @@
 [/us/usc/t43/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1602
 [/us/usc/t43/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1602
 [/us/usc/t43/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1602
-[/us/pl/101/382/s493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs493
+[/us/pl/101/382/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtIV
 [/us/stat/104/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F723
-[/us/pl/105/83/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs604
+[/us/pl/105/83/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtVI
 [/us/stat/111/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1621
 [/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
 [/us/stat/104/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F714
 [/us/usc/t16/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs620
 [/us/usc/t16/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs620
-[/us/pl/105/83/s604/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs604%2F1
-[/us/pl/105/83/s604/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs604%2F1
-[/us/pl/105/83/s604/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs604%2F3
-[/us/pl/105/83/s604/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs604%2F1
-[/us/pl/105/83/s604/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs604%2F4
+[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
+[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
+[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
+[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
+[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
 
 

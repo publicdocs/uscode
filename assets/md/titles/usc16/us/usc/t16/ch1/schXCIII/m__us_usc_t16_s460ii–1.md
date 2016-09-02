@@ -35,19 +35,19 @@
 
         As used in this section, the term “improved property” means a detached, year-round noncommercial residential dwelling, the construction of which was begun before January 1, 1975, together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
 
-([Pub. L. 95–344, title I, § 102][/us/pl/95/344/s102], Aug. 15, 1978, [92 Stat. 474][/us/stat/92/474]; [Pub. L. 98–568, § 1(c)][/us/pl/98/568/s1/c], Oct. 30, 1984, [98 Stat. 2928][/us/stat/98/2928]; [Pub. L. 106–154, § 2(b)][/us/pl/106/154/s2/b], (e)(1), Dec. 9, 1999, [113 Stat. 1737][/us/stat/113/1737], 1738.)
+([Pub. L. 95–344, title I][/us/pl/95/344/tI], § 102, Aug. 15, 1978, [92 Stat. 474][/us/stat/92/474]; [Pub. L. 98–568][/us/pl/98/568], § 1(c), Oct. 30, 1984, [98 Stat. 2928][/us/stat/98/2928]; [Pub. L. 106–154][/us/pl/106/154], § 2(b), (e)(1), Dec. 9, 1999, [113 Stat. 1737][/us/stat/113/1737], 1738.)
 
  __Codification__ 
 
-    In subsec. (b), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 471][/us/usc/t40/s471] et seq.)” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (b), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 471][/us/usc/t40/s471] et seq.)” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
-    1999—Subsec. (a). [Pub. L. 106–154, § 2(b)(1)][/us/pl/106/154/s2/b/1], inserted “from willing sellers” after “purchase”.
+    1999—Subsec. (a). [Pub. L. 106–154][/us/pl/106/154], § 2(b)(1), inserted “from willing sellers” after “purchase”.
 
-    Subsec. (d). [Pub. L. 106–154, § 2(e)(1)][/us/pl/106/154/s2/e/1], substituted “this subchapter” for “this subchapter and chapter 43 of this title”.
+    Subsec. (d). [Pub. L. 106–154][/us/pl/106/154], § 2(e)(1), substituted “this subchapter” for “this subchapter and chapter 43 of this title”.
 
-    Subsec. (f). [Pub. L. 106–154, § 2(b)(2)][/us/pl/106/154/s2/b/2], struck out subsec. (f) which read as follows:
+    Subsec. (f). [Pub. L. 106–154][/us/pl/106/154], § 2(b)(2), struck out subsec. (f) which read as follows:
 
     “(f)(1) The Secretary shall exchange those federally owned lands identified on the map referenced in [section 460ii of this title][/us/usc/t16/s460ii] as ‘exchange lands’ for non-Federal lands which are within the boundaries of the recreation area. The values of the lands exchanged under this subsection shall be equal, or shall be equalized in the same manner as provided in [section 1716 of title 43][/us/usc/t43/s1716].
 
@@ -66,20 +66,20 @@
 ----------
 ----------
 
-[/us/pl/95/344/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F344%2Fs102
+[/us/pl/95/344/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F344%2FtI
 [/us/stat/92/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F474
-[/us/pl/98/568/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F568%2Fs1%2Fc
+[/us/pl/98/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F568
 [/us/stat/98/2928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2928
-[/us/pl/106/154/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154%2Fs2%2Fb
+[/us/pl/106/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154
 [/us/stat/113/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1737
 [/us/usc/t40/s471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs471
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/pl/106/154/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154%2Fs2%2Fb%2F1
-[/us/pl/106/154/s2/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154%2Fs2%2Fe%2F1
-[/us/pl/106/154/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154%2Fs2%2Fb%2F2
+[/us/pl/106/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154
+[/us/pl/106/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154
+[/us/pl/106/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154
 [/us/usc/t16/s460ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460ii
 [/us/usc/t43/s1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1716
 [/us/usc/t16/s460ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460ii

@@ -45,7 +45,7 @@
 
     each as described in the National Park Service document entitled “Nez Perce National Historical Park Additions Study”, dated 1990 and Old Chief Joseph’s Gravesite and Cemetery, Oregon, as depicted on the map entitled “Nez Perce Additions”, numbered 429–20–018, and dated September, 1991. Lands added to the Big Hole National Battlefield, Montana, pursuant to paragraph (10) shall become part of, and be placed under the administrative jurisdiction of, the Big Hole National Battlefield, but may be interpreted in accordance with the purposes of this subchapter.
 
-([Pub. L. 89–19, § 2][/us/pl/89/19/s2], May 15, 1965, [79 Stat. 110][/us/stat/79/110]; [Pub. L. 102–576, § 2(2)][/us/pl/102/576/s2/2], Oct. 30, 1992, [106 Stat. 4770][/us/stat/106/4770].)
+([Pub. L. 89–19][/us/pl/89/19], § 2, May 15, 1965, [79 Stat. 110][/us/stat/79/110]; [Pub. L. 102–576][/us/pl/102/576], § 2(2), Oct. 30, 1992, [106 Stat. 4770][/us/stat/106/4770].)
 
  __Amendments__ 
 
@@ -58,9 +58,9 @@
 ----------
 ----------
 
-[/us/pl/89/19/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F19%2Fs2
+[/us/pl/89/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F19
 [/us/stat/79/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F110
-[/us/pl/102/576/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F576%2Fs2%2F2
+[/us/pl/102/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F576
 [/us/stat/106/4770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4770
 [/us/pl/102/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F576
 

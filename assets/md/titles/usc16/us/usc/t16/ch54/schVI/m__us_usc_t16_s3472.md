@@ -37,7 +37,7 @@
 
         (2) conduct a program of research designed to resolve any unanswered questions regarding the advantages and disadvantages of conservation tillage over other soil conservation practices.
 
-([Pub. L. 97–98, title XV, § 1553][/us/pl/97/98/s1553], Dec. 22, 1981, [95 Stat. 1345][/us/stat/95/1345].)
+([Pub. L. 97–98, title XV][/us/pl/97/98/tXV], § 1553, Dec. 22, 1981, [95 Stat. 1345][/us/stat/95/1345].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/97/98/s1553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1553
+[/us/pl/97/98/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXV
 [/us/stat/95/1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1345
 
 

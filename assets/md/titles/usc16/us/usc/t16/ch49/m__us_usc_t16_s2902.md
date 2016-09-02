@@ -43,13 +43,13 @@
 
     (8) The term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, Guam, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
 
-([Pub. L. 96–366, § 3][/us/pl/96/366/s3], Sept. 29, 1980, [94 Stat. 1323][/us/stat/94/1323].)
+([Pub. L. 96–366][/us/pl/96/366], § 3, Sept. 29, 1980, [94 Stat. 1323][/us/stat/94/1323].)
 
  __References in Text__ 
 
     The Endangered Species Act of 1973, referred to in par. (6)(B), is [Pub. L. 93–205][/us/pl/93/205], Dec. 28, 1973, [87 Stat. 884][/us/stat/87/884], which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title][/us/usc/t16/s1531] and Tables.
 
-    [Section 1362(5) of this title][/us/usc/t16/s1362/5], referred to in par. (6)(C), was redesignated section 1362(6), by [Pub. L. 102–582, title IV, § 401(a)][/us/pl/102/582/s401/a], Nov. 2, 1992, [106 Stat. 4909][/us/stat/106/4909].
+    [Section 1362(5) of this title][/us/usc/t16/s1362/5], referred to in par. (6)(C), was redesignated section 1362(6), by [Pub. L. 102–582, title IV][/us/pl/102/582/tIV], § 401(a), Nov. 2, 1992, [106 Stat. 4909][/us/stat/106/4909].
 
  __Termination of Trust Territory of the Pacific Islands__ 
 
@@ -65,13 +65,13 @@
 [/us/usc/t16/s2904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2904%2Fa
 [/us/usc/t16/s2903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2903
 [/us/usc/t16/s1531–154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531%E2%80%93154
-[/us/pl/96/366/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F366%2Fs3
+[/us/pl/96/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F366
 [/us/stat/94/1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1323
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F884
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/usc/t16/s1362/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1362%2F5
-[/us/pl/102/582/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2Fs401%2Fa
+[/us/pl/102/582/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2FtIV
 [/us/stat/106/4909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4909
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 

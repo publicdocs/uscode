@@ -27,7 +27,7 @@
 
         If the Secretary determines that the requirements of [section 4332(2)(C) of title 42][/us/usc/t42/s4332/2/C] do not apply to his decision, the Secretary shall render his decision within six months after receipt of a lease application. If such requirements are applicable to the Secretary’s decision, he shall render his decision within three months after publication of the final environmental impact statement.
 
-([Pub. L. 96–487, title X, § 1009][/us/pl/96/487/s1009], Dec. 2, 1980, [94 Stat. 2456][/us/stat/94/2456].)
+([Pub. L. 96–487, title X][/us/pl/96/487/tX], § 1009, Dec. 2, 1980, [94 Stat. 2456][/us/stat/94/2456].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
 [/us/usc/t42/s4332/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332%2F2%2FC
-[/us/pl/96/487/s1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1009
+[/us/pl/96/487/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtX
 [/us/stat/94/2456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2456
 [/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F437

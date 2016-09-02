@@ -85,7 +85,7 @@
 
         In carrying out their functions, Panel members may consult with such other interested parties as they consider appropriate.
 
-([Pub. L. 106–450, title II, § 202][/us/pl/106/450/s202], Nov. 7, 2000, [114 Stat. 1941][/us/stat/114/1941].)
+([Pub. L. 106–450, title II][/us/pl/106/450/tII], § 202, Nov. 7, 2000, [114 Stat. 1941][/us/stat/114/1941].)
 
  __References in Text__ 
 
@@ -102,7 +102,7 @@
 ----------
 ----------
 
-[/us/pl/106/450/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F450%2Fs202
+[/us/pl/106/450/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F450%2FtII
 [/us/stat/114/1941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1941
 [/us/pl/106/450/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F450%2Fs201
 [/us/usc/t16/s5701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5701

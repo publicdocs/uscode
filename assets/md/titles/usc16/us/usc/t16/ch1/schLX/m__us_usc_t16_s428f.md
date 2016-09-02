@@ -17,7 +17,7 @@
 
     The said Fort Donelson National Battlefield shall be under the control of the Secretary of the Interior, and he is authorized to make all needed regulations for the care of the battlefield. The superintendent of the Fort Donelson National Cemetery shall likewise be the superintendent of and have the custody and care of the Fort Donelson National Battlefield, under the direction of the Secretary of the Interior.
 
-([Mar. 26, 1928, ch. 248, § 7][/us/act/1928-03-26/ch248/s7], [45 Stat. 368][/us/stat/45/368]; Ex. Ord. No. 6166, § 2, June 10, 1933; Ex. Ord. No. 6228, § 1, July 28, 1933; [Pub. L. 86–738][/us/pl/86/738], §§ 4, 5, Sept. 8, 1960, [74 Stat. 876][/us/stat/74/876].)
+([Mar. 26, 1928, ch. 248][/us/act/1928-03-26/ch248], § 7, [45 Stat. 368][/us/stat/45/368]; Ex. Ord. No. 6166, § 2, June 10, 1933; Ex. Ord. No. 6228, § 1, July 28, 1933; [Pub. L. 86–738][/us/pl/86/738], §§ 4, 5, Sept. 8, 1960, [74 Stat. 876][/us/stat/74/876].)
 
  __Change of Name__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1928-03-26/ch248/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-26%2Fch248%2Fs7
+[/us/act/1928-03-26/ch248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-26%2Fch248
 [/us/stat/45/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F368
 [/us/pl/86/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F738
 [/us/stat/74/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F876

@@ -91,7 +91,7 @@
 
         The United States section shall, for the purpose of title 28 relating to claims against the United States and tort claims procedure, be considered to be a Federal agency.
 
-([Pub. L. 92–522, title V, § 505][/us/pl/92/522/s505], as added [Pub. L. 109–479, title IX, § 902(a)][/us/pl/109/479/s902/a], Jan. 12, 2007, [120 Stat. 3663][/us/stat/120/3663].)
+([Pub. L. 92–522, title V][/us/pl/92/522/tV], § 505, as added [Pub. L. 109–479, title IX][/us/pl/109/479/tIX], § 902(a), Jan. 12, 2007, [120 Stat. 3663][/us/stat/120/3663].)
 
 ----------
 
@@ -100,8 +100,8 @@
 ----------
 ----------
 
-[/us/pl/92/522/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs505
-[/us/pl/109/479/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs902%2Fa
+[/us/pl/92/522/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtV
+[/us/pl/109/479/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtIX
 [/us/stat/120/3663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3663
 
 

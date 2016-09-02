@@ -39,7 +39,7 @@
 
             (C) the commission established by the Gulf States Marine Fisheries Compact (as consented to and approved by [Public Law 81–66][/us/pl/81/66]), approved May 19, 1949 ([63 Stat. 70][/us/stat/63/70]).
 
-([Pub. L. 89–304, § 1][/us/pl/89/304/s1], Oct. 30, 1965, [79 Stat. 1125][/us/stat/79/1125]; [Pub. L. 91–249, § 1][/us/pl/91/249/s1], May 14, 1970, [84 Stat. 214][/us/stat/84/214]; [Pub. L. 93–362, § 3(a)][/us/pl/93/362/s3/a], July 30, 1974, [88 Stat. 398][/us/stat/88/398]; [Pub. L. 95–464][/us/pl/95/464], Oct. 17, 1978, [92 Stat. 1278][/us/stat/92/1278]; [Pub. L. 96–118, § 1][/us/pl/96/118/s1], Nov. 16, 1979, [93 Stat. 859][/us/stat/93/859]; [Pub. L. 97–453, § 14(b)(1)][/us/pl/97/453/s14/b/1], Jan. 12, 1983, [96 Stat. 2492][/us/stat/96/2492]; [Pub. L. 98–44, title I, § 104][/us/pl/98/44/s104], July 12, 1983, [97 Stat. 216][/us/stat/97/216]; [Pub. L. 107–372, title III, § 303(b)][/us/pl/107/372/s303/b], Dec. 19, 2002, [116 Stat. 3095][/us/stat/116/3095].)
+([Pub. L. 89–304][/us/pl/89/304], § 1, Oct. 30, 1965, [79 Stat. 1125][/us/stat/79/1125]; [Pub. L. 91–249][/us/pl/91/249], § 1, May 14, 1970, [84 Stat. 214][/us/stat/84/214]; [Pub. L. 93–362][/us/pl/93/362], § 3(a), July 30, 1974, [88 Stat. 398][/us/stat/88/398]; [Pub. L. 95–464][/us/pl/95/464], Oct. 17, 1978, [92 Stat. 1278][/us/stat/92/1278]; [Pub. L. 96–118][/us/pl/96/118], § 1, Nov. 16, 1979, [93 Stat. 859][/us/stat/93/859]; [Pub. L. 97–453][/us/pl/97/453], § 14(b)(1), Jan. 12, 1983, [96 Stat. 2492][/us/stat/96/2492]; [Pub. L. 98–44, title I][/us/pl/98/44/tI], § 104, July 12, 1983, [97 Stat. 216][/us/stat/97/216]; [Pub. L. 107–372, title III][/us/pl/107/372/tIII], § 303(b), Dec. 19, 2002, [116 Stat. 3095][/us/stat/116/3095].)
 
  __References in Text__ 
 
@@ -63,25 +63,25 @@
 
     1974—Subsec. (c). [Pub. L. 93–362][/us/pl/93/362] substituted “66⅔ per centum” for “60 per centum”.
 
-    1970—Subsec. (a). [Pub. L. 91–249, § 1(a)][/us/pl/91/249/s1/a], made the Federal share of the cost of conservation, development and enhancement of the anadromous fishery resources subject to the provisions of subsec. (c) of this section.
+    1970—Subsec. (a). [Pub. L. 91–249][/us/pl/91/249], § 1(a), made the Federal share of the cost of conservation, development and enhancement of the anadromous fishery resources subject to the provisions of subsec. (c) of this section.
 
-    Subsec. (c). [Pub. L. 91–249, § 1(b)][/us/pl/91/249/s1/b], added subsec. (c).
+    Subsec. (c). [Pub. L. 91–249][/us/pl/91/249], § 1(b), added subsec. (c).
 
  __Short Title of 2002 Amendment__ 
 
-[Pub. L. 107–372, title III, § 301][/us/pl/107/372/s301], Dec. 19, 2002, [116 Stat. 3094][/us/stat/116/3094], provided that: 
+[Pub. L. 107–372, title III][/us/pl/107/372/tIII], § 301, Dec. 19, 2002, [116 Stat. 3094][/us/stat/116/3094], provided that: 
 
 > “This title \[amending this section, sections 757d, 971h, 4101, 4107, and 5610 of this title, and provisions set out as a note under [section 857–19 of Title 33][/us/usc/t33/s857–19], Navigation and Navigable Waters\] may be cited as the ‘Fisheries Conservation Act of 2002’.”
 
  __Short Title of 1991 Amendment__ 
 
-[Pub. L. 102–130, § 1][/us/pl/102/130/s1], Oct. 17, 1991, [105 Stat. 626][/us/stat/105/626], provided that: 
+[Pub. L. 102–130][/us/pl/102/130], § 1, Oct. 17, 1991, [105 Stat. 626][/us/stat/105/626], provided that: 
 
 > “This Act \[amending [section 757g of this title][/us/usc/t16/s757g] and provisions set out as notes under [section 1851 of this title][/us/usc/t16/s1851]\] may be cited as the ‘Striped Bass Act of 1991’.”
 
  __Short Title__ 
 
-Section 8, formerly section 7, of [Pub. L. 89–304][/us/pl/89/304], as added by [Pub. L. 91–249, § 3][/us/pl/91/249/s3], May 14, 1970, [84 Stat. 214][/us/stat/84/214], and renumbered by [Pub. L. 96–118, § 4][/us/pl/96/118/s4], Nov. 16, 1979, [93 Stat. 859][/us/stat/93/859], provided that: 
+Section 8, formerly section 7, of [Pub. L. 89–304][/us/pl/89/304], as added by [Pub. L. 91–249][/us/pl/91/249], § 3, May 14, 1970, [84 Stat. 214][/us/stat/84/214], and renumbered by [Pub. L. 96–118][/us/pl/96/118], § 4, Nov. 16, 1979, [93 Stat. 859][/us/stat/93/859], provided that: 
 
 > “This Act \[enacting this section and sections 757b to 757g of this title\] may be cited as the ‘Anadromous Fish Conservation Act’.”
 
@@ -102,21 +102,21 @@ Section 8, formerly section 7, of [Pub. L. 89–304][/us/pl/89/304], as added by
 [/us/stat/16/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F16%2F419
 [/us/pl/81/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F81%2F66
 [/us/stat/63/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F70
-[/us/pl/89/304/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F304%2Fs1
+[/us/pl/89/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F304
 [/us/stat/79/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1125
-[/us/pl/91/249/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F249%2Fs1
+[/us/pl/91/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F249
 [/us/stat/84/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F214
-[/us/pl/93/362/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F362%2Fs3%2Fa
+[/us/pl/93/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F362
 [/us/stat/88/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F398
 [/us/pl/95/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F464
 [/us/stat/92/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1278
-[/us/pl/96/118/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F118%2Fs1
+[/us/pl/96/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F118
 [/us/stat/93/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F859
-[/us/pl/97/453/s14/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453%2Fs14%2Fb%2F1
+[/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
 [/us/stat/96/2492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2492
-[/us/pl/98/44/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F44%2Fs104
+[/us/pl/98/44/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F44%2FtI
 [/us/stat/97/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F216
-[/us/pl/107/372/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs303%2Fb
+[/us/pl/107/372/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtIII
 [/us/stat/116/3095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3095
 [/us/pl/80/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F80%2F77
 [/us/stat/56/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F267
@@ -136,19 +136,19 @@ Section 8, formerly section 7, of [Pub. L. 89–304][/us/pl/89/304], as added by
 [/us/pl/96/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F118
 [/us/pl/95/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F464
 [/us/pl/93/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F362
-[/us/pl/91/249/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F249%2Fs1%2Fa
-[/us/pl/91/249/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F249%2Fs1%2Fb
-[/us/pl/107/372/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs301
+[/us/pl/91/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F249
+[/us/pl/91/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F249
+[/us/pl/107/372/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtIII
 [/us/stat/116/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3094
 [/us/usc/t33/s857–19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs857%E2%80%9319
-[/us/pl/102/130/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F130%2Fs1
+[/us/pl/102/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F130
 [/us/stat/105/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F626
 [/us/usc/t16/s757g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs757g
 [/us/usc/t16/s1851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1851
 [/us/pl/89/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F304
-[/us/pl/91/249/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F249%2Fs3
+[/us/pl/91/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F249
 [/us/stat/84/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F214
-[/us/pl/96/118/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F118%2Fs4
+[/us/pl/96/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F118
 [/us/stat/93/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F859
 [/us/usc/t16/s755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs755
 

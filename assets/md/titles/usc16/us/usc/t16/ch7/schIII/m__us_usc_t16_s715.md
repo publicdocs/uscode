@@ -17,11 +17,11 @@
 
     This subchapter shall be known by the short title of “Migratory Bird Conservation Act.”
 
-([Feb. 18, 1929, ch. 257, § 1][/us/act/1929-02-18/ch257/s1], [45 Stat. 1222][/us/stat/45/1222].)
+([Feb. 18, 1929, ch. 257][/us/act/1929-02-18/ch257], § 1, [45 Stat. 1222][/us/stat/45/1222].)
 
  __Short Title of 1976 Amendment__ 
 
-[Pub. L. 94–215, § 1][/us/pl/94/215/s1], Feb 17, 1976, [90 Stat. 189][/us/stat/90/189], provided: 
+[Pub. L. 94–215][/us/pl/94/215], § 1, Feb 17, 1976, [90 Stat. 189][/us/stat/90/189], provided: 
 
 > “That this Act \[amending sections 668dd, 715a, 715k–3, 715k–5, 718a, 718b, and 718d of this title\] may be cited as the ‘Wetlands Loan Extension Act of 1976’.”
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/act/1929-02-18/ch257/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-18%2Fch257%2Fs1
+[/us/act/1929-02-18/ch257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-18%2Fch257
 [/us/stat/45/1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1222
-[/us/pl/94/215/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F215%2Fs1
+[/us/pl/94/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F215
 [/us/stat/90/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F189
 
 

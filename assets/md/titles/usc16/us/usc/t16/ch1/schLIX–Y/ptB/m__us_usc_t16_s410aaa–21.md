@@ -27,7 +27,7 @@
 
     (5) the nondesignated wilderness within Joshua Tree should receive statutory protection by designation pursuant to the Wilderness Act \[[16 U.S.C. 1131][/us/usc/t16/s1131] et seq.\].
 
-([Pub. L. 103–433, title IV, § 401][/us/pl/103/433/s401], Oct. 31, 1994, [108 Stat. 4487][/us/stat/108/4487].)
+([Pub. L. 103–433, title IV][/us/pl/103/433/tIV], § 401, Oct. 31, 1994, [108 Stat. 4487][/us/stat/108/4487].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
-[/us/pl/103/433/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs401
+[/us/pl/103/433/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtIV
 [/us/stat/108/4487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4487
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890

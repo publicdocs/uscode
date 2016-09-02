@@ -17,7 +17,7 @@
 
     For the purpose of conserving and protecting coral reef resources of the tropical islands of interest and concern to the United States in the Pacific and safeguarding critical island areas from possible erosion and to safeguard future recreational and esthetic uses of Pacific coral reefs, the Secretary of Commerce and the Secretary of the Smithsonian Institution are authorized to cooperate with and provide assistance to the governments of the State of Hawaii, the territories and possessions of the United States, including Guam and American Samoa, the Trust Territory of the Pacific Islands, and other island possessions of the United States, in the study and control of the seastar “Crown of Thorns” (Acanthaster planci).
 
-([Pub. L. 91–427, § 1][/us/pl/91/427/s1], Sept. 26, 1970, [84 Stat. 884][/us/stat/84/884]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
+([Pub. L. 91–427][/us/pl/91/427], § 1, Sept. 26, 1970, [84 Stat. 884][/us/stat/84/884]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
 
  __Transfer of Functions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/91/427/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F427%2Fs1
+[/us/pl/91/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F427
 [/us/stat/84/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F884
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090

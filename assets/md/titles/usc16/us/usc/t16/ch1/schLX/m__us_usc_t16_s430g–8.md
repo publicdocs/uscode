@@ -49,7 +49,7 @@
 
         The provisions of section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) are hereby waived with respect to this Advisory Commission.
 
-([Pub. L. 101–377, § 5][/us/pl/101/377/s5], Aug. 17, 1990, [104 Stat. 466][/us/stat/104/466].)
+([Pub. L. 101–377][/us/pl/101/377], § 5, Aug. 17, 1990, [104 Stat. 466][/us/stat/104/466].)
 
  __References in Text__ 
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/101/377/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F377%2Fs5
+[/us/pl/101/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F377
 [/us/stat/104/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F466
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 

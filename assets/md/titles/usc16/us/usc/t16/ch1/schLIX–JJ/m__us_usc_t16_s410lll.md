@@ -345,7 +345,7 @@
 
         There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-([Pub. L. 111–11, title VII, § 7001][/us/pl/111/11/s7001], Mar. 30, 2009, [123 Stat. 1183][/us/stat/123/1183]; [Pub. L. 113–291, div. B, title XXX, § 3037(a)][/us/pl/113/291/s3037/a], Dec. 19, 2014, [128 Stat. 3782][/us/stat/128/3782].)
+([Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7001, Mar. 30, 2009, [123 Stat. 1183][/us/stat/123/1183]; [Pub. L. 113–291, div. B, title XXX][/us/pl/113/291/dB/tXXX], § 3037(a), Dec. 19, 2014, [128 Stat. 3782][/us/stat/128/3782].)
 
  __References in Text__ 
 
@@ -359,21 +359,21 @@
 
  __Codification__ 
 
-    In subsec. (d)(1)(A), “[section 100502 of title 54][/us/usc/t54/s100502]” substituted for “[section 12(b) of Public Law 91–383][/us/pl/91/383/s12/b] (commonly known as the ‘National Park Service General Authorities Act’) ([16 U.S.C. 1a–7(b)][/us/usc/t16/s1a–7/b])” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (d)(1)(A), “[section 100502 of title 54][/us/usc/t54/s100502]” substituted for “[section 12(b) of Public Law 91–383][/us/pl/91/383/s12/b] (commonly known as the ‘National Park Service General Authorities Act’) ([16 U.S.C. 1a–7(b)][/us/usc/t16/s1a–7/b])” on authority of [Pub. L. 113–287][/us/pl/113/287], § 6(e), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
  __Amendments__ 
 
-    2014—Subsec. (b)(3). [Pub. L. 113–291, § 3037(a)(1)][/us/pl/113/291/s3037/a/1], designated existing provisions as subpar. (A), redesignated former subpars. (A) to (G) as cls. (i) to (vii), respectively, of subpar. (A), and added subpar. (B).
+    2014—Subsec. (b)(3). [Pub. L. 113–291][/us/pl/113/291], § 3037(a)(1), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (G) as cls. (i) to (vii), respectively, of subpar. (A), and added subpar. (B).
 
-    Subsec. (b)(4). [Pub. L. 113–291, § 3037(a)(2)][/us/pl/113/291/s3037/a/2], substituted “The Map and the map referred to in paragraph (3)(B)” for “The Map”.
+    Subsec. (b)(4). [Pub. L. 113–291][/us/pl/113/291], § 3037(a)(2), substituted “The Map and the map referred to in paragraph (3)(B)” for “The Map”.
 
-    Subsec. (c)(4)(A). [Pub. L. 113–291, § 3037(a)(3)(A)][/us/pl/113/291/s3037/a/3/A], substituted “Except as provided in subparagraphs (B) and (C), the Secretary” for “The Secretary”.
+    Subsec. (c)(4)(A). [Pub. L. 113–291][/us/pl/113/291], § 3037(a)(3)(A), substituted “Except as provided in subparagraphs (B) and (C), the Secretary” for “The Secretary”.
 
-    Subsec. (c)(4)(C). [Pub. L. 113–291, § 3037(a)(3)(B)][/us/pl/113/291/s3037/a/3/B], added subpar. (C).
+    Subsec. (c)(4)(C). [Pub. L. 113–291][/us/pl/113/291], § 3037(a)(3)(B), added subpar. (C).
 
  __Additional Considerations for Hinchliffe Stadium__ 
 
-[Pub. L. 113–291, div. B, title XXX, § 3037(b)][/us/pl/113/291/s3037/b], Dec. 19, 2014, [128 Stat. 3783][/us/stat/128/3783], provided that:
+[Pub. L. 113–291, div. B, title XXX][/us/pl/113/291/dB/tXXX], § 3037(b), Dec. 19, 2014, [128 Stat. 3783][/us/stat/128/3783], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -399,9 +399,9 @@
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
 [/us/usc/t54/s100502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100502
-[/us/pl/111/11/s7001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7001
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1183
-[/us/pl/113/291/s3037/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3037%2Fa
+[/us/pl/113/291/dB/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXX
 [/us/stat/128/3782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3782
 [/us/pl/113/291/s3037/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3037%2Fb
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
@@ -423,13 +423,13 @@
 [/us/usc/t54/s100502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100502
 [/us/pl/91/383/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F383%2Fs12%2Fb
 [/us/usc/t16/s1a–7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%937%2Fb
-[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
-[/us/pl/113/291/s3037/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3037%2Fa%2F1
-[/us/pl/113/291/s3037/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3037%2Fa%2F2
-[/us/pl/113/291/s3037/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3037%2Fa%2F3%2FA
-[/us/pl/113/291/s3037/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3037%2Fa%2F3%2FB
-[/us/pl/113/291/s3037/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3037%2Fb
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291/dB/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXX
 [/us/stat/128/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3783
 
 

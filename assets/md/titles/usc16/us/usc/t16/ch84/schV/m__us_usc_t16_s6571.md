@@ -29,7 +29,7 @@
 
         The Secretary of Agriculture shall carry out the healthy forests reserve program in coordination with the Secretary of the Interior and the Secretary of Commerce.
 
-([Pub. L. 108–148, title V, § 501][/us/pl/108/148/s501], Dec. 3, 2003, [117 Stat. 1911][/us/stat/117/1911].)
+([Pub. L. 108–148, title V][/us/pl/108/148/tV], § 501, Dec. 3, 2003, [117 Stat. 1911][/us/stat/117/1911].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/108/148/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2Fs501
+[/us/pl/108/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2FtV
 [/us/stat/117/1911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1911
 
 

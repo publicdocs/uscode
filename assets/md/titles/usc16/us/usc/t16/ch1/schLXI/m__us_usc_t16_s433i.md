@@ -23,7 +23,7 @@
 
         Any State or political subdivision thereof, organization, or individual may, with the approval of the Secretary of the Interior, erect monuments or place tablets commemorating historic events or persons connected with the history of the area, within the boundaries of the Fort Frederica National Monument.
 
-([May 26, 1936, ch. 451, § 3][/us/act/1936-05-26/ch451/s3], [49 Stat. 1373][/us/stat/49/1373].)
+([May 26, 1936, ch. 451][/us/act/1936-05-26/ch451], § 3, [49 Stat. 1373][/us/stat/49/1373].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1936-05-26/ch451/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-26%2Fch451%2Fs3
+[/us/act/1936-05-26/ch451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-26%2Fch451
 [/us/stat/49/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1373
 
 

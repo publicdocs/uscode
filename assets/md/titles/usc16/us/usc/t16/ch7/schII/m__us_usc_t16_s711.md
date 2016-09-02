@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall be construed to prevent the breeding of migratory game birds on farms and preserves and the sale of birds so bred under proper regulation for the purpose of increasing the food supply.
 
-([July 3, 1918, ch. 128, § 12][/us/act/1918-07-03/ch128/s12], [40 Stat. 757][/us/stat/40/757].)
+([July 3, 1918, ch. 128][/us/act/1918-07-03/ch128], § 12, [40 Stat. 757][/us/stat/40/757].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1918-07-03/ch128/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-07-03%2Fch128%2Fs12
+[/us/act/1918-07-03/ch128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-07-03%2Fch128
 [/us/stat/40/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F757
 
 

@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to construct and maintain such boundary and division fences as are required to inclose and subdivide the preserve; to construct such buildings and improvements, to install and maintain a suitable water-supply and sanitary system, to purchase such supplies, and to employ such assistants as are necessary for the maintenance of the preserve and the improvements thereon and for the accommodation of visitors thereto.
 
-([Mar. 3, 1931, ch. 439, § 3][/us/act/1931-03-03/ch439/s3], [46 Stat. 1510][/us/stat/46/1510]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433].)
+([Mar. 3, 1931, ch. 439][/us/act/1931-03-03/ch439], § 3, [46 Stat. 1510][/us/stat/46/1510]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1931-03-03/ch439/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-03%2Fch439%2Fs3
+[/us/act/1931-03-03/ch439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-03%2Fch439
 [/us/stat/46/1510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1510
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
 [/us/usc/t16/s671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs671

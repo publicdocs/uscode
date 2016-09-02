@@ -17,7 +17,7 @@
 
     On or after Mar. 4, 1913, ten per centum of all moneys received from the national forests during each fiscal year shall be available at the end thereof, to be expended by the Secretary of Agriculture for the construction and maintenance of roads and trails within the national forests in the States from which such proceeds are derived; but the Secretary of Agriculture may, whenever practicable, in the construction and maintenance of such roads, secure the cooperation or aid of the proper State or Territorial authorities in the furtherance of any system of highways of which such roads may be made a part. In sales of logs, ties, poles, posts, cordwood, pulpwood, and other forest products the amounts made available for schools and roads by this section shall be based upon the stumpage value of the timber.
 
-([Mar. 4, 1913, ch. 145, § 1][/us/act/1913-03-04/ch145/s1] (part), [37 Stat. 843][/us/stat/37/843]; [Sept. 21, 1944, ch. 412][/us/act/1944-09-21/ch412], title II, § 212, [58 Stat. 737][/us/stat/58/737].)
+([Mar. 4, 1913, ch. 145][/us/act/1913-03-04/ch145], § 1 (part), [37 Stat. 843][/us/stat/37/843]; [Sept. 21, 1944, ch. 412][/us/act/1944-09-21/ch412], title II, § 212, [58 Stat. 737][/us/stat/58/737].)
 
  __Prior Provisions__ 
 
@@ -46,7 +46,7 @@ Provisions similar to those in this section were contained in the following prio
 ----------
 ----------
 
-[/us/act/1913-03-04/ch145/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145%2Fs1
+[/us/act/1913-03-04/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145
 [/us/stat/37/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F843
 [/us/act/1944-09-21/ch412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-09-21%2Fch412
 [/us/stat/58/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F737

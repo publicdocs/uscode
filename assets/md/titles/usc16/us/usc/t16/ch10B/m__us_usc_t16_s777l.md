@@ -17,11 +17,11 @@
 
     A State may use contributions of funds, real property, materials, and services to carry out an activity under this chapter in lieu of payment by the State of the State share of the cost of such activity. Such a State share shall be considered to be paid in an amount equal to the fair market value of any contribution so used.
 
-([Aug. 9, 1950, ch. 658, § 13][/us/act/1950-08-09/ch658/s13], as added [Pub. L. 100–448, § 6(c)(2)][/us/pl/100/448/s6/c/2], Sept. 28, 1988, [102 Stat. 1841][/us/stat/102/1841].)
+([Aug. 9, 1950, ch. 658][/us/act/1950-08-09/ch658], § 13, as added [Pub. L. 100–448][/us/pl/100/448], § 6(c)(2), Sept. 28, 1988, [102 Stat. 1841][/us/stat/102/1841].)
 
  __Codification__ 
 
-    Another section 13 of [act Aug. 9, 1950, ch. 658][/us/act/1950-08-09/ch658], which was classified as a note under [section 777 of this title][/us/usc/t16/s777], was repealed by [Pub. L. 106–408, title I, § 122(a)(1)][/us/pl/106/408/s122/a/1], Nov. 1, 2000, [114 Stat. 1772][/us/stat/114/1772].
+    Another section 13 of [act Aug. 9, 1950, ch. 658][/us/act/1950-08-09/ch658], which was classified as a note under [section 777 of this title][/us/usc/t16/s777], was repealed by [Pub. L. 106–408, title I][/us/pl/106/408/tI], § 122(a)(1), Nov. 1, 2000, [114 Stat. 1772][/us/stat/114/1772].
 
  __Effective Date__ 
 
@@ -34,12 +34,12 @@
 ----------
 ----------
 
-[/us/act/1950-08-09/ch658/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch658%2Fs13
-[/us/pl/100/448/s6/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448%2Fs6%2Fc%2F2
+[/us/act/1950-08-09/ch658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch658
+[/us/pl/100/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448
 [/us/stat/102/1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1841
 [/us/act/1950-08-09/ch658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch658
 [/us/usc/t16/s777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777
-[/us/pl/106/408/s122/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2Fs122%2Fa%2F1
+[/us/pl/106/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2FtI
 [/us/stat/114/1772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1772
 [/us/pl/100/448/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448%2Fs6%2Fe
 [/us/usc/t16/s777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777

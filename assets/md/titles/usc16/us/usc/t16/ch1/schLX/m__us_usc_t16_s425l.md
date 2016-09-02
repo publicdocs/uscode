@@ -41,7 +41,7 @@
 
         Within the area bounded by the Orange Turnpike, the Orange Plank Road, and McLaws Drive no improved property (as defined in [section 425m of this title][/us/usc/t16/s425m]) may be acquired without the consent of the owner thereof unless the Secretary determines that, in his judgment, the property is subject to, or threatened with, uses which are having, or would have, an adverse impact on the park.
 
-([Pub. L. 101–214, § 3][/us/pl/101/214/s3], Dec. 11, 1989, [103 Stat. 1849][/us/stat/103/1849]; [Pub. L. 106–150, § 1(b)(1)][/us/pl/106/150/s1/b/1], Dec. 9, 1999, [113 Stat. 1730][/us/stat/113/1730].)
+([Pub. L. 101–214][/us/pl/101/214], § 3, Dec. 11, 1989, [103 Stat. 1849][/us/stat/103/1849]; [Pub. L. 106–150][/us/pl/106/150], § 1(b)(1), Dec. 9, 1999, [113 Stat. 1730][/us/stat/113/1730].)
 
  __Amendments__ 
 
@@ -57,9 +57,9 @@
 [/us/usc/t16/s425k/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs425k%2Fa
 [/us/usc/t16/s425k/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs425k%2Fb
 [/us/usc/t16/s425m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs425m
-[/us/pl/101/214/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F214%2Fs3
+[/us/pl/101/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F214
 [/us/stat/103/1849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1849
-[/us/pl/106/150/s1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F150%2Fs1%2Fb%2F1
+[/us/pl/106/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F150
 [/us/stat/113/1730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1730
 [/us/pl/106/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F150
 

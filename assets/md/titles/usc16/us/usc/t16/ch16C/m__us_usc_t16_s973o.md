@@ -17,7 +17,7 @@
 
     To the extent required by Article 4 of the Treaty, an amount equivalent to the total value of any fine, penalty, or other amount collected as a result of any action, judicial or otherwise, taken pursuant to sections 973e and 973f of this title shall be paid by the United States through the Secretary of State to the Administrator as soon as reasonably possible following the date that such amount is collected.
 
-([Pub. L. 100–330, § 17][/us/pl/100/330/s17], June 7, 1988, [102 Stat. 600][/us/stat/102/600].)
+([Pub. L. 100–330][/us/pl/100/330], § 17, June 7, 1988, [102 Stat. 600][/us/stat/102/600].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/330/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F330%2Fs17
+[/us/pl/100/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F330
 [/us/stat/102/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F600
 
 

@@ -17,7 +17,7 @@
 
     Subject to valid existing rights, all Federal lands within the park are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws; from location, entry, and patent under the United States mining laws; and from disposition under all laws pertaining to mineral and geothermal leasing, and mineral materials, and all amendments thereto.
 
-([Pub. L. 103–433, title IV, § 405][/us/pl/103/433/s405], Oct. 31, 1994, [108 Stat. 4488][/us/stat/108/4488].)
+([Pub. L. 103–433, title IV][/us/pl/103/433/tIV], § 405, Oct. 31, 1994, [108 Stat. 4488][/us/stat/108/4488].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/433/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs405
+[/us/pl/103/433/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtIV
 [/us/stat/108/4488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4488
 
 

@@ -17,7 +17,7 @@
 
     The National Park Service, under the direction of the Secretary of the Interior, shall promote and regulate the use of the Coronado National Memorial for the benefit and enjoyment of the people of the United States. Insofar as applicable and not in conflict with sections 450y to 450y–4 of this title, the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]), providing for the establishment of a National Park Service, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended and supplemented, providing for the establishment of a National Park Service, shall govern the promotion and regulation of the designated memorial area: Provided, That nothing in sections 450y to 450y–4 of this title shall be construed to authorize any recreational or other development by the National Park Service within the sixty-foot strip north of the international boundary between the United States and Mexico withdrawn by proclamation of the President dated May 27, 1907 (35 Stat., part II, p. 2136), unless such development has received the prior approval of the Secretary of State.
 
-([Aug. 18, 1941, ch. 365, § 2][/us/act/1941-08-18/ch365/s2], [55 Stat. 630][/us/stat/55/630]; [July 9, 1952, ch. 610, § 1][/us/act/1952-07-09/ch610/s1], [66 Stat. 510][/us/stat/66/510].)
+([Aug. 18, 1941, ch. 365][/us/act/1941-08-18/ch365], § 2, [55 Stat. 630][/us/stat/55/630]; [July 9, 1952, ch. 610][/us/act/1952-07-09/ch610], § 1, [66 Stat. 510][/us/stat/66/510].)
 
  __References in Text__ 
 
@@ -39,9 +39,9 @@
 ----------
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
-[/us/act/1941-08-18/ch365/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-08-18%2Fch365%2Fs2
+[/us/act/1941-08-18/ch365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-08-18%2Fch365
 [/us/stat/55/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F630
-[/us/act/1952-07-09/ch610/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-09%2Fch610%2Fs1
+[/us/act/1952-07-09/ch610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-09%2Fch610
 [/us/stat/66/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F510
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408

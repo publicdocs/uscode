@@ -37,15 +37,15 @@
 
             There is authorized to be appropriated $3,000,000 to carry out this subsection.
 
-([Pub. L. 100–479, § 3][/us/pl/100/479/s3], Oct. 7, 1988, [102 Stat. 2325][/us/stat/102/2325]; [Pub. L. 101–399, § 1(b)][/us/pl/101/399/s1/b], Sept. 28, 1990, [104 Stat. 860][/us/stat/104/860]; [Pub. L. 104–333, div. I, title X, § 1030][/us/pl/104/333/s1030], Nov. 12, 1996, [110 Stat. 4238][/us/stat/110/4238]; [Pub. L. 106–176, title I, § 127][/us/pl/106/176/s127], Mar. 10, 2000, [114 Stat. 30][/us/stat/114/30].)
+([Pub. L. 100–479][/us/pl/100/479], § 3, Oct. 7, 1988, [102 Stat. 2325][/us/stat/102/2325]; [Pub. L. 101–399][/us/pl/101/399], § 1(b), Sept. 28, 1990, [104 Stat. 860][/us/stat/104/860]; [Pub. L. 104–333, div. I, title X][/us/pl/104/333/dI/tX], § 1030, Nov. 12, 1996, [110 Stat. 4238][/us/stat/110/4238]; [Pub. L. 106–176, title I][/us/pl/106/176/tI], § 127, Mar. 10, 2000, [114 Stat. 30][/us/stat/114/30].)
 
  __Amendments__ 
 
-    2000—[Pub. L. 106–176, § 127(b)][/us/pl/106/176/s127/b], made technical correction to directory language of [Pub. L. 104–333][/us/pl/104/333]. See 1996 Amendment note below.
+    2000—[Pub. L. 106–176][/us/pl/106/176], § 127(b), made technical correction to directory language of [Pub. L. 104–333][/us/pl/104/333]. See 1996 Amendment note below.
 
-    Subsec. (b)(1). [Pub. L. 106–176, § 127(a)][/us/pl/106/176/s127/a], substituted “and visitor center” for “and visitors’ center”.
+    Subsec. (b)(1). [Pub. L. 106–176][/us/pl/106/176], § 127(a), substituted “and visitor center” for “and visitors’ center”.
 
-    1996—[Pub. L. 104–333][/us/pl/104/333], as amended by [Pub. L. 106–176, § 127(b)][/us/pl/106/176/s127/b], which directed amendment of section 3 of Act of October 8, 1988, by designating existing provisions as subsec. (a), inserting heading, and adding subsec. (b), was executed by making the amendment to this section to reflect the probable intent of Congress.
+    1996—[Pub. L. 104–333][/us/pl/104/333], as amended by [Pub. L. 106–176][/us/pl/106/176], § 127(b), which directed amendment of section 3 of Act of October 8, 1988, by designating existing provisions as subsec. (a), inserting heading, and adding subsec. (b), was executed by making the amendment to this section to reflect the probable intent of Congress.
 
     1990—[Pub. L. 101–399][/us/pl/101/399] substituted “referred to in paragraph (1), (2), or (3)” for “referred to in paragraph (1) or (2)” and inserted at end “The Secretary may not acquire the property referred to in paragraph (3) of section 410oo–1(b) of this title except by donation.”
 
@@ -56,19 +56,19 @@
 ----------
 ----------
 
-[/us/pl/100/479/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F479%2Fs3
+[/us/pl/100/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F479
 [/us/stat/102/2325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2325
-[/us/pl/101/399/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F399%2Fs1%2Fb
+[/us/pl/101/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F399
 [/us/stat/104/860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F860
-[/us/pl/104/333/s1030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs1030
+[/us/pl/104/333/dI/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtX
 [/us/stat/110/4238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4238
-[/us/pl/106/176/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs127
+[/us/pl/106/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2FtI
 [/us/stat/114/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F30
-[/us/pl/106/176/s127/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs127%2Fb
+[/us/pl/106/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176
 [/us/pl/104/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333
-[/us/pl/106/176/s127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs127%2Fa
+[/us/pl/106/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176
 [/us/pl/104/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333
-[/us/pl/106/176/s127/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs127%2Fb
+[/us/pl/106/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176
 [/us/pl/101/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F399
 
 

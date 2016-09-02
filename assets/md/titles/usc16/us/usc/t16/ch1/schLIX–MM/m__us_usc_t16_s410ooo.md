@@ -29,11 +29,11 @@
 
     (6) The preservation, enhancement, economic and tourism potential and management of the central California coast and Pacific coast range’s important natural and cultural resources requires cooperation and partnerships among local property owners, Federal, State, and local government entities and the private sector.
 
-([Pub. L. 112–245, § 2][/us/pl/112/245/s2], Jan. 10, 2013, [126 Stat. 2385][/us/stat/126/2385].)
+([Pub. L. 112–245][/us/pl/112/245], § 2, Jan. 10, 2013, [126 Stat. 2385][/us/stat/126/2385].)
 
  __Short Title__ 
 
-[Pub. L. 112–245, § 1][/us/pl/112/245/s1], Jan. 10, 2013, [126 Stat. 2385][/us/stat/126/2385], provided that: 
+[Pub. L. 112–245][/us/pl/112/245], § 1, Jan. 10, 2013, [126 Stat. 2385][/us/stat/126/2385], provided that: 
 
 > “This Act \[enacting this subchapter and amending provisions listed in a table of Wilderness Areas under [section 1132 of this title][/us/usc/t16/s1132]\] may be cited as the ‘Pinnacles National Park Act’.”
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/pl/94/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F567
-[/us/pl/112/245/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F245%2Fs2
+[/us/pl/112/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F245
 [/us/stat/126/2385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2385
-[/us/pl/112/245/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F245%2Fs1
+[/us/pl/112/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F245
 [/us/stat/126/2385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2385
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132
 

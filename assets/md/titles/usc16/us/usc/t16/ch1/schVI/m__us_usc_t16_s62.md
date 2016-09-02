@@ -17,7 +17,7 @@
 
     Possession within said parks, or either of them, of the dead bodies or any part thereof of any wild bird or animal shall be prima facie evidence that person or persons having same are guilty of violating sections 60 to 63 of this title.
 
-([June 2, 1920, ch. 218, § 5][/us/act/1920-06-02/ch218/s5], [41 Stat. 732][/us/stat/41/732].)
+([June 2, 1920, ch. 218][/us/act/1920-06-02/ch218], § 5, [41 Stat. 732][/us/stat/41/732].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1920-06-02/ch218/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-02%2Fch218%2Fs5
+[/us/act/1920-06-02/ch218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-02%2Fch218
 [/us/stat/41/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F732
 
 

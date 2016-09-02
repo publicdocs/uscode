@@ -23,7 +23,7 @@
 
         The Secretary, through cooperative agreements with owners or operators of land and facilities in the protection zone, may provide for facilities in the protection zone to support activities within the historic zone.
 
-([Pub. L. 102–350, § 6][/us/pl/102/350/s6], Aug. 26, 1992, [106 Stat. 935][/us/stat/106/935].)
+([Pub. L. 102–350][/us/pl/102/350], § 6, Aug. 26, 1992, [106 Stat. 935][/us/stat/106/935].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/102/350/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F350%2Fs6
+[/us/pl/102/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F350
 [/us/stat/106/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F935
 
 

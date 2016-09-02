@@ -27,7 +27,7 @@
 
         A report of the seizure shall be made to the United States attorney for the judicial district in which the seizure is made, for forfeiture either (1) upon conviction of the offender under [section 730 of this title][/us/usc/t16/s730], or (2) by proceedings by libel in rem. Such libel proceedings shall conform as near as may be to civil suits in admiralty, except that either party may demand trial by jury upon any issue of fact when the value in controversy exceeds $20. In case of a jury trial the verdict of the jury shall have the same effect as the finding of the court upon the facts. Libel proceedings shall be at the suit and in the name of the United States. If such forfeiture proceedings are not instituted within a reasonable time, the United States attorney shall give notice thereof, and the custodian shall thereupon release the articles seized.
 
-([June 7, 1924, ch. 346, § 8][/us/act/1924-06-07/ch346/s8], [43 Stat. 651][/us/stat/43/651]; 1939 Reorg. Plan No. II, § 4(e), (f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; [Pub. L. 90–578, title IV, § 402(b)(2)][/us/pl/90/578/s402/b/2], Oct. 17, 1968, [82 Stat. 1118][/us/stat/82/1118]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
+([June 7, 1924, ch. 346][/us/act/1924-06-07/ch346], § 8, [43 Stat. 651][/us/stat/43/651]; 1939 Reorg. Plan No. II, § 4(e), (f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; [Pub. L. 90–578, title IV][/us/pl/90/578/tIV], § 402(b)(2), Oct. 17, 1968, [82 Stat. 1118][/us/stat/82/1118]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
 
  __Change of Name__ 
 
@@ -47,12 +47,12 @@
 ----------
 
 [/us/usc/t16/s730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs730
-[/us/act/1924-06-07/ch346/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch346%2Fs8
+[/us/act/1924-06-07/ch346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch346
 [/us/stat/43/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F651
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
-[/us/pl/90/578/s402/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2Fs402%2Fb%2F2
+[/us/pl/90/578/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2FtIV
 [/us/stat/82/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1118
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
 [/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
 [/us/usc/t28/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs631

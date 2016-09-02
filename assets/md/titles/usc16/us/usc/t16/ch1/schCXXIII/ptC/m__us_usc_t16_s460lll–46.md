@@ -69,7 +69,7 @@
 
         Subject to the other provisions of this section, a Federal agency that carried or carries out operations at the Recreation Area resulting in the release or threatened release of a hazardous substance, pollutant, or contaminant, hazardous waste, hazardous material, or petroleum product or derivative of a petroleum product for which that agency would be liable under any environmental law shall pay the costs of related response actions and shall pay the costs of related actions to remediate petroleum products or their derivatives.
 
-([Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title V, § 546\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–320.)
+([Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title V, § 546\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–320.)
 
  __References in Text__ 
 
@@ -85,7 +85,7 @@
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/stat/94/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2767

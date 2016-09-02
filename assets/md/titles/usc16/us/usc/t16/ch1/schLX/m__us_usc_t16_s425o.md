@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as may be necessary to carry out the purposes of sections 425k to 425o of this title.
 
-([Pub. L. 101–214, § 6][/us/pl/101/214/s6], Dec. 11, 1989, [103 Stat. 1851][/us/stat/103/1851].)
+([Pub. L. 101–214][/us/pl/101/214], § 6, Dec. 11, 1989, [103 Stat. 1851][/us/stat/103/1851].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/214/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F214%2Fs6
+[/us/pl/101/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F214
 [/us/stat/103/1851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1851
 
 

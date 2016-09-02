@@ -45,7 +45,7 @@
 
         Upon its own motion to order an investigation of any occupancy of, or evidenced intention to occupy, for the purpose of developing electric power, public lands, reservations, or streams or other bodies of water over which Congress has jurisdiction under its authority to regulate commerce with foreign nations and among the several States by any person, corporation, State, or municipality and to issue such order as it may find appropriate, expedient, and in the public interest to conserve and utilize the navigation and water-power resources of the region.
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. I, § 4, [41 Stat. 1065][/us/stat/41/1065]; [June 23, 1930, ch. 572, § 2][/us/act/1930-06-23/ch572/s2], [46 Stat. 798][/us/stat/46/798]; renumbered pt. I and amended, [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, §§ 202, 212, [49 Stat. 839][/us/stat/49/839], 847; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]; [Pub. L. 97–375, title II, § 212][/us/pl/97/375/s212], Dec. 21, 1982, [96 Stat. 1826][/us/stat/96/1826]; [Pub. L. 99–495, § 3(a)][/us/pl/99/495/s3/a], Oct. 16, 1986, [100 Stat. 1243][/us/stat/100/1243]; [Pub. L. 109–58, title II, § 241(a)][/us/pl/109/58/s241/a], Aug. 8, 2005, [119 Stat. 674][/us/stat/119/674].)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. I, § 4, [41 Stat. 1065][/us/stat/41/1065]; [June 23, 1930, ch. 572][/us/act/1930-06-23/ch572], § 2, [46 Stat. 798][/us/stat/46/798]; renumbered pt. I and amended, [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, §§ 202, 212, [49 Stat. 839][/us/stat/49/839], 847; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]; [Pub. L. 97–375, title II][/us/pl/97/375/tII], § 212, Dec. 21, 1982, [96 Stat. 1826][/us/stat/96/1826]; [Pub. L. 99–495][/us/pl/99/495], § 3(a), Oct. 16, 1986, [100 Stat. 1243][/us/stat/100/1243]; [Pub. L. 109–58, title II][/us/pl/109/58/tII], § 241(a), Aug. 8, 2005, [119 Stat. 674][/us/stat/119/674].)
 
  __Amendments__ 
 
@@ -73,17 +73,17 @@
 
  __Change of Name__ 
 
-    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
+    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343, title II][/us/act/1947-07-26/ch343/tII], [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–495, § 18][/us/pl/99/495/s18], Oct. 16, 1986, [100 Stat. 1259][/us/stat/100/1259], provided that: 
+[Pub. L. 99–495][/us/pl/99/495], § 18, Oct. 16, 1986, [100 Stat. 1259][/us/stat/100/1259], provided that: 
 
 > “Except as otherwise provided in this Act, the amendments made by this Act \[enacting [section 823b of this title][/us/usc/t16/s823b] and amending this section and sections 800, 802, 803, 807, 808, 817, 823a, 824a–3, and 824j of this title\] shall take effect with respect to each license, permit, or exemption issued under the Federal Power Act after the enactment of this Act \[Oct. 16, 1986\]. The amendments made by sections 6 and 12 of this Act \[enacting [section 823b of this title][/us/usc/t16/s823b] and amending [section 817 of this title][/us/usc/t16/s817]\] shall apply to licenses, permits, and exemptions without regard to when issued.”
 
  __Savings Provision__ 
 
-[Pub. L. 99–495, § 17(a)][/us/pl/99/495/s17/a], Oct. 16, 1986, [100 Stat. 1259][/us/stat/100/1259], provided that: 
+[Pub. L. 99–495][/us/pl/99/495], § 17(a), Oct. 16, 1986, [100 Stat. 1259][/us/stat/100/1259], provided that: 
 
 > “Nothing in this Act \[see Short Title of 1986 Amendment note set out under [section 791a of this title][/us/usc/t16/s791a]\] shall be construed as authorizing the appropriation of water by any Federal, State, or local agency, Indian tribe, or any other entity or individual. Nor shall any provision of this Act—
 
@@ -107,7 +107,7 @@
 
  __Promoting Hydropower Development at Nonpowered Dams and Closed Loop Pumped Storage Projects__ 
 
-[Pub. L. 113–23, § 6][/us/pl/113/23/s6], Aug. 9, 2013, [127 Stat. 495][/us/stat/127/495], provided that:
+[Pub. L. 113–23][/us/pl/113/23], § 6, Aug. 9, 2013, [127 Stat. 495][/us/stat/127/495], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -157,11 +157,11 @@
 
  __Improvement at Existing Federal Facilities__ 
 
-    [Pub. L. 102–486, title XXIV, § 2404][/us/pl/102/486/s2404], Oct. 24, 1992, [106 Stat. 3097][/us/stat/106/3097], as amended by [Pub. L. 103–437, § 6(d)(37)][/us/pl/103/437/s6/d/37], Nov. 2, 1994, [108 Stat. 4585][/us/stat/108/4585]; [Pub. L. 104–66, title I, § 1052(h)][/us/pl/104/66/s1052/h], Dec. 21, 1995, [109 Stat. 718][/us/stat/109/718], directed Secretary of the Interior and Secretary of the Army, in consultation with Secretary of Energy, to perform reconnaissance level studies, for each of the Nation’s principal river basins, of cost effective opportunities to increase hydropower production at existing federally-owned or operated water regulation, storage, and conveyance facilities, with such studies to be completed within 2 years after Oct. 24, 1992, and transmitted to Congress, further provided that in cases where such studies had been prepared by any agency of the United States and published within ten years prior to Oct. 24, 1992, Secretary of the Interior, or Secretary of the Army, could choose to rely on information developed by prior studies rather than conduct new studies, and further provided for appropriations for fiscal years 1993 to 1995.
+    [Pub. L. 102–486, title XXIV][/us/pl/102/486/tXXIV], § 2404, Oct. 24, 1992, [106 Stat. 3097][/us/stat/106/3097], as amended by [Pub. L. 103–437][/us/pl/103/437], § 6(d)(37), Nov. 2, 1994, [108 Stat. 4585][/us/stat/108/4585]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1052(h), Dec. 21, 1995, [109 Stat. 718][/us/stat/109/718], directed Secretary of the Interior and Secretary of the Army, in consultation with Secretary of Energy, to perform reconnaissance level studies, for each of the Nation’s principal river basins, of cost effective opportunities to increase hydropower production at existing federally-owned or operated water regulation, storage, and conveyance facilities, with such studies to be completed within 2 years after Oct. 24, 1992, and transmitted to Congress, further provided that in cases where such studies had been prepared by any agency of the United States and published within ten years prior to Oct. 24, 1992, Secretary of the Interior, or Secretary of the Army, could choose to rely on information developed by prior studies rather than conduct new studies, and further provided for appropriations for fiscal years 1993 to 1995.
 
  __Water Conservation and Energy Production__ 
 
-[Pub. L. 102–486, title XXIV, § 2405][/us/pl/102/486/s2405], Oct. 24, 1992, [106 Stat. 3098][/us/stat/106/3098], provided that:
+[Pub. L. 102–486, title XXIV][/us/pl/102/486/tXXIV], § 2405, Oct. 24, 1992, [106 Stat. 3098][/us/stat/106/3098], provided that:
 
 >     “(a)  __Studies__  __.—__ 
 
@@ -189,7 +189,7 @@
 
  __Projects on Fresh Waters in State of Hawaii__ 
 
-    [Pub. L. 102–486, title XXIV, § 2408][/us/pl/102/486/s2408], Oct. 24, 1992, [106 Stat. 3100][/us/stat/106/3100], directed Federal Energy Regulatory Commission, in consultation with State of Hawaii, to carry out study of hydroelectric licensing in State of Hawaii for purposes of considering whether such licensing should be transferred to State, and directed Commission to complete study and submit report containing results of study to Congress within 18 months after Oct. 24, 1992.
+    [Pub. L. 102–486, title XXIV][/us/pl/102/486/tXXIV], § 2408, Oct. 24, 1992, [106 Stat. 3100][/us/stat/106/3100], directed Federal Energy Regulatory Commission, in consultation with State of Hawaii, to carry out study of hydroelectric licensing in State of Hawaii for purposes of considering whether such licensing should be transferred to State, and directed Commission to complete study and submit report containing results of study to Congress within 18 months after Oct. 24, 1992.
 
 ----------
 
@@ -201,49 +201,49 @@
 [/us/usc/t16/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs802
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
 [/us/stat/41/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1065
-[/us/act/1930-06-23/ch572/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-23%2Fch572%2Fs2
+[/us/act/1930-06-23/ch572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-23%2Fch572
 [/us/stat/46/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F798
 [/us/act/1935-08-26/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-26%2Fch687
 [/us/stat/49/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F839
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
-[/us/pl/97/375/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2Fs212
+[/us/pl/97/375/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2FtII
 [/us/stat/96/1826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1826
-[/us/pl/99/495/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495%2Fs3%2Fa
+[/us/pl/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495
 [/us/stat/100/1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1243
-[/us/pl/109/58/s241/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs241%2Fa
+[/us/pl/109/58/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtII
 [/us/stat/119/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F674
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495
 [/us/pl/97/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
+[/us/act/1947-07-26/ch343/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtII
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641
-[/us/pl/99/495/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495%2Fs18
+[/us/pl/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495
 [/us/stat/100/1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1259
 [/us/usc/t16/s823b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs823b
 [/us/usc/t16/s823b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs823b
 [/us/usc/t16/s817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs817
-[/us/pl/99/495/s17/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495%2Fs17%2Fa
+[/us/pl/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495
 [/us/stat/100/1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1259
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/usc/t16/s839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs839
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/113/23/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F23%2Fs6
+[/us/pl/113/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F23
 [/us/stat/127/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F495
-[/us/pl/102/486/s2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2404
+[/us/pl/102/486/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXIV
 [/us/stat/106/3097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3097
-[/us/pl/103/437/s6/d/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fd%2F37
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4585
-[/us/pl/104/66/s1052/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1052%2Fh
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F718
-[/us/pl/102/486/s2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2405
+[/us/pl/102/486/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXIV
 [/us/stat/106/3098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3098
 [/us/stat/32/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F388
 [/us/usc/t43/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs371
-[/us/pl/102/486/s2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2408
+[/us/pl/102/486/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXIV
 [/us/stat/106/3100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3100
 
 

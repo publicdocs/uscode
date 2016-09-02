@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to acquire on behalf of the United States out of any funds allotted and made available for this project by proper authority or out of any donated funds, by purchase at prices deemed by him reasonable, or by condemnation under the provisions of [section 3113 of title 40][/us/usc/t40/s3113], or to accept by donation, such land, interest in land, and/or buildings, structures, and other property within the boundaries of said national historic site as determined and fixed hereunder, and he is further authorized to accept donations of funds for the purchase and/or maintenance thereof.
 
-([Aug. 29, 1935, ch. 801, § 2][/us/act/1935-08-29/ch801/s2], [49 Stat. 958][/us/stat/49/958]; [Pub. L. 88–197, § 1][/us/pl/88/197/s1], Dec. 11, 1963, [77 Stat. 349][/us/stat/77/349].)
+([Aug. 29, 1935, ch. 801][/us/act/1935-08-29/ch801], § 2, [49 Stat. 958][/us/stat/49/958]; [Pub. L. 88–197][/us/pl/88/197], § 1, Dec. 11, 1963, [77 Stat. 349][/us/stat/77/349].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    “[Section 3113 of title 40][/us/usc/t40/s3113]” substituted in text for “the Act of August 1, 1888 ([25 Stat. 357][/us/stat/25/357])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    “[Section 3113 of title 40][/us/usc/t40/s3113]” substituted in text for “the Act of August 1, 1888 ([25 Stat. 357][/us/stat/25/357])” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
  __Change of Name__ 
 
@@ -39,13 +39,13 @@
 ----------
 
 [/us/usc/t40/s3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3113
-[/us/act/1935-08-29/ch801/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch801%2Fs2
+[/us/act/1935-08-29/ch801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch801
 [/us/stat/49/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F958
-[/us/pl/88/197/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F197%2Fs1
+[/us/pl/88/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F197
 [/us/stat/77/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F349
 [/us/usc/t40/s3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3113
 [/us/stat/25/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F357
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/pl/88/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F197
 

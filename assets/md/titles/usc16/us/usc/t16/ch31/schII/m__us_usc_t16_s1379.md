@@ -215,15 +215,15 @@
 
         (2) There are authorized to be appropriated to the Department of Commerce, for the purposes of carrying out this section, not to exceed $225,000 for each of the fiscal years ending September 30, 1979, September 30, 1980, and September 30, 1981.
 
-([Pub. L. 92–522, title I, § 109][/us/pl/92/522/s109], Oct. 21, 1972, [86 Stat. 1040][/us/stat/86/1040]; [Pub. L. 95–316, § 1][/us/pl/95/316/s1], July 10, 1978, [92 Stat. 380][/us/stat/92/380]; [Pub. L. 97–58, § 4(a)][/us/pl/97/58/s4/a], Oct. 9, 1981, [95 Stat. 982][/us/stat/95/982]; [Pub. L. 100–711, § 5(a)][/us/pl/100/711/s5/a], (e)(3), Nov. 23, 1988, [102 Stat. 4769][/us/stat/102/4769], 4771; [Pub. L. 102–587, title III, § 3004(a)(2)][/us/pl/102/587/s3004/a/2], Nov. 4, 1992, [106 Stat. 5067][/us/stat/106/5067]; [Pub. L. 103–238, § 24(c)(10)][/us/pl/103/238/s24/c/10], Apr. 30, 1994, [108 Stat. 566][/us/stat/108/566].)
+([Pub. L. 92–522, title I][/us/pl/92/522/tI], § 109, Oct. 21, 1972, [86 Stat. 1040][/us/stat/86/1040]; [Pub. L. 95–316][/us/pl/95/316], § 1, July 10, 1978, [92 Stat. 380][/us/stat/92/380]; [Pub. L. 97–58][/us/pl/97/58], § 4(a), Oct. 9, 1981, [95 Stat. 982][/us/stat/95/982]; [Pub. L. 100–711][/us/pl/100/711], § 5(a), (e)(3), Nov. 23, 1988, [102 Stat. 4769][/us/stat/102/4769], 4771; [Pub. L. 102–587, title III][/us/pl/102/587/tIII], § 3004(a)(2), Nov. 4, 1992, [106 Stat. 5067][/us/stat/106/5067]; [Pub. L. 103–238][/us/pl/103/238], § 24(c)(10), Apr. 30, 1994, [108 Stat. 566][/us/stat/108/566].)
 
  __References in Text__ 
 
-    [Section 1362(14) of this title][/us/usc/t16/s1362/14], referred to in subsecs. (b)(3)(B)(i) and (d), was redesignated section 1362(15) by [Pub. L. 102–582, title IV, § 401(a)][/us/pl/102/582/s401/a], Nov. 2, 1992, [106 Stat. 4909][/us/stat/106/4909].
+    [Section 1362(14) of this title][/us/usc/t16/s1362/14], referred to in subsecs. (b)(3)(B)(i) and (d), was redesignated section 1362(15) by [Pub. L. 102–582, title IV][/us/pl/102/582/tIV], § 401(a), Nov. 2, 1992, [106 Stat. 4909][/us/stat/106/4909].
 
     The Regulatory Flexibility Act, referred to in subsec. (d)(2), is [Pub. L. 96–354][/us/pl/96/354], Sept. 19, 1980, [94 Stat. 1164][/us/stat/94/1164], which is classified generally to chapter 6 (§ 601 et seq.) of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of Title 5][/us/usc/t5/s601] and Tables.
 
-    The Paperwork Reduction Act, referred to in subsec. (d)(2), probably means the Paperwork Reduction Act of 1980, [Pub. L. 96–511][/us/pl/96/511], Dec. 11, 1980, [94 Stat. 2812][/us/stat/94/2812], as amended, which was classified principally to chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by the Paperwork Reduction Act of 1995, [Pub. L. 104–13, § 2][/us/pl/104/13/s2], May 22, 1995, [109 Stat. 163][/us/stat/109/163]. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under [section 101 of Title 44][/us/usc/t44/s101] and Tables.
+    The Paperwork Reduction Act, referred to in subsec. (d)(2), probably means the Paperwork Reduction Act of 1980, [Pub. L. 96–511][/us/pl/96/511], Dec. 11, 1980, [94 Stat. 2812][/us/stat/94/2812], as amended, which was classified principally to chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by the Paperwork Reduction Act of 1995, [Pub. L. 104–13][/us/pl/104/13], § 2, May 22, 1995, [109 Stat. 163][/us/stat/109/163]. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under [section 101 of Title 44][/us/usc/t44/s101] and Tables.
 
     Executive Order Numbered 12291, dated February 17, 1981, referred to in subsec. (d)(2), was formerly set out as a note under [section 601 of Title 5][/us/usc/t5/s601], Government Organization and Employees, and was revoked by Ex. Ord. No. 12866, § 11, Sept. 30, 1993, 58 F.R. 51735.
 
@@ -233,11 +233,11 @@
 
     1992—Subsec. (h)(1). [Pub. L. 102–587][/us/pl/102/587] inserted “or subchapter V” after “this subchapter” in introductory provisions.
 
-    1988—Subsec. (b)(1)(E). [Pub. L. 100–711, § 5(e)(3)(A)][/us/pl/100/711/s5/e/3/A], substituted “research, public display, or enhancing the survival or recovery of a species or stock” for “research and public display purposes”.
+    1988—Subsec. (b)(1)(E). [Pub. L. 100–711][/us/pl/100/711], § 5(e)(3)(A), substituted “research, public display, or enhancing the survival or recovery of a species or stock” for “research and public display purposes”.
 
-    Subsec. (b)(3)(B)(ii). [Pub. L. 100–711, § 5(e)(3)(B)][/us/pl/100/711/s5/e/3/B], substituted “research, public display, or enhancing the survival or recovery of a species or stock” for “research or public display purposes”.
+    Subsec. (b)(3)(B)(ii). [Pub. L. 100–711][/us/pl/100/711], § 5(e)(3)(B), substituted “research, public display, or enhancing the survival or recovery of a species or stock” for “research or public display purposes”.
 
-    Subsec. (h). [Pub. L. 100–711, § 5(a)][/us/pl/100/711/s5/a], amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “Nothing in this subchapter shall prevent a Federal, State, or local government official or employee or a person designated under [section 1382(c) of this title][/us/usc/t16/s1382/c] from taking, in the course of his duties as an official, employee, or designee, a marine mammal in a humane manner (including euthanasia) if such taking is for—
+    Subsec. (h). [Pub. L. 100–711][/us/pl/100/711], § 5(a), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “Nothing in this subchapter shall prevent a Federal, State, or local government official or employee or a person designated under [section 1382(c) of this title][/us/usc/t16/s1382/c] from taking, in the course of his duties as an official, employee, or designee, a marine mammal in a humane manner (including euthanasia) if such taking is for—
 
     “(1) the protection or welfare of the mammal,
 
@@ -247,27 +247,27 @@
 
     and, in any case in which the return of the mammal to its natural habitat is feasible, includes steps designed to achieve that result.”
 
-    1981—Subsec. (a). [Pub. L. 97–58, § 4(a)(2)][/us/pl/97/58/s4/a/2], added subsec. (a). Former subsec. (a), relating to State regulation of the taking of marine mammals, was struck out.
+    1981—Subsec. (a). [Pub. L. 97–58][/us/pl/97/58], § 4(a)(2), added subsec. (a). Former subsec. (a), relating to State regulation of the taking of marine mammals, was struck out.
 
-    Subsec. (b). [Pub. L. 97–58, § 4(a)(2)][/us/pl/97/58/s4/a/2], added subsec. (b). Former subsec. (b), relating to the making of grants to States by the Secretary, was struck out. See subsec. (j) of this section.
+    Subsec. (b). [Pub. L. 97–58][/us/pl/97/58], § 4(a)(2), added subsec. (b). Former subsec. (b), relating to the making of grants to States by the Secretary, was struck out. See subsec. (j) of this section.
 
-    Subsecs. (c), (d). [Pub. L. 97–58, § 4(a)(1)][/us/pl/97/58/s4/a/1], (2), added subsecs. (c) and (d). Former subsecs. (c) and (d) redesignated (k) and (l), respectively.
+    Subsecs. (c), (d). [Pub. L. 97–58][/us/pl/97/58], § 4(a)(1), (2), added subsecs. (c) and (d). Former subsecs. (c) and (d) redesignated (k) and (l), respectively.
 
-    Subsecs. (e) to (j). [Pub. L. 97–58, § 4(a)(2)][/us/pl/97/58/s4/a/2], added subsecs. (e) to (j).
+    Subsecs. (e) to (j). [Pub. L. 97–58][/us/pl/97/58], § 4(a)(2), added subsecs. (e) to (j).
 
-    Subsecs. (k), (l). [Pub. L. 97–58, § 4(a)(1)][/us/pl/97/58/s4/a/1], redesignated subsecs. (c) and (d) as (k) and (l), respectively.
+    Subsecs. (k), (l). [Pub. L. 97–58][/us/pl/97/58], § 4(a)(1), redesignated subsecs. (c) and (d) as (k) and (l), respectively.
 
     1978—Subsec. (d). [Pub. L. 95–316][/us/pl/95/316] added subsec. (d).
 
  __Enforcement by Hawaii of Laws Relating to Conservation and Management of Humpback Whales With Respect to Recreational and Commercial Vessels__ 
 
-[Pub. L. 108–447, div. B, title II, § 213][/us/pl/108/447/s213], Dec. 8, 2004, [118 Stat. 2884][/us/stat/118/2884], provided that: 
+[Pub. L. 108–447, div. B, title II][/us/pl/108/447/dB/tII], § 213, Dec. 8, 2004, [118 Stat. 2884][/us/stat/118/2884], provided that: 
 
 > “Hereafter, notwithstanding any other Federal law related to the conservation and management of marine mammals, the State of Hawaii may enforce any State law or regulation with respect to the operation in State waters of recreational and commercial vessels, for the purpose of conservation and management of humpback whales, to the extent that such law or regulation is no less restrictive than Federal law.”
 
  __Cooperative Agreements Under Endangered Species Act__ 
 
-[Pub. L. 97–58, § 4(b)][/us/pl/97/58/s4/b], Oct. 9, 1981, [95 Stat. 986][/us/stat/95/986], provided that: 
+[Pub. L. 97–58][/us/pl/97/58], § 4(b), Oct. 9, 1981, [95 Stat. 986][/us/stat/95/986], provided that: 
 
 > “Nothing in the amendments made by subsection (a) \[amending this section\] shall be construed as affecting in any manner, or to any extent, any cooperative agreement entered into by a State under section 6(c) of the Endangered Species Act of 1973 ([16 U.S.C. 1535(c)][/us/usc/t16/s1535/c]) before, on, or after the date of the enactment of this Act \[Oct. 9, 1981\].”
 
@@ -294,45 +294,45 @@
 [/us/usc/t16/s1382/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1382%2Fc
 [/us/usc/t16/s1382/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1382%2Fc
 [/us/usc/t16/s1371/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1371%2Fb
-[/us/pl/92/522/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs109
+[/us/pl/92/522/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtI
 [/us/stat/86/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1040
-[/us/pl/95/316/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F316%2Fs1
+[/us/pl/95/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F316
 [/us/stat/92/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F380
-[/us/pl/97/58/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58%2Fs4%2Fa
+[/us/pl/97/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58
 [/us/stat/95/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F982
-[/us/pl/100/711/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711%2Fs5%2Fa
+[/us/pl/100/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711
 [/us/stat/102/4769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4769
-[/us/pl/102/587/s3004/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs3004%2Fa%2F2
+[/us/pl/102/587/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtIII
 [/us/stat/106/5067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5067
-[/us/pl/103/238/s24/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs24%2Fc%2F10
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
 [/us/stat/108/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F566
 [/us/usc/t16/s1362/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1362%2F14
-[/us/pl/102/582/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2Fs401%2Fa
+[/us/pl/102/582/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2FtIV
 [/us/stat/106/4909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4909
 [/us/pl/96/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F354
 [/us/stat/94/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1164
 [/us/usc/t5/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs601
 [/us/pl/96/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F511
 [/us/stat/94/2812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2812
-[/us/pl/104/13/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13%2Fs2
+[/us/pl/104/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13
 [/us/stat/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F163
 [/us/usc/t44/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs101
 [/us/usc/t5/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs601
 [/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
 [/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
-[/us/pl/100/711/s5/e/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711%2Fs5%2Fe%2F3%2FA
-[/us/pl/100/711/s5/e/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711%2Fs5%2Fe%2F3%2FB
-[/us/pl/100/711/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711%2Fs5%2Fa
+[/us/pl/100/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711
+[/us/pl/100/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711
+[/us/pl/100/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711
 [/us/usc/t16/s1382/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1382%2Fc
-[/us/pl/97/58/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58%2Fs4%2Fa%2F2
-[/us/pl/97/58/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58%2Fs4%2Fa%2F2
-[/us/pl/97/58/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58%2Fs4%2Fa%2F1
-[/us/pl/97/58/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58%2Fs4%2Fa%2F2
-[/us/pl/97/58/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58%2Fs4%2Fa%2F1
+[/us/pl/97/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58
+[/us/pl/97/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58
+[/us/pl/97/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58
+[/us/pl/97/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58
+[/us/pl/97/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58
 [/us/pl/95/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F316
-[/us/pl/108/447/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs213
+[/us/pl/108/447/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtII
 [/us/stat/118/2884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2884
-[/us/pl/97/58/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58%2Fs4%2Fb
+[/us/pl/97/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58
 [/us/stat/95/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F986
 [/us/usc/t16/s1535/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1535%2Fc
 

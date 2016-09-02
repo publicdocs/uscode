@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Aug. 18, 1949, ch. 478, § 2][/us/act/1949-08-18/ch478/s2], [63 Stat. 616][/us/stat/63/616], authorized Secretary of the Interior through the Fish and Wildlife Service to undertake an Atlantic Coast shad study, prescribed a $75,000 per annum cost limitation for a six year period, and authorized transfer to such Service from Federal agencies or corporations surplus boats or equipment for conduct of the studies.
+    Section, [act Aug. 18, 1949, ch. 478][/us/act/1949-08-18/ch478], § 2, [63 Stat. 616][/us/stat/63/616], authorized Secretary of the Interior through the Fish and Wildlife Service to undertake an Atlantic Coast shad study, prescribed a $75,000 per annum cost limitation for a six year period, and authorized transfer to such Service from Federal agencies or corporations surplus boats or equipment for conduct of the studies.
 
     Section 4 of act Aug. 18, 1949 authorized appropriations for carrying out the purposes of act Aug. 18, 1949.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/act/1949-08-18/ch478/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-18%2Fch478%2Fs2
+[/us/act/1949-08-18/ch478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-18%2Fch478
 [/us/stat/63/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F616
 
 

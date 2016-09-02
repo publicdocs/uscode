@@ -57,7 +57,7 @@
 
         (3) $500,000 to conduct the inventory and assessment required under section  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection”. </sup></sup>  (e).
 
-([Pub. L. 101–593, title I, § 111][/us/pl/101/593/s111], Nov. 16, 1990, [104 Stat. 2960][/us/stat/104/2960].)
+([Pub. L. 101–593, title I][/us/pl/101/593/tI], § 111, Nov. 16, 1990, [104 Stat. 2960][/us/stat/104/2960].)
 
  __References in Text__ 
 
@@ -78,7 +78,7 @@
 ----------
 ----------
 
-[/us/pl/101/593/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2Fs111
+[/us/pl/101/593/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2FtI
 [/us/stat/104/2960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2960
 [/us/pl/101/593/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2Fs111
 [/us/stat/104/2960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2960

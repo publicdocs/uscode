@@ -27,7 +27,7 @@
 
     (2) by the State, by providing written notice to the Secretary by not later than the date that is 30 days before the termination date.
 
-([Pub. L. 113–239, § 7][/us/pl/113/239/s7], Dec. 18, 2014, [128 Stat. 2849][/us/stat/128/2849].)
+([Pub. L. 113–239][/us/pl/113/239], § 7, Dec. 18, 2014, [128 Stat. 2849][/us/stat/128/2849].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t16/s718q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs718q
-[/us/pl/113/239/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F239%2Fs7
+[/us/pl/113/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F239
 [/us/stat/128/2849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2849
 
 

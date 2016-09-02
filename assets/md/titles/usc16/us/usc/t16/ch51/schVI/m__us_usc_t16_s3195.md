@@ -17,11 +17,11 @@
 
     The Secretary is authorized in consultation with other Federal agencies, to investigate and plan for an information and education center for visitors to Alaska on not to exceed one thousand acres of Federal land at a site adjacent to the Alaska Highway, and to investigate and plan for similar centers in Anchorage and Fairbanks, Alaska. For the purposes of this investigation, the Secretary shall seek participation in the program planning and/or operation of such centers from appropriate agencies of the State of Alaska, and he is authorized to accept contributions of funds, personnel, and planning and program assistance from such State agencies, other Federal agencies, and Native representatives. The Secretary of Agriculture is authorized to investigate and plan for, in a similar manner, an information and education center for visitors to Alaska in either Juneau, Ketchikan, or Sitka, Alaska. No information center shall be developed pursuant to investigations and plans conducted under authority of this section unless and until such development is specifically authorized by Congress.
 
-([Pub. L. 96–487, title XIII, § 1305][/us/pl/96/487/s1305], Dec. 2, 1980, [94 Stat. 2478][/us/stat/94/2478].)
+([Pub. L. 96–487, title XIII][/us/pl/96/487/tXIII], § 1305, Dec. 2, 1980, [94 Stat. 2478][/us/stat/94/2478].)
 
  __Authorization of Appropriations; Purposes of Center; Operation of Center; Development Plans__ 
 
-[Pub. L. 99–664, § 11][/us/pl/99/664/s11], Nov. 17, 1986, [100 Stat. 4308][/us/stat/100/4308], provided that:
+[Pub. L. 99–664][/us/pl/99/664], § 11, Nov. 17, 1986, [100 Stat. 4308][/us/stat/100/4308], provided that:
 
 >     “(a)  __Authorization__  __.—__ 
 
@@ -60,9 +60,9 @@
 ----------
 ----------
 
-[/us/pl/96/487/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1305
+[/us/pl/96/487/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXIII
 [/us/stat/94/2478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2478
-[/us/pl/99/664/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F664%2Fs11
+[/us/pl/99/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F664
 [/us/stat/100/4308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4308
 [/us/pl/96/487/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1305
 [/us/usc/t16/s3195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3195

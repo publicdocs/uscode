@@ -17,7 +17,7 @@
 
     The provisions of sections 661 to 666c of this title shall not apply to the Tennessee Valley Authority.
 
-([Mar. 10, 1934, ch. 55, § 9][/us/act/1934-03-10/ch55/s9], as added [Aug. 14, 1946, ch. 965][/us/act/1946-08-14/ch965], [60 Stat. 1080][/us/stat/60/1080].)
+([Mar. 10, 1934, ch. 55][/us/act/1934-03-10/ch55], § 9, as added [Aug. 14, 1946, ch. 965][/us/act/1946-08-14/ch965], [60 Stat. 1080][/us/stat/60/1080].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1934-03-10/ch55/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-10%2Fch55%2Fs9
+[/us/act/1934-03-10/ch55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-10%2Fch55
 [/us/act/1946-08-14/ch965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch965
 [/us/stat/60/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1080
 

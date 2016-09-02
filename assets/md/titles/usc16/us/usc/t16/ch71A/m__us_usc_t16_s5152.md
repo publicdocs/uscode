@@ -73,7 +73,7 @@
 
     (12) The term “Secretaries” means the Secretary of Commerce and the Secretary of the Interior or their designees.
 
-([Pub. L. 98–613, § 3][/us/pl/98/613/s3], Oct. 31, 1984, [98 Stat. 3187][/us/stat/98/3187]; [Pub. L. 99–432, § 1][/us/pl/99/432/s1], Oct. 1, 1986, [100 Stat. 989][/us/stat/100/989]; [Pub. L. 100–589, § 6(g)(1)][/us/pl/100/589/s6/g/1], Nov. 3, 1988, [102 Stat. 2987][/us/stat/102/2987]; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41; [Pub. L. 105–146, § 2][/us/pl/105/146/s2], Dec. 16, 1997, [111 Stat. 2673][/us/stat/111/2673].)
+([Pub. L. 98–613][/us/pl/98/613], § 3, Oct. 31, 1984, [98 Stat. 3187][/us/stat/98/3187]; [Pub. L. 99–432][/us/pl/99/432], § 1, Oct. 1, 1986, [100 Stat. 989][/us/stat/100/989]; [Pub. L. 100–589][/us/pl/100/589], § 6(g)(1), Nov. 3, 1988, [102 Stat. 2987][/us/stat/102/2987]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41; [Pub. L. 105–146][/us/pl/105/146], § 2, Dec. 16, 1997, [111 Stat. 2673][/us/stat/111/2673].)
 
  __References in Text__ 
 
@@ -83,7 +83,7 @@
 
     [Public Law 81–721][/us/pl/81/721], referred to in par. (5), is [act Aug. 19, 1950, ch. 763][/us/act/1950-08-19/ch763], [64 Stat. 467][/us/stat/64/467], which is not classified to the Code.
 
-    Section 3(6) of the Magnuson Act, referred to in par. (6), was redesignated section 3(11) of that Act, by [Pub. L. 104–297, title I, § 102(1)][/us/pl/104/297/s102/1], (3), Oct. 11, 1996, [110 Stat. 3561][/us/stat/110/3561].
+    Section 3(6) of the Magnuson Act, referred to in par. (6), was redesignated section 3(11) of that Act, by [Pub. L. 104–297, title I][/us/pl/104/297/tI], § 102(1), (3), Oct. 11, 1996, [110 Stat. 3561][/us/stat/110/3561].
 
  __Amendments__ 
 
@@ -107,7 +107,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-    [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 ----------
 
@@ -120,15 +120,15 @@
 [/us/usc/t16/s1802/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1802%2F6
 [/us/usc/t16/s5154/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5154%2Fa
 [/us/usc/t16/s5154/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5154%2Fa
-[/us/pl/98/613/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F613%2Fs3
+[/us/pl/98/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F613
 [/us/stat/98/3187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3187
-[/us/pl/99/432/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F432%2Fs1
+[/us/pl/99/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F432
 [/us/stat/100/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F989
-[/us/pl/100/589/s6/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F589%2Fs6%2Fg%2F1
+[/us/pl/100/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F589
 [/us/stat/102/2987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2987
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
-[/us/pl/105/146/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F146%2Fs2
+[/us/pl/105/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F146
 [/us/stat/111/2673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2673
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331
@@ -139,14 +139,14 @@
 [/us/pl/81/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F81%2F721
 [/us/act/1950-08-19/ch763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-19%2Fch763
 [/us/stat/64/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F467
-[/us/pl/104/297/s102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs102%2F1
+[/us/pl/104/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtI
 [/us/stat/110/3561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3561
 [/us/pl/105/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F146
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/100/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F589
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
 [/us/pl/99/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F432
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
 
 

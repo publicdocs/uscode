@@ -17,7 +17,7 @@
 
     The Tupelo National Battlefield site is redesignated the Tupelo National Battlefield which shall continue to be administered pursuant to the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]), as amended and supplemented, entitled “An Act to establish a National Park Service, and for other purposes.”  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-([Pub. L. 87–133, § 2][/us/pl/87/133/s2], Aug. 10, 1961, [75 Stat. 336][/us/stat/75/336].)
+([Pub. L. 87–133][/us/pl/87/133], § 2, Aug. 10, 1961, [75 Stat. 336][/us/stat/75/336].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
-[/us/pl/87/133/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F133%2Fs2
+[/us/pl/87/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F133
 [/us/stat/75/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F336
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408

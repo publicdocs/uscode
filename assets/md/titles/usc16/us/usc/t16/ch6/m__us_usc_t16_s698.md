@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch6/m__us_usc_t16_s696b.md) | [Next](./../../../..//us/usc/t16/ch6/m__us_usc_t16_s698a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs698)
+[Previous](./../../../..//us/usc/t16/ch6/m__us_usc_t16_s697 _us_usc_t16_s697a.md) | [Next](./../../../..//us/usc/t16/ch6/m__us_usc_t16_s698a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs698)
 
 ## § 698. Big Thicket National Preserve
 
@@ -65,7 +65,7 @@
 
         With respect to the thirty-seven-acre area owned by the Louisiana-Pacific Corporation or its subsidiary, Kirby Forest Industries, Inc., on Big Sandy Creek in Hardin County, Texas, and now utilized as part of the Indian Springs Youth Camp (H.G. King Abstract 822), the Secretary shall not acquire such area without the consent of the owner so long as the area is used exclusively as a youth camp.
 
-([Pub. L. 93–439, § 1][/us/pl/93/439/s1], Oct. 11, 1974, [88 Stat. 1254][/us/stat/88/1254]; [Pub. L. 98–489, § 1(a)][/us/pl/98/489/s1/a], Oct. 17, 1984, [98 Stat. 2267][/us/stat/98/2267]; [Pub. L. 103–46, § 2(a)][/us/pl/103/46/s2/a], (b), July 1, 1993, [107 Stat. 229][/us/stat/107/229], 230; [Pub. L. 103–437, § 6(a)(6)][/us/pl/103/437/s6/a/6], Nov. 2, 1994, [108 Stat. 4583][/us/stat/108/4583]; [Pub. L. 104–333, div. I, title III, § 306(a)][/us/pl/104/333/s306/a]–(c), Nov. 12, 1996, [110 Stat. 4132][/us/stat/110/4132].)
+([Pub. L. 93–439][/us/pl/93/439], § 1, Oct. 11, 1974, [88 Stat. 1254][/us/stat/88/1254]; [Pub. L. 98–489][/us/pl/98/489], § 1(a), Oct. 17, 1984, [98 Stat. 2267][/us/stat/98/2267]; [Pub. L. 103–46][/us/pl/103/46], § 2(a), (b), July 1, 1993, [107 Stat. 229][/us/stat/107/229], 230; [Pub. L. 103–437][/us/pl/103/437], § 6(a)(6), Nov. 2, 1994, [108 Stat. 4583][/us/stat/108/4583]; [Pub. L. 104–333, div. I, title III][/us/pl/104/333/dI/tIII], § 306(a)–(c), Nov. 12, 1996, [110 Stat. 4132][/us/stat/110/4132].)
 
  __Amendments__ 
 
@@ -73,29 +73,29 @@
 
     1994—Subsec. (c). [Pub. L. 103–437][/us/pl/103/437] substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives” for “Committees on Interior and Insular Affairs of the United States Congress”.
 
-    1993—Subsec. (b). [Pub. L. 103–46, § 2(a)][/us/pl/103/46/s2/a], substituted “map entitled ‘Big Thicket National Preserve’, dated October 1992, and numbered 175–80008, which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior, and the offices of the Superintendent of the preserve. After advising the Committee on Energy and Natural Resources of the United States Senate and the Committee on Natural Resources of the United States House of Representatives, in writing, the Secretary of the Interior (hereafter referred to as the ‘Secretary’) may make minor revisions of the boundaries of the preserve when necessary by publication of a revised drawing or other boundary description in the Federal Register. The Secretary” for “map entitled ‘Big Thicket National Preserve’, dated November 1973 and numbered NBR–BT 91,027 which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior, Washington, District of Columbia, and shall be filed with appropriate offices of Tyler, Hardin, Jasper, Polk, Liberty, Jefferson, and Orange Counties in the State of Texas. The Secretary of the Interior (hereafter referred to as the ‘Secretary’)” and added undesignated pars. relating to Village Creek Corridor unit, Big Sandy Corridor unit, and Canyonlands unit.
+    1993—Subsec. (b). [Pub. L. 103–46][/us/pl/103/46], § 2(a), substituted “map entitled ‘Big Thicket National Preserve’, dated October 1992, and numbered 175–80008, which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior, and the offices of the Superintendent of the preserve. After advising the Committee on Energy and Natural Resources of the United States Senate and the Committee on Natural Resources of the United States House of Representatives, in writing, the Secretary of the Interior (hereafter referred to as the ‘Secretary’) may make minor revisions of the boundaries of the preserve when necessary by publication of a revised drawing or other boundary description in the Federal Register. The Secretary” for “map entitled ‘Big Thicket National Preserve’, dated November 1973 and numbered NBR–BT 91,027 which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior, Washington, District of Columbia, and shall be filed with appropriate offices of Tyler, Hardin, Jasper, Polk, Liberty, Jefferson, and Orange Counties in the State of Texas. The Secretary of the Interior (hereafter referred to as the ‘Secretary’)” and added undesignated pars. relating to Village Creek Corridor unit, Big Sandy Corridor unit, and Canyonlands unit.
 
-    Subsec. (c). [Pub. L. 103–46, § 2(b)(1)][/us/pl/103/46/s2/b/1], inserted first sentence and struck out former first sentence which read as follows: “The Secretary is authorized to acquire by donation, purchase with donated or appropriated funds, transfer from any other Federal agency, or exchange, any lands, waters, or interests therein which are located within the boundaries of the preserve: Provided, That any lands owned or acquired by the State of Texas, or any of its political subdivisions, may be acquired by donation only.”
+    Subsec. (c). [Pub. L. 103–46][/us/pl/103/46], § 2(b)(1), inserted first sentence and struck out former first sentence which read as follows: “The Secretary is authorized to acquire by donation, purchase with donated or appropriated funds, transfer from any other Federal agency, or exchange, any lands, waters, or interests therein which are located within the boundaries of the preserve: Provided, That any lands owned or acquired by the State of Texas, or any of its political subdivisions, may be acquired by donation only.”
 
-    Subsecs. (d) and (e). [Pub. L. 103–46, § 2(b)(2)][/us/pl/103/46/s2/b/2], added subsecs. (d) and (e).
+    Subsecs. (d) and (e). [Pub. L. 103–46][/us/pl/103/46], § 2(b)(2), added subsecs. (d) and (e).
 
     1984—Subsec. (c). [Pub. L. 98–489][/us/pl/98/489] authorized acquisition of acreage for a visitor contact and administrative site outside the boundaries of the preserve.
 
  __Short Title of 1993 Amendment__ 
 
-[Pub. L. 103–46, § 1][/us/pl/103/46/s1], July 1, 1993, [107 Stat. 229][/us/stat/107/229], provided that: 
+[Pub. L. 103–46][/us/pl/103/46], § 1, July 1, 1993, [107 Stat. 229][/us/stat/107/229], provided that: 
 
 > “This Act \[amending this section and [section 698e of this title][/us/usc/t16/s698e] and enacting provisions set out as a note below\] may be referred to as the ‘Big Thicket National Preserve Addition Act of 1993’.”
 
  __Reporting Requirement__ 
 
-[Pub. L. 104–333, div. I, title III, § 306(d)][/us/pl/104/333/s306/d], Nov. 12, 1996, [110 Stat. 4132][/us/stat/110/4132], as amended by [Pub. L. 106–176, title I, § 104(1)][/us/pl/106/176/s104/1], Mar. 10, 2000, [114 Stat. 25][/us/stat/114/25], provided that: 
+[Pub. L. 104–333, div. I, title III][/us/pl/104/333/dI/tIII], § 306(d), Nov. 12, 1996, [110 Stat. 4132][/us/stat/110/4132], as amended by [Pub. L. 106–176, title I][/us/pl/106/176/tI], § 104(1), Mar. 10, 2000, [114 Stat. 25][/us/stat/114/25], provided that: 
 
 > “Not later than 6 months after the date of the enactment of this Act \[Nov. 12, 1996\] and every 6 months thereafter until the earlier of the consummation of the exchange or July 1, 1998, the Secretary of the Interior and the Secretary of Agriculture shall each submit a report to the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives and the Committee on Energy and Natural Resources of the Senate concerning the progress in consummating the land exchange authorized by the amendments made by the Big Thicket National Preserve Addition Act of 1993 ([Public Law 103–46][/us/pl/103/46]) \[see Short Title of 1993 Amendment note above\].”
 
  __Land Exchange__ 
 
-[Pub. L. 104–333, div. I, title III, § 306(e)][/us/pl/104/333/s306/e]–(g), Nov. 12, 1996, [110 Stat. 4132][/us/stat/110/4132], as amended by [Pub. L. 106–176, title I, § 104(2)][/us/pl/106/176/s104/2], Mar. 10, 2000, [114 Stat. 25][/us/stat/114/25], provided that:
+[Pub. L. 104–333, div. I, title III][/us/pl/104/333/dI/tIII], § 306(e)–(g), Nov. 12, 1996, [110 Stat. 4132][/us/stat/110/4132], as amended by [Pub. L. 106–176, title I][/us/pl/106/176/tI], § 104(2), Mar. 10, 2000, [114 Stat. 25][/us/stat/114/25], provided that:
 
 >     “(e)  __Land Exchange in Liberty County, Texas__  __.—__ 
 
@@ -123,46 +123,46 @@
 
  __Publication of Boundary Description__ 
 
-[Pub. L. 103–46, § 1][/us/pl/103/46/s1], July 1, 1993, [107 Stat. 230][/us/stat/107/230], provided that: 
+[Pub. L. 103–46][/us/pl/103/46], § 1, July 1, 1993, [107 Stat. 230][/us/stat/107/230], provided that: 
 
 > “Not later than six months after the date of enactment of this subsection \[July 1, 1993\], the Secretary shall publish in the Federal Register a detailed description of the boundary of the Village Creek Corridor unit, the Big Sandy Corridor unit, and the Canyonlands unit of the Big Thicket National Preserve.”
 
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch6/m__us_usc_t16_s696b.md) | [Next](./../../../..//us/usc/t16/ch6/m__us_usc_t16_s698a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs698)
+[Previous](./../../../..//us/usc/t16/ch6/m__us_usc_t16_s697 _us_usc_t16_s697a.md) | [Next](./../../../..//us/usc/t16/ch6/m__us_usc_t16_s698a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs698)
 
 ----------
 ----------
 
-[/us/pl/93/439/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F439%2Fs1
+[/us/pl/93/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F439
 [/us/stat/88/1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1254
-[/us/pl/98/489/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F489%2Fs1%2Fa
+[/us/pl/98/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F489
 [/us/stat/98/2267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2267
-[/us/pl/103/46/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F46%2Fs2%2Fa
+[/us/pl/103/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F46
 [/us/stat/107/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F229
-[/us/pl/103/437/s6/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fa%2F6
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4583
-[/us/pl/104/333/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs306%2Fa
+[/us/pl/104/333/dI/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtIII
 [/us/stat/110/4132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4132
 [/us/pl/104/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
-[/us/pl/103/46/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F46%2Fs2%2Fa
-[/us/pl/103/46/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F46%2Fs2%2Fb%2F1
-[/us/pl/103/46/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F46%2Fs2%2Fb%2F2
+[/us/pl/103/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F46
+[/us/pl/103/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F46
+[/us/pl/103/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F46
 [/us/pl/98/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F489
-[/us/pl/103/46/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F46%2Fs1
+[/us/pl/103/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F46
 [/us/stat/107/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F229
 [/us/usc/t16/s698e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs698e
-[/us/pl/104/333/s306/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs306%2Fd
+[/us/pl/104/333/dI/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtIII
 [/us/stat/110/4132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4132
-[/us/pl/106/176/s104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs104%2F1
+[/us/pl/106/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2FtI
 [/us/stat/114/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F25
 [/us/pl/103/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F46
-[/us/pl/104/333/s306/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs306%2Fe
+[/us/pl/104/333/dI/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtIII
 [/us/stat/110/4132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4132
-[/us/pl/106/176/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs104%2F2
+[/us/pl/106/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2FtI
 [/us/stat/114/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F25
-[/us/pl/103/46/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F46%2Fs1
+[/us/pl/103/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F46
 [/us/stat/107/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F230
 
 

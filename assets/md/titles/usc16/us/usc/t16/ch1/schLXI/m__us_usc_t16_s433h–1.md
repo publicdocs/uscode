@@ -17,11 +17,11 @@
 
     The Secretary of the Interior is authorized and directed to acquire by purchase, condemnation, or otherwise, subject to the acreage limitation contained in [section 433g of this title][/us/usc/t16/s433g], the site known as the Bloody Marsh Battle memorial monument located on Saint Simon Island, Georgia, together with such additional land, including the marshland across the river to the west of Fort Frederica National Monument, or interest in land, as in the judgment of the Secretary of the Interior might be desirable for the protection of such national monument. Such lands or interest in lands acquired by the Secretary pursuant to this section shall be made a part of the Fort Frederica National Monument.
 
-([Pub. L. 85–401, § 2][/us/pl/85/401/s2], May 16, 1958, [72 Stat. 110][/us/stat/72/110].)
+([Pub. L. 85–401][/us/pl/85/401], § 2, May 16, 1958, [72 Stat. 110][/us/stat/72/110].)
 
  __Appropriations__ 
 
-[Pub. L. 85–401, § 3][/us/pl/85/401/s3], May 16, 1958, [72 Stat. 110][/us/stat/72/110], provided that: 
+[Pub. L. 85–401][/us/pl/85/401], § 3, May 16, 1958, [72 Stat. 110][/us/stat/72/110], provided that: 
 
 > “There are hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such amounts, not to exceed $20,000, as may be necessary to carry out the provisions of this Act \[this section\].”
 
@@ -33,9 +33,9 @@
 ----------
 
 [/us/usc/t16/s433g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs433g
-[/us/pl/85/401/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F401%2Fs2
+[/us/pl/85/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F401
 [/us/stat/72/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F110
-[/us/pl/85/401/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F401%2Fs3
+[/us/pl/85/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F401
 [/us/stat/72/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F110
 
 

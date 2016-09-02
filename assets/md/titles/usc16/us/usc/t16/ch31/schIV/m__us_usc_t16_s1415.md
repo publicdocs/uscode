@@ -31,11 +31,11 @@
 
     (7) any other information deemed relevant by the Secretary.
 
-([Pub. L. 92–522, title III, § 305][/us/pl/92/522/s305], as added [Pub. L. 105–42, § 6(c)][/us/pl/105/42/s6/c], Aug. 15, 1997, [111 Stat. 1134][/us/stat/111/1134].)
+([Pub. L. 92–522, title III][/us/pl/92/522/tIII], § 305, as added [Pub. L. 105–42][/us/pl/105/42], § 6(c), Aug. 15, 1997, [111 Stat. 1134][/us/stat/111/1134].)
 
  __Prior Provisions__ 
 
-    A prior section 1415, [Pub. L. 92–522, title III, § 305][/us/pl/92/522/s305], as added [Pub. L. 102–523, § 2(a)][/us/pl/102/523/s2/a], Oct. 26, 1992, [106 Stat. 3428][/us/stat/106/3428], related to international commitments, prior to repeal by [Pub. L. 105–42, § 6(c)][/us/pl/105/42/s6/c], Aug. 15, 1997, [111 Stat. 1130][/us/stat/111/1130].
+    A prior section 1415, [Pub. L. 92–522, title III][/us/pl/92/522/tIII], § 305, as added [Pub. L. 102–523][/us/pl/102/523], § 2(a), Oct. 26, 1992, [106 Stat. 3428][/us/stat/106/3428], related to international commitments, prior to repeal by [Pub. L. 105–42][/us/pl/105/42], § 6(c), Aug. 15, 1997, [111 Stat. 1130][/us/stat/111/1130].
 
     A prior [section 305 of Pub. L. 92–522][/us/pl/92/522/s305] was renumbered section 405 and is classified to [section 1421d of this title][/us/usc/t16/s1421d].
 
@@ -54,13 +54,13 @@
 [/us/usc/t16/s1414a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1414a
 [/us/usc/t16/s1371/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1371%2Fa%2F2%2FB
 [/us/usc/t16/s1371/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1371%2Fd
-[/us/pl/92/522/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs305
-[/us/pl/105/42/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs6%2Fc
+[/us/pl/92/522/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtIII
+[/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
 [/us/stat/111/1134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1134
-[/us/pl/92/522/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs305
-[/us/pl/102/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F523%2Fs2%2Fa
+[/us/pl/92/522/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtIII
+[/us/pl/102/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F523
 [/us/stat/106/3428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3428
-[/us/pl/105/42/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs6%2Fc
+[/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
 [/us/stat/111/1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1130
 [/us/pl/92/522/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs305
 [/us/usc/t16/s1421d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1421d

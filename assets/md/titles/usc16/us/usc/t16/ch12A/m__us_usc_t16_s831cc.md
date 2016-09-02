@@ -17,7 +17,7 @@
 
     The sections of this chapter are declared to be separable, and in the event any one or more sections of this chapter be held to be unconstitutional, the same shall not affect the validity of other sections of this chapter.
 
-([May 18, 1933, ch. 32, § 30][/us/act/1933-05-18/ch32/s30], [48 Stat. 72][/us/stat/48/72]; [Aug. 31, 1935, ch. 836, § 15][/us/act/1935-08-31/ch836/s15], [49 Stat. 1081][/us/stat/49/1081].)
+([May 18, 1933, ch. 32][/us/act/1933-05-18/ch32], § 30, [48 Stat. 72][/us/stat/48/72]; [Aug. 31, 1935, ch. 836][/us/act/1935-08-31/ch836], § 15, [49 Stat. 1081][/us/stat/49/1081].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1933-05-18/ch32/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32%2Fs30
+[/us/act/1933-05-18/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32
 [/us/stat/48/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F72
-[/us/act/1935-08-31/ch836/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-31%2Fch836%2Fs15
+[/us/act/1935-08-31/ch836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-31%2Fch836
 [/us/stat/49/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1081
 
 

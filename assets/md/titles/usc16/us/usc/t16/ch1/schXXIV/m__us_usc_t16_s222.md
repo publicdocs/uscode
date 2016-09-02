@@ -17,7 +17,7 @@
 
     The administration, protection, and promotion of Grand Canyon National Park shall be exercised under the direction of the Secretary of the Interior, by the National Park Service, subject to the provisions of the Act of August twenty-fifth, nineteen hundred and sixteen, entitled “An Act to establish a National Park Service, and for other purposes”. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  All concessions for hotels, camps, transportation, and other privileges of every kind and nature for the accommodation or entertainment of visitors shall be let at public bidding to the best and most responsible bidder. Under such terms and conditions as he deems advisable and consistent with the requirements of [section 9701 of title 31][/us/usc/t31/s9701], the Secretary is authorized, without derogation of any of the water rights of the United States and notwithstanding any provision of law to the contrary, to sell by contract water located within Grand Canyon National Park for the use of customers within Tusayan, Arizona, to a nonprofit entity authorized to receive and distribute water within Tusayan, Arizona by the laws of the State of Arizona, upon his determination that such sale is not detrimental to the protection of the resources of Grand Canyon National Park or its visitors and that appropriate measures to provide for such protection, including a right of immediate termination, are included in the transaction.
 
-([Feb. 26, 1919, ch. 44, § 2][/us/act/1919-02-26/ch44/s2], [40 Stat. 1177][/us/stat/40/1177]; [Pub. L. 95–586, title XII][/us/pl/95/586], Nov. 3, 1978, [92 Stat. 2495][/us/stat/92/2495].)
+([Feb. 26, 1919, ch. 44][/us/act/1919-02-26/ch44], § 2, [40 Stat. 1177][/us/stat/40/1177]; [Pub. L. 95–586, title XII][/us/pl/95/586/tXII], Nov. 3, 1978, [92 Stat. 2495][/us/stat/92/2495].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    “[Section 9701 of title 31][/us/usc/t31/s9701]” substituted in text for “[section 483a of title 31][/us/usc/t31/s483a]” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    “[Section 9701 of title 31][/us/usc/t31/s9701]” substituted in text for “[section 483a of title 31][/us/usc/t31/s483a]” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
@@ -47,9 +47,9 @@
 ----------
 
 [/us/usc/t31/s9701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9701
-[/us/act/1919-02-26/ch44/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-02-26%2Fch44%2Fs2
+[/us/act/1919-02-26/ch44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-02-26%2Fch44
 [/us/stat/40/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1177
-[/us/pl/95/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F586
+[/us/pl/95/586/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F586%2FtXII
 [/us/stat/92/2495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2495
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
@@ -60,7 +60,7 @@
 [/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/usc/t31/s9701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9701
 [/us/usc/t31/s483a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs483a
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/95/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F586
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262

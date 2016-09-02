@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to accept, on behalf of the United States, donations of land and interests in land in the States of North Carolina and Georgia, to construct thereon an extension of the Blue Ridge Parkway from the vicinity of Beech Gap, North Carolina, to the vicinity of Kennesaw Mountain National Battlefield Park north of Atlanta and Marietta, Georgia, and to provide public use, administration, and maintenance areas in connection therewith. The lands accepted for the parkway extension may vary in width but shall average not more than one hundred and twenty-five acres per mile in fee simple plus not more than twenty-five acres per mile in scenic easements. The survey location and width of any portion of the parkway extension that crosses national forest land shall be jointly determined by the Secretary of the Interior and the Secretary of Agriculture. Where the parkway extension designated by the Secretary of the Interior traverses Federal lands, the head of the department or agency having jurisdiction over such lands is authorized to transfer to the Secretary of the Interior the part of the Federal lands mutually agreed upon as necessary for the construction, maintenance and administration of the parkway extension and public use thereof, without transfer of funds. Any such transfer within a national forest shall not preclude any national forest use that is compatible with parkway use and that is agreed upon by the Secretary of the Interior and the Secretary of Agriculture.
 
-([Pub. L. 90–555, § 1][/us/pl/90/555/s1], Oct. 9, 1968, [82 Stat. 967][/us/stat/82/967].)
+([Pub. L. 90–555][/us/pl/90/555], § 1, Oct. 9, 1968, [82 Stat. 967][/us/stat/82/967].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/555/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F555%2Fs1
+[/us/pl/90/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F555
 [/us/stat/82/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F967
 
 

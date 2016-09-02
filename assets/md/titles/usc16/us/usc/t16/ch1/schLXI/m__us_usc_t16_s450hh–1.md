@@ -17,7 +17,7 @@
 
     Upon a determination by the Secretary of the Interior that sufficient land and interests in land situated on the island have been acquired by the United States for the establishment of a suitable national monument, such acquired property, and any Federal properties on the island that are not required for other public purposes, shall be established as the “Saint Croix Island International Historic Site”. An order of the Secretary of the Interior, constituting notice of such determination, shall be published in the Federal Register. Following establishment of the national monument, other properties situated upon the island may become a part of the monument upon acquisition of title to such properties by the United States, and Federal properties situated upon the island, upon a determination by the agency administering such Federal properties that they are no longer required by that agency, may be transferred to the Secretary of the Interior by such agency to become a part of the national monument. Notice of the addition of any such properties to the monument shall be published in the Federal Register by the Secretary of the Interior. There shall be excluded from the national monument, for such time as the United States Coast Guard shall consider it to be necessary, any portion of the island which is being used and which is required for the purposes of a Coast Guard light station.
 
-([June 8, 1949, ch. 180, § 2][/us/act/1949-06-08/ch180/s2], [63 Stat. 158][/us/stat/63/158]; [Pub. L. 98–422][/us/pl/98/422], Sept. 25, 1984, [98 Stat. 1615][/us/stat/98/1615].)
+([June 8, 1949, ch. 180][/us/act/1949-06-08/ch180], § 2, [63 Stat. 158][/us/stat/63/158]; [Pub. L. 98–422][/us/pl/98/422], Sept. 25, 1984, [98 Stat. 1615][/us/stat/98/1615].)
 
  __Change of Name__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/act/1949-06-08/ch180/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-08%2Fch180%2Fs2
+[/us/act/1949-06-08/ch180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-08%2Fch180
 [/us/stat/63/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F158
 [/us/pl/98/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F422
 [/us/stat/98/1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1615

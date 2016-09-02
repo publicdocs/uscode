@@ -17,7 +17,7 @@
 
     The Secretary of State, on behalf of the United States, shall seek to enhance the implementation and effectiveness of the United Nations General Assembly resolutions and decisions regarding the moratorium on large-scale driftnet fishing on the high seas through appropriate international agreements and organizations.
 
-([Pub. L. 104–43, title VI, § 604][/us/pl/104/43/s604], Nov. 3, 1995, [109 Stat. 392][/us/stat/109/392].)
+([Pub. L. 104–43, title VI][/us/pl/104/43/tVI], § 604, Nov. 3, 1995, [109 Stat. 392][/us/stat/109/392].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/104/43/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs604
+[/us/pl/104/43/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtVI
 [/us/stat/109/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F392
 
 

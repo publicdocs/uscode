@@ -27,7 +27,7 @@
 
         Any land acquired by the Secretary under this subchapter on which there is situated a cottage or hunting lodge which, on December 31, 1964, was under lease to any lessee or lessees shall, if such lease is in effect on the date such land is so acquired, be acquired by the Secretary subject to such lease and the right of such lessee or lessees to continue using the property covered by such lease in accordance with the provisions thereof. Upon the expiration of such lease, the Secretary shall have the authority to enter into a lease with such lessee or lessees authorizing them to continue using such cottage or lodge (as the case may be) for a term of not to exceed twenty-five years, or for a term ending at the death of such lessee or lessees, subject to such conditions as may be prescribed by the Secretary.
 
-([Pub. L. 89–668, § 11][/us/pl/89/668/s11], Oct. 15, 1966, [80 Stat. 925][/us/stat/80/925].)
+([Pub. L. 89–668][/us/pl/89/668], § 11, Oct. 15, 1966, [80 Stat. 925][/us/stat/80/925].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/89/668/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F668%2Fs11
+[/us/pl/89/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F668
 [/us/stat/80/925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F925
 
 

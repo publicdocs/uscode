@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch16B/m__us_usc_t16_ch16B.md) | [Next](./../../../..//us/usc/t16/ch16C/m__us_usc_t16_s973.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch16C)
+[Previous](./../../../..//us/usc/t16/ch16B/m__us_usc_t16_s972...972h.md) | [Next](./../../../..//us/usc/t16/ch16C/m__us_usc_t16_s973.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch16C)
 
 ## CHAPTER 16C—SOUTH PACIFIC TUNA FISHING
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs973" data-uslm-ref="/us/usc/t16/s973">973</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs973l" data-uslm-ref="/us/usc/t16/s973l">973l.</a>  </td>
 
     <td> Observers.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs973" data-uslm-ref="/us/usc/t16/s973">973</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs973o" data-uslm-ref="/us/usc/t16/s973o">973o.</a>  </td>
 
     <td> Disposition of fees, penalties, forfeitures, and other moneys.  </td>
 
@@ -179,7 +179,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch16B/m__us_usc_t16_ch16B.md) | [Next](./../../../..//us/usc/t16/ch16C/m__us_usc_t16_s973.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch16C)
+[Previous](./../../../..//us/usc/t16/ch16B/m__us_usc_t16_s972...972h.md) | [Next](./../../../..//us/usc/t16/ch16C/m__us_usc_t16_s973.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch16C)
 
 ----------
 ----------

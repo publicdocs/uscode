@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 101–512, title I, § 116][/us/pl/101/512/s116], Nov. 5, 1990, [104 Stat. 1937][/us/stat/104/1937], which related to disposal of unnecessary or duplicate museum objects and use of proceeds, was transferred and is set out as a note under [section 102501 of Title 54][/us/usc/t54/s102501], National Park Service and Related Programs.
+    Section, [Pub. L. 101–512, title I][/us/pl/101/512/tI], § 116, Nov. 5, 1990, [104 Stat. 1937][/us/stat/104/1937], which related to disposal of unnecessary or duplicate museum objects and use of proceeds, was transferred and is set out as a note under [section 102501 of Title 54][/us/usc/t54/s102501], National Park Service and Related Programs.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/512/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs116
+[/us/pl/101/512/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2FtI
 [/us/stat/104/1937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1937
 [/us/usc/t54/s102501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs102501
 

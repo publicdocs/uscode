@@ -97,23 +97,23 @@
 
         An action for response costs or damages under subsection (c) shall be barred unless the complaint is filed within 3 years after the date on which the Secretary completes a damage assessment and restoration plan for the sanctuary resources to which the action relates.
 
-([Pub. L. 92–532, title III, § 312][/us/pl/92/532/s312], as added [Pub. L. 100–627, title II, § 204(a)][/us/pl/100/627/s204/a], Nov. 7, 1988, [102 Stat. 3215][/us/stat/102/3215]; amended [Pub. L. 102–587, title II][/us/pl/102/587], §§ 2107(d), 2110, Nov. 4, 1992, [106 Stat. 5044][/us/stat/106/5044], 5045; [Pub. L. 104–283, § 9(e)][/us/pl/104/283/s9/e], Oct. 11, 1996, [110 Stat. 3367][/us/stat/110/3367]; [Pub. L. 106–513][/us/pl/106/513], §§ 13, 19(c), Nov. 13, 2000, [114 Stat. 2389][/us/stat/114/2389], 2393.)
+([Pub. L. 92–532, title III][/us/pl/92/532/tIII], § 312, as added [Pub. L. 100–627, title II][/us/pl/100/627/tII], § 204(a), Nov. 7, 1988, [102 Stat. 3215][/us/stat/102/3215]; amended [Pub. L. 102–587, title II][/us/pl/102/587/tII], §§ 2107(d), 2110, Nov. 4, 1992, [106 Stat. 5044][/us/stat/106/5044], 5045; [Pub. L. 104–283][/us/pl/104/283], § 9(e), Oct. 11, 1996, [110 Stat. 3367][/us/stat/110/3367]; [Pub. L. 106–513][/us/pl/106/513], §§ 13, 19(c), Nov. 13, 2000, [114 Stat. 2389][/us/stat/114/2389], 2393.)
 
  __References in Text__ 
 
-    Sections 4281–4289 of the Revised Statutes of the United States, referred to in subsec. (a)(4), were classified to sections 181 to 188 of the former Appendix to Title 46, Shipping, and section 175 of former Title 46. Sections 4281 to 4287 and 4289 of the Revised Statutes were repealed and restated in chapter 305 of Title 46, Shipping, by [Pub. L. 109–304][/us/pl/109/304], §§ 6(c), 19, Oct. 6, 2006, [120 Stat. 1509][/us/stat/120/1509], 1710. Section 4288 of the Revised Statutes (section 175 of former Title 46) was repealed by [act Oct. 9, 1940, ch. 777, § 7][/us/act/1940-10-09/ch777/s7], [54 Stat. 1028][/us/stat/54/1028]. For disposition of sections of the former Appendix to Title 46, see Disposition Table preceding [section 101 of Title 46][/us/usc/t46/s101].
+    Sections 4281–4289 of the Revised Statutes of the United States, referred to in subsec. (a)(4), were classified to sections 181 to 188 of the former Appendix to Title 46, Shipping, and section 175 of former Title 46. Sections 4281 to 4287 and 4289 of the Revised Statutes were repealed and restated in chapter 305 of Title 46, Shipping, by [Pub. L. 109–304][/us/pl/109/304], §§ 6(c), 19, Oct. 6, 2006, [120 Stat. 1509][/us/stat/120/1509], 1710. Section 4288 of the Revised Statutes (section 175 of former Title 46) was repealed by [act Oct. 9, 1940, ch. 777][/us/act/1940-10-09/ch777], § 7, [54 Stat. 1028][/us/stat/54/1028]. For disposition of sections of the former Appendix to Title 46, see Disposition Table preceding [section 101 of Title 46][/us/usc/t46/s101].
 
  __Codification__ 
 
-    In subsec. (a)(4), “[section 30706 of title 46][/us/usc/t46/s30706]” substituted for “[section 3 of the Act of February 13, 1893][/us/act/1893-02-13/s3],” on authority of [Pub. L. 109–304, § 18(c)][/us/pl/109/304/s18/c], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 30706 of Title 46][/us/usc/t46/s30706], Shipping.
+    In subsec. (a)(4), “[section 30706 of title 46][/us/usc/t46/s30706]” substituted for “[section 3 of the Act of February 13, 1893][/us/act/1893-02-13/s3],” on authority of [Pub. L. 109–304][/us/pl/109/304], § 18(c), Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 30706 of Title 46][/us/usc/t46/s30706], Shipping.
 
  __Amendments__ 
 
-    2000—Subsec. (a)(1). [Pub. L. 106–513, § 19(c)][/us/pl/106/513/s19/c], amended par. (1) heading.
+    2000—Subsec. (a)(1). [Pub. L. 106–513][/us/pl/106/513], § 19(c), amended par. (1) heading.
 
-    Subsec. (c). [Pub. L. 106–513, § 13(a)][/us/pl/106/513/s13/a], designated existing provisions as par. (1), struck out “in the United States district court for the appropriate district” after “civil action”, and added par. (2).
+    Subsec. (c). [Pub. L. 106–513][/us/pl/106/513], § 13(a), designated existing provisions as par. (1), struck out “in the United States district court for the appropriate district” after “civil action”, and added par. (2).
 
-    Subsec. (d)(1), (2). [Pub. L. 106–513, § 13(b)][/us/pl/106/513/s13/b], added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+    Subsec. (d)(1), (2). [Pub. L. 106–513][/us/pl/106/513], § 13(b), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
     “(1) Response costs and damage assessments.—Twenty percent of amounts recovered under this section, up to a maximum balance of $750,000, shall be used to finance response actions and damage assessments by the Secretary.
 
@@ -125,25 +125,25 @@
 
     “(C) to manage and improve any other national marine sanctuary.”
 
-    Subsec. (e). [Pub. L. 106–513, § 13(c)][/us/pl/106/513/s13/c], added subsec. (e).
+    Subsec. (e). [Pub. L. 106–513][/us/pl/106/513], § 13(c), added subsec. (e).
 
-    1996—Subsec. (b)(1). [Pub. L. 104–283][/us/pl/104/283] made technical amendment to directory language of [Pub. L. 102–587, § 2110(d)][/us/pl/102/587/s2110/d]. See 1992 Amendment note below.
+    1996—Subsec. (b)(1). [Pub. L. 104–283][/us/pl/104/283] made technical amendment to directory language of [Pub. L. 102–587][/us/pl/102/587], § 2110(d). See 1992 Amendment note below.
 
-    1992—Subsec. (a)(1). [Pub. L. 102–587, § 2110(a)][/us/pl/102/587/s2110/a], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In general.—Subject to paragraph (3), any person who destroys, causes the loss of, or injures any sanctuary resource is liable to the United States for response costs and damages resulting from such destruction, loss, or injury.”
+    1992—Subsec. (a)(1). [Pub. L. 102–587][/us/pl/102/587], § 2110(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In general.—Subject to paragraph (3), any person who destroys, causes the loss of, or injures any sanctuary resource is liable to the United States for response costs and damages resulting from such destruction, loss, or injury.”
 
-    Subsec. (a)(2). [Pub. L. 102–587, § 2110(b)][/us/pl/102/587/s2110/b], inserted at end “The amount of that liability shall constitute a maritime lien on the vessel and may be recovered in an action in rem in any district court of the United States that has jurisdiction over the vessel.”
+    Subsec. (a)(2). [Pub. L. 102–587][/us/pl/102/587], § 2110(b), inserted at end “The amount of that liability shall constitute a maritime lien on the vessel and may be recovered in an action in rem in any district court of the United States that has jurisdiction over the vessel.”
 
-    Subsec. (a)(4). [Pub. L. 102–587, § 2110(c)][/us/pl/102/587/s2110/c], added par. (4).
+    Subsec. (a)(4). [Pub. L. 102–587][/us/pl/102/587], § 2110(c), added par. (4).
 
-    Subsec. (b)(1). [Pub. L. 102–587, § 2110(d)][/us/pl/102/587/s2110/d], as amended by [Pub. L. 104–283][/us/pl/104/283], inserted “or authorize” after “undertake”.
+    Subsec. (b)(1). [Pub. L. 102–587][/us/pl/102/587], § 2110(d), as amended by [Pub. L. 104–283][/us/pl/104/283], inserted “or authorize” after “undertake”.
 
-    Subsec. (d). [Pub. L. 102–587, § 2107(d)(1)][/us/pl/102/587/s2107/d/1], struck out “and civil penalties under [section 1437 of this title][/us/usc/t16/s1437]” after “Secretary under this section”.
+    Subsec. (d). [Pub. L. 102–587][/us/pl/102/587], § 2107(d)(1), struck out “and civil penalties under [section 1437 of this title][/us/usc/t16/s1437]” after “Secretary under this section”.
 
     Subsec. (d)(3), (4). [Pub. L. 102–587][/us/pl/102/587], §§ 2107(d)(2), 2110(e), redesignated par. (4) as (3), inserted “the court decree or settlement agreement and” after “in accordance with”, and struck out former par. (3) which read as follows: “Amounts recovered under [section 1437 of this title][/us/usc/t16/s1437] in the form of civil penalties shall be used by the Secretary in accordance with [section 1437(e) of this title][/us/usc/t16/s1437/e] and paragraphs (2)(B) and (C) of this subsection.”
 
  __Effective Date__ 
 
-[Pub. L. 100–627, title II, § 204(c)][/us/pl/100/627/s204/c], Nov. 7, 1988, [102 Stat. 3217][/us/stat/102/3217], provided that: 
+[Pub. L. 100–627, title II][/us/pl/100/627/tII], § 204(c), Nov. 7, 1988, [102 Stat. 3217][/us/stat/102/3217], provided that: 
 
 > “Amounts in the form of damages received by the United States after November 30, 1986, for destruction or loss of, or injury to, a sanctuary resource (as that term is defined in section 302(8) of the Act \[[16 U.S.C. 1432(8)][/us/usc/t16/s1432/8]\] (as amended by this Act)) shall be subject to section 312 of the Act \[[16 U.S.C. 1443][/us/usc/t16/s1443]\] (as amended by this Act).”
 
@@ -158,42 +158,42 @@
 [/us/usc/t46/s30706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs30706
 [/us/usc/t16/s1432/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1432%2F6
 [/us/usc/t42/s9607/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9607%2Ff%2F1
-[/us/pl/92/532/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs312
-[/us/pl/100/627/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F627%2Fs204%2Fa
+[/us/pl/92/532/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2FtIII
+[/us/pl/100/627/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F627%2FtII
 [/us/stat/102/3215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3215
-[/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
+[/us/pl/102/587/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtII
 [/us/stat/106/5044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5044
-[/us/pl/104/283/s9/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283%2Fs9%2Fe
+[/us/pl/104/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283
 [/us/stat/110/3367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3367
 [/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
 [/us/stat/114/2389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2389
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1509
-[/us/act/1940-10-09/ch777/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-09%2Fch777%2Fs7
+[/us/act/1940-10-09/ch777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-09%2Fch777
 [/us/stat/54/1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1028
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
 [/us/usc/t46/s30706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs30706
 [/us/act/1893-02-13/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1893-02-13%2Fs3
-[/us/pl/109/304/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
 [/us/usc/t46/s30706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs30706
-[/us/pl/106/513/s19/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513%2Fs19%2Fc
-[/us/pl/106/513/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513%2Fs13%2Fa
-[/us/pl/106/513/s13/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513%2Fs13%2Fb
-[/us/pl/106/513/s13/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513%2Fs13%2Fc
+[/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
+[/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
+[/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
+[/us/pl/106/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F513
 [/us/pl/104/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283
-[/us/pl/102/587/s2110/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2110%2Fd
-[/us/pl/102/587/s2110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2110%2Fa
-[/us/pl/102/587/s2110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2110%2Fb
-[/us/pl/102/587/s2110/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2110%2Fc
-[/us/pl/102/587/s2110/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2110%2Fd
+[/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
+[/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
+[/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
+[/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
+[/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
 [/us/pl/104/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F283
-[/us/pl/102/587/s2107/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2107%2Fd%2F1
+[/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
 [/us/usc/t16/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1437
 [/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
 [/us/usc/t16/s1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1437
 [/us/usc/t16/s1437/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1437%2Fe
-[/us/pl/100/627/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F627%2Fs204%2Fc
+[/us/pl/100/627/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F627%2FtII
 [/us/stat/102/3217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3217
 [/us/usc/t16/s1432/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1432%2F8
 [/us/usc/t16/s1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1443

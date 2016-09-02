@@ -17,7 +17,7 @@
 
     All Federal agencies shall cooperate, to the fullest extent possible, with the Secretary of Commerce in preparing the study and recommendations required by [section 917a of this title][/us/usc/t16/s917a].
 
-([Pub. L. 94–532, § 4][/us/pl/94/532/s4], Oct. 17, 1976, [90 Stat. 2492][/us/stat/90/2492].)
+([Pub. L. 94–532][/us/pl/94/532], § 4, Oct. 17, 1976, [90 Stat. 2492][/us/stat/90/2492].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s917a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs917a
-[/us/pl/94/532/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F532%2Fs4
+[/us/pl/94/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F532
 [/us/stat/90/2492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2492
 
 

@@ -23,7 +23,7 @@
 
         The Secretary may acquire, by purchase from willing sellers, gift, or exchange, not more than 10 acres of land, including any improvements thereon, on the mainland to provide access to and administrative facilities for the scenic area.
 
-([Pub. L. 106–431, § 7][/us/pl/106/431/s7], Nov. 6, 2000, [114 Stat. 1907][/us/stat/114/1907].)
+([Pub. L. 106–431][/us/pl/106/431], § 7, Nov. 6, 2000, [114 Stat. 1907][/us/stat/114/1907].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/106/431/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F431%2Fs7
+[/us/pl/106/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F431
 [/us/stat/114/1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1907
 
 

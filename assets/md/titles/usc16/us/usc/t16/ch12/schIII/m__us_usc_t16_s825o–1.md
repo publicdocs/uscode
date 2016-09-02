@@ -23,7 +23,7 @@
 
         Any person who violates any provision of subchapter II or any provision of any rule or order thereunder shall be subject to a civil penalty of not more than $1,000,000 for each day that such violation continues. Such penalty shall be assessed by the Commission, after notice and opportunity for public hearing, in accordance with the same provisions as are applicable under [section 823b(d) of this title][/us/usc/t16/s823b/d] in the case of civil penalties assessed under [section 823b of this title][/us/usc/t16/s823b]. In determining the amount of a proposed penalty, the Commission shall take into consideration the seriousness of the violation and the efforts of such person to remedy the violation in a timely manner.
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. III, § 316A, as added [Pub. L. 102–486, title VII, § 725(b)][/us/pl/102/486/s725/b], Oct. 24, 1992, [106 Stat. 2920][/us/stat/106/2920]; amended [Pub. L. 109–58, title XII, § 1284(e)][/us/pl/109/58/s1284/e], Aug. 8, 2005, [119 Stat. 980][/us/stat/119/980].)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. III, § 316A, as added [Pub. L. 102–486, title VII][/us/pl/102/486/tVII], § 725(b), Oct. 24, 1992, [106 Stat. 2920][/us/stat/106/2920]; amended [Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1284(e), Aug. 8, 2005, [119 Stat. 980][/us/stat/119/980].)
 
  __Amendments__ 
 
@@ -43,9 +43,9 @@
 [/us/usc/t16/s823b/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs823b%2Fd
 [/us/usc/t16/s823b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs823b
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
-[/us/pl/102/486/s725/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs725%2Fb
+[/us/pl/102/486/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtVII
 [/us/stat/106/2920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2920
-[/us/pl/109/58/s1284/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1284%2Fe
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F980
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/102/486/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs731

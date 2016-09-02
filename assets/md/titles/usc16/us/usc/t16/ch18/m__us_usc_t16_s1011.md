@@ -47,7 +47,7 @@
 
         (2) the Secretary may require such other terms and conditions as are necessary to protect the public investment on private lands, provided such terms and conditions are mutually agreed to by the Secretary and the landowner.
 
-([Pub. L. 104–208, div. A, title I, § 101(d)][/us/pl/104/208/s101/d] \[title I, § 124\], Sept. 30, 1996, [110 Stat. 3009–181][/us/stat/110/3009-181], 3009–204; [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title I, § 136\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–266; [Pub. L. 108–7, div. F, title I, § 135][/us/pl/108/7/s135], Feb. 20, 2003, [117 Stat. 243][/us/stat/117/243].)
+([Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(d) \[title I, § 124\], Sept. 30, 1996, [110 Stat. 3009–181][/us/stat/110/3009-181], 3009–204; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title I, § 136\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–266; [Pub. L. 108–7, div. F, title I][/us/pl/108/7/dF/tI], § 135, Feb. 20, 2003, [117 Stat. 243][/us/stat/117/243].)
 
  __Codification__ 
 
@@ -61,7 +61,7 @@
 
  __Federal and State Cooperative Watershed Restoration and Protection__ 
 
-[Pub. L. 106–291, title III, § 331][/us/pl/106/291/s331], Oct. 11, 2000, [114 Stat. 996][/us/stat/114/996], as amended by [Pub. L. 108–447, div. E, title III, § 336][/us/pl/108/447/s336], Dec. 8, 2004, [118 Stat. 3102][/us/stat/118/3102]; [Pub. L. 111–88, div. A, title IV, § 422][/us/pl/111/88/s422], Oct. 30, 2009, [123 Stat. 2961][/us/stat/123/2961]; [Pub. L. 113–76, div. G, title IV, § 417][/us/pl/113/76/s417], Jan. 17, 2014, [128 Stat. 341][/us/stat/128/341], provided that:
+[Pub. L. 106–291, title III][/us/pl/106/291/tIII], § 331, Oct. 11, 2000, [114 Stat. 996][/us/stat/114/996], as amended by [Pub. L. 108–447, div. E, title III][/us/pl/108/447/dE/tIII], § 336, Dec. 8, 2004, [118 Stat. 3102][/us/stat/118/3102]; [Pub. L. 111–88, div. A, title IV][/us/pl/111/88/dA/tIV], § 422, Oct. 30, 2009, [123 Stat. 2961][/us/stat/123/2961]; [Pub. L. 113–76, div. G, title IV][/us/pl/113/76/dG/tIV], § 417, Jan. 17, 2014, [128 Stat. 341][/us/stat/128/341], provided that:
 
 >     “(a)  __Use of State Forest Service__  __.—__ 
 
@@ -85,7 +85,7 @@
 
  __Watershed Agreements__ 
 
-    [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title III, § 323\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–290, as amended, formerly set out as a note under this section, was transferred and is classified to [section 1011a of this title][/us/usc/t16/s1011a].
+    [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title III, § 323\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–290, as amended, formerly set out as a note under this section, was transferred and is classified to [section 1011a of this title][/us/usc/t16/s1011a].
 
 ----------
 
@@ -94,25 +94,25 @@
 ----------
 ----------
 
-[/us/pl/104/208/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fd
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-181
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
-[/us/pl/108/7/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs135
+[/us/pl/108/7/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtI
 [/us/stat/117/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F243
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/106/291/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2Fs331
+[/us/pl/106/291/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2FtIII
 [/us/stat/114/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F996
-[/us/pl/108/447/s336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs336
+[/us/pl/108/447/dE/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdE%2FtIII
 [/us/stat/118/3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3102
-[/us/pl/111/88/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F88%2Fs422
+[/us/pl/111/88/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F88%2FdA%2FtIV
 [/us/stat/123/2961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2961
-[/us/pl/113/76/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs417
+[/us/pl/113/76/dG/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdG%2FtIV
 [/us/stat/128/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F341
 [/us/usc/t16/s472a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs472a
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 [/us/usc/t16/s1011a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1011a
 

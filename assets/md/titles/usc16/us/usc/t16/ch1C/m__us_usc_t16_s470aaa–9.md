@@ -17,7 +17,7 @@
 
     As soon as practical after March 30, 2009, the Secretary shall issue such regulations as are appropriate to carry out this chapter, providing opportunities for public notice and comment.
 
-([Pub. L. 111–11, title VI, § 6310][/us/pl/111/11/s6310], Mar. 30, 2009, [123 Stat. 1177][/us/stat/123/1177].)
+([Pub. L. 111–11, title VI][/us/pl/111/11/tVI], § 6310, Mar. 30, 2009, [123 Stat. 1177][/us/stat/123/1177].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s6310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs6310
+[/us/pl/111/11/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVI
 [/us/stat/123/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1177
 
 

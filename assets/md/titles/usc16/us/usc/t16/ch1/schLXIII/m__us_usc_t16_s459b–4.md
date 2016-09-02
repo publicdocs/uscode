@@ -41,7 +41,7 @@
 
         the Secretary may, at any time and in his discretion, terminate the suspension of his authority to acquire such improved property by condemnation: Provided, however, That the Secretary may agree with the owner or owners of such property to refrain from the exercise of the said authority during such time and upon such terms and conditions as the Secretary may deem to be in the best interests of the development and preservation of the seashore.
 
-([Pub. L. 87–126, § 5][/us/pl/87/126/s5], Aug. 7, 1961, [75 Stat. 290][/us/stat/75/290].)
+([Pub. L. 87–126][/us/pl/87/126], § 5, Aug. 7, 1961, [75 Stat. 290][/us/stat/75/290].)
 
 ----------
 
@@ -53,7 +53,7 @@
 [/us/usc/t16/s459b–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459b%E2%80%933
 [/us/usc/t16/s459b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459b
 [/us/usc/t16/s459b–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459b%E2%80%933
-[/us/pl/87/126/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F126%2Fs5
+[/us/pl/87/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F126
 [/us/stat/75/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F290
 
 

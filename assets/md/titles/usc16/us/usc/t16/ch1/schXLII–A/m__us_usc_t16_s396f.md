@@ -17,11 +17,11 @@
 
     Notwithstanding any other provision of law, the Secretary of the Interior is authorized and shall seek to acquire the private lands described in [section 396d(a) of this title][/us/usc/t16/s396d/a], by crediting a surplus property account, to be established in the name of each landowner, in the amount of the acquisition price for such landowner’s lands. The National Park Service shall update the existing appraisals for the parcels and, based on the approved appraised values, shall negotiate with the landowners for acquisition prices. Each owner may, using such credits in his surplus property account, bid, as any other bidder for surplus property, wherever located, in accordance with chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41. The Administrator of the General Services Administration shall establish each landowner’s surplus property account and shall adjust the credits in such accounts to reflect successful bids under this section. Title to the lands described in this section shall pass to the Government at the time of establishment of the surplus property accounts. The credits in any of the surplus property accounts may be transferred or sold in whole or in part at any time by the landowner to any other party, thereby vesting such party with all the rights of the landowner, and after such transfer, the landowner shall notify the Administrator of the transfer. At any time the Secretary may purchase the balance of any surplus property account subject to the availability of appropriated funds. The land owner  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “landowner”. </sup></sup>  may also use the credits in exchange for excess lands, wherever located, under the jurisdiction of the Secretary of the Interior.
 
-([Pub. L. 98–146, title III, § 317][/us/pl/98/146/s317], Nov. 4, 1983, [97 Stat. 954][/us/stat/97/954]; [Pub. L. 101–121, title I][/us/pl/101/121], Oct. 23, 1989, [103 Stat. 708][/us/stat/103/708].)
+([Pub. L. 98–146, title III][/us/pl/98/146/tIII], § 317, Nov. 4, 1983, [97 Stat. 954][/us/stat/97/954]; [Pub. L. 101–121, title I][/us/pl/101/121/tI], Oct. 23, 1989, [103 Stat. 708][/us/stat/103/708].)
 
  __Codification__ 
 
-    In text, “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In text, “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -29,7 +29,7 @@
 
  __Use of Accounts for Sales of Properties by Agencies__ 
 
-[Pub. L. 101–165, title IX, § 9102][/us/pl/101/165/s9102], Nov. 21, 1989, [103 Stat. 1151][/us/stat/103/1151], as amended by [Pub. L. 101–511, title VIII, § 8133(b)][/us/pl/101/511/s8133/b], Nov. 5, 1990, [104 Stat. 1910][/us/stat/104/1910]; [Pub. L. 103–204, § 32(a)][/us/pl/103/204/s32/a], Dec. 17, 1993, [107 Stat. 2413][/us/stat/107/2413], provided that:
+[Pub. L. 101–165, title IX][/us/pl/101/165/tIX], § 9102, Nov. 21, 1989, [103 Stat. 1151][/us/stat/103/1151], as amended by [Pub. L. 101–511, title VIII][/us/pl/101/511/tVIII], § 8133(b), Nov. 5, 1990, [104 Stat. 1910][/us/stat/104/1910]; [Pub. L. 103–204][/us/pl/103/204], § 32(a), Dec. 17, 1993, [107 Stat. 2413][/us/stat/107/2413], provided that:
 
 >     “(a) __Availability of Amounts in Accounts.—__ 
 
@@ -83,20 +83,20 @@
 ----------
 
 [/us/usc/t16/s396d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs396d%2Fa
-[/us/pl/98/146/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F146%2Fs317
+[/us/pl/98/146/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F146%2FtIII
 [/us/stat/97/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F954
-[/us/pl/101/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121
+[/us/pl/101/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121%2FtI
 [/us/stat/103/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F708
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/101/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121
-[/us/pl/101/165/s9102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2Fs9102
+[/us/pl/101/165/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2FtIX
 [/us/stat/103/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1151
-[/us/pl/101/511/s8133/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F511%2Fs8133%2Fb
+[/us/pl/101/511/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F511%2FtVIII
 [/us/stat/104/1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1910
-[/us/pl/103/204/s32/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204%2Fs32%2Fa
+[/us/pl/103/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F204
 [/us/stat/107/2413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2413
 [/us/pl/94/204/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F204%2Fs12%2Fb
 [/us/usc/t43/s1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1611

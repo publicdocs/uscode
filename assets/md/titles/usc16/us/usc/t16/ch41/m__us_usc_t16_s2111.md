@@ -41,7 +41,7 @@
 
         Funds appropriated under the authority of the Acts, or portions thereof, repealed under subsection (a) of this section shall be available for expenditure for the programs authorized under this chapter.
 
-([Pub. L. 95–313, § 16][/us/pl/95/313/s16], formerly § 13, July 1, 1978, [92 Stat. 374][/us/stat/92/374]; renumbered § 16, [Pub. L. 101–624, title XII, § 1215(1)][/us/pl/101/624/s1215/1], Nov. 28, 1990, [104 Stat. 3525][/us/stat/104/3525].)
+([Pub. L. 95–313][/us/pl/95/313], § 16, formerly § 13, July 1, 1978, [92 Stat. 374][/us/stat/92/374]; renumbered § 16, [Pub. L. 101–624, title XII][/us/pl/101/624/tXII], § 1215(1), Nov. 28, 1990, [104 Stat. 3525][/us/stat/104/3525].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 
     The Rural Development Act of 1972, referred to in subsec. (a)(6), is [Pub. L. 92–419][/us/pl/92/419], Aug. 30, 1972, [86 Stat. 657][/us/stat/86/657], as amended. Title IV of the Rural Development Act of 1972 was classified generally to subchapter I (§ 2651 et seq.) of chapter 59 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 1972 Amendment note set out under [section 1921 of Title 7][/us/usc/t7/s1921] and Tables.
 
-    Section 1010 of the Agricultural Act of 1970, as added by the Agriculture and Consumer Protection Act of 1973, referred to in subsec. (a)(7), was classified to [section 1510 of this title][/us/usc/t16/s1510] prior to repeal by [Pub. L. 104–127, title III, § 336(d)(1)][/us/pl/104/127/s336/d/1], Apr. 4, 1996, [110 Stat. 1006][/us/stat/110/1006].
+    Section 1010 of the Agricultural Act of 1970, as added by the Agriculture and Consumer Protection Act of 1973, referred to in subsec. (a)(7), was classified to [section 1510 of this title][/us/usc/t16/s1510] prior to repeal by [Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 336(d)(1), Apr. 4, 1996, [110 Stat. 1006][/us/stat/110/1006].
 
 ----------
 
@@ -69,9 +69,9 @@
 [/us/usc/t16/s568e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs568e
 [/us/usc/t7/s2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2651
 [/us/usc/t16/s1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1509
-[/us/pl/95/313/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313%2Fs16
+[/us/pl/95/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313
 [/us/stat/92/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F374
-[/us/pl/101/624/s1215/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1215%2F1
+[/us/pl/101/624/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXII
 [/us/stat/104/3525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3525
 [/us/stat/54/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F168
 [/us/usc/t16/s594a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs594a
@@ -89,7 +89,7 @@
 [/us/stat/86/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F657
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
 [/us/usc/t16/s1510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1510
-[/us/pl/104/127/s336/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs336%2Fd%2F1
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1006
 
 

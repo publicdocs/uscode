@@ -27,7 +27,7 @@
 
         Within five years after October 26, 1988, the Secretary of the Interior (hereinafter in this subchapter referred to as the “Secretary”) shall submit to the Committee on Natural Resources of the United States House of Representatives and to the Committee on Energy and Natural Resources of the United States Senate a report containing any boundary modifications which the Secretary recommends, together with the reasons therefor.
 
-([Pub. L. 100–534, title II, § 201][/us/pl/100/534/s201], Oct. 26, 1988, [102 Stat. 2702][/us/stat/102/2702]; [Pub. L. 103–437, § 6(d)(21)][/us/pl/103/437/s6/d/21], Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
+([Pub. L. 100–534, title II][/us/pl/100/534/tII], § 201, Oct. 26, 1988, [102 Stat. 2702][/us/stat/102/2702]; [Pub. L. 103–437][/us/pl/103/437], § 6(d)(21), Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
 
  __References in Text__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/100/534/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F534%2Fs201
+[/us/pl/100/534/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F534%2FtII
 [/us/stat/102/2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2702
-[/us/pl/103/437/s6/d/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fd%2F21
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4584
 [/us/pl/100/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F534
 [/us/stat/102/2699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2699

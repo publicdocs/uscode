@@ -17,7 +17,7 @@
 
     Such acquisition by the United States shall in no case be defeated because of located or defined rights of way, easements, and reservations, which, from their nature will, in the opinion of the Secretary of Agriculture, in no manner interfere with the use of the lands so encumbered, for the purposes of this Act. Such rights of way, easements, and reservations retained by the owner from whom the United States receives title, shall be subject to the rules and regulations prescribed by the Secretary of Agriculture for their occupation, use, operation, protection, and administration, and such rules and regulations shall be expressed in and made part of the written instrument conveying title to the lands to the United States; and the use, occupation, and operation of such rights of way, easements, and reservations shall be under, subject to, and in obedience with the rules and regulations so expressed.
 
-([Mar. 1, 1911, ch. 186, § 9][/us/act/1911-03-01/ch186/s9], [36 Stat. 962][/us/stat/36/962]; [Mar. 4, 1913, ch. 145, § 1][/us/act/1913-03-04/ch145/s1] (part), [37 Stat. 855][/us/stat/37/855]; [Pub. L. 94–588, § 17(a)(5)][/us/pl/94/588/s17/a/5], Oct. 22, 1976, [90 Stat. 2962][/us/stat/90/2962].)
+([Mar. 1, 1911, ch. 186][/us/act/1911-03-01/ch186], § 9, [36 Stat. 962][/us/stat/36/962]; [Mar. 4, 1913, ch. 145][/us/act/1913-03-04/ch145], § 1 (part), [37 Stat. 855][/us/stat/37/855]; [Pub. L. 94–588][/us/pl/94/588], § 17(a)(5), Oct. 22, 1976, [90 Stat. 2962][/us/stat/90/2962].)
 
  __References in Text__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/act/1911-03-01/ch186/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-01%2Fch186%2Fs9
+[/us/act/1911-03-01/ch186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-01%2Fch186
 [/us/stat/36/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F962
-[/us/act/1913-03-04/ch145/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145%2Fs1
+[/us/act/1913-03-04/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145
 [/us/stat/37/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F855
-[/us/pl/94/588/s17/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588%2Fs17%2Fa%2F5
+[/us/pl/94/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588
 [/us/stat/90/2962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2962
 [/us/act/1911-03-01/ch186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-01%2Fch186
 [/us/stat/36/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F961

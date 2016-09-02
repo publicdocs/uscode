@@ -17,7 +17,7 @@
 
     No deed or instrument of conveyance in fee shall be accepted by the Secretary of the Interior under this subchapter unless the State in which the area lies shall have consented by law to the acquisition by the United States of lands in that State.
 
-([Feb. 18, 1929, ch. 257, § 7][/us/act/1929-02-18/ch257/s7], [45 Stat. 1223][/us/stat/45/1223]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; [Pub. L. 103–434, title XIII][/us/pl/103/434], Oct. 31, 1994, [108 Stat. 4565][/us/stat/108/4565].)
+([Feb. 18, 1929, ch. 257][/us/act/1929-02-18/ch257], § 7, [45 Stat. 1223][/us/stat/45/1223]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; [Pub. L. 103–434, title XIII][/us/pl/103/434/tXIII], Oct. 31, 1994, [108 Stat. 4565][/us/stat/108/4565].)
 
  __Amendments__ 
 
@@ -34,10 +34,10 @@
 ----------
 ----------
 
-[/us/act/1929-02-18/ch257/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-18%2Fch257%2Fs7
+[/us/act/1929-02-18/ch257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-18%2Fch257
 [/us/stat/45/1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1223
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
-[/us/pl/103/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F434
+[/us/pl/103/434/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F434%2FtXIII
 [/us/stat/108/4565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4565
 [/us/pl/103/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F434
 [/us/usc/t16/s715a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs715a

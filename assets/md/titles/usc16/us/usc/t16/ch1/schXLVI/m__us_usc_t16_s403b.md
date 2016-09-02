@@ -17,7 +17,7 @@
 
     The administration, protection, and development of the aforesaid parks shall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of the Act of August 25, 1916, entitled “An Act to establish a National Park Service, and for other purposes,”  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended: Provided, That the provisions of the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\] shall not apply to these parks: And provided further, That the minimum area to be administered and protected by the National Park Service shall be for the Shenandoah National Park area one hundred and sixty thousand acres and for the Great Smoky Mountains National Park area four hundred thousand acres: Provided further, That no general development of either of these areas shall be undertaken until a major portion of the remainder in such area shall have been accepted by said Secretary.
 
-([May 22, 1926, ch. 363, § 3][/us/act/1926-05-22/ch363/s3], [44 Stat. 616][/us/stat/44/616]; [Feb. 16, 1928, ch. 59, § 1][/us/act/1928-02-16/ch59/s1], [45 Stat. 109][/us/stat/45/109]; [Feb. 4, 1932, ch. 19, § 1][/us/act/1932-02-04/ch19/s1], [47 Stat. 37][/us/stat/47/37]; [June 15, 1934, ch. 538, § 1][/us/act/1934-06-15/ch538/s1], [48 Stat. 964][/us/stat/48/964].)
+([May 22, 1926, ch. 363][/us/act/1926-05-22/ch363], § 3, [44 Stat. 616][/us/stat/44/616]; [Feb. 16, 1928, ch. 59][/us/act/1928-02-16/ch59], § 1, [45 Stat. 109][/us/stat/45/109]; [Feb. 4, 1932, ch. 19][/us/act/1932-02-04/ch19], § 1, [47 Stat. 37][/us/stat/47/37]; [June 15, 1934, ch. 538][/us/act/1934-06-15/ch538], § 1, [48 Stat. 964][/us/stat/48/964].)
 
  __References in Text__ 
 
@@ -45,13 +45,13 @@
 ----------
 
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
-[/us/act/1926-05-22/ch363/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-22%2Fch363%2Fs3
+[/us/act/1926-05-22/ch363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-22%2Fch363
 [/us/stat/44/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F616
-[/us/act/1928-02-16/ch59/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-02-16%2Fch59%2Fs1
+[/us/act/1928-02-16/ch59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-02-16%2Fch59
 [/us/stat/45/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F109
-[/us/act/1932-02-04/ch19/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-02-04%2Fch19%2Fs1
+[/us/act/1932-02-04/ch19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-02-04%2Fch19
 [/us/stat/47/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F37
-[/us/act/1934-06-15/ch538/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-15%2Fch538%2Fs1
+[/us/act/1934-06-15/ch538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-15%2Fch538
 [/us/stat/48/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F964
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535

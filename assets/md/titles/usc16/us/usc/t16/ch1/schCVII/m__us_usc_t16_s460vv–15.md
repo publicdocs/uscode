@@ -17,7 +17,7 @@
 
     Subject to such limitations, conditions, or regulations as he may prescribe, the Secretary of Agriculture shall permit grazing on lands within the Ouachita National Forest, Le Flore County, Oklahoma.
 
-([Pub. L. 100–499, § 17][/us/pl/100/499/s17], Oct. 18, 1988, [102 Stat. 2499][/us/stat/102/2499].)
+([Pub. L. 100–499][/us/pl/100/499], § 17, Oct. 18, 1988, [102 Stat. 2499][/us/stat/102/2499].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/499/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F499%2Fs17
+[/us/pl/100/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F499
 [/us/stat/102/2499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2499
 
 

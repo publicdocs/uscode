@@ -17,7 +17,7 @@
 
     For the purposes of sections 567a to 567c of this title, there is authorized to be appropriated, a sum or sums out of any money in the Treasury not otherwise appropriated, not to exceed $5,000,000, as Congress may from time to time appropriate.
 
-([Aug. 29, 1935, ch. 808, § 3][/us/act/1935-08-29/ch808/s3], [49 Stat. 965][/us/stat/49/965].)
+([Aug. 29, 1935, ch. 808][/us/act/1935-08-29/ch808], § 3, [49 Stat. 965][/us/stat/49/965].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1935-08-29/ch808/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch808%2Fs3
+[/us/act/1935-08-29/ch808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch808
 [/us/stat/49/965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F965
 
 

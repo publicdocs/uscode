@@ -55,7 +55,7 @@ humboldt meridian, california
 
         In addition to the land described in subsections (a) and (c), the land identified as the King Range National Conservation Area Additions on the map entitled “King Range Wilderness” and dated November 12, 2004, is included in the Area.
 
-([Pub. L. 91–476, § 9][/us/pl/91/476/s9], Oct. 21, 1970, [84 Stat. 1070][/us/stat/84/1070]; [Pub. L. 94–579, title VI, § 602][/us/pl/94/579/s602], Oct. 21, 1976, [90 Stat. 2784][/us/stat/90/2784]; [Pub. L. 109–362, § 8][/us/pl/109/362/s8], Oct. 17, 2006, [120 Stat. 2071][/us/stat/120/2071].)
+([Pub. L. 91–476][/us/pl/91/476], § 9, Oct. 21, 1970, [84 Stat. 1070][/us/stat/84/1070]; [Pub. L. 94–579, title VI][/us/pl/94/579/tVI], § 602, Oct. 21, 1976, [90 Stat. 2784][/us/stat/90/2784]; [Pub. L. 109–362][/us/pl/109/362], § 8, Oct. 17, 2006, [120 Stat. 2071][/us/stat/120/2071].)
 
  __Amendments__ 
 
@@ -76,11 +76,11 @@ humboldt meridian, california
 
 [/us/usc/t16/s460y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460y
 [/us/usc/t16/s460y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460y
-[/us/pl/91/476/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F476%2Fs9
+[/us/pl/91/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F476
 [/us/stat/84/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1070
-[/us/pl/94/579/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2Fs602
+[/us/pl/94/579/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2FtVI
 [/us/stat/90/2784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2784
-[/us/pl/109/362/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F362%2Fs8
+[/us/pl/109/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F362
 [/us/stat/120/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2071
 [/us/pl/109/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F362
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579

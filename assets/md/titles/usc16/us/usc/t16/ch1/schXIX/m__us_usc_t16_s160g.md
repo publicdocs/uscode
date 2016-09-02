@@ -19,7 +19,7 @@
 
     (b) The seining of fish at Shoepac Lake by the State of Minnesota to secure eggs for propagation purposes shall be continued in accordance with plans mutually acceptable to the State and the Secretary.
 
-([Pub. L. 91–661, § 302][/us/pl/91/661/s302], Jan. 8, 1971, [84 Stat. 1972][/us/stat/84/1972].)
+([Pub. L. 91–661][/us/pl/91/661], § 302, Jan. 8, 1971, [84 Stat. 1972][/us/stat/84/1972].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/91/661/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F661%2Fs302
+[/us/pl/91/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F661
 [/us/stat/84/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1972
 
 

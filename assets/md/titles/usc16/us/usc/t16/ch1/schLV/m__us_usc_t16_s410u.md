@@ -17,7 +17,7 @@
 
     To provide further for the preservation and interpretation of historic sites, structures, and properties lying along the entire route or routes where significant events occurred on the 18th and 19th of April 1775, in the cities of Boston, Cambridge, Medford, and Somerville, and the towns of Arlington, Brookline, Concord, Lexington, and Lincoln, including the area generally described in [section 410s of this title][/us/usc/t16/s410s] as lying between Fiske Hill and the North Bridge, the Secretary of the Interior is authorized, in accordance with the purposes of this subchapter, to enter into cooperative agreements with the Commonwealth of Massachusetts, political subdivisions thereof, corporations, associations, or individuals, and to erect and maintain tablets or markers, in accordance with provisions contained in the Act approved August 21, 1935, entitled “An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes” ([49 Stat. 666][/us/stat/49/666]). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-([Pub. L. 86–321, § 3][/us/pl/86/321/s3], Sept. 21, 1959, [73 Stat. 591][/us/stat/73/591].)
+([Pub. L. 86–321][/us/pl/86/321], § 3, Sept. 21, 1959, [73 Stat. 591][/us/stat/73/591].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t16/s410s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410s
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
-[/us/pl/86/321/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F321%2Fs3
+[/us/pl/86/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F321
 [/us/stat/73/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F591
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
 [/us/act/1935-08-21/ch593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-21%2Fch593

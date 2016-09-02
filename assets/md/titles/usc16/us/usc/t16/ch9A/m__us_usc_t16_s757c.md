@@ -17,7 +17,7 @@
 
     Activities authorized by sections 757a to 757f of this title to be performed on lands administered by other Federal departments or agencies shall be carried out only with the prior approval of such departments or agencies.
 
-([Pub. L. 89–304, § 3][/us/pl/89/304/s3], Oct. 30, 1965, [79 Stat. 1126][/us/stat/79/1126].)
+([Pub. L. 89–304][/us/pl/89/304], § 3, Oct. 30, 1965, [79 Stat. 1126][/us/stat/79/1126].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/304/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F304%2Fs3
+[/us/pl/89/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F304
 [/us/stat/79/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1126
 
 

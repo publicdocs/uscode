@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed as preventing any of the Great Lakes States from making or enforcing laws or regulations within their respective jurisdictions so far as such laws or regulations do not conflict with the Convention or this chapter.
 
-([June 4, 1956, ch. 358, § 12][/us/act/1956-06-04/ch358/s12], [70 Stat. 244][/us/stat/70/244].)
+([June 4, 1956, ch. 358][/us/act/1956-06-04/ch358], § 12, [70 Stat. 244][/us/stat/70/244].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1956-06-04/ch358/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-04%2Fch358%2Fs12
+[/us/act/1956-06-04/ch358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-04%2Fch358
 [/us/stat/70/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F244
 
 

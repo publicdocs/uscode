@@ -17,7 +17,7 @@
 
     Within six months after October 31, 1994, the Secretary shall file maps and legal  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “a legal”. </sup></sup>  description of the park with the Committee on Energy and Natural Resources of the United States Senate and the Committee on Natural Resources of the United States House of Representatives. Such maps and legal description shall have the same force and effect as if included in this part, except that the Secretary may correct clerical and typographical errors in such legal description and maps. The maps and legal description shall be on file and available for public inspection in the appropriate offices of the National Park Service, Department of the Interior.
 
-([Pub. L. 103–433, title IV, § 404][/us/pl/103/433/s404], Oct. 31, 1994, [108 Stat. 4488][/us/stat/108/4488].)
+([Pub. L. 103–433, title IV][/us/pl/103/433/tIV], § 404, Oct. 31, 1994, [108 Stat. 4488][/us/stat/108/4488].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/433/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs404
+[/us/pl/103/433/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtIV
 [/us/stat/108/4488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4488
 
 

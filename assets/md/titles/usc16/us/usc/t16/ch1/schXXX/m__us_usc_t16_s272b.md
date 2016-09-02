@@ -45,7 +45,7 @@
 
             Any portion of a grazing lease, permit, or license with respect to land in the Lost Spring Canyon Addition shall be administered by the National Park Service.
 
-([Pub. L. 92–155, § 3][/us/pl/92/155/s3], Nov. 12, 1971, [85 Stat. 422][/us/stat/85/422]; [Pub. L. 105–329, § 2(c)][/us/pl/105/329/s2/c], Oct. 30, 1998, [112 Stat. 3060][/us/stat/112/3060].)
+([Pub. L. 92–155][/us/pl/92/155], § 3, Nov. 12, 1971, [85 Stat. 422][/us/stat/85/422]; [Pub. L. 105–329][/us/pl/105/329], § 2(c), Oct. 30, 1998, [112 Stat. 3060][/us/stat/112/3060].)
 
  __References in Text__ 
 
@@ -64,9 +64,9 @@
 
 [/us/stat/48/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1269
 [/us/usc/t43/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs315
-[/us/pl/92/155/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F155%2Fs3
+[/us/pl/92/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F155
 [/us/stat/85/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F422
-[/us/pl/105/329/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F329%2Fs2%2Fc
+[/us/pl/105/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F329
 [/us/stat/112/3060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3060
 [/us/act/1934-06-28/ch865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-28%2Fch865
 [/us/stat/48/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1269

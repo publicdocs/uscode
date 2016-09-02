@@ -49,15 +49,15 @@
 
         Prior to issuing a patent for an entry subject to this section, the Secretary shall identify and adjudicate any record entry or application for title to land described in the application, other than the Alaska Native Claims Settlement Act \[[43 U.S.C. 1601][/us/usc/t43/s1601] et seq.\], the Alaska Statehood Act, or the Act of May 17, 1906, as amended, which entry or application claims land also described in the application, and shall determine whether such entry or application represents a valid existing right to which the application is subject. Nothing in this section shall be construed to affect rights, if any, acquired by actual use of the described land prior to its withdrawal or classification, as affecting National Forest lands.
 
-([Pub. L. 96–487, title XIII, § 1328][/us/pl/96/487/s1328], Dec. 2, 1980, [94 Stat. 2489][/us/stat/94/2489].)
+([Pub. L. 96–487, title XIII][/us/pl/96/487/tXIII], § 1328, Dec. 2, 1980, [94 Stat. 2489][/us/stat/94/2489].)
 
  __References in Text__ 
 
-    Act of June 1, 1938 ([52 Stat. 609][/us/stat/52/609]), referred to in subsec. (a)(1), is [act June 1, 1938, ch. 317][/us/act/1938-06-01/ch317], [52 Stat. 609][/us/stat/52/609], which was classified to sections 682a to 682e of Title 43, Public Lands, was repealed by [Pub. L. 94–579, title VII, § 702][/us/pl/94/579/s702], Oct. 21, 1976, [90 Stat. 2787][/us/stat/90/2787], 2789.
+    Act of June 1, 1938 ([52 Stat. 609][/us/stat/52/609]), referred to in subsec. (a)(1), is [act June 1, 1938, ch. 317][/us/act/1938-06-01/ch317], [52 Stat. 609][/us/stat/52/609], which was classified to sections 682a to 682e of Title 43, Public Lands, was repealed by [Pub. L. 94–579, title VII][/us/pl/94/579/tVII], § 702, Oct. 21, 1976, [90 Stat. 2787][/us/stat/90/2787], 2789.
 
-    Act of May 3, 1927 ([44 Stat. 1364][/us/stat/44/1364]), referred to in subsec. (a)(1), probably means [act Mar. 3, 1927, ch. 323][/us/act/1927-03-03/ch323], [44 Stat. 1364][/us/stat/44/1364], which was classified to [section 687a of Title 43][/us/usc/t43/s687a], and was repealed by [Pub. L. 94–579, title VII, § 703(b)][/us/pl/94/579/s703/b], Oct. 21, 1976, [90 Stat. 2789][/us/stat/90/2789], 2791.
+    Act of May 3, 1927 ([44 Stat. 1364][/us/stat/44/1364]), referred to in subsec. (a)(1), probably means [act Mar. 3, 1927, ch. 323][/us/act/1927-03-03/ch323], [44 Stat. 1364][/us/stat/44/1364], which was classified to [section 687a of Title 43][/us/usc/t43/s687a], and was repealed by [Pub. L. 94–579, title VII][/us/pl/94/579/tVII], § 703(b), Oct. 21, 1976, [90 Stat. 2789][/us/stat/90/2789], 2791.
 
-    Act of May 14, 1898, referred to in subsec. (a)(1), is [act May 14, 1898, ch. 299][/us/act/1898-05-14/ch299], [30 Stat. 409][/us/stat/30/409], which is classified to sections 607a and 615a of this title, sections 270, 270–4, 687a, 687a–2, 687a–3, 687a–4, 687a–5, and 942–1 to 942–9 of Title 43, and [section 392 of Title 48][/us/usc/t48/s392], Territories and Insular Possessions. [Section 270 of Title 43][/us/usc/t43/s270] was repealed by [Pub. L. 94–579, title VII, § 703(a)][/us/pl/94/579/s703/a], Oct. 21, 1976, [90 Stat. 2789][/us/stat/90/2789]. [Section 270–4 of Title 43][/us/usc/t43/s270–4] was repealed by [Pub. L. 94–579, title VII, § 702][/us/pl/94/579/s702], Oct. 21, 1976, [90 Stat. 2787][/us/stat/90/2787]. Sections 687a and 687a–2 to 687a–5 of Title 43 were repealed by [Pub. L. 94–579, title VII][/us/pl/94/579], §§ 703(a), 704(a), Oct. 21, 1976, [90 Stat. 2789][/us/stat/90/2789], 2792. [Section 392 of Title 48][/us/usc/t48/s392] was eliminated from the Code as obsolete. For complete classification of this Act to the Code, see Tables.
+    Act of May 14, 1898, referred to in subsec. (a)(1), is [act May 14, 1898, ch. 299][/us/act/1898-05-14/ch299], [30 Stat. 409][/us/stat/30/409], which is classified to sections 607a and 615a of this title, sections 270, 270–4, 687a, 687a–2, 687a–3, 687a–4, 687a–5, and 942–1 to 942–9 of Title 43, and [section 392 of Title 48][/us/usc/t48/s392], Territories and Insular Possessions. [Section 270 of Title 43][/us/usc/t43/s270] was repealed by [Pub. L. 94–579, title VII][/us/pl/94/579/tVII], § 703(a), Oct. 21, 1976, [90 Stat. 2789][/us/stat/90/2789]. [Section 270–4 of Title 43][/us/usc/t43/s270–4] was repealed by [Pub. L. 94–579, title VII][/us/pl/94/579/tVII], § 702, Oct. 21, 1976, [90 Stat. 2787][/us/stat/90/2787]. Sections 687a and 687a–2 to 687a–5 of Title 43 were repealed by [Pub. L. 94–579, title VII][/us/pl/94/579/tVII], §§ 703(a), 704(a), Oct. 21, 1976, [90 Stat. 2789][/us/stat/90/2789], 2792. [Section 392 of Title 48][/us/usc/t48/s392] was eliminated from the Code as obsolete. For complete classification of this Act to the Code, see Tables.
 
     Act of March 3, 1891, referred to in subsec. (a)(1), is [act Mar. 3, 1891, ch. 561][/us/act/1891-03-03/ch561], [26 Stat. 1095][/us/stat/26/1095], which is classified to sections 161, 162, 165, 173, 174, 185, 202, 212, 321, 323, 325, 327 to 329, 663, 671, 687a–6, 718, 728, 732, 893, 946 to 949, 989, 1165, 1166, 1181, and 1197 of this title, sections 471, 607, 611, 611a, and 613 of Title 16, Conservation, [section 495 of Title 25][/us/usc/t25/s495], Indians, and sections 30, 36, 44, 45, 48; and 52 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Tables.
 
@@ -71,7 +71,7 @@
 
     The Alaska Statehood Act, referred to in subsec. (d), is [Pub. L. 85–508][/us/pl/85/508], July 7, 1958, [72 Stat. 339][/us/stat/72/339], as amended, which is set out as a note preceding [section 21 of Title 48][/us/usc/t48/s21], Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
-    Act of May 17, 1906, as amended, referred to in subsec. (d), is [act May 17, 1906, ch. 2469][/us/act/1906-05-17/ch2469], [34 Stat. 197][/us/stat/34/197], as amended, which was classified to sections 270–1 to 270–3 of Title 43, Public Lands, prior to its repeal by [Pub. L. 92–203, § 18(a)][/us/pl/92/203/s18/a], Dec. 18, 1971, [85 Stat. 710][/us/stat/85/710]. See [section 1617 of Title 43][/us/usc/t43/s1617].
+    Act of May 17, 1906, as amended, referred to in subsec. (d), is [act May 17, 1906, ch. 2469][/us/act/1906-05-17/ch2469], [34 Stat. 197][/us/stat/34/197], as amended, which was classified to sections 270–1 to 270–3 of Title 43, Public Lands, prior to its repeal by [Pub. L. 92–203][/us/pl/92/203], § 18(a), Dec. 18, 1971, [85 Stat. 710][/us/stat/85/710]. See [section 1617 of Title 43][/us/usc/t43/s1617].
 
 ----------
 
@@ -95,29 +95,29 @@
 [/us/usc/t16/s818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs818
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/96/487/s1328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1328
+[/us/pl/96/487/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXIII
 [/us/stat/94/2489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2489
 [/us/stat/52/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F609
 [/us/act/1938-06-01/ch317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-01%2Fch317
 [/us/stat/52/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F609
-[/us/pl/94/579/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2Fs702
+[/us/pl/94/579/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2FtVII
 [/us/stat/90/2787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2787
 [/us/stat/44/1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1364
 [/us/act/1927-03-03/ch323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch323
 [/us/stat/44/1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1364
 [/us/usc/t43/s687a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs687a
-[/us/pl/94/579/s703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2Fs703%2Fb
+[/us/pl/94/579/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2FtVII
 [/us/stat/90/2789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2789
 [/us/act/1898-05-14/ch299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1898-05-14%2Fch299
 [/us/stat/30/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F409
 [/us/usc/t48/s392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs392
 [/us/usc/t43/s270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs270
-[/us/pl/94/579/s703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2Fs703%2Fa
+[/us/pl/94/579/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2FtVII
 [/us/stat/90/2789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2789
 [/us/usc/t43/s270–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs270%E2%80%934
-[/us/pl/94/579/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2Fs702
+[/us/pl/94/579/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2FtVII
 [/us/stat/90/2787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2787
-[/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
+[/us/pl/94/579/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2FtVII
 [/us/stat/90/2789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2789
 [/us/usc/t48/s392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs392
 [/us/act/1891-03-03/ch561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch561
@@ -138,7 +138,7 @@
 [/us/usc/t48/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs21
 [/us/act/1906-05-17/ch2469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-05-17%2Fch2469
 [/us/stat/34/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F197
-[/us/pl/92/203/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203%2Fs18%2Fa
+[/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F710
 [/us/usc/t43/s1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1617
 

@@ -41,7 +41,7 @@ new mexico principal meridian, new mexico
 
     And the tract of land, including Rattlesnake Springs, lying in section 23, township 25 south, range 24 east, New Mexico principal meridian, acquired by the United States for water right purposes by warranty deed dated January 23, 1934, recorded in Eddy County, New Mexico, records in deedbook 64 on page 97, containing 79.87 acres, more or less.
 
-([Pub. L. 88–249, § 1][/us/pl/88/249/s1], Dec. 30, 1963, [77 Stat. 818][/us/stat/77/818].)
+([Pub. L. 88–249][/us/pl/88/249], § 1, Dec. 30, 1963, [77 Stat. 818][/us/stat/77/818].)
 
 ----------
 
@@ -50,7 +50,7 @@ new mexico principal meridian, new mexico
 ----------
 ----------
 
-[/us/pl/88/249/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F249%2Fs1
+[/us/pl/88/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F249
 [/us/stat/77/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F818
 
 

@@ -35,7 +35,7 @@
 
         Upon adoption of an international agreement as described in subsection (a), the Secretary shall provide notification of the agreement and recommendations for legislation to implement the agreement to the Committee on Merchant Marine and Fisheries and the Committee on Foreign Affairs in the House of Representatives and to the Committee on Foreign Relations and the Committee on Commerce, Science, and Transportation in the Senate.
 
-([Pub. L. 99–513, § 6][/us/pl/99/513/s6], Oct. 21, 1986, [100 Stat. 2083][/us/stat/100/2083].)
+([Pub. L. 99–513][/us/pl/99/513], § 6, Oct. 21, 1986, [100 Stat. 2083][/us/stat/100/2083].)
 
  __Abolition of House Committee on Merchant Marine and Fisheries__ 
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t16/s450rr–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450rr%E2%80%933
-[/us/pl/99/513/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F513%2Fs6
+[/us/pl/99/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F513
 [/us/stat/100/2083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2083
 [/us/pl/104/14/s1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fb%2F3
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

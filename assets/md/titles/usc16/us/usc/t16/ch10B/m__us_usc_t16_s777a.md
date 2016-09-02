@@ -33,7 +33,7 @@
 
     (3) the term “aquatic resource education program” means a program designed to enhance the public’s understanding of aquatic resources and sportfishing, and to promote the development of responsible attitudes and ethics toward the aquatic environment.
 
-([Aug. 9, 1950, ch. 658, § 2][/us/act/1950-08-09/ch658/s2], [64 Stat. 431][/us/stat/64/431]; [July 2, 1956, ch. 489, § 3][/us/act/1956-07-02/ch489/s3], [70 Stat. 473][/us/stat/70/473]; [Pub. L. 86–624, § 12][/us/pl/86/624/s12], July 12, 1960, [74 Stat. 413][/us/stat/74/413]; [Pub. L. 105–178, title VII, § 7402(a)][/us/pl/105/178/s7402/a], June 9, 1998, [112 Stat. 483][/us/stat/112/483].)
+([Aug. 9, 1950, ch. 658][/us/act/1950-08-09/ch658], § 2, [64 Stat. 431][/us/stat/64/431]; [July 2, 1956, ch. 489][/us/act/1956-07-02/ch489], § 3, [70 Stat. 473][/us/stat/70/473]; [Pub. L. 86–624][/us/pl/86/624], § 12, July 12, 1960, [74 Stat. 413][/us/stat/74/413]; [Pub. L. 105–178, title VII][/us/pl/105/178/tVII], § 7402(a), June 9, 1998, [112 Stat. 483][/us/stat/112/483].)
 
  __Amendments__ 
 
@@ -54,13 +54,13 @@
 ----------
 ----------
 
-[/us/act/1950-08-09/ch658/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch658%2Fs2
+[/us/act/1950-08-09/ch658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch658
 [/us/stat/64/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F431
-[/us/act/1956-07-02/ch489/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-02%2Fch489%2Fs3
+[/us/act/1956-07-02/ch489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-02%2Fch489
 [/us/stat/70/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F473
-[/us/pl/86/624/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs12
+[/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/stat/74/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F413
-[/us/pl/105/178/s7402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7402%2Fa
+[/us/pl/105/178/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtVII
 [/us/stat/112/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F483
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624

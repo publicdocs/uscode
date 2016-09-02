@@ -17,7 +17,7 @@
 
     Any person found guilty of violating any of the provisions of this Act or any rule or regulation that may be promulgated by the Secretary of the Interior with reference to the management and care of the park, or for the protection of the property therein, for the preservation from injury or spoliation of timber, natural curiosities, or other objects within said park, or for the protection of the animals, birds, and fish in said park, shall be deemed guilty of a misdemeanor, and shall be subjected to a fine of not more than $500 or imprisonment not exceeding six months or both.
 
-([July 3, 1926, ch. 744, § 5][/us/act/1926-07-03/ch744/s5], [44 Stat. 820][/us/stat/44/820].)
+([July 3, 1926, ch. 744][/us/act/1926-07-03/ch744], § 5, [44 Stat. 820][/us/stat/44/820].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1926-07-03/ch744/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-03%2Fch744%2Fs5
+[/us/act/1926-07-03/ch744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-03%2Fch744
 [/us/stat/44/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F820
 
 

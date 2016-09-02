@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as are necessary to carry out this subchapter.
 
-([Pub. L. 111–11, title II, § 2408][/us/pl/111/11/s2408], Mar. 30, 2009, [123 Stat. 1108][/us/stat/123/1108].)
+([Pub. L. 111–11, title II][/us/pl/111/11/tII], § 2408, Mar. 30, 2009, [123 Stat. 1108][/us/stat/123/1108].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs2408
+[/us/pl/111/11/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtII
 [/us/stat/123/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1108
 
 

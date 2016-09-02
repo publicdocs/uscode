@@ -39,7 +39,7 @@
 
         Such activities as are compatible with the provisions of this subchapter, but not limited to, timber harvesting by selective cutting, mining, and grazing may continue during development of the comprehensive management plan, at current levels of activity and in areas of such activity on December 31, 1975. Further, in development of the management plan, the Secretary shall give full consideration to continuation of these ongoing activities in their respective areas.
 
-([Pub. L. 94–199, § 8][/us/pl/94/199/s8], Dec. 31, 1975, [89 Stat. 1119][/us/stat/89/1119].)
+([Pub. L. 94–199][/us/pl/94/199], § 8, Dec. 31, 1975, [89 Stat. 1119][/us/stat/89/1119].)
 
  __Change of Name__ 
 
@@ -56,7 +56,7 @@
 
 [/us/usc/t16/s460gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460gg
 [/us/usc/t16/s1132/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132%2Fd
-[/us/pl/94/199/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F199%2Fs8
+[/us/pl/94/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F199
 [/us/stat/89/1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1119
 
 

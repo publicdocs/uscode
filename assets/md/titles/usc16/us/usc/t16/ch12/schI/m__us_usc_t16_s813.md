@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    “Subtitle IV of title 49” substituted in text for “the Act to regulate commerce, approved February 4, 1887, as amended” on authority of [Pub. L. 95–473, § 3(b)][/us/pl/95/473/s3/b], Oct. 17, 1978, [92 Stat. 1466][/us/stat/92/1466], the first section of which enacted subtitle IV of Title 49, Transportation.
+    “Subtitle IV of title 49” substituted in text for “the Act to regulate commerce, approved February 4, 1887, as amended” on authority of [Pub. L. 95–473][/us/pl/95/473], § 3(b), Oct. 17, 1978, [92 Stat. 1466][/us/stat/92/1466], the first section of which enacted subtitle IV of Title 49, Transportation.
 
 ----------
 
@@ -39,7 +39,7 @@
 [/us/stat/41/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1073
 [/us/act/1935-08-26/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-26%2Fch687
 [/us/stat/49/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F847
-[/us/pl/95/473/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473%2Fs3%2Fb
+[/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1466
 
 

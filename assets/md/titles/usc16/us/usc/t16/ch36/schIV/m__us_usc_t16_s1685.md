@@ -17,7 +17,7 @@
 
     The Secretary shall issue such regulations as the Secretary deems necessary to implement the provisions of this subchapter.
 
-([Pub. L. 96–554, § 6][/us/pl/96/554/s6], Dec. 19, 1980, [94 Stat. 3258][/us/stat/94/3258].)
+([Pub. L. 96–554][/us/pl/96/554], § 6, Dec. 19, 1980, [94 Stat. 3258][/us/stat/94/3258].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/554/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F554%2Fs6
+[/us/pl/96/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F554
 [/us/stat/94/3258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3258
 
 

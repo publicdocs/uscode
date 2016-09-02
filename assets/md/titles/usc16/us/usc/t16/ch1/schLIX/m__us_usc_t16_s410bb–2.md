@@ -23,7 +23,7 @@
 
         For purposes of administration, promotion, development, and support by appropriations, that part of the Klondike Gold Rush International Historical Park within the territory of the United States shall continue to be designated as the “Klondike Gold Rush National Historical Park”.
 
-([Pub. L. 94–323, § 3][/us/pl/94/323/s3], June 30, 1976, [90 Stat. 718][/us/stat/90/718].)
+([Pub. L. 94–323][/us/pl/94/323], § 3, June 30, 1976, [90 Stat. 718][/us/stat/90/718].)
 
  __Proc. No. 7114. Designating Klondike Gold Rush International Historical Park__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/94/323/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F323%2Fs3
+[/us/pl/94/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F323
 [/us/stat/90/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F718
 [/us/pl/94/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F323
 [/us/usc/t16/s410bb–2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410bb%E2%80%932%2Fa

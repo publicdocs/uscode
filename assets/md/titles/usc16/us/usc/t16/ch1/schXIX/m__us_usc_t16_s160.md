@@ -17,7 +17,7 @@
 
     The purpose of this subchapter is to preserve, for the inspiration and enjoyment of present and future generations, the outstanding scenery, geological conditions, and waterway system which constituted a part of the historic route of the Voyageurs who contributed significantly to the opening of the Northwestern United States.
 
-([Pub. L. 91–661, § 1][/us/pl/91/661/s1], Jan. 8, 1971, [84 Stat. 1970][/us/stat/84/1970].)
+([Pub. L. 91–661][/us/pl/91/661], § 1, Jan. 8, 1971, [84 Stat. 1970][/us/stat/84/1970].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/661/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F661%2Fs1
+[/us/pl/91/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F661
 [/us/stat/84/1970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1970
 
 

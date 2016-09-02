@@ -41,7 +41,7 @@
 
         The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the consultative committee established under this section.
 
-([Pub. L. 104–43, title II, § 208][/us/pl/104/43/s208], Nov. 3, 1995, [109 Stat. 380][/us/stat/109/380].)
+([Pub. L. 104–43, title II][/us/pl/104/43/tII], § 208, Nov. 3, 1995, [109 Stat. 380][/us/stat/109/380].)
 
  __References in Text__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/104/43/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs208
+[/us/pl/104/43/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtII
 [/us/stat/109/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F380
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

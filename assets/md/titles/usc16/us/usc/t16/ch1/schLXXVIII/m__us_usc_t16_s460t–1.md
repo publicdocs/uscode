@@ -29,7 +29,7 @@
 
         (2) As used in this subsection, the term “shoreline” means that land which borders both Yellowtail Reservoir and the exterior boundary of the Crow Indian Reservation, together with that part of the reservoir necessary to the development of the facilities referred to in this subsection.
 
-([Pub. L. 89–664, § 2][/us/pl/89/664/s2], Oct. 15, 1966, [80 Stat. 913][/us/stat/80/913].)
+([Pub. L. 89–664][/us/pl/89/664], § 2, Oct. 15, 1966, [80 Stat. 913][/us/stat/80/913].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/89/664/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F664%2Fs2
+[/us/pl/89/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F664
 [/us/stat/80/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F913
 
 

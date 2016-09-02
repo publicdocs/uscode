@@ -17,7 +17,7 @@
 
     The Secretary may renew a special recreational use permit applicable to lands included in the Wilderness Area to the extent that the Secretary determines that the permit is consistent with the Wilderness Act ([16 U.S.C. 1131][/us/usc/t16/s1131] et seq.). If renewal is not consistent with the Wilderness Act, the Secretary shall seek other opportunities for the permit holder through modification of the permit to realize historic permit use to the extent that the use is consistent with the Wilderness Act and this subchapter, as determined by the Secretary.
 
-([Pub. L. 106–399, title I, § 115][/us/pl/106/399/s115], Oct. 30, 2000, [114 Stat. 1663][/us/stat/114/1663].)
+([Pub. L. 106–399, title I][/us/pl/106/399/tI], § 115, Oct. 30, 2000, [114 Stat. 1663][/us/stat/114/1663].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
-[/us/pl/106/399/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2Fs115
+[/us/pl/106/399/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2FtI
 [/us/stat/114/1663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1663
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890

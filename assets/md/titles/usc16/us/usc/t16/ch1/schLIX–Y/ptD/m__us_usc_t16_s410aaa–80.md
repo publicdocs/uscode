@@ -17,7 +17,7 @@
 
     Lands and interests in lands acquired pursuant to this Act shall be appraised without regard to the presence of a species listed as threatened or endangered pursuant to the Endangered Species Act of 1973 ([16 U.S.C. 1531][/us/usc/t16/s1531] et seq.).
 
-([Pub. L. 103–433, title VII, § 710][/us/pl/103/433/s710], Oct. 31, 1994, [108 Stat. 4501][/us/stat/108/4501].)
+([Pub. L. 103–433, title VII][/us/pl/103/433/tVII], § 710, Oct. 31, 1994, [108 Stat. 4501][/us/stat/108/4501].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
-[/us/pl/103/433/s710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs710
+[/us/pl/103/433/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtVII
 [/us/stat/108/4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4501
 [/us/usc/t16/s410aaa–81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410aaa%E2%80%9381
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205

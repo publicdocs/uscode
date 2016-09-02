@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized in his discretion to permit, by license, lease, or other authorization, the use of necessary land in the Rocky Mountain National Park for the maintenance and operation in its present height and capacity, of the Arbuckle Number 2 Reservoir.
 
-([June 9, 1926, ch. 515, § 2][/us/act/1926-06-09/ch515/s2], [44 Stat. 714][/us/stat/44/714].)
+([June 9, 1926, ch. 515][/us/act/1926-06-09/ch515], § 2, [44 Stat. 714][/us/stat/44/714].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1926-06-09/ch515/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-06-09%2Fch515%2Fs2
+[/us/act/1926-06-09/ch515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-06-09%2Fch515
 [/us/stat/44/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F714
 
 

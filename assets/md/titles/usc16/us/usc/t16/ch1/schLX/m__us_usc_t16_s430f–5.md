@@ -45,7 +45,7 @@
 
         There are authorized to be appropriated $6,000,000 for development to carry out this section.
 
-([Pub. L. 104–333, div. I, title VI, § 602][/us/pl/104/333/s602], Nov. 12, 1996, [110 Stat. 4171][/us/stat/110/4171].)
+([Pub. L. 104–333, div. I, title VI][/us/pl/104/333/dI/tVI], § 602, Nov. 12, 1996, [110 Stat. 4171][/us/stat/110/4171].)
 
  __References in Text__ 
 
@@ -64,7 +64,7 @@
 
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
-[/us/pl/104/333/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs602
+[/us/pl/104/333/dI/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtVI
 [/us/stat/110/4171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4171
 [/us/pl/104/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333
 [/us/usc/t16/s469k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs469k

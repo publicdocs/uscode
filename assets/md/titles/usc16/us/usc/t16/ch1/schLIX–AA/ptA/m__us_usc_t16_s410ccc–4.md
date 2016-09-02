@@ -23,7 +23,7 @@
 
     (3) preservation and use plans for any sites and structures that are identified for National Park Service involvement through cooperative agreements.
 
-([Pub. L. 103–449, title III, § 306][/us/pl/103/449/s306], Nov. 2, 1994, [108 Stat. 4760][/us/stat/108/4760].)
+([Pub. L. 103–449, title III][/us/pl/103/449/tIII], § 306, Nov. 2, 1994, [108 Stat. 4760][/us/stat/108/4760].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t16/s410ccc–23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410ccc%E2%80%9323
-[/us/pl/103/449/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F449%2Fs306
+[/us/pl/103/449/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F449%2FtIII
 [/us/stat/108/4760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4760
 
 

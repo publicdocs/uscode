@@ -17,7 +17,7 @@
 
     All funds arising from the privileges granted under [section 495 of this title][/us/usc/t16/s495] shall be covered into the Treasury of the United States as provided by law.
 
-([Feb. 28, 1899, ch. 221, § 2][/us/act/1899-02-28/ch221/s2], [30 Stat. 908][/us/stat/30/908]; [Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], [34 Stat. 1270][/us/stat/34/1270].)
+([Feb. 28, 1899, ch. 221][/us/act/1899-02-28/ch221], § 2, [30 Stat. 908][/us/stat/30/908]; [Mar. 4, 1907, ch. 2907][/us/act/1907-03-04/ch2907], [34 Stat. 1270][/us/stat/34/1270].)
 
  __Codification__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t16/s495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs495
-[/us/act/1899-02-28/ch221/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-02-28%2Fch221%2Fs2
+[/us/act/1899-02-28/ch221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-02-28%2Fch221
 [/us/stat/30/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F908
 [/us/act/1907-03-04/ch2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2907
 [/us/stat/34/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F1270

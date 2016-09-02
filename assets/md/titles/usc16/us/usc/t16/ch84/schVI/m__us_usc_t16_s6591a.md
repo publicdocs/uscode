@@ -83,7 +83,7 @@
 
         There is authorized to be appropriated to carry out this section $200,000,000 for each of fiscal years 2014 through 2024.
 
-([Pub. L. 108–148, title VI, § 602][/us/pl/108/148/s602], as added [Pub. L. 113–79, title VIII, § 8204][/us/pl/113/79/s8204], Feb. 7, 2014, [128 Stat. 915][/us/stat/128/915].)
+([Pub. L. 108–148, title VI][/us/pl/108/148/tVI], § 602, as added [Pub. L. 113–79, title VIII][/us/pl/113/79/tVIII], § 8204, Feb. 7, 2014, [128 Stat. 915][/us/stat/128/915].)
 
 ----------
 
@@ -93,8 +93,8 @@
 ----------
 
 [/us/usc/t16/s6512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6512
-[/us/pl/108/148/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2Fs602
-[/us/pl/113/79/s8204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8204
+[/us/pl/108/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2FtVI
+[/us/pl/113/79/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVIII
 [/us/stat/128/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F915
 
 

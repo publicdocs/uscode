@@ -23,11 +23,11 @@
 
         The management plan shall identify partnership opportunities between the Secretary and other Federal, State, and local governments and the private sector for the development, use, and interpretation of properties within the park.
 
-([Pub. L. 102–419, title I, § 103][/us/pl/102/419/s103], Oct. 16, 1992, [106 Stat. 2142][/us/stat/106/2142].)
+([Pub. L. 102–419, title I][/us/pl/102/419/tI], § 103, Oct. 16, 1992, [106 Stat. 2142][/us/stat/106/2142].)
 
  __Codification__ 
 
-    In subsec. (a), “[section 100502 of title 54][/us/usc/t54/s100502]” substituted for “[section 12(b) of the Act of August 18, 1970][/us/act/1970-08-18/s12/b] ([16 U.S.C. 1a–7(b)][/us/usc/t16/s1a–7/b])” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (a), “[section 100502 of title 54][/us/usc/t54/s100502]” substituted for “[section 12(b) of the Act of August 18, 1970][/us/act/1970-08-18/s12/b] ([16 U.S.C. 1a–7(b)][/us/usc/t16/s1a–7/b])” on authority of [Pub. L. 113–287][/us/pl/113/287], § 6(e), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
 ----------
 
@@ -38,12 +38,12 @@
 
 [/us/usc/t54/s100502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100502
 [/us/usc/t16/s410ww–22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410ww%E2%80%9322
-[/us/pl/102/419/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F419%2Fs103
+[/us/pl/102/419/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F419%2FtI
 [/us/stat/106/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2142
 [/us/usc/t54/s100502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100502
 [/us/act/1970-08-18/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1970-08-18%2Fs12%2Fb
 [/us/usc/t16/s1a–7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%937%2Fb
-[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 
 

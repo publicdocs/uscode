@@ -23,7 +23,7 @@
 
         The Administrator and the Foundation may enter into such agreements as may be necessary to carry out the purposes of this chapter.
 
-([Pub. L. 114–113, div. O, title IX, § 903][/us/pl/114/113/s903], Dec. 18, 2015, [129 Stat. 3031][/us/stat/129/3031].)
+([Pub. L. 114–113, div. O, title IX][/us/pl/114/113/dO/tIX], § 903, Dec. 18, 2015, [129 Stat. 3031][/us/stat/129/3031].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/114/113/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs903
+[/us/pl/114/113/dO/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdO%2FtIX
 [/us/stat/129/3031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3031
 
 

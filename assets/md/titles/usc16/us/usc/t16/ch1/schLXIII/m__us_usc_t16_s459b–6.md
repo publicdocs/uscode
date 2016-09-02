@@ -31,7 +31,7 @@
 
         The Secretary shall not interfere with navigation of waters within the boundaries of the Cape Cod National Seashore by such means and in such areas as is now customary.
 
-([Pub. L. 87–126, § 7][/us/pl/87/126/s7], Aug. 7, 1961, [75 Stat. 291][/us/stat/75/291].)
+([Pub. L. 87–126][/us/pl/87/126], § 7, Aug. 7, 1961, [75 Stat. 291][/us/stat/75/291].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/stat/67/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F496
 [/us/usc/t16/s459b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459b
-[/us/pl/87/126/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F126%2Fs7
+[/us/pl/87/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F126
 [/us/stat/75/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F291
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408

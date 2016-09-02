@@ -57,7 +57,7 @@
 
         (3) describes improvements and reduction in bycatch and seabird interactions associated with implementing this section, as well as proposals to address remaining bycatch or seabird interaction problems.
 
-([Pub. L. 94–265, title III, § 316][/us/pl/94/265/s316], as added [Pub. L. 109–479, title I, § 116(a)][/us/pl/109/479/s116/a], Jan. 12, 2007, [120 Stat. 3605][/us/stat/120/3605].)
+([Pub. L. 94–265, title III][/us/pl/94/265/tIII], § 316, as added [Pub. L. 109–479, title I][/us/pl/109/479/tI], § 116(a), Jan. 12, 2007, [120 Stat. 3605][/us/stat/120/3605].)
 
  __References in Text__ 
 
@@ -74,8 +74,8 @@
 ----------
 ----------
 
-[/us/pl/94/265/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs316
-[/us/pl/109/479/s116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs116%2Fa
+[/us/pl/94/265/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2FtIII
+[/us/pl/109/479/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtI
 [/us/stat/120/3605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3605
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331

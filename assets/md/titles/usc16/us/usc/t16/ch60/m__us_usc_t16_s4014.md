@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of this chapter, any person who pays an assessment under this chapter may demand and shall promptly receive from the council a refund of such assessment. A demand for refund must be made in accordance with the procedures, and within such time, as shall be prescribed by the council and approved by the Secretary. Procedures to provide such a refund shall be established before any such assessment may be collected. Such procedures shall allow any person to request a refund for not less than ninety days from such collection, and provide that any such refund shall be made within sixty days after demand for such refund is made.
 
-([Pub. L. 99–659, title II, § 215][/us/pl/99/659/s215], Nov. 14, 1986, [100 Stat. 3728][/us/stat/100/3728].)
+([Pub. L. 99–659, title II][/us/pl/99/659/tII], § 215, Nov. 14, 1986, [100 Stat. 3728][/us/stat/100/3728].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/659/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs215
+[/us/pl/99/659/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtII
 [/us/stat/100/3728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3728
 
 

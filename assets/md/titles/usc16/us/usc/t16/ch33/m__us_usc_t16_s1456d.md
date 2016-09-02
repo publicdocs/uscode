@@ -17,7 +17,7 @@
 
     The Secretary shall establish a Coastal and Estuarine Land Conservation Program, for the purpose of protecting important coastal and estuarine areas that have significant conservation, recreation, ecological, historical, or aesthetic values, or that are threatened by conversion from their natural or recreational state to other uses: Provided further, That by September 30, 2002, the Secretary shall issue guidelines for this program delineating the criteria for grant awards: Provided further, That the Secretary shall distribute these funds in consultation with the States’ Coastal Zone Managers’ or Governors’ designated representatives based on demonstrated need and ability to successfully leverage funds, and shall give priority to lands which can be effectively managed and protected and which have significant ecological value: Provided further, That grants funded under this program shall require a 100 percent match from other sources.
 
-([Pub. L. 107–77, title II][/us/pl/107/77], Nov. 28, 2001, [115 Stat. 776][/us/stat/115/776].)
+([Pub. L. 107–77, title II][/us/pl/107/77/tII], Nov. 28, 2001, [115 Stat. 776][/us/stat/115/776].)
 
  __Codification__ 
 
@@ -25,7 +25,7 @@
 
  __Similar Provisions__ 
 
-[Pub. L. 108–7, div. B, title II][/us/pl/108/7], Feb. 20, 2003, [117 Stat. 75][/us/stat/117/75], provided in part: 
+[Pub. L. 108–7, div. B, title II][/us/pl/108/7/dB/tII], Feb. 20, 2003, [117 Stat. 75][/us/stat/117/75], provided in part: 
 
 > “That the Secretary shall establish a Coastal and Estuarine Land Conservation Program, for the purpose of protecting important coastal and estuarine areas that have significant conservation, recreation, ecological, historical, or aesthetic values, or that are threatened by conversion from their natural or recreational state to other uses”.
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/107/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77
+[/us/pl/107/77/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2FtII
 [/us/stat/115/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F776
-[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdB%2FtII
 [/us/stat/117/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F75
 
 

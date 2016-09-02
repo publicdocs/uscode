@@ -73,7 +73,7 @@
 
         The term “special recreation permit fee” means the fee authorized by [section 6802(h) of this title][/us/usc/t16/s6802/h].
 
-([Pub. L. 108–447, div. J, title VIII, § 802][/us/pl/108/447/s802], Dec. 8, 2004, [118 Stat. 3377][/us/stat/118/3377].)
+([Pub. L. 108–447, div. J, title VIII][/us/pl/108/447/dJ/tVIII], § 802, Dec. 8, 2004, [118 Stat. 3377][/us/stat/118/3377].)
 
  __References in Text__ 
 
@@ -83,7 +83,7 @@
 
  __Short Title__ 
 
-[Pub. L. 108–447, div. J, title VIII, § 801(a)][/us/pl/108/447/s801/a], Dec. 8, 2004, [118 Stat. 3377][/us/stat/118/3377], provided that: 
+[Pub. L. 108–447, div. J, title VIII][/us/pl/108/447/dJ/tVIII], § 801(a), Dec. 8, 2004, [118 Stat. 3377][/us/stat/118/3377], provided that: 
 
 > “This title \[enacting this chapter, amending section 460l–6a of this title, repealing sections 3911, 5982, and 5991 to 5995 of this title, and repealing provisions set out as a note under 460l–6a of this title\] may be cited as the ‘Federal Lands Recreation Enhancement Act’.”
 
@@ -100,12 +100,12 @@
 [/us/usc/t16/s6804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6804
 [/us/usc/t16/s6806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6806
 [/us/usc/t16/s6802/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6802%2Fh
-[/us/pl/108/447/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs802
+[/us/pl/108/447/dJ/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtVIII
 [/us/stat/118/3377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3377
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/stat/118/3377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3377
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
-[/us/pl/108/447/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs801%2Fa
+[/us/pl/108/447/dJ/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtVIII
 [/us/stat/118/3377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3377
 
 

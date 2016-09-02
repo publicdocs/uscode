@@ -19,7 +19,7 @@
 
     (b) Each State may use the funds apportioned to it under section 669c(c)  <sup>\[1\]</sup>  <sup><sup> 1 Probably means section 669c(c) relating to apportionment of certain taxes. </sup></sup>  of this title to pay up to 75 per centum of the costs of a hunter safety program and the construction, operation, and maintenance of public target ranges, as a part of such program. The non-Federal share of such costs may be derived from license fees paid by hunters, but not from other Federal grant programs. The Secretary shall issue not later than the 120th day after the effective date of this subsection such regulations as he deems advisable relative to the criteria for the establishment of hunter safety programs and public target ranges under this subsection.
 
-([Sept. 2, 1937, ch. 899, § 8][/us/act/1937-09-02/ch899/s8], [50 Stat. 919][/us/stat/50/919]; [July 24, 1946, ch. 605, § 2][/us/act/1946-07-24/ch605/s2], [60 Stat. 656][/us/stat/60/656]; [Aug. 12, 1955, ch. 861, § 2][/us/act/1955-08-12/ch861/s2], [69 Stat. 698][/us/stat/69/698]; [Pub. L. 91–503, title I, § 102][/us/pl/91/503/s102], Oct. 23, 1970, [84 Stat. 1100][/us/stat/84/1100]; [Pub. L. 92–558, title I, § 102(a)][/us/pl/92/558/s102/a], Oct. 25, 1972, [86 Stat. 1173][/us/stat/86/1173]; [Pub. L. 106–408, title I, § 111(c)][/us/pl/106/408/s111/c], Nov. 1, 2000, [114 Stat. 1766][/us/stat/114/1766]; [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title IX, § 902(g)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–124.)
+([Sept. 2, 1937, ch. 899][/us/act/1937-09-02/ch899], § 8, [50 Stat. 919][/us/stat/50/919]; [July 24, 1946, ch. 605][/us/act/1946-07-24/ch605], § 2, [60 Stat. 656][/us/stat/60/656]; [Aug. 12, 1955, ch. 861][/us/act/1955-08-12/ch861], § 2, [69 Stat. 698][/us/stat/69/698]; [Pub. L. 91–503, title I][/us/pl/91/503/tI], § 102, Oct. 23, 1970, [84 Stat. 1100][/us/stat/84/1100]; [Pub. L. 92–558, title I][/us/pl/92/558/tI], § 102(a), Oct. 25, 1972, [86 Stat. 1173][/us/stat/86/1173]; [Pub. L. 106–408, title I][/us/pl/106/408/tI], § 111(c), Nov. 1, 2000, [114 Stat. 1766][/us/stat/114/1766]; [Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title IX, § 902(g)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–124.)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 
  __Effective Date of 1972 Amendment__ 
 
-[Pub. L. 92–558, title I, § 102(b)][/us/pl/92/558/s102/b], Oct. 25, 1972, [86 Stat. 1173][/us/stat/86/1173], provided that: 
+[Pub. L. 92–558, title I][/us/pl/92/558/tI], § 102(b), Oct. 25, 1972, [86 Stat. 1173][/us/stat/86/1173], provided that: 
 
 > “The amendments made by subsection (a) of this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 25, 1972\].”
 
@@ -53,19 +53,19 @@
 ----------
 
 [/us/usc/t16/s669a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs669a
-[/us/act/1937-09-02/ch899/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-02%2Fch899%2Fs8
+[/us/act/1937-09-02/ch899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-02%2Fch899
 [/us/stat/50/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F919
-[/us/act/1946-07-24/ch605/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-24%2Fch605%2Fs2
+[/us/act/1946-07-24/ch605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-24%2Fch605
 [/us/stat/60/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F656
-[/us/act/1955-08-12/ch861/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-12%2Fch861%2Fs2
+[/us/act/1955-08-12/ch861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-12%2Fch861
 [/us/stat/69/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F698
-[/us/pl/91/503/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F503%2Fs102
+[/us/pl/91/503/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F503%2FtI
 [/us/stat/84/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1100
-[/us/pl/92/558/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F558%2Fs102%2Fa
+[/us/pl/92/558/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F558%2FtI
 [/us/stat/86/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1173
-[/us/pl/106/408/s111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2Fs111%2Fc
+[/us/pl/106/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2FtI
 [/us/stat/114/1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1766
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
 [/us/pl/91/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F503
 [/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
@@ -74,7 +74,7 @@
 [/us/usc/t16/s669c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs669c%2Fb
 [/us/pl/92/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F558
 [/us/pl/91/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F503
-[/us/pl/92/558/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F558%2Fs102%2Fb
+[/us/pl/92/558/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F558%2FtI
 [/us/stat/86/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1173
 
 

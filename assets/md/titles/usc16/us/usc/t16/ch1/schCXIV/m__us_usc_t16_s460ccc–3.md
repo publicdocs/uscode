@@ -37,7 +37,7 @@
 
         Subject to [section 460ccc–5 of this title][/us/usc/t16/s460ccc–5], nothing in this subchapter is intended to alter the requirements of [section 1782 of title 43][/us/usc/t43/s1782], or section 5(a) of the National Forest and Public Lands of Nevada Enhancement Act of 1988 ([102 Stat. 2751][/us/stat/102/2751]), as those requirements apply to the lands within, or adjacent to the conservation area as of November 16, 1990.
 
-([Pub. L. 101–621, § 5][/us/pl/101/621/s5], Nov. 16, 1990, [104 Stat. 3343][/us/stat/104/3343]; [Pub. L. 103–437, § 6(d)(23)][/us/pl/103/437/s6/d/23], Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584]; [Pub. L. 103–450, § 2(a)][/us/pl/103/450/s2/a], Nov. 2, 1994, [108 Stat. 4766][/us/stat/108/4766].)
+([Pub. L. 101–621][/us/pl/101/621], § 5, Nov. 16, 1990, [104 Stat. 3343][/us/stat/104/3343]; [Pub. L. 103–437][/us/pl/103/437], § 6(d)(23), Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584]; [Pub. L. 103–450][/us/pl/103/450], § 2(a), Nov. 2, 1994, [108 Stat. 4766][/us/stat/108/4766].)
 
  __References in Text__ 
 
@@ -64,11 +64,11 @@
 [/us/usc/t16/s460ccc–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460ccc%E2%80%935
 [/us/usc/t43/s1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1782
 [/us/stat/102/2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2751
-[/us/pl/101/621/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F621%2Fs5
+[/us/pl/101/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F621
 [/us/stat/104/3343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3343
-[/us/pl/103/437/s6/d/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fd%2F23
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4584
-[/us/pl/103/450/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F450%2Fs2%2Fa
+[/us/pl/103/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F450
 [/us/stat/108/4766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4766
 [/us/pl/96/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95
 [/us/stat/93/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F721

@@ -17,7 +17,7 @@
 
     Except as provided in [section 410aaa–26 of this title][/us/usc/t16/s410aaa–26], none of the lands within the boundaries of the wilderness or park areas designated under this Act shall be granted to or otherwise made available for use by the Metropolitan Water District or any other agencies or persons pursuant to the Boulder Canyon Project Act ([43 U.S.C. 617–619b][/us/usc/t43/s617–619b]) or any similar Acts.
 
-([Pub. L. 103–433, title VII, § 703][/us/pl/103/433/s703], Oct. 31, 1994, [108 Stat. 4497][/us/stat/108/4497].)
+([Pub. L. 103–433, title VII][/us/pl/103/433/tVII], § 703, Oct. 31, 1994, [108 Stat. 4497][/us/stat/108/4497].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t16/s410aaa–26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410aaa%E2%80%9326
 [/us/usc/t43/s617–619b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs617%E2%80%93619b
-[/us/pl/103/433/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs703
+[/us/pl/103/433/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtVII
 [/us/stat/108/4497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4497
 [/us/usc/t16/s410aaa–81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410aaa%E2%80%9381
 [/us/act/1928-12-21/ch42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-12-21%2Fch42

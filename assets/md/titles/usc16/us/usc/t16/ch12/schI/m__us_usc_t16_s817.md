@@ -19,7 +19,7 @@
 
     (2) No person may commence any significant modification of any project licensed under, or exempted from, this chapter unless such modification is authorized in accordance with terms and conditions of such license or exemption and the applicable requirements of this subchapter. As used in this paragraph, the term “commence” refers to the beginning of physical on-site activity other than surveys or testing.
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. I, § 23(b), [41 Stat. 1075][/us/stat/41/1075]; renumbered pt. I and amended, [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, §§ 210, 212, [49 Stat. 846][/us/stat/49/846], 847; [Pub. L. 99–495, § 6][/us/pl/99/495/s6], Oct. 16, 1986, [100 Stat. 1248][/us/stat/100/1248].)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. I, § 23(b), [41 Stat. 1075][/us/stat/41/1075]; renumbered pt. I and amended, [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, §§ 210, 212, [49 Stat. 846][/us/stat/49/846], 847; [Pub. L. 99–495][/us/pl/99/495], § 6, Oct. 16, 1986, [100 Stat. 1248][/us/stat/100/1248].)
 
  __Codification__ 
 
@@ -46,7 +46,7 @@
 [/us/stat/41/1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1075
 [/us/act/1935-08-26/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-26%2Fch687
 [/us/stat/49/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F846
-[/us/pl/99/495/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495%2Fs6
+[/us/pl/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495
 [/us/stat/100/1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1248
 [/us/usc/t16/s816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs816
 [/us/pl/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495

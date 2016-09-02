@@ -77,7 +77,7 @@
 
         (2) Any such lands so acquired shall become a part of such conservation system unit.
 
-([Pub. L. 96–487, title XIII, § 1302][/us/pl/96/487/s1302], Dec. 2, 1980, [94 Stat. 2474][/us/stat/94/2474]; [Pub. L. 100–395, title II, § 201][/us/pl/100/395/s201], Aug. 16, 1988, [102 Stat. 981][/us/stat/102/981].)
+([Pub. L. 96–487, title XIII][/us/pl/96/487/tXIII], § 1302, Dec. 2, 1980, [94 Stat. 2474][/us/stat/94/2474]; [Pub. L. 100–395, title II][/us/pl/100/395/tII], § 201, Aug. 16, 1988, [102 Stat. 981][/us/stat/102/981].)
 
  __References in Text__ 
 
@@ -96,9 +96,9 @@
 ----------
 ----------
 
-[/us/pl/96/487/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1302
+[/us/pl/96/487/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXIII
 [/us/stat/94/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2474
-[/us/pl/100/395/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F395%2Fs201
+[/us/pl/100/395/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F395%2FtII
 [/us/stat/102/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F981
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371

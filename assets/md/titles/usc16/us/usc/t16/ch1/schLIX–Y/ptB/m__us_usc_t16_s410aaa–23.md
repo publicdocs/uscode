@@ -17,7 +17,7 @@
 
     On October 31, 1994, the Secretary shall transfer the lands under the jurisdiction of the Bureau of Land Management depicted on the maps described in [section 410aaa–22 of this title][/us/usc/t16/s410aaa–22], without consideration, to the administrative jurisdiction of the National Park Service for administration as part of the National Park System. The boundaries of the park shall be adjusted accordingly. The Secretary shall administer the areas added to the park by this part in accordance with the provisions of law generally applicable to units of the National Park System, including the Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916 ([39 Stat. 535][/us/stat/39/535]; [16 U.S.C. 1][/us/usc/t16/s1], 2–4). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-([Pub. L. 103–433, title IV, § 403][/us/pl/103/433/s403], Oct. 31, 1994, [108 Stat. 4488][/us/stat/108/4488].)
+([Pub. L. 103–433, title IV][/us/pl/103/433/tIV], § 403, Oct. 31, 1994, [108 Stat. 4488][/us/stat/108/4488].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 [/us/usc/t16/s410aaa–22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410aaa%E2%80%9322
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
-[/us/pl/103/433/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs403
+[/us/pl/103/433/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtIV
 [/us/stat/108/4488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4488
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1

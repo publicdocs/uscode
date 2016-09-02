@@ -73,13 +73,13 @@
 
         Funds expended by the Secretary in carrying out the provisions of this part shall be nonreimbursable under the Federal reclamation laws (the Act of June 17, 1902 ([32 Stat. 388][/us/stat/32/388], chapter 1093; [43 U.S.C. 371][/us/usc/t43/s371]), <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  and Acts supplementary thereto and amendatory thereof).
 
-([Pub. L. 102–575, title XXVIII, § 2805][/us/pl/102/575/s2805], Oct. 30, 1992, [106 Stat. 4692][/us/stat/106/4692].)
+([Pub. L. 102–575, title XXVIII][/us/pl/102/575/tXXVIII], § 2805, Oct. 30, 1992, [106 Stat. 4692][/us/stat/106/4692].)
 
  __References in Text__ 
 
     This part, referred to in subsec. (d), was in the original “this title”, meaning title XXVIII of [Pub. L. 102–575][/us/pl/102/575], Oct. 30, 1992, [106 Stat. 4690][/us/stat/106/4690], which enacted sections 460l–31 to 460l–34 of this title and amended sections 460l–13 to 460l–15 and 460l–18 of this title.
 
-    Act of June 17, 1902, referred to in subsec. (d), is [act June 17, 1902, ch. 1093][/us/act/1902-06-17/ch1093], [32 Stat. 388][/us/stat/32/388], popularly known as the Reclamation Act, which is classified generally to chapter 12 (§ 371 et seq.) of Title 43, Public Lands. However, [section 371 of Title 43][/us/usc/t43/s371] is [act Dec. 5, 1924, ch. 4, § 4][/us/act/1924-12-05/ch4/s4], subsec. A, [43 Stat. 701][/us/stat/43/701]. For complete classification of act June 17, 1902, to the Code, see Short Title note set out under [section 371 of Title 43][/us/usc/t43/s371] and Tables.
+    Act of June 17, 1902, referred to in subsec. (d), is [act June 17, 1902, ch. 1093][/us/act/1902-06-17/ch1093], [32 Stat. 388][/us/stat/32/388], popularly known as the Reclamation Act, which is classified generally to chapter 12 (§ 371 et seq.) of Title 43, Public Lands. However, [section 371 of Title 43][/us/usc/t43/s371] is [act Dec. 5, 1924, ch. 4][/us/act/1924-12-05/ch4], § 4, subsec. A, [43 Stat. 701][/us/stat/43/701]. For complete classification of act June 17, 1902, to the Code, see Short Title note set out under [section 371 of Title 43][/us/usc/t43/s371] and Tables.
 
 ----------
 
@@ -90,14 +90,14 @@
 
 [/us/stat/32/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F388
 [/us/usc/t43/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs371
-[/us/pl/102/575/s2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575%2Fs2805
+[/us/pl/102/575/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575%2FtXXVIII
 [/us/stat/106/4692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4692
 [/us/pl/102/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575
 [/us/stat/106/4690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4690
 [/us/act/1902-06-17/ch1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-06-17%2Fch1093
 [/us/stat/32/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F388
 [/us/usc/t43/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs371
-[/us/act/1924-12-05/ch4/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-12-05%2Fch4%2Fs4
+[/us/act/1924-12-05/ch4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-12-05%2Fch4
 [/us/stat/43/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F701
 [/us/usc/t43/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs371
 

@@ -49,7 +49,7 @@
 
         The Secretary shall conduct comprehensive appraisals under this section, to be completed by December 31, 2010, and December 31, 2015. The Secretary may make such additional interim appraisals as the Secretary considers appropriate.
 
-([Pub. L. 95–192, § 5][/us/pl/95/192/s5], Nov. 18, 1977, [91 Stat. 1408][/us/stat/91/1408]; [Pub. L. 99–198, title XII, § 1252(a)][/us/pl/99/198/s1252/a], Dec. 23, 1985, [99 Stat. 1516][/us/stat/99/1516]; [Pub. L. 110–234, title II, § 2804(b)][/us/pl/110/234/s2804/b], May 22, 2008, [122 Stat. 1086][/us/stat/122/1086]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2804(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1814; [Pub. L. 113–79, title II, § 2508(b)][/us/pl/113/79/s2508/b], Feb. 7, 2014, [128 Stat. 756][/us/stat/128/756].)
+([Pub. L. 95–192][/us/pl/95/192], § 5, Nov. 18, 1977, [91 Stat. 1408][/us/stat/91/1408]; [Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1252(a), Dec. 23, 1985, [99 Stat. 1516][/us/stat/99/1516]; [Pub. L. 110–234, title II][/us/pl/110/234/tII], § 2804(b), May 22, 2008, [122 Stat. 1086][/us/stat/122/1086]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title II, § 2804(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1814; [Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2508(b), Feb. 7, 2014, [128 Stat. 756][/us/stat/128/756].)
 
  __Codification__ 
 
@@ -57,15 +57,15 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(4). [Pub. L. 113–79, § 2508(b)(1)][/us/pl/113/79/s2508/b/1], substituted “, State, and tribal” for “and State”.
+    2014—Subsec. (a)(4). [Pub. L. 113–79][/us/pl/113/79], § 2508(b)(1), substituted “, State, and tribal” for “and State”.
 
-    Subsec. (b). [Pub. L. 113–79, § 2508(b)(2)][/us/pl/113/79/s2508/b/2], inserted “, tribal” after “State” in two places.
+    Subsec. (b). [Pub. L. 113–79][/us/pl/113/79], § 2508(b)(2), inserted “, tribal” after “State” in two places.
 
-    Subsec. (c). [Pub. L. 113–79, § 2508(b)(3)][/us/pl/113/79/s2508/b/3], substituted “State and tribal soil” for “State soil” and “local, tribal,” for “local”.
+    Subsec. (c). [Pub. L. 113–79][/us/pl/113/79], § 2508(b)(3), substituted “State and tribal soil” for “State soil” and “local, tribal,” for “local”.
 
-    2008—Subsec. (a)(7). [Pub. L. 110–246, § 2804(b)(1)][/us/pl/110/246/s2804/b/1], added par. (7).
+    2008—Subsec. (a)(7). [Pub. L. 110–246][/us/pl/110/246], § 2804(b)(1), added par. (7).
 
-    Subsecs. (d), (e). [Pub. L. 110–246, § 2804(b)(2)][/us/pl/110/246/s2804/b/2]–(4), added subsec. (d), redesignated former subsec. (d) as (e), and substituted “The Secretary shall conduct comprehensive appraisals under this section, to be completed by December 31, 2010, and December 31, 2015.” for “The Secretary shall conduct four comprehensive appraisals under this section, to be completed by December 31, 1979, December 31, 1986, December 31, 1995, and December 31, 2005, respectively.”
+    Subsecs. (d), (e). [Pub. L. 110–246][/us/pl/110/246], § 2804(b)(2)–(4), added subsec. (d), redesignated former subsec. (d) as (e), and substituted “The Secretary shall conduct comprehensive appraisals under this section, to be completed by December 31, 2010, and December 31, 2015.” for “The Secretary shall conduct four comprehensive appraisals under this section, to be completed by December 31, 1979, December 31, 1986, December 31, 1995, and December 31, 2005, respectively.”
 
     1985—Subsec. (d). [Pub. L. 99–198][/us/pl/99/198] amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The appraisal shall be completed by December 31, 1979, and at each five-year interval thereafter during the period this chapter is in effect.”
 
@@ -84,25 +84,25 @@
 ----------
 ----------
 
-[/us/pl/95/192/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F192%2Fs5
+[/us/pl/95/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F192
 [/us/stat/91/1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1408
-[/us/pl/99/198/s1252/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1252%2Fa
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
 [/us/stat/99/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1516
-[/us/pl/110/234/s2804/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2804%2Fb
+[/us/pl/110/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtII
 [/us/stat/122/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1086
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s2508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2508%2Fb
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F756
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s2508/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2508%2Fb%2F1
-[/us/pl/113/79/s2508/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2508%2Fb%2F2
-[/us/pl/113/79/s2508/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2508%2Fb%2F3
-[/us/pl/110/246/s2804/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2804%2Fb%2F1
-[/us/pl/110/246/s2804/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2804%2Fb%2F2
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

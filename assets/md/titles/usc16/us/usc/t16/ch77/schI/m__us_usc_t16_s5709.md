@@ -25,7 +25,7 @@
 
     (4) $400,000 in each of fiscal years 1996, 1997, 1998, and 1999 to be contributed to the Yukon River Restoration and Enhancement Fund and used in accordance with the Agreement.
 
-([Pub. L. 104–43, title VII, § 710][/us/pl/104/43/s710], Nov. 3, 1995, [109 Stat. 395][/us/stat/109/395].)
+([Pub. L. 104–43, title VII][/us/pl/104/43/tVII], § 710, Nov. 3, 1995, [109 Stat. 395][/us/stat/109/395].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/104/43/s710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs710
+[/us/pl/104/43/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtVII
 [/us/stat/109/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F395
 
 

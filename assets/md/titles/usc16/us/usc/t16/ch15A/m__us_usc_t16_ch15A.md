@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch15/m__us_usc_t16_ch15.md) | [Next](./../../../..//us/usc/t16/ch15A/m__us_usc_t16_s931.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch15A)
+[Previous](./../../../..//us/usc/t16/ch15/m__us_usc_t16_s921...923.md) | [Next](./../../../..//us/usc/t16/ch15A/m__us_usc_t16_s931.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch15A)
 
 ## CHAPTER 15A—GREAT LAKES FISHERIES
 
@@ -123,7 +123,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch15/m__us_usc_t16_ch15.md) | [Next](./../../../..//us/usc/t16/ch15A/m__us_usc_t16_s931.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch15A)
+[Previous](./../../../..//us/usc/t16/ch15/m__us_usc_t16_s921...923.md) | [Next](./../../../..//us/usc/t16/ch15A/m__us_usc_t16_s931.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch15A)
 
 ----------
 ----------

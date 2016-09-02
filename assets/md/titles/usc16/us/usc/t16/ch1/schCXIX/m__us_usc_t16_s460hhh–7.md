@@ -17,7 +17,7 @@
 
     In order to encourage unified and cost-effective management and interpretation of natural and cultural resources in southern Nevada, the Secretary may enter into cooperative agreements with other Federal, State, and local agencies, and with nonprofit entities, that provide for the management and interpretation of natural and cultural resources.
 
-([Pub. L. 103–63, § 9][/us/pl/103/63/s9], Aug. 4, 1993, [107 Stat. 300][/us/stat/107/300].)
+([Pub. L. 103–63][/us/pl/103/63], § 9, Aug. 4, 1993, [107 Stat. 300][/us/stat/107/300].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/63/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F63%2Fs9
+[/us/pl/103/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F63
 [/us/stat/107/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F300
 
 

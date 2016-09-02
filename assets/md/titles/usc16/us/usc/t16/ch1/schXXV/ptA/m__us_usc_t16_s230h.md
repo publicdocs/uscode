@@ -17,7 +17,7 @@
 
     The area described in the Act of October 9, 1962 ([76 Stat. 755][/us/stat/76/755]), as the “Chalmette National Historical Park” is hereby redesignated as the Chalmette Unit of the Jean Lafitte National Historical Park and Preserve. Any references to the Chalmette National Historical Park shall be deemed to be references to said Chalmette Unit.
 
-([Pub. L. 95–625, title IX, § 909][/us/pl/95/625/s909], Nov. 10, 1978, [92 Stat. 3538][/us/stat/92/3538]; [Pub. L. 111–11, title VII, § 7105(f)(2)(B)][/us/pl/111/11/s7105/f/2/B], Mar. 30, 2009, [123 Stat. 1193][/us/stat/123/1193].)
+([Pub. L. 95–625, title IX][/us/pl/95/625/tIX], § 909, Nov. 10, 1978, [92 Stat. 3538][/us/stat/92/3538]; [Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7105(f)(2)(B), Mar. 30, 2009, [123 Stat. 1193][/us/stat/123/1193].)
 
  __References in Text__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/stat/76/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F755
-[/us/pl/95/625/s909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs909
+[/us/pl/95/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtIX
 [/us/stat/92/3538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3538
-[/us/pl/111/11/s7105/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7105%2Ff%2F2%2FB
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1193
 [/us/stat/76/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F755
 [/us/pl/87/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F759

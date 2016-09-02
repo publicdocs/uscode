@@ -17,7 +17,7 @@
 
     The said area or areas shall be permanently reserved as a wilderness, and no development of the project or plan for the entertainment of visitors shall be undertaken which will interfere with the preservation intact of the unique flora and fauna and the essential primitive natural conditions now prevailing in this area.
 
-([May 30, 1934, ch. 371, § 4][/us/act/1934-05-30/ch371/s4], [48 Stat. 817][/us/stat/48/817].)
+([May 30, 1934, ch. 371][/us/act/1934-05-30/ch371], § 4, [48 Stat. 817][/us/stat/48/817].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1934-05-30/ch371/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-30%2Fch371%2Fs4
+[/us/act/1934-05-30/ch371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-30%2Fch371
 [/us/stat/48/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F817
 
 

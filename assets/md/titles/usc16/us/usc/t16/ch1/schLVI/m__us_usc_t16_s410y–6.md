@@ -19,7 +19,7 @@
 
     (b) There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this subchapter, not to exceed $28,400,000 for land acquisition and not to exceed $17,000,000 (1970 prices) for development, plus or minus such amounts, if any, as may be justified by reason of ordinary fluctuations in construction costs as indicated by engineering cost indices applicable to the types of construction involved herein.
 
-([Pub. L. 91–664, § 8][/us/pl/91/664/s8], Jan. 8, 1971, [84 Stat. 1980][/us/stat/84/1980]; [Pub. L. 95–625, title III, § 320][/us/pl/95/625/s320], Nov. 10, 1978, [92 Stat. 3488][/us/stat/92/3488].)
+([Pub. L. 91–664][/us/pl/91/664], § 8, Jan. 8, 1971, [84 Stat. 1980][/us/stat/84/1980]; [Pub. L. 95–625, title III][/us/pl/95/625/tIII], § 320, Nov. 10, 1978, [92 Stat. 3488][/us/stat/92/3488].)
 
  __Amendments__ 
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/91/664/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F664%2Fs8
+[/us/pl/91/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F664
 [/us/stat/84/1980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1980
-[/us/pl/95/625/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs320
+[/us/pl/95/625/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtIII
 [/us/stat/92/3488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3488
 [/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
 

@@ -205,7 +205,7 @@
 
             On completion of the land exchanges authorized by this subsection, the Secretary shall adjust the boundary of the National Park accordingly, including removing the land conveyed out of Federal ownership.
 
-([Pub. L. 111–11, title VII, § 7107][/us/pl/111/11/s7107], Mar. 30, 2009, [123 Stat. 1193][/us/stat/123/1193].)
+([Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7107, Mar. 30, 2009, [123 Stat. 1193][/us/stat/123/1193].)
 
 ----------
 
@@ -214,7 +214,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s7107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7107
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1193
 
 

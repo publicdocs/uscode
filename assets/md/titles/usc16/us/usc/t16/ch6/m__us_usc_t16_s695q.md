@@ -17,7 +17,7 @@
 
     The Secretary is hereby directed to complete studies that have been undertaken relating to the development of the water resources and waterfowl management potential of the Clear Lake National Wildlife Refuge. The results of such studies, when completed, and the recommendations of the Secretary shall be submitted to the Congress.
 
-([Pub. L. 88–567, § 7][/us/pl/88/567/s7], Sept. 2, 1964, [78 Stat. 851][/us/stat/78/851].)
+([Pub. L. 88–567][/us/pl/88/567], § 7, Sept. 2, 1964, [78 Stat. 851][/us/stat/78/851].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/567/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F567%2Fs7
+[/us/pl/88/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F567
 [/us/stat/78/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F851
 
 

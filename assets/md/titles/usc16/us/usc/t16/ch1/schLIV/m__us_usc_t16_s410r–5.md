@@ -51,17 +51,17 @@
 
         (4) The term “project” means the Central and Southern Florida Project.
 
-([Pub. L. 101–229, title I, § 101][/us/pl/101/229/s101], Dec. 13, 1989, [103 Stat. 1946][/us/stat/103/1946].)
+([Pub. L. 101–229, title I][/us/pl/101/229/tI], § 101, Dec. 13, 1989, [103 Stat. 1946][/us/stat/103/1946].)
 
  __Short Title of 1997 Amendment__ 
 
-[Pub. L. 105–82, § 1][/us/pl/105/82/s1], Nov. 13, 1997, [111 Stat. 1540][/us/stat/111/1540], provided that: 
+[Pub. L. 105–82][/us/pl/105/82], § 1, Nov. 13, 1997, [111 Stat. 1540][/us/stat/111/1540], provided that: 
 
 > “This Act \[amending [section 410r–7 of this title][/us/usc/t16/s410r–7], enacting provisions set out as a note under [section 410r–7 of this title][/us/usc/t16/s410r–7], and amending provisions listed in a table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132]\] may be cited as the ‘Marjory Stoneman Douglas Wilderness and Ernest F. Coe Visitor Center Designation Act’.”
 
  __Short Title__ 
 
-[Pub. L. 101–229, § 1][/us/pl/101/229/s1], Dec. 13, 1989, [103 Stat. 1946][/us/stat/103/1946], provided that: 
+[Pub. L. 101–229][/us/pl/101/229], § 1, Dec. 13, 1989, [103 Stat. 1946][/us/stat/103/1946], provided that: 
 
 > “This Act \[enacting this section and sections 410r–6 to 410r–8 of this title\] may be cited as the ‘Everglades National Park Protection and Expansion Act of 1989’.”
 
@@ -72,14 +72,14 @@
 ----------
 ----------
 
-[/us/pl/101/229/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F229%2Fs101
+[/us/pl/101/229/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F229%2FtI
 [/us/stat/103/1946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1946
-[/us/pl/105/82/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F82%2Fs1
+[/us/pl/105/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F82
 [/us/stat/111/1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1540
 [/us/usc/t16/s410r–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410r%E2%80%937
 [/us/usc/t16/s410r–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410r%E2%80%937
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132
-[/us/pl/101/229/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F229%2Fs1
+[/us/pl/101/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F229
 [/us/stat/103/1946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1946
 
 

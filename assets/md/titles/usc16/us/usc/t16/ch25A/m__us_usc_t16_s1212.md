@@ -25,7 +25,7 @@
 
     (4) to take such other actions as deemed desirable to gain an understanding of the ecology and control of the seastar “Crown of Thorns”.
 
-([Pub. L. 91–427, § 2][/us/pl/91/427/s2], Sept. 26, 1970, [84 Stat. 884][/us/stat/84/884]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
+([Pub. L. 91–427][/us/pl/91/427], § 2, Sept. 26, 1970, [84 Stat. 884][/us/stat/84/884]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
 
  __Transfer of Functions__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/91/427/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F427%2Fs2
+[/us/pl/91/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F427
 [/us/stat/84/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F884
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
 [/us/usc/t16/s1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1211

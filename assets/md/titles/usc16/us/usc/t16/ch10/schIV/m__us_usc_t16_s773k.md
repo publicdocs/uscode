@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated such sums as may be necessary for the Secretary of State to provide for fiscal year 1983 and beyond, by contract, grant, or otherwise, facilities for office and any other necessary space for the Commission. Such facilities shall be located on or near the campus of the University of Washington in the State of Washington and shall be provided without regard to the cost-sharing provisions in the Convention.
 
-([Pub. L. 97–176, § 13][/us/pl/97/176/s13], May 17, 1982, [96 Stat. 84][/us/stat/96/84].)
+([Pub. L. 97–176][/us/pl/97/176], § 13, May 17, 1982, [96 Stat. 84][/us/stat/96/84].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/176/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F176%2Fs13
+[/us/pl/97/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F176
 [/us/stat/96/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F84
 
 

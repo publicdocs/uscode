@@ -23,7 +23,7 @@
 
         The administrator may make such expenditures for offices, vehicles, furnishings, equipment, supplies, and books; for attendance at meetings; and for such other facilities and services as he may find necessary for the proper administration of this chapter.
 
-([Aug. 20, 1937, ch. 720, § 9][/us/act/1937-08-20/ch720/s9], [50 Stat. 736][/us/stat/50/736]; [Oct. 23, 1945, ch. 433, § 4][/us/act/1945-10-23/ch433/s4], [59 Stat. 547][/us/stat/59/547]; [Pub. L. 89–448, § 2(a)][/us/pl/89/448/s2/a], formerly § 2, June 14, 1966, [80 Stat. 200][/us/stat/80/200], as renumbered [Pub. L. 89–561, § 6(1)][/us/pl/89/561/s6/1], Sept. 7, 1966, [80 Stat. 714][/us/stat/80/714]; [Pub. L. 95–91, title IV, § 402(a)(1)(B)][/us/pl/95/91/s402/a/1/B], Aug. 4, 1977, [91 Stat. 583][/us/stat/91/583].)
+([Aug. 20, 1937, ch. 720][/us/act/1937-08-20/ch720], § 9, [50 Stat. 736][/us/stat/50/736]; [Oct. 23, 1945, ch. 433][/us/act/1945-10-23/ch433], § 4, [59 Stat. 547][/us/stat/59/547]; [Pub. L. 89–448][/us/pl/89/448], § 2(a), formerly § 2, June 14, 1966, [80 Stat. 200][/us/stat/80/200], as renumbered [Pub. L. 89–561][/us/pl/89/561], § 6(1), Sept. 7, 1966, [80 Stat. 714][/us/stat/80/714]; [Pub. L. 95–91, title IV][/us/pl/95/91/tIV], § 402(a)(1)(B), Aug. 4, 1977, [91 Stat. 583][/us/stat/91/583].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
     Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
-    “Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsec. (a) pursuant to [Pub. L. 95–91, § 402(a)(1)(B)][/us/pl/95/91/s402/a/1/B], which is classified to [section 7172(a)(1)(B) of Title 42][/us/usc/t42/s7172/a/1/B].
+    “Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsec. (a) pursuant to [Pub. L. 95–91][/us/pl/95/91], § 402(a)(1)(B), which is classified to [section 7172(a)(1)(B) of Title 42][/us/usc/t42/s7172/a/1/B].
 
     Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 
@@ -53,15 +53,15 @@
 ----------
 
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
-[/us/act/1937-08-20/ch720/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-20%2Fch720%2Fs9
+[/us/act/1937-08-20/ch720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-20%2Fch720
 [/us/stat/50/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F736
-[/us/act/1945-10-23/ch433/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-10-23%2Fch433%2Fs4
+[/us/act/1945-10-23/ch433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-10-23%2Fch433
 [/us/stat/59/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F547
-[/us/pl/89/448/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F448%2Fs2%2Fa
+[/us/pl/89/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F448
 [/us/stat/80/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F200
-[/us/pl/89/561/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F561%2Fs6%2F1
+[/us/pl/89/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F561
 [/us/stat/80/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F714
-[/us/pl/95/91/s402/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs402%2Fa%2F1%2FB
+[/us/pl/95/91/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIV
 [/us/stat/91/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F583
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
@@ -69,7 +69,7 @@
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/pl/89/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F448
 [/us/usc/t16/s835j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs835j
-[/us/pl/95/91/s402/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs402%2Fa%2F1%2FB
+[/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/usc/t42/s7172/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7172%2Fa%2F1%2FB
 [/us/stat/64/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1265
 [/us/usc/t16/s792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs792

@@ -39,7 +39,7 @@
 
         (3) To provide a management framework to assist the State of Minnesota and its units of local government in the development and implementation of integrated resource management programs for the Mississippi River Corridor in order to assure orderly public and private development in the area consistent with the findings of this part.
 
-([Pub. L. 100–696, title VII, § 701][/us/pl/100/696/s701], Nov. 18, 1988, [102 Stat. 4599][/us/stat/102/4599].)
+([Pub. L. 100–696, title VII][/us/pl/100/696/tVII], § 701, Nov. 18, 1988, [102 Stat. 4599][/us/stat/102/4599].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/100/696/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2Fs701
+[/us/pl/100/696/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2FtVII
 [/us/stat/102/4599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4599
 
 

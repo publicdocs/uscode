@@ -143,7 +143,7 @@
 
         There is authorized to be appropriated to the Secretary of the Interior to carry out subsections (b), (c), (d), (e), and (f), $2,000,000 for each of fiscal years 2011 through 2014.
 
-([Aug. 8, 1956, ch. 1036, § 7][/us/act/1956-08-08/ch1036/s7], [70 Stat. 1122][/us/stat/70/1122]; [Pub. L. 95–616, § 4][/us/pl/95/616/s4], Nov. 8, 1978, [92 Stat. 3112][/us/stat/92/3112]; [Pub. L. 97–347, § 2][/us/pl/97/347/s2], Oct. 18, 1982, [96 Stat. 1652][/us/stat/96/1652]; [Pub. L. 98–44, title I, § 103(a)(2)][/us/pl/98/44/s103/a/2], July 12, 1983, [97 Stat. 216][/us/stat/97/216]; [Pub. L. 98–498, title IV, § 430(2)][/us/pl/98/498/s430/2], Oct. 19, 1984, [98 Stat. 2310][/us/stat/98/2310]; [Pub. L. 105–242][/us/pl/105/242], §§ 3, 4(b), (c), 5–7, Oct. 5, 1998, [112 Stat. 1574–1578][/us/stat/112/1574-1578]; [Pub. L. 108–327][/us/pl/108/327], §§ 2, 4, Oct. 16, 2004, [118 Stat. 1271][/us/stat/118/1271]; [Pub. L. 111–357][/us/pl/111/357], §§ 2, 4(a), Jan. 4, 2011, [124 Stat. 3979][/us/stat/124/3979], 3980.)
+([Aug. 8, 1956, ch. 1036][/us/act/1956-08-08/ch1036], § 7, [70 Stat. 1122][/us/stat/70/1122]; [Pub. L. 95–616][/us/pl/95/616], § 4, Nov. 8, 1978, [92 Stat. 3112][/us/stat/92/3112]; [Pub. L. 97–347][/us/pl/97/347], § 2, Oct. 18, 1982, [96 Stat. 1652][/us/stat/96/1652]; [Pub. L. 98–44, title I][/us/pl/98/44/tI], § 103(a)(2), July 12, 1983, [97 Stat. 216][/us/stat/97/216]; [Pub. L. 98–498, title IV][/us/pl/98/498/tIV], § 430(2), Oct. 19, 1984, [98 Stat. 2310][/us/stat/98/2310]; [Pub. L. 105–242][/us/pl/105/242], §§ 3, 4(b), (c), 5–7, Oct. 5, 1998, [112 Stat. 1574–1578][/us/stat/112/1574-1578]; [Pub. L. 108–327][/us/pl/108/327], §§ 2, 4, Oct. 16, 2004, [118 Stat. 1271][/us/stat/118/1271]; [Pub. L. 111–357][/us/pl/111/357], §§ 2, 4(a), Jan. 4, 2011, [124 Stat. 3979][/us/stat/124/3979], 3980.)
 
  __References in Text__ 
 
@@ -153,25 +153,25 @@
 
  __Amendments__ 
 
-    2011—Subsec. (b)(2)(B)(ii). [Pub. L. 111–357, § 2(b)][/us/pl/111/357/s2/b], substituted “National Wildlife Refuge System Administration Act of 1966” for “National Wildlife Refuge Administration Act of 1966”.
+    2011—Subsec. (b)(2)(B)(ii). [Pub. L. 111–357][/us/pl/111/357], § 2(b), substituted “National Wildlife Refuge System Administration Act of 1966” for “National Wildlife Refuge Administration Act of 1966”.
 
-    Subsec. (d)(2)(C)(i). [Pub. L. 111–357, § 2(b)][/us/pl/111/357/s2/b], substituted “National Wildlife Refuge System Administration Act of 1966” for “National Wildlife Refuge Administration Act of 1966”.
+    Subsec. (d)(2)(C)(i). [Pub. L. 111–357][/us/pl/111/357], § 2(b), substituted “National Wildlife Refuge System Administration Act of 1966” for “National Wildlife Refuge Administration Act of 1966”.
 
-    Subsec. (f). [Pub. L. 111–357, § 4(a)(2)][/us/pl/111/357/s4/a/2], added subsec. (f). Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 111–357][/us/pl/111/357], § 4(a)(2), added subsec. (f). Former subsec. (f) redesignated (g).
 
-    [Pub. L. 111–357, § 2(a)][/us/pl/111/357/s2/a], amended subsec. (f) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to the Secretary of the Interior to carry out subsections (b), (c), (d), and (e) of this section $2,000,000 for each of fiscal years 2004 through 2009.”
+    [Pub. L. 111–357][/us/pl/111/357], § 2(a), amended subsec. (f) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to the Secretary of the Interior to carry out subsections (b), (c), (d), and (e) of this section $2,000,000 for each of fiscal years 2004 through 2009.”
 
-    Subsec. (g). [Pub. L. 111–357, § 4(a)(1)][/us/pl/111/357/s4/a/1], redesignated subsec. (f) as (g).
+    Subsec. (g). [Pub. L. 111–357][/us/pl/111/357], § 4(a)(1), redesignated subsec. (f) as (g).
 
-    2004—Subsec. (d)(2)(A). [Pub. L. 108–327, § 4][/us/pl/108/327/s4], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary of the Interior may enter into a cooperative agreement (within the meaning of chapter 63 of title 31) with any partner organization, academic institution, or State or local government agency to carry out 1 or more projects or programs for a refuge or complex of geographically related refuges in accordance with this subsection.”
+    2004—Subsec. (d)(2)(A). [Pub. L. 108–327][/us/pl/108/327], § 4, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary of the Interior may enter into a cooperative agreement (within the meaning of chapter 63 of title 31) with any partner organization, academic institution, or State or local government agency to carry out 1 or more projects or programs for a refuge or complex of geographically related refuges in accordance with this subsection.”
 
-    Subsec. (f). [Pub. L. 108–327, § 2][/us/pl/108/327/s2], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to the Secretary of the Interior to carry out subsections (b), (c), (d), and (e) of this section $2,000,000 for each of fiscal years 1999 through 2004.”
+    Subsec. (f). [Pub. L. 108–327][/us/pl/108/327], § 2, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to the Secretary of the Interior to carry out subsections (b), (c), (d), and (e) of this section $2,000,000 for each of fiscal years 1999 through 2004.”
 
-    1998—Subsec. (b)(2). [Pub. L. 105–242, § 3][/us/pl/105/242/s3], inserted par. (2) heading, designated existing provisions as subpar. (A) and inserted heading, and added subpar. (B).
+    1998—Subsec. (b)(2). [Pub. L. 105–242][/us/pl/105/242], § 3, inserted par. (2) heading, designated existing provisions as subpar. (A) and inserted heading, and added subpar. (B).
 
-    Subsec. (c)(2). [Pub. L. 105–242, § 4(b)][/us/pl/105/242/s4/b], inserted “awards (including nominal cash awards) and recognition,” after “lodging,” and “without regard to their places of residence” after “volunteers”.
+    Subsec. (c)(2). [Pub. L. 105–242][/us/pl/105/242], § 4(b), inserted “awards (including nominal cash awards) and recognition,” after “lodging,” and “without regard to their places of residence” after “volunteers”.
 
-    Subsec. (c)(6). [Pub. L. 105–242, § 4(c)][/us/pl/105/242/s4/c], added par. (6) and struck out former par. (6) which read as follows: “There are authorized to be appropriated to carry out this subsection $100,000 for the Secretary of the Interior and $50,000 for the Secretary of Commerce for each of the fiscal years 1980, 1981, 1982, 1983, 1984, 1985, and 1986.”
+    Subsec. (c)(6). [Pub. L. 105–242][/us/pl/105/242], § 4(c), added par. (6) and struck out former par. (6) which read as follows: “There are authorized to be appropriated to carry out this subsection $100,000 for the Secretary of the Interior and $50,000 for the Secretary of Commerce for each of the fiscal years 1980, 1981, 1982, 1983, 1984, 1985, and 1986.”
 
     Subsecs. (d) to (f). [Pub. L. 105–242][/us/pl/105/242], §§ 5–7, added subsecs. (d) to (f).
 
@@ -181,11 +181,11 @@
 
     1982—Subsec. (c)(6). [Pub. L. 97–347][/us/pl/97/347] substituted “1982 and 1983” for “and 1982”.
 
-    1978—Subsec. (a)(4). [Pub. L. 95–616, § 4(1)][/us/pl/95/616/s4/1], reenacted existing provisions, substituting reference to fish resources for prior reference to fisheries resources and incorporated provisions of par. (5) relating to wildlife resources, substituting reference to acquisition by purchase or exchange of land and water for prior reference to acquisition of refuge lands.
+    1978—Subsec. (a)(4). [Pub. L. 95–616][/us/pl/95/616], § 4(1), reenacted existing provisions, substituting reference to fish resources for prior reference to fisheries resources and incorporated provisions of par. (5) relating to wildlife resources, substituting reference to acquisition by purchase or exchange of land and water for prior reference to acquisition of refuge lands.
 
-    Subsec. (a)(5). [Pub. L. 95–616, § 4(1)][/us/pl/95/616/s4/1], struck out par. (5) relating to wildlife resources. See par. (4).
+    Subsec. (a)(5). [Pub. L. 95–616][/us/pl/95/616], § 4(1), struck out par. (5) relating to wildlife resources. See par. (4).
 
-    Subsecs. (b), (c). [Pub. L. 95–616, § 4(3)][/us/pl/95/616/s4/3], added subsecs. (b) and (c).
+    Subsecs. (b), (c). [Pub. L. 95–616][/us/pl/95/616], § 4(3), added subsecs. (b) and (c).
 
  __Transfer of Functions__ 
 
@@ -193,7 +193,7 @@
 
  __Congressional Findings and Purposes__ 
 
-[Pub. L. 105–242, § 2][/us/pl/105/242/s2], Oct. 5, 1998, [112 Stat. 1574][/us/stat/112/1574], provided that:
+[Pub. L. 105–242][/us/pl/105/242], § 2, Oct. 5, 1998, [112 Stat. 1574][/us/stat/112/1574], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -219,7 +219,7 @@
 
  __Pilot Projects__ 
 
-    [Pub. L. 105–242, § 4(a)][/us/pl/105/242/s4/a], Oct. 5, 1998, [112 Stat. 1575][/us/stat/112/1575], as amended, formerly set out as a note under this section, was transferred and is classified to [section 742f–1 of this title][/us/usc/t16/s742f–1].
+    [Pub. L. 105–242][/us/pl/105/242], § 4(a), Oct. 5, 1998, [112 Stat. 1575][/us/stat/112/1575], as amended, formerly set out as a note under this section, was transferred and is classified to [section 742f–1 of this title][/us/usc/t16/s742f–1].
 
 ----------
 
@@ -234,15 +234,15 @@
 [/us/usc/t16/s668dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd
 [/us/usc/t16/s668dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd
 [/us/usc/t16/s742f–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs742f%E2%80%931
-[/us/act/1956-08-08/ch1036/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1036%2Fs7
+[/us/act/1956-08-08/ch1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1036
 [/us/stat/70/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1122
-[/us/pl/95/616/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616%2Fs4
+[/us/pl/95/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616
 [/us/stat/92/3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3112
-[/us/pl/97/347/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F347%2Fs2
+[/us/pl/97/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F347
 [/us/stat/96/1652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1652
-[/us/pl/98/44/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F44%2Fs103%2Fa%2F2
+[/us/pl/98/44/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F44%2FtI
 [/us/stat/97/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F216
-[/us/pl/98/498/s430/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2Fs430%2F2
+[/us/pl/98/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2FtIV
 [/us/stat/98/2310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2310
 [/us/pl/105/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F242
 [/us/stat/112/1574-1578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1574-1578
@@ -255,31 +255,31 @@
 [/us/pl/89/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F699
 [/us/stat/80/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F927
 [/us/usc/t16/s668dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd
-[/us/pl/111/357/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F357%2Fs2%2Fb
-[/us/pl/111/357/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F357%2Fs2%2Fb
-[/us/pl/111/357/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F357%2Fs4%2Fa%2F2
-[/us/pl/111/357/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F357%2Fs2%2Fa
-[/us/pl/111/357/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F357%2Fs4%2Fa%2F1
-[/us/pl/108/327/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F327%2Fs4
-[/us/pl/108/327/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F327%2Fs2
-[/us/pl/105/242/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F242%2Fs3
-[/us/pl/105/242/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F242%2Fs4%2Fb
-[/us/pl/105/242/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F242%2Fs4%2Fc
+[/us/pl/111/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F357
+[/us/pl/111/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F357
+[/us/pl/111/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F357
+[/us/pl/111/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F357
+[/us/pl/111/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F357
+[/us/pl/108/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F327
+[/us/pl/108/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F327
+[/us/pl/105/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F242
+[/us/pl/105/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F242
+[/us/pl/105/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F242
 [/us/pl/105/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F242
 [/us/pl/98/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498
 [/us/pl/98/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F44
 [/us/pl/97/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F347
-[/us/pl/95/616/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616%2Fs4%2F1
-[/us/pl/95/616/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616%2Fs4%2F1
-[/us/pl/95/616/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616%2Fs4%2F3
+[/us/pl/95/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616
+[/us/pl/95/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616
+[/us/pl/95/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
 [/us/usc/t16/s742b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs742b
-[/us/pl/105/242/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F242%2Fs2
+[/us/pl/105/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F242
 [/us/stat/112/1574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1574
 [/us/usc/t16/s742a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs742a
 [/us/pl/105/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F57
 [/us/stat/111/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1252
-[/us/pl/105/242/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F242%2Fs4%2Fa
+[/us/pl/105/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F242
 [/us/stat/112/1575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1575
 [/us/usc/t16/s742f–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs742f%E2%80%931
 

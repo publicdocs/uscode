@@ -71,7 +71,7 @@
 
         Any person assessed a civil penalty for, or convicted of, any violation of this chapter (including any regulation promulgated under this chapter) and any claimant in a forfeiture action brought for such a violation, shall be liable for the reasonable costs incurred by the Secretary in storage, care, and maintenance of any property seized in connection with the violation.
 
-([Pub. L. 114–81, title III, § 308][/us/pl/114/81/s308], Nov. 5, 2015, [129 Stat. 668][/us/stat/129/668].)
+([Pub. L. 114–81, title III][/us/pl/114/81/tIII], § 308, Nov. 5, 2015, [129 Stat. 668][/us/stat/129/668].)
 
  __References in Text__ 
 
@@ -96,7 +96,7 @@
 [/us/usc/t16/s1860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1860
 [/us/usc/t16/s7406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7406
 [/us/usc/t16/s1859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1859
-[/us/pl/114/81/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs308
+[/us/pl/114/81/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2FtIII
 [/us/stat/129/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F668
 
 

@@ -17,7 +17,7 @@
 
     The Secretary is authorized to provide for the acquisition, construction, and maintenance of forest development roads within and near the national forests and other lands administered by the Forest Service in locations and according to specifications which will permit maximum economy in harvesting timber from such lands tributary to such roads and at the same time meet the requirements for protection, development, and management thereof, and for utilization of the other resources thereof. Financing of such roads may be accomplished (1) by the Secretary utilizing appropriated funds, (2) by requirements on purchasers of national forest timber and other products, including provisions for amortization of road costs in contracts, (3) by cooperative financing with other public agencies and with private agencies or persons, or (4) by a combination of these methods: Provided, That where roads of a higher standard than that needed in the harvesting and removal of the timber and other products covered by the particular sale are to be constructed, the purchaser of the national forest timber and other products shall not be required to bear that part of the costs necessary to meet such higher standard, and the Secretary is authorized to make such arrangements to this end as may be appropriate. The Secretary is authorized, under such rules and regulations as he shall prescribe, to permit the transfer of unused effective purchaser credit for road construction earned after December 16, 1975, from one timber sale to a purchaser to another timber sale to the same purchaser within the same National Forest.
 
-([Pub. L. 88–657, § 4][/us/pl/88/657/s4], Oct. 13, 1964, [78 Stat. 1089][/us/stat/78/1089]; [Pub. L. 94–154][/us/pl/94/154], Dec. 16, 1975, [89 Stat. 823][/us/stat/89/823].)
+([Pub. L. 88–657][/us/pl/88/657], § 4, Oct. 13, 1964, [78 Stat. 1089][/us/stat/78/1089]; [Pub. L. 94–154][/us/pl/94/154], Dec. 16, 1975, [89 Stat. 823][/us/stat/89/823].)
 
  __Amendments__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/88/657/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F657%2Fs4
+[/us/pl/88/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F657
 [/us/stat/78/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1089
 [/us/pl/94/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F154
 [/us/stat/89/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F823

@@ -57,7 +57,7 @@
 
                     (III) the modification will result in equal or greater environmental and economic values to the United States.
 
-([Pub. L. 95–334, title IV, § 403][/us/pl/95/334/s403], Aug. 4, 1978, [92 Stat. 434][/us/stat/92/434]; [Pub. L. 104–127, title III, § 382][/us/pl/104/127/s382], Apr. 4, 1996, [110 Stat. 1016][/us/stat/110/1016]; [Pub. L. 113–79, title II, § 2506][/us/pl/113/79/s2506], Feb. 7, 2014, [128 Stat. 752][/us/stat/128/752].)
+([Pub. L. 95–334, title IV][/us/pl/95/334/tIV], § 403, Aug. 4, 1978, [92 Stat. 434][/us/stat/92/434]; [Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 382, Apr. 4, 1996, [110 Stat. 1016][/us/stat/110/1016]; [Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2506, Feb. 7, 2014, [128 Stat. 752][/us/stat/128/752].)
 
  __Amendments__ 
 
@@ -67,7 +67,7 @@
 
  __Disaster Assistance for Watershed Protection Activities__ 
 
-[Pub. L. 100–387, title IV, § 402][/us/pl/100/387/s402], as added [Pub. L. 101–82, title V, § 503][/us/pl/101/82/s503], Aug. 14, 1989, [103 Stat. 586][/us/stat/103/586], provided that:
+[Pub. L. 100–387, title IV][/us/pl/100/387/tIV], § 402, as added [Pub. L. 101–82, title V][/us/pl/101/82/tV], § 503, Aug. 14, 1989, [103 Stat. 586][/us/stat/103/586], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -92,16 +92,16 @@
 ----------
 ----------
 
-[/us/pl/95/334/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334%2Fs403
+[/us/pl/95/334/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F334%2FtIV
 [/us/stat/92/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F434
-[/us/pl/104/127/s382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs382
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1016
-[/us/pl/113/79/s2506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2506
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F752
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
-[/us/pl/100/387/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2Fs402
-[/us/pl/101/82/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F82%2Fs503
+[/us/pl/100/387/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F387%2FtIV
+[/us/pl/101/82/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F82%2FtV
 [/us/stat/103/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F586
 [/us/usc/t16/s2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2203
 

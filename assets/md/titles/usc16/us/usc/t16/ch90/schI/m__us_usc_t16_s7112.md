@@ -163,7 +163,7 @@
 
         The payments required under this section for a fiscal year shall be made as soon as practicable after the end of that fiscal year.
 
-([Pub. L. 106–393, title I, § 102][/us/pl/106/393/s102], as added [Pub. L. 110–343, div. C, title VI, § 601(a)][/us/pl/110/343/s601/a], Oct. 3, 2008, [122 Stat. 3896][/us/stat/122/3896]; amended [Pub. L. 112–141, div. F, title I, § 100101(a)(2)][/us/pl/112/141/s100101/a/2], (3), July 6, 2012, [126 Stat. 905][/us/stat/126/905]; [Pub. L. 113–40, § 10(a)(1)(B)][/us/pl/113/40/s10/a/1/B], Oct. 2, 2013, [127 Stat. 545][/us/stat/127/545]; [Pub. L. 114–10, title V, § 524(b)][/us/pl/114/10/s524/b], Apr. 16, 2015, [129 Stat. 179][/us/stat/129/179].)
+([Pub. L. 106–393, title I][/us/pl/106/393/tI], § 102, as added [Pub. L. 110–343, div. C, title VI][/us/pl/110/343/dC/tVI], § 601(a), Oct. 3, 2008, [122 Stat. 3896][/us/stat/122/3896]; amended [Pub. L. 112–141, div. F, title I][/us/pl/112/141/dF/tI], § 100101(a)(2), (3), July 6, 2012, [126 Stat. 905][/us/stat/126/905]; [Pub. L. 113–40][/us/pl/113/40], § 10(a)(1)(B), Oct. 2, 2013, [127 Stat. 545][/us/stat/127/545]; [Pub. L. 114–10, title V][/us/pl/114/10/tV], § 524(b), Apr. 16, 2015, [129 Stat. 179][/us/stat/129/179].)
 
  __References in Text__ 
 
@@ -171,37 +171,37 @@
 
  __Prior Provisions__ 
 
-    A prior [section 102 of Pub. L. 106–393][/us/pl/106/393/s102] was set out in a note under [section 500 of this title][/us/usc/t16/s500] prior to repeal by [Pub. L. 110–343, div. C, title VI, § 601(a)][/us/pl/110/343/s601/a], Oct. 3, 2008, [122 Stat. 3893][/us/stat/122/3893].
+    A prior [section 102 of Pub. L. 106–393][/us/pl/106/393/s102] was set out in a note under [section 500 of this title][/us/usc/t16/s500] prior to repeal by [Pub. L. 110–343, div. C, title VI][/us/pl/110/343/dC/tVI], § 601(a), Oct. 3, 2008, [122 Stat. 3893][/us/stat/122/3893].
 
  __Amendments__ 
 
-    2015—Subsec. (b)(1)(C). [Pub. L. 114–10, § 524(b)(1)][/us/pl/114/10/s524/b/1], added subpar. (C).
+    2015—Subsec. (b)(1)(C). [Pub. L. 114–10][/us/pl/114/10], § 524(b)(1), added subpar. (C).
 
-    Subsec. (b)(2)(A). [Pub. L. 114–10, § 524(b)(2)(A)][/us/pl/114/10/s524/b/2/A], inserted at end “If such two-fiscal year period included fiscal year 2013, the county election to receive a share of the 25-percent payment or 50-percent payment, as applicable, also shall be effective for fiscal years 2014 and 2015.”
+    Subsec. (b)(2)(A). [Pub. L. 114–10][/us/pl/114/10], § 524(b)(2)(A), inserted at end “If such two-fiscal year period included fiscal year 2013, the county election to receive a share of the 25-percent payment or 50-percent payment, as applicable, also shall be effective for fiscal years 2014 and 2015.”
 
-    Subsec. (b)(2)(B). [Pub. L. 114–10, § 524(b)(2)(B)][/us/pl/114/10/s524/b/2/B], substituted “2015” for “2013” the second place appearing.
+    Subsec. (b)(2)(B). [Pub. L. 114–10][/us/pl/114/10], § 524(b)(2)(B), substituted “2015” for “2013” the second place appearing.
 
-    Subsec. (d)(1)(E). [Pub. L. 114–10, § 524(b)(3)(A)][/us/pl/114/10/s524/b/3/A], added subpar. (E).
+    Subsec. (d)(1)(E). [Pub. L. 114–10][/us/pl/114/10], § 524(b)(3)(A), added subpar. (E).
 
-    Subsec. (d)(3)(C). [Pub. L. 114–10, § 524(b)(3)(B)][/us/pl/114/10/s524/b/3/B], added subpar. (C).
+    Subsec. (d)(3)(C). [Pub. L. 114–10][/us/pl/114/10], § 524(b)(3)(B), added subpar. (C).
 
-    2013—Subsec. (b)(1)(A). [Pub. L. 113–40, § 10(a)(1)(B)(i)][/us/pl/113/40/s10/a/1/B/i], substituted “2013” for “2012”.
+    2013—Subsec. (b)(1)(A). [Pub. L. 113–40][/us/pl/113/40], § 10(a)(1)(B)(i), substituted “2013” for “2012”.
 
-    Subsec. (b)(2)(B). [Pub. L. 113–40, § 10(a)(1)(B)(ii)][/us/pl/113/40/s10/a/1/B/ii], substituted “2013” for “2012” in two places.
+    Subsec. (b)(2)(B). [Pub. L. 113–40][/us/pl/113/40], § 10(a)(1)(B)(ii), substituted “2013” for “2012” in two places.
 
-    2012—Subsec. (b)(1)(A). [Pub. L. 112–141, § 100101(a)(3)(A)][/us/pl/112/141/s100101/a/3/A], substituted “2012” for “2008”.
+    2012—Subsec. (b)(1)(A). [Pub. L. 112–141][/us/pl/112/141], § 100101(a)(3)(A), substituted “2012” for “2008”.
 
-    Subsec. (b)(2)(B). [Pub. L. 112–141, § 100101(a)(3)(B)][/us/pl/112/141/s100101/a/3/B], inserted “in 2012” before “, the election”.
+    Subsec. (b)(2)(B). [Pub. L. 112–141][/us/pl/112/141], § 100101(a)(3)(B), inserted “in 2012” before “, the election”.
 
-    [Pub. L. 112–141, § 100101(a)(2)][/us/pl/112/141/s100101/a/2], substituted “fiscal year 2012” for “fiscal year 2011”.
+    [Pub. L. 112–141][/us/pl/112/141], § 100101(a)(2), substituted “fiscal year 2012” for “fiscal year 2011”.
 
-    Subsec. (d)(1)(A). [Pub. L. 112–141, § 100101(a)(3)(C)(i)][/us/pl/112/141/s100101/a/3/C/i], substituted “subparagraph (D)” for “paragraph (3)(B)”.
+    Subsec. (d)(1)(A). [Pub. L. 112–141][/us/pl/112/141], § 100101(a)(3)(C)(i), substituted “subparagraph (D)” for “paragraph (3)(B)”.
 
-    Subsec. (d)(1)(D). [Pub. L. 112–141, § 100101(a)(3)(C)(ii)(II)][/us/pl/112/141/s100101/a/3/C/ii/II], redesignated subsec. (d)(3)(B) as subpar. (D).
+    Subsec. (d)(1)(D). [Pub. L. 112–141][/us/pl/112/141], § 100101(a)(3)(C)(ii)(II), redesignated subsec. (d)(3)(B) as subpar. (D).
 
-    Subsec. (d)(3)(A). [Pub. L. 112–141, § 100101(a)(3)(C)(ii)(I)][/us/pl/112/141/s100101/a/3/C/ii/I], added subpar. (A) and struck out former subpar. (A) which related to notification of the Secretary of an election and failure to make an election.
+    Subsec. (d)(3)(A). [Pub. L. 112–141][/us/pl/112/141], § 100101(a)(3)(C)(ii)(I), added subpar. (A) and struck out former subpar. (A) which related to notification of the Secretary of an election and failure to make an election.
 
-    Subsec. (d)(3)(B). [Pub. L. 112–141, § 100101(a)(3)(C)(ii)(III)][/us/pl/112/141/s100101/a/3/C/ii/III], added subpar. (B). Former subpar. (B) redesignated subsec. (d)(1)(D).
+    Subsec. (d)(3)(B). [Pub. L. 112–141][/us/pl/112/141], § 100101(a)(3)(C)(ii)(III), added subpar. (B). Former subpar. (B) redesignated subsec. (d)(1)(D).
 
 ----------
 
@@ -217,35 +217,35 @@
 [/us/stat/36/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F963
 [/us/usc/t16/s500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs500
 [/us/usc/t16/s7122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7122%2Fb
-[/us/pl/106/393/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393%2Fs102
-[/us/pl/110/343/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs601%2Fa
+[/us/pl/106/393/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393%2FtI
+[/us/pl/110/343/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtVI
 [/us/stat/122/3896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3896
-[/us/pl/112/141/s100101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100101%2Fa%2F2
+[/us/pl/112/141/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdF%2FtI
 [/us/stat/126/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F905
-[/us/pl/113/40/s10/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40%2Fs10%2Fa%2F1%2FB
+[/us/pl/113/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40
 [/us/stat/127/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F545
-[/us/pl/114/10/s524/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs524%2Fb
+[/us/pl/114/10/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2FtV
 [/us/stat/129/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F179
 [/us/pl/106/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393
 [/us/stat/114/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1607
 [/us/usc/t16/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7101
 [/us/pl/106/393/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393%2Fs102
 [/us/usc/t16/s500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs500
-[/us/pl/110/343/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs601%2Fa
+[/us/pl/110/343/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtVI
 [/us/stat/122/3893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3893
-[/us/pl/114/10/s524/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs524%2Fb%2F1
-[/us/pl/114/10/s524/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs524%2Fb%2F2%2FA
-[/us/pl/114/10/s524/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs524%2Fb%2F2%2FB
-[/us/pl/114/10/s524/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs524%2Fb%2F3%2FA
-[/us/pl/114/10/s524/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs524%2Fb%2F3%2FB
-[/us/pl/113/40/s10/a/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40%2Fs10%2Fa%2F1%2FB%2Fi
-[/us/pl/113/40/s10/a/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40%2Fs10%2Fa%2F1%2FB%2Fii
-[/us/pl/112/141/s100101/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100101%2Fa%2F3%2FA
-[/us/pl/112/141/s100101/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100101%2Fa%2F3%2FB
-[/us/pl/112/141/s100101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100101%2Fa%2F2
-[/us/pl/112/141/s100101/a/3/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100101%2Fa%2F3%2FC%2Fi
-[/us/pl/112/141/s100101/a/3/C/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100101%2Fa%2F3%2FC%2Fii%2FII
-[/us/pl/112/141/s100101/a/3/C/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100101%2Fa%2F3%2FC%2Fii%2FI
-[/us/pl/112/141/s100101/a/3/C/ii/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100101%2Fa%2F3%2FC%2Fii%2FIII
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
+[/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
+[/us/pl/113/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40
+[/us/pl/113/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 
 

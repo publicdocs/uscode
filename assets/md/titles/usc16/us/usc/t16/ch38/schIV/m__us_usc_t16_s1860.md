@@ -33,7 +33,7 @@
 
         (3) the remission or mitigation of any such forfeiture;
 
-        shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this chapter, unless such provisions are inconsistent with the purposes, policy, and provisions of this chapter. The duties and powers imposed upon the Commissioner of Customs or other persons under such provisions shall, with respect to this chapter, be performed by officers or other persons designated for such purpose by the Secretary.
+        shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this chapter, unless such provisions are inconsistent with the purposes, policy, and provisions of this chapter. The duties and powers imposed upon the Commissioner of U.S. Customs and Border Protection or other persons under such provisions shall, with respect to this chapter, be performed by officers or other persons designated for such purpose by the Secretary.
 
     (d) __Procedure__ 
 
@@ -57,7 +57,7 @@
 
         (3) For purposes of this chapter, it shall be a rebuttable presumption that any vessel that is shoreward of the outer boundary of the exclusive economic zone of the United States or beyond the exclusive economic zone of any nation, and that has gear on board that is capable of use for large-scale driftnet fishing, is engaged in such fishing.
 
-([Pub. L. 94–265, title III, § 310][/us/pl/94/265/s310], Apr. 13, 1976, [90 Stat. 357][/us/stat/90/357]; [Pub. L. 97–453, § 12][/us/pl/97/453/s12], Jan. 12, 1983, [96 Stat. 2491][/us/stat/96/2491]; [Pub. L. 99–659, title I, § 109(a)][/us/pl/99/659/s109/a], Nov. 14, 1986, [100 Stat. 3714][/us/stat/100/3714]; [Pub. L. 101–627, title I, § 116][/us/pl/101/627/s116], Nov. 28, 1990, [104 Stat. 4456][/us/stat/104/4456]; [Pub. L. 104–297, title I, § 114(d)][/us/pl/104/297/s114/d], Oct. 11, 1996, [110 Stat. 3599][/us/stat/110/3599].)
+([Pub. L. 94–265, title III][/us/pl/94/265/tIII], § 310, Apr. 13, 1976, [90 Stat. 357][/us/stat/90/357]; [Pub. L. 97–453][/us/pl/97/453], § 12, Jan. 12, 1983, [96 Stat. 2491][/us/stat/96/2491]; [Pub. L. 99–659, title I][/us/pl/99/659/tI], § 109(a), Nov. 14, 1986, [100 Stat. 3714][/us/stat/100/3714]; [Pub. L. 101–627, title I][/us/pl/101/627/tI], § 116, Nov. 28, 1990, [104 Stat. 4456][/us/stat/104/4456]; [Pub. L. 104–297, title I][/us/pl/104/297/tI], § 114(d), Oct. 11, 1996, [110 Stat. 3599][/us/stat/110/3599]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210].)
 
  __References in Text__ 
 
@@ -69,7 +69,7 @@
 
     1990—Subsec. (e). [Pub. L. 101–627][/us/pl/101/627] designated existing provisions as par. (1) and added par. (2).
 
-    1986—Subsec. (c). [Pub. L. 99–659, § 109(a)(1)][/us/pl/99/659/s109/a/1], amended second sentence generally. Prior to amendment, second sentence of subsec. (c) read as follows: “The provisions of the customs laws relating to—
+    1986—Subsec. (c). [Pub. L. 99–659][/us/pl/99/659], § 109(a)(1), amended second sentence generally. Prior to amendment, second sentence of subsec. (c) read as follows: “The provisions of the customs laws relating to—
 
     “(1) the disposition of forfeited property,
 
@@ -81,9 +81,13 @@
 
     shall apply to any forfeiture ordered, and to any case in which forfeiture is alleged to be authorized, under this section, unless such provisions are inconsistent with the purposes, policy, and provisions of this chapter.”
 
-    Subsec. (d)(1). [Pub. L. 99–659, § 109(a)(2)][/us/pl/99/659/s109/a/2], inserted provision that nothing in this paragraph may be construed to require the Secretary, except in the Secretary’s discretion or pursuant to the order of a court under [section 1861(d) of this title][/us/usc/t16/s1861/d], to release on bond any seized fish or other property or the proceeds from the sale thereof.
+    Subsec. (d)(1). [Pub. L. 99–659][/us/pl/99/659], § 109(a)(2), inserted provision that nothing in this paragraph may be construed to require the Secretary, except in the Secretary’s discretion or pursuant to the order of a court under [section 1861(d) of this title][/us/usc/t16/s1861/d], to release on bond any seized fish or other property or the proceeds from the sale thereof.
 
     1983—Subsec. (a). [Pub. L. 97–453][/us/pl/97/453] inserted “(or the fair market value thereof)” after “fish” wherever appearing.
+
+ __Change of Name__ 
+
+    “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (c) on authority of [section 802(d)(2) of Pub. L. 114–125][/us/pl/114/125/s802/d/2], set out as a note under [section 211 of Title 6][/us/usc/t6/s211], Domestic Security.
 
  __Effective Date__ 
 
@@ -105,25 +109,29 @@
 [/us/usc/t16/s1861/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1861%2Fd
 [/us/usc/t16/s1861/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1861%2Fd
 [/us/usc/t16/s1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1857
-[/us/pl/94/265/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs310
+[/us/pl/94/265/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2FtIII
 [/us/stat/90/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F357
-[/us/pl/97/453/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453%2Fs12
+[/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
 [/us/stat/96/2491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2491
-[/us/pl/99/659/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs109%2Fa
+[/us/pl/99/659/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtI
 [/us/stat/100/3714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3714
-[/us/pl/101/627/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs116
+[/us/pl/101/627/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtI
 [/us/stat/104/4456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4456
-[/us/pl/104/297/s114/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs114%2Fd
+[/us/pl/104/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtI
 [/us/stat/110/3599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3599
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
 [/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
 [/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
-[/us/pl/99/659/s109/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs109%2Fa%2F1
-[/us/pl/99/659/s109/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs109%2Fa%2F2
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
 [/us/usc/t16/s1861/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1861%2Fd
 [/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
+[/us/pl/114/125/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs802%2Fd%2F2
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
 [/us/pl/94/265/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs312
 [/us/usc/t16/s1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1857
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

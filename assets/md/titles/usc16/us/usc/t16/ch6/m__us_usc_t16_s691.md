@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to acquire by purchase, gift, or lease not to exceed twenty thousand acres of land in what is known as the Cheyenne Bottoms, in Barton County, Kansas, or, in lieu of purchase, to compensate any owner for any damage sustained by reason of submergence of his lands.
 
-([June 12, 1930, ch. 469, § 1][/us/act/1930-06-12/ch469/s1], [46 Stat. 579][/us/stat/46/579]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433].)
+([June 12, 1930, ch. 469][/us/act/1930-06-12/ch469], § 1, [46 Stat. 579][/us/stat/46/579]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1930-06-12/ch469/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-12%2Fch469%2Fs1
+[/us/act/1930-06-12/ch469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-12%2Fch469
 [/us/stat/46/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F579
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
 [/us/usc/t16/s671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs671

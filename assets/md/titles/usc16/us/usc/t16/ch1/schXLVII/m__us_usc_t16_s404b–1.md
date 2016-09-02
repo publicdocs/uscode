@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized, in his discretion, to exclude the Great Onyx Cave and the Crystal Cave, or either of them, from the maximum boundaries of the said park, and the area required for general development of the said park by [section 404b of this title][/us/usc/t16/s404b], is modified accordingly.
 
-([Aug. 28, 1937, ch. 873, § 2][/us/act/1937-08-28/ch873/s2], [50 Stat. 871][/us/stat/50/871].)
+([Aug. 28, 1937, ch. 873][/us/act/1937-08-28/ch873], § 2, [50 Stat. 871][/us/stat/50/871].)
 
  __Eventual Acquisition of Great Onyx and Crystal Caves__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t16/s404b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs404b
-[/us/act/1937-08-28/ch873/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-28%2Fch873%2Fs2
+[/us/act/1937-08-28/ch873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-28%2Fch873
 [/us/stat/50/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F871
 [/us/usc/t16/s404b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs404b%E2%80%932
 

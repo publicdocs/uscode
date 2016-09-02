@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to lease to the immediately preceding owner or owners any lands acquired pursuant to an agreement that such lessee or lessees will occupy such lands in a manner consistent with the purposes of sections 430j to 430m and 430o to 430s of this title and that they will preserve the present breastworks, earthworks, walls, defenses, shelters, buildings, and roads, and the present outlines of the battlefields, and that they will only cut trees or underbrush or disturb or remove the soil, under such regulations as the Secretary of the Interior may prescribe, and that they will assist in protecting all tablets, monuments, or such other artificial works as may from time to time be erected by proper authority.
 
-([June 21, 1934, ch. 694, § 3][/us/act/1934-06-21/ch694/s3], [48 Stat. 1199][/us/stat/48/1199]; [Pub. L. 94–578, title III, § 319(3)][/us/pl/94/578/s319/3], Oct. 21, 1976, [90 Stat. 2738][/us/stat/90/2738].)
+([June 21, 1934, ch. 694][/us/act/1934-06-21/ch694], § 3, [48 Stat. 1199][/us/stat/48/1199]; [Pub. L. 94–578, title III][/us/pl/94/578/tIII], § 319(3), Oct. 21, 1976, [90 Stat. 2738][/us/stat/90/2738].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1934-06-21/ch694/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-21%2Fch694%2Fs3
+[/us/act/1934-06-21/ch694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-21%2Fch694
 [/us/stat/48/1199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1199
-[/us/pl/94/578/s319/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2Fs319%2F3
+[/us/pl/94/578/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2FtIII
 [/us/stat/90/2738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2738
 [/us/pl/94/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578
 

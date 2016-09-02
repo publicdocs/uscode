@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized, in his discretion, to accept in behalf of the United States lands, easements, and buildings as may be donated for an addition to the Chickamauga and Chattanooga National Military Park lying within what is known as the “Chattanooga- Lookout Mountain Park” (a corporation, Adolph S. Ochs, president) and/or any lands within one mile of said Chattanooga-Lookout Mountain Park in the States of Tennessee and Georgia.
 
-([May 4, 1934, ch. 218, § 1][/us/act/1934-05-04/ch218/s1], [48 Stat. 666][/us/stat/48/666].)
+([May 4, 1934, ch. 218][/us/act/1934-05-04/ch218], § 1, [48 Stat. 666][/us/stat/48/666].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1934-05-04/ch218/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-04%2Fch218%2Fs1
+[/us/act/1934-05-04/ch218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-04%2Fch218
 [/us/stat/48/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F666
 
 

@@ -31,7 +31,7 @@
 
     (7) It is therefore in the best interest of the people of this Nation to amend the Federal Water Project Recreation Act \[[16 U.S.C. 460][/us/usc/t16/s460]l–12 et seq.\] to remove outdated restrictions and authorize the Secretary of the Interior to undertake specific measures for the management of Reclamation lands.
 
-([Pub. L. 102–575, title XXVIII, § 2802][/us/pl/102/575/s2802], Oct. 30, 1992, [106 Stat. 4690][/us/stat/106/4690].)
+([Pub. L. 102–575, title XXVIII][/us/pl/102/575/tXXVIII], § 2802, Oct. 30, 1992, [106 Stat. 4690][/us/stat/106/4690].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 
  __Short Title__ 
 
-[Pub. L. 102–575, title XXVIII, § 2801][/us/pl/102/575/s2801], Oct. 30, 1992, [106 Stat. 4690][/us/stat/106/4690], provided that: 
+[Pub. L. 102–575, title XXVIII][/us/pl/102/575/tXXVIII], § 2801, Oct. 30, 1992, [106 Stat. 4690][/us/stat/106/4690], provided that: 
 
 > “This title \[enacting this part and amending sections 460l–13 to 460l–15 and 460l–18 of this title\] may be cited as the ‘Reclamation Recreation Management Act of 1992’.”
 
@@ -54,13 +54,13 @@
 
 [/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
 [/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
-[/us/pl/102/575/s2802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575%2Fs2802
+[/us/pl/102/575/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575%2FtXXVIII
 [/us/stat/106/4690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4690
 [/us/pl/89/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F72
 [/us/stat/79/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F213
 [/us/pl/102/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575
 [/us/stat/106/4690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4690
-[/us/pl/102/575/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575%2Fs2801
+[/us/pl/102/575/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575%2FtXXVIII
 [/us/stat/106/4690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4690
 
 

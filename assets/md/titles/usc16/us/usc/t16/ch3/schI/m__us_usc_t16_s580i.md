@@ -25,7 +25,7 @@
 
     Land acquired under this section may be subject to such reservations and outstanding interests as the Secretary of Agriculture determines will not interfere with the purpose for which acquired.
 
-([Apr. 24, 1950, ch. 97, § 14][/us/act/1950-04-24/ch97/s14], [64 Stat. 86][/us/stat/64/86].)
+([Apr. 24, 1950, ch. 97][/us/act/1950-04-24/ch97], § 14, [64 Stat. 86][/us/stat/64/86].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1950-04-24/ch97/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-24%2Fch97%2Fs14
+[/us/act/1950-04-24/ch97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-24%2Fch97
 [/us/stat/64/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F86
 
 

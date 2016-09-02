@@ -37,7 +37,7 @@
 
         In developing the lakeshore the Secretary shall provide public use areas in such places and manner as he determines will not diminish the value or enjoyment for the owner or occupant of any improved property located thereon.
 
-([Pub. L. 91–479, § 6][/us/pl/91/479/s6], Oct. 21, 1970, [84 Stat. 1077][/us/stat/84/1077].)
+([Pub. L. 91–479][/us/pl/91/479], § 6, Oct. 21, 1970, [84 Stat. 1077][/us/stat/84/1077].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132
-[/us/pl/91/479/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F479%2Fs6
+[/us/pl/91/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F479
 [/us/stat/84/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1077
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1

@@ -23,7 +23,7 @@
 
     (3) “Secretary” means the Secretary of the Interior.
 
-([Pub. L. 102–543, § 2][/us/pl/102/543/s2], Oct. 27, 1992, [106 Stat. 3570][/us/stat/106/3570].)
+([Pub. L. 102–543][/us/pl/102/543], § 2, Oct. 27, 1992, [106 Stat. 3570][/us/stat/106/3570].)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t16/s410yy–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410yy%E2%80%938
 [/us/usc/t16/s410yy–2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410yy%E2%80%932%2Fa%2F1
-[/us/pl/102/543/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F543%2Fs2
+[/us/pl/102/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F543
 [/us/stat/106/3570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3570
 
 

@@ -25,7 +25,7 @@
 
     (4) The term “owner” means the owner of record as of September 1, 1980.
 
-([Apr. 17, 1954, ch. 153, § 4][/us/act/1954-04-17/ch153/s4], as added [Pub. L. 96–442, § 2][/us/pl/96/442/s2], Oct. 13, 1980, [94 Stat. 1886][/us/stat/94/1886].)
+([Apr. 17, 1954, ch. 153][/us/act/1954-04-17/ch153], § 4, as added [Pub. L. 96–442][/us/pl/96/442], § 2, Oct. 13, 1980, [94 Stat. 1886][/us/stat/94/1886].)
 
 ----------
 
@@ -34,8 +34,8 @@
 ----------
 ----------
 
-[/us/act/1954-04-17/ch153/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-04-17%2Fch153%2Fs4
-[/us/pl/96/442/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F442%2Fs2
+[/us/act/1954-04-17/ch153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-04-17%2Fch153
+[/us/pl/96/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F442
 [/us/stat/94/1886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1886
 
 

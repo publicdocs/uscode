@@ -17,7 +17,7 @@
 
     Under such regulations as may be prescribed by the Secretary of the Interior, payments may be made, as provided in sections 40a to 40c of this title, in advance or otherwise, from any revenues received by the United States from visitors to Yellowstone National Park, to the appropriate school district or districts serving that park, as reimbursement for educational facilities (including, where appropriate, transportation to and from school) furnished by the said district or districts to pupils who are dependents of persons engaged in the administration, operation, and maintenance of the park, and living at or near the park upon real property of the United States not subject to taxation by the State or local agencies and upon which payments in lieu of taxes are not made by the United States: Provided, That the payments for any school year for the aforesaid purpose shall not exceed that part of the cost of operating and maintaining such facilities which the number of pupils, in average daily attendance during that year, bears to the whole number of pupils in average daily attendance at those schools for that year.
 
-([June 4, 1948, ch. 417, § 1][/us/act/1948-06-04/ch417/s1], [62 Stat. 338][/us/stat/62/338].)
+([June 4, 1948, ch. 417][/us/act/1948-06-04/ch417], § 1, [62 Stat. 338][/us/stat/62/338].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1948-06-04/ch417/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-04%2Fch417%2Fs1
+[/us/act/1948-06-04/ch417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-04%2Fch417
 [/us/stat/62/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F338
 
 

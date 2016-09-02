@@ -17,7 +17,7 @@
 
     The Ozark National Scenic Riverways shall be administered in accordance with the provisions of the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended and supplemented, and in accordance with other laws of general application relating to the areas administered and supervised by the Secretary through the National Park Service; except that authority otherwise available to the Secretary for the conservation and management of natural resources may be utilized to the extent he finds such authority will further the purposes of this subchapter.
 
-([Pub. L. 88–492, § 6][/us/pl/88/492/s6], Aug. 27, 1964, [78 Stat. 609][/us/stat/78/609].)
+([Pub. L. 88–492][/us/pl/88/492], § 6, Aug. 27, 1964, [78 Stat. 609][/us/stat/78/609].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
-[/us/pl/88/492/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F492%2Fs6
+[/us/pl/88/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F492
 [/us/stat/78/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F609
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408

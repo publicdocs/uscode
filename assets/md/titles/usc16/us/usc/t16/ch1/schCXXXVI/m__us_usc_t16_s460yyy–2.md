@@ -97,7 +97,7 @@
 
         Nothing in this subchapter constitutes an express or implied reservation of any water right.
 
-([Pub. L. 111–11, title II, § 2203][/us/pl/111/11/s2203], Mar. 30, 2009, [123 Stat. 1100][/us/stat/123/1100].)
+([Pub. L. 111–11, title II][/us/pl/111/11/tII], § 2203, Mar. 30, 2009, [123 Stat. 1100][/us/stat/123/1100].)
 
  __References in Text__ 
 
@@ -112,7 +112,7 @@
 
 [/us/usc/t16/s460yyy–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460yyy%E2%80%931%2Fa
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
-[/us/pl/111/11/s2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs2203
+[/us/pl/111/11/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtII
 [/us/stat/123/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1100
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
 [/us/stat/90/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2743

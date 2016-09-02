@@ -117,11 +117,11 @@
 
         (4) The Secretary shall publish the standards and criteria established under paragraphs (1) and (2) of this subsection, and any revisions thereof, in the Federal Register.
 
-([Pub. L. 95–290, title III, § 302][/us/pl/95/290/s302], June 5, 1978, [92 Stat. 297][/us/stat/92/297].)
+([Pub. L. 95–290, title III][/us/pl/95/290/tIII], § 302, June 5, 1978, [92 Stat. 297][/us/stat/92/297].)
 
  __Codification__ 
 
-    In subsec. (b)(3)(C)(ii), “chapter 3021 and [section 320102(c) of title 54][/us/usc/t54/s320102/c]” substituted for “section 101(a) of the Act entitled ‘An Act to establish a program for the preservation of additional historic properties throughout the Nation, and for other purposes’, approved October 15, 1966 ([16 U.S.C. 470a][/us/usc/t16/s470a]), and section 2(b) of the Act entitled ‘An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes’, approved August 21, 1935 ([16 U.S.C. 462][/us/usc/t16/s462])” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (b)(3)(C)(ii), “chapter 3021 and [section 320102(c) of title 54][/us/usc/t54/s320102/c]” substituted for “section 101(a) of the Act entitled ‘An Act to establish a program for the preservation of additional historic properties throughout the Nation, and for other purposes’, approved October 15, 1966 ([16 U.S.C. 470a][/us/usc/t16/s470a]), and section 2(b) of the Act entitled ‘An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes’, approved August 21, 1935 ([16 U.S.C. 462][/us/usc/t16/s462])” on authority of [Pub. L. 113–287][/us/pl/113/287], § 6(e), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
 ----------
 
@@ -136,12 +136,12 @@
 [/us/usc/t16/s410cc–33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410cc%E2%80%9333
 [/us/usc/t16/s410cc–21/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410cc%E2%80%9321%2Fa%2F2
 [/us/usc/t16/s410cc–21/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410cc%E2%80%9321%2Fa%2F2
-[/us/pl/95/290/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F290%2Fs302
+[/us/pl/95/290/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F290%2FtIII
 [/us/stat/92/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F297
 [/us/usc/t54/s320102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320102%2Fc
 [/us/usc/t16/s470a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470a
 [/us/usc/t16/s462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs462
-[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 
 

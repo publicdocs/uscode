@@ -17,7 +17,7 @@
 
     The acreage specified in this subchapter is approximate and in the event of discrepancies between cited acreage and the lands depicted on reference maps, the maps shall control.
 
-([Pub. L. 100–499, § 21][/us/pl/100/499/s21], Oct. 18, 1988, [102 Stat. 2500][/us/stat/102/2500].)
+([Pub. L. 100–499][/us/pl/100/499], § 21, Oct. 18, 1988, [102 Stat. 2500][/us/stat/102/2500].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/499/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F499%2Fs21
+[/us/pl/100/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F499
 [/us/stat/102/2500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2500
 
 

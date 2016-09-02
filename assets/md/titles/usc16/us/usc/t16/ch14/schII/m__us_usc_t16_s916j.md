@@ -27,7 +27,7 @@
 
         The Secretary of Commerce may authorize officers and employees of the coastal States of the United States to enforce the provisions of the convention, or of the regulations of the Commission, or of this subchapter, or of the regulations of the Secretary of Commerce. When so authorized such officers and employees may function as Federal law-enforcement officers for the purposes of this subchapter.
 
-([Aug. 9, 1950, ch. 653, § 12][/us/act/1950-08-09/ch653/s12], [64 Stat. 425][/us/stat/64/425]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
+([Aug. 9, 1950, ch. 653][/us/act/1950-08-09/ch653], § 12, [64 Stat. 425][/us/stat/64/425]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
 
  __Transfer of Functions__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/act/1950-08-09/ch653/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch653%2Fs12
+[/us/act/1950-08-09/ch653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch653
 [/us/stat/64/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F425
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
 [/us/usc/t16/s916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs916

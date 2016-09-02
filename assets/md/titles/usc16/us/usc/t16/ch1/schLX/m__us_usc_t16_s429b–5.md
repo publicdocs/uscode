@@ -23,7 +23,7 @@
 
         Notwithstanding any other provision of sections 429b to 429b–5 of this title, authority to enter into contracts, to incur obligations, or to make payments under sections 429b to 429b–5 of this title shall be effective only to the extent, and in such amounts as are provided in advance in appropriation Acts.
 
-([Apr. 17, 1954, ch. 153, § 6][/us/act/1954-04-17/ch153/s6], as added [Pub. L. 96–442, § 2][/us/pl/96/442/s2], Oct. 13, 1980, [94 Stat. 1887][/us/stat/94/1887].)
+([Apr. 17, 1954, ch. 153][/us/act/1954-04-17/ch153], § 6, as added [Pub. L. 96–442][/us/pl/96/442], § 2, Oct. 13, 1980, [94 Stat. 1887][/us/stat/94/1887].)
 
 ----------
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/act/1954-04-17/ch153/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-04-17%2Fch153%2Fs6
-[/us/pl/96/442/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F442%2Fs2
+[/us/act/1954-04-17/ch153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-04-17%2Fch153
+[/us/pl/96/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F442
 [/us/stat/94/1887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1887
 
 

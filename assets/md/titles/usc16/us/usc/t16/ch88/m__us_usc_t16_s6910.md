@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the Secretary of Commerce such sums as may be necessary to carry out this chapter and to pay the United States’ contribution to the Commission under section 5 of part III of the WCPFC Convention.
 
-([Pub. L. 109–479, title V, § 511][/us/pl/109/479/s511], Jan. 12, 2007, [120 Stat. 3644][/us/stat/120/3644].)
+([Pub. L. 109–479, title V][/us/pl/109/479/tV], § 511, Jan. 12, 2007, [120 Stat. 3644][/us/stat/120/3644].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/479/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs511
+[/us/pl/109/479/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtV
 [/us/stat/120/3644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3644
 
 

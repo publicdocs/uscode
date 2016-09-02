@@ -37,7 +37,7 @@
 
         (3) the proposed research will be conducted as part of an existing private and public partnership or cooperative research effort and involves several interested research partners.
 
-([Pub. L. 95–307, § 5][/us/pl/95/307/s5], June 30, 1978, [92 Stat. 355][/us/stat/92/355]; [Pub. L. 105–185, title II, § 253(d)][/us/pl/105/185/s253/d], June 23, 1998, [112 Stat. 561][/us/stat/112/561].)
+([Pub. L. 95–307][/us/pl/95/307], § 5, June 30, 1978, [92 Stat. 355][/us/stat/92/355]; [Pub. L. 105–185, title II][/us/pl/105/185/tII], § 253(d), June 23, 1998, [112 Stat. 561][/us/stat/112/561].)
 
  __Amendments__ 
 
@@ -54,9 +54,9 @@
 [/us/usc/t16/s1642/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1642%2Fd
 [/us/usc/t16/s1642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1642
 [/us/usc/t16/s1642/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1642%2Fd
-[/us/pl/95/307/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F307%2Fs5
+[/us/pl/95/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F307
 [/us/stat/92/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F355
-[/us/pl/105/185/s253/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2Fs253%2Fd
+[/us/pl/105/185/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185%2FtII
 [/us/stat/112/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F561
 [/us/pl/105/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F185
 

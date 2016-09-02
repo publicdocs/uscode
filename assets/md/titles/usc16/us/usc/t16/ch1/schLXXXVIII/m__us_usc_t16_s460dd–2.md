@@ -23,7 +23,7 @@
 
         All receipts derived from permits and leases issued on lands in the recreation area under the Mineral Leasing Act of February 25, 1920, as amended \[[30 U.S.C. 181][/us/usc/t30/s181] et seq.\], or the Act of August 7, 1947 \[[30 U.S.C. 351][/us/usc/t30/s351] et seq.\], shall be disposed of as provided in the applicable Act; and receipts from the disposition of nonleasable minerals within the recreation area shall be disposed of in the same manner as moneys received from the sale of public lands.
 
-([Pub. L. 92–593, § 3][/us/pl/92/593/s3], Oct. 27, 1972, [86 Stat. 1312][/us/stat/86/1312].)
+([Pub. L. 92–593][/us/pl/92/593], § 3, Oct. 27, 1972, [86 Stat. 1312][/us/stat/86/1312].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 [/us/usc/t30/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs351
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
 [/us/usc/t30/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs351
-[/us/pl/92/593/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F593%2Fs3
+[/us/pl/92/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F593
 [/us/stat/86/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1312
 [/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F437

@@ -17,7 +17,7 @@
 
     When establishment of the monument has been effected, pursuant to sections 450oo to 450oo–10 of this title, the Secretary of the Interior shall administer, protect, and develop the monument in accordance with the provisions of the Act entitled “An Act to establish a National Park Service, and for other purposes” approved August 25, 1916 ([39 Stat. 535][/us/stat/39/535]), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended.
 
-([Pub. L. 85–910, § 10][/us/pl/85/910/s10], Sept. 2, 1958, [72 Stat. 1753][/us/stat/72/1753].)
+([Pub. L. 85–910][/us/pl/85/910], § 10, Sept. 2, 1958, [72 Stat. 1753][/us/stat/72/1753].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
-[/us/pl/85/910/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F910%2Fs10
+[/us/pl/85/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F910
 [/us/stat/72/1753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1753
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408

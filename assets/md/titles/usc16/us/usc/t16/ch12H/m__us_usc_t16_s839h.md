@@ -17,7 +17,7 @@
 
     If any provision of section 839b(a) through (c) of this title or any other provision of this chapter or the application thereof to any person, State, Indian tribe, entity, or circumstance is held invalid, neither the remainder of [section 839b of this title][/us/usc/t16/s839b] or any other provisions of this chapter, nor the application of such provisions to other persons, States, Indian tribes, entities, or circumstances, shall be affected thereby.
 
-([Pub. L. 96–501, § 12][/us/pl/96/501/s12], Dec. 5, 1980, [94 Stat. 2736][/us/stat/94/2736].)
+([Pub. L. 96–501][/us/pl/96/501], § 12, Dec. 5, 1980, [94 Stat. 2736][/us/stat/94/2736].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s839b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs839b
-[/us/pl/96/501/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501%2Fs12
+[/us/pl/96/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501
 [/us/stat/94/2736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2736
 
 

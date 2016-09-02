@@ -19,7 +19,7 @@
 
     As employed in this chapter, the term “cooperative,” or “cooperatives,” means any form of nonprofit-making organization or organizations of citizens supplying, or which may be created to supply, members with any kind of goods, commodities, or services, as nearly as possible at cost.
 
-([May 18, 1938, ch. 250, § 3][/us/act/1938-05-18/ch250/s3], [52 Stat. 405][/us/stat/52/405].)
+([May 18, 1938, ch. 250][/us/act/1938-05-18/ch250], § 3, [52 Stat. 405][/us/stat/52/405].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/act/1938-05-18/ch250/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-18%2Fch250%2Fs3
+[/us/act/1938-05-18/ch250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-18%2Fch250
 [/us/stat/52/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F405
 
 

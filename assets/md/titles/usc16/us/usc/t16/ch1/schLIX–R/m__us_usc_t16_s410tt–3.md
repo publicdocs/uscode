@@ -45,7 +45,7 @@
 
         During the 10-year period beginning on February 24, 1992, the Secretary shall, subject to appropriations, provide the funds for the employees of the Government of the United States Virgin Islands directly engaged in the joint management of the park and shall implement, in consultation with the Government of the United States Virgin Islands, a program under which Virgin Islands citizens may be trained in all phases of park operations and management: Provided, however, That in no event shall the Secretary provide more than 50 percent of the funding for such purposes. A primary objective of the program shall be to train employees in the skills necessary for operating and managing a Virgin Islands Territorial Park System.
 
-([Pub. L. 102–247, title I, § 105][/us/pl/102/247/s105], Feb. 24, 1992, [106 Stat. 34][/us/stat/106/34]; [Pub. L. 103–437, § 6(d)(13)][/us/pl/103/437/s6/d/13], Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
+([Pub. L. 102–247, title I][/us/pl/102/247/tI], § 105, Feb. 24, 1992, [106 Stat. 34][/us/stat/106/34]; [Pub. L. 103–437][/us/pl/103/437], § 6(d)(13), Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
 
  __References in Text__ 
 
@@ -76,9 +76,9 @@
 [/us/usc/t16/s461–467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461%E2%80%93467
 [/us/usc/t16/s410tt–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410tt%E2%80%934
 [/us/usc/t16/s470aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470aa
-[/us/pl/102/247/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F247%2Fs105
+[/us/pl/102/247/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F247%2FtI
 [/us/stat/106/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F34
-[/us/pl/103/437/s6/d/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fd%2F13
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4584
 [/us/pl/102/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F247
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535

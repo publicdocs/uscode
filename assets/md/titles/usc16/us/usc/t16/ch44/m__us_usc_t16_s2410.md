@@ -17,7 +17,7 @@
 
     The district courts of the United States shall have exclusive jurisdiction over any case or controversy arising under the provisions of this chapter or of any regulation prescribed, or permit issued, under this chapter.
 
-([Pub. L. 95–541, § 11][/us/pl/95/541/s11], Oct. 28, 1978, [92 Stat. 2056][/us/stat/92/2056].)
+([Pub. L. 95–541][/us/pl/95/541], § 11, Oct. 28, 1978, [92 Stat. 2056][/us/stat/92/2056].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/541/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F541%2Fs11
+[/us/pl/95/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F541
 [/us/stat/92/2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2056
 
 

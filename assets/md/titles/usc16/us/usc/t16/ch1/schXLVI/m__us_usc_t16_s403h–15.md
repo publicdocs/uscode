@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to convey to the State of Tennessee, subject to such conditions as he may deem necessary to preserve the natural beauty of the adjacent park lands, approximately twenty-eight acres of land comprising a portion of the right-of-way of Tennessee State Route 72 (U.S. 129), and approximately forty-one acres comprising portions of the right-of-way of Tennessee State Route 73 east of Gatlinburg, which are within the boundary of the Great Smoky Mountains National Park.
 
-([Pub. L. 91–57, § 1][/us/pl/91/57/s1], Aug. 9, 1969, [83 Stat. 100][/us/stat/83/100].)
+([Pub. L. 91–57][/us/pl/91/57], § 1, Aug. 9, 1969, [83 Stat. 100][/us/stat/83/100].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/57/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F57%2Fs1
+[/us/pl/91/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F57
 [/us/stat/83/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F100
 
 

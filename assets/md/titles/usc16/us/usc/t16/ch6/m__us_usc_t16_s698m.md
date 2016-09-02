@@ -19,11 +19,11 @@
 
     (b) There is hereby authorized to be appropriated from the Land and Water Conservation Fund not to exceed $49,500,000 for the acquisition of lands within the Addition. There is hereby authorized to be appropriated such sums as may be necessary for development in the Addition.
 
-([Pub. L. 93–440, § 8][/us/pl/93/440/s8], Oct. 11, 1974, [88 Stat. 1261][/us/stat/88/1261]; [Pub. L. 95–625, title II, § 201(1)][/us/pl/95/625/s201/1], Nov. 10, 1978, [92 Stat. 3473][/us/stat/92/3473]; [Pub. L. 100–301, § 7][/us/pl/100/301/s7], Apr. 29, 1988, [102 Stat. 446][/us/stat/102/446].)
+([Pub. L. 93–440][/us/pl/93/440], § 8, Oct. 11, 1974, [88 Stat. 1261][/us/stat/88/1261]; [Pub. L. 95–625, title II][/us/pl/95/625/tII], § 201(1), Nov. 10, 1978, [92 Stat. 3473][/us/stat/92/3473]; [Pub. L. 100–301][/us/pl/100/301], § 7, Apr. 29, 1988, [102 Stat. 446][/us/stat/102/446].)
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–301, § 7(1)][/us/pl/100/301/s7/1], designated existing provisions as subsec. (a), substituted “Except as provided in subsection (b), there” for “There”, and added subsec. (b).
+    1988—Subsec. (a). [Pub. L. 100–301][/us/pl/100/301], § 7(1), designated existing provisions as subsec. (a), substituted “Except as provided in subsection (b), there” for “There”, and added subsec. (b).
 
     1978—[Pub. L. 95–625][/us/pl/95/625] increased land acquisition appropriations authorization to $156,700,000 from $116,000,000.
 
@@ -34,13 +34,13 @@
 ----------
 ----------
 
-[/us/pl/93/440/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F440%2Fs8
+[/us/pl/93/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F440
 [/us/stat/88/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1261
-[/us/pl/95/625/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs201%2F1
+[/us/pl/95/625/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtII
 [/us/stat/92/3473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3473
-[/us/pl/100/301/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301%2Fs7
+[/us/pl/100/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301
 [/us/stat/102/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F446
-[/us/pl/100/301/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301%2Fs7%2F1
+[/us/pl/100/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301
 [/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
 
 

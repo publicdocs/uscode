@@ -33,7 +33,7 @@ combined parcels a and b
 
     Beginning at the corner common to sections 31 and 32, township 4 north, range 75 west, and sections 5 and 6, township 3 north, range 75 west, sixth principal meridian; thence south 88 degrees 55 minutes east, 660.0 feet along the south section line of said section 32; thence north 800.0 feet; thence west 660.0 feet, more or less, to a point on the section line common to said sections 31 and 32; thence continuing west 1,000.0 feet; thence south 134.06 feet; thence west 329.75 feet; thence south 166.94 feet; thence west 1,078.6 feet; thence south 497.82 feet, more or less, to a point on the south section line of said section 31; thence south 89 degrees 24 minutes east, 2,389.47 feet along the south section line of said section 31 to the point of beginning; the tract as described containing approximately 47 acres.
 
-([Pub. L. 87–146, § 3][/us/pl/87/146/s3], Aug. 17, 1961, [75 Stat. 383][/us/stat/75/383].)
+([Pub. L. 87–146][/us/pl/87/146], § 3, Aug. 17, 1961, [75 Stat. 383][/us/stat/75/383].)
 
 ----------
 
@@ -42,7 +42,7 @@ combined parcels a and b
 ----------
 ----------
 
-[/us/pl/87/146/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F146%2Fs3
+[/us/pl/87/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F146
 [/us/stat/75/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F383
 
 

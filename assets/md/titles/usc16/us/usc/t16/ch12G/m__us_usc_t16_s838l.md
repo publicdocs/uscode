@@ -167,7 +167,7 @@
 
             Except as provided in subsection (e), this section does not affect the authority of the Administrator to pay all or a portion of the principal amount associated with a capital investment before the repayment date for the principal amount.
 
-([Pub. L. 104–134, title III, § 3201][/us/pl/104/134/s3201], Apr. 26, 1996, [110 Stat. 1321–350][/us/stat/110/1321-350].)
+([Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 3201, Apr. 26, 1996, [110 Stat. 1321–350][/us/stat/110/1321-350].)
 
  __Codification__ 
 
@@ -186,7 +186,7 @@
 [/us/usc/t31/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1304
 [/us/usc/t16/s839e/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs839e%2Fg
 [/us/usc/t16/s838k/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs838k%2Fb
-[/us/pl/104/134/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs3201
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-350
 [/us/pl/104/134/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs3201
 [/us/pl/104/134/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs3201

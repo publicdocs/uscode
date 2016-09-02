@@ -39,11 +39,11 @@
 
         (2) designate certain National Forest System lands in the State of Oklahoma as a national recreation area, 2 botanical areas, a national scenic area, and a national scenic and wildlife area in order to enhance and further certain natural resources characteristics.
 
-([Pub. L. 100–499, § 2][/us/pl/100/499/s2], Oct. 18, 1988, [102 Stat. 2491][/us/stat/102/2491].)
+([Pub. L. 100–499][/us/pl/100/499], § 2, Oct. 18, 1988, [102 Stat. 2491][/us/stat/102/2491].)
 
  __Short Title__ 
 
-[Pub. L. 100–499, § 1][/us/pl/100/499/s1], Oct. 18, 1988, [102 Stat. 2491][/us/stat/102/2491], provided that: 
+[Pub. L. 100–499][/us/pl/100/499], § 1, Oct. 18, 1988, [102 Stat. 2491][/us/stat/102/2491], provided that: 
 
 > “This Act \[enacting this subchapter\] may be referred to as the ‘Winding Stair Mountain National Recreation and Wilderness Area Act’.”
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/100/499/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F499%2Fs2
+[/us/pl/100/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F499
 [/us/stat/102/2491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2491
-[/us/pl/100/499/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F499%2Fs1
+[/us/pl/100/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F499
 [/us/stat/102/2491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2491
 
 

@@ -43,7 +43,7 @@
 
     (10) provide that the designated State agency consult, as appropriate, with Federal agencies, and other State agencies during the development, revision, and implementation of the plan, in order to minimize duplication of efforts and to ensure that the best information is available to all such agencies.
 
-([Pub. L. 96–366, § 4][/us/pl/96/366/s4], Sept. 29, 1980, [94 Stat. 1323][/us/stat/94/1323].)
+([Pub. L. 96–366][/us/pl/96/366], § 4, Sept. 29, 1980, [94 Stat. 1323][/us/stat/94/1323].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/96/366/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F366%2Fs4
+[/us/pl/96/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F366
 [/us/stat/94/1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1323
 
 

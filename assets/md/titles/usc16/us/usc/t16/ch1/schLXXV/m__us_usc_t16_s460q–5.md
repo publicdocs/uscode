@@ -19,7 +19,7 @@
 
     All receipts derived from permits and leases issued under the authority of this section on lands administered by the Secretary of Agriculture shall be paid into the same funds or accounts in the Treasury of the United States and shall be distributed in the same manner as provided for other receipts from the lands affected by the lease or permit, except that any receipts derived from permits or leases issued on those or other lands in the recreation area under the Mineral Leasing Act of February 25, 1920, as amended, or the Act of August 7, 1947, shall be disposed of as provided in the applicable Act; and receipts from the disposition of nonleasable minerals from public lands under the jurisdiction of the Secretary of the Interior shall be disposed of in the same manner as moneys received from the sale of public lands.
 
-([Pub. L. 89–336, § 6][/us/pl/89/336/s6], Nov. 8, 1965, [79 Stat. 1298][/us/stat/79/1298].)
+([Pub. L. 89–336][/us/pl/89/336], § 6, Nov. 8, 1965, [79 Stat. 1298][/us/stat/79/1298].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 [/us/usc/t30/s192c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs192c
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
 [/us/usc/t30/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs351
-[/us/pl/89/336/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F336%2Fs6
+[/us/pl/89/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F336
 [/us/stat/79/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1298
 [/us/act/1947-08-07/ch513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-07%2Fch513
 [/us/stat/61/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F913

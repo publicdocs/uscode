@@ -45,7 +45,7 @@
 
             (B) With respect to any proposed action to be taken under paragraph (2) of this subsection, if the Secretary determines within 60 days after October 22, 1982, after taking into account timetable and funding projections, that, consistent with the General Management Plan dated October 1979, public use or development is anticipated before 1998 for an area containing any improved property described in subsection (a)(2), the Secretary shall include notice of such determination in any notification under subparagraph (A) of this paragraph. Any failure of the Secretary to so notify an occupier pursuant to this subparagraph shall not preclude the Secretary from taking action under paragraph (2) at some future date.
 
-([Pub. L. 91–479, § 11][/us/pl/91/479/s11], Oct. 21, 1970, [84 Stat. 1080][/us/stat/84/1080]; [Pub. L. 97–361, § 2][/us/pl/97/361/s2], Oct. 22, 1982, [96 Stat. 1721][/us/stat/96/1721].)
+([Pub. L. 91–479][/us/pl/91/479], § 11, Oct. 21, 1970, [84 Stat. 1080][/us/stat/84/1080]; [Pub. L. 97–361][/us/pl/97/361], § 2, Oct. 22, 1982, [96 Stat. 1721][/us/stat/96/1721].)
 
  __Amendments__ 
 
@@ -60,9 +60,9 @@
 
 [/us/usc/t16/s460x–9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460x%E2%80%939%2Fb
 [/us/usc/t16/s460x–9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460x%E2%80%939%2Fb
-[/us/pl/91/479/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F479%2Fs11
+[/us/pl/91/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F479
 [/us/stat/84/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1080
-[/us/pl/97/361/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F361%2Fs2
+[/us/pl/97/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F361
 [/us/stat/96/1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1721
 [/us/pl/97/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F361
 

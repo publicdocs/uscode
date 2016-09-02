@@ -19,7 +19,7 @@
 
     (b) The Secretary shall deposit into a special account all fees collected pursuant to this Act. Such fees are hereby made available for obligation and expenditure for the purpose of furthering the “Woodsy Owl” campaign.
 
-([Pub. L. 93–318, § 3][/us/pl/93/318/s3], June 22, 1974, [88 Stat. 245][/us/stat/88/245].)
+([Pub. L. 93–318][/us/pl/93/318], § 3, June 22, 1974, [88 Stat. 245][/us/stat/88/245].)
 
  __References in Text__ 
 
@@ -27,7 +27,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 488b–5 of Title 31][/us/usc/t31/s488b–5] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258, § 1][/us/pl/97/258/s1], Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
+    Section was formerly classified to [section 488b–5 of Title 31][/us/usc/t31/s488b–5] prior to the general revision and enactment of Title 31, Money and Finance, by [Pub. L. 97–258][/us/pl/97/258], § 1, Sept. 13, 1982, [96 Stat. 877][/us/stat/96/877].
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/93/318/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F318%2Fs3
+[/us/pl/93/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F318
 [/us/stat/88/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F245
 [/us/pl/93/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F318
 [/us/stat/88/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F244
@@ -44,7 +44,7 @@
 [/us/usc/t16/s580p–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs580p%E2%80%932
 [/us/usc/t18/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs711
 [/us/usc/t31/s488b–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs488b%E2%80%935
-[/us/pl/97/258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs1
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F877
 
 

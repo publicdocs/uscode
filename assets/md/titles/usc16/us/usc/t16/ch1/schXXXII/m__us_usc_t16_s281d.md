@@ -17,7 +17,7 @@
 
     When the Secretary of the Interior determines that he has acquired title to, or interest in, sufficient properties or determines that he has entered into appropriate cooperative agreements with owners of non-Federal properties, or any combination thereof including the designation of sites already in Federal ownership, he shall by publication in the Federal Register establish the Nez Perce National Historical Park and thereafter administer the Federal property under his administrative jurisdiction in accordance with the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]; [16 U.S.C. 1][/us/usc/t16/s1] et seq.), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended and supplemented.
 
-([Pub. L. 89–19, § 5][/us/pl/89/19/s5], May 15, 1965, [79 Stat. 110][/us/stat/79/110].)
+([Pub. L. 89–19][/us/pl/89/19], § 5, May 15, 1965, [79 Stat. 110][/us/stat/79/110].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
-[/us/pl/89/19/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F19%2Fs5
+[/us/pl/89/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F19
 [/us/stat/79/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F110
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1

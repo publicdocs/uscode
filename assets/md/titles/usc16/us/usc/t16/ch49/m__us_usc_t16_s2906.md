@@ -21,7 +21,7 @@
 
     (2) Upon a finding by the Secretary, after notice and opportunity for an agency hearing on the record, that any State has received reimbursement under [section 2905 of this title][/us/usc/t16/s2905] for which it is not eligible, or has violated any term or condition imposed under this section, the State shall thereafter be ineligible to receive reimbursement under such section until restitution satisfactory to the Secretary is made, such violation ceases, or adverse effects resulting from such violation are remedied.
 
-([Pub. L. 96–366, § 7][/us/pl/96/366/s7], Sept. 29, 1980, [94 Stat. 1327][/us/stat/94/1327].)
+([Pub. L. 96–366][/us/pl/96/366], § 7, Sept. 29, 1980, [94 Stat. 1327][/us/stat/94/1327].)
 
 ----------
 
@@ -33,7 +33,7 @@
 [/us/usc/t16/s2905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2905
 [/us/usc/t16/s2905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2905
 [/us/usc/t16/s2905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2905
-[/us/pl/96/366/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F366%2Fs7
+[/us/pl/96/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F366
 [/us/stat/94/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1327
 
 

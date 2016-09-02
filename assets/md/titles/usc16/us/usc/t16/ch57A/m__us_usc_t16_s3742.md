@@ -23,7 +23,7 @@
 
     (3) to encourage private donations, under the leadership of the States and of the National Fish and Wildlife Foundation, to carry out wildlife conservation and appreciation projects.
 
-([Pub. L. 102–587, title VII, § 7103][/us/pl/102/587/s7103], Nov. 4, 1992, [106 Stat. 5095][/us/stat/106/5095]; [Pub. L. 103–375, § 6(1)][/us/pl/103/375/s6/1], Oct. 19, 1994, [108 Stat. 3495][/us/stat/108/3495].)
+([Pub. L. 102–587, title VII][/us/pl/102/587/tVII], § 7103, Nov. 4, 1992, [106 Stat. 5095][/us/stat/106/5095]; [Pub. L. 103–375][/us/pl/103/375], § 6(1), Oct. 19, 1994, [108 Stat. 3495][/us/stat/108/3495].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/102/587/s7103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs7103
+[/us/pl/102/587/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtVII
 [/us/stat/106/5095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5095
-[/us/pl/103/375/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375%2Fs6%2F1
+[/us/pl/103/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375
 [/us/stat/108/3495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3495
 [/us/pl/103/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375
 

@@ -27,7 +27,7 @@
 
         Subject to the appropriation of funds by Congress, the Secretary of Agriculture is authorized to acquire privately owned land within the perimeter of any area designated by this chapter as wilderness if (1) the owner concurs in such acquisition or (2) the acquisition is specifically authorized by Congress.
 
-([Pub. L. 88–577, § 5][/us/pl/88/577/s5], Sept. 3, 1964, [78 Stat. 896][/us/stat/78/896].)
+([Pub. L. 88–577][/us/pl/88/577], § 5, Sept. 3, 1964, [78 Stat. 896][/us/stat/78/896].)
 
  __Transfer of Functions__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/88/577/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577%2Fs5
+[/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F896
 [/us/stat/93/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1373
 [/us/pl/102/486/s3012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3012%2Fb

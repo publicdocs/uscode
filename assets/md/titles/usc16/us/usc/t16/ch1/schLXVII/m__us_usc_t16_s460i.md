@@ -17,7 +17,7 @@
 
     The Secretary of the Army may delegate any authority conferred upon him by this subchapter to any officer or employee of the Department of the Army. Any such officer or employee shall exercise the authority so delegated under rules and regulations approved by the Secretary.
 
-([Aug. 6, 1956, ch. 987, § 5][/us/act/1956-08-06/ch987/s5], [70 Stat. 1066][/us/stat/70/1066].)
+([Aug. 6, 1956, ch. 987][/us/act/1956-08-06/ch987], § 5, [70 Stat. 1066][/us/stat/70/1066].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1956-08-06/ch987/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch987%2Fs5
+[/us/act/1956-08-06/ch987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch987
 [/us/stat/70/1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1066
 
 

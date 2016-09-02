@@ -23,7 +23,7 @@
 
         The Secretary shall continue to allow public right of access, including commercial vehicles, to Glade Park, Colorado, in accordance with the decision in Board of County Commissioners of Mesa County v. Watt (634 F. Supp. 1265 (D.Colo.; May 2, 1986)).
 
-([Pub. L. 106–353, § 9][/us/pl/106/353/s9], Oct. 24, 2000, [114 Stat. 1380][/us/stat/114/1380].)
+([Pub. L. 106–353][/us/pl/106/353], § 9, Oct. 24, 2000, [114 Stat. 1380][/us/stat/114/1380].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/106/353/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F353%2Fs9
+[/us/pl/106/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F353
 [/us/stat/114/1380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1380
 
 

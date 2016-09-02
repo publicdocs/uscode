@@ -43,7 +43,7 @@
 
         The Secretary of the Interior may provide for the use of snowmobiles along the East Shore Trail of Shadow Mountain Lake if after study the Secretary determines such use will not result in any significant adverse impact upon wildlife.
 
-([Pub. L. 96–560, title I, § 111][/us/pl/96/560/s111], Dec. 22, 1980, [94 Stat. 3271][/us/stat/94/3271].)
+([Pub. L. 96–560, title I][/us/pl/96/560/tI], § 111, Dec. 22, 1980, [94 Stat. 3271][/us/stat/94/3271].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 
  __Encouragement of Land Exchanges__ 
 
-[Pub. L. 104–333, div. I, title IV, § 408(b)][/us/pl/104/333/s408/b], Nov. 12, 1996, [110 Stat. 4153][/us/stat/110/4153], provided that:
+[Pub. L. 104–333, div. I, title IV][/us/pl/104/333/dI/tIV], § 408(b), Nov. 12, 1996, [110 Stat. 4153][/us/stat/110/4153], provided that:
 
 >     “(1)  __Lands inside rocky mountain national park__  __.—__ 
 
@@ -74,7 +74,7 @@
 [/us/stat/92/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1099
 [/us/usc/t16/s460jj]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460jj
 [/us/usc/t16/s1279/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1279%2Fa
-[/us/pl/96/560/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F560%2Fs111
+[/us/pl/96/560/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F560%2FtI
 [/us/stat/94/3271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3271
 [/us/pl/96/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F560
 [/us/stat/94/3265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3265
@@ -83,7 +83,7 @@
 [/us/pl/95/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F450
 [/us/stat/92/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1095
 [/us/usc/t16/s460jj]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460jj
-[/us/pl/104/333/s408/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs408%2Fb
+[/us/pl/104/333/dI/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtIV
 [/us/stat/110/4153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4153
 [/us/pl/96/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F560
 [/us/stat/94/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3272

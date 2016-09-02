@@ -27,7 +27,7 @@
 
         Within three years from December 18, 1971, the Secretary of the Interior shall report to the President, in accordance with subsections 3(c) and 3(d) of the Wilderness Act \[[16 U.S.C. 1132][/us/usc/t16/s1132] (c) and (d)\], his recommendations as to the suitability or nonsuitability of any area within the park for preservation as wilderness, and any designation of any such area as a wilderness shall be in accordance with said Wilderness Act \[[16 U.S.C. 1131][/us/usc/t16/s1131] et seq.\].
 
-([Pub. L. 92–207, § 5][/us/pl/92/207/s5], Dec. 18, 1971, [85 Stat. 740][/us/stat/85/740].)
+([Pub. L. 92–207][/us/pl/92/207], § 5, Dec. 18, 1971, [85 Stat. 740][/us/stat/85/740].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 [/us/usc/t16/s1–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1%E2%80%934
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
-[/us/pl/92/207/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F207%2Fs5
+[/us/pl/92/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F207
 [/us/stat/85/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F740
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1%E2%80%934

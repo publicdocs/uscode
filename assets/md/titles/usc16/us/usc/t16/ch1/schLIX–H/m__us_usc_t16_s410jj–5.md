@@ -27,7 +27,7 @@
 
     (5) Patients shall continue to have the right to take and utilize plant and other natural resources for traditional purposes in accordance with applicable State and Federal laws.
 
-([Pub. L. 96–565, title I, § 106][/us/pl/96/565/s106], Dec. 22, 1980, [94 Stat. 3323][/us/stat/94/3323].)
+([Pub. L. 96–565, title I][/us/pl/96/565/tI], § 106, Dec. 22, 1980, [94 Stat. 3323][/us/stat/94/3323].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/96/565/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F565%2Fs106
+[/us/pl/96/565/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F565%2FtI
 [/us/stat/94/3323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3323
 
 

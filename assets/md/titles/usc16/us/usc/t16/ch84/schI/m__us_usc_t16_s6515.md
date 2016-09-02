@@ -65,15 +65,15 @@
 
                 If an agency fails or is unable to make information timely available during the administrative review process, a court should evaluate whether the administrative review process was inadequate for claims or issues to which the information is material.
 
-([Pub. L. 108–148, title I, § 105][/us/pl/108/148/s105], Dec. 3, 2003, [117 Stat. 1899][/us/stat/117/1899].)
+([Pub. L. 108–148, title I][/us/pl/108/148/tI], § 105, Dec. 3, 2003, [117 Stat. 1899][/us/stat/117/1899].)
 
  __Forest Service Pre-Decisional Objection Process__ 
 
-[Pub. L. 113–79, title VIII, § 8006(b)][/us/pl/113/79/s8006/b], Feb. 7, 2014, [128 Stat. 913][/us/stat/128/913], provided that: 
+[Pub. L. 113–79, title VIII][/us/pl/113/79/tVIII], § 8006(b), Feb. 7, 2014, [128 Stat. 913][/us/stat/128/913], provided that: 
 
 > “Section 428 of division E of the Consolidated Appropriations Act, 2012 ([16 U.S.C. 6515][/us/usc/t16/s6515] note; [Public Law 112–74][/us/pl/112/74]) shall not apply to any project or activity implementing a land and resource management plan developed under section 6 of the Forest and Rangeland Renewable Resources Planning Act of 1974 ([16 U.S.C. 1604][/us/usc/t16/s1604]) that is categorically excluded from documentation in an environmental assessment or an environmental impact statement under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.).”
 
-[Pub. L. 112–74, div. E, title IV, § 428][/us/pl/112/74/s428], Dec. 23, 2011, [125 Stat. 1046][/us/stat/125/1046], provided that: 
+[Pub. L. 112–74, div. E, title IV][/us/pl/112/74/dE/tIV], § 428, Dec. 23, 2011, [125 Stat. 1046][/us/stat/125/1046], provided that: 
 
 > “Hereafter, upon issuance of final regulations, the Secretary of Agriculture, acting through the Chief of the Forest Service, shall apply section 105(a) of the Healthy Forests Restoration Act of 2003 ([16 U.S.C. 6515(a)][/us/usc/t16/s6515/a]), providing for a pre-decisional objection process, to proposed actions of the Forest Service concerning projects and activities implementing land and resource management plans developed under the Forest and Rangeland Renewable Resources Planning Act of 1974 ([16 U.S.C. 1600][/us/usc/t16/s1600] et seq.), and documented with a Record of Decision or Decision Notice, in lieu of subsections (c), (d), and (e) of [section 322 of Public Law 102–381][/us/pl/102/381/s322] (\[former\] [16 U.S.C. 1612][/us/usc/t16/s1612] note), providing for an administrative appeal process: Provided, That if the Chief of the Forest Service determines an emergency situation exists for which immediate implementation of a proposed action is necessary, the proposed action shall not be subject to the pre-decisional objection process, and implementation shall begin immediately after the Forest Service gives notice of the final decision for the proposed action: Provided further, That this section shall not apply to an authorized hazardous fuel reduction project under title I of the Healthy Forests Restoration Act of 2003 ([16 U.S.C. 6501][/us/usc/t16/s6501] et seq.) \[probably should be [16 U.S.C. 6511][/us/usc/t16/s6511] et seq.\].”
 
@@ -85,15 +85,15 @@
 ----------
 
 [/us/usc/t16/s6516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6516
-[/us/pl/108/148/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2Fs105
+[/us/pl/108/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2FtI
 [/us/stat/117/1899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1899
-[/us/pl/113/79/s8006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8006%2Fb
+[/us/pl/113/79/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVIII
 [/us/stat/128/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F913
 [/us/usc/t16/s6515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6515
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/usc/t16/s1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1604
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/112/74/s428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs428
+[/us/pl/112/74/dE/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdE%2FtIV
 [/us/stat/125/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1046
 [/us/usc/t16/s6515/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6515%2Fa
 [/us/usc/t16/s1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1600

@@ -89,11 +89,11 @@
 
         In issuing any licenses under this section except an annual license, the Commission, on its own motion or upon application of any licensee, person, State, municipality, or State commission, after notice to each State commission and licensee affected, and after opportunity for hearing, whenever it finds that in conformity with a comprehensive plan for improving or developing a waterway or waterways for beneficial public uses all or part of any licensed project should no longer be used or adapted for use for power purposes, may license all or part of the project works for nonpower use. A license for nonpower use shall be issued to a new licensee only on the condition that the new licensee shall, before taking possession of the facilities encompassed thereunder, pay such amount and assume such contracts as the United States is required to do, in the manner specified in [section 807 of this title][/us/usc/t16/s807]. Any license for nonpower use shall be a temporary license. Whenever, in the judgment of the Commission, a State, municipality, interstate agency, or another Federal agency is authorized and willing to assume regulatory supervision of the lands and facilities included under the nonpower license and does so, the Commission shall thereupon terminate the license. Consistent with the provisions of subchapter IV of this chapter, every licensee for nonpower use shall keep such accounts and file such annual and other periodic or special reports concerning the removal, alteration, nonpower use, or other disposition of any project works or parts thereof covered by the nonpower use license as the Commission may by rules and regulations or order prescribe as necessary or appropriate.
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. I, § 15, [41 Stat. 1072][/us/stat/41/1072]; renumbered pt. I, [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, § 212, [49 Stat. 847][/us/stat/49/847]; [Pub. L. 90–451, § 3][/us/pl/90/451/s3], Aug. 3, 1968, [82 Stat. 617][/us/stat/82/617]; [Pub. L. 99–495][/us/pl/99/495], §§ 4(a), (b)(1), 5, Oct. 16, 1986, [100 Stat. 1245][/us/stat/100/1245], 1248.)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. I, § 15, [41 Stat. 1072][/us/stat/41/1072]; renumbered pt. I, [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, § 212, [49 Stat. 847][/us/stat/49/847]; [Pub. L. 90–451][/us/pl/90/451], § 3, Aug. 3, 1968, [82 Stat. 617][/us/stat/82/617]; [Pub. L. 99–495][/us/pl/99/495], §§ 4(a), (b)(1), 5, Oct. 16, 1986, [100 Stat. 1245][/us/stat/100/1245], 1248.)
 
  __Amendments__ 
 
-    1986—Subsec. (a). [Pub. L. 99–495, § 4(a)][/us/pl/99/495/s4/a], (b)(1), designated existing provisions as par. (1), substituted “existing” for “original” wherever appearing, and added pars. (2) and (3).
+    1986—Subsec. (a). [Pub. L. 99–495][/us/pl/99/495], § 4(a), (b)(1), designated existing provisions as par. (1), substituted “existing” for “original” wherever appearing, and added pars. (2) and (3).
 
     Subsecs. (b) to (f). [Pub. L. 99–495][/us/pl/99/495], §§ 4(a), 5, added subsecs. (b) to (e) and redesignated former subsec. (b) as (f).
 
@@ -121,11 +121,11 @@
 [/us/stat/41/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1072
 [/us/act/1935-08-26/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-26%2Fch687
 [/us/stat/49/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F847
-[/us/pl/90/451/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F451%2Fs3
+[/us/pl/90/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F451
 [/us/stat/82/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F617
 [/us/pl/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495
 [/us/stat/100/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1245
-[/us/pl/99/495/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495%2Fs4%2Fa
+[/us/pl/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495
 [/us/pl/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495
 [/us/pl/90/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F451
 [/us/pl/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495

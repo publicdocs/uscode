@@ -59,7 +59,7 @@
 
         The Director shall, with the funds made available in accordance with [section 3955 of this title][/us/usc/t16/s3955], direct the U.S. Fish and Wildlife Service’s National Wetland Inventory to update and digitize wetlands maps in the State of Texas and to conduct an assessment of the status, condition, and trends of wetlands in that State.
 
-([Pub. L. 101–646, title III, § 305][/us/pl/101/646/s305], Nov. 29, 1990, [104 Stat. 4785][/us/stat/104/4785]; [Pub. L. 102–212, title III, § 302(a)][/us/pl/102/212/s302/a], Dec. 11, 1991, [105 Stat. 1660][/us/stat/105/1660].)
+([Pub. L. 101–646, title III][/us/pl/101/646/tIII], § 305, Nov. 29, 1990, [104 Stat. 4785][/us/stat/104/4785]; [Pub. L. 102–212, title III][/us/pl/102/212/tIII], § 302(a), Dec. 11, 1991, [105 Stat. 1660][/us/stat/105/1660].)
 
  __Amendments__ 
 
@@ -73,7 +73,7 @@
 
  __Effective Date of 1991 Amendment__ 
 
-[Pub. L. 102–212, title III, § 302(b)][/us/pl/102/212/s302/b], Dec. 11, 1991, [105 Stat. 1661][/us/stat/105/1661], provided that: 
+[Pub. L. 102–212, title III][/us/pl/102/212/tIII], § 302(b), Dec. 11, 1991, [105 Stat. 1661][/us/stat/105/1661], provided that: 
 
 > “This section \[amending this section\] shall apply to grants awarded in fiscal year 1992 and each fiscal year thereafter.”
 
@@ -87,12 +87,12 @@
 [/us/usc/t16/s3955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3955
 [/us/usc/t16/s3921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3921
 [/us/usc/t16/s3955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3955
-[/us/pl/101/646/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs305
+[/us/pl/101/646/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2FtIII
 [/us/stat/104/4785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4785
-[/us/pl/102/212/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F212%2Fs302%2Fa
+[/us/pl/102/212/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F212%2FtIII
 [/us/stat/105/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1660
 [/us/pl/102/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F212
-[/us/pl/102/212/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F212%2Fs302%2Fb
+[/us/pl/102/212/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F212%2FtIII
 [/us/stat/105/1661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1661
 
 

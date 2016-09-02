@@ -19,7 +19,7 @@
 
     (b) The Secretary may at any time acquire the unexpired term of any lease or sublease issued or entered into pursuant to sections 47–2 to 47–6 of this title by purchase with funds available from the proceeds of leases, or with donated or appropriated funds, or by donation or exchange.
 
-([Pub. L. 90–409, § 2][/us/pl/90/409/s2], as added [Pub. L. 99–542, § 1(4)][/us/pl/99/542/s1/4], Oct. 27, 1986, [100 Stat. 3037][/us/stat/100/3037].)
+([Pub. L. 90–409][/us/pl/90/409], § 2, as added [Pub. L. 99–542][/us/pl/99/542], § 1(4), Oct. 27, 1986, [100 Stat. 3037][/us/stat/100/3037].)
 
  __Prior Provisions__ 
 
@@ -33,8 +33,8 @@
 ----------
 
 [/us/usc/t16/s47–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs47%E2%80%932
-[/us/pl/90/409/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F409%2Fs2
-[/us/pl/99/542/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F542%2Fs1%2F4
+[/us/pl/90/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F409
+[/us/pl/99/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F542
 [/us/stat/100/3037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3037
 [/us/pl/90/409/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F409%2Fs2
 [/us/usc/t16/s47–2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs47%E2%80%932%2Fb

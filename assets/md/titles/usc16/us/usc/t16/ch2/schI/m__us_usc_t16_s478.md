@@ -17,7 +17,7 @@
 
     Nothing in sections 473 to 478, 479 to 482 and 551 of this title shall be construed as prohibiting the egress or ingress of actual settlers residing within the boundaries of national forests, or from crossing the same to and from their property or homes; and such wagon roads and other improvements may be constructed thereon as may be necessary to reach their homes and to utilize their property under such rules and regulations as may be prescribed by the Secretary of Agriculture. Nor shall anything in such sections prohibit any person from entering upon such national forests for all proper and lawful purposes, including that of prospecting, locating, and developing the mineral resources thereof. Such persons must comply with the rules and regulations covering such national forests.
 
-([June 4, 1897, ch. 2, § 1][/us/act/1897-06-04/ch2/s1], [30 Stat. 36][/us/stat/30/36]; [Feb. 1, 1905, ch. 288, § 1][/us/act/1905-02-01/ch288/s1], [33 Stat. 628][/us/stat/33/628].)
+([June 4, 1897, ch. 2][/us/act/1897-06-04/ch2], § 1, [30 Stat. 36][/us/stat/30/36]; [Feb. 1, 1905, ch. 288][/us/act/1905-02-01/ch288], § 1, [33 Stat. 628][/us/stat/33/628].)
 
  __Codification__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/act/1897-06-04/ch2/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-06-04%2Fch2%2Fs1
+[/us/act/1897-06-04/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-06-04%2Fch2
 [/us/stat/30/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F36
-[/us/act/1905-02-01/ch288/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-01%2Fch288%2Fs1
+[/us/act/1905-02-01/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-01%2Fch288
 [/us/stat/33/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F628
 [/us/act/1907-03-04/ch2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2907
 [/us/stat/34/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F1269

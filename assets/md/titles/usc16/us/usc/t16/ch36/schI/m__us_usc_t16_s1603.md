@@ -17,7 +17,7 @@
 
     As a part of the Assessment, the Secretary of Agriculture shall develop and maintain on a continuing basis a comprehensive and appropriately detailed inventory of all National Forest System lands and renewable resources. This inventory shall be kept current so as to reflect changes in conditions and identify new and emerging resources and values.
 
-([Pub. L. 93–378, § 5][/us/pl/93/378/s5], formerly § 4, Aug. 17, 1974, [88 Stat. 477][/us/stat/88/477], renumbered § 5, [Pub. L. 94–588, § 2][/us/pl/94/588/s2], Oct. 22, 1976, [90 Stat. 2949][/us/stat/90/2949].)
+([Pub. L. 93–378][/us/pl/93/378], § 5, formerly § 4, Aug. 17, 1974, [88 Stat. 477][/us/stat/88/477], renumbered § 5, [Pub. L. 94–588][/us/pl/94/588], § 2, Oct. 22, 1976, [90 Stat. 2949][/us/stat/90/2949].)
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/pl/93/378/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F378%2Fs5
+[/us/pl/93/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F378
 [/us/stat/88/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F477
-[/us/pl/94/588/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588%2Fs2
+[/us/pl/94/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588
 [/us/stat/90/2949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2949
 
 

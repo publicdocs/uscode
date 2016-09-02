@@ -33,7 +33,7 @@
 
         The advisory commission shall cease to exist ten years after the date of its establishment.
 
-([Pub. L. 103–433, title IV, § 407][/us/pl/103/433/s407], Oct. 31, 1994, [108 Stat. 4489][/us/stat/108/4489].)
+([Pub. L. 103–433, title IV][/us/pl/103/433/tIV], § 407, Oct. 31, 1994, [108 Stat. 4489][/us/stat/108/4489].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/103/433/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs407
+[/us/pl/103/433/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtIV
 [/us/stat/108/4489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4489
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

@@ -23,7 +23,7 @@
 
     (3) provide for the development of public recreation opportunities in the Spring Mountains for the enjoyment of present and future generations.
 
-([Pub. L. 103–63, § 3][/us/pl/103/63/s3], Aug. 4, 1993, [107 Stat. 297][/us/stat/107/297].)
+([Pub. L. 103–63][/us/pl/103/63], § 3, Aug. 4, 1993, [107 Stat. 297][/us/stat/107/297].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/103/63/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F63%2Fs3
+[/us/pl/103/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F63
 [/us/stat/107/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F297
 
 

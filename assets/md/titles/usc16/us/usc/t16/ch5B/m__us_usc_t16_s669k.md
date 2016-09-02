@@ -65,7 +65,7 @@
 
         The Secretary of the Interior shall not delegate the responsibility for making a certification under subsection (c) to any person except the Assistant Secretary for Fish and Wildlife and Parks.
 
-([Pub. L. 106–408, title I, § 133][/us/pl/106/408/s133], Nov. 1, 2000, [114 Stat. 1775][/us/stat/114/1775].)
+([Pub. L. 106–408, title I][/us/pl/106/408/tI], § 133, Nov. 1, 2000, [114 Stat. 1775][/us/stat/114/1775].)
 
  __References in Text__ 
 
@@ -73,7 +73,7 @@
 
     The Pittman-Robertson Wildlife Restoration Act, referred to in subsecs. (c)(4) to (6) and (d)(1), is [act Sept. 2, 1937, ch. 899][/us/act/1937-09-02/ch899], [50 Stat. 917][/us/stat/50/917], as amended, also known as the Federal Aid in Wildlife Restoration Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 669 of this title][/us/usc/t16/s669] and Tables.
 
-    The Dingell-Johnson Sport Fish Restoration Act, referred to in subsecs. (b), (c), and (d)(1), is [act Aug. 9, 1950, ch. 658][/us/act/1950-08-09/ch658], [64 Stat. 430][/us/stat/64/430], as amended, also known as the Federal Aid in Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§ 777 et seq.) of this title. Section 4(d) of the Act was redesignated section 4(b) by [Pub. L. 109–59, title X, § 10113(1)][/us/pl/109/59/s10113/1], Aug. 10, 2005, [119 Stat. 1927][/us/stat/119/1927], and is classified to [section 777c(b) of this title][/us/usc/t16/s777c/b]. For complete classification of this Act to the Code, see Short Title note set out under [section 777 of this title][/us/usc/t16/s777] and Tables.
+    The Dingell-Johnson Sport Fish Restoration Act, referred to in subsecs. (b), (c), and (d)(1), is [act Aug. 9, 1950, ch. 658][/us/act/1950-08-09/ch658], [64 Stat. 430][/us/stat/64/430], as amended, also known as the Federal Aid in Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§ 777 et seq.) of this title. Section 4(d) of the Act was redesignated section 4(b) by [Pub. L. 109–59, title X][/us/pl/109/59/tX], § 10113(1), Aug. 10, 2005, [119 Stat. 1927][/us/stat/119/1927], and is classified to [section 777c(b) of this title][/us/usc/t16/s777c/b]. For complete classification of this Act to the Code, see Short Title note set out under [section 777 of this title][/us/usc/t16/s777] and Tables.
 
  __Codification__ 
 
@@ -102,7 +102,7 @@
 [/us/usc/t16/s777c/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c%2Fd%2F1
 [/us/usc/t16/s669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs669
 [/us/usc/t16/s777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777
-[/us/pl/106/408/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2Fs133
+[/us/pl/106/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2FtI
 [/us/stat/114/1775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1775
 [/us/pl/106/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408
 [/us/stat/114/1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1762
@@ -112,7 +112,7 @@
 [/us/usc/t16/s669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs669
 [/us/act/1950-08-09/ch658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch658
 [/us/stat/64/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F430
-[/us/pl/109/59/s10113/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10113%2F1
+[/us/pl/109/59/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtX
 [/us/stat/119/1927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1927
 [/us/usc/t16/s777c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c%2Fb
 [/us/usc/t16/s777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777

@@ -17,7 +17,7 @@
 
     For the purpose of carrying out the provisions of this chapter, there is hereby authorized to be appropriated a sum not to exceed $1,000,000 for fiscal years 1978 and 1979.
 
-([Pub. L. 94–532, § 6][/us/pl/94/532/s6], Oct. 17, 1976, [90 Stat. 2492][/us/stat/90/2492].)
+([Pub. L. 94–532][/us/pl/94/532], § 6, Oct. 17, 1976, [90 Stat. 2492][/us/stat/90/2492].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/532/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F532%2Fs6
+[/us/pl/94/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F532
 [/us/stat/90/2492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2492
 
 

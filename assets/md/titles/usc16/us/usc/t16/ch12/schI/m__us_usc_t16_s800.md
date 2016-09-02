@@ -27,7 +27,7 @@
 
         Whenever, after notice and opportunity for hearing, the Commission determines that the United States should exercise its right upon or after the expiration of any license to take over any project or projects for public purposes, the Commission shall not issue a new license to the original licensee or to a new licensee but shall submit its recommendation to Congress together with such information as it may consider appropriate.
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. I, § 7, [41 Stat. 1067][/us/stat/41/1067]; renumbered pt. I and amended, [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, §§ 205, 212, [49 Stat. 842][/us/stat/49/842], 847; [Pub. L. 90–451, § 1][/us/pl/90/451/s1], Aug. 3, 1968, [82 Stat. 616][/us/stat/82/616]; [Pub. L. 99–495, § 2][/us/pl/99/495/s2], Oct. 16, 1986, [100 Stat. 1243][/us/stat/100/1243].)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. I, § 7, [41 Stat. 1067][/us/stat/41/1067]; renumbered pt. I and amended, [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, §§ 205, 212, [49 Stat. 842][/us/stat/49/842], 847; [Pub. L. 90–451][/us/pl/90/451], § 1, Aug. 3, 1968, [82 Stat. 616][/us/stat/82/616]; [Pub. L. 99–495][/us/pl/99/495], § 2, Oct. 16, 1986, [100 Stat. 1243][/us/stat/100/1243].)
 
  __Codification__ 
 
@@ -56,9 +56,9 @@
 [/us/stat/41/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1067
 [/us/act/1935-08-26/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-26%2Fch687
 [/us/stat/49/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F842
-[/us/pl/90/451/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F451%2Fs1
+[/us/pl/90/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F451
 [/us/stat/82/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F616
-[/us/pl/99/495/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495%2Fs2
+[/us/pl/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495
 [/us/stat/100/1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1243
 [/us/pl/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495
 [/us/usc/t16/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs808

@@ -23,11 +23,11 @@
 
         The Foundation shall transmit each year to Congress a report of its proceedings and activities of the previous year, including a full and complete statement of its receipts, expenditures, and investments.
 
-([Pub. L. 101–593, title IV, § 407][/us/pl/101/593/s407], Nov. 16, 1990, [104 Stat. 2973][/us/stat/104/2973]; [Pub. L. 114–54, title II, § 201(c)(2)][/us/pl/114/54/s201/c/2], Sept. 30, 2015, [129 Stat. 516][/us/stat/129/516].)
+([Pub. L. 101–593, title IV][/us/pl/101/593/tIV], § 407, Nov. 16, 1990, [104 Stat. 2973][/us/stat/104/2973]; [Pub. L. 114–54, title II][/us/pl/114/54/tII], § 201(c)(2), Sept. 30, 2015, [129 Stat. 516][/us/stat/129/516].)
 
  __Codification__ 
 
-    In subsec. (a), “[section 10101 of title 36][/us/usc/t36/s10101]” substituted for “the Act entitled ‘An Act for audit of accounts of private corporations established under Federal law,’ approved August 30, 1964 ([36 U.S.C. 1101][/us/usc/t36/s1101] through 1103; [Public Law 88–504][/us/pl/88/504])” and “a corporation in part B of subtitle II of title 36” substituted for “a private corporation established under Federal law” on authority of [Pub. L. 105–225, § 5(b)][/us/pl/105/225/s5/b], Aug. 12, 1998, [112 Stat. 1499][/us/stat/112/1499], the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
+    In subsec. (a), “[section 10101 of title 36][/us/usc/t36/s10101]” substituted for “the Act entitled ‘An Act for audit of accounts of private corporations established under Federal law,’ approved August 30, 1964 ([36 U.S.C. 1101][/us/usc/t36/s1101] through 1103; [Public Law 88–504][/us/pl/88/504])” and “a corporation in part B of subtitle II of title 36” substituted for “a private corporation established under Federal law” on authority of [Pub. L. 105–225][/us/pl/105/225], § 5(b), Aug. 12, 1998, [112 Stat. 1499][/us/stat/112/1499], the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
 
  __Amendments__ 
 
@@ -41,14 +41,14 @@
 ----------
 
 [/us/usc/t36/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs10101
-[/us/pl/101/593/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2Fs407
+[/us/pl/101/593/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2FtIV
 [/us/stat/104/2973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2973
-[/us/pl/114/54/s201/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs201%2Fc%2F2
+[/us/pl/114/54/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2FtII
 [/us/stat/129/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F516
 [/us/usc/t36/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs10101
 [/us/usc/t36/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs1101
 [/us/pl/88/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F504
-[/us/pl/105/225/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225%2Fs5%2Fb
+[/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1499
 [/us/pl/114/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54
 

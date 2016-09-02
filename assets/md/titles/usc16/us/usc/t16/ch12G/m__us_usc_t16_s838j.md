@@ -19,7 +19,7 @@
 
     (b) With the approval of the Secretary of the Treasury, the Administrator may deposit moneys of the fund in any Federal Reserve bank or other depository for funds of the United States of America, or in such other banks and financial institutions and under such terms and conditions as the Administrator and the Secretary of the Treasury may mutually agree.
 
-([Pub. L. 93–454, § 12][/us/pl/93/454/s12], Oct. 18, 1974, [88 Stat. 1380][/us/stat/88/1380].)
+([Pub. L. 93–454][/us/pl/93/454], § 12, Oct. 18, 1974, [88 Stat. 1380][/us/stat/88/1380].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/93/454/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F454%2Fs12
+[/us/pl/93/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F454
 [/us/stat/88/1380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1380
 
 

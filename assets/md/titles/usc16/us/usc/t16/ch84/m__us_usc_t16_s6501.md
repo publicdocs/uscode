@@ -37,7 +37,7 @@
 
         (C) to enhance productivity and carbon sequestration.
 
-([Pub. L. 108–148, § 2][/us/pl/108/148/s2], Dec. 3, 2003, [117 Stat. 1888][/us/stat/117/1888].)
+([Pub. L. 108–148][/us/pl/108/148], § 2, Dec. 3, 2003, [117 Stat. 1888][/us/stat/117/1888].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 
  __Short Title__ 
 
-[Pub. L. 108–148, § 1(a)][/us/pl/108/148/s1/a], Dec. 3, 2003, [117 Stat. 1887][/us/stat/117/1887], provided that: 
+[Pub. L. 108–148][/us/pl/108/148], § 1(a), Dec. 3, 2003, [117 Stat. 1887][/us/stat/117/1887], provided that: 
 
 > “This Act \[enacting this chapter and [section 2103b of this title][/us/usc/t16/s2103b] and amending sections 6601, 8606, and 8609 of Title 7, Agriculture\] may be cited as the ‘Healthy Forests Restoration Act of 2003’.”
 
@@ -56,11 +56,11 @@
 ----------
 ----------
 
-[/us/pl/108/148/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2Fs2
+[/us/pl/108/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148
 [/us/stat/117/1888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1888
 [/us/pl/108/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148
 [/us/stat/117/1887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1887
-[/us/pl/108/148/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2Fs1%2Fa
+[/us/pl/108/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148
 [/us/stat/117/1887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1887
 [/us/usc/t16/s2103b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2103b
 

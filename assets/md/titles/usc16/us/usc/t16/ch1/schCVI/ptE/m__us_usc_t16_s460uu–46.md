@@ -51,7 +51,7 @@
 
         (4) Jurisdiction over federally-owned lands within the revised boundaries of the monument is hereby transferred to the National Park Service, without monetary consideration, for administration as part of the monument.
 
-([Pub. L. 100–225, title V, § 506][/us/pl/100/225/s506], Dec. 31, 1987, [101 Stat. 1546][/us/stat/101/1546].)
+([Pub. L. 100–225, title V][/us/pl/100/225/tV], § 506, Dec. 31, 1987, [101 Stat. 1546][/us/stat/101/1546].)
 
  __References in Text__ 
 
@@ -70,7 +70,7 @@
 [/us/usc/t16/s460uu–45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460uu%E2%80%9345
 [/us/act/1962-09-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1962-09-05%2Fs1
 [/us/stat/76/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F436
-[/us/pl/100/225/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F225%2Fs506
+[/us/pl/100/225/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F225%2FtV
 [/us/stat/101/1546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1546
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
 [/us/stat/90/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2743

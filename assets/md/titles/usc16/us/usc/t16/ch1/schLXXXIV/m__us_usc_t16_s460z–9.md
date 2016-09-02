@@ -27,7 +27,7 @@
 
         The Secretary is further authorized, subject to applicable water quality standards now or hereafter established, to grant such additional easements and rights, in terms up to perpetuity, as in his judgment would be appropriate and desirable for the effective use of the rights to water and the disposal of waste provided for herein and for other utility and private purposes if permission therefor has been obtained from the State of Oregon, subject to such reasonable terms and conditions as he deems necessary for the protection of the scenic, scientific, historic, and recreational features of the recreation area.
 
-([Pub. L. 92–260, § 11][/us/pl/92/260/s11], Mar. 23, 1972, [86 Stat. 101][/us/stat/86/101].)
+([Pub. L. 92–260][/us/pl/92/260], § 11, Mar. 23, 1972, [86 Stat. 101][/us/stat/86/101].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/92/260/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F260%2Fs11
+[/us/pl/92/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F260
 [/us/stat/86/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F101
 
 

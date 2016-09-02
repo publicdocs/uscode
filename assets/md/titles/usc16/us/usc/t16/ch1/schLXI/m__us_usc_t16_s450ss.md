@@ -31,17 +31,17 @@
 
     (7) given the national and international impact and reaction, the Federal character of the site of the bombing, and the significant percentage of the victims and survivors who were Federal employees, the Oklahoma City Memorial will be established, designed, managed and maintained to educate present and future generations, through a public/private partnership, to work together efficiently and respectfully in developing a National Memorial relating to all aspects of the April 19, 1995, bombing in Oklahoma City.
 
-([Pub. L. 105–58, § 2][/us/pl/105/58/s2], Oct. 9, 1997, [111 Stat. 1261][/us/stat/111/1261].)
+([Pub. L. 105–58][/us/pl/105/58], § 2, Oct. 9, 1997, [111 Stat. 1261][/us/stat/111/1261].)
 
  __Short Title of 2004 Amendment__ 
 
-[Pub. L. 108–199, div. F, title V, § 544(a)][/us/pl/108/199/s544/a], Jan. 23, 2004, [118 Stat. 347][/us/stat/118/347], provided that: 
+[Pub. L. 108–199, div. F, title V][/us/pl/108/199/dF/tV], § 544(a), Jan. 23, 2004, [118 Stat. 347][/us/stat/118/347], provided that: 
 
 > “This section \[amending sections 450ss–1 to 450ss–3 and 450ss–5 of this title, repealing sections 450ss–4, 450ss–6, and 450ss–7 of this title, and enacting provisions set out as notes under sections 450ss–3 and 450ss–4 of this title\] may be cited as the ‘Oklahoma City National Memorial Act Amendments of 2003’.”
 
  __Short Title__ 
 
-[Pub. L. 105–58, § 1][/us/pl/105/58/s1], Oct. 9, 1997, [111 Stat. 1261][/us/stat/111/1261], provided that: 
+[Pub. L. 105–58][/us/pl/105/58], § 1, Oct. 9, 1997, [111 Stat. 1261][/us/stat/111/1261], provided that: 
 
 > “This Act \[enacting this section and sections 450ss–1 to 450ss–7 of this title\] may be cited as the ‘Oklahoma City National Memorial Act of 1997’.”
 
@@ -52,11 +52,11 @@
 ----------
 ----------
 
-[/us/pl/105/58/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F58%2Fs2
+[/us/pl/105/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F58
 [/us/stat/111/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1261
-[/us/pl/108/199/s544/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs544%2Fa
+[/us/pl/108/199/dF/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdF%2FtV
 [/us/stat/118/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F347
-[/us/pl/105/58/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F58%2Fs1
+[/us/pl/105/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F58
 [/us/stat/111/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1261
 
 

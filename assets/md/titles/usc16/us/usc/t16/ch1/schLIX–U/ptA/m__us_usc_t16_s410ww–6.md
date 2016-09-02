@@ -17,7 +17,7 @@
 
     The decisions concerning the execution of this subchapter as it applies to properties under control of the Secretary of Defense shall be made by such Secretary, in consultation with the Secretary of the Interior.
 
-([Pub. L. 102–419, title I, § 107][/us/pl/102/419/s107], Oct. 16, 1992, [106 Stat. 2143][/us/stat/106/2143]; [Pub. L. 106–356, § 2(c)][/us/pl/106/356/s2/c], Oct. 24, 2000, [114 Stat. 1392][/us/stat/114/1392].)
+([Pub. L. 102–419, title I][/us/pl/102/419/tI], § 107, Oct. 16, 1992, [106 Stat. 2143][/us/stat/106/2143]; [Pub. L. 106–356][/us/pl/106/356], § 2(c), Oct. 24, 2000, [114 Stat. 1392][/us/stat/114/1392].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/102/419/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F419%2Fs107
+[/us/pl/102/419/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F419%2FtI
 [/us/stat/106/2143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2143
-[/us/pl/106/356/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F356%2Fs2%2Fc
+[/us/pl/106/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F356
 [/us/stat/114/1392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1392
 [/us/pl/106/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F356
 

@@ -25,7 +25,7 @@
 
     (b) In carrying out subsection (a), the Administrator shall consult with the Secretary and shall promote full participation by other interested Federal agencies, academic and research institutions, and members of the public.
 
-([Pub. L. 99–513, § 5][/us/pl/99/513/s5], Oct. 21, 1986, [100 Stat. 2083][/us/stat/100/2083].)
+([Pub. L. 99–513][/us/pl/99/513], § 5, Oct. 21, 1986, [100 Stat. 2083][/us/stat/100/2083].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/99/513/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F513%2Fs5
+[/us/pl/99/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F513
 [/us/stat/100/2083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2083
 
 

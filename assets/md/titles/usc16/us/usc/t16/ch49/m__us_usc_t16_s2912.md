@@ -33,7 +33,7 @@
 
         Within one year after November 14, 1988, and at five-year intervals thereafter, the Secretary shall prepare a report that presents the results of the activities taken pursuant to subsection (a) of this section and that describes any efforts to carry out those conservation actions identified pursuant to paragraph (4) of subsection (a) of this section. Such reports shall be submitted to the Committee on Environment and Public Works of the United States Senate and to the Committee on Merchant Marine and Fisheries of the United States House of Representatives.
 
-([Pub. L. 96–366, § 13][/us/pl/96/366/s13], as added [Pub. L. 100–653, title VIII, § 802][/us/pl/100/653/s802], Nov. 14, 1988, [102 Stat. 3833][/us/stat/102/3833]; amended [Pub. L. 101–233, § 16(b)][/us/pl/101/233/s16/b], Dec. 13, 1989, [103 Stat. 1977][/us/stat/103/1977].)
+([Pub. L. 96–366][/us/pl/96/366], § 13, as added [Pub. L. 100–653, title VIII][/us/pl/100/653/tVIII], § 802, Nov. 14, 1988, [102 Stat. 3833][/us/stat/102/3833]; amended [Pub. L. 101–233][/us/pl/101/233], § 16(b), Dec. 13, 1989, [103 Stat. 1977][/us/stat/103/1977].)
 
  __References in Text__ 
 
@@ -66,10 +66,10 @@
 [/us/usc/t16/s1537a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1537a%2Fe
 [/us/usc/t16/s1531–154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531%E2%80%93154
 [/us/usc/t16/s1531–154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531%E2%80%93154
-[/us/pl/96/366/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F366%2Fs13
-[/us/pl/100/653/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2Fs802
+[/us/pl/96/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F366
+[/us/pl/100/653/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2FtVIII
 [/us/stat/102/3833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3833
-[/us/pl/101/233/s16/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F233%2Fs16%2Fb
+[/us/pl/101/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F233
 [/us/stat/103/1977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1977
 [/us/act/1918-07-03/ch128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-07-03%2Fch128
 [/us/stat/40/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F755

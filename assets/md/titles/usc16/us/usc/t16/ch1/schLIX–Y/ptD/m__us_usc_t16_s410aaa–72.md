@@ -17,7 +17,7 @@
 
     In preparing land tenure adjustment decisions with the California Desert Conservation Area, of the Bureau of Land Management, the Secretary shall give priority to consolidating Federal ownership within the national park units and wilderness areas designated by this Act.
 
-([Pub. L. 103–433, title VII, § 702][/us/pl/103/433/s702], Oct. 31, 1994, [108 Stat. 4497][/us/stat/108/4497].)
+([Pub. L. 103–433, title VII][/us/pl/103/433/tVII], § 702, Oct. 31, 1994, [108 Stat. 4497][/us/stat/108/4497].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/103/433/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs702
+[/us/pl/103/433/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtVII
 [/us/stat/108/4497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4497
 [/us/usc/t16/s410aaa–81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410aaa%E2%80%9381
 

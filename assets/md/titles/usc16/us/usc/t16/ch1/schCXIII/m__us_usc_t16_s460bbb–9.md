@@ -35,7 +35,7 @@
 
         The Secretary of Agriculture shall assist the county of Del Norte in developing a land information system that will be compatible with the Forest Service and National Park Service systems for the Federal lands in Del Norte County and such non-Federal systems as may be appropriate and that will be made available to Federal and non-Federal entities for use in coordinating planning for the recreation area and other lands in the Smith River watershed.
 
-([Pub. L. 101–612, § 12][/us/pl/101/612/s12], Nov. 16, 1990, [104 Stat. 3221][/us/stat/104/3221].)
+([Pub. L. 101–612][/us/pl/101/612], § 12, Nov. 16, 1990, [104 Stat. 3221][/us/stat/104/3221].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/101/612/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612%2Fs12
+[/us/pl/101/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612
 [/us/stat/104/3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3221
 [/us/pl/101/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612
 [/us/stat/104/3209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3209

@@ -21,7 +21,7 @@
 
     (b) to act for or on behalf of the United States Section in the exercise of the powers granted by this chapter.
 
-([June 4, 1956, ch. 358, § 7][/us/act/1956-06-04/ch358/s7], [70 Stat. 243][/us/stat/70/243].)
+([June 4, 1956, ch. 358][/us/act/1956-06-04/ch358], § 7, [70 Stat. 243][/us/stat/70/243].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1956-06-04/ch358/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-04%2Fch358%2Fs7
+[/us/act/1956-06-04/ch358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-04%2Fch358
 [/us/stat/70/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F243
 
 

@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture may utilize the Assessment, resource surveys, and Program prepared pursuant to this subchapter to assist States and other organizations in proposing the planning for the protection, use, and management of renewable resources on non-Federal land.
 
-([Pub. L. 93–378, § 7][/us/pl/93/378/s7], formerly § 6, Aug. 17, 1974, [88 Stat. 478][/us/stat/88/478], renumbered § 7, [Pub. L. 94–588, § 2][/us/pl/94/588/s2], Oct. 22, 1976, [90 Stat. 2949][/us/stat/90/2949].)
+([Pub. L. 93–378][/us/pl/93/378], § 7, formerly § 6, Aug. 17, 1974, [88 Stat. 478][/us/stat/88/478], renumbered § 7, [Pub. L. 94–588][/us/pl/94/588], § 2, Oct. 22, 1976, [90 Stat. 2949][/us/stat/90/2949].)
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/pl/93/378/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F378%2Fs7
+[/us/pl/93/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F378
 [/us/stat/88/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F478
-[/us/pl/94/588/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588%2Fs2
+[/us/pl/94/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588
 [/us/stat/90/2949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2949
 
 

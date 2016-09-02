@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the Secretary for the purposes of carrying out the provisions of this subchapter in fiscal years commencing after September 30, 1981, an aggregate amount of $3,000,000. Funds appropriated pursuant to this section remain available to the Secretary until expended.
 
-([Pub. L. 96–561, title I, § 114][/us/pl/96/561/s114], Dec. 22, 1980, [94 Stat. 3280][/us/stat/94/3280].)
+([Pub. L. 96–561, title I][/us/pl/96/561/tI], § 114, Dec. 22, 1980, [94 Stat. 3280][/us/stat/94/3280].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/561/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs114
+[/us/pl/96/561/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtI
 [/us/stat/94/3280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3280
 
 

@@ -131,7 +131,7 @@
 
         There are authorized to be appropriated to the Fund such sums as are necessary to carry out this section.
 
-([Pub. L. 110–234, title X, § 10205][/us/pl/110/234/s10205], May 22, 2008, [122 Stat. 1344][/us/stat/122/1344]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10205, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2106.)
+([Pub. L. 110–234, title X][/us/pl/110/234/tX], § 10205, May 22, 2008, [122 Stat. 1344][/us/stat/122/1344]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title X, § 10205, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2106.)
 
  __Codification__ 
 
@@ -150,9 +150,9 @@
 ----------
 ----------
 
-[/us/pl/110/234/s10205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs10205
+[/us/pl/110/234/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtX
 [/us/stat/122/1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1344
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

@@ -17,7 +17,7 @@
 
     Privately owned land, or interests therein, within the aforesaid revised boundary may be acquired by the Secretary of the Interior by purchase, donation, with donated funds, or by such other means as the Secretary may consider to be in the public interest. When acquired, such land and interests in land shall be administered as a part of the Zion National Park in accordance with the provisions of the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended.
 
-([Pub. L. 86–387, § 2][/us/pl/86/387/s2], Feb. 20, 1960, [74 Stat. 5][/us/stat/74/5].)
+([Pub. L. 86–387][/us/pl/86/387], § 2, Feb. 20, 1960, [74 Stat. 5][/us/stat/74/5].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
-[/us/pl/86/387/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F387%2Fs2
+[/us/pl/86/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F387
 [/us/stat/74/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F5
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408

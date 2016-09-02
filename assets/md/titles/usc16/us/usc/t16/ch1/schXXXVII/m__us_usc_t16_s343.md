@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized, in his discretion, to accept in behalf of the United States such other property on said Mount Desert Island, including lands, easements, buildings, and moneys, as may be donated for the extension or improvement of said park.
 
-([Feb. 26, 1919, ch. 45, § 3][/us/act/1919-02-26/ch45/s3], [40 Stat. 1179][/us/stat/40/1179].)
+([Feb. 26, 1919, ch. 45][/us/act/1919-02-26/ch45], § 3, [40 Stat. 1179][/us/stat/40/1179].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1919-02-26/ch45/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-02-26%2Fch45%2Fs3
+[/us/act/1919-02-26/ch45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-02-26%2Fch45
 [/us/stat/40/1179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1179
 
 

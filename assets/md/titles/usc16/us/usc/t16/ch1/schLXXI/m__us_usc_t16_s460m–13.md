@@ -17,7 +17,7 @@
 
     Within three years from March 1, 1972, the Secretary shall review the area within the boundaries of the national river and shall report to the President, in accordance with section 1132(c) and (d) of this title, his recommendation as to the suitability or nonsuitability of any area within the national river for preservation as a wilderness, and any designation of any such area as a wilderness, shall be accomplished in accordance with said section 1132(c) and (d) of this title.
 
-([Pub. L. 92–237, § 6][/us/pl/92/237/s6], Mar. 1, 1972, [86 Stat. 46][/us/stat/86/46].)
+([Pub. L. 92–237][/us/pl/92/237], § 6, Mar. 1, 1972, [86 Stat. 46][/us/stat/86/46].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/237/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F237%2Fs6
+[/us/pl/92/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F237
 [/us/stat/86/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F46
 
 

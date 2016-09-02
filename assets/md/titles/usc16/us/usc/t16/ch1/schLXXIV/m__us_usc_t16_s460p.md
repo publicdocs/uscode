@@ -17,7 +17,7 @@
 
     In order to provide for the public outdoor recreation use and enjoyment thereof by the people of the United States, the Secretary of Agriculture shall establish the Spruce Knob-Seneca Rocks National Recreation Area in the State of West Virginia.
 
-([Pub. L. 89–207, § 1][/us/pl/89/207/s1], Sept. 28, 1965, [79 Stat. 843][/us/stat/79/843].)
+([Pub. L. 89–207][/us/pl/89/207], § 1, Sept. 28, 1965, [79 Stat. 843][/us/stat/79/843].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/207/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F207%2Fs1
+[/us/pl/89/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F207
 [/us/stat/79/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F843
 
 

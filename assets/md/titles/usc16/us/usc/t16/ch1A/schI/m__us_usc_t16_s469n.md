@@ -25,9 +25,9 @@
 
         (3) the related efforts of Federal agencies, working in partnership with State, tribal, and local governments and the private sector, to support and promote the preservation of historic resources.
 
-    (b) __to (f) Repealed.__  __[__  __Pub. L. 113–287, § 7__  __][/us/pl/113/287/s7]__  __,__  __Dec. 19, 2014__  __,__  __[__  __128 Stat. 3272__  __][/us/stat/128/3272]__ 
+    (b) __to (f) Repealed.__  __[__  __Pub. L. 113–287__  __][/us/pl/113/287]__  __, § 7,__  __Dec. 19, 2014__  __,__  __[__  __128 Stat. 3272__  __][/us/stat/128/3272]__ 
 
-([Pub. L. 111–11, title VII, § 7302][/us/pl/111/11/s7302], Mar. 30, 2009, [123 Stat. 1214][/us/stat/123/1214]; [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272].)
+([Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7302, Mar. 30, 2009, [123 Stat. 1214][/us/stat/123/1214]; [Pub. L. 113–287][/us/pl/113/287], § 7, Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272].)
 
  __Amendments__ 
 
@@ -40,11 +40,11 @@
 ----------
 ----------
 
-[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
-[/us/pl/111/11/s7302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7302
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1214
-[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 

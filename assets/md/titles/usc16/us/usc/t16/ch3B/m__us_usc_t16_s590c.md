@@ -51,17 +51,17 @@
 
             (v) to comply with Federal, State, or local regulatory requirements.
 
-([Apr. 27, 1935, ch. 85, § 3][/us/act/1935-04-27/ch85/s3], [49 Stat. 163][/us/stat/49/163]; [Pub. L. 113–67, div. A, title VII, § 705(a)][/us/pl/113/67/s705/a], Dec. 26, 2013, [127 Stat. 1192][/us/stat/127/1192].)
+([Apr. 27, 1935, ch. 85][/us/act/1935-04-27/ch85], § 3, [49 Stat. 163][/us/stat/49/163]; [Pub. L. 113–67, div. A, title VII][/us/pl/113/67/dA/tVII], § 705(a), Dec. 26, 2013, [127 Stat. 1192][/us/stat/127/1192].)
 
  __Amendments__ 
 
-    2013—[Pub. L. 113–67, § 705(a)(1)][/us/pl/113/67/s705/a/1], substituted “require the following:” for “require—” in introductory provisions.
+    2013—[Pub. L. 113–67][/us/pl/113/67], § 705(a)(1), substituted “require the following:” for “require—” in introductory provisions.
 
-    Par. (1). [Pub. L. 113–67, § 705(a)(2)][/us/pl/113/67/s705/a/2], substituted period for semicolon at end.
+    Par. (1). [Pub. L. 113–67][/us/pl/113/67], § 705(a)(2), substituted period for semicolon at end.
 
-    Par. (2). [Pub. L. 113–67, § 705(a)(3)][/us/pl/113/67/s705/a/3], substituted period at end for “; and”.
+    Par. (2). [Pub. L. 113–67][/us/pl/113/67], § 705(a)(3), substituted period at end for “; and”.
 
-    Par. (4). [Pub. L. 113–67, § 705(a)(4)][/us/pl/113/67/s705/a/4], added par. (4).
+    Par. (4). [Pub. L. 113–67][/us/pl/113/67], § 705(a)(4), added par. (4).
 
  __Transfer of Functions__ 
 
@@ -79,14 +79,14 @@
 [/us/usc/t7/s1991/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1991%2Fa
 [/us/usc/t7/s2003/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2003%2Fe
 [/us/usc/t16/s3812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3812
-[/us/act/1935-04-27/ch85/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-04-27%2Fch85%2Fs3
+[/us/act/1935-04-27/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-04-27%2Fch85
 [/us/stat/49/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F163
-[/us/pl/113/67/s705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs705%2Fa
+[/us/pl/113/67/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdA%2FtVII
 [/us/stat/127/1192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1192
-[/us/pl/113/67/s705/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs705%2Fa%2F1
-[/us/pl/113/67/s705/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs705%2Fa%2F2
-[/us/pl/113/67/s705/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs705%2Fa%2F3
-[/us/pl/113/67/s705/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs705%2Fa%2F4
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/stat/93/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1373
 [/us/pl/102/486/s3012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3012%2Fb
 [/us/usc/t15/s719e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719e

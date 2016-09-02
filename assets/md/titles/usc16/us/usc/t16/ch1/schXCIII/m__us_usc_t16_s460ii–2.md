@@ -31,7 +31,7 @@
 
         In administering the recreation area, the Secretary may permit fishing in waters under his jurisdiction in accordance with applicable State and Federal laws and regulations. The Secretary, after consultation with the appropriate State agency responsible for fishing activities, may designate zones where, and establish periods when, fishing shall be permitted and issue such regulations as he may determine to be necessary to carry out the provisions of this subsection. Except in emergencies, such regulations shall be put into effect only after consultation with the appropriate State agency.
 
-([Pub. L. 95–344, title I, § 103][/us/pl/95/344/s103], Aug. 15, 1978, [92 Stat. 475][/us/stat/92/475]; [Pub. L. 106–154, § 2(c)][/us/pl/106/154/s2/c], (e)(1), Dec. 9, 1999, [113 Stat. 1737][/us/stat/113/1737], 1738.)
+([Pub. L. 95–344, title I][/us/pl/95/344/tI], § 103, Aug. 15, 1978, [92 Stat. 475][/us/stat/92/475]; [Pub. L. 106–154][/us/pl/106/154], § 2(c), (e)(1), Dec. 9, 1999, [113 Stat. 1737][/us/stat/113/1737], 1738.)
 
  __References in Text__ 
 
@@ -39,9 +39,9 @@
 
  __Amendments__ 
 
-    1999—Subsec. (a). [Pub. L. 106–154, § 2(e)(1)][/us/pl/106/154/s2/e/1], substituted “of this subchapter” for “of this subchapter and chapter 43 of this title”.
+    1999—Subsec. (a). [Pub. L. 106–154][/us/pl/106/154], § 2(e)(1), substituted “of this subchapter” for “of this subchapter and chapter 43 of this title”.
 
-    Subsec. (b). [Pub. L. 106–154, § 2(c)][/us/pl/106/154/s2/c], added subsec. (b) and struck out former subsec. (b) which read as follows: “The Secretary is authorized and encouraged to enter into cooperative agreements with the State or its political subdivisions whereby he may assist in the planning for and interpretation of non-Federal publicly owned lands within or adjacent or related to the recreation area to assure that such lands are used in a manner consistent with the findings and purposes of this subchapter and chapter 43 of this title.”
+    Subsec. (b). [Pub. L. 106–154][/us/pl/106/154], § 2(c), added subsec. (b) and struck out former subsec. (b) which read as follows: “The Secretary is authorized and encouraged to enter into cooperative agreements with the State or its political subdivisions whereby he may assist in the planning for and interpretation of non-Federal publicly owned lands within or adjacent or related to the recreation area to assure that such lands are used in a manner consistent with the findings and purposes of this subchapter and chapter 43 of this title.”
 
 ----------
 
@@ -51,9 +51,9 @@
 ----------
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
-[/us/pl/95/344/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F344%2Fs103
+[/us/pl/95/344/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F344%2FtI
 [/us/stat/92/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F475
-[/us/pl/106/154/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154%2Fs2%2Fc
+[/us/pl/106/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154
 [/us/stat/113/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1737
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
@@ -63,7 +63,7 @@
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
 [/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
-[/us/pl/106/154/s2/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154%2Fs2%2Fe%2F1
-[/us/pl/106/154/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154%2Fs2%2Fc
+[/us/pl/106/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154
+[/us/pl/106/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F154
 
 

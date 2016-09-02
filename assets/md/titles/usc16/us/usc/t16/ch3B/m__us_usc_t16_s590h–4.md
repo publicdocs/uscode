@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590h–3.md) | [Next](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590i.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%E2%80%934)
 
-## § 590h–4. Repealed. [Pub. L. 104–127, title III, § 336(a)(2)(G)][/us/pl/104/127/s336/a/2/G], Apr. 4, 1996, [110 Stat. 1006][/us/stat/110/1006]
+## § 590h–4. Repealed. [Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 336(a)(2)(G), Apr. 4, 1996, [110 Stat. 1006][/us/stat/110/1006]
 
-    Section, [act Aug. 3, 1956, ch. 950, § 6(b)][/us/act/1956-08-03/ch950/s6/b], [70 Stat. 1033][/us/stat/70/1033], provided conditions for payments of grants.
+    Section, [act Aug. 3, 1956, ch. 950][/us/act/1956-08-03/ch950], § 6(b), [70 Stat. 1033][/us/stat/70/1033], provided conditions for payments of grants.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/104/127/s336/a/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs336%2Fa%2F2%2FG
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1006
-[/us/act/1956-08-03/ch950/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch950%2Fs6%2Fb
+[/us/act/1956-08-03/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch950
 [/us/stat/70/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1033
 
 

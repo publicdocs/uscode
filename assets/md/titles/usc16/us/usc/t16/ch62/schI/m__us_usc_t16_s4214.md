@@ -41,7 +41,7 @@
 
         The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the advisory group.
 
-([Pub. L. 100–478, title II, § 2104][/us/pl/100/478/s2104], as added [Pub. L. 107–111, § 4][/us/pl/107/111/s4], Jan. 8, 2002, [115 Stat. 2095][/us/stat/115/2095]; amended [Pub. L. 107–141, § 5(b)(2)(A)][/us/pl/107/141/s5/b/2/A], Feb. 12, 2002, [116 Stat. 14][/us/stat/116/14].)
+([Pub. L. 100–478, title II][/us/pl/100/478/tII], § 2104, as added [Pub. L. 107–111][/us/pl/107/111], § 4, Jan. 8, 2002, [115 Stat. 2095][/us/stat/115/2095]; amended [Pub. L. 107–141][/us/pl/107/141], § 5(b)(2)(A), Feb. 12, 2002, [116 Stat. 14][/us/stat/116/14].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 
  __Effective Date of 2002 Amendment__ 
 
-    [Pub. L. 107–141, § 5(b)(2)][/us/pl/107/141/s5/b/2], Feb. 12, 2002, [116 Stat. 14][/us/stat/116/14], provided that the amendment by [section 5(b)(2) of Pub. L. 107–141][/us/pl/107/141/s5/b/2] is effective on the day after Jan. 8, 2002.
+    [Pub. L. 107–141][/us/pl/107/141], § 5(b)(2), Feb. 12, 2002, [116 Stat. 14][/us/stat/116/14], provided that the amendment by [section 5(b)(2) of Pub. L. 107–141][/us/pl/107/141/s5/b/2] is effective on the day after Jan. 8, 2002.
 
 ----------
 
@@ -62,15 +62,15 @@
 ----------
 ----------
 
-[/us/pl/100/478/s2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2Fs2104
-[/us/pl/107/111/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F111%2Fs4
+[/us/pl/100/478/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2FtII
+[/us/pl/107/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F111
 [/us/stat/115/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2095
-[/us/pl/107/141/s5/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F141%2Fs5%2Fb%2F2%2FA
+[/us/pl/107/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F141
 [/us/stat/116/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F14
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/107/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F141
-[/us/pl/107/141/s5/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F141%2Fs5%2Fb%2F2
+[/us/pl/107/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F141
 [/us/stat/116/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F14
 [/us/pl/107/141/s5/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F141%2Fs5%2Fb%2F2
 

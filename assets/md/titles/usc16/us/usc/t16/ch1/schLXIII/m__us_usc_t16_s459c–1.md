@@ -25,7 +25,7 @@
 
         The area referred to in subsection (a) shall also include a right-of-way to the aforesaid tract in the general vicinity of the northwesterly portion of the property known as “Bear Valley Ranch”, to be selected by the Secretary, of not more than four hundred feet in width, together with such adjoining lands as would be deprived of access by reason of the acquisition of such right-of-way.
 
-([Pub. L. 87–657, § 2][/us/pl/87/657/s2], Sept. 13, 1962, [76 Stat. 538][/us/stat/76/538]; [Pub. L. 89–666, § 1(a)][/us/pl/89/666/s1/a], Oct. 15, 1966, [80 Stat. 919][/us/stat/80/919]; [Pub. L. 93–550, title II, § 201][/us/pl/93/550/s201], Dec. 26, 1974, [88 Stat. 1744][/us/stat/88/1744]; [Pub. L. 95–625, title III, § 318(a)][/us/pl/95/625/s318/a], Nov. 10, 1978, [92 Stat. 3486][/us/stat/92/3486]; [Pub. L. 96–199, title I, § 101(a)(1)][/us/pl/96/199/s101/a/1], Mar. 5, 1980, [94 Stat. 67][/us/stat/94/67]; [Pub. L. 103–437, § 6(d)(16)][/us/pl/103/437/s6/d/16], Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
+([Pub. L. 87–657][/us/pl/87/657], § 2, Sept. 13, 1962, [76 Stat. 538][/us/stat/76/538]; [Pub. L. 89–666][/us/pl/89/666], § 1(a), Oct. 15, 1966, [80 Stat. 919][/us/stat/80/919]; [Pub. L. 93–550, title II][/us/pl/93/550/tII], § 201, Dec. 26, 1974, [88 Stat. 1744][/us/stat/88/1744]; [Pub. L. 95–625, title III][/us/pl/95/625/tIII], § 318(a), Nov. 10, 1978, [92 Stat. 3486][/us/stat/92/3486]; [Pub. L. 96–199, title I][/us/pl/96/199/tI], § 101(a)(1), Mar. 5, 1980, [94 Stat. 67][/us/stat/94/67]; [Pub. L. 103–437][/us/pl/103/437], § 6(d)(16), Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
 
  __Amendments__ 
 
@@ -46,17 +46,17 @@
 ----------
 ----------
 
-[/us/pl/87/657/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F657%2Fs2
+[/us/pl/87/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F657
 [/us/stat/76/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F538
-[/us/pl/89/666/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F666%2Fs1%2Fa
+[/us/pl/89/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F666
 [/us/stat/80/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F919
-[/us/pl/93/550/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F550%2Fs201
+[/us/pl/93/550/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F550%2FtII
 [/us/stat/88/1744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1744
-[/us/pl/95/625/s318/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs318%2Fa
+[/us/pl/95/625/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtIII
 [/us/stat/92/3486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3486
-[/us/pl/96/199/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199%2Fs101%2Fa%2F1
+[/us/pl/96/199/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199%2FtI
 [/us/stat/94/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F67
-[/us/pl/103/437/s6/d/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fd%2F16
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4584
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/96/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199

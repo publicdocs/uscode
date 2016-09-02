@@ -57,17 +57,17 @@
 
         (2) The term “fish products” means any article which is produced from or composed of (in whole or in part) any fish.
 
-([Pub. L. 94–265, title II, § 205][/us/pl/94/265/s205], Apr. 13, 1976, [90 Stat. 345][/us/stat/90/345]; [Pub. L. 101–627, title I, § 105(b)(1)][/us/pl/101/627/s105/b/1], Nov. 28, 1990, [104 Stat. 4440][/us/stat/104/4440].)
+([Pub. L. 94–265, title II][/us/pl/94/265/tII], § 205, Apr. 13, 1976, [90 Stat. 345][/us/stat/90/345]; [Pub. L. 101–627, title I][/us/pl/101/627/tI], § 105(b)(1), Nov. 28, 1990, [104 Stat. 4440][/us/stat/104/4440].)
 
  __Amendments__ 
 
-    1990—Subsec. (a)(1). [Pub. L. 101–627, § 105(b)(1)(A)][/us/pl/101/627/s105/b/1/A], inserted “including fisheries for tuna species,” after “authority,” and struck out “traditional” after “in accordance with”.
+    1990—Subsec. (a)(1). [Pub. L. 101–627][/us/pl/101/627], § 105(b)(1)(A), inserted “including fisheries for tuna species,” after “authority,” and struck out “traditional” after “in accordance with”.
 
-    Subsec. (a)(2). [Pub. L. 101–627, § 105(b)(1)(B)][/us/pl/101/627/s105/b/1/B], substituted “tuna” for “highly migratory”.
+    Subsec. (a)(2). [Pub. L. 101–627][/us/pl/101/627], § 105(b)(1)(B), substituted “tuna” for “highly migratory”.
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–627, title I, § 105(b)(2)][/us/pl/101/627/s105/b/2], Nov. 28, 1990, [104 Stat. 4440][/us/stat/104/4440], provided that: 
+[Pub. L. 101–627, title I][/us/pl/101/627/tI], § 105(b)(2), Nov. 28, 1990, [104 Stat. 4440][/us/stat/104/4440], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] shall take effect on January 1, 1992.”
 
@@ -78,13 +78,13 @@
 ----------
 ----------
 
-[/us/pl/94/265/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs205
+[/us/pl/94/265/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2FtII
 [/us/stat/90/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F345
-[/us/pl/101/627/s105/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs105%2Fb%2F1
+[/us/pl/101/627/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtI
 [/us/stat/104/4440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4440
-[/us/pl/101/627/s105/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs105%2Fb%2F1%2FA
-[/us/pl/101/627/s105/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs105%2Fb%2F1%2FB
-[/us/pl/101/627/s105/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs105%2Fb%2F2
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtI
 [/us/stat/104/4440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4440
 
 

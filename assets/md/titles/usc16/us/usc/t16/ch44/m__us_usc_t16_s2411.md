@@ -17,7 +17,7 @@
 
     Each Federal department or agency whose activities affect Antarctica shall utilize, to the maximum extent practicable, its authorities in furtherance of the purposes of this chapter, and shall cooperate with the Director in carrying out the purposes of this chapter.
 
-([Pub. L. 95–541, § 12][/us/pl/95/541/s12], Oct. 28, 1978, [92 Stat. 2056][/us/stat/92/2056].)
+([Pub. L. 95–541][/us/pl/95/541], § 12, Oct. 28, 1978, [92 Stat. 2056][/us/stat/92/2056].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/541/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F541%2Fs12
+[/us/pl/95/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F541
 [/us/stat/92/2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2056
 
 

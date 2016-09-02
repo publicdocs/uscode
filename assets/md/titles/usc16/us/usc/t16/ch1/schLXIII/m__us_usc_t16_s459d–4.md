@@ -17,7 +17,7 @@
 
     Except as otherwise provided in sections 459d to 459d–7 of this title, the property acquired by the Secretary under such sections shall be administered by the Secretary, subject to the provisions of the Act entitled “An Act to establish a National Park Service and for other purposes”, approved August 25, 1916 ([39 Stat. 535][/us/stat/39/535]), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended and supplemented, and in accordance with other laws of general application relating to the areas administered and supervised by the Secretary through the National Park Service; except that authority otherwise available to the Secretary for the conservation and management of natural resources may be utilized to the extent he finds such authority will further the purposes of sections 459d to 459d–7 of this title.
 
-([Pub. L. 87–712, § 5][/us/pl/87/712/s5], Sept. 28, 1962, [76 Stat. 652][/us/stat/76/652].)
+([Pub. L. 87–712][/us/pl/87/712], § 5, Sept. 28, 1962, [76 Stat. 652][/us/stat/76/652].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
-[/us/pl/87/712/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F712%2Fs5
+[/us/pl/87/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F712
 [/us/stat/76/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F652
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408

@@ -17,7 +17,7 @@
 
     The tracts of land, easements, and other real estate known before February 26, 1919, as the Sieur de Monts National Monument, situated on Mount Desert Island, in the county of Hancock and State of Maine, are declared to be a national park and dedicated as a public park for the benefit and enjoyment of the people under the name of the Acadia National Park, under which name the aforesaid national park shall be entitled to receive and to use all moneys heretofore or hereafter appropriated for Sieur de Monts National Monument.
 
-([Feb. 26, 1919, ch. 45, § 1][/us/act/1919-02-26/ch45/s1], [40 Stat. 1178][/us/stat/40/1178]; [Jan. 19, 1929, ch. 77, § 2][/us/act/1929-01-19/ch77/s2], [45 Stat. 1083][/us/stat/45/1083].)
+([Feb. 26, 1919, ch. 45][/us/act/1919-02-26/ch45], § 1, [40 Stat. 1178][/us/stat/40/1178]; [Jan. 19, 1929, ch. 77][/us/act/1929-01-19/ch77], § 2, [45 Stat. 1083][/us/stat/45/1083].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 
  __Permanent Boundary for Acadia National Park__ 
 
-[Pub. L. 99–420, title I][/us/pl/99/420], Sept. 25, 1986, [100 Stat. 955][/us/stat/100/955], as amended by [Pub. L. 110–229, title III, § 314(a)][/us/pl/110/229/s314/a], (b)(1), (c), (d), May 8, 2008, [122 Stat. 775][/us/stat/122/775], provided that:
+[Pub. L. 99–420, title I][/us/pl/99/420/tI], Sept. 25, 1986, [100 Stat. 955][/us/stat/100/955], as amended by [Pub. L. 110–229, title III][/us/pl/110/229/tIII], § 314(a), (b)(1), (c), (d), May 8, 2008, [122 Stat. 775][/us/stat/122/775], provided that:
 
 > “SEC. 101. __BOUNDARIES OF ACADIA NATIONAL PARK.__ 
 
@@ -231,7 +231,7 @@
 
 >         There are authorized to be appropriated to the Secretary not more than 85 percent of the total cost necessary to maintain and operate the intermodal transportation center.”
 
-\[[Pub. L. 110–229, title III, § 314(b)(2)][/us/pl/110/229/s314/b/2], May 8, 2008, [122 Stat. 775][/us/stat/122/775], provided that: 
+\[[Pub. L. 110–229, title III][/us/pl/110/229/tIII], § 314(b)(2), May 8, 2008, [122 Stat. 775][/us/stat/122/775], provided that: 
 
 > “The amendment made by paragraph (1) \[amending [section 103(f) of Public Law 99–420][/us/pl/99/420/s103/f], set out above\] shall take effect on September 25, 2006.”
 
@@ -239,7 +239,7 @@
 
  __Acadia National Park Lands Lying Within Boundaries of Town of Isle au Haut, Maine__ 
 
-[Pub. L. 97–335][/us/pl/97/335], Oct. 15, 1982, [96 Stat. 1627][/us/stat/96/1627], as amended by [Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(C)][/us/pl/104/333/s814/d/1/C], Nov. 12, 1996, [110 Stat. 4196][/us/stat/110/4196], provided: 
+[Pub. L. 97–335][/us/pl/97/335], Oct. 15, 1982, [96 Stat. 1627][/us/stat/96/1627], as amended by [Pub. L. 104–333, div. I, title VIII][/us/pl/104/333/dI/tVIII], § 814(d)(1)(C), Nov. 12, 1996, [110 Stat. 4196][/us/stat/110/4196], provided: 
 
 > “That the Congress finds that—
 
@@ -261,7 +261,7 @@
 
 >      (a) The management and use of parklands on Isle au Haut shall not interfere with the maintenance of a viable local community with a traditional resource-based economy outside the boundary of the park. To the maximum extent practicable, no development or plan for the convenience of park visitors shall be undertaken which would be incompatible with the preservation of the flora and fauna or the physiographic conditions now prevailing, and every effort shall be exerted to maintain and preserve this portion of the park in as nearly its present state and condition as possible. In recognition of the special fragility and sensitivity of the park’s resources, visitation shall be strictly limited to assure negligible adverse impact on such resources, to conserve the character of the town and to protect the quality of the visitor experience.
 
->     “\[(b), (c) Repealed. [Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(C)][/us/pl/104/333/s814/d/1/C], Nov. 12, 1996, [110 Stat. 4196][/us/stat/110/4196].\]
+>     “\[(b), (c) Repealed. [Pub. L. 104–333, div. I, title VIII][/us/pl/104/333/dI/tVIII], § 814(d)(1)(C), Nov. 12, 1996, [110 Stat. 4196][/us/stat/110/4196].\]
 
 >     “(d) Carrying capacities established pursuant to this section shall be reviewed, and if necessary revised, every five years. Any revision in such carrying capacity shall be made in accordance with the procedures set forth in subsections (b) and (c) of this section.
 
@@ -276,13 +276,13 @@
 ----------
 ----------
 
-[/us/act/1919-02-26/ch45/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-02-26%2Fch45%2Fs1
+[/us/act/1919-02-26/ch45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-02-26%2Fch45
 [/us/stat/40/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1178
-[/us/act/1929-01-19/ch77/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-01-19%2Fch77%2Fs2
+[/us/act/1929-01-19/ch77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-01-19%2Fch77
 [/us/stat/45/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1083
-[/us/pl/99/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F420
+[/us/pl/99/420/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F420%2FtI
 [/us/stat/100/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F955
-[/us/pl/110/229/s314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs314%2Fa
+[/us/pl/110/229/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtIII
 [/us/stat/122/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F775
 [/us/usc/t16/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs103
 [/us/pl/97/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F335
@@ -291,14 +291,14 @@
 [/us/act/1976-10-20/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1976-10-20%2Fs3%2Fd
 [/us/stat/90/2662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2662
 [/us/usc/t31/s6904/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6904%2Fb
-[/us/pl/110/229/s314/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs314%2Fb%2F2
+[/us/pl/110/229/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtIII
 [/us/stat/122/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F775
 [/us/pl/99/420/s103/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F420%2Fs103%2Ff
 [/us/pl/97/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F335
 [/us/stat/96/1627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1627
-[/us/pl/104/333/s814/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs814%2Fd%2F1%2FC
+[/us/pl/104/333/dI/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtVIII
 [/us/stat/110/4196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4196
-[/us/pl/104/333/s814/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs814%2Fd%2F1%2FC
+[/us/pl/104/333/dI/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtVIII
 [/us/stat/110/4196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4196
 
 

@@ -23,7 +23,7 @@
 
         Not later than 3 years after December 19, 2002, the Secretary shall submit the management plan for the Park to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
 
-([Pub. L. 107–373, § 8][/us/pl/107/373/s8], Dec. 19, 2002, [116 Stat. 3106][/us/stat/116/3106].)
+([Pub. L. 107–373][/us/pl/107/373], § 8, Dec. 19, 2002, [116 Stat. 3106][/us/stat/116/3106].)
 
  __Change of Name__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/107/373/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F373%2Fs8
+[/us/pl/107/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F373
 [/us/stat/116/3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3106
 
 

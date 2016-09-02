@@ -39,11 +39,11 @@
 
         The Advisory Commission is authorized to assist with the identification of economically and environmentally acceptable areas, outside of the boundaries of the lakeshore, for the handling and disposal of industrial solid wastes produced by the coal-fired powerplant in Porter County, Indiana, section 21, township 37 north, range 6 west.
 
-([Pub. L. 89–761, § 7][/us/pl/89/761/s7], formerly § 8, Nov. 5, 1966, [80 Stat. 1311][/us/stat/80/1311]; renumbered § 7 and amended [Pub. L. 94–549, § 1(5)][/us/pl/94/549/s1/5], (6), (9), Oct. 18, 1976, [90 Stat. 2530][/us/stat/90/2530], 2533; [Pub. L. 96–612, § 1(8)][/us/pl/96/612/s1/8], (9), Dec. 28, 1980, [94 Stat. 3576][/us/stat/94/3576].)
+([Pub. L. 89–761][/us/pl/89/761], § 7, formerly § 8, Nov. 5, 1966, [80 Stat. 1311][/us/stat/80/1311]; renumbered § 7 and amended [Pub. L. 94–549][/us/pl/94/549], § 1(5), (6), (9), Oct. 18, 1976, [90 Stat. 2530][/us/stat/90/2530], 2533; [Pub. L. 96–612][/us/pl/96/612], § 1(8), (9), Dec. 28, 1980, [94 Stat. 3576][/us/stat/94/3576].)
 
  __References in Text__ 
 
-    [Section 460u–4 of this title][/us/usc/t16/s460u–4], referred to in subsec. (e), was repealed by [Pub. L. 94–549, § 1(9)][/us/pl/94/549/s1/9], Oct. 18, 1976, [90 Stat. 2533][/us/stat/90/2533].
+    [Section 460u–4 of this title][/us/usc/t16/s460u–4], referred to in subsec. (e), was repealed by [Pub. L. 94–549][/us/pl/94/549], § 1(9), Oct. 18, 1976, [90 Stat. 2533][/us/stat/90/2533].
 
  __Prior Provisions__ 
 
@@ -51,13 +51,13 @@
 
  __Amendments__ 
 
-    1980—Subsec. (a). [Pub. L. 96–612, § 1(8)][/us/pl/96/612/s1/8], substituted “on September 30, 1985” for “ten years after the date of establishment of the national lakeshore pursuant to this subchapter”.
+    1980—Subsec. (a). [Pub. L. 96–612][/us/pl/96/612], § 1(8), substituted “on September 30, 1985” for “ten years after the date of establishment of the national lakeshore pursuant to this subchapter”.
 
-    Subsec. (b). [Pub. L. 96–612, § 1(9)][/us/pl/96/612/s1/9], substituted “thirteen members” for “eleven members” in provisions preceding cl. (1) and “two members who are year-round residents” for “one member who is a year-round resident” in cls. (4) and (7).
+    Subsec. (b). [Pub. L. 96–612][/us/pl/96/612], § 1(9), substituted “thirteen members” for “eleven members” in provisions preceding cl. (1) and “two members who are year-round residents” for “one member who is a year-round resident” in cls. (4) and (7).
 
-    1976—Subsec. (b). [Pub. L. 94–549, § 1(5)][/us/pl/94/549/s1/5], substituted “eleven members” for “seven members” in provision preceding cl. (1), struck out “Portage” after “Dunes Acres” in cl. (3), and added cls. (7) to (10).
+    1976—Subsec. (b). [Pub. L. 94–549][/us/pl/94/549], § 1(5), substituted “eleven members” for “seven members” in provision preceding cl. (1), struck out “Portage” after “Dunes Acres” in cl. (3), and added cls. (7) to (10).
 
-    Subsec. (f). [Pub. L. 94–549, § 1(6)][/us/pl/94/549/s1/6], added subsec. (f).
+    Subsec. (f). [Pub. L. 94–549][/us/pl/94/549], § 1(6), added subsec. (f).
 
 ----------
 
@@ -66,20 +66,20 @@
 ----------
 ----------
 
-[/us/pl/89/761/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761%2Fs7
+[/us/pl/89/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761
 [/us/stat/80/1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1311
-[/us/pl/94/549/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549%2Fs1%2F5
+[/us/pl/94/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549
 [/us/stat/90/2530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2530
-[/us/pl/96/612/s1/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F612%2Fs1%2F8
+[/us/pl/96/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F612
 [/us/stat/94/3576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3576
 [/us/usc/t16/s460u–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460u%E2%80%934
-[/us/pl/94/549/s1/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549%2Fs1%2F9
+[/us/pl/94/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549
 [/us/stat/90/2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2533
 [/us/pl/89/761/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761%2Fs7
 [/us/usc/t16/s460u–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460u%E2%80%936
-[/us/pl/96/612/s1/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F612%2Fs1%2F8
-[/us/pl/96/612/s1/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F612%2Fs1%2F9
-[/us/pl/94/549/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549%2Fs1%2F5
-[/us/pl/94/549/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549%2Fs1%2F6
+[/us/pl/96/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F612
+[/us/pl/96/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F612
+[/us/pl/94/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549
+[/us/pl/94/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549
 
 

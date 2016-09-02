@@ -23,7 +23,7 @@
 
         For purposes of [section 1078 of title 20][/us/usc/t20/s1078], in the case of borrowers who are either participants in the Corps or resource assistants, upon written request, a lender shall grant a borrower forbearance on such terms as are otherwise consistent with the regulations of the Secretary of Education, during periods in which the borrower is serving as such a participant or a resource assistant.
 
-([Pub. L. 91–378, title II, § 208][/us/pl/91/378/s208], as added [Pub. L. 103–82, title I, § 105(6)][/us/pl/103/82/s105/6], Sept. 21, 1993, [107 Stat. 853][/us/stat/107/853].)
+([Pub. L. 91–378, title II][/us/pl/91/378/tII], § 208, as added [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 105(6), Sept. 21, 1993, [107 Stat. 853][/us/stat/107/853].)
 
  __References in Text__ 
 
@@ -39,8 +39,8 @@
 [/us/usc/t42/s12571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12571
 [/us/usc/t42/s12601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12601
 [/us/usc/t20/s1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078
-[/us/pl/91/378/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F378%2Fs208
-[/us/pl/103/82/s105/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs105%2F6
+[/us/pl/91/378/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F378%2FtII
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F853
 [/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
 [/us/stat/104/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3127

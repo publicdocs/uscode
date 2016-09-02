@@ -19,7 +19,7 @@
 
     The heads of the several executive departments shall cause to be rendered all necessary and practicable aid to the Secretary in the prosecution of his investigations and inquiries.
 
-(R.S. §§ 4396, 4397; [Mar. 3, 1887, ch. 362][/us/act/1887-03-03/ch362], [24 Stat. 523][/us/stat/24/523]; [June 21, 1916, ch. 160][/us/act/1916-06-21/ch160], §§ 1, 2, [39 Stat. 232][/us/stat/39/232]; 1939 Reorg. Plan No. II, § 4(e), (f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; 1940 Reorg. Plan No. III, § 3, eff. June 30, 1940, 5 F.R. 2108, [54 Stat. 1232][/us/stat/54/1232]; 1950 Reorg. Plan No. 3, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, [62 Stat. 1262][/us/stat/62/1262]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090]; [Pub. L. 96–470, title I, § 101(c)][/us/pl/96/470/s101/c], Oct. 19, 1980, [94 Stat. 2237][/us/stat/94/2237].)
+(R.S. §§ 4396, 4397; [Mar. 3, 1887, ch. 362][/us/act/1887-03-03/ch362], [24 Stat. 523][/us/stat/24/523]; [June 21, 1916, ch. 160][/us/act/1916-06-21/ch160], §§ 1, 2, [39 Stat. 232][/us/stat/39/232]; 1939 Reorg. Plan No. II, § 4(e), (f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; 1940 Reorg. Plan No. III, § 3, eff. June 30, 1940, 5 F.R. 2108, [54 Stat. 1232][/us/stat/54/1232]; 1950 Reorg. Plan No. 3, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, [62 Stat. 1262][/us/stat/62/1262]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090]; [Pub. L. 96–470, title I][/us/pl/96/470/tI], § 101(c), Oct. 19, 1980, [94 Stat. 2237][/us/stat/94/2237].)
 
  __Codification__ 
 
@@ -60,7 +60,7 @@
 [/us/stat/54/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1232
 [/us/stat/62/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1262
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
-[/us/pl/96/470/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs101%2Fc
+[/us/pl/96/470/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2FtI
 [/us/stat/94/2237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2237
 [/us/stat/16/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F16%2F594
 [/us/stat/16/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F16%2F594

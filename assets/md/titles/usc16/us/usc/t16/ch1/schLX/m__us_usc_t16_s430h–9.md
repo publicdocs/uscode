@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of sections 430h–6 to 430h–9 of this title.
 
-([Pub. L. 101–442, title I, § 104][/us/pl/101/442/s104], Oct. 18, 1990, [104 Stat. 1020][/us/stat/104/1020].)
+([Pub. L. 101–442, title I][/us/pl/101/442/tI], § 104, Oct. 18, 1990, [104 Stat. 1020][/us/stat/104/1020].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/442/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F442%2Fs104
+[/us/pl/101/442/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F442%2FtI
 [/us/stat/104/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1020
 
 

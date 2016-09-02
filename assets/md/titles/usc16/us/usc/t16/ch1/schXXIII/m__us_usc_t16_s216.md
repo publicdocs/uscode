@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated the sum of $100,000, or so much thereof as may be necessary, to carry out the provisions of [section 215 of this title][/us/usc/t16/s215]; and authorization is also given for such appropriations as may, in the future, be deemed necessary for the proper protection, preservation, care, maintenance, and operation of the said national park or reservation, including the salaries and compensation of a superintendent and other needed employees.
 
-([Feb. 11, 1929, ch. 176, § 2][/us/act/1929-02-11/ch176/s2], [45 Stat. 1162][/us/stat/45/1162].)
+([Feb. 11, 1929, ch. 176][/us/act/1929-02-11/ch176], § 2, [45 Stat. 1162][/us/stat/45/1162].)
 
  __Transfer of Functions__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t16/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs215
-[/us/act/1929-02-11/ch176/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-11%2Fch176%2Fs2
+[/us/act/1929-02-11/ch176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-11%2Fch176
 [/us/stat/45/1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1162
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

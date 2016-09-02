@@ -31,7 +31,7 @@
 
     (7) educate and inform the public about the nutritional value of fish in the diet.
 
-([Pub. L. 99–659, title II, § 203][/us/pl/99/659/s203], Nov. 14, 1986, [100 Stat. 3716][/us/stat/100/3716].)
+([Pub. L. 99–659, title II][/us/pl/99/659/tII], § 203, Nov. 14, 1986, [100 Stat. 3716][/us/stat/100/3716].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/99/659/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs203
+[/us/pl/99/659/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtII
 [/us/stat/100/3716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3716
 [/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
 [/us/stat/100/3715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3715

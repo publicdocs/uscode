@@ -17,7 +17,7 @@
 
     In order to provide for public use and enjoyment of the scenic and natural resources of the New River Gorge National River and in order to provide public information to visitors with respect to the national river and associated State parklands, the Secretary is authorized and directed to construct a scenic overlook and visitor information facility at a suitable location accessible from Interstate 64 in the vicinity of Glade Creek within the boundary of the national river. There is authorized to be appropriated such sums as may be necessary to carry out construction (including all related planning and design) of the scenic overlook and visitor information facility.
 
-([Pub. L. 95–625, title XI, § 1116][/us/pl/95/625/s1116], as added [Pub. L. 100–534, title I, § 105][/us/pl/100/534/s105], Oct. 26, 1988, [102 Stat. 2702][/us/stat/102/2702].)
+([Pub. L. 95–625, title XI][/us/pl/95/625/tXI], § 1116, as added [Pub. L. 100–534, title I][/us/pl/100/534/tI], § 105, Oct. 26, 1988, [102 Stat. 2702][/us/stat/102/2702].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/95/625/s1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs1116
-[/us/pl/100/534/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F534%2Fs105
+[/us/pl/95/625/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtXI
+[/us/pl/100/534/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F534%2FtI
 [/us/stat/102/2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2702
 
 

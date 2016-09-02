@@ -27,7 +27,7 @@
 
         The Secretary is authorized to enter into an agreement with the owner of the lands identified as Tract 1127 and 1127B4, Section 23, Township 3 North, Range 73, Boulder County, Colorado, within the boundaries of Rocky Mountain National Park, to ensure the right of use as a single family residence, unless said property is being developed or is officially proposed to be developed by the owners in a manner which would substantially change its use.
 
-([Pub. L. 101–192, § 1][/us/pl/101/192/s1], Nov. 29, 1989, [103 Stat. 1700][/us/stat/103/1700].)
+([Pub. L. 101–192][/us/pl/101/192], § 1, Nov. 29, 1989, [103 Stat. 1700][/us/stat/103/1700].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/101/192/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F192%2Fs1
+[/us/pl/101/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F192
 [/us/stat/103/1700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1700
 
 

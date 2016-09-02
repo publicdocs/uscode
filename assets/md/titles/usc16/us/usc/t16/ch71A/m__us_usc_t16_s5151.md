@@ -37,7 +37,7 @@
 
         It is therefore declared to be the purpose of the Congress in this chapter to support and encourage the development, implementation, and enforcement of effective interstate action regarding the conservation and management of the Atlantic striped bass.
 
-([Pub. L. 98–613, § 2][/us/pl/98/613/s2], Oct. 31, 1984, [98 Stat. 3187][/us/stat/98/3187]; [Pub. L. 105–146, § 2][/us/pl/105/146/s2], Dec. 16, 1997, [111 Stat. 2672][/us/stat/111/2672].)
+([Pub. L. 98–613][/us/pl/98/613], § 2, Oct. 31, 1984, [98 Stat. 3187][/us/stat/98/3187]; [Pub. L. 105–146][/us/pl/105/146], § 2, Dec. 16, 1997, [111 Stat. 2672][/us/stat/111/2672].)
 
  __Amendments__ 
 
@@ -49,13 +49,13 @@
 
  __Short Title of 1997 Amendment__ 
 
-[Pub. L. 105–146, § 1][/us/pl/105/146/s1], Dec. 16, 1997, [111 Stat. 2672][/us/stat/111/2672], provided that: 
+[Pub. L. 105–146][/us/pl/105/146], § 1, Dec. 16, 1997, [111 Stat. 2672][/us/stat/111/2672], provided that: 
 
 > “This Act \[enacting [section 5158 of this title][/us/usc/t16/s5158], amending this section and sections 5152 to 5157 of this title, repealing [section 757g of this title][/us/usc/t16/s757g], amending provisions set out as a note under this section and listed in a table of National Wildlife Conservation Areas set out under [section 668dd of this title][/us/usc/t16/s668dd], and repealing provisions set out as notes under [section 1851 of this title][/us/usc/t16/s1851]\] may be cited as the ‘Atlantic Striped Bass Conservation Act Amendments of 1997’.”
 
  __Short Title__ 
 
-[Pub. L. 98–613, § 1][/us/pl/98/613/s1], Oct. 31, 1984, [98 Stat. 3187][/us/stat/98/3187], as amended by [Pub. L. 105–146, § 2][/us/pl/105/146/s2], Dec. 16, 1997, [111 Stat. 2672][/us/stat/111/2672], provided that: 
+[Pub. L. 98–613][/us/pl/98/613], § 1, Oct. 31, 1984, [98 Stat. 3187][/us/stat/98/3187], as amended by [Pub. L. 105–146][/us/pl/105/146], § 2, Dec. 16, 1997, [111 Stat. 2672][/us/stat/111/2672], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Atlantic Striped Bass Conservation Act’.”
 
@@ -106,20 +106,20 @@ By the authority vested in me as President by the Constitution and the laws of t
 ----------
 ----------
 
-[/us/pl/98/613/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F613%2Fs2
+[/us/pl/98/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F613
 [/us/stat/98/3187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3187
-[/us/pl/105/146/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F146%2Fs2
+[/us/pl/105/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F146
 [/us/stat/111/2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2672
 [/us/pl/105/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F146
-[/us/pl/105/146/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F146%2Fs1
+[/us/pl/105/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F146
 [/us/stat/111/2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2672
 [/us/usc/t16/s5158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5158
 [/us/usc/t16/s757g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs757g
 [/us/usc/t16/s668dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd
 [/us/usc/t16/s1851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1851
-[/us/pl/98/613/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F613%2Fs1
+[/us/pl/98/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F613
 [/us/stat/98/3187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3187
-[/us/pl/105/146/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F146%2Fs2
+[/us/pl/105/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F146
 [/us/stat/111/2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2672
 
 

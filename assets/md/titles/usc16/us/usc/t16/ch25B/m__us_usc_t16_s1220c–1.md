@@ -47,7 +47,7 @@
 
         The Secretary may not provide assistance under this section to a foreign country to which an obsolete ship is transferred under this chapter.
 
-([Pub. L. 92–402, § 7][/us/pl/92/402/s7], as added [Pub. L. 107–314, div. C, title XXXV, § 3504(a)(1)(B)][/us/pl/107/314/s3504/a/1/B], Dec. 2, 2002, [116 Stat. 2754][/us/stat/116/2754]; amended [Pub. L. 111–84, div. C, title XXXV, § 3513(b)][/us/pl/111/84/s3513/b], Oct. 28, 2009, [123 Stat. 2724][/us/stat/123/2724].)
+([Pub. L. 92–402][/us/pl/92/402], § 7, as added [Pub. L. 107–314, div. C, title XXXV][/us/pl/107/314/dC/tXXXV], § 3504(a)(1)(B), Dec. 2, 2002, [116 Stat. 2754][/us/stat/116/2754]; amended [Pub. L. 111–84, div. C, title XXXV][/us/pl/111/84/dC/tXXXV], § 3513(b), Oct. 28, 2009, [123 Stat. 2724][/us/stat/123/2724].)
 
  __Prior Provisions__ 
 
@@ -64,10 +64,10 @@
 ----------
 ----------
 
-[/us/pl/92/402/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F402%2Fs7
-[/us/pl/107/314/s3504/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs3504%2Fa%2F1%2FB
+[/us/pl/92/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F402
+[/us/pl/107/314/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdC%2FtXXXV
 [/us/stat/116/2754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2754
-[/us/pl/111/84/s3513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs3513%2Fb
+[/us/pl/111/84/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdC%2FtXXXV
 [/us/stat/123/2724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2724
 [/us/pl/92/402/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F402%2Fs7
 [/us/usc/t16/s1220d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1220d

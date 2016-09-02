@@ -17,7 +17,7 @@
 
     The jurisdiction, both civil and criminal, over persons within national forests shall not be affected or changed by reason of their existence, except so far as the punishment of offenses against the United States therein is concerned; the intent and meaning of this provision being that the State wherein any such national forest is situated shall not, by reason of the establishment thereof, lose its jurisdiction, nor the inhabitants thereof their rights and privileges as citizens, or be absolved from their duties as citizens of the State.
 
-([June 4, 1897, ch. 2, § 1][/us/act/1897-06-04/ch2/s1], [30 Stat. 36][/us/stat/30/36]; [Mar. 1, 1911, ch. 186, § 12][/us/act/1911-03-01/ch186/s12], [36 Stat. 963][/us/stat/36/963].)
+([June 4, 1897, ch. 2][/us/act/1897-06-04/ch2], § 1, [30 Stat. 36][/us/stat/30/36]; [Mar. 1, 1911, ch. 186][/us/act/1911-03-01/ch186], § 12, [36 Stat. 963][/us/stat/36/963].)
 
  __Codification__ 
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/act/1897-06-04/ch2/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-06-04%2Fch2%2Fs1
+[/us/act/1897-06-04/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-06-04%2Fch2
 [/us/stat/30/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F36
-[/us/act/1911-03-01/ch186/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-01%2Fch186%2Fs12
+[/us/act/1911-03-01/ch186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-01%2Fch186
 [/us/stat/36/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F963
 [/us/act/1907-03-04/ch2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2907
 [/us/stat/34/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F1269

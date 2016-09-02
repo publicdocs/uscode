@@ -21,7 +21,7 @@
 
     (2) Construct roads and mark with monuments, tablets, or otherwise, points of interest within the boundaries of the George Washington Carver National Monument.
 
-([July 14, 1943, ch. 238, § 3][/us/act/1943-07-14/ch238/s3], [57 Stat. 564][/us/stat/57/564].)
+([July 14, 1943, ch. 238][/us/act/1943-07-14/ch238], § 3, [57 Stat. 564][/us/stat/57/564].)
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t16/s450aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450aa
-[/us/act/1943-07-14/ch238/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-07-14%2Fch238%2Fs3
+[/us/act/1943-07-14/ch238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-07-14%2Fch238
 [/us/stat/57/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F564
 
 

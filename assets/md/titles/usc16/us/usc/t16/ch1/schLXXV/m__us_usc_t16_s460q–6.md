@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall deprive any State or political subdivision thereof of its right to exercise civil and criminal jurisdiction within the recreation area or of its right to tax persons, corporations, franchises, or property, including mineral or other interests, in or on lands or waters within the recreation area.
 
-([Pub. L. 89–336, § 7][/us/pl/89/336/s7], Nov. 8, 1965, [79 Stat. 1299][/us/stat/79/1299].)
+([Pub. L. 89–336][/us/pl/89/336], § 7, Nov. 8, 1965, [79 Stat. 1299][/us/stat/79/1299].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/336/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F336%2Fs7
+[/us/pl/89/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F336
 [/us/stat/79/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1299
 
 

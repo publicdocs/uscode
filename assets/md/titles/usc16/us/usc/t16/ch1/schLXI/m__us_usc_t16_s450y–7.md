@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated the sum of not to exceed $3,000 for the purpose of acquiring lands, interests in lands, and improvements thereon as may be necessary for carrying out this Act.
 
-([Pub. L. 86–689, § 4][/us/pl/86/689/s4], Sept. 2, 1960, [74 Stat. 737][/us/stat/74/737].)
+([Pub. L. 86–689][/us/pl/86/689], § 4, Sept. 2, 1960, [74 Stat. 737][/us/stat/74/737].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/86/689/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F689%2Fs4
+[/us/pl/86/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F689
 [/us/stat/74/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F737
 [/us/pl/86/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F689
 [/us/usc/t16/s17j–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs17j%E2%80%932

@@ -59,7 +59,7 @@
 
         The National Council shall cease to exist on December 31, 1991.
 
-([Pub. L. 99–659, title II, § 206][/us/pl/99/659/s206], Nov. 14, 1986, [100 Stat. 3718][/us/stat/100/3718]; [Pub. L. 101–627, title VII, § 701][/us/pl/101/627/s701], Nov. 28, 1990, [104 Stat. 4463][/us/stat/104/4463].)
+([Pub. L. 99–659, title II][/us/pl/99/659/tII], § 206, Nov. 14, 1986, [100 Stat. 3718][/us/stat/100/3718]; [Pub. L. 101–627, title VII][/us/pl/101/627/tVII], § 701, Nov. 28, 1990, [104 Stat. 4463][/us/stat/104/4463].)
 
  __References in Text__ 
 
@@ -71,7 +71,7 @@
 
  __Continuity of Council Functions, Contracts, and Personnel__ 
 
-[Pub. L. 101–627, title VII, § 705][/us/pl/101/627/s705], Nov. 28, 1990, [104 Stat. 4464][/us/stat/104/4464], provided that: 
+[Pub. L. 101–627, title VII][/us/pl/101/627/tVII], § 705, Nov. 28, 1990, [104 Stat. 4464][/us/stat/104/4464], provided that: 
 
 > “All current functions, contracts in force, and existing personnel of the National Fish and Seafood Promotional Council as of September 30, 1990, are reauthorized and extended, and shall continue as if uninterrupted, notwithstanding section 206(g) of the Fish and Seafood Promotion Act of 1986 ([16 U.S.C. 4005(g)][/us/usc/t16/s4005/g]) as in effect on September 30, 1990.”
 
@@ -86,13 +86,13 @@
 [/us/usc/t16/s4009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4009
 [/us/usc/t16/s4009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4009
 [/us/usc/t16/s4009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4009
-[/us/pl/99/659/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs206
+[/us/pl/99/659/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtII
 [/us/stat/100/3718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3718
-[/us/pl/101/627/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs701
+[/us/pl/101/627/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtVII
 [/us/stat/104/4463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4463
 [/us/usc/t5/s5382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5382
 [/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
-[/us/pl/101/627/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs705
+[/us/pl/101/627/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtVII
 [/us/stat/104/4464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4464
 [/us/usc/t16/s4005/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4005%2Fg
 

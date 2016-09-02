@@ -69,7 +69,7 @@
 
         (5) As used in this subsection the terms “affiliate”, “associate company”, “electric utility company”, “holding company”, “subsidiary company”, and “exempt wholesale generator” shall have the same meaning as when used in the Public Utility Holding Company Act of 2005 \[[42 U.S.C. 16451][/us/usc/t42/s16451] et seq.\].
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 201, as added [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, § 213, [49 Stat. 847][/us/stat/49/847]; amended [Pub. L. 95–617, title II, § 204(b)][/us/pl/95/617/s204/b], Nov. 9, 1978, [92 Stat. 3140][/us/stat/92/3140]; [Pub. L. 102–486, title VII, § 714][/us/pl/102/486/s714], Oct. 24, 1992, [106 Stat. 2911][/us/stat/106/2911]; [Pub. L. 109–58, title XII][/us/pl/109/58], §§ 1277(b)(1), 1291(c), 1295(a), Aug. 8, 2005, [119 Stat. 978][/us/stat/119/978], 985; [Pub. L. 114–94, div. F, § 61003(b)][/us/pl/114/94/s61003/b], Dec. 4, 2015, [129 Stat. 1778][/us/stat/129/1778].)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 201, as added [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, § 213, [49 Stat. 847][/us/stat/49/847]; amended [Pub. L. 95–617, title II][/us/pl/95/617/tII], § 204(b), Nov. 9, 1978, [92 Stat. 3140][/us/stat/92/3140]; [Pub. L. 102–486, title VII][/us/pl/102/486/tVII], § 714, Oct. 24, 1992, [106 Stat. 2911][/us/stat/106/2911]; [Pub. L. 109–58, title XII][/us/pl/109/58/tXII], §§ 1277(b)(1), 1291(c), 1295(a), Aug. 8, 2005, [119 Stat. 978][/us/stat/119/978], 985; [Pub. L. 114–94, div. F][/us/pl/114/94/dF], § 61003(b), Dec. 4, 2015, [129 Stat. 1778][/us/stat/129/1778].)
 
  __References in Text__ 
 
@@ -79,23 +79,23 @@
 
  __Amendments__ 
 
-    2015—Subsec. (b)(2). [Pub. L. 114–94, § 61003(b)(1)][/us/pl/114/94/s61003/b/1], inserted “824o–1,” after “824o,” in two places.
+    2015—Subsec. (b)(2). [Pub. L. 114–94][/us/pl/114/94], § 61003(b)(1), inserted “824o–1,” after “824o,” in two places.
 
-    Subsec. (e). [Pub. L. 114–94, § 61003(b)(2)][/us/pl/114/94/s61003/b/2], inserted “824o–1,” after “824o,”.
+    Subsec. (e). [Pub. L. 114–94][/us/pl/114/94], § 61003(b)(2), inserted “824o–1,” after “824o,”.
 
-    2005—Subsec. (b)(2). [Pub. L. 109–58, § 1295(a)(1)][/us/pl/109/58/s1295/a/1], substituted “Notwithstanding subsection (f), the provisions of sections 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824o, 824p, 824q, 824r, 824s, 824t, 824u, and 824v of this title” for “The provisions of sections 824i, 824j, and 824k of this title” and “Compliance with any order or rule of the Commission under the provisions of section 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824o, 824p, 824q, 824r, 824s, 824t, 824u, or 824v of this title” for “Compliance with any order of the Commission under the provisions of section 824i or 824j of this title”.
+    2005—Subsec. (b)(2). [Pub. L. 109–58][/us/pl/109/58], § 1295(a)(1), substituted “Notwithstanding subsection (f), the provisions of sections 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824o, 824p, 824q, 824r, 824s, 824t, 824u, and 824v of this title” for “The provisions of sections 824i, 824j, and 824k of this title” and “Compliance with any order or rule of the Commission under the provisions of section 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824o, 824p, 824q, 824r, 824s, 824t, 824u, or 824v of this title” for “Compliance with any order of the Commission under the provisions of section 824i or 824j of this title”.
 
-    Subsec. (e). [Pub. L. 109–58, § 1295(a)(2)][/us/pl/109/58/s1295/a/2], substituted “section 824e(e), 824e(f), 824i, 824j, 824j–1, 824k, 824o, 824p, 824q, 824r, 824s, 824t, 824u, or 824v of this title” for “section 824i, 824j, or 824k of this title”.
+    Subsec. (e). [Pub. L. 109–58][/us/pl/109/58], § 1295(a)(2), substituted “section 824e(e), 824e(f), 824i, 824j, 824j–1, 824k, 824o, 824p, 824q, 824r, 824s, 824t, 824u, or 824v of this title” for “section 824i, 824j, or 824k of this title”.
 
-    Subsec. (f). [Pub. L. 109–58, § 1291(c)][/us/pl/109/58/s1291/c], which directed amendment of subsec. (f) by substituting “political subdivision of a State, an electric cooperative that receives financing under the Rural Electrification Act of 1936 ([7 U.S.C. 901][/us/usc/t7/s901] et seq.) or that sells less than 4,000,000 megawatt hours of electricity per year,” for “political subdivision of a state,”, was executed by making the substitution for “political subdivision of a State,” to reflect the probable intent of Congress.
+    Subsec. (f). [Pub. L. 109–58][/us/pl/109/58], § 1291(c), which directed amendment of subsec. (f) by substituting “political subdivision of a State, an electric cooperative that receives financing under the Rural Electrification Act of 1936 ([7 U.S.C. 901][/us/usc/t7/s901] et seq.) or that sells less than 4,000,000 megawatt hours of electricity per year,” for “political subdivision of a state,”, was executed by making the substitution for “political subdivision of a State,” to reflect the probable intent of Congress.
 
-    Subsec. (g)(5). [Pub. L. 109–58, § 1277(b)(1)][/us/pl/109/58/s1277/b/1], substituted “2005” for “1935”.
+    Subsec. (g)(5). [Pub. L. 109–58][/us/pl/109/58], § 1277(b)(1), substituted “2005” for “1935”.
 
     1992—Subsec. (g). [Pub. L. 102–486][/us/pl/102/486] added subsec. (g).
 
-    1978—Subsec. (b). [Pub. L. 95–617, § 204(b)(1)][/us/pl/95/617/s204/b/1], designated existing provisions as par. (1), inserted “except as provided in paragraph (2)” after “in interstate commerce, but”, and added par. (2).
+    1978—Subsec. (b). [Pub. L. 95–617][/us/pl/95/617], § 204(b)(1), designated existing provisions as par. (1), inserted “except as provided in paragraph (2)” after “in interstate commerce, but”, and added par. (2).
 
-    Subsec. (e). [Pub. L. 95–617, § 204(b)(2)][/us/pl/95/617/s204/b/2], inserted “(other than facilities subject to such jurisdiction solely by reason of section 824i, 824j, or 824k of this title)” after “under this subchapter”.
+    Subsec. (e). [Pub. L. 95–617][/us/pl/95/617], § 204(b)(2), inserted “(other than facilities subject to such jurisdiction solely by reason of section 824i, 824j, or 824k of this title)” after “under this subchapter”.
 
  __Effective Date of 2005 Amendment__ 
 
@@ -107,7 +107,7 @@
 
  __Prior Actions; Effect On Other Authorities__ 
 
-[Pub. L. 95–617, title II, § 214][/us/pl/95/617/s214], Nov. 9, 1978, [92 Stat. 3149][/us/stat/92/3149], provided that:
+[Pub. L. 95–617, title II][/us/pl/95/617/tII], § 214, Nov. 9, 1978, [92 Stat. 3149][/us/stat/92/3149], provided that:
 
 >     “(a)  __Prior Actions__  __.—__ 
 
@@ -130,13 +130,13 @@
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
 [/us/act/1935-08-26/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-26%2Fch687
 [/us/stat/49/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F847
-[/us/pl/95/617/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs204%2Fb
+[/us/pl/95/617/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtII
 [/us/stat/92/3140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3140
-[/us/pl/102/486/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs714
+[/us/pl/102/486/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtVII
 [/us/stat/106/2911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2911
-[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F978
-[/us/pl/114/94/s61003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs61003%2Fb
+[/us/pl/114/94/dF]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdF
 [/us/stat/129/1778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1778
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
 [/us/stat/49/1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1363
@@ -144,23 +144,23 @@
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/stat/119/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F972
 [/us/usc/t42/s15801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15801
-[/us/pl/114/94/s61003/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs61003%2Fb%2F1
-[/us/pl/114/94/s61003/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs61003%2Fb%2F2
-[/us/pl/109/58/s1295/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1295%2Fa%2F1
-[/us/pl/109/58/s1295/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1295%2Fa%2F2
-[/us/pl/109/58/s1291/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1291%2Fc
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/usc/t7/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs901
-[/us/pl/109/58/s1277/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1277%2Fb%2F1
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
-[/us/pl/95/617/s204/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs204%2Fb%2F1
-[/us/pl/95/617/s204/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs204%2Fb%2F2
+[/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
+[/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
 [/us/pl/109/58/s1277/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1277%2Fb%2F1
 [/us/pl/109/58/s1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1274
 [/us/usc/t42/s16451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16451
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/102/486/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs731
 [/us/usc/t16/s796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs796
-[/us/pl/95/617/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs214
+[/us/pl/95/617/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtII
 [/us/stat/92/3149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3149
 
 

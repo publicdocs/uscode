@@ -17,7 +17,7 @@
 
     The Secretary of the Interior may acquire in such manner as he may consider to be in the public interest the non-Federal lands and interests in lands within the revised boundaries.
 
-([Pub. L. 87–78, § 2][/us/pl/87/78/s2], June 30, 1961, [75 Stat. 197][/us/stat/75/197].)
+([Pub. L. 87–78][/us/pl/87/78], § 2, June 30, 1961, [75 Stat. 197][/us/stat/75/197].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/78/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F78%2Fs2
+[/us/pl/87/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F78
 [/us/stat/75/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F197
 
 

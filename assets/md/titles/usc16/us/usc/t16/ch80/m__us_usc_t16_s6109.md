@@ -39,7 +39,7 @@
 
         Of amounts appropriated under this section for each fiscal year, not less than 75 percent shall be expended for projects carried out outside the United States.
 
-([Pub. L. 106–247, § 10][/us/pl/106/247/s10], July 20, 2000, [114 Stat. 597][/us/stat/114/597]; [Pub. L. 109–363, title III, § 302(i)][/us/pl/109/363/s302/i], Oct. 17, 2006, [120 Stat. 2077][/us/stat/120/2077].)
+([Pub. L. 106–247][/us/pl/106/247], § 10, July 20, 2000, [114 Stat. 597][/us/stat/114/597]; [Pub. L. 109–363, title III][/us/pl/109/363/tIII], § 302(i), Oct. 17, 2006, [120 Stat. 2077][/us/stat/120/2077].)
 
  __Amendments__ 
 
@@ -52,9 +52,9 @@
 ----------
 ----------
 
-[/us/pl/106/247/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F247%2Fs10
+[/us/pl/106/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F247
 [/us/stat/114/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F597
-[/us/pl/109/363/s302/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2Fs302%2Fi
+[/us/pl/109/363/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2FtIII
 [/us/stat/120/2077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2077
 [/us/pl/109/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363
 

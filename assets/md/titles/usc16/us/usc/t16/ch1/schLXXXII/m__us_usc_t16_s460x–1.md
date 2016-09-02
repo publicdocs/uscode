@@ -23,7 +23,7 @@
 
         As soon as practicable after October 21, 1970, and following the acquisition by the Secretary of those lands owned by the State of Michigan within the boundaries of the area designated for inclusion in the lakeshore (excepting not to exceed three hundred acres in the Platte Bay area) and of such additional lands, if any, as are necessary to provide an area which in his opinion is efficiently administrable for the purposes of this subchapter, he shall establish the Sleeping Bear Dunes National Lakeshore by publication of notice thereof in the Federal Register.
 
-([Pub. L. 91–479, § 2][/us/pl/91/479/s2], Oct. 21, 1970, [84 Stat. 1075][/us/stat/84/1075].)
+([Pub. L. 91–479][/us/pl/91/479], § 2, Oct. 21, 1970, [84 Stat. 1075][/us/stat/84/1075].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/91/479/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F479%2Fs2
+[/us/pl/91/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F479
 [/us/stat/84/1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1075
 
 

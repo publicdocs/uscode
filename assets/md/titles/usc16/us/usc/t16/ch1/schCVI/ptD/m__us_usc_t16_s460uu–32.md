@@ -19,7 +19,7 @@
 
     (b) Within the wilderness areas designated by this subchapter, the grazing of livestock, where established prior to December 31, 1987, shall be permitted to continue subject to such reasonable regulations, policies, and practices as the Secretary deems necessary, as long as such regulations, policies, and practices fully conform with and implement the intent of Congress regarding grazing in such areas as such intent is expressed in the Wilderness Act \[[16 U.S.C. 1131][/us/usc/t16/s1131] et seq.\] and [section 108 of Public Law 96–560][/us/pl/96/560/s108] ([16 U.S.C. 1133][/us/usc/t16/s1133] note).
 
-([Pub. L. 100–225, title IV, § 402][/us/pl/100/225/s402], Dec. 31, 1987, [101 Stat. 1542][/us/stat/101/1542].)
+([Pub. L. 100–225, title IV][/us/pl/100/225/tIV], § 402, Dec. 31, 1987, [101 Stat. 1542][/us/stat/101/1542].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
 [/us/pl/96/560/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F560%2Fs108
 [/us/usc/t16/s1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1133
-[/us/pl/100/225/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F225%2Fs402
+[/us/pl/100/225/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F225%2FtIV
 [/us/stat/101/1542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1542
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890

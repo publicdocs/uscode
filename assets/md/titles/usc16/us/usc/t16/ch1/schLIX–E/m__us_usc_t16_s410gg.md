@@ -17,7 +17,7 @@
 
     In order to preserve and protect for the education, inspiration, recreation, and enjoyment of present and future generations a rare combination of terrestrial, marine, and amphibious life in a tropical setting of great natural beauty, there is hereby established the Biscayne National Park (hereinafter referred to in this subchapter as the “park”) in the State of Florida. The boundary of the park shall include the lands, waters, and interests therein as generally depicted on the map entitled “Boundary Map, Biscayne National Park”, numbered 169–90,003, and dated April 1980, which map shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior. The Secretary of the Interior (hereinafter referred to as the “Secretary”) shall publish in the Federal Register, not more than one year after June 28, 1980, a detailed description of the boundary established pursuant to this section. Following reasonable notice in writing to the Committee on Natural Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate of his intention to do so, the Secretary may make minor revisions in the boundary of the park by publication of a revised boundary map or other description in the Federal Register.
 
-([Pub. L. 96–287, title I, § 101][/us/pl/96/287/s101], June 28, 1980, [94 Stat. 599][/us/stat/94/599]; [Pub. L. 103–437, § 6(d)(10)][/us/pl/103/437/s6/d/10], Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
+([Pub. L. 96–287, title I][/us/pl/96/287/tI], § 101, June 28, 1980, [94 Stat. 599][/us/stat/94/599]; [Pub. L. 103–437][/us/pl/103/437], § 6(d)(10), Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/96/287/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F287%2Fs101
+[/us/pl/96/287/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F287%2FtI
 [/us/stat/94/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F599
-[/us/pl/103/437/s6/d/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fd%2F10
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4584
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/105/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F307

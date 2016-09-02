@@ -169,7 +169,7 @@ SUBCHAPTER II—CONSERVATION PROGRAMS ON PUBLIC LANDS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs670" data-uslm-ref="/us/usc/t16/s670">670</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs670l" data-uslm-ref="/us/usc/t16/s670l">670l.</a>  </td>
 
     <td> Stamp requirements not applicable to Forest Service and Bureau of Land Management lands; authorized fees.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER II—CONSERVATION PROGRAMS ON PUBLIC LANDS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs670" data-uslm-ref="/us/usc/t16/s670">670</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs670o" data-uslm-ref="/us/usc/t16/s670o">670o.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

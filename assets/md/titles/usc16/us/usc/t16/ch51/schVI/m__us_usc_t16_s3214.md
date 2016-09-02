@@ -17,7 +17,7 @@
 
     Nothing in this Act shall be construed as imposing any additional requirements in connection with the construction and operation of the transportation system designated by the President and approved by the Congress pursuant to the Alaska Natural Gas Transportation Act of 1976 ([Public Law 94–586][/us/pl/94/586]; [90 Stat. 2903][/us/stat/90/2903]) \[[15 U.S.C. 719][/us/usc/t15/s719] et seq.\], or as imposing any limitations upon the authority of the Secretary concerning such system.
 
-([Pub. L. 96–487, title XIII, § 1327][/us/pl/96/487/s1327], Dec. 2, 1980, [94 Stat. 2489][/us/stat/94/2489].)
+([Pub. L. 96–487, title XIII][/us/pl/96/487/tXIII], § 1327, Dec. 2, 1980, [94 Stat. 2489][/us/stat/94/2489].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 [/us/pl/94/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586
 [/us/stat/90/2903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2903
 [/us/usc/t15/s719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719
-[/us/pl/96/487/s1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1327
+[/us/pl/96/487/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXIII
 [/us/stat/94/2489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2489
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371

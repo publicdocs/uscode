@@ -207,7 +207,7 @@
 
         (5) a plan for preservation of scenic, archeological and natural values and of fragile ecological areas.
 
-([Pub. L. 95–625, title V, § 507][/us/pl/95/625/s507], Nov. 10, 1978, [92 Stat. 3501][/us/stat/92/3501]; [Pub. L. 96–87, title IV, § 401(j)][/us/pl/96/87/s401/j], Oct. 12, 1979, [93 Stat. 666][/us/stat/93/666]; [Pub. L. 96–199, title I, § 118][/us/pl/96/199/s118], Mar. 5, 1980, [94 Stat. 71][/us/stat/94/71]; [Pub. L. 98–572][/us/pl/98/572], Oct. 30, 1984, [98 Stat. 2946][/us/stat/98/2946]; [Pub. L. 103–437, § 6(d)(5)][/us/pl/103/437/s6/d/5], Nov. 2, 1994, [108 Stat. 4583][/us/stat/108/4583]; [Pub. L. 107–236][/us/pl/107/236], §§ 2, 3, Oct. 9, 2002, [116 Stat. 1483][/us/stat/116/1483].)
+([Pub. L. 95–625, title V][/us/pl/95/625/tV], § 507, Nov. 10, 1978, [92 Stat. 3501][/us/stat/92/3501]; [Pub. L. 96–87, title IV][/us/pl/96/87/tIV], § 401(j), Oct. 12, 1979, [93 Stat. 666][/us/stat/93/666]; [Pub. L. 96–199, title I][/us/pl/96/199/tI], § 118, Mar. 5, 1980, [94 Stat. 71][/us/stat/94/71]; [Pub. L. 98–572][/us/pl/98/572], Oct. 30, 1984, [98 Stat. 2946][/us/stat/98/2946]; [Pub. L. 103–437][/us/pl/103/437], § 6(d)(5), Nov. 2, 1994, [108 Stat. 4583][/us/stat/108/4583]; [Pub. L. 107–236][/us/pl/107/236], §§ 2, 3, Oct. 9, 2002, [116 Stat. 1483][/us/stat/116/1483].)
 
  __References in Text__ 
 
@@ -219,11 +219,11 @@
 
     2002—Subsec. (c)(1). [Pub. L. 107–236][/us/pl/107/236], §§ 2(1), 3(1), substituted “ ‘Santa Monica Mountains National Recreation Area and Santa Monica Mountains Zone, California, Boundary Map’, numbered 80,047–C and dated August 2001” for “ ‘Boundary Map, Santa Monica Mountains National Recreation Area, California, and Santa Monica Mountains Zone’, numbered SMM–NRA 80,000, and dated May 1978” and “Committee on Resources” for “Committee on Natural Resources”.
 
-    Subsec. (c)(2)(A). [Pub. L. 107–236, § 2(2)][/us/pl/107/236/s2/2], inserted after third sentence “Lands within the ‘Wildlife Corridor Expansion Zone’ identified on the boundary map referred to in paragraph (1) may be acquired only by donation or with donated funds.”
+    Subsec. (c)(2)(A). [Pub. L. 107–236][/us/pl/107/236], § 2(2), inserted after third sentence “Lands within the ‘Wildlife Corridor Expansion Zone’ identified on the boundary map referred to in paragraph (1) may be acquired only by donation or with donated funds.”
 
-    Subsec. (c)(2)(B). [Pub. L. 107–236, § 3(2)][/us/pl/107/236/s3/2], substituted “certain federally owned” for “of certain federally owned” in first sentence.
+    Subsec. (c)(2)(B). [Pub. L. 107–236][/us/pl/107/236], § 3(2), substituted “certain federally owned” for “of certain federally owned” in first sentence.
 
-    Subsec. (n)(5). [Pub. L. 107–236, § 3(3)][/us/pl/107/236/s3/3], substituted “laws,” for “laws” in second sentence.
+    Subsec. (n)(5). [Pub. L. 107–236][/us/pl/107/236], § 3(3), substituted “laws,” for “laws” in second sentence.
 
     1994—Subsec. (c)(1). [Pub. L. 103–437][/us/pl/103/437] substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
@@ -235,7 +235,7 @@
 
  __Anthony C. Beilenson Visitor Center__ 
 
-[Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title I, § 145\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–267, provided that: 
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title I, § 145\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–267, provided that: 
 
 > “The principal visitor center for the Santa Monica Mountains National Recreation Area, regardless of location, shall be named for Anthony C. Beilenson and shall be referred to in any law, document or record of the United States as the ‘Anthony C. Beilenson Visitor Center’.”
 
@@ -253,15 +253,15 @@
 [/us/usc/t43/s1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1716
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
-[/us/pl/95/625/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs507
+[/us/pl/95/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtV
 [/us/stat/92/3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3501
-[/us/pl/96/87/s401/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F87%2Fs401%2Fj
+[/us/pl/96/87/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F87%2FtIV
 [/us/stat/93/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F666
-[/us/pl/96/199/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199%2Fs118
+[/us/pl/96/199/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199%2FtI
 [/us/stat/94/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F71
 [/us/pl/98/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F572
 [/us/stat/98/2946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2946
-[/us/pl/103/437/s6/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fd%2F5
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4583
 [/us/pl/107/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F236
 [/us/stat/116/1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1483
@@ -277,14 +277,14 @@
 [/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
 [/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/107/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F236
-[/us/pl/107/236/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F236%2Fs2%2F2
-[/us/pl/107/236/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F236%2Fs3%2F2
-[/us/pl/107/236/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F236%2Fs3%2F3
+[/us/pl/107/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F236
+[/us/pl/107/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F236
+[/us/pl/107/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F236
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/98/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F572
 [/us/pl/96/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199
 [/us/pl/96/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F87
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 [/us/pl/95/625/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs2
 [/us/usc/t16/s45f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs45f

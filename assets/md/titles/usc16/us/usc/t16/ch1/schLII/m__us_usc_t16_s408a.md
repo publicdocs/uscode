@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized, in his discretion and upon submission of evidence of title satisfactory to him, to accept on behalf of the United States title to any lands located on said islands offered to the United States, without cost, as may be deemed by him necessary or desirable for national-park purposes.
 
-([Mar. 3, 1931, ch. 448, § 2][/us/act/1931-03-03/ch448/s2], [46 Stat. 1514][/us/stat/46/1514].)
+([Mar. 3, 1931, ch. 448][/us/act/1931-03-03/ch448], § 2, [46 Stat. 1514][/us/stat/46/1514].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1931-03-03/ch448/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-03%2Fch448%2Fs2
+[/us/act/1931-03-03/ch448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-03%2Fch448
 [/us/stat/46/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1514
 
 

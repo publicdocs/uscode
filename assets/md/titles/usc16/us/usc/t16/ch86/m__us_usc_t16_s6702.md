@@ -51,7 +51,7 @@
 
     (7) to assist Federal and non-Federal land managers in providing information to the public on the role of fire and fire management in dry forest and woodland ecosystems in the interior West.
 
-([Pub. L. 108–317, § 3][/us/pl/108/317/s3], Oct. 5, 2004, [118 Stat. 1205][/us/stat/118/1205].)
+([Pub. L. 108–317][/us/pl/108/317], § 3, Oct. 5, 2004, [118 Stat. 1205][/us/stat/118/1205].)
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/108/317/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F317%2Fs3
+[/us/pl/108/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F317
 [/us/stat/118/1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1205
 
 

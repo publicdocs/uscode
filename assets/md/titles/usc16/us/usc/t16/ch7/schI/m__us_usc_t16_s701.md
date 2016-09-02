@@ -21,11 +21,11 @@
 
     And the Secretary of the Interior shall make and publish all needful rules and regulations for carrying out the purposes of this Act, and shall expend for said purposes such sums as Congress may appropriate therefor.
 
-([May 25, 1900, ch. 553, § 1][/us/act/1900-05-25/ch553/s1], [31 Stat. 187][/us/stat/31/187]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433].)
+([May 25, 1900, ch. 553][/us/act/1900-05-25/ch553], § 1, [31 Stat. 187][/us/stat/31/187]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433].)
 
  __References in Text__ 
 
-    This Act, referred to in text, is act May 25, 1900, section 1 of which is classified to this section. Sections 2 to 4 of the Act were repealed and restated by sections 241 to 244 of the Criminal Code of 1909 (approved [Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321]) which were classified to sections 391 to 394 of former Title 18. Such sections were subsequently repealed and reenacted as sections 42 to 44 of Title 18, Crimes and Criminal Procedure. Section 5 of the Act which was classified to [section 667e of this title][/us/usc/t16/s667e] was repealed by [Pub. L. 97–79, § 9(b)(2)][/us/pl/97/79/s9/b/2], Nov. 16, 1981, [95 Stat. 1079][/us/stat/95/1079].
+    This Act, referred to in text, is act May 25, 1900, section 1 of which is classified to this section. Sections 2 to 4 of the Act were repealed and restated by sections 241 to 244 of the Criminal Code of 1909 (approved [Mar. 4, 1909, ch. 321][/us/act/1909-03-04/ch321]) which were classified to sections 391 to 394 of former Title 18. Such sections were subsequently repealed and reenacted as sections 42 to 44 of Title 18, Crimes and Criminal Procedure. Section 5 of the Act which was classified to [section 667e of this title][/us/usc/t16/s667e] was repealed by [Pub. L. 97–79][/us/pl/97/79], § 9(b)(2), Nov. 16, 1981, [95 Stat. 1079][/us/stat/95/1079].
 
  __Transfer of Functions__ 
 
@@ -122,12 +122,12 @@ By the authority vested in me as President by the Constitution and the laws of t
 ----------
 ----------
 
-[/us/act/1900-05-25/ch553/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-05-25%2Fch553%2Fs1
+[/us/act/1900-05-25/ch553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1900-05-25%2Fch553
 [/us/stat/31/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F187
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
 [/us/act/1909-03-04/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-03-04%2Fch321
 [/us/usc/t16/s667e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs667e
-[/us/pl/97/79/s9/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F79%2Fs9%2Fb%2F2
+[/us/pl/97/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F79
 [/us/stat/95/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1079
 [/us/usc/t16/s703–711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs703%E2%80%93711
 [/us/usc/t16/s668–668d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668%E2%80%93668d

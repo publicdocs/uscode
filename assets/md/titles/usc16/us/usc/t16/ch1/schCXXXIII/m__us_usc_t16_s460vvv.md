@@ -99,7 +99,7 @@
 
         The designation of the Bridgeport Winter Recreation Area by this section is not intended to restrict or preclude the activities conducted by the United States Armed Forces at the United States Marine Corps Mountain Warfare Training Center.
 
-([Pub. L. 111–11, title I, § 1806][/us/pl/111/11/s1806], Mar. 30, 2009, [123 Stat. 1059][/us/stat/123/1059]; [Pub. L. 111–84, div. B, title XXVIII, § 2874][/us/pl/111/84/s2874], Oct. 28, 2009, [123 Stat. 2697][/us/stat/123/2697].)
+([Pub. L. 111–11, title I][/us/pl/111/11/tI], § 1806, Mar. 30, 2009, [123 Stat. 1059][/us/stat/123/1059]; [Pub. L. 111–84, div. B, title XXVIII][/us/pl/111/84/dB/tXXVIII], § 2874, Oct. 28, 2009, [123 Stat. 2697][/us/stat/123/2697].)
 
  __References in Text__ 
 
@@ -111,7 +111,7 @@
 
  __Definitions__ 
 
-[Pub. L. 111–11, title I, § 1801][/us/pl/111/11/s1801], Mar. 30, 2009, [123 Stat. 1052][/us/stat/123/1052], provided that: 
+[Pub. L. 111–11, title I][/us/pl/111/11/tI], § 1801, Mar. 30, 2009, [123 Stat. 1052][/us/stat/123/1052], provided that: 
 
 > “In this subtitle \[subtitle K (§§ 1801–1808) of title I of [Pub. L. 111–11][/us/pl/111/11], see References in Text note above\]:
 
@@ -147,9 +147,9 @@
 ----------
 
 [/us/usc/t16/s1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1241
-[/us/pl/111/11/s1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs1806
+[/us/pl/111/11/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtI
 [/us/stat/123/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1059
-[/us/pl/111/84/s2874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs2874
+[/us/pl/111/84/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdB%2FtXXVIII
 [/us/stat/123/2697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2697
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 [/us/stat/123/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1052
@@ -157,7 +157,7 @@
 [/us/usc/t16/s1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1274
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/111/11/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs1801
+[/us/pl/111/11/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtI
 [/us/stat/123/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1052
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 [/us/usc/t16/s539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs539

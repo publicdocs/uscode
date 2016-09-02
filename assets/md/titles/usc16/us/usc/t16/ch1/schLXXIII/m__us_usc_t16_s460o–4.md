@@ -23,7 +23,7 @@
 
     (3) such utilization of natural resources as in the judgment of the Secretary of the Interior is consistent with, and does not significantly impair, public recreation and protection of scenic, scientific, and historic features contributing to public enjoyment.
 
-([Pub. L. 89–158, § 5][/us/pl/89/158/s5], Sept. 1, 1965, [79 Stat. 614][/us/stat/79/614].)
+([Pub. L. 89–158][/us/pl/89/158], § 5, Sept. 1, 1965, [79 Stat. 614][/us/stat/79/614].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/89/158/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F158%2Fs5
+[/us/pl/89/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F158
 [/us/stat/79/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F614
 
 

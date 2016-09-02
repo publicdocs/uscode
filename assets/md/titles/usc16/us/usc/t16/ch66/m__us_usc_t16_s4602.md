@@ -31,7 +31,7 @@
 
         Any property and the proceeds thereof shall be used as nearly as practicable in accordance with the terms of the gift or bequest.
 
-([Pub. L. 101–628, title XI, § 1103][/us/pl/101/628/s1103], Nov. 28, 1990, [104 Stat. 4502][/us/stat/104/4502].)
+([Pub. L. 101–628, title XI][/us/pl/101/628/tXI], § 1103, Nov. 28, 1990, [104 Stat. 4502][/us/stat/104/4502].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/101/628/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628%2Fs1103
+[/us/pl/101/628/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628%2FtXI
 [/us/stat/104/4502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4502
 
 

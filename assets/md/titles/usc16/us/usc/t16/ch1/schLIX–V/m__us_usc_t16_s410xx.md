@@ -27,7 +27,7 @@
 
         The Fort Jefferson National Monument is hereby abolished.
 
-([Pub. L. 102–525, title II, § 201][/us/pl/102/525/s201], Oct. 26, 1992, [106 Stat. 3439][/us/stat/106/3439].)
+([Pub. L. 102–525, title II][/us/pl/102/525/tII], § 201, Oct. 26, 1992, [106 Stat. 3439][/us/stat/106/3439].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/pl/96/287/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F287%2Fs201
-[/us/pl/102/525/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F525%2Fs201
+[/us/pl/102/525/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F525%2FtII
 [/us/stat/106/3439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3439
 [/us/pl/102/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F525
 [/us/stat/106/3439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3439

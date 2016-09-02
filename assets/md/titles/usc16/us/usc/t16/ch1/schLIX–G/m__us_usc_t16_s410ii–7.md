@@ -17,7 +17,7 @@
 
     Effective October 1, 1981, there are authorized to be appropriated such sums as may be necessary to carry out the provisions of this subchapter but not to exceed $11,000,000 for acquisition and $500,000 for development.
 
-([Pub. L. 96–550, title V, § 508][/us/pl/96/550/s508], Dec. 19, 1980, [94 Stat. 3231][/us/stat/94/3231].)
+([Pub. L. 96–550, title V][/us/pl/96/550/tV], § 508, Dec. 19, 1980, [94 Stat. 3231][/us/stat/94/3231].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/550/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F550%2Fs508
+[/us/pl/96/550/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F550%2FtV
 [/us/stat/94/3231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3231
 
 

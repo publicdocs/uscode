@@ -159,7 +159,7 @@
 
             The study prepared under paragraph (1) shall include an assessment of the potential for designating the additional properties as National Historic Landmarks.
 
-([Pub. L. 113–291, div. B, title XXX, § 3033][/us/pl/113/291/s3033], Dec. 19, 2014, [128 Stat. 3775][/us/stat/128/3775].)
+([Pub. L. 113–291, div. B, title XXX][/us/pl/113/291/dB/tXXX], § 3033, Dec. 19, 2014, [128 Stat. 3775][/us/stat/128/3775].)
 
  __References in Text__ 
 
@@ -169,7 +169,7 @@
 
  __Codification__ 
 
-    In subsec. (c)(5)(B), “[section 100502 of title 54][/us/usc/t54/s100502]” substituted for “section 12(b) of the National Park System General Authorities Act ([16 U.S.C. 1a–7(b)][/us/usc/t16/s1a–7/b])” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (c)(5)(B), “[section 100502 of title 54][/us/usc/t54/s100502]” substituted for “section 12(b) of the National Park System General Authorities Act ([16 U.S.C. 1a–7(b)][/us/usc/t16/s1a–7/b])” on authority of [Pub. L. 113–287][/us/pl/113/287], § 6(e), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
     Section is comprised of [section 3033 of Pub. L. 113–291][/us/pl/113/291/s3033]. Subsec. (e) of [section 3033 of Pub. L. 113–291][/us/pl/113/291/s3033] amended section 7302(f) of the Omnibus Public Land Management Act of 2009, [Pub. L. 111–11][/us/pl/111/11], which was classified to [section 469n(f) of this title][/us/usc/t16/s469n/f] prior to repeal and restatement as [section 311105 of Title 54][/us/usc/t54/s311105], National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287]. See Amendment Not Shown in Text note under [section 311105 of Title 54][/us/usc/t54/s311105].
 
@@ -183,7 +183,7 @@
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
 [/us/usc/t54/s100502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100502
-[/us/pl/113/291/s3033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3033
+[/us/pl/113/291/dB/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXX
 [/us/stat/128/3775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3775
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
@@ -202,7 +202,7 @@
 [/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/usc/t54/s100502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100502
 [/us/usc/t16/s1a–7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%937%2Fb
-[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/113/291/s3033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3033
 [/us/pl/113/291/s3033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3033

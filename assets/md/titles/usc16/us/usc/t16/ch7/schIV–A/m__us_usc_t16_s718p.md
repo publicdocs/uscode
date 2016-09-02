@@ -23,7 +23,7 @@
 
         The Secretary shall implement this section in consultation with State management agencies.
 
-([Pub. L. 113–239, § 3][/us/pl/113/239/s3], Dec. 18, 2014, [128 Stat. 2848][/us/stat/128/2848].)
+([Pub. L. 113–239][/us/pl/113/239], § 3, Dec. 18, 2014, [128 Stat. 2848][/us/stat/128/2848].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/113/239/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F239%2Fs3
+[/us/pl/113/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F239
 [/us/stat/128/2848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2848
 
 

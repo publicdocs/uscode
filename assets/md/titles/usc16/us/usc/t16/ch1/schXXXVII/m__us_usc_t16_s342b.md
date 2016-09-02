@@ -17,7 +17,7 @@
 
     The area now within the Lafayette National Park, together with such additions as may hereafter be made thereto, shall be known as the Acadia National Park, under which name the aforesaid national park shall be entitled to receive and to use all moneys heretofore or hereafter appropriated for the Lafayette National Park: Provided, That the provisions of the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\] shall not apply to or extend to any lands now or hereafter included in said park.
 
-([Jan. 19, 1929, ch. 77, § 2][/us/act/1929-01-19/ch77/s2], [45 Stat. 1083][/us/stat/45/1083].)
+([Jan. 19, 1929, ch. 77][/us/act/1929-01-19/ch77], § 2, [45 Stat. 1083][/us/stat/45/1083].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
-[/us/act/1929-01-19/ch77/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-01-19%2Fch77%2Fs2
+[/us/act/1929-01-19/ch77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-01-19%2Fch77
 [/us/stat/45/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1083
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285

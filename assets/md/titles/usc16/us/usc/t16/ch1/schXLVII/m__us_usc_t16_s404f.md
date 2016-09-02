@@ -17,7 +17,7 @@
 
     All lands purchased from funds heretofore allocated and made available by Executive order, or otherwise, for the acquisition of lands for conservation or forestation purposes within the maximum boundaries of the Mammoth Cave National Park as authorized by [section 404 of this title][/us/usc/t16/s404], are made a part of the said park as fully as if originally acquired for that purpose and the proviso at the end of [section 404 of this title][/us/usc/t16/s404] shall not be construed so as to prohibit the acquisition of lands in said area under funds made available as aforesaid.
 
-([Aug. 28, 1937, ch. 873, § 1][/us/act/1937-08-28/ch873/s1], [50 Stat. 871][/us/stat/50/871].)
+([Aug. 28, 1937, ch. 873][/us/act/1937-08-28/ch873], § 1, [50 Stat. 871][/us/stat/50/871].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t16/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs404
 [/us/usc/t16/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs404
-[/us/act/1937-08-28/ch873/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-28%2Fch873%2Fs1
+[/us/act/1937-08-28/ch873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-28%2Fch873
 [/us/stat/50/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F871
 
 

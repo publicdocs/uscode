@@ -49,7 +49,7 @@
 
     (6) The term “conservation and rehabilitation programs” means to utilize those methods and procedures which are necessary to protect, conserve, and enhance wildlife, fish, and game resources to the maximum extent practicable on public lands subject to this subchapter consistent with any overall land use and management plans for the lands involved. Such methods and procedures shall include, but shall not be limited to, all activities associated with scientific resources management such as protection, research, census, law enforcement, habitat management, propagation, live trapping and transplantation, and regulated taking in conformance with the provisions of this subchapter. Nothing in this term shall be construed as diminishing the authority or jurisdiction of the States with respect to the management of resident species of fish, wildlife, or game, except as otherwise provided by law.
 
-([Pub. L. 86–797, title II, § 205][/us/pl/86/797/s205], as added [Pub. L. 93–452, § 2][/us/pl/93/452/s2], Oct. 18, 1974, [88 Stat. 1373][/us/stat/88/1373]; amended [Pub. L. 112–81, div. A, title III, § 312(b)(11)][/us/pl/112/81/s312/b/11], Dec. 31, 2011, [125 Stat. 1355][/us/stat/125/1355].)
+([Pub. L. 86–797, title II][/us/pl/86/797/tII], § 205, as added [Pub. L. 93–452][/us/pl/93/452], § 2, Oct. 18, 1974, [88 Stat. 1373][/us/stat/88/1373]; amended [Pub. L. 112–81, div. A, title III][/us/pl/112/81/dA/tIII], § 312(b)(11), Dec. 31, 2011, [125 Stat. 1355][/us/stat/125/1355].)
 
  __Amendments__ 
 
@@ -66,10 +66,10 @@
 ----------
 ----------
 
-[/us/pl/86/797/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F797%2Fs205
-[/us/pl/93/452/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F452%2Fs2
+[/us/pl/86/797/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F797%2FtII
+[/us/pl/93/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F452
 [/us/stat/88/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1373
-[/us/pl/112/81/s312/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs312%2Fb%2F11
+[/us/pl/112/81/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIII
 [/us/stat/125/1355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1355
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 

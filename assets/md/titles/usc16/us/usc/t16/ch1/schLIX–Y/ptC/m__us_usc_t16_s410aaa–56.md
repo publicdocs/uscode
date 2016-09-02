@@ -21,11 +21,11 @@
 
     (2) lands or interests therein within the boundary of the preserve which are not owned by the State of California or any political subdivision thereof may be acquired only with the consent of the owner thereof unless the Secretary determines, after written notice to the owner and after opportunity for comment, that the property is being developed, or proposed to be developed, in a manner which is detrimental to the integrity of the preserve or which is otherwise incompatible with the purposes of this part: Provided, however, That the construction, modification, repair, improvement, or replacement of a single-family residence shall not be determined to be detrimental to the integrity of the preserve or incompatible with the purposes of this part.
 
-([Pub. L. 103–433, title V, § 516][/us/pl/103/433/s516], Oct. 31, 1994, [108 Stat. 4494][/us/stat/108/4494].)
+([Pub. L. 103–433, title V][/us/pl/103/433/tV], § 516, Oct. 31, 1994, [108 Stat. 4494][/us/stat/108/4494].)
 
  __Land Exchange, Mojave National Preserve__ 
 
-[Pub. L. 108–87, title VIII, § 8121][/us/pl/108/87/s8121], Sept. 30, 2003, [117 Stat. 1100][/us/stat/117/1100], provided that:
+[Pub. L. 108–87, title VIII][/us/pl/108/87/tVIII], § 8121, Sept. 30, 2003, [117 Stat. 1100][/us/stat/117/1100], provided that:
 
 >     “(a)  __Exchange Required__  __.—__ 
 
@@ -58,9 +58,9 @@
 ----------
 ----------
 
-[/us/pl/103/433/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs516
+[/us/pl/103/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtV
 [/us/stat/108/4494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4494
-[/us/pl/108/87/s8121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F87%2Fs8121
+[/us/pl/108/87/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F87%2FtVIII
 [/us/stat/117/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1100
 [/us/pl/107/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117
 [/us/stat/115/2278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2278

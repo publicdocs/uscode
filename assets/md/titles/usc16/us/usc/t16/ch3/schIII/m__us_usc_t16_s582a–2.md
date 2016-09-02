@@ -17,7 +17,7 @@
 
     To enable the Secretary to carry out the provisions of this subchapter there are authorized to be appropriated such sums as the Congress may from time to time determine to be necessary but not exceeding in any one fiscal year one-half the amount appropriated for Federal forestry research conducted directly by the Department of Agriculture for the fiscal year preceding the year in which the budget is presented for such appropriation. Funds appropriated and made available to the States under this subchapter shall be in addition to allotments or grants that may be made under other authorizations.
 
-([Pub. L. 87–788, § 3][/us/pl/87/788/s3], Oct. 10, 1962, [76 Stat. 806][/us/stat/76/806].)
+([Pub. L. 87–788][/us/pl/87/788], § 3, Oct. 10, 1962, [76 Stat. 806][/us/stat/76/806].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/788/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F788%2Fs3
+[/us/pl/87/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F788
 [/us/stat/76/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F806
 
 

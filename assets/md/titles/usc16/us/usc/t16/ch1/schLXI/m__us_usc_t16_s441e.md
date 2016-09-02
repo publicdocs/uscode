@@ -17,7 +17,7 @@
 
     Sections 441 to 441d of this title shall become effective if and when all of the above conditions shall have been fully complied with to the satisfaction of the President of the United States, who shall then issue a proclamation declaring that the conditions precedent herein required have been complied with, and said proclamation shall formally dedicate and set aside the areas herein described in accordance with the provisions of [section 441 of this title][/us/usc/t16/s441].
 
-([Mar. 4, 1929, ch. 693, § 6][/us/act/1929-03-04/ch693/s6], [45 Stat. 1555][/us/stat/45/1555].)
+([Mar. 4, 1929, ch. 693][/us/act/1929-03-04/ch693], § 6, [45 Stat. 1555][/us/stat/45/1555].)
 
  __Proclamation No. 2320__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t16/s441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs441
-[/us/act/1929-03-04/ch693/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-04%2Fch693%2Fs6
+[/us/act/1929-03-04/ch693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-04%2Fch693
 [/us/stat/45/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1555
 [/us/stat/53/2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F2521
 

@@ -31,7 +31,7 @@
 
         The Fort Donelson National Battlefield shall also include any land acquired pursuant to [section 428p–1 of this title][/us/usc/t16/s428p–1].
 
-([Pub. L. 108–367, § 2][/us/pl/108/367/s2], Oct. 25, 2004, [118 Stat. 1743][/us/stat/118/1743].)
+([Pub. L. 108–367][/us/pl/108/367], § 2, Oct. 25, 2004, [118 Stat. 1743][/us/stat/118/1743].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t16/s428p–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs428p%E2%80%931
-[/us/pl/108/367/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F367%2Fs2
+[/us/pl/108/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F367
 [/us/stat/118/1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1743
 
 

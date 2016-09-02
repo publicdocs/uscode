@@ -31,7 +31,7 @@
 
         This Act provides sufficient protection for the national interest in the scenic, natural, cultural and environmental values on the public lands in Alaska, and at the same time provides adequate opportunity for satisfaction of the economic and social needs of the State of Alaska and its people; accordingly, the designation and disposition of the public lands in Alaska pursuant to this Act are found to represent a proper balance between the reservation of national conservation system units and those public lands necessary and appropriate for more intensive use and disposition, and thus Congress believes that the need for future legislation designating new conservation system units, new national conservation areas, or new national recreation areas, has been obviated thereby.
 
-([Pub. L. 96–487, title I, § 101][/us/pl/96/487/s101], Dec. 2, 1980, [94 Stat. 2374][/us/stat/94/2374].)
+([Pub. L. 96–487, title I][/us/pl/96/487/tI], § 101, Dec. 2, 1980, [94 Stat. 2374][/us/stat/94/2374].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 
  __Short Title__ 
 
-[Pub. L. 96–487, § 1][/us/pl/96/487/s1], Dec. 2, 1980, [94 Stat. 2371][/us/stat/94/2371], provided that: 
+[Pub. L. 96–487][/us/pl/96/487], § 1, Dec. 2, 1980, [94 Stat. 2371][/us/stat/94/2371], provided that: 
 
 > “This Act \[enacting this chapter, sections 410hh to 410hh–5, 460mm to 460mm–4, 539 to 539e, and 1285b of this title, and sections 1631 to 1641 and 1784 of Title 43, Public Lands, amending sections 410bb, 1274, 1276, 1279, and 1280 of this title and sections 1602, 1606, 1607, 1611, 1613, 1614, 1620, and 1621 of Title 43, enacting provisions set out as notes under this section and sections 431, 668dd, 1132, 1274, and 3145 of this title and sections 1605, 1613, and 1618 of Title 43, and amending provisions set out as notes under sections 1611 and 1613 of Title 43 and preceding [section 21 of Title 48][/us/usc/t48/s21], Territories and Insular Possessions\] may be cited as the ‘Alaska National Interest Lands Conservation Act’.”
 
@@ -52,13 +52,13 @@
 ----------
 ----------
 
-[/us/pl/96/487/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs101
+[/us/pl/96/487/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtI
 [/us/stat/94/2374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2374
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2377-2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2377-2551
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371
-[/us/pl/96/487/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1
+[/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371
 [/us/usc/t48/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs21
 

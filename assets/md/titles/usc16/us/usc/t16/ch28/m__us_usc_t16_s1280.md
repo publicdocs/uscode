@@ -31,7 +31,7 @@
 
         The minerals in any Federal lands which constitute the bed or bank or are situated within one-quarter mile of the bank of any river which is listed in [section 1276(a) of this title][/us/usc/t16/s1276/a] are hereby withdrawn from all forms of appropriation under the mining laws during the periods specified in [section 1278(b) of this title][/us/usc/t16/s1278/b]. Nothing contained in this subsection shall be construed to forbid prospecting or the issuance of leases, licenses, and permits under the mineral leasing laws subject to such conditions as the Secretary of the Interior and, in the case of national forest lands, the Secretary of Agriculture find appropriate to safeguard the area in the event it is subsequently included in the system. Notwithstanding the foregoing provisions of this subsection or any other provision of this chapter, all public lands which constitute the bed or bank, or are within an area extending two miles from the bank of the river channel on both sides of the river segments referred to in paragraphs (77) through (88) of [section 1276(a) of this title][/us/usc/t16/s1276/a] are hereby withdrawn subject to valid existing rights, from all forms of appropriation under the mining laws and from operation of the mineral leasing laws including, in both cases, amendments thereto, during the periods specified in [section 1278(b) of this title][/us/usc/t16/s1278/b].
 
-([Pub. L. 90–542, § 9][/us/pl/90/542/s9], Oct. 2, 1968, [82 Stat. 915][/us/stat/82/915]; [Pub. L. 96–487, title VI, § 606(b)][/us/pl/96/487/s606/b], Dec. 2, 1980, [94 Stat. 2416][/us/stat/94/2416]; [Pub. L. 99–590, title V, § 507][/us/pl/99/590/s507], Oct. 30, 1986, [100 Stat. 3336][/us/stat/100/3336].)
+([Pub. L. 90–542][/us/pl/90/542], § 9, Oct. 2, 1968, [82 Stat. 915][/us/stat/82/915]; [Pub. L. 96–487, title VI][/us/pl/96/487/tVI], § 606(b), Dec. 2, 1980, [94 Stat. 2416][/us/stat/94/2416]; [Pub. L. 99–590, title V][/us/pl/99/590/tV], § 507, Oct. 30, 1986, [100 Stat. 3336][/us/stat/100/3336].)
 
  __Amendments__ 
 
@@ -51,11 +51,11 @@
 [/us/usc/t16/s1278/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1278%2Fb
 [/us/usc/t16/s1276/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1276%2Fa
 [/us/usc/t16/s1278/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1278%2Fb
-[/us/pl/90/542/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F542%2Fs9
+[/us/pl/90/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F542
 [/us/stat/82/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F915
-[/us/pl/96/487/s606/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs606%2Fb
+[/us/pl/96/487/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtVI
 [/us/stat/94/2416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2416
-[/us/pl/99/590/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F590%2Fs507
+[/us/pl/99/590/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F590%2FtV
 [/us/stat/100/3336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3336
 [/us/pl/99/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F590
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487

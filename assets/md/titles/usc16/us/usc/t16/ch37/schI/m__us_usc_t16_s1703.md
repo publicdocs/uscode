@@ -41,11 +41,11 @@
 
         The Secretary of the Interior and the Secretary of Agriculture may contract with any public agency or organization or any private nonprofit agency or organization which has been in existence for at least five years for the operation of any Youth Conservation Corps project.
 
-([Pub. L. 91–378, title I, § 103][/us/pl/91/378/s103], formerly § 3, Aug. 13, 1970, [84 Stat. 795][/us/stat/84/795]; [Pub. L. 92–597][/us/pl/92/597], Oct. 27, 1972, [86 Stat. 1319][/us/stat/86/1319]; [Pub. L. 93–408][/us/pl/93/408], Sept. 3, 1974, [88 Stat. 1067][/us/stat/88/1067]; renumbered title I, § 103, and amended [Pub. L. 103–82, title I, § 105(1)][/us/pl/103/82/s105/1]–(3), Sept. 21, 1993, [107 Stat. 848][/us/stat/107/848].)
+([Pub. L. 91–378, title I][/us/pl/91/378/tI], § 103, formerly § 3, Aug. 13, 1970, [84 Stat. 795][/us/stat/84/795]; [Pub. L. 92–597][/us/pl/92/597], Oct. 27, 1972, [86 Stat. 1319][/us/stat/86/1319]; [Pub. L. 93–408][/us/pl/93/408], Sept. 3, 1974, [88 Stat. 1067][/us/stat/88/1067]; renumbered title I, § 103, and amended [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 105(1)–(3), Sept. 21, 1993, [107 Stat. 848][/us/stat/107/848].)
 
  __Amendments__ 
 
-    1993—Subsec. (a). [Pub. L. 103–82, § 105(2)][/us/pl/103/82/s105/2], substituted “subchapter” for “chapter” in introductory provisions.
+    1993—Subsec. (a). [Pub. L. 103–82][/us/pl/103/82], § 105(2), substituted “subchapter” for “chapter” in introductory provisions.
 
     1974—[Pub. L. 93–408][/us/pl/93/408] reenacted existing provisions with minor changes.
 
@@ -62,15 +62,15 @@
 ----------
 ----------
 
-[/us/pl/91/378/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F378%2Fs103
+[/us/pl/91/378/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F378%2FtI
 [/us/stat/84/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F795
 [/us/pl/92/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F597
 [/us/stat/86/1319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1319
 [/us/pl/93/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F408
 [/us/stat/88/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1067
-[/us/pl/103/82/s105/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs105%2F1
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F848
-[/us/pl/103/82/s105/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs105%2F2
+[/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/93/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F408
 [/us/pl/92/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F597
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82

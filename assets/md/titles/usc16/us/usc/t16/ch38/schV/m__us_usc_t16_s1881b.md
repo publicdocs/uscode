@@ -39,7 +39,7 @@
 
         An observer on a vessel and under contract to carry out responsibilities under this chapter or the Marine Mammal Protection Act of 1972 ([16 U.S.C. 1361][/us/usc/t16/s1361] et seq.) shall be deemed to be a Federal employee for the purpose of compensation under the Federal Employee Compensation Act ([5 U.S.C. 8101][/us/usc/t5/s8101] et seq.).
 
-([Pub. L. 94–265, title IV, § 403][/us/pl/94/265/s403], as added [Pub. L. 104–297, title II, § 204][/us/pl/104/297/s204], Oct. 11, 1996, [110 Stat. 3609][/us/stat/110/3609].)
+([Pub. L. 94–265, title IV][/us/pl/94/265/tIV], § 403, as added [Pub. L. 104–297, title II][/us/pl/104/297/tII], § 204, Oct. 11, 1996, [110 Stat. 3609][/us/stat/110/3609].)
 
  __References in Text__ 
 
@@ -62,8 +62,8 @@
 
 [/us/usc/t16/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1361
 [/us/usc/t5/s8101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8101
-[/us/pl/94/265/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs403
-[/us/pl/104/297/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs204
+[/us/pl/94/265/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2FtIV
+[/us/pl/104/297/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtII
 [/us/stat/110/3609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3609
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331

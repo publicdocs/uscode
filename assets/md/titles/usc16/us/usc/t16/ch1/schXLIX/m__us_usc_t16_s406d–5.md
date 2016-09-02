@@ -17,7 +17,7 @@
 
     Nothing in this Act shall affect the use for reclamation purposes, in accordance with the Act of June 17, 1902 ([32 Stat. 388][/us/stat/32/388]), and Acts amendatory thereof or supplementary thereto, of the lands within the exterior boundary of the park as prescribed by this Act which have been withdrawn or acquired for reclamation purposes or the operation, maintenance, rehabilitation, and improvement of the reservoir and other reclamation facilities located on such withdrawn or acquired lands.
 
-([Sept. 14, 1950, ch. 950, § 9][/us/act/1950-09-14/ch950/s9], [64 Stat. 853][/us/stat/64/853].)
+([Sept. 14, 1950, ch. 950][/us/act/1950-09-14/ch950], § 9, [64 Stat. 853][/us/stat/64/853].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/stat/32/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F388
-[/us/act/1950-09-14/ch950/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-14%2Fch950%2Fs9
+[/us/act/1950-09-14/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-14%2Fch950
 [/us/stat/64/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F853
 [/us/act/1950-09-14/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-14%2Fch950
 [/us/stat/64/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F849

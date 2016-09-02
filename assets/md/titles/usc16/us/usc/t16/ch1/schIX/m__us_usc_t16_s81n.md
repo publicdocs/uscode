@@ -17,7 +17,7 @@
 
     The Secretary is further authorized to transfer without compensation up to fifteen acres of the Colonial National Historical Park, Virginia, to the Commonwealth of Virginia for use by agencies of the Commonwealth in the establishment of a State Park in furtherance of the purposes of the Colonial National Historical Park.
 
-([Mar. 29, 1956, ch. 105, § 2][/us/act/1956-03-29/ch105/s2], [70 Stat. 62][/us/stat/70/62].)
+([Mar. 29, 1956, ch. 105][/us/act/1956-03-29/ch105], § 2, [70 Stat. 62][/us/stat/70/62].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1956-03-29/ch105/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-03-29%2Fch105%2Fs2
+[/us/act/1956-03-29/ch105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-03-29%2Fch105
 [/us/stat/70/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F62
 [/us/act/1930-07-03/ch837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-07-03%2Fch837
 [/us/stat/46/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F855

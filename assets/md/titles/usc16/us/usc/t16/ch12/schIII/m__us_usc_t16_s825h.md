@@ -21,7 +21,7 @@
 
  __Commission Review__ 
 
-[Pub. L. 99–495, § 4(c)][/us/pl/99/495/s4/c], Oct. 16, 1986, [100 Stat. 1248][/us/stat/100/1248], provided that: 
+[Pub. L. 99–495][/us/pl/99/495], § 4(c), Oct. 16, 1986, [100 Stat. 1248][/us/stat/100/1248], provided that: 
 
 > “In order to ensure that the provisions of Part I of the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\], as amended by this Act, are fully, fairly, and efficiently implemented, that other governmental agencies identified in such Part I are able to carry out their responsibilities, and that the increased workload of the Federal Energy Regulatory Commission and other agencies is facilitated, the Commission shall, consistent with the provisions of section 309 of the Federal Power Act \[[16 U.S.C. 825h][/us/usc/t16/s825h]\], review all provisions of that Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\] requiring an action within a 30-day period and, as the Commission deems appropriate, amend its regulations to interpret such period as meaning ‘working days’, rather than ‘calendar days’ unless calendar days is specified in such Act for such action.”
 
@@ -35,7 +35,7 @@
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
 [/us/act/1935-08-26/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-26%2Fch687
 [/us/stat/49/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F858
-[/us/pl/99/495/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495%2Fs4%2Fc
+[/us/pl/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495
 [/us/stat/100/1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1248
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/usc/t16/s825h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs825h

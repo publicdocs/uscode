@@ -37,7 +37,7 @@
 
         (2) firm transmission rights obtained by exercising contract or tariff rights associated with the firm transmission rights described in subsection (a).
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 218, as added [Pub. L. 109–58, title XII, § 1235][/us/pl/109/58/s1235], Aug. 8, 2005, [119 Stat. 960][/us/stat/119/960].)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 218, as added [Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1235, Aug. 8, 2005, [119 Stat. 960][/us/stat/119/960].)
 
 ----------
 
@@ -48,7 +48,7 @@
 
 [/us/usc/t16/s839a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs839a
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
-[/us/pl/109/58/s1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1235
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F960
 
 

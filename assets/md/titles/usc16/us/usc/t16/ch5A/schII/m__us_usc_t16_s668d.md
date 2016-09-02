@@ -17,7 +17,7 @@
 
     Moneys now or hereafter available to the Secretary of the Interior for the administration and enforcement of the Migratory Bird Treaty Act of July 3, 1918 \[[16 U.S.C. 703][/us/usc/t16/s703] et seq.\], shall be equally available for the administration and enforcement of this subchapter.
 
-([June 8, 1940, ch. 278, § 5][/us/act/1940-06-08/ch278/s5], [54 Stat. 251][/us/stat/54/251].)
+([June 8, 1940, ch. 278][/us/act/1940-06-08/ch278], § 5, [54 Stat. 251][/us/stat/54/251].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t16/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs703
-[/us/act/1940-06-08/ch278/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-08%2Fch278%2Fs5
+[/us/act/1940-06-08/ch278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-08%2Fch278
 [/us/stat/54/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F251
 [/us/act/1918-07-03/ch128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-07-03%2Fch128
 [/us/stat/40/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F755

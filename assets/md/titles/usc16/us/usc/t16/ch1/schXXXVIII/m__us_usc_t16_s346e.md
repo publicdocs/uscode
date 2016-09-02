@@ -25,7 +25,7 @@
 
     The Secretary is authorized to enter into cooperative agreements with State or local governments or private entities to undertake the authority granted under this section. The Secretary is encouraged to identify and utilize funding sources to supplement any Federal funding used for these facilities.
 
-([Pub. L. 104–333, div. I, title VIII, § 814(c)][/us/pl/104/333/s814/c], Nov. 12, 1996, [110 Stat. 4195][/us/stat/110/4195]; [Pub. L. 109–131, title I, § 102(a)][/us/pl/109/131/s102/a], Dec. 20, 2005, [119 Stat. 2567][/us/stat/119/2567].)
+([Pub. L. 104–333, div. I, title VIII][/us/pl/104/333/dI/tVIII], § 814(c), Nov. 12, 1996, [110 Stat. 4195][/us/stat/110/4195]; [Pub. L. 109–131, title I][/us/pl/109/131/tI], § 102(a), Dec. 20, 2005, [119 Stat. 2567][/us/stat/119/2567].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/104/333/s814/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs814%2Fc
+[/us/pl/104/333/dI/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtVIII
 [/us/stat/110/4195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4195
-[/us/pl/109/131/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F131%2Fs102%2Fa
+[/us/pl/109/131/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F131%2FtI
 [/us/stat/119/2567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2567
 [/us/pl/109/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F131
 

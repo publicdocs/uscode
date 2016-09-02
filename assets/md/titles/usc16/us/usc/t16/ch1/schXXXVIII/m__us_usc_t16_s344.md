@@ -17,7 +17,7 @@
 
     The Zion National Monument, in the county of Washington, State of Utah, is declared to be a national park and dedicated as such for the benefit and enjoyment of the people, under the name of the Zion National Park, under which name the aforesaid national park shall be maintained by allotment of funds heretofore or hereafter appropriated for the national monuments, until such time as an independent appropriation is made therefor by Congress.
 
-([Nov. 19, 1919, ch. 110, § 1][/us/act/1919-11-19/ch110/s1], [41 Stat. 356][/us/stat/41/356].)
+([Nov. 19, 1919, ch. 110][/us/act/1919-11-19/ch110], § 1, [41 Stat. 356][/us/stat/41/356].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1919-11-19/ch110/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-11-19%2Fch110%2Fs1
+[/us/act/1919-11-19/ch110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-11-19%2Fch110
 [/us/stat/41/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F356
 [/us/act/1906-06-08/ch3060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-08%2Fch3060
 [/us/stat/34/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F225

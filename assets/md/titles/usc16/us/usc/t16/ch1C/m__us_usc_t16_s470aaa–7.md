@@ -31,7 +31,7 @@
 
         The Secretary may transfer administration of seized paleontological resources to Federal or non-Federal educational institutions to be used for scientific or educational purposes.
 
-([Pub. L. 111–11, title VI, § 6308][/us/pl/111/11/s6308], Mar. 30, 2009, [123 Stat. 1176][/us/stat/123/1176].)
+([Pub. L. 111–11, title VI][/us/pl/111/11/tVI], § 6308, Mar. 30, 2009, [123 Stat. 1176][/us/stat/123/1176].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s6308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs6308
+[/us/pl/111/11/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVI
 [/us/stat/123/1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1176
 
 

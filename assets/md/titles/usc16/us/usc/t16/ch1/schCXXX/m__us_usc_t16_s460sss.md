@@ -81,7 +81,7 @@
 
         Nothing in this section creates protective perimeters or buffer zones around the recreation area.
 
-([Pub. L. 109–362, § 9][/us/pl/109/362/s9], Oct. 17, 2006, [120 Stat. 2071][/us/stat/120/2071].)
+([Pub. L. 109–362][/us/pl/109/362], § 9, Oct. 17, 2006, [120 Stat. 2071][/us/stat/120/2071].)
 
  __References in Text__ 
 
@@ -95,7 +95,7 @@
 
  __Short Title__ 
 
-[Pub. L. 109–362, § 1(a)][/us/pl/109/362/s1/a], Oct. 17, 2006, [120 Stat. 2064][/us/stat/120/2064], provided that: 
+[Pub. L. 109–362][/us/pl/109/362], § 1(a), Oct. 17, 2006, [120 Stat. 2064][/us/stat/120/2064], provided that: 
 
 > “This Act \[enacting this section, amending sections 460y–8 and 1274 of this title, and amending provisions listed in a table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132]\] may be cited as the ‘Northern California Coastal Wild Heritage Wilderness Act’.”
 
@@ -107,14 +107,14 @@
 ----------
 
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
-[/us/pl/109/362/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F362%2Fs9
+[/us/pl/109/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F362
 [/us/stat/120/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2071
 [/us/pl/109/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F362
 [/us/stat/120/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2064
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
 [/us/stat/90/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2743
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
-[/us/pl/109/362/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F362%2Fs1%2Fa
+[/us/pl/109/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F362
 [/us/stat/120/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2064
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132
 

@@ -43,7 +43,7 @@
 
         The Secretary shall establish advisory guidelines (which shall not have the force and effect of law), based on the national standards, to assist in the development of fishery management plans.
 
-([Pub. L. 94–265, title III, § 301][/us/pl/94/265/s301], Apr. 13, 1976, [90 Stat. 346][/us/stat/90/346]; [Pub. L. 97–453, § 4][/us/pl/97/453/s4], Jan. 12, 1983, [96 Stat. 2484][/us/stat/96/2484]; [Pub. L. 98–623, title IV, § 404(3)][/us/pl/98/623/s404/3], Nov. 8, 1984, [98 Stat. 3408][/us/stat/98/3408]; [Pub. L. 104–297, title I, § 106][/us/pl/104/297/s106], Oct. 11, 1996, [110 Stat. 3570][/us/stat/110/3570]; [Pub. L. 109–479, title I, § 101(a)][/us/pl/109/479/s101/a], Jan. 12, 2007, [120 Stat. 3579][/us/stat/120/3579].)
+([Pub. L. 94–265, title III][/us/pl/94/265/tIII], § 301, Apr. 13, 1976, [90 Stat. 346][/us/stat/90/346]; [Pub. L. 97–453][/us/pl/97/453], § 4, Jan. 12, 1983, [96 Stat. 2484][/us/stat/96/2484]; [Pub. L. 98–623, title IV][/us/pl/98/623/tIV], § 404(3), Nov. 8, 1984, [98 Stat. 3408][/us/stat/98/3408]; [Pub. L. 104–297, title I][/us/pl/104/297/tI], § 106, Oct. 11, 1996, [110 Stat. 3570][/us/stat/110/3570]; [Pub. L. 109–479, title I][/us/pl/109/479/tI], § 101(a), Jan. 12, 2007, [120 Stat. 3579][/us/stat/120/3579].)
 
  __References in Text__ 
 
@@ -53,9 +53,9 @@
 
     2007—Subsec. (a)(8). [Pub. L. 109–479][/us/pl/109/479] inserted “by utilizing economic and social data that meet the requirements of paragraph (2),” after “fishing communities”.
 
-    1996—Subsec. (a)(5). [Pub. L. 104–297, § 106(a)][/us/pl/104/297/s106/a], substituted “consider efficiency” for “promote efficiency”.
+    1996—Subsec. (a)(5). [Pub. L. 104–297][/us/pl/104/297], § 106(a), substituted “consider efficiency” for “promote efficiency”.
 
-    Subsec. (a)(8) to (10). [Pub. L. 104–297, § 106(b)][/us/pl/104/297/s106/b], added pars. (8) to (10).
+    Subsec. (a)(8) to (10). [Pub. L. 104–297][/us/pl/104/297], § 106(b), added pars. (8) to (10).
 
     1984—Subsec. (a)(1). [Pub. L. 98–623][/us/pl/98/623] inserted “for the United States fishing industry”.
 
@@ -63,7 +63,7 @@
 
  __Short Title of 1997 Amendment__ 
 
-[Pub. L. 105–146, § 1][/us/pl/105/146/s1], Dec. 16, 1997, [111 Stat. 2672][/us/stat/111/2672], provided that: 
+[Pub. L. 105–146][/us/pl/105/146], § 1, Dec. 16, 1997, [111 Stat. 2672][/us/stat/111/2672], provided that: 
 
 > “This Act \[repealing [section 757g of this title][/us/usc/t16/s757g], amending provisions set out as notes under this section and listed in a table of National Wildlife Conservation Areas set out under [section 668dd of this title][/us/usc/t16/s668dd], and repealing provisions set out as notes under this section\] may be cited as the ‘Atlantic Striped Bass Conservation Act Amendments of 1997’.”
 
@@ -211,13 +211,13 @@
 
  __Gulf of Alaska Rockfish Demonstration Program__ 
 
-[Pub. L. 108–199, div. B, title VIII, § 802][/us/pl/108/199/s802], Jan. 23, 2004, [118 Stat. 110][/us/stat/118/110], as amended by [Pub. L. 109–479, title II, § 218][/us/pl/109/479/s218], Jan. 12, 2007, [120 Stat. 3621][/us/stat/120/3621], provided that: 
+[Pub. L. 108–199, div. B, title VIII][/us/pl/108/199/dB/tVIII], § 802, Jan. 23, 2004, [118 Stat. 110][/us/stat/118/110], as amended by [Pub. L. 109–479, title II][/us/pl/109/479/tII], § 218, Jan. 12, 2007, [120 Stat. 3621][/us/stat/120/3621], provided that: 
 
 > “The Secretary of Commerce, in consultation with the North Pacific Fishery Management Council, shall establish a pilot program that recognizes the historic participation of fishing vessels (1996 to 2002, best 5 of 7 years) and historic participation of fish processors (1996 to 2000, best 4 of 5 years) for pacific ocean perch, northern rockfish, and pelagic shelf rockfish harvested in Central Gulf of Alaska. Such a pilot program shall: (1) provide for a set-aside of up to 5 percent for the total allowable catch of such fisheries for catcher vessels not eligible to participate in the pilot program, which shall be delivered to shore-based fish processors not eligible to participate in the pilot program; and (2) establish catch limits for non-rockfish species and non-target rockfish species currently harvested with pacific ocean perch, northern rockfish, and pelagic shelf rockfish, which shall be based on historical harvesting of such bycatch species. The pilot program will sunset when a Gulf of Alaska Groundfish comprehensive rationalization plan is authorized by the Council and implemented by the Secretary, or 5 years from date of implementation, whichever is earlier.”
 
  __Implementation of Steller Sea Lion Protective Measures__ 
 
-[Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. A, § 209\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–176, provided that:
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. A, § 209\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–176, provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -305,7 +305,7 @@
 
  __Limitation on Fishing Permits__ 
 
-[Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title VI, § 617\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–115, as amended by [Pub. L. 106–31, title III, § 3025][/us/pl/106/31/s3025], May 21, 1999, [113 Stat. 100][/us/stat/113/100], provided that:
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(b) \[title VI, § 617\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–115, as amended by [Pub. L. 106–31, title III][/us/pl/106/31/tIII], § 3025, May 21, 1999, [113 Stat. 100][/us/stat/113/100], provided that:
 
 >     “(a) None of the funds made available in this Act or any other Act hereafter enacted may be used to issue or renew a fishing permit or authorization for any fishing vessel of the United States greater than 165 feet in registered length, of more than 750 gross registered tons, or that has an engine or engines capable of producing a total of more than 3,000 shaft horsepower as specified in the permit application required under part 648.4(a)(5) of title 50, Code of Federal Regulations, part 648.12 of title 50, Code of Federal Regulations, and the authorization required under part 648.80(d)(2) of title 50, Code of Federal Regulations, to engage in fishing for Atlantic mackerel or herring (or both) under the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801][/us/usc/t16/s1801] et seq.), unless the regional fishery management council of jurisdiction recommends after October 21, 1998, and the Secretary of Commerce approves, conservation and management measures in accordance with such Act to allow such vessel to engage in fishing for Atlantic mackerel or herring (or both).
 
@@ -313,7 +313,7 @@
 
  __Bering Sea Pollock Fishery__ 
 
-[Pub. L. 108–199, div. B, title VIII, § 803][/us/pl/108/199/s803], Jan. 23, 2004, [118 Stat. 110][/us/stat/118/110], provided that:
+[Pub. L. 108–199, div. B, title VIII][/us/pl/108/199/dB/tVIII], § 803, Jan. 23, 2004, [118 Stat. 110][/us/stat/118/110], provided that:
 
 >     “(a)  __Aleutian Islands Pollock Allocation__  __.—__ 
 
@@ -331,7 +331,7 @@
 
 >     For the purposes of this section, the North Pacific Fishery Management Council shall recommend and the Secretary shall approve an allocation under subsection (a) to the Aleut Corporation for the purposes of economic development in Adak, Alaska pursuant to the requirements of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801][/us/usc/t16/s1801] et seq.).”
 
-[Pub. L. 105–277, div. C, title II][/us/pl/105/277], subtitle II, Oct. 21, 1998, [112 Stat. 2681–621][/us/stat/112/2681-621], as amended by [Pub. L. 106–31, title III, § 3027(a)(2)][/us/pl/106/31/s3027/a/2]–(7), May 21, 1999, [113 Stat. 101][/us/stat/113/101]; [Pub. L. 107–20, title II, § 2202(e)(1)][/us/pl/107/20/s2202/e/1], July 24, 2001, [115 Stat. 170][/us/stat/115/170]; [Pub. L. 107–77, title II, § 211][/us/pl/107/77/s211], Nov. 28, 2001, [115 Stat. 779][/us/stat/115/779]; [Pub. L. 107–206, title I, § 1103][/us/pl/107/206/s1103], Aug. 2, 2002, [116 Stat. 884][/us/stat/116/884]; [Pub. L. 111–281, title VI, § 602(b)(1)][/us/pl/111/281/s602/b/1], (3), Oct. 15, 2010, [124 Stat. 2960][/us/stat/124/2960], 2961, provided that:
+[Pub. L. 105–277, div. C, title II][/us/pl/105/277/dC/tII], subtitle II, Oct. 21, 1998, [112 Stat. 2681–621][/us/stat/112/2681-621], as amended by [Pub. L. 106–31, title III][/us/pl/106/31/tIII], § 3027(a)(2)–(7), May 21, 1999, [113 Stat. 101][/us/stat/113/101]; [Pub. L. 107–20, title II][/us/pl/107/20/tII], § 2202(e)(1), July 24, 2001, [115 Stat. 170][/us/stat/115/170]; [Pub. L. 107–77, title II][/us/pl/107/77/tII], § 211, Nov. 28, 2001, [115 Stat. 779][/us/stat/115/779]; [Pub. L. 107–206, title I][/us/pl/107/206/tI], § 1103, Aug. 2, 2002, [116 Stat. 884][/us/stat/116/884]; [Pub. L. 111–281, title VI][/us/pl/111/281/tVI], § 602(b)(1), (3), Oct. 15, 2010, [124 Stat. 2960][/us/stat/124/2960], 2961, provided that:
 
 > “SEC. 205. __DEFINITIONS.__ 
 
@@ -931,7 +931,7 @@
 
 >     In the event that any provision of section 12102(c) \[now 12113(b)(2) to (d)\] or [section 31322(a) of title 46][/us/usc/t46/s31322/a], United States Code, as amended by this Act, is determined to be inconsistent with an existing international agreement relating to foreign investment to which the United States is a party with respect to the owner or mortgagee on \[sic\] of a vessel with a fishery endorsement, such provision shall not apply to that owner or mortgagee with respect to their ownership or mortgage interest in such vessel on that date to the extent of any such inconsistency. The provisions of section 12102(c) \[now 12113(b)(2) to (d)\] and [section 31322(a) of title 46][/us/usc/t46/s31322/a], United States Code, as amended by this Act, shall apply to all subsequent owners and mortgagees of such vessel, and shall apply, notwithstanding the preceding sentence, to the owner on \[sic\] of such vessel if any ownership interest in that owner is transferred to or otherwise acquired by a foreign individual or entity after or if the percentage of foreign ownership in the vessel is increased after the effective date of this subsection \[July 24, 2001\].”
 
-\[[Pub. L. 107–20, title II, § 2202(e)(2)][/us/pl/107/20/s2202/e/2], July 24, 2001, [115 Stat. 170][/us/stat/115/170], provided that: 
+\[[Pub. L. 107–20, title II][/us/pl/107/20/tII], § 2202(e)(2), July 24, 2001, [115 Stat. 170][/us/stat/115/170], provided that: 
 
 > “Section 213(g) of the American Fisheries Act ([Public Law 105–277][/us/pl/105/277], division C, title II) \[set out above\] shall take effect on the date of enactment of this Act \[July 24, 2001\].”
 
@@ -939,21 +939,21 @@
 
  __Restriction on Funding Certain New Fishery Management Plans, Amendments or Regulations__ 
 
-[Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, §§ 208, 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–40, 3009–41, provided that: 
+[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, §§ 208, 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–40, 3009–41, provided that: 
 
 > “None of the funds appropriated under this Act or any other Act henceforth may be used to develop new fishery management plans, amendments, or regulations which create new individual fishing quota programs (whether such quotas are transferable or not) or to implement any such plans, amendments or regulations approved by a Regional Fishery Management Council or the Secretary after January 4, 1995, until offsetting fees to pay for the cost of administering such plans, amendments, or regulations are expressly authorized under the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801][/us/usc/t16/s1801] et seq.). This restriction shall also apply to any program relating to the Gulf of Mexico commercial red snapper fishery that authorizes the consolidation of licenses, permits or endorsements that result in different trip limits for vessels in the same class. This restriction shall not apply in any way to the North Pacific halibut and sablefish, South Atlantic wreckfish, or the Mid-Atlantic surfclam and ocean (including mahogany) quohog individual fishing quota programs. The term ‘individual fishing quota’ does not include a community development quota.”
 
     Similar provisions were contained in the following prior appropriation act:
 
-    [Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title II, § 210\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–31; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; repealed by [Pub. L. 104–297, title I, § 108(f)(6)][/us/pl/104/297/s108/f/6], Oct. 11, 1996, [110 Stat. 3579][/us/stat/110/3579].
+    [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101\[(a)\] \[title II, § 210\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–31; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; repealed by [Pub. L. 104–297, title I][/us/pl/104/297/tI], § 108(f)(6), Oct. 11, 1996, [110 Stat. 3579][/us/stat/110/3579].
 
  __Albemarle Sound-Roanoke River Basin: Striped Bass Study__ 
 
-    [Pub. L. 100–589, § 5][/us/pl/100/589/s5], Nov. 3, 1988, [102 Stat. 2984][/us/stat/102/2984], related to requirement of biological study of striped bass fishery resources and habitats of Albemarle Sound-Roanoke River basin area and development of short-term and long-term recommendations for restoring and conserving these resources and habitats, prior to repeal by [Pub. L. 105–146, § 3(b)][/us/pl/105/146/s3/b], Dec. 16, 1997, [111 Stat. 2677][/us/stat/111/2677].
+    [Pub. L. 100–589][/us/pl/100/589], § 5, Nov. 3, 1988, [102 Stat. 2984][/us/stat/102/2984], related to requirement of biological study of striped bass fishery resources and habitats of Albemarle Sound-Roanoke River basin area and development of short-term and long-term recommendations for restoring and conserving these resources and habitats, prior to repeal by [Pub. L. 105–146][/us/pl/105/146], § 3(b), Dec. 16, 1997, [111 Stat. 2677][/us/stat/111/2677].
 
  __Exclusive Economic Zone: Atlantic Striped Bass Protection__ 
 
-    [Pub. L. 100–589, § 6(a)][/us/pl/100/589/s6/a]–(f), Nov. 3, 1988, [102 Stat. 2986][/us/stat/102/2986], as amended by [Pub. L. 102–130, § 4][/us/pl/102/130/s4], Oct. 17, 1991, [105 Stat. 627][/us/stat/105/627]; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, directed Secretary of Commerce to regulate fishing for Atlantic striped bass in exclusive economic zone determined to be consistent with national standards set forth in this section, prior to repeal by [Pub. L. 105–146, § 3(c)][/us/pl/105/146/s3/c], Dec. 16, 1997, [111 Stat. 2677][/us/stat/111/2677].
+    [Pub. L. 100–589][/us/pl/100/589], § 6(a)–(f), Nov. 3, 1988, [102 Stat. 2986][/us/stat/102/2986], as amended by [Pub. L. 102–130][/us/pl/102/130], § 4, Oct. 17, 1991, [105 Stat. 627][/us/stat/105/627]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, directed Secretary of Commerce to regulate fishing for Atlantic striped bass in exclusive economic zone determined to be consistent with national standards set forth in this section, prior to repeal by [Pub. L. 105–146][/us/pl/105/146], § 3(c), Dec. 16, 1997, [111 Stat. 2677][/us/stat/111/2677].
 
  __Atlantic Striped Bass Conservation__ 
 
@@ -966,25 +966,25 @@
 ----------
 ----------
 
-[/us/pl/94/265/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs301
+[/us/pl/94/265/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2FtIII
 [/us/stat/90/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F346
-[/us/pl/97/453/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453%2Fs4
+[/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
 [/us/stat/96/2484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2484
-[/us/pl/98/623/s404/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs404%2F3
+[/us/pl/98/623/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtIV
 [/us/stat/98/3408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3408
-[/us/pl/104/297/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs106
+[/us/pl/104/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtI
 [/us/stat/110/3570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3570
-[/us/pl/109/479/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs101%2Fa
+[/us/pl/109/479/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtI
 [/us/stat/120/3579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3579
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
 [/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
-[/us/pl/104/297/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs106%2Fa
-[/us/pl/104/297/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs106%2Fb
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
 [/us/pl/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623
 [/us/pl/97/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F453
-[/us/pl/105/146/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F146%2Fs1
+[/us/pl/105/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F146
 [/us/stat/111/2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2672
 [/us/usc/t16/s757g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs757g
 [/us/usc/t16/s668dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd
@@ -1004,20 +1004,20 @@
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/stat/118/2886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2886
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
-[/us/pl/108/199/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs802
+[/us/pl/108/199/dB/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdB%2FtVIII
 [/us/stat/118/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F110
-[/us/pl/109/479/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs218
+[/us/pl/109/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtII
 [/us/stat/120/3621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3621
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-50
-[/us/pl/106/31/s3025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs3025
+[/us/pl/106/31/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2FtIII
 [/us/stat/113/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F100
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
-[/us/pl/108/199/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs803
+[/us/pl/108/199/dB/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdB%2FtVIII
 [/us/stat/118/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F110
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/usc/t16/s1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1857
@@ -1026,17 +1026,17 @@
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtII
 [/us/stat/112/2681-621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-621
-[/us/pl/106/31/s3027/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs3027%2Fa%2F2
+[/us/pl/106/31/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2FtIII
 [/us/stat/113/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F101
-[/us/pl/107/20/s2202/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20%2Fs2202%2Fe%2F1
+[/us/pl/107/20/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20%2FtII
 [/us/stat/115/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F170
-[/us/pl/107/77/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2Fs211
+[/us/pl/107/77/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2FtII
 [/us/stat/115/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F779
-[/us/pl/107/206/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2Fs1103
+[/us/pl/107/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F206%2FtI
 [/us/stat/116/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F884
-[/us/pl/111/281/s602/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs602%2Fb%2F1
+[/us/pl/111/281/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtVI
 [/us/stat/124/2960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2960
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
 [/us/usc/t16/s1852/a/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1852%2Fa%2F1%2FG
@@ -1087,29 +1087,29 @@
 [/us/usc/t46/s53706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53706
 [/us/usc/t46/s31322/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31322%2Fa
 [/us/usc/t46/s31322/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs31322%2Fa
-[/us/pl/107/20/s2202/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20%2Fs2202%2Fe%2F2
+[/us/pl/107/20/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20%2FtII
 [/us/stat/115/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F170
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/104/297/s108/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs108%2Ff%2F6
+[/us/pl/104/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtI
 [/us/stat/110/3579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3579
-[/us/pl/100/589/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F589%2Fs5
+[/us/pl/100/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F589
 [/us/stat/102/2984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2984
-[/us/pl/105/146/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F146%2Fs3%2Fb
+[/us/pl/105/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F146
 [/us/stat/111/2677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2677
-[/us/pl/100/589/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F589%2Fs6%2Fa
+[/us/pl/100/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F589
 [/us/stat/102/2986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2986
-[/us/pl/102/130/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F130%2Fs4
+[/us/pl/102/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F130
 [/us/stat/105/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F627
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
-[/us/pl/105/146/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F146%2Fs3%2Fc
+[/us/pl/105/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F146
 [/us/stat/111/2677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2677
 [/us/pl/98/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F613
 [/us/stat/98/3187-3190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3187-3190

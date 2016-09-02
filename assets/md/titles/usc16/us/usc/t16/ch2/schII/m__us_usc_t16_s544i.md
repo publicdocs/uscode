@@ -45,7 +45,7 @@
 
         (3) as loans are repaid, make additional grants and loans with the money made available for obligation by such repayments.
 
-([Pub. L. 99–663, § 11][/us/pl/99/663/s11], Nov. 17, 1986, [100 Stat. 4292][/us/stat/100/4292].)
+([Pub. L. 99–663][/us/pl/99/663], § 11, Nov. 17, 1986, [100 Stat. 4292][/us/stat/100/4292].)
 
 ----------
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t16/s544f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs544f
-[/us/pl/99/663/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663%2Fs11
+[/us/pl/99/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663
 [/us/stat/100/4292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4292
 
 

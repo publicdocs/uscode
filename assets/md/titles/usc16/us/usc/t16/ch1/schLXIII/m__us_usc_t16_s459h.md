@@ -49,7 +49,7 @@
 
             The Cat Island Map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
 
-([Pub. L. 91–660, § 1][/us/pl/91/660/s1], Jan. 8, 1971, [84 Stat. 1967][/us/stat/84/1967]; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 137(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–231.)
+([Pub. L. 91–660][/us/pl/91/660], § 1, Jan. 8, 1971, [84 Stat. 1967][/us/stat/84/1967]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 137(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–231.)
 
  __References in Text__ 
 
@@ -66,9 +66,9 @@
 ----------
 ----------
 
-[/us/pl/91/660/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F660%2Fs1
+[/us/pl/91/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F660
 [/us/stat/84/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1967
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/91/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F660
 [/us/pl/91/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F660

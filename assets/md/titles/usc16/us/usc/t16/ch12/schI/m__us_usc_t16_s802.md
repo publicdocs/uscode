@@ -33,7 +33,7 @@
 
         (2) Any Federal, State, municipal or other local governmental agency likely to be interested in or affected by such application.
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. I, § 9, [41 Stat. 1068][/us/stat/41/1068]; renumbered pt. I, [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, § 212, [49 Stat. 847][/us/stat/49/847]; [Pub. L. 99–495, § 14][/us/pl/99/495/s14], Oct. 16, 1986, [100 Stat. 1257][/us/stat/100/1257].)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. I, § 9, [41 Stat. 1068][/us/stat/41/1068]; renumbered pt. I, [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, § 212, [49 Stat. 847][/us/stat/49/847]; [Pub. L. 99–495][/us/pl/99/495], § 14, Oct. 16, 1986, [100 Stat. 1257][/us/stat/100/1257].)
 
  __Codification__ 
 
@@ -59,7 +59,7 @@
 [/us/stat/41/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1068
 [/us/act/1935-08-26/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-26%2Fch687
 [/us/stat/49/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F847
-[/us/pl/99/495/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495%2Fs14
+[/us/pl/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495
 [/us/stat/100/1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1257
 [/us/pl/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495
 [/us/pl/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495

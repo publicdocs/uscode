@@ -17,7 +17,7 @@
 
     For the purpose of carrying out the provisions of sections 760e to 760g of this title, the Secretary of Commerce is authorized (1) to acquire lands, construct laboratory or other buildings, purchase boats, acquire such other equipment and apparatus, and to employ such officers and employees as he deems necessary; (2) to cooperate or contract with State and other institutions and agencies upon such terms and conditions as he determines to be appropriate; and (3) to make public the results of such research conducted pursuant to [section 760e of this title][/us/usc/t16/s760e].
 
-([Pub. L. 86–359, § 2][/us/pl/86/359/s2], Sept. 22, 1959, [73 Stat. 642][/us/stat/73/642]; 1970 Reorg. Plan No. 4, § 1(b), eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
+([Pub. L. 86–359][/us/pl/86/359], § 2, Sept. 22, 1959, [73 Stat. 642][/us/stat/73/642]; 1970 Reorg. Plan No. 4, § 1(b), eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
 
  __Transfer of Functions__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t16/s760e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs760e
-[/us/pl/86/359/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F359%2Fs2
+[/us/pl/86/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F359
 [/us/stat/73/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F642
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
 [/us/usc/t16/s755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs755

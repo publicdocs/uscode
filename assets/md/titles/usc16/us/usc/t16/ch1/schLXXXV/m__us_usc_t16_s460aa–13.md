@@ -51,7 +51,7 @@
 
         There are authorized to be appropriated not more than $50,000 to carry out the provisions of this section.
 
-([Pub. L. 92–400, § 14][/us/pl/92/400/s14], Aug. 22, 1972, [86 Stat. 615][/us/stat/86/615].)
+([Pub. L. 92–400][/us/pl/92/400], § 14, Aug. 22, 1972, [86 Stat. 615][/us/stat/86/615].)
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/92/400/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F400%2Fs14
+[/us/pl/92/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F400
 [/us/stat/86/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F615
 
 

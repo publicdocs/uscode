@@ -21,7 +21,7 @@
 
     (2) Palo Alto is the only unit of the National Park System directed to the preservation and interpretation of resources related to the Mexican-American War.
 
-([Pub. L. 102–304, § 2][/us/pl/102/304/s2], June 23, 1992, [106 Stat. 256][/us/stat/106/256].)
+([Pub. L. 102–304][/us/pl/102/304], § 2, June 23, 1992, [106 Stat. 256][/us/stat/106/256].)
 
  __References in Text__ 
 
@@ -33,13 +33,13 @@
 
  __Short Title__ 
 
-[Pub. L. 102–304, § 1][/us/pl/102/304/s1], June 23, 1992, [106 Stat. 256][/us/stat/106/256], as amended by [Pub. L. 111–11, title VII, § 7113(a)(3)(A)][/us/pl/111/11/s7113/a/3/A], Mar. 30, 2009, [123 Stat. 1201][/us/stat/123/1201], provided that: 
+[Pub. L. 102–304][/us/pl/102/304], § 1, June 23, 1992, [106 Stat. 256][/us/stat/106/256], as amended by [Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7113(a)(3)(A), Mar. 30, 2009, [123 Stat. 1201][/us/stat/123/1201], provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘Palo Alto Battlefield National Historical Park Act of 1991’.”
 
  __Designation of Palo Alto Battlefield National Historical Park__ 
 
-[Pub. L. 111–11, title VII, § 7113(a)(1)][/us/pl/111/11/s7113/a/1], (2), Mar. 30, 2009, [123 Stat. 1201][/us/stat/123/1201], provided that:
+[Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7113(a)(1), (2), Mar. 30, 2009, [123 Stat. 1201][/us/stat/123/1201], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -57,18 +57,18 @@
 ----------
 
 [/us/pl/95/625/s506/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs506%2Fb
-[/us/pl/102/304/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F304%2Fs2
+[/us/pl/102/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F304
 [/us/stat/106/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F256
 [/us/pl/95/625/s506/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs506%2Fb
 [/us/usc/t16/s410nnn–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410nnn%E2%80%931
 [/us/pl/102/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F304
 [/us/pl/102/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F304
 [/us/usc/t54/s320101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320101
-[/us/pl/102/304/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F304%2Fs1
+[/us/pl/102/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F304
 [/us/stat/106/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F256
-[/us/pl/111/11/s7113/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7113%2Fa%2F3%2FA
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1201
-[/us/pl/111/11/s7113/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7113%2Fa%2F1
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1201
 
 

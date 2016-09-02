@@ -29,7 +29,7 @@
 
     (f) Notice of the establishment of the park as authorized and prescribed by this section and [section 398 of this title][/us/usc/t16/s398] shall be published in the Federal Register.
 
-([Aug. 2, 1956, ch. 885, § 2][/us/act/1956-08-02/ch885/s2], [70 Stat. 940][/us/stat/70/940]; [Pub. L. 95–348, § 7(b)(6)][/us/pl/95/348/s7/b/6], Aug. 18, 1978, [92 Stat. 495][/us/stat/92/495].)
+([Aug. 2, 1956, ch. 885][/us/act/1956-08-02/ch885], § 2, [70 Stat. 940][/us/stat/70/940]; [Pub. L. 95–348][/us/pl/95/348], § 7(b)(6), Aug. 18, 1978, [92 Stat. 495][/us/stat/92/495].)
 
  __Amendments__ 
 
@@ -47,9 +47,9 @@
 [/us/usc/t16/s398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs398
 [/us/usc/t16/s398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs398
 [/us/usc/t16/s398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs398
-[/us/act/1956-08-02/ch885/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch885%2Fs2
+[/us/act/1956-08-02/ch885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch885
 [/us/stat/70/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F940
-[/us/pl/95/348/s7/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F348%2Fs7%2Fb%2F6
+[/us/pl/95/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F348
 [/us/stat/92/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F495
 [/us/pl/95/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F348
 

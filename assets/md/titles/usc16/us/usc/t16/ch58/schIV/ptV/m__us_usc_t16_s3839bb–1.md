@@ -13,13 +13,13 @@
 
 [Previous](./../../../../../..//us/usc/t16/ch58/schIV/ptV/m__us_usc_t16_s3839bb.md) | [Next](./../../../../../..//us/usc/t16/ch58/schIV/ptV/m__us_usc_t16_s3839bb–2.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3839bb%E2%80%931)
 
-## § 3839bb–1. Repealed. [Pub. L. 113–79, title II, § 2707(a)][/us/pl/113/79/s2707/a], Feb. 7, 2014, [128 Stat. 769][/us/stat/128/769]
+## § 3839bb–1. Repealed. [Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2707(a), Feb. 7, 2014, [128 Stat. 769][/us/stat/128/769]
 
-    Section, [Pub. L. 99–198, title XII, § 1240N][/us/pl/99/198/s1240N], as added [Pub. L. 107–171, title II, § 2502(a)][/us/pl/107/171/s2502/a], May 13, 2002, [116 Stat. 266][/us/stat/116/266]; amended [Pub. L. 110–234, title II, § 2602][/us/pl/110/234/s2602], May 22, 2008, [122 Stat. 1068][/us/stat/122/1068]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2602, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1796, related to wildlife habitat incentive program.
+    Section, [Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1240N, as added [Pub. L. 107–171, title II][/us/pl/107/171/tII], § 2502(a), May 13, 2002, [116 Stat. 266][/us/stat/116/266]; amended [Pub. L. 110–234, title II][/us/pl/110/234/tII], § 2602, May 22, 2008, [122 Stat. 1068][/us/stat/122/1068]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title II, § 2602, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1796, related to wildlife habitat incentive program.
 
  __Repeal; Transitional Provisions__ 
 
-[Pub. L. 113–79, title II, § 2707][/us/pl/113/79/s2707], Feb. 7, 2014, [128 Stat. 769][/us/stat/128/769], provided that:
+[Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2707, Feb. 7, 2014, [128 Stat. 769][/us/stat/128/769], provided that:
 
 >     “(a)  __Repeal__  __.—__ 
 
@@ -48,16 +48,16 @@
 ----------
 ----------
 
-[/us/pl/113/79/s2707/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2707%2Fa
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F769
-[/us/pl/99/198/s1240N]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1240N
-[/us/pl/107/171/s2502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2502%2Fa
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/107/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtII
 [/us/stat/116/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F266
-[/us/pl/110/234/s2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2602
+[/us/pl/110/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtII
 [/us/stat/122/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1068
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s2707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2707
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F769
 [/us/usc/t16/s3839bb–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3839bb%E2%80%931
 [/us/usc/t16/s3839bb–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3839bb%E2%80%931

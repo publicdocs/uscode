@@ -17,7 +17,7 @@
 
     No court shall have jurisdiction to grant any injunctive relief lasting longer than ninety days against any action pursuant to this subchapter except in conjunction with a final judgment entered in a case involving an action pursuant to this subchapter.
 
-([Pub. L. 96–487, title XI, § 1108][/us/pl/96/487/s1108], Dec. 2, 1980, [94 Stat. 2464][/us/stat/94/2464]; [Pub. L. 98–620, title IV, § 402(22)(B)][/us/pl/98/620/s402/22/B], Nov. 8, 1984, [98 Stat. 3358][/us/stat/98/3358].)
+([Pub. L. 96–487, title XI][/us/pl/96/487/tXI], § 1108, Dec. 2, 1980, [94 Stat. 2464][/us/stat/94/2464]; [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(22)(B), Nov. 8, 1984, [98 Stat. 3358][/us/stat/98/3358].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/96/487/s1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1108
+[/us/pl/96/487/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXI
 [/us/stat/94/2464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2464
-[/us/pl/98/620/s402/22/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F22%2FB
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3358
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620

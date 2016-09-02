@@ -17,7 +17,7 @@
 
     When established pursuant to this subchapter, the park shall be administered, protected, and developed by the Secretary of the Interior in accordance with the provisions of the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]; [16 U.S.C. 1–4][/us/usc/t16/s1–4]), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended and supplemented, and the Historic Sites Act of August 21, 1935 ([49 Stat. 666][/us/stat/49/666]; U.S.C. <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup>  461–467). <sup>\[1\]</sup> 
 
-([Pub. L. 86–321, § 5][/us/pl/86/321/s5], Sept. 21, 1959, [73 Stat. 592][/us/stat/73/592].)
+([Pub. L. 86–321][/us/pl/86/321], § 5, Sept. 21, 1959, [73 Stat. 592][/us/stat/73/592].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1%E2%80%934
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
-[/us/pl/86/321/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F321%2Fs5
+[/us/pl/86/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F321
 [/us/stat/73/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F592
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1%E2%80%934

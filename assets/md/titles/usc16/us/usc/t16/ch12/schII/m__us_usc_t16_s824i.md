@@ -69,7 +69,7 @@
 
         (2) With respect to an order issued pursuant to an application of a qualifying cogenerator or qualifying small power producer under subsection (a)(1), the term “facilities of such applicant” means the qualifying cogeneration facilities or qualifying small power production facilities of the applicant, as specified in the application. With respect to an order issued pursuant to an application under subsection (a)(2), the term “facilities of such applicant” means the qualifying cogeneration facilities, qualifying small power production facilities, or the transmission facilities of an electric utility, as specified in the application. With respect to an order issued by the Commission on its own motion under subsection (d), such term means the qualifying cogeneration facilities, qualifying small power production facilities, or the transmission facilities of an electric utility, as specified in the proposed order.
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 210, as added [Pub. L. 95–617, title II, § 202][/us/pl/95/617/s202], Nov. 9, 1978, [92 Stat. 3135][/us/stat/92/3135]; amended [Pub. L. 96–294, title VI, § 643(a)(2)][/us/pl/96/294/s643/a/2], June 30, 1980, [94 Stat. 770][/us/stat/94/770].)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 210, as added [Pub. L. 95–617, title II][/us/pl/95/617/tII], § 202, Nov. 9, 1978, [92 Stat. 3135][/us/stat/92/3135]; amended [Pub. L. 96–294, title VI][/us/pl/96/294/tVI], § 643(a)(2), June 30, 1980, [94 Stat. 770][/us/stat/94/770].)
 
  __Amendments__ 
 
@@ -88,9 +88,9 @@
 
 [/us/usc/t16/s824k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824k
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
-[/us/pl/95/617/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs202
+[/us/pl/95/617/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtII
 [/us/stat/92/3135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3135
-[/us/pl/96/294/s643/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs643%2Fa%2F2
+[/us/pl/96/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtVI
 [/us/stat/94/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F770
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
 [/us/usc/t16/s824a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824a%E2%80%933

@@ -41,7 +41,7 @@
 
         (5) encourage observer coverage on purse seine vessels fishing for tuna outside of the eastern tropical Pacific Ocean in a fishery in which the Secretary has determined that a regular and significant association occurs between marine mammals and tuna, and in which tuna is harvested through the use of purse seine nets deployed on or to encircle marine mammals.
 
-([Pub. L. 92–522, title III, § 301][/us/pl/92/522/s301], as added [Pub. L. 102–523, § 2(a)][/us/pl/102/523/s2/a], Oct. 26, 1992, [106 Stat. 3425][/us/stat/106/3425]; amended [Pub. L. 105–42, § 6(b)][/us/pl/105/42/s6/b], Aug. 15, 1997, [111 Stat. 1129][/us/stat/111/1129].)
+([Pub. L. 92–522, title III][/us/pl/92/522/tIII], § 301, as added [Pub. L. 102–523][/us/pl/102/523], § 2(a), Oct. 26, 1992, [106 Stat. 3425][/us/stat/106/3425]; amended [Pub. L. 105–42][/us/pl/105/42], § 6(b), Aug. 15, 1997, [111 Stat. 1129][/us/stat/111/1129].)
 
  __Codification__ 
 
@@ -49,9 +49,9 @@
 
  __Amendments__ 
 
-    1997—Subsec. (a)(4). [Pub. L. 105–42, § 6(b)(1)][/us/pl/105/42/s6/b/1], added par. (4) and struck out former par. (4) which read as follows: “Nations harvesting yellowfin tuna in the eastern tropical Pacific Ocean have indicated their willingness to participate in appropriate multilateral agreements to reduce, and eventually eliminate, dolphin mortality in that fishery.”
+    1997—Subsec. (a)(4). [Pub. L. 105–42][/us/pl/105/42], § 6(b)(1), added par. (4) and struck out former par. (4) which read as follows: “Nations harvesting yellowfin tuna in the eastern tropical Pacific Ocean have indicated their willingness to participate in appropriate multilateral agreements to reduce, and eventually eliminate, dolphin mortality in that fishery.”
 
-    Subsec. (b)(2), (3). [Pub. L. 105–42, § 6(b)(2)][/us/pl/105/42/s6/b/2], added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
+    Subsec. (b)(2), (3). [Pub. L. 105–42][/us/pl/105/42], § 6(b)(2), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
 
     “(2) secure appropriate multilateral agreements to reduce, and eventually eliminate, the mortality referred to in paragraph (1);
 
@@ -68,15 +68,15 @@
 ----------
 ----------
 
-[/us/pl/92/522/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs301
-[/us/pl/102/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F523%2Fs2%2Fa
+[/us/pl/92/522/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtIII
+[/us/pl/102/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F523
 [/us/stat/106/3425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3425
-[/us/pl/105/42/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs6%2Fb
+[/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
 [/us/stat/111/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1129
 [/us/pl/92/522/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs301
 [/us/usc/t16/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1421
-[/us/pl/105/42/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs6%2Fb%2F1
-[/us/pl/105/42/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs6%2Fb%2F2
+[/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
+[/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
 [/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
 [/us/pl/105/42/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs8
 [/us/usc/t16/s1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1362

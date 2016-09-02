@@ -17,7 +17,7 @@
 
     The administration, protection, and development of the aforesaid Spanish War Memorial Park, including any and all memorials that may be erected thereon, shall be exercised under the direction of the Secretary of the Interior by the National Park Service.
 
-([Aug. 20, 1935, ch. 575, § 5][/us/act/1935-08-20/ch575/s5], [49 Stat. 662][/us/stat/49/662].)
+([Aug. 20, 1935, ch. 575][/us/act/1935-08-20/ch575], § 5, [49 Stat. 662][/us/stat/49/662].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1935-08-20/ch575/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-20%2Fch575%2Fs5
+[/us/act/1935-08-20/ch575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-20%2Fch575
 [/us/stat/49/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F662
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

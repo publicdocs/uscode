@@ -17,7 +17,7 @@
 
     The Secretary of the Interior, subject to the approval of the President, shall have the power to make and shall make all needful rules and regulations for the care of the park, and for the establishment and marking of lines of battle and other historical features of the park.
 
-([Feb. 14, 1927, ch. 127, § 9][/us/act/1927-02-14/ch127/s9], [44 Stat. 1094][/us/stat/44/1094]; Ex. Ord. No. 6166, § 2, June 10, 1933; Ex. Ord. No. 6228, § 1, July 28, 1933.)
+([Feb. 14, 1927, ch. 127][/us/act/1927-02-14/ch127], § 9, [44 Stat. 1094][/us/stat/44/1094]; Ex. Ord. No. 6166, § 2, June 10, 1933; Ex. Ord. No. 6228, § 1, July 28, 1933.)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1927-02-14/ch127/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-14%2Fch127%2Fs9
+[/us/act/1927-02-14/ch127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-14%2Fch127
 [/us/stat/44/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1094
 [/us/usc/t16/s425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs425
 

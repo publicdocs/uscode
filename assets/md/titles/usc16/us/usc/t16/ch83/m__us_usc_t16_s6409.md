@@ -53,7 +53,7 @@
 
         The term “State” means any State of the United States that contains a coral reef ecosystem within its seaward boundaries, American Samoa, Guam, the Northern Mariana Islands, Puerto Rico, and the Virgin Islands, and any other territory or possession of the United States, or separate sovereign in free association with the United States, that contains a coral reef ecosystem within its seaward boundaries.
 
-([Pub. L. 106–562, title II, § 210][/us/pl/106/562/s210], Dec. 23, 2000, [114 Stat. 2805][/us/stat/114/2805].)
+([Pub. L. 106–562, title II][/us/pl/106/562/tII], § 210, Dec. 23, 2000, [114 Stat. 2805][/us/stat/114/2805].)
 
  __References in Text__ 
 
@@ -70,7 +70,7 @@
 
 [/us/usc/t16/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1431
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
-[/us/pl/106/562/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs210
+[/us/pl/106/562/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2FtII
 [/us/stat/114/2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2805
 [/us/pl/92/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532
 [/us/stat/86/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1061

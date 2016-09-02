@@ -93,7 +93,7 @@
 
         (2) Any temporary restraining order or injunction issued pursuant to such an application shall terminate in accordance with the provisions of [section 459e–2(g) of this title][/us/usc/t16/s459e–2/g].
 
-([Pub. L. 88–587, § 2][/us/pl/88/587/s2], Sept. 11, 1964, [78 Stat. 929][/us/stat/78/929]; [Pub. L. 95–625, title III, § 322(b)][/us/pl/95/625/s322/b], Nov. 10, 1978, [92 Stat. 3489][/us/stat/92/3489]; [Pub. L. 98–482, § 2][/us/pl/98/482/s2], Oct. 17, 1984, [98 Stat. 2255][/us/stat/98/2255].)
+([Pub. L. 88–587][/us/pl/88/587], § 2, Sept. 11, 1964, [78 Stat. 929][/us/stat/78/929]; [Pub. L. 95–625, title III][/us/pl/95/625/tIII], § 322(b), Nov. 10, 1978, [92 Stat. 3489][/us/stat/92/3489]; [Pub. L. 98–482][/us/pl/98/482], § 2, Oct. 17, 1984, [98 Stat. 2255][/us/stat/98/2255].)
 
  __Amendments__ 
 
@@ -114,11 +114,11 @@
 [/us/usc/t16/s459e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459e
 [/us/usc/t16/s459e–2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459e%E2%80%932%2Fa
 [/us/usc/t16/s459e–2/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459e%E2%80%932%2Fg
-[/us/pl/88/587/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F587%2Fs2
+[/us/pl/88/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F587
 [/us/stat/78/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F929
-[/us/pl/95/625/s322/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs322%2Fb
+[/us/pl/95/625/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtIII
 [/us/stat/92/3489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3489
-[/us/pl/98/482/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F482%2Fs2
+[/us/pl/98/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F482
 [/us/stat/98/2255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2255
 [/us/pl/98/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F482
 [/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625

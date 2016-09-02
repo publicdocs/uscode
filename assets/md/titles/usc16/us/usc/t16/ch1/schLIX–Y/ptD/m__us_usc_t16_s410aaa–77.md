@@ -61,7 +61,7 @@
 
         The provisions of this section shall not apply to the disposal of property under title II of the Defense Authorization Amendments and Base Closure and Realignment Act ([Public Law 100–526][/us/pl/100/526]; [102 Stat. 2627][/us/stat/102/2627]; [10 U.S.C. 2687][/us/usc/t10/s2687] note) or the Defense Base Closure and Realignment Act of 1990 ([Public Law 101–510][/us/pl/101/510]; [104 Stat. 1808][/us/stat/104/1808]; [10 U.S.C. 2687][/us/usc/t10/s2687] note).
 
-([Pub. L. 103–433, title VII, § 707][/us/pl/103/433/s707], Oct. 31, 1994, [108 Stat. 4499][/us/stat/108/4499].)
+([Pub. L. 103–433, title VII][/us/pl/103/433/tVII], § 707, Oct. 31, 1994, [108 Stat. 4499][/us/stat/108/4499].)
 
  __References in Text__ 
 
@@ -88,7 +88,7 @@
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/stat/104/1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1808
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
-[/us/pl/103/433/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs707
+[/us/pl/103/433/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtVII
 [/us/stat/108/4499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4499
 [/us/usc/t16/s410aaa–81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410aaa%E2%80%9381
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579

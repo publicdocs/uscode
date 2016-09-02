@@ -17,7 +17,7 @@
 
     In order to facilitate the development and construction by States and municipalities of water conservation facilities, certain requirements in this chapter are made inapplicable to States and municipalities as provided in this subchapter.
 
-([Aug. 15, 1953, ch. 503, § 1][/us/act/1953-08-15/ch503/s1], [67 Stat. 587][/us/stat/67/587].)
+([Aug. 15, 1953, ch. 503][/us/act/1953-08-15/ch503], § 1, [67 Stat. 587][/us/stat/67/587].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1953-08-15/ch503/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-15%2Fch503%2Fs1
+[/us/act/1953-08-15/ch503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-15%2Fch503
 [/us/stat/67/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F587
 
 

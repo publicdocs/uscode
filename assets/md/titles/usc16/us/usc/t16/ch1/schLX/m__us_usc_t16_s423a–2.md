@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is further authorized to adjust the boundary of the Petersburg National Battlefield through purchase, exchange, or transfer: Provided, That in doing so the total area of the battlefield will not be increased and that such changes will become effective upon publication of the description thereof in the Federal Register by the Secretary of the Interior.
 
-([Sept. 7, 1949, ch. 543, § 2][/us/act/1949-09-07/ch543/s2], [63 Stat. 692][/us/stat/63/692]; [Pub. L. 87–603, § 1][/us/pl/87/603/s1], Aug. 24, 1962, [76 Stat. 403][/us/stat/76/403].)
+([Sept. 7, 1949, ch. 543][/us/act/1949-09-07/ch543], § 2, [63 Stat. 692][/us/stat/63/692]; [Pub. L. 87–603][/us/pl/87/603], § 1, Aug. 24, 1962, [76 Stat. 403][/us/stat/76/403].)
 
  __Change of Name__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1949-09-07/ch543/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-09-07%2Fch543%2Fs2
+[/us/act/1949-09-07/ch543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-09-07%2Fch543
 [/us/stat/63/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F692
-[/us/pl/87/603/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F603%2Fs1
+[/us/pl/87/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F603
 [/us/stat/76/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F403
 [/us/pl/87/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F603
 [/us/usc/t16/s423h–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs423h%E2%80%931

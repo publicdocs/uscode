@@ -27,7 +27,7 @@
 
     (e) The term “capital cost” includes interest during construction, wherever appropriate.
 
-([Pub. L. 89–72, § 10][/us/pl/89/72/s10], July 9, 1965, [79 Stat. 218][/us/stat/79/218].)
+([Pub. L. 89–72][/us/pl/89/72], § 10, July 9, 1965, [79 Stat. 218][/us/stat/79/218].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/89/72/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F72%2Fs10
+[/us/pl/89/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F72
 [/us/stat/79/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F218
 [/us/pl/89/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F72
 [/us/usc/t16/s662/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs662%2Fd

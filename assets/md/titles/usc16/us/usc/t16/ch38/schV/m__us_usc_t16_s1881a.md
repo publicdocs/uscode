@@ -95,7 +95,7 @@
 
         (3) The Secretary shall undertake efforts to expand annual fishery resource assessments in all regions of the Nation.
 
-([Pub. L. 94–265, title IV, § 402][/us/pl/94/265/s402], as added [Pub. L. 104–297, title II, § 203][/us/pl/104/297/s203], Oct. 11, 1996, [110 Stat. 3607][/us/stat/110/3607]; amended [Pub. L. 109–479, § 3(d)(1)(A)][/us/pl/109/479/s3/d/1/A], title II, §§ 202, 203(a), Jan. 12, 2007, [120 Stat. 3578][/us/stat/120/3578], 3612, 3613.)
+([Pub. L. 94–265, title IV][/us/pl/94/265/tIV], § 402, as added [Pub. L. 104–297, title II][/us/pl/104/297/tII], § 203, Oct. 11, 1996, [110 Stat. 3607][/us/stat/110/3607]; amended [Pub. L. 109–479][/us/pl/109/479], § 3(d)(1)(A), title II, §§ 202, 203(a), Jan. 12, 2007, [120 Stat. 3578][/us/stat/120/3578], 3612, 3613.)
 
  __References in Text__ 
 
@@ -111,13 +111,13 @@
 
  __Amendments__ 
 
-    2007—Subsec. (a). [Pub. L. 109–479, § 202][/us/pl/109/479/s202], substituted “Collection programs” for “Council requests” in heading, designated existing provisions as par. (1), inserted heading, realigned margins, in first sentence, struck out “(other than information that would disclose proprietary or confidential commercial or financial information regarding fishing operations or fish processing operations)” after “additional information” and “types of information”, in last sentence, substituted “paragraph” for “subsection”, and added par. (2).
+    2007—Subsec. (a). [Pub. L. 109–479][/us/pl/109/479], § 202, substituted “Collection programs” for “Council requests” in heading, designated existing provisions as par. (1), inserted heading, realigned margins, in first sentence, struck out “(other than information that would disclose proprietary or confidential commercial or financial information regarding fishing operations or fish processing operations)” after “additional information” and “types of information”, in last sentence, substituted “paragraph” for “subsection”, and added par. (2).
 
-    Subsec. (b). [Pub. L. 109–479, § 203(a)(1)][/us/pl/109/479/s203/a/1], (2), added pars. (1) and (2), redesignated former par. (2) as (3) and realigned margins, and struck out former par. (1) which related to confidentiality of information submitted to the Secretary and exceptions.
+    Subsec. (b). [Pub. L. 109–479][/us/pl/109/479], § 203(a)(1), (2), added pars. (1) and (2), redesignated former par. (2) as (3) and realigned margins, and struck out former par. (1) which related to confidentiality of information submitted to the Secretary and exceptions.
 
-    Subsec. (b)(1)(D). [Pub. L. 109–479, § 3(d)(1)(A)][/us/pl/109/479/s3/d/1/A], substituted “a limited access privilege” for “an individual fishing quota”.
+    Subsec. (b)(1)(D). [Pub. L. 109–479][/us/pl/109/479], § 3(d)(1)(A), substituted “a limited access privilege” for “an individual fishing quota”.
 
-    Subsec. (b)(3). [Pub. L. 109–479, § 203(a)(3)][/us/pl/109/479/s203/a/3], substituted “(2)(A).” for “(1)(E).”
+    Subsec. (b)(3). [Pub. L. 109–479][/us/pl/109/479], § 203(a)(3), substituted “(2)(A).” for “(1)(E).”
 
 ----------
 
@@ -129,10 +129,10 @@
 [/us/usc/t6/s468/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs468%2Fa%2F2
 [/us/usc/t16/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1361
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
-[/us/pl/94/265/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs402
-[/us/pl/104/297/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs203
+[/us/pl/94/265/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2FtIV
+[/us/pl/104/297/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtII
 [/us/stat/110/3607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3607
-[/us/pl/109/479/s3/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs3%2Fd%2F1%2FA
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
 [/us/stat/120/3578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3578
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331
@@ -145,9 +145,9 @@
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/pl/94/265/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs402
 [/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
-[/us/pl/109/479/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs202
-[/us/pl/109/479/s203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs203%2Fa%2F1
-[/us/pl/109/479/s3/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs3%2Fd%2F1%2FA
-[/us/pl/109/479/s203/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs203%2Fa%2F3
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
 
 

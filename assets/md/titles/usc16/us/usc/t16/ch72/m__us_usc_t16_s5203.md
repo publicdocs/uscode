@@ -23,7 +23,7 @@
 
     (3) any person who is or would be adversely affected by the violation.
 
-([Pub. L. 103–322, title XXXII, § 320804][/us/pl/103/322/s320804], Sept. 13, 1994, [108 Stat. 2122][/us/stat/108/2122].)
+([Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320804, Sept. 13, 1994, [108 Stat. 2122][/us/stat/108/2122].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t16/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5201
-[/us/pl/103/322/s320804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320804
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2122
 
 

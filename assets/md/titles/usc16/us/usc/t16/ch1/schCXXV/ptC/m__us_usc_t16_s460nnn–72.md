@@ -61,7 +61,7 @@
 
         The Secretary may work with, provide technical assistance to, provide community outreach and education programs for or with, or enter into cooperative agreements with private landowners, State and local governments or agencies, and conservation organizations to further the purposes of the Redband Trout Reserve.
 
-([Pub. L. 106–399, title III, § 302][/us/pl/106/399/s302], Oct. 30, 2000, [114 Stat. 1668][/us/stat/114/1668].)
+([Pub. L. 106–399, title III][/us/pl/106/399/tIII], § 302, Oct. 30, 2000, [114 Stat. 1668][/us/stat/114/1668].)
 
  __References in Text__ 
 
@@ -78,7 +78,7 @@
 
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
 [/us/usc/t16/s1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1271
-[/us/pl/106/399/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2Fs302
+[/us/pl/106/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2FtIII
 [/us/stat/114/1668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1668
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890

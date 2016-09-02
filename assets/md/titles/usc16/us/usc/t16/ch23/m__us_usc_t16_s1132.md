@@ -49,7 +49,7 @@
 
         Any modification or adjustment of boundaries of any wilderness area shall be recommended by the appropriate Secretary after public notice of such proposal and public hearing or hearings as provided in subsection (d) of this section. The proposed modification or adjustment shall then be recommended with map and description thereof to the President. The President shall advise the United States Senate and the House of Representatives of his recommendations with respect to such modification or adjustment and such recommendations shall become effective only in the same manner as provided for in subsections (b) and (c) of this section.
 
-([Pub. L. 88–577, § 3][/us/pl/88/577/s3], Sept. 3, 1964, [78 Stat. 891][/us/stat/78/891].)
+([Pub. L. 88–577][/us/pl/88/577], § 3, Sept. 3, 1964, [78 Stat. 891][/us/stat/78/891].)
 
  __Change of Name__ 
 
@@ -6210,7 +6210,7 @@ Zion Wilderness, Washington and Iron Counties, Utah.—Pub. L. 111–11, title I
 ----------
 ----------
 
-[/us/pl/88/577/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577%2Fs3
+[/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F891
 
 

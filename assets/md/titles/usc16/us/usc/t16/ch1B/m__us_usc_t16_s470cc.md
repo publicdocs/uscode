@@ -67,7 +67,7 @@
 
         Upon the written request of the Governor of any State, the Federal land manager shall issue a permit, subject to the provisions of subsections (b)(3), (b)(4), (c), (e), (f), (g), (h), and (i) of this section for the purpose of conducting archaeological research, excavation, removal, and curation, on behalf of the State or its educational institutions, to such Governor or to such designee as the Governor deems qualified to carry out the intent of this chapter.
 
-([Pub. L. 96–95, § 4][/us/pl/96/95/s4], Oct. 31, 1979, [93 Stat. 722][/us/stat/93/722]; [Pub. L. 113–287, § 5(d)(6)][/us/pl/113/287/s5/d/6], Dec. 19, 2014, [128 Stat. 3264][/us/stat/128/3264].)
+([Pub. L. 96–95][/us/pl/96/95], § 4, Oct. 31, 1979, [93 Stat. 722][/us/stat/93/722]; [Pub. L. 113–287][/us/pl/113/287], § 5(d)(6), Dec. 19, 2014, [128 Stat. 3264][/us/stat/128/3264].)
 
  __References in Text__ 
 
@@ -77,11 +77,11 @@
 
  __Amendments__ 
 
-    2014—Subsec. (h)(1). [Pub. L. 113–287, § 5(d)(6)(A)(i)][/us/pl/113/287/s5/d/6/A/i], substituted “chapter 3203 of title 54” for “the Act of June 8, 1906 ([16 U.S.C. 431–433][/us/usc/t16/s431–433]),”.
+    2014—Subsec. (h)(1). [Pub. L. 113–287][/us/pl/113/287], § 5(d)(6)(A)(i), substituted “chapter 3203 of title 54” for “the Act of June 8, 1906 ([16 U.S.C. 431–433][/us/usc/t16/s431–433]),”.
 
-    Subsec. (h)(2). [Pub. L. 113–287, § 5(d)(6)(A)(ii)][/us/pl/113/287/s5/d/6/A/ii], substituted “chapter 3203 of title 54” for “the Act of June 8, 1906,” in two places.
+    Subsec. (h)(2). [Pub. L. 113–287][/us/pl/113/287], § 5(d)(6)(A)(ii), substituted “chapter 3203 of title 54” for “the Act of June 8, 1906,” in two places.
 
-    Subsec. (i). [Pub. L. 113–287, § 5(d)(6)(B)][/us/pl/113/287/s5/d/6/B], substituted “[section 306108 of title 54][/us/usc/t54/s306108]” for “[section 470f of this title][/us/usc/t16/s470f]”.
+    Subsec. (i). [Pub. L. 113–287][/us/pl/113/287], § 5(d)(6)(B), substituted “[section 306108 of title 54][/us/usc/t54/s306108]” for “[section 470f of this title][/us/usc/t16/s470f]”.
 
 ----------
 
@@ -96,9 +96,9 @@
 [/us/usc/t16/s470ee]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470ee
 [/us/usc/t16/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs431
 [/us/usc/t54/s306108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs306108
-[/us/pl/96/95/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95%2Fs4
+[/us/pl/96/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95
 [/us/stat/93/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F722
-[/us/pl/113/287/s5/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F6
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3264
 [/us/act/1906-06-08/ch3060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-08%2Fch3060
 [/us/stat/34/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F225
@@ -107,10 +107,10 @@
 [/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
 [/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/96/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95
-[/us/pl/113/287/s5/d/6/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F6%2FA%2Fi
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t16/s431–433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs431%E2%80%93433
-[/us/pl/113/287/s5/d/6/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F6%2FA%2Fii
-[/us/pl/113/287/s5/d/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F6%2FB
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t54/s306108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs306108
 [/us/usc/t16/s470f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470f
 

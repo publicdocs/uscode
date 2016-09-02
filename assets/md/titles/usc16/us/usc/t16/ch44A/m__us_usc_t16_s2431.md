@@ -35,11 +35,11 @@
 
         The purpose of this chapter is to provide the legislative authority necessary to implement, with respect to the United States, the Convention on the Conservation of Antarctic Marine Living Resources.
 
-([Pub. L. 98–623, title III, § 302][/us/pl/98/623/s302], Nov. 8, 1984, [98 Stat. 3398][/us/stat/98/3398].)
+([Pub. L. 98–623, title III][/us/pl/98/623/tIII], § 302, Nov. 8, 1984, [98 Stat. 3398][/us/stat/98/3398].)
 
  __Short Title__ 
 
-[Pub. L. 98–623, title III, § 301][/us/pl/98/623/s301], Nov. 8, 1984, [98 Stat. 3398][/us/stat/98/3398], provided that: 
+[Pub. L. 98–623, title III][/us/pl/98/623/tIII], § 301, Nov. 8, 1984, [98 Stat. 3398][/us/stat/98/3398], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Antarctic Marine Living Resources Convention Act of 1984’.”
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/98/623/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs302
+[/us/pl/98/623/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtIII
 [/us/stat/98/3398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3398
-[/us/pl/98/623/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs301
+[/us/pl/98/623/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtIII
 [/us/stat/98/3398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3398
 
 

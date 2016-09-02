@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t16/ch1/schLXII/m__us_usc_t16_s455c.md) | [Next](./../../../../..//us/usc/t16/ch1/schLXII/m__us_usc_t16_s456a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs456)
 
-## § 456. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
+## § 456. Repealed. [Pub. L. 113–287][/us/pl/113/287], § 7, Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [act May 10, 1926, ch. 277, § 1][/us/act/1926-05-10/ch277/s1], [44 Stat. 491][/us/stat/44/491], related to expense of depositing money payable from appropriations.
+    Section, [act May 10, 1926, ch. 277][/us/act/1926-05-10/ch277], § 1, [44 Stat. 491][/us/stat/44/491], related to expense of depositing money payable from appropriations.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
-[/us/act/1926-05-10/ch277/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-10%2Fch277%2Fs1
+[/us/act/1926-05-10/ch277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-10%2Fch277
 [/us/stat/44/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F491
 
 

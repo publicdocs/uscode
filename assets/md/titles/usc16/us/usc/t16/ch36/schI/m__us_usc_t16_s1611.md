@@ -23,7 +23,7 @@
 
         Nothing in subsection (a) of this section shall prohibit the Secretary from salvage or sanitation harvesting of timber stands which are substantially damaged by fire, windthrow, or other catastrophe, or which are in imminent danger from insect or disease attack. The Secretary may either substitute such timber for timber that would otherwise be sold under the plan or, if not feasible, sell such timber over and above the plan volume.
 
-([Pub. L. 93–378, § 13][/us/pl/93/378/s13], as added [Pub. L. 94–588, § 11][/us/pl/94/588/s11], Oct. 22, 1976, [90 Stat. 2957][/us/stat/90/2957].)
+([Pub. L. 93–378][/us/pl/93/378], § 13, as added [Pub. L. 94–588][/us/pl/94/588], § 11, Oct. 22, 1976, [90 Stat. 2957][/us/stat/90/2957].)
 
  __Transfer of Functions__ 
 
@@ -31,7 +31,7 @@
 
  __Timber Sales Pipeline Restoration Fund__ 
 
-[Pub. L. 104–134, title I, § 101(c)][/us/pl/104/134/s101/c] \[title III, § 327\], Apr. 26, 1996, [110 Stat. 1321–156][/us/stat/110/1321-156], 1321–206; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327], provided that:
+[Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(c) \[title III, § 327\], Apr. 26, 1996, [110 Stat. 1321–156][/us/stat/110/1321-156], 1321–206; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327], provided that:
 
 >     “(a) The Secretary of Agriculture and the Secretary of the Interior shall each establish a Timber Sales Pipeline Restoration Fund (hereinafter ‘Agriculture Fund’ and ‘Interior Fund’ or ‘Funds’). Any revenues received from sales released under section 2001(k) of the fiscal year 1995 Supplemental Appropriations for Disaster Assistance and Rescissions Act \[probably means [section 2001(k) of Pub. L. 104–19][/us/pl/104/19/s2001/k], set out below\], minus the funds necessary to make payments to States or local governments under other law concerning the distribution of revenues derived from the affected lands, which are in excess of $37,500,000 (hereinafter ‘excess revenues’) shall be deposited into the Funds. The distribution of excess revenues between the Agriculture Fund and Interior Fund shall be calculated by multiplying the total of excess revenues times a fraction with a denominator of the total revenues received from all sales released under such section 2001(k) and numerators of the total revenues received from such sales on lands within the National Forest System and the total revenues received from such sales on lands administered by the Bureau of Land Management, respectively: Provided, That revenues or portions thereof from sales released under such section 2001(k), minus the amounts necessary for State and local government payments and other necessary deposits, may be deposited into the Funds immediately upon receipt thereof and subsequently redistributed between the Funds or paid into the United States Treasury as miscellaneous receipts as may be required when the calculation of excess revenues is made.
 
@@ -65,7 +65,7 @@
 
  __Emergency Salvage Timber Sale Program__ 
 
-    [Pub. L. 104–19, title II, § 2001][/us/pl/104/19/s2001], July 27, 1995, [109 Stat. 240][/us/stat/109/240], as amended by [Pub. L. 104–134, title I, § 101(c)][/us/pl/104/134/s101/c] \[title III, § 316\], Apr. 26, 1996, [110 Stat. 1321–156][/us/stat/110/1321-156], 1321–202; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327], provided for salvage timber sales from certain Federal lands by the Secretary of Agriculture and the Secretary of the Interior from July 27, 1995 to Dec. 31, 1996.
+    [Pub. L. 104–19, title II][/us/pl/104/19/tII], § 2001, July 27, 1995, [109 Stat. 240][/us/stat/109/240], as amended by [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(c) \[title III, § 316\], Apr. 26, 1996, [110 Stat. 1321–156][/us/stat/110/1321-156], 1321–202; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327], provided for salvage timber sales from certain Federal lands by the Secretary of Agriculture and the Secretary of the Interior from July 27, 1995 to Dec. 31, 1996.
 
 ----------
 
@@ -75,21 +75,21 @@
 ----------
 
 [/us/usc/t16/s1604/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1604%2Fd
-[/us/pl/93/378/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F378%2Fs13
-[/us/pl/94/588/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588%2Fs11
+[/us/pl/93/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F378
+[/us/pl/94/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588
 [/us/stat/90/2957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2957
 [/us/usc/t16/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1601
-[/us/pl/104/134/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fc
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-156
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
 [/us/pl/104/19/s2001/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F19%2Fs2001%2Fk
 [/us/pl/104/19/s2001/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F19%2Fs2001%2Fa%2F3
-[/us/pl/104/19/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F19%2Fs2001
+[/us/pl/104/19/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F19%2FtII
 [/us/stat/109/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F240
-[/us/pl/104/134/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fc
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-156
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
 
 

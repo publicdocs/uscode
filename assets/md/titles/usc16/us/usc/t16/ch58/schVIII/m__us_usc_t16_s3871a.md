@@ -119,7 +119,7 @@
 
         The term “program” means the regional conservation partnership program established by this subchapter.
 
-([Pub. L. 99–198, title XII, § 1271A][/us/pl/99/198/s1271A], as added [Pub. L. 113–79, title II, § 2401][/us/pl/113/79/s2401], Feb. 7, 2014, [128 Stat. 745][/us/stat/128/745].)
+([Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1271A, as added [Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2401, Feb. 7, 2014, [128 Stat. 745][/us/stat/128/745].)
 
 ----------
 
@@ -130,8 +130,8 @@
 
 [/us/usc/t16/s6571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6571
 [/us/usc/t16/s3871b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3871b
-[/us/pl/99/198/s1271A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1271A
-[/us/pl/113/79/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2401
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F745
 
 

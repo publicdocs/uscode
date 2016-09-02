@@ -27,7 +27,7 @@
 
         Authority is hereby granted for individuals to cross the park by foot at locations designated by the Secretary for the purpose of gaining access to the Potomac River or to non-Federal lands for hunting purposes: Provided, That while such individuals are within the boundaries of the park firearms shall be unloaded, bows unstrung, and dogs on leash.
 
-([Pub. L. 91–664, § 5][/us/pl/91/664/s5], Jan. 8, 1971, [84 Stat. 1979][/us/stat/84/1979].)
+([Pub. L. 91–664][/us/pl/91/664], § 5, Jan. 8, 1971, [84 Stat. 1979][/us/stat/84/1979].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/91/664/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F664%2Fs5
+[/us/pl/91/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F664
 [/us/stat/84/1979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1979
 
 

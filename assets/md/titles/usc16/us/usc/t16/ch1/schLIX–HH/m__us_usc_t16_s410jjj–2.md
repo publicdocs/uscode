@@ -27,7 +27,7 @@
 
         At such time as the principal visitor center at such park is established, such center shall be designated as the “Harry R. E. Hampton Visitor Center”.
 
-([Pub. L. 94–545, § 3][/us/pl/94/545/s3], Oct. 18, 1976, [90 Stat. 2517][/us/stat/90/2517]; [Pub. L. 98–506, § 1][/us/pl/98/506/s1], Oct. 19, 1984, [98 Stat. 2338][/us/stat/98/2338]; [Pub. L. 108–108, title I, § 135][/us/pl/108/108/s135], Nov. 10, 2003, [117 Stat. 1270][/us/stat/117/1270].)
+([Pub. L. 94–545][/us/pl/94/545], § 3, Oct. 18, 1976, [90 Stat. 2517][/us/stat/90/2517]; [Pub. L. 98–506][/us/pl/98/506], § 1, Oct. 19, 1984, [98 Stat. 2338][/us/stat/98/2338]; [Pub. L. 108–108, title I][/us/pl/108/108/tI], § 135, Nov. 10, 2003, [117 Stat. 1270][/us/stat/117/1270].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
  __Change of Name__ 
 
-    In text, “park” substituted for “monument” pursuant to [Pub. L. 108–108, § 135][/us/pl/108/108/s135], which is set out as a note under [section 410jjj of this title][/us/usc/t16/s410jjj] and which redesignated the Congaree Swamp National Monument as the Congaree National Park.
+    In text, “park” substituted for “monument” pursuant to [Pub. L. 108–108][/us/pl/108/108], § 135, which is set out as a note under [section 410jjj of this title][/us/usc/t16/s410jjj] and which redesignated the Congaree Swamp National Monument as the Congaree National Park.
 
 ----------
 
@@ -49,11 +49,11 @@
 ----------
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
-[/us/pl/94/545/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F545%2Fs3
+[/us/pl/94/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F545
 [/us/stat/90/2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2517
-[/us/pl/98/506/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F506%2Fs1
+[/us/pl/98/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F506
 [/us/stat/98/2338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2338
-[/us/pl/108/108/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2Fs135
+[/us/pl/108/108/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2FtI
 [/us/stat/117/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1270
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
@@ -64,7 +64,7 @@
 [/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
 [/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/98/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F506
-[/us/pl/108/108/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2Fs135
+[/us/pl/108/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108
 [/us/usc/t16/s410jjj]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410jjj
 
 

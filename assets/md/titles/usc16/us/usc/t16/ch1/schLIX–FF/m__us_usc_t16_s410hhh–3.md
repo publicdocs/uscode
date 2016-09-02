@@ -35,7 +35,7 @@
 
         As soon as practicable after the establishment of the national park and preserve and subject to the availability of funds, the Secretary shall complete an official boundary survey.
 
-([Pub. L. 106–530, § 5][/us/pl/106/530/s5], Nov. 22, 2000, [114 Stat. 2529][/us/stat/114/2529].)
+([Pub. L. 106–530][/us/pl/106/530], § 5, Nov. 22, 2000, [114 Stat. 2529][/us/stat/114/2529].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
 [/us/pl/103/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F767
 [/us/usc/t16/s539i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs539i
-[/us/pl/106/530/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F530%2Fs5
+[/us/pl/106/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F530
 [/us/stat/114/2529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2529
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890

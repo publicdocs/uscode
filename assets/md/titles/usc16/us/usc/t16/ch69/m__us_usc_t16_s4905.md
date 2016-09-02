@@ -73,7 +73,7 @@
 
         (4) The methods of capture, transport, and maintenance of the species minimizes the risk of injury or damage to health, including inhumane treatment.
 
-([Pub. L. 102–440, title I, § 106][/us/pl/102/440/s106], Oct. 23, 1992, [106 Stat. 2227][/us/stat/106/2227].)
+([Pub. L. 102–440, title I][/us/pl/102/440/tI], § 106, Oct. 23, 1992, [106 Stat. 2227][/us/stat/106/2227].)
 
 ----------
 
@@ -82,7 +82,7 @@
 ----------
 ----------
 
-[/us/pl/102/440/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2Fs106
+[/us/pl/102/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2FtI
 [/us/stat/106/2227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2227
 
 

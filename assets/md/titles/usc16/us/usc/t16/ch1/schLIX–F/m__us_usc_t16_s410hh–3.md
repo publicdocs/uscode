@@ -17,7 +17,7 @@
 
     Valid Native Corporation selections, or lands identified for selection by Regional Corporations pursuant to section 17(d)(2)(E) of the Alaska Native Claims Settlement Act \[[43 U.S.C. 1616(d)(2)(E)][/us/usc/t43/s1616/d/2/E]\], within the boundaries of the Wrangell-Saint Elias National Park and Preserve as established under this Act, are hereby recognized and shall be honored and conveyed by the Secretary in accordance with the Alaska Native Claims Settlement Act \[[43 U.S.C. 1601][/us/usc/t43/s1601] et seq.\] and this Act.
 
-([Pub. L. 96–487, title II, § 204][/us/pl/96/487/s204], Dec. 2, 1980, [94 Stat. 2384][/us/stat/94/2384].)
+([Pub. L. 96–487, title II][/us/pl/96/487/tII], § 204, Dec. 2, 1980, [94 Stat. 2384][/us/stat/94/2384].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t43/s1616/d/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1616%2Fd%2F2%2FE
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/96/487/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs204
+[/us/pl/96/487/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtII
 [/us/stat/94/2384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2384
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688

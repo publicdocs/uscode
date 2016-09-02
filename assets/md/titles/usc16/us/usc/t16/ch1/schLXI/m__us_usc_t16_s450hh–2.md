@@ -17,7 +17,7 @@
 
     The national monument shall be administered by the Secretary of the Interior, through the National Park Service, subject to the provisions of the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]; [16 U.S.C. 1–4][/us/usc/t16/s1–4]), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended and supplemented, and the Act of August 21, 1935 ([49 Stat. 666][/us/stat/49/666]; [16 U.S.C. 461–467][/us/usc/t16/s461–467]). <sup>\[1\]</sup> 
 
-([June 8, 1949, ch. 180, § 3][/us/act/1949-06-08/ch180/s3], [63 Stat. 158][/us/stat/63/158].)
+([June 8, 1949, ch. 180][/us/act/1949-06-08/ch180], § 3, [63 Stat. 158][/us/stat/63/158].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 [/us/usc/t16/s1–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1%E2%80%934
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
 [/us/usc/t16/s461–467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461%E2%80%93467
-[/us/act/1949-06-08/ch180/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-08%2Fch180%2Fs3
+[/us/act/1949-06-08/ch180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-08%2Fch180
 [/us/stat/63/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F158
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1%E2%80%934

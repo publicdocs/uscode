@@ -27,7 +27,7 @@
 
         Any person who shall receive any compensation, rebate, or reward, or shall enter into any conspiracy, collusion, or agreement, express or implied, with intent to defraud the Corporation or wrongfully and unlawfully to defeat its purposes, shall, on conviction thereof, be fined not more than $5,000 or imprisoned not more than five years, or both.
 
-([May 18, 1933, ch. 32, § 21][/us/act/1933-05-18/ch32/s21], [48 Stat. 68][/us/stat/48/68].)
+([May 18, 1933, ch. 32][/us/act/1933-05-18/ch32], § 21, [48 Stat. 68][/us/stat/48/68].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/act/1933-05-18/ch32/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32%2Fs21
+[/us/act/1933-05-18/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32
 [/us/stat/48/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F68
 
 

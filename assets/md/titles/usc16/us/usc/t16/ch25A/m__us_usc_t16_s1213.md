@@ -17,7 +17,7 @@
 
     For the purpose of carrying out the provisions of this chapter, there is authorized to be appropriated for the period commencing on September 26, 1970, and ending June 30, 1975, not to exceed $4,500,000.
 
-([Pub. L. 91–427, § 3][/us/pl/91/427/s3], Sept. 26, 1970, [84 Stat. 884][/us/stat/84/884].)
+([Pub. L. 91–427][/us/pl/91/427], § 3, Sept. 26, 1970, [84 Stat. 884][/us/stat/84/884].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/427/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F427%2Fs3
+[/us/pl/91/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F427
 [/us/stat/84/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F884
 
 

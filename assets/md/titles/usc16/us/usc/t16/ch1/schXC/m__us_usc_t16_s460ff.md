@@ -17,7 +17,7 @@
 
     For the purpose of preserving and protecting for public use and enjoyment, the historic, scenic, natural, and recreational values of the Cuyahoga River and the adjacent lands of the Cuyahoga Valley and for the purpose of providing for the maintenance of needed recreational open space necessary to the urban environment, the Cuyahoga Valley National Park, hereafter referred to as the “park”, shall be established within six months after December 27, 1974. In the management of the park, the Secretary of the Interior (hereafter referred to as the “Secretary”) shall utilize the park resources in a manner which will preserve its scenic, natural, and historic setting while providing for the recreational and educational needs of the visiting public.
 
-([Pub. L. 93–555, § 1][/us/pl/93/555/s1], Dec. 27, 1974, [88 Stat. 1784][/us/stat/88/1784]; [Pub. L. 106–291, title I, § 149(c)][/us/pl/106/291/s149/c], Oct. 11, 2000, [114 Stat. 956][/us/stat/114/956].)
+([Pub. L. 93–555][/us/pl/93/555], § 1, Dec. 27, 1974, [88 Stat. 1784][/us/stat/88/1784]; [Pub. L. 106–291, title I][/us/pl/106/291/tI], § 149(c), Oct. 11, 2000, [114 Stat. 956][/us/stat/114/956].)
 
  __Amendments__ 
 
@@ -25,7 +25,7 @@
 
  __Redesignation of Cuyahoga Valley National Recreation Area__ 
 
-[Pub. L. 106–291, title I, § 149(a)][/us/pl/106/291/s149/a], (b), Oct. 11, 2000, [114 Stat. 956][/us/stat/114/956], provided that:
+[Pub. L. 106–291, title I][/us/pl/106/291/tI], § 149(a), (b), Oct. 11, 2000, [114 Stat. 956][/us/stat/114/956], provided that:
 
 >     “(a)  __Redesignation__  __.—__ 
 
@@ -42,12 +42,12 @@
 ----------
 ----------
 
-[/us/pl/93/555/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F555%2Fs1
+[/us/pl/93/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F555
 [/us/stat/88/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1784
-[/us/pl/106/291/s149/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2Fs149%2Fc
+[/us/pl/106/291/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2FtI
 [/us/stat/114/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F956
 [/us/pl/106/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291
-[/us/pl/106/291/s149/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2Fs149%2Fa
+[/us/pl/106/291/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2FtI
 [/us/stat/114/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F956
 
 

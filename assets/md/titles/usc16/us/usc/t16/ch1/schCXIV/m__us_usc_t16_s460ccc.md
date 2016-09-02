@@ -23,11 +23,11 @@
 
     (c) “Secretary” means the Secretary of the Interior.
 
-([Pub. L. 101–621, § 2][/us/pl/101/621/s2], Nov. 16, 1990, [104 Stat. 3342][/us/stat/104/3342].)
+([Pub. L. 101–621][/us/pl/101/621], § 2, Nov. 16, 1990, [104 Stat. 3342][/us/stat/104/3342].)
 
  __Short Title__ 
 
-[Pub. L. 101–621, § 1][/us/pl/101/621/s1], Nov. 16, 1990, [104 Stat. 3342][/us/stat/104/3342], provided that: 
+[Pub. L. 101–621][/us/pl/101/621], § 1, Nov. 16, 1990, [104 Stat. 3342][/us/stat/104/3342], provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘Red Rock Canyon National Conservation Area Establishment Act of 1990’.”
 
@@ -40,9 +40,9 @@
 
 [/us/usc/t16/s460ccc–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460ccc%E2%80%931
 [/us/usc/t43/s1702/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1702%2Fe
-[/us/pl/101/621/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F621%2Fs2
+[/us/pl/101/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F621
 [/us/stat/104/3342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3342
-[/us/pl/101/621/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F621%2Fs1
+[/us/pl/101/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F621
 [/us/stat/104/3342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3342
 
 

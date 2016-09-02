@@ -17,7 +17,7 @@
 
     All receipts from transmission and sale of electric energy generated at the Fort Peck project shall be covered into the Treasury of the United States to the credit of miscellaneous receipts, save and except that the Treasury shall set up and maintain from such receipts a continuing fund of $500,000, to the credit of the Bureau and subject to expenditure by it, to defray the operating expense of generation and transmission of power delivered to the Bureau for disposal under this chapter, to defray emergency expenses and to insure continuous operation. There is authorized to be appropriated from time to time, out of moneys in the Treasury not otherwise appropriated, such sums as may be necessary to carry out the provisions of this chapter, including installation of equipment and machinery for the generation of electric energy, and facilities for its transmission and sale.
 
-([May 18, 1938, ch. 250, § 10][/us/act/1938-05-18/ch250/s10], [52 Stat. 406][/us/stat/52/406].)
+([May 18, 1938, ch. 250][/us/act/1938-05-18/ch250], § 10, [52 Stat. 406][/us/stat/52/406].)
 
  __Transfer of Functions__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1938-05-18/ch250/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-18%2Fch250%2Fs10
+[/us/act/1938-05-18/ch250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-18%2Fch250
 [/us/stat/52/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F406
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated annually to the Commission to carry out its duties under this subchapter $350,000, except that the Federal contribution to the Commission shall not exceed 50 percent of the annual costs to the Commission in carrying out those duties.
 
-([Pub. L. 102–419, title II, § 205][/us/pl/102/419/s205], Oct. 16, 1992, [106 Stat. 2148][/us/stat/106/2148].)
+([Pub. L. 102–419, title II][/us/pl/102/419/tII], § 205, Oct. 16, 1992, [106 Stat. 2148][/us/stat/106/2148].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/419/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F419%2Fs205
+[/us/pl/102/419/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F419%2FtII
 [/us/stat/106/2148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2148
 
 

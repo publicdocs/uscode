@@ -17,7 +17,7 @@
 
     The Director of the National Fisheries Center and Aquarium shall prepare for the Advisory Board an annual report for presentation to the Secretary of the Interior and to the Congress.
 
-([Pub. L. 87–758, § 7][/us/pl/87/758/s7], Oct. 9, 1962, [76 Stat. 754][/us/stat/76/754].)
+([Pub. L. 87–758][/us/pl/87/758], § 7, Oct. 9, 1962, [76 Stat. 754][/us/stat/76/754].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/758/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F758%2Fs7
+[/us/pl/87/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F758
 [/us/stat/76/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F754
 
 

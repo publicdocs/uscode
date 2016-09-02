@@ -17,7 +17,7 @@
 
     The said Stones River National Battlefield shall be under the control of the Secretary of the Interior, and he is authorized to make all needed regulations for the care of the battlefield. The superintendent of the Stones River National Cemetery shall likewise be the superintendent of and have the custody and care of the Stones River National Battlefield, under the direction of the Secretary of the Interior.
 
-([Mar. 3, 1927, ch. 374, § 7][/us/act/1927-03-03/ch374/s7], [44 Stat. 1400][/us/stat/44/1400]; Ex. Ord. No. 6166, § 2, June 10, 1933; Ex. Ord. No. 6228, § 1, July 28, 1933; [Pub. L. 86–443, § 2][/us/pl/86/443/s2], Apr. 22, 1960, [74 Stat. 82][/us/stat/74/82].)
+([Mar. 3, 1927, ch. 374][/us/act/1927-03-03/ch374], § 7, [44 Stat. 1400][/us/stat/44/1400]; Ex. Ord. No. 6166, § 2, June 10, 1933; Ex. Ord. No. 6228, § 1, July 28, 1933; [Pub. L. 86–443][/us/pl/86/443], § 2, Apr. 22, 1960, [74 Stat. 82][/us/stat/74/82].)
 
  __Change of Name__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/act/1927-03-03/ch374/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch374%2Fs7
+[/us/act/1927-03-03/ch374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch374
 [/us/stat/44/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1400
-[/us/pl/86/443/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F443%2Fs2
+[/us/pl/86/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F443
 [/us/stat/74/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F82
 [/us/pl/86/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F443
 [/us/usc/t16/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs426

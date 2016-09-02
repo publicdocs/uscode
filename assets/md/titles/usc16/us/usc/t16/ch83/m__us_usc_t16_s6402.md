@@ -39,7 +39,7 @@
 
         (8) conservation, including how the use of marine protected areas to serve as replenishment zones will be developed consistent with local practices and traditions.
 
-([Pub. L. 106–562, title II, § 203][/us/pl/106/562/s203], Dec. 23, 2000, [114 Stat. 2800][/us/stat/114/2800].)
+([Pub. L. 106–562, title II][/us/pl/106/562/tII], § 203, Dec. 23, 2000, [114 Stat. 2800][/us/stat/114/2800].)
 
  __References in Text__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/106/562/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs203
+[/us/pl/106/562/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2FtII
 [/us/stat/114/2800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2800
 [/us/usc/t16/s6401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6401
 

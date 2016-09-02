@@ -55,7 +55,7 @@
 
         The Secretary shall undertake the activities described in subsection (b) of this section, in countries that receive assistance from the Agency for International Development only at the request, or with the concurrence, of the Administrator of the Agency for International Development.
 
-([Pub. L. 101–513, title VI, § 602][/us/pl/101/513/s602], Nov. 5, 1990, [104 Stat. 2070][/us/stat/104/2070]; [Pub. L. 102–574, § 2(b)(1)][/us/pl/102/574/s2/b/1], Oct. 29, 1992, [106 Stat. 4596][/us/stat/106/4596].)
+([Pub. L. 101–513, title VI][/us/pl/101/513/tVI], § 602, Nov. 5, 1990, [104 Stat. 2070][/us/stat/104/2070]; [Pub. L. 102–574][/us/pl/102/574], § 2(b)(1), Oct. 29, 1992, [106 Stat. 4596][/us/stat/106/4596].)
 
  __References in Text__ 
 
@@ -67,13 +67,13 @@
 
  __Short Title of 1992 Amendment__ 
 
-[Pub. L. 102–574, § 1][/us/pl/102/574/s1], Oct. 29, 1992, [106 Stat. 4593][/us/stat/106/4593], provided that: 
+[Pub. L. 102–574][/us/pl/102/574], § 1, Oct. 29, 1992, [106 Stat. 4593][/us/stat/106/4593], provided that: 
 
 > “This Act \[enacting sections 4502a and 4503a to 4503d of this title, amending this section and [section 4503 of this title][/us/usc/t16/s4503], and enacting provisions set out as notes under sections 4502a and 4503a of this title\] may be cited as the ‘Hawaii Tropical Forest Recovery Act’.”
 
  __Short Title__ 
 
-[Pub. L. 101–513, title VI, § 601][/us/pl/101/513/s601], Nov. 5, 1990, [104 Stat. 2070][/us/stat/104/2070], provided that: 
+[Pub. L. 101–513, title VI][/us/pl/101/513/tVI], § 601, Nov. 5, 1990, [104 Stat. 2070][/us/stat/104/2070], provided that: 
 
 > “This title \[enacting this chapter and amending sections 1641, 1643, 2101, and 2109 of this title\] may be cited as the ‘International Forestry Cooperation Act of 1990’.”
 
@@ -84,17 +84,17 @@
 ----------
 ----------
 
-[/us/pl/101/513/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs602
+[/us/pl/101/513/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtVI
 [/us/stat/104/2070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2070
-[/us/pl/102/574/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F574%2Fs2%2Fb%2F1
+[/us/pl/102/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F574
 [/us/stat/106/4596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4596
 [/us/pl/101/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513
 [/us/stat/104/2070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2070
 [/us/pl/102/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F574
-[/us/pl/102/574/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F574%2Fs1
+[/us/pl/102/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F574
 [/us/stat/106/4593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4593
 [/us/usc/t16/s4503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4503
-[/us/pl/101/513/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs601
+[/us/pl/101/513/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtVI
 [/us/stat/104/2070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2070
 
 

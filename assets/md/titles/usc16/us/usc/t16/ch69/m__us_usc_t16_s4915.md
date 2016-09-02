@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the Secretary $5,000,000 for each of the fiscal years 1993, 1994, and 1995 to carry out this chapter, to remain available until expended.
 
-([Pub. L. 102–440, title I, § 116][/us/pl/102/440/s116], Oct. 23, 1992, [106 Stat. 2233][/us/stat/106/2233].)
+([Pub. L. 102–440, title I][/us/pl/102/440/tI], § 116, Oct. 23, 1992, [106 Stat. 2233][/us/stat/106/2233].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/440/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2Fs116
+[/us/pl/102/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2FtI
 [/us/stat/106/2233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2233
 
 

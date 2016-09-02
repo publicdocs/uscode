@@ -17,7 +17,7 @@
 
     The Secretary is authorized to conduct surveys, investigations, and research relating to the conditions and factors affecting, and methods of accomplishing most effectively, the policy and purposes of [section 590g(a) of this title][/us/usc/t16/s590g/a]. Notwithstanding any provision of existing law, the Secretary is authorized to make public such information as he deems necessary to carry out the provisions of this chapter.
 
-([Apr. 27, 1935, ch. 85, § 9][/us/act/1935-04-27/ch85/s9], as added [Feb. 29, 1936, ch. 104, § 1][/us/act/1936-02-29/ch104/s1], [49 Stat. 1150][/us/stat/49/1150]; amended [June 28, 1937, ch. 395, § 2][/us/act/1937-06-28/ch395/s2], [50 Stat. 329][/us/stat/50/329]; [Pub. L. 97–375, title I, § 103(c)][/us/pl/97/375/s103/c], Dec. 21, 1982, [96 Stat. 1819][/us/stat/96/1819].)
+([Apr. 27, 1935, ch. 85][/us/act/1935-04-27/ch85], § 9, as added [Feb. 29, 1936, ch. 104][/us/act/1936-02-29/ch104], § 1, [49 Stat. 1150][/us/stat/49/1150]; amended [June 28, 1937, ch. 395][/us/act/1937-06-28/ch395], § 2, [50 Stat. 329][/us/stat/50/329]; [Pub. L. 97–375, title I][/us/pl/97/375/tI], § 103(c), Dec. 21, 1982, [96 Stat. 1819][/us/stat/96/1819].)
 
  __Amendments__ 
 
@@ -37,12 +37,12 @@
 ----------
 
 [/us/usc/t16/s590g/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590g%2Fa
-[/us/act/1935-04-27/ch85/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-04-27%2Fch85%2Fs9
-[/us/act/1936-02-29/ch104/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-02-29%2Fch104%2Fs1
+[/us/act/1935-04-27/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-04-27%2Fch85
+[/us/act/1936-02-29/ch104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-02-29%2Fch104
 [/us/stat/49/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1150
-[/us/act/1937-06-28/ch395/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-28%2Fch395%2Fs2
+[/us/act/1937-06-28/ch395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-28%2Fch395
 [/us/stat/50/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F329
-[/us/pl/97/375/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2Fs103%2Fc
+[/us/pl/97/375/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2FtI
 [/us/stat/96/1819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1819
 [/us/pl/97/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375
 [/us/usc/t16/s590a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590a

@@ -21,7 +21,7 @@
 
     The determination made by the Secretary having jurisdiction upon the proposals considered at any such hearing, which determination may include the modification of the terms of such proposals, together with the minutes or other record of the hearing, shall be available for public inspection during the life of any coordinated plan of management or agreement entered into in consequence of such determination.
 
-([Mar. 29, 1944, ch. 146, § 5][/us/act/1944-03-29/ch146/s5], [58 Stat. 133][/us/stat/58/133]; [Pub. L. 86–507, § 1(17)][/us/pl/86/507/s1/17], June 11, 1960, [74 Stat. 201][/us/stat/74/201].)
+([Mar. 29, 1944, ch. 146][/us/act/1944-03-29/ch146], § 5, [58 Stat. 133][/us/stat/58/133]; [Pub. L. 86–507][/us/pl/86/507], § 1(17), June 11, 1960, [74 Stat. 201][/us/stat/74/201].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/act/1944-03-29/ch146/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-03-29%2Fch146%2Fs5
+[/us/act/1944-03-29/ch146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-03-29%2Fch146
 [/us/stat/58/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F133
-[/us/pl/86/507/s1/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507%2Fs1%2F17
+[/us/pl/86/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507
 [/us/stat/74/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F201
 [/us/pl/86/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507
 

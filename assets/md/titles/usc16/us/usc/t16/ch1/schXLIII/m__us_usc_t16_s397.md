@@ -117,7 +117,7 @@ parcel 3
 
         The Secretary of the Interior is authorized to acquire approximately 159 acres of lands and interests therein within the area identified as “Parcel B” on the map referenced in subsection (b). Upon the acquisition of such lands or interests therein, the Secretary shall modify the boundaries of Puʻuhonua o Ho̅naunau National Historical Park to include such lands or interests therein.
 
-([July 26, 1955, ch. 385, § 1][/us/act/1955-07-26/ch385/s1], [69 Stat. 376][/us/stat/69/376]; [Pub. L. 95–625, title III, § 305][/us/pl/95/625/s305], Nov. 10, 1978, [92 Stat. 3477][/us/stat/92/3477]; [Pub. L. 106–510, § 3(d)(1)][/us/pl/106/510/s3/d/1], Nov. 13, 2000, [114 Stat. 2364][/us/stat/114/2364]; [Pub. L. 107–340, § 2][/us/pl/107/340/s2], Dec. 16, 2002, [116 Stat. 2889][/us/stat/116/2889].)
+([July 26, 1955, ch. 385][/us/act/1955-07-26/ch385], § 1, [69 Stat. 376][/us/stat/69/376]; [Pub. L. 95–625, title III][/us/pl/95/625/tIII], § 305, Nov. 10, 1978, [92 Stat. 3477][/us/stat/92/3477]; [Pub. L. 106–510][/us/pl/106/510], § 3(d)(1), Nov. 13, 2000, [114 Stat. 2364][/us/stat/114/2364]; [Pub. L. 107–340][/us/pl/107/340], § 2, Dec. 16, 2002, [116 Stat. 2889][/us/stat/116/2889].)
 
  __Amendments__ 
 
@@ -129,13 +129,13 @@ parcel 3
 
  __Change of Name__ 
 
-[Pub. L. 106–510, § 3(d)(2)][/us/pl/106/510/s3/d/2], Nov. 13, 2000, [114 Stat. 2364][/us/stat/114/2364], provided that: 
+[Pub. L. 106–510][/us/pl/106/510], § 3(d)(2), Nov. 13, 2000, [114 Stat. 2364][/us/stat/114/2364], provided that: 
 
 > “Any reference in any law (other than this Act \[see Short Title of 2000 Amendments note set out under [section 1 of this title][/us/usc/t16/s1]\]), regulation, document, record, map, or other paper of the United States to ‘Puuhonua o Honaunau National Historical Park\[’\] shall be considered a reference to ‘Puʻuhonua o Ho̅naunau National Historical Park’.”
 
  __Short Title of 2002 Amendment__ 
 
-[Pub. L. 107–340, § 1][/us/pl/107/340/s1], Dec. 16, 2002, [116 Stat. 2889][/us/stat/116/2889], provided that: 
+[Pub. L. 107–340][/us/pl/107/340], § 1, Dec. 16, 2002, [116 Stat. 2889][/us/stat/116/2889], provided that: 
 
 > “This Act \[amending this section\] may be cited as the ‘Puʻuhonua o Ho̅naunau National Historical Park Addition Act of 2002’.”
 
@@ -150,21 +150,21 @@ parcel 3
 ----------
 ----------
 
-[/us/act/1955-07-26/ch385/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-26%2Fch385%2Fs1
+[/us/act/1955-07-26/ch385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-26%2Fch385
 [/us/stat/69/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F376
-[/us/pl/95/625/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs305
+[/us/pl/95/625/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtIII
 [/us/stat/92/3477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3477
-[/us/pl/106/510/s3/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510%2Fs3%2Fd%2F1
+[/us/pl/106/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510
 [/us/stat/114/2364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2364
-[/us/pl/107/340/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F340%2Fs2
+[/us/pl/107/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F340
 [/us/stat/116/2889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2889
 [/us/pl/107/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F340
 [/us/pl/106/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510
 [/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
-[/us/pl/106/510/s3/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510%2Fs3%2Fd%2F2
+[/us/pl/106/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510
 [/us/stat/114/2364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2364
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
-[/us/pl/107/340/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F340%2Fs1
+[/us/pl/107/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F340
 [/us/stat/116/2889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2889
 [/us/pl/86/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F3
 [/us/stat/73/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F4

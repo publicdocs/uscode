@@ -17,7 +17,7 @@
 
     The Secretary shall administer, protect, and develop the Buffalo National River in accordance with the provisions of the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]; [16 U.S.C. 1][/us/usc/t16/s1] et seq.), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended and supplemented; except that any other statutory authority available to the Secretary for the conservation and management of natural resources may be utilized to the extent he finds such authority will further the purposes of this subchapter.
 
-([Pub. L. 92–237, § 5][/us/pl/92/237/s5], Mar. 1, 1972, [86 Stat. 45][/us/stat/86/45].)
+([Pub. L. 92–237][/us/pl/92/237], § 5, Mar. 1, 1972, [86 Stat. 45][/us/stat/86/45].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
-[/us/pl/92/237/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F237%2Fs5
+[/us/pl/92/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F237
 [/us/stat/86/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F45
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1

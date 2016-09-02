@@ -27,7 +27,7 @@
 
         The terms and conditions referred to in this section shall be included in any license, permit, or exemption issued for any such new project. Any such new project shall be subject to all provisions of this Act, including [section 460ww–1(d) of this title][/us/usc/t16/s460ww–1/d], except that during the four-year period after October 26, 1988, nothing in this Act shall prohibit the licensing of a project adjacent to Summersville Dam as proposed by the city of Summersville, or by any competing project applicant with a permit or license application on file as of August 8, 1988, if such project complies with this section. If such project is licensed within such four-year period, the Secretary shall modify the boundary map referred to in [section 460ww of this title][/us/usc/t16/s460ww] to relocate the upstream boundary of the recreation area along a line perpendicular to the river crossing the point five hundred and fifty feet downstream of the existing valve house and one thousand two hundred feet (measured along the river bank) upstream of United States Geological Survey Gauge Numbered 03189600, except in making the modification the Secretary shall maintain within the boundary of the recreation area those lands identified in the boundary map referred to in [section 460ww of this title][/us/usc/t16/s460ww] which are not necessary to the operation of such project. If project construction is not commenced within the time required in such license, or if such license is surrendered at any time, such boundary modification shall cease to have any force and effect.
 
-([Pub. L. 100–534, title II, § 205][/us/pl/100/534/s205], Oct. 26, 1988, [102 Stat. 2704][/us/stat/102/2704]; [Pub. L. 104–333, div. I, title IV, § 406(c)(1)][/us/pl/104/333/s406/c/1], Nov. 12, 1996, [110 Stat. 4150][/us/stat/110/4150].)
+([Pub. L. 100–534, title II][/us/pl/100/534/tII], § 205, Oct. 26, 1988, [102 Stat. 2704][/us/stat/102/2704]; [Pub. L. 104–333, div. I, title IV][/us/pl/104/333/dI/tIV], § 406(c)(1), Nov. 12, 1996, [110 Stat. 4150][/us/stat/110/4150].)
 
  __References in Text__ 
 
@@ -47,9 +47,9 @@
 [/us/usc/t16/s460ww–1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460ww%E2%80%931%2Fd
 [/us/usc/t16/s460ww]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460ww
 [/us/usc/t16/s460ww]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460ww
-[/us/pl/100/534/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F534%2Fs205
+[/us/pl/100/534/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F534%2FtII
 [/us/stat/102/2704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2704
-[/us/pl/104/333/s406/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs406%2Fc%2F1
+[/us/pl/104/333/dI/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtIV
 [/us/stat/110/4150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4150
 [/us/pl/100/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F534
 [/us/stat/102/2699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2699

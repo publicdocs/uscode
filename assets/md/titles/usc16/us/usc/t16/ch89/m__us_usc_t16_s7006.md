@@ -27,7 +27,7 @@
 
         (2) with the concurrence of the Secretary of State, may cooperate with officials of the Canadian Government duly authorized to carry out the Agreement.
 
-([Pub. L. 109–479, title VI, § 607][/us/pl/109/479/s607], Jan. 12, 2007, [120 Stat. 3646][/us/stat/120/3646].)
+([Pub. L. 109–479, title VI][/us/pl/109/479/tVI], § 607, Jan. 12, 2007, [120 Stat. 3646][/us/stat/120/3646].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/109/479/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs607
+[/us/pl/109/479/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtVI
 [/us/stat/120/3646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3646
 
 

@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs832" data-uslm-ref="/us/usc/t16/s832">832</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs832l" data-uslm-ref="/us/usc/t16/s832l">832l.</a>  </td>
 
     <td> Separability.  </td>
 

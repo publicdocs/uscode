@@ -29,7 +29,7 @@
 
         Nothing in this chapter shall be construed as affecting the jurisdiction or responsibilities of the States with respect to fish and wildlife.
 
-([Pub. L. 100–691, § 10][/us/pl/100/691/s10], Nov. 18, 1988, [102 Stat. 4551][/us/stat/102/4551].)
+([Pub. L. 100–691][/us/pl/100/691], § 10, Nov. 18, 1988, [102 Stat. 4551][/us/stat/102/4551].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/100/691/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F691%2Fs10
+[/us/pl/100/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F691
 [/us/stat/102/4551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4551
 
 

@@ -59,7 +59,7 @@
 
             (D) with respect to a permit or lease issued to a corporation or other legal entity, for a period which shall terminate on the same date that the last permit or lease held under subparagraphs (A), (B), or (C) terminates, unless the corporation or legal entity dissolves or terminates before such time, in which case the permit or lease shall terminate with the corporation or legal entity.
 
-([Pub. L. 106–76, § 4][/us/pl/106/76/s4], Oct. 21, 1999, [113 Stat. 1127][/us/stat/113/1127]; [Pub. L. 108–128][/us/pl/108/128], §§ 2(a), 4, Nov. 17, 2003, [117 Stat. 1355][/us/stat/117/1355], 1356.)
+([Pub. L. 106–76][/us/pl/106/76], § 4, Oct. 21, 1999, [113 Stat. 1127][/us/stat/113/1127]; [Pub. L. 108–128][/us/pl/108/128], §§ 2(a), 4, Nov. 17, 2003, [117 Stat. 1355][/us/stat/117/1355], 1356.)
 
  __References in Text__ 
 
@@ -77,11 +77,11 @@
 
  __Amendments__ 
 
-    2003—Subsec. (a). [Pub. L. 108–128, § 2(a)][/us/pl/108/128/s2/a], designated existing provisions as par. (1) and added par. (2).
+    2003—Subsec. (a). [Pub. L. 108–128][/us/pl/108/128], § 2(a), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (e)(1)(D). [Pub. L. 108–128, § 4(a)][/us/pl/108/128/s4/a], added subpar. (D). See Codification note above.
+    Subsec. (e)(1)(D). [Pub. L. 108–128][/us/pl/108/128], § 4(a), added subpar. (D). See Codification note above.
 
-    Subsec. (e)(3). [Pub. L. 108–128, § 4(b)][/us/pl/108/128/s4/b], added subpars. (B) and (C), redesignated former subpar. (B) as (D), and, in subpar. (D), substituted “corporation or” for “partnership, corporation, or” in three places and “subparagraphs (A), (B), or (C)” for “subparagraph (A)”. See Codification note above.
+    Subsec. (e)(3). [Pub. L. 108–128][/us/pl/108/128], § 4(b), added subpars. (B) and (C), redesignated former subpar. (B) as (D), and, in subpar. (D), substituted “corporation or” for “partnership, corporation, or” in three places and “subparagraphs (A), (B), or (C)” for “subparagraph (A)”. See Codification note above.
 
  __Change of Name__ 
 
@@ -89,13 +89,13 @@
 
  __Transfer of Administrative Jurisdiction__ 
 
-[Pub. L. 108–128, § 2(b)][/us/pl/108/128/s2/b], Nov. 17, 2003, [117 Stat. 1355][/us/stat/117/1355], provided that: 
+[Pub. L. 108–128][/us/pl/108/128], § 2(b), Nov. 17, 2003, [117 Stat. 1355][/us/stat/117/1355], provided that: 
 
 > “On the date of enactment of this Act \[Nov. 17, 2003\], the Secretary shall transfer the land under the jurisdiction of the Bureau of Land Management identified as ‘Tract C’ on the map described in subsection (a)(2) \[amending this section\] to the administrative jurisdiction of the National Park Service for inclusion in the Black Canyon of the Gunnison National Park.”
 
  __Access to Water Delivery Facilities__ 
 
-[Pub. L. 108–128, § 5][/us/pl/108/128/s5], Nov. 17, 2003, [117 Stat. 1357][/us/stat/117/1357], provided that: 
+[Pub. L. 108–128][/us/pl/108/128], § 5, Nov. 17, 2003, [117 Stat. 1357][/us/stat/117/1357], provided that: 
 
 > “The Commissioner of Reclamation shall retain administrative jurisdiction over the Crystal Dam Access Road and land, facilities, and roads of the Bureau of Reclamation in the East Portal area, including the Gunnison Tunnel, and the Crystal Dam area, as depicted on the map entitled ‘Black Canyon of the Gunnison National Park and Gunnison Gorge NCA Boundary Modifications’, and dated April 2, 2003, for the maintenance, repair, construction, replacement, and operation of any facilities relating to the delivery of water and power under the jurisdiction of the Bureau of Reclamation.”
 
@@ -111,7 +111,7 @@
 [/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
 [/us/usc/t16/s410fff–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410fff%E2%80%933%2Fa
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
-[/us/pl/106/76/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F76%2Fs4
+[/us/pl/106/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F76
 [/us/stat/113/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1127
 [/us/pl/108/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F128
 [/us/stat/117/1355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1355
@@ -135,12 +135,12 @@
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
 [/us/pl/108/128/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F128%2Fs4
-[/us/pl/108/128/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F128%2Fs2%2Fa
-[/us/pl/108/128/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F128%2Fs4%2Fa
-[/us/pl/108/128/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F128%2Fs4%2Fb
-[/us/pl/108/128/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F128%2Fs2%2Fb
+[/us/pl/108/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F128
+[/us/pl/108/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F128
+[/us/pl/108/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F128
+[/us/pl/108/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F128
 [/us/stat/117/1355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1355
-[/us/pl/108/128/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F128%2Fs5
+[/us/pl/108/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F128
 [/us/stat/117/1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1357
 
 

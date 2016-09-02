@@ -27,7 +27,7 @@
 
         A conviction under subsection (a) for any act shall not be deemed to preclude a conviction for such act under any other law, including, but not limited to, the Marine Mammal Protection Act of 1972 \[[16 U.S.C. 1361][/us/usc/t16/s1361] et seq.\], the Endangered Species Act of 1973 \[[16 U.S.C. 1531][/us/usc/t16/s1531] et seq.\], and the Migratory Bird Treaty Act \[[16 U.S.C. 703][/us/usc/t16/s703] et seq.\].
 
-([Pub. L. 95–541, § 9][/us/pl/95/541/s9], Oct. 28, 1978, [92 Stat. 2054][/us/stat/92/2054].)
+([Pub. L. 95–541][/us/pl/95/541], § 9, Oct. 28, 1978, [92 Stat. 2054][/us/stat/92/2054].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 [/us/usc/t16/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1361
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/usc/t16/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs703
-[/us/pl/95/541/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F541%2Fs9
+[/us/pl/95/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F541
 [/us/stat/92/2054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2054
 [/us/pl/92/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522
 [/us/stat/86/1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1027

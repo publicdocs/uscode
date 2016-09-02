@@ -77,7 +77,7 @@
 
         There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-([Pub. L. 95–313, § 3][/us/pl/95/313/s3], July 1, 1978, [92 Stat. 366][/us/stat/92/366]; [Pub. L. 101–624, title XII, § 1213][/us/pl/101/624/s1213], Nov. 28, 1990, [104 Stat. 3523][/us/stat/104/3523].)
+([Pub. L. 95–313][/us/pl/95/313], § 3, July 1, 1978, [92 Stat. 366][/us/stat/92/366]; [Pub. L. 101–624, title XII][/us/pl/101/624/tXII], § 1213, Nov. 28, 1990, [104 Stat. 3523][/us/stat/104/3523].)
 
  __Amendments__ 
 
@@ -90,9 +90,9 @@
 ----------
 ----------
 
-[/us/pl/95/313/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313%2Fs3
+[/us/pl/95/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313
 [/us/stat/92/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F366
-[/us/pl/101/624/s1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1213
+[/us/pl/101/624/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXII
 [/us/stat/104/3523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3523
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 

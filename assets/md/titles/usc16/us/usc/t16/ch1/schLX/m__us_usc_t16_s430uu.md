@@ -17,7 +17,7 @@
 
     The Big Hole Battlefield National Monument, established by Executive Order Numbered 1216 of June 23, 1910, and enlarged by Proclamation Numbered 2339 of June 29, 1939, is hereby redesignated as the Big Hole National Battlefield.
 
-([Pub. L. 88–24, § 1][/us/pl/88/24/s1], May 17, 1963, [77 Stat. 18][/us/stat/77/18].)
+([Pub. L. 88–24][/us/pl/88/24], § 1, May 17, 1963, [77 Stat. 18][/us/stat/77/18].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/88/24/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F24%2Fs1
+[/us/pl/88/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F24
 [/us/stat/77/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F18
 [/us/stat/53/2544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F2544
 

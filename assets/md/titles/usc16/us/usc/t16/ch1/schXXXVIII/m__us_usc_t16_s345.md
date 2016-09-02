@@ -17,7 +17,7 @@
 
     The administration, protection, and promotion of said Zion National Park shall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of the Act of August 25, 1916, entitled “An Act to establish a National Park Service, and for other purposes,”  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and Acts additional thereto or amendatory thereof.
 
-([Nov. 19, 1919, ch. 110, § 2][/us/act/1919-11-19/ch110/s2], [41 Stat. 356][/us/stat/41/356].)
+([Nov. 19, 1919, ch. 110][/us/act/1919-11-19/ch110], § 2, [41 Stat. 356][/us/stat/41/356].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/act/1919-11-19/ch110/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-11-19%2Fch110%2Fs2
+[/us/act/1919-11-19/ch110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-11-19%2Fch110
 [/us/stat/41/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F356
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535

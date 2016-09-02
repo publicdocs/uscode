@@ -27,7 +27,7 @@
 
         The Secretary may request and secure the advice or assistance of any department or agency of the Government in carrying out the provisions of this Act, and any such department or agency which furnishes advice or assistance to the Secretary may expend its own funds for such purposes, with or without reimbursement from the Secretary as may be agreed upon between the Secretary and the department or agency.
 
-([Aug. 8, 1956, ch. 1036, § 6][/us/act/1956-08-08/ch1036/s6], [70 Stat. 1122][/us/stat/70/1122]; 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, [84 Stat. 2085][/us/stat/84/2085].)
+([Aug. 8, 1956, ch. 1036][/us/act/1956-08-08/ch1036], § 6, [70 Stat. 1122][/us/stat/70/1122]; 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, [84 Stat. 2085][/us/stat/84/2085].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/act/1956-08-08/ch1036/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1036%2Fs6
+[/us/act/1956-08-08/ch1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1036
 [/us/stat/70/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1122
 [/us/stat/84/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2085
 [/us/act/1956-08-08/ch1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1036

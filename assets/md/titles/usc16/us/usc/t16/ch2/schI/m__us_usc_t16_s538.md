@@ -17,7 +17,7 @@
 
     Whenever the agreement under which the United States has obtained for the use of, or in connection with, the national forests and other lands administered by the Forest Service a right-of-way or easement for a road or an existing road or the right to use an existing road provides for delayed payments to the Government’s grantor, any fees or other collections received by the Secretary for the use of the road may be placed in a fund to be available for making payments to the grantor.
 
-([Pub. L. 88–657, § 7][/us/pl/88/657/s7], Oct. 13, 1964, [78 Stat. 1090][/us/stat/78/1090].)
+([Pub. L. 88–657][/us/pl/88/657], § 7, Oct. 13, 1964, [78 Stat. 1090][/us/stat/78/1090].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/657/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F657%2Fs7
+[/us/pl/88/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F657
 [/us/stat/78/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1090
 
 

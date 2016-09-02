@@ -31,11 +31,11 @@
 
     there is hereby established the Channel Islands National Park, the boundaries of which shall include San Miguel and Prince Islands, Santa Rosa, Santa Cruz, Anacapa, and Santa Barbara Islands, including the rocks, islets, submerged lands, and waters within one nautical mile of each island, as depicted on the map entitled, “Proposed Channel Islands National Park” numbered 159–20,008 and dated April 1979, which shall be on file and available for public inspection in the offices of the Superintendent of the park and the Director of the National Park Service, Department of the Interior. The Channel Islands National Monument is hereby abolished as such, and the lands, waters, and interests therein withdrawn or reserved for the monument are hereby incorporated within and made a part of the new Channel Islands National Park.
 
-([Pub. L. 96–199, title II, § 201][/us/pl/96/199/s201], Mar. 5, 1980, [94 Stat. 74][/us/stat/94/74].)
+([Pub. L. 96–199, title II][/us/pl/96/199/tII], § 201, Mar. 5, 1980, [94 Stat. 74][/us/stat/94/74].)
 
  __Robert J. Lagomarsino Visitor Center__ 
 
-[Pub. L. 104–333, div. I, title VIII, § 809][/us/pl/104/333/s809], Nov. 12, 1996, [110 Stat. 4189][/us/stat/110/4189], as amended by [Pub. L. 106–176, title I, § 119][/us/pl/106/176/s119], Mar. 10, 2000, [114 Stat. 28][/us/stat/114/28], provided that:
+[Pub. L. 104–333, div. I, title VIII][/us/pl/104/333/dI/tVIII], § 809, Nov. 12, 1996, [110 Stat. 4189][/us/stat/110/4189], as amended by [Pub. L. 106–176, title I][/us/pl/106/176/tI], § 119, Mar. 10, 2000, [114 Stat. 28][/us/stat/114/28], provided that:
 
 >     “(a)  __Designation__  __.—__ 
 
@@ -45,7 +45,7 @@
 
 >     Any reference in any law, regulation, document, record, map, or other document of the United States to the visitor center referred to in subsection (a) is deemed to be a reference to the ‘Robert J. Lagomarsino Visitor Center’.”
 
-    Similar provisions were contained in [Pub. L. 104–208, div. A, title I, § 101(d)][/us/pl/104/208/s101/d] \[title I, § 125\], Sept. 30, 1996, [110 Stat. 3009–181][/us/stat/110/3009-181], 3009–204.
+    Similar provisions were contained in [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(d) \[title I, § 125\], Sept. 30, 1996, [110 Stat. 3009–181][/us/stat/110/3009-181], 3009–204.
 
 ----------
 
@@ -54,13 +54,13 @@
 ----------
 ----------
 
-[/us/pl/96/199/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199%2Fs201
+[/us/pl/96/199/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199%2FtII
 [/us/stat/94/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F74
-[/us/pl/104/333/s809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs809
+[/us/pl/104/333/dI/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtVIII
 [/us/stat/110/4189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4189
-[/us/pl/106/176/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2Fs119
+[/us/pl/106/176/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F176%2FtI
 [/us/stat/114/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F28
-[/us/pl/104/208/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fd
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-181
 
 

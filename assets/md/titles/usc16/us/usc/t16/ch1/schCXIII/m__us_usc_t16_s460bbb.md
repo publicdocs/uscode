@@ -27,11 +27,11 @@
 
     (5) protection of the Smith River’s unique values can be enhanced by a cooperative effort by Federal, State and local governments to coordinate land-use planning, management, and development of Federal and non-Federal lands throughout the watershed.
 
-([Pub. L. 101–612, § 2][/us/pl/101/612/s2], Nov. 16, 1990, [104 Stat. 3209][/us/stat/104/3209].)
+([Pub. L. 101–612][/us/pl/101/612], § 2, Nov. 16, 1990, [104 Stat. 3209][/us/stat/104/3209].)
 
  __Short Title__ 
 
-[Pub. L. 101–612, § 1][/us/pl/101/612/s1], Nov. 16, 1990, [104 Stat. 3209][/us/stat/104/3209], provided that: 
+[Pub. L. 101–612][/us/pl/101/612], § 1, Nov. 16, 1990, [104 Stat. 3209][/us/stat/104/3209], provided that: 
 
 > “Sections 1 through 14 of this Act \[enacting this subchapter, amending [section 1274 of this title][/us/usc/t16/s1274], and enacting provisions set out as a note under [section 460bbb–7 of this title][/us/usc/t16/s460bbb–7]\] may be cited as the ‘Smith River National Recreation Area Act’.”
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/101/612/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612%2Fs2
+[/us/pl/101/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612
 [/us/stat/104/3209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3209
-[/us/pl/101/612/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612%2Fs1
+[/us/pl/101/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612
 [/us/stat/104/3209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3209
 [/us/usc/t16/s1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1274
 [/us/usc/t16/s460bbb–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460bbb%E2%80%937

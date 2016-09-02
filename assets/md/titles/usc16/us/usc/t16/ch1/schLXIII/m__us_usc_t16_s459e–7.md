@@ -23,7 +23,7 @@
 
         The Secretary shall also contribute the necessary land which may be required at any future date for the construction of one new inlet across Fire Island in such location as may be feasible in accordance with plans for such an inlet which are mutually acceptable to the Secretary of the Interior and the Secretary of the Army and that is consistent with the purposes of sections 459e to 459e–9 of this title.
 
-([Pub. L. 88–587, § 8][/us/pl/88/587/s8], Sept. 11, 1964, [78 Stat. 932][/us/stat/78/932].)
+([Pub. L. 88–587][/us/pl/88/587], § 8, Sept. 11, 1964, [78 Stat. 932][/us/stat/78/932].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/88/587/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F587%2Fs8
+[/us/pl/88/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F587
 [/us/stat/78/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F932
 
 

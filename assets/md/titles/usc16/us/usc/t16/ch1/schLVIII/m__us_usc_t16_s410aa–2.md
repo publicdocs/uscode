@@ -17,7 +17,7 @@
 
     When the Secretary determines that lands and interests therein have been acquired in an amount sufficient to constitute an administerable  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “administrable”. </sup></sup>  unit, he shall establish the park by publication of a notice to that effect in the Federal Register: Provided, That the park shall not be established until the Secretary receives commitments which he deems to be sufficient from the Commonwealth of Pennsylvania that the appropriations made by acts 320 and 352 of 1974, and act 12A of 1975, of the Legislature of the Commonwealth of Pennsylvania, will continue to be available and obligated for development purposes within the park. The Secretary shall administer the property acquired for such park in accordance with the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]), <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  as amended and supplemented, and the Act of August 21, 1935 ([49 Stat. 666][/us/stat/49/666]), <sup>\[2\]</sup>  as amended. In furtherance of the purposes of this subchapter, the Secretary is authorized to provide technical assistance to public and private nonprofit entities in qualifying for appropriate historical designation and for such grants, other financial assistance, and other forms of aid as are available under Federal, State, or local law for the protection, rehabilitation, or preservation of properties in the vicinity of the park which are historically related to the purposes of the park.
 
-([Pub. L. 94–337, § 3][/us/pl/94/337/s3], July 4, 1976, [90 Stat. 797][/us/stat/90/797]; [Pub. L. 96–287, title III, § 301(2)][/us/pl/96/287/s301/2], June 28, 1980, [94 Stat. 601][/us/stat/94/601].)
+([Pub. L. 94–337][/us/pl/94/337], § 3, July 4, 1976, [90 Stat. 797][/us/stat/90/797]; [Pub. L. 96–287, title III][/us/pl/96/287/tIII], § 301(2), June 28, 1980, [94 Stat. 601][/us/stat/94/601].)
 
  __References in Text__ 
 
@@ -38,9 +38,9 @@
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
-[/us/pl/94/337/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F337%2Fs3
+[/us/pl/94/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F337
 [/us/stat/90/797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F797
-[/us/pl/96/287/s301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F287%2Fs301%2F2
+[/us/pl/96/287/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F287%2FtIII
 [/us/stat/94/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F601
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408

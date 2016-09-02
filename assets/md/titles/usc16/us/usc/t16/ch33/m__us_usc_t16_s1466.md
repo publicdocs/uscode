@@ -17,7 +17,7 @@
 
     For any Federal administrative agency proceeding that is an appeal or review under section 319 of the Coastal Zone Management Act of 1972 ([16 U.S.C. 1465][/us/usc/t16/s1465]) related to any Federal authorization for the permitting, approval, or other authorization of an energy project, the lead Federal permitting agency for the project shall, with the cooperation of Federal and State administrative agencies, maintain a consolidated record of all decisions made or actions taken by the lead agency or by another Federal or State administrative agency or officer. Such record shall be the initial record for appeals or reviews under that Act, provided that the record may be supplemented as expressly provided pursuant to section 319 of that Act.
 
-([Pub. L. 109–58, title III, § 382][/us/pl/109/58/s382], Aug. 8, 2005, [119 Stat. 738][/us/stat/119/738].)
+([Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 382, Aug. 8, 2005, [119 Stat. 738][/us/stat/119/738].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t16/s1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1465
-[/us/pl/109/58/s382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs382
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F738
 [/us/pl/89/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454
 [/us/pl/92/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F583

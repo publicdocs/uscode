@@ -65,7 +65,7 @@
 
         There are hereby authorized to be appropriated not to exceed $25,000,000 for acquisition and $1,000,000 for development.
 
-([Pub. L. 95–625, title V, § 505][/us/pl/95/625/s505], Nov. 10, 1978, [92 Stat. 3499][/us/stat/92/3499]; [Pub. L. 96–87, title IV, § 401(i)][/us/pl/96/87/s401/i], Oct. 12, 1979, [93 Stat. 666][/us/stat/93/666]; [Pub. L. 104–333, div. I, title V, § 503(b)][/us/pl/104/333/s503/b], Nov. 12, 1996, [110 Stat. 4155][/us/stat/110/4155]; [Pub. L. 106–510, § 3(c)(1)][/us/pl/106/510/s3/c/1], Nov. 13, 2000, [114 Stat. 2363][/us/stat/114/2363]; [Pub. L. 108–142, § 2][/us/pl/108/142/s2], Dec. 2, 2003, [117 Stat. 1875][/us/stat/117/1875]; [Pub. L. 111–11, title VII, § 7401][/us/pl/111/11/s7401], Mar. 30, 2009, [123 Stat. 1219][/us/stat/123/1219].)
+([Pub. L. 95–625, title V][/us/pl/95/625/tV], § 505, Nov. 10, 1978, [92 Stat. 3499][/us/stat/92/3499]; [Pub. L. 96–87, title IV][/us/pl/96/87/tIV], § 401(i), Oct. 12, 1979, [93 Stat. 666][/us/stat/93/666]; [Pub. L. 104–333, div. I, title V][/us/pl/104/333/dI/tV], § 503(b), Nov. 12, 1996, [110 Stat. 4155][/us/stat/110/4155]; [Pub. L. 106–510][/us/pl/106/510], § 3(c)(1), Nov. 13, 2000, [114 Stat. 2363][/us/stat/114/2363]; [Pub. L. 108–142][/us/pl/108/142], § 2, Dec. 2, 2003, [117 Stat. 1875][/us/stat/117/1875]; [Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7401, Mar. 30, 2009, [123 Stat. 1219][/us/stat/123/1219].)
 
  __References in Text__ 
 
@@ -79,9 +79,9 @@
 
     2003—Subsec. (a). [Pub. L. 108–142][/us/pl/108/142] designated existing provisions as par. (1), substituted “1978.” for “1978, which shall be on file and available for public inspection in the appropriate offices of the National Park Service, Department of the Interior.”, and added pars. (2) and (3).
 
-    2000—[Pub. L. 106–510, § 3(c)(1)(A)][/us/pl/106/510/s3/c/1/A], amended section catchline.
+    2000—[Pub. L. 106–510][/us/pl/106/510], § 3(c)(1)(A), amended section catchline.
 
-    Subsecs. (a), (c), (f)(1), (7). [Pub. L. 106–510, § 3(c)(1)(B)][/us/pl/106/510/s3/c/1/B], substituted “Kaloko-Honoko̅hau” for “Kaloko-Honokohau” wherever appearing.
+    Subsecs. (a), (c), (f)(1), (7). [Pub. L. 106–510][/us/pl/106/510], § 3(c)(1)(B), substituted “Kaloko-Honoko̅hau” for “Kaloko-Honokohau” wherever appearing.
 
     1996—Subsec. (f)(7). [Pub. L. 104–333][/us/pl/104/333] substituted “the date of enactment of the Na Hoa Pili Kaloko-Honokohau Re-establishment Act of 1996” for “the date of enactment of this Act”.
 
@@ -89,19 +89,19 @@
 
  __Change of Name__ 
 
-[Pub. L. 106–510, § 3(c)(2)][/us/pl/106/510/s3/c/2], Nov. 13, 2000, [114 Stat. 2364][/us/stat/114/2364], provided that: 
+[Pub. L. 106–510][/us/pl/106/510], § 3(c)(2), Nov. 13, 2000, [114 Stat. 2364][/us/stat/114/2364], provided that: 
 
 > “Any reference in any law (other than this Act \[see Short Title of 2000 Amendments note set out under [section 1 of this title][/us/usc/t16/s1]\]), regulation, document, record, map, or other paper of the United States to ‘Kaloko-Honokohau National Historical Park’ shall be considered a reference to ‘Kaloko-Honoko̅hau National Historical Park’.”
 
  __Short Title of 2003 Amendment__ 
 
-[Pub. L. 108–142, § 1][/us/pl/108/142/s1], Dec. 2, 2003, [117 Stat. 1875][/us/stat/117/1875], provided that: 
+[Pub. L. 108–142][/us/pl/108/142], § 1, Dec. 2, 2003, [117 Stat. 1875][/us/stat/117/1875], provided that: 
 
 > “This Act \[amending this section\] may be cited as the ‘Kaloko-Honoko̅hau National Historical Park Addition Act of 2003’.”
 
  __Extension of Kaloko-Honoko̅hau Advisory Commission__ 
 
-[Section 503(a) of title V of div. I of Pub. L. 104–333][/us/pl/104/333/s503/a], as amended by [Pub. L. 106–510, § 3(c)(2)][/us/pl/106/510/s3/c/2], Nov. 13, 2000, [114 Stat. 2364][/us/stat/114/2364], provided that: 
+[Section 503(a) of title V of div. I of Pub. L. 104–333][/us/pl/104/333/dI/tV/s503/a], as amended by [Pub. L. 106–510][/us/pl/106/510], § 3(c)(2), Nov. 13, 2000, [114 Stat. 2364][/us/stat/114/2364], provided that: 
 
 > “Notwithstanding [section 505(f)(7) of Public Law 95–625][/us/pl/95/625/s505/f/7] ([16 U.S.C. 396d(f)(7)][/us/usc/t16/s396d/f/7]), the Na Hoa Pili O Kaloko-Honoko̅hau, the Advisory Commission for Kaloko-Honoko̅hau National Historical Park, is hereby re-established in accordance with section 505(f), as amended by paragraph (2) of this subsection \[probably should be ‘subsection (b) of this section’, amending this section\].”
 
@@ -120,17 +120,17 @@
 [/us/usc/t16/s461–467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461%E2%80%93467
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
 [/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
-[/us/pl/95/625/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs505
+[/us/pl/95/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtV
 [/us/stat/92/3499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3499
-[/us/pl/96/87/s401/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F87%2Fs401%2Fi
+[/us/pl/96/87/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F87%2FtIV
 [/us/stat/93/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F666
-[/us/pl/104/333/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs503%2Fb
+[/us/pl/104/333/dI/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtV
 [/us/stat/110/4155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4155
-[/us/pl/106/510/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510%2Fs3%2Fc%2F1
+[/us/pl/106/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510
 [/us/stat/114/2363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2363
-[/us/pl/108/142/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F142%2Fs2
+[/us/pl/108/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F142
 [/us/stat/117/1875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1875
-[/us/pl/111/11/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7401
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1219
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s461–467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461%E2%80%93467
@@ -151,17 +151,17 @@
 [/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 [/us/pl/108/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F142
-[/us/pl/106/510/s3/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510%2Fs3%2Fc%2F1%2FA
-[/us/pl/106/510/s3/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510%2Fs3%2Fc%2F1%2FB
+[/us/pl/106/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510
+[/us/pl/106/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510
 [/us/pl/104/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333
 [/us/pl/96/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F87
-[/us/pl/106/510/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510%2Fs3%2Fc%2F2
+[/us/pl/106/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510
 [/us/stat/114/2364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2364
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
-[/us/pl/108/142/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F142%2Fs1
+[/us/pl/108/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F142
 [/us/stat/117/1875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1875
-[/us/pl/104/333/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs503%2Fa
-[/us/pl/106/510/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510%2Fs3%2Fc%2F2
+[/us/pl/104/333/dI/tV/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtV%2Fs503%2Fa
+[/us/pl/106/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510
 [/us/stat/114/2364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2364
 [/us/pl/95/625/s505/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs505%2Ff%2F7
 [/us/usc/t16/s396d/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs396d%2Ff%2F7

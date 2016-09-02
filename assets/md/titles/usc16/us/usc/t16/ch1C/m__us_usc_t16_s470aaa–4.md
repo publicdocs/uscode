@@ -17,7 +17,7 @@
 
     Any paleontological resource, and any data and records associated with the resource, collected under a permit, shall be deposited in an approved repository. The Secretary may enter into agreements with non-Federal repositories regarding the curation of these resources, data, and records.
 
-([Pub. L. 111–11, title VI, § 6305][/us/pl/111/11/s6305], Mar. 30, 2009, [123 Stat. 1174][/us/stat/123/1174].)
+([Pub. L. 111–11, title VI][/us/pl/111/11/tVI], § 6305, Mar. 30, 2009, [123 Stat. 1174][/us/stat/123/1174].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s6305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs6305
+[/us/pl/111/11/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVI
 [/us/stat/123/1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1174
 
 

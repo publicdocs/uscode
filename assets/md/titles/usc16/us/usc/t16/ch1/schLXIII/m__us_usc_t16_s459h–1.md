@@ -61,7 +61,7 @@
 
             The boundary of the seashore shall be modified to reflect the acquisition of land under this subsection only after completion of the acquisition.
 
-([Pub. L. 91–660, § 2][/us/pl/91/660/s2], Jan. 8, 1971, [84 Stat. 1967][/us/stat/84/1967]; [Pub. L. 92–275, § 1(1)][/us/pl/92/275/s1/1], Apr. 20, 1972, [86 Stat. 123][/us/stat/86/123]; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 137(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–231.)
+([Pub. L. 91–660][/us/pl/91/660], § 2, Jan. 8, 1971, [84 Stat. 1967][/us/stat/84/1967]; [Pub. L. 92–275][/us/pl/92/275], § 1(1), Apr. 20, 1972, [86 Stat. 123][/us/stat/86/123]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 137(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–231.)
 
  __References in Text__ 
 
@@ -71,9 +71,9 @@
 
  __Amendments__ 
 
-    2000—Subsec. (a). [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 137(b)(1)\], substituted “submerged land, land,” for “lands,” in first sentence.
+    2000—Subsec. (a). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 137(b)(1)\], substituted “submerged land, land,” for “lands,” in first sentence.
 
-    Subsec. (e). [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 137(b)(2)\], added subsec. (e).
+    Subsec. (e). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 137(b)(2)\], added subsec. (e).
 
     1972—Subsec. (a). [Pub. L. 92–275][/us/pl/92/275] increased amount of property authorized to be acquired from one hundred thirty-five to four hundred acres.
 
@@ -84,17 +84,17 @@
 ----------
 ----------
 
-[/us/pl/91/660/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F660%2Fs2
+[/us/pl/91/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F660
 [/us/stat/84/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1967
-[/us/pl/92/275/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F275%2Fs1%2F1
+[/us/pl/92/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F275
 [/us/stat/86/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F123
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t16/s459h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459h
 [/us/pl/91/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F660
 [/us/pl/91/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F660
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/92/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F275
 
 

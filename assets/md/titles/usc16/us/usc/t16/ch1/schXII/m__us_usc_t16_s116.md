@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t16/ch1/schXII/m__us_usc_t16_s115a.md) | [Next](./../../../../..//us/usc/t16/ch1/schXII/m__us_usc_t16_s117.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs116)
 
-## § 116. Repealed. [Dec. 16, 1930, ch. 14, § 1][/us/act/1930-12-16/ch14/s1], [46 Stat. 1028][/us/stat/46/1028]
+## § 116. Repealed. [Dec. 16, 1930, ch. 14][/us/act/1930-12-16/ch14], § 1, [46 Stat. 1028][/us/stat/46/1028]
 
-    Section, [act June 12, 1917, ch. 27, § 1][/us/act/1917-06-12/ch27/s1], [40 Stat. 152][/us/stat/40/152], related to donations of lands or rights-of-way.
+    Section, [act June 12, 1917, ch. 27][/us/act/1917-06-12/ch27], § 1, [40 Stat. 152][/us/stat/40/152], related to donations of lands or rights-of-way.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/act/1930-12-16/ch14/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-12-16%2Fch14%2Fs1
+[/us/act/1930-12-16/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-12-16%2Fch14
 [/us/stat/46/1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1028
-[/us/act/1917-06-12/ch27/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-12%2Fch27%2Fs1
+[/us/act/1917-06-12/ch27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-12%2Fch27
 [/us/stat/40/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F152
 
 

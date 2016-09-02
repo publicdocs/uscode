@@ -21,7 +21,7 @@
 
         Where management requirements for a stream segment described in the amendments made by this section differ between the Wild and Scenic Rivers Act ([16 U.S.C. 1271][/us/usc/t16/s1271] et seq.) and the Wilderness Area, the more restrictive requirements shall apply.
 
-([Pub. L. 106–399, title III, § 301][/us/pl/106/399/s301], Oct. 30, 2000, [114 Stat. 1667][/us/stat/114/1667].)
+([Pub. L. 106–399, title III][/us/pl/106/399/tIII], § 301, Oct. 30, 2000, [114 Stat. 1667][/us/stat/114/1667].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t16/s1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1271
-[/us/pl/106/399/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2Fs301
+[/us/pl/106/399/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2FtIII
 [/us/stat/114/1667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1667
 [/us/pl/90/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F542
 [/us/stat/82/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F906

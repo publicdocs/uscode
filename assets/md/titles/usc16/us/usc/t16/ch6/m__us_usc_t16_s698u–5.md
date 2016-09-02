@@ -87,7 +87,7 @@
 
         The rechartering provisions of section 14(b) of the Federal Advisory Committee Act (15  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “5”. </sup></sup>  U.S.C. App.) shall not apply to the Advisory Committee.
 
-([Pub. L. 104–333, div. I, title X, § 1007][/us/pl/104/333/s1007], Nov. 12, 1996, [110 Stat. 4208][/us/stat/110/4208]; [Pub. L. 105–244, title I, § 102(a)(4)][/us/pl/105/244/s102/a/4], Oct. 7, 1998, [112 Stat. 1618][/us/stat/112/1618].)
+([Pub. L. 104–333, div. I, title X][/us/pl/104/333/dI/tX], § 1007, Nov. 12, 1996, [110 Stat. 4208][/us/stat/110/4208]; [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(a)(4), Oct. 7, 1998, [112 Stat. 1618][/us/stat/112/1618].)
 
  __References in Text__ 
 
@@ -115,9 +115,9 @@
 [/us/usc/t16/s698u–3/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs698u%E2%80%933%2Fg
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/104/333/s1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs1007
+[/us/pl/104/333/dI/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtX
 [/us/stat/110/4208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4208
-[/us/pl/105/244/s102/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fa%2F4
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1618
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

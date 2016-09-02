@@ -83,7 +83,7 @@
 
         The duties and powers of law enforcement agents designated under subsection (a) that are described in subsection (b) shall be exercised in accordance with guidelines approved by the Attorney General.
 
-([May 18, 1933, ch. 32, § 4A][/us/act/1933-05-18/ch32/s4A], as added [Pub. L. 103–322, title XXXII, § 320929][/us/pl/103/322/s320929], Sept. 13, 1994, [108 Stat. 2133][/us/stat/108/2133]; [Pub. L. 108–447, div. C, title VI, § 603(a)(2)][/us/pl/108/447/s603/a/2], Dec. 8, 2004, [118 Stat. 2966][/us/stat/118/2966].)
+([May 18, 1933, ch. 32][/us/act/1933-05-18/ch32], § 4A, as added [Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320929, Sept. 13, 1994, [108 Stat. 2133][/us/stat/108/2133]; [Pub. L. 108–447, div. C, title VI][/us/pl/108/447/dC/tVI], § 603(a)(2), Dec. 8, 2004, [118 Stat. 2966][/us/stat/118/2966].)
 
  __Amendments__ 
 
@@ -100,10 +100,10 @@
 ----------
 ----------
 
-[/us/act/1933-05-18/ch32/s4A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32%2Fs4A
-[/us/pl/103/322/s320929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320929
+[/us/act/1933-05-18/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2133
-[/us/pl/108/447/s603/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs603%2Fa%2F2
+[/us/pl/108/447/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdC%2FtVI
 [/us/stat/118/2966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2966
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447

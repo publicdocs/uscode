@@ -35,7 +35,7 @@
 
     (9) “salmon” means all species of salmon which migrate in or into the waters of the Atlantic Ocean north of 36 degrees north latitude.
 
-([Pub. L. 97–389, title III, § 302][/us/pl/97/389/s302], Dec. 29, 1982, [96 Stat. 1951][/us/stat/96/1951].)
+([Pub. L. 97–389, title III][/us/pl/97/389/tIII], § 302, Dec. 29, 1982, [96 Stat. 1951][/us/stat/96/1951].)
 
  __References in Text__ 
 
@@ -45,15 +45,15 @@
 
  __Codification__ 
 
-    [Section 3602 of this title][/us/usc/t16/s3602], referred to in par. (3), was in the original “[section 403 of this title][/us/usc/t16/s403]”, meaning [section 403 of title III of Pub. L. 97–389][/us/pl/97/389/s403], and has been translated as [section 3602 of this title][/us/usc/t16/s3602], [section 303 of title III of Pub. L. 97–389][/us/pl/97/389/s303], as the probable intent of Congress, because title III of [Pub. L. 97–389][/us/pl/97/389] does not contain a section 403 and [section 3602 of this title][/us/usc/t16/s3602] relates to appointment of a United States Commissioner.
+    [Section 3602 of this title][/us/usc/t16/s3602], referred to in par. (3), was in the original “[section 403 of this title][/us/usc/t16/s403]”, meaning [section 403 of title III of Pub. L. 97–389][/us/pl/97/389/tIII/s403], and has been translated as [section 3602 of this title][/us/usc/t16/s3602], [section 303 of title III of Pub. L. 97–389][/us/pl/97/389/tIII/s303], as the probable intent of Congress, because title III of [Pub. L. 97–389][/us/pl/97/389] does not contain a section 403 and [section 3602 of this title][/us/usc/t16/s3602] relates to appointment of a United States Commissioner.
 
  __Short Title__ 
 
-[Pub. L. 97–389, § 1][/us/pl/97/389/s1], Dec. 29, 1982, [96 Stat. 1949][/us/stat/96/1949], provided: 
+[Pub. L. 97–389][/us/pl/97/389], § 1, Dec. 29, 1982, [96 Stat. 1949][/us/stat/96/1949], provided: 
 
 > “That this Act \[enacting this chapter, amending sections 779b, 1034, and 1401 of this title and sections 688 and 883 of Title 46, Appendix, Shipping, and enacting provisions set out as notes under [section 1823 of this title][/us/usc/t16/s1823] and [section 688 of Title 46][/us/usc/t46/s688], Appendix\] may be cited as the ‘Fisheries Amendments of 1982’.”
 
-[Pub. L. 97–389, title III, § 301][/us/pl/97/389/s301], Dec. 29, 1982, [96 Stat. 1951][/us/stat/96/1951], provided that: 
+[Pub. L. 97–389, title III][/us/pl/97/389/tIII], § 301, Dec. 29, 1982, [96 Stat. 1951][/us/stat/96/1951], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Atlantic Salmon Convention Act of 1982’.”
 
@@ -68,7 +68,7 @@
 [/us/usc/t16/s3602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3602
 [/us/usc/t16/s1802/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1802%2F10
 [/us/usc/t16/s1802/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1802%2F19
-[/us/pl/97/389/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F389%2Fs302
+[/us/pl/97/389/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F389%2FtIII
 [/us/stat/96/1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1951
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
@@ -77,16 +77,16 @@
 [/us/usc/t16/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1802
 [/us/usc/t16/s3602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3602
 [/us/usc/t16/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs403
-[/us/pl/97/389/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F389%2Fs403
+[/us/pl/97/389/tIII/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F389%2FtIII%2Fs403
 [/us/usc/t16/s3602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3602
-[/us/pl/97/389/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F389%2Fs303
+[/us/pl/97/389/tIII/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F389%2FtIII%2Fs303
 [/us/pl/97/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F389
 [/us/usc/t16/s3602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3602
-[/us/pl/97/389/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F389%2Fs1
+[/us/pl/97/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F389
 [/us/stat/96/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1949
 [/us/usc/t16/s1823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1823
 [/us/usc/t46/s688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs688
-[/us/pl/97/389/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F389%2Fs301
+[/us/pl/97/389/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F389%2FtIII
 [/us/stat/96/1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1951
 
 

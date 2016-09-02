@@ -17,7 +17,7 @@
 
     Of the moneys received from grazing fees by the Treasury from each national forest during each fiscal year there shall be available at the end thereof when appropriated by Congress an amount equivalent to 2 cents per animal-month for sheep and goats and 10 cents per animal-month for other kinds of livestock under permit on such national forest during the calendar year in which the fiscal year begins, which appropriated amount shall be available until expended on such national forest, under such regulations as the Secretary of Agriculture may prescribe, for (1) artificial revegetation, including the collection or purchase of necessary seed; (2) construction and maintenance of drift or division fences and stock-watering places, bridges, corrals, driveways, or other necessary range improvements; (3) control of range-destroying rodents; or (4) eradication of poisonous plants and noxious weeds, in order to protect or improve the future productivity of the range.
 
-([Apr. 24, 1950, ch. 97, § 12][/us/act/1950-04-24/ch97/s12], [64 Stat. 85][/us/stat/64/85].)
+([Apr. 24, 1950, ch. 97][/us/act/1950-04-24/ch97], § 12, [64 Stat. 85][/us/stat/64/85].)
 
  __Savings Provision__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1950-04-24/ch97/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-24%2Fch97%2Fs12
+[/us/act/1950-04-24/ch97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-24%2Fch97
 [/us/stat/64/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F85
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
 [/us/stat/90/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2743

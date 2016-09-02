@@ -45,11 +45,11 @@
 
         With respect to any lands over which the United States exercises exclusive or concurrent legislative jurisdiction and which are excluded from the park pursuant to [section 430g–4(c) of this title][/us/usc/t16/s430g–4/c], the Secretary may relinquish to the State of Pennsylvania such exclusive or concurrent legislative jurisdiction by filing with the Governor a notice of relinquishment to take effect upon acceptance thereof, unless otherwise provided by the laws of the State.
 
-([Pub. L. 101–377, § 2][/us/pl/101/377/s2], Aug. 17, 1990, [104 Stat. 464][/us/stat/104/464]; [Pub. L. 106–290, § 2][/us/pl/106/290/s2], Oct. 10, 2000, [114 Stat. 921][/us/stat/114/921]; [Pub. L. 113–291, div. B, title XXX, § 3034(b)][/us/pl/113/291/s3034/b], Dec. 19, 2014, [128 Stat. 3777][/us/stat/128/3777].)
+([Pub. L. 101–377][/us/pl/101/377], § 2, Aug. 17, 1990, [104 Stat. 464][/us/stat/104/464]; [Pub. L. 106–290][/us/pl/106/290], § 2, Oct. 10, 2000, [114 Stat. 921][/us/stat/114/921]; [Pub. L. 113–291, div. B, title XXX][/us/pl/113/291/dB/tXXX], § 3034(b), Dec. 19, 2014, [128 Stat. 3777][/us/stat/128/3777].)
 
  __Codification__ 
 
-    In subsec. (b), “subsection (a) of [section 102901 of title 54][/us/usc/t54/s102901]” substituted for “subsection (a) of the Act of July 15, 1968 ([16 U.S.C. 460][/us/usc/t16/s460]l–22)”, meaning “subsection (a) of [section 5 of the Act of July 15, 1968][/us/act/1968-07-15/s5] ([16 U.S.C. 460][/us/usc/t16/s460]l–22)”, on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (b), “subsection (a) of [section 102901 of title 54][/us/usc/t54/s102901]” substituted for “subsection (a) of the Act of July 15, 1968 ([16 U.S.C. 460][/us/usc/t16/s460]l–22)”, meaning “subsection (a) of [section 5 of the Act of July 15, 1968][/us/act/1968-07-15/s5] ([16 U.S.C. 460][/us/usc/t16/s460]l–22)”, on authority of [Pub. L. 113–287][/us/pl/113/287], § 6(e), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
  __Amendments__ 
 
@@ -68,17 +68,17 @@
 [/us/usc/t54/s102901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs102901
 [/us/usc/t16/s430g–4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs430g%E2%80%934%2Fc
 [/us/usc/t16/s430g–4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs430g%E2%80%934%2Fc
-[/us/pl/101/377/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F377%2Fs2
+[/us/pl/101/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F377
 [/us/stat/104/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F464
-[/us/pl/106/290/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F290%2Fs2
+[/us/pl/106/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F290
 [/us/stat/114/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F921
-[/us/pl/113/291/s3034/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3034%2Fb
+[/us/pl/113/291/dB/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXX
 [/us/stat/128/3777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3777
 [/us/usc/t54/s102901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs102901
 [/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
 [/us/act/1968-07-15/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1968-07-15%2Fs5
 [/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
-[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/106/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F290

@@ -17,7 +17,7 @@
 
     The Secretary, acting through the Chief of the Forest Service, may use funds derived from conservation-related programs executed on National Forest System land to utilize the Agriculture Conservation Experienced Services Program established pursuant to [section 3851 of this title][/us/usc/t16/s3851] to provide technical services for conservation-related programs and authorities carried out by the Secretary on National Forest System land.
 
-([Pub. L. 113–79, title VIII, § 8302][/us/pl/113/79/s8302], Feb. 7, 2014, [128 Stat. 923][/us/stat/128/923].)
+([Pub. L. 113–79, title VIII][/us/pl/113/79/tVIII], § 8302, Feb. 7, 2014, [128 Stat. 923][/us/stat/128/923].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t16/s3851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3851
-[/us/pl/113/79/s8302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8302
+[/us/pl/113/79/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVIII
 [/us/stat/128/923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F923
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/usc/t7/s9001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9001

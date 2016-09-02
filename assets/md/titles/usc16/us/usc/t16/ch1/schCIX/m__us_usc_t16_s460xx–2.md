@@ -31,7 +31,7 @@
 
         In order to assist in the development of appropriate management strategies for the conservation area, the Secretary may authorize research on matters including the environmental, biological, hydrological, and cultural resources of the conservation area, pursuant to [section 1737(a) of title 43][/us/usc/t43/s1737/a].
 
-([Pub. L. 100–696, title I, § 103][/us/pl/100/696/s103], Nov. 18, 1988, [102 Stat. 4572][/us/stat/102/4572].)
+([Pub. L. 100–696, title I][/us/pl/100/696/tI], § 103, Nov. 18, 1988, [102 Stat. 4572][/us/stat/102/4572].)
 
 ----------
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t43/s1737/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1737%2Fb
 [/us/usc/t43/s1737/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1737%2Fa
-[/us/pl/100/696/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2Fs103
+[/us/pl/100/696/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2FtI
 [/us/stat/102/4572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4572
 
 

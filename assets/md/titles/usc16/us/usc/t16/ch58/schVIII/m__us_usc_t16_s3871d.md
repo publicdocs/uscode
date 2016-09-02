@@ -47,7 +47,7 @@
 
         None of the funds made available or reserved for the program may be used to pay for the administrative expenses of eligible partners.
 
-([Pub. L. 99–198, title XII, § 1271D][/us/pl/99/198/s1271D], as added [Pub. L. 113–79, title II, § 2401][/us/pl/113/79/s2401], Feb. 7, 2014, [128 Stat. 749][/us/stat/128/749].)
+([Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1271D, as added [Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2401, Feb. 7, 2014, [128 Stat. 749][/us/stat/128/749].)
 
 ----------
 
@@ -57,8 +57,8 @@
 ----------
 
 [/us/usc/t16/s3871f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3871f
-[/us/pl/99/198/s1271D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1271D
-[/us/pl/113/79/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2401
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F749
 
 

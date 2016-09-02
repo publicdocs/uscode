@@ -17,7 +17,7 @@
 
     That in order to commemorate the Battle of Monocacy, Maryland, and to preserve for historical purposes the breastworks, earthworks, walls, or other defenses or shelters used by the armies therein, the battlefield at Monocacy in the State of Maryland is hereby established as the Monocacy National Battlefield. The battlefield shall comprise the area within the boundary generally depicted on the map entitled “Monocacy National Battlefield,” numbered 894/40,001A, and dated April 1980, which shall be on file and available for public inspection in the Office of the National Park Service, Department of the Interior.
 
-([June 21, 1934, ch. 694, § 1][/us/act/1934-06-21/ch694/s1], [48 Stat. 1198][/us/stat/48/1198]; [Pub. L. 94–578, title III, § 319(1)][/us/pl/94/578/s319/1], Oct. 21, 1976, [90 Stat. 2738][/us/stat/90/2738]; [Pub. L. 96–607, title XIV, § 140(a)][/us/pl/96/607/s140/a], Dec. 28, 1980, [94 Stat. 3546][/us/stat/94/3546].)
+([June 21, 1934, ch. 694][/us/act/1934-06-21/ch694], § 1, [48 Stat. 1198][/us/stat/48/1198]; [Pub. L. 94–578, title III][/us/pl/94/578/tIII], § 319(1), Oct. 21, 1976, [90 Stat. 2738][/us/stat/90/2738]; [Pub. L. 96–607, title XIV][/us/pl/96/607/tXIV], § 140(a), Dec. 28, 1980, [94 Stat. 3546][/us/stat/94/3546].)
 
  __Amendments__ 
 
@@ -32,11 +32,11 @@
 ----------
 ----------
 
-[/us/act/1934-06-21/ch694/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-21%2Fch694%2Fs1
+[/us/act/1934-06-21/ch694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-21%2Fch694
 [/us/stat/48/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1198
-[/us/pl/94/578/s319/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2Fs319%2F1
+[/us/pl/94/578/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2FtIII
 [/us/stat/90/2738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2738
-[/us/pl/96/607/s140/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607%2Fs140%2Fa
+[/us/pl/96/607/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607%2FtXIV
 [/us/stat/94/3546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3546
 [/us/pl/96/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607
 [/us/pl/94/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578

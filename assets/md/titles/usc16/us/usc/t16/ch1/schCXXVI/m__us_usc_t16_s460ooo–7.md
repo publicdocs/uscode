@@ -23,7 +23,7 @@
 
         Not later than 5 years after December 6, 2000, and at least at the end of every 10-year period thereafter, the Secretary shall submit to Congress a report describing the implementation of this subchapter, the condition of the resources and values of the Conservation Area, and the progress of the Secretary in achieving the purposes for which the Conservation Area is established as set forth in section 460ooo–3(a) of this title.
 
-([Pub. L. 106–538, § 8][/us/pl/106/538/s8], Dec. 6, 2000, [114 Stat. 2568][/us/stat/114/2568].)
+([Pub. L. 106–538][/us/pl/106/538], § 8, Dec. 6, 2000, [114 Stat. 2568][/us/stat/114/2568].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/106/538/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F538%2Fs8
+[/us/pl/106/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F538
 [/us/stat/114/2568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2568
 
 

@@ -139,13 +139,13 @@
 
             Notwithstanding paragraphs (1) and (2), upon approval of the conservation plan under [section 3953 of this title][/us/usc/t16/s3953] and a determination by the Secretary that a reduction in the non-Federal share is warranted, amounts made available in accordance with [section 3955 of this title][/us/usc/t16/s3955] to carry out coastal wetlands restoration projects under this section in calendar years 1996 and 1997 shall provide 90 percent of the cost of such projects.
 
-([Pub. L. 101–646, title III, § 303][/us/pl/101/646/s303], Nov. 29, 1990, [104 Stat. 4779][/us/stat/104/4779]; [Pub. L. 104–303, title V, § 532][/us/pl/104/303/s532], Oct. 12, 1996, [110 Stat. 3774][/us/stat/110/3774].)
+([Pub. L. 101–646, title III][/us/pl/101/646/tIII], § 303, Nov. 29, 1990, [104 Stat. 4779][/us/stat/104/4779]; [Pub. L. 104–303, title V][/us/pl/104/303/tV], § 532, Oct. 12, 1996, [110 Stat. 3774][/us/stat/110/3774].)
 
  __Amendments__ 
 
-    1996—Subsec. (f)(4). [Pub. L. 104–303, § 532(1)][/us/pl/104/303/s532/1], substituted “(3), and (5)” for “and (3)”.
+    1996—Subsec. (f)(4). [Pub. L. 104–303][/us/pl/104/303], § 532(1), substituted “(3), and (5)” for “and (3)”.
 
-    Subsec. (f)(5). [Pub. L. 104–303, § 532(2)][/us/pl/104/303/s532/2], added par. (5).
+    Subsec. (f)(5). [Pub. L. 104–303][/us/pl/104/303], § 532(2), added par. (5).
 
 ----------
 
@@ -163,11 +163,11 @@
 [/us/usc/t16/s3955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3955
 [/us/usc/t16/s3953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3953
 [/us/usc/t16/s3955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3955
-[/us/pl/101/646/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs303
+[/us/pl/101/646/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2FtIII
 [/us/stat/104/4779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4779
-[/us/pl/104/303/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs532
+[/us/pl/104/303/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtV
 [/us/stat/110/3774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3774
-[/us/pl/104/303/s532/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs532%2F1
-[/us/pl/104/303/s532/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs532%2F2
+[/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
+[/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
 
 

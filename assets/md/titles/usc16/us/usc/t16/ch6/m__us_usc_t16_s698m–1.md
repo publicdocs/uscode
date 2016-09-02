@@ -39,7 +39,7 @@
 
         For purposes of administering the Addition and notwithstanding [section 698g(c) of this title][/us/usc/t16/s698g/c], it is the express intent of the Congress that the Secretary should substantially complete the land acquisition program contemplated with respect to the Addition in not more than five years after April 29, 1988.
 
-([Pub. L. 93–440, § 9][/us/pl/93/440/s9], as added [Pub. L. 100–301, § 3(a)][/us/pl/100/301/s3/a], Apr. 29, 1988, [102 Stat. 444][/us/stat/102/444].)
+([Pub. L. 93–440][/us/pl/93/440], § 9, as added [Pub. L. 100–301][/us/pl/100/301], § 3(a), Apr. 29, 1988, [102 Stat. 444][/us/stat/102/444].)
 
 ----------
 
@@ -51,8 +51,8 @@
 [/us/usc/t16/s698f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs698f
 [/us/usc/t16/s698i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs698i
 [/us/usc/t16/s698g/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs698g%2Fc
-[/us/pl/93/440/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F440%2Fs9
-[/us/pl/100/301/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301%2Fs3%2Fa
+[/us/pl/93/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F440
+[/us/pl/100/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301
 [/us/stat/102/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F444
 
 

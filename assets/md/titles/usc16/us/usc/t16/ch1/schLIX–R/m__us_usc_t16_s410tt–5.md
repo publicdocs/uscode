@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated such sums as may be necessary to carry out this subchapter.
 
-([Pub. L. 102–247, title I, § 107][/us/pl/102/247/s107], Feb. 24, 1992, [106 Stat. 37][/us/stat/106/37].)
+([Pub. L. 102–247, title I][/us/pl/102/247/tI], § 107, Feb. 24, 1992, [106 Stat. 37][/us/stat/106/37].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/247/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F247%2Fs107
+[/us/pl/102/247/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F247%2FtI
 [/us/stat/106/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F37
 
 

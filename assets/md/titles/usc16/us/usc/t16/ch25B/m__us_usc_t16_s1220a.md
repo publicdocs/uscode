@@ -25,7 +25,7 @@
 
     (4) the transfer would be at no cost to the Government (except for any financial assistance provided under section 1220(c)(1)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title) with the State taking delivery of such obsolete ships and titles in an “as-is—where-is” condition at such place and time designated as may be determined by the Secretary of Transportation.
 
-([Pub. L. 92–402, § 4][/us/pl/92/402/s4], Aug. 22, 1972, [86 Stat. 618][/us/stat/86/618]; [Pub. L. 98–623, title II, § 207(1)][/us/pl/98/623/s207/1], (3), Nov. 8, 1984, [98 Stat. 3397][/us/stat/98/3397]; [Pub. L. 107–314, div. C, title XXXV, § 3504(a)(2)][/us/pl/107/314/s3504/a/2], Dec. 2, 2002, [116 Stat. 2754][/us/stat/116/2754]; [Pub. L. 109–163, div. C, title XXXV, § 3505(c)][/us/pl/109/163/s3505/c], Jan. 6, 2006, [119 Stat. 3552][/us/stat/119/3552].)
+([Pub. L. 92–402][/us/pl/92/402], § 4, Aug. 22, 1972, [86 Stat. 618][/us/stat/86/618]; [Pub. L. 98–623, title II][/us/pl/98/623/tII], § 207(1), (3), Nov. 8, 1984, [98 Stat. 3397][/us/stat/98/3397]; [Pub. L. 107–314, div. C, title XXXV][/us/pl/107/314/dC/tXXXV], § 3504(a)(2), Dec. 2, 2002, [116 Stat. 2754][/us/stat/116/2754]; [Pub. L. 109–163, div. C, title XXXV][/us/pl/109/163/dC/tXXXV], § 3505(c), Jan. 6, 2006, [119 Stat. 3552][/us/stat/119/3552].)
 
  __References in Text__ 
 
@@ -47,13 +47,13 @@
 ----------
 
 [/us/usc/t16/s1220/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1220%2Fc
-[/us/pl/92/402/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F402%2Fs4
+[/us/pl/92/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F402
 [/us/stat/86/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F618
-[/us/pl/98/623/s207/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs207%2F1
+[/us/pl/98/623/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtII
 [/us/stat/98/3397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3397
-[/us/pl/107/314/s3504/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs3504%2Fa%2F2
+[/us/pl/107/314/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdC%2FtXXXV
 [/us/stat/116/2754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2754
-[/us/pl/109/163/s3505/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs3505%2Fc
+[/us/pl/109/163/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdC%2FtXXXV
 [/us/stat/119/3552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3552
 [/us/usc/t16/s1220/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1220%2Fc%2F1
 [/us/pl/92/402/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F402%2Fs7

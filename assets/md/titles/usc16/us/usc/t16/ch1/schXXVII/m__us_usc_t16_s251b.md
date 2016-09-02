@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to exchange approximately six thousand six hundred eight and ninety-six one-hundredths acres of land adjacent to the Queets Corridor and Ocean Strip portions of Olympic National Park, which were originally acquired by the Federal Government for public works purposes, for lands and interest in lands not in Federal ownership within the exterior boundaries of the park: Provided, That the lands so exchanged shall be of approximately equal value.
 
-([Pub. L. 85–455, § 1][/us/pl/85/455/s1], June 11, 1958, [72 Stat. 185][/us/stat/72/185].)
+([Pub. L. 85–455][/us/pl/85/455], § 1, June 11, 1958, [72 Stat. 185][/us/stat/72/185].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/85/455/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F455%2Fs1
+[/us/pl/85/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F455
 [/us/stat/72/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F185
 
 

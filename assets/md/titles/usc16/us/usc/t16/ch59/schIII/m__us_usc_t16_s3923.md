@@ -17,7 +17,7 @@
 
     The powers of condemnation or eminent domain shall not be used in the acquisition of wetlands under any provision of this chapter where such wetlands have been constructed for the purpose of farming or ranching, or result from conservation activities associated with farming or ranching.
 
-([Pub. L. 99–645, title III, § 305][/us/pl/99/645/s305], Nov. 10, 1986, [100 Stat. 3588][/us/stat/100/3588].)
+([Pub. L. 99–645, title III][/us/pl/99/645/tIII], § 305, Nov. 10, 1986, [100 Stat. 3588][/us/stat/100/3588].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/99/645/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F645%2Fs305
+[/us/pl/99/645/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F645%2FtIII
 [/us/stat/100/3588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3588
 [/us/pl/99/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F645
 [/us/stat/100/3582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3582

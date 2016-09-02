@@ -19,7 +19,7 @@
 
     East half northeast quarter, east half west half northeast quarter, northeast quarter southeast quarter, east half northwest quarter southeast quarter, and those portions of the southeast quarter southeast quarter and of the east half southwest quarter southeast quarter, lying north of the right-of-way of State Highway 180.
 
-([Pub. L. 85–666, § 2][/us/pl/85/666/s2], Aug. 14, 1958, [72 Stat. 617][/us/stat/72/617].)
+([Pub. L. 85–666][/us/pl/85/666], § 2, Aug. 14, 1958, [72 Stat. 617][/us/stat/72/617].)
 
  __Codification__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/85/666/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F666%2Fs2
+[/us/pl/85/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F666
 [/us/stat/72/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F617
 [/us/act/1940-03-04/ch40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-03-04%2Fch40
 [/us/stat/54/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F41

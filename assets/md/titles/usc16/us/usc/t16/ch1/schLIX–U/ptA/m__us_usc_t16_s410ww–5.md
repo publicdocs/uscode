@@ -27,7 +27,7 @@
 
         (B) to the maximum extent practicable will not have an adverse effect on the historic resources of the park.
 
-([Pub. L. 102–419, title I, § 106][/us/pl/102/419/s106], Oct. 16, 1992, [106 Stat. 2143][/us/stat/106/2143].)
+([Pub. L. 102–419, title I][/us/pl/102/419/tI], § 106, Oct. 16, 1992, [106 Stat. 2143][/us/stat/106/2143].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t16/s410ww–22/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410ww%E2%80%9322%2Fb%2F9
-[/us/pl/102/419/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F419%2Fs106
+[/us/pl/102/419/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F419%2FtI
 [/us/stat/106/2143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2143
 
 

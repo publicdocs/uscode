@@ -17,7 +17,7 @@
 
     The comprehensive plan presented by the Secretary to the President of the Senate and the Speaker of the House of Representatives may include such recommendations, if any, as he and the Governor of the State of Wisconsin may wish to make with respect to Federal and State participation in the financing of appropriate interpretive and other public facilities and services within the reserve including facilities and services to be furnished by such private organizations as the Ice Age Park and Trail Foundation, a nonprofit corporation.
 
-([Pub. L. 88–655, § 4][/us/pl/88/655/s4], Oct. 13, 1964, [78 Stat. 1087][/us/stat/78/1087]; [Pub. L. 91–483, § 1(2)][/us/pl/91/483/s1/2], Oct. 21, 1970, [84 Stat. 1083][/us/stat/84/1083].)
+([Pub. L. 88–655][/us/pl/88/655], § 4, Oct. 13, 1964, [78 Stat. 1087][/us/stat/78/1087]; [Pub. L. 91–483][/us/pl/91/483], § 1(2), Oct. 21, 1970, [84 Stat. 1083][/us/stat/84/1083].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/88/655/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F655%2Fs4
+[/us/pl/88/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F655
 [/us/stat/78/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1087
-[/us/pl/91/483/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F483%2Fs1%2F2
+[/us/pl/91/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F483
 [/us/stat/84/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1083
 [/us/pl/91/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F483
 

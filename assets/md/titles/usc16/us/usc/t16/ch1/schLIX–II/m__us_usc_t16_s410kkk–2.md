@@ -27,7 +27,7 @@
 
         In order to facilitate the presentation of a comprehensive picture of the Lewis and Clark Expedition’s experiences in the lower Columbia River area and to promote more efficient administration of the sites associated with those experiences, the Secretary may enter into cooperative management agreements with appropriate officials in the States of Washington and Oregon in accordance with the authority provided under [section 101703 of title 54][/us/usc/t54/s101703].
 
-([Pub. L. 108–387, title I, § 104][/us/pl/108/387/s104], Oct. 30, 2004, [118 Stat. 2236][/us/stat/118/2236].)
+([Pub. L. 108–387, title I][/us/pl/108/387/tI], § 104, Oct. 30, 2004, [118 Stat. 2236][/us/stat/118/2236].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
  __Codification__ 
 
-    In subsec. (c), “[section 101703 of title 54][/us/usc/t54/s101703]” substituted for “section 3(l) of [Public Law 91–383][/us/pl/91/383] ([112 Stat. 3522][/us/stat/112/3522]; [16 U.S.C. 1a–2][/us/usc/t16/s1a–2])” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (c), “[section 101703 of title 54][/us/usc/t54/s101703]” substituted for “section 3(l) of [Public Law 91–383][/us/pl/91/383] ([112 Stat. 3522][/us/stat/112/3522]; [16 U.S.C. 1a–2][/us/usc/t16/s1a–2])” on authority of [Pub. L. 113–287][/us/pl/113/287], § 6(e), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
 ----------
 
@@ -53,7 +53,7 @@
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
 [/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
 [/us/usc/t54/s101703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs101703
-[/us/pl/108/387/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F387%2Fs104
+[/us/pl/108/387/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F387%2FtI
 [/us/stat/118/2236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2236
 [/us/pl/108/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F387
 [/us/stat/118/2234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2234
@@ -80,7 +80,7 @@
 [/us/pl/91/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F383
 [/us/stat/112/3522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3522
 [/us/usc/t16/s1a–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%932
-[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 
 

@@ -81,7 +81,7 @@
 
         Unless otherwise agreed to by the voting members of the Commission and approved by the Secretary, the Commission shall terminate upon the Secretary’s approval of the Commission’s report pursuant to subsection (e).
 
-([Pub. L. 96–561, title I, § 110][/us/pl/96/561/s110], Dec. 22, 1980, [94 Stat. 3277][/us/stat/94/3277].)
+([Pub. L. 96–561, title I][/us/pl/96/561/tI], § 110, Dec. 22, 1980, [94 Stat. 3277][/us/stat/94/3277].)
 
 ----------
 
@@ -90,7 +90,7 @@
 ----------
 ----------
 
-[/us/pl/96/561/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs110
+[/us/pl/96/561/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtI
 [/us/stat/94/3277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3277
 
 

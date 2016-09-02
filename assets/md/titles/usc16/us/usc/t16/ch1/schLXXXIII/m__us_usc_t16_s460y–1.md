@@ -39,7 +39,7 @@
 
         (8) that the uses to be considered are all of the legitimate uses of such resources including but not limited to all forms of outdoor recreation including scenic enjoyment, hunting, fishing, hiking, riding, camping, picknicking, <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “picnicking,”. </sup></sup>  boating, and swimming, all uses of water resources, watershed management, production of timber and other forest producers, grazing and other agricultural uses, fish and wildlife management, mining, preservation of ecological balance, scientific study, occupancy and access.
 
-([Pub. L. 91–476, § 2][/us/pl/91/476/s2], Oct. 21, 1970, [84 Stat. 1067][/us/stat/84/1067].)
+([Pub. L. 91–476][/us/pl/91/476], § 2, Oct. 21, 1970, [84 Stat. 1067][/us/stat/84/1067].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/91/476/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F476%2Fs2
+[/us/pl/91/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F476
 [/us/stat/84/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1067
 
 

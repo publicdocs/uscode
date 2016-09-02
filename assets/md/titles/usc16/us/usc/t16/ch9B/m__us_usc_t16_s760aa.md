@@ -47,11 +47,11 @@
 
         (3) To encourage donations and other contributions by individuals and organizations to the System.
 
-([Pub. L. 109–360, § 2][/us/pl/109/360/s2], Oct. 16, 2006, [120 Stat. 2058][/us/stat/120/2058].)
+([Pub. L. 109–360][/us/pl/109/360], § 2, Oct. 16, 2006, [120 Stat. 2058][/us/stat/120/2058].)
 
  __Short Title__ 
 
-[Pub. L. 109–360, § 1][/us/pl/109/360/s1], Oct. 16, 2006, [120 Stat. 2058][/us/stat/120/2058], provided that: 
+[Pub. L. 109–360][/us/pl/109/360], § 1, Oct. 16, 2006, [120 Stat. 2058][/us/stat/120/2058], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘National Fish Hatchery System Volunteer Act of 2006’.”
 
@@ -62,9 +62,9 @@
 ----------
 ----------
 
-[/us/pl/109/360/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F360%2Fs2
+[/us/pl/109/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F360
 [/us/stat/120/2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2058
-[/us/pl/109/360/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F360%2Fs1
+[/us/pl/109/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F360
 [/us/stat/120/2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2058
 
 

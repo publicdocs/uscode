@@ -17,7 +17,7 @@
 
     Effective October 1, 1979, there are authorized to be appropriated to carry out sections 1 through 10 of this Act $5,000,000 for the acquisition of lands and interests in lands and $5,000,000 for water quality and recreation development. Moneys appropriated from the Land and Water Conservation Fund shall be available for the acquisition of lands and interests therein within the Arapaho National Recreation Area.
 
-([Pub. L. 95–450, § 11][/us/pl/95/450/s11], Oct. 11, 1978, [92 Stat. 1098][/us/stat/92/1098].)
+([Pub. L. 95–450][/us/pl/95/450], § 11, Oct. 11, 1978, [92 Stat. 1098][/us/stat/92/1098].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/95/450/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F450%2Fs11
+[/us/pl/95/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F450
 [/us/stat/92/1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1098
 [/us/pl/95/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F450
 [/us/stat/92/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1095

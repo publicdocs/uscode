@@ -27,7 +27,7 @@
 
         On lands acquired pursuant to this subchapter for recreation purposes, the Secretary of the Army, with the concurrence of the Secretary of the Interior, may permit the continuance of existing uses consistent with the purposes of this subchapter.
 
-([Pub. L. 89–158, § 3][/us/pl/89/158/s3], Sept. 1, 1965, [79 Stat. 613][/us/stat/79/613].)
+([Pub. L. 89–158][/us/pl/89/158], § 3, Sept. 1, 1965, [79 Stat. 613][/us/stat/79/613].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/89/158/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F158%2Fs3
+[/us/pl/89/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F158
 [/us/stat/79/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F613
 
 

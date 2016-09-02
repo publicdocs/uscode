@@ -43,29 +43,29 @@
 
         (2) Notwithstanding chapter 63 of title 31, a cooperative agreement under this section may be used to acquire property or services for the direct benefit or use of the United States Government.
 
-([Pub. L. 86–797, title I, § 103a][/us/pl/86/797/s103a], as added [Pub. L. 101–189, div. B, title XXVIII, § 2845(a)][/us/pl/101/189/s2845/a], Nov. 29, 1989, [103 Stat. 1664][/us/stat/103/1664]; amended [Pub. L. 105–85, div. B, title XXIX, § 2908][/us/pl/105/85/s2908], Nov. 18, 1997, [111 Stat. 2021][/us/stat/111/2021]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 313, Oct. 14, 2008, [122 Stat. 4409][/us/stat/122/4409]; [Pub. L. 111–84, div. A, title III, § 313][/us/pl/111/84/s313], Oct. 28, 2009, [123 Stat. 2248][/us/stat/123/2248]; [Pub. L. 112–81, div. A, title III, § 312(a)(3)][/us/pl/112/81/s312/a/3], (b)(3), Dec. 31, 2011, [125 Stat. 1352][/us/stat/125/1352], 1353; [Pub. L. 112–239, div. A, title III, § 312(a)][/us/pl/112/239/s312/a], Jan. 2, 2013, [126 Stat. 1691][/us/stat/126/1691]; [Pub. L. 113–291, div. A, title III, § 312][/us/pl/113/291/s312], Dec. 19, 2014, [128 Stat. 3336][/us/stat/128/3336].)
+([Pub. L. 86–797, title I][/us/pl/86/797/tI], § 103a, as added [Pub. L. 101–189, div. B, title XXVIII][/us/pl/101/189/dB/tXXVIII], § 2845(a), Nov. 29, 1989, [103 Stat. 1664][/us/stat/103/1664]; amended [Pub. L. 105–85, div. B, title XXIX][/us/pl/105/85/dB/tXXIX], § 2908, Nov. 18, 1997, [111 Stat. 2021][/us/stat/111/2021]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 313, Oct. 14, 2008, [122 Stat. 4409][/us/stat/122/4409]; [Pub. L. 111–84, div. A, title III][/us/pl/111/84/dA/tIII], § 313, Oct. 28, 2009, [123 Stat. 2248][/us/stat/123/2248]; [Pub. L. 112–81, div. A, title III][/us/pl/112/81/dA/tIII], § 312(a)(3), (b)(3), Dec. 31, 2011, [125 Stat. 1352][/us/stat/125/1352], 1353; [Pub. L. 112–239, div. A, title III][/us/pl/112/239/dA/tIII], § 312(a), Jan. 2, 2013, [126 Stat. 1691][/us/stat/126/1691]; [Pub. L. 113–291, div. A, title III][/us/pl/113/291/dA/tIII], § 312, Dec. 19, 2014, [128 Stat. 3336][/us/stat/128/3336].)
 
  __Codification__ 
 
-    [Pub. L. 113–291, § 312][/us/pl/113/291/s312], which directed amendment of section “103A” of the Sikes Act, was executed to this section, which is section 103a of that Act, to reflect the probable intent of Congress. See 2014 Amendment notes below.
+    [Pub. L. 113–291][/us/pl/113/291], § 312, which directed amendment of section “103A” of the Sikes Act, was executed to this section, which is section 103a of that Act, to reflect the probable intent of Congress. See 2014 Amendment notes below.
 
  __Amendments__ 
 
-    2014—Subsec. (b). [Pub. L. 113–291, § 312(a)][/us/pl/113/291/s312/a], designated existing provisions as par. (1) and added pars. (2) and (3). See Codification note above.
+    2014—Subsec. (b). [Pub. L. 113–291][/us/pl/113/291], § 312(a), designated existing provisions as par. (1) and added pars. (2) and (3). See Codification note above.
 
-    Subsec. (c). [Pub. L. 113–291, § 312(b)][/us/pl/113/291/s312/b], amended subsec. (c) generally. See Codification note above. Prior to amendment, text read as follows: “Cooperative agreements and interagency agreements entered into under this section shall be subject to the availability of funds and shall not be considered, nor be treated as, cooperative agreements to which chapter 63 of title 31 applies.”
+    Subsec. (c). [Pub. L. 113–291][/us/pl/113/291], § 312(b), amended subsec. (c) generally. See Codification note above. Prior to amendment, text read as follows: “Cooperative agreements and interagency agreements entered into under this section shall be subject to the availability of funds and shall not be considered, nor be treated as, cooperative agreements to which chapter 63 of title 31 applies.”
 
     2013—Subsec. (a). [Pub. L. 112–239][/us/pl/112/239], which directed amendment of [section 103A of Pub. L. 86–797][/us/pl/86/797/s103A] by inserting “Indian tribes,” after “local governments,” in introductory provisions of subsec. (a), was executed to this section, which is [section 103a of Pub. L. 86–797][/us/pl/86/797/s103a], to reflect the probable intent of Congress.
 
-    2011—[Pub. L. 112–81, § 312(b)(3)(A)][/us/pl/112/81/s312/b/3/A], (B), inserted section catchline.
+    2011—[Pub. L. 112–81][/us/pl/112/81], § 312(b)(3)(A), (B), inserted section catchline.
 
-    Subsec. (a). [Pub. L. 112–81, § 312(b)(3)(C)][/us/pl/112/81/s312/b/3/C], inserted heading.
+    Subsec. (a). [Pub. L. 112–81][/us/pl/112/81], § 312(b)(3)(C), inserted heading.
 
-    Subsec. (a)(1). [Pub. L. 112–81, § 312(a)(3)(A)][/us/pl/112/81/s312/a/3/A], substituted “military installations and State-owned National Guard installations” for “Department of Defense installations”.
+    Subsec. (a)(1). [Pub. L. 112–81][/us/pl/112/81], § 312(a)(3)(A), substituted “military installations and State-owned National Guard installations” for “Department of Defense installations”.
 
-    Subsec. (a)(2). [Pub. L. 112–81, § 312(a)(3)(B)][/us/pl/112/81/s312/a/3/B], substituted “military installation or State-owned National Guard installation” for “Department of Defense installation”.
+    Subsec. (a)(2). [Pub. L. 112–81][/us/pl/112/81], § 312(a)(3)(B), substituted “military installation or State-owned National Guard installation” for “Department of Defense installation”.
 
-    Subsec. (c). [Pub. L. 112–81, § 312(b)(3)(D)][/us/pl/112/81/s312/b/3/D], inserted heading.
+    Subsec. (c). [Pub. L. 112–81][/us/pl/112/81], § 312(b)(3)(D), inserted heading.
 
     2009—[Pub. L. 111–84][/us/pl/111/84] inserted, in section catchline, “and interagency” after “Cooperative”, in subsec. (a), “, and into interagency agreements with the heads of other Federal departments and agencies,” after “and individuals” in introductory provisions and “or interagency agreement” after “cooperative agreement” in par. (2), in subsec. (b), “or interagency agreement” after “cooperative agreement”, and, in subsec. (c), “and interagency agreements” after “Cooperative agreements”.
 
@@ -75,9 +75,9 @@
 
     for “to provide for the” and added par. (2).
 
-    1997—Subsec. (a). [Pub. L. 105–85, § 2908(1)][/us/pl/105/85/s2908/1], substituted “Secretary of a military department” for “Secretary of Defense”.
+    1997—Subsec. (a). [Pub. L. 105–85][/us/pl/105/85], § 2908(1), substituted “Secretary of a military department” for “Secretary of Defense”.
 
-    Subsec. (b). [Pub. L. 105–85, § 2908(2)][/us/pl/105/85/s2908/2], added heading and text of subsec. (b) and struck out former subsec. (b) which read as follows: “A cooperative agreement shall provide for the Secretary of Defense and the other party or parties to the agreement—
+    Subsec. (b). [Pub. L. 105–85][/us/pl/105/85], § 2908(2), added heading and text of subsec. (b) and struck out former subsec. (b) which read as follows: “A cooperative agreement shall provide for the Secretary of Defense and the other party or parties to the agreement—
 
     “(1) to contribute funds on a matching basis to defray the cost of programs, projects, and activities under the agreement; or
 
@@ -93,35 +93,35 @@
 ----------
 
 [/us/usc/t31/s1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1535
-[/us/pl/86/797/s103a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F797%2Fs103a
-[/us/pl/101/189/s2845/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs2845%2Fa
+[/us/pl/86/797/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F797%2FtI
+[/us/pl/101/189/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdB%2FtXXVIII
 [/us/stat/103/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1664
-[/us/pl/105/85/s2908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2908
+[/us/pl/105/85/dB/tXXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdB%2FtXXIX
 [/us/stat/111/2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2021
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4409
-[/us/pl/111/84/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs313
+[/us/pl/111/84/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtIII
 [/us/stat/123/2248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2248
-[/us/pl/112/81/s312/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs312%2Fa%2F3
+[/us/pl/112/81/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIII
 [/us/stat/125/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1352
-[/us/pl/112/239/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs312%2Fa
+[/us/pl/112/239/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtIII
 [/us/stat/126/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1691
-[/us/pl/113/291/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs312
+[/us/pl/113/291/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtIII
 [/us/stat/128/3336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3336
-[/us/pl/113/291/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs312
-[/us/pl/113/291/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs312%2Fa
-[/us/pl/113/291/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs312%2Fb
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/86/797/s103A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F797%2Fs103A
 [/us/pl/86/797/s103a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F797%2Fs103a
-[/us/pl/112/81/s312/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs312%2Fb%2F3%2FA
-[/us/pl/112/81/s312/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs312%2Fb%2F3%2FC
-[/us/pl/112/81/s312/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs312%2Fa%2F3%2FA
-[/us/pl/112/81/s312/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs312%2Fa%2F3%2FB
-[/us/pl/112/81/s312/b/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs312%2Fb%2F3%2FD
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
-[/us/pl/105/85/s2908/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2908%2F1
-[/us/pl/105/85/s2908/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2908%2F2
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 
 

@@ -27,7 +27,7 @@
 
         After making a determination under subsection (a) of this section, the Commission shall continue to monitor State implementation and enforcement. Upon finding that a State has complied with the actions required under subsection (b) of this section, the Commission shall immediately withdraw its determination of noncompliance. The Commission shall promptly notify the Secretaries of such withdrawal.
 
-([Pub. L. 103–206, title VIII, § 806][/us/pl/103/206/s806], Dec. 20, 1993, [107 Stat. 2451][/us/stat/107/2451].)
+([Pub. L. 103–206, title VIII][/us/pl/103/206/tVIII], § 806, Dec. 20, 1993, [107 Stat. 2451][/us/stat/107/2451].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t16/s5104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5104
-[/us/pl/103/206/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs806
+[/us/pl/103/206/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtVIII
 [/us/stat/107/2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2451
 
 

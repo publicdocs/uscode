@@ -17,7 +17,7 @@
 
     The Secretary may enter into cooperative agreements or otherwise cooperate with other Federal agencies, the State, Native Corporations, other appropriate persons and organizations, and, acting through the Secretary of State, other nations to effectuate the purposes and policies of this subchapter.
 
-([Pub. L. 96–487, title VIII, § 809][/us/pl/96/487/s809], Dec. 2, 1980, [94 Stat. 2427][/us/stat/94/2427].)
+([Pub. L. 96–487, title VIII][/us/pl/96/487/tVIII], § 809, Dec. 2, 1980, [94 Stat. 2427][/us/stat/94/2427].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/487/s809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs809
+[/us/pl/96/487/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtVIII
 [/us/stat/94/2427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2427
 
 

@@ -27,7 +27,7 @@
 
         Following the publication of any such notice, the respective Secretaries may continue to acquire the remaining property within the recreation area.
 
-([Pub. L. 89–336, § 3][/us/pl/89/336/s3], Nov. 8, 1965, [79 Stat. 1297][/us/stat/79/1297].)
+([Pub. L. 89–336][/us/pl/89/336], § 3, Nov. 8, 1965, [79 Stat. 1297][/us/stat/79/1297].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/89/336/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F336%2Fs3
+[/us/pl/89/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F336
 [/us/stat/79/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1297
 
 

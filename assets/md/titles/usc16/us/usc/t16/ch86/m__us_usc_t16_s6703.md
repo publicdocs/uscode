@@ -105,7 +105,7 @@
 
         The ability of a system to absorb disturbance without being pushed into a different, possibly less desirable stable state.
 
-([Pub. L. 108–317, § 4][/us/pl/108/317/s4], Oct. 5, 2004, [118 Stat. 1206][/us/stat/118/1206].)
+([Pub. L. 108–317][/us/pl/108/317], § 4, Oct. 5, 2004, [118 Stat. 1206][/us/stat/118/1206].)
 
  __References in Text__ 
 
@@ -120,7 +120,7 @@
 
 [/us/usc/t16/s1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1600
 [/us/usc/t16/s6704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6704%2Fa
-[/us/pl/108/317/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F317%2Fs4
+[/us/pl/108/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F317
 [/us/stat/118/1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1206
 [/us/pl/93/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F378
 [/us/stat/88/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F476

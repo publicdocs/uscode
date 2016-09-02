@@ -17,7 +17,7 @@
 
     Not later than May 1, 2006, and every 3 years thereafter, the Secretary shall submit to Congress a report detailing the status of the recreation fee program conducted for Federal recreational lands and waters, including an evaluation of the recreation fee program, examples of projects that were funded using such fees, and future projects and programs for funding with fees, and containing any recommendations for changes in the overall fee system.
 
-([Pub. L. 108–447, div. J, title VIII, § 809][/us/pl/108/447/s809], Dec. 8, 2004, [118 Stat. 3389][/us/stat/118/3389].)
+([Pub. L. 108–447, div. J, title VIII][/us/pl/108/447/dJ/tVIII], § 809, Dec. 8, 2004, [118 Stat. 3389][/us/stat/118/3389].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/108/447/s809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs809
+[/us/pl/108/447/dJ/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtVIII
 [/us/stat/118/3389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3389
 
 

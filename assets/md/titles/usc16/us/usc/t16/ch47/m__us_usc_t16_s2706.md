@@ -17,7 +17,7 @@
 
     Nothing in this chapter authorizes (1) the loan of funds for construction of any new dam or other impoundment, or (2) the simple and expeditious licensing of any such new dam or other impoundment.
 
-([Pub. L. 95–617, title IV, § 406][/us/pl/95/617/s406], Nov. 9, 1978, [92 Stat. 3156][/us/stat/92/3156].)
+([Pub. L. 95–617, title IV][/us/pl/95/617/tIV], § 406, Nov. 9, 1978, [92 Stat. 3156][/us/stat/92/3156].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/617/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs406
+[/us/pl/95/617/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtIV
 [/us/stat/92/3156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3156
 
 

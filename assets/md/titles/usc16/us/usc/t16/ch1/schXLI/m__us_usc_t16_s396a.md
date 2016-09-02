@@ -19,7 +19,7 @@
 
     (b) The term “native Hawaiian”, as used in this section, means any descendant of not less than one-half part of the blood of the races inhabiting the Hawaiian Islands previous to 1778.
 
-([June 20, 1938, ch. 530, § 3][/us/act/1938-06-20/ch530/s3], [52 Stat. 784][/us/stat/52/784].)
+([June 20, 1938, ch. 530][/us/act/1938-06-20/ch530], § 3, [52 Stat. 784][/us/stat/52/784].)
 
  __Hawaiʻi Volcanoes National Park__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t16/s391b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs391b
-[/us/act/1938-06-20/ch530/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-20%2Fch530%2Fs3
+[/us/act/1938-06-20/ch530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-20%2Fch530
 [/us/stat/52/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F784
 [/us/usc/t16/s391d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs391d
 

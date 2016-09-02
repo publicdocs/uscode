@@ -17,7 +17,7 @@
 
     In planning for the use or development of water and land resources, all Federal agencies shall give consideration to estuaries and their natural resources, and their importance for commercial and industrial developments, and all project plans and reports affecting such estuaries and resources submitted to the Congress shall contain a discussion by the Secretary of the Interior of such estuaries and such resources and the effects of the project on them and his recommendations thereon. The Secretary of the Interior shall make his recommendations within ninety days after receipt of such plans and reports.
 
-([Pub. L. 90–454, § 4][/us/pl/90/454/s4], Aug. 3, 1968, [82 Stat. 627][/us/stat/82/627].)
+([Pub. L. 90–454][/us/pl/90/454], § 4, Aug. 3, 1968, [82 Stat. 627][/us/stat/82/627].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/454/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F454%2Fs4
+[/us/pl/90/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F454
 [/us/stat/82/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F627
 
 

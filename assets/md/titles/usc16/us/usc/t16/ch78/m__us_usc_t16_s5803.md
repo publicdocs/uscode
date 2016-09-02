@@ -71,7 +71,7 @@
 
         While away from the home or regular place of business of a member of the Board in the performance of services for the Board, the member shall be allowed travel expenses paid by the Foundation, including per diem in lieu of subsistence, at the same rate as a person employed intermittently in the Government service is allowed under [section 5703 of title 5][/us/usc/t5/s5703].
 
-([Pub. L. 104–127, title III, § 354][/us/pl/104/127/s354], Apr. 4, 1996, [110 Stat. 1011][/us/stat/110/1011].)
+([Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 354, Apr. 4, 1996, [110 Stat. 1011][/us/stat/110/1011].)
 
 ----------
 
@@ -81,7 +81,7 @@
 ----------
 
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/104/127/s354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs354
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1011
 
 

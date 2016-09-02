@@ -17,7 +17,7 @@
 
     All funds heretofore made available for purposes of Zion National Park and Zion National Monument may be used for purposes of Zion National Park as established by sections 346b to 346d of this title.
 
-([July 11, 1956, ch. 568, § 3][/us/act/1956-07-11/ch568/s3], [70 Stat. 527][/us/stat/70/527].)
+([July 11, 1956, ch. 568][/us/act/1956-07-11/ch568], § 3, [70 Stat. 527][/us/stat/70/527].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1956-07-11/ch568/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-11%2Fch568%2Fs3
+[/us/act/1956-07-11/ch568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-11%2Fch568
 [/us/stat/70/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F527
 
 

@@ -31,7 +31,7 @@
 
         The Secretary is authorized and directed to issue supplementary regulations to promote and protect the purposes for which the recreation area is designated.
 
-([Pub. L. 101–612, § 8][/us/pl/101/612/s8], Nov. 16, 1990, [104 Stat. 3214][/us/stat/104/3214].)
+([Pub. L. 101–612][/us/pl/101/612], § 8, Nov. 16, 1990, [104 Stat. 3214][/us/stat/104/3214].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/101/612/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612%2Fs8
+[/us/pl/101/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612
 [/us/stat/104/3214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3214
 
 

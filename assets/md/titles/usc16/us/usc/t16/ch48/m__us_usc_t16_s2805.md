@@ -73,7 +73,7 @@
 
         If at any time after September 26, 1980, the functions of the Federal Council are by executive action terminated or transferred to an agency other than the Office of Science and Technology Policy, the coordinating group shall carry out its purpose under the direction of the Director. In that event, the recommendations of the coordinating group referred to in subsection (b)(6) and the reports required under subsection (c) shall be made to the Director.
 
-([Pub. L. 96–362, § 6][/us/pl/96/362/s6], Sept. 26, 1980, [94 Stat. 1203][/us/stat/94/1203]; [Pub. L. 99–198, title XVII, § 1736][/us/pl/99/198/s1736], Dec. 23, 1985, [99 Stat. 1643][/us/stat/99/1643].)
+([Pub. L. 96–362][/us/pl/96/362], § 6, Sept. 26, 1980, [94 Stat. 1203][/us/stat/94/1203]; [Pub. L. 99–198, title XVII][/us/pl/99/198/tXVII], § 1736, Dec. 23, 1985, [99 Stat. 1643][/us/stat/99/1643].)
 
  __References in Text__ 
 
@@ -81,9 +81,9 @@
 
  __Amendments__ 
 
-    1985—Subsec. (a)(1). [Pub. L. 99–198, § 1736(1)][/us/pl/99/198/s1736/1], inserted “, who shall be the permanent chairman of the coordinating group”.
+    1985—Subsec. (a)(1). [Pub. L. 99–198][/us/pl/99/198], § 1736(1), inserted “, who shall be the permanent chairman of the coordinating group”.
 
-    Subsecs. (c) to (f). [Pub. L. 99–198, § 1736(2)][/us/pl/99/198/s1736/2]–(4), struck out subsec. (c) which provided that each of the Secretaries or their designees, on such rotating basis as determined by the Director, shall serve as the chairman of the coordinating group, with the term of office of the chairman set at two years, redesignated subsecs. (d) to (f) as (c) to (e), respectively, and in subsec. (e), as redesignated, substituted “subsection (c)” for “subsection (d)”.
+    Subsecs. (c) to (f). [Pub. L. 99–198][/us/pl/99/198], § 1736(2)–(4), struck out subsec. (c) which provided that each of the Secretaries or their designees, on such rotating basis as determined by the Director, shall serve as the chairman of the coordinating group, with the term of office of the chairman set at two years, redesignated subsecs. (d) to (f) as (c) to (e), respectively, and in subsec. (e), as redesignated, substituted “subsection (c)” for “subsection (d)”.
 
 ----------
 
@@ -92,12 +92,12 @@
 ----------
 ----------
 
-[/us/pl/96/362/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F362%2Fs6
+[/us/pl/96/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F362
 [/us/stat/94/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1203
-[/us/pl/99/198/s1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1736
+[/us/pl/99/198/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVII
 [/us/stat/99/1643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1643
 [/us/usc/t42/s6601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6601
-[/us/pl/99/198/s1736/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1736%2F1
-[/us/pl/99/198/s1736/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1736%2F2
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 
 

@@ -27,7 +27,7 @@
 
         In addition to taxation or assessment under subsection (b) upon execution by the United States of a contract of sale of any lands within the project, the lands under contract may be taxed by the State or political subdivision thereof in the same manner and to the same extent as privately owned lands of a like character. All taxes legally so assessed may be enforced in the same manner and under the same proceeding whereby said taxes are enforced against privately owned lands, subject to the limitations in favor of the United States that govern the enforcement of district assessments or taxes as provided in subsection (b). If lands under any such contract shall at any time revert to the United States before transfer of title under the contract by reason of default thereunder, all liens or tax titles resulting from taxes levied pursuant to the authority of this subsection upon such lands shall be thereupon extinguished; and the levying of any such tax by such State or political subdivision shall be deemed to be an agreement on its part, in the event of such reversion, to execute and record a formal release of such lien or tax title.
 
-([May 27, 1937, ch. 269, § 5][/us/act/1937-05-27/ch269/s5], as added [Mar. 10, 1943, ch. 14][/us/act/1943-03-10/ch14], [57 Stat. 19][/us/stat/57/19]; amended [Pub. L. 87–728, § 6(a)][/us/pl/87/728/s6/a], Oct. 1, 1962, [76 Stat. 679][/us/stat/76/679].)
+([May 27, 1937, ch. 269][/us/act/1937-05-27/ch269], § 5, as added [Mar. 10, 1943, ch. 14][/us/act/1943-03-10/ch14], [57 Stat. 19][/us/stat/57/19]; amended [Pub. L. 87–728][/us/pl/87/728], § 6(a), Oct. 1, 1962, [76 Stat. 679][/us/stat/76/679].)
 
  __References in Text__ 
 
@@ -45,10 +45,10 @@
 ----------
 
 [/us/usc/t16/s835c–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs835c%E2%80%934
-[/us/act/1937-05-27/ch269/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-27%2Fch269%2Fs5
+[/us/act/1937-05-27/ch269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-27%2Fch269
 [/us/act/1943-03-10/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-03-10%2Fch14
 [/us/stat/57/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F19
-[/us/pl/87/728/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F728%2Fs6%2Fa
+[/us/pl/87/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F728
 [/us/stat/76/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F679
 [/us/act/1937-05-27/ch269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-27%2Fch269
 [/us/act/1943-03-10/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-03-10%2Fch14

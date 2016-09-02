@@ -23,7 +23,7 @@
 
     (3) In exchange for the Government property conveyed pursuant to sections 192b–6 to 192b–8 of this title the United States shall receive other property of approximately equal value and such differences as there may be in values shall be equalized by a payment of funds: Provided, That all procedures and rights authorized in sections 192b–6 to 192b–8 of this title shall be in conformity with that agreement entered into under date of February 7, 1961, by and between the United States of America and the Colorado Transportation Company.
 
-([Pub. L. 87–146, § 1][/us/pl/87/146/s1], Aug. 17, 1961, [75 Stat. 383][/us/stat/75/383].)
+([Pub. L. 87–146][/us/pl/87/146], § 1, Aug. 17, 1961, [75 Stat. 383][/us/stat/75/383].)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t16/s192b–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs192b%E2%80%938
 [/us/usc/t16/s192b–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs192b%E2%80%938
-[/us/pl/87/146/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F146%2Fs1
+[/us/pl/87/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F146
 [/us/stat/75/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F383
 
 

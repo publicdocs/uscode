@@ -201,13 +201,13 @@
 
             (B) had filed with the Commission a notice of self-certification, self-recertification or an application for Commission certification under 18 CFR 292.207 prior to the date on which the Commission issues the final rule required by paragraph (1).
 
-([Pub. L. 95–617, title II, § 210][/us/pl/95/617/s210], Nov. 9, 1978, [92 Stat. 3144][/us/stat/92/3144]; [Pub. L. 96–294, title VI, § 643(b)][/us/pl/96/294/s643/b], June 30, 1980, [94 Stat. 770][/us/stat/94/770]; [Pub. L. 99–495, § 8(a)][/us/pl/99/495/s8/a], Oct. 16, 1986, [100 Stat. 1249][/us/stat/100/1249]; [Pub. L. 101–575, § 2][/us/pl/101/575/s2], Nov. 15, 1990, [104 Stat. 2834][/us/stat/104/2834]; [Pub. L. 109–58, title XII, § 1253(a)][/us/pl/109/58/s1253/a], Aug. 8, 2005, [119 Stat. 967][/us/stat/119/967].)
+([Pub. L. 95–617, title II][/us/pl/95/617/tII], § 210, Nov. 9, 1978, [92 Stat. 3144][/us/stat/92/3144]; [Pub. L. 96–294, title VI][/us/pl/96/294/tVI], § 643(b), June 30, 1980, [94 Stat. 770][/us/stat/94/770]; [Pub. L. 99–495][/us/pl/99/495], § 8(a), Oct. 16, 1986, [100 Stat. 1249][/us/stat/100/1249]; [Pub. L. 101–575][/us/pl/101/575], § 2, Nov. 15, 1990, [104 Stat. 2834][/us/stat/104/2834]; [Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1253(a), Aug. 8, 2005, [119 Stat. 967][/us/stat/119/967].)
 
  __References in Text__ 
 
     The Federal Power Act, referred to in subsecs. (e), (h), (j)(1), and (m)(7)(B), is [act June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], [41 Stat. 1063][/us/stat/41/1063], as amended, which is classified generally to this chapter (§ 791a et seq.). Part I of the Federal Power Act is classified generally to subchapter I (§ 791a et seq.) of this chapter. Part II of the Federal Power Act is classified generally to this subchapter (§ 824 et seq.). For complete classification of this Act to the Code, see [section 791a of this title][/us/usc/t16/s791a] and Tables.
 
-    The Public Utility Holding Company Act, referred to in subsec. (e), probably means the Public Utility Holding Company Act of 1935, title I of [act Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], [49 Stat. 803][/us/stat/49/803], as amended, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by [Pub. L. 109–58, title XII, § 1263][/us/pl/109/58/s1263], Aug. 8, 2005, [119 Stat. 974][/us/stat/119/974]. For complete classification of this Act to the Code, see Tables.
+    The Public Utility Holding Company Act, referred to in subsec. (e), probably means the Public Utility Holding Company Act of 1935, title I of [act Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], [49 Stat. 803][/us/stat/49/803], as amended, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by [Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1263, Aug. 8, 2005, [119 Stat. 974][/us/stat/119/974]. For complete classification of this Act to the Code, see Tables.
 
     The Electric Consumers Protection Act of 1986, referred to in subsec. (j)(1), is [Pub. L. 99–495][/us/pl/99/495], Oct. 16, 1986, [100 Stat. 1243][/us/stat/100/1243]. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under [section 791a of this title][/us/usc/t16/s791a] and Tables.
 
@@ -227,15 +227,15 @@
 
     1986—Subsecs. (j) to (l). [Pub. L. 99–495][/us/pl/99/495] added subsecs. (j) and (k) and redesignated former subsec. (j) as (l).
 
-    1980—Subsec. (a). [Pub. L. 96–294, § 643(b)(1)][/us/pl/96/294/s643/b/1], inserted provisions relating to encouragement of geothermal small power production facilities.
+    1980—Subsec. (a). [Pub. L. 96–294][/us/pl/96/294], § 643(b)(1), inserted provisions relating to encouragement of geothermal small power production facilities.
 
-    Subsec. (e)(1). [Pub. L. 96–294, § 643(b)(2)][/us/pl/96/294/s643/b/2], inserted provisions relating to applicability to geothermal small power production facilities.
+    Subsec. (e)(1). [Pub. L. 96–294][/us/pl/96/294], § 643(b)(2), inserted provisions relating to applicability to geothermal small power production facilities.
 
-    Subsec. (e)(2). [Pub. L. 96–294, § 643(b)(3)][/us/pl/96/294/s643/b/3], inserted provisions respecting a qualifying small power production facility using geothermal energy as the primary energy source.
+    Subsec. (e)(2). [Pub. L. 96–294][/us/pl/96/294], § 643(b)(3), inserted provisions respecting a qualifying small power production facility using geothermal energy as the primary energy source.
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–495, § 8(b)][/us/pl/99/495/s8/b], Oct. 16, 1986, [100 Stat. 1250][/us/stat/100/1250], provided that:
+[Pub. L. 99–495][/us/pl/99/495], § 8(b), Oct. 16, 1986, [100 Stat. 1250][/us/stat/100/1250], provided that:
 
 >     “(1) Subsection (j) of section 210 of the Public Utility Regulatory Policies Act of 1978 (as amended by subsection (a) of this section) \[[16 U.S.C. 824a–3(j)][/us/usc/t16/s824a–3/j]\] shall apply to any project for which benefits under section 210 of the Public Utility Regulatory Policies Act of 1978 are sought and for which a license or exemption is issued by the Federal Energy Regulatory Commission after the enactment of this Act \[Oct. 16, 1986\], except as otherwise provided in paragraph (2), (3) or (4) of this subsection.
 
@@ -257,13 +257,13 @@
 
  __Calculation of Avoided Cost__ 
 
-[Pub. L. 102–486, title XIII, § 1335][/us/pl/102/486/s1335], Oct. 24, 1992, [106 Stat. 2984][/us/stat/106/2984], provided that: 
+[Pub. L. 102–486, title XIII][/us/pl/102/486/tXIII], § 1335, Oct. 24, 1992, [106 Stat. 2984][/us/stat/106/2984], provided that: 
 
 > “Nothing in section 210 of the Public Utility Regulatory Policies Act of 1978 ([Public Law 95–617][/us/pl/95/617]) \[[16 U.S.C. 824a–3][/us/usc/t16/s824a–3]\] requires a State regulatory authority or nonregulated electric utility to treat a cost reasonably identified to be incurred or to have been incurred in the construction or operation of a facility or a project which has been selected by the Department of Energy and provided Federal funding pursuant to the Clean Coal Program authorized by [Public Law 98–473][/us/pl/98/473] \[see Tables for classification\] as an incremental cost of alternative electric energy.”
 
  __Applicability of 1980 Amendment to Facilities Using Solar Energy as Primary Energy Source__ 
 
-[Pub. L. 100–202, § 101(d)][/us/pl/100/202/s101/d] \[title III, § 310\], Dec. 22, 1987, [101 Stat. 1329–104][/us/stat/101/1329-104], 1329–126, provided that:
+[Pub. L. 100–202][/us/pl/100/202], § 101(d) \[title III, § 310\], Dec. 22, 1987, [101 Stat. 1329–104][/us/stat/101/1329-104], 1329–126, provided that:
 
 >     “(a) The amendments made by section 643(b) of the Energy Security Act ([Public Law 96–294][/us/pl/96/294]) \[amending this section\] and any regulations issued to implement such amendment shall apply to qualifying small power production facilities (as such term is defined in the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\]) using solar energy as the primary energy source to the same extent such amendments and regulations apply to qualifying small power production facilities using geothermal energy as the primary energy source, except that nothing in this Act \[see Tables for classification\] shall preclude the Federal Energy Regulatory Commission from revising its regulations to limit the availability of exemptions authorized under this Act as it determines to be required in the public interest and consistent with its obligations and duties under section 210 of the Public Utility Regulatory Policies Act of 1978 \[this section\].
 
@@ -277,7 +277,7 @@
 
  __Study and Report to Congressional Committees on Application of Provisions Relating to Cogeneration, Small Power Production, and Interconnection Authority to Hydroelectric Power Facilities__ 
 
-[Pub. L. 99–495, § 8(d)][/us/pl/99/495/s8/d], Oct. 16, 1986, [100 Stat. 1251][/us/stat/100/1251], provided that:
+[Pub. L. 99–495][/us/pl/99/495], § 8(d), Oct. 16, 1986, [100 Stat. 1251][/us/stat/100/1251], provided that:
 
 >     “(1) The Commission shall conduct a study (in accordance with section 102(2)(C) of the National Environmental Policy Act of 1969 \[[42 U.S.C. 4332(2)(C)][/us/usc/t42/s4332/2/C]\]) of whether the benefits of section 210 of the Public Utility Regulatory Policies Act of 1978 \[[16 U.S.C. 824a–3][/us/usc/t16/s824a–3]\] and section 210 of the Federal Power Act \[[16 U.S.C. 824i][/us/usc/t16/s824i]\] should be applied to hydroelectric power facilities utilizing new dams or diversions (within the meaning of section 210(k) of the Public Utility Regulatory Policies Act of 1978).
 
@@ -293,7 +293,7 @@
 
  __Moratorium on Application of This Section to New Dams__ 
 
-[Pub. L. 99–495, § 8(e)][/us/pl/99/495/s8/e], Oct. 16, 1986, [100 Stat. 1251][/us/stat/100/1251], provided that: 
+[Pub. L. 99–495][/us/pl/99/495], § 8(e), Oct. 16, 1986, [100 Stat. 1251][/us/stat/100/1251], provided that: 
 
 > “Notwithstanding the amendments made by subsection (a) of this section \[amending [section 824a–3 of this title][/us/usc/t16/s824a–3]\], in the case of a project for which a license or exemption is issued after the enactment of this Act \[Oct. 16, 1986\], section 210 of the Public Utility Regulatory Policies Act of 1978 \[[16 U.S.C. 824a–3][/us/usc/t16/s824a–3]\] shall not apply during the moratorium period if the project utilizes a new dam or diversion (as defined in section 210(k) of such Act) unless the project is either—
 
@@ -332,22 +332,22 @@
 [/us/usc/t16/s823a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs823a%2Fc
 [/us/usc/t16/s796/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs796%2F17
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
-[/us/pl/95/617/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs210
+[/us/pl/95/617/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtII
 [/us/stat/92/3144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3144
-[/us/pl/96/294/s643/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs643%2Fb
+[/us/pl/96/294/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtVI
 [/us/stat/94/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F770
-[/us/pl/99/495/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495%2Fs8%2Fa
+[/us/pl/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495
 [/us/stat/100/1249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1249
-[/us/pl/101/575/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F575%2Fs2
+[/us/pl/101/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F575
 [/us/stat/104/2834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2834
-[/us/pl/109/58/s1253/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1253%2Fa
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F967
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
 [/us/stat/41/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1063
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/act/1935-08-26/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-26%2Fch687
 [/us/stat/49/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F803
-[/us/pl/109/58/s1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1263
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F974
 [/us/pl/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495
 [/us/stat/100/1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1243
@@ -359,10 +359,10 @@
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/101/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F575
 [/us/pl/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495
-[/us/pl/96/294/s643/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs643%2Fb%2F1
-[/us/pl/96/294/s643/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs643%2Fb%2F2
-[/us/pl/96/294/s643/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs643%2Fb%2F3
-[/us/pl/99/495/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495%2Fs8%2Fb
+[/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
+[/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
+[/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
+[/us/pl/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495
 [/us/stat/100/1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1250
 [/us/usc/t16/s824a–3/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824a%E2%80%933%2Fj
 [/us/usc/t16/s824a–3/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824a%E2%80%933%2Fj%2F1
@@ -370,16 +370,16 @@
 [/us/pl/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495
 [/us/pl/99/495/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495%2Fs18
 [/us/usc/t16/s797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs797
-[/us/pl/102/486/s1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1335
+[/us/pl/102/486/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIII
 [/us/stat/106/2984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2984
 [/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
 [/us/usc/t16/s824a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824a%E2%80%933
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
-[/us/pl/100/202/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fd
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-104
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
-[/us/pl/99/495/s8/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495%2Fs8%2Fd
+[/us/pl/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495
 [/us/stat/100/1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1251
 [/us/usc/t42/s4332/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332%2F2%2FC
 [/us/usc/t16/s824a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824a%E2%80%933
@@ -387,7 +387,7 @@
 [/us/usc/t16/s797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs797
 [/us/usc/t16/s824a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824a%E2%80%933
 [/us/usc/t16/s825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs825
-[/us/pl/99/495/s8/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495%2Fs8%2Fe
+[/us/pl/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F495
 [/us/stat/100/1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1251
 [/us/usc/t16/s824a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824a%E2%80%933
 [/us/usc/t16/s824a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824a%E2%80%933

@@ -47,7 +47,7 @@
 
         The Secretary shall identify the funds utilized to enforce this chapter and any regulations thereto as a specific appropriations item in the Department of the Interior appropriations budget proposal to the Congress.
 
-([Pub. L. 97–79, § 9(a)][/us/pl/97/79/s9/a]–(c), (g), (h), Nov. 16, 1981, [95 Stat. 1079][/us/stat/95/1079], 1080.)
+([Pub. L. 97–79][/us/pl/97/79], § 9(a)–(c), (g), (h), Nov. 16, 1981, [95 Stat. 1079][/us/stat/95/1079], 1080.)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 [/us/usc/t16/s851–856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs851%E2%80%93856
 [/us/usc/t16/s667e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs667e
 [/us/usc/t5/s5724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5724
-[/us/pl/97/79/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F79%2Fs9%2Fa
+[/us/pl/97/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F79
 [/us/stat/95/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1079
 [/us/act/1926-05-20/ch346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-20%2Fch346
 [/us/stat/44/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F576

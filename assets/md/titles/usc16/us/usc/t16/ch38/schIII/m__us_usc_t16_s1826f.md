@@ -17,7 +17,7 @@
 
     The Secretary of State shall determine in writing prior to the signing or provisional application by the United States of any international agreement with respect to the conservation and management of living marine resources or the use of the high seas by fishing vessels that the prohibition contained in [section 1826d of this title][/us/usc/t16/s1826d] will not be violated if such agreement is signed or provisionally applied.
 
-([Pub. L. 104–43, title VI, § 605][/us/pl/104/43/s605], Nov. 3, 1995, [109 Stat. 392][/us/stat/109/392].)
+([Pub. L. 104–43, title VI][/us/pl/104/43/tVI], § 605, Nov. 3, 1995, [109 Stat. 392][/us/stat/109/392].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t16/s1826d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826d
-[/us/pl/104/43/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs605
+[/us/pl/104/43/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtVI
 [/us/stat/109/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F392
 
 

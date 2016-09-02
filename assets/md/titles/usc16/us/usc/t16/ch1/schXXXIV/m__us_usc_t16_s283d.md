@@ -17,7 +17,7 @@
 
     Any funds available for the purpose of administering the five thousand six hundred and thirty-two acres of lands previously donated to the United States in Culberson County, Texas, shall upon establishment of the Guadalupe Mountains National Park pursuant to this subchapter be available to the Secretary for purposes of such park.
 
-([Pub. L. 89–667, § 5][/us/pl/89/667/s5], Oct. 15, 1966, [80 Stat. 922][/us/stat/80/922].)
+([Pub. L. 89–667][/us/pl/89/667], § 5, Oct. 15, 1966, [80 Stat. 922][/us/stat/80/922].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/667/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F667%2Fs5
+[/us/pl/89/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F667
 [/us/stat/80/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F922
 
 

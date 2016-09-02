@@ -23,7 +23,7 @@
 
         The head of each Federal agency affected by this chapter shall report and certify that each such agency is in compliance with the provisions of this chapter. Such reports and certifications shall be submitted annually to the Committees and the Secretary.
 
-([Pub. L. 97–348, § 7][/us/pl/97/348/s7], Oct. 18, 1982, [96 Stat. 1657][/us/stat/96/1657]; [Pub. L. 101–591, § 14][/us/pl/101/591/s14], Nov. 16, 1990, [104 Stat. 2941][/us/stat/104/2941].)
+([Pub. L. 97–348][/us/pl/97/348], § 7, Oct. 18, 1982, [96 Stat. 1657][/us/stat/96/1657]; [Pub. L. 101–591][/us/pl/101/591], § 14, Nov. 16, 1990, [104 Stat. 2941][/us/stat/104/2941].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/97/348/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F348%2Fs7
+[/us/pl/97/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F348
 [/us/stat/96/1657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1657
-[/us/pl/101/591/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591%2Fs14
+[/us/pl/101/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591
 [/us/stat/104/2941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2941
 [/us/pl/101/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F591
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

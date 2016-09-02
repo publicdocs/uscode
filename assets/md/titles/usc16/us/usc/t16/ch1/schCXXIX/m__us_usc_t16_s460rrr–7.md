@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as are necessary to carry out this subchapter.
 
-([Pub. L. 109–337, § 9][/us/pl/109/337/s9], Oct. 12, 2006, [120 Stat. 1782][/us/stat/120/1782].)
+([Pub. L. 109–337][/us/pl/109/337], § 9, Oct. 12, 2006, [120 Stat. 1782][/us/stat/120/1782].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/109/337/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F337%2Fs9
+[/us/pl/109/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F337
 [/us/stat/120/1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1782
 
 

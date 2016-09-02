@@ -23,7 +23,7 @@
 
         The Secretary of Agriculture may request the services of, and enter into cooperative agreements with, individuals or entities certified as technical service providers under [section 3842 of this title][/us/usc/t16/s3842], to assist the Secretary in providing technical assistance necessary to develop and implement the healthy forests reserve program.
 
-([Pub. L. 108–148, title V, § 505][/us/pl/108/148/s505], Dec. 3, 2003, [117 Stat. 1913][/us/stat/117/1913].)
+([Pub. L. 108–148, title V][/us/pl/108/148/tV], § 505, Dec. 3, 2003, [117 Stat. 1913][/us/stat/117/1913].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t16/s3842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3842
-[/us/pl/108/148/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2Fs505
+[/us/pl/108/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2FtV
 [/us/stat/117/1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1913
 
 

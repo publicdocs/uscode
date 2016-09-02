@@ -17,7 +17,7 @@
 
     This chapter shall be liberally construed to carry out the purposes of Congress to provide for the disposition of and make needful rules and regulations respecting Government properties entrusted to the Authority, provide for the national defense, improve navigation, control destructive floods, and promote interstate commerce and the general welfare, but no real estate shall be held except what is necessary in the opinion of the Board to carry out plans and projects actually decided upon requiring the use of such land: Provided, That any land purchased by the Authority and not necessary to carry out plans and projects actually decided upon shall be sold by the Authority as agent of the United States, after due advertisement, at public auction to the highest bidder.
 
-([May 18, 1933, ch. 32, § 31][/us/act/1933-05-18/ch32/s31], as added [Aug. 31, 1935, ch. 836, § 12][/us/act/1935-08-31/ch836/s12], [49 Stat. 1080][/us/stat/49/1080].)
+([May 18, 1933, ch. 32][/us/act/1933-05-18/ch32], § 31, as added [Aug. 31, 1935, ch. 836][/us/act/1935-08-31/ch836], § 12, [49 Stat. 1080][/us/stat/49/1080].)
 
  __Codification__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/act/1933-05-18/ch32/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32%2Fs31
-[/us/act/1935-08-31/ch836/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-31%2Fch836%2Fs12
+[/us/act/1933-05-18/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32
+[/us/act/1935-08-31/ch836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-31%2Fch836
 [/us/stat/49/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1080
 [/us/usc/t16/s831c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs831c
 

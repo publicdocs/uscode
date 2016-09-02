@@ -35,7 +35,7 @@
 
         (7) Designation by this section shall not interfere with rights of access to privately held lands.
 
-([Pub. L. 102–217, § 4][/us/pl/102/217/s4], Dec. 11, 1991, [105 Stat. 1668][/us/stat/105/1668]; [Pub. L. 102–456, § 2][/us/pl/102/456/s2], Oct. 23, 1992, [106 Stat. 2264][/us/stat/106/2264].)
+([Pub. L. 102–217][/us/pl/102/217], § 4, Dec. 11, 1991, [105 Stat. 1668][/us/stat/105/1668]; [Pub. L. 102–456][/us/pl/102/456], § 2, Oct. 23, 1992, [106 Stat. 2264][/us/stat/106/2264].)
 
  __References in Text__ 
 
@@ -52,9 +52,9 @@
 ----------
 ----------
 
-[/us/pl/102/217/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F217%2Fs4
+[/us/pl/102/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F217
 [/us/stat/105/1668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1668
-[/us/pl/102/456/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F456%2Fs2
+[/us/pl/102/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F456
 [/us/stat/106/2264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2264
 [/us/pl/102/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F456
 

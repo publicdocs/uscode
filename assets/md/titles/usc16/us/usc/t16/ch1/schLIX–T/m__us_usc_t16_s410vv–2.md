@@ -37,7 +37,7 @@
 
         (2) The Secretary shall pursue protection and preservation alternatives for the protection zone by working with affected State and local governments and affected landowners to develop and implement land use practices consistent with this subchapter.
 
-([Pub. L. 102–350, § 4][/us/pl/102/350/s4], Aug. 26, 1992, [106 Stat. 934][/us/stat/106/934]; [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title I, § 143\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–267.)
+([Pub. L. 102–350][/us/pl/102/350], § 4, Aug. 26, 1992, [106 Stat. 934][/us/stat/106/934]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title I, § 143\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–267.)
 
  __References in Text__ 
 
@@ -55,9 +55,9 @@
 ----------
 
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
-[/us/pl/102/350/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F350%2Fs4
+[/us/pl/102/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F350
 [/us/stat/106/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F934
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408

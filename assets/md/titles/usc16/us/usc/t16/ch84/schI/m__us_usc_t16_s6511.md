@@ -183,7 +183,7 @@
 
             (iii) an area that is adjacent to an evacuation route for an at-risk community that the Secretary determines, in cooperation with the at-risk community, requires hazardous fuel reduction to provide safer evacuation from the at-risk community.
 
-([Pub. L. 108–148, title I, § 101][/us/pl/108/148/s101], Dec. 3, 2003, [117 Stat. 1889][/us/stat/117/1889].)
+([Pub. L. 108–148, title I][/us/pl/108/148/tI], § 101, Dec. 3, 2003, [117 Stat. 1889][/us/stat/117/1889].)
 
  __References in Text__ 
 
@@ -207,7 +207,7 @@
 [/us/usc/t16/s6502/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6502%2F1%2FA
 [/us/usc/t16/s6502/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6502%2F1%2FB
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
-[/us/pl/108/148/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2Fs101
+[/us/pl/108/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2FtI
 [/us/stat/117/1889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1889
 [/us/pl/106/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291
 [/us/stat/114/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F922

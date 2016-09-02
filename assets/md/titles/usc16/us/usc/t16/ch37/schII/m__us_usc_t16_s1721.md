@@ -39,7 +39,7 @@
 
         (5) stimulate interest among the Nation’s young men and women in conservation careers by exposing them to conservation professionals in land managing agencies.
 
-([Pub. L. 91–378, title II, § 202][/us/pl/91/378/s202], as added [Pub. L. 103–82, title I, § 105(6)][/us/pl/103/82/s105/6], Sept. 21, 1993, [107 Stat. 848][/us/stat/107/848].)
+([Pub. L. 91–378, title II][/us/pl/91/378/tII], § 202, as added [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 105(6), Sept. 21, 1993, [107 Stat. 848][/us/stat/107/848].)
 
  __Effective Date__ 
 
@@ -47,7 +47,7 @@
 
  __Short Title__ 
 
-    For short title of title II of [Pub. L. 91–378][/us/pl/91/378], as added by [Pub. L. 103–82, title I, § 105(6)][/us/pl/103/82/s105/6], Sept. 21, 1993, [107 Stat. 848][/us/stat/107/848], as the “Public Lands Corps Act of 1993”, see Short Title note set out under [section 1701 of this title][/us/usc/t16/s1701].
+    For short title of title II of [Pub. L. 91–378][/us/pl/91/378], as added by [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 105(6), Sept. 21, 1993, [107 Stat. 848][/us/stat/107/848], as the “Public Lands Corps Act of 1993”, see Short Title note set out under [section 1701 of this title][/us/usc/t16/s1701].
 
 ----------
 
@@ -56,13 +56,13 @@
 ----------
 ----------
 
-[/us/pl/91/378/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F378%2Fs202
-[/us/pl/103/82/s105/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs105%2F6
+[/us/pl/91/378/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F378%2FtII
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F848
 [/us/pl/103/82/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs123
 [/us/usc/t16/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1701
 [/us/pl/91/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F378
-[/us/pl/103/82/s105/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs105%2F6
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F848
 [/us/usc/t16/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1701
 

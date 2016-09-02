@@ -27,7 +27,7 @@
 
         In implementing this subchapter, the Secretary may cooperate with international, Federal, State, and other governmental agencies, with public or private agencies, institutions, universities, and organizations, and with businesses and individuals in the United States and in other countries. The Secretary may receive money and other contributions from cooperators under such conditions as the Secretary may prescribe. Any money contributions received under this subsection shall be credited to the applicable appropriation or fund to be used for the same purposes and shall remain available until expended as the Secretary may direct for use in conducting research activities authorized by this subchapter and in making refunds to contributors.
 
-([Pub. L. 95–307, § 4(a)][/us/pl/95/307/s4/a]–(c), June 30, 1978, [92 Stat. 354][/us/stat/92/354], 355; [Pub. L. 101–513, title VI, § 611(a)(2)][/us/pl/101/513/s611/a/2], formerly § 607(a)(2), Nov. 5, 1990, [104 Stat. 2072][/us/stat/104/2072], renumbered § 611(a)(2), [Pub. L. 102–574, § 2(a)(1)][/us/pl/102/574/s2/a/1], Oct. 29, 1992, [106 Stat. 4593][/us/stat/106/4593].)
+([Pub. L. 95–307][/us/pl/95/307], § 4(a)–(c), June 30, 1978, [92 Stat. 354][/us/stat/92/354], 355; [Pub. L. 101–513, title VI][/us/pl/101/513/tVI], § 611(a)(2), formerly § 607(a)(2), Nov. 5, 1990, [104 Stat. 2072][/us/stat/104/2072], renumbered § 611(a)(2), [Pub. L. 102–574][/us/pl/102/574], § 2(a)(1), Oct. 29, 1992, [106 Stat. 4593][/us/stat/106/4593].)
 
  __Amendments__ 
 
@@ -40,11 +40,11 @@
 ----------
 ----------
 
-[/us/pl/95/307/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F307%2Fs4%2Fa
+[/us/pl/95/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F307
 [/us/stat/92/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F354
-[/us/pl/101/513/s611/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs611%2Fa%2F2
+[/us/pl/101/513/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtVI
 [/us/stat/104/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2072
-[/us/pl/102/574/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F574%2Fs2%2Fa%2F1
+[/us/pl/102/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F574
 [/us/stat/106/4593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4593
 [/us/pl/101/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513
 

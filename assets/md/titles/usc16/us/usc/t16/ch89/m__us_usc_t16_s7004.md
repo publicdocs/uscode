@@ -29,7 +29,7 @@
 
         In addition to individuals appointed under subsection (a), the Secretary, jointly with the Government of Canada, shall appoint 1 independent member to the joint technical committee selected from a list of names provided by the advisory panel.
 
-([Pub. L. 109–479, title VI, § 605][/us/pl/109/479/s605], Jan. 12, 2007, [120 Stat. 3646][/us/stat/120/3646]; [Pub. L. 111–348, title III, § 302(a)][/us/pl/111/348/s302/a], Jan. 4, 2011, [124 Stat. 3672][/us/stat/124/3672].)
+([Pub. L. 109–479, title VI][/us/pl/109/479/tVI], § 605, Jan. 12, 2007, [120 Stat. 3646][/us/stat/120/3646]; [Pub. L. 111–348, title III][/us/pl/111/348/tIII], § 302(a), Jan. 4, 2011, [124 Stat. 3672][/us/stat/124/3672].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/109/479/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs605
+[/us/pl/109/479/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtVI
 [/us/stat/120/3646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3646
-[/us/pl/111/348/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F348%2Fs302%2Fa
+[/us/pl/111/348/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F348%2FtIII
 [/us/stat/124/3672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3672
 [/us/pl/111/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F348
 

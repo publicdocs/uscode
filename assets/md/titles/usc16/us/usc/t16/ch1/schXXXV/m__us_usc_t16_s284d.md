@@ -41,7 +41,7 @@
 
         The cooperative agreement shall contain such other terms and conditions as the Secretary deems appropriate. Until such cooperative agreement is entered into, nothing in this section shall be construed to affect or impair the validity of the agreement between the National Park Service and the Foundation dated September 16, 1980. Such agreement shall remain in force and effect until terminated under the terms and conditions of such agreement or until an agreement is entered into under this section. Nothing in this section shall be construed to affect the authority of the Secretary under any other provision of law to enter into a contract or an agreement, not conflicting with the cooperative agreement described in this section, with any other organization or entity with respect to the administration of the park.
 
-([Pub. L. 89–671, § 5][/us/pl/89/671/s5], as added [Pub. L. 97–310][/us/pl/97/310], Oct. 14, 1982, [96 Stat. 1456][/us/stat/96/1456]; amended [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 101–636, § 2][/us/pl/101/636/s2], Nov. 28, 1990, [104 Stat. 4587][/us/stat/104/4587].)
+([Pub. L. 89–671][/us/pl/89/671], § 5, as added [Pub. L. 97–310][/us/pl/97/310], Oct. 14, 1982, [96 Stat. 1456][/us/stat/96/1456]; amended [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 101–636][/us/pl/101/636], § 2, Nov. 28, 1990, [104 Stat. 4587][/us/stat/104/4587].)
 
  __Amendments__ 
 
@@ -67,12 +67,12 @@
 [/us/usc/t16/s284c/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs284c%2Fc%2F3
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/usc/t26/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fa
-[/us/pl/89/671/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F671%2Fs5
+[/us/pl/89/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F671
 [/us/pl/97/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F310
 [/us/stat/96/1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1456
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/101/636/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F636%2Fs2
+[/us/pl/101/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F636
 [/us/stat/104/4587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4587
 [/us/pl/101/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F636
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

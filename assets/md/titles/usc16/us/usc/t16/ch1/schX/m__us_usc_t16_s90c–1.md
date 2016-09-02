@@ -35,7 +35,7 @@
 
         The Secretary shall not permit the construction or use of any road within the park which would provide vehicular access from the North Cross State Highway to the Stehekin Road. Neither shall he permit the construction or use of any permanent road which would provide vehicular access between May Creek and Hozomeen along the east side of Ross Lake.
 
-([Pub. L. 90–544, title IV, § 402][/us/pl/90/544/s402], Oct. 2, 1968, [82 Stat. 928][/us/stat/82/928]; [Pub. L. 100–668, title II][/us/pl/100/668], §§ 205, 206, Nov. 16, 1988, [102 Stat. 3964][/us/stat/102/3964].)
+([Pub. L. 90–544, title IV][/us/pl/90/544/tIV], § 402, Oct. 2, 1968, [82 Stat. 928][/us/stat/82/928]; [Pub. L. 100–668, title II][/us/pl/100/668/tII], §§ 205, 206, Nov. 16, 1988, [102 Stat. 3964][/us/stat/102/3964].)
 
  __References in Text__ 
 
@@ -45,9 +45,9 @@
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–668, § 205][/us/pl/100/668/s205], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary shall administer the recreation areas in a manner which in his judgment will best provide for (1) public outdoor recreation benefits; (2) conservation of scenic, scientific, historic, and other values contributing to public enjoyment; and (3) such management, utilization, and disposal of renewable natural resources and the continuation of such existing uses and developments as will promote or are compatible with, or do not significantly impair, public recreation and conservation of the scenic, scientific, historic, or other values contributing to public enjoyment. In administering the recreation areas, the Secretary may utilize such statutory authorities pertaining to the administration of the national park system, and such statutory authorities otherwise available to him for the conservation and management of natural resources as he deems appropriate for recreation and preservation purposes and for resource development compatible therewith.”
+    1988—Subsec. (a). [Pub. L. 100–668][/us/pl/100/668], § 205, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary shall administer the recreation areas in a manner which in his judgment will best provide for (1) public outdoor recreation benefits; (2) conservation of scenic, scientific, historic, and other values contributing to public enjoyment; and (3) such management, utilization, and disposal of renewable natural resources and the continuation of such existing uses and developments as will promote or are compatible with, or do not significantly impair, public recreation and conservation of the scenic, scientific, historic, or other values contributing to public enjoyment. In administering the recreation areas, the Secretary may utilize such statutory authorities pertaining to the administration of the national park system, and such statutory authorities otherwise available to him for the conservation and management of natural resources as he deems appropriate for recreation and preservation purposes and for resource development compatible therewith.”
 
-    Subsec. (b). [Pub. L. 100–668, § 206][/us/pl/100/668/s206], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The lands within the recreation areas, subject to valid existing rights, are hereby withdrawn from location, entry, and patent under the United States mining laws. The Secretary, under such reasonable regulations as he deems appropriate, may permit the removal of the nonleasable minerals from lands or interest in lands within the recreation areas in the manner prescribed by [section 387 of title 43][/us/usc/t43/s387], and he may permit the removal of leasable minerals from lands or interests in lands within the recreation areas in accordance with the Mineral Leasing Act of February 25, 1920, as amended, or the Acquired Lands Mineral Leasing Act of August 7, 1947, if he finds that such disposition would not have significant adverse effects on the administration of the recreation areas.”
+    Subsec. (b). [Pub. L. 100–668][/us/pl/100/668], § 206, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The lands within the recreation areas, subject to valid existing rights, are hereby withdrawn from location, entry, and patent under the United States mining laws. The Secretary, under such reasonable regulations as he deems appropriate, may permit the removal of the nonleasable minerals from lands or interest in lands within the recreation areas in the manner prescribed by [section 387 of title 43][/us/usc/t43/s387], and he may permit the removal of leasable minerals from lands or interests in lands within the recreation areas in accordance with the Mineral Leasing Act of February 25, 1920, as amended, or the Acquired Lands Mineral Leasing Act of August 7, 1947, if he finds that such disposition would not have significant adverse effects on the administration of the recreation areas.”
 
 ----------
 
@@ -58,9 +58,9 @@
 
 [/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
 [/us/usc/t30/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs351
-[/us/pl/90/544/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F544%2Fs402
+[/us/pl/90/544/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F544%2FtIV
 [/us/stat/82/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F928
-[/us/pl/100/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F668
+[/us/pl/100/668/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F668%2FtII
 [/us/stat/102/3964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3964
 [/us/act/1920-02-25/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-02-25%2Fch85
 [/us/stat/41/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F437
@@ -68,8 +68,8 @@
 [/us/act/1947-08-07/ch513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-07%2Fch513
 [/us/stat/61/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F913
 [/us/usc/t30/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs351
-[/us/pl/100/668/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F668%2Fs205
-[/us/pl/100/668/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F668%2Fs206
+[/us/pl/100/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F668
+[/us/pl/100/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F668
 [/us/usc/t43/s387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs387
 
 

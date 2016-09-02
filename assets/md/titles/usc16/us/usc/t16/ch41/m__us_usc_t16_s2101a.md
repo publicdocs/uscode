@@ -81,7 +81,7 @@
 
         The State forester or equivalent State official shall submit to the Secretary an annual report detailing how funds made available to the State under this chapter are being used.
 
-([Pub. L. 95–313, § 2A][/us/pl/95/313/s2A], as added [Pub. L. 110–234, title VIII, § 8002][/us/pl/110/234/s8002], May 22, 2008, [122 Stat. 1280][/us/stat/122/1280], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VIII, § 8002, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2041; amended [Pub. L. 113–79, title VIII, § 8101][/us/pl/113/79/s8101], Feb. 7, 2014, [128 Stat. 914][/us/stat/128/914].)
+([Pub. L. 95–313][/us/pl/95/313], § 2A, as added [Pub. L. 110–234, title VIII][/us/pl/110/234/tVIII], § 8002, May 22, 2008, [122 Stat. 1280][/us/stat/122/1280], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VIII, § 8002, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2041; amended [Pub. L. 113–79, title VIII][/us/pl/113/79/tVIII], § 8101, Feb. 7, 2014, [128 Stat. 914][/us/stat/128/914].)
 
  __References in Text__ 
 
@@ -95,9 +95,9 @@
 
  __Amendments__ 
 
-    2014—Subsec. (c)(5), (6). [Pub. L. 113–79, § 8101(1)][/us/pl/113/79/s8101/1], added par. (5) and redesignated former par. (5) as (6).
+    2014—Subsec. (c)(5), (6). [Pub. L. 113–79][/us/pl/113/79], § 8101(1), added par. (5) and redesignated former par. (5) as (6).
 
-    Subsec. (f)(1). [Pub. L. 113–79, § 8101(2)][/us/pl/113/79/s8101/2], substituted “2018” for “2012”.
+    Subsec. (f)(1). [Pub. L. 113–79][/us/pl/113/79], § 8101(2), substituted “2018” for “2012”.
 
  __Effective Date__ 
 
@@ -113,12 +113,12 @@
 [/us/usc/t16/s2101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2101%2Fc
 [/us/usc/t16/s2113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2113%2Fb
 [/us/usc/t16/s2103c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2103c
-[/us/pl/95/313/s2A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313%2Fs2A
-[/us/pl/110/234/s8002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs8002
+[/us/pl/95/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313
+[/us/pl/110/234/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVIII
 [/us/stat/122/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1280
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s8101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8101
+[/us/pl/113/79/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVIII
 [/us/stat/128/914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F914
 [/us/pl/95/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313
 [/us/stat/92/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F365
@@ -128,8 +128,8 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s8101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8101%2F1
-[/us/pl/113/79/s8101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8101%2F2
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

@@ -31,7 +31,7 @@
 
         The Secretary shall administer the recreation area in accordance with the laws, rules and regulations applicable to the national forests in such manner as will best provide for (1) public outdoor recreation (including but not limited to snowmobile use); (2) conservation of scenic, natural, historic, and other values contributing to public enjoyment; and (3) such management, utilization, and disposal of natural resources on federally owned lands within the recreation area which are compatible with and which do not significantly impair the purposes for which the recreation area is established.
 
-([Pub. L. 98–339, § 7][/us/pl/98/339/s7], July 3, 1984, [98 Stat. 304][/us/stat/98/304].)
+([Pub. L. 98–339][/us/pl/98/339], § 7, July 3, 1984, [98 Stat. 304][/us/stat/98/304].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/98/339/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F339%2Fs7
+[/us/pl/98/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F339
 [/us/stat/98/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F304
 [/us/pl/98/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F339
 [/us/stat/98/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F299

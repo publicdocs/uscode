@@ -17,7 +17,7 @@
 
     After January 26, 1931, no permit, license, lease, or other authorization for the prospecting, development, or utilization of the mineral resources within the Mesa Verde National Park, Colorado, shall be granted or made.
 
-([Jan. 26, 1931, ch. 47, § 1][/us/act/1931-01-26/ch47/s1], [46 Stat. 1043][/us/stat/46/1043].)
+([Jan. 26, 1931, ch. 47][/us/act/1931-01-26/ch47], § 1, [46 Stat. 1043][/us/stat/46/1043].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1931-01-26/ch47/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-01-26%2Fch47%2Fs1
+[/us/act/1931-01-26/ch47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-01-26%2Fch47
 [/us/stat/46/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1043
 
 

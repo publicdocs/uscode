@@ -17,7 +17,7 @@
 
     Any person may make voluntary payments to assist the National Council to carry out its annual marketing and promotion plan and annual budget. The Secretary shall deposit such payments into the Fund.
 
-([Pub. L. 99–659, title II, § 208][/us/pl/99/659/s208], Nov. 14, 1986, [100 Stat. 3720][/us/stat/100/3720].)
+([Pub. L. 99–659, title II][/us/pl/99/659/tII], § 208, Nov. 14, 1986, [100 Stat. 3720][/us/stat/100/3720].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/659/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs208
+[/us/pl/99/659/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtII
 [/us/stat/100/3720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3720
 
 

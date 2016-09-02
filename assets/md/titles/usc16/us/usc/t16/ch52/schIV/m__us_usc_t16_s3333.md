@@ -57,7 +57,7 @@
 
         The Secretary shall approve such program within ninety days of the date of receipt of the program if found to be consistent with this chapter and other applicable law. If the Secretary finds that such program is not in conformity with the provisions of this chapter or other applicable law, he shall return such program to the State with recommendations. Any revision, modification, or amendment to the program shall be approved within thirty days of receipt unless found to be inconsistent with this chapter or other applicable law.
 
-([Pub. L. 96–561, title I, § 132][/us/pl/96/561/s132], Dec. 22, 1980, [94 Stat. 3284][/us/stat/94/3284].)
+([Pub. L. 96–561, title I][/us/pl/96/561/tI], § 132, Dec. 22, 1980, [94 Stat. 3284][/us/stat/94/3284].)
 
 ----------
 
@@ -67,7 +67,7 @@
 ----------
 
 [/us/usc/t16/s3332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3332
-[/us/pl/96/561/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs132
+[/us/pl/96/561/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtI
 [/us/stat/94/3284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3284
 
 

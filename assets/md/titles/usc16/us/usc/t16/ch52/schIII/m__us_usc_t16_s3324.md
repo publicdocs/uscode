@@ -17,7 +17,7 @@
 
     The Secretary, in cooperation with the Secretary of Commerce, shall establish, in consultation with the State of Washington, the State of Oregon, and the appropriate tribal coordinating body, a system to monitor and evaluate on a continuing basis all enhancement projects for which funds have been distributed under this subchapter, and may discontinue or suspend distribution of all or part of the funds if any project is not being carried out in a manner consistent with the comprehensive enhancement plan concerned and this chapter. Each recipient of a grant under this subchapter shall make available to the Secretary and to the Comptroller General of the United States for purposes of audit and examination, any book, document, paper, and record that is pertinent to the funds received under the grant.
 
-([Pub. L. 96–561, title I, § 123][/us/pl/96/561/s123], Dec. 22, 1980, [94 Stat. 3283][/us/stat/94/3283].)
+([Pub. L. 96–561, title I][/us/pl/96/561/tI], § 123, Dec. 22, 1980, [94 Stat. 3283][/us/stat/94/3283].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/561/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs123
+[/us/pl/96/561/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtI
 [/us/stat/94/3283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3283
 
 

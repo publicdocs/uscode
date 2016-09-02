@@ -17,7 +17,7 @@
 
     The Federal lands in the Cooperative Management and Protection Area depicted as wilderness on the map entitled “Steens Mountain Wilderness Area” and dated September 18, 2000, are hereby designated as wilderness and therefore as a component of the National Wilderness Preservation System. The wilderness area shall be known as the Steens Mountain Wilderness Area.
 
-([Pub. L. 106–399, title II, § 201][/us/pl/106/399/s201], Oct. 30, 2000, [114 Stat. 1666][/us/stat/114/1666].)
+([Pub. L. 106–399, title II][/us/pl/106/399/tII], § 201, Oct. 30, 2000, [114 Stat. 1666][/us/stat/114/1666].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/106/399/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2Fs201
+[/us/pl/106/399/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2FtII
 [/us/stat/114/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1666
 [/us/pl/106/399/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2Fs201
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132

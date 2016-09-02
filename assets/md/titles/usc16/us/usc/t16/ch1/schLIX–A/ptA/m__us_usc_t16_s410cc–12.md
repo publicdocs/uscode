@@ -27,7 +27,7 @@
 
         No Federal entity may issue any license or permit to any person to conduct an activity within the park or preservation district unless such entity determines that the proposed activity will be conducted in a manner consistent with the standards and criteria established pursuant to [section 410cc–32(e) of this title][/us/usc/t16/s410cc–32/e] and will not have an adverse effect on the resources of the park or preservation district.
 
-([Pub. L. 95–290, title I, § 102][/us/pl/95/290/s102], June 5, 1978, [92 Stat. 291][/us/stat/92/291].)
+([Pub. L. 95–290, title I][/us/pl/95/290/tI], § 102, June 5, 1978, [92 Stat. 291][/us/stat/92/291].)
 
 ----------
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t16/s410cc–32/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410cc%E2%80%9332%2Fe
 [/us/usc/t16/s410cc–32/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410cc%E2%80%9332%2Fe
-[/us/pl/95/290/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F290%2Fs102
+[/us/pl/95/290/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F290%2FtI
 [/us/stat/92/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F291
 
 

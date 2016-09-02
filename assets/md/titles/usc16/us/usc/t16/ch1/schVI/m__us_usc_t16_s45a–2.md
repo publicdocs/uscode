@@ -23,7 +23,7 @@
 
     Tract E. The southwest quarter of the northwest quarter of section 4, which shall be subject to [section 818 of this title][/us/usc/t16/s818]; the south half of the northeast quarter of section 5; and approximately sixty-eight acres of the north half of the southeast quarter of section 5, which shall not include the surveyed two-hundred-foot strip as shown on map “D” of exhibit “K”, entitled “Detailed Map of Kaweah Project of the Southern California Edison Company, Ltd.”, and filed in the office of the Federal Power Commission on December 12, 1923; all of said lands in tract E being situated in township 17 south, range 29 east, Mount Diablo meridian, comprising approximately one hundred and eighty-eight acres.
 
-([Dec. 21, 1943, ch. 372, § 2][/us/act/1943-12-21/ch372/s2], [57 Stat. 606][/us/stat/57/606].)
+([Dec. 21, 1943, ch. 372][/us/act/1943-12-21/ch372], § 2, [57 Stat. 606][/us/stat/57/606].)
 
 ----------
 
@@ -35,7 +35,7 @@
 [/us/usc/t16/s45a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs45a%E2%80%931
 [/us/usc/t16/s45a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs45a%E2%80%931
 [/us/usc/t16/s818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs818
-[/us/act/1943-12-21/ch372/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-12-21%2Fch372%2Fs2
+[/us/act/1943-12-21/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-12-21%2Fch372
 [/us/stat/57/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F606
 
 

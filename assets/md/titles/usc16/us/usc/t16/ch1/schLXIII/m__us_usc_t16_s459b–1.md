@@ -37,7 +37,7 @@
 
         As used in sections 459b to 459b–8 of this title the term “fair market value” shall mean the fair market value as determined by the Secretary, who may in his discretion base his determination on an independent appraisal obtained by him.
 
-([Pub. L. 87–126, § 2][/us/pl/87/126/s2], Aug. 7, 1961, [75 Stat. 287][/us/stat/75/287]; [Pub. L. 105–280, § 1(a)][/us/pl/105/280/s1/a], Oct. 26, 1998, [112 Stat. 2694][/us/stat/112/2694].)
+([Pub. L. 87–126][/us/pl/87/126], § 2, Aug. 7, 1961, [75 Stat. 287][/us/stat/75/287]; [Pub. L. 105–280][/us/pl/105/280], § 1(a), Oct. 26, 1998, [112 Stat. 2694][/us/stat/112/2694].)
 
  __Amendments__ 
 
@@ -53,9 +53,9 @@
 [/us/usc/t16/s459b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459b
 [/us/usc/t16/s459b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459b%E2%80%932
 [/us/usc/t16/s459b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459b
-[/us/pl/87/126/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F126%2Fs2
+[/us/pl/87/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F126
 [/us/stat/75/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F287
-[/us/pl/105/280/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F280%2Fs1%2Fa
+[/us/pl/105/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F280
 [/us/stat/112/2694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2694
 [/us/pl/105/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F280
 

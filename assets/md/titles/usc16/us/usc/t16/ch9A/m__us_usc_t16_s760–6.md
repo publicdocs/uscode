@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated such sums as may be necessary to carry out [section 760–5 of this title][/us/usc/t16/s760–5].
 
-([Aug. 3, 1956, ch. 943, § 2][/us/act/1956-08-03/ch943/s2], [70 Stat. 1020][/us/stat/70/1020].)
+([Aug. 3, 1956, ch. 943][/us/act/1956-08-03/ch943], § 2, [70 Stat. 1020][/us/stat/70/1020].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s760–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs760%E2%80%935
-[/us/act/1956-08-03/ch943/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch943%2Fs2
+[/us/act/1956-08-03/ch943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch943
 [/us/stat/70/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1020
 
 

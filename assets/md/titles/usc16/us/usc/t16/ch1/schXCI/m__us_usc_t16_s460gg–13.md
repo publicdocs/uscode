@@ -27,7 +27,7 @@
 
         There is hereby authorized to be appropriated the sum of not more than $1,500,000 for the inventory, identification, development, and protection of the historic and archeological sites described in section 5 of this Act.
 
-([Pub. L. 94–199, § 16][/us/pl/94/199/s16], Dec. 31, 1975, [89 Stat. 1122][/us/stat/89/1122].)
+([Pub. L. 94–199][/us/pl/94/199], § 16, Dec. 31, 1975, [89 Stat. 1122][/us/stat/89/1122].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/94/199/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F199%2Fs16
+[/us/pl/94/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F199
 [/us/stat/89/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1122
 [/us/pl/94/199/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F199%2Fs5
 [/us/usc/t16/s1276/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1276%2Fa

@@ -23,7 +23,7 @@
 
         Notwithstanding any other provision of this Act or other law, the Secretary shall permit on the public lands appropriate use for subsistence purposes of snowmobiles, motorboats, and other means of surface transportation traditionally employed for such purposes by local residents, subject to reasonable regulation.
 
-([Pub. L. 96–487, title VIII, § 811][/us/pl/96/487/s811], Dec. 2, 1980, [94 Stat. 2428][/us/stat/94/2428].)
+([Pub. L. 96–487, title VIII][/us/pl/96/487/tVIII], § 811, Dec. 2, 1980, [94 Stat. 2428][/us/stat/94/2428].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/96/487/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs811
+[/us/pl/96/487/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtVIII
 [/us/stat/94/2428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2428
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371
 [/us/usc/t16/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3101

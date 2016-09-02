@@ -21,7 +21,7 @@
 
     (2) land owned in fee by the Northern Indiana Public Service Company and used for high voltage electrical transmission lines, pipelines, and utility purposes as has by this subchapter been included within the boundaries of the Indiana Dunes National Lakeshore and herein designated as area II–H on said National Park Service Boundary Map No. 626–80,033–B.
 
-([Pub. L. 89–761, § 10][/us/pl/89/761/s10], formerly § 11, as added and renumbered [Pub. L. 94–549, § 1(8)][/us/pl/94/549/s1/8], (9), Oct. 18, 1976, [90 Stat. 2530][/us/stat/90/2530], 2533; amended [Pub. L. 99–583, § 1(e)][/us/pl/99/583/s1/e], Oct. 29, 1986, [100 Stat. 3319][/us/stat/100/3319].)
+([Pub. L. 89–761][/us/pl/89/761], § 10, formerly § 11, as added and renumbered [Pub. L. 94–549][/us/pl/94/549], § 1(8), (9), Oct. 18, 1976, [90 Stat. 2530][/us/stat/90/2530], 2533; amended [Pub. L. 99–583][/us/pl/99/583], § 1(e), Oct. 29, 1986, [100 Stat. 3319][/us/stat/100/3319].)
 
  __Prior Provisions__ 
 
@@ -38,10 +38,10 @@
 ----------
 ----------
 
-[/us/pl/89/761/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761%2Fs10
-[/us/pl/94/549/s1/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549%2Fs1%2F8
+[/us/pl/89/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761
+[/us/pl/94/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549
 [/us/stat/90/2530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2530
-[/us/pl/99/583/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F583%2Fs1%2Fe
+[/us/pl/99/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F583
 [/us/stat/100/3319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3319
 [/us/pl/89/761/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761%2Fs10
 [/us/usc/t16/s460u–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460u%E2%80%939

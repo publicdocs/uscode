@@ -147,7 +147,7 @@
 
         (2) operation of the mineral leasing and geothermal leasing laws.
 
-([Pub. L. 111–11, title I, § 1104][/us/pl/111/11/s1104], Mar. 30, 2009, [123 Stat. 1004][/us/stat/123/1004].)
+([Pub. L. 111–11, title I][/us/pl/111/11/tI], § 1104, Mar. 30, 2009, [123 Stat. 1004][/us/stat/123/1004].)
 
  __References in Text__ 
 
@@ -155,7 +155,7 @@
 
  __Definitions__ 
 
-[Pub. L. 111–11, title I, § 1101][/us/pl/111/11/s1101], Mar. 30, 2009, [123 Stat. 1002][/us/stat/123/1002], provided that: 
+[Pub. L. 111–11, title I][/us/pl/111/11/tI], § 1101, Mar. 30, 2009, [123 Stat. 1002][/us/stat/123/1002], provided that: 
 
 > “In this subtitle \[subtitle B (§§ 1101–1107) of title I of [Pub. L. 111–11][/us/pl/111/11], enacting this section and [section 546b–1 of this title][/us/usc/t16/s546b–1] and enacting and amending provisions listed in a table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132]\]:
 
@@ -175,13 +175,13 @@
 ----------
 
 [/us/usc/t16/s1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1604
-[/us/pl/111/11/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs1104
+[/us/pl/111/11/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtI
 [/us/stat/123/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1004
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 [/us/stat/123/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1002
 [/us/usc/t16/s546b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs546b%E2%80%931
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132
-[/us/pl/111/11/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs1101
+[/us/pl/111/11/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtI
 [/us/stat/123/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1002
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 [/us/usc/t16/s546b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs546b%E2%80%931

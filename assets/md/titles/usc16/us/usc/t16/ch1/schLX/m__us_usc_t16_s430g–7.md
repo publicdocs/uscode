@@ -43,7 +43,7 @@
 
         (3) The Secretary shall review the analysis and consult with the agency. If after such review and consultation, the Secretary finds that the proposed action is not consistent with the purposes identified in this subsection, the agency shall not proceed with the action until after a justification for the action has been submitted to the appropriate committees of Congress with adequate time allowed for Congressional comment. Such justification shall include the following elements: the anticipated effects on the historic and commemorative character of the historic district, the social and economic necessity for the proposed action, all possible alternatives to the proposed action, the comparative benefits of proposed alternative actions, and the mitigation measures outlined in the proposed action.
 
-([Pub. L. 101–377, § 4][/us/pl/101/377/s4], Aug. 17, 1990, [104 Stat. 465][/us/stat/104/465].)
+([Pub. L. 101–377][/us/pl/101/377], § 4, Aug. 17, 1990, [104 Stat. 465][/us/stat/104/465].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 
  __Codification__ 
 
-    In subsec. (b), “sections 302902(a), 302903(a), and 302904 to 302908 of title 54” substituted for “section 101(d)” and “[section 303902 of title 54][/us/usc/t54/s303902]” substituted for “section 101(h), of the National Historic Preservation Act ([16 U.S.C. 470a(d)][/us/usc/t16/s470a/d], (h))” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs, and [Pub. L. 102–575, title XL, § 4006(a)(1)][/us/pl/102/575/s4006/a/1], Oct. 30, 1992, [106 Stat. 4755][/us/stat/106/4755], which redesignated subsecs. (d) and (h) of section 101 of the National Historic Preservation Act as subsecs. (e) and (i), respectively, of that section.
+    In subsec. (b), “sections 302902(a), 302903(a), and 302904 to 302908 of title 54” substituted for “section 101(d)” and “[section 303902 of title 54][/us/usc/t54/s303902]” substituted for “section 101(h), of the National Historic Preservation Act ([16 U.S.C. 470a(d)][/us/usc/t16/s470a/d], (h))” on authority of [Pub. L. 113–287][/us/pl/113/287], § 6(e), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs, and [Pub. L. 102–575, title XL][/us/pl/102/575/tXL], § 4006(a)(1), Oct. 30, 1992, [106 Stat. 4755][/us/stat/106/4755], which redesignated subsecs. (d) and (h) of section 101 of the National Historic Preservation Act as subsecs. (e) and (i), respectively, of that section.
 
 ----------
 
@@ -62,7 +62,7 @@
 
 [/us/usc/t54/s303902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs303902
 [/us/usc/t16/s430g–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs430g%E2%80%938
-[/us/pl/101/377/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F377%2Fs4
+[/us/pl/101/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F377
 [/us/stat/104/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F465
 [/us/pl/89/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665
 [/us/stat/80/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F915
@@ -71,9 +71,9 @@
 [/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/usc/t54/s303902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs303902
 [/us/usc/t16/s470a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470a%2Fd
-[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
-[/us/pl/102/575/s4006/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575%2Fs4006%2Fa%2F1
+[/us/pl/102/575/tXL]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575%2FtXL
 [/us/stat/106/4755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4755
 
 

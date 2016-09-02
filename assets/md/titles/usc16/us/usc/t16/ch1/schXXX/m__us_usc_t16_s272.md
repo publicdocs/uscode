@@ -33,7 +33,7 @@
 
         The Arches National Monument is hereby abolished, and any funds available for purposes of the monument shall be available for purposes of the park. Federal lands, waters, and interests therein excluded from the monument by this subchapter shall be administered by the Secretary of the Interior (hereinafter referred to as the “Secretary”) in accordance with the laws applicable to the public lands of the United States.
 
-([Pub. L. 92–155, § 1][/us/pl/92/155/s1], Nov. 12, 1971, [85 Stat. 422][/us/stat/85/422]; [Pub. L. 105–329, § 2(a)][/us/pl/105/329/s2/a], Oct. 30, 1998, [112 Stat. 3060][/us/stat/112/3060].)
+([Pub. L. 92–155][/us/pl/92/155], § 1, Nov. 12, 1971, [85 Stat. 422][/us/stat/85/422]; [Pub. L. 105–329][/us/pl/105/329], § 2(a), Oct. 30, 1998, [112 Stat. 3060][/us/stat/112/3060].)
 
  __Amendments__ 
 
@@ -41,7 +41,7 @@
 
  __Short Title of 1998 Amendment__ 
 
-[Pub. L. 105–329, § 1][/us/pl/105/329/s1], Oct. 30, 1998, [112 Stat. 3060][/us/stat/112/3060], provided that: 
+[Pub. L. 105–329][/us/pl/105/329], § 1, Oct. 30, 1998, [112 Stat. 3060][/us/stat/112/3060], provided that: 
 
 > “This Act \[enacting [section 272g of this title][/us/usc/t16/s272g], amending this section and sections 272a, 272b, and 272d of this title, and enacting provisions set out as a note under [section 272g of this title][/us/usc/t16/s272g]\] may be cited as the ‘Arches National Park Expansion Act of 1998’.”
 
@@ -52,12 +52,12 @@
 ----------
 ----------
 
-[/us/pl/92/155/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F155%2Fs1
+[/us/pl/92/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F155
 [/us/stat/85/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F422
-[/us/pl/105/329/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F329%2Fs2%2Fa
+[/us/pl/105/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F329
 [/us/stat/112/3060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3060
 [/us/pl/105/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F329
-[/us/pl/105/329/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F329%2Fs1
+[/us/pl/105/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F329
 [/us/stat/112/3060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3060
 [/us/usc/t16/s272g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs272g
 [/us/usc/t16/s272g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs272g

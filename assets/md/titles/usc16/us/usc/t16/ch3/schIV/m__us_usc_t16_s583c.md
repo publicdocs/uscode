@@ -17,7 +17,7 @@
 
     Each of the said Secretaries is further authorized in his discretion to enter into cooperative agreements with the other Secretary, or with any Federal agency having jurisdiction over federally owned or administered forest land, or with any State or local agency having jurisdiction over publicly owned or administered forest land, providing for the inclusion of such land in any coordinated plan of management otherwise authorized by the provisions of this subchapter when by such a cooperative agreement he may be aided in accomplishing the purposes of this subchapter; but no federally or publicly owned or administered forest land not under the jurisdiction of the Secretary establishing the sustained-yield unit concerned shall be included in any such plan except in pursuance of a cooperative agreement made under this section.
 
-([Mar. 29, 1944, ch. 146, § 4][/us/act/1944-03-29/ch146/s4], [58 Stat. 133][/us/stat/58/133].)
+([Mar. 29, 1944, ch. 146][/us/act/1944-03-29/ch146], § 4, [58 Stat. 133][/us/stat/58/133].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1944-03-29/ch146/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-03-29%2Fch146%2Fs4
+[/us/act/1944-03-29/ch146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-03-29%2Fch146
 [/us/stat/58/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F133
 
 

@@ -27,7 +27,7 @@
 
         All receipts derived from permits and leases issued on lands or interest in lands within the recreation area under the mineral leasing laws shall be disposed of as provided in such laws; and receipts from the disposition of nonleasable minerals within the recreation area shall be disposed of in the same manner as moneys received from the sale of public lands.
 
-([Pub. L. 96–487, title XIII, § 1312][/us/pl/96/487/s1312], Dec. 2, 1980, [94 Stat. 2483][/us/stat/94/2483].)
+([Pub. L. 96–487, title XIII][/us/pl/96/487/tXIII], § 1312, Dec. 2, 1980, [94 Stat. 2483][/us/stat/94/2483].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t43/s387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs387
-[/us/pl/96/487/s1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1312
+[/us/pl/96/487/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXIII
 [/us/stat/94/2483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2483
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371

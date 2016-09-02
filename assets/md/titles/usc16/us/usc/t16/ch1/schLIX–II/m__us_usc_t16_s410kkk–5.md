@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as may be necessary to carry out this subchapter.
 
-([Pub. L. 108–387, title I, § 107][/us/pl/108/387/s107], Oct. 30, 2004, [118 Stat. 2236][/us/stat/118/2236].)
+([Pub. L. 108–387, title I][/us/pl/108/387/tI], § 107, Oct. 30, 2004, [118 Stat. 2236][/us/stat/118/2236].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/108/387/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F387%2Fs107
+[/us/pl/108/387/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F387%2FtI
 [/us/stat/118/2236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2236
 [/us/pl/108/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F387
 [/us/stat/118/2234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2234

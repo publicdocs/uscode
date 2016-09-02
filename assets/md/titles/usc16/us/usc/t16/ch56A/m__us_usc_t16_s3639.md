@@ -31,7 +31,7 @@
 
         The Chairman of the United States Section shall call a meeting of the advisory committee at least one time each year.
 
-([Pub. L. 99–5, § 10][/us/pl/99/5/s10], Mar. 15, 1985, [99 Stat. 13][/us/stat/99/13].)
+([Pub. L. 99–5][/us/pl/99/5], § 10, Mar. 15, 1985, [99 Stat. 13][/us/stat/99/13].)
 
  __Termination of Advisory Committees__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/99/5/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5%2Fs10
+[/us/pl/99/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5
 [/us/stat/99/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F13
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776

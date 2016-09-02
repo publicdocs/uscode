@@ -57,7 +57,7 @@
 
         Each person that receives assistance under this section for a project shall provide periodic reports, as the Secretary considers necessary, to the Secretary and the Administrator. Each report shall include all information requested by the Secretary, after consulting with the Administrator, for evaluating the progress and success of the project.
 
-([Pub. L. 103–391, § 5][/us/pl/103/391/s5], Oct. 22, 1994, [108 Stat. 4095][/us/stat/108/4095]; [Pub. L. 107–112, § 5][/us/pl/107/112/s5], Jan. 8, 2002, [115 Stat. 2098][/us/stat/115/2098]; [Pub. L. 110–132, § 3(a)][/us/pl/110/132/s3/a], Dec. 6, 2007, [121 Stat. 1360][/us/stat/121/1360].)
+([Pub. L. 103–391][/us/pl/103/391], § 5, Oct. 22, 1994, [108 Stat. 4095][/us/stat/108/4095]; [Pub. L. 107–112][/us/pl/107/112], § 5, Jan. 8, 2002, [115 Stat. 2098][/us/stat/115/2098]; [Pub. L. 110–132][/us/pl/110/132], § 3(a), Dec. 6, 2007, [121 Stat. 1360][/us/stat/121/1360].)
 
  __Amendments__ 
 
@@ -72,11 +72,11 @@
 ----------
 ----------
 
-[/us/pl/103/391/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F391%2Fs5
+[/us/pl/103/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F391
 [/us/stat/108/4095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4095
-[/us/pl/107/112/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F112%2Fs5
+[/us/pl/107/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F112
 [/us/stat/115/2098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2098
-[/us/pl/110/132/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F132%2Fs3%2Fa
+[/us/pl/110/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F132
 [/us/stat/121/1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1360
 [/us/pl/110/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F132
 [/us/pl/107/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F112

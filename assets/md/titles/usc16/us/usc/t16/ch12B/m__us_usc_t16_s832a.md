@@ -43,7 +43,7 @@
 
         Subject only to the provisions of this chapter, the Administrator is authorized to enter into such contracts, agreements, and arrangements, including the amendment, modification, adjustment, or cancelation  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “cancellation”. </sup></sup>  thereof and the compromise or final settlement of any claim arising thereunder, and to make such expenditures, upon such terms and conditions and in such manner as he may deem necessary.
 
-([Aug. 20, 1937, ch. 720, § 2][/us/act/1937-08-20/ch720/s2], [50 Stat. 732][/us/stat/50/732]; [Mar. 6, 1940, ch. 47][/us/act/1940-03-06/ch47], §§ 1, 2, [54 Stat. 47][/us/stat/54/47]; [Oct. 23, 1945, ch. 433][/us/act/1945-10-23/ch433], §§ 1, 5, [59 Stat. 546][/us/stat/59/546], 547; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]; 1965 Reorg. Plan No. 4, §§ 11(c), 13(a), eff. July 27, 1965, 30 F.R. 9353, [79 Stat. 1321][/us/stat/79/1321]; [Pub. L. 95–91, title III, § 302(a)(1)(D)][/us/pl/95/91/s302/a/1/D], (2), Aug. 4, 1977, [91 Stat. 578][/us/stat/91/578].)
+([Aug. 20, 1937, ch. 720][/us/act/1937-08-20/ch720], § 2, [50 Stat. 732][/us/stat/50/732]; [Mar. 6, 1940, ch. 47][/us/act/1940-03-06/ch47], §§ 1, 2, [54 Stat. 47][/us/stat/54/47]; [Oct. 23, 1945, ch. 433][/us/act/1945-10-23/ch433], §§ 1, 5, [59 Stat. 546][/us/stat/59/546], 547; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]; 1965 Reorg. Plan No. 4, §§ 11(c), 13(a), eff. July 27, 1965, 30 F.R. 9353, [79 Stat. 1321][/us/stat/79/1321]; [Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 302(a)(1)(D), (2), Aug. 4, 1977, [91 Stat. 578][/us/stat/91/578].)
 
  __Codification__ 
 
@@ -59,15 +59,15 @@
 
  __Change of Name__ 
 
-    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
+    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343, title II][/us/act/1947-07-26/ch343/tII], [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
 
  __Repeals__ 
 
-    [Act Mar. 6, 1940, ch. 47, § 1][/us/act/1940-03-06/ch47/s1], [54 Stat. 47][/us/stat/54/47], cited as a credit to this section, was repealed by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 650][/us/stat/80/650].
+    [Act Mar. 6, 1940, ch. 47][/us/act/1940-03-06/ch47], § 1, [54 Stat. 47][/us/stat/54/47], cited as a credit to this section, was repealed by [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 650][/us/stat/80/650].
 
  __Transfer of Functions__ 
 
-    In subsec. (a), “Secretary of Energy” substituted for “Secretary of the Interior” in five places and “Department of Energy” substituted for “Department of the Interior” pursuant to [Pub. L. 95–91, § 302(a)(1)(D)][/us/pl/95/91/s302/a/1/D], (2), which is classified to section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, and which transferred functions of Secretary of the Interior with respect to Bonneville Power Administration to Secretary of Energy, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
+    In subsec. (a), “Secretary of Energy” substituted for “Secretary of the Interior” in five places and “Department of Energy” substituted for “Department of the Interior” pursuant to [Pub. L. 95–91][/us/pl/95/91], § 302(a)(1)(D), (2), which is classified to section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, and which transferred functions of Secretary of the Interior with respect to Bonneville Power Administration to Secretary of Energy, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
     Provisions of the second sentence of the second par. of subsec. (a), which related to the advisory board and its composition, were omitted pursuant to Reorg. Plan No. 4 of 1965, §§ 11(c) and 13(a), set out in the Appendix to Title 5, Government Organization and Employees, which abolished the advisory board and transferred its functions, including the functions of the chairman and other officers, to the Secretary of the Interior.
 
@@ -80,7 +80,7 @@
 ----------
 ----------
 
-[/us/act/1937-08-20/ch720/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-20%2Fch720%2Fs2
+[/us/act/1937-08-20/ch720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-20%2Fch720
 [/us/stat/50/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F732
 [/us/act/1940-03-06/ch47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-03-06%2Fch47
 [/us/stat/54/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F47
@@ -89,19 +89,19 @@
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/stat/79/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1321
-[/us/pl/95/91/s302/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs302%2Fa%2F1%2FD
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F578
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
 [/us/usc/t16/s832i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs832i
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
+[/us/act/1947-07-26/ch343/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtII
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641
-[/us/act/1940-03-06/ch47/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-03-06%2Fch47%2Fs1
+[/us/act/1940-03-06/ch47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-03-06%2Fch47
 [/us/stat/54/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F47
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F650
-[/us/pl/95/91/s302/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs302%2Fa%2F1%2FD
+[/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 
 

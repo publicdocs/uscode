@@ -139,7 +139,7 @@
 
             The Federal Advisory Committee Act (5 App. U.S.C.) shall not apply to a panel convened under paragraph (1).
 
-([Pub. L. 106–411, § 4][/us/pl/106/411/s4], Nov. 1, 2000, [114 Stat. 1791][/us/stat/114/1791]; [Pub. L. 109–363, title VII, § 701][/us/pl/109/363/s701], Oct. 17, 2006, [120 Stat. 2081][/us/stat/120/2081].)
+([Pub. L. 106–411][/us/pl/106/411], § 4, Nov. 1, 2000, [114 Stat. 1791][/us/stat/114/1791]; [Pub. L. 109–363, title VII][/us/pl/109/363/tVII], § 701, Oct. 17, 2006, [120 Stat. 2081][/us/stat/120/2081].)
 
  __References in Text__ 
 
@@ -147,9 +147,9 @@
 
  __Amendments__ 
 
-    2006—Subsec. (d)(6). [Pub. L. 109–363, § 701(1)][/us/pl/109/363/s701/1], added par. (6).
+    2006—Subsec. (d)(6). [Pub. L. 109–363][/us/pl/109/363], § 701(1), added par. (6).
 
-    Subsec. (i). [Pub. L. 109–363, § 701(2)][/us/pl/109/363/s701/2], designated existing provisions as par. (1), inserted par. heading, substituted “may convene” for “shall convene”, and added par. (2).
+    Subsec. (i). [Pub. L. 109–363][/us/pl/109/363], § 701(2), designated existing provisions as par. (1), inserted par. heading, substituted “may convene” for “shall convene”, and added par. (2).
 
 ----------
 
@@ -158,13 +158,13 @@
 ----------
 ----------
 
-[/us/pl/106/411/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F411%2Fs4
+[/us/pl/106/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F411
 [/us/stat/114/1791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1791
-[/us/pl/109/363/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2Fs701
+[/us/pl/109/363/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2FtVII
 [/us/stat/120/2081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2081
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/109/363/s701/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2Fs701%2F1
-[/us/pl/109/363/s701/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2Fs701%2F2
+[/us/pl/109/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363
+[/us/pl/109/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363
 
 

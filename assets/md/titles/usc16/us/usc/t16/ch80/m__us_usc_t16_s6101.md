@@ -33,7 +33,7 @@
 
         (B) although numerous initiatives exist to conserve migratory birds and their habitat, those initiatives can be significantly strengthened and enhanced by increased coordination.
 
-([Pub. L. 106–247, § 2][/us/pl/106/247/s2], July 20, 2000, [114 Stat. 593][/us/stat/114/593]; [Pub. L. 109–363, title III, § 302(a)][/us/pl/109/363/s302/a], Oct. 17, 2006, [120 Stat. 2075][/us/stat/120/2075].)
+([Pub. L. 106–247][/us/pl/106/247], § 2, July 20, 2000, [114 Stat. 593][/us/stat/114/593]; [Pub. L. 109–363, title III][/us/pl/109/363/tIII], § 302(a), Oct. 17, 2006, [120 Stat. 2075][/us/stat/120/2075].)
 
  __Amendments__ 
 
@@ -41,13 +41,13 @@
 
  __Short Title of 2006 Amendment__ 
 
-[Pub. L. 109–363, title III, § 301][/us/pl/109/363/s301], Oct. 17, 2006, [120 Stat. 2075][/us/stat/120/2075], provided that: 
+[Pub. L. 109–363, title III][/us/pl/109/363/tIII], § 301, Oct. 17, 2006, [120 Stat. 2075][/us/stat/120/2075], provided that: 
 
 > “This title \[amending this section and sections 6102 to 6104 and 6106 to 6109 of this title and enacting provisions set out as notes under sections 6106 and 6108 of this title\] may be cited as the ‘Neotropical Migratory Bird Conservation Improvement Act of 2006’.”
 
  __Short Title__ 
 
-[Pub. L. 106–247, § 1][/us/pl/106/247/s1], July 20, 2000, [114 Stat. 593][/us/stat/114/593], provided that: 
+[Pub. L. 106–247][/us/pl/106/247], § 1, July 20, 2000, [114 Stat. 593][/us/stat/114/593], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Neotropical Migratory Bird Conservation Act’.”
 
@@ -58,14 +58,14 @@
 ----------
 ----------
 
-[/us/pl/106/247/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F247%2Fs2
+[/us/pl/106/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F247
 [/us/stat/114/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F593
-[/us/pl/109/363/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2Fs302%2Fa
+[/us/pl/109/363/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2FtIII
 [/us/stat/120/2075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2075
 [/us/pl/109/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363
-[/us/pl/109/363/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2Fs301
+[/us/pl/109/363/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2FtIII
 [/us/stat/120/2075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2075
-[/us/pl/106/247/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F247%2Fs1
+[/us/pl/106/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F247
 [/us/stat/114/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F593
 
 

@@ -49,7 +49,7 @@
 
         The amounts authorized to be appropriated under this subsection are in addition to the amounts authorized to be appropriated under [section 1384 of this title][/us/usc/t16/s1384].
 
-([Pub. L. 92–522, title I, § 119][/us/pl/92/522/s119], as added [Pub. L. 103–238, § 19][/us/pl/103/238/s19], Apr. 30, 1994, [108 Stat. 559][/us/stat/108/559].)
+([Pub. L. 92–522, title I][/us/pl/92/522/tI], § 119, as added [Pub. L. 103–238][/us/pl/103/238], § 19, Apr. 30, 1994, [108 Stat. 559][/us/stat/108/559].)
 
 ----------
 
@@ -59,8 +59,8 @@
 ----------
 
 [/us/usc/t16/s1384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1384
-[/us/pl/92/522/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs119
-[/us/pl/103/238/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs19
+[/us/pl/92/522/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtI
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
 [/us/stat/108/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F559
 
 

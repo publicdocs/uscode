@@ -23,7 +23,7 @@
 
         In preserving the lakeshore and stabilizing its development, substantial reliance shall be placed on cooperation between Federal, State, and local governments to apply sound principles of land use planning and zoning. In developing the lakeshore, full recognition shall be given to protecting the private properties for the enjoyment of the owners.
 
-([Pub. L. 91–479, § 1][/us/pl/91/479/s1], Oct. 21, 1970, [84 Stat. 1075][/us/stat/84/1075].)
+([Pub. L. 91–479][/us/pl/91/479], § 1, Oct. 21, 1970, [84 Stat. 1075][/us/stat/84/1075].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/91/479/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F479%2Fs1
+[/us/pl/91/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F479
 [/us/stat/84/1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1075
 
 

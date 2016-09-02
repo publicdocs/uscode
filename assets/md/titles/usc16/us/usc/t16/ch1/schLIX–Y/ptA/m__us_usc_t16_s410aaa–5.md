@@ -23,7 +23,7 @@
 
         If a person holding a grazing permit referred to in subsection (a) informs the Secretary that such permittee is willing to convey to the United States any base property with respect to which such permit was issued and to which such permittee holds title, the Secretary shall make the acquisition of such base property a priority as compared with the acquisition of other lands within the park, provided agreement can be reached concerning the terms and conditions of such acquisition. Any such base property which is located outside the park and acquired as a priority pursuant to this section shall be managed by the Federal agency responsible for the majority of the adjacent lands in accordance with the laws applicable to such adjacent lands.
 
-([Pub. L. 103–433, title III, § 306][/us/pl/103/433/s306], Oct. 31, 1994, [108 Stat. 4486][/us/stat/108/4486].)
+([Pub. L. 103–433, title III][/us/pl/103/433/tIII], § 306, Oct. 31, 1994, [108 Stat. 4486][/us/stat/108/4486].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/103/433/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs306
+[/us/pl/103/433/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtIII
 [/us/stat/108/4486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4486
 
 

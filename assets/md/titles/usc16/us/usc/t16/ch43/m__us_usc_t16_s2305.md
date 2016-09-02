@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t16/ch43/m__us_usc_t16_s2304.md) | [Next](./../../../..//us/usc/t16/ch43/m__us_usc_t16_s2306.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2305)
 
-## § 2305. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
+## § 2305. Repealed. [Pub. L. 113–287][/us/pl/113/287], § 7, Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [Pub. L. 95–344, title III, § 305][/us/pl/95/344/s305], Aug. 15, 1978, [92 Stat. 479][/us/stat/92/479], required a report to Congress within 3 years of Aug. 15, 1978.
+    Section, [Pub. L. 95–344, title III][/us/pl/95/344/tIII], § 305, Aug. 15, 1978, [92 Stat. 479][/us/stat/92/479], required a report to Congress within 3 years of Aug. 15, 1978.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
-[/us/pl/95/344/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F344%2Fs305
+[/us/pl/95/344/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F344%2FtIII
 [/us/stat/92/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F479
 
 

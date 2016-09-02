@@ -39,7 +39,7 @@
 
             (B) Any Federal land in the Recreation Area that the Secretary determines to be appropriate for conveyance by exchange for non-Federal land within the Recreation Area under authorities generally providing for the exchange of National Forest System land.
 
-([Pub. L. 103–63, § 8][/us/pl/103/63/s8], Aug. 4, 1993, [107 Stat. 300][/us/stat/107/300]; [Pub. L. 113–291, div. B, title XXX, § 3092(f)][/us/pl/113/291/s3092/f], Dec. 19, 2014, [128 Stat. 3872][/us/stat/128/3872].)
+([Pub. L. 103–63][/us/pl/103/63], § 8, Aug. 4, 1993, [107 Stat. 300][/us/stat/107/300]; [Pub. L. 113–291, div. B, title XXX][/us/pl/113/291/dB/tXXX], § 3092(f), Dec. 19, 2014, [128 Stat. 3872][/us/stat/128/3872].)
 
  __References in Text__ 
 
@@ -47,9 +47,9 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–291, § 3092(f)(1)][/us/pl/113/291/s3092/f/1], substituted “as provided” for “for lands described” in introductory provisions.
+    2014—Subsec. (a). [Pub. L. 113–291][/us/pl/113/291], § 3092(f)(1), substituted “as provided” for “for lands described” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 113–291, § 3092(f)(2)][/us/pl/113/291/s3092/f/2], added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The lands referred to in subsection (a) of this section are described as follows:
+    Subsec. (b). [Pub. L. 113–291][/us/pl/113/291], § 3092(f)(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The lands referred to in subsection (a) of this section are described as follows:
 
     “W½E½ and W½, Sec. 27, T23S, R58E, Mt. Diablo Meridian.”
 
@@ -63,15 +63,15 @@
 [/us/pl/97/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F465
 [/us/usc/t16/s521c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs521c
 [/us/usc/t16/s521i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs521i
-[/us/pl/103/63/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F63%2Fs8
+[/us/pl/103/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F63
 [/us/stat/107/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F300
-[/us/pl/113/291/s3092/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3092%2Ff
+[/us/pl/113/291/dB/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXX
 [/us/stat/128/3872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3872
 [/us/pl/97/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F465
 [/us/pl/97/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F465
 [/us/stat/96/2535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2535
 [/us/usc/t16/s484a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs484a
-[/us/pl/113/291/s3092/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3092%2Ff%2F1
-[/us/pl/113/291/s3092/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3092%2Ff%2F2
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 
 

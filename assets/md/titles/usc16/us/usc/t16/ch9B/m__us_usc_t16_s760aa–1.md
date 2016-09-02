@@ -35,7 +35,7 @@
 
                 Subject to the availability of appropriations and the requirements of the Fish and Wildlife Coordination Act ([16 U.S.C. 661][/us/usc/t16/s661] et seq.) and other applicable law, the Secretary may provide funds to match gifts, devises, and bequests made for the benefit of a facility of the System. With respect to each gift, devise, or bequest, the amount of Federal funds may not exceed the amount (or, in the case of property or in-kind services, the fair market value) of the gift, devise, or bequest.
 
-([Pub. L. 109–360, § 3][/us/pl/109/360/s3], Oct. 16, 2006, [120 Stat. 2059][/us/stat/120/2059].)
+([Pub. L. 109–360][/us/pl/109/360], § 3, Oct. 16, 2006, [120 Stat. 2059][/us/stat/120/2059].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t16/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs661
-[/us/pl/109/360/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F360%2Fs3
+[/us/pl/109/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F360
 [/us/stat/120/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2059
 [/us/act/1934-03-10/ch55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-10%2Fch55
 [/us/stat/48/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F401

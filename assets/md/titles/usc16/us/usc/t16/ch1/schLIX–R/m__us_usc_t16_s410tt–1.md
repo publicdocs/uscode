@@ -23,7 +23,7 @@
 
         The park shall consist of approximately 1015 acres of lands, waters, and interests in lands as generally depicted on the map entitled “Salt River Bay National Historical Park and Ecological Preserve, St. Croix, U.S.V.I.”, numbered 141/80002, and dated May 2, 2002. The map shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior, and the Offices of the Lieutenant Governor of St. Thomas and St. Croix, Virgin Islands.
 
-([Pub. L. 102–247, title I, § 103][/us/pl/102/247/s103], Feb. 24, 1992, [106 Stat. 34][/us/stat/106/34]; [Pub. L. 107–329, title III, § 301][/us/pl/107/329/s301], Dec. 6, 2002, [116 Stat. 2819][/us/stat/116/2819].)
+([Pub. L. 102–247, title I][/us/pl/102/247/tI], § 103, Feb. 24, 1992, [106 Stat. 34][/us/stat/106/34]; [Pub. L. 107–329, title III][/us/pl/107/329/tIII], § 301, Dec. 6, 2002, [116 Stat. 2819][/us/stat/116/2819].)
 
  __References in Text__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/102/247/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F247%2Fs103
+[/us/pl/102/247/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F247%2FtI
 [/us/stat/106/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F34
-[/us/pl/107/329/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F329%2Fs301
+[/us/pl/107/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F329%2FtIII
 [/us/stat/116/2819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2819
 [/us/pl/102/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F247
 [/us/pl/107/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F329

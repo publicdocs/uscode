@@ -17,7 +17,7 @@
 
     Birch timber and pulp wood or wood pulp manufactured from timber in Alaska may be exported therefrom.
 
-([Feb. 1, 1905, ch. 288, § 2][/us/act/1905-02-01/ch288/s2], [33 Stat. 628][/us/stat/33/628]; [June 5, 1920, ch. 235, § 1][/us/act/1920-06-05/ch235/s1], [41 Stat. 917][/us/stat/41/917].)
+([Feb. 1, 1905, ch. 288][/us/act/1905-02-01/ch288], § 2, [33 Stat. 628][/us/stat/33/628]; [June 5, 1920, ch. 235][/us/act/1920-06-05/ch235], § 1, [41 Stat. 917][/us/stat/41/917].)
 
  __Codification__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/act/1905-02-01/ch288/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-01%2Fch288%2Fs2
+[/us/act/1905-02-01/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-01%2Fch288
 [/us/stat/33/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F628
-[/us/act/1920-06-05/ch235/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch235%2Fs1
+[/us/act/1920-06-05/ch235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch235
 [/us/stat/41/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F917
 [/us/usc/t48/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs422
 

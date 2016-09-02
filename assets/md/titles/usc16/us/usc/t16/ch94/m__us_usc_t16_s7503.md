@@ -55,7 +55,7 @@
 
         (2) fails to comply with a procedure, measure, method, or standard established under [section 7505(a)(1) of this title][/us/usc/t16/s7505/a/1].
 
-([Pub. L. 114–113, div. O, title IX, § 904][/us/pl/114/113/s904], Dec. 18, 2015, [129 Stat. 3031][/us/stat/129/3031].)
+([Pub. L. 114–113, div. O, title IX][/us/pl/114/113/dO/tIX], § 904, Dec. 18, 2015, [129 Stat. 3031][/us/stat/129/3031].)
 
  __References in Text__ 
 
@@ -76,7 +76,7 @@
 [/us/usc/t16/s7505/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7505%2Fc
 [/us/usc/t16/s7504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7504
 [/us/usc/t16/s7505/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7505%2Fa%2F1
-[/us/pl/114/113/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs904
+[/us/pl/114/113/dO/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdO%2FtIX
 [/us/stat/129/3031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3031
 [/us/pl/98/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F244
 [/us/stat/98/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F107

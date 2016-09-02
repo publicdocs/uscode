@@ -17,7 +17,7 @@
 
     For the acquisition of lands authorized in [section 267 of this title][/us/usc/t16/s267], there are authorized to be appropriated such sums as may be necessary, but not more than $427,500.
 
-([Pub. L. 93–477, title I, § 101(3)][/us/pl/93/477/s101/3], Oct. 26, 1974, [88 Stat. 1445][/us/stat/88/1445].)
+([Pub. L. 93–477, title I][/us/pl/93/477/tI], § 101(3), Oct. 26, 1974, [88 Stat. 1445][/us/stat/88/1445].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t16/s267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs267
-[/us/pl/93/477/s101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F477%2Fs101%2F3
+[/us/pl/93/477/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F477%2FtI
 [/us/stat/88/1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1445
 [/us/act/1940-06-11/ch304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-11%2Fch304
 [/us/stat/54/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F262

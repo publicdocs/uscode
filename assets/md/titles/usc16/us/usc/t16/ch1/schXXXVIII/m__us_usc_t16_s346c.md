@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to administer Zion National Park as hereby established in accordance with his authority over the park heretofore granted by the Congress and in accordance with the general laws governing areas of the national park system.
 
-([July 11, 1956, ch. 568, § 2][/us/act/1956-07-11/ch568/s2], [70 Stat. 527][/us/stat/70/527].)
+([July 11, 1956, ch. 568][/us/act/1956-07-11/ch568], § 2, [70 Stat. 527][/us/stat/70/527].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1956-07-11/ch568/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-11%2Fch568%2Fs2
+[/us/act/1956-07-11/ch568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-11%2Fch568
 [/us/stat/70/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F527
 
 

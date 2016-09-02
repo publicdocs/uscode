@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act June 3, 1878, ch. 151, § 5][/us/act/1878-06-03/ch151/s5], [20 Stat. 90][/us/stat/20/90], related to prosecutions for violating former [section 595 of this title][/us/usc/t16/s595].
+    Section, [act June 3, 1878, ch. 151][/us/act/1878-06-03/ch151], § 5, [20 Stat. 90][/us/stat/20/90], related to prosecutions for violating former [section 595 of this title][/us/usc/t16/s595].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1878-06-03/ch151/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1878-06-03%2Fch151%2Fs5
+[/us/act/1878-06-03/ch151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1878-06-03%2Fch151
 [/us/stat/20/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F20%2F90
 [/us/usc/t16/s595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs595
 

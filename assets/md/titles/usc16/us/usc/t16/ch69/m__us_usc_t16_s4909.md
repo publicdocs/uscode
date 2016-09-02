@@ -39,7 +39,7 @@
 
             (B) issue and publish in the Federal Register a final ruling on the petition, by not later than 90 days after the end of the period for public comment.
 
-([Pub. L. 102–440, title I, § 110][/us/pl/102/440/s110], Oct. 23, 1992, [106 Stat. 2229][/us/stat/106/2229].)
+([Pub. L. 102–440, title I][/us/pl/102/440/tI], § 110, Oct. 23, 1992, [106 Stat. 2229][/us/stat/106/2229].)
 
 ----------
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t16/s4905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4905
 [/us/usc/t16/s4906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4906
-[/us/pl/102/440/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2Fs110
+[/us/pl/102/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2FtI
 [/us/stat/106/2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2229
 
 

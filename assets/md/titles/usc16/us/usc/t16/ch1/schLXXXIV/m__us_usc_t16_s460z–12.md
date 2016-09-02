@@ -17,7 +17,7 @@
 
     The Secretary shall cooperate with the State of Oregon or any political subdivision thereof in the administration of the recreation area and in the administration and protection of lands within or adjacent to the recreation area owned or controlled by the State or political subdivision there. Nothing in this subchapter shall deprive the State of Oregon or any political subdivision thereof of its right to exercise civil and criminal jurisdiction within the recreation area consistent with this subchapter, or of its right to tax persons, corporations, franchises, or other non-Federal property, including mineral or other interests, in or on lands or waters within the recreation area.
 
-([Pub. L. 92–260, § 14][/us/pl/92/260/s14], Mar. 23, 1972, [86 Stat. 102][/us/stat/86/102].)
+([Pub. L. 92–260][/us/pl/92/260], § 14, Mar. 23, 1972, [86 Stat. 102][/us/stat/86/102].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/260/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F260%2Fs14
+[/us/pl/92/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F260
 [/us/stat/86/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F102
 
 

@@ -17,7 +17,7 @@
 
     The use of all water furnished by the Secretary of the Interior under sections 695e and 695i of this title shall be subject to and not inconsistent with the laws of the State of California relating to priorities of deliveries and use of water. Nothing contained in sections 695d to 695j–1 of this title shall be construed as an allocation of water.
 
-([Aug. 27, 1954, ch. 1012, § 7][/us/act/1954-08-27/ch1012/s7], [68 Stat. 880][/us/stat/68/880].)
+([Aug. 27, 1954, ch. 1012][/us/act/1954-08-27/ch1012], § 7, [68 Stat. 880][/us/stat/68/880].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-27/ch1012/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1012%2Fs7
+[/us/act/1954-08-27/ch1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1012
 [/us/stat/68/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F880
 
 

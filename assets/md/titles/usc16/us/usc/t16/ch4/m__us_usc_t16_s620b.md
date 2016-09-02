@@ -195,7 +195,7 @@
 
         Nothing in this section restricts or authorizes any restriction on the domestic transportation or processing of timber harvested from private land, except that the Secretary may prohibit processing facilities located in the State of Idaho that have sourcing areas from processing timber harvested from private land outside of the boundaries of those sourcing areas.
 
-([Pub. L. 101–382, title IV, § 490][/us/pl/101/382/s490], Aug. 20, 1990, [104 Stat. 715][/us/stat/104/715]; [Pub. L. 105–83, title VI, § 602(a)][/us/pl/105/83/s602/a], Nov. 14, 1997, [111 Stat. 1618][/us/stat/111/1618].)
+([Pub. L. 101–382, title IV][/us/pl/101/382/tIV], § 490, Aug. 20, 1990, [104 Stat. 715][/us/stat/104/715]; [Pub. L. 105–83, title VI][/us/pl/105/83/tVI], § 602(a), Nov. 14, 1997, [111 Stat. 1618][/us/stat/111/1618].)
 
  __References in Text__ 
 
@@ -203,23 +203,23 @@
 
  __Amendments__ 
 
-    1997—Subsec. (a)(1). [Pub. L. 105–83, § 602(a)(1)(A)][/us/pl/105/83/s602/a/1/A], inserted “paragraph (3) and” after “Except as provided in”.
+    1997—Subsec. (a)(1). [Pub. L. 105–83][/us/pl/105/83], § 602(a)(1)(A), inserted “paragraph (3) and” after “Except as provided in”.
 
-    Subsec. (a)(3). [Pub. L. 105–83, § 602(a)(1)(B)][/us/pl/105/83/s602/a/1/B], added par. (3).
+    Subsec. (a)(3). [Pub. L. 105–83][/us/pl/105/83], § 602(a)(1)(B), added par. (3).
 
-    Subsec. (c). [Pub. L. 105–83, § 602(a)(2)(A)][/us/pl/105/83/s602/a/2/A], struck out “Approval of” before “Sourcing areas” in heading.
+    Subsec. (c). [Pub. L. 105–83][/us/pl/105/83], § 602(a)(2)(A), struck out “Approval of” before “Sourcing areas” in heading.
 
-    Subsec. (c)(2). [Pub. L. 105–83, § 602(a)(2)(B)(i)][/us/pl/105/83/s602/a/2/B/i], inserted “for sourcing areas for processing facilities located outside the northwestern private timber open market area” after “application” in heading.
+    Subsec. (c)(2). [Pub. L. 105–83][/us/pl/105/83], § 602(a)(2)(B)(i), inserted “for sourcing areas for processing facilities located outside the northwestern private timber open market area” after “application” in heading.
 
-    Subsec. (c)(2)(A). [Pub. L. 105–83, § 602(a)(2)(B)(ii)][/us/pl/105/83/s602/a/2/B/ii], inserted “(except private land located in the northwestern private timber open market area)” after “private lands”.
+    Subsec. (c)(2)(A). [Pub. L. 105–83][/us/pl/105/83], § 602(a)(2)(B)(ii), inserted “(except private land located in the northwestern private timber open market area)” after “private lands”.
 
-    Subsec. (c)(3). [Pub. L. 105–83, § 602(a)(2)(C)][/us/pl/105/83/s602/a/2/C], inserted “for sourcing areas for processing facilities located outside of the northwestern private timber open market area” in heading, designated existing provisions as subpar. (A), inserted heading, and struck out at end “In making a determination referred to in this paragraph, the Secretary concerned shall consider equally the timber purchasing patterns, on private and Federal lands, of the applicant as well as other persons in the same local vicinity as the applicant, and the relative similarity of such purchasing patterns.”, and added subpars. (B) to (D).
+    Subsec. (c)(3). [Pub. L. 105–83][/us/pl/105/83], § 602(a)(2)(C), inserted “for sourcing areas for processing facilities located outside of the northwestern private timber open market area” in heading, designated existing provisions as subpar. (A), inserted heading, and struck out at end “In making a determination referred to in this paragraph, the Secretary concerned shall consider equally the timber purchasing patterns, on private and Federal lands, of the applicant as well as other persons in the same local vicinity as the applicant, and the relative similarity of such purchasing patterns.”, and added subpars. (B) to (D).
 
-    Subsec. (c)(4), (5). [Pub. L. 105–83, § 602(a)(2)(D)][/us/pl/105/83/s602/a/2/D], (E), inserted “for sourcing areas for processing facilities located outside the northwestern private timber open market area” in headings.
+    Subsec. (c)(4), (5). [Pub. L. 105–83][/us/pl/105/83], § 602(a)(2)(D), (E), inserted “for sourcing areas for processing facilities located outside the northwestern private timber open market area” in headings.
 
-    Subsec. (c)(6), (7). [Pub. L. 105–83, § 602(a)(2)(F)][/us/pl/105/83/s602/a/2/F], added pars. (6) and (7).
+    Subsec. (c)(6), (7). [Pub. L. 105–83][/us/pl/105/83], § 602(a)(2)(F), added pars. (6) and (7).
 
-    Subsec. (d). [Pub. L. 105–83, § 602(a)(3)][/us/pl/105/83/s602/a/3], added subsec. (d).
+    Subsec. (d). [Pub. L. 105–83][/us/pl/105/83], § 602(a)(3), added subsec. (d).
 
 ----------
 
@@ -230,21 +230,21 @@
 
 [/us/usc/t16/s620f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs620f
 [/us/usc/t16/s620f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs620f
-[/us/pl/101/382/s490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs490
+[/us/pl/101/382/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtIV
 [/us/stat/104/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F715
-[/us/pl/105/83/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs602%2Fa
+[/us/pl/105/83/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtVI
 [/us/stat/111/1618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1618
 [/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
 [/us/pl/101/382/s494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs494
 [/us/usc/t16/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs620
-[/us/pl/105/83/s602/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs602%2Fa%2F1%2FA
-[/us/pl/105/83/s602/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs602%2Fa%2F1%2FB
-[/us/pl/105/83/s602/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs602%2Fa%2F2%2FA
-[/us/pl/105/83/s602/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs602%2Fa%2F2%2FB%2Fi
-[/us/pl/105/83/s602/a/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs602%2Fa%2F2%2FB%2Fii
-[/us/pl/105/83/s602/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs602%2Fa%2F2%2FC
-[/us/pl/105/83/s602/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs602%2Fa%2F2%2FD
-[/us/pl/105/83/s602/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs602%2Fa%2F2%2FF
-[/us/pl/105/83/s602/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs602%2Fa%2F3
+[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
+[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
+[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
+[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
+[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
+[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
+[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
+[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
+[/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
 
 

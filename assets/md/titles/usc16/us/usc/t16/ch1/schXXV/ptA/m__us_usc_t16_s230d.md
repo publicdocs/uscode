@@ -17,7 +17,7 @@
 
     Within the Barataria Preserve Unit, the Secretary shall permit hunting, fishing (including commercial fishing), and trapping in accordance with applicable Federal and State laws on land, and interests in land and water managed by the Secretary, except that the Secretary may designate zones where and establish periods when no hunting, fishing, or trapping shall be permitted for reasons of public safety. Except in emergencies, any regulations of the Secretary promulgated under this section shall be put into effect only after consultation with the appropriate fish and game agency of Louisiana.
 
-([Pub. L. 95–625, title IX, § 905][/us/pl/95/625/s905], Nov. 10, 1978, [92 Stat. 3536][/us/stat/92/3536]; [Pub. L. 111–11, title VII, § 7105(d)][/us/pl/111/11/s7105/d], (f)(2)(A), Mar. 30, 2009, [123 Stat. 1192][/us/stat/123/1192], 1193.)
+([Pub. L. 95–625, title IX][/us/pl/95/625/tIX], § 905, Nov. 10, 1978, [92 Stat. 3536][/us/stat/92/3536]; [Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7105(d), (f)(2)(A), Mar. 30, 2009, [123 Stat. 1192][/us/stat/123/1192], 1193.)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/95/625/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs905
+[/us/pl/95/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtIX
 [/us/stat/92/3536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3536
-[/us/pl/111/11/s7105/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7105%2Fd
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1192
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 [/us/usc/t16/s230a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs230a%2Fc

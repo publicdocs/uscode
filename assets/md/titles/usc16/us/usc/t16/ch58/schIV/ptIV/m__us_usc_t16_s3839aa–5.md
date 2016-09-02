@@ -43,7 +43,7 @@
 
         (2) to the maximum extent practicable, eliminate duplication of planning activities under the program under this part and comparable conservation programs.
 
-([Pub. L. 99–198, title XII, § 1240E][/us/pl/99/198/s1240E], as added [Pub. L. 107–171, title II, § 2301][/us/pl/107/171/s2301], May 13, 2002, [116 Stat. 256][/us/stat/116/256]; amended [Pub. L. 110–234, title II, § 2506][/us/pl/110/234/s2506], May 22, 2008, [122 Stat. 1063][/us/stat/122/1063]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2506, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1791.)
+([Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1240E, as added [Pub. L. 107–171, title II][/us/pl/107/171/tII], § 2301, May 13, 2002, [116 Stat. 256][/us/stat/116/256]; amended [Pub. L. 110–234, title II][/us/pl/110/234/tII], § 2506, May 22, 2008, [122 Stat. 1063][/us/stat/122/1063]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title II, § 2506, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1791.)
 
  __Codification__ 
 
@@ -51,15 +51,15 @@
 
  __Prior Provisions__ 
 
-    A prior section 3839aa–5, [Pub. L. 99–198, title XII, § 1240E][/us/pl/99/198/s1240E], as added [Pub. L. 104–127, title III, § 334][/us/pl/104/127/s334], Apr. 4, 1996, [110 Stat. 1001][/us/stat/110/1001], related to environmental quality incentives program plan, prior to the general amendment of this part by [Pub. L. 107–171][/us/pl/107/171].
+    A prior section 3839aa–5, [Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1240E, as added [Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 334, Apr. 4, 1996, [110 Stat. 1001][/us/stat/110/1001], related to environmental quality incentives program plan, prior to the general amendment of this part by [Pub. L. 107–171][/us/pl/107/171].
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 2506(a)(1)][/us/pl/110/246/s2506/a/1], (2), substituted “Plan of operations” for “In general” in heading and struck out “cost-share payments or incentive” before “payments” in introductory provisions.
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 2506(a)(1), (2), substituted “Plan of operations” for “In general” in heading and struck out “cost-share payments or incentive” before “payments” in introductory provisions.
 
-    Subsec. (a)(4). [Pub. L. 110–246, § 2506(a)(3)][/us/pl/110/246/s2506/a/3]–(5), added par. (4).
+    Subsec. (a)(4). [Pub. L. 110–246][/us/pl/110/246], § 2506(a)(3)–(5), added par. (4).
 
-    Subsec. (b). [Pub. L. 110–246, § 2506(b)][/us/pl/110/246/s2506/b], amended subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary shall, to the maximum extent practicable, eliminate duplication of planning activities under the program under this part and comparable conservation programs.”
+    Subsec. (b). [Pub. L. 110–246][/us/pl/110/246], § 2506(b), amended subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary shall, to the maximum extent practicable, eliminate duplication of planning activities under the program under this part and comparable conservation programs.”
 
  __Effective Date of 2008 Amendment__ 
 
@@ -73,24 +73,24 @@
 ----------
 
 [/us/usc/t16/s2103a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2103a
-[/us/pl/99/198/s1240E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1240E
-[/us/pl/107/171/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2301
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/107/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtII
 [/us/stat/116/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F256
-[/us/pl/110/234/s2506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2506
+[/us/pl/110/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtII
 [/us/stat/122/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1063
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/99/198/s1240E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1240E
-[/us/pl/104/127/s334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs334
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1001
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
-[/us/pl/110/246/s2506/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2506%2Fa%2F1
-[/us/pl/110/246/s2506/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2506%2Fa%2F3
-[/us/pl/110/246/s2506/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2506%2Fb
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

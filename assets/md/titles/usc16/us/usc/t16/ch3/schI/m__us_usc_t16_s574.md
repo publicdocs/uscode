@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture is authorized to reimburse owners of private property for damage or destruction thereof caused by employees of the United States in connection with the protection, administration, or improvement of the national forests, payment to be made from any funds appropriated for the protection, administration, and improvement of the national forests: Provided, That no payment in excess of $2,500 shall be made on any such claim.
 
-([May 27, 1930, ch. 337, § 2][/us/act/1930-05-27/ch337/s2], [46 Stat. 387][/us/stat/46/387]; [Pub. L. 87–869, § 8][/us/pl/87/869/s8], Oct. 23, 1962, [76 Stat. 1157][/us/stat/76/1157].)
+([May 27, 1930, ch. 337][/us/act/1930-05-27/ch337], § 2, [46 Stat. 387][/us/stat/46/387]; [Pub. L. 87–869][/us/pl/87/869], § 8, Oct. 23, 1962, [76 Stat. 1157][/us/stat/76/1157].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1930-05-27/ch337/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-27%2Fch337%2Fs2
+[/us/act/1930-05-27/ch337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-27%2Fch337
 [/us/stat/46/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F387
-[/us/pl/87/869/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F869%2Fs8
+[/us/pl/87/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F869
 [/us/stat/76/1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1157
 [/us/pl/87/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F869
 

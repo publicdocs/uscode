@@ -109,7 +109,7 @@
 
         Existing community recreational uses, as of September 28, 1984, shall be permitted at the levels and locations customarily exercised.
 
-([Pub. L. 98–425, title III, § 304][/us/pl/98/425/s304], Sept. 28, 1984, [98 Stat. 1634][/us/stat/98/1634].)
+([Pub. L. 98–425, title III][/us/pl/98/425/tIII], § 304, Sept. 28, 1984, [98 Stat. 1634][/us/stat/98/1634].)
 
  __References in Text__ 
 
@@ -127,7 +127,7 @@
 [/us/usc/t16/s543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs543
 [/us/usc/t30/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1001
 [/us/stat/49/1892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1892
-[/us/pl/98/425/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F425%2Fs304
+[/us/pl/98/425/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F425%2FtIII
 [/us/stat/98/1634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1634
 [/us/pl/91/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F581
 [/us/stat/84/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1566

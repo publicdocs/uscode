@@ -19,7 +19,7 @@
 
     Beginning at a point located at the intersection of the southerly line of Market Street with the westerly line of South Seventh Street, thence southerly along the west side of South Seventh Street 124 feet, thence westerly 50 feet, thence northerly 124 feet, thence easterly 50 feet to the point of beginning.
 
-([Pub. L. 88–477, § 1][/us/pl/88/477/s1], Aug. 21, 1964, [78 Stat. 587][/us/stat/78/587].)
+([Pub. L. 88–477][/us/pl/88/477], § 1, Aug. 21, 1964, [78 Stat. 587][/us/stat/78/587].)
 
  __Codification__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/88/477/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F477%2Fs1
+[/us/pl/88/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F477
 [/us/stat/78/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F587
 [/us/act/1948-06-28/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-28%2Fch687
 [/us/stat/62/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1061

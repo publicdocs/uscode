@@ -17,7 +17,7 @@
 
     The provisions of the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\] shall not apply to lands included in the Bryce Canyon National Park on June 13, 1930, nor to any lands added to said park under the authority of [section 402d of this title][/us/usc/t16/s402d].
 
-([June 13, 1930, ch. 480, § 2][/us/act/1930-06-13/ch480/s2], [46 Stat. 583][/us/stat/46/583].)
+([June 13, 1930, ch. 480][/us/act/1930-06-13/ch480], § 2, [46 Stat. 583][/us/stat/46/583].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/usc/t16/s402d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs402d
-[/us/act/1930-06-13/ch480/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-13%2Fch480%2Fs2
+[/us/act/1930-06-13/ch480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-13%2Fch480
 [/us/stat/46/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F583
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285

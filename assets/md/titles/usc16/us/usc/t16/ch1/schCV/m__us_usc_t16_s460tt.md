@@ -75,7 +75,7 @@
 
         The exact acreage and legal description of the real property to be transferred pursuant to this section shall be determined by a survey which is satisfactory to the Secretary and to the State. The cost of such survey shall be borne by the State.
 
-([Pub. L. 99–662, title XI, § 1114][/us/pl/99/662/s1114], Nov. 17, 1986, [100 Stat. 4232][/us/stat/100/4232]; [Pub. L. 101–640, title IV, § 402][/us/pl/101/640/s402], Nov. 28, 1990, [104 Stat. 4644][/us/stat/104/4644]; [Pub. L. 102–580, title I, § 102(e)][/us/pl/102/580/s102/e], Oct. 31, 1992, [106 Stat. 4805][/us/stat/106/4805].)
+([Pub. L. 99–662, title XI][/us/pl/99/662/tXI], § 1114, Nov. 17, 1986, [100 Stat. 4232][/us/stat/100/4232]; [Pub. L. 101–640, title IV][/us/pl/101/640/tIV], § 402, Nov. 28, 1990, [104 Stat. 4644][/us/stat/104/4644]; [Pub. L. 102–580, title I][/us/pl/102/580/tI], § 102(e), Oct. 31, 1992, [106 Stat. 4805][/us/stat/106/4805].)
 
  __References in Text__ 
 
@@ -95,11 +95,11 @@
 ----------
 
 [/us/stat/56/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F703
-[/us/pl/99/662/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1114
+[/us/pl/99/662/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXI
 [/us/stat/100/4232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4232
-[/us/pl/101/640/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs402
+[/us/pl/101/640/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2FtIV
 [/us/stat/104/4644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4644
-[/us/pl/102/580/s102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs102%2Fe
+[/us/pl/102/580/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2FtI
 [/us/stat/106/4805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4805
 [/us/act/1942-07-23/ch520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-07-23%2Fch520
 [/us/stat/56/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F703

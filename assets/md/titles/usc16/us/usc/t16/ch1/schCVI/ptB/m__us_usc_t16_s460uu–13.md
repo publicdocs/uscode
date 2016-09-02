@@ -17,7 +17,7 @@
 
     With respect to sites linked by segments of the trail which are administered by other Federal, State, local, tribal, or nonprofit entities, the Secretary may, pursuant to cooperative agreements with such entities, provide technical assistance in the development of interpretive devices and materials in order to contribute to public appreciation of the natural and cultural resources of the sites along the trail. The Secretary, in cooperation with State and local governments, Indian tribes, and nonprofit entities, shall prepare and distribute informational material for the public appreciation of sites along the trail.
 
-([Pub. L. 100–225, title II, § 203][/us/pl/100/225/s203], Dec. 31, 1987, [101 Stat. 1541][/us/stat/101/1541].)
+([Pub. L. 100–225, title II][/us/pl/100/225/tII], § 203, Dec. 31, 1987, [101 Stat. 1541][/us/stat/101/1541].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/225/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F225%2Fs203
+[/us/pl/100/225/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F225%2FtII
 [/us/stat/101/1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1541
 
 

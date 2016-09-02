@@ -85,7 +85,7 @@
 
     (17) “unintentional introduction” means an introduction of nonindigenous species that occurs as the result of activities other than the purposeful or intentional introduction of the species involved, such as the transport of nonindigenous species in ballast or in water used to transport fish, mollusks or crustaceans for aquaculture or other purposes.
 
-([Pub. L. 101–646, title I, § 1003][/us/pl/101/646/s1003], Nov. 29, 1990, [104 Stat. 4762][/us/stat/104/4762]; [Pub. L. 102–580, title III, § 302(b)(2)][/us/pl/102/580/s302/b/2], Oct. 31, 1992, [106 Stat. 4839][/us/stat/106/4839]; [Pub. L. 104–332, § 2(a)(2)][/us/pl/104/332/s2/a/2], (h)(1), (3), Oct. 26, 1996, [110 Stat. 4074][/us/stat/110/4074], 4091.)
+([Pub. L. 101–646, title I][/us/pl/101/646/tI], § 1003, Nov. 29, 1990, [104 Stat. 4762][/us/stat/104/4762]; [Pub. L. 102–580, title III][/us/pl/102/580/tIII], § 302(b)(2), Oct. 31, 1992, [106 Stat. 4839][/us/stat/106/4839]; [Pub. L. 104–332][/us/pl/104/332], § 2(a)(2), (h)(1), (3), Oct. 26, 1996, [110 Stat. 4074][/us/stat/110/4074], 4091.)
 
  __References in Text__ 
 
@@ -99,25 +99,25 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–332, § 2(h)(1)][/us/pl/104/332/s2/h/1], (3), made technical amendment to [Pub. L. 101–646, § 1003][/us/pl/101/646/s1003], which enacted this section.
+    1996—[Pub. L. 104–332][/us/pl/104/332], § 2(h)(1), (3), made technical amendment to [Pub. L. 101–646][/us/pl/101/646], § 1003, which enacted this section.
 
-    Par. (1). [Pub. L. 104–332, § 2(a)(2)(A)][/us/pl/104/332/s2/a/2/A], redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “ ‘appropriate Committees’ means the Committee on Public Works and Transportation and the Committee on Merchant Marine and Fisheries in the House of Representatives and the Committee on Environment and Public Works and Committee on Commerce, Science, and Transportation in the Senate; and”.
+    Par. (1). [Pub. L. 104–332][/us/pl/104/332], § 2(a)(2)(A), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “ ‘appropriate Committees’ means the Committee on Public Works and Transportation and the Committee on Merchant Marine and Fisheries in the House of Representatives and the Committee on Environment and Public Works and Committee on Commerce, Science, and Transportation in the Senate; and”.
 
-    Par. (2). [Pub. L. 104–332, § 2(a)(2)(B)][/us/pl/104/332/s2/a/2/B], substituted “ ‘Assistant Secretary’ means” for “ ‘assistant Secretary’ means”.
+    Par. (2). [Pub. L. 104–332][/us/pl/104/332], § 2(a)(2)(B), substituted “ ‘Assistant Secretary’ means” for “ ‘assistant Secretary’ means”.
 
-    [Pub. L. 104–332, § 2(a)(2)(A)][/us/pl/104/332/s2/a/2/A], redesignated par. (3) as (2). Former par. (2) redesignated (1).
+    [Pub. L. 104–332][/us/pl/104/332], § 2(a)(2)(A), redesignated par. (3) as (2). Former par. (2) redesignated (1).
 
-    Pars. (3) to (7). [Pub. L. 104–332, § 2(a)(2)(A)][/us/pl/104/332/s2/a/2/A], redesignated pars. (4) to (8) as (3) to (7), respectively. Former par. (3) redesignated (2).
+    Pars. (3) to (7). [Pub. L. 104–332][/us/pl/104/332], § 2(a)(2)(A), redesignated pars. (4) to (8) as (3) to (7), respectively. Former par. (3) redesignated (2).
 
-    Par. (8). [Pub. L. 104–332, § 2(a)(2)(D)][/us/pl/104/332/s2/a/2/D], added par. (8).
+    Par. (8). [Pub. L. 104–332][/us/pl/104/332], § 2(a)(2)(D), added par. (8).
 
-    [Pub. L. 104–332, § 2(a)(2)(A)][/us/pl/104/332/s2/a/2/A], redesignated par. (8) as (7).
+    [Pub. L. 104–332][/us/pl/104/332], § 2(a)(2)(A), redesignated par. (8) as (7).
 
-    Pars. (9), (10). [Pub. L. 104–332, § 2(a)(2)(D)][/us/pl/104/332/s2/a/2/D], added pars. (9) and (10).
+    Pars. (9), (10). [Pub. L. 104–332][/us/pl/104/332], § 2(a)(2)(D), added pars. (9) and (10).
 
-    [Pub. L. 104–332, § 2(a)(2)(C)][/us/pl/104/332/s2/a/2/C], redesignated pars. (9) and (10) as (11) and (12), respectively.
+    [Pub. L. 104–332][/us/pl/104/332], § 2(a)(2)(C), redesignated pars. (9) and (10) as (11) and (12), respectively.
 
-    Pars. (11) to (17). [Pub. L. 104–332, § 2(a)(2)(C)][/us/pl/104/332/s2/a/2/C], redesignated pars. (9) to (15) as (11) to (17), respectively.
+    Pars. (11) to (17). [Pub. L. 104–332][/us/pl/104/332], § 2(a)(2)(C), redesignated pars. (9) to (15) as (11) to (17), respectively.
 
     1992—Par. (1). [Pub. L. 102–580][/us/pl/102/580] inserted “the Committee on Public Works and Transportation and” after “means”.
 
@@ -134,11 +134,11 @@
 
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/usc/t16/s4721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4721
-[/us/pl/101/646/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs1003
+[/us/pl/101/646/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2FtI
 [/us/stat/104/4762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4762
-[/us/pl/102/580/s302/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs302%2Fb%2F2
+[/us/pl/102/580/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2FtIII
 [/us/stat/106/4839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4839
-[/us/pl/104/332/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fa%2F2
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
 [/us/stat/110/4074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4074
 [/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
 [/us/stat/104/4761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4761
@@ -148,17 +148,17 @@
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
-[/us/pl/104/332/s2/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fh%2F1
-[/us/pl/101/646/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs1003
-[/us/pl/104/332/s2/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fa%2F2%2FA
-[/us/pl/104/332/s2/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fa%2F2%2FB
-[/us/pl/104/332/s2/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fa%2F2%2FA
-[/us/pl/104/332/s2/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fa%2F2%2FA
-[/us/pl/104/332/s2/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fa%2F2%2FD
-[/us/pl/104/332/s2/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fa%2F2%2FA
-[/us/pl/104/332/s2/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fa%2F2%2FD
-[/us/pl/104/332/s2/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fa%2F2%2FC
-[/us/pl/104/332/s2/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fa%2F2%2FC
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
 [/us/pl/102/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

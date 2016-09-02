@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall be construed to deprive any State or political subdivision thereof, of its right to exercise civil and criminal jurisdiction over the lands and waters within the area or of its right to tax persons, corporations, franchises, or property on the lands and waters included in the area.
 
-([Pub. L. 89–158, § 7][/us/pl/89/158/s7], Sept. 1, 1965, [79 Stat. 614][/us/stat/79/614].)
+([Pub. L. 89–158][/us/pl/89/158], § 7, Sept. 1, 1965, [79 Stat. 614][/us/stat/79/614].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/158/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F158%2Fs7
+[/us/pl/89/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F158
 [/us/stat/79/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F614
 
 

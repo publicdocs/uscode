@@ -69,7 +69,7 @@
 
                     (III) the results of those actions.
 
-([Pub. L. 111–11, title III, § 3101][/us/pl/111/11/s3101], Mar. 30, 2009, [123 Stat. 1127][/us/stat/123/1127].)
+([Pub. L. 111–11, title III][/us/pl/111/11/tIII], § 3101, Mar. 30, 2009, [123 Stat. 1127][/us/stat/123/1127].)
 
 ----------
 
@@ -78,7 +78,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs3101
+[/us/pl/111/11/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtIII
 [/us/stat/123/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1127
 
 

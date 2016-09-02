@@ -33,7 +33,7 @@
 
         The term “Secretary” means the Secretary of the Interior.
 
-([Pub. L. 107–373, § 4][/us/pl/107/373/s4], Dec. 19, 2002, [116 Stat. 3105][/us/stat/116/3105].)
+([Pub. L. 107–373][/us/pl/107/373], § 4, Dec. 19, 2002, [116 Stat. 3105][/us/stat/116/3105].)
 
 ----------
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t16/s410iii–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410iii%E2%80%937
 [/us/usc/t16/s410iii–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410iii%E2%80%933
-[/us/pl/107/373/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F373%2Fs4
+[/us/pl/107/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F373
 [/us/stat/116/3105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3105
 
 

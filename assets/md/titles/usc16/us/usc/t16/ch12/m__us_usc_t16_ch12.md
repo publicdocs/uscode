@@ -505,7 +505,7 @@ SUBCHAPTER II—REGULATION OF ELECTRIC UTILITY COMPANIES ENGAGED IN INTERSTATE C
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs824" data-uslm-ref="/us/usc/t16/s824">824</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs824l" data-uslm-ref="/us/usc/t16/s824l">824l.</a>  </td>
 
     <td> Information requirements.  </td>
 
@@ -529,7 +529,7 @@ SUBCHAPTER II—REGULATION OF ELECTRIC UTILITY COMPANIES ENGAGED IN INTERSTATE C
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs824" data-uslm-ref="/us/usc/t16/s824">824</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs824o" data-uslm-ref="/us/usc/t16/s824o">824o.</a>  </td>
 
     <td> Electric reliability.  </td>
 
@@ -537,7 +537,7 @@ SUBCHAPTER II—REGULATION OF ELECTRIC UTILITY COMPANIES ENGAGED IN INTERSTATE C
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs824" data-uslm-ref="/us/usc/t16/s824">824</a>o–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs824o" data-uslm-ref="/us/usc/t16/s824o">824o</a>–1.  </td>
 
     <td> Critical electric infrastructure security.  </td>
 
@@ -713,7 +713,7 @@ SUBCHAPTER III—LICENSEES AND PUBLIC UTILITIES; PROCEDURAL AND ADMINISTRATIVE P
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs825" data-uslm-ref="/us/usc/t16/s825">825</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs825l" data-uslm-ref="/us/usc/t16/s825l">825l.</a>  </td>
 
     <td> Review of orders.  </td>
 
@@ -737,7 +737,7 @@ SUBCHAPTER III—LICENSEES AND PUBLIC UTILITIES; PROCEDURAL AND ADMINISTRATIVE P
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs825" data-uslm-ref="/us/usc/t16/s825">825</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs825o" data-uslm-ref="/us/usc/t16/s825o">825o.</a>  </td>
 
     <td> Penalties for violations; applicability of section.  </td>
 
@@ -745,7 +745,7 @@ SUBCHAPTER III—LICENSEES AND PUBLIC UTILITIES; PROCEDURAL AND ADMINISTRATIVE P
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs825" data-uslm-ref="/us/usc/t16/s825">825</a>o–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs825o" data-uslm-ref="/us/usc/t16/s825o">825o</a>–1.  </td>
 
     <td> Enforcement of certain provisions.  </td>
 
@@ -907,7 +907,7 @@ SUBCHAPTER IV—STATE AND MUNICIPAL WATER CONSERVATION FACILITIES  </td>
 
  __Findings__ 
 
-[Pub. L. 113–23, § 2][/us/pl/113/23/s2], Aug. 9, 2013, [127 Stat. 493][/us/stat/127/493], provided that: 
+[Pub. L. 113–23][/us/pl/113/23], § 2, Aug. 9, 2013, [127 Stat. 493][/us/stat/127/493], provided that: 
 
 > “Congress finds that—
 
@@ -934,7 +934,7 @@ SUBCHAPTER IV—STATE AND MUNICIPAL WATER CONSERVATION FACILITIES  </td>
 ----------
 ----------
 
-[/us/pl/113/23/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F23%2Fs2
+[/us/pl/113/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F23
 [/us/stat/127/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F493
 
 

@@ -17,7 +17,7 @@
 
     The refuge shall be established and maintained (a) as a refuge and breeding place for migratory birds included in the terms of the convention between the United States and Great Britain for the protection of migratory birds, concluded August 16, 1916, and (b) to such extent as the Secretary of the Interior may by regulations prescribe, as a refuge and breeding place for other wild birds, game animals, fur-bearing animals, and for the conservation of wild flowers and aquatic plants, and (c) to such extent as the Secretary of the Interior may by regulations prescribe as a refuge and breeding place for fish and other aquatic animal life.
 
-([June 7, 1924, ch. 346, § 3][/us/act/1924-06-07/ch346/s3], [43 Stat. 650][/us/stat/43/650]; 1939 Reorg. Plan No. II, § 4(e), (f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433].)
+([June 7, 1924, ch. 346][/us/act/1924-06-07/ch346], § 3, [43 Stat. 650][/us/stat/43/650]; 1939 Reorg. Plan No. II, § 4(e), (f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433].)
 
  __Transfer of Functions__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1924-06-07/ch346/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch346%2Fs3
+[/us/act/1924-06-07/ch346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch346
 [/us/stat/43/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F650
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
 [/us/stat/54/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1232

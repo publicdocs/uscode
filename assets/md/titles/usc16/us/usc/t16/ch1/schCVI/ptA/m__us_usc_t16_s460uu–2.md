@@ -17,7 +17,7 @@
 
     The Secretary, acting through the Director of the National Park Service, shall manage the monument in accordance with the provisions of this subchapter, the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]; [16 U.S.C. 1][/us/usc/t16/s1] et seq.), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and other provisions of law applicable to units of the National Park System. The Secretary shall protect, manage, and administer the monument for the purposes of preserving the scenery and the natural, historic, and cultural resources of the monument and providing for the public understanding and enjoyment of the same in such a manner as to perpetuate these qualities for future generations.
 
-([Pub. L. 100–225, title I, § 103][/us/pl/100/225/s103], Dec. 31, 1987, [101 Stat. 1539][/us/stat/101/1539].)
+([Pub. L. 100–225, title I][/us/pl/100/225/tI], § 103, Dec. 31, 1987, [101 Stat. 1539][/us/stat/101/1539].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
-[/us/pl/100/225/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F225%2Fs103
+[/us/pl/100/225/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F225%2FtI
 [/us/stat/101/1539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1539
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1

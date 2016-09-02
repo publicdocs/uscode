@@ -23,13 +23,13 @@
 
         Of amounts available each fiscal year to carry out this chapter, the Secretary may expend not more than 3 percent or $100,000, whichever is greater, to pay the administrative expenses necessary to carry out this chapter.
 
-([Pub. L. 100–478, title II, § 2306][/us/pl/100/478/s2306], Oct. 7, 1988, [102 Stat. 2323][/us/stat/102/2323]; [Pub. L. 102–440, title III, § 302][/us/pl/102/440/s302], Oct. 23, 1992, [106 Stat. 2234][/us/stat/106/2234]; [Pub. L. 105–217, § 2][/us/pl/105/217/s2], Aug. 5, 1998, [112 Stat. 911][/us/stat/112/911]; [Pub. L. 107–111][/us/pl/107/111], §§ 2, 3, Jan. 8, 2002, [115 Stat. 2095][/us/stat/115/2095]; [Pub. L. 107–141, § 5(b)(2)(B)][/us/pl/107/141/s5/b/2/B], Feb. 12, 2002, [116 Stat. 14][/us/stat/116/14]; [Pub. L. 110–132, § 2(b)][/us/pl/110/132/s2/b], (c), Dec. 6, 2007, [121 Stat. 1360][/us/stat/121/1360].)
+([Pub. L. 100–478, title II][/us/pl/100/478/tII], § 2306, Oct. 7, 1988, [102 Stat. 2323][/us/stat/102/2323]; [Pub. L. 102–440, title III][/us/pl/102/440/tIII], § 302, Oct. 23, 1992, [106 Stat. 2234][/us/stat/106/2234]; [Pub. L. 105–217][/us/pl/105/217], § 2, Aug. 5, 1998, [112 Stat. 911][/us/stat/112/911]; [Pub. L. 107–111][/us/pl/107/111], §§ 2, 3, Jan. 8, 2002, [115 Stat. 2095][/us/stat/115/2095]; [Pub. L. 107–141][/us/pl/107/141], § 5(b)(2)(B), Feb. 12, 2002, [116 Stat. 14][/us/stat/116/14]; [Pub. L. 110–132][/us/pl/110/132], § 2(b), (c), Dec. 6, 2007, [121 Stat. 1360][/us/stat/121/1360].)
 
  __Amendments__ 
 
-    2007—Subsec. (a). [Pub. L. 110–132, § 2(c)][/us/pl/110/132/s2/c], substituted “2007 through 2012” for “2001, 2002, 2003, 2004, 2005, 2006, and 2007”.
+    2007—Subsec. (a). [Pub. L. 110–132][/us/pl/110/132], § 2(c), substituted “2007 through 2012” for “2001, 2002, 2003, 2004, 2005, 2006, and 2007”.
 
-    Subsec. (b). [Pub. L. 110–132, § 2(b)][/us/pl/110/132/s2/b], substituted “$100,000” for “$80,000”.
+    Subsec. (b). [Pub. L. 110–132][/us/pl/110/132], § 2(b), substituted “$100,000” for “$80,000”.
 
     2002—Subsec. (b). [Pub. L. 107–141][/us/pl/107/141] made technical amendment to reference in original act which appears in two places in text as reference to this chapter.
 
@@ -41,7 +41,7 @@
 
  __Effective Date of 2002 Amendment__ 
 
-    [Pub. L. 107–141, § 5(b)(2)][/us/pl/107/141/s5/b/2], Feb. 12, 2002, [116 Stat. 14][/us/stat/116/14], provided that the amendment by [section 5(b)(2) of Pub. L. 107–141][/us/pl/107/141/s5/b/2] is effective on the day after Jan. 8, 2002.
+    [Pub. L. 107–141][/us/pl/107/141], § 5(b)(2), Feb. 12, 2002, [116 Stat. 14][/us/stat/116/14], provided that the amendment by [section 5(b)(2) of Pub. L. 107–141][/us/pl/107/141/s5/b/2] is effective on the day after Jan. 8, 2002.
 
 ----------
 
@@ -50,25 +50,25 @@
 ----------
 ----------
 
-[/us/pl/100/478/s2306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2Fs2306
+[/us/pl/100/478/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2FtII
 [/us/stat/102/2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2323
-[/us/pl/102/440/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2Fs302
+[/us/pl/102/440/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2FtIII
 [/us/stat/106/2234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2234
-[/us/pl/105/217/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F217%2Fs2
+[/us/pl/105/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F217
 [/us/stat/112/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F911
 [/us/pl/107/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F111
 [/us/stat/115/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2095
-[/us/pl/107/141/s5/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F141%2Fs5%2Fb%2F2%2FB
+[/us/pl/107/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F141
 [/us/stat/116/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F14
-[/us/pl/110/132/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F132%2Fs2%2Fb
+[/us/pl/110/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F132
 [/us/stat/121/1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1360
-[/us/pl/110/132/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F132%2Fs2%2Fc
-[/us/pl/110/132/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F132%2Fs2%2Fb
+[/us/pl/110/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F132
+[/us/pl/110/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F132
 [/us/pl/107/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F141
 [/us/pl/107/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F111
 [/us/pl/105/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F217
 [/us/pl/102/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440
-[/us/pl/107/141/s5/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F141%2Fs5%2Fb%2F2
+[/us/pl/107/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F141
 [/us/stat/116/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F14
 [/us/pl/107/141/s5/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F141%2Fs5%2Fb%2F2
 

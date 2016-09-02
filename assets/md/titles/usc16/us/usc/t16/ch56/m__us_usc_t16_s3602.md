@@ -31,7 +31,7 @@
 
         In carrying out their functions under the Convention, the Commissioners may consult with the appropriate Regional Fishery Management Councils established by section 302 of the Act of 1976 ([16 U.S.C. 1852][/us/usc/t16/s1852]), and may consult with such other interested parties as they consider appropriate. The Federal Advisory Committee Act (5 U.S.C. App. et seq.) shall not apply to consultations described in this subsection.
 
-([Pub. L. 97–389, title III, § 303][/us/pl/97/389/s303], Dec. 29, 1982, [96 Stat. 1952][/us/stat/96/1952]; [Pub. L. 98–44, title I, § 102(1)][/us/pl/98/44/s102/1], July 12, 1983, [97 Stat. 216][/us/stat/97/216].)
+([Pub. L. 97–389, title III][/us/pl/97/389/tIII], § 303, Dec. 29, 1982, [96 Stat. 1952][/us/stat/96/1952]; [Pub. L. 98–44, title I][/us/pl/98/44/tI], § 102(1), July 12, 1983, [97 Stat. 216][/us/stat/97/216].)
 
  __References in Text__ 
 
@@ -49,9 +49,9 @@
 ----------
 
 [/us/usc/t16/s1852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1852
-[/us/pl/97/389/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F389%2Fs303
+[/us/pl/97/389/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F389%2FtIII
 [/us/stat/96/1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1952
-[/us/pl/98/44/s102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F44%2Fs102%2F1
+[/us/pl/98/44/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F44%2FtI
 [/us/stat/97/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F216
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

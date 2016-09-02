@@ -45,7 +45,7 @@
 
         In making loans for small hydroelectric power projects under this section, the Secretary shall encourage joint participation, to the extent permitted by law, by applicants eligible to receive loans under this section with respect to the same project.
 
-([Pub. L. 95–617, title IV, § 403][/us/pl/95/617/s403], Nov. 9, 1978, [92 Stat. 3155][/us/stat/92/3155].)
+([Pub. L. 95–617, title IV][/us/pl/95/617/tIV], § 403, Nov. 9, 1978, [92 Stat. 3155][/us/stat/92/3155].)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 ----------
 
 [/us/usc/t15/s796/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs796%2Fd
-[/us/pl/95/617/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs403
+[/us/pl/95/617/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtIV
 [/us/stat/92/3155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3155
 
 

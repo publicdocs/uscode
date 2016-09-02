@@ -45,7 +45,7 @@
 
         (4) The Secretary shall not allow any unauthorized use of the lands to be acquired under this subsection, except that the Secretary shall permit the orderly termination of all current activities and the removal of any equipment, facilities, or personal property.
 
-([Pub. L. 96–199, title II, § 202][/us/pl/96/199/s202], Mar. 5, 1980, [94 Stat. 74][/us/stat/94/74]; [Pub. L. 104–333, div. I, title VIII, § 817][/us/pl/104/333/s817], Nov. 12, 1996, [110 Stat. 4200][/us/stat/110/4200].)
+([Pub. L. 96–199, title II][/us/pl/96/199/tII], § 202, Mar. 5, 1980, [94 Stat. 74][/us/stat/94/74]; [Pub. L. 104–333, div. I, title VIII][/us/pl/104/333/dI/tVIII], § 817, Nov. 12, 1996, [110 Stat. 4200][/us/stat/110/4200].)
 
  __References in Text__ 
 
@@ -64,9 +64,9 @@
 
 [/us/usc/t16/s410ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410ff
 [/us/usc/t16/s410ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410ff
-[/us/pl/96/199/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199%2Fs202
+[/us/pl/96/199/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199%2FtII
 [/us/stat/94/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F74
-[/us/pl/104/333/s817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs817
+[/us/pl/104/333/dI/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtVIII
 [/us/stat/110/4200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4200
 [/us/pl/96/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199
 [/us/pl/96/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199

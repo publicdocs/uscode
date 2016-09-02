@@ -17,7 +17,7 @@
 
     The Secretary shall offer to amend, without imposing any other requirements as a condition to such amendment, all existing contracts for the sale or exchange of electric power generated at Federal hydroelectric plants in the Pacific Northwest to include, and shall include in all new contracts, provisions giving the purchaser priority on electric power generated at such plants in conformity with the provisions of this chapter.
 
-([Pub. L. 88–552, § 7][/us/pl/88/552/s7], Aug. 31, 1964, [78 Stat. 758][/us/stat/78/758].)
+([Pub. L. 88–552][/us/pl/88/552], § 7, Aug. 31, 1964, [78 Stat. 758][/us/stat/78/758].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/552/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F552%2Fs7
+[/us/pl/88/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F552
 [/us/stat/78/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F758
 
 

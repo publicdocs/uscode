@@ -117,7 +117,7 @@
 
         The Secretaries of Agriculture and Interior shall, in consultation, review the definition of unprocessed timber under [section 620e(7) of this title][/us/usc/t16/s620e/7] for purposes of sections 620 to 620j of this title and, not later than 18 months after August 20, 1990, submit to the Congress any recommendations they have with respect to such definition. Specifically, the Secretaries shall report on the effects of maintaining 2 size standards under section 620e(B)(ii)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be section “620e(7)(B)(ii)”. </sup></sup>  and (iii) of this title.
 
-([Pub. L. 101–382, title IV, § 495][/us/pl/101/382/s495], Aug. 20, 1990, [104 Stat. 725][/us/stat/104/725]; [Pub. L. 105–83, title VI, § 605][/us/pl/105/83/s605], Nov. 14, 1997, [111 Stat. 1622][/us/stat/111/1622].)
+([Pub. L. 101–382, title IV][/us/pl/101/382/tIV], § 495, Aug. 20, 1990, [104 Stat. 725][/us/stat/104/725]; [Pub. L. 105–83, title VI][/us/pl/105/83/tVI], § 605, Nov. 14, 1997, [111 Stat. 1622][/us/stat/111/1622].)
 
  __Amendments__ 
 
@@ -131,9 +131,9 @@
 ----------
 
 [/us/usc/t16/s620e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs620e%2F7
-[/us/pl/101/382/s495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs495
+[/us/pl/101/382/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtIV
 [/us/stat/104/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F725
-[/us/pl/105/83/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs605
+[/us/pl/105/83/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtVI
 [/us/stat/111/1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1622
 [/us/pl/105/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83
 

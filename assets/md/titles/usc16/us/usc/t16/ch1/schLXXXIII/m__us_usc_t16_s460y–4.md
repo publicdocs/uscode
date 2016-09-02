@@ -61,7 +61,7 @@
 
         To issue such regulations and to do such other things as the Secretary deems necessary and desirable to carry out the terms of this subchapter.
 
-([Pub. L. 91–476, § 5][/us/pl/91/476/s5], Oct. 21, 1970, [84 Stat. 1068][/us/stat/84/1068]; [Pub. L. 95–352, § 2(1)][/us/pl/95/352/s2/1], Aug. 20, 1978, [92 Stat. 516][/us/stat/92/516].)
+([Pub. L. 91–476][/us/pl/91/476], § 5, Oct. 21, 1970, [84 Stat. 1068][/us/stat/84/1068]; [Pub. L. 95–352][/us/pl/95/352], § 2(1), Aug. 20, 1978, [92 Stat. 516][/us/stat/92/516].)
 
  __Amendments__ 
 
@@ -77,9 +77,9 @@
 [/us/usc/t16/s460y–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460y%E2%80%938
 [/us/usc/t16/s460y–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460y%E2%80%938
 [/us/usc/t16/s460y–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460y%E2%80%935
-[/us/pl/91/476/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F476%2Fs5
+[/us/pl/91/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F476
 [/us/stat/84/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1068
-[/us/pl/95/352/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F352%2Fs2%2F1
+[/us/pl/95/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F352
 [/us/stat/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F516
 [/us/pl/95/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F352
 

@@ -17,7 +17,7 @@
 
     The nondisplacement requirements of [section 12637 of title 42][/us/usc/t42/s12637] shall be applicable to all activities carried out by the Public Lands Corps, to all activities carried out under this subchapter by a qualified youth or conservation corps, and to the selection and service of resource assistants.
 
-([Pub. L. 91–378, title II, § 209][/us/pl/91/378/s209], as added [Pub. L. 103–82, title I, § 105(6)][/us/pl/103/82/s105/6], Sept. 21, 1993, [107 Stat. 853][/us/stat/107/853].)
+([Pub. L. 91–378, title II][/us/pl/91/378/tII], § 209, as added [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 105(6), Sept. 21, 1993, [107 Stat. 853][/us/stat/107/853].)
 
 ----------
 
@@ -27,8 +27,8 @@
 ----------
 
 [/us/usc/t42/s12637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12637
-[/us/pl/91/378/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F378%2Fs209
-[/us/pl/103/82/s105/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs105%2F6
+[/us/pl/91/378/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F378%2FtII
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F853
 
 

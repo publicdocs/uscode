@@ -35,17 +35,17 @@
 
         have access for purposes of audit and examination to any record, book, document, and paper which belongs to or is used or controlled by, any recipient of the grant funds or any person who entered into any transaction relating to such financial assistance and which is pertinent for purposes of determining if the grant funds or the proceeds of such financial assistance are being, or were, used in accordance with the provisions of this chapter.
 
-([Pub. L. 89–454, title III, § 313][/us/pl/89/454/s313], formerly § 310, as added [Pub. L. 92–583][/us/pl/92/583], Oct. 27, 1972, [86 Stat. 1287][/us/stat/86/1287]; renumbered § 313 and amended [Pub. L. 94–370][/us/pl/94/370], §§ 7, 11, July 26, 1976, [90 Stat. 1019][/us/stat/90/1019], 1030; [Pub. L. 102–587, title II, § 2205(b)(19)][/us/pl/102/587/s2205/b/19], Nov. 4, 1992, [106 Stat. 5052][/us/stat/106/5052].)
+([Pub. L. 89–454, title III][/us/pl/89/454/tIII], § 313, formerly § 310, as added [Pub. L. 92–583][/us/pl/92/583], Oct. 27, 1972, [86 Stat. 1287][/us/stat/86/1287]; renumbered § 313 and amended [Pub. L. 94–370][/us/pl/94/370], §§ 7, 11, July 26, 1976, [90 Stat. 1019][/us/stat/90/1019], 1030; [Pub. L. 102–587, title II][/us/pl/102/587/tII], § 2205(b)(19), Nov. 4, 1992, [106 Stat. 5052][/us/stat/106/5052].)
 
  __Amendments__ 
 
-    1992—Subsec. (a). [Pub. L. 102–587, § 2205(b)(19)(A)][/us/pl/102/587/s2205/b/19/A], substituted “[section 1456a of this title][/us/usc/t16/s1456a], as in effect before November 5, 1990,” for “[section 1456a of this title][/us/usc/t16/s1456a]”.
+    1992—Subsec. (a). [Pub. L. 102–587][/us/pl/102/587], § 2205(b)(19)(A), substituted “[section 1456a of this title][/us/usc/t16/s1456a], as in effect before November 5, 1990,” for “[section 1456a of this title][/us/usc/t16/s1456a]”.
 
-    Subsec. (b)(1). [Pub. L. 102–587, § 2205(b)(19)(B)][/us/pl/102/587/s2205/b/19/B], substituted “[section 1456a of this title][/us/usc/t16/s1456a], as in effect before November 5, 1990; and” for “[section 1456a(d) of this title][/us/usc/t16/s1456a/d]; and”.
+    Subsec. (b)(1). [Pub. L. 102–587][/us/pl/102/587], § 2205(b)(19)(B), substituted “[section 1456a of this title][/us/usc/t16/s1456a], as in effect before November 5, 1990; and” for “[section 1456a(d) of this title][/us/usc/t16/s1456a/d]; and”.
 
-    1976—Subsec. (a). [Pub. L. 94–370, § 11(2)][/us/pl/94/370/s11/2], inserted “or of financial assistance under [section 1456a of this title][/us/usc/t16/s1456a]” after “grant under this chapter” and “and of the proceeds of such assistance” after “received under the grant”.
+    1976—Subsec. (a). [Pub. L. 94–370][/us/pl/94/370], § 11(2), inserted “or of financial assistance under [section 1456a of this title][/us/usc/t16/s1456a]” after “grant under this chapter” and “and of the proceeds of such assistance” after “received under the grant”.
 
-    Subsec. (b). [Pub. L. 94–370, § 11(3)][/us/pl/94/370/s11/3], inserted provisions limiting duration of authority to 3 years after completion of project or repayment of loan and enlarged scope of access to include persons who entered into transactions relating to the grant of funds.
+    Subsec. (b). [Pub. L. 94–370][/us/pl/94/370], § 11(3), inserted provisions limiting duration of authority to 3 years after completion of project or repayment of loan and enlarged scope of access to include persons who entered into transactions relating to the grant of funds.
 
 ----------
 
@@ -56,21 +56,21 @@
 
 [/us/usc/t16/s1456a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1456a
 [/us/usc/t16/s1456a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1456a
-[/us/pl/89/454/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2Fs313
+[/us/pl/89/454/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2FtIII
 [/us/pl/92/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F583
 [/us/stat/86/1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1287
 [/us/pl/94/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F370
 [/us/stat/90/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1019
-[/us/pl/102/587/s2205/b/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2205%2Fb%2F19
+[/us/pl/102/587/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtII
 [/us/stat/106/5052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5052
-[/us/pl/102/587/s2205/b/19/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2205%2Fb%2F19%2FA
+[/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
 [/us/usc/t16/s1456a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1456a
 [/us/usc/t16/s1456a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1456a
-[/us/pl/102/587/s2205/b/19/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2205%2Fb%2F19%2FB
+[/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
 [/us/usc/t16/s1456a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1456a
 [/us/usc/t16/s1456a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1456a%2Fd
-[/us/pl/94/370/s11/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F370%2Fs11%2F2
+[/us/pl/94/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F370
 [/us/usc/t16/s1456a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1456a
-[/us/pl/94/370/s11/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F370%2Fs11%2F3
+[/us/pl/94/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F370
 
 

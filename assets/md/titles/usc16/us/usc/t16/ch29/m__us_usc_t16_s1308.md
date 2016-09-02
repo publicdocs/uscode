@@ -17,7 +17,7 @@
 
     The Secretary may, without regard to the civil service laws, appoint an Advisory Board to advise and consult on matters relating to his functions under this chapter as he deems appropriate. The Board shall consist of persons chosen from members of organizations such as wildlife organizations, land-grant colleges, farm organizations, State game and fish departments, soil and water conservation district associations, water management organizations, and representatives of the general public. Members of such an Advisory Board who are not regular full-time employees of the United States shall be entitled to reimbursement on an actual expense basis for attendance at Advisory Board meetings.
 
-([Pub. L. 91–559, § 9][/us/pl/91/559/s9], Dec. 19, 1970, [84 Stat. 1471][/us/stat/84/1471].)
+([Pub. L. 91–559][/us/pl/91/559], § 9, Dec. 19, 1970, [84 Stat. 1471][/us/stat/84/1471].)
 
  __Termination of Advisory Boards__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/91/559/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F559%2Fs9
+[/us/pl/91/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F559
 [/us/stat/84/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1471
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

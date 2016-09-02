@@ -27,7 +27,7 @@
 
         Subject to the allocation requirements of [section 4407(a)(1) of this title][/us/usc/t16/s4407/a/1] and the limitations on Federal contributions under [section 4407(b) of this title][/us/usc/t16/s4407/b], the Secretary shall grant or otherwise provide the Federal funds made available under this chapter and [section 669b(b) of this title][/us/usc/t16/s669b/b] to public agencies and other entities for the purpose of assisting such entities and individuals in carrying out wetlands conservation projects in Canada or Mexico that have been approved by the Migratory Bird Conservation Commission: Provided, That the grant recipient shall have been so identified in the project description accompanying the recommendation from the Council and approved by the Migratory Bird Conservation Commission. The Secretary may only grant or otherwise provide Federal funds if the grant is subject to the terms and conditions that will ensure that any real property interest acquired in whole or in part, or enhanced, managed, or restored with such Federal funds will be administered for the long-term conservation and management of such wetland ecosystem and the fish and wildlife dependent thereon. Real property and interests in real property acquired pursuant to this subsection shall not become part of the National Wildlife Refuge System. Acquisitions of real property and interests in real property carried out pursuant to this subsection shall not be subject to any provision of Federal law governing acquisitions of property for inclusion in the National Wildlife Refuge System.
 
-([Pub. L. 101–233, § 6][/us/pl/101/233/s6], Dec. 13, 1989, [103 Stat. 1973][/us/stat/103/1973].)
+([Pub. L. 101–233][/us/pl/101/233], § 6, Dec. 13, 1989, [103 Stat. 1973][/us/stat/103/1973].)
 
 ----------
 
@@ -44,7 +44,7 @@
 [/us/usc/t16/s4407/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4407%2Fa%2F1
 [/us/usc/t16/s4407/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4407%2Fb
 [/us/usc/t16/s669b/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs669b%2Fb
-[/us/pl/101/233/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F233%2Fs6
+[/us/pl/101/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F233
 [/us/stat/103/1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1973
 
 

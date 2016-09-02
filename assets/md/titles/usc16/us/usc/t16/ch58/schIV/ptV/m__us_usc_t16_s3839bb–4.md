@@ -13,13 +13,13 @@
 
 [Previous](./../../../../../..//us/usc/t16/ch58/schIV/ptV/m__us_usc_t16_s3839bb–3.md) | [Next](./../../../../../..//us/usc/t16/ch58/schIV/ptV/m__us_usc_t16_s3839bb–5.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3839bb%E2%80%934)
 
-## § 3839bb–4. Repealed. [Pub. L. 113–79, title II, § 2709(a)][/us/pl/113/79/s2709/a], Feb. 7, 2014, [128 Stat. 770][/us/stat/128/770]
+## § 3839bb–4. Repealed. [Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2709(a), Feb. 7, 2014, [128 Stat. 770][/us/stat/128/770]
 
-    Section, [Pub. L. 99–198, title XII, § 1240Q][/us/pl/99/198/s1240Q], as added [Pub. L. 110–234, title II, § 2605][/us/pl/110/234/s2605], May 22, 2008, [122 Stat. 1069][/us/stat/122/1069], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2605, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1797, related to conservation activities on agricultural lands in the Chesapeake Bay watershed.
+    Section, [Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1240Q, as added [Pub. L. 110–234, title II][/us/pl/110/234/tII], § 2605, May 22, 2008, [122 Stat. 1069][/us/stat/122/1069], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title II, § 2605, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1797, related to conservation activities on agricultural lands in the Chesapeake Bay watershed.
 
  __Repeal; Transitional Provisions__ 
 
-[Pub. L. 113–79, title II, § 2709][/us/pl/113/79/s2709], Feb. 7, 2014, [128 Stat. 770][/us/stat/128/770], provided that:
+[Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2709, Feb. 7, 2014, [128 Stat. 770][/us/stat/128/770], provided that:
 
 >     “(a)  __Repeal__  __.—__ 
 
@@ -48,14 +48,14 @@
 ----------
 ----------
 
-[/us/pl/113/79/s2709/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2709%2Fa
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F770
-[/us/pl/99/198/s1240Q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1240Q
-[/us/pl/110/234/s2605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2605
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/110/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtII
 [/us/stat/122/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1069
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s2709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2709
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F770
 [/us/usc/t16/s3839bb–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3839bb%E2%80%934
 [/us/usc/t16/s3839bb–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3839bb%E2%80%934

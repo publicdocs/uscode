@@ -23,7 +23,7 @@
 
     (3) the directed research program and the furnishing of facilities and personnel to the Commission referred to in [section 2441 of this title][/us/usc/t16/s2441].
 
-([Pub. L. 98–623, title III, § 314][/us/pl/98/623/s314], Nov. 8, 1984, [98 Stat. 3406][/us/stat/98/3406].)
+([Pub. L. 98–623, title III][/us/pl/98/623/tIII], § 314, Nov. 8, 1984, [98 Stat. 3406][/us/stat/98/3406].)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t16/s2433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2433
 [/us/usc/t16/s2441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2441
-[/us/pl/98/623/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs314
+[/us/pl/98/623/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtIII
 [/us/stat/98/3406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3406
 
 

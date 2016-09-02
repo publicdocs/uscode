@@ -23,7 +23,7 @@
 
     (3) as superseding, modifying, or repealing, except as specifically set forth in this Act, existing laws applicable to the various Federal agencies which are authorized to develop or participate in the development of water resources or to exercise licensing or regulatory functions in relation thereto.
 
-([Pub. L. 96–487, title XIII, § 1319][/us/pl/96/487/s1319], Dec. 2, 1980, [94 Stat. 2486][/us/stat/94/2486].)
+([Pub. L. 96–487, title XIII][/us/pl/96/487/tXIII], § 1319, Dec. 2, 1980, [94 Stat. 2486][/us/stat/94/2486].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/96/487/s1319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1319
+[/us/pl/96/487/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXIII
 [/us/stat/94/2486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2486
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371

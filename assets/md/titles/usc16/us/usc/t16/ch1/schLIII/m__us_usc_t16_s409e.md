@@ -17,7 +17,7 @@
 
     The administration, protection, and development of aforesaid national historical park shall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of the Act of August 25, 1916, entitled “An Act to establish a National Park Service, and for other purposes,” as amended (U.S.C., title 16, secs. 1–4). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-([Mar. 2, 1933, ch. 182, § 6][/us/act/1933-03-02/ch182/s6], [47 Stat. 1422][/us/stat/47/1422].)
+([Mar. 2, 1933, ch. 182][/us/act/1933-03-02/ch182], § 6, [47 Stat. 1422][/us/stat/47/1422].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/act/1933-03-02/ch182/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-02%2Fch182%2Fs6
+[/us/act/1933-03-02/ch182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-02%2Fch182
 [/us/stat/47/1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F1422
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535

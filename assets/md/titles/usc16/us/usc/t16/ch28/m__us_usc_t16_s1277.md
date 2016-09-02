@@ -49,15 +49,15 @@
 
         (3) The term “improved property”, as used in this chapter, means a detached, one-family dwelling (hereinafter referred to as “dwelling”), the construction of which was begun before January 1, 1967, (except where a different date is specifically provided by law with respect to any particular river) together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the appropriate Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
 
-([Pub. L. 90–542, § 6][/us/pl/90/542/s6], Oct. 2, 1968, [82 Stat. 912][/us/stat/82/912]; [Pub. L. 95–625, title VII, § 763(b)][/us/pl/95/625/s763/b], Nov. 10, 1978, [92 Stat. 3533][/us/stat/92/3533]; [Pub. L. 99–590, title V, § 504][/us/pl/99/590/s504], Oct. 30, 1986, [100 Stat. 3336][/us/stat/100/3336].)
+([Pub. L. 90–542][/us/pl/90/542], § 6, Oct. 2, 1968, [82 Stat. 912][/us/stat/82/912]; [Pub. L. 95–625, title VII][/us/pl/95/625/tVII], § 763(b), Nov. 10, 1978, [92 Stat. 3533][/us/stat/92/3533]; [Pub. L. 99–590, title V][/us/pl/99/590/tV], § 504, Oct. 30, 1986, [100 Stat. 3336][/us/stat/100/3336].)
 
  __Amendments__ 
 
-    1986—Subsec. (a). [Pub. L. 99–590, § 504(b)][/us/pl/99/590/s504/b], (c), designated existing provisions as par. (1), inserted provisions relating to acquisition of lands by exchange in accordance with subsec. (d) of this section, and added par. (2).
+    1986—Subsec. (a). [Pub. L. 99–590][/us/pl/99/590], § 504(b), (c), designated existing provisions as par. (1), inserted provisions relating to acquisition of lands by exchange in accordance with subsec. (d) of this section, and added par. (2).
 
-    Subsec. (b). [Pub. L. 99–590, § 504(d)][/us/pl/99/590/s504/d], inserted requirement that acreage be outside ordinary high water mark on both sides of the river, and inserted “in fee title” after “owned”.
+    Subsec. (b). [Pub. L. 99–590][/us/pl/99/590], § 504(d), inserted requirement that acreage be outside ordinary high water mark on both sides of the river, and inserted “in fee title” after “owned”.
 
-    Subsec. (e). [Pub. L. 99–590, § 504(a)][/us/pl/99/590/s504/a], substituted “Congress is” for “Congress in”.
+    Subsec. (e). [Pub. L. 99–590][/us/pl/99/590], § 504(a), substituted “Congress is” for “Congress in”.
 
     1978—Subsec. (g)(3). [Pub. L. 95–625][/us/pl/95/625] inserted “(except where a different date is specifically provided by law with respect to any particular river)”.
 
@@ -71,15 +71,15 @@
 [/us/usc/t16/s1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1274
 [/us/usc/t16/s1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1274
 [/us/usc/t16/s1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1274
-[/us/pl/90/542/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F542%2Fs6
+[/us/pl/90/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F542
 [/us/stat/82/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F912
-[/us/pl/95/625/s763/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs763%2Fb
+[/us/pl/95/625/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtVII
 [/us/stat/92/3533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3533
-[/us/pl/99/590/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F590%2Fs504
+[/us/pl/99/590/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F590%2FtV
 [/us/stat/100/3336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3336
-[/us/pl/99/590/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F590%2Fs504%2Fb
-[/us/pl/99/590/s504/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F590%2Fs504%2Fd
-[/us/pl/99/590/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F590%2Fs504%2Fa
+[/us/pl/99/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F590
+[/us/pl/99/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F590
+[/us/pl/99/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F590
 [/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
 
 

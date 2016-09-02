@@ -17,7 +17,7 @@
 
     In the effectuation of sections 528 to 531 of this title the Secretary of Agriculture is authorized to cooperate with interested State and local governmental agencies and others in the development and management of the national forests.
 
-([Pub. L. 86–517, § 3][/us/pl/86/517/s3], June 12, 1960, [74 Stat. 215][/us/stat/74/215].)
+([Pub. L. 86–517][/us/pl/86/517], § 3, June 12, 1960, [74 Stat. 215][/us/stat/74/215].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/86/517/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F517%2Fs3
+[/us/pl/86/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F517
 [/us/stat/74/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F215
 [/us/stat/93/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1373
 [/us/pl/102/486/s3012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3012%2Fb

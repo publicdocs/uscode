@@ -47,7 +47,7 @@
 
         (3) not later than 180 days after August 8, 2005, providing Congress with a report that identifies and quantifies the national benefits of demand response and makes a recommendation on achieving specific levels of such benefits by January 1, 2007.
 
-([Pub. L. 95–617, title I, § 132][/us/pl/95/617/s132], Nov. 9, 1978, [92 Stat. 3131][/us/stat/92/3131]; [Pub. L. 109–58, title XII, § 1252(c)][/us/pl/109/58/s1252/c], (d), Aug. 8, 2005, [119 Stat. 965][/us/stat/119/965].)
+([Pub. L. 95–617, title I][/us/pl/95/617/tI], § 132, Nov. 9, 1978, [92 Stat. 3131][/us/stat/92/3131]; [Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1252(c), (d), Aug. 8, 2005, [119 Stat. 965][/us/stat/119/965].)
 
  __References in Text__ 
 
@@ -55,13 +55,13 @@
 
  __Amendments__ 
 
-    2005—Subsec. (a)(5). [Pub. L. 109–58, § 1252(c)][/us/pl/109/58/s1252/c], added par. (5).
+    2005—Subsec. (a)(5). [Pub. L. 109–58][/us/pl/109/58], § 1252(c), added par. (5).
 
-    Subsec. (d). [Pub. L. 109–58, § 1252(d)][/us/pl/109/58/s1252/d], added subsec. (d).
+    Subsec. (d). [Pub. L. 109–58][/us/pl/109/58], § 1252(d), added subsec. (d).
 
  __Demand Response Assistance__ 
 
-[Pub. L. 109–58, title XII, § 1252(e)][/us/pl/109/58/s1252/e], (f), Aug. 8, 2005, [119 Stat. 965][/us/stat/119/965], 966, provided that:
+[Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1252(e), (f), Aug. 8, 2005, [119 Stat. 965][/us/stat/119/965], 966, provided that:
 
 >     “(e) __Demand Response and Regional Coordination.—__ 
 
@@ -109,16 +109,16 @@
 ----------
 
 [/us/usc/t16/s2612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2612%2Fc
-[/us/pl/95/617/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs132
+[/us/pl/95/617/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtI
 [/us/stat/92/3131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3131
-[/us/pl/109/58/s1252/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1252%2Fc
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F965
 [/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
 [/us/stat/92/3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3120
 [/us/usc/t42/s6808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6808
-[/us/pl/109/58/s1252/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1252%2Fc
-[/us/pl/109/58/s1252/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1252%2Fd
-[/us/pl/109/58/s1252/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1252%2Fe
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F965
 
 

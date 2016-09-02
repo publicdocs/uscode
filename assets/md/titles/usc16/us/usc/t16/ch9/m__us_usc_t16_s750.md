@@ -17,7 +17,7 @@
 
     There shall be established on the Mississippi River, at a point to be selected by the Secretary of the Interior or the Secretary of Commerce, as appropriate, a station for the rescue of fishes and the propagation of mussels in connection with fish-rescue operations throughout the Mississippi Valley.
 
-([Apr. 28, 1922, ch. 153, § 1][/us/act/1922-04-28/ch153/s1], [42 Stat. 501][/us/stat/42/501]; 1939 Reorg. Plan No. II, § 4(e), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; 1940 Reorg. Plan No. III, § 3, eff. June 30, 1940, 5 F.R. 2108, [54 Stat. 1232][/us/stat/54/1232].)
+([Apr. 28, 1922, ch. 153][/us/act/1922-04-28/ch153], § 1, [42 Stat. 501][/us/stat/42/501]; 1939 Reorg. Plan No. II, § 4(e), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; 1940 Reorg. Plan No. III, § 3, eff. June 30, 1940, 5 F.R. 2108, [54 Stat. 1232][/us/stat/54/1232].)
 
  __Transfer of Functions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1922-04-28/ch153/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-04-28%2Fch153%2Fs1
+[/us/act/1922-04-28/ch153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-04-28%2Fch153
 [/us/stat/42/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F501
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
 [/us/stat/54/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1232

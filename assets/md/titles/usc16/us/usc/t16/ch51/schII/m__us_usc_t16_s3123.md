@@ -33,7 +33,7 @@
 
     A notice of the report shall be published in the Federal Register and the report shall be made available to the public.
 
-([Pub. L. 96–487, title VIII, § 813][/us/pl/96/487/s813], Dec. 2, 1980, [94 Stat. 2428][/us/stat/94/2428].)
+([Pub. L. 96–487, title VIII][/us/pl/96/487/tVIII], § 813, Dec. 2, 1980, [94 Stat. 2428][/us/stat/94/2428].)
 
  __Termination of Reporting Requirements__ 
 
@@ -48,7 +48,7 @@
 
 [/us/usc/t16/s3116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3116
 [/us/usc/t16/s3115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3115
-[/us/pl/96/487/s813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs813
+[/us/pl/96/487/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtVIII
 [/us/stat/94/2428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2428
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

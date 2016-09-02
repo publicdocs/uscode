@@ -43,7 +43,7 @@
 
         The beneficial owner, not being a corporation, of a freehold interest acquired before January 1, 1965, in improved residential property within the area to be acquired by the Secretary of the Army under authority of this subchapter, the continued use of which property for noncommercial residential purposes for a limited time will not, in the judgment of the Secretary of the Interior, unduly interfere with the development of public-use facilities for the national recreation area and will not, in the judgment of the Secretary of the Army, unduly interfere with the operation of the Tocks Island Reservoir project, may retain a right of use and occupancy of such property for noncommercial residential purposes for, as said owner may elect, either (i) a period terminating upon his death or the death of his spouse, whichever occurs later, or (ii) a term of not more than twenty-five years: Provided, That in no case shall the period or term for which such right of use and occupancy is retained extend beyond the term of the freehold interest acquired by the United States. The price payable to the owner of such property shall be reduced by an amount equal to the value of the right retained. As used in this subchapter “improved residential property” means a single-family year-round dwelling, the construction of which was begun before January 21, 1963, which dwelling serves as the owner’s permanent place of abode at the time of its acquisition by the United States, together with not more than three acres of land on which the dwelling and appurtenant buildings are located which land the Secretary of the Interior or the Secretary of the Army, as the case may be, finds is reasonably necessary for the owner’s continued use and occupancy of the dwelling: Provided, further, That whenever an owner of property elects to retain a right of use and occupancy pursuant to this subchapter, such owner shall be deemed to have waived any benefits or rights under the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 \[[42 U.S.C. 4601][/us/usc/t42/s4601] et seq.\].
 
-([Pub. L. 89–158, § 2][/us/pl/89/158/s2], Sept. 1, 1965, [79 Stat. 612][/us/stat/79/612]; [Pub. L. 92–575, § 2][/us/pl/92/575/s2], Oct. 27, 1972, [86 Stat. 1250][/us/stat/86/1250]; [Pub. L. 95–625, title III, § 316][/us/pl/95/625/s316], Nov. 10, 1978, [92 Stat. 3483][/us/stat/92/3483].)
+([Pub. L. 89–158][/us/pl/89/158], § 2, Sept. 1, 1965, [79 Stat. 612][/us/stat/79/612]; [Pub. L. 92–575][/us/pl/92/575], § 2, Oct. 27, 1972, [86 Stat. 1250][/us/stat/86/1250]; [Pub. L. 95–625, title III][/us/pl/95/625/tIII], § 316, Nov. 10, 1978, [92 Stat. 3483][/us/stat/92/3483].)
 
  __References in Text__ 
 
@@ -63,11 +63,11 @@
 ----------
 
 [/us/usc/t42/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4601
-[/us/pl/89/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F158%2Fs2
+[/us/pl/89/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F158
 [/us/stat/79/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F612
-[/us/pl/92/575/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F575%2Fs2
+[/us/pl/92/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F575
 [/us/stat/86/1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1250
-[/us/pl/95/625/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs316
+[/us/pl/95/625/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtIII
 [/us/stat/92/3483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3483
 [/us/pl/91/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646
 [/us/stat/84/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1894

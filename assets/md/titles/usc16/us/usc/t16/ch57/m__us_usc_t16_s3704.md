@@ -25,7 +25,7 @@
 
         Notwithstanding any other provision of this section, the Secretary of the Interior is authorized to continue to provide facilities, and necessary support services for such facilities, to the National Fish and Wildlife Foundation after March 26, 1989, on a space available, reimbursable cost basis.
 
-([Pub. L. 98–244, § 5][/us/pl/98/244/s5], Mar. 26, 1984, [98 Stat. 109][/us/stat/98/109]; [Pub. L. 100–240, § 3][/us/pl/100/240/s3], Jan. 11, 1988, [101 Stat. 1786][/us/stat/101/1786]; [Pub. L. 100–653, title IX, § 903][/us/pl/100/653/s903], Nov. 14, 1988, [102 Stat. 3834][/us/stat/102/3834].)
+([Pub. L. 98–244][/us/pl/98/244], § 5, Mar. 26, 1984, [98 Stat. 109][/us/stat/98/109]; [Pub. L. 100–240][/us/pl/100/240], § 3, Jan. 11, 1988, [101 Stat. 1786][/us/stat/101/1786]; [Pub. L. 100–653, title IX][/us/pl/100/653/tIX], § 903, Nov. 14, 1988, [102 Stat. 3834][/us/stat/102/3834].)
 
  __Amendments__ 
 
@@ -41,11 +41,11 @@
 ----------
 
 [/us/usc/t16/s3702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3702
-[/us/pl/98/244/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F244%2Fs5
+[/us/pl/98/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F244
 [/us/stat/98/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F109
-[/us/pl/100/240/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F240%2Fs3
+[/us/pl/100/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F240
 [/us/stat/101/1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1786
-[/us/pl/100/653/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2Fs903
+[/us/pl/100/653/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2FtIX
 [/us/stat/102/3834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3834
 [/us/pl/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653
 [/us/pl/100/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F240

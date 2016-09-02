@@ -17,7 +17,7 @@
 
     Within two years from October 2, 1968, the Secretary of the Interior and the Secretary of Agriculture shall agree on the designation of areas within the park or recreation areas or within national forests adjacent to the park and recreation areas needed for public use facilities and for administrative purposes by the Secretary of Agriculture or the Secretary of the Interior, respectively. The areas so designated shall be administered in a manner that is mutually agreeable to the two Secretaries, and such public use facilities, including interpretive centers, visitor contact stations, lodges, campsites, and ski lifts, shall be constructed according to a plan agreed upon by the two Secretaries.
 
-([Pub. L. 90–544, title V, § 504][/us/pl/90/544/s504], Oct. 2, 1968, [82 Stat. 930][/us/stat/82/930].)
+([Pub. L. 90–544, title V][/us/pl/90/544/tV], § 504, Oct. 2, 1968, [82 Stat. 930][/us/stat/82/930].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/544/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F544%2Fs504
+[/us/pl/90/544/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F544%2FtV
 [/us/stat/82/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F930
 
 

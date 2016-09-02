@@ -17,7 +17,7 @@
 
     The Secretary of the Interior may sell and permit the removal of such matured or dead or down timber as he may deem necessary or advisable for the protection or improvement of the park, and the proceeds derived therefrom shall be deposited and covered into the Treasury as miscellaneous receipts.
 
-([Apr. 9, 1912, ch. 74, § 4][/us/act/1912-04-09/ch74/s4], [37 Stat. 81][/us/stat/37/81].)
+([Apr. 9, 1912, ch. 74][/us/act/1912-04-09/ch74], § 4, [37 Stat. 81][/us/stat/37/81].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1912-04-09/ch74/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-04-09%2Fch74%2Fs4
+[/us/act/1912-04-09/ch74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-04-09%2Fch74
 [/us/stat/37/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F81
 
 

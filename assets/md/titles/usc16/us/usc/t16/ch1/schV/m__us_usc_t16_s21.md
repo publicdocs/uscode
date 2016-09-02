@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 2474 derived from [act Mar. 1, 1872, ch. 24, § 1][/us/act/1872-03-01/ch24/s1], [17 Stat. 32][/us/stat/17/32].
+    R.S. § 2474 derived from [act Mar. 1, 1872, ch. 24][/us/act/1872-03-01/ch24], § 1, [17 Stat. 32][/us/stat/17/32].
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t16/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs22
-[/us/act/1872-03-01/ch24/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-03-01%2Fch24%2Fs1
+[/us/act/1872-03-01/ch24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-03-01%2Fch24
 [/us/stat/17/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F32
 
 

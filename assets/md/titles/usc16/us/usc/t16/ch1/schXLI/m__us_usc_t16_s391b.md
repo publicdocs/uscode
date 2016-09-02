@@ -103,7 +103,7 @@
 
     15. Two hundred and twenty-five degrees and forty-six minutes three hundred and forty and six-tenths feet to the point of beginning and containing an area of five thousand seven hundred and thirty acres, more or less; and, in addition, any lands adjacent or contiguous to the Hawaii National Park as extended which, in the discretion of the Secretary of the Interior, are necessary for the proper rounding out of the boundaries of the park. Land (including the land depicted on the map entitled “NPS–PAC 1997HW”) may be acquired by the Secretary through donation, exchange, or purchase with donated or appropriated funds.
 
-([June 20, 1938, ch. 530, § 1][/us/act/1938-06-20/ch530/s1], [52 Stat. 781][/us/stat/52/781]; [Pub. L. 105–380, § 2][/us/pl/105/380/s2], Nov. 12, 1998, [112 Stat. 3401][/us/stat/112/3401]; [Pub. L. 106–510, § 2][/us/pl/106/510/s2], Nov. 13, 2000, [114 Stat. 2363][/us/stat/114/2363].)
+([June 20, 1938, ch. 530][/us/act/1938-06-20/ch530], § 1, [52 Stat. 781][/us/stat/52/781]; [Pub. L. 105–380][/us/pl/105/380], § 2, Nov. 12, 1998, [112 Stat. 3401][/us/stat/112/3401]; [Pub. L. 106–510][/us/pl/106/510], § 2, Nov. 13, 2000, [114 Stat. 2363][/us/stat/114/2363].)
 
  __Amendments__ 
 
@@ -130,11 +130,11 @@
 ----------
 ----------
 
-[/us/act/1938-06-20/ch530/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-20%2Fch530%2Fs1
+[/us/act/1938-06-20/ch530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-20%2Fch530
 [/us/stat/52/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F781
-[/us/pl/105/380/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F380%2Fs2
+[/us/pl/105/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F380
 [/us/stat/112/3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3401
-[/us/pl/106/510/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510%2Fs2
+[/us/pl/106/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510
 [/us/stat/114/2363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2363
 [/us/pl/106/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F510
 [/us/pl/105/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F380

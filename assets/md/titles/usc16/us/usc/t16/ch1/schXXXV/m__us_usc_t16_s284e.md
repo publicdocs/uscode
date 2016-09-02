@@ -17,7 +17,7 @@
 
     All right, title, and interest in the Center shall be vested in the United States. Nothing in this subchapter shall be construed to provide that the Foundation shall be considered to be a Federal agency or instrumentality for purposes of applying any law or regulation of the United States or of any State.
 
-([Pub. L. 89–671, § 6][/us/pl/89/671/s6], as added [Pub. L. 97–310][/us/pl/97/310], Oct. 14, 1982, [96 Stat. 1457][/us/stat/96/1457].)
+([Pub. L. 89–671][/us/pl/89/671], § 6, as added [Pub. L. 97–310][/us/pl/97/310], Oct. 14, 1982, [96 Stat. 1457][/us/stat/96/1457].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/671/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F671%2Fs6
+[/us/pl/89/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F671
 [/us/pl/97/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F310
 [/us/stat/96/1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1457
 

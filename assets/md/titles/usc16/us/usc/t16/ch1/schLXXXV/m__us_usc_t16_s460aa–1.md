@@ -23,7 +23,7 @@
 
         The lands designated as the Sawtooth Wilderness Area, which supersedes the Sawtooth Primitive Area, shall be administered in accordance with the provisions of this subchapter and the provisions of the Wilderness Act \[[16 U.S.C. 1131][/us/usc/t16/s1131] et seq.\], whichever is more restrictive, except that any reference in such provisions to the effective date of the Wilderness Act shall be deemed to be a reference to the effective date of this subchapter.
 
-([Pub. L. 92–400, § 2][/us/pl/92/400/s2], Aug. 22, 1972, [86 Stat. 612][/us/stat/86/612].)
+([Pub. L. 92–400][/us/pl/92/400], § 2, Aug. 22, 1972, [86 Stat. 612][/us/stat/86/612].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
-[/us/pl/92/400/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F400%2Fs2
+[/us/pl/92/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F400
 [/us/stat/86/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F612
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890

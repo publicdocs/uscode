@@ -17,7 +17,7 @@
 
     The Secretary shall permit hunting and fishing on lands and waters under his jurisdiction within the boundaries of the Buffalo National River in accordance with applicable Federal and State laws, except that he may designate zones where and establish periods when, no hunting or fishing shall be permitted for reasons of public safety, administration, fish or wildlife management, or public use and enjoyment. Except in emergencies, any rules and regulations of the Secretary pursuant to this section shall be put into effect only after consultation with the Arkansas Fish and Game Commission.
 
-([Pub. L. 92–237, § 3][/us/pl/92/237/s3], Mar. 1, 1972, [86 Stat. 45][/us/stat/86/45].)
+([Pub. L. 92–237][/us/pl/92/237], § 3, Mar. 1, 1972, [86 Stat. 45][/us/stat/86/45].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/237/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F237%2Fs3
+[/us/pl/92/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F237
 [/us/stat/86/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F45
 
 

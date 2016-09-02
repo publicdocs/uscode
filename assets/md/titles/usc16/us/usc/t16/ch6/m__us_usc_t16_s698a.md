@@ -33,7 +33,7 @@
 
         It is the express intent of the Congress that the Secretary should substantially complete the land acquisition program contemplated by sections 698 to 698e of this title within six years after October 11, 1974.
 
-([Pub. L. 93–439, § 2][/us/pl/93/439/s2], Oct. 11, 1974, [88 Stat. 1256][/us/stat/88/1256].)
+([Pub. L. 93–439][/us/pl/93/439], § 2, Oct. 11, 1974, [88 Stat. 1256][/us/stat/88/1256].)
 
  __Change of Name__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/93/439/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F439%2Fs2
+[/us/pl/93/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F439
 [/us/stat/88/1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1256
 
 

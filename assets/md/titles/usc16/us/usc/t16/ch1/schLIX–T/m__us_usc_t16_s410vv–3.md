@@ -27,7 +27,7 @@
 
         Within the boundaries of the scenic zone, the Secretary is authorized only to acquire scenic easements by donation.
 
-([Pub. L. 102–350, § 5][/us/pl/102/350/s5], Aug. 26, 1992, [106 Stat. 935][/us/stat/106/935]; [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title I, § 143\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–267.)
+([Pub. L. 102–350][/us/pl/102/350], § 5, Aug. 26, 1992, [106 Stat. 935][/us/stat/106/935]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title I, § 143\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–267.)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/102/350/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F350%2Fs5
+[/us/pl/102/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F350
 [/us/stat/106/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F935
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 

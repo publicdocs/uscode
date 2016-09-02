@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to acquire by donation or with donated funds, or to acquire by purchase, the land and buildings immediately adjacent to, but not including, the St. George’s Methodist Church property, which land and buildings are identified generally as 318, 320, and 322 New Street, for inclusion in the Independence National Historical Park: Provided, That the Secretary shall first enter into an agreement with the proprietor or proprietors of the St. George’s Methodist Church property, such agreement to contain the usual and customary provisions for the protection and physical maintenance of said church property, without expense to the United States, in keeping with, but not as a part of, the nearby Independence National Historical Park and providing for its continued use, without limitation or control, for customary church purposes.
 
-([Pub. L. 86–54, § 1][/us/pl/86/54/s1], June 23, 1959, [73 Stat. 88][/us/stat/73/88].)
+([Pub. L. 86–54][/us/pl/86/54], § 1, June 23, 1959, [73 Stat. 88][/us/stat/73/88].)
 
  __Codification__ 
 
@@ -25,7 +25,7 @@
 
  __Appropriations__ 
 
-[Pub. L. 86–54, § 2][/us/pl/86/54/s2], June 23, 1959, [73 Stat. 88][/us/stat/73/88], provided that: 
+[Pub. L. 86–54][/us/pl/86/54], § 2, June 23, 1959, [73 Stat. 88][/us/stat/73/88], provided that: 
 
 > “There are hereby authorized to be appropriated such sums, not exceeding $25,000, as may be necessary to carry out the purposes of section 1 of this Act \[this section\].”
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/86/54/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F54%2Fs1
+[/us/pl/86/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F54
 [/us/stat/73/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F88
 [/us/act/1948-06-28/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-28%2Fch687
 [/us/stat/62/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1061
-[/us/pl/86/54/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F54%2Fs2
+[/us/pl/86/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F54
 [/us/stat/73/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F88
 
 

@@ -17,7 +17,7 @@
 
     In addition to other authorizations of appropriations contained in this chapter, there are authorized to be appropriated to the Secretary of Commerce beginning October 1, 1981, an amount not to exceed $5,000,000 for the purpose of developing fisheries port facilities in the State of Oregon. The Secretary shall obligate such funds for projects proposed by units of State or local government, Indian tribes, or private nonprofit entities, and approved by the State of Oregon in consultation with the National Marine Fisheries Service and the Economic Development Administration. To the extent practicable, the Secretary shall assure that projects under this section are integrated with planning and assistance under the Public Works and Economic Development Act \[[42 U.S.C. 3121][/us/usc/t42/s3121] et seq.\] Funds available under this section shall not be used for any navigational improvement or other modification of the navigable waters of the United States. Funds appropriated pursuant to this section shall remain available until expended.
 
-([Pub. L. 96–561, title I, § 144][/us/pl/96/561/s144], Dec. 22, 1980, [94 Stat. 3286][/us/stat/94/3286].)
+([Pub. L. 96–561, title I][/us/pl/96/561/tI], § 144, Dec. 22, 1980, [94 Stat. 3286][/us/stat/94/3286].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3121
-[/us/pl/96/561/s144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs144
+[/us/pl/96/561/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtI
 [/us/stat/94/3286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3286
 [/us/pl/89/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F136
 [/us/stat/79/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F552

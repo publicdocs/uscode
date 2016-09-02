@@ -47,7 +47,7 @@
 
     (8) may promulgate such regulations as the Secretaries determine are necessary to carry out this chapter.
 
-([Pub. L. 108–317, § 6][/us/pl/108/317/s6], Oct. 5, 2004, [118 Stat. 1208][/us/stat/118/1208].)
+([Pub. L. 108–317][/us/pl/108/317], § 6, Oct. 5, 2004, [118 Stat. 1208][/us/stat/118/1208].)
 
 ----------
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/usc/t16/s6704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6704
-[/us/pl/108/317/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F317%2Fs6
+[/us/pl/108/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F317
 [/us/stat/118/1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1208
 
 

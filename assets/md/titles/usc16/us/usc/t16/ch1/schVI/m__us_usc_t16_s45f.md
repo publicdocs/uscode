@@ -91,7 +91,7 @@
 
         The Congress recognizes that the Mineral King Valley area has outstanding potential for certain year-round recreational opportunities, but the development of permanent facilities for downhill skiing within the area would be inconsistent with the preservation and enhancement of its ecological values.
 
-([Pub. L. 95–625, title III, § 314][/us/pl/95/625/s314], Nov. 10, 1978, [92 Stat. 3479][/us/stat/92/3479]; [Pub. L. 103–437, § 6(d)(5)][/us/pl/103/437/s6/d/5], Nov. 2, 1994, [108 Stat. 4583][/us/stat/108/4583]; [Pub. L. 108–447, div. E, title I, § 139(b)][/us/pl/108/447/s139/b], Dec. 8, 2004, [118 Stat. 3068][/us/stat/118/3068].)
+([Pub. L. 95–625, title III][/us/pl/95/625/tIII], § 314, Nov. 10, 1978, [92 Stat. 3479][/us/stat/92/3479]; [Pub. L. 103–437][/us/pl/103/437], § 6(d)(5), Nov. 2, 1994, [108 Stat. 4583][/us/stat/108/4583]; [Pub. L. 108–447, div. E, title I][/us/pl/108/447/dE/tI], § 139(b), Dec. 8, 2004, [118 Stat. 3068][/us/stat/118/3068].)
 
  __References in Text__ 
 
@@ -105,9 +105,9 @@
 
  __Amendments__ 
 
-    2004—Subsec. (c)(2). [Pub. L. 108–447, § 139(b)(1)][/us/pl/108/447/s139/b/1], struck out second sentence which read as follows: “Such rights of use and occupancy shall be for not more than twenty-five years or for a term ending at the death of the owner or his or her spouse, whichever is later.”
+    2004—Subsec. (c)(2). [Pub. L. 108–447][/us/pl/108/447], § 139(b)(1), struck out second sentence which read as follows: “Such rights of use and occupancy shall be for not more than twenty-five years or for a term ending at the death of the owner or his or her spouse, whichever is later.”
 
-    Subsec. (d)(2)(B). [Pub. L. 108–447, § 139(b)(2)][/us/pl/108/447/s139/b/2], inserted “and to their heirs, successors, and assigns” after “of record on November 10, 1978,” in third sentence.
+    Subsec. (d)(2)(B). [Pub. L. 108–447][/us/pl/108/447], § 139(b)(2), inserted “and to their heirs, successors, and assigns” after “of record on November 10, 1978,” in third sentence.
 
     1994—Subsec. (b)(1). [Pub. L. 103–437][/us/pl/103/437] substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
@@ -117,7 +117,7 @@
 
  __“Secretary” Defined__ 
 
-[Pub. L. 95–625, § 2][/us/pl/95/625/s2], Nov. 10, 1978, [92 Stat. 3470][/us/stat/92/3470], provided that: 
+[Pub. L. 95–625][/us/pl/95/625], § 2, Nov. 10, 1978, [92 Stat. 3470][/us/stat/92/3470], provided that: 
 
 > “As used in this Act \[see Tables for classification\], except as otherwise specifically provided, the term ‘Secretary’ means the Secretary of the Interior.”
 
@@ -129,11 +129,11 @@
 ----------
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
-[/us/pl/95/625/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs314
+[/us/pl/95/625/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtIII
 [/us/stat/92/3479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3479
-[/us/pl/103/437/s6/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fd%2F5
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4583
-[/us/pl/108/447/s139/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs139%2Fb
+[/us/pl/108/447/dE/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdE%2FtI
 [/us/stat/118/3068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3068
 [/us/pl/95/625/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs314
 [/us/usc/t16/s688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs688
@@ -152,10 +152,10 @@
 [/us/usc/t16/s45a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs45a%E2%80%931
 [/us/pl/95/625/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs314
 [/us/usc/t16/s688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs688
-[/us/pl/108/447/s139/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs139%2Fb%2F1
-[/us/pl/108/447/s139/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs139%2Fb%2F2
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
-[/us/pl/95/625/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs2
+[/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
 [/us/stat/92/3470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3470
 
 

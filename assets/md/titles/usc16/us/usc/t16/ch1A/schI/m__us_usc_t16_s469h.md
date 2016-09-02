@@ -31,7 +31,7 @@
 
         Whenever the Secretary determines that appropriate management and protection set down in the comprehensive plan are not being afforded the nationally significant values within the reserve or that funds are not being provided on the prescribed matching basis by the State of Wisconsin or other non-Federal sources, he may terminate contributions under sections 469d to 469i of this title.
 
-([Pub. L. 88–655, § 5][/us/pl/88/655/s5], Oct. 13, 1964, [78 Stat. 1088][/us/stat/78/1088]; [Pub. L. 91–483, § 1(3)][/us/pl/91/483/s1/3], Oct. 21, 1970, [84 Stat. 1083][/us/stat/84/1083]; [Pub. L. 96–199, title I, § 109][/us/pl/96/199/s109], Mar. 5, 1980, [94 Stat. 69][/us/stat/94/69].)
+([Pub. L. 88–655][/us/pl/88/655], § 5, Oct. 13, 1964, [78 Stat. 1088][/us/stat/78/1088]; [Pub. L. 91–483][/us/pl/91/483], § 1(3), Oct. 21, 1970, [84 Stat. 1083][/us/stat/84/1083]; [Pub. L. 96–199, title I][/us/pl/96/199/tI], § 109, Mar. 5, 1980, [94 Stat. 69][/us/stat/94/69].)
 
  __References in Text__ 
 
@@ -50,11 +50,11 @@
 ----------
 ----------
 
-[/us/pl/88/655/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F655%2Fs5
+[/us/pl/88/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F655
 [/us/stat/78/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1088
-[/us/pl/91/483/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F483%2Fs1%2F3
+[/us/pl/91/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F483
 [/us/stat/84/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1083
-[/us/pl/96/199/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199%2Fs109
+[/us/pl/96/199/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199%2FtI
 [/us/stat/94/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F69
 [/us/pl/88/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F578
 [/us/stat/78/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F897

@@ -51,7 +51,7 @@
 
         The Department of Homeland Security shall facilitate planning for the design, procurement, maintenance, deployment, and operation of icebreakers needed to provide a platform for Antarctic research. All funds necessary to support icebreaking operations, except for recurring incremental costs associated with specific projects, shall be allocated to the United States Coast Guard.
 
-([Pub. L. 98–623, title III, § 312][/us/pl/98/623/s312], Nov. 8, 1984, [98 Stat. 3405][/us/stat/98/3405]; [Pub. L. 109–241, title IX, § 902(h)(2)][/us/pl/109/241/s902/h/2], July 11, 2006, [120 Stat. 567][/us/stat/120/567].)
+([Pub. L. 98–623, title III][/us/pl/98/623/tIII], § 312, Nov. 8, 1984, [98 Stat. 3405][/us/stat/98/3405]; [Pub. L. 109–241, title IX][/us/pl/109/241/tIX], § 902(h)(2), July 11, 2006, [120 Stat. 567][/us/stat/120/567].)
 
  __Amendments__ 
 
@@ -64,9 +64,9 @@
 ----------
 ----------
 
-[/us/pl/98/623/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs312
+[/us/pl/98/623/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtIII
 [/us/stat/98/3405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3405
-[/us/pl/109/241/s902/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs902%2Fh%2F2
+[/us/pl/109/241/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIX
 [/us/stat/120/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F567
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
 

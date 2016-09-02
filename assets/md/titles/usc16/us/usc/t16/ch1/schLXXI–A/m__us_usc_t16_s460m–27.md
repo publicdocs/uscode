@@ -23,7 +23,7 @@
 
         Pending completion of the developments and improvements referred to in subsection (a), the Secretary shall permit the motorized towing of whitewater rafts in the section of the national river between Thurmond and Cunard when the volume of flow in the river is less than three thousand cubic feet per second.
 
-([Pub. L. 95–625, title XI, § 1114][/us/pl/95/625/s1114], as added [Pub. L. 100–534, title I, § 103][/us/pl/100/534/s103], Oct. 26, 1988, [102 Stat. 2700][/us/stat/102/2700].)
+([Pub. L. 95–625, title XI][/us/pl/95/625/tXI], § 1114, as added [Pub. L. 100–534, title I][/us/pl/100/534/tI], § 103, Oct. 26, 1988, [102 Stat. 2700][/us/stat/102/2700].)
 
 ----------
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/95/625/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs1114
-[/us/pl/100/534/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F534%2Fs103
+[/us/pl/95/625/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtXI
+[/us/pl/100/534/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F534%2FtI
 [/us/stat/102/2700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2700
 
 

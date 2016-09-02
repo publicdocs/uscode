@@ -31,7 +31,7 @@
 
         The Map and legal descriptions filed under subsection (a) shall be available for public inspection in the appropriate offices of the Bureau of Land Management.
 
-([Pub. L. 111–11, title II, § 2404][/us/pl/111/11/s2404], Mar. 30, 2009, [123 Stat. 1103][/us/stat/123/1103].)
+([Pub. L. 111–11, title II][/us/pl/111/11/tII], § 2404, Mar. 30, 2009, [123 Stat. 1103][/us/stat/123/1103].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs2404
+[/us/pl/111/11/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtII
 [/us/stat/123/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1103
 
 

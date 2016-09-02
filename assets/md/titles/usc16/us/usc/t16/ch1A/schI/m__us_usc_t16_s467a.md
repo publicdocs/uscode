@@ -13,17 +13,17 @@
 
 [Previous](./../../../../..//us/usc/t16/ch1A/schI/m__us_usc_t16_s467.md) | [Next](./../../../../..//us/usc/t16/ch1A/schI/m__us_usc_t16_s467a–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs467a)
 
-## § 467a. Repealed. [Pub. L. 96–586, § 4(a)(1)][/us/pl/96/586/s4/a/1], (b), Dec. 23, 1980, [94 Stat. 3386][/us/stat/94/3386]
+## § 467a. Repealed. [Pub. L. 96–586][/us/pl/96/586], § 4(a)(1), (b), Dec. 23, 1980, [94 Stat. 3386][/us/stat/94/3386]
 
-    Section, [Pub. L. 92–527, § 1][/us/pl/92/527/s1], Oct. 21, 1972, [86 Stat. 1049][/us/stat/86/1049], authorized the Secretary of the Interior to accept, maintain, develop, and administer the Mar-A-Lago National Historic Site described in the order of designation dated Jan. 16, 1969, as part of the national park system and directed the Secretary to enter into agreements and take such action as deemed necessary to provide for administration and use of the Mar-A-Lago National Historic Site as a temporary residence for visiting foreign dignitaries or heads of state or members of the executive branch of the United States Government, with any further use determined by the Secretary after conferring with the Mar-A-Lago National Historic Site Advisory Commission.
+    Section, [Pub. L. 92–527][/us/pl/92/527], § 1, Oct. 21, 1972, [86 Stat. 1049][/us/stat/86/1049], authorized the Secretary of the Interior to accept, maintain, develop, and administer the Mar-A-Lago National Historic Site described in the order of designation dated Jan. 16, 1969, as part of the national park system and directed the Secretary to enter into agreements and take such action as deemed necessary to provide for administration and use of the Mar-A-Lago National Historic Site as a temporary residence for visiting foreign dignitaries or heads of state or members of the executive branch of the United States Government, with any further use determined by the Secretary after conferring with the Mar-A-Lago National Historic Site Advisory Commission.
 
  __Effective Date of Repeal__ 
 
-    For effective date of repeal, see [Pub. L. 96–586, § 4][/us/pl/96/586/s4], Dec. 23, 1980, [94 Stat. 3386][/us/stat/94/3386], set out as a note below.
+    For effective date of repeal, see [Pub. L. 96–586][/us/pl/96/586], § 4, Dec. 23, 1980, [94 Stat. 3386][/us/stat/94/3386], set out as a note below.
 
  __Repeals, Redesignations, Conveyances, Etc., Involving Mar-A-Lago National Historic Site__ 
 
-[Pub. L. 96–586, § 4][/us/pl/96/586/s4], Dec. 23, 1980, [94 Stat. 3386][/us/stat/94/3386], provided that:
+[Pub. L. 96–586][/us/pl/96/586], § 4, Dec. 23, 1980, [94 Stat. 3386][/us/stat/94/3386], provided that:
 
 >     “(a)
 
@@ -42,13 +42,13 @@
 ----------
 ----------
 
-[/us/pl/96/586/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F586%2Fs4%2Fa%2F1
+[/us/pl/96/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F586
 [/us/stat/94/3386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3386
-[/us/pl/92/527/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F527%2Fs1
+[/us/pl/92/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F527
 [/us/stat/86/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1049
-[/us/pl/96/586/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F586%2Fs4
+[/us/pl/96/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F586
 [/us/stat/94/3386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3386
-[/us/pl/96/586/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F586%2Fs4
+[/us/pl/96/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F586
 [/us/stat/94/3386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3386
 
 

@@ -33,7 +33,7 @@
 
         Nothing in this section shall be construed as creating liability for the United States for any damages caused by the free-roaming horses to property located inside or outside the boundaries of the Ozark National Scenic Riverways.
 
-([Pub. L. 88–492, § 7][/us/pl/88/492/s7], Aug. 27, 1964, [78 Stat. 609][/us/stat/78/609]; [Pub. L. 104–333, div. I, title VIII, § 803(b)][/us/pl/104/333/s803/b], Nov. 12, 1996, [110 Stat. 4186][/us/stat/110/4186].)
+([Pub. L. 88–492][/us/pl/88/492], § 7, Aug. 27, 1964, [78 Stat. 609][/us/stat/78/609]; [Pub. L. 104–333, div. I, title VIII][/us/pl/104/333/dI/tVIII], § 803(b), Nov. 12, 1996, [110 Stat. 4186][/us/stat/110/4186].)
 
  __Codification__ 
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/88/492/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F492%2Fs7
+[/us/pl/88/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F492
 [/us/stat/78/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F609
-[/us/pl/104/333/s803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs803%2Fb
+[/us/pl/104/333/dI/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtVIII
 [/us/stat/110/4186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4186
 [/us/pl/104/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333
 [/us/pl/104/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333

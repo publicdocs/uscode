@@ -87,13 +87,13 @@
 
                     The non-Federal share required to be paid for a project carried out in Latin America or the Caribbean may be paid in cash or in kind.
 
-([Pub. L. 106–247, § 5][/us/pl/106/247/s5], July 20, 2000, [114 Stat. 594][/us/stat/114/594]; [Pub. L. 109–363, title III, § 302(d)][/us/pl/109/363/s302/d], (e), Oct. 17, 2006, [120 Stat. 2076][/us/stat/120/2076].)
+([Pub. L. 106–247][/us/pl/106/247], § 5, July 20, 2000, [114 Stat. 594][/us/stat/114/594]; [Pub. L. 109–363, title III][/us/pl/109/363/tIII], § 302(d), (e), Oct. 17, 2006, [120 Stat. 2076][/us/stat/120/2076].)
 
  __Amendments__ 
 
-    2006—Subsec. (c)(2). [Pub. L. 109–363, § 302(d)][/us/pl/109/363/s302/d], inserted “Canada,” after “United States,”.
+    2006—Subsec. (c)(2). [Pub. L. 109–363][/us/pl/109/363], § 302(d), inserted “Canada,” after “United States,”.
 
-    Subsec. (e)(2)(B). [Pub. L. 109–363, § 302(e)][/us/pl/109/363/s302/e], amended subpar. (B) generally. Prior to amendment, text read as follows:
+    Subsec. (e)(2)(B). [Pub. L. 109–363][/us/pl/109/363], § 302(e), amended subpar. (B) generally. Prior to amendment, text read as follows:
 
     “(i) Projects in the united states.—The non-Federal share required to be paid for a project carried out in the United States shall be paid in cash.
 
@@ -107,11 +107,11 @@
 ----------
 
 [/us/usc/t22/s288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs288
-[/us/pl/106/247/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F247%2Fs5
+[/us/pl/106/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F247
 [/us/stat/114/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F594
-[/us/pl/109/363/s302/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2Fs302%2Fd
+[/us/pl/109/363/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2FtIII
 [/us/stat/120/2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2076
-[/us/pl/109/363/s302/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2Fs302%2Fd
-[/us/pl/109/363/s302/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2Fs302%2Fe
+[/us/pl/109/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363
+[/us/pl/109/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363
 
 

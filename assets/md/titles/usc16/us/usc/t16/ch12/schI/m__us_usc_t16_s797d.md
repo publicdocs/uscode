@@ -27,7 +27,7 @@
 
         This section shall take effect with respect to license applications filed after October 24, 1992.
 
-([Pub. L. 102–486, title XXIV, § 2403][/us/pl/102/486/s2403], Oct. 24, 1992, [106 Stat. 3097][/us/stat/106/3097].)
+([Pub. L. 102–486, title XXIV][/us/pl/102/486/tXXIV], § 2403, Oct. 24, 1992, [106 Stat. 3097][/us/stat/106/3097].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
-[/us/pl/102/486/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2403
+[/us/pl/102/486/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXIV
 [/us/stat/106/3097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3097
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

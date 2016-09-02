@@ -29,7 +29,7 @@
 
         The term “State” means each of the 50 States, Guam, American Samoa, the Republic of Palau (until the Compact of Free Association enters into effect), Puerto Rico, the Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
 
-([Pub. L. 101–513, title VI, § 608][/us/pl/101/513/s608], as added [Pub. L. 102–574, § 2(a)(2)][/us/pl/102/574/s2/a/2], Oct. 29, 1992, [106 Stat. 4595][/us/stat/106/4595].)
+([Pub. L. 101–513, title VI][/us/pl/101/513/tVI], § 608, as added [Pub. L. 102–574][/us/pl/102/574], § 2(a)(2), Oct. 29, 1992, [106 Stat. 4595][/us/stat/106/4595].)
 
  __References in Text__ 
 
@@ -43,8 +43,8 @@
 ----------
 
 [/us/usc/t7/s6706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6706
-[/us/pl/101/513/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs608
-[/us/pl/102/574/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F574%2Fs2%2Fa%2F2
+[/us/pl/101/513/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtVI
+[/us/pl/102/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F574
 [/us/stat/106/4595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4595
 [/us/usc/t48/s1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1931
 

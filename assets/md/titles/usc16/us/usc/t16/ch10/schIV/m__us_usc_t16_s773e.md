@@ -35,11 +35,11 @@
 
     (2) for any foreign fishing vessel, and for the owner or operator of any foreign fishing vessel, to engage in fishing for halibut in the fishery conservation zone, unless such fishing is authorized by, and conducted in accordance with the Convention, this subchapter and regulations adopted under this subchapter.
 
-([Pub. L. 97–176, § 7][/us/pl/97/176/s7], May 17, 1982, [96 Stat. 80][/us/stat/96/80]; [Pub. L. 102–251, title III, § 302(b)][/us/pl/102/251/s302/b], Mar. 9, 1992, [106 Stat. 65][/us/stat/106/65]; [Pub. L. 114–81, title I, § 110][/us/pl/114/81/s110], Nov. 5, 2015, [129 Stat. 659][/us/stat/129/659].)
+([Pub. L. 97–176][/us/pl/97/176], § 7, May 17, 1982, [96 Stat. 80][/us/stat/96/80]; [Pub. L. 102–251, title III][/us/pl/102/251/tIII], § 302(b), Mar. 9, 1992, [106 Stat. 65][/us/stat/106/65]; [Pub. L. 114–81, title I][/us/pl/114/81/tI], § 110, Nov. 5, 2015, [129 Stat. 659][/us/stat/129/659].)
 
  __Amendment of Paragraph (2)__ 
 
-    [Pub. L. 102–251, title III][/us/pl/102/251], §§ 302(b), 308, Mar. 9, 1992, [106 Stat. 65][/us/stat/106/65], 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, paragraph (2), formerly subsection (b), is amended by substituting “exclusive economic zone or special areas” for “fishery conservation zone”.
+    [Pub. L. 102–251, title III][/us/pl/102/251/tIII], §§ 302(b), 308, Mar. 9, 1992, [106 Stat. 65][/us/stat/106/65], 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, paragraph (2), formerly subsection (b), is amended by substituting “exclusive economic zone or special areas” for “fishery conservation zone”.
 
  __Effective Date of 1992 Amendment__ 
 
@@ -56,13 +56,13 @@
 ----------
 ----------
 
-[/us/pl/97/176/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F176%2Fs7
+[/us/pl/97/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F176
 [/us/stat/96/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F80
-[/us/pl/102/251/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2Fs302%2Fb
+[/us/pl/102/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2FtIII
 [/us/stat/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F65
-[/us/pl/114/81/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs110
+[/us/pl/114/81/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2FtI
 [/us/stat/129/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F659
-[/us/pl/102/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251
+[/us/pl/102/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2FtIII
 [/us/stat/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F65
 [/us/pl/102/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251
 [/us/pl/102/251/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2Fs308

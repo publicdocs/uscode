@@ -39,7 +39,7 @@
 
         (B) used for aiding or assisting one or more vessels at sea in the performance of large-scale driftnet fishing, including preparation, supply, storage, refrigeration, transportation, or processing.
 
-([Pub. L. 102–582, title I, § 104][/us/pl/102/582/s104], Nov. 2, 1992, [106 Stat. 4903][/us/stat/106/4903].)
+([Pub. L. 102–582, title I][/us/pl/102/582/tI], § 104, Nov. 2, 1992, [106 Stat. 4903][/us/stat/106/4903].)
 
  __References in Text__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/102/582/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2Fs104
+[/us/pl/102/582/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2FtI
 [/us/stat/106/4903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4903
 [/us/pl/102/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582
 [/us/stat/106/4901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4901

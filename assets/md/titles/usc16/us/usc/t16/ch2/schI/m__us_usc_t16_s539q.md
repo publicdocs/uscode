@@ -365,7 +365,7 @@
 
                 (ii) any military flight training route over a wilderness area described in subparagraph (A).
 
-([Pub. L. 113–291, div. B, title XXX, § 3062][/us/pl/113/291/s3062], Dec. 19, 2014, [128 Stat. 3821][/us/stat/128/3821].)
+([Pub. L. 113–291, div. B, title XXX][/us/pl/113/291/dB/tXXX], § 3062, Dec. 19, 2014, [128 Stat. 3821][/us/stat/128/3821].)
 
  __References in Text__ 
 
@@ -375,7 +375,7 @@
 
     The Wilderness Act, referred to in subsec. (c)(2), is [Pub. L. 88–577][/us/pl/88/577], Sept. 3, 1964, [78 Stat. 890][/us/stat/78/890], which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title][/us/usc/t16/s1131] and Tables.
 
-    Section 2(a)(22) of the Colorado Wilderness Act of 1993, referred to in subsec. (c)(2), (3), is [section 2(a)(22) of Pub. L. 103–77][/us/pl/103/77/s2/a/22], as added by [Pub. L. 113–291, div. B, title XXX, § 3062(c)(1)][/us/pl/113/291/s3062/c/1], Dec. 19, 2014, [128 Stat. 3823][/us/stat/128/3823], which is listed in a table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132].
+    Section 2(a)(22) of the Colorado Wilderness Act of 1993, referred to in subsec. (c)(2), (3), is [section 2(a)(22) of Pub. L. 103–77][/us/pl/103/77/s2/a/22], as added by [Pub. L. 113–291, div. B, title XXX][/us/pl/113/291/dB/tXXX], § 3062(c)(1), Dec. 19, 2014, [128 Stat. 3823][/us/stat/128/3823], which is listed in a table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132].
 
     Act of June 14, 1926, referred to in subsecs. (d)(3)(A) and (e)(3), is [act June 14, 1926, ch. 578][/us/act/1926-06-14/ch578], [44 Stat. 741][/us/stat/44/741], popularly known as the Recreation and Public Purposes Act, which is classified to sections 869 to 869–4 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 869 of Title 43][/us/usc/t43/s869] and Tables.
 
@@ -409,7 +409,7 @@
 [/us/usc/t43/s1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1782
 [/us/usc/t43/s1782/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1782%2Fc
 [/us/usc/t43/s1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1712
-[/us/pl/113/291/s3062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3062
+[/us/pl/113/291/dB/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXX
 [/us/stat/128/3821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3821
 [/us/pl/94/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588
 [/us/stat/90/2949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2949
@@ -420,7 +420,7 @@
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
 [/us/pl/103/77/s2/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F77%2Fs2%2Fa%2F22
-[/us/pl/113/291/s3062/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3062%2Fc%2F1
+[/us/pl/113/291/dB/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXX
 [/us/stat/128/3823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3823
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132
 [/us/act/1926-06-14/ch578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-06-14%2Fch578

@@ -17,7 +17,7 @@
 
     Any agency of the United States Government is authorized to cooperate with the United States Section in the conduct of research programs and related activities and, on a reimbursable or other basis, to enter into agreements with the United States Section for the purpose of assisting it in carrying out the program for the control of lamprey populations.
 
-([June 4, 1956, ch. 358, § 11][/us/act/1956-06-04/ch358/s11], [70 Stat. 244][/us/stat/70/244].)
+([June 4, 1956, ch. 358][/us/act/1956-06-04/ch358], § 11, [70 Stat. 244][/us/stat/70/244].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1956-06-04/ch358/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-04%2Fch358%2Fs11
+[/us/act/1956-06-04/ch358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-04%2Fch358
 [/us/stat/70/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F244
 
 

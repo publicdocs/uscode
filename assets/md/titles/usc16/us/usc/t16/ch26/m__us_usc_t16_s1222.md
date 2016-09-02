@@ -31,7 +31,7 @@
 
         There is authorized to be appropriated not to exceed $250,000 for fiscal year 1969 and $250,000 for fiscal year 1970 to carry out the provisions of this section. Such sums shall be available until expended.
 
-([Pub. L. 90–454, § 2][/us/pl/90/454/s2], Aug. 3, 1968, [82 Stat. 626][/us/stat/82/626].)
+([Pub. L. 90–454][/us/pl/90/454], § 2, Aug. 3, 1968, [82 Stat. 626][/us/stat/82/626].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t33/s1254/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1254%2Fn
-[/us/pl/90/454/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F454%2Fs2
+[/us/pl/90/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F454
 [/us/stat/82/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F626
 [/us/usc/t33/s466c/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs466c%2Fg
 [/us/pl/91/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F224

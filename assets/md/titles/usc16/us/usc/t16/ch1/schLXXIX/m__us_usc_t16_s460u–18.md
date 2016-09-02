@@ -33,7 +33,7 @@
 
         (2) If a memorandum of agreement is entered into pursuant to paragraph (1), so long as the memorandum of agreement is in effect and is being performed, the Secretary may not acquire lands or interests in land in the Greenbelt belonging to NIPSCO.
 
-([Pub. L. 89–761, § 18][/us/pl/89/761/s18], formerly § 19, as added and renumbered [Pub. L. 94–549, § 1(8)][/us/pl/94/549/s1/8], (9), Oct. 18, 1976, [90 Stat. 2532][/us/stat/90/2532], 2533; [Pub. L. 102–430, § 5][/us/pl/102/430/s5], Oct. 23, 1992, [106 Stat. 2209][/us/stat/106/2209].)
+([Pub. L. 89–761][/us/pl/89/761], § 18, formerly § 19, as added and renumbered [Pub. L. 94–549][/us/pl/94/549], § 1(8), (9), Oct. 18, 1976, [90 Stat. 2532][/us/stat/90/2532], 2533; [Pub. L. 102–430][/us/pl/102/430], § 5, Oct. 23, 1992, [106 Stat. 2209][/us/stat/106/2209].)
 
  __Amendments__ 
 
@@ -53,10 +53,10 @@
 ----------
 
 [/us/usc/t16/s460u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460u
-[/us/pl/89/761/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761%2Fs18
-[/us/pl/94/549/s1/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549%2Fs1%2F8
+[/us/pl/89/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761
+[/us/pl/94/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549
 [/us/stat/90/2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2532
-[/us/pl/102/430/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F430%2Fs5
+[/us/pl/102/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F430
 [/us/stat/106/2209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2209
 [/us/pl/102/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F430
 

@@ -17,7 +17,7 @@
 
     In order to preserve and protect for present and future generations the outstanding resources and values of Grand Island in Lake Superior, Michigan, and for the purposes of providing for the conservation, protection, and enhancement of its scenery, recreation, fish and wildlife, vegetation and historical and cultural resources, there is hereby established the Grand Island National Recreation Area (hereafter in this subchapter referred to as the “national recreation area”). These resources and values include, but are not limited to, cliffs, caves, beaches, forested appearance, natural biological diversity, and features of early settlement.
 
-([Pub. L. 101–292, § 1][/us/pl/101/292/s1], May 17, 1990, [104 Stat. 185][/us/stat/104/185].)
+([Pub. L. 101–292][/us/pl/101/292], § 1, May 17, 1990, [104 Stat. 185][/us/stat/104/185].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/292/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F292%2Fs1
+[/us/pl/101/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F292
 [/us/stat/104/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F185
 
 

@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as may be necessary to carry out sections 620 to 620j of this title.
 
-([Pub. L. 101–382, title IV, § 496][/us/pl/101/382/s496], Aug. 20, 1990, [104 Stat. 725][/us/stat/104/725].)
+([Pub. L. 101–382, title IV][/us/pl/101/382/tIV], § 496, Aug. 20, 1990, [104 Stat. 725][/us/stat/104/725].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/382/s496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs496
+[/us/pl/101/382/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtIV
 [/us/stat/104/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F725
 
 

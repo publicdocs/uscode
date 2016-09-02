@@ -79,17 +79,17 @@
 
         (2) the term “mobilization” means any activity in which one firefighting organization assists another that has requested assistance.
 
-([Pub. L. 95–313, § 10][/us/pl/95/313/s10], formerly § 7, July 1, 1978, [92 Stat. 370][/us/stat/92/370]; renumbered § 10 and amended [Pub. L. 101–624, title XII][/us/pl/101/624], §§ 1215(1), 1220, Nov. 28, 1990, [104 Stat. 3525][/us/stat/104/3525], 3539; [Pub. L. 102–237, title X, § 1018(a)(4)][/us/pl/102/237/s1018/a/4], Dec. 13, 1991, [105 Stat. 1905][/us/stat/105/1905].)
+([Pub. L. 95–313][/us/pl/95/313], § 10, formerly § 7, July 1, 1978, [92 Stat. 370][/us/stat/92/370]; renumbered § 10 and amended [Pub. L. 101–624, title XII][/us/pl/101/624/tXII], §§ 1215(1), 1220, Nov. 28, 1990, [104 Stat. 3525][/us/stat/104/3525], 3539; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1018(a)(4), Dec. 13, 1991, [105 Stat. 1905][/us/stat/105/1905].)
 
  __References in Text__ 
 
     The Federal Fire Prevention and Control Act of 1974, referred to in subsecs. (b) and (d), is [Pub. L. 93–498][/us/pl/93/498], Oct. 29, 1974, [88 Stat. 1535][/us/stat/88/1535], as amended, which is classified principally to chapter 49 (§ 2201 et seq.) of Title 15, Commerce and Trade. For complete classification of the Act to the Code, see Short Title note set out under [section 2201 of Title 15][/us/usc/t15/s2201] and Tables.
 
-    [Section 1926(a)(7) of title 7][/us/usc/t7/s1926/a/7], referred to in subsec. (b)(3), was repealed by [Pub. L. 107–171, title VI, § 6020(b)(1)][/us/pl/107/171/s6020/b/1], May 13, 2002, [116 Stat. 363][/us/stat/116/363].
+    [Section 1926(a)(7) of title 7][/us/usc/t7/s1926/a/7], referred to in subsec. (b)(3), was repealed by [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6020(b)(1), May 13, 2002, [116 Stat. 363][/us/stat/116/363].
 
  __Codification__ 
 
-    In subsec. (c), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (c), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Prior Provisions__ 
 
@@ -99,11 +99,11 @@
 
     1991—Subsec. (g)(2). [Pub. L. 102–237][/us/pl/102/237] substituted “firefighting organization” for “fire fighting organization”.
 
-    1990—Subsec. (b)(4). [Pub. L. 101–624, § 1220(a)][/us/pl/101/624/s1220/a], added par. (4).
+    1990—Subsec. (b)(4). [Pub. L. 101–624][/us/pl/101/624], § 1220(a), added par. (4).
 
-    Subsec. (e). [Pub. L. 101–624, § 1220(b)][/us/pl/101/624/s1220/b], designated existing provisions as par. (1), inserted reference to paragraphs (1), (2), and (3) of subsec. (b), and added par. (2).
+    Subsec. (e). [Pub. L. 101–624][/us/pl/101/624], § 1220(b), designated existing provisions as par. (1), inserted reference to paragraphs (1), (2), and (3) of subsec. (b), and added par. (2).
 
-    Subsec. (g). [Pub. L. 101–624, § 1220(c)][/us/pl/101/624/s1220/c], added subsec. (g).
+    Subsec. (g). [Pub. L. 101–624][/us/pl/101/624], § 1220(c), added subsec. (g).
 
  __Transfer of Functions__ 
 
@@ -122,28 +122,28 @@
 
 [/us/usc/t15/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2201
 [/us/usc/t15/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2201
-[/us/pl/95/313/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313%2Fs10
+[/us/pl/95/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313
 [/us/stat/92/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F370
-[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXII
 [/us/stat/104/3525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3525
-[/us/pl/102/237/s1018/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1018%2Fa%2F4
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1905
 [/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
 [/us/stat/88/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1535
 [/us/usc/t15/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2201
 [/us/usc/t7/s1926/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1926%2Fa%2F7
-[/us/pl/107/171/s6020/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6020%2Fb%2F1
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F363
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/95/313/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313%2Fs10
 [/us/usc/t16/s2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2109
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
-[/us/pl/101/624/s1220/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1220%2Fa
-[/us/pl/101/624/s1220/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1220%2Fb
-[/us/pl/101/624/s1220/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1220%2Fc
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t15/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2201

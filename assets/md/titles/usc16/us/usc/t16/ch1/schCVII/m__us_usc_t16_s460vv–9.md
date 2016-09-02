@@ -27,7 +27,7 @@
 
         The Secretary shall administer the national scenic area in accordance with the laws, rules, and regulations applicable to the national forests in such manner as will best further the purposes of this section, as set forth in subsection (a). Timber management practices within the area shall promote a mixed hardwood and conifer forest with species and age class diversity approximating natural succession and with significant mast production and den trees for wildlife. Unevenaged management shall be the timber management practice in the area, except that the Secretary is authorized to use evenaged management practices in order to promote public safety or to mitigate the effects of fire, insects, and disease.
 
-([Pub. L. 100–499, § 11][/us/pl/100/499/s11], Oct. 18, 1988, [102 Stat. 2496][/us/stat/102/2496].)
+([Pub. L. 100–499][/us/pl/100/499], § 11, Oct. 18, 1988, [102 Stat. 2496][/us/stat/102/2496].)
 
  __Change of Name__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/100/499/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F499%2Fs11
+[/us/pl/100/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F499
 [/us/stat/102/2496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2496
 
 

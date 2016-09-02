@@ -33,7 +33,7 @@
 
         (3) [Public Law 97–250][/us/pl/97/250] ([96 Stat. 709][/us/stat/96/709]).
 
-([Pub. L. 92–536, § 6][/us/pl/92/536/s6], Oct. 23, 1972, [86 Stat. 1068][/us/stat/86/1068]; [Pub. L. 108–447, div. E, title I, § 145(b)][/us/pl/108/447/s145/b], Dec. 8, 2004, [118 Stat. 3073][/us/stat/118/3073].)
+([Pub. L. 92–536][/us/pl/92/536], § 6, Oct. 23, 1972, [86 Stat. 1068][/us/stat/86/1068]; [Pub. L. 108–447, div. E, title I][/us/pl/108/447/dE/tI], § 145(b), Dec. 8, 2004, [118 Stat. 3073][/us/stat/118/3073].)
 
  __References in Text__ 
 
@@ -45,9 +45,9 @@
 
  __Amendments__ 
 
-    2004—Subsec. (b). [Pub. L. 108–447, § 145(b)(1)][/us/pl/108/447/s145/b/1], inserted “, except as provided in subsection (c),” before “no development of the project”.
+    2004—Subsec. (b). [Pub. L. 108–447][/us/pl/108/447], § 145(b)(1), inserted “, except as provided in subsection (c),” before “no development of the project”.
 
-    Subsec. (c). [Pub. L. 108–447, § 145(b)(2)][/us/pl/108/447/s145/b/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 108–447][/us/pl/108/447], § 145(b)(2), added subsec. (c).
 
 ----------
 
@@ -61,9 +61,9 @@
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
 [/us/pl/97/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F250
 [/us/stat/96/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F709
-[/us/pl/92/536/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F536%2Fs6
+[/us/pl/92/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F536
 [/us/stat/86/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1068
-[/us/pl/108/447/s145/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs145%2Fb
+[/us/pl/108/447/dE/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdE%2FtI
 [/us/stat/118/3073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3073
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
@@ -84,7 +84,7 @@
 [/us/usc/t16/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs121
 [/us/usc/t16/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs121
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132
-[/us/pl/108/447/s145/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs145%2Fb%2F1
-[/us/pl/108/447/s145/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs145%2Fb%2F2
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 
 

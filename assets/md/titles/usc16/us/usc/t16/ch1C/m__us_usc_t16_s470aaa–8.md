@@ -23,7 +23,7 @@
 
     (3) be in accordance with other applicable laws.
 
-([Pub. L. 111–11, title VI, § 6309][/us/pl/111/11/s6309], Mar. 30, 2009, [123 Stat. 1176][/us/stat/123/1176].)
+([Pub. L. 111–11, title VI][/us/pl/111/11/tVI], § 6309, Mar. 30, 2009, [123 Stat. 1176][/us/stat/123/1176].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/111/11/s6309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs6309
+[/us/pl/111/11/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVI
 [/us/stat/123/1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1176
 
 

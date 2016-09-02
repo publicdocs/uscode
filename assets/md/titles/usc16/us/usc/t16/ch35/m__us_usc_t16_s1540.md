@@ -111,7 +111,7 @@
 
         The Secretary of Agriculture and the Secretary shall provide for appropriate coordination of the administration of this chapter with the administration of the animal quarantine laws (as defined in [section 136a(f) of title 21][/us/usc/t21/s136a/f]) and section 306  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Tariff Act of 1930 ([19 U.S.C. 1306][/us/usc/t19/s1306]). Nothing in this chapter or any amendment made by this chapter shall be construed as superseding or limiting in any manner the functions of the Secretary of Agriculture under any other law relating to prohibited or restricted importations or possession of animals and other articles and no proceeding or determination under this chapter shall preclude any proceeding or be considered determinative of any issue of fact or law in any proceeding under any Act administered by the Secretary of Agriculture. Nothing in this chapter shall be construed as superseding or limiting in any manner the functions and responsibilities of the Secretary of the Treasury under the Tariff Act of 1930 \[[19 U.S.C. 1202][/us/usc/t19/s1202] et seq.\], including, without limitation, section 527 of that Act ([19 U.S.C. 1527][/us/usc/t19/s1527]), relating to the importation of wildlife taken, killed, possessed, or exported to the United States in violation of the laws or regulations of a foreign country.
 
-([Pub. L. 93–205, § 11][/us/pl/93/205/s11], Dec. 28, 1973, [87 Stat. 897][/us/stat/87/897]; [Pub. L. 94–359, § 4][/us/pl/94/359/s4], July 12, 1976, [90 Stat. 913][/us/stat/90/913]; [Pub. L. 95–632][/us/pl/95/632], §§ 6–8, Nov. 10, 1978, [92 Stat. 3761][/us/stat/92/3761], 3762; [Pub. L. 97–79, § 9(e)][/us/pl/97/79/s9/e], Nov. 16, 1981, [95 Stat. 1079][/us/stat/95/1079]; [Pub. L. 97–304][/us/pl/97/304], §§ 7, 9(c), Oct. 13, 1982, [96 Stat. 1425][/us/stat/96/1425], 1427; [Pub. L. 98–327, § 4][/us/pl/98/327/s4], June 25, 1984, [98 Stat. 271][/us/stat/98/271]; [Pub. L. 100–478, title I, § 1007][/us/pl/100/478/s1007], Oct. 7, 1988, [102 Stat. 2309][/us/stat/102/2309]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 107–171, title X, § 10418(b)(3)][/us/pl/107/171/s10418/b/3], May 13, 2002, [116 Stat. 508][/us/stat/116/508].)
+([Pub. L. 93–205][/us/pl/93/205], § 11, Dec. 28, 1973, [87 Stat. 897][/us/stat/87/897]; [Pub. L. 94–359][/us/pl/94/359], § 4, July 12, 1976, [90 Stat. 913][/us/stat/90/913]; [Pub. L. 95–632][/us/pl/95/632], §§ 6–8, Nov. 10, 1978, [92 Stat. 3761][/us/stat/92/3761], 3762; [Pub. L. 97–79][/us/pl/97/79], § 9(e), Nov. 16, 1981, [95 Stat. 1079][/us/stat/95/1079]; [Pub. L. 97–304][/us/pl/97/304], §§ 7, 9(c), Oct. 13, 1982, [96 Stat. 1425][/us/stat/96/1425], 1427; [Pub. L. 98–327][/us/pl/98/327], § 4, June 25, 1984, [98 Stat. 271][/us/stat/98/271]; [Pub. L. 100–478, title I][/us/pl/100/478/tI], § 1007, Oct. 7, 1988, [102 Stat. 2309][/us/stat/102/2309]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10418(b)(3), May 13, 2002, [116 Stat. 508][/us/stat/116/508].)
 
  __References in Text__ 
 
@@ -119,43 +119,43 @@
 
     The amendments made by this chapter, referred to in subsec. (h), refer to the amendments made by [Pub. L. 93–205][/us/pl/93/205], which amended section 460k–1, former section 460l–9, and sections 668dd, 715i, 715s, 1362, 1371, 1372, and 1402 of this title and [section 136 of Title 7][/us/usc/t7/s136], Agriculture, and repealed sections 668aa to 668cc–6 of this title.
 
-    The Tariff Act of 1930, referred to in subsec. (h), is [act June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], [46 Stat. 590][/us/stat/46/590], which is classified generally to chapter 4 (§ 1202 et seq.) of Title 19, Customs Duties. Section 306 of the Act was repealed by [Pub. L. 107–171, title X, § 10418(a)(5)][/us/pl/107/171/s10418/a/5], May 13, 2002, [116 Stat. 507][/us/stat/116/507]. For complete classification of this Act to the Code, see [section 1654 of Title 19][/us/usc/t19/s1654] and Tables.
+    The Tariff Act of 1930, referred to in subsec. (h), is [act June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], [46 Stat. 590][/us/stat/46/590], which is classified generally to chapter 4 (§ 1202 et seq.) of Title 19, Customs Duties. Section 306 of the Act was repealed by [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10418(a)(5), May 13, 2002, [116 Stat. 507][/us/stat/116/507]. For complete classification of this Act to the Code, see [section 1654 of Title 19][/us/usc/t19/s1654] and Tables.
 
  __Amendments__ 
 
     2002—Subsec. (h). [Pub. L. 107–171][/us/pl/107/171] substituted “animal quarantine laws (as defined in [section 136a(f) of title 21][/us/usc/t21/s136a/f])” for “animal quarantine laws ([21 U.S.C. 101–105][/us/usc/t21/s101–105], 111–135b, and 612–614)”.
 
-    1988—Subsec. (a)(1). [Pub. L. 100–478, § 1007(a)][/us/pl/100/478/s1007/a], substituted “$25,000” for “$10,000” and “$12,000” for “$5,000”.
+    1988—Subsec. (a)(1). [Pub. L. 100–478][/us/pl/100/478], § 1007(a), substituted “$25,000” for “$10,000” and “$12,000” for “$5,000”.
 
-    Subsec. (b)(1). [Pub. L. 100–478, § 1007(b)][/us/pl/100/478/s1007/b], substituted “$50,000” for “$20,000” and “$25,000” for “$10,000”.
+    Subsec. (b)(1). [Pub. L. 100–478][/us/pl/100/478], § 1007(b), substituted “$50,000” for “$20,000” and “$25,000” for “$10,000”.
 
-    Subsec. (d). [Pub. L. 100–478, § 1007(c)][/us/pl/100/478/s1007/c], inserted at end “Whenever the balance of sums received under this section and [section 3375(d) of this title][/us/usc/t16/s3375/d], as penalties or fines, or from forfeitures of property, exceed $500,000, the Secretary of the Treasury shall deposit an amount equal to such excess balance in the cooperative endangered species conservation fund established under [section 1535(i) of this title][/us/usc/t16/s1535/i].”
+    Subsec. (d). [Pub. L. 100–478][/us/pl/100/478], § 1007(c), inserted at end “Whenever the balance of sums received under this section and [section 3375(d) of this title][/us/usc/t16/s3375/d], as penalties or fines, or from forfeitures of property, exceed $500,000, the Secretary of the Treasury shall deposit an amount equal to such excess balance in the cooperative endangered species conservation fund established under [section 1535(i) of this title][/us/usc/t16/s1535/i].”
 
     1984—Subsec. (d). [Pub. L. 98–327][/us/pl/98/327], in first sentence, substituted a comma for “a reward” after “shall pay”, inserted “(1) a reward” before “to any person”, and added cl. (2).
 
-    1982—Subsecs. (a)(1), (b)(1). [Pub. L. 97–304, § 9(c)][/us/pl/97/304/s9/c], substituted “(a)(2)(A), (B), (C), or (D)” for “(a)(2)(A), (B), or (C)”.
+    1982—Subsecs. (a)(1), (b)(1). [Pub. L. 97–304][/us/pl/97/304], § 9(c), substituted “(a)(2)(A), (B), (C), or (D)” for “(a)(2)(A), (B), or (C)”.
 
-    Subsec. (e)(6). [Pub. L. 97–304, § 7(1)][/us/pl/97/304/s7/1], added par. (6).
+    Subsec. (e)(6). [Pub. L. 97–304][/us/pl/97/304], § 7(1), added par. (6).
 
-    Subsec. (g)(1)(B). [Pub. L. 97–304, § 7(2)(A)(i)][/us/pl/97/304/s7/2/A/i], substituted “any State; or” for “any State.”.
+    Subsec. (g)(1)(B). [Pub. L. 97–304][/us/pl/97/304], § 7(2)(A)(i), substituted “any State; or” for “any State.”.
 
-    Subsec. (g)(1)(C). [Pub. L. 97–304, § 7(2)(A)(ii)][/us/pl/97/304/s7/2/A/ii], added subpar. (C).
+    Subsec. (g)(1)(C). [Pub. L. 97–304][/us/pl/97/304], § 7(2)(A)(ii), added subpar. (C).
 
-    Subsec. (g)(1). [Pub. L. 97–304, § 7(2)(A)(iii)][/us/pl/97/304/s7/2/A/iii], inserted “or to order the Secretary to perform such act or duty,” after “any such provision or regulation,” in provisions following subpar. (C).
+    Subsec. (g)(1). [Pub. L. 97–304][/us/pl/97/304], § 7(2)(A)(iii), inserted “or to order the Secretary to perform such act or duty,” after “any such provision or regulation,” in provisions following subpar. (C).
 
-    Subsec. (g)(2)(C). [Pub. L. 97–304, § 7(2)(B)][/us/pl/97/304/s7/2/B], added subpar. (C).
+    Subsec. (g)(2)(C). [Pub. L. 97–304][/us/pl/97/304], § 7(2)(B), added subpar. (C).
 
     1981—Subsec. (d). [Pub. L. 97–79][/us/pl/97/79] substituted “The Secretary or the Secretary of the Treasury shall pay a reward from sums received as penalties, fines, or forfeitures of property for any violation of this chapter or any regulation issued hereunder to any person who furnishes information which leads to an arrest, a criminal conviction, civil penalty assessment, or forfeiture of property for any violation of this chapter or any regulation issued hereunder” for “Upon the recommendation of the Secretary, the Secretary of the Treasury is authorized to pay an amount equal to one-half of the civil penalty or fine paid, but not to exceed $2,500, to any person who furnishes information which leads to a finding of civil violation or a conviction of a criminal violation of any provision of this chapter or any regulation or permit issued thereunder” and inserted provision that the amount of the reward, if any, be designated by the Secretary or the Secretary of the Treasury, as appropriate.
 
-    1978—Subsec. (a)(1). [Pub. L. 95–632, § 6(1)][/us/pl/95/632/s6/1], (2), substituted “and any person engaged in business as an importer or exporter of fish, wildlife, or plants who violates” for “or who knowingly commits an act in the course of a commercial activity which violates” in two places and “$500” for “$1,000”.
+    1978—Subsec. (a)(1). [Pub. L. 95–632][/us/pl/95/632], § 6(1), (2), substituted “and any person engaged in business as an importer or exporter of fish, wildlife, or plants who violates” for “or who knowingly commits an act in the course of a commercial activity which violates” in two places and “$500” for “$1,000”.
 
-    Subsec. (a)(3). [Pub. L. 95–632, § 7][/us/pl/95/632/s7], added par. (3).
+    Subsec. (a)(3). [Pub. L. 95–632][/us/pl/95/632], § 7, added par. (3).
 
-    Subsec. (b)(1). [Pub. L. 95–632, § 6(3)][/us/pl/95/632/s6/3], substituted “knowingly” for “willfully commits an act which” in two places.
+    Subsec. (b)(1). [Pub. L. 95–632][/us/pl/95/632], § 6(3), substituted “knowingly” for “willfully commits an act which” in two places.
 
-    Subsec. (b)(2). [Pub. L. 95–632, § 6(4)][/us/pl/95/632/s6/4], inserted “a person to import or export fish, wildlife, or plants, or to operate a quarantine station for imported wildlife, or authorizing” after “authorizing”.
+    Subsec. (b)(2). [Pub. L. 95–632][/us/pl/95/632], § 6(4), inserted “a person to import or export fish, wildlife, or plants, or to operate a quarantine station for imported wildlife, or authorizing” after “authorizing”.
 
-    Subsec. (b)(3). [Pub. L. 95–632, § 8][/us/pl/95/632/s8], added par. (3).
+    Subsec. (b)(3). [Pub. L. 95–632][/us/pl/95/632], § 8, added par. (3).
 
     1976—Subsec. (e)(3). [Pub. L. 94–359][/us/pl/94/359] inserted “make arrests without a warrant for any violation of this chapter if he has reasonable grounds to believe that the person to be arrested is committing the violation in his presence or view, and may” after “Such person may” and “, but upon forfeiture of any such property to the United States, or the abandonment or waiver of any claim to any such property, it shall be disposed of (other than by sale to the general public) by the Secretary in such a manner, consistent with the purposes of this chapter, as the Secretary shall by regulation prescribe,” after “other surety satisfactory to the Secretary”.
 
@@ -165,7 +165,7 @@
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–79, § 9(f)][/us/pl/97/79/s9/f], Nov. 16, 1981, [95 Stat. 1080][/us/stat/95/1080], provided that: 
+[Pub. L. 97–79][/us/pl/97/79], § 9(f), Nov. 16, 1981, [95 Stat. 1080][/us/stat/95/1080], provided that: 
 
 > “The amendment specified in subsection 9(e) of this Act \[amending this section\] shall take effect beginning in fiscal year 1983.”
 
@@ -195,23 +195,23 @@
 [/us/usc/t19/s1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1306
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/usc/t19/s1527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1527
-[/us/pl/93/205/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205%2Fs11
+[/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F897
-[/us/pl/94/359/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F359%2Fs4
+[/us/pl/94/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F359
 [/us/stat/90/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F913
 [/us/pl/95/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F632
 [/us/stat/92/3761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3761
-[/us/pl/97/79/s9/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F79%2Fs9%2Fe
+[/us/pl/97/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F79
 [/us/stat/95/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1079
 [/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
 [/us/stat/96/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1425
-[/us/pl/98/327/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F327%2Fs4
+[/us/pl/98/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F327
 [/us/stat/98/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F271
-[/us/pl/100/478/s1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2Fs1007
+[/us/pl/100/478/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2FtI
 [/us/stat/102/2309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2309
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
-[/us/pl/107/171/s10418/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10418%2Fb%2F3
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F508
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/81/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F884
@@ -220,34 +220,34 @@
 [/us/usc/t7/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F590
-[/us/pl/107/171/s10418/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10418%2Fa%2F5
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F507
 [/us/usc/t19/s1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1654
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/usc/t21/s136a/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs136a%2Ff
 [/us/usc/t21/s101–105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs101%E2%80%93105
-[/us/pl/100/478/s1007/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2Fs1007%2Fa
-[/us/pl/100/478/s1007/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2Fs1007%2Fb
-[/us/pl/100/478/s1007/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2Fs1007%2Fc
+[/us/pl/100/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478
+[/us/pl/100/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478
+[/us/pl/100/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478
 [/us/usc/t16/s3375/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3375%2Fd
 [/us/usc/t16/s1535/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1535%2Fi
 [/us/pl/98/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F327
-[/us/pl/97/304/s9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs9%2Fc
-[/us/pl/97/304/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs7%2F1
-[/us/pl/97/304/s7/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs7%2F2%2FA%2Fi
-[/us/pl/97/304/s7/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs7%2F2%2FA%2Fii
-[/us/pl/97/304/s7/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs7%2F2%2FA%2Fiii
-[/us/pl/97/304/s7/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs7%2F2%2FB
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
 [/us/pl/97/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F79
-[/us/pl/95/632/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F632%2Fs6%2F1
-[/us/pl/95/632/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F632%2Fs7
-[/us/pl/95/632/s6/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F632%2Fs6%2F3
-[/us/pl/95/632/s6/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F632%2Fs6%2F4
-[/us/pl/95/632/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F632%2Fs8
+[/us/pl/95/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F632
+[/us/pl/95/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F632
+[/us/pl/95/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F632
+[/us/pl/95/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F632
+[/us/pl/95/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F632
 [/us/pl/94/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F359
 [/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
 [/us/usc/t28/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs631
-[/us/pl/97/79/s9/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F79%2Fs9%2Ff
+[/us/pl/97/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F79
 [/us/stat/95/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1080
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

@@ -25,7 +25,7 @@
 
     (iv) the feasibility and suitability of including within the boundaries of the national river, the section of the New River from Fayetteville to Gauley Bridge, and reasons therefor.
 
-([Pub. L. 95–625, title XI, § 1103][/us/pl/95/625/s1103], Nov. 10, 1978, [92 Stat. 3546][/us/stat/92/3546].)
+([Pub. L. 95–625, title XI][/us/pl/95/625/tXI], § 1103, Nov. 10, 1978, [92 Stat. 3546][/us/stat/92/3546].)
 
  __Change of Name__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/95/625/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs1103
+[/us/pl/95/625/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtXI
 [/us/stat/92/3546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3546
 
 

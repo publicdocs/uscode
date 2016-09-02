@@ -23,7 +23,7 @@
 
         All agencies of the Federal Government are authorized, on request of the Commission, to cooperate in the conduct of scientific and other programs, or to furnish facilities and personnel for the purpose of assisting the Commission in the performance of its duties as prescribed by the convention.
 
-([Aug. 9, 1950, ch. 653, § 10][/us/act/1950-08-09/ch653/s10], [64 Stat. 424][/us/stat/64/424].)
+([Aug. 9, 1950, ch. 653][/us/act/1950-08-09/ch653], § 10, [64 Stat. 424][/us/stat/64/424].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1950-08-09/ch653/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch653%2Fs10
+[/us/act/1950-08-09/ch653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch653
 [/us/stat/64/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F424
 
 

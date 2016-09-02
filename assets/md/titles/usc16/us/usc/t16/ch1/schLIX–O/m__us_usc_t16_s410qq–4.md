@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as may be necessary to carry out this subchapter.
 
-([Pub. L. 100–571, § 5][/us/pl/100/571/s5], Oct. 31, 1988, [102 Stat. 2883][/us/stat/102/2883].)
+([Pub. L. 100–571][/us/pl/100/571], § 5, Oct. 31, 1988, [102 Stat. 2883][/us/stat/102/2883].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/571/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F571%2Fs5
+[/us/pl/100/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F571
 [/us/stat/102/2883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2883
 
 

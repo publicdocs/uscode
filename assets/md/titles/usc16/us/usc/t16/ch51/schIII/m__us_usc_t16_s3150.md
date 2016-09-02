@@ -27,7 +27,7 @@
 
         (2) which is compatible with the purposes for which such units are established.
 
-([Pub. L. 96–487, title X, § 1010][/us/pl/96/487/s1010], Dec. 2, 1980, [94 Stat. 2456][/us/stat/94/2456].)
+([Pub. L. 96–487, title X][/us/pl/96/487/tX], § 1010, Dec. 2, 1980, [94 Stat. 2456][/us/stat/94/2456].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
 [/us/usc/t16/s3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3141
-[/us/pl/96/487/s1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1010
+[/us/pl/96/487/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtX
 [/us/stat/94/2456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2456
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890

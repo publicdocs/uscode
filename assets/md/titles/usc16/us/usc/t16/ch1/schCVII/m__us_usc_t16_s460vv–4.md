@@ -49,7 +49,7 @@
 
         (2) National Forest System roadless lands in the State of Oklahoma which are less than five thousand acres in size.
 
-([Pub. L. 100–499, § 6][/us/pl/100/499/s6], Oct. 18, 1988, [102 Stat. 2493][/us/stat/102/2493].)
+([Pub. L. 100–499][/us/pl/100/499], § 6, Oct. 18, 1988, [102 Stat. 2493][/us/stat/102/2493].)
 
  __References in Text__ 
 
@@ -69,7 +69,7 @@
 [/us/usc/t16/s1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1604
 [/us/usc/t16/s1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1600
 [/us/usc/t16/s1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1604
-[/us/pl/100/499/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F499%2Fs6
+[/us/pl/100/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F499
 [/us/stat/102/2493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2493
 [/us/pl/93/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F378
 [/us/stat/88/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F476

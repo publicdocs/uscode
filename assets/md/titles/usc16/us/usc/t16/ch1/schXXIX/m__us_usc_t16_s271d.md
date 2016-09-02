@@ -17,7 +17,7 @@
 
     Subject to the provisions of this subchapter, the administration, protection, and development of the Canyonlands National Park, as established pursuant to this subchapter, shall be exercised by the Secretary of the Interior in accordance with the provisions of the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]; [16 U.S.C. 1][/us/usc/t16/s1] and the following), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended and supplemented.
 
-([Pub. L. 88–590, § 5][/us/pl/88/590/s5], Sept. 12, 1964, [78 Stat. 939][/us/stat/78/939].)
+([Pub. L. 88–590][/us/pl/88/590], § 5, Sept. 12, 1964, [78 Stat. 939][/us/stat/78/939].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
-[/us/pl/88/590/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F590%2Fs5
+[/us/pl/88/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F590
 [/us/stat/78/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F939
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1

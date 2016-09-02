@@ -17,7 +17,7 @@
 
     The provisions of sections 251b to 251d of this title shall not be applicable with respect to any privately owned lands lying within the exterior boundaries of the Olympic National Park which are within township 23 north, range 10 west; township 23 north, range 9 west; township 24 north, range 9 west; and township 24 north, range 8 west, West Willamette meridian; and lot 5 of the July Creek lot survey consisting of .15 acre, and lot 12 of the July Creek lot survey consisting of .35 acre.
 
-([Pub. L. 85–455, § 3][/us/pl/85/455/s3], June 11, 1958, [72 Stat. 185][/us/stat/72/185].)
+([Pub. L. 85–455][/us/pl/85/455], § 3, June 11, 1958, [72 Stat. 185][/us/stat/72/185].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/85/455/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F455%2Fs3
+[/us/pl/85/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F455
 [/us/stat/72/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F185
 
 

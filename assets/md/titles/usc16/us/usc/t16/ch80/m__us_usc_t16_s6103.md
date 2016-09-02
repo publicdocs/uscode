@@ -47,13 +47,13 @@
 
         The term “Secretary” means the Secretary of the Interior.
 
-([Pub. L. 106–247, § 4][/us/pl/106/247/s4], July 20, 2000, [114 Stat. 593][/us/stat/114/593]; [Pub. L. 109–363, title III, § 302(c)][/us/pl/109/363/s302/c], (h)(3)(A), Oct. 17, 2006, [120 Stat. 2075][/us/stat/120/2075], 2076.)
+([Pub. L. 106–247][/us/pl/106/247], § 4, July 20, 2000, [114 Stat. 593][/us/stat/114/593]; [Pub. L. 109–363, title III][/us/pl/109/363/tIII], § 302(c), (h)(3)(A), Oct. 17, 2006, [120 Stat. 2075][/us/stat/120/2075], 2076.)
 
  __Amendments__ 
 
-    2006—Par. (1). [Pub. L. 109–363, § 302(h)(3)(A)][/us/pl/109/363/s302/h/3/A], added par. (1) and struck out former par. (1). Text read as follows: “The term ‘Account’ means the Neotropical Migratory Bird Conservation Account established by [section 6108(a) of this title][/us/usc/t16/s6108/a].”
+    2006—Par. (1). [Pub. L. 109–363][/us/pl/109/363], § 302(h)(3)(A), added par. (1) and struck out former par. (1). Text read as follows: “The term ‘Account’ means the Neotropical Migratory Bird Conservation Account established by [section 6108(a) of this title][/us/usc/t16/s6108/a].”
 
-    Pars. (2) to (5). [Pub. L. 109–363, § 302(c)][/us/pl/109/363/s302/c], added pars. (2) and (4) and redesignated former pars. (2) and (3) as (3) and (5), respectively.
+    Pars. (2) to (5). [Pub. L. 109–363][/us/pl/109/363], § 302(c), added pars. (2) and (4) and redesignated former pars. (2) and (3) as (3) and (5), respectively.
 
 ----------
 
@@ -64,12 +64,12 @@
 
 [/us/usc/t16/s6108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6108%2Fa
 [/us/usc/t16/s6108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6108%2Fa
-[/us/pl/106/247/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F247%2Fs4
+[/us/pl/106/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F247
 [/us/stat/114/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F593
-[/us/pl/109/363/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2Fs302%2Fc
+[/us/pl/109/363/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2FtIII
 [/us/stat/120/2075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2075
-[/us/pl/109/363/s302/h/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2Fs302%2Fh%2F3%2FA
+[/us/pl/109/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363
 [/us/usc/t16/s6108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6108%2Fa
-[/us/pl/109/363/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363%2Fs302%2Fc
+[/us/pl/109/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F363
 
 

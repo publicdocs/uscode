@@ -17,7 +17,7 @@
 
     The Administrator shall make available to all utilities on a fair and nondiscriminatory basis, any capacity in the Federal transmission system which he determines to be in excess of the capacity required to transmit electric power generated or acquired by the United States.
 
-([Pub. L. 93–454, § 6][/us/pl/93/454/s6], Oct. 18, 1974, [88 Stat. 1377][/us/stat/88/1377].)
+([Pub. L. 93–454][/us/pl/93/454], § 6, Oct. 18, 1974, [88 Stat. 1377][/us/stat/88/1377].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/93/454/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F454%2Fs6
+[/us/pl/93/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F454
 [/us/stat/88/1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1377
 
 

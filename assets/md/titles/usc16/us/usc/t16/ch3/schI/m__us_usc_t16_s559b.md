@@ -27,7 +27,7 @@
 
         As used in sections 559b to 559f of this title, the terms “manufacture”, “dispense”, and “distribute” shall have the same meaning given such terms in [section 802 of title 21][/us/usc/t21/s802].
 
-([Pub. L. 99–570, title XV, § 15002][/us/pl/99/570/s15002], Oct. 27, 1986, [100 Stat. 3207–191][/us/stat/100/3207-191].)
+([Pub. L. 99–570, title XV][/us/pl/99/570/tXV], § 15002, Oct. 27, 1986, [100 Stat. 3207–191][/us/stat/100/3207-191].)
 
  __References in Text__ 
 
@@ -35,13 +35,13 @@
 
  __Short Title__ 
 
-[Pub. L. 99–570, title XV, § 15001][/us/pl/99/570/s15001], Oct. 27, 1986, [100 Stat. 3207–191][/us/stat/100/3207-191], provided that: 
+[Pub. L. 99–570, title XV][/us/pl/99/570/tXV], § 15001, Oct. 27, 1986, [100 Stat. 3207–191][/us/stat/100/3207-191], provided that: 
 
 > “This title \[enacting this section and sections 559c to 559f of this title and amending [section 841 of Title 21][/us/usc/t21/s841], Food and Drugs\] may be cited as the ‘National Forest System Drug Control Act of 1986’.”
 
  __National Forest System, National Park System, and Bureau of Land Management Public Lands Safety; Findings__ 
 
-[Pub. L. 100–690, title VI, § 6254(a)][/us/pl/100/690/s6254/a], Nov. 18, 1988, [102 Stat. 4363][/us/stat/102/4363], provided that: 
+[Pub. L. 100–690, title VI][/us/pl/100/690/tVI], § 6254(a), Nov. 18, 1988, [102 Stat. 4363][/us/stat/102/4363], provided that: 
 
 > “Congress finds that—
 
@@ -81,15 +81,15 @@
 ----------
 
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/99/570/s15002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs15002
+[/us/pl/99/570/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtXV
 [/us/stat/100/3207-191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-191
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/stat/100/3207-191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-191
 [/us/usc/t21/s841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841
-[/us/pl/99/570/s15001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs15001
+[/us/pl/99/570/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtXV
 [/us/stat/100/3207-191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-191
 [/us/usc/t21/s841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs841
-[/us/pl/100/690/s6254/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs6254%2Fa
+[/us/pl/100/690/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVI
 [/us/stat/102/4363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4363
 
 

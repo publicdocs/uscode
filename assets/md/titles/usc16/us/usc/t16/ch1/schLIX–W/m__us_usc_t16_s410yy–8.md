@@ -117,7 +117,7 @@
 
         The Commission may, for the purpose of carrying out this subchapter, hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence, as the Commission considers appropriate. The Commission may not issue subpoenas or exercise any subpoena authority.
 
-([Pub. L. 102–543, § 9][/us/pl/102/543/s9], Oct. 27, 1992, [106 Stat. 3572][/us/stat/106/3572]; [Pub. L. 106–134, § 1][/us/pl/106/134/s1], Dec. 7, 1999, [113 Stat. 1684][/us/stat/113/1684].)
+([Pub. L. 102–543][/us/pl/102/543], § 9, Oct. 27, 1992, [106 Stat. 3572][/us/stat/106/3572]; [Pub. L. 106–134][/us/pl/106/134], § 1, Dec. 7, 1999, [113 Stat. 1684][/us/stat/113/1684].)
 
  __Amendments__ 
 
@@ -139,9 +139,9 @@
 [/us/usc/t26/s170/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs170%2Fc
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
-[/us/pl/102/543/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F543%2Fs9
+[/us/pl/102/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F543
 [/us/stat/106/3572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3572
-[/us/pl/106/134/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F134%2Fs1
+[/us/pl/106/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F134
 [/us/stat/113/1684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1684
 [/us/pl/106/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F134
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463

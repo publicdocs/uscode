@@ -17,7 +17,7 @@
 
     The provisions of the Act of August 9, 1916, entitled “An Act to establish the Lassen Volcanic National Park in the Sierra Nevada Mountains in the State of California, and for other purposes,” the Act of August 25, 1916, entitled “An Act to establish a National Park Service, and for other purposes,”  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and all Acts supplementary to and amendatory of said Acts are made applicable to and extended over the lands added to the park: Provided, That the provisions of the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\] shall not apply to or extend over such lands.
 
-([Apr. 26, 1928, ch. 439, § 2][/us/act/1928-04-26/ch439/s2], [45 Stat. 466][/us/stat/45/466].)
+([Apr. 26, 1928, ch. 439][/us/act/1928-04-26/ch439], § 2, [45 Stat. 466][/us/stat/45/466].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
-[/us/act/1928-04-26/ch439/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-04-26%2Fch439%2Fs2
+[/us/act/1928-04-26/ch439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-04-26%2Fch439
 [/us/stat/45/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F466
 [/us/act/1916-08-09/ch302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-09%2Fch302
 [/us/stat/39/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F442

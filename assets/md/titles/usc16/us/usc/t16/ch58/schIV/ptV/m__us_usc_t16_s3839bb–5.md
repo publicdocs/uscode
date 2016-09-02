@@ -71,11 +71,11 @@
 
             There is authorized to be appropriated to carry out this section $10,000,000 for fiscal year 2013.
 
-([Pub. L. 99–198, title XII, § 1240R][/us/pl/99/198/s1240R], as added [Pub. L. 110–234, title II, § 2606][/us/pl/110/234/s2606], May 22, 2008, [122 Stat. 1070][/us/stat/122/1070], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2606, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1798; amended [Pub. L. 112–240, title VII, § 701(c)(2)][/us/pl/112/240/s701/c/2], Jan. 2, 2013, [126 Stat. 2363][/us/stat/126/2363]; [Pub. L. 113–79, title II, § 2503(a)][/us/pl/113/79/s2503/a], Feb. 7, 2014, [128 Stat. 751][/us/stat/128/751].)
+([Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1240R, as added [Pub. L. 110–234, title II][/us/pl/110/234/tII], § 2606, May 22, 2008, [122 Stat. 1070][/us/stat/122/1070], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title II, § 2606, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1798; amended [Pub. L. 112–240, title VII][/us/pl/112/240/tVII], § 701(c)(2), Jan. 2, 2013, [126 Stat. 2363][/us/stat/126/2363]; [Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2503(a), Feb. 7, 2014, [128 Stat. 751][/us/stat/128/751].)
 
  __References in Text__ 
 
-    [Section 3834(f)(4) of this title][/us/usc/t16/s3834/f/4], referred to in subsec. (c)(3), was redesignated as [section 3834(g)(2) of this title][/us/usc/t16/s3834/g/2] by [Pub. L. 113–79, title II][/us/pl/113/79], §§ 2005(b)(2), (e)(3), Feb. 7, 2014, [128 Stat. 718][/us/stat/128/718], 719.
+    [Section 3834(f)(4) of this title][/us/usc/t16/s3834/f/4], referred to in subsec. (c)(3), was redesignated as [section 3834(g)(2) of this title][/us/usc/t16/s3834/g/2] by [Pub. L. 113–79, title II][/us/pl/113/79/tII], §§ 2005(b)(2), (e)(3), Feb. 7, 2014, [128 Stat. 718][/us/stat/128/718], 719.
 
  __Codification__ 
 
@@ -102,18 +102,18 @@
 ----------
 ----------
 
-[/us/pl/99/198/s1240R]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1240R
-[/us/pl/110/234/s2606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2606
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/110/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtII
 [/us/stat/122/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1070
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/112/240/s701/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fc%2F2
+[/us/pl/112/240/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtVII
 [/us/stat/126/2363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2363
-[/us/pl/113/79/s2503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2503%2Fa
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F751
 [/us/usc/t16/s3834/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3834%2Ff%2F4
 [/us/usc/t16/s3834/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3834%2Fg%2F2
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F718
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

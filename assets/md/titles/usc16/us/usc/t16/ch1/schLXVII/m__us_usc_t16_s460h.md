@@ -17,7 +17,7 @@
 
     The costs of any surveys or the relocation of boundary markers necessary as an incident of a conveyance or other property transfer under this subchapter shall be borne by the grantee.
 
-([Aug. 6, 1956, ch. 987, § 4][/us/act/1956-08-06/ch987/s4], [70 Stat. 1066][/us/stat/70/1066].)
+([Aug. 6, 1956, ch. 987][/us/act/1956-08-06/ch987], § 4, [70 Stat. 1066][/us/stat/70/1066].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1956-08-06/ch987/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch987%2Fs4
+[/us/act/1956-08-06/ch987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch987
 [/us/stat/70/1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1066
 
 

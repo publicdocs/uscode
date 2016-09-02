@@ -31,7 +31,7 @@
 
     (7) nonprofit conservation organizations.
 
-([Pub. L. 108–148, title V, § 507][/us/pl/108/148/s507], Dec. 3, 2003, [117 Stat. 1914][/us/stat/117/1914].)
+([Pub. L. 108–148, title V][/us/pl/108/148/tV], § 507, Dec. 3, 2003, [117 Stat. 1914][/us/stat/117/1914].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/108/148/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2Fs507
+[/us/pl/108/148/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2FtV
 [/us/stat/117/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1914
 
 

@@ -61,7 +61,7 @@
 
         The Tennessee Valley Authority shall not be subject to the least-cost planning requirements contained in [section 2621(d) of this title][/us/usc/t16/s2621/d] or any similar requirement which might arise out of the Tennessee Valley Authority’s electric power transactions with the Southeastern Power Administration.
 
-([Pub. L. 102–486, title I, § 113][/us/pl/102/486/s113], Oct. 24, 1992, [106 Stat. 2798][/us/stat/106/2798].)
+([Pub. L. 102–486, title I][/us/pl/102/486/tI], § 113, Oct. 24, 1992, [106 Stat. 2798][/us/stat/106/2798].)
 
  __Codification__ 
 
@@ -75,7 +75,7 @@
 ----------
 
 [/us/usc/t16/s2621/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2621%2Fd
-[/us/pl/102/486/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs113
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2798
 
 

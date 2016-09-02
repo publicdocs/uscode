@@ -25,7 +25,7 @@
 
     The Corporation shall, not later than January 1, 1945, submit to the Congress a report on the operation of the provisions of this section, including a statement of the distribution to the various States and counties hereunder; the effect of the operation of the provisions of this section on State and local finances; an appraisal of the benefits of the program of the Corporation to the States and counties receiving payments hereunder, and the effect of such benefits in increasing taxable values within such States and counties; and such other data, information, and recommendations as may be pertinent to future legislation.
 
-([May 18, 1933, ch. 32, § 13][/us/act/1933-05-18/ch32/s13], [48 Stat. 66][/us/stat/48/66]; [June 26, 1940, ch. 432, § 39][/us/act/1940-06-26/ch432/s39], [54 Stat. 626][/us/stat/54/626]; [Pub. L. 108–447, div. C, title VI, § 603(a)(2)][/us/pl/108/447/s603/a/2], Dec. 8, 2004, [118 Stat. 2966][/us/stat/118/2966].)
+([May 18, 1933, ch. 32][/us/act/1933-05-18/ch32], § 13, [48 Stat. 66][/us/stat/48/66]; [June 26, 1940, ch. 432][/us/act/1940-06-26/ch432], § 39, [54 Stat. 626][/us/stat/54/626]; [Pub. L. 108–447, div. C, title VI][/us/pl/108/447/dC/tVI], § 603(a)(2), Dec. 8, 2004, [118 Stat. 2966][/us/stat/118/2966].)
 
  __Amendments__ 
 
@@ -44,11 +44,11 @@
 ----------
 ----------
 
-[/us/act/1933-05-18/ch32/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32%2Fs13
+[/us/act/1933-05-18/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32
 [/us/stat/48/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F66
-[/us/act/1940-06-26/ch432/s39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-26%2Fch432%2Fs39
+[/us/act/1940-06-26/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-26%2Fch432
 [/us/stat/54/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F626
-[/us/pl/108/447/s603/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs603%2Fa%2F2
+[/us/pl/108/447/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdC%2FtVI
 [/us/stat/118/2966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2966
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447

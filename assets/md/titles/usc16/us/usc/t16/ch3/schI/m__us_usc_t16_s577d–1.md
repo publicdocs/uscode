@@ -103,7 +103,7 @@
 
     Township 67 north, range 4 west, fourth principal meridian: Entire township.
 
-([June 22, 1956, ch. 425, § 1][/us/act/1956-06-22/ch425/s1], [70 Stat. 326][/us/stat/70/326].)
+([June 22, 1956, ch. 425][/us/act/1956-06-22/ch425], § 1, [70 Stat. 326][/us/stat/70/326].)
 
  __Short Title__ 
 
@@ -116,7 +116,7 @@
 ----------
 ----------
 
-[/us/act/1956-06-22/ch425/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-22%2Fch425%2Fs1
+[/us/act/1956-06-22/ch425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-22%2Fch425
 [/us/stat/70/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F326
 [/us/act/1956-06-22/ch425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-22%2Fch425
 [/us/stat/70/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F326

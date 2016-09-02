@@ -27,11 +27,11 @@
 
     The Secretary shall conduct a feasibility study of establishing United States Highway 12 as the “Indiana Dunes Parkway” under the jurisdiction of the National Park Service. The Secretary shall submit the results of such study to the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate within two years after October 29, 1986. Effective October 1, 1986, there is authorized to be appropriated such sums as may be necessary for the purposes of conducting the feasibility study.
 
-([Pub. L. 89–761, § 9][/us/pl/89/761/s9], formerly § 10, Nov. 5, 1966, [80 Stat. 1312][/us/stat/80/1312]; [Pub. L. 93–477, title I, § 101(6)][/us/pl/93/477/s101/6], Oct. 26, 1974, [88 Stat. 1445][/us/stat/88/1445]; renumbered § 9 and amended [Pub. L. 94–549, § 1(7)][/us/pl/94/549/s1/7], (9), Oct. 18, 1976, [90 Stat. 2530][/us/stat/90/2530], 2533; [Pub. L. 95–625, title I, § 101(16)][/us/pl/95/625/s101/16], Nov. 10, 1978, [92 Stat. 3472][/us/stat/92/3472]; [Pub. L. 96–612, § 1(10)][/us/pl/96/612/s1/10], Dec. 28, 1980, [94 Stat. 3576][/us/stat/94/3576]; [Pub. L. 99–583, § 1(d)][/us/pl/99/583/s1/d], Oct. 29, 1986, [100 Stat. 3319][/us/stat/100/3319]; [Pub. L. 102–430, § 9][/us/pl/102/430/s9], Oct. 23, 1992, [106 Stat. 2210][/us/stat/106/2210].)
+([Pub. L. 89–761][/us/pl/89/761], § 9, formerly § 10, Nov. 5, 1966, [80 Stat. 1312][/us/stat/80/1312]; [Pub. L. 93–477, title I][/us/pl/93/477/tI], § 101(6), Oct. 26, 1974, [88 Stat. 1445][/us/stat/88/1445]; renumbered § 9 and amended [Pub. L. 94–549][/us/pl/94/549], § 1(7), (9), Oct. 18, 1976, [90 Stat. 2530][/us/stat/90/2530], 2533; [Pub. L. 95–625, title I][/us/pl/95/625/tI], § 101(16), Nov. 10, 1978, [92 Stat. 3472][/us/stat/92/3472]; [Pub. L. 96–612][/us/pl/96/612], § 1(10), Dec. 28, 1980, [94 Stat. 3576][/us/stat/94/3576]; [Pub. L. 99–583][/us/pl/99/583], § 1(d), Oct. 29, 1986, [100 Stat. 3319][/us/stat/100/3319]; [Pub. L. 102–430][/us/pl/102/430], § 9, Oct. 23, 1992, [106 Stat. 2210][/us/stat/106/2210].)
 
  __Codification__ 
 
-    Amendment by [section 101(16) of Pub. L. 95–625][/us/pl/95/625/s101/16] was, in the original, to [section 10 of Pub. L. 89–761][/us/pl/89/761/s10] but has been executed to [section 9 of Pub. L. 89–761][/us/pl/89/761/s9], as the probable intent of Congress, in view of the prior re­designation of former [section 10 of Pub. L. 89–761][/us/pl/89/761/s10] as section 9 by [Pub. L. 94–549, § 9][/us/pl/94/549/s9], Oct. 18, 1976, [90 Stat. 2533][/us/stat/90/2533].
+    Amendment by [section 101(16) of Pub. L. 95–625][/us/pl/95/625/s101/16] was, in the original, to [section 10 of Pub. L. 89–761][/us/pl/89/761/s10] but has been executed to [section 9 of Pub. L. 89–761][/us/pl/89/761/s9], as the probable intent of Congress, in view of the prior re­designation of former [section 10 of Pub. L. 89–761][/us/pl/89/761/s10] as section 9 by [Pub. L. 94–549][/us/pl/94/549], § 9, Oct. 18, 1976, [90 Stat. 2533][/us/stat/90/2533].
 
  __Prior Provisions__ 
 
@@ -47,7 +47,7 @@
 
     1978—[Pub. L. 95–625][/us/pl/95/625] increased development appropriations authorization to $9,440,000 from $8,500,000.
 
-    1976—[Pub. L. 94–549, § 1(7)][/us/pl/94/549/s1/7], substituted provision authorizing the Secretary to expend not more than $60,812,100 from the Land and Water Conservation Fund for the acquisition of lands and interest in lands and not more than $8,500,000 for development and requiring the Secretary to develop and submit a general management plan to the Committees on the Interior and Insular Affairs by Oct. 1, 1979 for provision which authorized not more than $35,526,000 for acquisition in land and interest in land.
+    1976—[Pub. L. 94–549][/us/pl/94/549], § 1(7), substituted provision authorizing the Secretary to expend not more than $60,812,100 from the Land and Water Conservation Fund for the acquisition of lands and interest in lands and not more than $8,500,000 for development and requiring the Secretary to develop and submit a general management plan to the Committees on the Interior and Insular Affairs by Oct. 1, 1979 for provision which authorized not more than $35,526,000 for acquisition in land and interest in land.
 
     1974—[Pub. L. 93–477][/us/pl/93/477] substituted “$35,526,000” for “$27,900,000”.
 
@@ -65,25 +65,25 @@
 ----------
 
 [/us/usc/t16/s460u–20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460u%E2%80%9320
-[/us/pl/89/761/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761%2Fs9
+[/us/pl/89/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761
 [/us/stat/80/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1312
-[/us/pl/93/477/s101/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F477%2Fs101%2F6
+[/us/pl/93/477/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F477%2FtI
 [/us/stat/88/1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1445
-[/us/pl/94/549/s1/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549%2Fs1%2F7
+[/us/pl/94/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549
 [/us/stat/90/2530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2530
-[/us/pl/95/625/s101/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs101%2F16
+[/us/pl/95/625/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtI
 [/us/stat/92/3472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3472
-[/us/pl/96/612/s1/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F612%2Fs1%2F10
+[/us/pl/96/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F612
 [/us/stat/94/3576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3576
-[/us/pl/99/583/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F583%2Fs1%2Fd
+[/us/pl/99/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F583
 [/us/stat/100/3319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3319
-[/us/pl/102/430/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F430%2Fs9
+[/us/pl/102/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F430
 [/us/stat/106/2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2210
 [/us/pl/95/625/s101/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs101%2F16
 [/us/pl/89/761/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761%2Fs10
 [/us/pl/89/761/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761%2Fs9
 [/us/pl/89/761/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761%2Fs10
-[/us/pl/94/549/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549%2Fs9
+[/us/pl/94/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549
 [/us/stat/90/2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2533
 [/us/pl/89/761/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761%2Fs9
 [/us/usc/t16/s460u–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460u%E2%80%938
@@ -91,7 +91,7 @@
 [/us/pl/99/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F583
 [/us/pl/96/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F612
 [/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
-[/us/pl/94/549/s1/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549%2Fs1%2F7
+[/us/pl/94/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549
 [/us/pl/93/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F477
 
 

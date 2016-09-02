@@ -37,13 +37,13 @@
 
         All provisions of law relating to the seizure, forfeiture, and condemnation of a vessel for violation of the customs laws, the disposition of such vessel or the proceeds from the sale thereof, and the remission or mitigation of such forfeitures, shall apply to the seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this section, insofar as such provisions of law are applicable and not inconsistent with the provisions of this section; except that all powers, rights, and duties conferred or imposed by the customs laws upon any officer or employee of the Department of the Treasury shall, for the purposes of this section, be exercised or performed by the Secretary of the Interior or the Secretary of Agriculture, as the case may be, or by such persons as he may designate.
 
-([Pub. L. 86–797, title II, § 204][/us/pl/86/797/s204], as added [Pub. L. 93–452, § 2][/us/pl/93/452/s2], Oct. 18, 1974, [88 Stat. 1372][/us/stat/88/1372]; amended [Pub. L. 112–81, div. A, title III, § 312(b)(10)][/us/pl/112/81/s312/b/10], (c), Dec. 31, 2011, [125 Stat. 1354][/us/stat/125/1354], 1355.)
+([Pub. L. 86–797, title II][/us/pl/86/797/tII], § 204, as added [Pub. L. 93–452][/us/pl/93/452], § 2, Oct. 18, 1974, [88 Stat. 1372][/us/stat/88/1372]; amended [Pub. L. 112–81, div. A, title III][/us/pl/112/81/dA/tIII], § 312(b)(10), (c), Dec. 31, 2011, [125 Stat. 1354][/us/stat/125/1354], 1355.)
 
  __Amendments__ 
 
-    2011—[Pub. L. 112–81, § 312(b)(10)][/us/pl/112/81/s312/b/10], inserted section catchline and headings for subsecs. (a) to (d).
+    2011—[Pub. L. 112–81][/us/pl/112/81], § 312(b)(10), inserted section catchline and headings for subsecs. (a) to (d).
 
-    Subsec. (b)(2), (3). [Pub. L. 112–81, § 312(c)][/us/pl/112/81/s312/c], substituted “magistrate judge” for “magistrate”.
+    Subsec. (b)(2), (3). [Pub. L. 112–81][/us/pl/112/81], § 312(c), substituted “magistrate judge” for “magistrate”.
 
 ----------
 
@@ -54,12 +54,12 @@
 
 [/us/usc/t16/s670h/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs670h%2Fc%2F5
 [/us/usc/t18/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3401
-[/us/pl/86/797/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F797%2Fs204
-[/us/pl/93/452/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F452%2Fs2
+[/us/pl/86/797/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F797%2FtII
+[/us/pl/93/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F452
 [/us/stat/88/1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1372
-[/us/pl/112/81/s312/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs312%2Fb%2F10
+[/us/pl/112/81/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIII
 [/us/stat/125/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1354
-[/us/pl/112/81/s312/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs312%2Fb%2F10
-[/us/pl/112/81/s312/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs312%2Fc
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 
 

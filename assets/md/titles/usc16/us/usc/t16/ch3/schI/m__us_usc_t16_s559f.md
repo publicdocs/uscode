@@ -17,7 +17,7 @@
 
     The authorities conferred herein shall be exercised pursuant to an agreement approved by the Secretary of Agriculture and the Attorney General.
 
-([Pub. L. 99–570, title XV, § 15007][/us/pl/99/570/s15007], Oct. 27, 1986, [100 Stat. 3207–192][/us/stat/100/3207-192].)
+([Pub. L. 99–570, title XV][/us/pl/99/570/tXV], § 15007, Oct. 27, 1986, [100 Stat. 3207–192][/us/stat/100/3207-192].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/99/570/s15007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs15007
+[/us/pl/99/570/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtXV
 [/us/stat/100/3207-192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-192
 [/us/pl/99/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570
 [/us/stat/100/3207-191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-191

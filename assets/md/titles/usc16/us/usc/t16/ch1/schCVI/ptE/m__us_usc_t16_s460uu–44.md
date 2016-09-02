@@ -49,7 +49,7 @@
 
         It is the sense of the Congress that all exchanges pursuant to this section shall be completed no later than three years after December 31, 1987.
 
-([Pub. L. 100–225, title V, § 504][/us/pl/100/225/s504], Dec. 31, 1987, [101 Stat. 1545][/us/stat/101/1545].)
+([Pub. L. 100–225, title V][/us/pl/100/225/tV], § 504, Dec. 31, 1987, [101 Stat. 1545][/us/stat/101/1545].)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 ----------
 
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
-[/us/pl/100/225/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F225%2Fs504
+[/us/pl/100/225/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F225%2FtV
 [/us/stat/101/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1545
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
 [/us/stat/90/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2743

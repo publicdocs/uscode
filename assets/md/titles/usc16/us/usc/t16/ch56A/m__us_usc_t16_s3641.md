@@ -25,7 +25,7 @@
 
     (d) such amounts as may be due to settle accounts upon termination of the International Pacific Salmon Fisheries Commission.
 
-([Pub. L. 99–5, § 12][/us/pl/99/5/s12], Mar. 15, 1985, [99 Stat. 14][/us/stat/99/14].)
+([Pub. L. 99–5][/us/pl/99/5], § 12, Mar. 15, 1985, [99 Stat. 14][/us/stat/99/14].)
 
 ----------
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t22/s262b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262b
-[/us/pl/99/5/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5%2Fs12
+[/us/pl/99/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F5
 [/us/stat/99/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F14
 
 

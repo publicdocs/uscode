@@ -29,7 +29,7 @@
 
         The term “Indian tribe” has the meaning given the term in [section 450b of title 25][/us/usc/t25/s450b].
 
-([Pub. L. 108–148, § 3][/us/pl/108/148/s3], Dec. 3, 2003, [117 Stat. 1888][/us/stat/117/1888].)
+([Pub. L. 108–148][/us/pl/108/148], § 3, Dec. 3, 2003, [117 Stat. 1888][/us/stat/117/1888].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 [/us/usc/t16/s1609/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1609%2Fa
 [/us/usc/t43/s1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1702
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
-[/us/pl/108/148/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2Fs3
+[/us/pl/108/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148
 [/us/stat/117/1888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1888
 [/us/pl/108/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148
 [/us/stat/117/1887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1887

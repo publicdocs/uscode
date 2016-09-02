@@ -17,7 +17,7 @@
 
     Whenever used in this subchapter, the term “federally owned or administered forest land” shall be construed to mean forest land in which, or in the natural resources of which, the United States has a legal or equitable interest of any character sufficient to entitle the United States to control the management or disposition of the timber or other forest products thereon, except land heretofore or hereafter reserved or withdrawn for purposes which are inconsistent with the exercise of the authority conferred by this subchapter; and shall include trust or restricted Indian land, whether tribal or allotted, except that such land shall not be included without the consent of the Indians concerned.
 
-([Mar. 29, 1944, ch. 146, § 7][/us/act/1944-03-29/ch146/s7], [58 Stat. 134][/us/stat/58/134].)
+([Mar. 29, 1944, ch. 146][/us/act/1944-03-29/ch146], § 7, [58 Stat. 134][/us/stat/58/134].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1944-03-29/ch146/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-03-29%2Fch146%2Fs7
+[/us/act/1944-03-29/ch146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-03-29%2Fch146
 [/us/stat/58/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F134
 
 

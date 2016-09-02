@@ -33,7 +33,7 @@
 
         Each map and legal description filed under subsection (a) shall be filed and made available for public inspection in the Office of the Chief of the Forest Service.
 
-([Pub. L. 109–382, title II, § 222][/us/pl/109/382/s222], Dec. 1, 2006, [120 Stat. 2676][/us/stat/120/2676].)
+([Pub. L. 109–382, title II][/us/pl/109/382/tII], § 222, Dec. 1, 2006, [120 Stat. 2676][/us/stat/120/2676].)
 
  __Change of Name__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t16/s460ttt]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460ttt
-[/us/pl/109/382/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F382%2Fs222
+[/us/pl/109/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F382%2FtII
 [/us/stat/120/2676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2676
 
 

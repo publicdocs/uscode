@@ -17,7 +17,7 @@
 
     It is the declared policy of the Congress to accelerate and provide a continuing basis for the needed reforestation and revegetation of national-forest lands and other lands under administration or control of the Forest Service of the Department of Agriculture in order to obtain the benefits hereinbefore enumerated.
 
-([Oct. 11, 1949, ch. 674, § 1][/us/act/1949-10-11/ch674/s1], [63 Stat. 763][/us/stat/63/763].)
+([Oct. 11, 1949, ch. 674][/us/act/1949-10-11/ch674], § 1, [63 Stat. 763][/us/stat/63/763].)
 
  __References in Text__ 
 
@@ -56,7 +56,7 @@ The preamble to act Oct. 11, 1949, provided that:
 ----------
 ----------
 
-[/us/act/1949-10-11/ch674/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-11%2Fch674%2Fs1
+[/us/act/1949-10-11/ch674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-11%2Fch674
 [/us/stat/63/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F763
 [/us/act/1949-10-11/ch674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-11%2Fch674
 [/us/stat/63/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F762

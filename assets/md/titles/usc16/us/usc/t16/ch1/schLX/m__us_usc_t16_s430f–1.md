@@ -17,7 +17,7 @@
 
     In order that existing roads within Shiloh National Military Park may be devoted primarily to use by park visitors and that traffic hazards and nonconforming uses may be eliminated from the park by providing a more suitable road location and related area for the highways designated State Routes Numbered 22 and 142 which now traverse the central portion of the park, the Secretary of the Interior is authorized to convey certain lands within Shiloh National Military Park on the terms and conditions hereinafter provided.
 
-([Pub. L. 85–406, § 1][/us/pl/85/406/s1], May 16, 1958, [72 Stat. 114][/us/stat/72/114].)
+([Pub. L. 85–406][/us/pl/85/406], § 1, May 16, 1958, [72 Stat. 114][/us/stat/72/114].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/85/406/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F406%2Fs1
+[/us/pl/85/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F406
 [/us/stat/72/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F114
 
 

@@ -75,7 +75,7 @@
 
         The Secretary may, upon request in writing by any owner or occupier of lands in the lakeshore, provide services, such as road maintenance, subject to reimbursement.
 
-([Pub. L. 91–479, § 12][/us/pl/91/479/s12], Oct. 21, 1970, [84 Stat. 1080][/us/stat/84/1080]; [Pub. L. 97–361, § 3][/us/pl/97/361/s3], Oct. 22, 1982, [96 Stat. 1722][/us/stat/96/1722]; [Pub. L. 103–437, § 6(d)(17)][/us/pl/103/437/s6/d/17], Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
+([Pub. L. 91–479][/us/pl/91/479], § 12, Oct. 21, 1970, [84 Stat. 1080][/us/stat/84/1080]; [Pub. L. 97–361][/us/pl/97/361], § 3, Oct. 22, 1982, [96 Stat. 1722][/us/stat/96/1722]; [Pub. L. 103–437][/us/pl/103/437], § 6(d)(17), Nov. 2, 1994, [108 Stat. 4584][/us/stat/108/4584].)
 
  __References in Text__ 
 
@@ -96,11 +96,11 @@
 
 [/us/usc/t16/s460x–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460x%E2%80%931%2Fa
 [/us/usc/t16/s460x–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460x%E2%80%931%2Fa
-[/us/pl/91/479/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F479%2Fs12
+[/us/pl/91/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F479
 [/us/stat/84/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1080
-[/us/pl/97/361/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F361%2Fs3
+[/us/pl/97/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F361
 [/us/stat/96/1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1722
-[/us/pl/103/437/s6/d/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fd%2F17
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4584
 [/us/pl/91/479/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F479%2Fs17
 [/us/pl/97/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F361

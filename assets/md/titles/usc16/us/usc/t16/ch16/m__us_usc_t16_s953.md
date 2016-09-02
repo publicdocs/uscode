@@ -79,7 +79,7 @@
 
             The Scientific Advisory Subcommittee shall be invited to have representatives attend all nonexecutive meetings of the United States sections and the General Advisory Committee and shall be given full opportunity to examine and to be heard on all proposed programs of scientific investigation, scientific reports, and scientific recommendations of the commission. Representatives of the Scientific Advisory Subcommittee may attend meetings of the Inter-American Tropical Tuna Commission in accordance with the rules of such Commission.
 
-([Sept. 7, 1950, ch. 907, § 4][/us/act/1950-09-07/ch907/s4], [64 Stat. 778][/us/stat/64/778]; [Pub. L. 102–523, § 3(a)(2)][/us/pl/102/523/s3/a/2], Oct. 26, 1992, [106 Stat. 3433][/us/stat/106/3433]; [Pub. L. 105–42, § 7(b)][/us/pl/105/42/s7/b], Aug. 15, 1997, [111 Stat. 1137][/us/stat/111/1137]; [Pub. L. 114–81, title II, § 205][/us/pl/114/81/s205], Nov. 5, 2015, [129 Stat. 661][/us/stat/129/661].)
+([Sept. 7, 1950, ch. 907][/us/act/1950-09-07/ch907], § 4, [64 Stat. 778][/us/stat/64/778]; [Pub. L. 102–523][/us/pl/102/523], § 3(a)(2), Oct. 26, 1992, [106 Stat. 3433][/us/stat/106/3433]; [Pub. L. 105–42][/us/pl/105/42], § 7(b), Aug. 15, 1997, [111 Stat. 1137][/us/stat/111/1137]; [Pub. L. 114–81, title II][/us/pl/114/81/tII], § 205, Nov. 5, 2015, [129 Stat. 661][/us/stat/129/661].)
 
  __References in Text__ 
 
@@ -91,13 +91,13 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a). [Pub. L. 114–81, § 205(1)][/us/pl/114/81/s205/1], added subsec. (a) and struck out former subsec. (a), which related to General Advisory Committee appointment, public participation, and compensation.
+    2015—Subsec. (a). [Pub. L. 114–81][/us/pl/114/81], § 205(1), added subsec. (a) and struck out former subsec. (a), which related to General Advisory Committee appointment, public participation, and compensation.
 
-    Subsec. (b). [Pub. L. 114–81, § 205(2)][/us/pl/114/81/s205/2], substituted “Scientific Advisory Subcommittee” for “Functions” in heading.
+    Subsec. (b). [Pub. L. 114–81][/us/pl/114/81], § 205(2), substituted “Scientific Advisory Subcommittee” for “Functions” in heading.
 
-    Subsec. (b)(1). [Pub. L. 114–81, § 205(2)][/us/pl/114/81/s205/2], added par. (1), and struck out former par. (1) which read as follows: “The General Advisory Committee shall be invited to have representatives attend all nonexecutive meetings of the United States sections and shall be given full opportunity to examine and to be heard on all proposed programs of investigations, reports, recommendations, and regulations of the Commission. The General Advisory Committee may attend all meetings of the international commissions to which they are invited by such commissions.”
+    Subsec. (b)(1). [Pub. L. 114–81][/us/pl/114/81], § 205(2), added par. (1), and struck out former par. (1) which read as follows: “The General Advisory Committee shall be invited to have representatives attend all nonexecutive meetings of the United States sections and shall be given full opportunity to examine and to be heard on all proposed programs of investigations, reports, recommendations, and regulations of the Commission. The General Advisory Committee may attend all meetings of the international commissions to which they are invited by such commissions.”
 
-    Subsec. (b)(3). [Pub. L. 114–81, § 205(3)][/us/pl/114/81/s205/3], substituted “General Advisory Committee” for “General Advisory Subcommittee”.
+    Subsec. (b)(3). [Pub. L. 114–81][/us/pl/114/81], § 205(3), substituted “General Advisory Committee” for “General Advisory Subcommittee”.
 
     1997—[Pub. L. 105–42][/us/pl/105/42] which directed insertion of catchline and general amendment of text of section 4 of the Tuna Conventions Act, was executed to this section, to reflect the probable intent of Congress. Prior to amendment, text read as follows: “The United States Commissioners shall (a) appoint an advisory committee which shall be composed of not less than five nor more than fifteen persons who shall be selected from the various groups participating in the fisheries included under the conventions, and from nongovernmental conservation organizations, and (b) shall fix the terms of office of the members of such committee, who shall receive no compensation for their services as such members. The advisory committee shall be invited to attend all nonexecutive meetings of the United States sections and shall be given full opportunity to examine and to be heard on all proposed programs of investigation, reports, recommendations, and regulations of the commissions. The advisory committee may attend all meetings of the international commissions to which they are invited by such commissions.”
 
@@ -120,23 +120,23 @@
 
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/act/1950-09-07/ch907/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-07%2Fch907%2Fs4
+[/us/act/1950-09-07/ch907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-07%2Fch907
 [/us/stat/64/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F778
-[/us/pl/102/523/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F523%2Fs3%2Fa%2F2
+[/us/pl/102/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F523
 [/us/stat/106/3433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3433
-[/us/pl/105/42/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs7%2Fb
+[/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
 [/us/stat/111/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1137
-[/us/pl/114/81/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs205
+[/us/pl/114/81/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2FtII
 [/us/stat/129/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F661
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/114/81/s205/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs205%2F1
-[/us/pl/114/81/s205/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs205%2F2
-[/us/pl/114/81/s205/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs205%2F2
-[/us/pl/114/81/s205/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs205%2F3
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
 [/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
 [/us/pl/102/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F523
 [/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42

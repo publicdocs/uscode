@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as may be necessary to carry out the provisions of sections 433k and 433l of this title.
 
-([June 29, 1936, ch. 863, § 4][/us/act/1936-06-29/ch863/s4], [49 Stat. 2029][/us/stat/49/2029].)
+([June 29, 1936, ch. 863][/us/act/1936-06-29/ch863], § 4, [49 Stat. 2029][/us/stat/49/2029].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1936-06-29/ch863/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-29%2Fch863%2Fs4
+[/us/act/1936-06-29/ch863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-29%2Fch863
 [/us/stat/49/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F2029
 
 

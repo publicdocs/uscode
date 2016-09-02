@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated not more than $17,000,000 to carry out sections 284c and 284d of this title. No authority under this subchapter to enter into contracts or to make payments shall be effective except to the extent and in such amounts as provided in advance in appropriations Acts.
 
-([Pub. L. 89–671, § 10][/us/pl/89/671/s10], as added [Pub. L. 97–310][/us/pl/97/310], Oct. 14, 1982, [96 Stat. 1458][/us/stat/96/1458].)
+([Pub. L. 89–671][/us/pl/89/671], § 10, as added [Pub. L. 97–310][/us/pl/97/310], Oct. 14, 1982, [96 Stat. 1458][/us/stat/96/1458].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/671/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F671%2Fs10
+[/us/pl/89/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F671
 [/us/pl/97/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F310
 [/us/stat/96/1458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1458
 

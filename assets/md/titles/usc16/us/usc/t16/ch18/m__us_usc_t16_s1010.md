@@ -21,7 +21,7 @@
 
     (2) the expected flood control or environmental (including soil erosion) benefits that will result from the implementation of such measures.
 
-([Aug. 4, 1954, ch. 656, § 13][/us/act/1954-08-04/ch656/s13], as added [Pub. L. 101–624, title XIV, § 1463][/us/pl/101/624/s1463], Nov. 28, 1990, [104 Stat. 3615][/us/stat/104/3615].)
+([Aug. 4, 1954, ch. 656][/us/act/1954-08-04/ch656], § 13, as added [Pub. L. 101–624, title XIV][/us/pl/101/624/tXIV], § 1463, Nov. 28, 1990, [104 Stat. 3615][/us/stat/104/3615].)
 
 ----------
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/act/1954-08-04/ch656/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-04%2Fch656%2Fs13
-[/us/pl/101/624/s1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1463
+[/us/act/1954-08-04/ch656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-04%2Fch656
+[/us/pl/101/624/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIV
 [/us/stat/104/3615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3615
 
 

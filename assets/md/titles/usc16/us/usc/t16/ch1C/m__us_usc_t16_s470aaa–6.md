@@ -67,7 +67,7 @@
 
         (3) To provide for the payment of rewards as provided in [section 470aaa–7 of this title][/us/usc/t16/s470aaa–7].
 
-([Pub. L. 111–11, title VI, § 6307][/us/pl/111/11/s6307], Mar. 30, 2009, [123 Stat. 1175][/us/stat/123/1175].)
+([Pub. L. 111–11, title VI][/us/pl/111/11/tVI], § 6307, Mar. 30, 2009, [123 Stat. 1175][/us/stat/123/1175].)
 
 ----------
 
@@ -78,7 +78,7 @@
 
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
 [/us/usc/t16/s470aaa–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470aaa%E2%80%937
-[/us/pl/111/11/s6307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs6307
+[/us/pl/111/11/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVI
 [/us/stat/123/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1175
 
 

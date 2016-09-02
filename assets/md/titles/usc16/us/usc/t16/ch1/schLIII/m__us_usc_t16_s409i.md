@@ -19,7 +19,7 @@
 
     (b) Any lands or interests acquired under this section shall be included in and administered as part of the Morristown National Historical Park.
 
-([Mar. 2, 1933, ch. 182, § 8][/us/act/1933-03-02/ch182/s8], as added [Pub. L. 105–355, title V, § 508][/us/pl/105/355/s508], Nov. 6, 1998, [112 Stat. 3264][/us/stat/112/3264].)
+([Mar. 2, 1933, ch. 182][/us/act/1933-03-02/ch182], § 8, as added [Pub. L. 105–355, title V][/us/pl/105/355/tV], § 508, Nov. 6, 1998, [112 Stat. 3264][/us/stat/112/3264].)
 
 ----------
 
@@ -29,8 +29,8 @@
 ----------
 
 [/us/usc/t16/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs409
-[/us/act/1933-03-02/ch182/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-02%2Fch182%2Fs8
-[/us/pl/105/355/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F355%2Fs508
+[/us/act/1933-03-02/ch182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-02%2Fch182
+[/us/pl/105/355/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F355%2FtV
 [/us/stat/112/3264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3264
 
 

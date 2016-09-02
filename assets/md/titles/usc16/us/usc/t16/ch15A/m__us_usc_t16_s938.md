@@ -17,7 +17,7 @@
 
     At least thirty days before approving a proposal to utilize a lamprey control measure or install a device in any stream, the United States Section shall cause notice of such proposal to be sent to the official agency having jurisdiction over fisheries in each of the States through which the stream flows.
 
-([June 4, 1956, ch. 358, § 9][/us/act/1956-06-04/ch358/s9], [70 Stat. 243][/us/stat/70/243].)
+([June 4, 1956, ch. 358][/us/act/1956-06-04/ch358], § 9, [70 Stat. 243][/us/stat/70/243].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1956-06-04/ch358/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-04%2Fch358%2Fs9
+[/us/act/1956-06-04/ch358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-04%2Fch358
 [/us/stat/70/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F243
 
 

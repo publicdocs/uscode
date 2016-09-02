@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated $6,000,000 for acquisition of lands and interests in lands for purposes of the Palo Alto Battlefield National Historical Park.
 
-([Pub. L. 102–304, § 8][/us/pl/102/304/s8], June 23, 1992, [106 Stat. 258][/us/stat/106/258]; [Pub. L. 111–11, title VII, § 7113(a)(3)(A)][/us/pl/111/11/s7113/a/3/A], Mar. 30, 2009, [123 Stat. 1201][/us/stat/123/1201].)
+([Pub. L. 102–304][/us/pl/102/304], § 8, June 23, 1992, [106 Stat. 258][/us/stat/106/258]; [Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7113(a)(3)(A), Mar. 30, 2009, [123 Stat. 1201][/us/stat/123/1201].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/102/304/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F304%2Fs8
+[/us/pl/102/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F304
 [/us/stat/106/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F258
-[/us/pl/111/11/s7113/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7113%2Fa%2F3%2FA
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1201
 [/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 

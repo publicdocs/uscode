@@ -67,7 +67,7 @@
 
         There is authorized to be appropriated such sums as may be necessary to carry out this section.
 
-([Pub. L. 111–11, title VII, § 7110][/us/pl/111/11/s7110], Mar. 30, 2009, [123 Stat. 1198][/us/stat/123/1198].)
+([Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7110, Mar. 30, 2009, [123 Stat. 1198][/us/stat/123/1198].)
 
  __References in Text__ 
 
@@ -89,7 +89,7 @@
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
-[/us/pl/111/11/s7110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7110
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1198
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1

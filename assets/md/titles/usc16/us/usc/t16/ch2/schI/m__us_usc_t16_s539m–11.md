@@ -115,7 +115,7 @@
 
             No party shall be reimbursed in excess of $750,000 under this section, and the total amount reimbursed in accordance with this section shall not exceed $3,000,000.
 
-([Pub. L. 108–7, div. F, title IV, § 413][/us/pl/108/7/s413], Feb. 20, 2003, [117 Stat. 292][/us/stat/117/292]; [Pub. L. 111–11, title III, § 3309][/us/pl/111/11/s3309], Mar. 30, 2009, [123 Stat. 1139][/us/stat/123/1139]; [Pub. L. 113–119, § 2][/us/pl/113/119/s2], June 9, 2014, [128 Stat. 1185][/us/stat/128/1185].)
+([Pub. L. 108–7, div. F, title IV][/us/pl/108/7/dF/tIV], § 413, Feb. 20, 2003, [117 Stat. 292][/us/stat/117/292]; [Pub. L. 111–11, title III][/us/pl/111/11/tIII], § 3309, Mar. 30, 2009, [123 Stat. 1139][/us/stat/123/1139]; [Pub. L. 113–119][/us/pl/113/119], § 2, June 9, 2014, [128 Stat. 1185][/us/stat/128/1185].)
 
  __References in Text__ 
 
@@ -127,13 +127,13 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b)(4). [Pub. L. 113–119, § 2(1)][/us/pl/113/119/s2/1], substituted “title to be conveyed” for “conveyance”.
+    2014—Subsec. (b)(4). [Pub. L. 113–119][/us/pl/113/119], § 2(1), substituted “title to be conveyed” for “conveyance”.
 
-    Subsec. (b)(6). [Pub. L. 113–119, § 2(2)][/us/pl/113/119/s2/2], added par. (6).
+    Subsec. (b)(6). [Pub. L. 113–119][/us/pl/113/119], § 2(2), added par. (6).
 
-    2009—Subsec. (b)(1). [Pub. L. 111–11, § 3309(1)][/us/pl/111/11/s3309/1], inserted “3,” after “sections”.
+    2009—Subsec. (b)(1). [Pub. L. 111–11][/us/pl/111/11], § 3309(1), inserted “3,” after “sections”.
 
-    Subsec. (b)(4). [Pub. L. 111–11, § 3309(2)][/us/pl/111/11/s3309/2], inserted “, as a condition of the conveyance,” before “remain” in first sentence.
+    Subsec. (b)(4). [Pub. L. 111–11][/us/pl/111/11], § 3309(2), inserted “, as a condition of the conveyance,” before “remain” in first sentence.
 
  __Change of Name__ 
 
@@ -151,11 +151,11 @@
 [/us/usc/t16/s539m–9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs539m%E2%80%939%2Fc
 [/us/usc/t16/s539m–7/h/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs539m%E2%80%937%2Fh%2F3%2FC
 [/us/usc/t16/s539m–7/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs539m%E2%80%937%2Fb%2F2
-[/us/pl/108/7/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs413
+[/us/pl/108/7/dF/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtIV
 [/us/stat/117/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F292
-[/us/pl/111/11/s3309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs3309
+[/us/pl/111/11/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtIII
 [/us/stat/123/1139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1139
-[/us/pl/113/119/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F119%2Fs2
+[/us/pl/113/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F119
 [/us/stat/128/1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1185
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/stat/117/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F279
@@ -164,9 +164,9 @@
 [/us/pl/96/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481
 [/us/stat/94/2325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2325
 [/us/usc/t5/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs504
-[/us/pl/113/119/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F119%2Fs2%2F1
-[/us/pl/113/119/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F119%2Fs2%2F2
-[/us/pl/111/11/s3309/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs3309%2F1
-[/us/pl/111/11/s3309/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs3309%2F2
+[/us/pl/113/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F119
+[/us/pl/113/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F119
+[/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
+[/us/pl/111/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11
 
 

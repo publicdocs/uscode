@@ -19,7 +19,7 @@
 
     (b) Within the area designated in accordance with this section, the Secretary of the Interior may acquire lands and interests in lands by donation, purchase with donated or appropriated funds, or exchange, except that lands owned by the State of Illinois or any political subdivision thereof may be acquired only by donation.
 
-([May 17, 1954, ch. 204, § 4][/us/act/1954-05-17/ch204/s4], as added [Pub. L. 98–398, title II, § 201(a)][/us/pl/98/398/s201/a], Aug. 24, 1984, [98 Stat. 1467][/us/stat/98/1467]; amended [Pub. L. 102–355, § 1(1)][/us/pl/102/355/s1/1], Aug. 26, 1992, [106 Stat. 947][/us/stat/106/947].)
+([May 17, 1954, ch. 204][/us/act/1954-05-17/ch204], § 4, as added [Pub. L. 98–398, title II][/us/pl/98/398/tII], § 201(a), Aug. 24, 1984, [98 Stat. 1467][/us/stat/98/1467]; amended [Pub. L. 102–355][/us/pl/102/355], § 1(1), Aug. 26, 1992, [106 Stat. 947][/us/stat/106/947].)
 
  __Prior Provisions__ 
 
@@ -31,7 +31,7 @@
 
  __Compliance With Congressional Budget Act__ 
 
-[Pub. L. 98–398, title II, § 202][/us/pl/98/398/s202], Aug. 24, 1984, [98 Stat. 1472][/us/stat/98/1472], provided that: 
+[Pub. L. 98–398, title II][/us/pl/98/398/tII], § 202, Aug. 24, 1984, [98 Stat. 1472][/us/stat/98/1472], provided that: 
 
 > “Any provision of this title (or any amendment made by this title) \[enacting sections 450jj–3 to 450jj–9 of this title and enacting and amending provisions set out as notes under [section 450jj of this title][/us/usc/t16/s450jj]\] which, directly or indirectly, authorizes the enactment of new budget authority described in section 402(a) of the Congressional Budget Act of 1974 \[[2 U.S.C. 652(a)][/us/usc/t2/s652/a]\] shall be effective only for fiscal years beginning after September 30, 1983.”
 
@@ -42,14 +42,14 @@
 ----------
 ----------
 
-[/us/act/1954-05-17/ch204/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-17%2Fch204%2Fs4
-[/us/pl/98/398/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F398%2Fs201%2Fa
+[/us/act/1954-05-17/ch204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-17%2Fch204
+[/us/pl/98/398/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F398%2FtII
 [/us/stat/98/1467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1467
-[/us/pl/102/355/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F355%2Fs1%2F1
+[/us/pl/102/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F355
 [/us/stat/106/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F947
 [/us/usc/t16/s450jj]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450jj
 [/us/pl/102/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F355
-[/us/pl/98/398/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F398%2Fs202
+[/us/pl/98/398/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F398%2FtII
 [/us/stat/98/1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1472
 [/us/usc/t16/s450jj]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450jj
 [/us/usc/t2/s652/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs652%2Fa

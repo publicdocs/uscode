@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t16/ch1/schLXXXV/m__us_usc_t16_s460aa–3.md) | [Next](./../../../../..//us/usc/t16/ch1/schLXXXV/m__us_usc_t16_s460aa–5.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460aa%E2%80%934)
 
-## § 460aa–4. Repealed. [Pub. L. 114–46, title I, § 108(a)][/us/pl/114/46/s108/a], Aug. 7, 2015, [129 Stat. 480][/us/stat/129/480]
+## § 460aa–4. Repealed. [Pub. L. 114–46, title I][/us/pl/114/46/tI], § 108(a), Aug. 7, 2015, [129 Stat. 480][/us/stat/129/480]
 
-    Section, [Pub. L. 92–400, § 5][/us/pl/92/400/s5], Aug. 22, 1972, [86 Stat. 614][/us/stat/86/614], related to administrative determination of suitability for designation as wilderness areas.
+    Section, [Pub. L. 92–400][/us/pl/92/400], § 5, Aug. 22, 1972, [86 Stat. 614][/us/stat/86/614], related to administrative determination of suitability for designation as wilderness areas.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/114/46/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F46%2Fs108%2Fa
+[/us/pl/114/46/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F46%2FtI
 [/us/stat/129/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F480
-[/us/pl/92/400/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F400%2Fs5
+[/us/pl/92/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F400
 [/us/stat/86/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F614
 
 

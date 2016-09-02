@@ -17,7 +17,7 @@
 
     The Secretary of the Army and the Secretary of Agriculture, when authorized to do so by resolutions adopted by the Committee on Environment and Public Works of the Senate or the Committee on Public Works and Transportation of the House of Representatives, are authorized and directed to make joint investigations and surveys in accordance with their existing authorities of watershed areas in the United States, Puerto Rico, and the Virgin Islands, and to prepare joint reports on such investigations and surveys setting forth their recommendations for the installation of the works of improvement needed for flood prevention or the conservation, development, utilization, and disposal of water, and for flood control and allied purposes. Such joint reports shall be submitted to the Congress through the President for adoption and authorization by the Congress of the recommended works of improvement: Provided, That the project authorization procedure established by this chapter shall not be affected.
 
-([Pub. L. 87–639, § 1][/us/pl/87/639/s1], Sept. 5, 1962, [76 Stat. 438][/us/stat/76/438]; [Pub. L. 103–437, § 6(w)][/us/pl/103/437/s6/w], Nov. 2, 1994, [108 Stat. 4587][/us/stat/108/4587].)
+([Pub. L. 87–639][/us/pl/87/639], § 1, Sept. 5, 1962, [76 Stat. 438][/us/stat/76/438]; [Pub. L. 103–437][/us/pl/103/437], § 6(w), Nov. 2, 1994, [108 Stat. 4587][/us/stat/108/4587].)
 
  __Codification__ 
 
@@ -33,7 +33,7 @@
 
  __Authorization of Appropriations__ 
 
-[Pub. L. 87–639, § 2][/us/pl/87/639/s2], Sept. 5, 1962, [76 Stat. 438][/us/stat/76/438], provided that: 
+[Pub. L. 87–639][/us/pl/87/639], § 2, Sept. 5, 1962, [76 Stat. 438][/us/stat/76/438], provided that: 
 
 > “There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this Act \[this section\], such sums to remain available until expended.”
 
@@ -44,14 +44,14 @@
 ----------
 ----------
 
-[/us/pl/87/639/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F639%2Fs1
+[/us/pl/87/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F639
 [/us/stat/76/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F438
-[/us/pl/103/437/s6/w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fw
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4587
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
-[/us/pl/87/639/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F639%2Fs2
+[/us/pl/87/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F639
 [/us/stat/76/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F438
 
 

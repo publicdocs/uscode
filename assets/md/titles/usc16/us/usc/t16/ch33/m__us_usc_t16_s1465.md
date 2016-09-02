@@ -59,7 +59,7 @@
 
             Not later than 15 days after the date of publication of a Federal Register notice explaining why a decision cannot be issued within the 60-day period, the Secretary shall issue a decision.
 
-([Pub. L. 89–454, title III, § 319][/us/pl/89/454/s319], as added [Pub. L. 104–150, § 8][/us/pl/104/150/s8], June 3, 1996, [110 Stat. 1382][/us/stat/110/1382]; amended [Pub. L. 109–58, title III, § 381][/us/pl/109/58/s381], Aug. 8, 2005, [119 Stat. 737][/us/stat/119/737].)
+([Pub. L. 89–454, title III][/us/pl/89/454/tIII], § 319, as added [Pub. L. 104–150][/us/pl/104/150], § 8, June 3, 1996, [110 Stat. 1382][/us/stat/110/1382]; amended [Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 381, Aug. 8, 2005, [119 Stat. 737][/us/stat/119/737].)
 
  __References in Text__ 
 
@@ -77,10 +77,10 @@
 ----------
 
 [/us/usc/t16/s1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1456
-[/us/pl/89/454/s319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2Fs319
-[/us/pl/104/150/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F150%2Fs8
+[/us/pl/89/454/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2FtIII
+[/us/pl/104/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F150
 [/us/stat/110/1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1382
-[/us/pl/109/58/s381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs381
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F737
 [/us/pl/89/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58

@@ -169,7 +169,7 @@
 
             A lessee or permittee that donates a grazing lease or grazing permit (or a portion of a grazing lease or grazing permit) under this section shall be considered to have waived any claim to any range improvement on the associated grazing allotment or portion of the associated grazing allotment, as applicable.
 
-([Pub. L. 113–291, div. B, title XXX, § 3041][/us/pl/113/291/s3041], Dec. 19, 2014, [128 Stat. 3789][/us/stat/128/3789].)
+([Pub. L. 113–291, div. B, title XXX][/us/pl/113/291/dB/tXXX], § 3041, Dec. 19, 2014, [128 Stat. 3789][/us/stat/128/3789].)
 
  __References in Text__ 
 
@@ -191,7 +191,7 @@
 [/us/stat/36/2497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F2497
 [/us/stat/36/2497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F2497
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
-[/us/pl/113/291/s3041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3041
+[/us/pl/113/291/dB/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXX
 [/us/stat/128/3789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3789
 [/us/usc/t54/s320301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320301
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1

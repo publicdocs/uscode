@@ -119,7 +119,7 @@
 
             Twenty-four months after the initial one hundred and eighty day period set forth in paragraph (1), and at the end of each twenty-four-month period thereafter, the Secretary, the Director, and the Administrator shall, report to the Congress on the status of the conservation plan and provide an evaluation of the effectiveness of the plan in meeting the goal of this section.
 
-([Pub. L. 101–646, title III, § 304][/us/pl/101/646/s304], Nov. 29, 1990, [104 Stat. 4783][/us/stat/104/4783].)
+([Pub. L. 101–646, title III][/us/pl/101/646/tIII], § 304, Nov. 29, 1990, [104 Stat. 4783][/us/stat/104/4783].)
 
 ----------
 
@@ -131,7 +131,7 @@
 [/us/usc/t16/s3955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3955
 [/us/usc/t16/s3952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3952
 [/us/usc/t16/s3952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3952
-[/us/pl/101/646/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs304
+[/us/pl/101/646/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2FtIII
 [/us/stat/104/4783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4783
 
 

@@ -17,7 +17,7 @@
 
     Upon a determination by the Secretary of the Interior that sufficient land has been acquired by the United States for the memorial, such property shall be established as the “De Soto National Memorial”, and shall be administered by the Secretary of the Interior, through the National Park Service, for the benefit of the people of the United States. An order of the Secretary of the Interior, constituting notice of such establishment, shall be published in the Federal Register. Insofar as applicable and not in conflict with this section and [section 450dd of this title][/us/usc/t16/s450dd], the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]), providing for the establishment of a National Park Service, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended and supplemented, shall govern the promotion and development of the national memorial.
 
-([Mar. 11, 1948, ch. 109, § 2][/us/act/1948-03-11/ch109/s2], [62 Stat. 78][/us/stat/62/78].)
+([Mar. 11, 1948, ch. 109][/us/act/1948-03-11/ch109], § 2, [62 Stat. 78][/us/stat/62/78].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t16/s450dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450dd
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
-[/us/act/1948-03-11/ch109/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-03-11%2Fch109%2Fs2
+[/us/act/1948-03-11/ch109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-03-11%2Fch109
 [/us/stat/62/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F78
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408

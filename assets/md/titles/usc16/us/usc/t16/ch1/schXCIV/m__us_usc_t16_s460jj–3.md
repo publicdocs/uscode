@@ -17,7 +17,7 @@
 
     The Secretary shall cooperate with other Federal agencies, with State and local public agencies, and with private individuals and organizations in the issuance of permits for facilities and services in the Arapaho National Recreation Area and the development and operation of those facilities and services.
 
-([Pub. L. 95–450, § 7][/us/pl/95/450/s7], Oct. 11, 1978, [92 Stat. 1097][/us/stat/92/1097].)
+([Pub. L. 95–450][/us/pl/95/450], § 7, Oct. 11, 1978, [92 Stat. 1097][/us/stat/92/1097].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/450/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F450%2Fs7
+[/us/pl/95/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F450
 [/us/stat/92/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1097
 
 

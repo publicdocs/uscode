@@ -17,7 +17,7 @@
 
     Members of the Advisory Board, other than members appointed under paragraphs (3) and (4) of subsection (a) of [section 1055 of this title][/us/usc/t16/s1055], shall serve without compensation, but shall be reimbursed for travel, subsistence, and other necessary expenses incurred by them in the performance of the duties vested in the Board. Members of the Board appointed under paragraphs (3) and (4) of subsection (a) of [section 1055 of this title][/us/usc/t16/s1055] may each receive $50 per diem when engaged in the actual performance of duties vested in the Board, in addition to reimbursement for travel, subsistence, and other necessary expenses incurred by them in the performance of such duties.
 
-([Pub. L. 87–758, § 6][/us/pl/87/758/s6], Oct. 9, 1962, [76 Stat. 754][/us/stat/76/754].)
+([Pub. L. 87–758][/us/pl/87/758], § 6, Oct. 9, 1962, [76 Stat. 754][/us/stat/76/754].)
 
  __Termination of Advisory Boards__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t16/s1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1055
 [/us/usc/t16/s1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1055
-[/us/pl/87/758/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F758%2Fs6
+[/us/pl/87/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F758
 [/us/stat/76/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F754
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

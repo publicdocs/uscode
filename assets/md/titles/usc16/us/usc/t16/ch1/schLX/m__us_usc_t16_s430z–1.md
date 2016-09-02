@@ -17,11 +17,11 @@
 
     In the discharge of his duties hereunder, the Secretary of the Interior, through the National Park Service, is authorized to employ, in his discretion, by contract or otherwise, landscape architects, architects, artists, engineers, and/or other expert consultants in accordance with the usual customs of the several professions and that expenditures for such employment shall be construed to be included in any appropriations hereafter authorized for any work under the objectives of sections 430y to 430z–3 of this title.
 
-([Aug. 20, 1935, ch. 575, § 3][/us/act/1935-08-20/ch575/s3], [49 Stat. 662][/us/stat/49/662].)
+([Aug. 20, 1935, ch. 575][/us/act/1935-08-20/ch575], § 3, [49 Stat. 662][/us/stat/49/662].)
 
  __Codification__ 
 
-    Provisions which authorized employment of landscape architects, architects, artists, engineers, and/or other expert consultants in accordance with the usual customs of the several professions “without reference to civil-service requirements or to the Classification Act of 1923, as amended” were omitted as obsolete. Such employment is subject to the civil service laws unless specifically excepted by those laws or by laws enacted subsequent to Executive Order 8743, Apr. 23, 1941, issued by the President pursuant to the [Act of Nov. 26, 1940, ch. 919][/us/act/1940-11-26/ch919], title I, § 1, [54 Stat. 1211][/us/stat/54/1211], which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under [section 3301 of Title 5][/us/usc/t5/s3301], Government Organization and Employees.
+    Provisions which authorized employment of landscape architects, architects, artists, engineers, and/or other expert consultants in accordance with the usual customs of the several professions “without reference to civil-service requirements or to the Classification Act of 1923, as amended” were omitted as obsolete. Such employment is subject to the civil service laws unless specifically excepted by those laws or by laws enacted subsequent to Executive Order 8743, Apr. 23, 1941, issued by the President pursuant to the [Act of Nov. 26, 1940, ch. 919, title I][/us/act/1940-11-26/ch919/tI], § 1, [54 Stat. 1211][/us/stat/54/1211], which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under [section 3301 of Title 5][/us/usc/t5/s3301], Government Organization and Employees.
 
     As to the compensation of such personnel, sections 1202 and 1204 of the Classification Act of 1949, [63 Stat. 972][/us/stat/63/972], 973, repealed the Classification Act of 1923 and all other laws or parts of laws inconsistent with the 1949 Act. The Classification Act of 1949 was repealed [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, § 8(a), [80 Stat. 632][/us/stat/80/632], and reenacted as chapter 51 and subchapter III of chapter 53 of Title 5. [Section 5102 of Title 5][/us/usc/t5/s5102] contains the applicability provisions of the 1949 Act, and [section 5103 of Title 5][/us/usc/t5/s5103] authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/act/1935-08-20/ch575/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-20%2Fch575%2Fs3
+[/us/act/1935-08-20/ch575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-20%2Fch575
 [/us/stat/49/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F662
-[/us/act/1940-11-26/ch919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-11-26%2Fch919
+[/us/act/1940-11-26/ch919/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-11-26%2Fch919%2FtI
 [/us/stat/54/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1211
 [/us/usc/t5/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3301
 [/us/stat/63/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F972

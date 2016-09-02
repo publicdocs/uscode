@@ -39,7 +39,7 @@
 
         In exercising his authority to acquire property by exchange the Secretary may accept title to any non-Federal property within the area designated by [section 460s–1 of this title][/us/usc/t16/s460s–1] for inclusion in the lakeshore, and in exchange therefor he may convey to the grantor of such property any federally owned property under his jurisdiction within the State of Michigan which he classifies as suitable for exchange or other disposal. The values of the properties so exchanged either shall be approximately equal or, if they are not approximately equal, the values shall be equalized by the payment of cash to the grantor or to the Secretary as the circumstances require.
 
-([Pub. L. 89–668, § 8][/us/pl/89/668/s8], Oct. 15, 1966, [80 Stat. 923][/us/stat/80/923].)
+([Pub. L. 89–668][/us/pl/89/668], § 8, Oct. 15, 1966, [80 Stat. 923][/us/stat/80/923].)
 
 ----------
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t16/s460s–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460s%E2%80%931
 [/us/usc/t16/s460s–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460s%E2%80%931
-[/us/pl/89/668/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F668%2Fs8
+[/us/pl/89/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F668
 [/us/stat/80/923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F923
 
 

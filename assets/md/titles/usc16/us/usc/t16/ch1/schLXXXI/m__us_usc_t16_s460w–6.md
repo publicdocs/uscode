@@ -23,7 +23,7 @@
 
     (c) preservation of the unique flora and fauna and the physiographic and geologic conditions now prevailing on the Apostle Islands within the lakeshore: Provided, That the Secretary may provide for the public enjoyment and understanding of the unique natural, historical, scientific, and archeological features of the Apostle Islands through the establishment of such trails, observation points, exhibits, and services as he may deem desirable.
 
-([Pub. L. 91–424, § 7][/us/pl/91/424/s7], Sept. 26, 1970, [84 Stat. 881][/us/stat/84/881].)
+([Pub. L. 91–424][/us/pl/91/424], § 7, Sept. 26, 1970, [84 Stat. 881][/us/stat/84/881].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/91/424/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F424%2Fs7
+[/us/pl/91/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F424
 [/us/stat/84/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F881
 
 

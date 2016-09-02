@@ -73,7 +73,7 @@ Hassel Island
 
     Lands, submerged lands, and waters added to the Virgin Islands National Park pursuant to sections 398c to 398f of this title shall be subject to administration by the Secretary of the Interior in accordance with the provisions of the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]; [16 U.S.C. 1–4][/us/usc/t16/s1–4]), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended and supplemented.
 
-([Pub. L. 87–750, § 1][/us/pl/87/750/s1], Oct. 5, 1962, [76 Stat. 746][/us/stat/76/746]; [Pub. L. 95–348, § 7(a)][/us/pl/95/348/s7/a], Aug. 18, 1978, [92 Stat. 493][/us/stat/92/493].)
+([Pub. L. 87–750][/us/pl/87/750], § 1, Oct. 5, 1962, [76 Stat. 746][/us/stat/76/746]; [Pub. L. 95–348][/us/pl/95/348], § 7(a), Aug. 18, 1978, [92 Stat. 493][/us/stat/92/493].)
 
  __References in Text__ 
 
@@ -92,9 +92,9 @@ Hassel Island
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1%E2%80%934
-[/us/pl/87/750/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F750%2Fs1
+[/us/pl/87/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F750
 [/us/stat/76/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F746
-[/us/pl/95/348/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F348%2Fs7%2Fa
+[/us/pl/95/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F348
 [/us/stat/92/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F493
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1%E2%80%934

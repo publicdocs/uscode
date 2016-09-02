@@ -17,7 +17,7 @@
 
     In order to provide for public outdoor recreation use and enjoyment of Arbuckle Reservoir and land adjacent thereto, and to provide for more efficient administration of other adjacent area containing scenic, scientific, natural, and historic values contributing to public enjoyment of the area and to designate the area in such manner as will constitute a fitting memorialization of the Chickasaw Indian Nation, there is hereby established the Chickasaw National Recreation Area (hereinafter referred to as the “recreation area”) consisting of lands and interests in lands within the area as generally depicted on the drawing entitled “Boundary Map, Chickasaw National Recreation Area,” numbered 107–20004–A and dated February 1974, which shall be on file and available for inspection in the offices of the National Park Service, Department of the Interior. The Secretary of the Interior (hereinafter referred to as the “Secretary”) may from time to time revise the boundaries of the recreation area by publication of a map or other boundary description in the Federal Register, but the total acreage of the recreation area may not exceed ten thousand acres.
 
-([Pub. L. 94–235, § 1][/us/pl/94/235/s1], Mar. 17, 1976, [90 Stat. 235][/us/stat/90/235].)
+([Pub. L. 94–235][/us/pl/94/235], § 1, Mar. 17, 1976, [90 Stat. 235][/us/stat/90/235].)
 
  __Chickasaw National Recreation Area Land Exchange__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/94/235/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F235%2Fs1
+[/us/pl/94/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F235
 [/us/stat/90/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F235
 [/us/pl/108/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F389
 [/us/stat/118/2239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2239

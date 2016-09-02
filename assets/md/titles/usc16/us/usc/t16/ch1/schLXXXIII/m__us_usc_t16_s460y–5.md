@@ -19,7 +19,7 @@
 
     (b) Nothing in this section shall be construed to limit or restrict rights of the owner or owners of any existing valid mining claim.
 
-([Pub. L. 91–476, § 6][/us/pl/91/476/s6], Oct. 21, 1970, [84 Stat. 1070][/us/stat/84/1070].)
+([Pub. L. 91–476][/us/pl/91/476], § 6, Oct. 21, 1970, [84 Stat. 1070][/us/stat/84/1070].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/91/476/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F476%2Fs6
+[/us/pl/91/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F476
 [/us/stat/84/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1070
 
 

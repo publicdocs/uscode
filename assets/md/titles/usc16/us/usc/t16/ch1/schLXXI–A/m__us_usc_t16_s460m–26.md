@@ -17,7 +17,7 @@
 
     In administering the national river, the Secretary is authorized to enter into cooperative agreements with the State of West Virginia, or any political subdivision thereof, for the rendering, on a reimbursable or non-reimbursable basis, of rescue, fire fighting, and law enforcement services and cooperative assistance by nearby law enforcement and fire preventive agencies.
 
-([Pub. L. 95–625, title XI, § 1113][/us/pl/95/625/s1113], as added [Pub. L. 100–534, title I, § 102][/us/pl/100/534/s102], Oct. 26, 1988, [102 Stat. 2700][/us/stat/102/2700].)
+([Pub. L. 95–625, title XI][/us/pl/95/625/tXI], § 1113, as added [Pub. L. 100–534, title I][/us/pl/100/534/tI], § 102, Oct. 26, 1988, [102 Stat. 2700][/us/stat/102/2700].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/95/625/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs1113
-[/us/pl/100/534/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F534%2Fs102
+[/us/pl/95/625/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtXI
+[/us/pl/100/534/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F534%2FtI
 [/us/stat/102/2700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2700
 
 

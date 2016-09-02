@@ -47,7 +47,7 @@
 
         Lands acquired under this section shall, upon acquisition, become part of the Conservation Area and shall be administered as part of the Conservation Area. These lands shall be managed in accordance with this subchapter, other applicable laws, and the management plan.
 
-([Pub. L. 106–538, § 7][/us/pl/106/538/s7], Dec. 6, 2000, [114 Stat. 2567][/us/stat/114/2567].)
+([Pub. L. 106–538][/us/pl/106/538], § 7, Dec. 6, 2000, [114 Stat. 2567][/us/stat/114/2567].)
 
  __Land Exchange and Conservation in Arizona__ 
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/106/538/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F538%2Fs7
+[/us/pl/106/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F538
 [/us/stat/114/2567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2567
 [/us/usc/t16/s539p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs539p
 

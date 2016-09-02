@@ -17,7 +17,7 @@
 
     The administration of mineral and grazing leases within the recreation area shall be by the Bureau of Land Management. The same policies followed by the Bureau of Land Management in issuing and administering mineral and grazing leases on other lands under its jurisdiction shall be followed in regard to the lands within the boundaries of the recreation area, subject to the provisions of sections 460dd–2(a) and 460dd–3 of this title.
 
-([Pub. L. 92–593, § 6][/us/pl/92/593/s6], Oct. 27, 1972, [86 Stat. 1312][/us/stat/86/1312].)
+([Pub. L. 92–593][/us/pl/92/593], § 6, Oct. 27, 1972, [86 Stat. 1312][/us/stat/86/1312].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/593/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F593%2Fs6
+[/us/pl/92/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F593
 [/us/stat/86/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1312
 
 

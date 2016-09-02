@@ -27,7 +27,7 @@
 
         The Secretary shall consult with officials of the Nez Perce Tribe on the interpretation of the park and its history.
 
-([Pub. L. 89–19, § 6][/us/pl/89/19/s6], May 15, 1965, [79 Stat. 111][/us/stat/79/111]; [Pub. L. 102–576, § 2(5)][/us/pl/102/576/s2/5], (6), Oct. 30, 1992, [106 Stat. 4771][/us/stat/106/4771].)
+([Pub. L. 89–19][/us/pl/89/19], § 6, May 15, 1965, [79 Stat. 111][/us/stat/79/111]; [Pub. L. 102–576][/us/pl/102/576], § 2(5), (6), Oct. 30, 1992, [106 Stat. 4771][/us/stat/106/4771].)
 
  __References in Text__ 
 
@@ -35,9 +35,9 @@
 
  __Amendments__ 
 
-    1992—Subsec. (a). [Pub. L. 102–576, § 2(5)][/us/pl/102/576/s2/5], substituted “States of Idaho, Oregon, Washington, Montana, Wyoming, their” for “State of Idaho, its”.
+    1992—Subsec. (a). [Pub. L. 102–576][/us/pl/102/576], § 2(5), substituted “States of Idaho, Oregon, Washington, Montana, Wyoming, their” for “State of Idaho, its”.
 
-    Subsec. (c). [Pub. L. 102–576, § 2(6)][/us/pl/102/576/s2/6], added subsec. (c).
+    Subsec. (c). [Pub. L. 102–576][/us/pl/102/576], § 2(6), added subsec. (c).
 
 ----------
 
@@ -47,9 +47,9 @@
 ----------
 
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
-[/us/pl/89/19/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F19%2Fs6
+[/us/pl/89/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F19
 [/us/stat/79/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F111
-[/us/pl/102/576/s2/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F576%2Fs2%2F5
+[/us/pl/102/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F576
 [/us/stat/106/4771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4771
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
 [/us/act/1935-08-21/ch593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-21%2Fch593
@@ -58,7 +58,7 @@
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
 [/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
-[/us/pl/102/576/s2/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F576%2Fs2%2F5
-[/us/pl/102/576/s2/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F576%2Fs2%2F6
+[/us/pl/102/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F576
+[/us/pl/102/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F576
 
 

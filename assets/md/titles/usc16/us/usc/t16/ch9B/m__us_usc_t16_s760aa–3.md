@@ -33,7 +33,7 @@
 
         Amounts received by the Secretary of the Interior as a result of projects and programs under subsection (a) shall be deposited in a separate account in the Treasury. Amounts in the account that are attributable to activities at a particular facility of the System shall be available to the Secretary of the Interior, without further appropriation, to pay the costs of incidental expenses related to volunteer activities, and to carry out cooperative agreements for the hatchery facility.
 
-([Pub. L. 109–360, § 5][/us/pl/109/360/s5], Oct. 16, 2006, [120 Stat. 2060][/us/stat/120/2060].)
+([Pub. L. 109–360][/us/pl/109/360], § 5, Oct. 16, 2006, [120 Stat. 2060][/us/stat/120/2060].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t16/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs661
-[/us/pl/109/360/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F360%2Fs5
+[/us/pl/109/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F360
 [/us/stat/120/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2060
 [/us/act/1934-03-10/ch55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-10%2Fch55
 [/us/stat/48/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F401

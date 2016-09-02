@@ -13,17 +13,17 @@
 
 [Previous](./../../../../..//us/usc/t16/ch58/schV/m__us_usc_t16_s3842.md) | [Next](./../../../../..//us/usc/t16/ch58/schV/m__us_usc_t16_s3844.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3843)
 
-## § 3843. Repealed. [Pub. L. 113–79, title II, § 2710(a)][/us/pl/113/79/s2710/a], Feb. 7, 2014, [128 Stat. 770][/us/stat/128/770]
+## § 3843. Repealed. [Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2710(a), Feb. 7, 2014, [128 Stat. 770][/us/stat/128/770]
 
-    Section, [Pub. L. 99–198, title XII, § 1243][/us/pl/99/198/s1243], as added [Pub. L. 104–127, title III, § 341][/us/pl/104/127/s341], Apr. 4, 1996, [110 Stat. 1008][/us/stat/110/1008]; amended [Pub. L. 107–171, title II][/us/pl/107/171], §§ 2003, 2006(d), May 13, 2002, [116 Stat. 233][/us/stat/116/233], 237; [Pub. L. 110–234, title II, § 2707][/us/pl/110/234/s2707], May 22, 2008, [122 Stat. 1077][/us/stat/122/1077]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2707, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1805, related to cooperative conservation partnership initiative.
+    Section, [Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1243, as added [Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 341, Apr. 4, 1996, [110 Stat. 1008][/us/stat/110/1008]; amended [Pub. L. 107–171, title II][/us/pl/107/171/tII], §§ 2003, 2006(d), May 13, 2002, [116 Stat. 233][/us/stat/116/233], 237; [Pub. L. 110–234, title II][/us/pl/110/234/tII], § 2707, May 22, 2008, [122 Stat. 1077][/us/stat/122/1077]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title II, § 2707, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1805, related to cooperative conservation partnership initiative.
 
  __Prior Provisions__ 
 
-    A prior section 3843, [Pub. L. 99–198, title XII, § 1243][/us/pl/99/198/s1243], Dec. 23, 1985, [99 Stat. 1515][/us/stat/99/1515]; [Pub. L. 101–624, title XIV, § 1442][/us/pl/101/624/s1442], Nov. 28, 1990, [104 Stat. 3602][/us/stat/104/3602], which related to administration of this chapter, was omitted in the general amendment of this subchapter by [Pub. L. 104–127][/us/pl/104/127].
+    A prior section 3843, [Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1243, Dec. 23, 1985, [99 Stat. 1515][/us/stat/99/1515]; [Pub. L. 101–624, title XIV][/us/pl/101/624/tXIV], § 1442, Nov. 28, 1990, [104 Stat. 3602][/us/stat/104/3602], which related to administration of this chapter, was omitted in the general amendment of this subchapter by [Pub. L. 104–127][/us/pl/104/127].
 
  __Repeal; Transitional Provisions__ 
 
-[Pub. L. 113–79, title II, § 2710][/us/pl/113/79/s2710], Feb. 7, 2014, [128 Stat. 770][/us/stat/128/770], provided that:
+[Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2710, Feb. 7, 2014, [128 Stat. 770][/us/stat/128/770], provided that:
 
 >     “(a)  __Repeal__  __.—__ 
 
@@ -52,23 +52,23 @@
 ----------
 ----------
 
-[/us/pl/113/79/s2710/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2710%2Fa
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F770
-[/us/pl/99/198/s1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1243
-[/us/pl/104/127/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs341
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1008
-[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtII
 [/us/stat/116/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F233
-[/us/pl/110/234/s2707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2707
+[/us/pl/110/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtII
 [/us/stat/122/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1077
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/99/198/s1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1243
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
 [/us/stat/99/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1515
-[/us/pl/101/624/s1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1442
+[/us/pl/101/624/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIV
 [/us/stat/104/3602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3602
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
-[/us/pl/113/79/s2710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2710
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F770
 [/us/usc/t16/s3843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3843
 [/us/usc/t16/s3843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3843

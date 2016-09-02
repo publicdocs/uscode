@@ -39,7 +39,7 @@
 
         There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this section.
 
-([Pub. L. 101–536, § 3][/us/pl/101/536/s3], Nov. 8, 1990, [104 Stat. 2368][/us/stat/104/2368].)
+([Pub. L. 101–536][/us/pl/101/536], § 3, Nov. 8, 1990, [104 Stat. 2368][/us/stat/104/2368].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 
  __Findings and Purpose__ 
 
-[Pub. L. 101–536, § 2][/us/pl/101/536/s2], Nov. 8, 1990, [104 Stat. 2368][/us/stat/104/2368], provided that:
+[Pub. L. 101–536][/us/pl/101/536], § 2, Nov. 8, 1990, [104 Stat. 2368][/us/stat/104/2368], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -81,7 +81,7 @@
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1%E2%80%934
 [/us/usc/t16/s461–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461%E2%80%937
-[/us/pl/101/536/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F536%2Fs3
+[/us/pl/101/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F536
 [/us/stat/104/2368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2368
 [/us/pl/101/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F536
 [/us/stat/104/2368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2368
@@ -105,7 +105,7 @@
 [/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
 [/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/101/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F313
-[/us/pl/101/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F536%2Fs2
+[/us/pl/101/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F536
 [/us/stat/104/2368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2368
 [/us/usc/t16/s410rr]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410rr
 

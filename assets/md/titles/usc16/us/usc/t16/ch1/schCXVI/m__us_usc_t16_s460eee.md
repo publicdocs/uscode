@@ -29,7 +29,7 @@
 
         (2) Those lands depicted on the map referred to in subsection (b) that are necessary for the continued operation, maintenance, and replacement of the Canadian River Project facilities and its purposes of providing for municipal and industrial water supply and flood control shall remain under the jurisdiction of the Bureau of Reclamation.
 
-([Pub. L. 101–628, title V, § 502][/us/pl/101/628/s502], Nov. 28, 1990, [104 Stat. 4492][/us/stat/104/4492].)
+([Pub. L. 101–628, title V][/us/pl/101/628/tV], § 502, Nov. 28, 1990, [104 Stat. 4492][/us/stat/104/4492].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/101/628/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628%2Fs502
+[/us/pl/101/628/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628%2FtV
 [/us/stat/104/4492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4492
 [/us/pl/101/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628
 [/us/stat/104/4469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4469

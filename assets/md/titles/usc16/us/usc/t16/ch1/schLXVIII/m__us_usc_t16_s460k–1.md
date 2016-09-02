@@ -27,7 +27,7 @@
 
     Lands acquired pursuant to this section shall become a part of the particular conservation area to which they are adjacent.
 
-([Pub. L. 87–714, § 2][/us/pl/87/714/s2], Sept. 28, 1962, [76 Stat. 653][/us/stat/76/653]; [Pub. L. 92–534][/us/pl/92/534], Oct. 23, 1972, [86 Stat. 1063][/us/stat/86/1063]; [Pub. L. 93–205, § 13(d)][/us/pl/93/205/s13/d], Dec. 28, 1973, [87 Stat. 902][/us/stat/87/902].)
+([Pub. L. 87–714][/us/pl/87/714], § 2, Sept. 28, 1962, [76 Stat. 653][/us/stat/76/653]; [Pub. L. 92–534][/us/pl/92/534], Oct. 23, 1972, [86 Stat. 1063][/us/stat/86/1063]; [Pub. L. 93–205][/us/pl/93/205], § 13(d), Dec. 28, 1973, [87 Stat. 902][/us/stat/87/902].)
 
  __Amendments__ 
 
@@ -47,11 +47,11 @@
 ----------
 
 [/us/usc/t16/s1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1533
-[/us/pl/87/714/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F714%2Fs2
+[/us/pl/87/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F714
 [/us/stat/76/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F653
 [/us/pl/92/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F534
 [/us/stat/86/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1063
-[/us/pl/93/205/s13/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205%2Fs13%2Fd
+[/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F902
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/usc/t16/s1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1533

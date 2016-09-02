@@ -61,7 +61,7 @@
 
                 (ii) on private or State-owned lands when the efforts will also provide a benefit to wildlife management objectives on Federal lands.
 
-([Pub. L. 103–322, title XXXII, § 320803][/us/pl/103/322/s320803], Sept. 13, 1994, [108 Stat. 2121][/us/stat/108/2121].)
+([Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320803, Sept. 13, 1994, [108 Stat. 2121][/us/stat/108/2121].)
 
  __References in Text__ 
 
@@ -79,7 +79,7 @@
 [/us/usc/t16/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5201
 [/us/usc/t16/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5201
 [/us/usc/t16/s669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs669
-[/us/pl/103/322/s320803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320803
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2121
 [/us/act/1937-09-02/ch899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-02%2Fch899
 [/us/stat/50/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F917

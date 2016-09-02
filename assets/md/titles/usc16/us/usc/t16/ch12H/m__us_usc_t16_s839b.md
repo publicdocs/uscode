@@ -315,11 +315,11 @@
 
         (2) The Administrator may determine that [section 839a(4)(D) of this title][/us/usc/t16/s839a/4/D] shall not apply to any proposed conservation measure or resource if the Administrator finds after receipt of such analysis from the Council that such measure or resource would have any result or effect described in subparagraph (A), (B) or (C) of paragraph (1).
 
-([Pub. L. 96–501, § 4][/us/pl/96/501/s4], Dec. 5, 1980, [94 Stat. 2700][/us/stat/94/2700]; [Pub. L. 103–437, § 6(u)][/us/pl/103/437/s6/u], Nov. 2, 1994, [108 Stat. 4587][/us/stat/108/4587]; [Pub. L. 104–206, title V, § 512][/us/pl/104/206/s512], Sept. 30, 1996, [110 Stat. 3005][/us/stat/110/3005]; [Pub. L. 106–60, title VI, § 610][/us/pl/106/60/s610], Sept. 29, 1999, [113 Stat. 502][/us/stat/113/502]; [Pub. L. 112–74, div. B, title III, § 307][/us/pl/112/74/s307], Dec. 23, 2011, [125 Stat. 877][/us/stat/125/877].)
+([Pub. L. 96–501][/us/pl/96/501], § 4, Dec. 5, 1980, [94 Stat. 2700][/us/stat/94/2700]; [Pub. L. 103–437][/us/pl/103/437], § 6(u), Nov. 2, 1994, [108 Stat. 4587][/us/stat/108/4587]; [Pub. L. 104–206, title V][/us/pl/104/206/tV], § 512, Sept. 30, 1996, [110 Stat. 3005][/us/stat/110/3005]; [Pub. L. 106–60, title VI][/us/pl/106/60/tVI], § 610, Sept. 29, 1999, [113 Stat. 502][/us/stat/113/502]; [Pub. L. 112–74, div. B, title III][/us/pl/112/74/dB/tIII], § 307, Dec. 23, 2011, [125 Stat. 877][/us/stat/125/877].)
 
  __References in Text__ 
 
-    The Ethics in Government Act of 1978, referred to in subsec. (b)(3), is [Pub. L. 95–521][/us/pl/95/521], Oct. 26, 1978, [92 Stat. 1824][/us/stat/92/1824]. Title II of the Ethics in Gov­ernment Act of 1978 was set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by [Pub. L. 101–194, title II, § 201][/us/pl/101/194/s201], Nov. 30, 1989, [103 Stat. 1724][/us/stat/103/1724]. For complete classification of this Act to the Code, see Short Title note set out under [section 101 of Pub. L. 95–521][/us/pl/95/521/s101] in the Appendix to Title 5 and Tables.
+    The Ethics in Government Act of 1978, referred to in subsec. (b)(3), is [Pub. L. 95–521][/us/pl/95/521], Oct. 26, 1978, [92 Stat. 1824][/us/stat/92/1824]. Title II of the Ethics in Gov­ernment Act of 1978 was set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by [Pub. L. 101–194, title II][/us/pl/101/194/tII], § 201, Nov. 30, 1989, [103 Stat. 1724][/us/stat/103/1724]. For complete classification of this Act to the Code, see Short Title note set out under [section 101 of Pub. L. 95–521][/us/pl/95/521/s101] in the Appendix to Title 5 and Tables.
 
     The Federal Columbia River Transmission System Act, referred to in subsecs. (c)(10)(A) and (h)(10)(B), is [Pub. L. 93–454][/us/pl/93/454], Oct. 18, 1974, [88 Stat. 1376][/us/stat/88/1376], which is classified generally to chapter 12G (§ 838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 838 of this title][/us/usc/t16/s838] and Tables.
 
@@ -359,7 +359,7 @@
 
  __Operation and Maintenance of Fish Passage Facilities Within the Yakima River Basin; Funding__ 
 
-[Pub. L. 98–381, title I, § 109][/us/pl/98/381/s109], Aug. 17, 1984, [98 Stat. 1340][/us/stat/98/1340], provided that: 
+[Pub. L. 98–381, title I][/us/pl/98/381/tI], § 109, Aug. 17, 1984, [98 Stat. 1340][/us/stat/98/1340], provided that: 
 
 > “The Secretary of the Interior, acting pursuant to Federal reclamation law (Act of June 17, 1902, [32 Stat. 388][/us/stat/32/388] \[see Short Title note under [section 371 of Title 43][/us/usc/t43/s371], Public Lands\], and Acts amendatory thereof and supplementary thereto) and in accordance with the Pacific Northwest Electric Power Planning and Conservation Act ([94 Stat. 2697][/us/stat/94/2697]) \[[16 U.S.C. 839][/us/usc/t16/s839] et seq.\] is authorized to design, construct, operate, and maintain fish passage facilities within the Yakima River Basin, and to accept funds from any entity, public or private, to design, construct, operate, and maintain such facilities.”
 
@@ -383,19 +383,19 @@
 [/us/usc/t16/s839d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs839d
 [/us/usc/t16/s839d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs839d
 [/us/usc/t16/s839a/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs839a%2F4%2FD
-[/us/pl/96/501/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501%2Fs4
+[/us/pl/96/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501
 [/us/stat/94/2700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2700
-[/us/pl/103/437/s6/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fu
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4587
-[/us/pl/104/206/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F206%2Fs512
+[/us/pl/104/206/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F206%2FtV
 [/us/stat/110/3005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3005
-[/us/pl/106/60/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F60%2Fs610
+[/us/pl/106/60/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F60%2FtVI
 [/us/stat/113/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F502
-[/us/pl/112/74/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs307
+[/us/pl/112/74/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdB%2FtIII
 [/us/stat/125/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F877
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/stat/92/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1824
-[/us/pl/101/194/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs201
+[/us/pl/101/194/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtII
 [/us/stat/103/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1724
 [/us/pl/95/521/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs101
 [/us/pl/93/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F454
@@ -415,7 +415,7 @@
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
-[/us/pl/98/381/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F381%2Fs109
+[/us/pl/98/381/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F381%2FtI
 [/us/stat/98/1340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1340
 [/us/stat/32/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F388
 [/us/usc/t43/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs371

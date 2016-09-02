@@ -31,7 +31,7 @@
 
         In case of contumacy or refusal to obey a subpoena issued under this section by any person, the Secretary may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or has his business, to require the attendance and testimony of witnesses and the production of books, papers, and documents. Such court may issue an order requiring such person to appear before the Secretary to produce records or to give testimony relating to the matter under investigation.
 
-([Pub. L. 99–659, title II, § 218][/us/pl/99/659/s218], Nov. 14, 1986, [100 Stat. 3731][/us/stat/100/3731].)
+([Pub. L. 99–659, title II][/us/pl/99/659/tII], § 218, Nov. 14, 1986, [100 Stat. 3731][/us/stat/100/3731].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/99/659/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs218
+[/us/pl/99/659/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtII
 [/us/stat/100/3731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3731
 
 

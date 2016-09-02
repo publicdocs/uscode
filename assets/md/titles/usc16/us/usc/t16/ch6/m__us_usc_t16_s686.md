@@ -17,7 +17,7 @@
 
     It is the purpose of sections 684 and 685 of this title to protect from trespass the public lands of the United States and the game animals and birds which may be thereon, and not to interfere with the operation of the local game laws as affecting private, State, or Territorial lands.
 
-([Jan. 24, 1905, ch. 137, § 3][/us/act/1905-01-24/ch137/s3], [33 Stat. 614][/us/stat/33/614]; [June 29, 1906, ch. 3593, § 3][/us/act/1906-06-29/ch3593/s3], [34 Stat. 607][/us/stat/34/607].)
+([Jan. 24, 1905, ch. 137][/us/act/1905-01-24/ch137], § 3, [33 Stat. 614][/us/stat/33/614]; [June 29, 1906, ch. 3593][/us/act/1906-06-29/ch3593], § 3, [34 Stat. 607][/us/stat/34/607].)
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/act/1905-01-24/ch137/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-01-24%2Fch137%2Fs3
+[/us/act/1905-01-24/ch137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-01-24%2Fch137
 [/us/stat/33/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F614
-[/us/act/1906-06-29/ch3593/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-29%2Fch3593%2Fs3
+[/us/act/1906-06-29/ch3593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-29%2Fch3593
 [/us/stat/34/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F607
 
 

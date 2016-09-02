@@ -17,7 +17,7 @@
 
     The Secretary of State, with the concurrence of the Secretary, may accept or reject, on behalf of the United States, recommendations made by the Commission in accordance with article III of the Convention and paragraphs 14 and 15 of the annex to the Convention.
 
-([Pub. L. 97–176, § 4][/us/pl/97/176/s4], May 17, 1982, [96 Stat. 79][/us/stat/96/79].)
+([Pub. L. 97–176][/us/pl/97/176], § 4, May 17, 1982, [96 Stat. 79][/us/stat/96/79].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/176/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F176%2Fs4
+[/us/pl/97/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F176
 [/us/stat/96/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F79
 
 

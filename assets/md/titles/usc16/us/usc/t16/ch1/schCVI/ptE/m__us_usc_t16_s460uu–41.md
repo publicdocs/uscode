@@ -39,7 +39,7 @@
 
         (2) Pending the submission of a recommendation and until otherwise directed by Act of Congress, the Secretary, through the Director of the National Park Service, shall manage all roadless lands within the boundaries of the monument so as to maintain their potential for inclusion in the National Wilderness Preservation System, except those lands within the areas identified as “potential development areas” on the map referenced in [section 460uu of this title][/us/usc/t16/s460uu].
 
-([Pub. L. 100–225, title V, § 501][/us/pl/100/225/s501], Dec. 31, 1987, [101 Stat. 1543][/us/stat/101/1543].)
+([Pub. L. 100–225, title V][/us/pl/100/225/tV], § 501, Dec. 31, 1987, [101 Stat. 1543][/us/stat/101/1543].)
 
  __References in Text__ 
 
@@ -64,7 +64,7 @@
 [/us/usc/t16/s460uu]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460uu
 [/us/usc/t16/s460uu]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460uu
 [/us/usc/t16/s460uu]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460uu
-[/us/pl/100/225/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F225%2Fs501
+[/us/pl/100/225/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F225%2FtV
 [/us/stat/101/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1543
 [/us/pl/100/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F225
 [/us/pl/96/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95

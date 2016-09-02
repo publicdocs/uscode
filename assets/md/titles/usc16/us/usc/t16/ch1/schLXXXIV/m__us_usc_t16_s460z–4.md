@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, any Federal property located within the boundaries of the recreation area is hereby transferred without consideration to the administrative jurisdiction of the Secretary for use by him in implementing the purposes of this subchapter, but lands presently administered by the United States Coast Guard or the United States Corps of Engineers may continue to be used by such agencies to the extent required.
 
-([Pub. L. 92–260, § 5][/us/pl/92/260/s5], Mar. 23, 1972, [86 Stat. 99][/us/stat/86/99].)
+([Pub. L. 92–260][/us/pl/92/260], § 5, Mar. 23, 1972, [86 Stat. 99][/us/stat/86/99].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/92/260/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F260%2Fs5
+[/us/pl/92/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F260
 [/us/stat/86/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F99
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

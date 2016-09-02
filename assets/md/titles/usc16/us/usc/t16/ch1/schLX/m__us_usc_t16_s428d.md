@@ -17,7 +17,7 @@
 
     Upon receipt of the report of said commission the Secretary of the Interior is authorized and directed to acquire, by purchase, when purchasable at prices deemed by him reasonable, otherwise by condemnation, such tract or tracts of lands as are recommended by the commission as necessary and desirable for a national battlefield; to establish and substantially mark the boundaries of the said battlefield; to definitely mark all lines of battle and locations of troops within the boundaries of the battlefield and erect substantial historical tablets at such points within the battlefield and in the vicinity of the battlefield and its approaches as are recommended by the commission, together with such other points as the Secretary of the Interior may deem appropriate; to construct the necessary roads and walks, plant trees and shrubs, restore and care for the grounds, including the restoration and maintenance of those portions of old Fort Donelson, and of the Confederate water batteries that are located on the present engineer reservation: Provided, That the entire cost of acquiring said land, including cost of condemnation proceedings, if any, ascertainment of title, surveys, and compensation for the land, the cost of marking the battlefield, the expenses of the commission, and the establishment of the national battlefield shall not exceed the sum of $50,000.
 
-([Mar. 26, 1928, ch. 248, § 5][/us/act/1928-03-26/ch248/s5], [45 Stat. 368][/us/stat/45/368]; [Feb. 18, 1930, ch. 49][/us/act/1930-02-18/ch49], [46 Stat. 69][/us/stat/46/69]; Ex. Ord. No. 6166, § 2, June 10, 1933; Ex. Ord. No. 6228, § 1, July 28, 1933; [Pub. L. 86–738][/us/pl/86/738], §§ 4, 5, Sept. 8, 1960, [74 Stat. 876][/us/stat/74/876].)
+([Mar. 26, 1928, ch. 248][/us/act/1928-03-26/ch248], § 5, [45 Stat. 368][/us/stat/45/368]; [Feb. 18, 1930, ch. 49][/us/act/1930-02-18/ch49], [46 Stat. 69][/us/stat/46/69]; Ex. Ord. No. 6166, § 2, June 10, 1933; Ex. Ord. No. 6228, § 1, July 28, 1933; [Pub. L. 86–738][/us/pl/86/738], §§ 4, 5, Sept. 8, 1960, [74 Stat. 876][/us/stat/74/876].)
 
  __Amendments__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/act/1928-03-26/ch248/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-26%2Fch248%2Fs5
+[/us/act/1928-03-26/ch248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-26%2Fch248
 [/us/stat/45/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F368
 [/us/act/1930-02-18/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-02-18%2Fch49
 [/us/stat/46/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F69

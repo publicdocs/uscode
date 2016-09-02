@@ -51,7 +51,7 @@
 
         (2) for the purposes of subchapter I of chapter 81 of title 5, relating to compensation to Federal employees for work injuries, the volunteer shall be considered to be an employee, as defined in [section 8101(1)(B) of title 5][/us/usc/t5/s8101/1/B], and the provisions of such subchapter shall apply.
 
-([Pub. L. 86–797, title I, § 103][/us/pl/86/797/s103], formerly § 3, Sept. 15, 1960, [74 Stat. 1053][/us/stat/74/1053]; [Pub. L. 90–465, § 1][/us/pl/90/465/s1], Aug. 8, 1968, [82 Stat. 661][/us/stat/82/661]; renumbered title I, § 103, [Pub. L. 93–452, § 3(1)][/us/pl/93/452/s3/1], Oct. 18, 1974, [88 Stat. 1375][/us/stat/88/1375]; [Pub. L. 105–85, div. B, title XXIX][/us/pl/105/85], §§ 2904(b)(6), 2913(6), Nov. 18, 1997, [111 Stat. 2018][/us/stat/111/2018], 2022; [Pub. L. 105–261, div. B, title XXVIII, § 2813][/us/pl/105/261/s2813], Oct. 17, 1998, [112 Stat. 2206][/us/stat/112/2206].)
+([Pub. L. 86–797, title I][/us/pl/86/797/tI], § 103, formerly § 3, Sept. 15, 1960, [74 Stat. 1053][/us/stat/74/1053]; [Pub. L. 90–465][/us/pl/90/465], § 1, Aug. 8, 1968, [82 Stat. 661][/us/stat/82/661]; renumbered title I, § 103, [Pub. L. 93–452][/us/pl/93/452], § 3(1), Oct. 18, 1974, [88 Stat. 1375][/us/stat/88/1375]; [Pub. L. 105–85, div. B, title XXIX][/us/pl/105/85/dB/tXXIX], §§ 2904(b)(6), 2913(6), Nov. 18, 1997, [111 Stat. 2018][/us/stat/111/2018], 2022; [Pub. L. 105–261, div. B, title XXVIII][/us/pl/105/261/dB/tXXVIII], § 2813, Oct. 17, 1998, [112 Stat. 2206][/us/stat/112/2206].)
 
  __Amendments__ 
 
@@ -69,15 +69,15 @@
 ----------
 
 [/us/usc/t5/s8101/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8101%2F1%2FB
-[/us/pl/86/797/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F797%2Fs103
+[/us/pl/86/797/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F797%2FtI
 [/us/stat/74/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F1053
-[/us/pl/90/465/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F465%2Fs1
+[/us/pl/90/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F465
 [/us/stat/82/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F661
-[/us/pl/93/452/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F452%2Fs3%2F1
+[/us/pl/93/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F452
 [/us/stat/88/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1375
-[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85/dB/tXXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdB%2FtXXIX
 [/us/stat/111/2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2018
-[/us/pl/105/261/s2813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs2813
+[/us/pl/105/261/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdB%2FtXXVIII
 [/us/stat/112/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2206
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85

@@ -23,7 +23,7 @@
 
         Subject to valid existing rights, the Rattle­snake Wilderness as designated by this subchapter shall be administered by the Secretary of Agriculture, hereafter referred to as the Secretary, in accordance with the provisions of the Wilderness Act \[[16 U.S.C. 1131][/us/usc/t16/s1131] et seq.\] governing areas designated by that Act as wilderness: Provided, That any reference in such provisions to the effective date of the Wilderness Act shall be deemed to be a reference to the effective date of this subchapter.
 
-([Pub. L. 96–476, § 2][/us/pl/96/476/s2], Oct. 19, 1980, [94 Stat. 2271][/us/stat/94/2271].)
+([Pub. L. 96–476][/us/pl/96/476], § 2, Oct. 19, 1980, [94 Stat. 2271][/us/stat/94/2271].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
-[/us/pl/96/476/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F476%2Fs2
+[/us/pl/96/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F476
 [/us/stat/94/2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2271
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890

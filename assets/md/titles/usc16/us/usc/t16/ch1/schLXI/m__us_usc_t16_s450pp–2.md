@@ -23,7 +23,7 @@
 
         The Secretary may accept on behalf of the people of the United States gifts of historic objects and records pertaining to Roger Williams for appropriate display or other use in keeping with the commemoration of the founding of the principles of freedom in the United States and of the historical events that took place in the city of Providence in connection therewith.
 
-([Pub. L. 89–293, § 3][/us/pl/89/293/s3], Oct. 22, 1965, [79 Stat. 1070][/us/stat/79/1070].)
+([Pub. L. 89–293][/us/pl/89/293], § 3, Oct. 22, 1965, [79 Stat. 1070][/us/stat/79/1070].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/89/293/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F293%2Fs3
+[/us/pl/89/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F293
 [/us/stat/79/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1070
 
 

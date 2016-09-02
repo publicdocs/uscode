@@ -55,7 +55,7 @@
 
         In conducting the reviews and preparing the comprehensive management plan required by subsection (d), <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection (f),”. </sup></sup>  the Secretary shall provide for full public participation, and shall consider the views of all interested agencies, organizations, and individuals.
 
-([Pub. L. 99–504, title II, § 203][/us/pl/99/504/s203], Oct. 20, 1986, [100 Stat. 1804][/us/stat/100/1804].)
+([Pub. L. 99–504, title II][/us/pl/99/504/tII], § 203, Oct. 20, 1986, [100 Stat. 1804][/us/stat/100/1804].)
 
  __References in Text__ 
 
@@ -72,7 +72,7 @@
 ----------
 ----------
 
-[/us/pl/99/504/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F504%2Fs203
+[/us/pl/99/504/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F504%2FtII
 [/us/stat/100/1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1804
 [/us/pl/99/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F504
 [/us/stat/100/1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1802

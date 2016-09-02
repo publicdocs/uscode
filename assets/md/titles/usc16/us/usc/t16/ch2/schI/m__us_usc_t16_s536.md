@@ -17,7 +17,7 @@
 
     Copies of all instruments affecting permanent interests in land executed pursuant to sections 532 to 538 of this title shall be recorded in each county where the lands are located. Copies of all instruments affecting interests in lands reserved from the public domain shall be furnished to the Secretary of the Interior.
 
-([Pub. L. 88–657, § 5][/us/pl/88/657/s5], Oct. 13, 1964, [78 Stat. 1089][/us/stat/78/1089].)
+([Pub. L. 88–657][/us/pl/88/657], § 5, Oct. 13, 1964, [78 Stat. 1089][/us/stat/78/1089].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/657/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F657%2Fs5
+[/us/pl/88/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F657
 [/us/stat/78/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1089
 
 

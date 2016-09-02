@@ -35,7 +35,7 @@
 
     (9) The term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands of the United States, Guam, the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands, or any other territory or possession of the United States.
 
-([Pub. L. 96–362, § 3][/us/pl/96/362/s3], Sept. 26, 1980, [94 Stat. 1199][/us/stat/94/1199]; [Pub. L. 99–198, title XVII, § 1733][/us/pl/99/198/s1733], Dec. 23, 1985, [99 Stat. 1641][/us/stat/99/1641].)
+([Pub. L. 96–362][/us/pl/96/362], § 3, Sept. 26, 1980, [94 Stat. 1199][/us/stat/94/1199]; [Pub. L. 99–198, title XVII][/us/pl/99/198/tXVII], § 1733, Dec. 23, 1985, [99 Stat. 1641][/us/stat/99/1641].)
 
  __Amendments__ 
 
@@ -54,9 +54,9 @@
 
 [/us/usc/t16/s2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2805
 [/us/usc/t16/s2803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2803
-[/us/pl/96/362/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F362%2Fs3
+[/us/pl/96/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F362
 [/us/stat/94/1199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1199
-[/us/pl/99/198/s1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1733
+[/us/pl/99/198/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVII
 [/us/stat/99/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1641
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681

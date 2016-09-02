@@ -17,7 +17,7 @@
 
     Subject to the provisions of section 835l of this title, that portion of the construction cost of any project hereafter authorized to be constructed, operated, and maintained by the Secretary of the Interior under the Federal reclamation laws (Act of June 17, 1902, [32 Stat. 388][/us/stat/32/388], and Acts amendatory thereof or supplementary thereto) within the Pacific Northwest which, though allocated to irrigation, is beyond the ability of the irrigation water users to repay within the repayment period prescribed by law for that project and cannot be returned within the same period from other project sources of revenue shall be charged to and returned within that period from net revenues derived from the marketing of commercial power and energy through the Federal Columbia River power system, unless otherwise provided by law. As used in this section, the term “Pacific Northwest” has the meaning ascribed to it in [section 837 of this title][/us/usc/t16/s837].
 
-([Pub. L. 89–448, § 2(a)][/us/pl/89/448/s2/a], formerly § 2, June 14, 1966, [80 Stat. 200][/us/stat/80/200], renumbered and amended [Pub. L. 89–561, § 6(1)][/us/pl/89/561/s6/1], (2), Sept. 7, 1966, [80 Stat. 714][/us/stat/80/714].)
+([Pub. L. 89–448][/us/pl/89/448], § 2(a), formerly § 2, June 14, 1966, [80 Stat. 200][/us/stat/80/200], renumbered and amended [Pub. L. 89–561][/us/pl/89/561], § 6(1), (2), Sept. 7, 1966, [80 Stat. 714][/us/stat/80/714].)
 
  __References in Text__ 
 
@@ -29,7 +29,7 @@
 
  __Amendments__ 
 
-    1966—[Pub. L. 89–561, § 6(2)][/us/pl/89/561/s6/2], substituted “Subject to the provisions of section 835l of this title, that” for “That”.
+    1966—[Pub. L. 89–561][/us/pl/89/561], § 6(2), substituted “Subject to the provisions of section 835l of this title, that” for “That”.
 
  __Transfer of Functions__ 
 
@@ -44,9 +44,9 @@
 
 [/us/stat/32/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F388
 [/us/usc/t16/s837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs837
-[/us/pl/89/448/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F448%2Fs2%2Fa
+[/us/pl/89/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F448
 [/us/stat/80/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F200
-[/us/pl/89/561/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F561%2Fs6%2F1
+[/us/pl/89/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F561
 [/us/stat/80/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F714
 [/us/act/1902-06-17/ch1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-06-17%2Fch1093
 [/us/stat/32/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F388
@@ -55,6 +55,6 @@
 [/us/pl/89/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F561
 [/us/usc/t16/s835j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs835j
 [/us/usc/t16/s832h/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs832h%2Fc
-[/us/pl/89/561/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F561%2Fs6%2F2
+[/us/pl/89/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F561
 
 

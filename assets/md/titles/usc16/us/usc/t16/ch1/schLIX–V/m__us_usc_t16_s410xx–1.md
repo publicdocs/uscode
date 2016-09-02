@@ -35,7 +35,7 @@
 
         (6) In a manner consistent with paragraphs (1) through (5), to provide opportunities for scientific research.
 
-([Pub. L. 102–525, title II, § 202][/us/pl/102/525/s202], Oct. 26, 1992, [106 Stat. 3440][/us/stat/106/3440].)
+([Pub. L. 102–525, title II][/us/pl/102/525/tII], § 202, Oct. 26, 1992, [106 Stat. 3440][/us/stat/106/3440].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
-[/us/pl/102/525/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F525%2Fs202
+[/us/pl/102/525/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F525%2FtII
 [/us/stat/106/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3440
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1

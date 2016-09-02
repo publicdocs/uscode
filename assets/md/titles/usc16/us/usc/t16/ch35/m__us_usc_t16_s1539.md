@@ -259,15 +259,15 @@
 
         (3) The Secretary, with respect to populations of endangered species or threatened species that the Secretary authorized, before October 13, 1982, for release in geographical areas separate from the other populations of such species, shall determine by regulation which of such populations are an experimental population for the purposes of this subsection and whether or not each is essential to the continued existence of an endangered species or a threatened species.
 
-([Pub. L. 93–205, § 10][/us/pl/93/205/s10], Dec. 28, 1973, [87 Stat. 896][/us/stat/87/896]; [Pub. L. 94–359][/us/pl/94/359], §§ 2, 3, July 12, 1976, [90 Stat. 911][/us/stat/90/911], 912; [Pub. L. 95–632, § 5][/us/pl/95/632/s5], Nov. 10, 1978, [92 Stat. 3760][/us/stat/92/3760]; [Pub. L. 96–159, § 7][/us/pl/96/159/s7], Dec. 28, 1979, [93 Stat. 1230][/us/stat/93/1230]; [Pub. L. 97–304, § 6(1)][/us/pl/97/304/s6/1]–(4)(A), (5), (6), Oct. 13, 1982, [96 Stat. 1422–1424][/us/stat/96/1422-1424]; [Pub. L. 100–478, title I][/us/pl/100/478], §§ 1011, 1013(b), (c), Oct. 7, 1988, [102 Stat. 2314][/us/stat/102/2314], 2315.)
+([Pub. L. 93–205][/us/pl/93/205], § 10, Dec. 28, 1973, [87 Stat. 896][/us/stat/87/896]; [Pub. L. 94–359][/us/pl/94/359], §§ 2, 3, July 12, 1976, [90 Stat. 911][/us/stat/90/911], 912; [Pub. L. 95–632][/us/pl/95/632], § 5, Nov. 10, 1978, [92 Stat. 3760][/us/stat/92/3760]; [Pub. L. 96–159][/us/pl/96/159], § 7, Dec. 28, 1979, [93 Stat. 1230][/us/stat/93/1230]; [Pub. L. 97–304][/us/pl/97/304], § 6(1)–(4)(A), (5), (6), Oct. 13, 1982, [96 Stat. 1422–1424][/us/stat/96/1422-1424]; [Pub. L. 100–478, title I][/us/pl/100/478/tI], §§ 1011, 1013(b), (c), Oct. 7, 1988, [102 Stat. 2314][/us/stat/102/2314], 2315.)
 
  __References in Text__ 
 
     This chapter, referred to in text, was in the original “this Act”, except for “the Act” in subsec. (f)(6)(B), meaning [Pub. L. 93–205][/us/pl/93/205], Dec. 28, 1973, [81 Stat. 884][/us/stat/81/884], known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title][/us/usc/t16/s1531] and Tables.
 
-    [Section 668cc–3 of this title][/us/usc/t16/s668cc–3], referred to in subsec. (b), was repealed by [Pub. L. 93–205, § 14][/us/pl/93/205/s14], Dec. 28, 1973, [87 Stat. 903][/us/stat/87/903].
+    [Section 668cc–3 of this title][/us/usc/t16/s668cc–3], referred to in subsec. (b), was repealed by [Pub. L. 93–205][/us/pl/93/205], § 14, Dec. 28, 1973, [87 Stat. 903][/us/stat/87/903].
 
-    Subsec. (f) of [section 1533 of this title][/us/usc/t16/s1533], referred to in subsec. (f)(5), which related to promulgation of regulations by the Secretary was struck out, and subsec. (g) of [section 1533 of this title][/us/usc/t16/s1533], was redesignated as subsec. (f), by [Pub. L. 97–304, § 2(a)(4)(B)][/us/pl/97/304/s2/a/4/B], (C), Oct. 13, 1982, [96 Stat. 1415][/us/stat/96/1415]. For provisions relating to promulgation of regulations, see subsecs. (b) and (h) of [section 1533 of this title][/us/usc/t16/s1533].
+    Subsec. (f) of [section 1533 of this title][/us/usc/t16/s1533], referred to in subsec. (f)(5), which related to promulgation of regulations by the Secretary was struck out, and subsec. (g) of [section 1533 of this title][/us/usc/t16/s1533], was redesignated as subsec. (f), by [Pub. L. 97–304][/us/pl/97/304], § 2(a)(4)(B), (C), Oct. 13, 1982, [96 Stat. 1415][/us/stat/96/1415]. For provisions relating to promulgation of regulations, see subsecs. (b) and (h) of [section 1533 of this title][/us/usc/t16/s1533].
 
     Effective date of this subsection, referred to in subsec. (f)(6)(A), probably means the date of enactment of subsec. (f) by [section 2 of Pub. L. 94–359][/us/pl/94/359/s2], July 12, 1976.
 
@@ -275,45 +275,45 @@
 
  __Amendments__ 
 
-    1988—Subsec. (c). [Pub. L. 100–478, § 1013(b)][/us/pl/100/478/s1013/b], substituted “notice, of” for “notice,” in second sentence.
+    1988—Subsec. (c). [Pub. L. 100–478][/us/pl/100/478], § 1013(b), substituted “notice, of” for “notice,” in second sentence.
 
-    Subsec. (e)(3)(ii). [Pub. L. 100–478, § 1013(c)][/us/pl/100/478/s1013/c], substituted “lacing,” for “lacking,”.
+    Subsec. (e)(3)(ii). [Pub. L. 100–478][/us/pl/100/478], § 1013(c), substituted “lacing,” for “lacking,”.
 
-    Subsec. (f)(8)(A). [Pub. L. 100–478, § 1011(a)][/us/pl/100/478/s1011/a], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Any person to whom a certificate of exemption has been issued under paragraph (4) of this subsection may apply to the Secretary for a renewal of such exemption for a period not to exceed three years beginning on the expiration date of such certificate. Such application shall be made in the same manner as the application for exemption was made under paragraph (3), but without regard to subparagraph (A) of such paragraph.”
+    Subsec. (f)(8)(A). [Pub. L. 100–478][/us/pl/100/478], § 1011(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Any person to whom a certificate of exemption has been issued under paragraph (4) of this subsection may apply to the Secretary for a renewal of such exemption for a period not to exceed three years beginning on the expiration date of such certificate. Such application shall be made in the same manner as the application for exemption was made under paragraph (3), but without regard to subparagraph (A) of such paragraph.”
 
-    Subsec. (f)(8)(B). [Pub. L. 100–478, § 1011(b)][/us/pl/100/478/s1011/b], substituted “previous” for “original”.
+    Subsec. (f)(8)(B). [Pub. L. 100–478][/us/pl/100/478], § 1011(b), substituted “previous” for “original”.
 
-    Subsec. (f)(8)(D). [Pub. L. 100–478, § 1011(c)][/us/pl/100/478/s1011/c], added subpar. (D).
+    Subsec. (f)(8)(D). [Pub. L. 100–478][/us/pl/100/478], § 1011(c), added subpar. (D).
 
-    Subsec. (f)(9). [Pub. L. 100–478, § 1011(d)][/us/pl/100/478/s1011/d], struck out par. (9) which provided for comprehensive review by Secretary of effectiveness of regulations prescribed pursuant to subsec. (f)(5) of this section.
+    Subsec. (f)(9). [Pub. L. 100–478][/us/pl/100/478], § 1011(d), struck out par. (9) which provided for comprehensive review by Secretary of effectiveness of regulations prescribed pursuant to subsec. (f)(5) of this section.
 
-    1982—Subsec. (a). [Pub. L. 97–304, § 6(1)][/us/pl/97/304/s6/1], designated as par. (1) and the beginning phrase of subpar. (A) thereof the existing provisions consisting of language authorizing the Secretary to permit, under such terms and conditions as he may prescribe, any act otherwise prohibited by [section 1538 of this title][/us/usc/t16/s1538] for scientific purposes or to enhance the propagation or survival of the affected species, and inserted remainder of par. (1)(A) and pars. (1)(B) and (2).
+    1982—Subsec. (a). [Pub. L. 97–304][/us/pl/97/304], § 6(1), designated as par. (1) and the beginning phrase of subpar. (A) thereof the existing provisions consisting of language authorizing the Secretary to permit, under such terms and conditions as he may prescribe, any act otherwise prohibited by [section 1538 of this title][/us/usc/t16/s1538] for scientific purposes or to enhance the propagation or survival of the affected species, and inserted remainder of par. (1)(A) and pars. (1)(B) and (2).
 
-    Subsec. (d). [Pub. L. 97–304, § 6(2)][/us/pl/97/304/s6/2], substituted “subsections (a)(1)(A) and (b) of this section” for “subsections (a) and (b) of this section”.
+    Subsec. (d). [Pub. L. 97–304][/us/pl/97/304], § 6(2), substituted “subsections (a)(1)(A) and (b) of this section” for “subsections (a) and (b) of this section”.
 
-    Subsec. (f)(1)(B). [Pub. L. 97–304, § 6(3)(A)][/us/pl/97/304/s6/3/A], substituted “involves the substantial etching or engraving of designs upon, or the substantial carving of figures” for “involves the etching or engraving of designs upon, or the carving of figures” and inserted provision that, for purposes of this subsection, polishing or the adding of minor superficial markings does not constitute substantial etching, engraving, or carving.
+    Subsec. (f)(1)(B). [Pub. L. 97–304][/us/pl/97/304], § 6(3)(A), substituted “involves the substantial etching or engraving of designs upon, or the substantial carving of figures” for “involves the etching or engraving of designs upon, or the carving of figures” and inserted provision that, for purposes of this subsection, polishing or the adding of minor superficial markings does not constitute substantial etching, engraving, or carving.
 
-    Subsec. (f)(9). [Pub. L. 97–304, § 6(3)(B)][/us/pl/97/304/s6/3/B], added par. (9).
+    Subsec. (f)(9). [Pub. L. 97–304][/us/pl/97/304], § 6(3)(B), added par. (9).
 
-    Subsec. (h)(1). [Pub. L. 97–304, § 6(4)(A)][/us/pl/97/304/s6/4/A], struck out “(other than scrimshaw)” after “do not apply to any article” in provisions preceding subpar. (A) and in subpar. (A) substituted “is not less than 100 years of age” for “was made before 1830”.
+    Subsec. (h)(1). [Pub. L. 97–304][/us/pl/97/304], § 6(4)(A), struck out “(other than scrimshaw)” after “do not apply to any article” in provisions preceding subpar. (A) and in subpar. (A) substituted “is not less than 100 years of age” for “was made before 1830”.
 
-    Subsec. (i). [Pub. L. 97–304, § 6(5)][/us/pl/97/304/s6/5], substituted provisions covering noncommercial transshipments of fish or wildlife for provisions that had related to exemptions from the provisions of this title of the Tellico Dam and Reservoir Project and the Grayrocks Dam and Reservoir Project and to the operation of the Missouri Basin Power Project.
+    Subsec. (i). [Pub. L. 97–304][/us/pl/97/304], § 6(5), substituted provisions covering noncommercial transshipments of fish or wildlife for provisions that had related to exemptions from the provisions of this title of the Tellico Dam and Reservoir Project and the Grayrocks Dam and Reservoir Project and to the operation of the Missouri Basin Power Project.
 
-    Subsec. (j). [Pub. L. 97–304, § 6(6)][/us/pl/97/304/s6/6], added subsec. (j).
+    Subsec. (j). [Pub. L. 97–304][/us/pl/97/304], § 6(6), added subsec. (j).
 
-    1979—Subsec. (f)(4)(C). [Pub. L. 96–159, § 7(1)][/us/pl/96/159/s7/1], inserted “unless such exemption is renewed under paragraph (8)” after “issuance of the certificate”.
+    1979—Subsec. (f)(4)(C). [Pub. L. 96–159][/us/pl/96/159], § 7(1), inserted “unless such exemption is renewed under paragraph (8)” after “issuance of the certificate”.
 
-    Subsec. (f)(8). [Pub. L. 96–159, § 7(2)][/us/pl/96/159/s7/2], added par. (8).
+    Subsec. (f)(8). [Pub. L. 96–159][/us/pl/96/159], § 7(2), added par. (8).
 
     1978—Subsecs. (h), (i). [Pub. L. 95–632][/us/pl/95/632] added subsecs. (h) and (i).
 
-    1976—Subsec. (c). [Pub. L. 94–359, § 3][/us/pl/94/359/s3], substituted “section” for “subsection” and inserted “; except that such thirty-day period may be waived by the Secretary in an emergency situation where the health or life of an endangered animal is threatened and no reasonable alternative is available to the applicant, but notice of any such waiver shall be published by the Secretary in the Federal Register within ten days following the issuance of the exemption or permit.” after “every stage of the proceeding”.
+    1976—Subsec. (c). [Pub. L. 94–359][/us/pl/94/359], § 3, substituted “section” for “subsection” and inserted “; except that such thirty-day period may be waived by the Secretary in an emergency situation where the health or life of an endangered animal is threatened and no reasonable alternative is available to the applicant, but notice of any such waiver shall be published by the Secretary in the Federal Register within ten days following the issuance of the exemption or permit.” after “every stage of the proceeding”.
 
-    Subsecs. (f), (g). [Pub. L. 94–359, § 2][/us/pl/94/359/s2], added subsecs. (f) and (g).
+    Subsecs. (f), (g). [Pub. L. 94–359][/us/pl/94/359], § 2, added subsecs. (f) and (g).
 
  __Effective Date of 1982 Amendment__ 
 
-[Pub. L. 97–304, § 6(4)(B)][/us/pl/97/304/s6/4/B], Oct. 13, 1982, [96 Stat. 1424][/us/stat/96/1424], provided that: 
+[Pub. L. 97–304][/us/pl/97/304], § 6(4)(B), Oct. 13, 1982, [96 Stat. 1424][/us/stat/96/1424], provided that: 
 
 > “The amendment made by subparagraph (A) \[amending this section\] shall take effect January 1, 1981.”
 
@@ -323,7 +323,7 @@
 
  __Scrimshaw Exemptions__ 
 
-[Pub. L. 103–238, § 18][/us/pl/103/238/s18], Apr. 30, 1994, [108 Stat. 559][/us/stat/108/559], provided that: 
+[Pub. L. 103–238][/us/pl/103/238], § 18, Apr. 30, 1994, [108 Stat. 559][/us/stat/108/559], provided that: 
 
 > “Notwithstanding any other provision of law, any valid certificate of exemption renewed by the Secretary (or deemed to be renewed) under section 10(f)(8) of the Endangered Species Act of 1973 ([16 U.S.C. 1539(f)(8)][/us/usc/t16/s1539/f/8]) for any person holding such a certificate with respect to the possession of pre-Act finished scrimshaw products or raw material for such products shall remain valid for a period not to exceed 5 years beginning on the date of enactment of this Act \[Apr. 30, 1994\].”
 
@@ -351,54 +351,54 @@
 [/us/usc/t16/s1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1540
 [/us/usc/t16/s1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1536
 [/us/usc/t16/s1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1533
-[/us/pl/93/205/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205%2Fs10
+[/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F896
 [/us/pl/94/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F359
 [/us/stat/90/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F911
-[/us/pl/95/632/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F632%2Fs5
+[/us/pl/95/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F632
 [/us/stat/92/3760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3760
-[/us/pl/96/159/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159%2Fs7
+[/us/pl/96/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159
 [/us/stat/93/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1230
-[/us/pl/97/304/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs6%2F1
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
 [/us/stat/96/1422-1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1422-1424
-[/us/pl/100/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478
+[/us/pl/100/478/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2FtI
 [/us/stat/102/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2314
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/81/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F884
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/usc/t16/s668cc–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668cc%E2%80%933
-[/us/pl/93/205/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205%2Fs14
+[/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F903
 [/us/usc/t16/s1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1533
 [/us/usc/t16/s1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1533
-[/us/pl/97/304/s2/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs2%2Fa%2F4%2FB
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
 [/us/stat/96/1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1415
 [/us/usc/t16/s1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1533
 [/us/pl/94/359/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F359%2Fs2
 [/us/pl/100/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478
-[/us/pl/100/478/s1013/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2Fs1013%2Fb
-[/us/pl/100/478/s1013/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2Fs1013%2Fc
-[/us/pl/100/478/s1011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2Fs1011%2Fa
-[/us/pl/100/478/s1011/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2Fs1011%2Fb
-[/us/pl/100/478/s1011/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2Fs1011%2Fc
-[/us/pl/100/478/s1011/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2Fs1011%2Fd
-[/us/pl/97/304/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs6%2F1
+[/us/pl/100/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478
+[/us/pl/100/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478
+[/us/pl/100/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478
+[/us/pl/100/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478
+[/us/pl/100/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478
+[/us/pl/100/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
 [/us/usc/t16/s1538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1538
-[/us/pl/97/304/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs6%2F2
-[/us/pl/97/304/s6/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs6%2F3%2FA
-[/us/pl/97/304/s6/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs6%2F3%2FB
-[/us/pl/97/304/s6/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs6%2F4%2FA
-[/us/pl/97/304/s6/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs6%2F5
-[/us/pl/97/304/s6/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs6%2F6
-[/us/pl/96/159/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159%2Fs7%2F1
-[/us/pl/96/159/s7/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159%2Fs7%2F2
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
+[/us/pl/96/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159
+[/us/pl/96/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F159
 [/us/pl/95/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F632
-[/us/pl/94/359/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F359%2Fs3
-[/us/pl/94/359/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F359%2Fs2
-[/us/pl/97/304/s6/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs6%2F4%2FB
+[/us/pl/94/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F359
+[/us/pl/94/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F359
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
 [/us/stat/96/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1424
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/103/238/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs18
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
 [/us/stat/108/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F559
 [/us/usc/t16/s1539/f/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1539%2Ff%2F8
 

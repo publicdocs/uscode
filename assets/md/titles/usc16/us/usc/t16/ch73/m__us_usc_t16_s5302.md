@@ -23,7 +23,7 @@
 
     (3) To prohibit the sale, importation, and exportation of products intended for human consumption or application containing, or labeled or advertised as containing, any substance derived from any species of rhinoceros or tiger.
 
-([Pub. L. 103–391, § 3][/us/pl/103/391/s3], Oct. 22, 1994, [108 Stat. 4095][/us/stat/108/4095]; [Pub. L. 105–312, title IV, § 403][/us/pl/105/312/s403], Oct. 30, 1998, [112 Stat. 2959][/us/stat/112/2959].)
+([Pub. L. 103–391][/us/pl/103/391], § 3, Oct. 22, 1994, [108 Stat. 4095][/us/stat/108/4095]; [Pub. L. 105–312, title IV][/us/pl/105/312/tIV], § 403, Oct. 30, 1998, [112 Stat. 2959][/us/stat/112/2959].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/103/391/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F391%2Fs3
+[/us/pl/103/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F391
 [/us/stat/108/4095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4095
-[/us/pl/105/312/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312%2Fs403
+[/us/pl/105/312/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312%2FtIV
 [/us/stat/112/2959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2959
 [/us/pl/105/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F312
 

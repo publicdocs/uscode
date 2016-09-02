@@ -17,7 +17,7 @@
 
     The boundary of Pictured Rocks National Lakeshore is hereby modified as depicted on the map entitled “Area Proposed for Addition to Pictured Rocks National Lakeshore”, numbered 625–80,043A, and dated July 1992.
 
-([Pub. L. 104–333, div. I, title II, § 203][/us/pl/104/333/s203], Nov. 12, 1996, [110 Stat. 4106][/us/stat/110/4106].)
+([Pub. L. 104–333, div. I, title II][/us/pl/104/333/dI/tII], § 203, Nov. 12, 1996, [110 Stat. 4106][/us/stat/110/4106].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/104/333/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs203
+[/us/pl/104/333/dI/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtII
 [/us/stat/110/4106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4106
 [/us/pl/89/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F668
 

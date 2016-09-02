@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch17/m__us_usc_t16_ch17.md) | [Next](./../../../..//us/usc/t16/ch18/m__us_usc_t16_s1001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch18)
+[Previous](./../../../..//us/usc/t16/ch17/m__us_usc_t16_s981...991.md) | [Next](./../../../..//us/usc/t16/ch18/m__us_usc_t16_s1001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch18)
 
 ## CHAPTER 18—WATERSHED PROTECTION AND FLOOD PREVENTION
 
@@ -155,7 +155,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch17/m__us_usc_t16_ch17.md) | [Next](./../../../..//us/usc/t16/ch18/m__us_usc_t16_s1001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch18)
+[Previous](./../../../..//us/usc/t16/ch17/m__us_usc_t16_s981...991.md) | [Next](./../../../..//us/usc/t16/ch18/m__us_usc_t16_s1001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch18)
 
 ----------
 ----------

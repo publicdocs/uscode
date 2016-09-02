@@ -17,7 +17,7 @@
 
     For the purpose of recognizing the vital contribution of our wildlife resources to the Nation, the increasing public interest and significance thereof due to expansion of our national economy and other factors, and to provide that wildlife conservation shall receive equal consideration and be coordinated with other features of water-resource development programs through the effectual and harmonious planning, development, maintenance, and coordination of wildlife conservation and rehabilitation for the purposes of sections 661 to 666c of this title in the United States, its Territories and possessions, the Secretary of the Interior is authorized (1) to provide assistance to, and cooperate with, Federal, State, and public or private agencies and organizations in the development, protection, rearing, and stocking of all species of wildlife, resources thereof, and their habitat, in controlling losses of the same from disease or other causes, in minimizing damages from overabundant species, in providing public shooting and fishing areas, including easements across public lands for access thereto, and in carrying out other measures necessary to effectuate the purposes of said sections; (2) to make surveys and investigations of the wildlife of the public domain, including lands and waters or interests therein acquired or controlled by any agency of the United States; and (3) to accept donations of land and contributions of funds in furtherance of the purposes of said sections.
 
-([Mar. 10, 1934, ch. 55, § 1][/us/act/1934-03-10/ch55/s1], [48 Stat. 401][/us/stat/48/401]; 1939 Reorg. Plan No. II, § 4(e), (f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; [Aug. 14, 1946, ch. 965][/us/act/1946-08-14/ch965], [60 Stat. 1080][/us/stat/60/1080]; [Pub. L. 85–624, § 2][/us/pl/85/624/s2], Aug. 12, 1958, [72 Stat. 563][/us/stat/72/563].)
+([Mar. 10, 1934, ch. 55][/us/act/1934-03-10/ch55], § 1, [48 Stat. 401][/us/stat/48/401]; 1939 Reorg. Plan No. II, § 4(e), (f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; [Aug. 14, 1946, ch. 965][/us/act/1946-08-14/ch965], [60 Stat. 1080][/us/stat/60/1080]; [Pub. L. 85–624][/us/pl/85/624], § 2, Aug. 12, 1958, [72 Stat. 563][/us/stat/72/563].)
 
  __Amendments__ 
 
@@ -27,7 +27,7 @@
 
  __Short Title__ 
 
-[Pub. L. 85–624, § 1][/us/pl/85/624/s1], Aug. 12, 1958, [72 Stat. 563][/us/stat/72/563], provided: 
+[Pub. L. 85–624][/us/pl/85/624], § 1, Aug. 12, 1958, [72 Stat. 563][/us/stat/72/563], provided: 
 
 > “That the Act of March 10, 1934, as amended, and as further amended by this Act \[sections 661 to 666c of this title\] may be cited as the ‘Fish and Wildlife Coordination Act’.”
 
@@ -45,7 +45,7 @@
 
  __Appropriations__ 
 
-[Pub. L. 85–624, § 4][/us/pl/85/624/s4], Aug. 12, 1958, [72 Stat. 568][/us/stat/72/568], provided that: 
+[Pub. L. 85–624][/us/pl/85/624], § 4, Aug. 12, 1958, [72 Stat. 568][/us/stat/72/568], provided that: 
 
 > “There is authorized to be appropriated and expended such funds as may be necessary to carry out the purposes of this Act \[amending this section and sections 662 to 664 of this title and enacting [section 1008 of this title][/us/usc/t16/s1008]\].”
 
@@ -92,15 +92,15 @@ Sec. 2. Federal Activities. Federal agencies shall, consistent with agency missi
 ----------
 ----------
 
-[/us/act/1934-03-10/ch55/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-10%2Fch55%2Fs1
+[/us/act/1934-03-10/ch55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-10%2Fch55
 [/us/stat/48/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F401
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
 [/us/act/1946-08-14/ch965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch965
 [/us/stat/60/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1080
-[/us/pl/85/624/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F624%2Fs2
+[/us/pl/85/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F624
 [/us/stat/72/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F563
 [/us/pl/85/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F624
-[/us/pl/85/624/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F624%2Fs1
+[/us/pl/85/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F624
 [/us/stat/72/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F563
 [/us/stat/93/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1373
 [/us/pl/102/486/s3012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3012%2Fb
@@ -109,7 +109,7 @@ Sec. 2. Federal Activities. Federal agencies shall, consistent with agency missi
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 [/us/usc/t7/s434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs434
 [/us/stat/54/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1232
-[/us/pl/85/624/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F624%2Fs4
+[/us/pl/85/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F624
 [/us/stat/72/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F568
 [/us/usc/t16/s1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1008
 [/us/act/1948-05-26/ch348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-05-26%2Fch348

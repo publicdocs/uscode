@@ -17,7 +17,7 @@
 
     The boundary of the Big Bend National Park in the State of Texas is hereby revised to include the lands and interests therein within the area generally depicted on the map entitled “Big Bend National Park, Boundary Additions”, numbered 155/80,019–A and dated June 1980 which shall be on file and available for public inspection in the local and Washington, District of Columbia, Offices of the National Park Service, Department of the Interior. The Secretary is authorized to acquire the lands and interests therein added to the park by this section by donation, purchase with donated or appropriated funds, or exchange, except that lands and interests therein owned by the State of Texas or any political subdivision thereof may be acquired only by donation or exchange. There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section, but not to exceed $1,500,000 for the acquisition of lands and interests therein.
 
-([Pub. L. 96–607, title IV, § 401][/us/pl/96/607/s401], Dec. 28, 1980, [94 Stat. 3539][/us/stat/94/3539].)
+([Pub. L. 96–607, title IV][/us/pl/96/607/tIV], § 401, Dec. 28, 1980, [94 Stat. 3539][/us/stat/94/3539].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/607/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607%2Fs401
+[/us/pl/96/607/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607%2FtIV
 [/us/stat/94/3539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3539
 
 

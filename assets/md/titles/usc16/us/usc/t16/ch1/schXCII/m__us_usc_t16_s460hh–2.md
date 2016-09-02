@@ -17,7 +17,7 @@
 
     The Secretary shall permit hunting and fishing on lands and waters within the recreation area in accordance with applicable Federal and State laws: Provided, That he may designate zones where, and establish periods when, no hunting or fishing will be permitted for reasons of public safety, administration, fish or wildlife management, or public use and enjoyment. Except in emergencies, any regulations issued by the Secretary pursuant to this section shall be put into effect only after consultation with the appropriate State agency responsible for hunting and fishing activities.
 
-([Pub. L. 94–235, § 3][/us/pl/94/235/s3], Mar. 17, 1976, [90 Stat. 236][/us/stat/90/236].)
+([Pub. L. 94–235][/us/pl/94/235], § 3, Mar. 17, 1976, [90 Stat. 236][/us/stat/90/236].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/235/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F235%2Fs3
+[/us/pl/94/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F235
 [/us/stat/90/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F236
 
 

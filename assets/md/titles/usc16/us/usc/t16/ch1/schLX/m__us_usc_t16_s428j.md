@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Mar. 26, 1928, ch. 248, § 11][/us/act/1928-03-26/ch248/s11], [45 Stat. 369][/us/stat/45/369], appropriated $50,000 to be expended for purposes of sections 428 to 428d, 428e to 428i of this title.
+    Section, [act Mar. 26, 1928, ch. 248][/us/act/1928-03-26/ch248], § 11, [45 Stat. 369][/us/stat/45/369], appropriated $50,000 to be expended for purposes of sections 428 to 428d, 428e to 428i of this title.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1928-03-26/ch248/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-26%2Fch248%2Fs11
+[/us/act/1928-03-26/ch248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-26%2Fch248
 [/us/stat/45/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F369
 
 

@@ -17,7 +17,7 @@
 
     The Secretary is authorized to construct a visitor center in the preserve for the purpose of providing information through appropriate displays, printed material, and other interpretive programs, about the resources of the preserve.
 
-([Pub. L. 103–433, title V, § 515][/us/pl/103/433/s515], Oct. 31, 1994, [108 Stat. 4494][/us/stat/108/4494].)
+([Pub. L. 103–433, title V][/us/pl/103/433/tV], § 515, Oct. 31, 1994, [108 Stat. 4494][/us/stat/108/4494].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/433/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs515
+[/us/pl/103/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtV
 [/us/stat/108/4494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4494
 
 

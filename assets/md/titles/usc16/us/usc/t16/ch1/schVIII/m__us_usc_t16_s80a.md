@@ -17,7 +17,7 @@
 
     The General Grant National Park is abolished, and the west half of section 33, township 13 south, range 28 east, and west half of section 4, all of section 8 and the northwest quarter of section 9, township 14 south, range 28 east, Mount Diablo meridian, California, together with the lands formerly within the General Grant National Park, California, and particularly described as follows, to wit: All of sections 31 and 32, township 13 south, range 28 east, and sections 5 and 6, township 14 south, range 28 east, of the same meridian, are, subject to valid existing rights, added to and made a part of the Kings Canyon National Park and such lands shall be known as the General Grant grove section of the said park. The General Grant grove section of the Kings Canyon National Park may, by proclamation of the President, be extended to include the following described lands, to wit: Section 9, south half, section 10, southwest quarter, and that part of the east half south of Generals Highway; section 11, that part south of Generals Highway; section 13, that part south of Generals Highway; section 14, that part south of Generals Highway, section 15, east half, northwest quarter, and the southeast quarter of the southwest quarter, section 21, southeast quarter of the northeast quarter, and the east half of the southeast quarter; section 22, east half, east half of the northwest quarter, southwest quarter of the northwest quarter and southwest quarter; section 23; section 24, that part south of Generals Highway; sections 25 and 26; section 27, east half, northwest quarter, and that part of the southwest quarter north and east of the crest of Redwood Mountain; section 34, that part east of the crest of Redwood Mountain; sections 35 and 36, township 14 south, range 28 east; all of sections 1 and 2; section 3, that part east of the crest of Redwood Mountain; section 11, that part east and north of the crest of Redwood Mountain; all of section 12; section 13, that part north of the Sequoia National Park boundary, township 15 south, range 28 east, Mount Diablo meridian, which shall be subject to all laws, rules, and regulations applicable to the said park. Such extension of the General Grant grove section of the said park shall not interfere with the movement of stock and vehicular traffic without charge, under general regulations to be prescribed by the Secretary of the Interior, to and from national forest lands on either side of the said park extension. The Kings Canyon National Park shall receive and use all moneys prior to or after March 4, 1940, appropriated for General Grant National Park.
 
-([Mar. 4, 1940, ch. 40, § 2][/us/act/1940-03-04/ch40/s2], [54 Stat. 43][/us/stat/54/43].)
+([Mar. 4, 1940, ch. 40][/us/act/1940-03-04/ch40], § 2, [54 Stat. 43][/us/stat/54/43].)
 
  __Nation’s Christmas Tree__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/act/1940-03-04/ch40/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-03-04%2Fch40%2Fs2
+[/us/act/1940-03-04/ch40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-03-04%2Fch40
 [/us/stat/54/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F43
 [/us/act/1956-03-29/ch98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-03-29%2Fch98
 [/us/stat/70/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F57

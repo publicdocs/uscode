@@ -27,7 +27,7 @@
 
         The Secretaries may enter into cooperative agreements with the Atlantic States Marine Fisheries Commission or with States, for the purpose of using amounts appropriated pursuant to this section to provide financial assistance for carrying out the purposes of this chapter.
 
-([Pub. L. 98–613, § 7][/us/pl/98/613/s7], Oct. 31, 1984, [98 Stat. 3190][/us/stat/98/3190]; [Pub. L. 99–432, § 4][/us/pl/99/432/s4], Oct. 1, 1986, [100 Stat. 990][/us/stat/100/990]; [Pub. L. 100–589, § 1][/us/pl/100/589/s1], Nov. 3, 1988, [102 Stat. 2984][/us/stat/102/2984]; [Pub. L. 102–130, § 2(b)][/us/pl/102/130/s2/b], Oct. 17, 1991, [105 Stat. 626][/us/stat/105/626]; [Pub. L. 105–146, § 2][/us/pl/105/146/s2], Dec. 16, 1997, [111 Stat. 2676][/us/stat/111/2676]; [Pub. L. 106–555, title I, § 101][/us/pl/106/555/s101], Dec. 21, 2000, [114 Stat. 2765][/us/stat/114/2765]; [Pub. L. 109–479, title III, § 302(a)][/us/pl/109/479/s302/a], Jan. 12, 2007, [120 Stat. 3623][/us/stat/120/3623].)
+([Pub. L. 98–613][/us/pl/98/613], § 7, Oct. 31, 1984, [98 Stat. 3190][/us/stat/98/3190]; [Pub. L. 99–432][/us/pl/99/432], § 4, Oct. 1, 1986, [100 Stat. 990][/us/stat/100/990]; [Pub. L. 100–589][/us/pl/100/589], § 1, Nov. 3, 1988, [102 Stat. 2984][/us/stat/102/2984]; [Pub. L. 102–130][/us/pl/102/130], § 2(b), Oct. 17, 1991, [105 Stat. 626][/us/stat/105/626]; [Pub. L. 105–146][/us/pl/105/146], § 2, Dec. 16, 1997, [111 Stat. 2676][/us/stat/111/2676]; [Pub. L. 106–555, title I][/us/pl/106/555/tI], § 101, Dec. 21, 2000, [114 Stat. 2765][/us/stat/114/2765]; [Pub. L. 109–479, title III][/us/pl/109/479/tIII], § 302(a), Jan. 12, 2007, [120 Stat. 3623][/us/stat/120/3623].)
 
  __Amendments__ 
 
@@ -41,9 +41,9 @@
 
     1997—[Pub. L. 105–146][/us/pl/105/146] amended section catchline and text generally. Prior to amendment, section authorized appropriations for fiscal years 1986 through 1994 and authorized the Secretaries to enter into cooperative agreements with the Atlantic States Marine Fisheries Commission.
 
-    1991—[Pub. L. 102–130, § 2(b)(4)][/us/pl/102/130/s2/b/4], in section catchline inserted at end “; cooperative agreements”.
+    1991—[Pub. L. 102–130][/us/pl/102/130], § 2(b)(4), in section catchline inserted at end “; cooperative agreements”.
 
-    [Pub. L. 102–130, § 2(b)(1)][/us/pl/102/130/s2/b/1]–(3), designated existing provisions as subsec. (a), inserted subsec. heading, substituted “1991, 1992, 1993, and 1994,” for “and 1991,”, and added subsec. (b).
+    [Pub. L. 102–130][/us/pl/102/130], § 2(b)(1)–(3), designated existing provisions as subsec. (a), inserted subsec. heading, substituted “1991, 1992, 1993, and 1994,” for “and 1991,”, and added subsec. (b).
 
     1988—[Pub. L. 100–589][/us/pl/100/589] substituted “1988, 1989, 1990, and 1991,” for “and 1988,”.
 
@@ -56,25 +56,25 @@
 ----------
 ----------
 
-[/us/pl/98/613/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F613%2Fs7
+[/us/pl/98/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F613
 [/us/stat/98/3190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3190
-[/us/pl/99/432/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F432%2Fs4
+[/us/pl/99/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F432
 [/us/stat/100/990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F990
-[/us/pl/100/589/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F589%2Fs1
+[/us/pl/100/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F589
 [/us/stat/102/2984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2984
-[/us/pl/102/130/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F130%2Fs2%2Fb
+[/us/pl/102/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F130
 [/us/stat/105/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F626
-[/us/pl/105/146/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F146%2Fs2
+[/us/pl/105/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F146
 [/us/stat/111/2676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2676
-[/us/pl/106/555/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F555%2Fs101
+[/us/pl/106/555/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F555%2FtI
 [/us/stat/114/2765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2765
-[/us/pl/109/479/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs302%2Fa
+[/us/pl/109/479/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtIII
 [/us/stat/120/3623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3623
 [/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
 [/us/pl/106/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F555
 [/us/pl/105/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F146
-[/us/pl/102/130/s2/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F130%2Fs2%2Fb%2F4
-[/us/pl/102/130/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F130%2Fs2%2Fb%2F1
+[/us/pl/102/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F130
+[/us/pl/102/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F130
 [/us/pl/100/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F589
 [/us/pl/99/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F432
 

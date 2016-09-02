@@ -35,7 +35,7 @@
 
         The operator of any vessel from which any fish taken in the Licensing Area is unloaded shall allow, or arrange for, and assist any individual so authorized by the Pacific Island Parties to have full access to any place where such fish is unloaded, to remove samples, and to gather any other information relating to fisheries in the Licensing Area.
 
-([Pub. L. 100–330, § 14][/us/pl/100/330/s14], June 7, 1988, [102 Stat. 599][/us/stat/102/599].)
+([Pub. L. 100–330][/us/pl/100/330], § 14, June 7, 1988, [102 Stat. 599][/us/stat/102/599].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/100/330/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F330%2Fs14
+[/us/pl/100/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F330
 [/us/stat/102/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F599
 
 

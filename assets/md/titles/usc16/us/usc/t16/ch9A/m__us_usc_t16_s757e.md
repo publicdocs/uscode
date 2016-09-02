@@ -17,7 +17,7 @@
 
     Sections 757a to 757f of this title shall not be construed to affect, modify, or apply to the same area as the provisions of sections 755 to 757 of this title. The State of Idaho shall be eligible on an equal standing with other States for Federal funding for purposes authorized by sections 757a to 757f of this title.
 
-([Pub. L. 89–304, § 5][/us/pl/89/304/s5], Oct. 30, 1965, [79 Stat. 1126][/us/stat/79/1126]; [Pub. L. 98–146, title I][/us/pl/98/146], Nov. 4, 1983, [97 Stat. 922][/us/stat/97/922].)
+([Pub. L. 89–304][/us/pl/89/304], § 5, Oct. 30, 1965, [79 Stat. 1126][/us/stat/79/1126]; [Pub. L. 98–146, title I][/us/pl/98/146/tI], Nov. 4, 1983, [97 Stat. 922][/us/stat/97/922].)
 
  __Codification__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/89/304/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F304%2Fs5
+[/us/pl/89/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F304
 [/us/stat/79/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1126
-[/us/pl/98/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F146
+[/us/pl/98/146/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F146%2FtI
 [/us/stat/97/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F922
 [/us/pl/98/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F146
 [/us/usc/t16/s757e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs757e

@@ -17,7 +17,7 @@
 
     Funds appropriated and expended hereunder for construction of the buildings for the National Fisheries Center and Aquarium shall not exceed $10,000,000: Provided, That the expenditure of such funds shall be made subject to the condition that the Secretary of the Interior shall establish charges relating to visitation to and uses of the National Fisheries Center and Aquarium at such rates as in the Secretary’s judgment will produce revenues to (a) liquidate the costs of construction within a period of not to exceed thirty years and (b) pay for the annual operation and maintenance costs thereof.
 
-([Pub. L. 87–758, § 8][/us/pl/87/758/s8], Oct. 9, 1962, [76 Stat. 754][/us/stat/76/754].)
+([Pub. L. 87–758][/us/pl/87/758], § 8, Oct. 9, 1962, [76 Stat. 754][/us/stat/76/754].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/758/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F758%2Fs8
+[/us/pl/87/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F758
 [/us/stat/76/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F754
 
 

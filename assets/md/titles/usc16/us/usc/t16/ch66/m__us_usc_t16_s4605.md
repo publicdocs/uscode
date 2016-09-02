@@ -17,7 +17,7 @@
 
     The Secretary is authorized to enter into contracts and cooperative agreements and generally to do any and all lawful acts necessary or appropriate to further the purposes of the TPIA Program.
 
-([Pub. L. 101–628, title XI, § 1106][/us/pl/101/628/s1106], Nov. 28, 1990, [104 Stat. 4503][/us/stat/104/4503].)
+([Pub. L. 101–628, title XI][/us/pl/101/628/tXI], § 1106, Nov. 28, 1990, [104 Stat. 4503][/us/stat/104/4503].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/628/s1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628%2Fs1106
+[/us/pl/101/628/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628%2FtXI
 [/us/stat/104/4503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4503
 
 

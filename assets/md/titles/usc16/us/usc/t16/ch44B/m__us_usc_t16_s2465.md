@@ -27,7 +27,7 @@
 
         (2) the Secretary of the Interior shall refuse to issue a patent under the mining laws of the United States, or a lease under the laws of the United States related to mineral or geothermal leasing, to any such person who attempts to perfect such patent or lease application after the Under Secretary has made such determination.
 
-([Pub. L. 101–594, § 5][/us/pl/101/594/s5], formerly § 6, Nov. 16, 1990, [104 Stat. 2977][/us/stat/104/2977]; renumbered § 5, [Pub. L. 104–227, title II, § 202(c)][/us/pl/104/227/s202/c], Oct. 2, 1996, [110 Stat. 3044][/us/stat/110/3044].)
+([Pub. L. 101–594][/us/pl/101/594], § 5, formerly § 6, Nov. 16, 1990, [104 Stat. 2977][/us/stat/104/2977]; renumbered § 5, [Pub. L. 104–227, title II][/us/pl/104/227/tII], § 202(c), Oct. 2, 1996, [110 Stat. 3044][/us/stat/110/3044].)
 
  __References in Text__ 
 
@@ -46,9 +46,9 @@
 
 [/us/usc/t16/s2431–244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2431%E2%80%93244
 [/us/usc/t16/s2463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2463
-[/us/pl/101/594/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F594%2Fs5
+[/us/pl/101/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F594
 [/us/stat/104/2977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2977
-[/us/pl/104/227/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2Fs202%2Fc
+[/us/pl/104/227/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2FtII
 [/us/stat/110/3044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3044
 [/us/pl/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623
 [/us/stat/98/3398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3398

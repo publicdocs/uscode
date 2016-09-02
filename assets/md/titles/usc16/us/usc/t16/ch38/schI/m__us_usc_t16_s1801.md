@@ -79,11 +79,11 @@
 
         (7) to ensure that the fishery resources adjacent to a Pacific Insular Area, including resident or migratory stocks within the exclusive economic zone adjacent to such areas, be explored, developed, conserved, and managed for the benefit of the people of such area and of the United States.
 
-([Pub. L. 94–265, § 2][/us/pl/94/265/s2], Apr. 13, 1976, [90 Stat. 331][/us/stat/90/331]; [Pub. L. 95–354, § 2][/us/pl/95/354/s2], Aug. 28, 1978, [92 Stat. 519][/us/stat/92/519]; [Pub. L. 96–561, title II, § 233][/us/pl/96/561/s233], Dec. 22, 1980, [94 Stat. 3299][/us/stat/94/3299]; [Pub. L. 99–659, title I, § 101(c)(1)][/us/pl/99/659/s101/c/1], Nov. 14, 1986, [100 Stat. 3707][/us/stat/100/3707]; [Pub. L. 101–627, title I, § 101][/us/pl/101/627/s101], Nov. 28, 1990, [104 Stat. 4437][/us/stat/104/4437]; [Pub. L. 102–251, title III, § 301(a)][/us/pl/102/251/s301/a], Mar. 9, 1992, [106 Stat. 62][/us/stat/106/62]; [Pub. L. 104–297, title I, § 101][/us/pl/104/297/s101], Oct. 11, 1996, [110 Stat. 3560][/us/stat/110/3560]; [Pub. L. 109–479, § 3(a)][/us/pl/109/479/s3/a], title IV, § 402, Jan. 12, 2007, [120 Stat. 3577][/us/stat/120/3577], 3626.)
+([Pub. L. 94–265][/us/pl/94/265], § 2, Apr. 13, 1976, [90 Stat. 331][/us/stat/90/331]; [Pub. L. 95–354][/us/pl/95/354], § 2, Aug. 28, 1978, [92 Stat. 519][/us/stat/92/519]; [Pub. L. 96–561, title II][/us/pl/96/561/tII], § 233, Dec. 22, 1980, [94 Stat. 3299][/us/stat/94/3299]; [Pub. L. 99–659, title I][/us/pl/99/659/tI], § 101(c)(1), Nov. 14, 1986, [100 Stat. 3707][/us/stat/100/3707]; [Pub. L. 101–627, title I][/us/pl/101/627/tI], § 101, Nov. 28, 1990, [104 Stat. 4437][/us/stat/104/4437]; [Pub. L. 102–251, title III][/us/pl/102/251/tIII], § 301(a), Mar. 9, 1992, [106 Stat. 62][/us/stat/106/62]; [Pub. L. 104–297, title I][/us/pl/104/297/tI], § 101, Oct. 11, 1996, [110 Stat. 3560][/us/stat/110/3560]; [Pub. L. 109–479][/us/pl/109/479], § 3(a), title IV, § 402, Jan. 12, 2007, [120 Stat. 3577][/us/stat/120/3577], 3626.)
 
  __Amendment of Subsection (b)(1)__ 
 
-    [Pub. L. 102–251, title III][/us/pl/102/251], §§ 301(a), 308, Mar. 9, 1992, [106 Stat. 62][/us/stat/106/62], 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b)(1) is amended by inserting “, and fishery resources in the special areas” before the semicolon at the end.
+    [Pub. L. 102–251, title III][/us/pl/102/251/tIII], §§ 301(a), 308, Mar. 9, 1992, [106 Stat. 62][/us/stat/106/62], 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b)(1) is amended by inserting “, and fishery resources in the special areas” before the semicolon at the end.
 
  __References in Text__ 
 
@@ -93,49 +93,49 @@
 
  __Amendments__ 
 
-    2007—Subsec. (a)(11). [Pub. L. 109–479, § 3(a)][/us/pl/109/479/s3/a], added par. (11).
+    2007—Subsec. (a)(11). [Pub. L. 109–479][/us/pl/109/479], § 3(a), added par. (11).
 
-    Subsec. (a)(12). [Pub. L. 109–479, § 402][/us/pl/109/479/s402], added par. (12).
+    Subsec. (a)(12). [Pub. L. 109–479][/us/pl/109/479], § 402, added par. (12).
 
-    1996—Subsec. (a)(2). [Pub. L. 104–297, § 101(1)][/us/pl/104/297/s101/1], added par. (2) and struck out former par. (2) which read as follows: “As a consequence of increased fishing pressure and because of the inadequacy of fishery conservation and management practices and controls (A) certain stocks of such fish have been overfished to the point where their survival is threatened, and (B) other such stocks have been so substantially reduced in number that they could become similarly threatened.”
+    1996—Subsec. (a)(2). [Pub. L. 104–297][/us/pl/104/297], § 101(1), added par. (2) and struck out former par. (2) which read as follows: “As a consequence of increased fishing pressure and because of the inadequacy of fishery conservation and management practices and controls (A) certain stocks of such fish have been overfished to the point where their survival is threatened, and (B) other such stocks have been so substantially reduced in number that they could become similarly threatened.”
 
-    Subsec. (a)(6). [Pub. L. 104–297, § 101(2)][/us/pl/104/297/s101/2], inserted “to facilitate long-term protection of essential fish habitats,” after “to insure conservation,”.
+    Subsec. (a)(6). [Pub. L. 104–297][/us/pl/104/297], § 101(2), inserted “to facilitate long-term protection of essential fish habitats,” after “to insure conservation,”.
 
-    Subsec. (a)(9), (10). [Pub. L. 104–297, § 101(3)][/us/pl/104/297/s101/3], added pars. (9) and (10).
+    Subsec. (a)(9), (10). [Pub. L. 104–297][/us/pl/104/297], § 101(3), added pars. (9) and (10).
 
-    Subsec. (b)(3). [Pub. L. 104–297, § 101(4)][/us/pl/104/297/s101/4], substituted “principles, including the promotion of catch and release programs in recreational fishing” for “principles”.
+    Subsec. (b)(3). [Pub. L. 104–297][/us/pl/104/297], § 101(4), substituted “principles, including the promotion of catch and release programs in recreational fishing” for “principles”.
 
-    Subsec. (b)(5). [Pub. L. 104–297, § 101(5)][/us/pl/104/297/s101/5], struck out “and” after semicolon at end.
+    Subsec. (b)(5). [Pub. L. 104–297][/us/pl/104/297], § 101(5), struck out “and” after semicolon at end.
 
-    Subsec. (b)(6). [Pub. L. 104–297, § 101(6)][/us/pl/104/297/s101/6], substituted “development in a non-wasteful manner; and” for “development.”
+    Subsec. (b)(6). [Pub. L. 104–297][/us/pl/104/297], § 101(6), substituted “development in a non-wasteful manner; and” for “development.”
 
-    Subsec. (b)(7). [Pub. L. 104–297, § 101(7)][/us/pl/104/297/s101/7], added par. (7).
+    Subsec. (b)(7). [Pub. L. 104–297][/us/pl/104/297], § 101(7), added par. (7).
 
-    Subsec. (c)(3). [Pub. L. 104–297, § 101(8)][/us/pl/104/297/s101/8], substituted “considers efficiency” for “promotes efficiency” and inserted “minimize bycatch and” after “practical measures that”.
+    Subsec. (c)(3). [Pub. L. 104–297][/us/pl/104/297], § 101(8), substituted “considers efficiency” for “promotes efficiency” and inserted “minimize bycatch and” after “practical measures that”.
 
-    Subsec. (c)(7). [Pub. L. 104–297, § 101(9)][/us/pl/104/297/s101/9]–(11), added par. (7).
+    Subsec. (c)(7). [Pub. L. 104–297][/us/pl/104/297], § 101(9)–(11), added par. (7).
 
-    1990—Subsec. (a)(8). [Pub. L. 101–627, § 101(a)][/us/pl/101/627/s101/a], added par. (8).
+    1990—Subsec. (a)(8). [Pub. L. 101–627][/us/pl/101/627], § 101(a), added par. (8).
 
-    Subsec. (b)(1)(A). [Pub. L. 101–627, § 101(b)(1)][/us/pl/101/627/s101/b/1], struck out “except highly migratory species” after “fish”.
+    Subsec. (b)(1)(A). [Pub. L. 101–627][/us/pl/101/627], § 101(b)(1), struck out “except highly migratory species” after “fish”.
 
-    Subsec. (b)(5). [Pub. L. 101–627, § 101(b)(2)][/us/pl/101/627/s101/b/2], substituted “exercise sound judgment in the stewardship of fishery resources through the preparation, monitoring, and revision of” for “prepare, monitor, and revise”.
+    Subsec. (b)(5). [Pub. L. 101–627][/us/pl/101/627], § 101(b)(2), substituted “exercise sound judgment in the stewardship of fishery resources through the preparation, monitoring, and revision of” for “prepare, monitor, and revise”.
 
-    Subsec. (c)(3). [Pub. L. 101–627, § 101(c)(1)][/us/pl/101/627/s101/c/1], inserted “considers the effects of fishing on immature fish and encourages development of practical measures that avoid unnecessary waste of fish;” after “and enforcement;”.
+    Subsec. (c)(3). [Pub. L. 101–627][/us/pl/101/627], § 101(c)(1), inserted “considers the effects of fishing on immature fish and encourages development of practical measures that avoid unnecessary waste of fish;” after “and enforcement;”.
 
-    Subsec. (c)(5). [Pub. L. 101–627, § 101(c)(3)][/us/pl/101/627/s101/c/3], substituted “, and to secure agreements to regulate fishing by vessels or persons beyond the exclusive economic zones of any nation; and” for period at end.
+    Subsec. (c)(5). [Pub. L. 101–627][/us/pl/101/627], § 101(c)(3), substituted “, and to secure agreements to regulate fishing by vessels or persons beyond the exclusive economic zones of any nation; and” for period at end.
 
-    Subsec. (c)(6). [Pub. L. 101–627, § 101(c)(4)][/us/pl/101/627/s101/c/4], added par. (6).
+    Subsec. (c)(6). [Pub. L. 101–627][/us/pl/101/627], § 101(c)(4), added par. (6).
 
-    1986—Subsec. (b)(1). [Pub. L. 99–659, § 101(c)(1)(A)][/us/pl/99/659/s101/c/1/A], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “to take immediate action to conserve and manage the fishery resources found off the coasts of the United States, and the anadromous species and Continental Shelf fishery resources of the United States, by establishing (A) a fishery conservation zone within which the United States will assume exclusive fishery management authority over all fish, except highly migratory species, and (B) exclusive fishery management authority beyond such zone over such anadromous species and Continental Shelf fishery resources;”.
+    1986—Subsec. (b)(1). [Pub. L. 99–659][/us/pl/99/659], § 101(c)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “to take immediate action to conserve and manage the fishery resources found off the coasts of the United States, and the anadromous species and Continental Shelf fishery resources of the United States, by establishing (A) a fishery conservation zone within which the United States will assume exclusive fishery management authority over all fish, except highly migratory species, and (B) exclusive fishery management authority beyond such zone over such anadromous species and Continental Shelf fishery resources;”.
 
-    Subsec. (c)(5). [Pub. L. 99–659, § 101(c)(1)(B)][/us/pl/99/659/s101/c/1/B], amended par. (5) generally. Prior to amendment, par. (5) read as follows: “to support and encourage continued active United States efforts to obtain an internationally acceptable treaty, at the Third United Nations Conference on the Law of the Sea, which provides for effective conservation and management of fishery resources.”
+    Subsec. (c)(5). [Pub. L. 99–659][/us/pl/99/659], § 101(c)(1)(B), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “to support and encourage continued active United States efforts to obtain an internationally acceptable treaty, at the Third United Nations Conference on the Law of the Sea, which provides for effective conservation and management of fishery resources.”
 
     1980—Subsec. (b)(6). [Pub. L. 96–561][/us/pl/96/561] inserted “, and to that end, to ensure that optimum yield determinations promote such development” after “fish off Alaska”.
 
-    1978—Subsec. (a)(7). [Pub. L. 95–354, § 2(a)][/us/pl/95/354/s2/a], substituted “the United States fishing industry” for “United States fishermen”.
+    1978—Subsec. (a)(7). [Pub. L. 95–354][/us/pl/95/354], § 2(a), substituted “the United States fishing industry” for “United States fishermen”.
 
-    Subsec. (b)(6). [Pub. L. 95–354, § 2(b)][/us/pl/95/354/s2/b], inserted requirement for development by the United States fishing industry.
+    Subsec. (b)(6). [Pub. L. 95–354][/us/pl/95/354], § 2(b), inserted requirement for development by the United States fishing industry.
 
  __References to Magnuson-Stevens Fishery Conservation and Management Act Considered To Include__  __[__  __Section 401(a) of Pub. L. 108–219__  __][/us/pl/108/219/s401/a]__ 
 
@@ -143,13 +143,13 @@
 
  __References to Magnuson Fishery Conservation and Management Act Redesignated as References to Magnuson-Stevens Fishery Conservation and Management Act__ 
 
-[Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that: 
+[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that: 
 
 > “Effective 15 days after the enactment of the Sustainable Fisheries Act \[[Pub. L. 104–297][/us/pl/104/297], enacted Oct. 11, 1996\], all references to the Magnuson Fishery Conservation and Management Act \[see Short Title note below\] shall be redesignated as references to the Magnuson-Stevens Fishery Conservation and Management Act.”
 
  __References to Fishery Conservation and Management Act of 1976 Redesignated as References to Magnuson Fishery Conservation and Management Act__ 
 
-[Pub. L. 96–561, title II, § 238(b)][/us/pl/96/561/s238/b], Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300], provided that: 
+[Pub. L. 96–561, title II][/us/pl/96/561/tII], § 238(b), Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300], provided that: 
 
 > “Effective 15 days after the date of enactment of this title \[Dec. 22, 1980\], all references to the Fishery Conservation and Management Act of 1976 \[see Short title note below\] shall be redesignated as references to the Magnuson Fishery Conservation and Management Act.”
 
@@ -159,79 +159,79 @@
 
  __Short Title of 2015 Amendment__ 
 
-[Pub. L. 114–81, § 1][/us/pl/114/81/s1], Nov. 5, 2015, [129 Stat. 649][/us/stat/129/649], provided that: 
+[Pub. L. 114–81][/us/pl/114/81], § 1, Nov. 5, 2015, [129 Stat. 649][/us/stat/129/649], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Illegal, Unreported, and Unregulated Fishing Enforcement Act of 2015’.”
 
  __Short Title of 2012 Amendment__ 
 
-[Pub. L. 112–183, § 1][/us/pl/112/183/s1], Oct. 5, 2012, [126 Stat. 1422][/us/stat/126/1422], provided that: 
+[Pub. L. 112–183][/us/pl/112/183], § 1, Oct. 5, 2012, [126 Stat. 1422][/us/stat/126/1422], provided that: 
 
 > “This Act \[enacting [section 1827a of this title][/us/usc/t16/s1827a] and provisions set out as a note under [section 1827a of this title][/us/usc/t16/s1827a]\] may be cited as the ‘Billfish Conservation Act of 2012’.”
 
  __Short Title of 2011 Amendment__ 
 
-[Pub. L. 111–348, title I, § 101][/us/pl/111/348/s101], Jan. 4, 2011, [124 Stat. 3668][/us/stat/124/3668], provided that: 
+[Pub. L. 111–348, title I][/us/pl/111/348/tI], § 101, Jan. 4, 2011, [124 Stat. 3668][/us/stat/124/3668], provided that: 
 
 > “This title \[amending sections 1826i to 1826k, 1857, and 4107 of this title and enacting provisions set out as notes under sections 1826k and 1857 of this title\] may be cited as the ‘Shark Conservation Act of 2010’.”
 
  __Short Title of 2007 Amendment__ 
 
-[Pub. L. 109–479, § 1(a)][/us/pl/109/479/s1/a], Jan. 12, 2007, [120 Stat. 3575][/us/stat/120/3575], provided that: 
+[Pub. L. 109–479][/us/pl/109/479], § 1(a), Jan. 12, 2007, [120 Stat. 3575][/us/stat/120/3575], provided that: 
 
 > “This Act \[enacting chapters 88 and 89 of this title, chapter 45 of Title 33, Navigation and Navigable Waters, subchapters VI of chapter 31 and of chapter 38 of this title, sections 1826h to 1826k, 1829, 1853a, 1864 to 1869, and 1884 of this title, amending this section, sections 757d, 773f, 773g, 971a, 971h, 971i, 1377, 1802, 1803, 1812, 1821, 1824, 1826a, 1826b, 1851 to 1853, 1854, 1855, 1857, 1861, 1861a, 1862, 1881, 1881a, 1881c, 1882, 1883, 3645, 4107, 5156, 5610, and 5727 of this title, and [section 53706 of Title 46][/us/usc/t46/s53706], Shipping, enacting provisions set out as notes under sections 460ss, 1361, 1853 to 1855, 1861a, 1864, 6901, and 7001 of this title and [section 3201 of Title 33][/us/usc/t33/s3201], and amending provisions set out as notes under sections 1822, 1851, 1855, and 1856 of this title\] may be cited as the ‘Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006’.”
 
  __Short Title of 1996 Amendment__ 
 
-[Pub. L. 104–297, § 1(a)][/us/pl/104/297/s1/a], Oct. 11, 1996, [110 Stat. 3559][/us/stat/110/3559], provided that: 
+[Pub. L. 104–297][/us/pl/104/297], § 1(a), Oct. 11, 1996, [110 Stat. 3559][/us/stat/110/3559], provided that: 
 
 > “This Act \[enacting sections 1803, 1861a, 1881 to 1881d, 1883, 5107a, and 5107b of this title and sections 1279f and 1279g of Title 46, Appendix, Shipping, amending this section, sections 757d, 1362, 1802, 1812, 1821 to 1824, 1826, 1851 to 1858, 1860, 1861, 1862, 1863, 1882, 1883, 4107, 5102, 5103, and 5108 of this title, [section 713c–3 of Title 15][/us/usc/t15/s713c–3], Commerce and Trade, and [section 1274 of Title 46][/us/usc/t46/s1274], Appendix, enacting provisions set out as notes under sections 1802, 1853 to 1856, 1861a, and 1881c of this title and [section 1245 of Title 46][/us/usc/t46/s1245], Appendix, amending provisions set out as a note under [section 971c of this title][/us/usc/t16/s971c], and repealing provisions set out as a note under [section 1851 of this title][/us/usc/t16/s1851]\] may be cited as the ‘Sustainable Fisheries Act’.”
 
  __Short Title of 1995 Amendment__ 
 
-[Pub. L. 104–43, title VI, § 601][/us/pl/104/43/s601], Nov. 3, 1995, [109 Stat. 391][/us/stat/109/391], provided that: 
+[Pub. L. 104–43, title VI][/us/pl/104/43/tVI], § 601, Nov. 3, 1995, [109 Stat. 391][/us/stat/109/391], provided that: 
 
 > “This title \[enacting sections 1826d to 1826g of this title and provisions set out as a note under [section 1826d of this title][/us/usc/t16/s1826d]\] may be cited as the ‘High Seas Driftnet Fishing Moratorium Protection Act’.”
 
  __Short Title of 1992 Amendment__ 
 
-[Pub. L. 102–582, § 1][/us/pl/102/582/s1], Nov. 2, 1992, [106 Stat. 4900][/us/stat/106/4900], provided that: 
+[Pub. L. 102–582][/us/pl/102/582], § 1, Nov. 2, 1992, [106 Stat. 4900][/us/stat/106/4900], provided that: 
 
 > “This Act \[enacting sections 1826a to 1826c of this title and [section 1707a of Title 46][/us/usc/t46/s1707a], Appendix, Shipping, amending sections 1362, 1371, 1852, and 1862 of this title, [section 1978 of Title 22][/us/usc/t22/s1978], Foreign Relations and Intercourse, and [section 2110 of Title 46][/us/usc/t46/s2110], repealing [section 1111c of Title 46][/us/usc/t46/s1111c], Appendix, and enacting provisions set out as notes under sections 1823, 1826a, and 1861 of this title and [section 2110 of Title 46][/us/usc/t46/s2110]\] may be cited as the ‘High Seas Driftnet Fisheries Enforcement Act’.”
 
  __Short Title of 1990 Amendment__ 
 
-[Pub. L. 101–627, § 1(a)][/us/pl/101/627/s1/a], Nov. 28, 1990, [104 Stat. 4436][/us/stat/104/4436], provided that: 
+[Pub. L. 101–627][/us/pl/101/627], § 1(a), Nov. 28, 1990, [104 Stat. 4436][/us/stat/104/4436], provided that: 
 
 > “The Act \[enacting sections 971b–1, 1385, and 1862 of this title, amending this section, sections 757d, 758e–5, 971a, 971b, 971d, 971h, 1371, 1802, 1811, 1812, 1821, 1822, 1824 to 1826, 1852 to 1861, 1882, 4005, 4006, 4008, 4103, and 4107 of this title, [section 713c–3 of Title 15][/us/usc/t15/s713c–3], Commerce and Trade, and [section 1977 of Title 22][/us/usc/t22/s1977], Foreign Relations and Intercourse, and enacting provisions set out as notes under sections 971a, 1373, 1802, 1812, 1822, 1825, 1854, 4004, and 4005 of this title\] may be cited as the ‘Fishery Conservation Amendments of 1990’.”
 
  __Short Title of 1987 Amendment__ 
 
-[Pub. L. 100–220, § 1][/us/pl/100/220/s1], Dec. 29, 1987, [101 Stat. 1458][/us/stat/101/1458], provided that: 
+[Pub. L. 100–220][/us/pl/100/220], § 1, Dec. 29, 1987, [101 Stat. 1458][/us/stat/101/1458], provided that: 
 
 > “This Act \[enacting [section 1912 of Title 33][/us/usc/t33/s1912], Navigation and Navigable Waters, amending sections 1121 to 1131, 1901 to 1903, 1905, and 1907 to 1909 of Title 33, and enacting provisions set out as notes under this section, sections 1822 and 1823 of this title, sections 883a, 1121, 1125, 1901, 1902, and 2267 of Title 33, and [section 6981 of Title 42][/us/usc/t42/s6981], The Public Health and Welfare\] may be cited as the ‘United States-Japan Fishery Agreement Approval Act of 1987’.”
 
  __Short Title of 1980 Amendment__ 
 
-[Pub. L. 96–561, title II, § 201][/us/pl/96/561/s201], Dec. 22, 1980, [94 Stat. 3287][/us/stat/94/3287], provided that: 
+[Pub. L. 96–561, title II][/us/pl/96/561/tII], § 201, Dec. 22, 1980, [94 Stat. 3287][/us/stat/94/3287], provided that: 
 
 > “This title \[enacting [section 1511b of Title 15][/us/usc/t15/s1511b], Commerce and Trade, amending sections 917, 1801, 1821, 1824, 1852, and 1855 of this title, [section 713c–3 of Title 15][/us/usc/t15/s713c–3], sections 1972 and 1980 of Title 22, Foreign Relations and Intercourse, [section 1321 of Title 33][/us/usc/t33/s1321], Navigation and Navigable Waters, [section 1843 of Title 43][/us/usc/t43/s1843], Public Lands, and sections 1271, 1273, 1274, and 1275 of Title 46, Appendix, Shipping, and enacting provisions set out as notes under this section, sections 742c, 1821, and 1824 of this title, and [section 1980 of Title 22][/us/usc/t22/s1980]\] may be cited as the ‘American Fisheries Promotion Act’.”
 
  __Short Title of 1977 Amendment__ 
 
-[Pub. L. 95–6, § 1][/us/pl/95/6/s1], Feb. 21, 1977, [91 Stat. 14][/us/stat/91/14], provided: 
+[Pub. L. 95–6][/us/pl/95/6], § 1, Feb. 21, 1977, [91 Stat. 14][/us/stat/91/14], provided: 
 
 > “That this joint resolution \[enacting [section 1826 of this title][/us/usc/t16/s1826], repealing sections 981 to 991 of this title, and enacting provisions set out as notes under sections 981 and 1823 of this title\] may be cited as the ‘Fishery Conservation Zone Transition Act’.”
 
  __Short Title__ 
 
-[Pub. L. 94–265, § 1][/us/pl/94/265/s1], Apr. 13, 1976, [90 Stat. 331][/us/stat/90/331], as amended by [Pub. L. 96–561, title II, § 238(a)][/us/pl/96/561/s238/a], Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300]; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(a)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided: 
+[Pub. L. 94–265][/us/pl/94/265], § 1, Apr. 13, 1976, [90 Stat. 331][/us/stat/90/331], as amended by [Pub. L. 96–561, title II][/us/pl/96/561/tII], § 238(a), Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(a)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided: 
 
 > “That this Act \[enacting this chapter, amending [section 971 of this title][/us/usc/t16/s971] and sections 1972 and 1973 of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under this section and sections 971, 1362, 1857 of this title, and sections 1972 and 1973 of Title 22, and repealing chapters 21 and 21A of this title\] may be cited as the ‘Magnuson-Stevens Fishery Conservation and Management Act’.”
 
-    \[[Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(a)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that the amendment made by section 101(a) \[§ 211(a)\] to [section 1 of Pub. L. 94–265][/us/pl/94/265/s1], set out above, is effective 15 days after Oct. 11, 1996.\]
+    \[[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(a)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that the amendment made by section 101(a) \[§ 211(a)\] to [section 1 of Pub. L. 94–265][/us/pl/94/265/s1], set out above, is effective 15 days after Oct. 11, 1996.\]
 
-    \[[Pub. L. 96–561, title II, § 238(a)][/us/pl/96/561/s238/a], Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300], provided that the amendment made by section 238(a) to [section 1 of Pub. L. 94–265][/us/pl/94/265/s1], set out above, is effective 15 days after Dec. 22, 1980.\]
+    \[[Pub. L. 96–561, title II][/us/pl/96/561/tII], § 238(a), Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300], provided that the amendment made by section 238(a) to [section 1 of Pub. L. 94–265][/us/pl/94/265/s1], set out above, is effective 15 days after Dec. 22, 1980.\]
 
  __Ex. Ord. No. 12962. Recreational Fisheries__ 
 
@@ -292,119 +292,119 @@
 ----------
 ----------
 
-[/us/pl/94/265/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs2
+[/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331
-[/us/pl/95/354/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F354%2Fs2
+[/us/pl/95/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F354
 [/us/stat/92/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F519
-[/us/pl/96/561/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs233
+[/us/pl/96/561/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtII
 [/us/stat/94/3299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3299
-[/us/pl/99/659/s101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs101%2Fc%2F1
+[/us/pl/99/659/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtI
 [/us/stat/100/3707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3707
-[/us/pl/101/627/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs101
+[/us/pl/101/627/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtI
 [/us/stat/104/4437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4437
-[/us/pl/102/251/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2Fs301%2Fa
+[/us/pl/102/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2FtIII
 [/us/stat/106/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F62
-[/us/pl/104/297/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs101
+[/us/pl/104/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtI
 [/us/stat/110/3560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3560
-[/us/pl/109/479/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs3%2Fa
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
 [/us/stat/120/3577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3577
-[/us/pl/102/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251
+[/us/pl/102/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2FtIII
 [/us/stat/106/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F62
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331
 [/us/usc/t16/s1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1453
-[/us/pl/109/479/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs3%2Fa
-[/us/pl/109/479/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs402
-[/us/pl/104/297/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs101%2F1
-[/us/pl/104/297/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs101%2F2
-[/us/pl/104/297/s101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs101%2F3
-[/us/pl/104/297/s101/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs101%2F4
-[/us/pl/104/297/s101/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs101%2F5
-[/us/pl/104/297/s101/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs101%2F6
-[/us/pl/104/297/s101/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs101%2F7
-[/us/pl/104/297/s101/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs101%2F8
-[/us/pl/104/297/s101/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs101%2F9
-[/us/pl/101/627/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs101%2Fa
-[/us/pl/101/627/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs101%2Fb%2F1
-[/us/pl/101/627/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs101%2Fb%2F2
-[/us/pl/101/627/s101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs101%2Fc%2F1
-[/us/pl/101/627/s101/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs101%2Fc%2F3
-[/us/pl/101/627/s101/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs101%2Fc%2F4
-[/us/pl/99/659/s101/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs101%2Fc%2F1%2FA
-[/us/pl/99/659/s101/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs101%2Fc%2F1%2FB
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
 [/us/pl/96/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561
-[/us/pl/95/354/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F354%2Fs2%2Fa
-[/us/pl/95/354/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F354%2Fs2%2Fb
+[/us/pl/95/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F354
+[/us/pl/95/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F354
 [/us/pl/108/219/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F219%2Fs401%2Fa
 [/us/pl/108/219/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F219%2Fs401%2Fa
 [/us/pl/108/219/s401/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F219%2Fs401%2Fc%2F1
 [/us/usc/t16/s1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1821
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
 [/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
-[/us/pl/96/561/s238/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs238%2Fb
+[/us/pl/96/561/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtII
 [/us/stat/94/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3300
 [/us/pl/102/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251
 [/us/pl/102/251/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2Fs308
 [/us/usc/t16/s773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs773
-[/us/pl/114/81/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs1
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
 [/us/stat/129/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F649
-[/us/pl/112/183/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F183%2Fs1
+[/us/pl/112/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F183
 [/us/stat/126/1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1422
 [/us/usc/t16/s1827a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1827a
 [/us/usc/t16/s1827a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1827a
-[/us/pl/111/348/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F348%2Fs101
+[/us/pl/111/348/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F348%2FtI
 [/us/stat/124/3668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3668
-[/us/pl/109/479/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs1%2Fa
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
 [/us/stat/120/3575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3575
 [/us/usc/t46/s53706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53706
 [/us/usc/t33/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3201
-[/us/pl/104/297/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs1%2Fa
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
 [/us/stat/110/3559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3559
 [/us/usc/t15/s713c–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713c%E2%80%933
 [/us/usc/t46/s1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs1274
 [/us/usc/t46/s1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs1245
 [/us/usc/t16/s971c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs971c
 [/us/usc/t16/s1851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1851
-[/us/pl/104/43/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs601
+[/us/pl/104/43/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtVI
 [/us/stat/109/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F391
 [/us/usc/t16/s1826d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826d
-[/us/pl/102/582/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2Fs1
+[/us/pl/102/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582
 [/us/stat/106/4900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4900
 [/us/usc/t46/s1707a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs1707a
 [/us/usc/t22/s1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1978
 [/us/usc/t46/s2110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2110
 [/us/usc/t46/s1111c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs1111c
 [/us/usc/t46/s2110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2110
-[/us/pl/101/627/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs1%2Fa
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
 [/us/stat/104/4436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4436
 [/us/usc/t15/s713c–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713c%E2%80%933
 [/us/usc/t22/s1977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1977
-[/us/pl/100/220/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2Fs1
+[/us/pl/100/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220
 [/us/stat/101/1458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1458
 [/us/usc/t33/s1912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1912
 [/us/usc/t42/s6981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6981
-[/us/pl/96/561/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs201
+[/us/pl/96/561/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtII
 [/us/stat/94/3287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3287
 [/us/usc/t15/s1511b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1511b
 [/us/usc/t15/s713c–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713c%E2%80%933
 [/us/usc/t33/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321
 [/us/usc/t43/s1843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1843
 [/us/usc/t22/s1980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1980
-[/us/pl/95/6/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F6%2Fs1
+[/us/pl/95/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F6
 [/us/stat/91/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F14
 [/us/usc/t16/s1826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826
-[/us/pl/94/265/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs1
+[/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331
-[/us/pl/96/561/s238/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs238%2Fa
+[/us/pl/96/561/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtII
 [/us/stat/94/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3300
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
 [/us/usc/t16/s971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs971
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
 [/us/pl/94/265/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs1
-[/us/pl/96/561/s238/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs238%2Fa
+[/us/pl/96/561/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtII
 [/us/stat/94/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3300
 [/us/pl/94/265/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs1
 [/us/usc/t16/s742a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs742a

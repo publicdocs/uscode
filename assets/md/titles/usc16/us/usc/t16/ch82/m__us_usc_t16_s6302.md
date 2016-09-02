@@ -69,11 +69,11 @@
 
         The term “Secretary” means the Secretary of the Interior.
 
-([Pub. L. 106–411, § 3][/us/pl/106/411/s3], Nov. 1, 2000, [114 Stat. 1790][/us/stat/114/1790].)
+([Pub. L. 106–411][/us/pl/106/411], § 3, Nov. 1, 2000, [114 Stat. 1790][/us/stat/114/1790].)
 
  __References in Text__ 
 
-    Title I of the Department of the Interior and Related Agencies Appropriations Act, 1999, referred to in par. (5), is [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title I\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–232. Provisions under the heading “multinational species conservation fund” in [Pub. L. 105–277, § 101(e)][/us/pl/105/277/s101/e] \[title I\] appear at [112 Stat. 2681–237][/us/stat/112/2681-237], and are classified in part to [section 4246 of this title][/us/usc/t16/s4246].
+    Title I of the Department of the Interior and Related Agencies Appropriations Act, 1999, referred to in par. (5), is [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title I\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–232. Provisions under the heading “multinational species conservation fund” in [Pub. L. 105–277][/us/pl/105/277], § 101(e) \[title I\] appear at [112 Stat. 2681–237][/us/stat/112/2681-237], and are classified in part to [section 4246 of this title][/us/usc/t16/s4246].
 
 ----------
 
@@ -84,11 +84,11 @@
 
 [/us/usc/t16/s6304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6304
 [/us/usc/t16/s4246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4246
-[/us/pl/106/411/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F411%2Fs3
+[/us/pl/106/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F411
 [/us/stat/114/1790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1790
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-237
 [/us/usc/t16/s4246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4246
 

@@ -33,7 +33,7 @@
 
         The term “Trust” means the National Park Trust, Inc., a District of Columbia nonprofit corporation, or any successor-in-interest.
 
-([Pub. L. 104–333, div. I, title X, § 1003][/us/pl/104/333/s1003], Nov. 12, 1996, [110 Stat. 4205][/us/stat/110/4205].)
+([Pub. L. 104–333, div. I, title X][/us/pl/104/333/dI/tX], § 1003, Nov. 12, 1996, [110 Stat. 4205][/us/stat/110/4205].)
 
 ----------
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t16/s698u–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs698u%E2%80%935
 [/us/usc/t16/s698u–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs698u%E2%80%932
-[/us/pl/104/333/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs1003
+[/us/pl/104/333/dI/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtX
 [/us/stat/110/4205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4205
 
 

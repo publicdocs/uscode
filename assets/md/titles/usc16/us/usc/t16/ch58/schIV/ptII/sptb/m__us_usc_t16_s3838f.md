@@ -163,7 +163,7 @@
 
             (B) to exceed the stewardship threshold of 2 existing priority resource concerns that are specified by the Secretary in the initial contract.
 
-([Pub. L. 99–198, title XII, § 1238F][/us/pl/99/198/s1238F], as added [Pub. L. 110–234, title II, § 2301(a)(2)][/us/pl/110/234/s2301/a/2], May 22, 2008, [122 Stat. 1042][/us/stat/122/1042], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2301(a)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1770; [Pub. L. 113–79, title II, § 2101(a)][/us/pl/113/79/s2101/a], Feb. 7, 2014, [128 Stat. 723][/us/stat/128/723].)
+([Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1238F, as added [Pub. L. 110–234, title II][/us/pl/110/234/tII], § 2301(a)(2), May 22, 2008, [122 Stat. 1042][/us/stat/122/1042], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title II, § 2301(a)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1770; [Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2101(a), Feb. 7, 2014, [128 Stat. 723][/us/stat/128/723].)
 
  __Codification__ 
 
@@ -171,7 +171,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 3838f, [Pub. L. 99–198, title XII, § 1238F][/us/pl/99/198/s1238F], as added [Pub. L. 101–624, title XIV, § 1439][/us/pl/101/624/s1439], Nov. 28, 1990, [104 Stat. 3596][/us/stat/104/3596], related to report to Congress, prior to repeal by [Pub. L. 104–127, title III, § 336(h)][/us/pl/104/127/s336/h], Apr. 4, 1996, [110 Stat. 1007][/us/stat/110/1007].
+    A prior section 3838f, [Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1238F, as added [Pub. L. 101–624, title XIV][/us/pl/101/624/tXIV], § 1439, Nov. 28, 1990, [104 Stat. 3596][/us/stat/104/3596], related to report to Congress, prior to repeal by [Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 336(h), Apr. 4, 1996, [110 Stat. 1007][/us/stat/110/1007].
 
  __Amendments__ 
 
@@ -185,21 +185,21 @@
 ----------
 
 [/us/usc/t16/s3838g/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3838g%2Fd
-[/us/pl/99/198/s1238F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1238F
-[/us/pl/110/234/s2301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2301%2Fa%2F2
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/110/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtII
 [/us/stat/122/1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1042
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s2101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2101%2Fa
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F723
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/99/198/s1238F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1238F
-[/us/pl/101/624/s1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1439
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/101/624/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIV
 [/us/stat/104/3596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3596
-[/us/pl/104/127/s336/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs336%2Fh
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1007
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 

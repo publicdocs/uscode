@@ -39,7 +39,7 @@
 
         The reports shall be structured for Congress in concise summary form with necessary detailed data in appendices.
 
-([Pub. L. 93–378, § 8][/us/pl/93/378/s8], formerly § 7, Aug. 17, 1974, [88 Stat. 478][/us/stat/88/478], renumbered § 8 and amended [Pub. L. 94–588][/us/pl/94/588], §§ 2, 7, 12(b), Oct. 22, 1976, [90 Stat. 2949][/us/stat/90/2949], 2956, 2958; [Pub. L. 95–313, § 15][/us/pl/95/313/s15], formerly § 12, July 1, 1978, [92 Stat. 374][/us/stat/92/374], renumbered § 15, [Pub. L. 101–624, title XII, § 1215(1)][/us/pl/101/624/s1215/1], Nov. 28, 1990, [104 Stat. 3525][/us/stat/104/3525].)
+([Pub. L. 93–378][/us/pl/93/378], § 8, formerly § 7, Aug. 17, 1974, [88 Stat. 478][/us/stat/88/478], renumbered § 8 and amended [Pub. L. 94–588][/us/pl/94/588], §§ 2, 7, 12(b), Oct. 22, 1976, [90 Stat. 2949][/us/stat/90/2949], 2956, 2958; [Pub. L. 95–313][/us/pl/95/313], § 15, formerly § 12, July 1, 1978, [92 Stat. 374][/us/stat/92/374], renumbered § 15, [Pub. L. 101–624, title XII][/us/pl/101/624/tXII], § 1215(1), Nov. 28, 1990, [104 Stat. 3525][/us/stat/104/3525].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 
     Subsec. (c). [Pub. L. 94–588][/us/pl/94/588], §§ 7(b), 12(b)(2), substituted “section 4” for “section 3” in the original which, because of its translation as “[section 1602 of this title][/us/usc/t16/s1602]” required no change in text and inserted provision requiring that the report include a description of the status of major research programs, significant findings, and how such findings will be applied in National Forest System management.
 
-    Subsec. (d). [Pub. L. 94–588, § 12(b)(3)][/us/pl/94/588/s12/b/3], substituted “section 4” for “section 3” in the original which, because of the translation as “[section 1602 of this title][/us/usc/t16/s1602]”, required no change in text.
+    Subsec. (d). [Pub. L. 94–588][/us/pl/94/588], § 12(b)(3), substituted “section 4” for “section 3” in the original which, because of the translation as “[section 1602 of this title][/us/usc/t16/s1602]”, required no change in text.
 
  __Effective Date of 1978 Amendment__ 
 
@@ -67,7 +67,7 @@
 
  __Statement of Policy__ 
 
-[Pub. L. 96–514, title III, § 310][/us/pl/96/514/s310], Dec. 12, 1980, [94 Stat. 2984][/us/stat/94/2984], provided that: 
+[Pub. L. 96–514, title III][/us/pl/96/514/tIII], § 310, Dec. 12, 1980, [94 Stat. 2984][/us/stat/94/2984], provided that: 
 
 > “The Statement of Policy transmitted by the President to the Speaker of the House of Representatives and the President of the Senate on June 19, 1980, as required under section 8 of the Forest and Rangeland Renewable Resources Planning Act of 1974 \[this section\], is revised and modified to read as follows:
 
@@ -109,7 +109,7 @@
 
  __Statement of Purposes of Amendment by Cooperative Forestry Assistance Act of 1978__ 
 
-    Section 15, formerly [section 12 of Pub. L. 95–313][/us/pl/95/313/s12], renumbered § 15, [Pub. L. 101–624, title XII, § 1215(1)][/us/pl/101/624/s1215/1], Nov. 28, 1990, [104 Stat. 3525][/us/stat/104/3525], provided in part that the amendment of subsec. (c) of this section by [Pub. L. 95–313][/us/pl/95/313] is to insure that Congress has adequate information to implement its oversight responsibilities and to provide accountability for expenditures and activities under the Cooperative Forestry Assistance Act of 1978. See Short Title note set out under [section 2101 of this title][/us/usc/t16/s2101] for classification of the Cooperative Forestry Assistance Act of 1978 in the Code.
+    Section 15, formerly [section 12 of Pub. L. 95–313][/us/pl/95/313/s12], renumbered § 15, [Pub. L. 101–624, title XII][/us/pl/101/624/tXII], § 1215(1), Nov. 28, 1990, [104 Stat. 3525][/us/stat/104/3525], provided in part that the amendment of subsec. (c) of this section by [Pub. L. 95–313][/us/pl/95/313] is to insure that Congress has adequate information to implement its oversight responsibilities and to provide accountability for expenditures and activities under the Cooperative Forestry Assistance Act of 1978. See Short Title note set out under [section 2101 of this title][/us/usc/t16/s2101] for classification of the Cooperative Forestry Assistance Act of 1978 in the Code.
 
 ----------
 
@@ -123,13 +123,13 @@
 [/us/usc/t16/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1602
 [/us/usc/t16/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2101
 [/us/usc/t16/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1602
-[/us/pl/93/378/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F378%2Fs8
+[/us/pl/93/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F378
 [/us/stat/88/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F478
 [/us/pl/94/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588
 [/us/stat/90/2949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2949
-[/us/pl/95/313/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313%2Fs15
+[/us/pl/95/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313
 [/us/stat/92/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F374
-[/us/pl/101/624/s1215/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1215%2F1
+[/us/pl/101/624/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXII
 [/us/stat/104/3525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3525
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
 [/us/stat/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F297
@@ -143,18 +143,18 @@
 [/us/usc/t16/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1602
 [/us/pl/94/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588
 [/us/usc/t16/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1602
-[/us/pl/94/588/s12/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588%2Fs12%2Fb%2F3
+[/us/pl/94/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588
 [/us/usc/t16/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1602
 [/us/pl/95/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313
 [/us/pl/95/313/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313%2Fs17
 [/us/usc/t16/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2101
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/96/514/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F514%2Fs310
+[/us/pl/96/514/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F514%2FtIII
 [/us/stat/94/2984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2984
 [/us/usc/t16/s1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1600
 [/us/pl/95/313/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313%2Fs12
-[/us/pl/101/624/s1215/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1215%2F1
+[/us/pl/101/624/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXII
 [/us/stat/104/3525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3525
 [/us/pl/95/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313
 [/us/usc/t16/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2101

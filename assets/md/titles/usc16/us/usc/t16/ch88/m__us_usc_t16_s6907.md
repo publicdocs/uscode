@@ -63,7 +63,7 @@
 
         To ensure that the purposes of subsection (e) are carried out, the Secretary shall undertake a continuing review of the laws and regulations of all States to which subsection (e) applies or may apply and the extent to which such laws and regulations are enforced.
 
-([Pub. L. 109–479, title V, § 508][/us/pl/109/479/s508], Jan. 12, 2007, [120 Stat. 3642][/us/stat/120/3642].)
+([Pub. L. 109–479, title V][/us/pl/109/479/tV], § 508, Jan. 12, 2007, [120 Stat. 3642][/us/stat/120/3642].)
 
 ----------
 
@@ -77,7 +77,7 @@
 [/us/usc/t16/s6905/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6905%2Fa
 [/us/usc/t16/s6905/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6905%2Fa
 [/us/usc/t16/s6905/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6905%2Fa
-[/us/pl/109/479/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs508
+[/us/pl/109/479/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtV
 [/us/stat/120/3642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3642
 
 

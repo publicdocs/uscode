@@ -17,7 +17,7 @@
 
     The United States shall not be liable for any debts, defaults, acts or omissions of the Foundation nor shall the full faith and credit of the United States extend to any obligations of the Foundation.
 
-([Pub. L. 101–593, title IV, § 408][/us/pl/101/593/s408], Nov. 16, 1990, [104 Stat. 2973][/us/stat/104/2973].)
+([Pub. L. 101–593, title IV][/us/pl/101/593/tIV], § 408, Nov. 16, 1990, [104 Stat. 2973][/us/stat/104/2973].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/593/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2Fs408
+[/us/pl/101/593/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2FtIV
 [/us/stat/104/2973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2973
 
 

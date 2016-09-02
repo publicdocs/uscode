@@ -29,7 +29,7 @@
 
         (3) the acquisition or construction of facilities for the study and recovery of endangered tropical wildlife, fish and plant species.
 
-([Pub. L. 101–513, title VI, § 604][/us/pl/101/513/s604], Nov. 5, 1990, [104 Stat. 2071][/us/stat/104/2071]; [Pub. L. 102–574, § 2(b)(2)][/us/pl/102/574/s2/b/2], Oct. 29, 1992, [106 Stat. 4596][/us/stat/106/4596].)
+([Pub. L. 101–513, title VI][/us/pl/101/513/tVI], § 604, Nov. 5, 1990, [104 Stat. 2071][/us/stat/104/2071]; [Pub. L. 102–574][/us/pl/102/574], § 2(b)(2), Oct. 29, 1992, [106 Stat. 4596][/us/stat/106/4596].)
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/101/513/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs604
+[/us/pl/101/513/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2FtVI
 [/us/stat/104/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2071
-[/us/pl/102/574/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F574%2Fs2%2Fb%2F2
+[/us/pl/102/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F574
 [/us/stat/106/4596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4596
 [/us/pl/102/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F574
 

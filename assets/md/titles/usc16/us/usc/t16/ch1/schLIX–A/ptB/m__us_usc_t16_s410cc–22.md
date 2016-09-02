@@ -73,7 +73,7 @@
 
         (3) Where facilities or infrastructure required for the management and operation of the Lowell National Historical Park exists on the Federal land to be exchanged, and the non-Federal land or interest in land to be exchanged is not of equal value, the values shall be equalized by the payment of cash to the Secretary. The Secretary shall not be required to equalize the values of any exchange conducted under this subsection if the land or interest in land received by the Federal Government exceeds the value of the Federal land or interest in land exchanged.
 
-([Pub. L. 95–290, title II, § 202][/us/pl/95/290/s202], June 5, 1978, [92 Stat. 293][/us/stat/92/293]; [Pub. L. 110–229, title III, § 312(2)][/us/pl/110/229/s312/2], May 8, 2008, [122 Stat. 769][/us/stat/122/769]; [Pub. L. 112–182, § 2][/us/pl/112/182/s2], Oct. 5, 2012, [126 Stat. 1420][/us/stat/126/1420].)
+([Pub. L. 95–290, title II][/us/pl/95/290/tII], § 202, June 5, 1978, [92 Stat. 293][/us/stat/92/293]; [Pub. L. 110–229, title III][/us/pl/110/229/tIII], § 312(2), May 8, 2008, [122 Stat. 769][/us/stat/122/769]; [Pub. L. 112–182][/us/pl/112/182], § 2, Oct. 5, 2012, [126 Stat. 1420][/us/stat/126/1420].)
 
  __References in Text__ 
 
@@ -81,7 +81,7 @@
 
  __Codification__ 
 
-    In subsec. (b)(2), “chapter 3021 and [section 320102(c) of title 54][/us/usc/t54/s320102/c]” substituted for “section 101(a) of the Act entitled ‘An Act to establish a program for the preservation of additional historic properties throughout the Nation, and for other purposes’, approved October 15, 1966 ([16 U.S.C. 470a][/us/usc/t16/s470a]), and section 2(b) of the Act entitled ‘An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes’, approved August 21, 1935 ([16 U.S.C. 462][/us/usc/t16/s462])” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (b)(2), “chapter 3021 and [section 320102(c) of title 54][/us/usc/t54/s320102/c]” substituted for “section 101(a) of the Act entitled ‘An Act to establish a program for the preservation of additional historic properties throughout the Nation, and for other purposes’, approved October 15, 1966 ([16 U.S.C. 470a][/us/usc/t16/s470a]), and section 2(b) of the Act entitled ‘An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes’, approved August 21, 1935 ([16 U.S.C. 462][/us/usc/t16/s462])” on authority of [Pub. L. 113–287][/us/pl/113/287], § 6(e), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
  __Amendments__ 
 
@@ -97,11 +97,11 @@
 ----------
 
 [/us/usc/t54/s320102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320102%2Fc
-[/us/pl/95/290/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F290%2Fs202
+[/us/pl/95/290/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F290%2FtII
 [/us/stat/92/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F293
-[/us/pl/110/229/s312/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs312%2F2
+[/us/pl/110/229/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtIII
 [/us/stat/122/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F769
-[/us/pl/112/182/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F182%2Fs2
+[/us/pl/112/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F182
 [/us/stat/126/1420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1420
 [/us/usc/t16/s410cc–11/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410cc%E2%80%9311%2Fa%2F3
 [/us/pl/95/290/s101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F290%2Fs101%2Fa%2F3
@@ -109,7 +109,7 @@
 [/us/usc/t54/s320102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320102%2Fc
 [/us/usc/t16/s470a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470a
 [/us/usc/t16/s462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs462
-[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/112/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F182
 [/us/pl/110/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229

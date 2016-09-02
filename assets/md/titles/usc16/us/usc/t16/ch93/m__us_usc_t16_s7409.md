@@ -23,7 +23,7 @@
 
         This chapter shall be interpreted and applied in accordance with United States obligations under international law.
 
-([Pub. L. 114–81, title III, § 310][/us/pl/114/81/s310], Nov. 5, 2015, [129 Stat. 669][/us/stat/129/669].)
+([Pub. L. 114–81, title III][/us/pl/114/81/tIII], § 310, Nov. 5, 2015, [129 Stat. 669][/us/stat/129/669].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/114/81/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs310
+[/us/pl/114/81/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2FtIII
 [/us/stat/129/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F669
 
 

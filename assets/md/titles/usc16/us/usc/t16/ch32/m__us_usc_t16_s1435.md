@@ -33,15 +33,15 @@
 
         The Secretary, in consultation with the Secretary of State and other appropriate Federal agencies, shall cooperate with other governments and international organizations in furtherance of the purposes and policies of this chapter and consistent with applicable regional and mutilateral  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “multilateral”. </sup></sup>  arrangements for the protection and management of special marine areas.
 
-([Pub. L. 92–532, title III, § 305][/us/pl/92/532/s305], as added [Pub. L. 98–498, title I, § 102][/us/pl/98/498/s102], Oct. 19, 1984, [98 Stat. 2302][/us/stat/98/2302]; amended [Pub. L. 102–587, title II, § 2105][/us/pl/102/587/s2105], Nov. 4, 1992, [106 Stat. 5043][/us/stat/106/5043].)
+([Pub. L. 92–532, title III][/us/pl/92/532/tIII], § 305, as added [Pub. L. 98–498, title I][/us/pl/98/498/tI], § 102, Oct. 19, 1984, [98 Stat. 2302][/us/stat/98/2302]; amended [Pub. L. 102–587, title II][/us/pl/102/587/tII], § 2105, Nov. 4, 1992, [106 Stat. 5043][/us/stat/106/5043].)
 
  __Amendments__ 
 
-    1992—[Pub. L. 102–587, § 2105(b)][/us/pl/102/587/s2105/b], substituted “; international negotiations and cooperation” for “and international negotiations” in section catchline.
+    1992—[Pub. L. 102–587][/us/pl/102/587], § 2105(b), substituted “; international negotiations and cooperation” for “and international negotiations” in section catchline.
 
-    Subsec. (a). [Pub. L. 102–587, § 2105(a)(1)][/us/pl/102/587/s2105/a/1], substituted “This chapter and the regulations” for “The regulations” and inserted “or be enforced against” after “apply to”.
+    Subsec. (a). [Pub. L. 102–587][/us/pl/102/587], § 2105(a)(1), substituted “This chapter and the regulations” for “The regulations” and inserted “or be enforced against” after “apply to”.
 
-    Subsec. (c). [Pub. L. 102–587, § 2105(a)(2)][/us/pl/102/587/s2105/a/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 102–587][/us/pl/102/587], § 2105(a)(2), added subsec. (c).
 
  __International Cooperation__ 
 
@@ -55,14 +55,14 @@
 ----------
 
 [/us/usc/t16/s1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1434
-[/us/pl/92/532/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2Fs305
-[/us/pl/98/498/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2Fs102
+[/us/pl/92/532/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F532%2FtIII
+[/us/pl/98/498/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2FtI
 [/us/stat/98/2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2302
-[/us/pl/102/587/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2105
+[/us/pl/102/587/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtII
 [/us/stat/106/5043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5043
-[/us/pl/102/587/s2105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2105%2Fb
-[/us/pl/102/587/s2105/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2105%2Fa%2F1
-[/us/pl/102/587/s2105/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2105%2Fa%2F2
+[/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
+[/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
+[/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
 [/us/usc/t33/s1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1419
 
 

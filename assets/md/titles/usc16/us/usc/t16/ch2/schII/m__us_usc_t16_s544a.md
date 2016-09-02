@@ -21,7 +21,7 @@
 
     (2) to protect and support the economy of the Columbia River Gorge area by encouraging growth to occur in existing urban areas and by allowing future economic development in a manner that is consistent with paragraph (1).
 
-([Pub. L. 99–663, § 3][/us/pl/99/663/s3], Nov. 17, 1986, [100 Stat. 4276][/us/stat/100/4276].)
+([Pub. L. 99–663][/us/pl/99/663], § 3, Nov. 17, 1986, [100 Stat. 4276][/us/stat/100/4276].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/99/663/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663%2Fs3
+[/us/pl/99/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663
 [/us/stat/100/4276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4276
 
 

@@ -27,7 +27,7 @@
 
         Use fees deposited pursuant to subsection (a) and transferred to the Secretary under subsection (b) shall be expended for monitoring of Forest Service special use authorizations, administration of the Forest Service’s special program, interpretive programs, environmental analysis, environmental restoration, and similar purposes.
 
-([Pub. L. 108–7, div. F, title V, § 506][/us/pl/108/7/s506], Feb. 20, 2003, [117 Stat. 297][/us/stat/117/297].)
+([Pub. L. 108–7, div. F, title V][/us/pl/108/7/dF/tV], § 506, Feb. 20, 2003, [117 Stat. 297][/us/stat/117/297].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t16/s580d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs580d
-[/us/pl/108/7/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs506
+[/us/pl/108/7/dF/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtV
 [/us/stat/117/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F297
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 

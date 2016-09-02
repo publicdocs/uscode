@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall be construed to authorize any person to take any migratory waterfowl otherwise than in accordance with regulations adopted and approved pursuant to any treaty or convention heretofore or hereafter entered into between the United States and any other country for the protection of migratory birds, nor to exempt any person from complying with the game laws of the several States.
 
-([Mar. 16, 1934, ch. 71, § 3][/us/act/1934-03-16/ch71/s3], [48 Stat. 451][/us/stat/48/451]; [Pub. L. 95–616, § 7(b)][/us/pl/95/616/s7/b], Nov. 8, 1978, [92 Stat. 3114][/us/stat/92/3114]; [Pub. L. 109–266, § 10(d)][/us/pl/109/266/s10/d], Aug. 3, 2006, [120 Stat. 675][/us/stat/120/675].)
+([Mar. 16, 1934, ch. 71][/us/act/1934-03-16/ch71], § 3, [48 Stat. 451][/us/stat/48/451]; [Pub. L. 95–616][/us/pl/95/616], § 7(b), Nov. 8, 1978, [92 Stat. 3114][/us/stat/92/3114]; [Pub. L. 109–266][/us/pl/109/266], § 10(d), Aug. 3, 2006, [120 Stat. 675][/us/stat/120/675].)
 
  __Amendments__ 
 
@@ -32,11 +32,11 @@
 ----------
 ----------
 
-[/us/act/1934-03-16/ch71/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-16%2Fch71%2Fs3
+[/us/act/1934-03-16/ch71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-16%2Fch71
 [/us/stat/48/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F451
-[/us/pl/95/616/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616%2Fs7%2Fb
+[/us/pl/95/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616
 [/us/stat/92/3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3114
-[/us/pl/109/266/s10/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266%2Fs10%2Fd
+[/us/pl/109/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266
 [/us/stat/120/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F675
 [/us/pl/109/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266
 [/us/pl/95/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F616

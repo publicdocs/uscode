@@ -17,7 +17,7 @@
 
     The Secretary of the Interior shall not pay for any land or land and water a price which shall exceed an average cost of $10 per acre: Provided, That this provision shall not apply to any land or land and water prior to May 12, 1928, acquired or contracted for under the provisions of this chapter.
 
-([June 7, 1924, ch. 346, § 10][/us/act/1924-06-07/ch346/s10], [43 Stat. 652][/us/stat/43/652]; [Mar. 4, 1925, ch. 558][/us/act/1925-03-04/ch558], [43 Stat. 1354][/us/stat/43/1354]; [May 12, 1928, ch. 534][/us/act/1928-05-12/ch534], [45 Stat. 502][/us/stat/45/502]; 1939 Reorg. Plan No. II, § 4 (f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433].)
+([June 7, 1924, ch. 346][/us/act/1924-06-07/ch346], § 10, [43 Stat. 652][/us/stat/43/652]; [Mar. 4, 1925, ch. 558][/us/act/1925-03-04/ch558], [43 Stat. 1354][/us/stat/43/1354]; [May 12, 1928, ch. 534][/us/act/1928-05-12/ch534], [45 Stat. 502][/us/stat/45/502]; 1939 Reorg. Plan No. II, § 4 (f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433].)
 
  __Codification__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/act/1924-06-07/ch346/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch346%2Fs10
+[/us/act/1924-06-07/ch346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch346
 [/us/stat/43/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F652
 [/us/act/1925-03-04/ch558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-04%2Fch558
 [/us/stat/43/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1354

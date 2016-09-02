@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this subchapter, not to exceed, however, $2,173,000 for the acquisition of lands and interests in lands and not to exceed $1,373,000 for development. The sums authorized in this section shall be available for acquisition and development undertaken subsequent to December 18, 1971.
 
-([Pub. L. 92–207, § 7][/us/pl/92/207/s7], Dec. 18, 1971, [85 Stat. 740][/us/stat/85/740]; [Pub. L. 94–578, title I, § 101(4)][/us/pl/94/578/s101/4], Oct. 21, 1976, [90 Stat. 2732][/us/stat/90/2732]; [Pub. L. 95–625, title I, § 101(5)][/us/pl/95/625/s101/5], Nov. 10, 1978, [92 Stat. 3471][/us/stat/92/3471].)
+([Pub. L. 92–207][/us/pl/92/207], § 7, Dec. 18, 1971, [85 Stat. 740][/us/stat/85/740]; [Pub. L. 94–578, title I][/us/pl/94/578/tI], § 101(4), Oct. 21, 1976, [90 Stat. 2732][/us/stat/90/2732]; [Pub. L. 95–625, title I][/us/pl/95/625/tI], § 101(5), Nov. 10, 1978, [92 Stat. 3471][/us/stat/92/3471].)
 
  __Amendments__ 
 
@@ -32,11 +32,11 @@
 ----------
 ----------
 
-[/us/pl/92/207/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F207%2Fs7
+[/us/pl/92/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F207
 [/us/stat/85/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F740
-[/us/pl/94/578/s101/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2Fs101%2F4
+[/us/pl/94/578/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2FtI
 [/us/stat/90/2732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2732
-[/us/pl/95/625/s101/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs101%2F5
+[/us/pl/95/625/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtI
 [/us/stat/92/3471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3471
 [/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
 [/us/pl/94/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578

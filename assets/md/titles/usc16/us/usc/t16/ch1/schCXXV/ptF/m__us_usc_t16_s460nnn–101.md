@@ -35,7 +35,7 @@
 
         The Secretary shall complete the conveyance of the Federal lands under subsection (a) within 70 days after the Secretary accepts the lands described in subsection (b).
 
-([Pub. L. 106–399, title VI, § 601][/us/pl/106/399/s601], Oct. 30, 2000, [114 Stat. 1670][/us/stat/114/1670].)
+([Pub. L. 106–399, title VI][/us/pl/106/399/tVI], § 601, Oct. 30, 2000, [114 Stat. 1670][/us/stat/114/1670].)
 
 ----------
 
@@ -47,7 +47,7 @@
 [/us/usc/t16/s460nnn–105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460nnn%E2%80%93105%2Fa
 [/us/usc/t16/s460nnn–105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460nnn%E2%80%93105%2Fa
 [/us/usc/t16/s460nnn–23/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460nnn%E2%80%9323%2Fe
-[/us/pl/106/399/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2Fs601
+[/us/pl/106/399/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2FtVI
 [/us/stat/114/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1670
 
 

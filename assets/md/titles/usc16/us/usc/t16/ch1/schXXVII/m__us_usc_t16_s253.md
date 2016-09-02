@@ -17,7 +17,7 @@
 
     The income of each county receiving moneys from the Olympic National Forest, under [section 500 of this title][/us/usc/t16/s500], shall be proportional to the total area of each county in the Olympic National Forest and the Olympic National Park combined.
 
-([June 29, 1938, ch. 812, § 3][/us/act/1938-06-29/ch812/s3], [52 Stat. 1242][/us/stat/52/1242].)
+([June 29, 1938, ch. 812][/us/act/1938-06-29/ch812], § 3, [52 Stat. 1242][/us/stat/52/1242].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs500
-[/us/act/1938-06-29/ch812/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-29%2Fch812%2Fs3
+[/us/act/1938-06-29/ch812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-29%2Fch812
 [/us/stat/52/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1242
 
 

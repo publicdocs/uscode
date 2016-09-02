@@ -63,7 +63,7 @@
 
         The Secretary may also provide support services, as requested by the Foundation, on a reimbursable basis, for purposes of reconstruction of the Center.
 
-([Pub. L. 89–671, § 4][/us/pl/89/671/s4], as added [Pub. L. 97–310][/us/pl/97/310], Oct. 14, 1982, [96 Stat. 1455][/us/stat/96/1455]; amended [Pub. L. 101–636, § 1][/us/pl/101/636/s1], Nov. 28, 1990, [104 Stat. 4586][/us/stat/104/4586]; [Pub. L. 103–437, § 6(d)(8)][/us/pl/103/437/s6/d/8], Nov. 2, 1994, [108 Stat. 4583][/us/stat/108/4583]; [Pub. L. 107–219, § 2][/us/pl/107/219/s2], Aug. 21, 2002, [116 Stat. 1330][/us/stat/116/1330].)
+([Pub. L. 89–671][/us/pl/89/671], § 4, as added [Pub. L. 97–310][/us/pl/97/310], Oct. 14, 1982, [96 Stat. 1455][/us/stat/96/1455]; amended [Pub. L. 101–636][/us/pl/101/636], § 1, Nov. 28, 1990, [104 Stat. 4586][/us/stat/104/4586]; [Pub. L. 103–437][/us/pl/103/437], § 6(d)(8), Nov. 2, 1994, [108 Stat. 4583][/us/stat/108/4583]; [Pub. L. 107–219][/us/pl/107/219], § 2, Aug. 21, 2002, [116 Stat. 1330][/us/stat/116/1330].)
 
  __References in Text__ 
 
@@ -71,7 +71,7 @@
 
  __Codification__ 
 
-    “Sections 3141–3144, 3146, and 3147 of title 40” substituted in subsec. (c)(1) for “the Davis-Bacon Act ([40 U.S.C. 276a][/us/usc/t40/s276a]–a7)” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    “Sections 3141–3144, 3146, and 3147 of title 40” substituted in subsec. (c)(1) for “the Davis-Bacon Act ([40 U.S.C. 276a][/us/usc/t40/s276a]–a7)” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
  __Amendments__ 
 
@@ -83,7 +83,7 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Section 4 of Pub. L. 101–636][/us/pl/101/636/s4], as amended by [Pub. L. 89–671, § 14(c)][/us/pl/89/671/s14/c], as added [Pub. L. 107–219, § 1(a)(3)][/us/pl/107/219/s1/a/3], Aug. 21, 2002, [116 Stat. 1330][/us/stat/116/1330], provided that:
+[Section 4 of Pub. L. 101–636][/us/pl/101/636/s4], as amended by [Pub. L. 89–671][/us/pl/89/671], § 14(c), as added [Pub. L. 107–219][/us/pl/107/219], § 1(a)(3), Aug. 21, 2002, [116 Stat. 1330][/us/stat/116/1330], provided that:
 
 >     “(a) The amendments made by sections 1 and 2 \[amending this section and [section 284d of this title][/us/usc/t16/s284d]\] shall take effect on the date on which the Wolf Trap Foundation for the Performing Arts modifies its agreements entered into pursuant to the Wolf Trap National Park for the Performing Arts Act \[this subchapter\] in a manner which is consistent with and takes into account the amendments made by this Act \[amending this section and [section 284d of this title][/us/usc/t16/s284d] and enacting provisions set out as a note under [section 284 of this title][/us/usc/t16/s284]\], as determined by the Secretary of the Interior.
 
@@ -91,7 +91,7 @@
 
  __Increase in Loan Ceiling; Funds Reimbursed to Foundation To Be Repaid to Secretary__ 
 
-[Pub. L. 99–190, § 101(d)][/us/pl/99/190/s101/d] \[title I\], Dec. 19, 1985, [99 Stat. 1224][/us/stat/99/1224], 1231, as amended by [Pub. L. 89–671, § 14(c)][/us/pl/89/671/s14/c], as added [Pub. L. 107–219, § 1(a)(3)][/us/pl/107/219/s1/a/3], Aug. 21, 2002, [116 Stat. 1330][/us/stat/116/1330], provided: 
+[Pub. L. 99–190][/us/pl/99/190], § 101(d) \[title I\], Dec. 19, 1985, [99 Stat. 1224][/us/stat/99/1224], 1231, as amended by [Pub. L. 89–671][/us/pl/89/671], § 14(c), as added [Pub. L. 107–219][/us/pl/107/219], § 1(a)(3), Aug. 21, 2002, [116 Stat. 1330][/us/stat/116/1330], provided: 
 
 > “That the loan ceiling established under [section 4(b) of Public Law 97–310][/us/pl/97/310/s4/b] \[probably means [Public Law 89–671][/us/pl/89/671]\], the Wolf Trap National Park for the Performing Arts Act, as amended \[[16 U.S.C. 284c(b)][/us/usc/t16/s284c/b]\], is increased to $9,500,000. Notwithstanding the loan repayment provisions of [Public Law 97–310][/us/pl/97/310] \[enacting [16 U.S.C. 284c][/us/usc/t16/s284c] to 284j\], the dollar amount of items paid for by the Wolf Trap Foundation from funds provided by the additional loan authority in this section that is subsequently reimbursed to the Foundation by a court award or insurance settlement shall be repaid to the Secretary of the Interior by the Wolf Trap Foundation within 90 days of the date of the court award or insurance settlement.”
 
@@ -106,33 +106,33 @@
 [/us/usc/t16/s284d/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs284d%2Fc%2F4
 [/us/usc/t16/s284d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs284d
 [/us/usc/t16/s284d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs284d
-[/us/pl/89/671/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F671%2Fs4
+[/us/pl/89/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F671
 [/us/pl/97/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F310
 [/us/stat/96/1455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1455
-[/us/pl/101/636/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F636%2Fs1
+[/us/pl/101/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F636
 [/us/stat/104/4586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4586
-[/us/pl/103/437/s6/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fd%2F8
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4583
-[/us/pl/107/219/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F219%2Fs2
+[/us/pl/107/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F219
 [/us/stat/116/1330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1330
 [/us/usc/t40/s276a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs276a
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/pl/107/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F219
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/101/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F636
 [/us/pl/101/636/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F636%2Fs4
-[/us/pl/89/671/s14/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F671%2Fs14%2Fc
-[/us/pl/107/219/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F219%2Fs1%2Fa%2F3
+[/us/pl/89/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F671
+[/us/pl/107/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F219
 [/us/stat/116/1330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1330
 [/us/usc/t16/s284d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs284d
 [/us/usc/t16/s284d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs284d
 [/us/usc/t16/s284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs284
 [/us/usc/t16/s284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs284
-[/us/pl/99/190/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs101%2Fd
+[/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/stat/99/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1224
-[/us/pl/89/671/s14/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F671%2Fs14%2Fc
-[/us/pl/107/219/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F219%2Fs1%2Fa%2F3
+[/us/pl/89/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F671
+[/us/pl/107/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F219
 [/us/stat/116/1330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1330
 [/us/pl/97/310/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F310%2Fs4%2Fb
 [/us/pl/89/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F671

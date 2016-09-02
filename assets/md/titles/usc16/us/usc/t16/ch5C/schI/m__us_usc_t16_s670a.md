@@ -157,33 +157,33 @@
 
             The Secretary of Defense shall carry out this subsection in consultation with the Secretary of the Interior.
 
-([Pub. L. 86–797, title I, § 101][/us/pl/86/797/s101], formerly § 1, Sept. 15, 1960, [74 Stat. 1052][/us/stat/74/1052]; renumbered title I, § 101, and amended [Pub. L. 93–452][/us/pl/93/452], §§ 1(1), 3(1), (2), Oct. 18, 1974, [88 Stat. 1369][/us/stat/88/1369], 1375; [Pub. L. 97–396, § 1][/us/pl/97/396/s1], Dec. 31, 1982, [96 Stat. 2005][/us/stat/96/2005]; [Pub. L. 99–561, § 3(a)(1)][/us/pl/99/561/s3/a/1], Oct. 27, 1986, [100 Stat. 3150][/us/stat/100/3150]; [Pub. L. 105–85, div. B, title XXIX][/us/pl/105/85], §§ 2904(a)–(b)(4), (c), 2906, 2907, 2913(2)–(4), Nov. 18, 1997, [111 Stat. 2017][/us/stat/111/2017], 2018, 2020, 2022; [Pub. L. 106–65, div. A, title X, § 1067(19)][/us/pl/106/65/s1067/19], Oct. 5, 1999, [113 Stat. 775][/us/stat/113/775]; [Pub. L. 108–136, div. A, title III, § 311(c)(1)][/us/pl/108/136/s311/c/1], Nov. 24, 2003, [117 Stat. 1429][/us/stat/117/1429]; [Pub. L. 111–84, div. A, title III, § 314][/us/pl/111/84/s314], Oct. 28, 2009, [123 Stat. 2248][/us/stat/123/2248]; [Pub. L. 112–81, div. A, title III, § 312(a)(2)][/us/pl/112/81/s312/a/2], (b)(1), Dec. 31, 2011, [125 Stat. 1352][/us/stat/125/1352], 1353.)
+([Pub. L. 86–797, title I][/us/pl/86/797/tI], § 101, formerly § 1, Sept. 15, 1960, [74 Stat. 1052][/us/stat/74/1052]; renumbered title I, § 101, and amended [Pub. L. 93–452][/us/pl/93/452], §§ 1(1), 3(1), (2), Oct. 18, 1974, [88 Stat. 1369][/us/stat/88/1369], 1375; [Pub. L. 97–396][/us/pl/97/396], § 1, Dec. 31, 1982, [96 Stat. 2005][/us/stat/96/2005]; [Pub. L. 99–561][/us/pl/99/561], § 3(a)(1), Oct. 27, 1986, [100 Stat. 3150][/us/stat/100/3150]; [Pub. L. 105–85, div. B, title XXIX][/us/pl/105/85/dB/tXXIX], §§ 2904(a)–(b)(4), (c), 2906, 2907, 2913(2)–(4), Nov. 18, 1997, [111 Stat. 2017][/us/stat/111/2017], 2018, 2020, 2022; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(19), Oct. 5, 1999, [113 Stat. 775][/us/stat/113/775]; [Pub. L. 108–136, div. A, title III][/us/pl/108/136/dA/tIII], § 311(c)(1), Nov. 24, 2003, [117 Stat. 1429][/us/stat/117/1429]; [Pub. L. 111–84, div. A, title III][/us/pl/111/84/dA/tIII], § 314, Oct. 28, 2009, [123 Stat. 2248][/us/stat/123/2248]; [Pub. L. 112–81, div. A, title III][/us/pl/112/81/dA/tIII], § 312(a)(2), (b)(1), Dec. 31, 2011, [125 Stat. 1352][/us/stat/125/1352], 1353.)
 
  __Amendments__ 
 
-    2011—[Pub. L. 112–81, § 312(b)(1)(A)][/us/pl/112/81/s312/b/1/A], (B), inserted section catchline.
+    2011—[Pub. L. 112–81][/us/pl/112/81], § 312(b)(1)(A), (B), inserted section catchline.
 
-    Subsec. (a)(1)(B). [Pub. L. 112–81, § 312(a)(2)(A)][/us/pl/112/81/s312/a/2/A], designated existing provisions as cl. (i) and added cl. (ii).
+    Subsec. (a)(1)(B). [Pub. L. 112–81][/us/pl/112/81], § 312(a)(2)(A), designated existing provisions as cl. (i) and added cl. (ii).
 
-    Subsec. (a)(2). [Pub. L. 112–81, § 312(a)(2)(B)][/us/pl/112/81/s312/a/2/B], inserted “or State-owned National Guard installation” after “military installation” in two places.
+    Subsec. (a)(2). [Pub. L. 112–81][/us/pl/112/81], § 312(a)(2)(B), inserted “or State-owned National Guard installation” after “military installation” in two places.
 
-    Subsec. (a)(3)(A). [Pub. L. 112–81, § 312(a)(2)(C)(i)][/us/pl/112/81/s312/a/2/C/i]–(v), designated introductory provisions as subpar. (A), redesignated former subpars. (A), (B), and (C) as cls. (i), (ii), and (iii), respectively, inserted “and State-owned National Guard installations” after “Consistent with the use of military installations”, substituted “such installations” for “military installations” in cl. (i), and inserted “on such installations” after “resources” in cl. (ii).
+    Subsec. (a)(3)(A). [Pub. L. 112–81][/us/pl/112/81], § 312(a)(2)(C)(i)–(v), designated introductory provisions as subpar. (A), redesignated former subpars. (A), (B), and (C) as cls. (i), (ii), and (iii), respectively, inserted “and State-owned National Guard installations” after “Consistent with the use of military installations”, substituted “such installations” for “military installations” in cl. (i), and inserted “on such installations” after “resources” in cl. (ii).
 
-    Subsec. (a)(3)(B). [Pub. L. 112–81, § 312(a)(2)(C)(vi)][/us/pl/112/81/s312/a/2/C/vi], added subpar. (B).
+    Subsec. (a)(3)(B). [Pub. L. 112–81][/us/pl/112/81], § 312(a)(2)(C)(vi), added subpar. (B).
 
-    Subsec. (b). [Pub. L. 112–81, § 312(a)(2)(D)][/us/pl/112/81/s312/a/2/D], inserted “and State-owned National Guard installations” after “military installations” in introductory provisions.
+    Subsec. (b). [Pub. L. 112–81][/us/pl/112/81], § 312(a)(2)(D), inserted “and State-owned National Guard installations” after “military installations” in introductory provisions.
 
-    Subsec. (b)(1)(G), (I). [Pub. L. 112–81, § 312(a)(2)(E)][/us/pl/112/81/s312/a/2/E], substituted “installation” for “military installation”.
+    Subsec. (b)(1)(G), (I). [Pub. L. 112–81][/us/pl/112/81], § 312(a)(2)(E), substituted “installation” for “military installation”.
 
-    Subsec. (b)(3). [Pub. L. 112–81, § 312(a)(2)(F)][/us/pl/112/81/s312/a/2/F], inserted “, in the case of a military installation,” after “(3) may”.
+    Subsec. (b)(3). [Pub. L. 112–81][/us/pl/112/81], § 312(a)(2)(F), inserted “, in the case of a military installation,” after “(3) may”.
 
-    Subsec. (c). [Pub. L. 112–81, § 312(b)(1)(C)][/us/pl/112/81/s312/b/1/C], inserted heading.
+    Subsec. (c). [Pub. L. 112–81][/us/pl/112/81], § 312(b)(1)(C), inserted heading.
 
-    Subsec. (d). [Pub. L. 112–81, § 312(b)(1)(D)][/us/pl/112/81/s312/b/1/D], inserted heading.
+    Subsec. (d). [Pub. L. 112–81][/us/pl/112/81], § 312(b)(1)(D), inserted heading.
 
-    Subsec. (e). [Pub. L. 112–81, § 312(b)(1)(E)(ii)][/us/pl/112/81/s312/b/1/E/ii], which directed insertion of a comma after “Code”, could not be executed because the word “Code” did not appear.
+    Subsec. (e). [Pub. L. 112–81][/us/pl/112/81], § 312(b)(1)(E)(ii), which directed insertion of a comma after “Code”, could not be executed because the word “Code” did not appear.
 
-    [Pub. L. 112–81, § 312(b)(1)(E)(i)][/us/pl/112/81/s312/b/1/E/i], inserted heading.
+    [Pub. L. 112–81][/us/pl/112/81], § 312(b)(1)(E)(i), inserted heading.
 
     2009—Subsec. (g)(1). [Pub. L. 111–84][/us/pl/111/84] substituted “fiscal years 2009 through 2014” for “fiscal years 2004 through 2008” in introductory provisions.
 
@@ -191,11 +191,11 @@
 
     1999—Subsec. (f)(3)(A). [Pub. L. 106–65][/us/pl/106/65] substituted “Committee on Armed Services” for “Committee on National Security”.
 
-    1997—Subsec. (a). [Pub. L. 105–85, § 2904(a)][/us/pl/105/85/s2904/a], added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary of Defense is authorized to carry out a program of planning for, and the development, maintenance, and coordination of, wildlife, fish, and game conservation and rehabilitation in each military reservation in accordance with a cooperative plan mutually agreed upon by the Secretary of Defense, the Secretary of the Interior, and the appropriate State agency designated by the State in which the reservation is located.”
+    1997—Subsec. (a). [Pub. L. 105–85][/us/pl/105/85], § 2904(a), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary of Defense is authorized to carry out a program of planning for, and the development, maintenance, and coordination of, wildlife, fish, and game conservation and rehabilitation in each military reservation in accordance with a cooperative plan mutually agreed upon by the Secretary of Defense, the Secretary of the Interior, and the appropriate State agency designated by the State in which the reservation is located.”
 
-    Subsec. (b). [Pub. L. 105–85, § 2904(c)(1)][/us/pl/105/85/s2904/c/1], inserted heading and substituted, in introductory provisions, “Consistent with the use of military installations to ensure the preparedness of the Armed Forces, each integrated natural resources management plan prepared under subsection (a)—” for “Each cooperative plan entered into under subsection (a)—”.
+    Subsec. (b). [Pub. L. 105–85][/us/pl/105/85], § 2904(c)(1), inserted heading and substituted, in introductory provisions, “Consistent with the use of military installations to ensure the preparedness of the Armed Forces, each integrated natural resources management plan prepared under subsection (a)—” for “Each cooperative plan entered into under subsection (a)—”.
 
-    Subsec. (b)(1). [Pub. L. 105–85, § 2904(c)(1)][/us/pl/105/85/s2904/c/1], added par. (1) and struck out former par. (1) which read as follows: “shall provide for—
+    Subsec. (b)(1). [Pub. L. 105–85][/us/pl/105/85], § 2904(c)(1), added par. (1) and struck out former par. (1) which read as follows: “shall provide for—
 
     “(A) fish and wildlife habitat improvements or modifications,
 
@@ -205,41 +205,41 @@
 
     “(D) specific habitat improvement projects and related activities and adequate protection for species of fish, wildlife, and plants considered threatened or endangered;”.
 
-    Subsec. (b)(2). [Pub. L. 105–85, § 2904(c)(2)][/us/pl/105/85/s2904/c/2], inserted “and” at end.
+    Subsec. (b)(2). [Pub. L. 105–85][/us/pl/105/85], § 2904(c)(2), inserted “and” at end.
 
-    Subsec. (b)(3). [Pub. L. 105–85, § 2904(c)(3)][/us/pl/105/85/s2904/c/3], (4), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “shall, if a multiuse natural resources management plan is applicable to the military reservation, be treated as the exclusive component of that management plan with respect to wildlife, fish, and game conservation and rehabilitation; and”.
+    Subsec. (b)(3). [Pub. L. 105–85][/us/pl/105/85], § 2904(c)(3), (4), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “shall, if a multiuse natural resources management plan is applicable to the military reservation, be treated as the exclusive component of that management plan with respect to wildlife, fish, and game conservation and rehabilitation; and”.
 
-    Subsec. (b)(3)(A). [Pub. L. 105–85, § 2913(2)(A)][/us/pl/105/85/s2913/2/A], substituted “the installation” for “the reservation”.
+    Subsec. (b)(3)(A). [Pub. L. 105–85][/us/pl/105/85], § 2913(2)(A), substituted “the installation” for “the reservation”.
 
-    [Pub. L. 105–85, § 2904(c)(5)][/us/pl/105/85/s2904/c/5], substituted “collect, spend, administer, and account for fees for the permits,” for “collect the fees therefor,”.
+    [Pub. L. 105–85][/us/pl/105/85], § 2904(c)(5), substituted “collect, spend, administer, and account for fees for the permits,” for “collect the fees therefor,”.
 
-    Subsec. (b)(3)(B). [Pub. L. 105–85, § 2912(2)(B)][/us/pl/105/85/s2912/2/B], substituted “the military installation on” for “the military reservation on”.
+    Subsec. (b)(3)(B). [Pub. L. 105–85][/us/pl/105/85], § 2912(2)(B), substituted “the military installation on” for “the military reservation on”.
 
-    [Pub. L. 105–85, § 2906][/us/pl/105/85/s2906], inserted before period at end “, unless the military installation is subsequently closed, in which case the fees may be transferred to another military installation to be used for the same purposes”.
+    [Pub. L. 105–85][/us/pl/105/85], § 2906, inserted before period at end “, unless the military installation is subsequently closed, in which case the fees may be transferred to another military installation to be used for the same purposes”.
 
-    Subsec. (b)(4). [Pub. L. 105–85, § 2904(c)(4)][/us/pl/105/85/s2904/c/4], redesignated par. (4) as (3).
+    Subsec. (b)(4). [Pub. L. 105–85][/us/pl/105/85], § 2904(c)(4), redesignated par. (4) as (3).
 
-    [Pub. L. 105–85, § 2904(b)(1)][/us/pl/105/85/s2904/b/1], substituted “integrated natural resources management plan” for “cooperative plan” in introductory provisions and in subpar. (A).
+    [Pub. L. 105–85][/us/pl/105/85], § 2904(b)(1), substituted “integrated natural resources management plan” for “cooperative plan” in introductory provisions and in subpar. (A).
 
-    Subsec. (c). [Pub. L. 105–85, § 2904(b)(2)][/us/pl/105/85/s2904/b/2], substituted “an integrated natural resources management plan” for “a cooperative plan” in introductory provisions.
+    Subsec. (c). [Pub. L. 105–85][/us/pl/105/85], § 2904(b)(2), substituted “an integrated natural resources management plan” for “a cooperative plan” in introductory provisions.
 
-    Subsec. (c)(1). [Pub. L. 105–85, § 2913(3)(A)][/us/pl/105/85/s2913/3/A], substituted “a military installation” for “a military reservation”.
+    Subsec. (c)(1). [Pub. L. 105–85][/us/pl/105/85], § 2913(3)(A), substituted “a military installation” for “a military reservation”.
 
-    Subsec. (c)(2). [Pub. L. 105–85, § 2913(3)(B)][/us/pl/105/85/s2913/3/B], substituted “the installation” for “the reservation”.
+    Subsec. (c)(2). [Pub. L. 105–85][/us/pl/105/85], § 2913(3)(B), substituted “the installation” for “the reservation”.
 
-    Subsec. (d). [Pub. L. 105–85, § 2904(b)(3)][/us/pl/105/85/s2904/b/3], substituted “integrated natural resources management plans” for “cooperative plans” in introductory provisions.
+    Subsec. (d). [Pub. L. 105–85][/us/pl/105/85], § 2904(b)(3), substituted “integrated natural resources management plans” for “cooperative plans” in introductory provisions.
 
-    Subsec. (e). [Pub. L. 105–85, § 2913(4)][/us/pl/105/85/s2913/4], substituted “chapter 63 of title 31” for “the Federal Grant and Cooperative Agreement Act of 1977 ([41 U.S.C. 501][/us/usc/t41/s501] et seq.)”.
+    Subsec. (e). [Pub. L. 105–85][/us/pl/105/85], § 2913(4), substituted “chapter 63 of title 31” for “the Federal Grant and Cooperative Agreement Act of 1977 ([41 U.S.C. 501][/us/usc/t41/s501] et seq.)”.
 
-    [Pub. L. 105–85, § 2904(b)(4)][/us/pl/105/85/s2904/b/4], substituted “Integrated natural resources management plans” for “Cooperative plans”.
+    [Pub. L. 105–85][/us/pl/105/85], § 2904(b)(4), substituted “Integrated natural resources management plans” for “Cooperative plans”.
 
-    Subsec. (f). [Pub. L. 105–85, § 2907][/us/pl/105/85/s2907], added subsec. (f).
+    Subsec. (f). [Pub. L. 105–85][/us/pl/105/85], § 2907, added subsec. (f).
 
     1986—[Pub. L. 99–561][/us/pl/99/561] amended section generally. Prior to amendment, section read as follows: “The Secretary of Defense is hereby authorized to carry out a program of planning, development, maintenance and coordination of wildlife, fish and game conservation and rehabilitation in military reservations in accordance with a cooperative plan mutually agreed upon by the Secretary of Defense, the Secretary of Interior and the appropriate State agency designated by the State in which the reservation is located. Such cooperative plan shall provide for (1) fish and wildlife habitat improvements or modifications, (2) range rehabilitation where necessary for support of wildlife, (3) control of off-road vehicle traffic, and (4) specific habitat improvement projects and related activities and adequate protection for species of fish, wildlife, and plants considered threatened or endangered. Such cooperative plan may stipulate the issuance of special State hunting and fishing permits to individuals and require this payment of a nominal fee therefor, which fees shall be utilized for the protection, conservation and management of fish and wildlife, including habitat improvement and related activities in accordance with the cooperative plan: Provided, That the Commanding Officer of the reservation or persons designated by him are authorized to enforce such special hunting and fishing permits and to collect the fees therefor, acting as agent or agents for the State if the cooperative plan so provides. Cooperative plans agreed to under the authority of this section and [section 670b of this title][/us/usc/t16/s670b] shall not be deemed to be, nor treated as, cooperative agreements to which chapter 63 of title 31 applies.”
 
-    1982—[Pub. L. 97–396, § 1(1)][/us/pl/97/396/s1/1], added cl. (4).
+    1982—[Pub. L. 97–396][/us/pl/97/396], § 1(1), added cl. (4).
 
-    [Pub. L. 97–396, § 1(2)][/us/pl/97/396/s1/2], inserted provision that cooperative plans agreed to under the authority of this section and [section 670b of this title][/us/usc/t16/s670b] shall not be deemed to be, nor treated as, cooperative agreements to which chapter 63 of title 31 applies.
+    [Pub. L. 97–396][/us/pl/97/396], § 1(2), inserted provision that cooperative plans agreed to under the authority of this section and [section 670b of this title][/us/usc/t16/s670b] shall not be deemed to be, nor treated as, cooperative agreements to which chapter 63 of title 31 applies.
 
     1974—[Pub. L. 93–452][/us/pl/93/452], §§ 1(1), 3(2), inserted provisions requiring the cooperative plan to provide for fish and wildlife habitat improvements, range rehabilitation, and off-road vehicle traffic control.
 
@@ -249,7 +249,7 @@
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–136, div. A, title III, § 311(c)(2)][/us/pl/108/136/s311/c/2], Nov. 24, 2003, [117 Stat. 1429][/us/stat/117/1429], provided that: 
+[Pub. L. 108–136, div. A, title III][/us/pl/108/136/dA/tIII], § 311(c)(2), Nov. 24, 2003, [117 Stat. 1429][/us/stat/117/1429], provided that: 
 
 > “Section 101(g) of the Sikes Act, as added by paragraph (1), \[subsec. (g) of this section\] shall apply—
 
@@ -259,7 +259,7 @@
 
  __Review for Preparation of Integrated Natural Resources Management Plans__ 
 
-[Pub. L. 105–85, div. B, title XXIX, § 2905][/us/pl/105/85/s2905], Nov. 18, 1997, [111 Stat. 2019][/us/stat/111/2019], provided that:
+[Pub. L. 105–85, div. B, title XXIX][/us/pl/105/85/dB/tXXIX], § 2905, Nov. 18, 1997, [111 Stat. 2019][/us/stat/111/2019], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -301,7 +301,7 @@
 
  __Applicability of 1986 Amendments to Existing Contracts__ 
 
-[Pub. L. 99–561, § 3(a)(2)][/us/pl/99/561/s3/a/2], Oct. 27, 1986, [100 Stat. 3151][/us/stat/100/3151], provided that: 
+[Pub. L. 99–561][/us/pl/99/561], § 3(a)(2), Oct. 27, 1986, [100 Stat. 3151][/us/stat/100/3151], provided that: 
 
 > “Subsection (d)(1) of such section 101 (as added by paragraph (1) \[[16 U.S.C. 670a(d)(1)][/us/usc/t16/s670a/d/1]\]) shall not affect any contract entered into before the date of the enactment of this Act \[October 27, 1986\] for the provision of services to implement or enforce a cooperative plan under this Act \[enacting [section 670a–1 of this title][/us/usc/t16/s670a–1] and amending this section and sections 670f and 670o of this title and [section 2665 of Title 10][/us/usc/t10/s2665], Armed Forces\] on any military installation; but shall apply to the renewal, after such date of enactment, of any such contract.”
 
@@ -314,72 +314,72 @@
 
 [/us/usc/t16/s670b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs670b
 [/us/usc/t16/s670b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs670b
-[/us/pl/86/797/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F797%2Fs101
+[/us/pl/86/797/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F797%2FtI
 [/us/stat/74/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F1052
 [/us/pl/93/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F452
 [/us/stat/88/1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1369
-[/us/pl/97/396/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F396%2Fs1
+[/us/pl/97/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F396
 [/us/stat/96/2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2005
-[/us/pl/99/561/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F561%2Fs3%2Fa%2F1
+[/us/pl/99/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F561
 [/us/stat/100/3150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3150
-[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85/dB/tXXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdB%2FtXXIX
 [/us/stat/111/2017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2017
-[/us/pl/106/65/s1067/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F19
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F775
-[/us/pl/108/136/s311/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs311%2Fc%2F1
+[/us/pl/108/136/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIII
 [/us/stat/117/1429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1429
-[/us/pl/111/84/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs314
+[/us/pl/111/84/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtIII
 [/us/stat/123/2248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2248
-[/us/pl/112/81/s312/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs312%2Fa%2F2
+[/us/pl/112/81/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtIII
 [/us/stat/125/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1352
-[/us/pl/112/81/s312/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs312%2Fb%2F1%2FA
-[/us/pl/112/81/s312/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs312%2Fa%2F2%2FA
-[/us/pl/112/81/s312/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs312%2Fa%2F2%2FB
-[/us/pl/112/81/s312/a/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs312%2Fa%2F2%2FC%2Fi
-[/us/pl/112/81/s312/a/2/C/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs312%2Fa%2F2%2FC%2Fvi
-[/us/pl/112/81/s312/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs312%2Fa%2F2%2FD
-[/us/pl/112/81/s312/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs312%2Fa%2F2%2FE
-[/us/pl/112/81/s312/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs312%2Fa%2F2%2FF
-[/us/pl/112/81/s312/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs312%2Fb%2F1%2FC
-[/us/pl/112/81/s312/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs312%2Fb%2F1%2FD
-[/us/pl/112/81/s312/b/1/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs312%2Fb%2F1%2FE%2Fii
-[/us/pl/112/81/s312/b/1/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs312%2Fb%2F1%2FE%2Fi
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/105/85/s2904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2904%2Fa
-[/us/pl/105/85/s2904/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2904%2Fc%2F1
-[/us/pl/105/85/s2904/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2904%2Fc%2F1
-[/us/pl/105/85/s2904/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2904%2Fc%2F2
-[/us/pl/105/85/s2904/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2904%2Fc%2F3
-[/us/pl/105/85/s2913/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2913%2F2%2FA
-[/us/pl/105/85/s2904/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2904%2Fc%2F5
-[/us/pl/105/85/s2912/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2912%2F2%2FB
-[/us/pl/105/85/s2906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2906
-[/us/pl/105/85/s2904/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2904%2Fc%2F4
-[/us/pl/105/85/s2904/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2904%2Fb%2F1
-[/us/pl/105/85/s2904/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2904%2Fb%2F2
-[/us/pl/105/85/s2913/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2913%2F3%2FA
-[/us/pl/105/85/s2913/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2913%2F3%2FB
-[/us/pl/105/85/s2904/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2904%2Fb%2F3
-[/us/pl/105/85/s2913/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2913%2F4
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/usc/t41/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs501
-[/us/pl/105/85/s2904/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2904%2Fb%2F4
-[/us/pl/105/85/s2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2907
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/99/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F561
 [/us/usc/t16/s670b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs670b
-[/us/pl/97/396/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F396%2Fs1%2F1
-[/us/pl/97/396/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F396%2Fs1%2F2
+[/us/pl/97/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F396
+[/us/pl/97/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F396
 [/us/usc/t16/s670b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs670b
 [/us/pl/93/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F452
-[/us/pl/108/136/s311/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs311%2Fc%2F2
+[/us/pl/108/136/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIII
 [/us/stat/117/1429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1429
-[/us/pl/105/85/s2905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2905
+[/us/pl/105/85/dB/tXXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdB%2FtXXIX
 [/us/stat/111/2019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2019
 [/us/usc/t16/s670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs670
 [/us/usc/t16/s670a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs670a
 [/us/usc/t16/s670a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs670a%2Fa
-[/us/pl/99/561/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F561%2Fs3%2Fa%2F2
+[/us/pl/99/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F561
 [/us/stat/100/3151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3151
 [/us/usc/t16/s670a/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs670a%2Fd%2F1
 [/us/usc/t16/s670a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs670a%E2%80%931

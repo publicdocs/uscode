@@ -17,7 +17,7 @@
 
     Certain lands in Mesa County, Colorado, and Grand County, Utah, which comprise approximately 75,550 acres as generally depicted on the Map, are hereby designated as wilderness and therefore as a component of the National Wilderness Preservation System. Such component shall be known as the Black Ridge Canyons Wilderness.
 
-([Pub. L. 106–353, § 5][/us/pl/106/353/s5], Oct. 24, 2000, [114 Stat. 1375][/us/stat/114/1375].)
+([Pub. L. 106–353][/us/pl/106/353], § 5, Oct. 24, 2000, [114 Stat. 1375][/us/stat/114/1375].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/353/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F353%2Fs5
+[/us/pl/106/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F353
 [/us/stat/114/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1375
 
 

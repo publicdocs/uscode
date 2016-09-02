@@ -23,7 +23,7 @@
 
         For the purposes of [section 583j–3 of this title][/us/usc/t16/s583j–3], there are authorized to be appropriated $3,000,000 for each of fiscal years 2016 through 2018 to the Secretary of Agriculture to be made available to the Foundation to match, on a one-for-one basis, private contributions made to the Foundation.
 
-([Pub. L. 101–593, title IV, § 410][/us/pl/101/593/s410], Nov. 16, 1990, [104 Stat. 2973][/us/stat/104/2973]; [Pub. L. 103–106, § 3(b)][/us/pl/103/106/s3/b], Oct. 12, 1993, [107 Stat. 1032][/us/stat/107/1032]; [Pub. L. 114–54, title II, § 201(b)][/us/pl/114/54/s201/b], Sept. 30, 2015, [129 Stat. 515][/us/stat/129/515].)
+([Pub. L. 101–593, title IV][/us/pl/101/593/tIV], § 410, Nov. 16, 1990, [104 Stat. 2973][/us/stat/104/2973]; [Pub. L. 103–106][/us/pl/103/106], § 3(b), Oct. 12, 1993, [107 Stat. 1032][/us/stat/107/1032]; [Pub. L. 114–54, title II][/us/pl/114/54/tII], § 201(b), Sept. 30, 2015, [129 Stat. 515][/us/stat/129/515].)
 
  __Amendments__ 
 
@@ -40,11 +40,11 @@
 
 [/us/usc/t16/s583j–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs583j%E2%80%933
 [/us/usc/t16/s583j–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs583j%E2%80%933
-[/us/pl/101/593/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2Fs410
+[/us/pl/101/593/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F593%2FtIV
 [/us/stat/104/2973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2973
-[/us/pl/103/106/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F106%2Fs3%2Fb
+[/us/pl/103/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F106
 [/us/stat/107/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1032
-[/us/pl/114/54/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2Fs201%2Fb
+[/us/pl/114/54/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54%2FtII
 [/us/stat/129/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F515
 [/us/pl/114/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F54
 [/us/pl/103/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F106

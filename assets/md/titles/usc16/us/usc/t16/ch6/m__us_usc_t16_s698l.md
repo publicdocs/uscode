@@ -17,7 +17,7 @@
 
     Within five years from October 11, 1974, with respect to the preserve and five years from April 29, 1988, with respect to the Addition, the Secretary shall review the area within the preserve or the area within the Addition (as the case may be) and shall report to the President, in accordance with section 1132(c) and (d) of this title, his recommendations as to the suitability or nonsuitability of any area within the preserve or the area within the Addition (as the case may be) for preservation as wilderness, and any designation of any such areas as a wilderness shall be accomplished in accordance with section 1132(c) and (d) of this title.
 
-([Pub. L. 93–440, § 7][/us/pl/93/440/s7], Oct. 11, 1974, [88 Stat. 1261][/us/stat/88/1261]; [Pub. L. 100–301, § 3(c)][/us/pl/100/301/s3/c], Apr. 29, 1988, [102 Stat. 444][/us/stat/102/444].)
+([Pub. L. 93–440][/us/pl/93/440], § 7, Oct. 11, 1974, [88 Stat. 1261][/us/stat/88/1261]; [Pub. L. 100–301][/us/pl/100/301], § 3(c), Apr. 29, 1988, [102 Stat. 444][/us/stat/102/444].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/93/440/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F440%2Fs7
+[/us/pl/93/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F440
 [/us/stat/88/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1261
-[/us/pl/100/301/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301%2Fs3%2Fc
+[/us/pl/100/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301
 [/us/stat/102/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F444
 [/us/pl/100/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301
 

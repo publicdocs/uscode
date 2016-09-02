@@ -31,7 +31,7 @@
 
         (2) 2 public advisors.
 
-([Pub. L. 109–479, title VI, § 604][/us/pl/109/479/s604], Jan. 12, 2007, [120 Stat. 3645][/us/stat/120/3645].)
+([Pub. L. 109–479, title VI][/us/pl/109/479/tVI], § 604, Jan. 12, 2007, [120 Stat. 3645][/us/stat/120/3645].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/109/479/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs604
+[/us/pl/109/479/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtVI
 [/us/stat/120/3645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3645
 
 

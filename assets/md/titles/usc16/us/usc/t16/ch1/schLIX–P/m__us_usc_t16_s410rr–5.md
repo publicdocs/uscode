@@ -17,7 +17,7 @@
 
     The Secretary, acting through the National Park Service, shall undertake a study of the Rowe Ruin, Arrowhead Pueblo, Hobson-Dressler Ruin, and Las Ruedas site for the suitability and feasibility of their inclusion in the park. The Secretary shall submit the study to the Congress within one year after June 27, 1990.
 
-([Pub. L. 101–313, title II, § 206][/us/pl/101/313/s206], June 27, 1990, [104 Stat. 279][/us/stat/104/279].)
+([Pub. L. 101–313, title II][/us/pl/101/313/tII], § 206, June 27, 1990, [104 Stat. 279][/us/stat/104/279].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/313/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F313%2Fs206
+[/us/pl/101/313/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F313%2FtII
 [/us/stat/104/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F279
 
 

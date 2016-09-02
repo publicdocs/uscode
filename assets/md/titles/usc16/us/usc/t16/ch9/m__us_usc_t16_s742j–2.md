@@ -17,7 +17,7 @@
 
     Notwithstanding subsection  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section”. </sup></sup>  5901(a) of title 5, the uniform allowance for each uniformed employee of the United States Fish and Wildlife Service may be up to $400 annually.
 
-([Aug. 8, 1956, ch. 1036, § 14][/us/act/1956-08-08/ch1036/s14], as added [Pub. L. 96–291, § 2][/us/pl/96/291/s2], June 28, 1980, [94 Stat. 608][/us/stat/94/608].)
+([Aug. 8, 1956, ch. 1036][/us/act/1956-08-08/ch1036], § 14, as added [Pub. L. 96–291][/us/pl/96/291], § 2, June 28, 1980, [94 Stat. 608][/us/stat/94/608].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1956-08-08/ch1036/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1036%2Fs14
-[/us/pl/96/291/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F291%2Fs2
+[/us/act/1956-08-08/ch1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1036
+[/us/pl/96/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F291
 [/us/stat/94/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F608
 
 

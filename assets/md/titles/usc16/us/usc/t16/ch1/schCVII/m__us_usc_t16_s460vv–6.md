@@ -35,7 +35,7 @@
 
         Any sales of timber from within the recreation area shall be designed so as to not detract from the scenic values of the recreation area. Management practices that would detract from the scenic quality and natural beauty within view from the Talimena Drive or the Holson Valley Road shall not be conducted in the recreation area. Unevenaged timber management shall be the timber management practice in the recreation area, except that the Secretary may use evenaged management practices in order to promote public safety, mitigate the effects of fire, insects, and disease, or allow scenic vistas and recreational development or if such practices result in irregular cuts behind geographic barriers blocking the view from the Talimena Drive and the Holson Valley Road.
 
-([Pub. L. 100–499, § 8][/us/pl/100/499/s8], Oct. 18, 1988, [102 Stat. 2494][/us/stat/102/2494].)
+([Pub. L. 100–499][/us/pl/100/499], § 8, Oct. 18, 1988, [102 Stat. 2494][/us/stat/102/2494].)
 
  __Change of Name__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/100/499/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F499%2Fs8
+[/us/pl/100/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F499
 [/us/stat/102/2494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2494
 
 

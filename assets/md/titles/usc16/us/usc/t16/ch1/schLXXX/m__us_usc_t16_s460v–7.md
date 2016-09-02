@@ -17,7 +17,7 @@
 
     Funds hereafter appropriated and available for the acquisition of lands and waters and interests therein in the national forest system pursuant to [section 200306 of title 54][/us/usc/t54/s200306] shall be available for the acquisition of any lands, waters, and interests therein within the boundaries of the recreation area.
 
-([Pub. L. 90–540, § 8][/us/pl/90/540/s8], Oct. 1, 1968, [82 Stat. 905][/us/stat/82/905]; [Pub. L. 113–287, § 5(d)(2)][/us/pl/113/287/s5/d/2], Dec. 19, 2014, [128 Stat. 3264][/us/stat/128/3264].)
+([Pub. L. 90–540][/us/pl/90/540], § 8, Oct. 1, 1968, [82 Stat. 905][/us/stat/82/905]; [Pub. L. 113–287][/us/pl/113/287], § 5(d)(2), Dec. 19, 2014, [128 Stat. 3264][/us/stat/128/3264].)
 
  __Amendments__ 
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/usc/t54/s200306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs200306
-[/us/pl/90/540/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F540%2Fs8
+[/us/pl/90/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F540
 [/us/stat/82/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F905
-[/us/pl/113/287/s5/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F2
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3264
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t54/s200306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs200306

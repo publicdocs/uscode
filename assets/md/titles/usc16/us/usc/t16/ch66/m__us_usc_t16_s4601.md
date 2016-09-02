@@ -35,7 +35,7 @@
 
         (2) To conduct a national awards program to honor those individuals and entities which, in the opinion of the Secretary of the Interior (hereafter in this chapter referred to as the “Secretary”), have distinguished themselves in the activities described in paragraph (1) of this subsection.
 
-([Pub. L. 101–628, title XI, § 1102][/us/pl/101/628/s1102], Nov. 28, 1990, [104 Stat. 4502][/us/stat/104/4502].)
+([Pub. L. 101–628, title XI][/us/pl/101/628/tXI], § 1102, Nov. 28, 1990, [104 Stat. 4502][/us/stat/104/4502].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 
  __Short Title__ 
 
-[Pub. L. 101–628, title XI, § 1101][/us/pl/101/628/s1101], Nov. 28, 1990, [104 Stat. 4502][/us/stat/104/4502], provided that: 
+[Pub. L. 101–628, title XI][/us/pl/101/628/tXI], § 1101, Nov. 28, 1990, [104 Stat. 4502][/us/stat/104/4502], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Take Pride in America Act’.”
 
@@ -54,11 +54,11 @@
 ----------
 ----------
 
-[/us/pl/101/628/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628%2Fs1102
+[/us/pl/101/628/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628%2FtXI
 [/us/stat/104/4502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4502
 [/us/pl/101/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628
 [/us/stat/104/4502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4502
-[/us/pl/101/628/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628%2Fs1101
+[/us/pl/101/628/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628%2FtXI
 [/us/stat/104/4502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4502
 
 

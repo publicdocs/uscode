@@ -21,7 +21,7 @@
 
     (2) as superseding, modifying, or repealing any existing applicable law, except as provided for in this section.
 
-([Pub. L. 96–561, title I, § 143][/us/pl/96/561/s143], Dec. 22, 1980, [94 Stat. 3286][/us/stat/94/3286].)
+([Pub. L. 96–561, title I][/us/pl/96/561/tI], § 143, Dec. 22, 1980, [94 Stat. 3286][/us/stat/94/3286].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/96/561/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs143
+[/us/pl/96/561/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtI
 [/us/stat/94/3286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3286
 
 

@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated such sums as are necessary for fiscal years 2017, 2018, and 2019 for this chapter.
 
-([Pub. L. 114–113, div. O, title IX, § 908][/us/pl/114/113/s908], Dec. 18, 2015, [129 Stat. 3034][/us/stat/129/3034].)
+([Pub. L. 114–113, div. O, title IX][/us/pl/114/113/dO/tIX], § 908, Dec. 18, 2015, [129 Stat. 3034][/us/stat/129/3034].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/114/113/s908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs908
+[/us/pl/114/113/dO/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdO%2FtIX
 [/us/stat/129/3034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3034
 
 

@@ -17,7 +17,7 @@
 
     Notwithstanding the foregoing provisions of this chapter, the Secretary is authorized and directed to provide for the execution by the Production and Marketing Administration of such powers conferred upon him under sections 590g, 590h, 590i, and 590j to 590n of this title as he deems may be appropriately exercised by such Administration, and for such purposes the provisions of law applicable to the appointment and compensation of persons employed by the Production and Marketing Administration shall apply.
 
-([Apr. 27, 1935, ch. 85, § 13][/us/act/1935-04-27/ch85/s13], as added [Feb. 29, 1936, ch. 104, § 1][/us/act/1936-02-29/ch104/s1], [49 Stat. 1151][/us/stat/49/1151]; amended 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, [60 Stat. 1100][/us/stat/60/1100].)
+([Apr. 27, 1935, ch. 85][/us/act/1935-04-27/ch85], § 13, as added [Feb. 29, 1936, ch. 104][/us/act/1936-02-29/ch104], § 1, [49 Stat. 1151][/us/stat/49/1151]; amended 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, [60 Stat. 1100][/us/stat/60/1100].)
 
  __Transfer of Functions__ 
 
@@ -38,8 +38,8 @@
 ----------
 ----------
 
-[/us/act/1935-04-27/ch85/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-04-27%2Fch85%2Fs13
-[/us/act/1936-02-29/ch104/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-02-29%2Fch104%2Fs1
+[/us/act/1935-04-27/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-04-27%2Fch85
+[/us/act/1936-02-29/ch104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-02-29%2Fch104
 [/us/stat/49/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1151
 [/us/stat/60/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1100
 [/us/stat/67/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F633

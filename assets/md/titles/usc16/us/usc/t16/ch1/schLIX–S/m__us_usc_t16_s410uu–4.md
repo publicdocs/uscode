@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as are necessary for the acquisition of lands and interests in land within the park, the conduct of archeological studies on lands within and adjacent to the park, and the development of facilities for interpretation of the park.
 
-([Pub. L. 102–294, § 5][/us/pl/102/294/s5], May 27, 1992, [106 Stat. 186][/us/stat/106/186].)
+([Pub. L. 102–294][/us/pl/102/294], § 5, May 27, 1992, [106 Stat. 186][/us/stat/106/186].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/294/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F294%2Fs5
+[/us/pl/102/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F294
 [/us/stat/106/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F186
 
 

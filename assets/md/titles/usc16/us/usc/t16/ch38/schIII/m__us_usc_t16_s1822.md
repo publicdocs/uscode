@@ -131,11 +131,11 @@
 
         (3) Not later than January 1, 1997, and annually thereafter, the Secretary, in consultation with the Secretary of State, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives a report describing actions taken under this subsection.
 
-([Pub. L. 94–265, title II, § 202][/us/pl/94/265/s202], Apr. 13, 1976, [90 Stat. 339][/us/stat/90/339]; [Pub. L. 99–659, title I, § 101(c)(2)][/us/pl/99/659/s101/c/2], Nov. 14, 1986, [100 Stat. 3707][/us/stat/100/3707]; [Pub. L. 101–627, title I][/us/pl/101/627], §§ 105(a), 120(a), Nov. 28, 1990, [104 Stat. 4439][/us/stat/104/4439], 4459; [Pub. L. 102–251, title III, § 301(e)][/us/pl/102/251/s301/e], Mar. 9, 1992, [106 Stat. 63][/us/stat/106/63]; [Pub. L. 104–297, title I, § 105(b)][/us/pl/104/297/s105/b], Oct. 11, 1996, [110 Stat. 3564][/us/stat/110/3564].)
+([Pub. L. 94–265, title II][/us/pl/94/265/tII], § 202, Apr. 13, 1976, [90 Stat. 339][/us/stat/90/339]; [Pub. L. 99–659, title I][/us/pl/99/659/tI], § 101(c)(2), Nov. 14, 1986, [100 Stat. 3707][/us/stat/100/3707]; [Pub. L. 101–627, title I][/us/pl/101/627/tI], §§ 105(a), 120(a), Nov. 28, 1990, [104 Stat. 4439][/us/stat/104/4439], 4459; [Pub. L. 102–251, title III][/us/pl/102/251/tIII], § 301(e), Mar. 9, 1992, [106 Stat. 63][/us/stat/106/63]; [Pub. L. 104–297, title I][/us/pl/104/297/tI], § 105(b), Oct. 11, 1996, [110 Stat. 3564][/us/stat/110/3564].)
 
  __Amendment of Section__ 
 
-    [Pub. L. 102–251, title III][/us/pl/102/251], §§ 301(e)(1), (2), 308, Mar. 9, 1992, [106 Stat. 63][/us/stat/106/63], 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended:
+    [Pub. L. 102–251, title III][/us/pl/102/251/tIII], §§ 301(e)(1), (2), 308, Mar. 9, 1992, [106 Stat. 63][/us/stat/106/63], 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended:
 
     (1) in subsection (b), (A) by inserting “or special areas” immediately after “February 28, 1977)” and (B) by striking “such zone or area” and inserting in lieu thereof “such zone or areas”; and
 
@@ -147,17 +147,17 @@
 
  __Amendments__ 
 
-    1996—Subsec. (c). [Pub. L. 104–297, § 105(b)(1)][/us/pl/104/297/s105/b/1], inserted before period at end “or [section 1824(e) of this title][/us/usc/t16/s1824/e]”.
+    1996—Subsec. (c). [Pub. L. 104–297][/us/pl/104/297], § 105(b)(1), inserted before period at end “or [section 1824(e) of this title][/us/usc/t16/s1824/e]”.
 
-    Subsec. (h). [Pub. L. 104–297, § 105(b)(2)][/us/pl/104/297/s105/b/2], added subsec. (h).
+    Subsec. (h). [Pub. L. 104–297][/us/pl/104/297], § 105(b)(2), added subsec. (h).
 
-    1992—Subsec. (g). [Pub. L. 102–251, § 301(e)(3)][/us/pl/102/251/s301/e/3], added subsec. (g).
+    1992—Subsec. (g). [Pub. L. 102–251][/us/pl/102/251], § 301(e)(3), added subsec. (g).
 
-    1990—Subsec. (e). [Pub. L. 101–627, § 105(a)][/us/pl/101/627/s105/a], added subsec. (e). Former subsec. (e) redesignated (f).
+    1990—Subsec. (e). [Pub. L. 101–627][/us/pl/101/627], § 105(a), added subsec. (e). Former subsec. (e) redesignated (f).
 
-    Subsec. (f). [Pub. L. 101–627, § 120(a)][/us/pl/101/627/s120/a], substituted “an exclusive economic” for “a exclusive economic”.
+    Subsec. (f). [Pub. L. 101–627][/us/pl/101/627], § 120(a), substituted “an exclusive economic” for “a exclusive economic”.
 
-    [Pub. L. 101–627, § 105(a)][/us/pl/101/627/s105/a], redesignated former subsec. (e) as (f).
+    [Pub. L. 101–627][/us/pl/101/627], § 105(a), redesignated former subsec. (e) as (f).
 
     1986—Subsecs. (b) to (e). [Pub. L. 99–659][/us/pl/99/659] substituted “exclusive economic zone” for “fishery conservation zone” wherever appearing.
 
@@ -171,7 +171,7 @@
 
  __Shark Finning Prohibition__ 
 
-[Pub. L. 106–557][/us/pl/106/557], Dec. 21, 2000, [114 Stat. 2772][/us/stat/114/2772], as amended by [Pub. L. 109–479, title III, § 302(c)][/us/pl/109/479/s302/c], Jan. 12, 2007, [120 Stat. 3623][/us/stat/120/3623], provided that:
+[Pub. L. 106–557][/us/pl/106/557], Dec. 21, 2000, [114 Stat. 2772][/us/stat/114/2772], as amended by [Pub. L. 109–479, title III][/us/pl/109/479/tIII], § 302(c), Jan. 12, 2007, [120 Stat. 3623][/us/stat/120/3623], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -253,7 +253,7 @@
 
  __Certificate of Legal Origin for Anadromous Fish Products__ 
 
-[Pub. L. 101–627, title VIII, § 801][/us/pl/101/627/s801], Nov. 28, 1990, [104 Stat. 4464][/us/stat/104/4464], provided that:
+[Pub. L. 101–627, title VIII][/us/pl/101/627/tVIII], § 801, Nov. 28, 1990, [104 Stat. 4464][/us/stat/104/4464], provided that:
 
 >     “(a)  __Negotiations__  __.—__ 
 
@@ -299,7 +299,7 @@
 
  __Driftnet Impact Monitoring, Assessment, and Control__ 
 
-[Pub. L. 100–220, title IV][/us/pl/100/220], Dec. 29, 1987, [101 Stat. 1477][/us/stat/101/1477], as amended by [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that:
+[Pub. L. 100–220, title IV][/us/pl/100/220/tIV], Dec. 29, 1987, [101 Stat. 1477][/us/stat/101/1477], as amended by [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that:
 
 > “SEC. 4001. __SHORT TITLE.__ 
 
@@ -457,28 +457,28 @@
 [/us/usc/t16/s1824/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1824%2Fe
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t16/s1823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1823
-[/us/pl/94/265/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs202
+[/us/pl/94/265/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2FtII
 [/us/stat/90/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F339
-[/us/pl/99/659/s101/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs101%2Fc%2F2
+[/us/pl/99/659/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtI
 [/us/stat/100/3707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3707
-[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtI
 [/us/stat/104/4439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4439
-[/us/pl/102/251/s301/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2Fs301%2Fe
+[/us/pl/102/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2FtIII
 [/us/stat/106/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F63
-[/us/pl/104/297/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs105%2Fb
+[/us/pl/104/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtI
 [/us/stat/110/3564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3564
-[/us/pl/102/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251
+[/us/pl/102/251/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2FtIII
 [/us/stat/106/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F63
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
-[/us/pl/104/297/s105/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs105%2Fb%2F1
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
 [/us/usc/t16/s1824/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1824%2Fe
-[/us/pl/104/297/s105/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs105%2Fb%2F2
-[/us/pl/102/251/s301/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2Fs301%2Fe%2F3
-[/us/pl/101/627/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs105%2Fa
-[/us/pl/101/627/s120/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs120%2Fa
-[/us/pl/101/627/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs105%2Fa
+[/us/pl/104/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297
+[/us/pl/102/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
+[/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
 [/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
 [/us/pl/102/251/s301/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2Fs301%2Fe%2F3
 [/us/pl/102/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251
@@ -486,17 +486,17 @@
 [/us/usc/t16/s773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs773
 [/us/pl/106/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F557
 [/us/stat/114/2772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2772
-[/us/pl/109/479/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs302%2Fc
+[/us/pl/109/479/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtIII
 [/us/stat/120/3623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3623
 [/us/usc/t16/s1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1857
 [/us/usc/t16/s1857/1/P]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1857%2F1%2FP
 [/us/usc/t16/s1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1853
-[/us/pl/101/627/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs801
+[/us/pl/101/627/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtVIII
 [/us/stat/104/4464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4464
 [/us/usc/t22/s1978/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1978%2Fa%2F1
-[/us/pl/100/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220
+[/us/pl/100/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F220%2FtIV
 [/us/stat/101/1477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1477
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
 [/us/usc/t16/s1802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1802%2Fb
 [/us/usc/t22/s1978/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1978%2Fa

@@ -17,7 +17,7 @@
 
     With respect to the Cape Krusenstern National Monument, the Malaspina Glacier Forelands area of Wrangell-Saint Elias National Preserve and the Dry Bay area of Glacier Bay National Preserve, the Secretary may take no action to restrict unreasonably the exercise of valid commercial fishing rights or privileges obtained pursuant to existing law, including the use of public lands for campsites, cabins, motorized vehicles, and aircraft landings on existing airstrips, directly incident to the exercise of such rights or privileges except that this prohibition shall not apply to activities which the Secretary, after conducting a public hearing in the affected locality, finds constitute a significant expansion of the use of park lands beyond the level of such use during 1979.
 
-([Pub. L. 96–487, title II, § 205][/us/pl/96/487/s205], Dec. 2, 1980, [94 Stat. 2384][/us/stat/94/2384].)
+([Pub. L. 96–487, title II][/us/pl/96/487/tII], § 205, Dec. 2, 1980, [94 Stat. 2384][/us/stat/94/2384].)
 
  __Glacier Bay National Park Resource Management__ 
 
@@ -87,7 +87,7 @@
 
  __Commercial Fishing in Glacier Bay National Park__ 
 
-[Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title I, § 123\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–259, as amended by [Pub. L. 106–31, title I, § 501(a)][/us/pl/106/31/s501/a]–(c), May 21, 1999, [113 Stat. 72][/us/stat/113/72], 73, provided that:
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title I, § 123\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–259, as amended by [Pub. L. 106–31, title I][/us/pl/106/31/tI], § 501(a)–(c), May 21, 1999, [113 Stat. 72][/us/stat/113/72], 73, provided that:
 
 >     “(a) __General.—__ 
 
@@ -160,15 +160,15 @@
 ----------
 ----------
 
-[/us/pl/96/487/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs205
+[/us/pl/96/487/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtII
 [/us/stat/94/2384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2384
 [/us/pl/106/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F455
 [/us/stat/114/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1953
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/106/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
-[/us/pl/106/31/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2Fs501%2Fa
+[/us/pl/106/31/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F31%2FtI
 [/us/stat/113/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F72
 [/us/usc/t5/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551
 

@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s488.md) | [Next](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s490.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs489)
 
-## § 489. Repealed. [Pub. L. 87–869, § 5][/us/pl/87/869/s5], Oct. 23, 1962, [76 Stat. 1157][/us/stat/76/1157]
+## § 489. Repealed. [Pub. L. 87–869][/us/pl/87/869], § 5, Oct. 23, 1962, [76 Stat. 1157][/us/stat/76/1157]
 
     Section, [act Aug. 10, 1912, ch. 284][/us/act/1912-08-10/ch284], [37 Stat. 287][/us/stat/37/287], related to sale of mature, dead, and down timber.
 
@@ -24,7 +24,7 @@
 ----------
 ----------
 
-[/us/pl/87/869/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F869%2Fs5
+[/us/pl/87/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F869
 [/us/stat/76/1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1157
 [/us/act/1912-08-10/ch284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-10%2Fch284
 [/us/stat/37/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F287

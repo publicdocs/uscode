@@ -17,7 +17,7 @@
 
     Lands and waters and interests therein within the boundaries of the monument, which as of the day prior to December 31, 1987, were administered by the Forest Service, United States Department of Agriculture, are hereby transferred to the administrative jurisdiction of the Secretary to be managed as part of the monument in accordance with this subchapter. The boundaries of the Cibola National Forest shall be adjusted accordingly.
 
-([Pub. L. 100–225, title I, § 102][/us/pl/100/225/s102], Dec. 31, 1987, [101 Stat. 1539][/us/stat/101/1539].)
+([Pub. L. 100–225, title I][/us/pl/100/225/tI], § 102, Dec. 31, 1987, [101 Stat. 1539][/us/stat/101/1539].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/225/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F225%2Fs102
+[/us/pl/100/225/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F225%2FtI
 [/us/stat/101/1539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1539
 
 

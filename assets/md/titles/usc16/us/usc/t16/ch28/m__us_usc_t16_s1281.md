@@ -35,7 +35,7 @@
 
         The Federal agency charged with the administration of any component of the national wild and scenic rivers system may enter into written cooperative agreements with the Governor of a State, the head of any State agency, or the appropriate official of a political subdivision of a State for State or local governmental participation in the administration of the component. The States and their political subdivisions shall be encouraged to cooperate in the planning and administration of components of the system which include or adjoin State- or county-owned lands.
 
-([Pub. L. 90–542, § 10][/us/pl/90/542/s10], Oct. 2, 1968, [82 Stat. 916][/us/stat/82/916].)
+([Pub. L. 90–542][/us/pl/90/542], § 10, Oct. 2, 1968, [82 Stat. 916][/us/stat/82/916].)
 
  __References in Text__ 
 
@@ -53,9 +53,9 @@
 
  __Management of Segment of Salmon River Designated as Component of Wild and Scenic River System Located Within Frank Church—River of No Return Wilderness or Gospel-Hump Wilderness__ 
 
-[Pub. L. 96–312, § 9(b)][/us/pl/96/312/s9/b], July 23, 1980, [94 Stat. 953][/us/stat/94/953], as amended [Pub. L. 98–231, § 1][/us/pl/98/231/s1], Mar. 14, 1984, [98 Stat. 60][/us/stat/98/60], provided: 
+[Pub. L. 96–312][/us/pl/96/312], § 9(b), July 23, 1980, [94 Stat. 953][/us/stat/94/953], as amended [Pub. L. 98–231][/us/pl/98/231], § 1, Mar. 14, 1984, [98 Stat. 60][/us/stat/98/60], provided: 
 
-> “That segment of the main Salmon River designated as a component of the Wild and Scenic Rivers System by this Act \[see [16 U.S.C. 1274(a)(24)][/us/usc/t16/s1274/a/24]\], which lies within the Frank Church—River of No Return Wilderness or the Gospel-Hump Wilderness designated by [Public Law 95–237][/us/pl/95/237] \[[Pub. L. 95–237, § 4][/us/pl/95/237/s4], Feb. 24, 1978, [92 Stat. 43][/us/stat/92/43]\], shall be managed under the provisions of the Wild and Scenic Rivers Act, as amended \[[16 U.S.C. 1271][/us/usc/t16/s1271] et seq\], and the regulations promulgated pursuant thereto, notwithstanding section 10(b) of the Wild and Scenic Rivers Act \[[16 U.S.C. 1281(b)][/us/usc/t16/s1281/b]\] or any provisions of the Wilderness Act \[[16 U.S.C. 1131][/us/usc/t16/s1131] et seq.\] to the contrary.”
+> “That segment of the main Salmon River designated as a component of the Wild and Scenic Rivers System by this Act \[see [16 U.S.C. 1274(a)(24)][/us/usc/t16/s1274/a/24]\], which lies within the Frank Church—River of No Return Wilderness or the Gospel-Hump Wilderness designated by [Public Law 95–237][/us/pl/95/237] \[[Pub. L. 95–237][/us/pl/95/237], § 4, Feb. 24, 1978, [92 Stat. 43][/us/stat/92/43]\], shall be managed under the provisions of the Wild and Scenic Rivers Act, as amended \[[16 U.S.C. 1271][/us/usc/t16/s1271] et seq\], and the regulations promulgated pursuant thereto, notwithstanding section 10(b) of the Wild and Scenic Rivers Act \[[16 U.S.C. 1281(b)][/us/usc/t16/s1281/b]\] or any provisions of the Wilderness Act \[[16 U.S.C. 1131][/us/usc/t16/s1131] et seq.\] to the contrary.”
 
 ----------
 
@@ -65,20 +65,20 @@
 ----------
 
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
-[/us/pl/90/542/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F542%2Fs10
+[/us/pl/90/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F542
 [/us/stat/82/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F916
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890
 [/us/usc/t16/s1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1278
-[/us/pl/96/312/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F312%2Fs9%2Fb
+[/us/pl/96/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F312
 [/us/stat/94/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F953
-[/us/pl/98/231/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F231%2Fs1
+[/us/pl/98/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F231
 [/us/stat/98/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F60
 [/us/usc/t16/s1274/a/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1274%2Fa%2F24
 [/us/pl/95/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F237
-[/us/pl/95/237/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F237%2Fs4
+[/us/pl/95/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F237
 [/us/stat/92/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F43
 [/us/usc/t16/s1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1271
 [/us/usc/t16/s1281/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1281%2Fb

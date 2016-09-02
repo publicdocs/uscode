@@ -17,11 +17,11 @@
 
     All public lands designated and reserved prior to June 4, 1897, by the President of the United States under the provisions of section 471  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, the orders for which shall be and remain in full force and effect, unsuspended and unrevoked, and all public lands that may hereafter be set aside and reserved as national forests under said section, shall be as far as practicable controlled and administered in accordance with the following provisions. No national forest shall be established, except to improve and protect the forest within the boundaries, or for the purpose of securing favorable conditions of water flows, and to furnish a continuous supply of timber for the use and necessities of citizens of the United States; but it is not the purpose or intent of these provisions, or of said section, to authorize the inclusion therein of lands more valuable for the mineral therein, or for agricultural purposes, than for forest purposes.
 
-([June 4, 1897, ch. 2, § 1][/us/act/1897-06-04/ch2/s1], [30 Stat. 34][/us/stat/30/34].)
+([June 4, 1897, ch. 2][/us/act/1897-06-04/ch2], § 1, [30 Stat. 34][/us/stat/30/34].)
 
  __References in Text__ 
 
-    [Section 471 of this title][/us/usc/t16/s471], referred to in text, was repealed by [Pub. L. 94–579, title VII, § 704(a)][/us/pl/94/579/s704/a], Oct. 21, 1976, [90 Stat. 2792][/us/stat/90/2792].
+    [Section 471 of this title][/us/usc/t16/s471], referred to in text, was repealed by [Pub. L. 94–579, title VII][/us/pl/94/579/tVII], § 704(a), Oct. 21, 1976, [90 Stat. 2792][/us/stat/90/2792].
 
  __Codification__ 
 
@@ -34,10 +34,10 @@
 ----------
 ----------
 
-[/us/act/1897-06-04/ch2/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-06-04%2Fch2%2Fs1
+[/us/act/1897-06-04/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-06-04%2Fch2
 [/us/stat/30/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F34
 [/us/usc/t16/s471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs471
-[/us/pl/94/579/s704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2Fs704%2Fa
+[/us/pl/94/579/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2FtVII
 [/us/stat/90/2792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2792
 [/us/act/1907-03-04/ch2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2907
 [/us/stat/34/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F1269

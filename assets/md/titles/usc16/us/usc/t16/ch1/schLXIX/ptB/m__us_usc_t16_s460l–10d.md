@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t16/ch1/schLXIX/ptB/m__us_usc_t16_s460l–10c.md) | [Next](./../../../../../..//us/usc/t16/ch1/schLXIX/ptB/m__us_usc_t16_s460l–10e.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460l%E2%80%9310d)
 
-## § 460l–10d. Repealed. [Pub. L. 113–287, § 7][/us/pl/113/287/s7], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
+## § 460l–10d. Repealed. [Pub. L. 113–287][/us/pl/113/287], § 7, Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272]
 
-    Section, [Pub. L. 88–578, title I, § 12][/us/pl/88/578/s12], as added [Pub. L. 94–422, title I, § 101(6)][/us/pl/94/422/s101/6], Sept. 28, 1976, [90 Stat. 1318][/us/stat/90/1318], required review and report on the needs, problems, and opportunities associated with urban recreation in highly populated regions.
+    Section, [Pub. L. 88–578, title I][/us/pl/88/578/tI], § 12, as added [Pub. L. 94–422, title I][/us/pl/94/422/tI], § 101(6), Sept. 28, 1976, [90 Stat. 1318][/us/stat/90/1318], required review and report on the needs, problems, and opportunities associated with urban recreation in highly populated regions.
 
 ----------
 
@@ -24,10 +24,10 @@
 ----------
 ----------
 
-[/us/pl/113/287/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs7
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
-[/us/pl/88/578/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F578%2Fs12
-[/us/pl/94/422/s101/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F422%2Fs101%2F6
+[/us/pl/88/578/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F578%2FtI
+[/us/pl/94/422/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F422%2FtI
 [/us/stat/90/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1318
 
 

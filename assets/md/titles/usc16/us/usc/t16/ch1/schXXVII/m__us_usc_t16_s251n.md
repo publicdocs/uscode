@@ -29,17 +29,17 @@
 
     (b) The boundary of Olympic National Forest, Washington, is hereby revised to include in the national forest approximately three thousand three hundred and fifty-two acres and to exclude from the national forest approximately nine thousand three hundred and twenty-four acres, as generally depicted on the maps entitled “Boundary Modifications, Olympic National Forest and Olympic National Park”, numbered 149/60,030A, sheets 1 through 9, and dated September 1986, which shall be on file and available for public inspection in the office of the Forest Service, United States Department of Agriculture.
 
-([Pub. L. 99–635, § 1(a)][/us/pl/99/635/s1/a], (b), Nov. 7, 1986, [100 Stat. 3527][/us/stat/100/3527]; [Pub. L. 100–668, title I, § 104(c)(1)][/us/pl/100/668/s104/c/1]–(3), Nov. 16, 1988, [102 Stat. 3962][/us/stat/102/3962].)
+([Pub. L. 99–635][/us/pl/99/635], § 1(a), (b), Nov. 7, 1986, [100 Stat. 3527][/us/stat/100/3527]; [Pub. L. 100–668, title I][/us/pl/100/668/tI], § 104(c)(1)–(3), Nov. 16, 1988, [102 Stat. 3962][/us/stat/102/3962].)
 
  __Amendments__ 
 
-    1988—Subsec. (a)(2). [Pub. L. 100–668, § 104(c)(1)][/us/pl/100/668/s104/c/1], (2), inserted “, above the point of lowest low tide,” after “islands”, substituted “34 minutes north” for “38 minutes north”, and inserted proviso at end.
+    1988—Subsec. (a)(2). [Pub. L. 100–668][/us/pl/100/668], § 104(c)(1), (2), inserted “, above the point of lowest low tide,” after “islands”, substituted “34 minutes north” for “38 minutes north”, and inserted proviso at end.
 
-    Subsec. (b). [Pub. L. 100–668, § 104(c)(3)][/us/pl/100/668/s104/c/3], substituted “sheets 1 through 9” for “sheets 1 through 10”.
+    Subsec. (b). [Pub. L. 100–668][/us/pl/100/668], § 104(c)(3), substituted “sheets 1 through 9” for “sheets 1 through 10”.
 
  __Transfer of Administrative Jurisdiction of Exchanged Park and Forest Lands; Authorization of Appropriations__ 
 
-[Pub. L. 99–635][/us/pl/99/635], §§ 2–5, Nov. 7, 1986, [100 Stat. 3528][/us/stat/100/3528], 3529, as amended by [Pub. L. 100–668, title I, § 104(c)(4)][/us/pl/100/668/s104/c/4]–(6), Nov. 16, 1988, [102 Stat. 3962][/us/stat/102/3962], provided that:
+[Pub. L. 99–635][/us/pl/99/635], §§ 2–5, Nov. 7, 1986, [100 Stat. 3528][/us/stat/100/3528], 3529, as amended by [Pub. L. 100–668, title I][/us/pl/100/668/tI], § 104(c)(4)–(6), Nov. 16, 1988, [102 Stat. 3962][/us/stat/102/3962], provided that:
 
 > “Sec. 2.
 
@@ -64,15 +64,15 @@
 ----------
 ----------
 
-[/us/pl/99/635/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F635%2Fs1%2Fa
+[/us/pl/99/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F635
 [/us/stat/100/3527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3527
-[/us/pl/100/668/s104/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F668%2Fs104%2Fc%2F1
+[/us/pl/100/668/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F668%2FtI
 [/us/stat/102/3962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3962
-[/us/pl/100/668/s104/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F668%2Fs104%2Fc%2F1
-[/us/pl/100/668/s104/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F668%2Fs104%2Fc%2F3
+[/us/pl/100/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F668
+[/us/pl/100/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F668
 [/us/pl/99/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F635
 [/us/stat/100/3528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3528
-[/us/pl/100/668/s104/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F668%2Fs104%2Fc%2F4
+[/us/pl/100/668/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F668%2FtI
 [/us/stat/102/3962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3962
 [/us/usc/t16/s251n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs251n
 [/us/usc/t16/s251n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs251n

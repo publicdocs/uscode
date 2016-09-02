@@ -81,7 +81,7 @@
 
         The Secretary may promulgate regulations to implement this section.
 
-([Pub. L. 104–43, title VI, § 608][/us/pl/104/43/s608], as added [Pub. L. 109–479, title IV, § 403(a)][/us/pl/109/479/s403/a], Jan. 12, 2007, [120 Stat. 3627][/us/stat/120/3627]; amended [Pub. L. 111–348, title I, § 102(a)][/us/pl/111/348/s102/a], Jan. 4, 2011, [124 Stat. 3668][/us/stat/124/3668]; [Pub. L. 114–81, title I, § 101(b)][/us/pl/114/81/s101/b], Nov. 5, 2015, [129 Stat. 653][/us/stat/129/653].)
+([Pub. L. 104–43, title VI][/us/pl/104/43/tVI], § 608, as added [Pub. L. 109–479, title IV][/us/pl/109/479/tIV], § 403(a), Jan. 12, 2007, [120 Stat. 3627][/us/stat/120/3627]; amended [Pub. L. 111–348, title I][/us/pl/111/348/tI], § 102(a), Jan. 4, 2011, [124 Stat. 3668][/us/stat/124/3668]; [Pub. L. 114–81, title I][/us/pl/114/81/tI], § 101(b), Nov. 5, 2015, [129 Stat. 653][/us/stat/129/653].)
 
  __References in Text__ 
 
@@ -89,7 +89,7 @@
 
     The Atlantic Tunas Convention Act of 1975, referred to in subsec. (b)(1), is [Pub. L. 94–70][/us/pl/94/70], Aug. 5, 1975, [89 Stat. 385][/us/stat/89/385], which is classified generally to chapter 16A (§ 971 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 971 of this title][/us/usc/t16/s971] and Tables.
 
-    The Western and Central Pacific Fisheries Convention Implementation Act, referred to in subsec. (b)(1), is [Pub. L. 109–479, title V][/us/pl/109/479], Jan. 12, 2007, [120 Stat. 3635][/us/stat/120/3635], which is classified generally to chapter 88 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t16/s6901] and Tables.
+    The Western and Central Pacific Fisheries Convention Implementation Act, referred to in subsec. (b)(1), is [Pub. L. 109–479, title V][/us/pl/109/479/tV], Jan. 12, 2007, [120 Stat. 3635][/us/stat/120/3635], which is classified generally to chapter 88 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t16/s6901] and Tables.
 
     This Act, referred to in subsec. (b)(2), probably means title VI of [Pub. L. 104–43][/us/pl/104/43], Nov. 3, 1995, [109 Stat. 391][/us/stat/109/391], known as the High Seas Driftnet Fishing Moratorium Protection Act, which is classified generally to sections 1826d to 1826k of this title. For complete classification of title VI to the Code, see Short Title of 1995 Amendment note set out under [section 1801 of this title][/us/usc/t16/s1801] and Tables.
 
@@ -101,13 +101,13 @@
 
     2015—[Pub. L. 114–81][/us/pl/114/81] designated existing provisions as subsec. (a), inserted heading and “, or arrangements made pursuant to an international fishery agreement,” after “organizations” in introductory provisions, and added subsecs. (b) to (d).
 
-    2011—Par. (1)(F). [Pub. L. 111–348, § 102(a)(1)][/us/pl/111/348/s102/a/1], added subpar. (F).
+    2011—Par. (1)(F). [Pub. L. 111–348][/us/pl/111/348], § 102(a)(1), added subpar. (F).
 
-    Par. (2)(C). [Pub. L. 111–348, § 102(a)(2)][/us/pl/111/348/s102/a/2], struck out “and” at end.
+    Par. (2)(C). [Pub. L. 111–348][/us/pl/111/348], § 102(a)(2), struck out “and” at end.
 
-    Par. (3). [Pub. L. 111–348, § 102(a)(4)][/us/pl/111/348/s102/a/4], added par. (3). Former par. (3) redesignated (4).
+    Par. (3). [Pub. L. 111–348][/us/pl/111/348], § 102(a)(4), added par. (3). Former par. (3) redesignated (4).
 
-    Par. (4). [Pub. L. 111–348, § 102(a)(3)][/us/pl/111/348/s102/a/3], redesignated par. (3) as (4).
+    Par. (4). [Pub. L. 111–348][/us/pl/111/348], § 102(a)(3), redesignated par. (3) as (4).
 
 ----------
 
@@ -121,12 +121,12 @@
 [/us/usc/t16/s71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs71
 [/us/usc/t16/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6901
 [/us/usc/t16/s1881a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1881a
-[/us/pl/104/43/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs608
-[/us/pl/109/479/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs403%2Fa
+[/us/pl/104/43/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtVI
+[/us/pl/109/479/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtIV
 [/us/stat/120/3627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3627
-[/us/pl/111/348/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F348%2Fs102%2Fa
+[/us/pl/111/348/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F348%2FtI
 [/us/stat/124/3668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3668
-[/us/pl/114/81/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs101%2Fb
+[/us/pl/114/81/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2FtI
 [/us/stat/129/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F653
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331
@@ -134,16 +134,16 @@
 [/us/pl/94/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F70
 [/us/stat/89/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F385
 [/us/usc/t16/s971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs971
-[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
+[/us/pl/109/479/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtV
 [/us/stat/120/3635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3635
 [/us/usc/t16/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6901
 [/us/pl/104/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43
 [/us/stat/109/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F391
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
 [/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
-[/us/pl/111/348/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F348%2Fs102%2Fa%2F1
-[/us/pl/111/348/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F348%2Fs102%2Fa%2F2
-[/us/pl/111/348/s102/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F348%2Fs102%2Fa%2F4
-[/us/pl/111/348/s102/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F348%2Fs102%2Fa%2F3
+[/us/pl/111/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F348
+[/us/pl/111/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F348
+[/us/pl/111/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F348
+[/us/pl/111/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F348
 
 

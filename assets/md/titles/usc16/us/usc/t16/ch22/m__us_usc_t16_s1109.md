@@ -17,7 +17,7 @@
 
     In an action against the Commission instituted in a district court of the United States, service of the summons and of the complaint upon the Commission shall be made by delivering a copy thereof to the United States attorney for the district in which the action is brought, or to an assistant United States attorney, or to a clerical employee designated by the United States attorney to accept service in a writing filed with the clerk of the court, and by sending a copy of the summons and of the complaint to the Commission by registered or certified mail.
 
-([Pub. L. 88–363, § 10][/us/pl/88/363/s10], July 7, 1964, [78 Stat. 301][/us/stat/78/301].)
+([Pub. L. 88–363][/us/pl/88/363], § 10, July 7, 1964, [78 Stat. 301][/us/stat/78/301].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/363/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F363%2Fs10
+[/us/pl/88/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F363
 [/us/stat/78/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F301
 
 

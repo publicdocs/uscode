@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Apr. 9, 1924, ch. 86, § 3][/us/act/1924-04-09/ch86/s3], [43 Stat. 90][/us/stat/43/90], related to transfer by Secretary of Agriculture to Secretary of the Interior for road purposes of part of material, equipment and supplies received from Secretary of War.
+    Section, [act Apr. 9, 1924, ch. 86][/us/act/1924-04-09/ch86], § 3, [43 Stat. 90][/us/stat/43/90], related to transfer by Secretary of Agriculture to Secretary of the Interior for road purposes of part of material, equipment and supplies received from Secretary of War.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1924-04-09/ch86/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-04-09%2Fch86%2Fs3
+[/us/act/1924-04-09/ch86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-04-09%2Fch86
 [/us/stat/43/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F90
 
 

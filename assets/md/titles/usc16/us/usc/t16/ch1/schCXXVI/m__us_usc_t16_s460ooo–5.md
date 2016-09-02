@@ -57,7 +57,7 @@
 
         In order to assist in the development and implementation of the management plan, the Secretary may authorize appropriate research, including research concerning the environmental, biological, hydrological, cultural, agricultural, recreational, and other characteristics, resources, and values of the Conservation Area, pursuant to [section 1737(a) of title 43][/us/usc/t43/s1737/a].
 
-([Pub. L. 106–538, § 6][/us/pl/106/538/s6], Dec. 6, 2000, [114 Stat. 2566][/us/stat/114/2566].)
+([Pub. L. 106–538][/us/pl/106/538], § 6, Dec. 6, 2000, [114 Stat. 2566][/us/stat/114/2566].)
 
  __References in Text__ 
 
@@ -78,7 +78,7 @@
 [/us/usc/t16/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4301
 [/us/usc/t43/s1737/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1737%2Fb
 [/us/usc/t43/s1737/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1737%2Fa
-[/us/pl/106/538/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F538%2Fs6
+[/us/pl/106/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F538
 [/us/stat/114/2566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2566
 [/us/pl/96/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95
 [/us/stat/93/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F721

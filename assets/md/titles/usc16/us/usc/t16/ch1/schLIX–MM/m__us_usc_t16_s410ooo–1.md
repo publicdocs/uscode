@@ -41,7 +41,7 @@
 
         The Secretary of the Interior shall administer Pinnacles National Park in accordance with this subchapter and laws generally applicable to units of the National Park System, including the National Park Service Organic Act ([16 U.S.C. 1][/us/usc/t16/s1], 2–4). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-([Pub. L. 112–245, § 3][/us/pl/112/245/s3], Jan. 10, 2013, [126 Stat. 2386][/us/stat/126/2386].)
+([Pub. L. 112–245][/us/pl/112/245], § 3, Jan. 10, 2013, [126 Stat. 2386][/us/stat/126/2386].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
-[/us/pl/112/245/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F245%2Fs3
+[/us/pl/112/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F245
 [/us/stat/126/2386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2386
 [/us/pl/112/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F245
 [/us/stat/126/2385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2385

@@ -61,7 +61,7 @@
 
             (D) through the Secretary of State, encourage other member nations to adopt a similar program.
 
-([Pub. L. 96–339, § 3][/us/pl/96/339/s3], Sept. 4, 1980, [94 Stat. 1070][/us/stat/94/1070]; [Pub. L. 104–43, title III, § 302(b)][/us/pl/104/43/s302/b], Nov. 3, 1995, [109 Stat. 382][/us/stat/109/382]; [Pub. L. 105–384, title II, § 202(b)(2)][/us/pl/105/384/s202/b/2], Nov. 13, 1998, [112 Stat. 3453][/us/stat/112/3453]; [Pub. L. 109–479, title IV, § 405(b)][/us/pl/109/479/s405/b], Jan. 12, 2007, [120 Stat. 3633][/us/stat/120/3633].)
+([Pub. L. 96–339][/us/pl/96/339], § 3, Sept. 4, 1980, [94 Stat. 1070][/us/stat/94/1070]; [Pub. L. 104–43, title III][/us/pl/104/43/tIII], § 302(b), Nov. 3, 1995, [109 Stat. 382][/us/stat/109/382]; [Pub. L. 105–384, title II][/us/pl/105/384/tII], § 202(b)(2), Nov. 13, 1998, [112 Stat. 3453][/us/stat/112/3453]; [Pub. L. 109–479, title IV][/us/pl/109/479/tIV], § 405(b), Jan. 12, 2007, [120 Stat. 3633][/us/stat/120/3633].)
 
  __References in Text__ 
 
@@ -89,13 +89,13 @@
 ----------
 
 [/us/usc/t16/s971b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs971b
-[/us/pl/96/339/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F339%2Fs3
+[/us/pl/96/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F339
 [/us/stat/94/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1070
-[/us/pl/104/43/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs302%2Fb
+[/us/pl/104/43/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtIII
 [/us/stat/109/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F382
-[/us/pl/105/384/s202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2Fs202%2Fb%2F2
+[/us/pl/105/384/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2FtII
 [/us/stat/112/3453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3453
-[/us/pl/109/479/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs405%2Fb
+[/us/pl/109/479/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtIV
 [/us/stat/120/3633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3633
 [/us/pl/94/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F70
 [/us/stat/89/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F385

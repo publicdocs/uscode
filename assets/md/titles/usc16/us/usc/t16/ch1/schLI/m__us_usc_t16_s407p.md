@@ -19,7 +19,7 @@
 
     The functions of the advisory commission shall be to render advice to the Secretary of the Interior, from time to time, upon matters which the Secretary of the Interior may refer to them for consideration.
 
-([June 28, 1948, ch. 687, § 4][/us/act/1948-06-28/ch687/s4], [62 Stat. 1062][/us/stat/62/1062].)
+([June 28, 1948, ch. 687][/us/act/1948-06-28/ch687], § 4, [62 Stat. 1062][/us/stat/62/1062].)
 
  __Termination of Advisory Commissions__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1948-06-28/ch687/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-28%2Fch687%2Fs4
+[/us/act/1948-06-28/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-28%2Fch687
 [/us/stat/62/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1062
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

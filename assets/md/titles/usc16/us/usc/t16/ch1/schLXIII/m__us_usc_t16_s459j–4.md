@@ -31,7 +31,7 @@
 
         (2) The United States Fish and Wildlife Service shall administer the remaining lands described in [section 459j of this title][/us/usc/t16/s459j].
 
-([Pub. L. 93–626, § 5][/us/pl/93/626/s5], Jan. 3, 1975, [88 Stat. 2123][/us/stat/88/2123].)
+([Pub. L. 93–626][/us/pl/93/626], § 5, Jan. 3, 1975, [88 Stat. 2123][/us/stat/88/2123].)
 
  __References in Text__ 
 
@@ -41,23 +41,23 @@
 
  __Clothing-Optional Areas Prohibited__ 
 
-[Pub. L. 108–108, title I, § 126][/us/pl/108/108/s126], Nov. 10, 2003, [117 Stat. 1269][/us/stat/117/1269], provided that: 
+[Pub. L. 108–108, title I][/us/pl/108/108/tI], § 126, Nov. 10, 2003, [117 Stat. 1269][/us/stat/117/1269], provided that: 
 
 > “None of the funds made available in this or any other Act for any fiscal year may be used to designate, or to post any sign designating, any portion of Canaveral National Seashore in Brevard County, Florida, as a clothing-optional area or as an area in which public nudity is permitted, if such designation would be contrary to county ordinance.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 108–7, div. F, title I, § 128][/us/pl/108/7/s128], Feb. 20, 2003, [117 Stat. 242][/us/stat/117/242].
+    [Pub. L. 108–7, div. F, title I][/us/pl/108/7/dF/tI], § 128, Feb. 20, 2003, [117 Stat. 242][/us/stat/117/242].
 
-    [Pub. L. 107–63, title III, § 313][/us/pl/107/63/s313], Nov. 5, 2001, [115 Stat. 467][/us/stat/115/467].
+    [Pub. L. 107–63, title III][/us/pl/107/63/tIII], § 313, Nov. 5, 2001, [115 Stat. 467][/us/stat/115/467].
 
-    [Pub. L. 106–291, title III, § 316][/us/pl/106/291/s316], Oct. 11, 2000, [114 Stat. 989][/us/stat/114/989].
+    [Pub. L. 106–291, title III][/us/pl/106/291/tIII], § 316, Oct. 11, 2000, [114 Stat. 989][/us/stat/114/989].
 
-    [Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title III, § 317\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–192.
+    [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(3) \[title III, § 317\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–192.
 
-    [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title III, § 318\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–289.
+    [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title III, § 318\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–289.
 
-    [Pub. L. 105–83, title III, § 328][/us/pl/105/83/s328], Nov. 14, 1997, [111 Stat. 1600][/us/stat/111/1600].
+    [Pub. L. 105–83, title III][/us/pl/105/83/tIII], § 328, Nov. 14, 1997, [111 Stat. 1600][/us/stat/111/1600].
 
 ----------
 
@@ -71,7 +71,7 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/80/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F926
 [/us/usc/t16/s668dd–668e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd%E2%80%93668e
 [/us/usc/t16/s459j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459j
-[/us/pl/93/626/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F626%2Fs5
+[/us/pl/93/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F626
 [/us/stat/88/2123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2123
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
@@ -85,19 +85,19 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/89/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F669
 [/us/stat/80/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F927
 [/us/usc/t16/s668dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd
-[/us/pl/108/108/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2Fs126
+[/us/pl/108/108/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2FtI
 [/us/stat/117/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1269
-[/us/pl/108/7/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs128
+[/us/pl/108/7/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtI
 [/us/stat/117/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F242
-[/us/pl/107/63/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63%2Fs313
+[/us/pl/107/63/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63%2FtIII
 [/us/stat/115/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F467
-[/us/pl/106/291/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2Fs316
+[/us/pl/106/291/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2FtIII
 [/us/stat/114/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F989
-[/us/pl/106/113/s1000/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F3
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
-[/us/pl/105/83/s328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs328
+[/us/pl/105/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtIII
 [/us/stat/111/1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1600
 
 

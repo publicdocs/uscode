@@ -17,7 +17,7 @@
 
     To further the purposes of sections 429 and 429a of this title, the Secretary of the Interior may acquire by donation or with donated funds not to exceed one-half acre of land and interests in land for addition to the adjoining Tupelo National Battlefield site.
 
-([Pub. L. 87–133, § 1][/us/pl/87/133/s1], Aug. 10, 1961, [75 Stat. 336][/us/stat/75/336].)
+([Pub. L. 87–133][/us/pl/87/133], § 1, Aug. 10, 1961, [75 Stat. 336][/us/stat/75/336].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/133/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F133%2Fs1
+[/us/pl/87/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F133
 [/us/stat/75/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F336
 
 

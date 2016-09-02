@@ -17,7 +17,7 @@
 
     The Secretary is authorized to convey to the State of New Mexico a right-of-way over lands between the western boundary of the southeast quarter of section 34, township 24 south, range 25 east, and the vicinity of the caverns for the use of the State in constructing a park-type road for public use thereon: Provided, That the State may construct a road which shall meet the general standards of National Park Service roads and shall agree to reconvey its interests in such lands and any improvements thereon, without cost to the United States, upon completion of such road. The location of the road shall be determined by the Secretary, after consultation with officials of the State of New Mexico.
 
-([Pub. L. 88–249, § 3][/us/pl/88/249/s3], Dec. 30, 1963, [77 Stat. 819][/us/stat/77/819].)
+([Pub. L. 88–249][/us/pl/88/249], § 3, Dec. 30, 1963, [77 Stat. 819][/us/stat/77/819].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/249/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F249%2Fs3
+[/us/pl/88/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F249
 [/us/stat/77/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F819
 
 

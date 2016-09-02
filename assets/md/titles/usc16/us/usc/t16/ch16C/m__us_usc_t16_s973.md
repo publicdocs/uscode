@@ -75,11 +75,11 @@
 
     (18) The term “Treaty Area” means the area so described in paragraph 1(k) of Article 1 of the Treaty.
 
-([Pub. L. 100–330, § 2][/us/pl/100/330/s2], June 7, 1988, [102 Stat. 591][/us/stat/102/591].)
+([Pub. L. 100–330][/us/pl/100/330], § 2, June 7, 1988, [102 Stat. 591][/us/stat/102/591].)
 
  __Effective Date__ 
 
-[Pub. L. 100–330, § 21][/us/pl/100/330/s21], June 7, 1988, [102 Stat. 601][/us/stat/102/601], provided that:
+[Pub. L. 100–330][/us/pl/100/330], § 21, June 7, 1988, [102 Stat. 601][/us/stat/102/601], provided that:
 
 >     “(a) Except as provided in subsection (b) of this section, this Act \[enacting this chapter\] shall be effective on the date on which the Treaty enters into force for the United States. \[The Treaty entered into force for the United States June 15, 1988.\]
 
@@ -91,7 +91,7 @@
 
  __Short Title__ 
 
-[Pub. L. 100–330, § 1][/us/pl/100/330/s1], June 7, 1988, [102 Stat. 591][/us/stat/102/591], provided: 
+[Pub. L. 100–330][/us/pl/100/330], § 1, June 7, 1988, [102 Stat. 591][/us/stat/102/591], provided: 
 
 > “That this Act \[enacting this chapter\] may be cited as the ‘South Pacific Tuna Act of 1988’.”
 
@@ -107,11 +107,11 @@
 ----------
 
 [/us/usc/t16/s973h/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs973h%2Fa
-[/us/pl/100/330/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F330%2Fs2
+[/us/pl/100/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F330
 [/us/stat/102/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F591
-[/us/pl/100/330/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F330%2Fs21
+[/us/pl/100/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F330
 [/us/stat/102/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F601
-[/us/pl/100/330/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F330%2Fs1
+[/us/pl/100/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F330
 [/us/stat/102/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F591
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

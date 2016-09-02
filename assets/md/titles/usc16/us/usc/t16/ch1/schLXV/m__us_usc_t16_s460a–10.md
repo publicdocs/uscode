@@ -17,7 +17,7 @@
 
     With the concurrence of the Secretary of Agriculture the Secretary of the Interior may transfer to the Secretary of Agriculture for national forest purposes lands or interests in lands within national forests acquired for, or in connection with, the parkway extension.
 
-([Pub. L. 90–555, § 5][/us/pl/90/555/s5], Oct. 9, 1968, [82 Stat. 968][/us/stat/82/968].)
+([Pub. L. 90–555][/us/pl/90/555], § 5, Oct. 9, 1968, [82 Stat. 968][/us/stat/82/968].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/555/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F555%2Fs5
+[/us/pl/90/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F555
 [/us/stat/82/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F968
 
 

@@ -79,7 +79,7 @@
 
         (2) $1,000,000 may be available to the Secretary of the Interior.
 
-([Pub. L. 92–522, title IV, § 408][/us/pl/92/522/s408], as added [Pub. L. 106–555, title II, § 202(a)(2)][/us/pl/106/555/s202/a/2], Dec. 21, 2000, [114 Stat. 2767][/us/stat/114/2767].)
+([Pub. L. 92–522, title IV][/us/pl/92/522/tIV], § 408, as added [Pub. L. 106–555, title II][/us/pl/106/555/tII], § 202(a)(2), Dec. 21, 2000, [114 Stat. 2767][/us/stat/114/2767].)
 
  __Prior Provisions__ 
 
@@ -94,8 +94,8 @@
 
 [/us/usc/t16/s1421h/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1421h%2F6
 [/us/usc/t16/s1362/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1362%2F12%2FA
-[/us/pl/92/522/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs408
-[/us/pl/106/555/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F555%2Fs202%2Fa%2F2
+[/us/pl/92/522/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtIV
+[/us/pl/106/555/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F555%2FtII
 [/us/stat/114/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2767
 [/us/pl/92/522/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs408
 [/us/usc/t16/s1421g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1421g

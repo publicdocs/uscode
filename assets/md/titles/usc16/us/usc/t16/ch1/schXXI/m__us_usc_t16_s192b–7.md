@@ -17,7 +17,7 @@
 
     Upon consummation of the exchange the Secretary shall, by publishing notice in the Federal Register, revise the boundary of Rocky Mountain National Park so as to exclude from the park the land described in [section 192b–8 of this title][/us/usc/t16/s192b–8] as combined parcels A and B.
 
-([Pub. L. 87–146, § 2][/us/pl/87/146/s2], Aug. 17, 1961, [75 Stat. 383][/us/stat/75/383].)
+([Pub. L. 87–146][/us/pl/87/146], § 2, Aug. 17, 1961, [75 Stat. 383][/us/stat/75/383].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s192b–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs192b%E2%80%938
-[/us/pl/87/146/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F146%2Fs2
+[/us/pl/87/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F146
 [/us/stat/75/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F383
 
 

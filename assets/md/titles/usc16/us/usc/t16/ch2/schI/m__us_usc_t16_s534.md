@@ -17,7 +17,7 @@
 
     An easement granted under sections 532 to 538 of this title may be terminated by consent of the owner of the easement, by condemnation, or after a five-year period of nonuse the Secretary may, if he finds the owner has abandoned the easement, make a determination to cancel it. Before the Secretary may cancel an easement for nonuse the owner of such easement must be notified of the determination to cancel and be given, upon his request made within sixty days after receipt of the notice, a hearing in accordance with such rules and regulations as may be issued by the Secretary.
 
-([Pub. L. 88–657, § 3][/us/pl/88/657/s3], Oct. 13, 1964, [78 Stat. 1089][/us/stat/78/1089].)
+([Pub. L. 88–657][/us/pl/88/657], § 3, Oct. 13, 1964, [78 Stat. 1089][/us/stat/78/1089].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/88/657/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F657%2Fs3
+[/us/pl/88/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F657
 [/us/stat/78/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1089
 [/us/usc/t16/s533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs533
 

@@ -17,7 +17,7 @@
 
     For the purpose of providing breeding places and for the protection and administration of game animals, birds, and fish, the President of the United States is authorized, upon the recommendation of the Secretary of Agriculture, to establish by public proclamation certain specified areas within the Ouachita National Forest as game sanctuaries and refuges.
 
-([June 13, 1933, ch. 63, § 1][/us/act/1933-06-13/ch63/s1], [48 Stat. 128][/us/stat/48/128].)
+([June 13, 1933, ch. 63][/us/act/1933-06-13/ch63], § 1, [48 Stat. 128][/us/stat/48/128].)
 
  __Presidential Designation__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1933-06-13/ch63/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch63%2Fs1
+[/us/act/1933-06-13/ch63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch63
 [/us/stat/48/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F128
 [/us/stat/49/3439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F3439
 [/us/stat/53/2495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F2495

@@ -17,7 +17,7 @@
 
     Stones River National Military Park is redesignated as the Stones River National Battlefield, and any remaining balance of funds appropriated for the purpose of the Stones River National Military Park shall be available for the purpose of Stones River National Battlefield.
 
-([Pub. L. 86–443, § 2][/us/pl/86/443/s2], Apr. 22, 1960, [74 Stat. 82][/us/stat/74/82].)
+([Pub. L. 86–443][/us/pl/86/443], § 2, Apr. 22, 1960, [74 Stat. 82][/us/stat/74/82].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/443/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F443%2Fs2
+[/us/pl/86/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F443
 [/us/stat/74/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F82
 
 

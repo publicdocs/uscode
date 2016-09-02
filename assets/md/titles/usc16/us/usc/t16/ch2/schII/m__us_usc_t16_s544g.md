@@ -1481,11 +1481,11 @@
 
         For the purposes of sections 100506(c) and 200306 of title 54, the boundaries of the scenic area, including special management areas and the Dodson/Warrendale Special Purchase Unit shall be treated as if they were within the boundaries of the Mount Hood or Gifford Pinchot National Forests as of January 1, 1965.
 
-([Pub. L. 99–663, § 9][/us/pl/99/663/s9], Nov. 17, 1986, [100 Stat. 4287][/us/stat/100/4287]; [Pub. L. 104–66, title I, § 1011(n)][/us/pl/104/66/s1011/n], Dec. 21, 1995, [109 Stat. 710][/us/stat/109/710]; [Pub. L. 106–291, title III, § 346(a)][/us/pl/106/291/s346/a], Oct. 11, 2000, [114 Stat. 999][/us/stat/114/999].)
+([Pub. L. 99–663][/us/pl/99/663], § 9, Nov. 17, 1986, [100 Stat. 4287][/us/stat/100/4287]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1011(n), Dec. 21, 1995, [109 Stat. 710][/us/stat/109/710]; [Pub. L. 106–291, title III][/us/pl/106/291/tIII], § 346(a), Oct. 11, 2000, [114 Stat. 999][/us/stat/114/999].)
 
  __Codification__ 
 
-    In subsec. (g), “sections 100506(c) and 200306 of title 54” substituted for “section 7 of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 4601–9][/us/usc/t16/s4601–9]) \[sic\]” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (g), “sections 100506(c) and 200306 of title 54” substituted for “section 7 of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 4601–9][/us/usc/t16/s4601–9]) \[sic\]” on authority of [Pub. L. 113–287][/us/pl/113/287], § 6(e), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
  __Amendments__ 
 
@@ -1495,7 +1495,7 @@
 
  __Publication of Notice__ 
 
-[Pub. L. 106–291, title III, § 346(c)][/us/pl/106/291/s346/c], Oct. 11, 2000, [114 Stat. 1000][/us/stat/114/1000], provided that:
+[Pub. L. 106–291, title III][/us/pl/106/291/tIII], § 346(c), Oct. 11, 2000, [114 Stat. 1000][/us/stat/114/1000], provided that:
 
 >     “(1)
 
@@ -1515,7 +1515,7 @@
 
  __Conveyance of Lands Between Skamania County and the United States__ 
 
-[Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title III, § 341\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–296, provided that:
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title III, § 341\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–296, provided that:
 
 >     “Upon the condition that Skamania County conveys title acceptable to the Secretary of Agriculture to all right, title and interest in lands identified on a map dated September 29, 1998 entitled ‘Skamania County Lands to be Transferred’, such lands being located on Table Mountain lying within the Columbia River Gorge National Scenic Area, there is hereby conveyed to Skamania County, notwithstanding any other provision of law, the Wind River Nursery Site lands and facilities and all interests therein, except for the corridor of the Pacific Crest National Scenic Trail, as depicted on a map dated September 29, 1998, entitled ‘Wind River Conveyance’, which is on file and available for public inspection in the Office of the Chief, USDA Forest Service, Washington, D.C.
 
@@ -1523,13 +1523,13 @@
 
  __Land Exchanges__ 
 
-[Pub. L. 105–83, title III, § 336][/us/pl/105/83/s336], Nov. 14, 1997, [111 Stat. 1602][/us/stat/111/1602], provided that: 
+[Pub. L. 105–83, title III][/us/pl/105/83/tIII], § 336, Nov. 14, 1997, [111 Stat. 1602][/us/stat/111/1602], provided that: 
 
 > “To facilitate priority land exchanges through which the United States will receive land within the White Salmon Wild and Scenic River boundaries and within the Columbia River Gorge National Scenic Area, the Secretary of Agriculture may, until September 30, 2000, accept title to such lands deemed appropriate by the Secretary within the States of Oregon and Washington, regardless of the State in which the transferred lands are located, following existing exchange authorities.”
 
  __Wind River Nursery__ 
 
-[Pub. L. 105–83, title III, § 340][/us/pl/105/83/s340], Nov. 14, 1997, [111 Stat. 1603][/us/stat/111/1603], provided that:
+[Pub. L. 105–83, title III][/us/pl/105/83/tIII], § 340, Nov. 14, 1997, [111 Stat. 1603][/us/stat/111/1603], provided that:
 
 >     “(a) The Secretary of Agriculture is authorized and directed to negotiate with Skamania County for the exchange of lands or interests in lands constituting the Wind River Nursery Site within the Gifford Pinchot National Forest, Washington.
 
@@ -1561,26 +1561,26 @@
 ----------
 
 [/us/usc/t16/s544f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs544f
-[/us/pl/99/663/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663%2Fs9
+[/us/pl/99/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663
 [/us/stat/100/4287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4287
-[/us/pl/104/66/s1011/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1011%2Fn
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F710
-[/us/pl/106/291/s346/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2Fs346%2Fa
+[/us/pl/106/291/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2FtIII
 [/us/stat/114/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F999
 [/us/usc/t16/s4601–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4601%E2%80%939
-[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/106/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
-[/us/pl/106/291/s346/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2Fs346%2Fc
+[/us/pl/106/291/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2FtIII
 [/us/stat/114/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1000
 [/us/usc/t16/s544f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs544f
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 [/us/usc/t16/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs552
-[/us/pl/105/83/s336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs336
+[/us/pl/105/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtIII
 [/us/stat/111/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1602
-[/us/pl/105/83/s340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2Fs340
+[/us/pl/105/83/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F83%2FtIII
 [/us/stat/111/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1603
 [/us/usc/t16/s484a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs484a
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321

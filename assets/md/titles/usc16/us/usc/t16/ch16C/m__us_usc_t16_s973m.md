@@ -17,7 +17,7 @@
 
     The United States tuna industry shall provide $250,000 annually in technical assistance, including provision of assistance by technicians, in response to requests coordinated through the Administrator. The Secretary of State shall designate an entity to coordinate the provision of such technical assistance as provided by the United States tuna industry and to provide an annual report to the Secretary of State regarding the provision of such technical assistance.
 
-([Pub. L. 100–330, § 15][/us/pl/100/330/s15], June 7, 1988, [102 Stat. 600][/us/stat/102/600].)
+([Pub. L. 100–330][/us/pl/100/330], § 15, June 7, 1988, [102 Stat. 600][/us/stat/102/600].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/330/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F330%2Fs15
+[/us/pl/100/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F330
 [/us/stat/102/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F600
 
 

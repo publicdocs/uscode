@@ -29,7 +29,7 @@
 
         At the request of said party, the Secretary or the Secretary of the department in which the Coast Guard is operating, shall direct the person authorized to enforce the provisions of this chapter to attend the trial as a witness in any case arising under said article or give testimony by deposition, and shall produce such records and files or copies thereof as may be necessary to establish the offense.
 
-([Pub. L. 89–702, title I, § 106][/us/pl/89/702/s106], Nov. 2, 1966, [80 Stat. 1092][/us/stat/80/1092]; [Pub. L. 98–129, § 2][/us/pl/98/129/s2], Oct. 14, 1983, [97 Stat. 837][/us/stat/97/837].)
+([Pub. L. 89–702, title I][/us/pl/89/702/tI], § 106, Nov. 2, 1966, [80 Stat. 1092][/us/stat/80/1092]; [Pub. L. 98–129][/us/pl/98/129], § 2, Oct. 14, 1983, [97 Stat. 837][/us/stat/97/837].)
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/89/702/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2Fs106
+[/us/pl/89/702/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2FtI
 [/us/stat/80/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1092
-[/us/pl/98/129/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129%2Fs2
+[/us/pl/98/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129
 [/us/stat/97/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F837
 [/us/pl/98/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129
 [/us/usc/t16/s1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1155

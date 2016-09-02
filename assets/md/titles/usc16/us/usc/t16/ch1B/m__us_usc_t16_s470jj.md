@@ -23,7 +23,7 @@
 
     In carrying out this section, the Secretary shall, to the extent practicable and consistent with the provisions of this chapter, make efforts to expand the archaeological data base for the archaeological resources of the United States through increased cooperation between private individuals referred to in paragraph (1) and professional archaeologists and archaeological organizations.
 
-([Pub. L. 96–95, § 11][/us/pl/96/95/s11], Oct. 31, 1979, [93 Stat. 727][/us/stat/93/727].)
+([Pub. L. 96–95][/us/pl/96/95], § 11, Oct. 31, 1979, [93 Stat. 727][/us/stat/93/727].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/96/95/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95%2Fs11
+[/us/pl/96/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95
 [/us/stat/93/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F727
 
 

@@ -19,7 +19,7 @@
 
     (b) If any of the Federal land on Santa Rosa or Okaloosa Island, Florida, under the jurisdiction of the Department of Defense is ever excess to the needs of the Armed Forces, the Secretary of Defense shall transfer the excess land to the administrative jurisdiction of the Secretary of the Interior, subject to the terms and conditions acceptable to the Secretary of the Interior and the Secretary of Defense. The Secretary of the Interior shall administer the transferred land as part of the seashore in accordance with the provisions of sections 459h to 459h–10 of this title.
 
-([Pub. L. 91–660, § 7][/us/pl/91/660/s7], Jan. 8, 1971, [84 Stat. 1969][/us/stat/84/1969]; [Pub. L. 109–163, div. B, title XXVIII, § 2872(b)][/us/pl/109/163/s2872/b], Jan. 6, 2006, [119 Stat. 3535][/us/stat/119/3535].)
+([Pub. L. 91–660][/us/pl/91/660], § 7, Jan. 8, 1971, [84 Stat. 1969][/us/stat/84/1969]; [Pub. L. 109–163, div. B, title XXVIII][/us/pl/109/163/dB/tXXVIII], § 2872(b), Jan. 6, 2006, [119 Stat. 3535][/us/stat/119/3535].)
 
  __Amendments__ 
 
@@ -27,7 +27,7 @@
 
  __Transfer of Excess Department of Defense Property on Santa Rosa and Okaloosa Island, Florida, to Gulf Islands National Seashore__ 
 
-[Pub. L. 109–163, div. B, title XXVIII, § 2872(a)][/us/pl/109/163/s2872/a], Jan. 6, 2006, [119 Stat. 3534][/us/stat/119/3534], provided that: 
+[Pub. L. 109–163, div. B, title XXVIII][/us/pl/109/163/dB/tXXVIII], § 2872(a), Jan. 6, 2006, [119 Stat. 3534][/us/stat/119/3534], provided that: 
 
 > “Congress finds the following:
 
@@ -46,12 +46,12 @@
 ----------
 ----------
 
-[/us/pl/91/660/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F660%2Fs7
+[/us/pl/91/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F660
 [/us/stat/84/1969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1969
-[/us/pl/109/163/s2872/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2872%2Fb
+[/us/pl/109/163/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdB%2FtXXVIII
 [/us/stat/119/3535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3535
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/109/163/s2872/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2872%2Fa
+[/us/pl/109/163/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdB%2FtXXVIII
 [/us/stat/119/3534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3534
 [/us/pl/91/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F660
 [/us/usc/t16/s459h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459h

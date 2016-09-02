@@ -17,7 +17,7 @@
 
     The administration, protection, and development of the recreation area shall be by the Secretary of Agriculture (hereinafter called the “Secretary”) in accordance with the laws, rules, and regulations applicable to national forests, in such manner as in his judgment will best contribute the attainment of the purposes set forth in [section 460z of this title][/us/usc/t16/s460z].
 
-([Pub. L. 92–260, § 2][/us/pl/92/260/s2], Mar. 23, 1972, [86 Stat. 99][/us/stat/86/99].)
+([Pub. L. 92–260][/us/pl/92/260], § 2, Mar. 23, 1972, [86 Stat. 99][/us/stat/86/99].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s460z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460z
-[/us/pl/92/260/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F260%2Fs2
+[/us/pl/92/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F260
 [/us/stat/86/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F99
 
 

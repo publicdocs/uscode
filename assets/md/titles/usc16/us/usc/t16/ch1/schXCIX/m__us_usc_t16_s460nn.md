@@ -29,7 +29,7 @@
 
     (b) The purpose of this subchapter is to designate certain National Forest System lands in the State of Vermont as the Robert T. Stafford White Rocks National Recreation Area in order to preserve and protect their existing wilderness and wild values and to promote wild forest and aquatic habitat for wildlife, watershed protection, opportunities for primitive and semiprimitive recreation, and scenic, ecological, and scientific values.
 
-([Pub. L. 98–322, title II, § 201][/us/pl/98/322/s201], June 19, 1984, [98 Stat. 256][/us/stat/98/256]; [Pub. L. 110–1, § 1(b)][/us/pl/110/1/s1/b], Jan. 17, 2007, [121 Stat. 3][/us/stat/121/3].)
+([Pub. L. 98–322, title II][/us/pl/98/322/tII], § 201, June 19, 1984, [98 Stat. 256][/us/stat/98/256]; [Pub. L. 110–1][/us/pl/110/1], § 1(b), Jan. 17, 2007, [121 Stat. 3][/us/stat/121/3].)
 
  __References in Text__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/98/322/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F322%2Fs201
+[/us/pl/98/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F322%2FtII
 [/us/stat/98/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F256
-[/us/pl/110/1/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F1%2Fs1%2Fb
+[/us/pl/110/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F1
 [/us/stat/121/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F3
 [/us/pl/98/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F322
 [/us/stat/98/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F253

@@ -175,7 +175,7 @@
 
         (7) The Administrator shall be deemed to have sufficient resources for the purpose of entering into the initial contracts specified in paragraph (1)(A) through (D).
 
-([Pub. L. 96–501, § 5][/us/pl/96/501/s5], Dec. 5, 1980, [94 Stat. 2712][/us/stat/94/2712]; [Pub. L. 106–273, § 1][/us/pl/106/273/s1], Sept. 22, 2000, [114 Stat. 802][/us/stat/114/802].)
+([Pub. L. 96–501][/us/pl/96/501], § 5, Dec. 5, 1980, [94 Stat. 2712][/us/stat/94/2712]; [Pub. L. 106–273][/us/pl/106/273], § 1, Sept. 22, 2000, [114 Stat. 802][/us/stat/114/802].)
 
  __References in Text__ 
 
@@ -210,9 +210,9 @@
 [/us/usc/t16/s838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs838
 [/us/usc/t16/s837–837h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs837%E2%80%93837h
 [/us/usc/t16/s832d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs832d%2Fa
-[/us/pl/96/501/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501%2Fs5
+[/us/pl/96/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501
 [/us/stat/94/2712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2712
-[/us/pl/106/273/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F273%2Fs1
+[/us/pl/106/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F273
 [/us/stat/114/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F802
 [/us/act/1937-08-20/ch720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-20%2Fch720
 [/us/stat/50/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F731

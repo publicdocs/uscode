@@ -17,7 +17,7 @@
 
     If any provision of this subchapter or the application thereof to any person or circumstance is held invalid the validity of the remainder of this subchapter and of the application of such provision to other persons and circumstances shall not be affected thereby.
 
-([Feb. 18, 1929, ch. 257, § 19][/us/act/1929-02-18/ch257/s19], [45 Stat. 1226][/us/stat/45/1226].)
+([Feb. 18, 1929, ch. 257][/us/act/1929-02-18/ch257], § 19, [45 Stat. 1226][/us/stat/45/1226].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1929-02-18/ch257/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-18%2Fch257%2Fs19
+[/us/act/1929-02-18/ch257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-18%2Fch257
 [/us/stat/45/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1226
 
 

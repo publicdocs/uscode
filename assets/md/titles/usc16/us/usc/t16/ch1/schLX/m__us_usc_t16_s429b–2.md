@@ -23,7 +23,7 @@
 
         No property owner who elects to retain a right of use and occupancy under this section shall be considered a displaced person as defined in [section 4601(6) of title 42][/us/usc/t42/s4601/6]. Such owners shall be considered to have waived any benefits which would otherwise accrue to them under sections 4623 to 4626 of title 42.
 
-([Apr. 17, 1954, ch. 153, § 3][/us/act/1954-04-17/ch153/s3], as added [Pub. L. 96–442, § 2][/us/pl/96/442/s2], Oct. 13, 1980, [94 Stat. 1886][/us/stat/94/1886].)
+([Apr. 17, 1954, ch. 153][/us/act/1954-04-17/ch153], § 3, as added [Pub. L. 96–442][/us/pl/96/442], § 2, Oct. 13, 1980, [94 Stat. 1886][/us/stat/94/1886].)
 
 ----------
 
@@ -33,8 +33,8 @@
 ----------
 
 [/us/usc/t42/s4601/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4601%2F6
-[/us/act/1954-04-17/ch153/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-04-17%2Fch153%2Fs3
-[/us/pl/96/442/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F442%2Fs2
+[/us/act/1954-04-17/ch153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-04-17%2Fch153
+[/us/pl/96/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F442
 [/us/stat/94/1886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1886
 
 

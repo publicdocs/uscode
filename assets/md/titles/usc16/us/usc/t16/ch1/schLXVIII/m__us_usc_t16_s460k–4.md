@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated such funds as may be necessary to carry out the purposes of this subchapter, including the construction and maintenance of public recreational facilities.
 
-([Pub. L. 87–714, § 5][/us/pl/87/714/s5], Sept. 28, 1962, [76 Stat. 654][/us/stat/76/654].)
+([Pub. L. 87–714][/us/pl/87/714], § 5, Sept. 28, 1962, [76 Stat. 654][/us/stat/76/654].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/714/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F714%2Fs5
+[/us/pl/87/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F714
 [/us/stat/76/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F654
 
 

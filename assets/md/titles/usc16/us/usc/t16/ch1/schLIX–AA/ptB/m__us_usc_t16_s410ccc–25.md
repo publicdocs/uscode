@@ -21,7 +21,7 @@
 
     (2) to the maximum extent practicable, coordinate such activities with the Commission to minimize potential impacts on the resources of the heritage area.
 
-([Pub. L. 103–449, title IV, § 405][/us/pl/103/449/s405], Nov. 2, 1994, [108 Stat. 4764][/us/stat/108/4764].)
+([Pub. L. 103–449, title IV][/us/pl/103/449/tIV], § 405, Nov. 2, 1994, [108 Stat. 4764][/us/stat/108/4764].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/103/449/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F449%2Fs405
+[/us/pl/103/449/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F449%2FtIV
 [/us/stat/108/4764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4764
 
 

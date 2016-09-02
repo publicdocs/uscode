@@ -13,31 +13,31 @@
 
 [Previous](./../../../../..//us/usc/t16/ch7/schIV/m__us_usc_t16_ch7_schIV.md) | [Next](./../../../../..//us/usc/t16/ch7/schIV/m__us_usc_t16_s718a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs718)
 
-## § 718. Repealed. [Pub. L. 109–266, § 10(h)][/us/pl/109/266/s10/h], Aug. 3, 2006, [120 Stat. 677][/us/stat/120/677]
+## § 718. Repealed. [Pub. L. 109–266][/us/pl/109/266], § 10(h), Aug. 3, 2006, [120 Stat. 677][/us/stat/120/677]
 
-    Section, [act Mar. 16, 1934, ch. 71, § 9][/us/act/1934-03-16/ch71/s9], [48 Stat. 452][/us/stat/48/452], defined subchapter terms.
+    Section, [act Mar. 16, 1934, ch. 71][/us/act/1934-03-16/ch71], § 9, [48 Stat. 452][/us/stat/48/452], defined subchapter terms.
 
  __Short Title of 2014 Amendment__ 
 
-[Pub. L. 113–264, § 1][/us/pl/113/264/s1], Dec. 18, 2014, [128 Stat. 2939][/us/stat/128/2939], provided that: 
+[Pub. L. 113–264][/us/pl/113/264], § 1, Dec. 18, 2014, [128 Stat. 2939][/us/stat/128/2939], provided that: 
 
 > “This Act \[amending sections 718a, 718b, and 718d of this title\] may be cited as the ‘Federal Duck Stamp Act of 2014’.”
 
  __Short Title of 2006 Amendment__ 
 
-[Pub. L. 109–266, § 1][/us/pl/109/266/s1], Aug. 3, 2006, [120 Stat. 670][/us/stat/120/670], provided that: 
+[Pub. L. 109–266][/us/pl/109/266], § 1, Aug. 3, 2006, [120 Stat. 670][/us/stat/120/670], provided that: 
 
 > “This Act \[enacting sections 718g to 718j of this title, amending sections 718a to 718f of this title, repealing this section and former sections 718g, 718h, and 718j of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Electronic Duck Stamp Act of 2005’.”
 
  __Short Title of 1998 Amendment__ 
 
-[Pub. L. 105–269, § 1][/us/pl/105/269/s1], Oct. 19, 1998, [112 Stat. 2381][/us/stat/112/2381], provided that: 
+[Pub. L. 105–269][/us/pl/105/269], § 1, Oct. 19, 1998, [112 Stat. 2381][/us/stat/112/2381], provided that: 
 
 > “This Act \[amending [section 718d of this title][/us/usc/t16/s718d]\] may be cited as the ‘Migratory Bird Hunting and Conservation Stamp Promotion Act’.”
 
  __Short Title__ 
 
-[Act Mar. 16, 1934, ch. 71, § 11][/us/act/1934-03-16/ch71/s11], as added by [Pub. L. 109–266, § 10(h)][/us/pl/109/266/s10/h], Aug. 3, 2006, [120 Stat. 679][/us/stat/120/679], provided that: 
+[Act Mar. 16, 1934, ch. 71][/us/act/1934-03-16/ch71], § 11, as added by [Pub. L. 109–266][/us/pl/109/266], § 10(h), Aug. 3, 2006, [120 Stat. 679][/us/stat/120/679], provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘Migratory Bird Hunting and Conservation Stamp Act’.”
 
@@ -258,19 +258,19 @@
 ----------
 ----------
 
-[/us/pl/109/266/s10/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266%2Fs10%2Fh
+[/us/pl/109/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266
 [/us/stat/120/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F677
-[/us/act/1934-03-16/ch71/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-16%2Fch71%2Fs9
+[/us/act/1934-03-16/ch71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-16%2Fch71
 [/us/stat/48/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F452
-[/us/pl/113/264/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F264%2Fs1
+[/us/pl/113/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F264
 [/us/stat/128/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2939
-[/us/pl/109/266/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266%2Fs1
+[/us/pl/109/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266
 [/us/stat/120/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F670
-[/us/pl/105/269/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F269%2Fs1
+[/us/pl/105/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F269
 [/us/stat/112/2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2381
 [/us/usc/t16/s718d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs718d
-[/us/act/1934-03-16/ch71/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-16%2Fch71%2Fs11
-[/us/pl/109/266/s10/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266%2Fs10%2Fh
+[/us/act/1934-03-16/ch71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-16%2Fch71
+[/us/pl/109/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266
 [/us/stat/120/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F679
 [/us/pl/109/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266
 [/us/stat/120/670-673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F670-673

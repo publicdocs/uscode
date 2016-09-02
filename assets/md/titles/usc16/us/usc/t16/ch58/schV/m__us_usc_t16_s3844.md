@@ -249,7 +249,7 @@
 
         In carrying out the conservation stewardship program under subpart B of part II of subchapter IV and the environmental quality incentives program under part IV of subchapter IV, the Secretary may enter into alternative funding arrangements with Indian tribes if the Secretary determines that the goals and objectives of the programs will be met by such arrangements, and that statutory limitations regarding contracts with individual producers will not be exceeded by any tribal member.
 
-([Pub. L. 99–198, title XII, § 1244][/us/pl/99/198/s1244], as added [Pub. L. 107–171, title II, § 2004(a)][/us/pl/107/171/s2004/a], May 13, 2002, [116 Stat. 235][/us/stat/116/235]; amended [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–234, title II][/us/pl/110/234], §§ 2707(a), 2708, May 22, 2008, [122 Stat. 1077][/us/stat/122/1077], 1079; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, §§ 2707(a), 2708, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1805, 1807; [Pub. L. 113–79, title II][/us/pl/113/79], §§ 2301(b), 2606, Feb. 7, 2014, [128 Stat. 743][/us/stat/128/743], 760.)
+([Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1244, as added [Pub. L. 107–171, title II][/us/pl/107/171/tII], § 2004(a), May 13, 2002, [116 Stat. 235][/us/stat/116/235]; amended [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–234, title II][/us/pl/110/234/tII], §§ 2707(a), 2708, May 22, 2008, [122 Stat. 1077][/us/stat/122/1077], 1079; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title II, §§ 2707(a), 2708, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1805, 1807; [Pub. L. 113–79, title II][/us/pl/113/79/tII], §§ 2301(b), 2606, Feb. 7, 2014, [128 Stat. 743][/us/stat/128/743], 760.)
 
  __References in Text__ 
 
@@ -265,49 +265,49 @@
 
  __Codification__ 
 
-    The text of section 3843(a), (c), and (d) of this title, which was transferred to this section and redesignated as subsecs. (c), (d), and (e), respectively, by [Pub. L. 110–246, § 2707(a)][/us/pl/110/246/s2707/a], was based on [Pub. L. 99–198, title XII, § 1243(a)][/us/pl/99/198/s1243/a], (c), (d), as added [Pub. L. 104–127, title III, § 341][/us/pl/104/127/s341], Apr. 4, 1996, [110 Stat. 1008][/us/stat/110/1008], 1009.
+    The text of section 3843(a), (c), and (d) of this title, which was transferred to this section and redesignated as subsecs. (c), (d), and (e), respectively, by [Pub. L. 110–246][/us/pl/110/246], § 2707(a), was based on [Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1243(a), (c), (d), as added [Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 341, Apr. 4, 1996, [110 Stat. 1008][/us/stat/110/1008], 1009.
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Prior Provisions__ 
 
-    A prior section 3844, [Pub. L. 99–198, title XII, § 1244][/us/pl/99/198/s1244], Dec. 23, 1985, [99 Stat. 1515][/us/stat/99/1515], related to issuance of regulations to carry out subchapters I to V of this chapter, prior to the general amendment of this subchapter by [Pub. L. 104–127][/us/pl/104/127].
+    A prior section 3844, [Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1244, Dec. 23, 1985, [99 Stat. 1515][/us/stat/99/1515], related to issuance of regulations to carry out subchapters I to V of this chapter, prior to the general amendment of this subchapter by [Pub. L. 104–127][/us/pl/104/127].
 
  __Amendments__ 
 
-    2014—Subsec. (a)(2)(E). [Pub. L. 113–79, § 2606(1)][/us/pl/113/79/s2606/1], added subpar. (E).
+    2014—Subsec. (a)(2)(E). [Pub. L. 113–79][/us/pl/113/79], § 2606(1), added subpar. (E).
 
-    Subsec. (c)(1). [Pub. L. 113–79, § 2301(b)(1)(A)][/us/pl/113/79/s2301/b/1/A], inserted “and” after semicolon in subpar. (A), struck out “and” after semicolon in subpar. (B), and struck out subpar. (C) which read as follows: “the wetlands reserve program established under subpart C of part I of subchapter IV; and”.
+    Subsec. (c)(1). [Pub. L. 113–79][/us/pl/113/79], § 2301(b)(1)(A), inserted “and” after semicolon in subpar. (A), struck out “and” after semicolon in subpar. (B), and struck out subpar. (C) which read as follows: “the wetlands reserve program established under subpart C of part I of subchapter IV; and”.
 
-    Subsec. (c)(2), (3). [Pub. L. 113–79, § 2301(b)(1)(B)][/us/pl/113/79/s2301/b/1/B], (C), added par. (2) and redesignated former par. (2) as (3).
+    Subsec. (c)(2), (3). [Pub. L. 113–79][/us/pl/113/79], § 2301(b)(1)(B), (C), added par. (2) and redesignated former par. (2) as (3).
 
-    Subsec. (d). [Pub. L. 113–79, § 2606(2)][/us/pl/113/79/s2606/2], inserted “, VII, and VIII” before period at end.
+    Subsec. (d). [Pub. L. 113–79][/us/pl/113/79], § 2606(2), inserted “, VII, and VIII” before period at end.
 
-    Subsec. (f)(1)(A). [Pub. L. 113–79, § 2301(b)(2)(A)(i)][/us/pl/113/79/s2301/b/2/A/i], substituted “conservation reserve program established under subpart B of part I of subchapter IV and wetland reserve easements under [section 3865c of this title][/us/usc/t16/s3865c]” for “programs administered under subparts B and C of part I of subchapter IV”.
+    Subsec. (f)(1)(A). [Pub. L. 113–79][/us/pl/113/79], § 2301(b)(2)(A)(i), substituted “conservation reserve program established under subpart B of part I of subchapter IV and wetland reserve easements under [section 3865c of this title][/us/usc/t16/s3865c]” for “programs administered under subparts B and C of part I of subchapter IV”.
 
-    Subsec. (f)(1)(B). [Pub. L. 113–79, § 2606(3)(A)][/us/pl/113/79/s2606/3/A], substituted “county” for “country”.
+    Subsec. (f)(1)(B). [Pub. L. 113–79][/us/pl/113/79], § 2606(3)(A), substituted “county” for “country”.
 
-    [Pub. L. 113–79, § 2301(b)(2)(A)(ii)][/us/pl/113/79/s2301/b/2/A/ii], substituted “a wetland reserve easement under [section 3865c of this title][/us/usc/t16/s3865c]” for “an easement acquired under subpart C of part I of subchapter IV”.
+    [Pub. L. 113–79][/us/pl/113/79], § 2301(b)(2)(A)(ii), substituted “a wetland reserve easement under [section 3865c of this title][/us/usc/t16/s3865c]” for “an easement acquired under subpart C of part I of subchapter IV”.
 
-    Subsec. (f)(3). [Pub. L. 113–79, § 2606(3)(B)][/us/pl/113/79/s2606/3/B], substituted “subsection (d)(2)(A)(ii) or (g)(2)” for “subsection (c)(2)(B) or (f)(4)”.
+    Subsec. (f)(3). [Pub. L. 113–79][/us/pl/113/79], § 2606(3)(B), substituted “subsection (d)(2)(A)(ii) or (g)(2)” for “subsection (c)(2)(B) or (f)(4)”.
 
-    Subsec. (f)(4). [Pub. L. 113–79, § 2301(b)(2)(B)][/us/pl/113/79/s2301/b/2/B], added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “The limitations established under paragraph (1) shall not apply to cropland that is subject to an easement under subpart C of part I of subchapter IV that is used for the establishment of shelterbelts and windbreaks.”
+    Subsec. (f)(4). [Pub. L. 113–79][/us/pl/113/79], § 2301(b)(2)(B), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “The limitations established under paragraph (1) shall not apply to cropland that is subject to an easement under subpart C of part I of subchapter IV that is used for the establishment of shelterbelts and windbreaks.”
 
-    Subsec. (f)(5). [Pub. L. 113–79, § 2301(b)(2)(C)][/us/pl/113/79/s2301/b/2/C], added par. (5).
+    Subsec. (f)(5). [Pub. L. 113–79][/us/pl/113/79], § 2301(b)(2)(C), added par. (5).
 
-    Subsec. (h)(2). [Pub. L. 113–79, § 2606(4)][/us/pl/113/79/s2606/4], inserted “, including, to the extent practicable, practices that maximize benefits for honey bees” before period at end.
+    Subsec. (h)(2). [Pub. L. 113–79][/us/pl/113/79], § 2606(4), inserted “, including, to the extent practicable, practices that maximize benefits for honey bees” before period at end.
 
-    Subsecs. (j) to (l). [Pub. L. 113–79, § 2606(5)][/us/pl/113/79/s2606/5], added subsecs. (j) to (l).
+    Subsecs. (j) to (l). [Pub. L. 113–79][/us/pl/113/79], § 2606(5), added subsecs. (j) to (l).
 
-    2008—Subsec. (a). [Pub. L. 110–246, § 2708(1)][/us/pl/110/246/s2708/1], added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “In carrying out any conservation program administered by the Secretary, the Secretary may provide to beginning farmers and ranchers and Indian tribes (as those terms are defined in [section 3838 of this title][/us/usc/t16/s3838]) and limited resource agricultural producers incentives to participate in the conservation program to—
+    2008—Subsec. (a). [Pub. L. 110–246][/us/pl/110/246], § 2708(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “In carrying out any conservation program administered by the Secretary, the Secretary may provide to beginning farmers and ranchers and Indian tribes (as those terms are defined in [section 3838 of this title][/us/usc/t16/s3838]) and limited resource agricultural producers incentives to participate in the conservation program to—
 
     “(1) foster new farming and ranching opportunities; and
 
     “(2) enhance environmental stewardship over the long term.”
 
-    Subsecs. (c) to (e). [Pub. L. 110–246, § 2707(a)][/us/pl/110/246/s2707/a], transferred subsecs. (a), (c), and (d) of [section 3843 of this title][/us/usc/t16/s3843] and redesignated them as subsecs. (c) to (e), respectively, of this section. See Codification note above.
+    Subsecs. (c) to (e). [Pub. L. 110–246][/us/pl/110/246], § 2707(a), transferred subsecs. (a), (c), and (d) of [section 3843 of this title][/us/usc/t16/s3843] and redesignated them as subsecs. (c) to (e), respectively, of this section. See Codification note above.
 
-    Subsecs. (f) to (i). [Pub. L. 110–246, § 2708(2)][/us/pl/110/246/s2708/2], added subsecs. (f) to (i).
+    Subsecs. (f) to (i). [Pub. L. 110–246][/us/pl/110/246], § 2708(2), added subsecs. (f) to (i).
 
     2004—Subsec. (b)(4)(B). [Pub. L. 108–271][/us/pl/108/271] substituted “Government Accountability Office” for “General Accounting Office”.
 
@@ -334,16 +334,16 @@
 [/us/usc/t16/s3865c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3865c
 [/us/usc/t16/s2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2004
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
-[/us/pl/99/198/s1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1244
-[/us/pl/107/171/s2004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2004%2Fa
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/107/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtII
 [/us/stat/116/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F235
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtII
 [/us/stat/122/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1077
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F743
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/usc/t16/s2005a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2005a
@@ -357,36 +357,36 @@
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/stat/128/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F649
-[/us/pl/110/246/s2707/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2707%2Fa
-[/us/pl/99/198/s1243/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1243%2Fa
-[/us/pl/104/127/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs341
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1008
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/99/198/s1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1244
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
 [/us/stat/99/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1515
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
-[/us/pl/113/79/s2606/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2606%2F1
-[/us/pl/113/79/s2301/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2301%2Fb%2F1%2FA
-[/us/pl/113/79/s2301/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2301%2Fb%2F1%2FB
-[/us/pl/113/79/s2606/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2606%2F2
-[/us/pl/113/79/s2301/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2301%2Fb%2F2%2FA%2Fi
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/usc/t16/s3865c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3865c
-[/us/pl/113/79/s2606/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2606%2F3%2FA
-[/us/pl/113/79/s2301/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2301%2Fb%2F2%2FA%2Fii
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/usc/t16/s3865c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3865c
-[/us/pl/113/79/s2606/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2606%2F3%2FB
-[/us/pl/113/79/s2301/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2301%2Fb%2F2%2FB
-[/us/pl/113/79/s2301/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2301%2Fb%2F2%2FC
-[/us/pl/113/79/s2606/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2606%2F4
-[/us/pl/113/79/s2606/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2606%2F5
-[/us/pl/110/246/s2708/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2708%2F1
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t16/s3838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3838
-[/us/pl/110/246/s2707/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2707%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t16/s3843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3843
-[/us/pl/110/246/s2708/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2708%2F2
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

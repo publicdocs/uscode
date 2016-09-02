@@ -17,7 +17,7 @@
 
     Any violation of the regulations issued under sections 552a to 552d of this title shall be punished as is provided in [section 1853 of title 18][/us/usc/t18/s1853].
 
-([May 28, 1940, ch. 220, § 4][/us/act/1940-05-28/ch220/s4], [54 Stat. 225][/us/stat/54/225].)
+([May 28, 1940, ch. 220][/us/act/1940-05-28/ch220], § 4, [54 Stat. 225][/us/stat/54/225].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t18/s1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1853
-[/us/act/1940-05-28/ch220/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-05-28%2Fch220%2Fs4
+[/us/act/1940-05-28/ch220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-05-28%2Fch220
 [/us/stat/54/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F225
 [/us/usc/t18/s1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1853
 [/us/usc/t18/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs104

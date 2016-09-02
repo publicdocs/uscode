@@ -93,7 +93,7 @@
 
         It is unlawful for any person or vessel or other conveyance to take any species of whale incident to commercial whaling in waters subject to the jurisdiction of the United States.
 
-([Pub. L. 92–522, title I, § 102][/us/pl/92/522/s102], Oct. 21, 1972, [86 Stat. 1032][/us/stat/86/1032]; [Pub. L. 93–205, § 13(e)(3)][/us/pl/93/205/s13/e/3], Dec. 28, 1973, [87 Stat. 903][/us/stat/87/903]; [Pub. L. 95–136, § 4][/us/pl/95/136/s4], Oct. 18, 1977, [91 Stat. 1167][/us/stat/91/1167]; [Pub. L. 97–58, § 3(a)][/us/pl/97/58/s3/a], Oct. 9, 1981, [95 Stat. 981][/us/stat/95/981]; [Pub. L. 100–711][/us/pl/100/711], §§ 2(b), 5(b), (e)(2), Nov. 23, 1988, [102 Stat. 4763][/us/stat/102/4763], 4769, 4771; [Pub. L. 102–587, title III, § 3004(a)(1)][/us/pl/102/587/s3004/a/1], Nov. 4, 1992, [106 Stat. 5067][/us/stat/106/5067]; [Pub. L. 103–238][/us/pl/103/238], §§ 5(a), 13(c), 24(c)(9), Apr. 30, 1994, [108 Stat. 536][/us/stat/108/536], 558, 566.)
+([Pub. L. 92–522, title I][/us/pl/92/522/tI], § 102, Oct. 21, 1972, [86 Stat. 1032][/us/stat/86/1032]; [Pub. L. 93–205][/us/pl/93/205], § 13(e)(3), Dec. 28, 1973, [87 Stat. 903][/us/stat/87/903]; [Pub. L. 95–136][/us/pl/95/136], § 4, Oct. 18, 1977, [91 Stat. 1167][/us/stat/91/1167]; [Pub. L. 97–58][/us/pl/97/58], § 3(a), Oct. 9, 1981, [95 Stat. 981][/us/stat/95/981]; [Pub. L. 100–711][/us/pl/100/711], §§ 2(b), 5(b), (e)(2), Nov. 23, 1988, [102 Stat. 4763][/us/stat/102/4763], 4769, 4771; [Pub. L. 102–587, title III][/us/pl/102/587/tIII], § 3004(a)(1), Nov. 4, 1992, [106 Stat. 5067][/us/stat/106/5067]; [Pub. L. 103–238][/us/pl/103/238], §§ 5(a), 13(c), 24(c)(9), Apr. 30, 1994, [108 Stat. 536][/us/stat/108/536], 558, 566.)
 
  __References in Text__ 
 
@@ -103,27 +103,27 @@
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–238, § 24(c)(9)][/us/pl/103/238/s24/c/9], which directed technical amendment to reference to subchapter V of this chapter in introductory provisions to reflect renumbering of corresponding title of original act, could not be executed to text because of prior amendment by [section 13(c) of Pub. L. 103–238][/us/pl/103/238/s13/c]. See below.
+    1994—Subsec. (a). [Pub. L. 103–238][/us/pl/103/238], § 24(c)(9), which directed technical amendment to reference to subchapter V of this chapter in introductory provisions to reflect renumbering of corresponding title of original act, could not be executed to text because of prior amendment by [section 13(c) of Pub. L. 103–238][/us/pl/103/238/s13/c]. See below.
 
-    [Pub. L. 103–238, § 13(c)][/us/pl/103/238/s13/c], in introductory provisions inserted reference to [section 1387 of this title][/us/usc/t16/s1387] and made technical amendment to reference to subchapter V of this chapter to reflect renumbering of corresponding title of original act.
+    [Pub. L. 103–238][/us/pl/103/238], § 13(c), in introductory provisions inserted reference to [section 1387 of this title][/us/usc/t16/s1387] and made technical amendment to reference to subchapter V of this chapter to reflect renumbering of corresponding title of original act.
 
-    Subsec. (a)(2)(B). [Pub. L. 103–238, § 5(a)(1)][/us/pl/103/238/s5/a/1], substituted “to take or import” for “for any purpose in any way connected with the taking or importation of”.
+    Subsec. (a)(2)(B). [Pub. L. 103–238][/us/pl/103/238], § 5(a)(1), substituted “to take or import” for “for any purpose in any way connected with the taking or importation of”.
 
-    Subsec. (a)(4). [Pub. L. 103–238, § 5(a)(2)][/us/pl/103/238/s5/a/2], substituted “export, or offer to purchase, sell, or export” for “or offer to purchase or sell” and “product—” for “product; and” and added subpars. (A) and (B).
+    Subsec. (a)(4). [Pub. L. 103–238][/us/pl/103/238], § 5(a)(2), substituted “export, or offer to purchase, sell, or export” for “or offer to purchase or sell” and “product—” for “product; and” and added subpars. (A) and (B).
 
     1992—Subsec. (a). [Pub. L. 102–587][/us/pl/102/587] inserted “or subchapter V” in introductory provisions.
 
-    1988—Subsec. (a). [Pub. L. 100–711, § 2(b)][/us/pl/100/711/s2/b], substituted “1383, and 1383a” for “and 1383”.
+    1988—Subsec. (a). [Pub. L. 100–711][/us/pl/100/711], § 2(b), substituted “1383, and 1383a” for “and 1383”.
 
-    Subsec. (b). [Pub. L. 100–711, § 5(e)(2)][/us/pl/100/711/s5/e/2], substituted “research, or for enhancing the survival or recovery of a species or stock,” for “research”.
+    Subsec. (b). [Pub. L. 100–711][/us/pl/100/711], § 5(e)(2), substituted “research, or for enhancing the survival or recovery of a species or stock,” for “research”.
 
-    [Pub. L. 100–711, § 5(b)][/us/pl/100/711/s5/b], inserted sentence at end authorizing Secretary to issue permit for importation of marine mammal.
+    [Pub. L. 100–711][/us/pl/100/711], § 5(b), inserted sentence at end authorizing Secretary to issue permit for importation of marine mammal.
 
-    1981—Subsec. (a). [Pub. L. 97–58, § 3(a)(1)][/us/pl/97/58/s3/a/1], inserted reference to [section 1379 of this title][/us/usc/t16/s1379] in the enumeration of sections preceding par. (1), redesignated par. (4) as (5), and revised as pars. (3) and (4) the provisions of former par. (3) amending those provisions so as to make it illegal for any person to possess a marine mammal, or any product from that mammal, and for any person to transport, purchase, sell, or offer to purchase or sell any marine mammal or marine mammal product.
+    1981—Subsec. (a). [Pub. L. 97–58][/us/pl/97/58], § 3(a)(1), inserted reference to [section 1379 of this title][/us/usc/t16/s1379] in the enumeration of sections preceding par. (1), redesignated par. (4) as (5), and revised as pars. (3) and (4) the provisions of former par. (3) amending those provisions so as to make it illegal for any person to possess a marine mammal, or any product from that mammal, and for any person to transport, purchase, sell, or offer to purchase or sell any marine mammal or marine mammal product.
 
-    Subsec. (b)(3). [Pub. L. 97–58, § 3(a)(2)][/us/pl/97/58/s3/a/2], struck out “or which has been listed as an endangered species or threatened species pursuant to the Endangered Species Act of 1973” after “designated as a depleted species or stock”.
+    Subsec. (b)(3). [Pub. L. 97–58][/us/pl/97/58], § 3(a)(2), struck out “or which has been listed as an endangered species or threatened species pursuant to the Endangered Species Act of 1973” after “designated as a depleted species or stock”.
 
-    Subsec. (d)(1). [Pub. L. 97–58, § 3(b)(3)][/us/pl/97/58/s3/b/3], struck out “or endangered” after “concerned as depleted”.
+    Subsec. (d)(1). [Pub. L. 97–58][/us/pl/97/58], § 3(b)(3), struck out “or endangered” after “concerned as depleted”.
 
     1977—Subsec. (f). [Pub. L. 95–136][/us/pl/95/136] added subsec. (f).
 
@@ -142,17 +142,17 @@
 
 [/us/usc/t16/s1374/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1374%2Fc
 [/us/usc/t16/s1374/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1374%2Fc
-[/us/pl/92/522/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs102
+[/us/pl/92/522/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtI
 [/us/stat/86/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1032
-[/us/pl/93/205/s13/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205%2Fs13%2Fe%2F3
+[/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F903
-[/us/pl/95/136/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F136%2Fs4
+[/us/pl/95/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F136
 [/us/stat/91/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1167
-[/us/pl/97/58/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58%2Fs3%2Fa
+[/us/pl/97/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58
 [/us/stat/95/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F981
 [/us/pl/100/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711
 [/us/stat/102/4763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4763
-[/us/pl/102/587/s3004/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs3004%2Fa%2F1
+[/us/pl/102/587/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtIII
 [/us/stat/106/5067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5067
 [/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
 [/us/stat/108/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F536
@@ -162,20 +162,20 @@
 [/us/pl/92/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522
 [/us/pl/92/522/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs4
 [/us/usc/t16/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1361
-[/us/pl/103/238/s24/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs24%2Fc%2F9
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
 [/us/pl/103/238/s13/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs13%2Fc
-[/us/pl/103/238/s13/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs13%2Fc
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
 [/us/usc/t16/s1387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1387
-[/us/pl/103/238/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs5%2Fa%2F1
-[/us/pl/103/238/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs5%2Fa%2F2
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
 [/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
-[/us/pl/100/711/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711%2Fs2%2Fb
-[/us/pl/100/711/s5/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711%2Fs5%2Fe%2F2
-[/us/pl/100/711/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711%2Fs5%2Fb
-[/us/pl/97/58/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58%2Fs3%2Fa%2F1
+[/us/pl/100/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711
+[/us/pl/100/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711
+[/us/pl/100/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711
+[/us/pl/97/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58
 [/us/usc/t16/s1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1379
-[/us/pl/97/58/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58%2Fs3%2Fa%2F2
-[/us/pl/97/58/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58%2Fs3%2Fb%2F3
+[/us/pl/97/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58
+[/us/pl/97/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58
 [/us/pl/95/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F136
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205

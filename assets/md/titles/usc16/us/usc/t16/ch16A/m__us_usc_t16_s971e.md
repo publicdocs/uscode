@@ -39,11 +39,11 @@
 
         All provisions of law relating to the seizure, judicial forfeiture, and condemnation of a cargo for violation of the customs laws, the disposition of such cargo or the proceeds from the sale thereof, and the remission or mitigation of such forfeitures shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this chapter, insofar as such provisions of law are applicable and not inconsistent with the provisions of this chapter.
 
-([Pub. L. 94–70, § 7][/us/pl/94/70/s7], Aug. 5, 1975, [89 Stat. 390][/us/stat/89/390]; [Pub. L. 104–43, title III, § 306][/us/pl/104/43/s306], Nov. 3, 1995, [109 Stat. 385][/us/stat/109/385]; [Pub. L. 105–384, title II, § 202(b)(1)(F)][/us/pl/105/384/s202/b/1/F], Nov. 13, 1998, [112 Stat. 3453][/us/stat/112/3453]; [Pub. L. 114–81, title I, § 107(2)][/us/pl/114/81/s107/2], Nov. 5, 2015, [129 Stat. 658][/us/stat/129/658].)
+([Pub. L. 94–70][/us/pl/94/70], § 7, Aug. 5, 1975, [89 Stat. 390][/us/stat/89/390]; [Pub. L. 104–43, title III][/us/pl/104/43/tIII], § 306, Nov. 3, 1995, [109 Stat. 385][/us/stat/109/385]; [Pub. L. 105–384, title II][/us/pl/105/384/tII], § 202(b)(1)(F), Nov. 13, 1998, [112 Stat. 3453][/us/stat/112/3453]; [Pub. L. 114–81, title I][/us/pl/114/81/tI], § 107(2), Nov. 5, 2015, [129 Stat. 658][/us/stat/129/658].)
 
  __References in Text__ 
 
-    [Section 971d(d) of this title][/us/usc/t16/s971d/d], referred to in subsec. (d), was amended generally by [Pub. L. 101–627, title II, § 207][/us/pl/101/627/s207], Nov. 28, 1990, [104 Stat. 4461][/us/stat/104/4461]. Prior to amendment, subsec. (d) related to Commission recommendations concerning bluefin tuna and issuance of regulations in that regard.
+    [Section 971d(d) of this title][/us/usc/t16/s971d/d], referred to in subsec. (d), was amended generally by [Pub. L. 101–627, title II][/us/pl/101/627/tII], § 207, Nov. 28, 1990, [104 Stat. 4461][/us/stat/104/4461]. Prior to amendment, subsec. (d) related to Commission recommendations concerning bluefin tuna and issuance of regulations in that regard.
 
  __Amendments__ 
 
@@ -62,16 +62,16 @@
 
 [/us/usc/t16/s971d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs971d
 [/us/usc/t16/s971d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs971d
-[/us/pl/94/70/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F70%2Fs7
+[/us/pl/94/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F70
 [/us/stat/89/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F390
-[/us/pl/104/43/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs306
+[/us/pl/104/43/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtIII
 [/us/stat/109/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F385
-[/us/pl/105/384/s202/b/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2Fs202%2Fb%2F1%2FF
+[/us/pl/105/384/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2FtII
 [/us/stat/112/3453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3453
-[/us/pl/114/81/s107/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs107%2F2
+[/us/pl/114/81/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2FtI
 [/us/stat/129/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F658
 [/us/usc/t16/s971d/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs971d%2Fd
-[/us/pl/101/627/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs207
+[/us/pl/101/627/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtII
 [/us/stat/104/4461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4461
 [/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
 [/us/pl/105/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384

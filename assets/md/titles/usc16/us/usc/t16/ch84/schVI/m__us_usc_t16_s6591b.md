@@ -119,7 +119,7 @@
 
             (E) the Government Accountability Office.
 
-([Pub. L. 108–148, title VI, § 603][/us/pl/108/148/s603], as added [Pub. L. 113–79, title VIII, § 8204][/us/pl/113/79/s8204], Feb. 7, 2014, [128 Stat. 916][/us/stat/128/916].)
+([Pub. L. 108–148, title VI][/us/pl/108/148/tVI], § 603, as added [Pub. L. 113–79, title VIII][/us/pl/113/79/tVIII], § 8204, Feb. 7, 2014, [128 Stat. 916][/us/stat/128/916].)
 
  __References in Text__ 
 
@@ -139,8 +139,8 @@
 [/us/usc/t16/s7125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7125
 [/us/usc/t16/s7303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7303%2Fb
 [/us/usc/t16/s1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1604
-[/us/pl/108/148/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2Fs603
-[/us/pl/113/79/s8204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8204
+[/us/pl/108/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2FtVI
+[/us/pl/113/79/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVIII
 [/us/stat/128/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F916
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190

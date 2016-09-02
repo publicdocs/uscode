@@ -81,7 +81,7 @@
 
             Nothing in this chapter shall be construed as affecting the authority, jurisdiction, or responsibility of the several States to manage, control, or regulate fish and resident wildlife under State law or regulations, including the regulation of hunting, fishing, trapping and recreational shooting on public land managed by the Bureau of Land Management. Nothing in this chapter shall be construed as limiting access for hunting, fishing, trapping, or recreational shooting.
 
-([Pub. L. 111–11, title II, § 2002][/us/pl/111/11/s2002], Mar. 30, 2009, [123 Stat. 1095][/us/stat/123/1095].)
+([Pub. L. 111–11, title II][/us/pl/111/11/tII], § 2002, Mar. 30, 2009, [123 Stat. 1095][/us/stat/123/1095].)
 
  __References in Text__ 
 
@@ -107,7 +107,7 @@
 [/us/usc/t16/s1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1271
 [/us/usc/t16/s1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1241
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
-[/us/pl/111/11/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs2002
+[/us/pl/111/11/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtII
 [/us/stat/123/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1095
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371

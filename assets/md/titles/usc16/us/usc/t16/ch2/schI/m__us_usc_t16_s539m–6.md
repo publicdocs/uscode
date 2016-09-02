@@ -83,7 +83,7 @@
 
             The State of New Mexico and local public bodies shall have no authority within the Area to tax the uses or the property of the Pueblo, members of the Pueblo, or members of other federally-recognized Indian tribes authorized to use the Area under [section 539m–3(a)(4) of this title][/us/usc/t16/s539m–3/a/4].
 
-([Pub. L. 108–7, div. F, title IV, § 408][/us/pl/108/7/s408], Feb. 20, 2003, [117 Stat. 286][/us/stat/117/286].)
+([Pub. L. 108–7, div. F, title IV][/us/pl/108/7/dF/tIV], § 408, Feb. 20, 2003, [117 Stat. 286][/us/stat/117/286].)
 
  __References in Text__ 
 
@@ -99,7 +99,7 @@
 [/us/usc/t16/s539m–3/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs539m%E2%80%933%2Fa%2F4
 [/us/usc/t18/s1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1153
 [/us/usc/t16/s539m–3/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs539m%E2%80%933%2Fa%2F4
-[/us/pl/108/7/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs408
+[/us/pl/108/7/dF/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtIV
 [/us/stat/117/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F286
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/stat/117/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F279

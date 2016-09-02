@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as may be necessary to carry out the purposes of sections 460eee and 460eee–1 of this title.
 
-([Pub. L. 101–628, title V, § 504][/us/pl/101/628/s504], Nov. 28, 1990, [104 Stat. 4494][/us/stat/104/4494].)
+([Pub. L. 101–628, title V][/us/pl/101/628/tV], § 504, Nov. 28, 1990, [104 Stat. 4494][/us/stat/104/4494].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/628/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628%2Fs504
+[/us/pl/101/628/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628%2FtV
 [/us/stat/104/4494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4494
 
 

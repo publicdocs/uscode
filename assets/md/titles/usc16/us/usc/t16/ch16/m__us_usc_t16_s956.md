@@ -17,7 +17,7 @@
 
     Any person authorized to carry out enforcement activities under this chapter and any person authorized by the commissions shall have power without warrant or other process, to inspect, at any reasonable time, catch returns, statistical records, or other reports as are required by regulations adopted pursuant to this chapter to be made, kept, or furnished.
 
-([Sept. 7, 1950, ch. 907, § 7][/us/act/1950-09-07/ch907/s7], [64 Stat. 778][/us/stat/64/778]; [Pub. L. 87–814, § 3][/us/pl/87/814/s3], Oct. 15, 1962, [76 Stat. 924][/us/stat/76/924].)
+([Sept. 7, 1950, ch. 907][/us/act/1950-09-07/ch907], § 7, [64 Stat. 778][/us/stat/64/778]; [Pub. L. 87–814][/us/pl/87/814], § 3, Oct. 15, 1962, [76 Stat. 924][/us/stat/76/924].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1950-09-07/ch907/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-07%2Fch907%2Fs7
+[/us/act/1950-09-07/ch907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-07%2Fch907
 [/us/stat/64/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F778
-[/us/pl/87/814/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F814%2Fs3
+[/us/pl/87/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F814
 [/us/stat/76/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F924
 [/us/pl/87/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F814
 

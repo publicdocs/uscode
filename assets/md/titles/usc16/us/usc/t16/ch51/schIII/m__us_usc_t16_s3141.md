@@ -55,7 +55,7 @@
 
         Nothing in this subchapter shall be construed as impeding, delaying, or otherwise affecting the selection and conveyance of land to the State pursuant to the Alaska Statehood Act, or any other Federal law referred to in [section 3102(3)(A) of this title][/us/usc/t16/s3102/3/A], and to the Natives pursuant to the Alaska Native Claims Settlement Act \[[43 U.S.C. 1601][/us/usc/t43/s1601] et seq.\] and this Act.
 
-([Pub. L. 96–487, title X, § 1001][/us/pl/96/487/s1001], Dec. 2, 1980, [94 Stat. 2448][/us/stat/94/2448].)
+([Pub. L. 96–487, title X][/us/pl/96/487/tX], § 1001, Dec. 2, 1980, [94 Stat. 2448][/us/stat/94/2448].)
 
  __References in Text__ 
 
@@ -74,7 +74,7 @@
 
 [/us/usc/t16/s3102/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3102%2F3%2FA
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/96/487/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1001
+[/us/pl/96/487/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtX
 [/us/stat/94/2448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2448
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371

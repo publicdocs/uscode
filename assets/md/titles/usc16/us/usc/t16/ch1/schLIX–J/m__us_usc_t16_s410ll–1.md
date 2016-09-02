@@ -75,7 +75,7 @@
 
             There are authorized to be appropriated to the Secretary such sums as are necessary for the period of fiscal years 2009 through 2013 to provide financial assistance to cooperating entities pursuant to agreements or memoranda entered into under paragraph (1).
 
-([Pub. L. 96–607, title XVI, § 1602][/us/pl/96/607/s1602], as added [Pub. L. 111–11, title VII, § 7111(a)][/us/pl/111/11/s7111/a], Mar. 30, 2009, [123 Stat. 1199][/us/stat/123/1199].)
+([Pub. L. 96–607, title XVI][/us/pl/96/607/tXVI], § 1602, as added [Pub. L. 111–11, title VII][/us/pl/111/11/tVII], § 7111(a), Mar. 30, 2009, [123 Stat. 1199][/us/stat/123/1199].)
 
 ----------
 
@@ -84,8 +84,8 @@
 ----------
 ----------
 
-[/us/pl/96/607/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607%2Fs1602
-[/us/pl/111/11/s7111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7111%2Fa
+[/us/pl/96/607/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607%2FtXVI
+[/us/pl/111/11/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVII
 [/us/stat/123/1199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1199
 
 

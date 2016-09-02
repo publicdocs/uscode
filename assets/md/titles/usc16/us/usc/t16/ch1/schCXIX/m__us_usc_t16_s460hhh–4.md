@@ -53,7 +53,7 @@
 
             Pending submission of a recommendation and until otherwise directed by Act of Congress, the Secretary, acting through the Chief of the Forest Service, shall manage the lands and waters within the wilderness study areas referred to in paragraph (1) so as to maintain their potential for inclusion within the National Wilderness Preservation System.
 
-([Pub. L. 103–63, § 6][/us/pl/103/63/s6], Aug. 4, 1993, [107 Stat. 298][/us/stat/107/298].)
+([Pub. L. 103–63][/us/pl/103/63], § 6, Aug. 4, 1993, [107 Stat. 298][/us/stat/107/298].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 
  __Codification__ 
 
-    In subsec. (a)(3), “chapter 3041 of title 54” substituted for “title II of the National Historic Preservation Act ([16 U.S.C. 470i][/us/usc/t16/s470i] et seq.)” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (a)(3), “chapter 3041 of title 54” substituted for “title II of the National Historic Preservation Act ([16 U.S.C. 470i][/us/usc/t16/s470i] et seq.)” on authority of [Pub. L. 113–287][/us/pl/113/287], § 6(e), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
 ----------
 
@@ -74,7 +74,7 @@
 
 [/us/usc/t16/s1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1604
 [/us/usc/t16/s470aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470aa
-[/us/pl/103/63/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F63%2Fs6
+[/us/pl/103/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F63
 [/us/stat/107/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F298
 [/us/pl/96/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95
 [/us/stat/93/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F721
@@ -85,7 +85,7 @@
 [/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
 [/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/usc/t16/s470i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470i
-[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 
 

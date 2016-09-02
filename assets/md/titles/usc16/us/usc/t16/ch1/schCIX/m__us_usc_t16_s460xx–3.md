@@ -23,7 +23,7 @@
 
         There shall be 7 members of the Committee, who shall be appointed by the Secretary. Members of the Committee shall be appointed for terms of three years, except that of the members first appointed 2 shall be appointed for terms of 1 year and 3 shall be appointed for terms of 2 years. The Secretary shall appoint one member from nominations supplied by the Governor of the State of Arizona, and one member from nominations supplied by the Supervisors of Cochise County, Arizona. The other members shall be persons with recognized backgrounds in wildlife conservation, riparian ecology, archeology, paleontology, or other disciplines directly related to the primary purposes for which the conservation area was created.
 
-([Pub. L. 100–696, title I, § 104][/us/pl/100/696/s104], Nov. 18, 1988, [102 Stat. 4572][/us/stat/102/4572].)
+([Pub. L. 100–696, title I][/us/pl/100/696/tI], § 104, Nov. 18, 1988, [102 Stat. 4572][/us/stat/102/4572].)
 
  __Termination of Advisory Committees__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t16/s460xx–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460xx%E2%80%932
-[/us/pl/100/696/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2Fs104
+[/us/pl/100/696/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2FtI
 [/us/stat/102/4572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4572
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776

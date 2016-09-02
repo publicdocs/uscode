@@ -31,7 +31,7 @@
 
         In promulgating regulations under this section, the Secretary shall use the authority provided under [section 808 of title 5][/us/usc/t5/s808].
 
-([Pub. L. 99–198, title XII, § 1246][/us/pl/99/198/s1246], as added [Pub. L. 113–79, title II, § 2608][/us/pl/113/79/s2608], Feb. 7, 2014, [128 Stat. 761][/us/stat/128/761].)
+([Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1246, as added [Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2608, Feb. 7, 2014, [128 Stat. 761][/us/stat/128/761].)
 
  __References in Text__ 
 
@@ -39,9 +39,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 3846, [Pub. L. 99–198, title XII, § 1246][/us/pl/99/198/s1246], as added [Pub. L. 101–624, title XIV, § 1444][/us/pl/101/624/s1444], Nov. 28, 1990, [104 Stat. 3602][/us/stat/104/3602], directed Secretary to report to Congress on erodible land and wetland conservation program, prior to repeal by [Pub. L. 104–66, title I, § 1011(a)][/us/pl/104/66/s1011/a], Dec. 21, 1995, [109 Stat. 709][/us/stat/109/709].
+    A prior section 3846, [Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1246, as added [Pub. L. 101–624, title XIV][/us/pl/101/624/tXIV], § 1444, Nov. 28, 1990, [104 Stat. 3602][/us/stat/104/3602], directed Secretary to report to Congress on erodible land and wetland conservation program, prior to repeal by [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1011(a), Dec. 21, 1995, [109 Stat. 709][/us/stat/109/709].
 
-    A prior section 3847, [Pub. L. 99–198, title XII, § 1247][/us/pl/99/198/s1247], as added [Pub. L. 101–624, title XIV, § 1445][/us/pl/101/624/s1445], Nov. 28, 1990, [104 Stat. 3603][/us/stat/104/3603]; amended [Pub. L. 102–237, title II, § 204(8)][/us/pl/102/237/s204/8], Dec. 13, 1991, [105 Stat. 1855][/us/stat/105/1855], which related to assistance for control of spread of weeds and pests, was omitted in the general amendment of this subchapter by [Pub. L. 104–127][/us/pl/104/127].
+    A prior section 3847, [Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1247, as added [Pub. L. 101–624, title XIV][/us/pl/101/624/tXIV], § 1445, Nov. 28, 1990, [104 Stat. 3603][/us/stat/104/3603]; amended [Pub. L. 102–237, title II][/us/pl/102/237/tII], § 204(8), Dec. 13, 1991, [105 Stat. 1855][/us/stat/105/1855], which related to assistance for control of spread of weeds and pests, was omitted in the general amendment of this subchapter by [Pub. L. 104–127][/us/pl/104/127].
 
 ----------
 
@@ -52,21 +52,21 @@
 
 [/us/usc/t16/s3844/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3844%2Ff
 [/us/usc/t5/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs808
-[/us/pl/99/198/s1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1246
-[/us/pl/113/79/s2608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2608
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F761
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/usc/t16/s2005a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2005a
 [/us/usc/t7/s1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1981
-[/us/pl/99/198/s1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1246
-[/us/pl/101/624/s1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1444
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/101/624/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIV
 [/us/stat/104/3602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3602
-[/us/pl/104/66/s1011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1011%2Fa
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F709
-[/us/pl/99/198/s1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1247
-[/us/pl/101/624/s1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1445
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/101/624/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIV
 [/us/stat/104/3603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3603
-[/us/pl/102/237/s204/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs204%2F8
+[/us/pl/102/237/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtII
 [/us/stat/105/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1855
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 

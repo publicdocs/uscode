@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as are necessary to carry out this subchapter.
 
-([Pub. L. 106–76, § 12][/us/pl/106/76/s12], Oct. 21, 1999, [113 Stat. 1133][/us/stat/113/1133].)
+([Pub. L. 106–76][/us/pl/106/76], § 12, Oct. 21, 1999, [113 Stat. 1133][/us/stat/113/1133].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/76/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F76%2Fs12
+[/us/pl/106/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F76
 [/us/stat/113/1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1133
 
 

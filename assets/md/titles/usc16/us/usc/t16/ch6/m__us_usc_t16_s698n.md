@@ -47,7 +47,7 @@
 
         Nothing in sections 698n to 698p of this title shall affect development of a multiunit residential/resort project currently proposed for Fort George Island, nor shall any provision of sections 698n to 698p of this title be construed to affect any Federal, State or local law applicable to such project.
 
-([Pub. L. 100–249, title II, § 201][/us/pl/100/249/s201], Feb. 16, 1988, [102 Stat. 13][/us/stat/102/13]; [Pub. L. 108–321, § 2][/us/pl/108/321/s2], Oct. 5, 2004, [118 Stat. 1214][/us/stat/118/1214].)
+([Pub. L. 100–249, title II][/us/pl/100/249/tII], § 201, Feb. 16, 1988, [102 Stat. 13][/us/stat/102/13]; [Pub. L. 108–321][/us/pl/108/321], § 2, Oct. 5, 2004, [118 Stat. 1214][/us/stat/118/1214].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 
  __Codification__ 
 
-    In subsec. (a)(1), “[section 100506(c) of title 54][/us/usc/t54/s100506/c]” substituted for “section 7(c) of the Land and Water Conservation Fund Act of 1965” on authority of [Pub. L. 113–287, § 6(e)][/us/pl/113/287/s6/e], Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
+    In subsec. (a)(1), “[section 100506(c) of title 54][/us/usc/t54/s100506/c]” substituted for “section 7(c) of the Land and Water Conservation Fund Act of 1965” on authority of [Pub. L. 113–287][/us/pl/113/287], § 6(e), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272], which Act enacted Title 54, National Park Service and Related Programs.
 
  __Amendments__ 
 
@@ -63,7 +63,7 @@
 
  __Short Title of 2004 Amendment__ 
 
-[Pub. L. 108–321, § 1][/us/pl/108/321/s1], Oct. 5, 2004, [118 Stat. 1214][/us/stat/118/1214], provided that: 
+[Pub. L. 108–321][/us/pl/108/321], § 1, Oct. 5, 2004, [118 Stat. 1214][/us/stat/118/1214], provided that: 
 
 > “This Act \[amending this section\] may be cited as the ‘Timucuan Ecological and Historic Preserve Boundary Revision Act of 2004’.”
 
@@ -78,9 +78,9 @@
 [/us/usc/t16/s3902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3902
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
-[/us/pl/100/249/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F249%2Fs201
+[/us/pl/100/249/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F249%2FtII
 [/us/stat/102/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F13
-[/us/pl/108/321/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F321%2Fs2
+[/us/pl/108/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F321
 [/us/stat/118/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1214
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
@@ -92,10 +92,10 @@
 [/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
 [/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/usc/t54/s100506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100506%2Fc
-[/us/pl/113/287/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs6%2Fe
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/108/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F321
-[/us/pl/108/321/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F321%2Fs1
+[/us/pl/108/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F321
 [/us/stat/118/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1214
 
 

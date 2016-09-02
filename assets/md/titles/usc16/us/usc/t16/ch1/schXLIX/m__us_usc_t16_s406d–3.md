@@ -19,7 +19,7 @@
 
     (b) As soon as practicable after the end of each fiscal year, the amount then due for such fiscal year shall be computed and certified by the Secretary of the Interior, and shall be paid by the Secretary of the Treasury: Provided, That such amount shall not exceed 25 per centum of the fees collected during such fiscal year from visitors to the Grand Teton National Park established by this Act, and the Yellowstone National Park. Payments made to the State of Wyoming under this section shall be distributed to the county where the lands acquired from private landowners are located and in such manner as the State of Wyoming may prescribe.
 
-([Sept. 14, 1950, ch. 950, § 5][/us/act/1950-09-14/ch950/s5], [64 Stat. 851][/us/stat/64/851].)
+([Sept. 14, 1950, ch. 950][/us/act/1950-09-14/ch950], § 5, [64 Stat. 851][/us/stat/64/851].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/act/1950-09-14/ch950/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-14%2Fch950%2Fs5
+[/us/act/1950-09-14/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-14%2Fch950
 [/us/stat/64/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F851
 [/us/act/1950-09-14/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-14%2Fch950
 [/us/stat/64/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F849

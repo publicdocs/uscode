@@ -39,11 +39,11 @@
 
         (2) to direct the Secretary of the Interior to work in cooperation with the Commonwealth of Virginia, the City of Richmond, other political subdivisions of the Commonwealth, other public entities, and the private sector in the management, protection, and interpretation of the resources associated with the Civil War and the Civil War battles in and around the City of Richmond, Virginia.
 
-([Pub. L. 106–511, title V, § 502][/us/pl/106/511/s502], Nov. 13, 2000, [114 Stat. 2373][/us/stat/114/2373].)
+([Pub. L. 106–511, title V][/us/pl/106/511/tV], § 502, Nov. 13, 2000, [114 Stat. 2373][/us/stat/114/2373].)
 
  __References in Text__ 
 
-    The Act of March 2, 1936, referred to in subsec. (a)(1), is [act Mar. 2, 1936, ch. 113][/us/act/1936-03-02/ch113], [49 Stat. 1155][/us/stat/49/1155], which was classified generally to sections 423j to 423l of this title prior to repeal by [Pub. L. 106–511, title V, § 507][/us/pl/106/511/s507], Nov. 13, 2000, [114 Stat. 2376][/us/stat/114/2376].
+    The Act of March 2, 1936, referred to in subsec. (a)(1), is [act Mar. 2, 1936, ch. 113][/us/act/1936-03-02/ch113], [49 Stat. 1155][/us/stat/49/1155], which was classified generally to sections 423j to 423l of this title prior to repeal by [Pub. L. 106–511, title V][/us/pl/106/511/tV], § 507, Nov. 13, 2000, [114 Stat. 2376][/us/stat/114/2376].
 
     Sections 423l–1 to 423l–6 of this title, referred to in subsec. (b), was in the original “this title”, meaning title V of [Pub. L. 106–511][/us/pl/106/511], Nov. 13, 2000, [114 Stat. 2373][/us/stat/114/2373], which enacted sections 423l–1 to 423l–6 of this title and repealed sections 423j to 423l of this title. For complete classification of title V to the Code, see Tables.
 
@@ -56,11 +56,11 @@
 
 [/us/stat/49/1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1155
 [/us/usc/t16/s423j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs423j
-[/us/pl/106/511/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F511%2Fs502
+[/us/pl/106/511/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F511%2FtV
 [/us/stat/114/2373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2373
 [/us/act/1936-03-02/ch113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-03-02%2Fch113
 [/us/stat/49/1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1155
-[/us/pl/106/511/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F511%2Fs507
+[/us/pl/106/511/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F511%2FtV
 [/us/stat/114/2376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2376
 [/us/pl/106/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F511
 [/us/stat/114/2373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2373

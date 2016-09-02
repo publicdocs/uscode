@@ -17,7 +17,7 @@
 
     All lands and submerged lands title to which is accepted by the Secretary of the Interior pursuant to the provisions of [section 410r–1 of this title][/us/usc/t16/s410r–1] shall, upon the acceptance of title thereto, become parts of the Everglades National Park and shall be subject to all laws and regulations applicable thereto.
 
-([Pub. L. 86–681, § 2][/us/pl/86/681/s2], Sept. 2, 1960, [74 Stat. 577][/us/stat/74/577].)
+([Pub. L. 86–681][/us/pl/86/681], § 2, Sept. 2, 1960, [74 Stat. 577][/us/stat/74/577].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s410r–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410r%E2%80%931
-[/us/pl/86/681/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F681%2Fs2
+[/us/pl/86/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F681
 [/us/stat/74/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F577
 
 

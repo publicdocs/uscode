@@ -27,7 +27,7 @@
 
         The head of any Federal agency who has issued a lease, license, permit, or other agreement authorizing the grazing of domestic livestock on Federal lands to any person who is convicted of a violation of this subchapter or of any permit or regulation issued hereunder may immediately cancel each such lease, license, permit, or other agreement. The United States shall not be liable for the payment of any compensation, reimbursement, or damages in connection with the cancellation of any lease, license, permit, or other agreement pursuant to this section.
 
-([June 8, 1940, ch. 278, § 1][/us/act/1940-06-08/ch278/s1], [54 Stat. 250][/us/stat/54/250]; [Pub. L. 86–70, § 14][/us/pl/86/70/s14], June 25, 1959, [73 Stat. 143][/us/stat/73/143]; [Pub. L. 87–884][/us/pl/87/884], Oct. 24, 1962, [76 Stat. 1246][/us/stat/76/1246]; [Pub. L. 92–535, § 1][/us/pl/92/535/s1], Oct. 23, 1972, [86 Stat. 1064][/us/stat/86/1064].)
+([June 8, 1940, ch. 278][/us/act/1940-06-08/ch278], § 1, [54 Stat. 250][/us/stat/54/250]; [Pub. L. 86–70][/us/pl/86/70], § 14, June 25, 1959, [73 Stat. 143][/us/stat/73/143]; [Pub. L. 87–884][/us/pl/87/884], Oct. 24, 1962, [76 Stat. 1246][/us/stat/76/1246]; [Pub. L. 92–535][/us/pl/92/535], § 1, Oct. 23, 1972, [86 Stat. 1064][/us/stat/86/1064].)
 
  __References in Text__ 
 
@@ -68,13 +68,13 @@ Enacting clause of act June 8, 1940, provided:
 ----------
 ----------
 
-[/us/act/1940-06-08/ch278/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-08%2Fch278%2Fs1
+[/us/act/1940-06-08/ch278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-08%2Fch278
 [/us/stat/54/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F250
-[/us/pl/86/70/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs14
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F143
 [/us/pl/87/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F884
 [/us/stat/76/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1246
-[/us/pl/92/535/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F535%2Fs1
+[/us/pl/92/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F535
 [/us/stat/86/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1064
 [/us/pl/87/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F884
 [/us/usc/t16/s668a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668a

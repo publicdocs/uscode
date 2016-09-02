@@ -17,7 +17,7 @@
 
     The property acquired under the provisions of [section 282 of this title][/us/usc/t16/s282] shall be known as the San Juan Island National Historical Park and shall commemorate the final settlement by arbitration of the Oregon boundary dispute and the peaceful relationship which has existed between the United States and Canada for generations. The Secretary of the Interior shall administer, protect, and develop such park in accordance with the provisions of the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]; [16 U.S.C. 1][/us/usc/t16/s1] et seq.), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as amended and supplemented, and the Act of August 21, 1935 ([49 Stat. 666][/us/stat/49/666]; [16 U.S.C. 461][/us/usc/t16/s461] et seq.). <sup>\[1\]</sup> 
 
-([Pub. L. 89–565, § 2][/us/pl/89/565/s2], Sept. 9, 1966, [80 Stat. 737][/us/stat/80/737].)
+([Pub. L. 89–565][/us/pl/89/565], § 2, Sept. 9, 1966, [80 Stat. 737][/us/stat/80/737].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
 [/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
-[/us/pl/89/565/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F565%2Fs2
+[/us/pl/89/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F565
 [/us/stat/80/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F737
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1

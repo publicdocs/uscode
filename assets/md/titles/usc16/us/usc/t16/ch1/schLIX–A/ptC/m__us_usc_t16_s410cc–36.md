@@ -37,7 +37,7 @@
 
         (2) The Administrator of the General Services Administration shall provide to the Commission on a reimbursable basis such administrative support services as the Commission may request.
 
-([Pub. L. 95–290, title III, § 306][/us/pl/95/290/s306], June 5, 1978, [92 Stat. 303][/us/stat/92/303].)
+([Pub. L. 95–290, title III][/us/pl/95/290/tIII], § 306, June 5, 1978, [92 Stat. 303][/us/stat/92/303].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
-[/us/pl/95/290/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F290%2Fs306
+[/us/pl/95/290/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F290%2FtIII
 [/us/stat/92/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F303
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 

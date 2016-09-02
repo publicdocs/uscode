@@ -17,7 +17,7 @@
 
     Funds made available under sections 695 to 695c of this title or any other Act for the administration, maintenance, and development of any areas acquired under said sections, shall be available also for the construction of dams, dikes, ditches, buildings, and other necessary improvements and for the purchase, planting, growing, and harvesting of grains and other crops for the feeding of waterfowl and other wildlife frequenting the localities where such lands may be purchased or rented.
 
-([May 18, 1948, ch. 303, § 4][/us/act/1948-05-18/ch303/s4], [62 Stat. 239][/us/stat/62/239].)
+([May 18, 1948, ch. 303][/us/act/1948-05-18/ch303], § 4, [62 Stat. 239][/us/stat/62/239].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1948-05-18/ch303/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-05-18%2Fch303%2Fs4
+[/us/act/1948-05-18/ch303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-05-18%2Fch303
 [/us/stat/62/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F239
 
 

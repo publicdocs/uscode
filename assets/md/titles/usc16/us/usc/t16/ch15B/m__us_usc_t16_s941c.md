@@ -125,7 +125,7 @@
 
             Nothing in this subsection affects an Indian tribe affected by an alternative applicable cost sharing requirement under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450][/us/usc/t25/s450] et seq.).
 
-([Pub. L. 101–537, title I, § 1005][/us/pl/101/537/s1005], Nov. 8, 1990, [104 Stat. 2372][/us/stat/104/2372]; [Pub. L. 101–646, title II, § 2005][/us/pl/101/646/s2005], Nov. 29, 1990, [104 Stat. 4775][/us/stat/104/4775]; [Pub. L. 104–332, § 2(h)(1)][/us/pl/104/332/s2/h/1], Oct. 26, 1996, [110 Stat. 4091][/us/stat/110/4091]; [Pub. L. 105–265][/us/pl/105/265], §§ 3(b), 6, Oct. 19, 1998, [112 Stat. 2358][/us/stat/112/2358], 2359; [Pub. L. 109–326, § 4][/us/pl/109/326/s4], Oct. 11, 2006, [120 Stat. 1762][/us/stat/120/1762].)
+([Pub. L. 101–537, title I][/us/pl/101/537/tI], § 1005, Nov. 8, 1990, [104 Stat. 2372][/us/stat/104/2372]; [Pub. L. 101–646, title II][/us/pl/101/646/tII], § 2005, Nov. 29, 1990, [104 Stat. 4775][/us/stat/104/4775]; [Pub. L. 104–332][/us/pl/104/332], § 2(h)(1), Oct. 26, 1996, [110 Stat. 4091][/us/stat/110/4091]; [Pub. L. 105–265][/us/pl/105/265], §§ 3(b), 6, Oct. 19, 1998, [112 Stat. 2358][/us/stat/112/2358], 2359; [Pub. L. 109–326][/us/pl/109/326], § 4, Oct. 11, 2006, [120 Stat. 1762][/us/stat/120/1762].)
 
  __References in Text__ 
 
@@ -137,7 +137,7 @@
 
  __Codification__ 
 
-    Title I of [Pub. L. 101–537][/us/pl/101/537] and title II of [Pub. L. 101–646][/us/pl/101/646] enacted substantially identical sections. Title II of [Pub. L. 101–646][/us/pl/101/646] was repealed by [Pub. L. 105–265, § 3(b)][/us/pl/105/265/s3/b].
+    Title I of [Pub. L. 101–537][/us/pl/101/537] and title II of [Pub. L. 101–646][/us/pl/101/646] enacted substantially identical sections. Title II of [Pub. L. 101–646][/us/pl/101/646] was repealed by [Pub. L. 105–265][/us/pl/105/265], § 3(b).
 
  __Amendments__ 
 
@@ -145,7 +145,7 @@
 
     1998—[Pub. L. 105–265][/us/pl/105/265] amended section generally, substituting present provisions for provisions requiring a Great Lakes fishery resources restoration study and development of proposals for implementing recommendations.
 
-    1996—[Pub. L. 104–332][/us/pl/104/332] made technical amendment to [Pub. L. 101–646, § 2005][/us/pl/101/646/s2005], which enacted this section.
+    1996—[Pub. L. 104–332][/us/pl/104/332] made technical amendment to [Pub. L. 101–646][/us/pl/101/646], § 2005, which enacted this section.
 
 ----------
 
@@ -157,15 +157,15 @@
 [/us/usc/t16/s4701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4701
 [/us/usc/t16/s941d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs941d
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/101/537/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F537%2Fs1005
+[/us/pl/101/537/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F537%2FtI
 [/us/stat/104/2372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2372
-[/us/pl/101/646/s2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs2005
+[/us/pl/101/646/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2FtII
 [/us/stat/104/4775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4775
-[/us/pl/104/332/s2/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fh%2F1
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
 [/us/stat/110/4091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4091
 [/us/pl/105/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F265
 [/us/stat/112/2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2358
-[/us/pl/109/326/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F326%2Fs4
+[/us/pl/109/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F326
 [/us/stat/120/1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1762
 [/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
 [/us/stat/104/4761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4761
@@ -177,10 +177,10 @@
 [/us/pl/101/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F537
 [/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
 [/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
-[/us/pl/105/265/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F265%2Fs3%2Fb
+[/us/pl/105/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F265
 [/us/pl/109/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F326
 [/us/pl/105/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F265
 [/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
-[/us/pl/101/646/s2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs2005
+[/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
 
 

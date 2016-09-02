@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated not to exceed $500,000 for the fiscal year ending June 30, 1968, $750,000 for the fiscal year ending June 30, 1969, $1,000,000 for the period beginning July 1, 1969, and ending June 30, 1973, and $400,000 for each of the fiscal years ending June 30, 1974, June 30, 1975, June 30, 1976, and June 30, 1977.
 
-([Pub. L. 89–720, § 3][/us/pl/89/720/s3], Nov. 2, 1966, [80 Stat. 1149][/us/stat/80/1149]; [Pub. L. 91–451][/us/pl/91/451], Oct. 14, 1970, [84 Stat. 922][/us/stat/84/922]; [Pub. L. 92–604][/us/pl/92/604], Oct. 31, 1972, [86 Stat. 1493][/us/stat/86/1493].)
+([Pub. L. 89–720][/us/pl/89/720], § 3, Nov. 2, 1966, [80 Stat. 1149][/us/stat/80/1149]; [Pub. L. 91–451][/us/pl/91/451], Oct. 14, 1970, [84 Stat. 922][/us/stat/84/922]; [Pub. L. 92–604][/us/pl/92/604], Oct. 31, 1972, [86 Stat. 1493][/us/stat/86/1493].)
 
  __Amendments__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/89/720/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F720%2Fs3
+[/us/pl/89/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F720
 [/us/stat/80/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1149
 [/us/pl/91/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F451
 [/us/stat/84/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F922

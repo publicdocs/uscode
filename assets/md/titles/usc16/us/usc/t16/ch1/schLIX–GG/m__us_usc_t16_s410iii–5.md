@@ -21,7 +21,7 @@
 
     (2) the Act entitled “An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes”, approved August 21, 1935 ([16 U.S.C. 461][/us/usc/t16/s461] et seq.).1
 
-([Pub. L. 107–373, § 7][/us/pl/107/373/s7], Dec. 19, 2002, [116 Stat. 3106][/us/stat/116/3106].)
+([Pub. L. 107–373][/us/pl/107/373], § 7, Dec. 19, 2002, [116 Stat. 3106][/us/stat/116/3106].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
-[/us/pl/107/373/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F373%2Fs7
+[/us/pl/107/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F373
 [/us/stat/116/3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3106
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408

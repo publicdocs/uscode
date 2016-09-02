@@ -31,7 +31,7 @@
 
         For the purposes of claims relating to damage to, or loss of, personal property of a volunteer incident to volunteer service, a volunteer under sections 558a to 558d of this title shall be considered a Federal employee, and the provisions of [section 3721 of title 31][/us/usc/t31/s3721] shall apply.
 
-([Pub. L. 92–300, § 3][/us/pl/92/300/s3], May 18, 1972, [86 Stat. 147][/us/stat/86/147]; [Pub. L. 101–286, title II, § 204(a)][/us/pl/101/286/s204/a], May 9, 1990, [104 Stat. 175][/us/stat/104/175].)
+([Pub. L. 92–300][/us/pl/92/300], § 3, May 18, 1972, [86 Stat. 147][/us/stat/86/147]; [Pub. L. 101–286, title II][/us/pl/101/286/tII], § 204(a), May 9, 1990, [104 Stat. 175][/us/stat/104/175].)
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 
 [/us/usc/t5/s8101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8101
 [/us/usc/t31/s3721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3721
-[/us/pl/92/300/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F300%2Fs3
+[/us/pl/92/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F300
 [/us/stat/86/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F147
-[/us/pl/101/286/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F286%2Fs204%2Fa
+[/us/pl/101/286/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F286%2FtII
 [/us/stat/104/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F175
 [/us/pl/101/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F286
 

@@ -17,7 +17,7 @@
 
     The Secretary of Commerce and the Secretary of the Interior may each promulgate such regulations, in accordance with [section 553 of title 5][/us/usc/t5/s553], as may be necessary to carry out his functions under this chapter.
 
-([Pub. L. 96–561, title I, § 140][/us/pl/96/561/s140], Dec. 22, 1980, [94 Stat. 3286][/us/stat/94/3286].)
+([Pub. L. 96–561, title I][/us/pl/96/561/tI], § 140, Dec. 22, 1980, [94 Stat. 3286][/us/stat/94/3286].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/96/561/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs140
+[/us/pl/96/561/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtI
 [/us/stat/94/3286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3286
 
 

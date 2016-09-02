@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed to alter, amend, repeal, modify, or diminish the present general authority of the Secretary of Commerce to conduct studies, research, and investigations related to the mission of the Department of Commerce.
 
-([Pub. L. 89–720, § 5][/us/pl/89/720/s5], Nov. 2, 1966, [80 Stat. 1149][/us/stat/80/1149]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
+([Pub. L. 89–720][/us/pl/89/720], § 5, Nov. 2, 1966, [80 Stat. 1149][/us/stat/80/1149]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/89/720/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F720%2Fs5
+[/us/pl/89/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F720
 [/us/stat/80/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1149
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
 [/us/usc/t16/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1201

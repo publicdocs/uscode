@@ -305,7 +305,7 @@ SUBCHAPTER III—MIGRATORY BIRD CONSERVATION  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs715" data-uslm-ref="/us/usc/t16/s715">715</a>l, 715m.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs715l" data-uslm-ref="/us/usc/t16/s715l">715l</a>, 715m.  </td>
 
     <td> Repealed.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER III—MIGRATORY BIRD CONSERVATION  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs715" data-uslm-ref="/us/usc/t16/s715">715</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs715o" data-uslm-ref="/us/usc/t16/s715o">715o.</a>  </td>
 
     <td> National forest and power sites; use for migratory bird reservations.  </td>
 
@@ -481,7 +481,7 @@ SUBCHAPTER IV–A—PERMANENT ELECTRONIC DUCK STAMP  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs718" data-uslm-ref="/us/usc/t16/s718">718</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs718o" data-uslm-ref="/us/usc/t16/s718o">718o.</a>  </td>
 
     <td> Definitions.  </td>
 

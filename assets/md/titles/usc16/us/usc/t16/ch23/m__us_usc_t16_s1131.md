@@ -27,11 +27,11 @@
 
         A wilderness, in contrast with those areas where man and his own works dominate the landscape, is hereby recognized as an area where the earth and its community of life are untrammeled by man, where man himself is a visitor who does not remain. An area of wilderness is further defined to mean in this chapter an area of undeveloped Federal land retaining its primeval character and influence, without permanent improvements or human habitation, which is protected and managed so as to preserve its natural conditions and which (1) generally appears to have been affected primarily by the forces of nature, with the imprint of man’s work substantially unnoticeable; (2) has outstanding opportunities for solitude or a primitive and unconfined type of recreation; (3) has at least five thousand acres of land or is of sufficient size as to make practicable its preservation and use in an unimpaired condition; and (4) may also contain ecological, geological, or other features of scientific, educational, scenic, or historical value.
 
-([Pub. L. 88–577, § 2][/us/pl/88/577/s2], Sept. 3, 1964, [78 Stat. 890][/us/stat/78/890].)
+([Pub. L. 88–577][/us/pl/88/577], § 2, Sept. 3, 1964, [78 Stat. 890][/us/stat/78/890].)
 
  __Short Title__ 
 
-[Pub. L. 88–577, § 1][/us/pl/88/577/s1], Sept. 3, 1964, [78 Stat. 890][/us/stat/78/890], provided that: 
+[Pub. L. 88–577][/us/pl/88/577], § 1, Sept. 3, 1964, [78 Stat. 890][/us/stat/78/890], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Wilderness Act’.”
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/88/577/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577%2Fs2
+[/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890
-[/us/pl/88/577/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577%2Fs1
+[/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890
 
 

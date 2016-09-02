@@ -17,7 +17,7 @@
 
     The existence of a right-of-way easement or other reservation or exception in respect of such area shall not be a bar to its acquisition (1) if the Secretary of the Interior determines that any such reservation or exception will in no manner interfere with the use of the area for the purposes of sections 690 to 690i of this title, or (2) if in the deed or other conveyance it is stipulated that any reservation or exception in respect of such area, in favor of the person from whom the United States receives title, shall be subject to regulations prescribed under authority of sections 690 to 690i of this title.
 
-([Apr. 23, 1928, ch. 413, § 4][/us/act/1928-04-23/ch413/s4], [45 Stat. 449][/us/stat/45/449]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433].)
+([Apr. 23, 1928, ch. 413][/us/act/1928-04-23/ch413], § 4, [45 Stat. 449][/us/stat/45/449]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1928-04-23/ch413/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-04-23%2Fch413%2Fs4
+[/us/act/1928-04-23/ch413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-04-23%2Fch413
 [/us/stat/45/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F449
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
 [/us/usc/t16/s671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs671

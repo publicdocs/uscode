@@ -255,33 +255,33 @@
 
                 Purchasers shall be able to access their own information at any time through the Internet and on other means of communication elected by that utility for Smart Grid applications. Other interested persons shall be able to access information not specific to any purchaser through the Internet. Information specific to any purchaser shall be provided solely to that purchaser.
 
-([Pub. L. 95–617, title I, § 111][/us/pl/95/617/s111], Nov. 9, 1978, [92 Stat. 3121][/us/stat/92/3121]; [Pub. L. 102–486, title I, § 111(a)][/us/pl/102/486/s111/a], (b), title VII, § 712, Oct. 24, 1992, [106 Stat. 2795][/us/stat/106/2795], 2910; [Pub. L. 109–58, title XII][/us/pl/109/58], §§ 1251(a), 1252(a), 1254(a), Aug. 8, 2005, [119 Stat. 962][/us/stat/119/962], 963, 970; [Pub. L. 110–140, title V, § 532(a)][/us/pl/110/140/s532/a], title XIII, § 1307(a), Dec. 19, 2007, [121 Stat. 1665][/us/stat/121/1665], 1791; [Pub. L. 111–5, div. A, title IV, § 408(a)][/us/pl/111/5/s408/a], Feb. 17, 2009, [123 Stat. 146][/us/stat/123/146].)
+([Pub. L. 95–617, title I][/us/pl/95/617/tI], § 111, Nov. 9, 1978, [92 Stat. 3121][/us/stat/92/3121]; [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 111(a), (b), title VII, § 712, Oct. 24, 1992, [106 Stat. 2795][/us/stat/106/2795], 2910; [Pub. L. 109–58, title XII][/us/pl/109/58/tXII], §§ 1251(a), 1252(a), 1254(a), Aug. 8, 2005, [119 Stat. 962][/us/stat/119/962], 963, 970; [Pub. L. 110–140, title V][/us/pl/110/140/tV], § 532(a), title XIII, § 1307(a), Dec. 19, 2007, [121 Stat. 1665][/us/stat/121/1665], 1791; [Pub. L. 111–5, div. A, title IV][/us/pl/111/5/dA/tIV], § 408(a), Feb. 17, 2009, [123 Stat. 146][/us/stat/123/146].)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (a) and (c), was in the original “this title”, meaning title I (§ 101 et seq.) of [Pub. L. 95–617][/us/pl/95/617], Nov. 9, 1978, [92 Stat. 3120][/us/stat/92/3120], which enacted subchapters I to IV of this chapter and [section 6808 of Title 42][/us/usc/t42/s6808], The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
 
-    [Section 79z–5a of title 15][/us/usc/t15/s79z–5a], referred to in subsec. (d)(10)(A)(ii), was repealed by [Pub. L. 109–58, title XII, § 1263][/us/pl/109/58/s1263], Aug. 8, 2005, [119 Stat. 974][/us/stat/119/974].
+    [Section 79z–5a of title 15][/us/usc/t15/s79z–5a], referred to in subsec. (d)(10)(A)(ii), was repealed by [Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1263, Aug. 8, 2005, [119 Stat. 974][/us/stat/119/974].
 
  __Amendments__ 
 
     2009—Subsec. (d)(16) to (19). [Pub. L. 111–5][/us/pl/111/5] redesignated par. (16) relating to consideration of smart grid investments as (18) and par. (17) relating to smart grid information as (19).
 
-    2007—Subsec. (d)(16), (17). [Pub. L. 110–140, § 1307(a)][/us/pl/110/140/s1307/a], added pars. (16) and (17) relating to consideration of smart grid investments and smart grid information, respectively.
+    2007—Subsec. (d)(16), (17). [Pub. L. 110–140][/us/pl/110/140], § 1307(a), added pars. (16) and (17) relating to consideration of smart grid investments and smart grid information, respectively.
 
-    [Pub. L. 110–140, § 532(a)][/us/pl/110/140/s532/a], added pars. (16) and (17) relating to integrated resource planning and rate design modifications to promote energy efficiency investments, respectively.
+    [Pub. L. 110–140][/us/pl/110/140], § 532(a), added pars. (16) and (17) relating to integrated resource planning and rate design modifications to promote energy efficiency investments, respectively.
 
-    2005—Subsec. (d)(11) to (13). [Pub. L. 109–58, § 1251(a)][/us/pl/109/58/s1251/a], added pars. (11) to (13).
+    2005—Subsec. (d)(11) to (13). [Pub. L. 109–58][/us/pl/109/58], § 1251(a), added pars. (11) to (13).
 
-    Subsec. (d)(14). [Pub. L. 109–58, § 1252(a)][/us/pl/109/58/s1252/a], added par. (14).
+    Subsec. (d)(14). [Pub. L. 109–58][/us/pl/109/58], § 1252(a), added par. (14).
 
-    Subsec. (d)(15). [Pub. L. 109–58, § 1254(a)][/us/pl/109/58/s1254/a], added par. (15).
+    Subsec. (d)(15). [Pub. L. 109–58][/us/pl/109/58], § 1254(a), added par. (15).
 
-    1992—Subsec. (c)(3). [Pub. L. 102–486, § 111(b)][/us/pl/102/486/s111/b], added par. (3).
+    1992—Subsec. (c)(3). [Pub. L. 102–486][/us/pl/102/486], § 111(b), added par. (3).
 
-    Subsec. (d)(7) to (9). [Pub. L. 102–486, § 111(a)][/us/pl/102/486/s111/a], added pars. (7) to (9).
+    Subsec. (d)(7) to (9). [Pub. L. 102–486][/us/pl/102/486], § 111(a), added pars. (7) to (9).
 
-    Subsec. (d)(10). [Pub. L. 102–486, § 712][/us/pl/102/486/s712], added par. (10).
+    Subsec. (d)(10). [Pub. L. 102–486][/us/pl/102/486], § 712, added par. (10).
 
  __Effective Date of 2007 Amendment__ 
 
@@ -293,7 +293,7 @@
 
  __Report to President and Congress on Encouragement of Integrated Resource Planning and Investments in Conservation and Energy Efficiency by Electric Utilities__ 
 
-[Pub. L. 102–486, title I, § 111(e)][/us/pl/102/486/s111/e], Oct. 24, 1992, [106 Stat. 2796][/us/stat/106/2796], provided that: 
+[Pub. L. 102–486, title I][/us/pl/102/486/tI], § 111(e), Oct. 24, 1992, [106 Stat. 2796][/us/stat/106/2796], provided that: 
 
 > “Not later than 2 years after the date of the enactment of this Act \[Oct. 24, 1992\], the Secretary shall transmit a report to the President and to the Congress containing—
 
@@ -317,7 +317,7 @@
 
  __Study Concerning Electric Rates of State Utility Agencies__ 
 
-    [Pub. L. 95–617, title VI, § 601][/us/pl/95/617/s601], Nov. 9, 1978, [92 Stat. 3164][/us/stat/92/3164], directed the Secretary to conduct a study concerning the effects of provisions of Federal law on rates established by State utility agencies and to submit a report to Congress on the results of such study not later than 1 year after Nov. 9, 1978.
+    [Pub. L. 95–617, title VI][/us/pl/95/617/tVI], § 601, Nov. 9, 1978, [92 Stat. 3164][/us/stat/92/3164], directed the Secretary to conduct a study concerning the effects of provisions of Federal law on rates established by State utility agencies and to submit a report to Congress on the results of such study not later than 1 year after Nov. 9, 1978.
 
 ----------
 
@@ -336,44 +336,44 @@
 [/us/usc/t16/s2622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2622
 [/us/usc/t16/s2622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2622
 [/us/usc/t16/s2625/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2625%2Fi
-[/us/pl/95/617/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs111
+[/us/pl/95/617/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtI
 [/us/stat/92/3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3121
-[/us/pl/102/486/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs111%2Fa
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2795
-[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F962
-[/us/pl/110/140/s532/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs532%2Fa
+[/us/pl/110/140/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtV
 [/us/stat/121/1665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1665
-[/us/pl/111/5/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs408%2Fa
+[/us/pl/111/5/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtIV
 [/us/stat/123/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F146
 [/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
 [/us/stat/92/3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3120
 [/us/usc/t42/s6808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6808
 [/us/usc/t15/s79z–5a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs79z%E2%80%935a
-[/us/pl/109/58/s1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1263
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F974
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
-[/us/pl/110/140/s1307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1307%2Fa
-[/us/pl/110/140/s532/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs532%2Fa
-[/us/pl/109/58/s1251/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1251%2Fa
-[/us/pl/109/58/s1252/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1252%2Fa
-[/us/pl/109/58/s1254/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1254%2Fa
-[/us/pl/102/486/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs111%2Fb
-[/us/pl/102/486/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs111%2Fa
-[/us/pl/102/486/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs712
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824
 [/us/pl/102/486/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs712
 [/us/pl/102/486/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs731
 [/us/usc/t16/s796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs796
-[/us/pl/102/486/s111/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs111%2Fe
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2796
 [/us/usc/t16/s2621/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2621%2Fd%2F7
 [/us/pl/102/486/s111/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs111%2Fe
 [/us/pl/102/486/s115/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs115%2Fe
 [/us/usc/t15/s3203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3203
-[/us/pl/95/617/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs601
+[/us/pl/95/617/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtVI
 [/us/stat/92/3164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3164
 
 

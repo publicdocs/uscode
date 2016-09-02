@@ -25,7 +25,7 @@
 
     (4) indications of potential modifications to the external boundaries of the unit, and the reasons therefor.
 
-([Pub. L. 95–625, title XI, § 1109][/us/pl/95/625/s1109], Nov. 10, 1978, [92 Stat. 3548][/us/stat/92/3548].)
+([Pub. L. 95–625, title XI][/us/pl/95/625/tXI], § 1109, Nov. 10, 1978, [92 Stat. 3548][/us/stat/92/3548].)
 
  __Change of Name__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/95/625/s1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs1109
+[/us/pl/95/625/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtXI
 [/us/stat/92/3548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3548
 
 

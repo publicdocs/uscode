@@ -21,7 +21,7 @@
 
     (2) “Great Lakes fish and wildlife” means fauna, fish, and invertebrates dependent on Great Lakes resources, and located within the Great Lakes Basin.
 
-([Pub. L. 102–440, title II, § 204][/us/pl/102/440/s204], Oct. 23, 1992, [106 Stat. 2233][/us/stat/106/2233].)
+([Pub. L. 102–440, title II][/us/pl/102/440/tII], § 204, Oct. 23, 1992, [106 Stat. 2233][/us/stat/106/2233].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/102/440/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2Fs204
+[/us/pl/102/440/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2FtII
 [/us/stat/106/2233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2233
 
 

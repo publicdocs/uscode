@@ -23,7 +23,7 @@
 
     (c) develop documents for the reporting of suspected violations of this chapter and establish when and how those documents are to be completed by officers, employees, and agents of their respective agencies.
 
-([Pub. L. 96–95, § 14][/us/pl/96/95/s14], as added [Pub. L. 100–555][/us/pl/100/555], Oct. 28, 1988, [102 Stat. 2778][/us/stat/102/2778].)
+([Pub. L. 96–95][/us/pl/96/95], § 14, as added [Pub. L. 100–555][/us/pl/100/555], Oct. 28, 1988, [102 Stat. 2778][/us/stat/102/2778].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/96/95/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95%2Fs14
+[/us/pl/96/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95
 [/us/pl/100/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F555
 [/us/stat/102/2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2778
 

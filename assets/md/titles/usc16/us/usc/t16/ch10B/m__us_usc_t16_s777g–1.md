@@ -57,15 +57,15 @@
 
         (3) “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
 
-([Pub. L. 105–178, title VII, § 7404][/us/pl/105/178/s7404], June 9, 1998, [112 Stat. 486][/us/stat/112/486]; [Pub. L. 105–206, title IX, § 9012(c)][/us/pl/105/206/s9012/c], July 22, 1998, [112 Stat. 864][/us/stat/112/864]; [Pub. L. 109–59, title X, § 10115][/us/pl/109/59/s10115], Aug. 10, 2005, [119 Stat. 1928][/us/stat/119/1928].)
+([Pub. L. 105–178, title VII][/us/pl/105/178/tVII], § 7404, June 9, 1998, [112 Stat. 486][/us/stat/112/486]; [Pub. L. 105–206, title IX][/us/pl/105/206/tIX], § 9012(c), July 22, 1998, [112 Stat. 864][/us/stat/112/864]; [Pub. L. 109–59, title X][/us/pl/109/59/tX], § 10115, Aug. 10, 2005, [119 Stat. 1928][/us/stat/119/1928].)
 
  __References in Text__ 
 
-    Paragraph (4) of section 777c(a), referred to in subsec. (d)(1), was repealed by [Pub. L. 114–94, div. A, title X, § 10001(b)(1)(D)][/us/pl/114/94/s10001/b/1/D], Dec. 4, 2015, [129 Stat. 1620][/us/stat/129/1620]. See [section 777c(a)(3)(A) of this title][/us/usc/t16/s777c/a/3/A].
+    Paragraph (4) of section 777c(a), referred to in subsec. (d)(1), was repealed by [Pub. L. 114–94, div. A, title X][/us/pl/114/94/dA/tX], § 10001(b)(1)(D), Dec. 4, 2015, [129 Stat. 1620][/us/stat/129/1620]. See [section 777c(a)(3)(A) of this title][/us/usc/t16/s777c/a/3/A].
 
  __Codification__ 
 
-    Section is comprised of [section 7404 of Pub. L. 105–178][/us/pl/105/178/s7404]. Subsec. (b) of [section 7404 of Pub. L. 105–178][/us/pl/105/178/s7404], as amended by [Pub. L. 105–206, § 9012(c)][/us/pl/105/206/s9012/c], amended [section 777g of this title][/us/usc/t16/s777g].
+    Section is comprised of [section 7404 of Pub. L. 105–178][/us/pl/105/178/s7404]. Subsec. (b) of [section 7404 of Pub. L. 105–178][/us/pl/105/178/s7404], as amended by [Pub. L. 105–206][/us/pl/105/206], § 9012(c), amended [section 777g of this title][/us/usc/t16/s777g].
 
     Section was enacted as part of the Sportfishing and Boating Safety Act of 1998, and also as part of the Transportation Equity Act for the 21st Century, and not as part of the Fish Restoration and Management Projects Act which comprises this chapter.
 
@@ -73,7 +73,7 @@
 
     2005—Subsec. (d)(1). [Pub. L. 109–59][/us/pl/109/59] substituted “[section 777c(a)(4) of this title][/us/usc/t16/s777c/a/4]” for “[section 777c(b)(3)(B) of this title][/us/usc/t16/s777c/b/3/B]”.
 
-    1998—Subsec. (b). [Pub. L. 105–206, § 9012(c)][/us/pl/105/206/s9012/c], made a technical amendment to directory language of [Pub. L. 105–178, § 7404(b)][/us/pl/105/178/s7404/b]. See Codification note above.
+    1998—Subsec. (b). [Pub. L. 105–206][/us/pl/105/206], § 9012(c), made a technical amendment to directory language of [Pub. L. 105–178][/us/pl/105/178], § 7404(b). See Codification note above.
 
  __Effective Date of 2005 Amendments__ 
 
@@ -93,24 +93,24 @@
 ----------
 
 [/us/usc/t16/s777g/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777g%2Fg
-[/us/pl/105/178/s7404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7404
+[/us/pl/105/178/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtVII
 [/us/stat/112/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F486
-[/us/pl/105/206/s9012/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9012%2Fc
+[/us/pl/105/206/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIX
 [/us/stat/112/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F864
-[/us/pl/109/59/s10115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10115
+[/us/pl/109/59/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtX
 [/us/stat/119/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1928
-[/us/pl/114/94/s10001/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs10001%2Fb%2F1%2FD
+[/us/pl/114/94/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtX
 [/us/stat/129/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1620
 [/us/usc/t16/s777c/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c%2Fa%2F3%2FA
 [/us/pl/105/178/s7404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7404
 [/us/pl/105/178/s7404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7404
-[/us/pl/105/206/s9012/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9012%2Fc
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/usc/t16/s777g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777g
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t16/s777c/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c%2Fa%2F4
 [/us/usc/t16/s777c/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c%2Fb%2F3%2FB
-[/us/pl/105/206/s9012/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs9012%2Fc
-[/us/pl/105/178/s7404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7404%2Fb
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/109/74/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F74%2Fs101%2Fb
 [/us/usc/t16/s777b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777b

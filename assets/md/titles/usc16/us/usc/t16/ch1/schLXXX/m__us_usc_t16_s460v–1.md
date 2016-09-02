@@ -17,7 +17,7 @@
 
     The administration, protection, and development of the recreation area shall be by the Secretary of Agriculture (hereinafter called the “Secretary”) in accordance with the laws, rules, and regulations applicable to national forests, in a manner coordinated with the other purposes of the Colorado River storage project, and in such manner as in his judgment will best provide for (1) public outdoor recreation benefits; (2) conservation of scenic, scientific, historic, and other values contributing to public enjoyment; and (3) such management, utilization, and disposal of natural resources as in his judgment will promote or are compatible with, and do not significantly impair the purposes for which the recreation area is established: Provided, That lands or waters needed or used for the operation of the Colorado River storage project shall continue to be administered by the Secretary of the Interior to the extent he determines to be required for such operation.
 
-([Pub. L. 90–540, § 2][/us/pl/90/540/s2], Oct. 1, 1968, [82 Stat. 904][/us/stat/82/904].)
+([Pub. L. 90–540][/us/pl/90/540], § 2, Oct. 1, 1968, [82 Stat. 904][/us/stat/82/904].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/540/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F540%2Fs2
+[/us/pl/90/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F540
 [/us/stat/82/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F904
 
 

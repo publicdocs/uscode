@@ -23,7 +23,7 @@
 
     Any exchange or ultimate disposition under such regulation of archaeological resources excavated or removed from Indian lands shall be subject to the consent of the Indian or Indian tribe which owns or has jurisdiction over such lands. Following promulgation of regulations under this section, notwithstanding any other provision of law, such regulations shall govern the disposition of archaeological resources removed from public lands and Indian lands pursuant to this chapter.
 
-([Pub. L. 96–95, § 5][/us/pl/96/95/s5], Oct. 31, 1979, [93 Stat. 724][/us/stat/93/724]; [Pub. L. 113–287, § 5(d)(7)][/us/pl/113/287/s5/d/7], Dec. 19, 2014, [128 Stat. 3264][/us/stat/128/3264].)
+([Pub. L. 96–95][/us/pl/96/95], § 5, Oct. 31, 1979, [93 Stat. 724][/us/stat/93/724]; [Pub. L. 113–287][/us/pl/113/287], § 5(d)(7), Dec. 19, 2014, [128 Stat. 3264][/us/stat/128/3264].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/96/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95%2Fs5
+[/us/pl/96/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95
 [/us/stat/93/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F724
-[/us/pl/113/287/s5/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F7
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3264
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t16/s469–469c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs469%E2%80%93469c

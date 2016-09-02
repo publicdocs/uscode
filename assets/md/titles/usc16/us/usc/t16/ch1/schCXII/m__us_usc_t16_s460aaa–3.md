@@ -25,7 +25,7 @@
 
         (2) Any privately owned lands, interests in lands, or structures within the national recreation area shall not be disposed of by donation, exchange, sale, or other conveyance without first being offered at no more than fair market value to the Secretary. The Secretary shall be given a period of 120 days to accept an offer and, after such offer is accepted, a period of 45 days after the end of the fiscal year following the fiscal year in which the offer was accepted to acquire such lands, interests in lands, or structures. No such lands, interests in lands, or structures shall be sold or conveyed at a price below the price at which they have been offered for sale to the Secretary, and if such lands, interest in lands, or structures are re­offered for sale or conveyance they shall first be reoffered to the Secretary, except that this subsection shall not apply to a change in ownership of a property within the immediate family of the owner of record on January 1, 1989. For the purposes of this subsection, the term “immediate family” means, with respect to any such owner of record, the spouse, siblings, children (whether natural or adopted), stepchildren, and lineal descendants of that owner.
 
-([Pub. L. 101–292, § 4][/us/pl/101/292/s4], May 17, 1990, [104 Stat. 187][/us/stat/104/187].)
+([Pub. L. 101–292][/us/pl/101/292], § 4, May 17, 1990, [104 Stat. 187][/us/stat/104/187].)
 
 ----------
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t16/s460aaa–2/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460aaa%E2%80%932%2Fb%2F8
 [/us/usc/t16/s460aaa–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460aaa%E2%80%936
-[/us/pl/101/292/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F292%2Fs4
+[/us/pl/101/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F292
 [/us/stat/104/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F187
 
 

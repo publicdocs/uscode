@@ -31,7 +31,7 @@
 
         Except as otherwise provided in [section 460uu–32(b) of this title][/us/usc/t16/s460uu–32/b], within the conservation area the grazing of livestock shall be permitted to continue, pursuant to applicable Federal law, including this subchapter, and subject to such reasonable regulations, policies, and practices as the Secretary deems necessary.
 
-([Pub. L. 100–225, title III, § 302][/us/pl/100/225/s302], Dec. 31, 1987, [101 Stat. 1541][/us/stat/101/1541].)
+([Pub. L. 100–225, title III][/us/pl/100/225/tIII], § 302, Dec. 31, 1987, [101 Stat. 1541][/us/stat/101/1541].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 [/us/usc/t16/s460uu–21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460uu%E2%80%9321
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
 [/us/usc/t16/s460uu–32/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460uu%E2%80%9332%2Fb
-[/us/pl/100/225/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F225%2Fs302
+[/us/pl/100/225/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F225%2FtIII
 [/us/stat/101/1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1541
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
 [/us/stat/90/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2743

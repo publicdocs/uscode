@@ -27,7 +27,7 @@
 
     (5) act upon, or refer to any other appropriate authority, any other communication referred to in paragraph (1).
 
-([Pub. L. 104–43, title II, § 204][/us/pl/104/43/s204], Nov. 3, 1995, [109 Stat. 379][/us/stat/109/379].)
+([Pub. L. 104–43, title II][/us/pl/104/43/tII], § 204, Nov. 3, 1995, [109 Stat. 379][/us/stat/109/379].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/104/43/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs204
+[/us/pl/104/43/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtII
 [/us/stat/109/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F379
 
 

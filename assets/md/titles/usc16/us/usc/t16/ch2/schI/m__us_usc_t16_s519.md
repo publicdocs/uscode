@@ -17,7 +17,7 @@
 
     Inasmuch as small areas of land chiefly valuable for agriculture may of necessity or by inadvertence be included in tracts acquired under this Act, the Secretary of Agriculture may, in his discretion, and he is authorized, upon application or otherwise, to examine and ascertain the location and extent of such areas as in his opinion may be occupied for agricultural purposes without injury to the forests or to stream flow and which are not needed for public purposes, and may list and describe the same by metes and bounds, or otherwise, and offer them for sale as homesteads at their true value, to be fixed by him, to actual settlers, in tracts not exceeding eighty acres, in area, under such rules and regulations as he may prescribe; and in case of such sale the jurisdiction over the lands sold shall, ipso facto, revert to the State in which the lands sold lie. And no right, title, interest, or claim in or to any lands acquired under this Act, or the waters thereon, or the products, resources, or use thereof after such lands shall have been so acquired, shall be initiated or perfected, except as in this section provided.
 
-([Mar. 1, 1911, ch. 186, § 10][/us/act/1911-03-01/ch186/s10], [36 Stat. 962][/us/stat/36/962]; [Pub. L. 86–509, § 1(k)][/us/pl/86/509/s1/k], June 11, 1960, [74 Stat. 205][/us/stat/74/205].)
+([Mar. 1, 1911, ch. 186][/us/act/1911-03-01/ch186], § 10, [36 Stat. 962][/us/stat/36/962]; [Pub. L. 86–509][/us/pl/86/509], § 1(k), June 11, 1960, [74 Stat. 205][/us/stat/74/205].)
 
  __References in Text__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/act/1911-03-01/ch186/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-01%2Fch186%2Fs10
+[/us/act/1911-03-01/ch186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-01%2Fch186
 [/us/stat/36/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F962
-[/us/pl/86/509/s1/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F509%2Fs1%2Fk
+[/us/pl/86/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F509
 [/us/stat/74/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F205
 [/us/act/1911-03-01/ch186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-01%2Fch186
 [/us/stat/36/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F961

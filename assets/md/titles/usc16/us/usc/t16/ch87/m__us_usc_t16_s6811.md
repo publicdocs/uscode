@@ -31,7 +31,7 @@
 
         The failure to pay a recreation fee established under this chapter shall be punishable as a Class A or Class B misdemeanor, except that in the case of a first offense of nonpayment, the fine imposed may not exceed $100, notwithstanding [section 3571(e) of title 18][/us/usc/t18/s3571/e].
 
-([Pub. L. 108–447, div. J, title VIII, § 812][/us/pl/108/447/s812], Dec. 8, 2004, [118 Stat. 3390][/us/stat/118/3390].)
+([Pub. L. 108–447, div. J, title VIII][/us/pl/108/447/dJ/tVIII], § 812, Dec. 8, 2004, [118 Stat. 3390][/us/stat/118/3390].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t18/s3571/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3571%2Fe
-[/us/pl/108/447/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs812
+[/us/pl/108/447/dJ/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtVIII
 [/us/stat/118/3390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3390
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/stat/118/3377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3377

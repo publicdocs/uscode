@@ -17,7 +17,7 @@
 
     This chapter does not preempt a State law or local ordinance that provides for civil or criminal penalties for conduct that violates this chapter.
 
-([Pub. L. 103–322, title XXXII, § 320805][/us/pl/103/322/s320805], Sept. 13, 1994, [108 Stat. 2122][/us/stat/108/2122].)
+([Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320805, Sept. 13, 1994, [108 Stat. 2122][/us/stat/108/2122].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/322/s320805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320805
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2122
 
 

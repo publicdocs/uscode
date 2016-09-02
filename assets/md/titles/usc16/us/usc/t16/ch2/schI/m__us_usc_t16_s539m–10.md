@@ -27,7 +27,7 @@
 
         Venue for any civil action provided for in this section, as well as any civil action to contest the constitutionality of sections 539m to 539m–12 of this title, shall lie only in the United States District Court for the District of New Mexico.
 
-([Pub. L. 108–7, div. F, title IV, § 412][/us/pl/108/7/s412], Feb. 20, 2003, [117 Stat. 291][/us/stat/117/291].)
+([Pub. L. 108–7, div. F, title IV][/us/pl/108/7/dF/tIV], § 412, Feb. 20, 2003, [117 Stat. 291][/us/stat/117/291].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t5/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs706
-[/us/pl/108/7/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs412
+[/us/pl/108/7/dF/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtIV
 [/us/stat/117/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F291
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/stat/117/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F279

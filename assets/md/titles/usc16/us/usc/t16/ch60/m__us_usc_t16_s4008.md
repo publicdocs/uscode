@@ -37,7 +37,7 @@
 
         There are authorized to be appropriated from the Fund, for the purposes of carrying out the annual marketing and promotion plan and annual budget of the National Council under this chapter, such sums as are deposited in the Fund under subsection (b) of this section in each fiscal year beginning in fiscal year 1987 through fiscal year 1991.
 
-([Pub. L. 99–659, title II, § 209][/us/pl/99/659/s209], Nov. 14, 1986, [100 Stat. 3720][/us/stat/100/3720]; [Pub. L. 101–627, title VII, § 702][/us/pl/101/627/s702], Nov. 28, 1990, [104 Stat. 4463][/us/stat/104/4463].)
+([Pub. L. 99–659, title II][/us/pl/99/659/tII], § 209, Nov. 14, 1986, [100 Stat. 3720][/us/stat/100/3720]; [Pub. L. 101–627, title VII][/us/pl/101/627/tVII], § 702, Nov. 28, 1990, [104 Stat. 4463][/us/stat/104/4463].)
 
  __Codification__ 
 
@@ -56,9 +56,9 @@
 
 [/us/usc/t15/s713c–3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713c%E2%80%933%2Fb%2F2
 [/us/usc/t16/s4007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4007
-[/us/pl/99/659/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs209
+[/us/pl/99/659/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtII
 [/us/stat/100/3720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3720
-[/us/pl/101/627/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs702
+[/us/pl/101/627/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtVII
 [/us/stat/104/4463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4463
 [/us/pl/99/659/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs209
 [/us/pl/99/659/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs209

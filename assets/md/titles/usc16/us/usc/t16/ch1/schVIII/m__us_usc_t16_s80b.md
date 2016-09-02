@@ -17,7 +17,7 @@
 
     The National Park Service shall, under the rules and regulations to be prescribed by the Secretary of the Interior, administer for public recreational purposes the lands withdrawn.
 
-([Mar. 4, 1940, ch. 40, § 3][/us/act/1940-03-04/ch40/s3], [54 Stat. 44][/us/stat/54/44].)
+([Mar. 4, 1940, ch. 40][/us/act/1940-03-04/ch40], § 3, [54 Stat. 44][/us/stat/54/44].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1940-03-04/ch40/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-03-04%2Fch40%2Fs3
+[/us/act/1940-03-04/ch40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-03-04%2Fch40
 [/us/stat/54/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F44
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

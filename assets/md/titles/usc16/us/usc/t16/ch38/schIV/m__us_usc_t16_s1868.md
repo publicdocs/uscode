@@ -27,7 +27,7 @@
 
         There are authorized to be appropriated $2,000,000 for fiscal year 2007 through fiscal year 2009 to conduct this study.
 
-([Pub. L. 94–265, title III, § 319][/us/pl/94/265/s319], as added [Pub. L. 109–479, title II, § 205][/us/pl/109/479/s205], Jan. 12, 2007, [120 Stat. 3615][/us/stat/120/3615].)
+([Pub. L. 94–265, title III][/us/pl/94/265/tIII], § 319, as added [Pub. L. 109–479, title II][/us/pl/109/479/tII], § 205, Jan. 12, 2007, [120 Stat. 3615][/us/stat/120/3615].)
 
 ----------
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/94/265/s319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs319
-[/us/pl/109/479/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs205
+[/us/pl/94/265/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2FtIII
+[/us/pl/109/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtII
 [/us/stat/120/3615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3615
 
 

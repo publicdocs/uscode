@@ -17,7 +17,7 @@
 
     Any funds appropriated to the Department of the Interior for the acquisition of non-Federal lands within areas of the National Park System shall after August 6, 1956, be available for the acquisition of non-Federal lands within the Cape Hatteras National Seashore Recreational Area, and the appropriation of funds for the acquisition of such lands is authorized.
 
-([Aug. 6, 1956, ch. 988, § 2][/us/act/1956-08-06/ch988/s2], [70 Stat. 1066][/us/stat/70/1066].)
+([Aug. 6, 1956, ch. 988][/us/act/1956-08-06/ch988], § 2, [70 Stat. 1066][/us/stat/70/1066].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1956-08-06/ch988/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch988%2Fs2
+[/us/act/1956-08-06/ch988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch988
 [/us/stat/70/1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1066
 
 

@@ -49,7 +49,7 @@
 
         Except as otherwise provided, the Secretary shall have the authority to use condemnation as a means of acquiring a clear and marketable title, free of any and all encumbrances.
 
-([Pub. L. 92–400, § 3][/us/pl/92/400/s3], Aug. 22, 1972, [86 Stat. 612][/us/stat/86/612].)
+([Pub. L. 92–400][/us/pl/92/400], § 3, Aug. 22, 1972, [86 Stat. 612][/us/stat/86/612].)
 
 ----------
 
@@ -60,7 +60,7 @@
 
 [/us/usc/t16/s460aa–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460aa%E2%80%933
 [/us/usc/t16/s460aa/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460aa%2Fb
-[/us/pl/92/400/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F400%2Fs3
+[/us/pl/92/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F400
 [/us/stat/86/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F612
 
 

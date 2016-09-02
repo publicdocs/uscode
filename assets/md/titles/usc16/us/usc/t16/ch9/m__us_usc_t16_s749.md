@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act June 16, 1921, ch. 23, § 4][/us/act/1921-06-16/ch23/s4], [42 Stat. 63][/us/stat/42/63], provided for an advisory committee to report on condition and needs of the Fish and Wildlife Service, and is omitted since it was derived from an appropriation act and is obsolete.
+    Section, [act June 16, 1921, ch. 23][/us/act/1921-06-16/ch23], § 4, [42 Stat. 63][/us/stat/42/63], provided for an advisory committee to report on condition and needs of the Fish and Wildlife Service, and is omitted since it was derived from an appropriation act and is obsolete.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1921-06-16/ch23/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-06-16%2Fch23%2Fs4
+[/us/act/1921-06-16/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-06-16%2Fch23
 [/us/stat/42/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F63
 
 

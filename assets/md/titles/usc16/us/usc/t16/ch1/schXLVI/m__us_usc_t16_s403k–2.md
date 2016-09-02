@@ -17,7 +17,7 @@
 
     So much of the twenty-five-acre tract of land in Forney’s Creek Township, Swain County, North Carolina, lying north of Lake Cheoah, proposed to be donated to the United States by the Carolina Aluminum Company, as now lies outside of the park boundaries authorized by sections 403 and 403a to 403c of this title, shall upon acceptance by the Secretary of the Interior, become a part of the Great Smoky Mountains National Park and shall be subject to all laws, rules, and regulations applicable to said park.
 
-([July 26, 1950, ch. 492, § 3][/us/act/1950-07-26/ch492/s3], [64 Stat. 378][/us/stat/64/378].)
+([July 26, 1950, ch. 492][/us/act/1950-07-26/ch492], § 3, [64 Stat. 378][/us/stat/64/378].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1950-07-26/ch492/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-07-26%2Fch492%2Fs3
+[/us/act/1950-07-26/ch492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-07-26%2Fch492
 [/us/stat/64/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F378
 
 

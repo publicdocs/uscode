@@ -45,11 +45,11 @@
 
         (3) establish a Cane River National Heritage Area and Commission to be undertaken in partnership with the State of Louisiana, the City of Natchitoches, local communities and settlements of the Cane River area, preservation organizations, and private landowners, with full recognition that programs must fully involve the local communities and landowners.
 
-([Pub. L. 103–449, title III, § 302][/us/pl/103/449/s302], Nov. 2, 1994, [108 Stat. 4757][/us/stat/108/4757].)
+([Pub. L. 103–449, title III][/us/pl/103/449/tIII], § 302, Nov. 2, 1994, [108 Stat. 4757][/us/stat/108/4757].)
 
  __Short Title__ 
 
-[Pub. L. 103–449, title III, § 301][/us/pl/103/449/s301], Nov. 2, 1994, [108 Stat. 4757][/us/stat/108/4757], provided that: 
+[Pub. L. 103–449, title III][/us/pl/103/449/tIII], § 301, Nov. 2, 1994, [108 Stat. 4757][/us/stat/108/4757], provided that: 
 
 > “Titles III and IV of this Act \[enacting this subchapter\] may be cited as the ‘Cane River Creole National Historical Park and National Heritage Area Act’.”
 
@@ -60,9 +60,9 @@
 ----------
 ----------
 
-[/us/pl/103/449/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F449%2Fs302
+[/us/pl/103/449/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F449%2FtIII
 [/us/stat/108/4757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4757
-[/us/pl/103/449/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F449%2Fs301
+[/us/pl/103/449/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F449%2FtIII
 [/us/stat/108/4757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4757
 
 

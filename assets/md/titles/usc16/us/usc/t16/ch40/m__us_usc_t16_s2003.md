@@ -33,13 +33,13 @@
 
         (3) providing to Congress and the public, through reports, the information developed pursuant to paragraphs (1) and (2) of this subsection, and by providing Congress with an annual evaluation report as provided in [section 2006 of this title][/us/usc/t16/s2006].
 
-([Pub. L. 95–192, § 4][/us/pl/95/192/s4], Nov. 18, 1977, [91 Stat. 1407][/us/stat/91/1407]; [Pub. L. 113–79, title II, § 2508(a)][/us/pl/113/79/s2508/a], Feb. 7, 2014, [128 Stat. 756][/us/stat/128/756].)
+([Pub. L. 95–192][/us/pl/95/192], § 4, Nov. 18, 1977, [91 Stat. 1407][/us/stat/91/1407]; [Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2508(a), Feb. 7, 2014, [128 Stat. 756][/us/stat/128/756].)
 
  __Amendments__ 
 
-    2014—Subsec. (b). [Pub. L. 113–79, § 2508(a)(1)][/us/pl/113/79/s2508/a/1], inserted “and tribal” after “State” in two places in text.
+    2014—Subsec. (b). [Pub. L. 113–79][/us/pl/113/79], § 2508(a)(1), inserted “and tribal” after “State” in two places in text.
 
-    Subsec. (c)(2). [Pub. L. 113–79, § 2508(a)(2)][/us/pl/113/79/s2508/a/2], inserted “, tribal,” after “State”.
+    Subsec. (c)(2). [Pub. L. 113–79][/us/pl/113/79], § 2508(a)(2), inserted “, tribal,” after “State”.
 
  __Transfer of Functions__ 
 
@@ -53,12 +53,12 @@
 ----------
 
 [/us/usc/t16/s2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2006
-[/us/pl/95/192/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F192%2Fs4
+[/us/pl/95/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F192
 [/us/stat/91/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1407
-[/us/pl/113/79/s2508/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2508%2Fa
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F756
-[/us/pl/113/79/s2508/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2508%2Fa%2F1
-[/us/pl/113/79/s2508/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2508%2Fa%2F2
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/usc/t16/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2002
 
 

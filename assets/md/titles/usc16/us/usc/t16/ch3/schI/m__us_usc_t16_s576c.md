@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, the Secretary of Agriculture shall establish a “Supplemental National Forest Reforestation Fund”, and transfer to that fund beginning with the fiscal year, commencing July 1, 1972, and ending on September 30, 1987, such amounts as may be appropriated therefor. There is hereby authorized to be appropriated for such purpose for each of the fiscal years during such period the sum of $65,000,000.
 
-([Pub. L. 92–421, § 1][/us/pl/92/421/s1], Sept. 18, 1972, [86 Stat. 678][/us/stat/86/678]; [Pub. L. 94–273, § 2(9)][/us/pl/94/273/s2/9], Apr. 21, 1976, [90 Stat. 375][/us/stat/90/375].)
+([Pub. L. 92–421][/us/pl/92/421], § 1, Sept. 18, 1972, [86 Stat. 678][/us/stat/86/678]; [Pub. L. 94–273][/us/pl/94/273], § 2(9), Apr. 21, 1976, [90 Stat. 375][/us/stat/90/375].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/92/421/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F421%2Fs1
+[/us/pl/92/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F421
 [/us/stat/86/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F678
-[/us/pl/94/273/s2/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs2%2F9
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F375
 [/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 

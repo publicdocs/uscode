@@ -17,7 +17,7 @@
 
     Whenever consistent with the primary purposes of Denali National Park, the Act of February fifteenth, nineteen hundred and one, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  applicable to the location of rights of way in certain national parks and national forests for irrigation and other purposes, shall be and remain applicable to the lands included within the park.
 
-([Feb. 26, 1917, ch. 121, § 3][/us/act/1917-02-26/ch121/s3], [39 Stat. 938][/us/stat/39/938]; [Pub. L. 96–487, title II, § 202(3)(a)][/us/pl/96/487/s202/3/a], Dec. 2, 1980, [94 Stat. 2382][/us/stat/94/2382].)
+([Feb. 26, 1917, ch. 121][/us/act/1917-02-26/ch121], § 3, [39 Stat. 938][/us/stat/39/938]; [Pub. L. 96–487, title II][/us/pl/96/487/tII], § 202(3)(a), Dec. 2, 1980, [94 Stat. 2382][/us/stat/94/2382].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Change of Name__ 
 
-    “Denali National Park” substituted in text for “Mount McKinley National Park” pursuant to [Pub. L. 96–487, § 202(3)(a)][/us/pl/96/487/s202/3/a], which is classified to [section 410hh–1(3)(a) of this title][/us/usc/t16/s410hh–1/3/a] and which added lands to the park, established additional land as the Denali National Preserve, and redesignated the whole as the Denali National Park and Preserve.
+    “Denali National Park” substituted in text for “Mount McKinley National Park” pursuant to [Pub. L. 96–487][/us/pl/96/487], § 202(3)(a), which is classified to [section 410hh–1(3)(a) of this title][/us/usc/t16/s410hh–1/3/a] and which added lands to the park, established additional land as the Denali National Preserve, and redesignated the whole as the Denali National Park and Preserve.
 
 ----------
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/act/1917-02-26/ch121/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-02-26%2Fch121%2Fs3
+[/us/act/1917-02-26/ch121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-02-26%2Fch121
 [/us/stat/39/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F938
-[/us/pl/96/487/s202/3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs202%2F3%2Fa
+[/us/pl/96/487/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtII
 [/us/stat/94/2382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2382
 [/us/act/1901-02-15/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-02-15%2Fch372
 [/us/stat/31/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F790
@@ -44,7 +44,7 @@
 [/us/usc/t54/s100902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100902%2Fa
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
-[/us/pl/96/487/s202/3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs202%2F3%2Fa
+[/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/usc/t16/s410hh–1/3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410hh%E2%80%931%2F3%2Fa
 
 

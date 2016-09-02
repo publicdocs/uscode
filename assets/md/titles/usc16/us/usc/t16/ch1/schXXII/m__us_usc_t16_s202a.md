@@ -17,7 +17,7 @@
 
     After January 26, 1931, no permit, license, lease, or other authorization for the use of land within the Lassen Volcanic National Park, California, for the erection and maintenance of summer homes or cottages shall be granted or made: Provided, however, That the Secretary of the Interior may, in his discretion, renew any permit, license, lease, or other authorization for such purpose granted or made prior to January 26, 1931.
 
-([Jan. 26, 1931, ch. 47, § 3][/us/act/1931-01-26/ch47/s3], [46 Stat. 1043][/us/stat/46/1043].)
+([Jan. 26, 1931, ch. 47][/us/act/1931-01-26/ch47], § 3, [46 Stat. 1043][/us/stat/46/1043].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1931-01-26/ch47/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-01-26%2Fch47%2Fs3
+[/us/act/1931-01-26/ch47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-01-26%2Fch47
 [/us/stat/46/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1043
 
 

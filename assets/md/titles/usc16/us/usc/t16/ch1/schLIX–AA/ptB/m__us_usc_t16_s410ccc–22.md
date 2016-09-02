@@ -109,7 +109,7 @@
 
         The Commission shall submit an annual report to the Secretary identifying its expenses and any income, the entities to which any grants or technical assistance were made during the year for which the report is made, and actions that are planned for the following year.
 
-([Pub. L. 103–449, title IV, § 402][/us/pl/103/449/s402], Nov. 2, 1994, [108 Stat. 4761][/us/stat/108/4761].)
+([Pub. L. 103–449, title IV][/us/pl/103/449/tIV], § 402, Nov. 2, 1994, [108 Stat. 4761][/us/stat/108/4761].)
 
  __References in Text__ 
 
@@ -124,7 +124,7 @@
 
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/103/449/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F449%2Fs402
+[/us/pl/103/449/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F449%2FtIV
 [/us/stat/108/4761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4761
 [/us/pl/103/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F449
 [/us/pl/103/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F449

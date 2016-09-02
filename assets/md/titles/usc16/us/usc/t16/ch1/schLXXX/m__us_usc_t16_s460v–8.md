@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall deprive any State or political subdivision thereof of its right to exercise civil and criminal jurisdiction within the recreation area consistent with the provisions of this subchapter or of its right to tax persons, corporations, franchises, or other non-Federal property, including mineral or other interests, in or on lands or waters within the recreation area.
 
-([Pub. L. 90–540, § 9][/us/pl/90/540/s9], Oct. 1, 1968, [82 Stat. 905][/us/stat/82/905].)
+([Pub. L. 90–540][/us/pl/90/540], § 9, Oct. 1, 1968, [82 Stat. 905][/us/stat/82/905].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/540/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F540%2Fs9
+[/us/pl/90/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F540
 [/us/stat/82/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F905
 
 

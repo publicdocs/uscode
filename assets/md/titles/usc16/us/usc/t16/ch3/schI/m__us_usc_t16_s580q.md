@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, fees received by the National Tree Seed Laboratory, administered by the Forest Service, United States Department of Agriculture, for the provision of a tree seed testing service, shall be retained and deposited as a reimbursement to current appropriations used to cover the costs of providing such service.
 
-([Pub. L. 99–198, title XVII, § 1772][/us/pl/99/198/s1772], Dec. 23, 1985, [99 Stat. 1658][/us/stat/99/1658].)
+([Pub. L. 99–198, title XVII][/us/pl/99/198/tXVII], § 1772, Dec. 23, 1985, [99 Stat. 1658][/us/stat/99/1658].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/198/s1772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1772
+[/us/pl/99/198/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVII
 [/us/stat/99/1658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1658
 
 

@@ -17,7 +17,7 @@
 
     The Secretary of Health and Human Services shall provide medical and dental care to the Natives of the Pribilof Islands with or without reimbursement, as provided by other law. He is authorized to provide such care to Federal employees and their dependents and tourists and other persons in the Pribilof Islands at reasonable rates to be determined by him. He may purchase, lease, construct, operate, and maintain such facilities, supplies, and equipment as he deems necessary to carry out the provisions of this section; and the costs of such items, including medical and dental care, shall be charged to the budget of the Secretary of Health and Human Services. Nothing in this chapter shall be construed as superseding or limiting the authority and responsibility of the Secretary of Health and Human Services under the Act of August 5, 1954, as amended \[[42 U.S.C. 2001][/us/usc/t42/s2001] et seq.\], or any other law with respect to medical and dental care of natives or other persons in the Pribilof Islands.
 
-([Pub. L. 89–702, title II, § 204][/us/pl/89/702/s204], Nov. 2, 1966, [80 Stat. 1094][/us/stat/80/1094]; [Pub. L. 98–129, § 2][/us/pl/98/129/s2], Oct. 14, 1983, [97 Stat. 839][/us/stat/97/839].)
+([Pub. L. 89–702, title II][/us/pl/89/702/tII], § 204, Nov. 2, 1966, [80 Stat. 1094][/us/stat/80/1094]; [Pub. L. 98–129][/us/pl/98/129], § 2, Oct. 14, 1983, [97 Stat. 839][/us/stat/97/839].)
 
  __References in Text__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t42/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2001
-[/us/pl/89/702/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2Fs204
+[/us/pl/89/702/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2FtII
 [/us/stat/80/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1094
-[/us/pl/98/129/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129%2Fs2
+[/us/pl/98/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129
 [/us/stat/97/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F839
 [/us/act/1954-08-05/ch658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-05%2Fch658
 [/us/stat/68/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F674

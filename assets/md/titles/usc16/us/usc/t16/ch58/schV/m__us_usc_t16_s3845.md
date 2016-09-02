@@ -65,7 +65,7 @@
 
         (3) Other interested persons, as determined by the Secretary.
 
-([Pub. L. 99–198, title XII, § 1245][/us/pl/99/198/s1245], as added [Pub. L. 110–234, title II, § 2709][/us/pl/110/234/s2709], May 22, 2008, [122 Stat. 1081][/us/stat/122/1081], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2709, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1809.)
+([Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1245, as added [Pub. L. 110–234, title II][/us/pl/110/234/tII], § 2709, May 22, 2008, [122 Stat. 1081][/us/stat/122/1081], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title II, § 2709, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1809.)
 
  __References in Text__ 
 
@@ -77,7 +77,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 3845, [Pub. L. 99–198, title XII, § 1245][/us/pl/99/198/s1245], Dec. 23, 1985, [99 Stat. 1516][/us/stat/99/1516]; [Pub. L. 101–624, title XIV, § 1443][/us/pl/101/624/s1443], Nov. 28, 1990, [104 Stat. 3602][/us/stat/104/3602]; [Pub. L. 102–552, title V, § 516(b)(1)][/us/pl/102/552/s516/b/1], Oct. 28, 1992, [106 Stat. 4137][/us/stat/106/4137], related to authorization of appropriations, prior to the general amendment of this subchapter by [Pub. L. 104–127][/us/pl/104/127].
+    A prior section 3845, [Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1245, Dec. 23, 1985, [99 Stat. 1516][/us/stat/99/1516]; [Pub. L. 101–624, title XIV][/us/pl/101/624/tXIV], § 1443, Nov. 28, 1990, [104 Stat. 3602][/us/stat/104/3602]; [Pub. L. 102–552, title V][/us/pl/102/552/tV], § 516(b)(1), Oct. 28, 1992, [106 Stat. 4137][/us/stat/106/4137], related to authorization of appropriations, prior to the general amendment of this subchapter by [Pub. L. 104–127][/us/pl/104/127].
 
  __Effective Date__ 
 
@@ -90,21 +90,21 @@
 ----------
 ----------
 
-[/us/pl/99/198/s1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1245
-[/us/pl/110/234/s2709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2709
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/110/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtII
 [/us/stat/122/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1081
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/99/198/s1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1245
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
 [/us/stat/99/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1516
-[/us/pl/101/624/s1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1443
+[/us/pl/101/624/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXIV
 [/us/stat/104/3602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3602
-[/us/pl/102/552/s516/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2Fs516%2Fb%2F1
+[/us/pl/102/552/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F552%2FtV
 [/us/stat/106/4137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4137
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

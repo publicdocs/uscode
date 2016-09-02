@@ -65,7 +65,7 @@
 
         Except as specifically provided in subsection (b)(5), nothing in this section shall enlarge or diminish the responsibilities and authorities of the Secretary of Agriculture to manage the national forests.
 
-([Pub. L. 96–487, title V, § 505][/us/pl/96/487/s505], Dec. 2, 1980, [94 Stat. 2405][/us/stat/94/2405].)
+([Pub. L. 96–487, title V][/us/pl/96/487/tV], § 505, Dec. 2, 1980, [94 Stat. 2405][/us/stat/94/2405].)
 
 ----------
 
@@ -74,7 +74,7 @@
 ----------
 ----------
 
-[/us/pl/96/487/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs505
+[/us/pl/96/487/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtV
 [/us/stat/94/2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2405
 
 

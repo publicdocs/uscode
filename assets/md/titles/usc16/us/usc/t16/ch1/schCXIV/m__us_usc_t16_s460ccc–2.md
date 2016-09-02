@@ -37,7 +37,7 @@
 
         The Secretary may limit visitation and use of the conservation area as the Secretary finds appropriate for the protection of the resources of the conservation area.
 
-([Pub. L. 101–621, § 4][/us/pl/101/621/s4], Nov. 16, 1990, [104 Stat. 3343][/us/stat/104/3343].)
+([Pub. L. 101–621][/us/pl/101/621], § 4, Nov. 16, 1990, [104 Stat. 3343][/us/stat/104/3343].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 [/us/usc/t16/s460ccc–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460ccc%E2%80%931
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
 [/us/usc/t16/s460ccc–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460ccc%E2%80%933
-[/us/pl/101/621/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F621%2Fs4
+[/us/pl/101/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F621
 [/us/stat/104/3343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3343
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
 [/us/stat/90/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2743

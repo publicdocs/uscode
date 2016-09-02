@@ -39,7 +39,7 @@
 
         The Commission shall expire on the date that is 45 years after December 22, 1980.
 
-([Pub. L. 96–565, title I, § 108][/us/pl/96/565/s108], Dec. 22, 1980, [94 Stat. 3323][/us/stat/94/3323]; [Pub. L. 109–54, title I, § 128][/us/pl/109/54/s128], Aug. 2, 2005, [119 Stat. 525][/us/stat/119/525].)
+([Pub. L. 96–565, title I][/us/pl/96/565/tI], § 108, Dec. 22, 1980, [94 Stat. 3323][/us/stat/94/3323]; [Pub. L. 109–54, title I][/us/pl/109/54/tI], § 128, Aug. 2, 2005, [119 Stat. 525][/us/stat/119/525].)
 
  __References in Text__ 
 
@@ -56,9 +56,9 @@
 ----------
 ----------
 
-[/us/pl/96/565/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F565%2Fs108
+[/us/pl/96/565/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F565%2FtI
 [/us/stat/94/3323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3323
-[/us/pl/109/54/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54%2Fs128
+[/us/pl/109/54/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54%2FtI
 [/us/stat/119/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F525
 [/us/pl/96/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F565
 [/us/stat/94/3321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3321

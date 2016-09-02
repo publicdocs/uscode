@@ -17,7 +17,7 @@
 
     The presence of sponges of a diameter of less than five inches on any vessel or boat of the United States engaged in sponging in the waters of the Gulf of Mexico or the Straits of Florida outside of State territorial limits, or the possession of any sponges of less than the said diameter sold or delivered by such vessels, shall be prima facie evidence of a violation of the provisions of this chapter.
 
-([Aug. 15, 1914, ch. 253, § 2][/us/act/1914-08-15/ch253/s2], [38 Stat. 692][/us/stat/38/692].)
+([Aug. 15, 1914, ch. 253][/us/act/1914-08-15/ch253], § 2, [38 Stat. 692][/us/stat/38/692].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1914-08-15/ch253/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-08-15%2Fch253%2Fs2
+[/us/act/1914-08-15/ch253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-08-15%2Fch253
 [/us/stat/38/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F692
 
 

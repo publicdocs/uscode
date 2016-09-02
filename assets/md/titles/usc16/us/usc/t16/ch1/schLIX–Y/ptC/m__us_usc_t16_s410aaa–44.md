@@ -17,7 +17,7 @@
 
     Within six months after October 31, 1994, the Secretary shall file maps and a legal description of the preserve designated under this part with the Committee on Energy and Natural Resources of the United States Senate and the Committee on Natural Resources of the United States House of Representatives. Such maps and legal description shall have the same force and effect as if included in this part, except that the Secretary may correct clerical and typographical errors in such legal description and in the maps referred to in [section 410aaa–42 of this title][/us/usc/t16/s410aaa–42]. The maps and legal description shall be on file and available for public inspection in the appropriate offices of the National Park Service, Department of the Interior.
 
-([Pub. L. 103–433, title V, § 504][/us/pl/103/433/s504], Oct. 31, 1994, [108 Stat. 4490][/us/stat/108/4490].)
+([Pub. L. 103–433, title V][/us/pl/103/433/tV], § 504, Oct. 31, 1994, [108 Stat. 4490][/us/stat/108/4490].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s410aaa–42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410aaa%E2%80%9342
-[/us/pl/103/433/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs504
+[/us/pl/103/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtV
 [/us/stat/108/4490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4490
 
 

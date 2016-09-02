@@ -21,7 +21,7 @@
 
     (2) any authority of the Secretary or of the Commission under any other provision of law (including the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\] and the Natural Gas Act \[[15 U.S.C. 717][/us/usc/t15/s717] et seq.\]) respecting unfair methods of competition or anticompetitive acts or practices.
 
-([Pub. L. 95–617, § 4][/us/pl/95/617/s4], Nov. 9, 1978, [92 Stat. 3120][/us/stat/92/3120].)
+([Pub. L. 95–617][/us/pl/95/617], § 4, Nov. 9, 1978, [92 Stat. 3120][/us/stat/92/3120].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 [/us/usc/t15/s3202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3202
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/usc/t15/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717
-[/us/pl/95/617/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs4
+[/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
 [/us/stat/92/3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3120
 [/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
 [/us/stat/92/3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3117

@@ -23,7 +23,7 @@
 
         Not later than 1 year after October 24, 1992, the Commission shall promulgate a rule requiring that information be submitted annually to the Commission by transmitting utilities which is adequate to inform potential transmission customers, State regulatory authorities, and the public of potentially available transmission capacity and known constraints.
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 213, as added [Pub. L. 102–486, title VII, § 723][/us/pl/102/486/s723], Oct. 24, 1992, [106 Stat. 2919][/us/stat/106/2919].)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 213, as added [Pub. L. 102–486, title VII][/us/pl/102/486/tVII], § 723, Oct. 24, 1992, [106 Stat. 2919][/us/stat/106/2919].)
 
  __State Authorities; Construction__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
-[/us/pl/102/486/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs723
+[/us/pl/102/486/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtVII
 [/us/stat/106/2919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2919
 [/us/pl/102/486/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs731
 [/us/usc/t16/s796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs796

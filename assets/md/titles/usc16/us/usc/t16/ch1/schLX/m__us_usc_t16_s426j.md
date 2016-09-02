@@ -17,7 +17,7 @@
 
     The sum of $100,000, or so much thereof as may be necessary, is authorized to be appropriated, out of any moneys in the Treasury not otherwise appropriated, to be expended for the purposes of sections 426 to 426j of this title: Provided, That no obligation for the purchase of lands shall be incurred until the commission has fixed the boundaries of said battlefield.
 
-([Mar. 3, 1927, ch. 374, § 11][/us/act/1927-03-03/ch374/s11], [44 Stat. 1401][/us/stat/44/1401]; [Pub. L. 86–443, § 2][/us/pl/86/443/s2], Apr. 22, 1960, [74 Stat. 82][/us/stat/74/82].)
+([Mar. 3, 1927, ch. 374][/us/act/1927-03-03/ch374], § 11, [44 Stat. 1401][/us/stat/44/1401]; [Pub. L. 86–443][/us/pl/86/443], § 2, Apr. 22, 1960, [74 Stat. 82][/us/stat/74/82].)
 
  __Change of Name__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1927-03-03/ch374/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch374%2Fs11
+[/us/act/1927-03-03/ch374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch374
 [/us/stat/44/1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1401
-[/us/pl/86/443/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F443%2Fs2
+[/us/pl/86/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F443
 [/us/stat/74/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F82
 [/us/pl/86/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F443
 

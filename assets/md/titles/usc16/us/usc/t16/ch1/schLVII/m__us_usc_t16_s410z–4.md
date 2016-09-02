@@ -17,7 +17,7 @@
 
     When established as provided in [section 410z of this title][/us/usc/t16/s410z], the Boston National Historical Park shall be administered by the Secretary in accordance with the provisions of this subchapter, the Act of August 25, 1916 ([39 Stat. 535][/us/stat/39/535]), as amended and supplemented ([16 U.S.C. 1][/us/usc/t16/s1] et seq.), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and the Act of August 21, 1935 ([49 Stat. 666][/us/stat/49/666]; [16 U.S.C. 461–467][/us/usc/t16/s461–467]). <sup>\[1\]</sup> 
 
-([Pub. L. 93–431, § 6][/us/pl/93/431/s6], Oct. 1, 1974, [88 Stat. 1186][/us/stat/88/1186].)
+([Pub. L. 93–431][/us/pl/93/431], § 6, Oct. 1, 1974, [88 Stat. 1186][/us/stat/88/1186].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
 [/us/usc/t16/s461–467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461%E2%80%93467
-[/us/pl/93/431/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F431%2Fs6
+[/us/pl/93/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F431
 [/us/stat/88/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1186
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1

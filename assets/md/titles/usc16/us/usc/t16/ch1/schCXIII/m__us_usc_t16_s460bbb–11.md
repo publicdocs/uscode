@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such funds as may be necessary to carry out this subchapter and the amendments made by this subchapter.
 
-([Pub. L. 101–612, § 14][/us/pl/101/612/s14], Nov. 16, 1990, [104 Stat. 3222][/us/stat/104/3222].)
+([Pub. L. 101–612][/us/pl/101/612], § 14, Nov. 16, 1990, [104 Stat. 3222][/us/stat/104/3222].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/101/612/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612%2Fs14
+[/us/pl/101/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612
 [/us/stat/104/3222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3222
 [/us/pl/101/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612
 [/us/stat/104/3209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3209

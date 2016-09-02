@@ -17,7 +17,7 @@
 
     The boundary of Vicksburg National Military Park is modified to include the property known as Pemberton’s Headquarters, as generally depicted on the map entitled “Boundary Map, Pemberton’s Headquarters at Vicksburg National Military Park”, numbered 306/80015A, and dated August, 2001. The map shall be on file and available for inspection in the appropriate offices of the National Park Service.
 
-([Pub. L. 107–238, § 2][/us/pl/107/238/s2], Oct. 11, 2002, [116 Stat. 1486][/us/stat/116/1486].)
+([Pub. L. 107–238][/us/pl/107/238], § 2, Oct. 11, 2002, [116 Stat. 1486][/us/stat/116/1486].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/238/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F238%2Fs2
+[/us/pl/107/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F238
 [/us/stat/116/1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1486
 
 

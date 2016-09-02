@@ -17,7 +17,7 @@
 
     The Secretary of the Interior (hereinafter referred to as the “Secretary”) shall, beginning within thirty days after October 21, 1976, consult with the Governor of the State of Washington, the Board of Commissioners of Clallam County, and the affected landowners, and shall locate a boundary encompassing all of the shoreline of Lake Ozette, including privately owned aquatic lands not within the boundary of the park on October 21, 1976: Provided, That such boundary shall be located not less than two hundred feet set back from the ordinary high-water mark of Lake Ozette: Provided further, That the privately owned lands encompassed within the park by such boundary shall not exceed one thousand five hundred acres. The Secretary shall, within one hundred and eighty days after October 21, 1976, and following reasonable notice in writing to the Committees on Interior and Insular Affairs of the Senate and House of Representatives of his intention to do so, publish in the Federal Register a detailed description of the boundary located pursuant to this section. Upon such publication the Secretary is authorized to revise the map on file pursuant to [section 251e of this title][/us/usc/t16/s251e] accordingly, and such revised map shall have the same force and effect as if included in sections 251e to 251m of this title.
 
-([Pub. L. 94–578, title III, § 320(b)][/us/pl/94/578/s320/b], Oct. 21, 1976, [90 Stat. 2739][/us/stat/90/2739].)
+([Pub. L. 94–578, title III][/us/pl/94/578/tIII], § 320(b), Oct. 21, 1976, [90 Stat. 2739][/us/stat/90/2739].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t16/s251e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs251e
-[/us/pl/94/578/s320/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2Fs320%2Fb
+[/us/pl/94/578/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2FtIII
 [/us/stat/90/2739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2739
 [/us/pl/94/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578
 

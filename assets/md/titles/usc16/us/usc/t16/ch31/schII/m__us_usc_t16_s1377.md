@@ -59,7 +59,7 @@
 
             (B) no conviction results from an alleged violation of [section 1375(b) of this title][/us/usc/t16/s1375/b], such marine mammal or marine mammal product or other cargo shall immediately be returned to the owner or consignee if the Secretary does not, with  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “within”. </sup></sup>  thirty days after the final disposition of the case involving such alleged violation, commence proceedings for the assessment of a civil penalty under [section 1375(a) of this title][/us/usc/t16/s1375/a].
 
-([Pub. L. 92–522, title I, § 107][/us/pl/92/522/s107], Oct. 21, 1972, [86 Stat. 1037][/us/stat/86/1037]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 109–479, title IX, § 902(c)][/us/pl/109/479/s902/c], Jan. 12, 2007, [120 Stat. 3665][/us/stat/120/3665].)
+([Pub. L. 92–522, title I][/us/pl/92/522/tI], § 107, Oct. 21, 1972, [86 Stat. 1037][/us/stat/86/1037]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 109–479, title IX][/us/pl/109/479/tIX], § 902(c), Jan. 12, 2007, [120 Stat. 3665][/us/stat/120/3665].)
 
  __Amendments__ 
 
@@ -85,12 +85,12 @@
 [/us/usc/t16/s1375/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1375%2Fa
 [/us/usc/t16/s1375/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1375%2Fb
 [/us/usc/t16/s1375/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1375%2Fa
-[/us/pl/92/522/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs107
+[/us/pl/92/522/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtI
 [/us/stat/86/1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1037
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
-[/us/pl/109/479/s902/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs902%2Fc
+[/us/pl/109/479/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtIX
 [/us/stat/120/3665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3665
 [/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
 [/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321

@@ -19,7 +19,7 @@
 
     (b) The Secretary may transfer to the owner of the Old Nevada recreation facility the approximately 20 acres of Federal lands within the conservation area which, on March 1, 1994, were used to provide parking for visitors to such facility, in exchange for lands of equal or greater value within the conservation area acceptable to the Secretary.
 
-([Pub. L. 101–621, § 7][/us/pl/101/621/s7], Nov. 16, 1990, [104 Stat. 3344][/us/stat/104/3344]; [Pub. L. 103–450, § 2(b)][/us/pl/103/450/s2/b], Nov. 2, 1994, [108 Stat. 4766][/us/stat/108/4766].)
+([Pub. L. 101–621][/us/pl/101/621], § 7, Nov. 16, 1990, [104 Stat. 3344][/us/stat/104/3344]; [Pub. L. 103–450][/us/pl/103/450], § 2(b), Nov. 2, 1994, [108 Stat. 4766][/us/stat/108/4766].)
 
  __Amendments__ 
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/101/621/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F621%2Fs7
+[/us/pl/101/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F621
 [/us/stat/104/3344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3344
-[/us/pl/103/450/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F450%2Fs2%2Fb
+[/us/pl/103/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F450
 [/us/stat/108/4766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4766
 [/us/pl/103/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F450
 

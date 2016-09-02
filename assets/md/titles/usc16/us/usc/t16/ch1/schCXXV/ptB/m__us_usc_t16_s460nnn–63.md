@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall constitute an express or implied claim or denial on the part of the Federal Government as to exemption from State water laws.
 
-([Pub. L. 106–399, title II, § 203][/us/pl/106/399/s203], Oct. 30, 2000, [114 Stat. 1667][/us/stat/114/1667].)
+([Pub. L. 106–399, title II][/us/pl/106/399/tII], § 203, Oct. 30, 2000, [114 Stat. 1667][/us/stat/114/1667].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/106/399/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2Fs203
+[/us/pl/106/399/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2FtII
 [/us/stat/114/1667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1667
 [/us/pl/106/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399
 [/us/stat/114/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1655

@@ -21,7 +21,7 @@
 
     (2) has consulted with the county or other unit of local government in which such area is located and with the Governor of the State concerned or the appropriate State agency.
 
-([Feb. 18, 1929, ch. 257, § 4][/us/act/1929-02-18/ch257/s4], [45 Stat. 1223][/us/stat/45/1223]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; [Pub. L. 89–669, § 7(a)][/us/pl/89/669/s7/a], Oct. 15, 1966, [80 Stat. 929][/us/stat/80/929]; [Pub. L. 95–552, § 2][/us/pl/95/552/s2], Oct. 30, 1978, [92 Stat. 2071][/us/stat/92/2071].)
+([Feb. 18, 1929, ch. 257][/us/act/1929-02-18/ch257], § 4, [45 Stat. 1223][/us/stat/45/1223]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; [Pub. L. 89–669][/us/pl/89/669], § 7(a), Oct. 15, 1966, [80 Stat. 929][/us/stat/80/929]; [Pub. L. 95–552][/us/pl/95/552], § 2, Oct. 30, 1978, [92 Stat. 2071][/us/stat/92/2071].)
 
  __Amendments__ 
 
@@ -40,12 +40,12 @@
 ----------
 ----------
 
-[/us/act/1929-02-18/ch257/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-18%2Fch257%2Fs4
+[/us/act/1929-02-18/ch257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-18%2Fch257
 [/us/stat/45/1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1223
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
-[/us/pl/89/669/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F669%2Fs7%2Fa
+[/us/pl/89/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F669
 [/us/stat/80/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F929
-[/us/pl/95/552/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F552%2Fs2
+[/us/pl/95/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F552
 [/us/stat/92/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2071
 [/us/pl/95/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F552
 [/us/pl/89/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F669

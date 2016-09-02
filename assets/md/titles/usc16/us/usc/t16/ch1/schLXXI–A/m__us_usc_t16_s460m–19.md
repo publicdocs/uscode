@@ -33,7 +33,7 @@
 
         The owner of a mineral estate subject to this section who believes he has suffered a loss by operation of this section, may bring an action only in a United States district court to recover just compensation, which shall be awarded if the court finds that such loss constitutes a taking of property compensable under the Constitution.
 
-([Pub. L. 95–625, title XI, § 1105][/us/pl/95/625/s1105], Nov. 10, 1978, [92 Stat. 3546][/us/stat/92/3546].)
+([Pub. L. 95–625, title XI][/us/pl/95/625/tXI], § 1105, Nov. 10, 1978, [92 Stat. 3546][/us/stat/92/3546].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/95/625/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs1105
+[/us/pl/95/625/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtXI
 [/us/stat/92/3546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3546
 
 

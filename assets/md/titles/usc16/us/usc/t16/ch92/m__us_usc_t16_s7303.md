@@ -347,7 +347,7 @@
 
         (4) the Committee on Appropriations of the House of Representatives.
 
-([Pub. L. 111–11, title IV, § 4003][/us/pl/111/11/s4003], Mar. 30, 2009, [123 Stat. 1141][/us/stat/123/1141].)
+([Pub. L. 111–11, title IV][/us/pl/111/11/tIV], § 4003, Mar. 30, 2009, [123 Stat. 1141][/us/stat/123/1141].)
 
  __References in Text__ 
 
@@ -355,7 +355,7 @@
 
     The National Environmental Policy Act of 1969, referred to in subsec. (a)(2), is [Pub. L. 91–190][/us/pl/91/190], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852], which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42][/us/usc/t42/s4321] and Tables.
 
-    [Section 7125 of this title][/us/usc/t16/s7125], referred to in subsec. (b)(2)(B)(ii), was in the original “[section 205 of Public Law 106–393][/us/pl/106/393/s205] ([16 U.S.C. 500][/us/usc/t16/s500] note)” and was translated as referring to [section 205 of Pub. L. 106–393][/us/pl/106/393/s205] as added by [Pub. L. 110–343, div. C, title VI, § 601(a)][/us/pl/110/343/s601/a], Oct. 3, 2008, [122 Stat. 3905][/us/stat/122/3905], which is classified to [section 7125 of this title][/us/usc/t16/s7125]. A prior [section 205 of Pub. L. 106–393][/us/pl/106/393/s205] containing substantially similar provisions was set out in a note under [section 500 of this title][/us/usc/t16/s500] prior to repeal by [Pub. L. 110–343, div. C, title VI, § 601(a)][/us/pl/110/343/s601/a], Oct. 3, 2008, [122 Stat. 3893][/us/stat/122/3893].
+    [Section 7125 of this title][/us/usc/t16/s7125], referred to in subsec. (b)(2)(B)(ii), was in the original “[section 205 of Public Law 106–393][/us/pl/106/393/s205] ([16 U.S.C. 500][/us/usc/t16/s500] note)” and was translated as referring to [section 205 of Pub. L. 106–393][/us/pl/106/393/s205] as added by [Pub. L. 110–343, div. C, title VI][/us/pl/110/343/dC/tVI], § 601(a), Oct. 3, 2008, [122 Stat. 3905][/us/stat/122/3905], which is classified to [section 7125 of this title][/us/usc/t16/s7125]. A prior [section 205 of Pub. L. 106–393][/us/pl/106/393/s205] containing substantially similar provisions was set out in a note under [section 500 of this title][/us/usc/t16/s500] prior to repeal by [Pub. L. 110–343, div. C, title VI][/us/pl/110/343/dC/tVI], § 601(a), Oct. 3, 2008, [122 Stat. 3893][/us/stat/122/3893].
 
 ----------
 
@@ -367,7 +367,7 @@
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t16/s7125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7125
-[/us/pl/111/11/s4003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs4003
+[/us/pl/111/11/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtIV
 [/us/stat/123/1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1141
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F884
@@ -379,12 +379,12 @@
 [/us/pl/106/393/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393%2Fs205
 [/us/usc/t16/s500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs500
 [/us/pl/106/393/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393%2Fs205
-[/us/pl/110/343/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs601%2Fa
+[/us/pl/110/343/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtVI
 [/us/stat/122/3905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3905
 [/us/usc/t16/s7125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7125
 [/us/pl/106/393/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F393%2Fs205
 [/us/usc/t16/s500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs500
-[/us/pl/110/343/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs601%2Fa
+[/us/pl/110/343/dC/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtVI
 [/us/stat/122/3893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3893
 
 

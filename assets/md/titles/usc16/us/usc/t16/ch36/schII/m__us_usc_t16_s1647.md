@@ -31,7 +31,7 @@
 
         Funds appropriated under the authority of the McSweeney-McNary Act shall be available for expenditure for the programs authorized under this subchapter.
 
-([Pub. L. 95–307, § 8][/us/pl/95/307/s8], June 30, 1978, [92 Stat. 356][/us/stat/92/356].)
+([Pub. L. 95–307][/us/pl/95/307], § 8, June 30, 1978, [92 Stat. 356][/us/stat/92/356].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 [/us/stat/45/699-702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F699-702
 [/us/usc/t16/s581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs581
 [/us/usc/t7/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3101
-[/us/pl/95/307/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F307%2Fs8
+[/us/pl/95/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F307
 [/us/stat/92/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F356
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/stat/91/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F913

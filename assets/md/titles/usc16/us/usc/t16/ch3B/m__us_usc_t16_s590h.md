@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590g.md) | [Next](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590h–3.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h)
+[Previous](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590g–1 _us_usc_t16_s590g–2.md) | [Next](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590h–1 _us_usc_t16_s590h–2.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h)
 
 ## § 590h. Payments and grants of aid
 
-    (a) __Repealed.__  __[__  __Pub. L. 87–703, title I, § 101(2)__  __][/us/pl/87/703/s101/2]__  __,__  __Sept. 27, 1962__  __,__  __[__  __76 Stat. 605__  __][/us/stat/76/605]__ 
+    (a) __Repealed.__  __[__  __Pub. L. 87–703, title I__  __][/us/pl/87/703/tI]__  __, § 101(2),__  __Sept. 27, 1962__  __,__  __[__  __76 Stat. 605__  __][/us/stat/76/605]__ 
 
     (b) __Conservation and environmental assistance__ 
 
@@ -23,7 +23,7 @@
 
             The Secretary shall provide technical assistance, cost-share payments, and incentive payments to operators through the environmental quality incentives program in accordance with chapter 4 of subtitle D of title XII of the Food Security Act of 1985 \[[16 U.S.C. 3839aa][/us/usc/t16/s3839aa] et seq.\].
 
-        (2) __to (4) Repealed.__  __[__  __Pub. L. 104–127, title III, § 336(a)(1)(A)(i)(I)__  __][/us/pl/104/127/s336/a/1/A/i/I]__  __,__  __Apr. 4, 1996__  __,__  __[__  __110 Stat. 1004__  __][/us/stat/110/1004]__ 
+        (2) __to (4) Repealed.__  __[__  __Pub. L. 104–127, title III__  __][/us/pl/104/127/tIII]__  __, § 336(a)(1)(A)(i)(I),__  __Apr. 4, 1996__  __,__  __[__  __110 Stat. 1004__  __][/us/stat/110/1004]__ 
 
         (5) __State, county, and area committees__ 
 
@@ -207,13 +207,13 @@
 
         (6) In determining normal yield per acre for any farm under this section in the case of wheat or corn, the normal yield shall be the average yield per acre thereon for such commodity during the ten calendar years immediately preceding the calendar year in which such yield is determined, adjusted for abnormal weather conditions and trends in yields. If for any such year the data are not available, or there is no actual yield, then the normal yield for the farm shall be appraised in accordance with regulations of the Secretary, taking into consideration abnormal weather conditions, the normal yield for the county, and the yield in years for which data are available.
 
-    (d) __to (f) Repealed.__  __[__  __Pub. L. 104–127, title III, § 336(a)(1)(A)(ii)__  __][/us/pl/104/127/s336/a/1/A/ii]__  __,__  __Apr. 4, 1996__  __,__  __[__  __110 Stat. 1004__  __][/us/stat/110/1004]__ 
+    (d) __to (f) Repealed.__  __[__  __Pub. L. 104–127, title III__  __][/us/pl/104/127/tIII]__  __, § 336(a)(1)(A)(ii),__  __Apr. 4, 1996__  __,__  __[__  __110 Stat. 1004__  __][/us/stat/110/1004]__ 
 
     (g) __Assignment of payments__ 
 
         A payment that may be made to a producer under this section may be assigned only in accordance with regulations issued by the Secretary. This subsection shall not authorize any suit against or impose any liability on the Secretary, any disbursing agent, or any agency of the United States if payment is made to the producer without regard to the existence of any such assignment.
 
-([Apr. 27, 1935, ch. 85, § 8][/us/act/1935-04-27/ch85/s8], as added [Feb. 29, 1936, ch. 104, § 1][/us/act/1936-02-29/ch104/s1], [49 Stat. 1149][/us/stat/49/1149]; amended [June 28, 1937, ch. 395, § 1][/us/act/1937-06-28/ch395/s1], [50 Stat. 329][/us/stat/50/329]; [Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title I, §§ 101, 102, 103, [52 Stat. 31][/us/stat/52/31], 34, 35; [Apr. 7, 1938, ch. 107][/us/act/1938-04-07/ch107], §§ 16–18, [52 Stat. 204][/us/stat/52/204], 205; [Apr. 10, 1939, ch. 48][/us/act/1939-04-10/ch48], [53 Stat. 573][/us/stat/53/573]; [May 14, 1940, ch. 200][/us/act/1940-05-14/ch200], [54 Stat. 216][/us/stat/54/216]; [July 2, 1940, ch. 521, § 2][/us/act/1940-07-02/ch521/s2], [54 Stat. 727][/us/stat/54/727]; [June 21, 1941, ch. 217][/us/act/1941-06-21/ch217], [55 Stat. 257][/us/stat/55/257]; [Dec. 26, 1941, ch. 626, § 1][/us/act/1941-12-26/ch626/s1], [55 Stat. 860][/us/stat/55/860]; [Feb. 6, 1942, ch. 44, § 4][/us/act/1942-02-06/ch44/s4], [56 Stat. 53][/us/stat/56/53]; [Sept. 29, 1942, ch. 568][/us/act/1942-09-29/ch568], [56 Stat. 761][/us/stat/56/761]; [Sept. 21, 1944, ch. 412][/us/act/1944-09-21/ch412], title III, § 301, [58 Stat. 737][/us/stat/58/737]; [July 25, 1946, ch. 642][/us/act/1946-07-25/ch642], [60 Stat. 663][/us/stat/60/663]; [July 3, 1948, ch. 827][/us/act/1948-07-03/ch827], title I, § 4, [62 Stat. 1250][/us/stat/62/1250]; [Sept. 23, 1950, ch. 997][/us/act/1950-09-23/ch997], [64 Stat. 978][/us/stat/64/978]; [May 26, 1952, ch. 335][/us/act/1952-05-26/ch335], [66 Stat. 95][/us/stat/66/95]; [Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title V, § 501, [68 Stat. 907][/us/stat/68/907]; [Aug. 9, 1955, ch. 624][/us/act/1955-08-09/ch624], [69 Stat. 545][/us/stat/69/545]; [Apr. 6, 1956, ch. 186][/us/act/1956-04-06/ch186], [70 Stat. 105][/us/stat/70/105]; [July 24, 1956, ch. 668][/us/act/1956-07-24/ch668], [70 Stat. 597][/us/stat/70/597]; [Pub. L. 85–553][/us/pl/85/553], July 25, 1958, [72 Stat. 414][/us/stat/72/414]; [Pub. L. 86–70, § 13(a)][/us/pl/86/70/s13/a], June 25, 1959, [73 Stat. 143][/us/stat/73/143]; [Pub. L. 86–624, § 8(a)][/us/pl/86/624/s8/a], July 12, 1960, [74 Stat. 412][/us/stat/74/412]; [Pub. L. 87–703, title I, § 101(2)][/us/pl/87/703/s101/2], (3), Sept. 27, 1962, [76 Stat. 605][/us/stat/76/605], 606; [Pub. L. 88–534, § 1][/us/pl/88/534/s1], Aug. 31, 1964, [78 Stat. 743][/us/stat/78/743]; [Pub. L. 89–742][/us/pl/89/742], Nov. 2, 1966, [80 Stat. 1167][/us/stat/80/1167]; [Pub. L. 92–419, title VI][/us/pl/92/419], §§ 605, 606(2)–(5), Aug. 30, 1972, [86 Stat. 676][/us/stat/86/676], 677; [Pub. L. 95–113, title XV, § 1501(a)][/us/pl/95/113/s1501/a], Sept. 29, 1977, [91 Stat. 1019][/us/stat/91/1019]; [Pub. L. 96–294, title II, § 259][/us/pl/96/294/s259], June 30, 1980, [94 Stat. 709][/us/stat/94/709]; [Pub. L. 99–198, title XVII][/us/pl/99/198], §§ 1711(a), 1712, Dec. 23, 1985, [99 Stat. 1635][/us/stat/99/1635], 1636; [Pub. L. 99–253, § 3][/us/pl/99/253/s3], Feb. 28, 1986, [100 Stat. 36][/us/stat/100/36]; [Pub. L. 99–500, § 101(a)][/us/pl/99/500/s101/a] \[title VI, § 645\], Oct. 18, 1986, [100 Stat. 1783][/us/stat/100/1783], 1783–36, and [Pub. L. 99–591, § 101(a)][/us/pl/99/591/s101/a] \[title VI, § 645\], Oct. 30, 1986, [100 Stat. 3341][/us/stat/100/3341], 3341–36; [Pub. L. 99–641, title II, § 204][/us/pl/99/641/s204], Nov. 10, 1986, [100 Stat. 3563][/us/stat/100/3563]; [Pub. L. 101–624, title XI, § 1146][/us/pl/101/624/s1146], Nov. 28, 1990, [104 Stat. 3516][/us/stat/104/3516]; [Pub. L. 102–237, title II, § 202][/us/pl/102/237/s202], Dec. 13, 1991, [105 Stat. 1848][/us/stat/105/1848]; [Pub. L. 103–354, title II, § 227(a)][/us/pl/103/354/s227/a], Oct. 13, 1994, [108 Stat. 3216][/us/stat/108/3216]; [Pub. L. 104–127, title III, § 336(a)(1)(A)][/us/pl/104/127/s336/a/1/A], Apr. 4, 1996, [110 Stat. 1004][/us/stat/110/1004]; [Pub. L. 107–171, title X, § 10708(b)][/us/pl/107/171/s10708/b], May 13, 2002, [116 Stat. 522][/us/stat/116/522]; [Pub. L. 110–234, title I, § 1615][/us/pl/110/234/s1615], May 22, 2008, [122 Stat. 1021][/us/stat/122/1021]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title I, § 1615, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1749.)
+([Apr. 27, 1935, ch. 85][/us/act/1935-04-27/ch85], § 8, as added [Feb. 29, 1936, ch. 104][/us/act/1936-02-29/ch104], § 1, [49 Stat. 1149][/us/stat/49/1149]; amended [June 28, 1937, ch. 395][/us/act/1937-06-28/ch395], § 1, [50 Stat. 329][/us/stat/50/329]; [Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title I, §§ 101, 102, 103, [52 Stat. 31][/us/stat/52/31], 34, 35; [Apr. 7, 1938, ch. 107][/us/act/1938-04-07/ch107], §§ 16–18, [52 Stat. 204][/us/stat/52/204], 205; [Apr. 10, 1939, ch. 48][/us/act/1939-04-10/ch48], [53 Stat. 573][/us/stat/53/573]; [May 14, 1940, ch. 200][/us/act/1940-05-14/ch200], [54 Stat. 216][/us/stat/54/216]; [July 2, 1940, ch. 521][/us/act/1940-07-02/ch521], § 2, [54 Stat. 727][/us/stat/54/727]; [June 21, 1941, ch. 217][/us/act/1941-06-21/ch217], [55 Stat. 257][/us/stat/55/257]; [Dec. 26, 1941, ch. 626][/us/act/1941-12-26/ch626], § 1, [55 Stat. 860][/us/stat/55/860]; [Feb. 6, 1942, ch. 44][/us/act/1942-02-06/ch44], § 4, [56 Stat. 53][/us/stat/56/53]; [Sept. 29, 1942, ch. 568][/us/act/1942-09-29/ch568], [56 Stat. 761][/us/stat/56/761]; [Sept. 21, 1944, ch. 412][/us/act/1944-09-21/ch412], title III, § 301, [58 Stat. 737][/us/stat/58/737]; [July 25, 1946, ch. 642][/us/act/1946-07-25/ch642], [60 Stat. 663][/us/stat/60/663]; [July 3, 1948, ch. 827][/us/act/1948-07-03/ch827], title I, § 4, [62 Stat. 1250][/us/stat/62/1250]; [Sept. 23, 1950, ch. 997][/us/act/1950-09-23/ch997], [64 Stat. 978][/us/stat/64/978]; [May 26, 1952, ch. 335][/us/act/1952-05-26/ch335], [66 Stat. 95][/us/stat/66/95]; [Aug. 28, 1954, ch. 1041][/us/act/1954-08-28/ch1041], title V, § 501, [68 Stat. 907][/us/stat/68/907]; [Aug. 9, 1955, ch. 624][/us/act/1955-08-09/ch624], [69 Stat. 545][/us/stat/69/545]; [Apr. 6, 1956, ch. 186][/us/act/1956-04-06/ch186], [70 Stat. 105][/us/stat/70/105]; [July 24, 1956, ch. 668][/us/act/1956-07-24/ch668], [70 Stat. 597][/us/stat/70/597]; [Pub. L. 85–553][/us/pl/85/553], July 25, 1958, [72 Stat. 414][/us/stat/72/414]; [Pub. L. 86–70][/us/pl/86/70], § 13(a), June 25, 1959, [73 Stat. 143][/us/stat/73/143]; [Pub. L. 86–624][/us/pl/86/624], § 8(a), July 12, 1960, [74 Stat. 412][/us/stat/74/412]; [Pub. L. 87–703, title I][/us/pl/87/703/tI], § 101(2), (3), Sept. 27, 1962, [76 Stat. 605][/us/stat/76/605], 606; [Pub. L. 88–534][/us/pl/88/534], § 1, Aug. 31, 1964, [78 Stat. 743][/us/stat/78/743]; [Pub. L. 89–742][/us/pl/89/742], Nov. 2, 1966, [80 Stat. 1167][/us/stat/80/1167]; [Pub. L. 92–419, title VI][/us/pl/92/419/tVI], §§ 605, 606(2)–(5), Aug. 30, 1972, [86 Stat. 676][/us/stat/86/676], 677; [Pub. L. 95–113, title XV][/us/pl/95/113/tXV], § 1501(a), Sept. 29, 1977, [91 Stat. 1019][/us/stat/91/1019]; [Pub. L. 96–294, title II][/us/pl/96/294/tII], § 259, June 30, 1980, [94 Stat. 709][/us/stat/94/709]; [Pub. L. 99–198, title XVII][/us/pl/99/198/tXVII], §§ 1711(a), 1712, Dec. 23, 1985, [99 Stat. 1635][/us/stat/99/1635], 1636; [Pub. L. 99–253][/us/pl/99/253], § 3, Feb. 28, 1986, [100 Stat. 36][/us/stat/100/36]; [Pub. L. 99–500][/us/pl/99/500], § 101(a) \[title VI, § 645\], Oct. 18, 1986, [100 Stat. 1783][/us/stat/100/1783], 1783–36, and [Pub. L. 99–591][/us/pl/99/591], § 101(a) \[title VI, § 645\], Oct. 30, 1986, [100 Stat. 3341][/us/stat/100/3341], 3341–36; [Pub. L. 99–641, title II][/us/pl/99/641/tII], § 204, Nov. 10, 1986, [100 Stat. 3563][/us/stat/100/3563]; [Pub. L. 101–624, title XI][/us/pl/101/624/tXI], § 1146, Nov. 28, 1990, [104 Stat. 3516][/us/stat/104/3516]; [Pub. L. 102–237, title II][/us/pl/102/237/tII], § 202, Dec. 13, 1991, [105 Stat. 1848][/us/stat/105/1848]; [Pub. L. 103–354, title II][/us/pl/103/354/tII], § 227(a), Oct. 13, 1994, [108 Stat. 3216][/us/stat/108/3216]; [Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 336(a)(1)(A), Apr. 4, 1996, [110 Stat. 1004][/us/stat/110/1004]; [Pub. L. 107–171, title X][/us/pl/107/171/tX], § 10708(b), May 13, 2002, [116 Stat. 522][/us/stat/116/522]; [Pub. L. 110–234, title I][/us/pl/110/234/tI], § 1615, May 22, 2008, [122 Stat. 1021][/us/stat/122/1021]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title I, § 1615, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1749.)
 
  __References in Text__ 
 
@@ -229,7 +229,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (b)(5)(B)(ii). [Pub. L. 110–246, § 1615][/us/pl/110/246/s1615], designated existing provisions as subcl. (I), inserted heading, substituted “Except as provided in subclause (II), a committee established” for “A committee established” in introductory provisions, redesignated former subcls. (I) and (II) as items (aa) and (bb), respectively, and added subcls. (II) to (IV).
+    2008—Subsec. (b)(5)(B)(ii). [Pub. L. 110–246][/us/pl/110/246], § 1615, designated existing provisions as subcl. (I), inserted heading, substituted “Except as provided in subclause (II), a committee established” for “A committee established” in introductory provisions, redesignated former subcls. (I) and (II) as items (aa) and (bb), respectively, and added subcls. (II) to (IV).
 
     2002—Subsec. (b)(5)(B). [Pub. L. 107–171][/us/pl/107/171] added subpar. (B) and struck out former subpar. (B) which read as follows:
 
@@ -243,11 +243,11 @@
 
     “(v) Members of each county, area, or local committee shall serve for terms not to exceed 3 years.”
 
-    1996—Subsec. (b)(1) to (4). [Pub. L. 104–127, § 336(a)(1)(A)(i)(I)][/us/pl/104/127/s336/a/1/A/i/I], added par. (1) and struck out former pars. (1) to (4), which related to authorization to provide and eligibility for financial assistance in par. (1), description of purposes of assistance in par. (2), amount of assistance in par. (3), and factors to be considered in formulating national program in par. (4).
+    1996—Subsec. (b)(1) to (4). [Pub. L. 104–127][/us/pl/104/127], § 336(a)(1)(A)(i)(I), added par. (1) and struck out former pars. (1) to (4), which related to authorization to provide and eligibility for financial assistance in par. (1), description of purposes of assistance in par. (2), amount of assistance in par. (3), and factors to be considered in formulating national program in par. (4).
 
-    Subsec. (b)(6) to (8). [Pub. L. 104–127, § 336(a)(1)(A)(i)(II)][/us/pl/104/127/s336/a/1/A/i/II], struck out pars. (6) to (8), which related to payments for conservation materials and services in par. (6), appropriations for farming materials and soil-terracing services in par. (7), and agreements with agricultural producers creating obligations in advance of appropriations in par. (8).
+    Subsec. (b)(6) to (8). [Pub. L. 104–127][/us/pl/104/127], § 336(a)(1)(A)(i)(II), struck out pars. (6) to (8), which related to payments for conservation materials and services in par. (6), appropriations for farming materials and soil-terracing services in par. (7), and agreements with agricultural producers creating obligations in advance of appropriations in par. (8).
 
-    Subsecs. (d) to (f). [Pub. L. 104–127, § 336(a)(1)(A)(ii)][/us/pl/104/127/s336/a/1/A/ii], struck out subsecs. (d) to (f), which related to conditions affecting payments or grants of aid in subsec. (d), distribution of payments among landlords, tenants, and sharecroppers in subsec. (e), and change between landlord and tenants or sharecroppers affecting landlord’s payments in subsec. (f).
+    Subsecs. (d) to (f). [Pub. L. 104–127][/us/pl/104/127], § 336(a)(1)(A)(ii), struck out subsecs. (d) to (f), which related to conditions affecting payments or grants of aid in subsec. (d), distribution of payments among landlords, tenants, and sharecroppers in subsec. (e), and change between landlord and tenants or sharecroppers affecting landlord’s payments in subsec. (f).
 
     1994—Subsec. (b). [Pub. L. 103–354][/us/pl/103/354] designated first through eighth undesignated pars. as pars. (1) to (8), respectively, added par. (5), and struck out former par. (5) which related to State and local committees.
 
@@ -259,35 +259,35 @@
 
     [Pub. L. 99–253][/us/pl/99/253], in fifth par., substituted “local committee” for “community committee” and provisions that each local administrative area have one local committee of at least three members elected to three-year terms in a local election to be held every third year, with exception for more than one local committee per administrative area, that only one local administrative area hold an election in any given year, that only farmers who are producers who participate or cooperate in the programs within their area be eligible for nomination and election, with this requirement not applying to any county that, on Dec. 23, 1985, had less than three local administrative areas, and that only farmers who are participating or cooperating producers within an area be eligible to vote in the election in that area, for provisions that farmers within any local administrative area, participating or cooperating in programs administered within such area, elect from among their number a local committee of not more than three members, with each member elected for a three-year term.
 
-    1985—Subsec. (b). [Pub. L. 99–198, § 1712][/us/pl/99/198/s1712], in first sentence of fifth par., substituted “In carrying out the provisions of this section in the States of the Union, except Alaska, and as otherwise directed by law with respect to other programs and functions, the Secretary is directed to utilize the services of local and State committees selected as hereinafter provided; and the Secretary may use the services of such committees in carrying out other programs and functions of the Department of Agriculture” for “In carrying out the provisions of this section in the States of the Union, except Alaska, the Secretary is directed to utilize the services of local and State committees selected as hereinafter provided”.
+    1985—Subsec. (b). [Pub. L. 99–198][/us/pl/99/198], § 1712, in first sentence of fifth par., substituted “In carrying out the provisions of this section in the States of the Union, except Alaska, and as otherwise directed by law with respect to other programs and functions, the Secretary is directed to utilize the services of local and State committees selected as hereinafter provided; and the Secretary may use the services of such committees in carrying out other programs and functions of the Department of Agriculture” for “In carrying out the provisions of this section in the States of the Union, except Alaska, the Secretary is directed to utilize the services of local and State committees selected as hereinafter provided”.
 
-    [Pub. L. 99–198, § 1711(a)(1)][/us/pl/99/198/s1711/a/1], in third sentence of fifth par., substituted “There shall be 3 local administrative areas in each county, except that, in counties with less than one hundred and fifty farmers, the county committee selected as hereinafter provided may reduce the number of local administrative areas to one, and except that the Secretary may include more than one county or parts of different counties in a local administrative area when the Secretary determines that there are insufficient farmers in an area to establish a slate of candidates for a community committee and hold an election” for “No such local area shall include more than one county or parts of different counties”.
+    [Pub. L. 99–198][/us/pl/99/198], § 1711(a)(1), in third sentence of fifth par., substituted “There shall be 3 local administrative areas in each county, except that, in counties with less than one hundred and fifty farmers, the county committee selected as hereinafter provided may reduce the number of local administrative areas to one, and except that the Secretary may include more than one county or parts of different counties in a local administrative area when the Secretary determines that there are insufficient farmers in an area to establish a slate of candidates for a community committee and hold an election” for “No such local area shall include more than one county or parts of different counties”.
 
-    [Pub. L. 99–198, § 1711(a)(2)][/us/pl/99/198/s1711/a/2], in fourth sentence of fifth par., struck out “annually” after “shall elect”.
+    [Pub. L. 99–198][/us/pl/99/198], § 1711(a)(2), in fourth sentence of fifth par., struck out “annually” after “shall elect”.
 
-    [Pub. L. 99–198, § 1711(a)(3)][/us/pl/99/198/s1711/a/3], in fifth par., inserted provisions directing that each member of a local committee be elected for a term of 3 years, that each local committee meet (A) once each year and shall receive compensation for such meeting by the Secretary at not less than the level in effect on December 31, 1985, and (B) at the direction of the county committee and with the approval of the State committee, such additional times during the year as may be necessary to carry out this section without compensation, and that the meetings of a local committee shall be held on different days of the year.
+    [Pub. L. 99–198][/us/pl/99/198], § 1711(a)(3), in fifth par., inserted provisions directing that each member of a local committee be elected for a term of 3 years, that each local committee meet (A) once each year and shall receive compensation for such meeting by the Secretary at not less than the level in effect on December 31, 1985, and (B) at the direction of the county committee and with the approval of the State committee, such additional times during the year as may be necessary to carry out this section without compensation, and that the meetings of a local committee shall be held on different days of the year.
 
-    [Pub. L. 99–198, § 1711(a)(4)][/us/pl/99/198/s1711/a/4], in fifth par., inserted provisions directing that the local committees in each county (A) in a county in which there is more than one local committee, serve as advisors and consultants to the county committee; (B) periodically meet with the county committee and State committee to be informed on farm program issues; (C) communicate with producers within their communities on issues or concerns regarding farm programs; (D) report to the county committee, the State committee, and other interested persons on changes to, or modifications of, farm programs recommended by producers in their communities; and (E) perform such other functions as are required by law or as the Secretary may specify, and that the Secretary ensure that information concerning changes in Federal laws in effect with respect to agricultural programs and the administration of such laws are communicated in a timely manner to local committees in areas that contain agricultural producers who might be affected by such changes.
+    [Pub. L. 99–198][/us/pl/99/198], § 1711(a)(4), in fifth par., inserted provisions directing that the local committees in each county (A) in a county in which there is more than one local committee, serve as advisors and consultants to the county committee; (B) periodically meet with the county committee and State committee to be informed on farm program issues; (C) communicate with producers within their communities on issues or concerns regarding farm programs; (D) report to the county committee, the State committee, and other interested persons on changes to, or modifications of, farm programs recommended by producers in their communities; and (E) perform such other functions as are required by law or as the Secretary may specify, and that the Secretary ensure that information concerning changes in Federal laws in effect with respect to agricultural programs and the administration of such laws are communicated in a timely manner to local committees in areas that contain agricultural producers who might be affected by such changes.
 
     1980—Subsec. (b). [Pub. L. 96–294][/us/pl/96/294] added applicability to energy conservation as an area of conservation subject to financial assistance, and provisions setting forth authority for financial assistance to agricultural producers for encouraging energy conservation through cost sharing and technical assistance for shelter belts, etc.
 
-    1977—Subsec. (b). [Pub. L. 95–113, § 1501(a)(1)][/us/pl/95/113/s1501/a/1], (2), specified that financial assistance be provided to agricultural producers for carrying out enduring conservation and environmental enhancement measures, that eligibility for financial assistance be determined by the existence of conservation or environmental problems that reduce the productive capacity of the land and water or that cause environmental degradation, that financial assistance be a portion of the cost of the installation of conservation and environmental enhancement measures, that the Secretary of Agriculture be given discretion to set the level of payment based on a number of considerations relating to the level and distribution of benefits and costs accruing from the conservation problem and the applied remedy including the level of expected benefits to society, the total cost of the conservation practice, the degree to which the farmer benefits from other conservation programs, and the degree to which conservation would be applied in the absence of financial assistance, and that the Secretary be required to consider national and local needs and priorities in developing a national cost-share assistance program.
+    1977—Subsec. (b). [Pub. L. 95–113][/us/pl/95/113], § 1501(a)(1), (2), specified that financial assistance be provided to agricultural producers for carrying out enduring conservation and environmental enhancement measures, that eligibility for financial assistance be determined by the existence of conservation or environmental problems that reduce the productive capacity of the land and water or that cause environmental degradation, that financial assistance be a portion of the cost of the installation of conservation and environmental enhancement measures, that the Secretary of Agriculture be given discretion to set the level of payment based on a number of considerations relating to the level and distribution of benefits and costs accruing from the conservation problem and the applied remedy including the level of expected benefits to society, the total cost of the conservation practice, the degree to which the farmer benefits from other conservation programs, and the degree to which conservation would be applied in the absence of financial assistance, and that the Secretary be required to consider national and local needs and priorities in developing a national cost-share assistance program.
 
-    Subsec. (e). [Pub. L. 95–113, § 1501(a)(3)][/us/pl/95/113/s1501/a/3], struck out first three pars. which related to allotment and production adjustment activities and for provisions making small cost-share payments, and substituted a new par. authorizing the Secretary to establish a payment limitation. The first three pars. were deemed by the codifiers to constitute the first par., the flush sentence at the end of the first par., and the second par. to reflect the probable intent of Congress. See pp. 192, 193, 400, 401 of Senate Report 95–180.
+    Subsec. (e). [Pub. L. 95–113][/us/pl/95/113], § 1501(a)(3), struck out first three pars. which related to allotment and production adjustment activities and for provisions making small cost-share payments, and substituted a new par. authorizing the Secretary to establish a payment limitation. The first three pars. were deemed by the codifiers to constitute the first par., the flush sentence at the end of the first par., and the second par. to reflect the probable intent of Congress. See pp. 192, 193, 400, 401 of Senate Report 95–180.
 
     1972—Subsec. (b). [Pub. L. 92–419][/us/pl/92/419], §§ 605, 606(2), (3), added par. respecting long-term rural environmental protection contracts; included in first sentence reference to cl. (6) of [section 590g of this title][/us/usc/t16/s590g] and in item (2) provided as a measure for amount of payments and grants the treatment or use of the land for the prevention or abatement of agriculture-related pollution; and included in the second paragraph provisions respecting making available pollution prevention or abatement aids and orders covering pollution prevention or abatement aids and carrying out by the producers or pollution prevention or abatement practices, respectfully.
 
-    Subsec. (d). [Pub. L. 92–419, § 606(4)][/us/pl/92/419/s606/4], included reference to cl. (6) of [section 590g(a) of this title][/us/usc/t16/s590g/a] in first par.
+    Subsec. (d). [Pub. L. 92–419][/us/pl/92/419], § 606(4), included reference to cl. (6) of [section 590g(a) of this title][/us/usc/t16/s590g/a] in first par.
 
-    Subsec. (e). [Pub. L. 92–419, § 606(5)][/us/pl/92/419/s606/5], inserted in proviso provision for payments based on agriculture-related pollution prevention or abatement practices.
+    Subsec. (e). [Pub. L. 92–419][/us/pl/92/419], § 606(5), inserted in proviso provision for payments based on agriculture-related pollution prevention or abatement practices.
 
     1966—Subsec. (g). [Pub. L. 89–742][/us/pl/89/742] permitted assignments for handling or marketing an agricultural commodity, or performing a conservation practice, broadened the qualifications as to who may witness the signature of a farmer assigning such payments, and directed the Secretary to promulgate such regulations necessary to carry out the provisions of this subsection.
 
     1964—Subsec. (b). [Pub. L. 88–534][/us/pl/88/534] provided that members of local committees and not delegates from local areas shall nominate and elect a county committee of three farmers in the county, substituted three year staggered terms of office for county committeemen in place of one year terms, limited committeemen to a maximum of three consecutive terms, and eliminated provisions for the annual election of delegates to a county convention for the election of a county committee.
 
-    1962—Subsec. (a). [Pub. L. 87–703, § 101(2)][/us/pl/87/703/s101/2], repealed subsec. (a) which related to duration of authority of Secretary of Agriculture in the operation of a Federal program on a temporary basis.
+    1962—Subsec. (a). [Pub. L. 87–703][/us/pl/87/703], § 101(2), repealed subsec. (a) which related to duration of authority of Secretary of Agriculture in the operation of a Federal program on a temporary basis.
 
-    Subsec. (b). [Pub. L. 87–703, § 101(3)][/us/pl/87/703/s101/3], substituted introductory “The” for “subject to the limitations provided in subsection (a) of this section, the”.
+    Subsec. (b). [Pub. L. 87–703][/us/pl/87/703], § 101(3), substituted introductory “The” for “subject to the limitations provided in subsection (a) of this section, the”.
 
     1960—Subsec. (b). [Pub. L. 86–624][/us/pl/86/624] substituted “in the States of the Union, except Alaska” for “in the continental United States, except in Alaska”.
 
@@ -353,7 +353,7 @@
 
  __Effective Date of 1985 Amendment__ 
 
-[Pub. L. 99–198, title XVII, § 1711(b)(1)][/us/pl/99/198/s1711/b/1], Dec. 23, 1985, [99 Stat. 1636][/us/stat/99/1636], provided that: 
+[Pub. L. 99–198, title XVII][/us/pl/99/198/tXVII], § 1711(b)(1), Dec. 23, 1985, [99 Stat. 1636][/us/stat/99/1636], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall become effective on January 1, 1986, except that the amendments made by clauses (2) and (3) of subsection (a) \[amending this section\] shall not apply with respect to the term of office of any member of a local committee elected before January 1, 1986.”
 
@@ -363,7 +363,7 @@
 
  __Effective Date of 1964 Amendment__ 
 
-[Pub. L. 88–534, § 3][/us/pl/88/534/s3], Aug. 31, 1964, [78 Stat. 743][/us/stat/78/743], provided that: 
+[Pub. L. 88–534][/us/pl/88/534], § 3, Aug. 31, 1964, [78 Stat. 743][/us/stat/78/743], provided that: 
 
 > “Section 1 of this Act \[amending this section\] shall become effective for elections of committeemen held on or after January 1, 1965.”
 
@@ -373,7 +373,7 @@
 
  __Effective Date of 1938 Amendment__ 
 
-    [Act Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], title I, § 105, [52 Stat. 36][/us/stat/52/36], as amended by section 1 of act Apr. 7, 1938, provided that the amendments by that act, amending this section, “shall first be effective with respect to farming operations carried out in the calendar year 1938. Notwithstanding such amendments, payments with respect to farming operations carried out in the calendar year 1938 and based upon any soil-depleting crop for which special acreage allotments are established shall be made at not less than 90 per centum of the rates announced by the Secretary prior to the enactment of this act. Nothing contained herein shall require reconstituting, for 1938, any county or other local committee which has been constituted prior to February 1, 1938.”
+    [Act Feb. 16, 1938, ch. 30, title I][/us/act/1938-02-16/ch30/tI], § 105, [52 Stat. 36][/us/stat/52/36], as amended by section 1 of act Apr. 7, 1938, provided that the amendments by that act, amending this section, “shall first be effective with respect to farming operations carried out in the calendar year 1938. Notwithstanding such amendments, payments with respect to farming operations carried out in the calendar year 1938 and based upon any soil-depleting crop for which special acreage allotments are established shall be made at not less than 90 per centum of the rates announced by the Secretary prior to the enactment of this act. Nothing contained herein shall require reconstituting, for 1938, any county or other local committee which has been constituted prior to February 1, 1938.”
 
  __Transfer of Functions__ 
 
@@ -381,21 +381,21 @@
 
  __Status of Permanent Employees of County Committees__ 
 
-[Pub. L. 106–78, title VII, § 740][/us/pl/106/78/s740], Oct. 22, 1999, [113 Stat. 1166][/us/stat/113/1166], provided that: 
+[Pub. L. 106–78, title VII][/us/pl/106/78/tVII], § 740, Oct. 22, 1999, [113 Stat. 1166][/us/stat/113/1166], provided that: 
 
 > “Notwithstanding any other provision of law, in fiscal year 2000 and thereafter, permanent employees of county committees employed on or after October 1, 1998, pursuant to \[section\] 8(b) of the Soil Conservation and Domestic Allotment Act ([16 U.S.C. 590h(b)][/us/usc/t16/s590h/b]) shall be considered as having Federal Civil Service status only for the purpose of applying for United States Department of Agriculture Civil Service vacancies.”
 
-    Similar provisions were contained in the following prior appropriation act: [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title VII, § 765\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–37.
+    Similar provisions were contained in the following prior appropriation act: [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(a) \[title VII, § 765\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–37.
 
  __Local Committee Member Elected Before__  __January 1, 1986__  __; Completion of Unexpired Term in Administrative Area of Residence__ 
 
-[Pub. L. 99–198, title XVII, § 1711(b)(2)][/us/pl/99/198/s1711/b/2], Dec. 23, 1985, [99 Stat. 1636][/us/stat/99/1636], provided that: 
+[Pub. L. 99–198, title XVII][/us/pl/99/198/tXVII], § 1711(b)(2), Dec. 23, 1985, [99 Stat. 1636][/us/stat/99/1636], provided that: 
 
 > “If the number of local administrative areas and local committees in a county increases as a result of a change in the number of local administrative areas in the county under section 8(b) of the Soil Conservation and Domestic Allotment Act \[subsec. (b) of this section\] (as amended by subsection (a)(1)), any member of a local committee in such county elected before January 1, 1986, shall serve the unexpired portion of any term commenced before the date of such increase as a member of the local committee for the administrative area in which such member resides.”
 
  __Congressional Findings Respecting the Agricultural Stabilization and Conservation County and Community Committee System__ 
 
-[Pub. L. 97–218, title IV, § 401][/us/pl/97/218/s401], July 20, 1982, [96 Stat. 216][/us/stat/96/216], provided that: 
+[Pub. L. 97–218, title IV][/us/pl/97/218/tIV], § 401, July 20, 1982, [96 Stat. 216][/us/stat/96/216], provided that: 
 
 > “Congress finds that agricultural stabilization and conservation county and community committees have served, and should continue to serve, a vital function in implementing, at the local level, farm commodity, soil conservation, and related programs; and that, by assisting the United States Department of Agriculture to conduct such programs effectively, such committees provide substantial benefits to agriculture and the Nation. Congress further finds that the agricultural stabilization and conservation county and community committee system has developed, over the years, into a highly efficient mechanism for implementing such programs at the local level. Therefore, it is the sense of Congress that the Secretary of Agriculture should ensure that the structure and operations of the agricultural stabilization and conservation county and community committees, as heretofore developed to enable such committees to meet the responsibilities assigned them under section 8(b) of the Soil Conservation and Domestic Allotment Act \[subsection (b) of this section\], and related statutes and regulations, be preserved and strengthened.”
 
@@ -405,7 +405,7 @@
 
  __1967 Increase in Rates of Compensation of Persons Employed by County Committees__ 
 
-[Pub. L. 90–206, title II, § 210][/us/pl/90/206/s210], Dec. 16, 1967, [81 Stat. 633][/us/stat/81/633], provided that: 
+[Pub. L. 90–206, title II][/us/pl/90/206/tII], § 210, Dec. 16, 1967, [81 Stat. 633][/us/stat/81/633], provided that: 
 
 > “The rates of pay of persons employed by the county committees established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act ([16 U.S.C. 590h(b)][/us/usc/t16/s590h/b]) shall be increased by amounts equal, as nearly as may be practicable, to the increases provided by [section 202(a) of this title][/us/usc/t16/s202/a] \[see [section 5332(a) of Title 5][/us/usc/t5/s5332/a], Government Organization and Employees\] for corresponding rates of basic pay.”
 
@@ -413,13 +413,13 @@
 
  __1966 Increase in Rates of Compensation of Persons Employed by County Committees__ 
 
-[Pub. L. 89–504, title I, § 107][/us/pl/89/504/s107], July 18, 1966, [80 Stat. 293][/us/stat/80/293], provided that: 
+[Pub. L. 89–504, title I][/us/pl/89/504/tI], § 107, July 18, 1966, [80 Stat. 293][/us/stat/80/293], provided that: 
 
 > “The rates of compensation of persons employed by the county committees established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act ([16 U.S.C. 590h(b)][/us/usc/t16/s590h/b]) shall be increased by amounts equal, as nearly as may be practicable, to the increases provided by [section 102(a) of this title][/us/usc/t16/s102/a] \[amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees\] for corresponding rates of compensation.”
 
  __1965 Increase in Rates of Compensation of Persons Employed by County Committees__ 
 
-[Pub. L. 89–301, § 10][/us/pl/89/301/s10], Oct. 29, 1965, [79 Stat. 1120][/us/stat/79/1120], provided that: 
+[Pub. L. 89–301][/us/pl/89/301], § 10, Oct. 29, 1965, [79 Stat. 1120][/us/stat/79/1120], provided that: 
 
 > “The rates of compensation of persons employed by the county committees established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act ([16 U.S.C. 590h(b)][/us/usc/t16/s590h/b]) shall be increased by amounts equal, as nearly as may be practicable, to the increases provided by section 2(a) of this Act \[amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees\] for corresponding rates of compensation.”
 
@@ -427,19 +427,19 @@
 
  __1964 Increase in Rates of Compensation of Persons Employed by County Committees__ 
 
-[Pub. L. 88–426, title I, § 122][/us/pl/88/426/s122], Aug. 14, 1964, [78 Stat. 412][/us/stat/78/412], provided that: 
+[Pub. L. 88–426, title I][/us/pl/88/426/tI], § 122, Aug. 14, 1964, [78 Stat. 412][/us/stat/78/412], provided that: 
 
 > “The rates of compensation of persons employed by the county committees establish pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act ([16 U.S.C. 590h(b)][/us/usc/t16/s590h/b]) shall be increased by amounts equal, as nearly as may be practicable to the increases provided by section 102 of this Act \[amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees\] for corresponding rates of compensation in the appropriate schedule or scale of pay.”
 
  __1962 Increase in Rates of Compensation of Persons Employed by County Committees__ 
 
-[Pub. L. 87–793, § 1002][/us/pl/87/793/s1002], Oct. 11, 1962, [76 Stat. 865][/us/stat/76/865], provided that: 
+[Pub. L. 87–793][/us/pl/87/793], § 1002, Oct. 11, 1962, [76 Stat. 865][/us/stat/76/865], provided that: 
 
 > “The rates of compensation of persons employed by the county committees established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act ([16 U.S.C. 590h(b)][/us/usc/t16/s590h/b]) shall be increased by amounts equal, as nearly as may be practicable, to the increases provided by title II of this part \[amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees\] for corresponding rates of compensation in the appropriate schedule or scale of pay.”
 
  __1960 Increase in Rates of Compensation of Persons Employed by County Committees__ 
 
-[Pub. L. 86–568, title I, § 115(a)][/us/pl/86/568/s115/a], July 1, 1960, [74 Stat. 302][/us/stat/74/302], provided that: 
+[Pub. L. 86–568, title I][/us/pl/86/568/tI], § 115(a), July 1, 1960, [74 Stat. 302][/us/stat/74/302], provided that: 
 
 > “The rates of compensation of persons employed by the county committees established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act ([16 U.S.C. 590h(b)][/us/usc/t16/s590h/b]) shall be increased by amounts equal, as nearly as may be practicable, to the increases provided by this title \[amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees\] for corresponding rates of compensation in the appropriate schedule or scale of pay.”
 
@@ -451,25 +451,17 @@
 
 > “That, notwithstanding the provisions of subsection (b) of section 8 of the Soil Conservation and Domestic Allotment Act \[subsec. (b) of this section\], two county committees shall be elected annually under such subsection for the counties of Otter Tail, Polk, and Saint Louis, in the State of Minnesota, and for the county of Pottawattamie, in the State of Iowa, and that the actions heretofore or hereafter taken by each of such committees shall be given the same effect in the area served by it as is given to the actions of the county committee in a county served by a single county committee.”
 
-§§ 590h–1, 590h–2. __Omitted__ 
-
- __Codification__ 
-
-    Section 590h–1, [act June 16, 1938, ch. 464][/us/act/1938-06-16/ch464], title I, [52 Stat. 746][/us/stat/52/746] (the Department of Agriculture Appropriation Act, 1939), which authorized the utilization of certain agencies in administering the naval stores conservation programs and in making payments to gum naval stores producers, was not repeated in subsequent appropriation acts.
-
-    Section 590h–2, [act July 2, 1940, ch. 521, § 9][/us/act/1940-07-02/ch521/s9], [54 Stat. 729][/us/stat/54/729], which related to correction of certain inequities in agricultural adjustment or conservation payments, was omitted as executed.
-
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590g.md) | [Next](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590h–3.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h)
+[Previous](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590g–1 _us_usc_t16_s590g–2.md) | [Next](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590h–1 _us_usc_t16_s590h–2.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h)
 
 ----------
 ----------
 
-[/us/pl/87/703/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs101%2F2
+[/us/pl/87/703/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtI
 [/us/stat/76/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F605
 [/us/usc/t16/s3839aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3839aa
-[/us/pl/104/127/s336/a/1/A/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs336%2Fa%2F1%2FA%2Fi%2FI
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1004
 [/us/usc/t7/s2003/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2003%2Fe%2F1
 [/us/usc/t7/s2279–1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2279%E2%80%931%2Fc
@@ -477,12 +469,12 @@
 [/us/usc/t7/s6932/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6932%2Fd
 [/us/act/1939-04-10/ch48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-04-10%2Fch48
 [/us/stat/53/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F573
-[/us/pl/104/127/s336/a/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs336%2Fa%2F1%2FA%2Fii
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1004
-[/us/act/1935-04-27/ch85/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-04-27%2Fch85%2Fs8
-[/us/act/1936-02-29/ch104/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-02-29%2Fch104%2Fs1
+[/us/act/1935-04-27/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-04-27%2Fch85
+[/us/act/1936-02-29/ch104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-02-29%2Fch104
 [/us/stat/49/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1149
-[/us/act/1937-06-28/ch395/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-28%2Fch395%2Fs1
+[/us/act/1937-06-28/ch395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-28%2Fch395
 [/us/stat/50/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F329
 [/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
 [/us/stat/52/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F31
@@ -492,13 +484,13 @@
 [/us/stat/53/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F573
 [/us/act/1940-05-14/ch200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-05-14%2Fch200
 [/us/stat/54/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F216
-[/us/act/1940-07-02/ch521/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-02%2Fch521%2Fs2
+[/us/act/1940-07-02/ch521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-02%2Fch521
 [/us/stat/54/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F727
 [/us/act/1941-06-21/ch217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-06-21%2Fch217
 [/us/stat/55/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F257
-[/us/act/1941-12-26/ch626/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-12-26%2Fch626%2Fs1
+[/us/act/1941-12-26/ch626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-12-26%2Fch626
 [/us/stat/55/860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F860
-[/us/act/1942-02-06/ch44/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-02-06%2Fch44%2Fs4
+[/us/act/1942-02-06/ch44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-02-06%2Fch44
 [/us/stat/56/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F53
 [/us/act/1942-09-29/ch568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-09-29%2Fch568
 [/us/stat/56/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F761
@@ -522,45 +514,45 @@
 [/us/stat/70/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F597
 [/us/pl/85/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F553
 [/us/stat/72/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F414
-[/us/pl/86/70/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs13%2Fa
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F143
-[/us/pl/86/624/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs8%2Fa
+[/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/stat/74/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F412
-[/us/pl/87/703/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs101%2F2
+[/us/pl/87/703/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtI
 [/us/stat/76/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F605
-[/us/pl/88/534/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F534%2Fs1
+[/us/pl/88/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F534
 [/us/stat/78/743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F743
 [/us/pl/89/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F742
 [/us/stat/80/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1167
-[/us/pl/92/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419
+[/us/pl/92/419/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2FtVI
 [/us/stat/86/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F676
-[/us/pl/95/113/s1501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1501%2Fa
+[/us/pl/95/113/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2FtXV
 [/us/stat/91/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1019
-[/us/pl/96/294/s259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs259
+[/us/pl/96/294/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtII
 [/us/stat/94/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F709
-[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVII
 [/us/stat/99/1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1635
-[/us/pl/99/253/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F253%2Fs3
+[/us/pl/99/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F253
 [/us/stat/100/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F36
-[/us/pl/99/500/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fa
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783
-[/us/pl/99/591/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fa
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341
-[/us/pl/99/641/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2Fs204
+[/us/pl/99/641/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641%2FtII
 [/us/stat/100/3563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3563
-[/us/pl/101/624/s1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1146
+[/us/pl/101/624/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXI
 [/us/stat/104/3516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3516
-[/us/pl/102/237/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs202
+[/us/pl/102/237/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtII
 [/us/stat/105/1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1848
-[/us/pl/103/354/s227/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs227%2Fa
+[/us/pl/103/354/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2FtII
 [/us/stat/108/3216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3216
-[/us/pl/104/127/s336/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs336%2Fa%2F1%2FA
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1004
-[/us/pl/107/171/s10708/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs10708%2Fb
+[/us/pl/107/171/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtX
 [/us/stat/116/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F522
-[/us/pl/110/234/s1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs1615
+[/us/pl/110/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtI
 [/us/stat/122/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1021
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/stat/99/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1354
@@ -574,12 +566,12 @@
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
-[/us/pl/110/246/s1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1615
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/usc/t7/s2003/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2003%2Fe%2F1
-[/us/pl/104/127/s336/a/1/A/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs336%2Fa%2F1%2FA%2Fi%2FI
-[/us/pl/104/127/s336/a/1/A/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs336%2Fa%2F1%2FA%2Fi%2FII
-[/us/pl/104/127/s336/a/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs336%2Fa%2F1%2FA%2Fii
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/103/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
@@ -587,23 +579,23 @@
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F641
 [/us/pl/99/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F253
-[/us/pl/99/198/s1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1712
-[/us/pl/99/198/s1711/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1711%2Fa%2F1
-[/us/pl/99/198/s1711/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1711%2Fa%2F2
-[/us/pl/99/198/s1711/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1711%2Fa%2F3
-[/us/pl/99/198/s1711/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1711%2Fa%2F4
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
+[/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/pl/96/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294
-[/us/pl/95/113/s1501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1501%2Fa%2F1
-[/us/pl/95/113/s1501/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1501%2Fa%2F3
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/pl/92/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419
 [/us/usc/t16/s590g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590g
-[/us/pl/92/419/s606/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs606%2F4
+[/us/pl/92/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419
 [/us/usc/t16/s590g/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590g%2Fa
-[/us/pl/92/419/s606/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs606%2F5
+[/us/pl/92/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419
 [/us/pl/89/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F742
 [/us/pl/88/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F534
-[/us/pl/87/703/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs101%2F2
-[/us/pl/87/703/s101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs101%2F3
+[/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
+[/us/pl/87/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703
 [/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/pl/85/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F553
@@ -615,31 +607,31 @@
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/101/624/s1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1171
 [/us/usc/t16/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1421
-[/us/pl/99/198/s1711/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1711%2Fb%2F1
+[/us/pl/99/198/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVII
 [/us/stat/99/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1636
 [/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
 [/us/pl/95/113/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs1901
 [/us/usc/t7/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1307
-[/us/pl/88/534/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F534%2Fs3
+[/us/pl/88/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F534
 [/us/stat/78/743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F743
 [/us/usc/t7/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs624
-[/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
+[/us/act/1938-02-16/ch30/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30%2FtI
 [/us/stat/52/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F36
 [/us/usc/t16/s590a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590a
-[/us/pl/106/78/s740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs740
+[/us/pl/106/78/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtVII
 [/us/stat/113/1166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1166
 [/us/usc/t16/s590h/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%2Fb
-[/us/pl/105/277/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fa
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681
-[/us/pl/99/198/s1711/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1711%2Fb%2F2
+[/us/pl/99/198/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVII
 [/us/stat/99/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1636
-[/us/pl/97/218/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F218%2Fs401
+[/us/pl/97/218/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F218%2FtIV
 [/us/stat/96/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F216
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/91/231/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F231%2Fs2
 [/us/pl/91/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F231
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/90/206/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs210
+[/us/pl/90/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2FtII
 [/us/stat/81/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F633
 [/us/usc/t16/s590h/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%2Fb
 [/us/usc/t16/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs202%2Fa
@@ -647,29 +639,25 @@
 [/us/pl/90/206/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs210
 [/us/pl/90/206/s220/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs220%2Fa%2F2
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/89/504/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F504%2Fs107
+[/us/pl/89/504/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F504%2FtI
 [/us/stat/80/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F293
 [/us/usc/t16/s590h/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%2Fb
 [/us/usc/t16/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs102%2Fa
-[/us/pl/89/301/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F301%2Fs10
+[/us/pl/89/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F301
 [/us/stat/79/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1120
 [/us/usc/t16/s590h/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%2Fb
 [/us/pl/89/504/s109/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F504%2Fs109%2F2
-[/us/pl/88/426/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs122
+[/us/pl/88/426/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtI
 [/us/stat/78/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F412
 [/us/usc/t16/s590h/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%2Fb
-[/us/pl/87/793/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F793%2Fs1002
+[/us/pl/87/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F793
 [/us/stat/76/865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F865
 [/us/usc/t16/s590h/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%2Fb
-[/us/pl/86/568/s115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F568%2Fs115%2Fa
+[/us/pl/86/568/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F568%2FtI
 [/us/stat/74/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F302
 [/us/usc/t16/s590h/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%2Fb
 [/us/pl/86/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F568
 [/us/pl/85/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F278
 [/us/stat/71/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F601
-[/us/act/1938-06-16/ch464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-16%2Fch464
-[/us/stat/52/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F746
-[/us/act/1940-07-02/ch521/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-02%2Fch521%2Fs9
-[/us/stat/54/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F729
 
 

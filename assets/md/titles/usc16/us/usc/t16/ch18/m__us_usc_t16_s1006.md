@@ -17,7 +17,7 @@
 
     The Secretary is authorized in cooperation with other Federal and with States and local agencies to make investigations and surveys of the watershed of rivers and other waterways as a basis for the development of coordinated programs. In areas where the programs of the Secretary of Agriculture may affect public or other lands under the jurisdiction of the Secretary of the Interior, the Secretary of the Interior is authorized to cooperate with the Secretary of Agriculture in the planning and development of works or programs for such lands.
 
-([Aug. 4, 1954, ch. 656, § 6][/us/act/1954-08-04/ch656/s6], [68 Stat. 668][/us/stat/68/668].)
+([Aug. 4, 1954, ch. 656][/us/act/1954-08-04/ch656], § 6, [68 Stat. 668][/us/stat/68/668].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1954-08-04/ch656/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-04%2Fch656%2Fs6
+[/us/act/1954-08-04/ch656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-04%2Fch656
 [/us/stat/68/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F668
 [/us/usc/t16/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1002
 

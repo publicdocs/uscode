@@ -19,7 +19,7 @@
 
     (b) The Biscayne National Monument, as authorized by the Act of October 18, 1968 ([82 Stat. 1188][/us/stat/82/1188]; [16 U.S.C. 450qq][/us/usc/t16/s450qq]), as amended, is abolished as such, and all lands, waters, and interests therein acquired or reserved for such monument are hereby incorporated within and made a part of the park. Any funds available for the purposes of such monument are hereby made available for the purposes of the park, and authorizations of funds for the monument shall continue to be available for the park.
 
-([Pub. L. 96–287, title I, § 103][/us/pl/96/287/s103], June 28, 1980, [94 Stat. 600][/us/stat/94/600].)
+([Pub. L. 96–287, title I][/us/pl/96/287/tI], § 103, June 28, 1980, [94 Stat. 600][/us/stat/94/600].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 [/us/usc/t16/s1–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1%E2%80%934
 [/us/stat/82/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1188
 [/us/usc/t16/s450qq]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450qq
-[/us/pl/96/287/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F287%2Fs103
+[/us/pl/96/287/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F287%2FtI
 [/us/stat/94/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F600
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1%E2%80%934

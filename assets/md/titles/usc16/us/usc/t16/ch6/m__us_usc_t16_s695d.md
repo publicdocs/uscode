@@ -17,7 +17,7 @@
 
     The entire Central Valley project, California, heretofore authorized under the Act of August 26, 1937 ([50 Stat. 844][/us/stat/50/844], 850), and reauthorized under the Act of October 17, 1940 ([54 Stat. 1198][/us/stat/54/1198], 1199), the Act of October 14, 1949 ([63 Stat. 852][/us/stat/63/852]), and the Act of September 26, 1950 ([64 Stat. 1036][/us/stat/64/1036]), is reauthorized and declared to be for the purposes set forth in said Acts, and also for the use of the waters thereof for fish and wildlife purposes, subject to such priorities as are applicable under said Acts.
 
-([Aug. 27, 1954, ch. 1012, § 1][/us/act/1954-08-27/ch1012/s1], [68 Stat. 879][/us/stat/68/879].)
+([Aug. 27, 1954, ch. 1012][/us/act/1954-08-27/ch1012], § 1, [68 Stat. 879][/us/stat/68/879].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 [/us/stat/54/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1198
 [/us/stat/63/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F852
 [/us/stat/64/1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1036
-[/us/act/1954-08-27/ch1012/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1012%2Fs1
+[/us/act/1954-08-27/ch1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-27%2Fch1012
 [/us/stat/68/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F879
 [/us/stat/50/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F844
 [/us/stat/54/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1198

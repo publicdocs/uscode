@@ -55,7 +55,7 @@
 
         Notwithstanding the provisions of sections 9105 and 9106 of title 31, the financial transactions of the Administrator shall be audited by the Comptroller General at such times and to such extent as the Comptroller General deems necessary, and reports of the results of each such audit shall be made to the Congress within 6½ months following the end of the fiscal year covered by the audit.
 
-([Pub. L. 93–454, § 11][/us/pl/93/454/s11], Oct. 18, 1974, [88 Stat. 1378][/us/stat/88/1378]; [Pub. L. 95–91, title III, § 302(a)(1)(D)][/us/pl/95/91/s302/a/1/D], Aug. 4, 1977, [91 Stat. 578][/us/stat/91/578]; [Pub. L. 96–501, § 8(a)][/us/pl/96/501/s8/a], (b), Dec. 5, 1980, [94 Stat. 2728][/us/stat/94/2728].)
+([Pub. L. 93–454][/us/pl/93/454], § 11, Oct. 18, 1974, [88 Stat. 1378][/us/stat/88/1378]; [Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 302(a)(1)(D), Aug. 4, 1977, [91 Stat. 578][/us/stat/91/578]; [Pub. L. 96–501][/us/pl/96/501], § 8(a), (b), Dec. 5, 1980, [94 Stat. 2728][/us/stat/94/2728].)
 
  __References in Text__ 
 
@@ -63,19 +63,19 @@
 
     The Pacific Northwest Electric Power Planning and Conservation Act, referred to in subsec. (b)(12), is [Pub. L. 96–501][/us/pl/96/501], Dec. 5, 1980, [94 Stat. 2697][/us/stat/94/2697], which is classified principally to chapter 12H (§ 839 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 839 of this title][/us/usc/t16/s839] and Tables.
 
-    [Section 9105 of title 31][/us/usc/t31/s9105], referred to in subsec. (c), was amended generally by [Pub. L. 101–576, title III, § 305][/us/pl/101/576/s305], Nov. 15, 1990, [104 Stat. 2853][/us/stat/104/2853], and, as so amended, does not contain a subsec. (d).
+    [Section 9105 of title 31][/us/usc/t31/s9105], referred to in subsec. (c), was amended generally by [Pub. L. 101–576, title III][/us/pl/101/576/tIII], § 305, Nov. 15, 1990, [104 Stat. 2853][/us/stat/104/2853], and, as so amended, does not contain a subsec. (d).
 
  __Codification__ 
 
-    In subsec. (c), “chapter 91 of title 31”, “[section 9101 of title 31][/us/usc/t31/s9101]”, and “[section 9105(d) of title 31][/us/usc/t31/s9105/d]” substituted for “the Government Corporation Control Act ([31 U.S.C. 841][/us/usc/t31/s841] et seq.)”, “section 101 of such Act ([31 U.S.C. 846][/us/usc/t31/s846])”, and “the proviso in [section 850 of title 31][/us/usc/t31/s850], United States Code,”, respectively, on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (c), “chapter 91 of title 31”, “[section 9101 of title 31][/us/usc/t31/s9101]”, and “[section 9105(d) of title 31][/us/usc/t31/s9105/d]” substituted for “the Government Corporation Control Act ([31 U.S.C. 841][/us/usc/t31/s841] et seq.)”, “section 101 of such Act ([31 U.S.C. 846][/us/usc/t31/s846])”, and “the proviso in [section 850 of title 31][/us/usc/t31/s850], United States Code,”, respectively, on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
-    In subsec. (d), “sections 9105 and 9106 of title 31” substituted for “sections 105 and 106 of the Government Corporation Control Act \[[31 U.S.C. 850][/us/usc/t31/s850], 851\]” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31.
+    In subsec. (d), “sections 9105 and 9106 of title 31” substituted for “sections 105 and 106 of the Government Corporation Control Act \[[31 U.S.C. 850][/us/usc/t31/s850], 851\]” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31.
 
  __Amendments__ 
 
-    1980—Subsec. (b)(6)(iv). [Pub. L. 96–501, § 8(a)][/us/pl/96/501/s8/a], added cl. (iv).
+    1980—Subsec. (b)(6)(iv). [Pub. L. 96–501][/us/pl/96/501], § 8(a), added cl. (iv).
 
-    Subsec. (b)(12). [Pub. L. 96–501, § 8(b)][/us/pl/96/501/s8/b], added par. (12).
+    Subsec. (b)(12). [Pub. L. 96–501][/us/pl/96/501], § 8(b), added par. (12).
 
  __Effective Date of 1980 Amendment__ 
 
@@ -83,13 +83,13 @@
 
  __Transfer of Functions__ 
 
-    “Secretary of Energy” substituted for “Secretary of the Interior” in subsec. (a) and “Department of Energy” substituted for “Department of Interior” in subsec. (b)(11) pursuant to [Pub. L. 95–91, § 302(a)(1)(D)][/us/pl/95/91/s302/a/1/D], which is classified to [section 7152(a)(1)(D) of Title 42][/us/usc/t42/s7152/a/1/D], The Public Health and Welfare.
+    “Secretary of Energy” substituted for “Secretary of the Interior” in subsec. (a) and “Department of Energy” substituted for “Department of Interior” in subsec. (b)(11) pursuant to [Pub. L. 95–91][/us/pl/95/91], § 302(a)(1)(D), which is classified to [section 7152(a)(1)(D) of Title 42][/us/usc/t42/s7152/a/1/D], The Public Health and Welfare.
 
     Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
  __Authority To Incur Obligations in Excess of Borrowing Authority and Cash in Fund__ 
 
-[Pub. L. 100–371, title III][/us/pl/100/371], July 19, 1988, [102 Stat. 869][/us/stat/102/869], provided that: 
+[Pub. L. 100–371, title III][/us/pl/100/371/tIII], July 19, 1988, [102 Stat. 869][/us/stat/102/869], provided that: 
 
 > “Without fiscal year limitation, the Bonneville Power Administration continues to be authorized to incur obligations for authorized purposes and may do so in excess of borrowing authority and cash in the Bonneville Power Administration Fund.”
 
@@ -105,36 +105,36 @@
 [/us/usc/t16/s838k/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs838k%2Fa
 [/us/usc/t16/s839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs839
 [/us/usc/t31/s9101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9101
-[/us/pl/93/454/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F454%2Fs11
+[/us/pl/93/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F454
 [/us/stat/88/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1378
-[/us/pl/95/91/s302/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs302%2Fa%2F1%2FD
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F578
-[/us/pl/96/501/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501%2Fs8%2Fa
+[/us/pl/96/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501
 [/us/stat/94/2728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2728
 [/us/pl/96/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501
 [/us/stat/94/2697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2697
 [/us/usc/t16/s839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs839
 [/us/usc/t31/s9105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9105
-[/us/pl/101/576/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2Fs305
+[/us/pl/101/576/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F576%2FtIII
 [/us/stat/104/2853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2853
 [/us/usc/t31/s9101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9101
 [/us/usc/t31/s9105/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9105%2Fd
 [/us/usc/t31/s841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs841
 [/us/usc/t31/s846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs846
 [/us/usc/t31/s850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs850
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/usc/t31/s850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs850
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/96/501/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501%2Fs8%2Fa
-[/us/pl/96/501/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501%2Fs8%2Fb
+[/us/pl/96/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501
+[/us/pl/96/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501
 [/us/pl/96/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501
 [/us/pl/96/501/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F501%2Fs11
 [/us/usc/t16/s839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs839
-[/us/pl/95/91/s302/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs302%2Fa%2F1%2FD
+[/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/usc/t42/s7152/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7152%2Fa%2F1%2FD
-[/us/pl/100/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F371
+[/us/pl/100/371/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F371%2FtIII
 [/us/stat/102/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F869
 
 

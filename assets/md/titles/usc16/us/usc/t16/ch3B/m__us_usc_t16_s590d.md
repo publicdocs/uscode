@@ -23,17 +23,17 @@
 
     (3) Make expenditures for personal services and rent in the District of Columbia and elsewhere, for the purchase of law books and books of reference, for printing and binding, for the purchase, operation, and maintenance of passenger-carrying vehicles, and perform such acts, and prescribe such regulations, as he may deem proper to carry out the provisions of this chapter.
 
-([Apr. 27, 1935, ch. 85, § 4][/us/act/1935-04-27/ch85/s4], [49 Stat. 164][/us/stat/49/164]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title XI, § 1106(a), [63 Stat. 972][/us/stat/63/972]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3784][/us/stat/92/3784].)
+([Apr. 27, 1935, ch. 85][/us/act/1935-04-27/ch85], § 4, [49 Stat. 164][/us/stat/49/164]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title XI, § 1106(a), [63 Stat. 972][/us/stat/63/972]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3784][/us/stat/92/3784].)
 
  __References in Text__ 
 
-    The National Industrial Recovery Act, referred to in par. (2), is [act June 16, 1933, ch. 90][/us/act/1933-06-16/ch90], [48 Stat. 195][/us/stat/48/195], which was classified generally to subchapter I (§ 401 et seq.) of chapter 8 of former Title 40, Public Buildings, Property, and Works, and was terminated June 30, 1943, by [act June 27, 1942, ch. 450, § 1][/us/act/1942-06-27/ch450/s1], [56 Stat. 410][/us/stat/56/410]. Provisions of the Act that were classified to former Title 40 were repealed by [Pub. L. 107–217, § 6(b)][/us/pl/107/217/s6/b], Aug. 21, 2002, [116 Stat. 1304][/us/stat/116/1304]. For complete classification of this Act to the Code, see Tables.
+    The National Industrial Recovery Act, referred to in par. (2), is [act June 16, 1933, ch. 90][/us/act/1933-06-16/ch90], [48 Stat. 195][/us/stat/48/195], which was classified generally to subchapter I (§ 401 et seq.) of chapter 8 of former Title 40, Public Buildings, Property, and Works, and was terminated June 30, 1943, by [act June 27, 1942, ch. 450][/us/act/1942-06-27/ch450], § 1, [56 Stat. 410][/us/stat/56/410]. Provisions of the Act that were classified to former Title 40 were repealed by [Pub. L. 107–217][/us/pl/107/217], § 6(b), Aug. 21, 2002, [116 Stat. 1304][/us/stat/116/1304]. For complete classification of this Act to the Code, see Tables.
 
     The Classification Act, as amended, referred to in par. (2), is the Classification Act of 1923 (approved [Mar. 4, 1923, ch. 265][/us/act/1923-03-04/ch265], [42 Stat. 1488][/us/stat/42/1488]), which was repealed by section 1202 of the Classification Act of 1949 (approved [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], [63 Stat. 972][/us/stat/63/972]).
 
  __Codification__ 
 
-    In par. (2), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In par. (2), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
  __Amendments__ 
 
@@ -58,22 +58,22 @@
 ----------
 ----------
 
-[/us/act/1935-04-27/ch85/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-04-27%2Fch85%2Fs4
+[/us/act/1935-04-27/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-04-27%2Fch85
 [/us/stat/49/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F164
 [/us/act/1949-10-28/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782
 [/us/stat/63/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F972
 [/us/stat/92/3784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3784
 [/us/act/1933-06-16/ch90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch90
 [/us/stat/48/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F195
-[/us/act/1942-06-27/ch450/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-06-27%2Fch450%2Fs1
+[/us/act/1942-06-27/ch450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-06-27%2Fch450
 [/us/stat/56/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F410
-[/us/pl/107/217/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs6%2Fb
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1304
 [/us/act/1923-03-04/ch265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch265
 [/us/stat/42/1488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1488
 [/us/act/1949-10-28/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782
 [/us/stat/63/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F972
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/act/1949-10-28/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554

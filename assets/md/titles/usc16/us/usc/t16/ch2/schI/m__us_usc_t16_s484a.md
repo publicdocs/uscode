@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s482q.md) | [Next](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s485.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs484a)
+[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s483 _us_usc_t16_s484.md) | [Next](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s485.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs484a)
 
 ## § 484a. Exchange of lands in national forests; public schools; deposit of funds by school authority with insufficient exchange land; limitations on use
 
@@ -19,7 +19,7 @@
 
     The provisions of this section shall not be applicable to the conveyance in exchange of more than eighty acres to any one State, county, or municipal government or public school district or other public school authority. Lands may be conveyed to any State, county, or municipal government pursuant to this section only if the lands were being utilized by such entities on January 12, 1983. Lands so conveyed may be used only for the purposes for which they were being used prior to conveyance.
 
-([Pub. L. 90–171][/us/pl/90/171], Dec. 4, 1967, [81 Stat. 531][/us/stat/81/531]; [Pub. L. 97–465, § 8][/us/pl/97/465/s8], Jan. 12, 1983, [96 Stat. 2536][/us/stat/96/2536].)
+([Pub. L. 90–171][/us/pl/90/171], Dec. 4, 1967, [81 Stat. 531][/us/stat/81/531]; [Pub. L. 97–465][/us/pl/97/465], § 8, Jan. 12, 1983, [96 Stat. 2536][/us/stat/96/2536].)
 
  __Amendments__ 
 
@@ -31,14 +31,14 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s482q.md) | [Next](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s485.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs484a)
+[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s483 _us_usc_t16_s484.md) | [Next](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s485.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs484a)
 
 ----------
 ----------
 
 [/us/pl/90/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F171
 [/us/stat/81/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F531
-[/us/pl/97/465/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F465%2Fs8
+[/us/pl/97/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F465
 [/us/stat/96/2536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2536
 [/us/pl/97/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F465
 

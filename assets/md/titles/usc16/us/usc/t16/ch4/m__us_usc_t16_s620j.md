@@ -23,7 +23,7 @@
 
     section 7 of the Export Administration Act of 1979 \[[50 U.S.C. 4606][/us/usc/t50/s4606]\] with respect to the export of unprocessed timber.
 
-([Pub. L. 101–382, title IV, § 499][/us/pl/101/382/s499], Aug. 20, 1990, [104 Stat. 726][/us/stat/104/726].)
+([Pub. L. 101–382, title IV][/us/pl/101/382/tIV], § 499, Aug. 20, 1990, [104 Stat. 726][/us/stat/104/726].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t50/s4606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4606
-[/us/pl/101/382/s499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs499
+[/us/pl/101/382/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtIV
 [/us/stat/104/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F726
 
 

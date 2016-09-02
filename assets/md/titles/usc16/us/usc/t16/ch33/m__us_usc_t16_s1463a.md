@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 96–464, § 12(a)][/us/pl/96/464/s12/a]–(g), Oct. 17, 1980, [94 Stat. 2067][/us/stat/94/2067]; [Pub. L. 98–620, title IV, § 402(20)][/us/pl/98/620/s402/20], Nov. 8, 1984, [98 Stat. 3358][/us/stat/98/3358], which required the Secretary of Commerce to submit to Congress any final rule promulgated pursuant to this chapter and provided procedures for Congressional disapproval of such rules was omitted pursuant to [section 12(h) of Pub. L. 96–464][/us/pl/96/464/s12/h], which provided that this section would cease to have any force or effect after Sept. 30, 1985.
+    Section, [Pub. L. 96–464][/us/pl/96/464], § 12(a)–(g), Oct. 17, 1980, [94 Stat. 2067][/us/stat/94/2067]; [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(20), Nov. 8, 1984, [98 Stat. 3358][/us/stat/98/3358], which required the Secretary of Commerce to submit to Congress any final rule promulgated pursuant to this chapter and provided procedures for Congressional disapproval of such rules was omitted pursuant to [section 12(h) of Pub. L. 96–464][/us/pl/96/464/s12/h], which provided that this section would cease to have any force or effect after Sept. 30, 1985.
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/pl/96/464/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F464%2Fs12%2Fa
+[/us/pl/96/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F464
 [/us/stat/94/2067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2067
-[/us/pl/98/620/s402/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F20
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3358
 [/us/pl/96/464/s12/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F464%2Fs12%2Fh
 

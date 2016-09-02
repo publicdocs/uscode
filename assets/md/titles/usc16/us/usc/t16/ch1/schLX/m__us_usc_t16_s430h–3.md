@@ -31,7 +31,7 @@
 
     The Secretary of the Interior shall not, without first obtaining the consent of the city and county officials referred to in subsection (c), convert the portion of the existing road known as Confederate Avenue lying between Graveyard Road and Fort Garrott into a one-way park tour road with controlled access, or otherwise limit the use of such portion by local traffic, until the United States has provided for such alterations, relocations, and construction of local roads (including procurement of rights-of-way) as the Secretary and said officials agree are directly attributable to the installation of such park tour road.
 
-([Pub. L. 88–37, § 1][/us/pl/88/37/s1], June 4, 1963, [77 Stat. 55][/us/stat/77/55].)
+([Pub. L. 88–37][/us/pl/88/37], § 1, June 4, 1963, [77 Stat. 55][/us/stat/77/55].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/88/37/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F37%2Fs1
+[/us/pl/88/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F37
 [/us/stat/77/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F55
 
 

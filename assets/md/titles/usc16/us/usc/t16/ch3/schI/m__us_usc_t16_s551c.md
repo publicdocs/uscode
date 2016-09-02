@@ -37,7 +37,7 @@
 
         Not later than one year after May 9, 1990, information from the Secretary of Agriculture on presuppression needs for each region of the National Forest System and information from the Secretary of the Interior on the presuppression needs for each region of the National Park System and for each State unit of the Bureau of Land Management shall be submitted to Congress. These reports shall include needs, including an estimate of the funds required, for fire prevention, fuel reduction, training and seasonal fire crews.
 
-([Pub. L. 101–286, title II, § 203][/us/pl/101/286/s203], May 9, 1990, [104 Stat. 175][/us/stat/104/175].)
+([Pub. L. 101–286, title II][/us/pl/101/286/tII], § 203, May 9, 1990, [104 Stat. 175][/us/stat/104/175].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 
  __Forest Service Large Airtanker and Aerial Asset Firefighting Recapitalization Pilot Program__ 
 
-[Pub. L. 113–79, title VIII, § 8305][/us/pl/113/79/s8305], Feb. 7, 2014, [128 Stat. 925][/us/stat/128/925], provided that:
+[Pub. L. 113–79, title VIII][/us/pl/113/79/tVIII], § 8305, Feb. 7, 2014, [128 Stat. 925][/us/stat/128/925], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -75,7 +75,7 @@
 
  __Forest Firefighting Planning and Cooperation; Findings__ 
 
-[Pub. L. 101–286, title II, § 201][/us/pl/101/286/s201], May 9, 1990, [104 Stat. 174][/us/stat/104/174], provided that: 
+[Pub. L. 101–286, title II][/us/pl/101/286/tII], § 201, May 9, 1990, [104 Stat. 174][/us/stat/104/174], provided that: 
 
 > “The Congress finds that—
 
@@ -92,7 +92,7 @@
 
 [/us/usc/t7/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs301
 [/us/usc/t7/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs321
-[/us/pl/101/286/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F286%2Fs203
+[/us/pl/101/286/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F286%2FtII
 [/us/stat/104/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F175
 [/us/act/1862-07-02/ch130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1862-07-02%2Fch130
 [/us/stat/12/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F503
@@ -100,10 +100,10 @@
 [/us/act/1890-08-30/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-08-30%2Fch841
 [/us/stat/26/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F417
 [/us/usc/t7/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs321
-[/us/pl/113/79/s8305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8305
+[/us/pl/113/79/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVIII
 [/us/stat/128/925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F925
 [/us/usc/t41/s3903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3903
-[/us/pl/101/286/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F286%2Fs201
+[/us/pl/101/286/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F286%2FtII
 [/us/stat/104/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F174
 
 

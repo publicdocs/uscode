@@ -39,7 +39,7 @@
 
         Subject to valid existing rights, all public lands within the recreation area are hereby withdrawn from entry, sale, or other disposition under the public land laws of the United States. This subsection shall not affect the exchange authorities of the Secretary.
 
-([Pub. L. 101–612, § 6][/us/pl/101/612/s6], Nov. 16, 1990, [104 Stat. 3213][/us/stat/104/3213].)
+([Pub. L. 101–612][/us/pl/101/612], § 6, Nov. 16, 1990, [104 Stat. 3213][/us/stat/104/3213].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/101/612/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612%2Fs6
+[/us/pl/101/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612
 [/us/stat/104/3213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3213
 [/us/pl/101/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F612
 [/us/stat/104/3209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3209

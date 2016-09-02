@@ -31,13 +31,13 @@
 
         Owners of improved property acquired by the Secretary may reserve for themselves and their successors or assigns a right of use and occupancy of the improved property for noncommercial residential purposes or for hunting purposes, as hereinafter provided, for a term that is not more than twenty-five years. In such cases, the Secretary shall pay to the owner of the property the fair market value thereof less the fair market value of the right retained by such owner: Provided, That such use and occupancy shall be subject to general rules and regulations established by the Secretary with respect to the outward appearance of any buildings on the lands involved. The term “improved property” as used in sections 459f to 459f–11 of this title shall mean (1) any single-family residence the construction of which was begun before January 1, 1964, and such amount of land, not in excess of three acres, on which the building is situated as the Secretary considers reasonably necessary to the noncommercial residential use of the building, and (2) any property fronting on the Chincoteague Bay or Sinepuxent Bay, including the offshore bay islands adjacent thereto, that is used chiefly for hunting and continues in such use: Provided, That the Secretary may exclude from improved properties any marsh, beach, or waters, together with so much of the land adjoining such marsh, beach, or waters as he deems necessary for public use or public access thereto.
 
-([Pub. L. 89–195, § 2][/us/pl/89/195/s2], Sept. 21, 1965, [79 Stat. 824][/us/stat/79/824]; [Pub. L. 101–512, title I][/us/pl/101/512], Nov. 5, 1990, [104 Stat. 1924][/us/stat/104/1924]; [Pub. L. 102–320, § 1(1)][/us/pl/102/320/s1/1]–(4), July 10, 1992, [106 Stat. 321][/us/stat/106/321].)
+([Pub. L. 89–195][/us/pl/89/195], § 2, Sept. 21, 1965, [79 Stat. 824][/us/stat/79/824]; [Pub. L. 101–512, title I][/us/pl/101/512/tI], Nov. 5, 1990, [104 Stat. 1924][/us/stat/104/1924]; [Pub. L. 102–320][/us/pl/102/320], § 1(1)–(4), July 10, 1992, [106 Stat. 321][/us/stat/106/321].)
 
  __Amendments__ 
 
-    1992—Subsec. (a). [Pub. L. 102–320, § 1(1)][/us/pl/102/320/s1/1], (2), amended second and last sentences generally, substituting reference to 112 acres for reference to sixteen acres for an administrative site in second sentence and striking out reference in last sentence to sixteen acres of Federal property on the mainland in Worcester County, Maryland.
+    1992—Subsec. (a). [Pub. L. 102–320][/us/pl/102/320], § 1(1), (2), amended second and last sentences generally, substituting reference to 112 acres for reference to sixteen acres for an administrative site in second sentence and striking out reference in last sentence to sixteen acres of Federal property on the mainland in Worcester County, Maryland.
 
-    Subsec. (b). [Pub. L. 102–320, § 1(3)][/us/pl/102/320/s1/3], (4), amended first sentence generally, striking out reference to not more than sixteen acres of non-Federal property on the mainland in Worcester County, Maryland, and inserted at end “Notwithstanding the acreage limitation set forth in sections 459f to 459f–11 of this title, the Secretary is authorized to accept the donation of a scenic easement covering the parcel of land adjacent to the seashore and known as the ‘Woodcock Property’.”
+    Subsec. (b). [Pub. L. 102–320][/us/pl/102/320], § 1(3), (4), amended first sentence generally, striking out reference to not more than sixteen acres of non-Federal property on the mainland in Worcester County, Maryland, and inserted at end “Notwithstanding the acreage limitation set forth in sections 459f to 459f–11 of this title, the Secretary is authorized to accept the donation of a scenic easement covering the parcel of land adjacent to the seashore and known as the ‘Woodcock Property’.”
 
     1990—Subsecs. (a), (b). [Pub. L. 101–512][/us/pl/101/512] substituted “sixteen acres” for “ten acres” wherever appearing.
 
@@ -48,14 +48,14 @@
 ----------
 ----------
 
-[/us/pl/89/195/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F195%2Fs2
+[/us/pl/89/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F195
 [/us/stat/79/824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F824
-[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2FtI
 [/us/stat/104/1924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1924
-[/us/pl/102/320/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F320%2Fs1%2F1
+[/us/pl/102/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F320
 [/us/stat/106/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F321
-[/us/pl/102/320/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F320%2Fs1%2F1
-[/us/pl/102/320/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F320%2Fs1%2F3
+[/us/pl/102/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F320
+[/us/pl/102/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F320
 [/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
 
 

@@ -49,7 +49,7 @@
 
         The term “Secretary” means the Secretary of the Interior.
 
-([Pub. L. 113–239, § 2][/us/pl/113/239/s2], Dec. 18, 2014, [128 Stat. 2847][/us/stat/128/2847].)
+([Pub. L. 113–239][/us/pl/113/239], § 2, Dec. 18, 2014, [128 Stat. 2847][/us/stat/128/2847].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 
  __Short Title__ 
 
-[Pub. L. 113–239, § 1][/us/pl/113/239/s1], Dec. 18, 2014, [128 Stat. 2847][/us/stat/128/2847], provided that: 
+[Pub. L. 113–239][/us/pl/113/239], § 1, Dec. 18, 2014, [128 Stat. 2847][/us/stat/128/2847], provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘Permanent Electronic Duck Stamp Act of 2013’.”
 
@@ -70,12 +70,12 @@
 
 [/us/usc/t16/s718a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs718a
 [/us/usc/t16/s718q/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs718q%2Fb
-[/us/pl/113/239/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F239%2Fs2
+[/us/pl/113/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F239
 [/us/stat/128/2847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2847
 [/us/act/1934-03-16/ch71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-16%2Fch71
 [/us/stat/48/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F451
 [/us/usc/t16/s718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs718
-[/us/pl/113/239/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F239%2Fs1
+[/us/pl/113/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F239
 [/us/stat/128/2847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2847
 
 

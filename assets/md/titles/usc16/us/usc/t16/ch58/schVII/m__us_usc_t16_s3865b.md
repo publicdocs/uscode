@@ -187,7 +187,7 @@
 
         (2) implementation of an agricultural land easement plan.
 
-([Pub. L. 99–198, title XII, § 1265B][/us/pl/99/198/s1265B], as added [Pub. L. 113–79, title II, § 2301(a)][/us/pl/113/79/s2301/a], Feb. 7, 2014, [128 Stat. 734][/us/stat/128/734].)
+([Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1265B, as added [Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2301(a), Feb. 7, 2014, [128 Stat. 734][/us/stat/128/734].)
 
 ----------
 
@@ -197,8 +197,8 @@
 ----------
 
 [/us/usc/t26/s170/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs170%2Fh
-[/us/pl/99/198/s1265B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1265B
-[/us/pl/113/79/s2301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2301%2Fa
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F734
 
 

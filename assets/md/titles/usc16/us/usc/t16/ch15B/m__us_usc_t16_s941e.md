@@ -67,7 +67,7 @@
 
             The responsibilities of the Upper Great Lakes Fishery Resources Offices shall include operational activities of the United States Fish and Wildlife Service related to fishery resource protection, restoration, maintenance, and enhancement in the Upper Great Lakes.
 
-([Pub. L. 101–537, title I, § 1007][/us/pl/101/537/s1007], Nov. 8, 1990, [104 Stat. 2374][/us/stat/104/2374]; [Pub. L. 101–646, title II, § 2007][/us/pl/101/646/s2007], Nov. 29, 1990, [104 Stat. 4777][/us/stat/104/4777]; [Pub. L. 104–332, § 2(h)(1)][/us/pl/104/332/s2/h/1], Oct. 26, 1996, [110 Stat. 4091][/us/stat/110/4091]; [Pub. L. 105–265, § 3(b)][/us/pl/105/265/s3/b], Oct. 19, 1998, [112 Stat. 2358][/us/stat/112/2358]; [Pub. L. 109–326, § 6][/us/pl/109/326/s6], Oct. 11, 2006, [120 Stat. 1764][/us/stat/120/1764].)
+([Pub. L. 101–537, title I][/us/pl/101/537/tI], § 1007, Nov. 8, 1990, [104 Stat. 2374][/us/stat/104/2374]; [Pub. L. 101–646, title II][/us/pl/101/646/tII], § 2007, Nov. 29, 1990, [104 Stat. 4777][/us/stat/104/4777]; [Pub. L. 104–332][/us/pl/104/332], § 2(h)(1), Oct. 26, 1996, [110 Stat. 4091][/us/stat/110/4091]; [Pub. L. 105–265][/us/pl/105/265], § 3(b), Oct. 19, 1998, [112 Stat. 2358][/us/stat/112/2358]; [Pub. L. 109–326][/us/pl/109/326], § 6, Oct. 11, 2006, [120 Stat. 1764][/us/stat/120/1764].)
 
  __Codification__ 
 
@@ -75,13 +75,13 @@
 
  __Amendments__ 
 
-    2006—Subsec. (a). [Pub. L. 109–326, § 6(1)][/us/pl/109/326/s6/1], added subsec. (a) and struck out former subsec. (a). Text read as follows: “The Director shall establish a centrally located facility for the coordination of all United States Fish and Wildlife Service activities in the Great Lakes Basin, to be known as the ‘Great Lakes Coordination Office’. The functional responsibilities of the Great Lakes Coordination Office shall include intra- and interagency coordination, information distribution, and public awareness outreach. The Great Lakes Coordination Office shall include all administrative and technical support necessary to carry out its responsibilities.”
+    2006—Subsec. (a). [Pub. L. 109–326][/us/pl/109/326], § 6(1), added subsec. (a) and struck out former subsec. (a). Text read as follows: “The Director shall establish a centrally located facility for the coordination of all United States Fish and Wildlife Service activities in the Great Lakes Basin, to be known as the ‘Great Lakes Coordination Office’. The functional responsibilities of the Great Lakes Coordination Office shall include intra- and interagency coordination, information distribution, and public awareness outreach. The Great Lakes Coordination Office shall include all administrative and technical support necessary to carry out its responsibilities.”
 
-    Subsec. (b). [Pub. L. 109–326, § 6(2)][/us/pl/109/326/s6/2], designated first and second sentences of subsec. (b) as pars. (1) and (2), respectively, inserted headings, and added par. (3).
+    Subsec. (b). [Pub. L. 109–326][/us/pl/109/326], § 6(2), designated first and second sentences of subsec. (b) as pars. (1) and (2), respectively, inserted headings, and added par. (3).
 
-    Subsec. (c). [Pub. L. 109–326, § 6(3)][/us/pl/109/326/s6/3], designated first and second sentences of subsec. (c) as pars. (1) and (2), respectively, inserted headings, and added par. (3).
+    Subsec. (c). [Pub. L. 109–326][/us/pl/109/326], § 6(3), designated first and second sentences of subsec. (c) as pars. (1) and (2), respectively, inserted headings, and added par. (3).
 
-    1996—[Pub. L. 104–332][/us/pl/104/332] made technical amendment to [Pub. L. 101–646, § 2007][/us/pl/101/646/s2007], which enacted this section.
+    1996—[Pub. L. 104–332][/us/pl/104/332] made technical amendment to [Pub. L. 101–646][/us/pl/101/646], § 2007, which enacted this section.
 
 ----------
 
@@ -90,24 +90,24 @@
 ----------
 ----------
 
-[/us/pl/101/537/s1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F537%2Fs1007
+[/us/pl/101/537/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F537%2FtI
 [/us/stat/104/2374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2374
-[/us/pl/101/646/s2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs2007
+[/us/pl/101/646/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2FtII
 [/us/stat/104/4777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4777
-[/us/pl/104/332/s2/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fh%2F1
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
 [/us/stat/110/4091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4091
-[/us/pl/105/265/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F265%2Fs3%2Fb
+[/us/pl/105/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F265
 [/us/stat/112/2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2358
-[/us/pl/109/326/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F326%2Fs6
+[/us/pl/109/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F326
 [/us/stat/120/1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1764
 [/us/pl/101/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F537
 [/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
 [/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
 [/us/pl/105/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F265
-[/us/pl/109/326/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F326%2Fs6%2F1
-[/us/pl/109/326/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F326%2Fs6%2F2
-[/us/pl/109/326/s6/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F326%2Fs6%2F3
+[/us/pl/109/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F326
+[/us/pl/109/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F326
+[/us/pl/109/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F326
 [/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
-[/us/pl/101/646/s2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs2007
+[/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
 
 

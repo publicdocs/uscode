@@ -17,7 +17,7 @@
 
     Upon the recommendation of the Secretary of Agriculture the Secretary of the Interior is authorized in his discretion to accept, on behalf of the United States, title to any lands in private ownership within the boundaries of the game preserve established, and make exchange therefor under the provisions of sections 485 and 486 of this title.
 
-([July 3, 1926, ch. 776, § 5][/us/act/1926-07-03/ch776/s5], [44 Stat. 889][/us/stat/44/889].)
+([July 3, 1926, ch. 776][/us/act/1926-07-03/ch776], § 5, [44 Stat. 889][/us/stat/44/889].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1926-07-03/ch776/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-03%2Fch776%2Fs5
+[/us/act/1926-07-03/ch776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-03%2Fch776
 [/us/stat/44/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F889
 
 

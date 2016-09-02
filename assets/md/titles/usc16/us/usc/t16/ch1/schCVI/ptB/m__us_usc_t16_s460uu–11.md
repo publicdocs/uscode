@@ -17,7 +17,7 @@
 
     In order to provide for public appreciation, education, understanding, and enjoyment of certain nationally significant sites of antiquity in New Mexico and eastern Arizona which are accessible by public road, <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “roads,”. </sup></sup>  the Secretary, acting through the Director of the National Park Service, with the concurrence of the agency having jurisdiction over such roads, is authorized to designate, by publication of a description thereof in the Federal Register, a vehicular tour route along existing public roads linking prehistoric and historic cultural sites in New Mexico and eastern Arizona. Such a route shall be known as the Masau Trail (hereinafter referred to as the “trail”).
 
-([Pub. L. 100–225, title II, § 201][/us/pl/100/225/s201], Dec. 31, 1987, [101 Stat. 1540][/us/stat/101/1540].)
+([Pub. L. 100–225, title II][/us/pl/100/225/tII], § 201, Dec. 31, 1987, [101 Stat. 1540][/us/stat/101/1540].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/225/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F225%2Fs201
+[/us/pl/100/225/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F225%2FtII
 [/us/stat/101/1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1540
 
 

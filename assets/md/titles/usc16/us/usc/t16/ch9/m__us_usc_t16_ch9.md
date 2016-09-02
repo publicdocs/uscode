@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs742" data-uslm-ref="/us/usc/t16/s742">742</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs742l" data-uslm-ref="/us/usc/t16/s742l">742l.</a>  </td>
 
     <td> Enforcement authority for the protection of fish and wildlife resources.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs742" data-uslm-ref="/us/usc/t16/s742">742</a>l–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs742l" data-uslm-ref="/us/usc/t16/s742l">742l</a>–1.  </td>
 
     <td> Authority to use available law enforcement funds.  </td>
 

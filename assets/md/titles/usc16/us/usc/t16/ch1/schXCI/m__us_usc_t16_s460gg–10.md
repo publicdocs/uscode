@@ -17,7 +17,7 @@
 
     Ranching, grazing, farming, timber harvesting, and the occupation of homes and lands associated therewith, as they exist on December 31, 1975, are recognized as traditional and valid uses of the recreation area.
 
-([Pub. L. 94–199, § 13][/us/pl/94/199/s13], Dec. 31, 1975, [89 Stat. 1122][/us/stat/89/1122].)
+([Pub. L. 94–199][/us/pl/94/199], § 13, Dec. 31, 1975, [89 Stat. 1122][/us/stat/89/1122].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/199/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F199%2Fs13
+[/us/pl/94/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F199
 [/us/stat/89/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1122
 
 

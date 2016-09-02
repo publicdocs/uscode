@@ -127,33 +127,33 @@
 
         It is unlawful for any person subject to the jurisdiction of the United States to attempt to commit, solicit another to commit, or cause to be committed, any offense defined in this section.
 
-([Pub. L. 93–205, § 9][/us/pl/93/205/s9], Dec. 28, 1973, [87 Stat. 893][/us/stat/87/893]; [Pub. L. 95–632, § 4][/us/pl/95/632/s4], Nov. 10, 1978, [92 Stat. 3760][/us/stat/92/3760]; [Pub. L. 97–304, § 9(b)][/us/pl/97/304/s9/b], Oct. 13, 1982, [96 Stat. 1426][/us/stat/96/1426]; [Pub. L. 100–478, title I, § 1006][/us/pl/100/478/s1006], title II, § 2301, Oct. 7, 1988, [102 Stat. 2308][/us/stat/102/2308], 2321; [Pub. L. 100–653, title IX, § 905][/us/pl/100/653/s905], Nov. 14, 1988, [102 Stat. 3835][/us/stat/102/3835].)
+([Pub. L. 93–205][/us/pl/93/205], § 9, Dec. 28, 1973, [87 Stat. 893][/us/stat/87/893]; [Pub. L. 95–632][/us/pl/95/632], § 4, Nov. 10, 1978, [92 Stat. 3760][/us/stat/92/3760]; [Pub. L. 97–304][/us/pl/97/304], § 9(b), Oct. 13, 1982, [96 Stat. 1426][/us/stat/96/1426]; [Pub. L. 100–478, title I][/us/pl/100/478/tI], § 1006, title II, § 2301, Oct. 7, 1988, [102 Stat. 2308][/us/stat/102/2308], 2321; [Pub. L. 100–653, title IX][/us/pl/100/653/tIX], § 905, Nov. 14, 1988, [102 Stat. 3835][/us/stat/102/3835].)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (a)(1)(G), (2)(E), (c)(2), (e), and (f)(1), was in the original “this Act”, meaning [Pub. L. 93–205][/us/pl/93/205], Dec. 28, 1973, [81 Stat. 884][/us/stat/81/884], known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title][/us/usc/t16/s1531] and Tables.
 
-    [Section 668cc–4 of this title][/us/usc/t16/s668cc–4], referred to in subsec. (f)(2), was repealed by [Pub. L. 93–205, § 14][/us/pl/93/205/s14], Dec. 28, 1973, [87 Stat. 903][/us/stat/87/903].
+    [Section 668cc–4 of this title][/us/usc/t16/s668cc–4], referred to in subsec. (f)(2), was repealed by [Pub. L. 93–205][/us/pl/93/205], § 14, Dec. 28, 1973, [87 Stat. 903][/us/stat/87/903].
 
  __Amendments__ 
 
-    1988—Subsec. (a)(2)(B). [Pub. L. 100–478, § 1006][/us/pl/100/478/s1006], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “remove and reduce to possession any such species from areas under Federal jurisdiction;”.
+    1988—Subsec. (a)(2)(B). [Pub. L. 100–478][/us/pl/100/478], § 1006, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “remove and reduce to possession any such species from areas under Federal jurisdiction;”.
 
-    Subsec. (d). [Pub. L. 100–478, § 2301][/us/pl/100/478/s2301], amended subsec. (d) generally, revising and restating as pars. (1) to (4) provisions of former pars. (1) to (3).
+    Subsec. (d). [Pub. L. 100–478][/us/pl/100/478], § 2301, amended subsec. (d) generally, revising and restating as pars. (1) to (4) provisions of former pars. (1) to (3).
 
     Subsec. (d)(1)(A). [Pub. L. 100–653][/us/pl/100/653] inserted “or plants” after “purposes)”.
 
-    1982—Subsec. (a)(2)(B) to (E). [Pub. L. 97–304, § 9(b)(1)][/us/pl/97/304/s9/b/1], added subpar. (B) and redesignated former subpars. (B), (C), and (D) as (C), (D), and (E), respectively.
+    1982—Subsec. (a)(2)(B) to (E). [Pub. L. 97–304][/us/pl/97/304], § 9(b)(1), added subpar. (B) and redesignated former subpars. (B), (C), and (D) as (C), (D), and (E), respectively.
 
-    Subsec. (b)(1). [Pub. L. 97–304, § 9(b)(2)][/us/pl/97/304/s9/b/2], substituted “The provisions of subsections (a)(1)(A) and (a)(1)(G) of this section shall not apply to any fish or wildlife which was held in captivity or in a controlled environment on (A) December 28, 1973, or (B) the date of the publication in the Federal Register of a final regulation adding such fish or wildlife species to any list published pursuant to subsection (c) of [section 1533 of this title][/us/usc/t16/s1533]: Provided, That such holding and any subsequent holding or use of the fish or wildlife was not in the course of a commercial activity. With respect to any act prohibited by subsections (a)(1)(A) and (a)(1)(G) of this section which occurs after a period of 180 days from (i) December 28, 1973, or (ii) the date of publication in the Federal Register of a final regulation adding such fish or wildlife species to any list published pursuant to subsection (c) of [section 1533 of this title][/us/usc/t16/s1533], there shall be a rebuttable presumption that the fish or wildlife involved in such act is not entitled to the exemption contained in this subsection” for “The provisions of this section shall not apply to any fish or wildlife held in captivity or in a controlled environment on December 28, 1973, if the purposes of such holding are not contrary to the purposes of this chapter; except that this subsection shall not apply in the case of any fish or wildlife held in the course of a commercial activity. With respect to any act prohibited by this section which occurs after a period of 180 days from December 28, 1973, there shall be a rebuttable presumption that the fish or wildlife involved in such act was not held in captivity or in a controlled environment on December 28, 1973”.
+    Subsec. (b)(1). [Pub. L. 97–304][/us/pl/97/304], § 9(b)(2), substituted “The provisions of subsections (a)(1)(A) and (a)(1)(G) of this section shall not apply to any fish or wildlife which was held in captivity or in a controlled environment on (A) December 28, 1973, or (B) the date of the publication in the Federal Register of a final regulation adding such fish or wildlife species to any list published pursuant to subsection (c) of [section 1533 of this title][/us/usc/t16/s1533]: Provided, That such holding and any subsequent holding or use of the fish or wildlife was not in the course of a commercial activity. With respect to any act prohibited by subsections (a)(1)(A) and (a)(1)(G) of this section which occurs after a period of 180 days from (i) December 28, 1973, or (ii) the date of publication in the Federal Register of a final regulation adding such fish or wildlife species to any list published pursuant to subsection (c) of [section 1533 of this title][/us/usc/t16/s1533], there shall be a rebuttable presumption that the fish or wildlife involved in such act is not entitled to the exemption contained in this subsection” for “The provisions of this section shall not apply to any fish or wildlife held in captivity or in a controlled environment on December 28, 1973, if the purposes of such holding are not contrary to the purposes of this chapter; except that this subsection shall not apply in the case of any fish or wildlife held in the course of a commercial activity. With respect to any act prohibited by this section which occurs after a period of 180 days from December 28, 1973, there shall be a rebuttable presumption that the fish or wildlife involved in such act was not held in captivity or in a controlled environment on December 28, 1973”.
 
-    Subsec. (b)(2)(A). [Pub. L. 97–304, § 9(b)(3)][/us/pl/97/304/s9/b/3], substituted “The provisions of subsection (a)(1) shall not apply to” for “This section shall not apply to” in provisions preceding cl. (i).
+    Subsec. (b)(2)(A). [Pub. L. 97–304][/us/pl/97/304], § 9(b)(3), substituted “The provisions of subsection (a)(1) shall not apply to” for “This section shall not apply to” in provisions preceding cl. (i).
 
     1978—Subsec. (b). [Pub. L. 95–632][/us/pl/95/632] designated existing provision as par. (1) and added par. (2).
 
  __Human Activities Within Proximity of Whales__ 
 
-[Pub. L. 103–238, § 17][/us/pl/103/238/s17], Apr. 30, 1994, [108 Stat. 559][/us/stat/108/559], provided that:
+[Pub. L. 103–238][/us/pl/103/238], § 17, Apr. 30, 1994, [108 Stat. 559][/us/stat/108/559], provided that:
 
 >     “(a)  __Lawful Approaches__  __.—__ 
 
@@ -184,32 +184,32 @@
 [/us/usc/t16/s1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1533
 [/us/usc/t16/s1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1533
 [/us/usc/t16/s1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1533
-[/us/pl/93/205/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205%2Fs9
+[/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F893
-[/us/pl/95/632/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F632%2Fs4
+[/us/pl/95/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F632
 [/us/stat/92/3760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3760
-[/us/pl/97/304/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs9%2Fb
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
 [/us/stat/96/1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1426
-[/us/pl/100/478/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2Fs1006
+[/us/pl/100/478/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2FtI
 [/us/stat/102/2308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2308
-[/us/pl/100/653/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2Fs905
+[/us/pl/100/653/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653%2FtIX
 [/us/stat/102/3835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3835
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/81/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F884
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/usc/t16/s668cc–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668cc%E2%80%934
-[/us/pl/93/205/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205%2Fs14
+[/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F903
-[/us/pl/100/478/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2Fs1006
-[/us/pl/100/478/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478%2Fs2301
+[/us/pl/100/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478
+[/us/pl/100/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F478
 [/us/pl/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F653
-[/us/pl/97/304/s9/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs9%2Fb%2F1
-[/us/pl/97/304/s9/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs9%2Fb%2F2
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
 [/us/usc/t16/s1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1533
 [/us/usc/t16/s1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1533
-[/us/pl/97/304/s9/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304%2Fs9%2Fb%2F3
+[/us/pl/97/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F304
 [/us/pl/95/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F632
-[/us/pl/103/238/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs17
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
 [/us/stat/108/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F559
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
 

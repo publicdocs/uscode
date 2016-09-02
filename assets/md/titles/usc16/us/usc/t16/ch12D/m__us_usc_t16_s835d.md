@@ -19,7 +19,7 @@
 
     The Secretary of the Interior, in lieu of reserving rights of hunting, fishing, and boating to the Indians in the areas granted under this section and sections 835e to 835h of this title, shall set aside approximately one-quarter of the entire reservoir area for the paramount use of the Indians of the Spokane and Colville Reservations for hunting, fishing, and boating purposes, which rights shall be subject only to such reasonable regulations as the Secretary may prescribe for the protection and conservation of fish and wildlife: Provided, That the exercise of the Indians’ rights shall not interfere with project operations. The Secretary shall also, where necessary, grant to the Indians reasonable rights of access to such area or areas across any project lands.
 
-([June 29, 1940, ch. 460, § 1][/us/act/1940-06-29/ch460/s1], [54 Stat. 703][/us/stat/54/703]; [Dec. 16, 1944, ch. 602][/us/act/1944-12-16/ch602], [58 Stat. 813][/us/stat/58/813]; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, [60 Stat. 1100][/us/stat/60/1100].)
+([June 29, 1940, ch. 460][/us/act/1940-06-29/ch460], § 1, [54 Stat. 703][/us/stat/54/703]; [Dec. 16, 1944, ch. 602][/us/act/1944-12-16/ch602], [58 Stat. 813][/us/stat/58/813]; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, [60 Stat. 1100][/us/stat/60/1100].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 [/us/stat/49/1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1028
 [/us/stat/53/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1187
 [/us/stat/57/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F14
-[/us/act/1940-06-29/ch460/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-29%2Fch460%2Fs1
+[/us/act/1940-06-29/ch460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-29%2Fch460
 [/us/stat/54/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F703
 [/us/act/1944-12-16/ch602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-12-16%2Fch602
 [/us/stat/58/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F813

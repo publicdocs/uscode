@@ -17,7 +17,7 @@
 
     The Secretary, in consultation with the Secretary of the Interior, is authorized to establish a program to provide grants to prepare reports and plans provided for in this subchapter and subchapter III in order to promote coordinated research, enforcement, enhancement, and management of the salmon and steelhead resources within the Washington and Columbia River conservation areas consistent with the purposes of this chapter. Such grants shall be available for use by the State of Washington, the State of Oregon, appropriate tribal coordinating bodies, or any joint governmental entity established for undertaking research, or providing advice on or mechanisms for coordinating management or enforcement, or preparing the reports and plans described in this subchapter and subchapter III.
 
-([Pub. L. 96–561, title I, § 112][/us/pl/96/561/s112], Dec. 22, 1980, [94 Stat. 3279][/us/stat/94/3279].)
+([Pub. L. 96–561, title I][/us/pl/96/561/tI], § 112, Dec. 22, 1980, [94 Stat. 3279][/us/stat/94/3279].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/561/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs112
+[/us/pl/96/561/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtI
 [/us/stat/94/3279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3279
 
 

@@ -31,7 +31,7 @@
 
         (2) each State (including, for the purposes of this subsection, the State of Kentucky, the State of Tennessee, and any other State) that receives a payment under that section shall continue to calculate the amounts to be distributed to the State and local governments, as though the transfer had not been made.
 
-([Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title V, § 513\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–313.)
+([Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title V, § 513\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–313.)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t16/s500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs500
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 
 

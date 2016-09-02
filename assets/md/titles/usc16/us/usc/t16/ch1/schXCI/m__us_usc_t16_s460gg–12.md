@@ -17,7 +17,7 @@
 
     The Secretary may cooperate with other Federal agencies, with State and local public agencies, and with private individuals and agencies in the development and operation of facilities and services in the area in furtherance of the purposes of this subchapter, including, but not limited to, restoration and maintenance of the historic setting and background of towns and settlements within the recreation area.
 
-([Pub. L. 94–199, § 15][/us/pl/94/199/s15], Dec. 31, 1975, [89 Stat. 1122][/us/stat/89/1122].)
+([Pub. L. 94–199][/us/pl/94/199], § 15, Dec. 31, 1975, [89 Stat. 1122][/us/stat/89/1122].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/199/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F199%2Fs15
+[/us/pl/94/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F199
 [/us/stat/89/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1122
 
 

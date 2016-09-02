@@ -27,7 +27,7 @@
 
         The Secretary shall give preference to the village corporations of Saint Paul and Saint George Islands established pursuant to [section 1607 of title 43][/us/usc/t43/s1607] for the taking of fur seals on the village corporations’ respective islands, and the curing and marketing of the sealskins and other seal parts, and may retain the proceeds therefrom. Any proceeds therefrom will be deposited in a separate fund in the Treasury and will be available to the Secretary, subject to appropriations, for the purpose of this section. All seal harvests will be financed, to the extent possible, from proceeds collected in preceding years or unsold assets retained from harvests conducted in preceding years. In the event that such assets and proceeds are insufficient, as determined by the Secretary, to finance the seal harvest in accordance with the requirements of the Convention, there are authorized to be appropriated to the Secretary for fiscal year 1984, and for fiscal year 1985 and beyond if the Convention is extended by protocol signed by the parties and made effective as to the United States, such sums as may be necessary to carry out the harvest and curing on the Pribilof Islands. Such amounts as are determined by the Secretary to exceed amounts required to carry out this section shall be transferred to the General Fund of the Treasury.
 
-([Pub. L. 89–702, title I, § 105][/us/pl/89/702/s105], Nov. 2, 1966, [80 Stat. 1092][/us/stat/80/1092]; [Pub. L. 98–129, § 2][/us/pl/98/129/s2], Oct. 14, 1983, [97 Stat. 836][/us/stat/97/836].)
+([Pub. L. 89–702, title I][/us/pl/89/702/tI], § 105, Nov. 2, 1966, [80 Stat. 1092][/us/stat/80/1092]; [Pub. L. 98–129][/us/pl/98/129], § 2, Oct. 14, 1983, [97 Stat. 836][/us/stat/97/836].)
 
  __Amendments__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t43/s1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1607
-[/us/pl/89/702/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2Fs105
+[/us/pl/89/702/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F702%2FtI
 [/us/stat/80/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1092
-[/us/pl/98/129/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129%2Fs2
+[/us/pl/98/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129
 [/us/stat/97/836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F836
 [/us/pl/98/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F129
 [/us/usc/t16/s1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1156

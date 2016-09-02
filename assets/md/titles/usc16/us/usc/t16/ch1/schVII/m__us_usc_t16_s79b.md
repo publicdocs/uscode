@@ -37,7 +37,7 @@
 
         Within the area outside the boundaries of Redwood National Park indicated as the “Park Protection Zone” on the map entitled “Proposed Additions, Redwood National Park, California”, numbered 167–80005–D and dated March 1978, the Secretary is authorized to acquire lands and interests in land: Provided, That lands may be acquired from a willing seller or upon a finding by the Secretary that failure to acquire all or a portion of such lands could result in physical damage to park resources and following notice to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Natural Resources of the House of Representatives. Any lands so acquired shall be managed in a manner which will maximize the protection of the resources of Redwood National Park, and in accordance with the Act of October 21, 1976 ([90 Stat. 2743][/us/stat/90/2743]) \[[43 U.S.C. 1701][/us/usc/t43/s1701] et seq.\]. Acquisition of a parcel of land under the authority of this subsection shall not as a result of such acquisition diminish the right of owners of adjacent lands to the peaceful use and enjoyment of their land and shall not confer authority upon the Secretary to acquire additional lands except as provided in this subsection.
 
-([Pub. L. 90–545, § 2][/us/pl/90/545/s2], Oct. 2, 1968, [82 Stat. 931][/us/stat/82/931]; [Pub. L. 95–250, title I, § 101(a)(1)][/us/pl/95/250/s101/a/1], (2), Mar. 27, 1978, [92 Stat. 163][/us/stat/92/163]; [Pub. L. 103–437, § 6(d)(7)][/us/pl/103/437/s6/d/7], Nov. 2, 1994, [108 Stat. 4583][/us/stat/108/4583]; [Pub. L. 109–131, title III, § 302][/us/pl/109/131/s302], Dec. 20, 2005, [119 Stat. 2569][/us/stat/119/2569].)
+([Pub. L. 90–545][/us/pl/90/545], § 2, Oct. 2, 1968, [82 Stat. 931][/us/stat/82/931]; [Pub. L. 95–250, title I][/us/pl/95/250/tI], § 101(a)(1), (2), Mar. 27, 1978, [92 Stat. 163][/us/stat/92/163]; [Pub. L. 103–437][/us/pl/103/437], § 6(d)(7), Nov. 2, 1994, [108 Stat. 4583][/us/stat/108/4583]; [Pub. L. 109–131, title III][/us/pl/109/131/tIII], § 302, Dec. 20, 2005, [119 Stat. 2569][/us/stat/119/2569].)
 
  __References in Text__ 
 
@@ -49,11 +49,11 @@
 
     1994—Subsec. (c). [Pub. L. 103–437][/us/pl/103/437] substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
-    1978—Subsec. (a). [Pub. L. 95–250, § 101(a)(1)][/us/pl/95/250/s101/a/1], (2), inserted “and the area indicated as ‘Proposed Additions’ on the map entitled ‘Additional Lands, Redwood National Park, California’, numbered 167–80005–D and dated March 1978,” after “and dated September 1968,” and substituted “one hundred and six thousand acres, exclusive of submerged lands and publicly owned highways and roads” for “fifty-eight thousand acres, exclusive of submerged lands”.
+    1978—Subsec. (a). [Pub. L. 95–250][/us/pl/95/250], § 101(a)(1), (2), inserted “and the area indicated as ‘Proposed Additions’ on the map entitled ‘Additional Lands, Redwood National Park, California’, numbered 167–80005–D and dated March 1978,” after “and dated September 1968,” and substituted “one hundred and six thousand acres, exclusive of submerged lands and publicly owned highways and roads” for “fifty-eight thousand acres, exclusive of submerged lands”.
 
-    Subsec. (b). [Pub. L. 95–250, § 101(a)(2)][/us/pl/95/250/s101/a/2], struck out “by donation only” after “The Secretary is authorized to acquire”.
+    Subsec. (b). [Pub. L. 95–250][/us/pl/95/250], § 101(a)(2), struck out “by donation only” after “The Secretary is authorized to acquire”.
 
-    Subsec. (c). [Pub. L. 95–250, § 101(a)(2)][/us/pl/95/250/s101/a/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 95–250][/us/pl/95/250], § 101(a)(2), added subsec. (c).
 
 ----------
 
@@ -64,13 +64,13 @@
 
 [/us/stat/90/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2743
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
-[/us/pl/90/545/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F545%2Fs2
+[/us/pl/90/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F545
 [/us/stat/82/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F931
-[/us/pl/95/250/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250%2Fs101%2Fa%2F1
+[/us/pl/95/250/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250%2FtI
 [/us/stat/92/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F163
-[/us/pl/103/437/s6/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fd%2F7
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4583
-[/us/pl/109/131/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F131%2Fs302
+[/us/pl/109/131/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F131%2FtIII
 [/us/stat/119/2569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2569
 [/us/stat/90/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2743
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
@@ -78,8 +78,8 @@
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
 [/us/pl/109/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F131
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
-[/us/pl/95/250/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250%2Fs101%2Fa%2F1
-[/us/pl/95/250/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250%2Fs101%2Fa%2F2
-[/us/pl/95/250/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250%2Fs101%2Fa%2F2
+[/us/pl/95/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250
+[/us/pl/95/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250
+[/us/pl/95/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F250
 
 

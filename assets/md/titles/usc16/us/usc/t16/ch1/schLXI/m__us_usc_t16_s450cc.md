@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to accept, on behalf of the United States, title to the site, comprising approximately one acre and situated in Battery Park, New York City, of the historic structure known as Castle Clinton, together with such structure and any other improvement on or appurtenant to such site. When title to such property is vested in the United States, it shall constitute the Castle Clinton National Monument.
 
-([Aug. 12, 1946, ch. 954, § 1][/us/act/1946-08-12/ch954/s1], [60 Stat. 997][/us/stat/60/997].)
+([Aug. 12, 1946, ch. 954][/us/act/1946-08-12/ch954], § 1, [60 Stat. 997][/us/stat/60/997].)
 
  __Preservation and Administration of Castle Clinton National Monument__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1946-08-12/ch954/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-12%2Fch954%2Fs1
+[/us/act/1946-08-12/ch954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-12%2Fch954
 [/us/stat/60/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F997
 [/us/act/1955-08-11/ch779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch779
 [/us/stat/69/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F632

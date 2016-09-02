@@ -17,7 +17,7 @@
 
     All lands purchased from funds heretofore allocated and made available by Executive order, or otherwise, or which hereafter may be allocated and made available for the acquisition of lands for conservation or forestation purposes within the maximum boundaries of the Great Smoky Mountains National Park as authorized by sections 403 and 403a to 403c of this title, are made a part of the said park as fully as if originally acquired for that purpose.
 
-([June 15, 1934, ch. 538, § 2][/us/act/1934-06-15/ch538/s2], [48 Stat. 964][/us/stat/48/964].)
+([June 15, 1934, ch. 538][/us/act/1934-06-15/ch538], § 2, [48 Stat. 964][/us/stat/48/964].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1934-06-15/ch538/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-15%2Fch538%2Fs2
+[/us/act/1934-06-15/ch538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-15%2Fch538
 [/us/stat/48/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F964
 
 

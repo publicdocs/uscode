@@ -17,7 +17,7 @@
 
     Upon finding and determination by the Secretary of Agriculture that the public purposes and objectives explicit and implicit in sections 577 to 577b of this title, more effectively can be accomplished by exchanging lands of the United States situated within the boundaries described in said sections for other lands in State, county, or private ownership situated within the said boundaries which are more suitable for public ownership, management, and use, for the purposes contemplated by said sections, such lands of the United States shall be subject to exchange under the provisions of sections 485 and 486 of this title, or the provisions of [section 516 of this title][/us/usc/t16/s516].
 
-([June 22, 1948, ch. 593, § 4][/us/act/1948-06-22/ch593/s4], [62 Stat. 570][/us/stat/62/570].)
+([June 22, 1948, ch. 593][/us/act/1948-06-22/ch593], § 4, [62 Stat. 570][/us/stat/62/570].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs516
-[/us/act/1948-06-22/ch593/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-22%2Fch593%2Fs4
+[/us/act/1948-06-22/ch593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-22%2Fch593
 [/us/stat/62/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F570
 
 

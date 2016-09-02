@@ -31,7 +31,7 @@
 
         It is declared to be the policy of the Congress, as expressed in this chapter, to preserve the said preferential status of the public bodies and cooperatives herein referred to, and to give to the people of the States within economic transmission distance of the Bonneville project reasonable opportunity and time to hold any election or elections or take any action necessary to create such public bodies and cooperatives as the laws of such States authorize and permit, and to afford such public bodies or cooperatives reasonable time and opportunity to take any action necessary to authorize the issuance of bonds or to arrange other financing necessary to construct or acquire necessary and desirable electric distribution facilities, and in all other respects legally to become qualified purchasers and distributors of electric energy available under this chapter.
 
-([Aug. 20, 1937, ch. 720, § 4][/us/act/1937-08-20/ch720/s4], [50 Stat. 733][/us/stat/50/733]; [Mar. 6, 1940, ch. 47, § 3][/us/act/1940-03-06/ch47/s3], [54 Stat. 47][/us/stat/54/47].)
+([Aug. 20, 1937, ch. 720][/us/act/1937-08-20/ch720], § 4, [50 Stat. 733][/us/stat/50/733]; [Mar. 6, 1940, ch. 47][/us/act/1940-03-06/ch47], § 3, [54 Stat. 47][/us/stat/54/47].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/act/1937-08-20/ch720/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-20%2Fch720%2Fs4
+[/us/act/1937-08-20/ch720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-20%2Fch720
 [/us/stat/50/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F733
-[/us/act/1940-03-06/ch47/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-03-06%2Fch47%2Fs3
+[/us/act/1940-03-06/ch47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-03-06%2Fch47
 [/us/stat/54/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F47
 
 

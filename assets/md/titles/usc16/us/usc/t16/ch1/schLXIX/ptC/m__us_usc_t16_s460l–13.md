@@ -31,7 +31,7 @@
 
         The non-Federal share of the separable costs of the project allocated to recreation and fish and wildlife enhancement shall be borne by non-Federal interests, under either or both of the following methods as may be determined appropriate by the head of the Federal agency having jurisdiction over the project: (1) payment, or provision of lands, interests therein, or facilities for the project; or (2) repayment, with interest at a rate comparable to that for other interest-bearing functions of Federal water resource projects, within fifty years of first use of project recreation or fish and wildlife enhancement facilities: Provided, That the source of repayment may be limited to entrance and user fees or charges collected at the project by non-Federal interests if the fee schedule and the portion of fees dedicated to repayment are established on a basis calculated to achieve repayment as aforesaid and are made subject to review and renegotiation at intervals of not more than five years.
 
-([Pub. L. 89–72, § 2][/us/pl/89/72/s2], July 9, 1965, [79 Stat. 214][/us/stat/79/214]; [Pub. L. 93–251, title I, § 77(a)(1)][/us/pl/93/251/s77/a/1], (2), Mar. 7, 1974, [88 Stat. 33][/us/stat/88/33]; [Pub. L. 102–575, title XXVIII, § 2804(a)][/us/pl/102/575/s2804/a], Oct. 30, 1992, [106 Stat. 4691][/us/stat/106/4691].)
+([Pub. L. 89–72][/us/pl/89/72], § 2, July 9, 1965, [79 Stat. 214][/us/stat/79/214]; [Pub. L. 93–251, title I][/us/pl/93/251/tI], § 77(a)(1), (2), Mar. 7, 1974, [88 Stat. 33][/us/stat/88/33]; [Pub. L. 102–575, title XXVIII][/us/pl/102/575/tXXVIII], § 2804(a), Oct. 30, 1992, [106 Stat. 4691][/us/stat/106/4691].)
 
  __Amendments__ 
 
@@ -41,13 +41,13 @@
 
  __Effective Date of 1974 Amendment__ 
 
-[Pub. L. 93–251, title I, § 77(b)][/us/pl/93/251/s77/b], Mar. 7, 1974, [88 Stat. 33][/us/stat/88/33], provided that: 
+[Pub. L. 93–251, title I][/us/pl/93/251/tI], § 77(b), Mar. 7, 1974, [88 Stat. 33][/us/stat/88/33], provided that: 
 
 > “The amendments made by this section \[amending this section and section 460l–14 of this title\] shall apply to all projects the construction of which is not substantially completed on the date of enactment of this Act \[Mar. 7, 1974\].”
 
  __Cost Sharing Requirements__ 
 
-[Pub. L. 93–251, title I, § 77(c)][/us/pl/93/251/s77/c], Mar. 7, 1974, [88 Stat. 33][/us/stat/88/33], provided that: 
+[Pub. L. 93–251, title I][/us/pl/93/251/tI], § 77(c), Mar. 7, 1974, [88 Stat. 33][/us/stat/88/33], provided that: 
 
 > “In the case of any project (1) authorized subject to specific cost-sharing requirements which were based on the same percentages as those established in the Federal Water Project Recreation Act \[section 460l–12 et seq. of this title\], and (2) construction of which is not substantially completed on the date of enactment of this Act \[Mar. 7, 1974\], the cost-sharing requirements for such project shall be the same percentages as are established by the amendments made by subsection (a) of this section \[to subsec. (a) of this section and section 460l–14(b)(1) of this title\] for projects which are subject to the Federal Water Project Recreation Act \[section 460l–12 et seq. of this title\].”
 
@@ -58,17 +58,17 @@
 ----------
 ----------
 
-[/us/pl/89/72/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F72%2Fs2
+[/us/pl/89/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F72
 [/us/stat/79/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F214
-[/us/pl/93/251/s77/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2Fs77%2Fa%2F1
+[/us/pl/93/251/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2FtI
 [/us/stat/88/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F33
-[/us/pl/102/575/s2804/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575%2Fs2804%2Fa
+[/us/pl/102/575/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575%2FtXXVIII
 [/us/stat/106/4691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4691
 [/us/pl/102/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F575
 [/us/pl/93/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251
-[/us/pl/93/251/s77/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2Fs77%2Fb
+[/us/pl/93/251/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2FtI
 [/us/stat/88/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F33
-[/us/pl/93/251/s77/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2Fs77%2Fc
+[/us/pl/93/251/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F251%2FtI
 [/us/stat/88/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F33
 
 

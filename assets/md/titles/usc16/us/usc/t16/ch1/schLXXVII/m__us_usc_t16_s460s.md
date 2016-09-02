@@ -17,7 +17,7 @@
 
     In order to preserve for the benefit, inspiration, education, recreational use, and enjoyment of the public a significant portion of the diminishing shoreline of the United States and its related geographic and scientific features, the Secretary of the Interior (hereinafter referred to as the “Secretary”) is authorized to take appropriate action, as herein provided, to establish in the State of Michigan the Pictured Rocks National Lakeshore.
 
-([Pub. L. 89–668, § 1][/us/pl/89/668/s1], Oct. 15, 1966, [80 Stat. 922][/us/stat/80/922].)
+([Pub. L. 89–668][/us/pl/89/668], § 1, Oct. 15, 1966, [80 Stat. 922][/us/stat/80/922].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/668/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F668%2Fs1
+[/us/pl/89/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F668
 [/us/stat/80/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F922
 
 

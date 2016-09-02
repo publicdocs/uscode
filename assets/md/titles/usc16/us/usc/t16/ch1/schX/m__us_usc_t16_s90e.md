@@ -19,7 +19,7 @@
 
     (b) The previous classification of the North Cascades Primitive Area is hereby abolished.
 
-([Pub. L. 90–544, title VI, § 601][/us/pl/90/544/s601], Oct. 2, 1968, [82 Stat. 930][/us/stat/82/930].)
+([Pub. L. 90–544, title VI][/us/pl/90/544/tVI], § 601, Oct. 2, 1968, [82 Stat. 930][/us/stat/82/930].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
 [/us/usc/t16/s90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs90
-[/us/pl/90/544/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F544%2Fs601
+[/us/pl/90/544/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F544%2FtVI
 [/us/stat/82/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F930
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890

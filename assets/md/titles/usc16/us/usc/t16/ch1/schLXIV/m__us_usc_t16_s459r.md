@@ -17,7 +17,7 @@
 
     Except as provided in [section 459s of this title][/us/usc/t16/s459s], the Secretary of the Interior is authorized, with the approval of the President, to convey or lease to the States or to the political subdivisions thereof, without consideration, any or all of the recreational demonstration projects and lands, improvements, and equipment comprised within such projects transferred to him by Executive Order Numbered 7496, dated November 14, 1936, or any parts of such projects, when in his judgment such grantees or lessees are adequately prepared to administer, operate, and maintain such project areas for public park, recreational, and conservation purposes, or he may, with the approval of the President, transfer to other Federal agencies any of the aforesaid recreational demonstration areas that may be of use to such agencies.
 
-([June 6, 1942, ch. 380, § 1][/us/act/1942-06-06/ch380/s1], [56 Stat. 326][/us/stat/56/326].)
+([June 6, 1942, ch. 380][/us/act/1942-06-06/ch380], § 1, [56 Stat. 326][/us/stat/56/326].)
 
  __Delegation of Functions__ 
 
@@ -1577,7 +1577,7 @@ White Sands  </td>
 ----------
 
 [/us/usc/t16/s459s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459s
-[/us/act/1942-06-06/ch380/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-06-06%2Fch380%2Fs1
+[/us/act/1942-06-06/ch380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-06-06%2Fch380
 [/us/stat/56/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F326
 [/us/usc/t15/s715j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs715j
 [/us/act/1947-07-30/ch351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-30%2Fch351

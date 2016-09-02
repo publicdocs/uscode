@@ -17,7 +17,7 @@
 
     Subject to valid existing rights, the lands within the scenic area are hereby withdrawn from disposition under all laws pertaining to mineral leasing, including all laws pertaining to geothermal leasing. Also subject to valid existing rights, the Secretary shall not allow any mineral development on federally owned land within the scenic area, except that common varieties of mineral materials, such as stone and gravel, may be utilized only as authorized by the Secretary to the extent necessary for construction and maintenance of roads and facilities within the scenic area.
 
-([Pub. L. 106–431, § 6][/us/pl/106/431/s6], Nov. 6, 2000, [114 Stat. 1907][/us/stat/114/1907].)
+([Pub. L. 106–431][/us/pl/106/431], § 6, Nov. 6, 2000, [114 Stat. 1907][/us/stat/114/1907].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/431/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F431%2Fs6
+[/us/pl/106/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F431
 [/us/stat/114/1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1907
 
 

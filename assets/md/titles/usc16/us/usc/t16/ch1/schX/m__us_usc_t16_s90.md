@@ -17,11 +17,11 @@
 
     In order to preserve for the benefit, use, and inspiration of present and future generations certain majestic mountain scenery, snow fields, glaciers, alpine meadows, and other unique natural features in the North Cascade Mountains of the State of Washington, there is hereby established, subject to valid existing rights, the North Cascades National Park (hereinafter referred to in this subchapter as the “park”). The park shall consist of the lands, waters, and interests therein within the area designated “national park” on the map entitled “Proposed Management Units, North Cascades, Washington,” numbered NP–CAS–7002, and dated October 1967. The map shall be on file and available for public inspection in the office of the Director, National Park Service, Department of the Interior, and in the office of the Chief, Forest Service, Department of Agriculture.
 
-([Pub. L. 90–544, title I, § 101][/us/pl/90/544/s101], Oct. 2, 1968, [82 Stat. 926][/us/stat/82/926].)
+([Pub. L. 90–544, title I][/us/pl/90/544/tI], § 101, Oct. 2, 1968, [82 Stat. 926][/us/stat/82/926].)
 
  __Short Title of 1988 Amendment__ 
 
-[Pub. L. 100–668, § 1][/us/pl/100/668/s1], Nov. 16, 1988, [102 Stat. 3961][/us/stat/102/3961], provided: 
+[Pub. L. 100–668][/us/pl/100/668], § 1, Nov. 16, 1988, [102 Stat. 3961][/us/stat/102/3961], provided: 
 
 > “That this Act \[enacting [section 110c of this title][/us/usc/t16/s110c], amending sections 90b, 90c–1, 90d–4, 251n, 256b, 256c, and 1274 of this title, and enacting provisions listed in a table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132] and provisions set out as a note under [section 251n of this title][/us/usc/t16/s251n]\] may be cited as the ‘Washington Park Wilderness Act of 1988’.”
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/90/544/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F544%2Fs101
+[/us/pl/90/544/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F544%2FtI
 [/us/stat/82/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F926
-[/us/pl/100/668/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F668%2Fs1
+[/us/pl/100/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F668
 [/us/stat/102/3961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3961
 [/us/usc/t16/s110c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs110c
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132

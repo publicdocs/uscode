@@ -23,7 +23,7 @@
 
         The Secretary of State, in consultation with the Secretary and the Secretary of the department in which the Coast Guard is operating, is authorized to enter into agreements with any contracting party, pursuant to paragraph 3 of article IX of the Convention, relating to cooperative enforcement of the provisions of the Convention, recommendations in force for the United States and such party or parties under the Convention, and regulations adopted by the United States and such contracting party or parties pursuant to recommendations of the Commission. Such agreements may authorize personnel of the United States to enforce measures under the Convention and under regulations of another party with respect to persons under that party’s jurisdiction, and may authorize personnel of another party to enforce measures under the Convention and under United States regulations with respect to persons subject to the jurisdiction of the United States. Enforcement under such an agreement may not take place within the territorial seas or exclusive economic zone of the United States. Such agreements shall not subject persons or vessels under the jurisdiction of the United States to prosecution or assessment of penalties by any court or tribunal of a foreign country.
 
-([Pub. L. 94–70, § 5][/us/pl/94/70/s5], Aug. 5, 1975, [89 Stat. 386][/us/stat/89/386]; [Pub. L. 104–43, title III, § 303(3)][/us/pl/104/43/s303/3], Nov. 3, 1995, [109 Stat. 384][/us/stat/109/384]; [Pub. L. 105–384, title II, § 202(b)(1)(B)][/us/pl/105/384/s202/b/1/B], Nov. 13, 1998, [112 Stat. 3452][/us/stat/112/3452].)
+([Pub. L. 94–70][/us/pl/94/70], § 5, Aug. 5, 1975, [89 Stat. 386][/us/stat/89/386]; [Pub. L. 104–43, title III][/us/pl/104/43/tIII], § 303(3), Nov. 3, 1995, [109 Stat. 384][/us/stat/109/384]; [Pub. L. 105–384, title II][/us/pl/105/384/tII], § 202(b)(1)(B), Nov. 13, 1998, [112 Stat. 3452][/us/stat/112/3452].)
 
  __Amendments__ 
 
@@ -37,7 +37,7 @@
 
  __Management of Atlantic Yellowfin Tuna__ 
 
-[Pub. L. 104–43, title III, § 309(b)][/us/pl/104/43/s309/b], Nov. 3, 1995, [109 Stat. 387][/us/stat/109/387], as amended by [Pub. L. 104–297, title IV, § 406][/us/pl/104/297/s406], Oct. 11, 1996, [110 Stat. 3621][/us/stat/110/3621], provided that: 
+[Pub. L. 104–43, title III][/us/pl/104/43/tIII], § 309(b), Nov. 3, 1995, [109 Stat. 387][/us/stat/109/387], as amended by [Pub. L. 104–297, title IV][/us/pl/104/297/tIV], § 406, Oct. 11, 1996, [110 Stat. 3621][/us/stat/110/3621], provided that: 
 
 > “Not later than July 1, 1997, the Secretary of Commerce shall implement the recommendations of the International Commission for the Conservation of Atlantic Tunas regarding yellowfin tuna made pursuant to Article VIII of the International Convention for the Conservation of Atlantic Tunas and acted upon favorably by the Secretary of State under section 5(a) of the Atlantic Tunas Convention Act of 1975 ([16 U.S.C. 971c(a)][/us/usc/t16/s971c/a]).”
 
@@ -48,19 +48,19 @@
 ----------
 ----------
 
-[/us/pl/94/70/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F70%2Fs5
+[/us/pl/94/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F70
 [/us/stat/89/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F386
-[/us/pl/104/43/s303/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs303%2F3
+[/us/pl/104/43/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtIII
 [/us/stat/109/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F384
-[/us/pl/105/384/s202/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2Fs202%2Fb%2F1%2FB
+[/us/pl/105/384/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2FtII
 [/us/stat/112/3452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3452
 [/us/pl/105/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384
 [/us/pl/104/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43
 [/us/pl/104/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/104/43/s309/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs309%2Fb
+[/us/pl/104/43/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtIII
 [/us/stat/109/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F387
-[/us/pl/104/297/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs406
+[/us/pl/104/297/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtIV
 [/us/stat/110/3621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3621
 [/us/usc/t16/s971c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs971c%2Fa
 

@@ -47,7 +47,7 @@
 
         In recognition of the dispute that exists over whether a dam project should be constructed in the segment of the Main Stem of the Kings River from the point at elevation 1,595 feet above mean sea level downstream to the point at elevation 990 feet above mean sea level, Congress declares its intention at this time not to designate that segment of the Kings River as a component of the Wild and Scenic Rivers System. Notwithstanding any other provision of law, no Federal lands may be used for the construction of any dam or diversion within the boundaries of the special management area without specific authority of the Congress. In order to protect the natural, cultural, recreational, fishery, and wildlife values of the river segment referred to in this subsection, that segment shall be subject to the provisions of [section 1278(a) of this title][/us/usc/t16/s1278/a], in the same manner as if it were designated. Nothing in this Act shall preclude the Kings River Conservation District from conducting studies as it may deem appropriate.
 
-([Pub. L. 100–150, § 2][/us/pl/100/150/s2], Nov. 3, 1987, [101 Stat. 881][/us/stat/101/881].)
+([Pub. L. 100–150][/us/pl/100/150], § 2, Nov. 3, 1987, [101 Stat. 881][/us/stat/101/881].)
 
  __References in Text__ 
 
@@ -64,7 +64,7 @@
 
 [/us/usc/t30/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1001
 [/us/usc/t16/s1278/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1278%2Fa
-[/us/pl/100/150/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F150%2Fs2
+[/us/pl/100/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F150
 [/us/stat/101/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F881
 [/us/pl/100/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F150
 [/us/stat/101/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F881

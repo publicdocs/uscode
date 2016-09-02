@@ -49,7 +49,7 @@
 
         The boundaries of the Wilson’s Creek National Battlefield, as revised by subsection (b), represent the area within which Federal funds appropriated for the purpose of sections 430kk to 430mm of this title may be expended. The boundary revision shall not be construed to provide any nonexisting regulatory authority on land use within the National Battlefield or its viewshed by the Secretary or the National Park Service.
 
-([Pub. L. 86–434, § 1][/us/pl/86/434/s1], Apr. 22, 1960, [74 Stat. 76][/us/stat/74/76]; [Pub. L. 108–394, § 2(a)][/us/pl/108/394/s2/a], Oct. 30, 2004, [118 Stat. 2247][/us/stat/118/2247].)
+([Pub. L. 86–434][/us/pl/86/434], § 1, Apr. 22, 1960, [74 Stat. 76][/us/stat/74/76]; [Pub. L. 108–394][/us/pl/108/394], § 2(a), Oct. 30, 2004, [118 Stat. 2247][/us/stat/118/2247].)
 
  __Amendments__ 
 
@@ -57,7 +57,7 @@
 
  __Short Title of 2004 Amendment__ 
 
-[Pub. L. 108–394, § 1][/us/pl/108/394/s1], Oct. 30, 2004, [118 Stat. 2247][/us/stat/118/2247], provided that: 
+[Pub. L. 108–394][/us/pl/108/394], § 1, Oct. 30, 2004, [118 Stat. 2247][/us/stat/118/2247], provided that: 
 
 > “This Act \[amending this section and [section 430mm of this title][/us/usc/t16/s430mm]\] may be cited as the ‘Wilson’s Creek National Battlefield Boundary Adjustment Act of 2004’.”
 
@@ -68,12 +68,12 @@
 ----------
 ----------
 
-[/us/pl/86/434/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F434%2Fs1
+[/us/pl/86/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F434
 [/us/stat/74/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F76
-[/us/pl/108/394/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F394%2Fs2%2Fa
+[/us/pl/108/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F394
 [/us/stat/118/2247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2247
 [/us/pl/108/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F394
-[/us/pl/108/394/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F394%2Fs1
+[/us/pl/108/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F394
 [/us/stat/118/2247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2247
 [/us/usc/t16/s430mm]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs430mm
 

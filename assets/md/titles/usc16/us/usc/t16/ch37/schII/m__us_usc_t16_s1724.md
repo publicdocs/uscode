@@ -53,19 +53,19 @@
 
         The Secretary may provide any services, facilities, equipment, supplies, technical assistance, oversight, monitoring, or evaluations that are appropriate to carry out this subchapter.
 
-([Pub. L. 91–378, title II, § 205][/us/pl/91/378/s205], as added [Pub. L. 103–82, title I, § 105(6)][/us/pl/103/82/s105/6], Sept. 21, 1993, [107 Stat. 851][/us/stat/107/851]; amended [Pub. L. 109–154, § 2(d)][/us/pl/109/154/s2/d], (g)(2), Dec. 30, 2005, [119 Stat. 2891][/us/stat/119/2891], 2893.)
+([Pub. L. 91–378, title II][/us/pl/91/378/tII], § 205, as added [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 105(6), Sept. 21, 1993, [107 Stat. 851][/us/stat/107/851]; amended [Pub. L. 109–154][/us/pl/109/154], § 2(d), (g)(2), Dec. 30, 2005, [119 Stat. 2891][/us/stat/119/2891], 2893.)
 
  __Amendments__ 
 
-    2005—[Pub. L. 109–154, § 2(d)(1)][/us/pl/109/154/s2/d/1], inserted “and program support” after “Conservation centers” in section catchline.
+    2005—[Pub. L. 109–154][/us/pl/109/154], § 2(d)(1), inserted “and program support” after “Conservation centers” in section catchline.
 
-    Subsec. (a). [Pub. L. 109–154, § 2(d)(2)][/us/pl/109/154/s2/d/2], added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary of the Interior and the Secretary of Agriculture are each authorized to provide such quarters, board, medical care, transportation, and other services, facilities, supplies, and equipment as such Secretary deems necessary in connection with the Public Lands Corps and appropriate conservation projects carried out under this subchapter and to establish and use conservation centers owned and operated by such Secretary for purposes of the Corps and such projects. The Secretaries shall establish basic standards of health, nutrition, sanitation, and safety for all conservation centers established under this section and shall assure that such standards are enforced. Where necessary or appropriate, the Secretaries may enter into contracts and other appropriate arrangements with State and local government agencies and private organizations for the management of such conservation centers.”
+    Subsec. (a). [Pub. L. 109–154][/us/pl/109/154], § 2(d)(2), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary of the Interior and the Secretary of Agriculture are each authorized to provide such quarters, board, medical care, transportation, and other services, facilities, supplies, and equipment as such Secretary deems necessary in connection with the Public Lands Corps and appropriate conservation projects carried out under this subchapter and to establish and use conservation centers owned and operated by such Secretary for purposes of the Corps and such projects. The Secretaries shall establish basic standards of health, nutrition, sanitation, and safety for all conservation centers established under this section and shall assure that such standards are enforced. Where necessary or appropriate, the Secretaries may enter into contracts and other appropriate arrangements with State and local government agencies and private organizations for the management of such conservation centers.”
 
-    Subsec. (b). [Pub. L. 109–154, § 2(g)(2)(A)][/us/pl/109/154/s2/g/2/A], substituted “Secretary may” for “Secretary of the Interior and the Secretary of Agriculture may”.
+    Subsec. (b). [Pub. L. 109–154][/us/pl/109/154], § 2(g)(2)(A), substituted “Secretary may” for “Secretary of the Interior and the Secretary of Agriculture may”.
 
-    Subsec. (c). [Pub. L. 109–154, § 2(g)(2)(B)][/us/pl/109/154/s2/g/2/B], substituted “Secretary may” for “Secretary of the Interior and the Secretary of Agriculture may”.
+    Subsec. (c). [Pub. L. 109–154][/us/pl/109/154], § 2(g)(2)(B), substituted “Secretary may” for “Secretary of the Interior and the Secretary of Agriculture may”.
 
-    Subsec. (d). [Pub. L. 109–154, § 2(d)(3)][/us/pl/109/154/s2/d/3], added subsec. (d).
+    Subsec. (d). [Pub. L. 109–154][/us/pl/109/154], § 2(d)(3), added subsec. (d).
 
 ----------
 
@@ -74,15 +74,15 @@
 ----------
 ----------
 
-[/us/pl/91/378/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F378%2Fs205
-[/us/pl/103/82/s105/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs105%2F6
+[/us/pl/91/378/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F378%2FtII
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F851
-[/us/pl/109/154/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F154%2Fs2%2Fd
+[/us/pl/109/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F154
 [/us/stat/119/2891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2891
-[/us/pl/109/154/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F154%2Fs2%2Fd%2F1
-[/us/pl/109/154/s2/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F154%2Fs2%2Fd%2F2
-[/us/pl/109/154/s2/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F154%2Fs2%2Fg%2F2%2FA
-[/us/pl/109/154/s2/g/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F154%2Fs2%2Fg%2F2%2FB
-[/us/pl/109/154/s2/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F154%2Fs2%2Fd%2F3
+[/us/pl/109/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F154
+[/us/pl/109/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F154
+[/us/pl/109/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F154
+[/us/pl/109/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F154
+[/us/pl/109/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F154
 
 

@@ -17,7 +17,7 @@
 
     Reservations of timber, minerals, or easements, the values of which shall be duly considered in determining the values of the lands conveyed, may be made by the owner or owners thereof in lands conveyed to the United States under the provisions of sections 37 to 40 of this title. Where such reservations are made, the right to enjoy them shall be subject to such reasonable conditions respecting ingress and egress and the use of the surface of the land as may be deemed necessary by the Secretary of the Interior or the Secretary of Agriculture, whichever may be responsible for the handling and use of the land as provided in said sections: Provided, That all property, rights, easements, and benefits authorized by this section to be retained by or reserved to owners of land conveyed to the United States shall be subject to the tax laws of the States where such lands are located.
 
-([May 26, 1926, ch. 399, § 3][/us/act/1926-05-26/ch399/s3], [44 Stat. 656][/us/stat/44/656].)
+([May 26, 1926, ch. 399][/us/act/1926-05-26/ch399], § 3, [44 Stat. 656][/us/stat/44/656].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1926-05-26/ch399/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-26%2Fch399%2Fs3
+[/us/act/1926-05-26/ch399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-26%2Fch399
 [/us/stat/44/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F656
 
 

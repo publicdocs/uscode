@@ -23,7 +23,7 @@
 
         The Federal funds made available under this chapter and [section 669b(b) of this title][/us/usc/t16/s669b/b] may not be used for fish and wildlife mitigation purposes under the Fish and Wildlife Coordination Act ([16 U.S.C. 661][/us/usc/t16/s661] et seq.) or the Water Resources Development Act of 1986, [Public Law 99–662][/us/pl/99/662] (1986), [100 Stat. 4235][/us/stat/100/4235].
 
-([Pub. L. 101–233, § 12][/us/pl/101/233/s12], Dec. 13, 1989, [103 Stat. 1977][/us/stat/103/1977].)
+([Pub. L. 101–233][/us/pl/101/233], § 12, Dec. 13, 1989, [103 Stat. 1977][/us/stat/103/1977].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 [/us/usc/t16/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs661
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
 [/us/stat/100/4235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4235
-[/us/pl/101/233/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F233%2Fs12
+[/us/pl/101/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F233
 [/us/stat/103/1977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1977
 [/us/act/1934-03-10/ch55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-10%2Fch55
 [/us/stat/48/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F401

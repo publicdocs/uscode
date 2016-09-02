@@ -21,7 +21,7 @@
 
     (2) providing the producer with information and training to aid in implementation of the plan.
 
-([Pub. L. 99–198, title XII, § 1240F][/us/pl/99/198/s1240F], as added [Pub. L. 107–171, title II, § 2301][/us/pl/107/171/s2301], May 13, 2002, [116 Stat. 257][/us/stat/116/257]; amended [Pub. L. 110–234, title II, § 2507][/us/pl/110/234/s2507], May 22, 2008, [122 Stat. 1063][/us/stat/122/1063]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2507, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1791.)
+([Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1240F, as added [Pub. L. 107–171, title II][/us/pl/107/171/tII], § 2301, May 13, 2002, [116 Stat. 257][/us/stat/116/257]; amended [Pub. L. 110–234, title II][/us/pl/110/234/tII], § 2507, May 22, 2008, [122 Stat. 1063][/us/stat/122/1063]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title II, § 2507, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1791.)
 
  __Codification__ 
 
@@ -29,11 +29,11 @@
 
  __Prior Provisions__ 
 
-    A prior section 3839aa–6, [Pub. L. 99–198, title XII, § 1240F][/us/pl/99/198/s1240F], as added [Pub. L. 104–127, title III, § 334][/us/pl/104/127/s334], Apr. 4, 1996, [110 Stat. 1001][/us/stat/110/1001], related to duties of Secretary, prior to the general amendment of this part by [Pub. L. 107–171][/us/pl/107/171].
+    A prior section 3839aa–6, [Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1240F, as added [Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 334, Apr. 4, 1996, [110 Stat. 1001][/us/stat/110/1001], related to duties of Secretary, prior to the general amendment of this part by [Pub. L. 107–171][/us/pl/107/171].
 
  __Amendments__ 
 
-    2008—Par. (1). [Pub. L. 110–246, § 2507][/us/pl/110/246/s2507], struck out “cost-share payments or incentive” before “payments”.
+    2008—Par. (1). [Pub. L. 110–246][/us/pl/110/246], § 2507, struck out “cost-share payments or incentive” before “payments”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -46,22 +46,22 @@
 ----------
 ----------
 
-[/us/pl/99/198/s1240F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1240F
-[/us/pl/107/171/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2301
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/107/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtII
 [/us/stat/116/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F257
-[/us/pl/110/234/s2507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2507
+[/us/pl/110/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtII
 [/us/stat/122/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1063
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/99/198/s1240F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1240F
-[/us/pl/104/127/s334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs334
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1001
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
-[/us/pl/110/246/s2507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2507
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

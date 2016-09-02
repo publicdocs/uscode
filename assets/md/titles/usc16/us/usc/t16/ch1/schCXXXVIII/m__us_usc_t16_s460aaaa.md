@@ -125,7 +125,7 @@
 
             The Secretary may develop a special management plan for the Nellis Dunes Off-Highway Recreation Area to enhance the safe use of off-highway vehicles for recreational purposes.
 
-([Pub. L. 113–291, div. B, title XXX, § 3092(j)][/us/pl/113/291/s3092/j], Dec. 19, 2014, [128 Stat. 3876][/us/stat/128/3876].)
+([Pub. L. 113–291, div. B, title XXX][/us/pl/113/291/dB/tXXX], § 3092(j), Dec. 19, 2014, [128 Stat. 3876][/us/stat/128/3876].)
 
  __References in Text__ 
 
@@ -139,7 +139,7 @@
 ----------
 
 [/us/usc/t43/s869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs869
-[/us/pl/113/291/s3092/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3092%2Fj
+[/us/pl/113/291/dB/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdB%2FtXXX
 [/us/stat/128/3876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3876
 [/us/act/1926-06-14/ch578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-06-14%2Fch578
 [/us/stat/44/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F741

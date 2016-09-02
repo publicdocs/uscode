@@ -205,7 +205,7 @@
 
         The designation of the Conservation Area and Wilderness is subject to valid rights in existence on March 30, 2009.
 
-([Pub. L. 111–11, title II, § 2405][/us/pl/111/11/s2405], Mar. 30, 2009, [123 Stat. 1104][/us/stat/123/1104].)
+([Pub. L. 111–11, title II][/us/pl/111/11/tII], § 2405, Mar. 30, 2009, [123 Stat. 1104][/us/stat/123/1104].)
 
 ----------
 
@@ -217,7 +217,7 @@
 [/us/usc/t16/s1133/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1133%2Fd%2F4
 [/us/usc/t16/s1133/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1133%2Fd%2F1
 [/us/usc/t16/s1133/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1133%2Fd%2F4
-[/us/pl/111/11/s2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs2405
+[/us/pl/111/11/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtII
 [/us/stat/123/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1104
 
 

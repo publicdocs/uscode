@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to carry out this chapter, including use for payment as the United States contribution to the Organization as provided in Article XVI of the Convention, $500,000 for each fiscal year through fiscal year 2012.
 
-([Pub. L. 104–43, title II, § 211][/us/pl/104/43/s211], Nov. 3, 1995, [109 Stat. 382][/us/stat/109/382]; [Pub. L. 105–384, title II, § 201(a)][/us/pl/105/384/s201/a], Nov. 13, 1998, [112 Stat. 3451][/us/stat/112/3451]; [Pub. L. 107–372, title III, § 305][/us/pl/107/372/s305], Dec. 19, 2002, [116 Stat. 3096][/us/stat/116/3096]; [Pub. L. 109–479, title III, § 302(i)][/us/pl/109/479/s302/i], Jan. 12, 2007, [120 Stat. 3625][/us/stat/120/3625].)
+([Pub. L. 104–43, title II][/us/pl/104/43/tII], § 211, Nov. 3, 1995, [109 Stat. 382][/us/stat/109/382]; [Pub. L. 105–384, title II][/us/pl/105/384/tII], § 201(a), Nov. 13, 1998, [112 Stat. 3451][/us/stat/112/3451]; [Pub. L. 107–372, title III][/us/pl/107/372/tIII], § 305, Dec. 19, 2002, [116 Stat. 3096][/us/stat/116/3096]; [Pub. L. 109–479, title III][/us/pl/109/479/tIII], § 302(i), Jan. 12, 2007, [120 Stat. 3625][/us/stat/120/3625].)
 
  __Amendments__ 
 
@@ -34,13 +34,13 @@
 ----------
 ----------
 
-[/us/pl/104/43/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs211
+[/us/pl/104/43/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtII
 [/us/stat/109/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F382
-[/us/pl/105/384/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2Fs201%2Fa
+[/us/pl/105/384/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2FtII
 [/us/stat/112/3451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3451
-[/us/pl/107/372/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs305
+[/us/pl/107/372/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtIII
 [/us/stat/116/3096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3096
-[/us/pl/109/479/s302/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs302%2Fi
+[/us/pl/109/479/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtIII
 [/us/stat/120/3625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3625
 [/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
 [/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372

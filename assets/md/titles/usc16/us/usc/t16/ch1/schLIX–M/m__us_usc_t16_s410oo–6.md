@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated not to exceed $12,000,000 to carry out this subchapter.
 
-([Pub. L. 100–479, § 7][/us/pl/100/479/s7], Oct. 7, 1988, [102 Stat. 2327][/us/stat/102/2327].)
+([Pub. L. 100–479][/us/pl/100/479], § 7, Oct. 7, 1988, [102 Stat. 2327][/us/stat/102/2327].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/479/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F479%2Fs7
+[/us/pl/100/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F479
 [/us/stat/102/2327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2327
 
 

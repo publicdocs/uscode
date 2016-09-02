@@ -47,7 +47,7 @@
 
         The Secretary shall, in the administration of the historical park, promote a broad range of educational activities relating to jazz and its history. The Secretary shall cooperate with schools, universities, and organizations supporting jazz education to develop educational programs that provide expanded public understanding of jazz and enhanced opportunities for public appreciation. The Secretary may assist appropriate entities in the development of an information base including archival material, audiovisual records, and objects that relate to the history of jazz.
 
-([Pub. L. 103–433, title XII, § 1204][/us/pl/103/433/s1204], Oct. 31, 1994, [108 Stat. 4520][/us/stat/108/4520].)
+([Pub. L. 103–433, title XII][/us/pl/103/433/tXII], § 1204, Oct. 31, 1994, [108 Stat. 4520][/us/stat/108/4520].)
 
  __References in Text__ 
 
@@ -69,7 +69,7 @@
 [/us/usc/t16/s410bbb–1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410bbb%E2%80%931%2Fb%2F1
 [/us/usc/t16/s410bbb–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410bbb%E2%80%935
 [/us/usc/t16/s410bbb–1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410bbb%E2%80%931%2Fb%2F3
-[/us/pl/103/433/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2Fs1204
+[/us/pl/103/433/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F433%2FtXII
 [/us/stat/108/4520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4520
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1

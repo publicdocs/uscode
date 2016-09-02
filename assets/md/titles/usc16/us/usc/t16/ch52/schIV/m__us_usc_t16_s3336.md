@@ -17,7 +17,7 @@
 
     On the date the Secretary approves the program under [section 3333 of this title][/us/usc/t16/s3333], the State shall be treated as having expended such portion of $32,000,000 as the State deems appropriate for purposes of implementing the program.
 
-([Pub. L. 96–561, title I, § 135][/us/pl/96/561/s135], Dec. 22, 1980, [94 Stat. 3285][/us/stat/94/3285].)
+([Pub. L. 96–561, title I][/us/pl/96/561/tI], § 135, Dec. 22, 1980, [94 Stat. 3285][/us/stat/94/3285].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s3333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3333
-[/us/pl/96/561/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs135
+[/us/pl/96/561/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtI
 [/us/stat/94/3285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3285
 
 

@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, the Secretary is authorized and shall seek to acquire the lands described in [section 396d(a) of this title][/us/usc/t16/s396d/a] by first acquiring Federal surplus lands of equivalent value from the General Services Administration and then exchanging such surplus lands for the lands described in [section 396d(a) of this title][/us/usc/t16/s396d/a] with the land owners. Exchanges shall be on the basis of equal value, and any party to the exchange may pay or accept cash in order to equalize the value of the property exchanged.
 
-([Pub. L. 96–514, title I, § 100][/us/pl/96/514/s100], Dec. 12, 1980, [94 Stat. 2960][/us/stat/94/2960].)
+([Pub. L. 96–514, title I][/us/pl/96/514/tI], § 100, Dec. 12, 1980, [94 Stat. 2960][/us/stat/94/2960].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t16/s396d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs396d%2Fa
 [/us/usc/t16/s396d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs396d%2Fa
-[/us/pl/96/514/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F514%2Fs100
+[/us/pl/96/514/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F514%2FtI
 [/us/stat/94/2960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2960
 
 

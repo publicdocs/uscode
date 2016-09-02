@@ -17,7 +17,7 @@
 
     On and after June 13, 1939, all patents issued under the United States mining laws affecting lands within the watershed of headwaters of the Bonito River in the Lincoln Forest, in the State of New Mexico, shall convey title to the mineral deposits within the claim, together with the right to cut and remove so much of the mature timber therefrom as may be needed in extracting and removing the mineral deposits, if the timber is removed in accordance with the rules for timber cutting on adjoining national-forest land, but each patent shall reserve to the United States all title in or to the surface of the lands and products thereof, and no use of the surface of the claim or the resources therefrom not reasonably required for carrying on mining or prospecting shall be allowed except under the rules and regulations of the Department of Agriculture.
 
-([June 13, 1939, ch. 201, § 2][/us/act/1939-06-13/ch201/s2], [53 Stat. 818][/us/stat/53/818].)
+([June 13, 1939, ch. 201][/us/act/1939-06-13/ch201], § 2, [53 Stat. 818][/us/stat/53/818].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1939-06-13/ch201/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-13%2Fch201%2Fs2
+[/us/act/1939-06-13/ch201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-13%2Fch201
 [/us/stat/53/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F818
 
 

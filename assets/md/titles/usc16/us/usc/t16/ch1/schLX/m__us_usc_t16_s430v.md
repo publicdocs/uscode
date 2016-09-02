@@ -23,7 +23,7 @@
 
     (c) Provide for the ascertainment and marking of the route of march of the Union and Confederate Armies from Chattanooga, Tennessee, through Georgia, and of principal battle lines, breastworks, fortifications, and other historical features along such route, and for the maintenance of such markers to such extent as deemed advisable and practicable.
 
-([June 26, 1935, ch. 315, § 3][/us/act/1935-06-26/ch315/s3], [49 Stat. 423][/us/stat/49/423].)
+([June 26, 1935, ch. 315][/us/act/1935-06-26/ch315], § 3, [49 Stat. 423][/us/stat/49/423].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1935-06-26/ch315/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-06-26%2Fch315%2Fs3
+[/us/act/1935-06-26/ch315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-06-26%2Fch315
 [/us/stat/49/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F423
 
 

@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture is authorized to establish forest tree nurseries and do all other things needful in preparation for planting on national forests on the scale possible under the appropriations authorized by [section 576a of this title][/us/usc/t16/s576a]: Provided, That nothing in this section shall be deemed to restrict the authority of the said Secretary under other authority of law.
 
-([June 9, 1930, ch. 416, § 1][/us/act/1930-06-09/ch416/s1], [46 Stat. 527][/us/stat/46/527].)
+([June 9, 1930, ch. 416][/us/act/1930-06-09/ch416], § 1, [46 Stat. 527][/us/stat/46/527].)
 
  __Short Title__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t16/s576a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs576a
-[/us/act/1930-06-09/ch416/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-09%2Fch416%2Fs1
+[/us/act/1930-06-09/ch416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-09%2Fch416
 [/us/stat/46/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F527
 [/us/act/1930-06-09/ch416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-09%2Fch416
 [/us/stat/46/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F527

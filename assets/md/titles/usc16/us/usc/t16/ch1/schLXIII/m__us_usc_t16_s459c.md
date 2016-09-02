@@ -17,7 +17,7 @@
 
     In order to save and preserve, for purposes of public recreation, benefit, and inspiration, a portion of the diminishing seashore of the United States that remains undeveloped, the Secretary of the Interior (hereinafter referred to as the “Secretary”) is authorized to take appropriate action in the public interest toward the establishment of the national seashore set forth in [section 459c–1 of this title][/us/usc/t16/s459c–1].
 
-([Pub. L. 87–657, § 1][/us/pl/87/657/s1], Sept. 13, 1962, [76 Stat. 538][/us/stat/76/538].)
+([Pub. L. 87–657][/us/pl/87/657], § 1, Sept. 13, 1962, [76 Stat. 538][/us/stat/76/538].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s459c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459c%E2%80%931
-[/us/pl/87/657/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F657%2Fs1
+[/us/pl/87/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F657
 [/us/stat/76/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F538
 
 

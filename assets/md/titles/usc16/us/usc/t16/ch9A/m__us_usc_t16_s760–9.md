@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to establish, construct, equip, operate, and maintain a new fish hatchery in the northwestern part of the State of Pennsylvania.
 
-([Pub. L. 86–205, § 1][/us/pl/86/205/s1], Aug. 25, 1959, [73 Stat. 430][/us/stat/73/430].)
+([Pub. L. 86–205][/us/pl/86/205], § 1, Aug. 25, 1959, [73 Stat. 430][/us/stat/73/430].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/205/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F205%2Fs1
+[/us/pl/86/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F205
 [/us/stat/73/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F430
 
 

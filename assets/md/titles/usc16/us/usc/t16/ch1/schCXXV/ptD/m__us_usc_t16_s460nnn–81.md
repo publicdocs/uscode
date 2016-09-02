@@ -27,7 +27,7 @@
 
         If consistent with the purposes of this subchapter and the management plan for the Cooperative Management and Protection Area, the Secretary may permit the development of saleable mineral resources, for road maintenance use only, in those locations identified on the map referred to in [section 460nnn–11(a) of this title][/us/usc/t16/s460nnn–11/a] as an existing “gravel pit” within the mineral withdrawal boundaries (excluding the Wilderness Area, wilderness study areas, and designated segments of the National Wild and Scenic Rivers System) where such development was authorized before October 30, 2000.
 
-([Pub. L. 106–399, title IV, § 401][/us/pl/106/399/s401], Oct. 30, 2000, [114 Stat. 1669][/us/stat/114/1669].)
+([Pub. L. 106–399, title IV][/us/pl/106/399/tIV], § 401, Oct. 30, 2000, [114 Stat. 1669][/us/stat/114/1669].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t16/s460nnn–11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460nnn%E2%80%9311%2Fa
 [/us/usc/t16/s460nnn–11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460nnn%E2%80%9311%2Fa
-[/us/pl/106/399/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2Fs401
+[/us/pl/106/399/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2FtIV
 [/us/stat/114/1669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1669
 [/us/pl/106/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399
 [/us/stat/114/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1655

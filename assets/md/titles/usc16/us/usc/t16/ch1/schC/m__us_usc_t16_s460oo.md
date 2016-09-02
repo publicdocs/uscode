@@ -65,7 +65,7 @@
 
         Management direction for the recreation area shall be developed in either the forest plans developed for the Umpqua, Winema, Deschutes and Willamette Forests in accordance with section 6 of the Forest and Rangeland Renewable Resources Planning Act of 1974, as amended \[[16 U.S.C. 1604][/us/usc/t16/s1604]\], or in an integrated management plan that shall be prepared within three years from June 26, 1984, and revised in accordance with the Forest and Rangeland Renewable Resources Planning Act of 1974, as amended \[[16 U.S.C. 1600][/us/usc/t16/s1600] et seq.\]. Any plan developed by the Secretary for the recreation area shall identify and designate specific and appropriate areas and routes for the use of motorized recreation vehicles within the recreation area.
 
-([Pub. L. 98–328, § 4][/us/pl/98/328/s4], June 26, 1984, [98 Stat. 275][/us/stat/98/275].)
+([Pub. L. 98–328][/us/pl/98/328], § 4, June 26, 1984, [98 Stat. 275][/us/stat/98/275].)
 
  __References in Text__ 
 
@@ -77,7 +77,7 @@
 
  __Map of Recreation Area__ 
 
-    [Pub. L. 98–328, § 5(a)][/us/pl/98/328/s5/a], June 26, 1984, [98 Stat. 277][/us/stat/98/277], provided in part that as soon as practicable after June 6, 1984, the Secretary of Agriculture was to file the map referred to in this section with the Committee on Energy and Natural Resources, Senate, and the Committee on Interior and Insular Affairs, House of Representatives, and that such map would have the same force and effect as if included in this section: Provided, That correction of clerical and typographical errors in such map could be made. Such map was to be on file and available for public inspection in the Office of the Chief of the Forest Service, Department of Agriculture; and the Director, Bureau of Land Management, Department of the Interior.
+    [Pub. L. 98–328][/us/pl/98/328], § 5(a), June 26, 1984, [98 Stat. 277][/us/stat/98/277], provided in part that as soon as practicable after June 6, 1984, the Secretary of Agriculture was to file the map referred to in this section with the Committee on Energy and Natural Resources, Senate, and the Committee on Interior and Insular Affairs, House of Representatives, and that such map would have the same force and effect as if included in this section: Provided, That correction of clerical and typographical errors in such map could be made. Such map was to be on file and available for public inspection in the Office of the Chief of the Forest Service, Department of Agriculture; and the Director, Bureau of Land Management, Department of the Interior.
 
 ----------
 
@@ -90,7 +90,7 @@
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/usc/t16/s1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1604
 [/us/usc/t16/s1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1600
-[/us/pl/98/328/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F328%2Fs4
+[/us/pl/98/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F328
 [/us/stat/98/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F275
 [/us/pl/98/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F328
 [/us/stat/98/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F272
@@ -102,7 +102,7 @@
 [/us/pl/93/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F378
 [/us/stat/88/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F476
 [/us/usc/t16/s1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1600
-[/us/pl/98/328/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F328%2Fs5%2Fa
+[/us/pl/98/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F328
 [/us/stat/98/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F277
 
 

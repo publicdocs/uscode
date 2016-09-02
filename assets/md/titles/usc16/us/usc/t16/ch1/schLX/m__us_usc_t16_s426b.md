@@ -17,7 +17,7 @@
 
     It shall be the duty of the commission, acting under the direction of the Secretary of the Interior, to inspect the battlefield of Stones River, Tennessee, and to carefully study the available records and historical data with respect to the location and movement of all troops which engaged in the battle of Stones River, and the important events connected therewith, with a view of preserving and marking such field for historical and professional military study.
 
-([Mar. 3, 1927, ch. 374, § 3][/us/act/1927-03-03/ch374/s3], [44 Stat. 1399][/us/stat/44/1399]; Ex. Ord. No. 6166, § 2, June 10, 1933; Ex. Ord. No. 6228, § 1, July 28, 1933.)
+([Mar. 3, 1927, ch. 374][/us/act/1927-03-03/ch374], § 3, [44 Stat. 1399][/us/stat/44/1399]; Ex. Ord. No. 6166, § 2, June 10, 1933; Ex. Ord. No. 6228, § 1, July 28, 1933.)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1927-03-03/ch374/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch374%2Fs3
+[/us/act/1927-03-03/ch374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-03%2Fch374
 [/us/stat/44/1399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1399
 [/us/usc/t16/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs426
 

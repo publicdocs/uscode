@@ -31,7 +31,7 @@ san bernardino meridian
 
     Thence along the arc of a curve to the left having a radius of 167.60 feet a distance of 240.17 feet to a point of tangency; thence north 0 degrees 02 minutes 55 seconds west a distance of 648.91 feet to the point of beginning containing 57.839 acres, more or less.
 
-([Sept. 25, 1950, ch. 1030, § 1][/us/act/1950-09-25/ch1030/s1], [64 Stat. 1033][/us/stat/64/1033]; [Pub. L. 87–80][/us/pl/87/80], June 30, 1961, [75 Stat. 197][/us/stat/75/197].)
+([Sept. 25, 1950, ch. 1030][/us/act/1950-09-25/ch1030], § 1, [64 Stat. 1033][/us/stat/64/1033]; [Pub. L. 87–80][/us/pl/87/80], June 30, 1961, [75 Stat. 197][/us/stat/75/197].)
 
  __Amendments__ 
 
@@ -49,7 +49,7 @@ san bernardino meridian
 ----------
 
 [/us/stat/50/1760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F1760
-[/us/act/1950-09-25/ch1030/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-25%2Fch1030%2Fs1
+[/us/act/1950-09-25/ch1030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-25%2Fch1030
 [/us/stat/64/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1033
 [/us/pl/87/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F80
 [/us/stat/75/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F197

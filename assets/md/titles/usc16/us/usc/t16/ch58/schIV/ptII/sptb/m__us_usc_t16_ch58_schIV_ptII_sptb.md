@@ -17,11 +17,11 @@
 
  __Prior Provisions__ 
 
-    A prior subpart B, consisting of sections 3838h to 3838j, was redesignated subpart C of this part by [Pub. L. 110–234, title II, § 2301(a)(1)][/us/pl/110/234/s2301/a/1], May 22, 2008, [122 Stat. 1040][/us/stat/122/1040], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2301(a)(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1768, and subsequently repealed by [Pub. L. 113–79, title II, § 2704(a)][/us/pl/113/79/s2704/a], Feb. 7, 2014, [128 Stat. 767][/us/stat/128/767].
+    A prior subpart B, consisting of sections 3838h to 3838j, was redesignated subpart C of this part by [Pub. L. 110–234, title II][/us/pl/110/234/tII], § 2301(a)(1), May 22, 2008, [122 Stat. 1040][/us/stat/122/1040], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title II, § 2301(a)(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1768, and subsequently repealed by [Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2704(a), Feb. 7, 2014, [128 Stat. 767][/us/stat/128/767].
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–79, title II, § 2101(a)][/us/pl/113/79/s2101/a], Feb. 7, 2014, [128 Stat. 721][/us/stat/128/721], amended subpart heading generally.
+    2014—[Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2101(a), Feb. 7, 2014, [128 Stat. 721][/us/stat/128/721], amended subpart heading generally.
 
 ----------
 
@@ -30,13 +30,13 @@
 ----------
 ----------
 
-[/us/pl/110/234/s2301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2301%2Fa%2F1
+[/us/pl/110/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtII
 [/us/stat/122/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1040
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s2704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2704%2Fa
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F767
-[/us/pl/113/79/s2101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2101%2Fa
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F721
 
 

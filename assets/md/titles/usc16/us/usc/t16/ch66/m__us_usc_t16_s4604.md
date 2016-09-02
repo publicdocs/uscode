@@ -31,7 +31,7 @@
 
         (3) For purposes of subchapter I of chapter 81 of title 5, relating to compensation to Federal employees for work injuries, a volunteer under this subsection shall be considered an employee (as defined in [section 8101 of title 5][/us/usc/t5/s8101]).
 
-([Pub. L. 101–628, title XI, § 1105][/us/pl/101/628/s1105], Nov. 28, 1990, [104 Stat. 4502][/us/stat/104/4502].)
+([Pub. L. 101–628, title XI][/us/pl/101/628/tXI], § 1105, Nov. 28, 1990, [104 Stat. 4502][/us/stat/104/4502].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t5/s8101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8101
-[/us/pl/101/628/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628%2Fs1105
+[/us/pl/101/628/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F628%2FtXI
 [/us/stat/104/4502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4502
 
 

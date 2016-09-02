@@ -41,7 +41,7 @@
 
         The Secretary or his designee shall, from time to time, consult with the commission with respect to the matters relating to the development of the Pictured Rocks National Lakeshore.
 
-([Pub. L. 89–668, § 4][/us/pl/89/668/s4], Oct. 15, 1966, [80 Stat. 922][/us/stat/80/922].)
+([Pub. L. 89–668][/us/pl/89/668], § 4, Oct. 15, 1966, [80 Stat. 922][/us/stat/80/922].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/89/668/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F668%2Fs4
+[/us/pl/89/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F668
 [/us/stat/80/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F922
 
 

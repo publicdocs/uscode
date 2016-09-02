@@ -27,7 +27,7 @@
 
         If the Secretary finds that any money provided to the State or obtained by the State from the resale of any fishing or charter vessel purchased under the program is not being used in accordance with the provisions of this subchapter, the Secretary shall recover from the fund, and place in the United States Treasury, such moneys.
 
-([Pub. L. 96–561, title I, § 133][/us/pl/96/561/s133], Dec. 22, 1980, [94 Stat. 3285][/us/stat/94/3285].)
+([Pub. L. 96–561, title I][/us/pl/96/561/tI], § 133, Dec. 22, 1980, [94 Stat. 3285][/us/stat/94/3285].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/96/561/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs133
+[/us/pl/96/561/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtI
 [/us/stat/94/3285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3285
 
 

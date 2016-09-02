@@ -31,7 +31,7 @@
 
         Prior to the effective date of a land use ordinance for each county pursuant to [section 544e of this title][/us/usc/t16/s544e], and concurrence of the Secretary on a land use ordinance for each county pursuant to [section 544f of this title][/us/usc/t16/s544f], the Commission shall review all proposals for major development actions and new residential development in such county in the scenic area, except urban areas. The Commission shall allow major development actions and new residential development only if it determines that such development is consistent with the standards contained in [section 544d of this title][/us/usc/t16/s544d] and the purposes of sections 544 to 544p of this title.
 
-([Pub. L. 99–663, § 10][/us/pl/99/663/s10], Nov. 17, 1986, [100 Stat. 4291][/us/stat/100/4291].)
+([Pub. L. 99–663][/us/pl/99/663], § 10, Nov. 17, 1986, [100 Stat. 4291][/us/stat/100/4291].)
 
  __Codification__ 
 
@@ -51,7 +51,7 @@
 [/us/usc/t16/s544e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs544e
 [/us/usc/t16/s544f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs544f
 [/us/usc/t16/s544d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs544d
-[/us/pl/99/663/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663%2Fs10
+[/us/pl/99/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663
 [/us/stat/100/4291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4291
 [/us/pl/99/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F663
 

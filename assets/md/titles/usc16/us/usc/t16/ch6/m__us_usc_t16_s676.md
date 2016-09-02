@@ -17,7 +17,7 @@
 
     When such areas have been designated as provided for in [section 675 of this title][/us/usc/t16/s675], hunting, trapping, killing, or capturing of game animals and birds upon the lands of the United States within the limits of said areas shall be unlawful, except under such regulations as may be prescribed from time to time by the Secretary of Agriculture. It is the purpose of this section to protect from trespass the public lands of the United States and the game animals and birds which may be thereon, and not to interfere with the operation of the local game laws as affecting private or State lands.
 
-([June 5, 1920, ch. 247][/us/act/1920-06-05/ch247], §§ 2, 3, [41 Stat. 986][/us/stat/41/986]; [June 25, 1948, ch. 645, § 11][/us/act/1948-06-25/ch645/s11], [62 Stat. 860][/us/stat/62/860].)
+([June 5, 1920, ch. 247][/us/act/1920-06-05/ch247], §§ 2, 3, [41 Stat. 986][/us/stat/41/986]; [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], § 11, [62 Stat. 860][/us/stat/62/860].)
 
  __Codification__ 
 
@@ -41,7 +41,7 @@
 [/us/usc/t16/s675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs675
 [/us/act/1920-06-05/ch247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch247
 [/us/stat/41/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F986
-[/us/act/1948-06-25/ch645/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645%2Fs11
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F860
 [/us/usc/t18/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs41
 

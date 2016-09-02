@@ -17,7 +17,7 @@
 
     When title to such lands located on Davis Island in the city of Tampa, Florida, as shall be designated by the Secretary of the Interior, in the exercise of his judgment and discretion as necessary and suitable for the purpose, shall have been vested in the United States, said area shall be set apart as the Spanish War Memorial Park, for the benefit and inspiration of the people: Provided, That said lands shall be donated without cost to the United States by the city of Tampa, Florida, and the Secretary of the Interior is authorized to accept such conveyance of lands.
 
-([Aug. 20, 1935, ch. 575, § 1][/us/act/1935-08-20/ch575/s1], [49 Stat. 661][/us/stat/49/661].)
+([Aug. 20, 1935, ch. 575][/us/act/1935-08-20/ch575], § 1, [49 Stat. 661][/us/stat/49/661].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1935-08-20/ch575/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-20%2Fch575%2Fs1
+[/us/act/1935-08-20/ch575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-20%2Fch575
 [/us/stat/49/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F661
 
 

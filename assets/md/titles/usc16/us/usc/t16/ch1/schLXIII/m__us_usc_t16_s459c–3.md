@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t16/ch1/schLXIII/m__us_usc_t16_s459c–2.md) | [Next](./../../../../..//us/usc/t16/ch1/schLXIII/m__us_usc_t16_s459c–4.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459c%E2%80%933)
 
-## § 459c–3. Repealed. [Pub. L. 91–223, § 2(b)][/us/pl/91/223/s2/b], Apr. 3, 1970, [84 Stat. 90][/us/stat/84/90]
+## § 459c–3. Repealed. [Pub. L. 91–223][/us/pl/91/223], § 2(b), Apr. 3, 1970, [84 Stat. 90][/us/stat/84/90]
 
-    Section, [Pub. L. 87–657, § 4][/us/pl/87/657/s4], Sept. 13, 1962, [76 Stat. 540][/us/stat/76/540], provided conditions for exercise of eminent domain within pastoral zone and defined “ranching and dairying purposes”.
+    Section, [Pub. L. 87–657][/us/pl/87/657], § 4, Sept. 13, 1962, [76 Stat. 540][/us/stat/76/540], provided conditions for exercise of eminent domain within pastoral zone and defined “ranching and dairying purposes”.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/91/223/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F223%2Fs2%2Fb
+[/us/pl/91/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F223
 [/us/stat/84/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F90
-[/us/pl/87/657/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F657%2Fs4
+[/us/pl/87/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F657
 [/us/stat/76/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F540
 
 

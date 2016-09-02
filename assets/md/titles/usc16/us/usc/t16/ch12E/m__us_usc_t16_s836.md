@@ -35,7 +35,7 @@
 
         (7) The licensee shall pay to the United States and include in its net investment in the project herein authorized the United States share of the cost of the construction of the remedial works, including engineering and economic investigations, undertaken in accordance with article II of the treaty between the United States of America and Canada concerning uses of the waters of the Niagara River signed February 27, 1950, whenever such remedial works are constructed.
 
-([Pub. L. 85–159, § 1][/us/pl/85/159/s1], Aug. 21, 1957, [71 Stat. 401][/us/stat/71/401]; [Pub. L. 95–91, title IV, § 402(a)(1)(A)][/us/pl/95/91/s402/a/1/A], Aug. 4, 1977, [91 Stat. 583][/us/stat/91/583].)
+([Pub. L. 85–159][/us/pl/85/159], § 1, Aug. 21, 1957, [71 Stat. 401][/us/stat/71/401]; [Pub. L. 95–91, title IV][/us/pl/95/91/tIV], § 402(a)(1)(A), Aug. 4, 1977, [91 Stat. 583][/us/stat/91/583].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 
  __Transfer of Functions__ 
 
-    “Federal Energy Regulatory Commission” substituted in text for “Federal Power Commission” pursuant to [Pub. L. 95–91, § 402(a)(1)(A)][/us/pl/95/91/s402/a/1/A], which is classified to [section 7172(a)(1)(A) of Title 42][/us/usc/t42/s7172/a/1/A], The Public Health and Welfare.
+    “Federal Energy Regulatory Commission” substituted in text for “Federal Power Commission” pursuant to [Pub. L. 95–91][/us/pl/95/91], § 402(a)(1)(A), which is classified to [section 7172(a)(1)(A) of Title 42][/us/usc/t42/s7172/a/1/A], The Public Health and Welfare.
 
     Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 
@@ -55,14 +55,14 @@
 ----------
 
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
-[/us/pl/85/159/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F159%2Fs1
+[/us/pl/85/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F159
 [/us/stat/71/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F401
-[/us/pl/95/91/s402/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs402%2Fa%2F1%2FA
+[/us/pl/95/91/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIV
 [/us/stat/91/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F583
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
 [/us/stat/41/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1063
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
-[/us/pl/95/91/s402/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs402%2Fa%2F1%2FA
+[/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/usc/t42/s7172/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7172%2Fa%2F1%2FA
 
 

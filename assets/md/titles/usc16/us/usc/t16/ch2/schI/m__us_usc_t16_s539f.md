@@ -23,7 +23,7 @@
 
         The term “other nonprofit organization” shall mean (1) a nonprofit organization holding an exemption under [section 501(c) of title 26][/us/usc/t26/s501/c]; and (2) a nonprofit association or nonprofit corporation, which is not controlled or owned by profitmaking corporations or business enterprises, and which is engaged in public or semipublic activity to further public health, safety, or welfare.
 
-([Pub. L. 98–478, § 3][/us/pl/98/478/s3], Oct. 16, 1984, [98 Stat. 2216][/us/stat/98/2216]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
+([Pub. L. 98–478][/us/pl/98/478], § 3, Oct. 16, 1984, [98 Stat. 2216][/us/stat/98/2216]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
  __Amendments__ 
 
@@ -37,9 +37,9 @@
 ----------
 
 [/us/usc/t26/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc
-[/us/pl/98/478/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F478%2Fs3
+[/us/pl/98/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F478
 [/us/stat/98/2216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2216
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 

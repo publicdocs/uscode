@@ -31,7 +31,7 @@
 
         The Secretary of the Army is authorized to convey by quitclaim deed all the right, title, and interest of the United States in and to the lands sold for cottage site development and use pursuant to the provisions of this subchapter, the conveyance to be on condition that the property conveyed shall be used for cottage site purposes only, and in the event of use for any other purposes, title to the land and improvements shall revert to and vest in the United States; and subject to such other conditions, reservations, and restrictions as the Secretary may determine to be necessary for the management and operation of the reservoir, or for the protection of lessees or owners of cottage sites within the area.
 
-([Aug. 6, 1956, ch. 987, § 2][/us/act/1956-08-06/ch987/s2], [70 Stat. 1065][/us/stat/70/1065].)
+([Aug. 6, 1956, ch. 987][/us/act/1956-08-06/ch987], § 2, [70 Stat. 1065][/us/stat/70/1065].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/act/1956-08-06/ch987/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch987%2Fs2
+[/us/act/1956-08-06/ch987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch987
 [/us/stat/70/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1065
 
 

@@ -17,7 +17,7 @@
 
     The purpose of this chapter is to implement the policy set out in [section 1271 of this title][/us/usc/t16/s1271] by instituting a national wild and scenic rivers system, by designating the initial components of that system, and by prescribing the methods by which and standards according to which additional components may be added to the system from time to time.
 
-([Pub. L. 90–542, § 1(c)][/us/pl/90/542/s1/c], Oct. 2, 1968, [82 Stat. 906][/us/stat/82/906].)
+([Pub. L. 90–542][/us/pl/90/542], § 1(c), Oct. 2, 1968, [82 Stat. 906][/us/stat/82/906].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t16/s1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1271
-[/us/pl/90/542/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F542%2Fs1%2Fc
+[/us/pl/90/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F542
 [/us/stat/82/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F906
 [/us/pl/90/542/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F542%2Fs1
 

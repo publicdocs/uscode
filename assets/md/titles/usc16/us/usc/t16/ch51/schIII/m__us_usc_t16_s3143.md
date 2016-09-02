@@ -17,7 +17,7 @@
 
     Production of oil and gas from the Arctic National Wildlife Refuge is prohibited and no leasing or other development leading to production of oil and gas from the range shall be undertaken until authorized by an Act of Congress.
 
-([Pub. L. 96–487, title X, § 1003][/us/pl/96/487/s1003], Dec. 2, 1980, [94 Stat. 2452][/us/stat/94/2452].)
+([Pub. L. 96–487, title X][/us/pl/96/487/tX], § 1003, Dec. 2, 1980, [94 Stat. 2452][/us/stat/94/2452].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/487/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1003
+[/us/pl/96/487/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtX
 [/us/stat/94/2452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2452
 
 

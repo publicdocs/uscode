@@ -23,7 +23,7 @@
 
         Not later than 3 years after October 16, 2006, the Secretary shall submit a report to the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate evaluating and making recommendations regarding the pilot projects.
 
-([Pub. L. 109–360, § 4][/us/pl/109/360/s4], Oct. 16, 2006, [120 Stat. 2059][/us/stat/120/2059].)
+([Pub. L. 109–360][/us/pl/109/360], § 4, Oct. 16, 2006, [120 Stat. 2059][/us/stat/120/2059].)
 
  __Change of Name__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t16/s742f/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs742f%2Fd
-[/us/pl/109/360/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F360%2Fs4
+[/us/pl/109/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F360
 [/us/stat/120/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2059
 
 

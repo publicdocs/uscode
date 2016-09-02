@@ -17,7 +17,7 @@
 
     Within three years from October 23, 1972, the Secretary of the Interior shall report to the President, in accordance with section 1132(c) and (d) of this title, his recommendations as to the suitability or nonsuitability of any area within the national seashore for preservation as wilderness, and any designation of any such area as a wilderness shall be accomplished in accordance with said section 1132(c) and (d) of this title.
 
-([Pub. L. 92–536, § 9][/us/pl/92/536/s9], Oct. 23, 1972, [86 Stat. 1068][/us/stat/86/1068].)
+([Pub. L. 92–536][/us/pl/92/536], § 9, Oct. 23, 1972, [86 Stat. 1068][/us/stat/86/1068].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/536/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F536%2Fs9
+[/us/pl/92/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F536
 [/us/stat/86/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1068
 
 

@@ -17,7 +17,7 @@
 
     Apportionments among participating States shall be determined by the Secretary after consultation with the council appointed under [section 582a–4 of this title][/us/usc/t16/s582a–4]. In making such apportionments, consideration shall be given to pertinent factors including non-Federal expenditures for forestry research by State-certified eligible institutions, areas of non-Federal commercial forest land, and the volume of timber cut annually. Three per centum of such funds as may be appropriated shall be made available to the Secretary for administration of this subchapter. These administrative funds may be used for transportation of scientists who are not officers or employees of the United States to research meetings convened for purposes of assessing research opportunities or research planning.
 
-([Pub. L. 87–788, § 6][/us/pl/87/788/s6], Oct. 10, 1962, [76 Stat. 807][/us/stat/76/807]; [Pub. L. 97–98, title XIV, § 1441(c)][/us/pl/97/98/s1441/c], Dec. 22, 1981, [95 Stat. 1320][/us/stat/95/1320].)
+([Pub. L. 87–788][/us/pl/87/788], § 6, Oct. 10, 1962, [76 Stat. 807][/us/stat/76/807]; [Pub. L. 97–98, title XIV][/us/pl/97/98/tXIV], § 1441(c), Dec. 22, 1981, [95 Stat. 1320][/us/stat/95/1320].)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t16/s582a–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs582a%E2%80%934
-[/us/pl/87/788/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F788%2Fs6
+[/us/pl/87/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F788
 [/us/stat/76/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F807
-[/us/pl/97/98/s1441/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1441%2Fc
+[/us/pl/97/98/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXIV
 [/us/stat/95/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1320
 [/us/pl/97/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98
 [/us/usc/t16/s582a–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs582a%E2%80%934

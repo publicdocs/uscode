@@ -17,7 +17,7 @@
 
     To the extent practicable using available resources, the Secretary of each military department shall ensure that sufficient numbers of professionally trained natural resources management personnel and natural resources law enforcement personnel are available and assigned responsibility to perform tasks necessary to carry out this subchapter, including the preparation and implementation of integrated natural resources management plans.
 
-([Pub. L. 86–797, title I, § 107][/us/pl/86/797/s107], as added [Pub. L. 105–85, div. B, title XXIX, § 2910][/us/pl/105/85/s2910], Nov. 18, 1997, [111 Stat. 2021][/us/stat/111/2021].)
+([Pub. L. 86–797, title I][/us/pl/86/797/tI], § 107, as added [Pub. L. 105–85, div. B, title XXIX][/us/pl/105/85/dB/tXXIX], § 2910, Nov. 18, 1997, [111 Stat. 2021][/us/stat/111/2021].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/86/797/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F797%2Fs107
-[/us/pl/105/85/s2910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2910
+[/us/pl/86/797/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F797%2FtI
+[/us/pl/105/85/dB/tXXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdB%2FtXXIX
 [/us/stat/111/2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2021
 
 

@@ -39,7 +39,7 @@
 
         The National Park Service is authorized to acquire from willing sellers, land outside the Park boundary but in close proximity to the Park, for the development of visitor, administrative, museum, curatorial, and maintenance facilities.
 
-([Pub. L. 107–373, § 6][/us/pl/107/373/s6], Dec. 19, 2002, [116 Stat. 3106][/us/stat/116/3106].)
+([Pub. L. 107–373][/us/pl/107/373], § 6, Dec. 19, 2002, [116 Stat. 3106][/us/stat/116/3106].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/107/373/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F373%2Fs6
+[/us/pl/107/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F373
 [/us/stat/116/3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3106
 
 

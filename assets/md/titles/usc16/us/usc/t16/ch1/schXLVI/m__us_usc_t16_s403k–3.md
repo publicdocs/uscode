@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized and directed to take such measures as may be necessary to provide for the continued protection of the historic Palmer’s Chapel in the Cataloochee Valley of the Great Smoky Mountains National Park. The importance of the chapel in memorializing the early settlement of the valley and in providing an opportunity for interpreting the cultural traditions of the former residents of the valley is hereby recognized, and the Secretary is authorized to make suitable arrangements for the history of the chapel to be communicated to park visitors and for the chapel to continue to be used for memorial purposes by former residents and their descendants.
 
-([Pub. L. 96–199, title I, § 106][/us/pl/96/199/s106], Mar. 5, 1980, [94 Stat. 69][/us/stat/94/69].)
+([Pub. L. 96–199, title I][/us/pl/96/199/tI], § 106, Mar. 5, 1980, [94 Stat. 69][/us/stat/94/69].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/199/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199%2Fs106
+[/us/pl/96/199/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199%2FtI
 [/us/stat/94/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F69
 
 

@@ -57,17 +57,17 @@
 
         A regulation or policy issued under a provision of law repealed by this section shall remain in effect to the extent such a regulation or policy is consistent with the provisions of this chapter until the Secretary issues a regulation, guideline, or policy under this chapter that supersedes the earlier regulation.
 
-([Pub. L. 108–447, div. J, title VIII, § 813][/us/pl/108/447/s813], Dec. 8, 2004, [118 Stat. 3390][/us/stat/118/3390]; [Pub. L. 109–54, title I, § 132(a)][/us/pl/109/54/s132/a], Aug. 2, 2005, [119 Stat. 526][/us/stat/119/526]; [Pub. L. 113–287, § 5(d)(37)][/us/pl/113/287/s5/d/37], Dec. 19, 2014, [128 Stat. 3268][/us/stat/128/3268].)
+([Pub. L. 108–447, div. J, title VIII][/us/pl/108/447/dJ/tVIII], § 813, Dec. 8, 2004, [118 Stat. 3390][/us/stat/118/3390]; [Pub. L. 109–54, title I][/us/pl/109/54/tI], § 132(a), Aug. 2, 2005, [119 Stat. 526][/us/stat/119/526]; [Pub. L. 113–287][/us/pl/113/287], § 5(d)(37), Dec. 19, 2014, [128 Stat. 3268][/us/stat/128/3268].)
 
  __References in Text__ 
 
-    Section 4 of the Land and Water Conservation Fund Act of 1965, referred to in subsecs. (a) and (e)(1), was [section 4 of Pub. L. 88–578][/us/pl/88/578/s4], title I, as added [Pub. L. 92–347, § 2][/us/pl/92/347/s2], July 11, 1972, [86 Stat. 459][/us/stat/86/459], which was classified to former section 460l–6a of this title. Subsecs. (a) to (g) and (i) (except par. (1)(C)) of section 4 were repealed by subsec. (a) of this section. Subsec. (h) of section 4 was previously repealed by [Pub. L. 104–66, title I, § 1081(f)][/us/pl/104/66/s1081/f], Dec. 21, 1995, [109 Stat. 721][/us/stat/109/721]. Subsecs. (i)(1)(C) and (j) to (n) of section 4 were repealed and restated as [section 100904 of Title 54][/us/usc/t54/s100904], National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287], §§ 3, 7, Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094], 3272.
+    Section 4 of the Land and Water Conservation Fund Act of 1965, referred to in subsecs. (a) and (e)(1), was [section 4 of Pub. L. 88–578][/us/pl/88/578/s4], title I, as added [Pub. L. 92–347][/us/pl/92/347], § 2, July 11, 1972, [86 Stat. 459][/us/stat/86/459], which was classified to former section 460l–6a of this title. Subsecs. (a) to (g) and (i) (except par. (1)(C)) of section 4 were repealed by subsec. (a) of this section. Subsec. (h) of section 4 was previously repealed by [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1081(f), Dec. 21, 1995, [109 Stat. 721][/us/stat/109/721]. Subsecs. (i)(1)(C) and (j) to (n) of section 4 were repealed and restated as [section 100904 of Title 54][/us/usc/t54/s100904], National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287], §§ 3, 7, Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094], 3272.
 
     The date the notice required by [section 6804(a)(3) of this title][/us/usc/t16/s6804/a/3] is published in the Federal Register, referred to in subsecs. (a), (d), and (e)(2), is Dec. 19, 2006. See 71 F.R. 75935.
 
     Sections 6804 and 6806 of this title, referred to in subsecs. (a), (d), and (e)(1), (2), were in the original references to sections 5 and 7, respectively, and were translated as meaning section 805 and 807, respectively, of title VIII of div. J of [Pub. L. 108–447][/us/pl/108/447], to reflect the probable intent of Congress.
 
-    Section 315 of the Department of the Interior and Related Agencies Appropriations Act, 1996, referred to in subsecs. (b) and (e)(3), is [Pub. L. 104–134, title I, § 101(c)][/us/pl/104/134/s101/c] \[title III, § 315\], Apr. 26, 1996, [110 Stat. 1321–156][/us/stat/110/1321-156], 1321–200, which was set out as a note under former section 460l–6a of this title, prior to repeal by subsec. (b) of this section.
+    Section 315 of the Department of the Interior and Related Agencies Appropriations Act, 1996, referred to in subsecs. (b) and (e)(3), is [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(c) \[title III, § 315\], Apr. 26, 1996, [110 Stat. 1321–156][/us/stat/110/1321-156], 1321–200, which was set out as a note under former section 460l–6a of this title, prior to repeal by subsec. (b) of this section.
 
     The National Parks Omnibus Management Act of 1998, referred to in subsecs. (d) and (e)(2), is [Pub. L. 105–391][/us/pl/105/391], Nov. 13, 1998, [112 Stat. 3497][/us/stat/112/3497]. Section 502 of the Act was classified to [section 5982 of this title][/us/usc/t16/s5982], and title VI of the Act was classified generally to subchapter V (§ 5991 et seq.) of chapter 79 of this title, prior to repeal by subsec. (d) of this section. For complete classification of this Act to the Code, see Tables.
 
@@ -75,25 +75,25 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–287, § 5(d)(37)(A)][/us/pl/113/287/s5/d/37/A], which directed amendment of “subsection (A)” by striking out “([16 U.S.C. 460][/us/usc/t16/s460]l–6a et seq.)”, was executed by striking out that language after “1965” in subsec. (a) to reflect the probable intent of Congress.
+    2014—Subsec. (a). [Pub. L. 113–287][/us/pl/113/287], § 5(d)(37)(A), which directed amendment of “subsection (A)” by striking out “([16 U.S.C. 460][/us/usc/t16/s460]l–6a et seq.)”, was executed by striking out that language after “1965” in subsec. (a) to reflect the probable intent of Congress.
 
-    Subsec. (b). [Pub. L. 113–287, § 5(d)(37)(B)][/us/pl/113/287/s5/d/37/B], struck out “; [16 U.S.C. 460][/us/usc/t16/s460]l–6a” after “[Public Law 104–134][/us/pl/104/134]”.
+    Subsec. (b). [Pub. L. 113–287][/us/pl/113/287], § 5(d)(37)(B), struck out “; [16 U.S.C. 460][/us/usc/t16/s460]l–6a” after “[Public Law 104–134][/us/pl/104/134]”.
 
-    Subsec. (d)(1). [Pub. L. 113–287, § 5(d)(37)(C)(i)][/us/pl/113/287/s5/d/37/C/i], which directed amendment of subsec. (c)(1) by striking out “; [16 U.S.C. 5982][/us/usc/t16/s5982]”, was executed by striking out that language after “([Public Law 105–391][/us/pl/105/391]” in subsec. (d)(1), to reflect the probable intent of Congress.
+    Subsec. (d)(1). [Pub. L. 113–287][/us/pl/113/287], § 5(d)(37)(C)(i), which directed amendment of subsec. (c)(1) by striking out “; [16 U.S.C. 5982][/us/usc/t16/s5982]”, was executed by striking out that language after “([Public Law 105–391][/us/pl/105/391]” in subsec. (d)(1), to reflect the probable intent of Congress.
 
-    Subsec. (d)(2). [Pub. L. 113–287, § 5(d)(37)(C)(ii)][/us/pl/113/287/s5/d/37/C/ii], which directed amendment of subsec. (c)(2) by striking out “; [16 U.S.C. 5991–599][/us/usc/t16/s5991–599]5”, was executed by striking out that language after “([Public Law 105–391][/us/pl/105/391]” in subsec. (d)(2), to reflect the probable intent of Congress.
+    Subsec. (d)(2). [Pub. L. 113–287][/us/pl/113/287], § 5(d)(37)(C)(ii), which directed amendment of subsec. (c)(2) by striking out “; [16 U.S.C. 5991–599][/us/usc/t16/s5991–599]5”, was executed by striking out that language after “([Public Law 105–391][/us/pl/105/391]” in subsec. (d)(2), to reflect the probable intent of Congress.
 
-    Subsec. (e)(1). [Pub. L. 113–287, § 5(d)(37)(D)(i)][/us/pl/113/287/s5/d/37/D/i], struck out “([16 U.S.C. 460][/us/usc/t16/s460]l–6a(i)(1))” after “accounts established under section 4(i)(1) of the Land and Water Conservation Fund Act of 1965”.
+    Subsec. (e)(1). [Pub. L. 113–287][/us/pl/113/287], § 5(d)(37)(D)(i), struck out “([16 U.S.C. 460][/us/usc/t16/s460]l–6a(i)(1))” after “accounts established under section 4(i)(1) of the Land and Water Conservation Fund Act of 1965”.
 
-    Subsec. (e)(2). [Pub. L. 113–287, § 5(d)(37)(D)(ii)][/us/pl/113/287/s5/d/37/D/ii], struck out “; [16 U.S.C. 5991–599][/us/usc/t16/s5991–599]5” after “([Public Law 105–391][/us/pl/105/391]”.
+    Subsec. (e)(2). [Pub. L. 113–287][/us/pl/113/287], § 5(d)(37)(D)(ii), struck out “; [16 U.S.C. 5991–599][/us/usc/t16/s5991–599]5” after “([Public Law 105–391][/us/pl/105/391]”.
 
-    Subsec. (e)(3). [Pub. L. 113–287, § 5(d)(37)(D)(iii)][/us/pl/113/287/s5/d/37/D/iii], struck out “; [16 U.S.C. 460][/us/usc/t16/s460]l–6a” after “[Public Law 104–134][/us/pl/104/134]”.
+    Subsec. (e)(3). [Pub. L. 113–287][/us/pl/113/287], § 5(d)(37)(D)(iii), struck out “; [16 U.S.C. 460][/us/usc/t16/s460]l–6a” after “[Public Law 104–134][/us/pl/104/134]”.
 
     2005—Subsec. (a). [Pub. L. 109–54][/us/pl/109/54] inserted “(except for paragraph (1)(C))” after “and (i)”.
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–54, title I, § 132(d)][/us/pl/109/54/s132/d], Aug. 2, 2005, [119 Stat. 526][/us/stat/119/526], provided that: 
+[Pub. L. 109–54, title I][/us/pl/109/54/tI], § 132(d), Aug. 2, 2005, [119 Stat. 526][/us/stat/119/526], provided that: 
 
 > “This section \[amending this section and former section 460l–6a of this title and enacting provisions set out as a note under [section 100904 of Title 54][/us/usc/t54/s100904], National Park Service and Related Programs\] and the amendments made by this section take effect as of December 8, 2004.”
 
@@ -115,23 +115,23 @@
 [/us/usc/t16/s6804/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6804%2Fa%2F3
 [/us/pl/104/134/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fc
 [/us/usc/t16/s3911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3911
-[/us/pl/108/447/s813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs813
+[/us/pl/108/447/dJ/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtVIII
 [/us/stat/118/3390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3390
-[/us/pl/109/54/s132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54%2Fs132%2Fa
+[/us/pl/109/54/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54%2FtI
 [/us/stat/119/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F526
-[/us/pl/113/287/s5/d/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F37
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3268
 [/us/pl/88/578/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F578%2Fs4
-[/us/pl/92/347/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F347%2Fs2
+[/us/pl/92/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F347
 [/us/stat/86/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F459
-[/us/pl/104/66/s1081/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1081%2Ff
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F721
 [/us/usc/t54/s100904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100904
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
 [/us/usc/t16/s6804/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6804%2Fa%2F3
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
-[/us/pl/104/134/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fc
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-156
 [/us/pl/105/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F391
 [/us/stat/112/3497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3497
@@ -139,27 +139,27 @@
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/stat/118/3377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3377
 [/us/usc/t16/s6801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6801
-[/us/pl/113/287/s5/d/37/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F37%2FA
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
-[/us/pl/113/287/s5/d/37/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F37%2FB
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
-[/us/pl/113/287/s5/d/37/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F37%2FC%2Fi
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t16/s5982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5982
 [/us/pl/105/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F391
-[/us/pl/113/287/s5/d/37/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F37%2FC%2Fii
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t16/s5991–599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5991%E2%80%93599
 [/us/pl/105/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F391
-[/us/pl/113/287/s5/d/37/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F37%2FD%2Fi
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
-[/us/pl/113/287/s5/d/37/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F37%2FD%2Fii
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t16/s5991–599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5991%E2%80%93599
 [/us/pl/105/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F391
-[/us/pl/113/287/s5/d/37/D/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F37%2FD%2Fiii
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/usc/t16/s460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/pl/109/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54
-[/us/pl/109/54/s132/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54%2Fs132%2Fd
+[/us/pl/109/54/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54%2FtI
 [/us/stat/119/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F526
 [/us/usc/t54/s100904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100904
 

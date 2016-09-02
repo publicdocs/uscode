@@ -41,17 +41,17 @@
 
         (C) worthy of additional protection as a national conservation area, and with respect to the Gunnison Gorge itself, as a component of the national wilderness system.
 
-([Pub. L. 106–76, § 2][/us/pl/106/76/s2], Oct. 21, 1999, [113 Stat. 1126][/us/stat/113/1126].)
+([Pub. L. 106–76][/us/pl/106/76], § 2, Oct. 21, 1999, [113 Stat. 1126][/us/stat/113/1126].)
 
  __Short Title of 2003 Amendment__ 
 
-[Pub. L. 108–128, § 1][/us/pl/108/128/s1], Nov. 17, 2003, [117 Stat. 1355][/us/stat/117/1355], provided that: 
+[Pub. L. 108–128][/us/pl/108/128], § 1, Nov. 17, 2003, [117 Stat. 1355][/us/stat/117/1355], provided that: 
 
 > “This Act \[amending sections 410fff–2, 410fff–3, and 410fff–5 of this title and enacting provisions set out as notes under [section 410fff–2 of this title][/us/usc/t16/s410fff–2]\] may be cited as the ‘Black Canyon of the Gunnison Boundary Revision Act of 2003’.”
 
  __Short Title__ 
 
-[Pub. L. 106–76, § 1][/us/pl/106/76/s1], Oct. 21, 1999, [113 Stat. 1126][/us/stat/113/1126], provided that: 
+[Pub. L. 106–76][/us/pl/106/76], § 1, Oct. 21, 1999, [113 Stat. 1126][/us/stat/113/1126], provided that: 
 
 > “This Act \[enacting this subchapter and amending provisions listed in a table of National Monuments Established Under Presidential Proclamation set out under [section 431 of this title][/us/usc/t16/s431] and provisions listed in a table of Wilderness Areas set out under [section 1132 of this title][/us/usc/t16/s1132]\] may be cited as the ‘Black Canyon of the Gunnison National Park and Gunnison Gorge National Conservation Area Act of 1999’.”
 
@@ -62,12 +62,12 @@
 ----------
 ----------
 
-[/us/pl/106/76/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F76%2Fs2
+[/us/pl/106/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F76
 [/us/stat/113/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1126
-[/us/pl/108/128/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F128%2Fs1
+[/us/pl/108/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F128
 [/us/stat/117/1355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1355
 [/us/usc/t16/s410fff–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410fff%E2%80%932
-[/us/pl/106/76/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F76%2Fs1
+[/us/pl/106/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F76
 [/us/stat/113/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1126
 [/us/usc/t16/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs431
 [/us/usc/t16/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132

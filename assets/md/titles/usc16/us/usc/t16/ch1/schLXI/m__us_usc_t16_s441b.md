@@ -17,11 +17,11 @@
 
     The establishment of said park is conditioned upon the State of South Dakota first constructing the following highway in a manner satisfactory to the Secretary of the Interior: A highway commencing at the corporation limits of the town of Interior, thence going in a northwesterly direction to and over Big Foot Pass, and through the region known as The Pinnacles; thence in a westerly direction to Sage Creek, being a total distance of about thirty miles.
 
-([Mar. 4, 1929, ch. 693, § 3][/us/act/1929-03-04/ch693/s3], [45 Stat. 1555][/us/stat/45/1555]; [Pub. L. 95–625, title VI, § 611][/us/pl/95/625/s611], Nov. 10, 1978, [92 Stat. 3521][/us/stat/92/3521].)
+([Mar. 4, 1929, ch. 693][/us/act/1929-03-04/ch693], § 3, [45 Stat. 1555][/us/stat/45/1555]; [Pub. L. 95–625, title VI][/us/pl/95/625/tVI], § 611, Nov. 10, 1978, [92 Stat. 3521][/us/stat/92/3521].)
 
  __Change of Name__ 
 
-    Word “park” substituted in text for “monument” pursuant to [Pub. L. 95–625, § 611][/us/pl/95/625/s611], which is classified to [section 441e–1 of this title][/us/usc/t16/s441e–1] and which redesignated Badlands National Monument as Badlands National Park.
+    Word “park” substituted in text for “monument” pursuant to [Pub. L. 95–625][/us/pl/95/625], § 611, which is classified to [section 441e–1 of this title][/us/usc/t16/s441e–1] and which redesignated Badlands National Monument as Badlands National Park.
 
 ----------
 
@@ -30,11 +30,11 @@
 ----------
 ----------
 
-[/us/act/1929-03-04/ch693/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-04%2Fch693%2Fs3
+[/us/act/1929-03-04/ch693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-04%2Fch693
 [/us/stat/45/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1555
-[/us/pl/95/625/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs611
+[/us/pl/95/625/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtVI
 [/us/stat/92/3521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3521
-[/us/pl/95/625/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs611
+[/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
 [/us/usc/t16/s441e–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs441e%E2%80%931
 
 

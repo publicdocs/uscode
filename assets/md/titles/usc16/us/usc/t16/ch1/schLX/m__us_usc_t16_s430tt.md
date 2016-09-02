@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums, but not more than $722,000, as are necessary to carry out the provisions of sections 430pp to 430tt of this title.
 
-([Pub. L. 87–134, § 5][/us/pl/87/134/s5], Aug. 10, 1961, [75 Stat. 336][/us/stat/75/336]; [Pub. L. 93–477, title I, § 101(4)][/us/pl/93/477/s101/4], Oct. 26, 1974, [88 Stat. 1445][/us/stat/88/1445].)
+([Pub. L. 87–134][/us/pl/87/134], § 5, Aug. 10, 1961, [75 Stat. 336][/us/stat/75/336]; [Pub. L. 93–477, title I][/us/pl/93/477/tI], § 101(4), Oct. 26, 1974, [88 Stat. 1445][/us/stat/88/1445].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/87/134/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F134%2Fs5
+[/us/pl/87/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F134
 [/us/stat/75/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F336
-[/us/pl/93/477/s101/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F477%2Fs101%2F4
+[/us/pl/93/477/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F477%2FtI
 [/us/stat/88/1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1445
 [/us/pl/93/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F477
 

@@ -23,7 +23,7 @@
 
     (3) the projected need for any additional facilities within the seashore.
 
-([Pub. L. 89–366, § 8][/us/pl/89/366/s8], as added [Pub. L. 93–477, title IV, § 406(5)][/us/pl/93/477/s406/5], Oct. 26, 1974, [88 Stat. 1449][/us/stat/88/1449]; amended [Pub. L. 98–141, § 4][/us/pl/98/141/s4], Oct. 31, 1983, [97 Stat. 909][/us/stat/97/909].)
+([Pub. L. 89–366][/us/pl/89/366], § 8, as added [Pub. L. 93–477, title IV][/us/pl/93/477/tIV], § 406(5), Oct. 26, 1974, [88 Stat. 1449][/us/stat/88/1449]; amended [Pub. L. 98–141][/us/pl/98/141], § 4, Oct. 31, 1983, [97 Stat. 909][/us/stat/97/909].)
 
  __Change of Name__ 
 
@@ -42,10 +42,10 @@
 ----------
 ----------
 
-[/us/pl/89/366/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F366%2Fs8
-[/us/pl/93/477/s406/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F477%2Fs406%2F5
+[/us/pl/89/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F366
+[/us/pl/93/477/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F477%2FtIV
 [/us/stat/88/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1449
-[/us/pl/98/141/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F141%2Fs4
+[/us/pl/98/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F141
 [/us/stat/97/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F909
 [/us/pl/98/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F141
 

@@ -17,7 +17,7 @@
 
     The Secretary of the Interior and the Secretary of Agriculture are authorized to perform any and all Acts  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  and to make such rules and regulations as may be necessary and proper for the purpose of carrying out their respective functions under this subchapter and for the purpose of carrying the provisions of this subchapter into full force and effect.
 
-([Aug. 11, 1939, ch. 717, § 11][/us/act/1939-08-11/ch717/s11], as added [Oct. 14, 1940, ch. 861][/us/act/1940-10-14/ch861], [54 Stat. 1125][/us/stat/54/1125].)
+([Aug. 11, 1939, ch. 717][/us/act/1939-08-11/ch717], § 11, as added [Oct. 14, 1940, ch. 861][/us/act/1940-10-14/ch861], [54 Stat. 1125][/us/stat/54/1125].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1939-08-11/ch717/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-11%2Fch717%2Fs11
+[/us/act/1939-08-11/ch717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-11%2Fch717
 [/us/act/1940-10-14/ch861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch861
 [/us/stat/54/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1125
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262

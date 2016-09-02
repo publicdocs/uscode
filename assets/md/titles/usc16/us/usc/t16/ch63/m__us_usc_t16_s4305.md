@@ -47,7 +47,7 @@
 
         No action specifically authorized by a permit under this section shall be treated as a violation of [section 4306 of this title][/us/usc/t16/s4306].
 
-([Pub. L. 100–691, § 6][/us/pl/100/691/s6], Nov. 18, 1988, [102 Stat. 4548][/us/stat/102/4548].)
+([Pub. L. 100–691][/us/pl/100/691], § 6, Nov. 18, 1988, [102 Stat. 4548][/us/stat/102/4548].)
 
 ----------
 
@@ -60,7 +60,7 @@
 [/us/usc/t16/s4306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4306
 [/us/usc/t16/s4304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4304
 [/us/usc/t16/s4306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4306
-[/us/pl/100/691/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F691%2Fs6
+[/us/pl/100/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F691
 [/us/stat/102/4548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4548
 
 

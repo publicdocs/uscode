@@ -93,7 +93,7 @@
 
         (3) the State legislature has voted on the implementation of such standard (or a comparable standard) for such utility.
 
-([Pub. L. 95–617, title I, § 112][/us/pl/95/617/s112], Nov. 9, 1978, [92 Stat. 3122][/us/stat/92/3122]; [Pub. L. 102–486, title I, § 111(c)][/us/pl/102/486/s111/c], Oct. 24, 1992, [106 Stat. 2795][/us/stat/106/2795]; [Pub. L. 109–58, title XII][/us/pl/109/58], §§ 1251(b)(1)–(3)(A), 1252(g)–(i)(1), 1254(b)(1)–(3)(A), Aug. 8, 2005, [119 Stat. 963][/us/stat/119/963], 966, 967, 971; [Pub. L. 110–140, title XIII, § 1307(b)][/us/pl/110/140/s1307/b], Dec. 19, 2007, [121 Stat. 1793][/us/stat/121/1793]; [Pub. L. 111–5, div. A, title IV, § 408(b)][/us/pl/111/5/s408/b], Feb. 17, 2009, [123 Stat. 146][/us/stat/123/146].)
+([Pub. L. 95–617, title I][/us/pl/95/617/tI], § 112, Nov. 9, 1978, [92 Stat. 3122][/us/stat/92/3122]; [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 111(c), Oct. 24, 1992, [106 Stat. 2795][/us/stat/106/2795]; [Pub. L. 109–58, title XII][/us/pl/109/58/tXII], §§ 1251(b)(1)–(3)(A), 1252(g)–(i)(1), 1254(b)(1)–(3)(A), Aug. 8, 2005, [119 Stat. 963][/us/stat/119/963], 966, 967, 971; [Pub. L. 110–140, title XIII][/us/pl/110/140/tXIII], § 1307(b), Dec. 19, 2007, [121 Stat. 1793][/us/stat/121/1793]; [Pub. L. 111–5, div. A, title IV][/us/pl/111/5/dA/tIV], § 408(b), Feb. 17, 2009, [123 Stat. 146][/us/stat/123/146].)
 
  __References in Text__ 
 
@@ -107,29 +107,29 @@
 
     2009—Subsecs. (b)(6), (d). [Pub. L. 111–5][/us/pl/111/5] substituted “(16) through (19)” for “(17) through (18)” wherever appearing.
 
-    2007—Subsec. (b)(6). [Pub. L. 110–140, § 1307(b)(1)][/us/pl/110/140/s1307/b/1], added par. (6).
+    2007—Subsec. (b)(6). [Pub. L. 110–140][/us/pl/110/140], § 1307(b)(1), added par. (6).
 
-    Subsec. (c). [Pub. L. 110–140, § 1307(b)(2)][/us/pl/110/140/s1307/b/2], inserted at end “In the case of the standards established by paragraphs (16) through (19) of [section 2621(d) of this title][/us/usc/t16/s2621/d], the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to December 19, 2007.”
+    Subsec. (c). [Pub. L. 110–140][/us/pl/110/140], § 1307(b)(2), inserted at end “In the case of the standards established by paragraphs (16) through (19) of [section 2621(d) of this title][/us/usc/t16/s2621/d], the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to December 19, 2007.”
 
-    Subsec. (d). [Pub. L. 110–140, § 1307(b)(3)][/us/pl/110/140/s1307/b/3], inserted “and paragraphs (17) through (18)” before “of section 2621(d)” in introductory provisions.
+    Subsec. (d). [Pub. L. 110–140][/us/pl/110/140], § 1307(b)(3), inserted “and paragraphs (17) through (18)” before “of section 2621(d)” in introductory provisions.
 
-    2005—Subsec. (b)(3). [Pub. L. 109–58, § 1251(b)(1)][/us/pl/109/58/s1251/b/1], added par. (3).
+    2005—Subsec. (b)(3). [Pub. L. 109–58][/us/pl/109/58], § 1251(b)(1), added par. (3).
 
-    Subsec. (b)(4). [Pub. L. 109–58, § 1252(g)][/us/pl/109/58/s1252/g], added par. (4).
+    Subsec. (b)(4). [Pub. L. 109–58][/us/pl/109/58], § 1252(g), added par. (4).
 
-    Subsec. (b)(5). [Pub. L. 109–58, § 1254(b)(1)][/us/pl/109/58/s1254/b/1], added par. (5).
+    Subsec. (b)(5). [Pub. L. 109–58][/us/pl/109/58], § 1254(b)(1), added par. (5).
 
-    Subsec. (c). [Pub. L. 109–58, § 1254(b)(2)][/us/pl/109/58/s1254/b/2], which directed amendment of subsec. (d) by inserting at end “In the case of the standard established by paragraph (15), the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005.”, was executed by making the insertion in subsec. (c) at end to reflect the probable intent of Congress.
+    Subsec. (c). [Pub. L. 109–58][/us/pl/109/58], § 1254(b)(2), which directed amendment of subsec. (d) by inserting at end “In the case of the standard established by paragraph (15), the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005.”, was executed by making the insertion in subsec. (c) at end to reflect the probable intent of Congress.
 
-    [Pub. L. 109–58, § 1252(h)][/us/pl/109/58/s1252/h], inserted at end “In the case of the standard established by paragraph (14) of [section 2621(d) of this title][/us/usc/t16/s2621/d], the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005.”
+    [Pub. L. 109–58][/us/pl/109/58], § 1252(h), inserted at end “In the case of the standard established by paragraph (14) of [section 2621(d) of this title][/us/usc/t16/s2621/d], the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005.”
 
-    [Pub. L. 109–58, § 1251(b)(2)][/us/pl/109/58/s1251/b/2], inserted at end “In the case of each standard established by paragraphs (11) through (13) of [section 2621(d) of this title][/us/usc/t16/s2621/d], the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005.”
+    [Pub. L. 109–58][/us/pl/109/58], § 1251(b)(2), inserted at end “In the case of each standard established by paragraphs (11) through (13) of [section 2621(d) of this title][/us/usc/t16/s2621/d], the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005.”
 
-    Subsec. (d). [Pub. L. 109–58, § 1251(b)(3)(A)][/us/pl/109/58/s1251/b/3/A], added subsec. (d).
+    Subsec. (d). [Pub. L. 109–58][/us/pl/109/58], § 1251(b)(3)(A), added subsec. (d).
 
-    Subsec. (e). [Pub. L. 109–58, § 1252(i)(1)][/us/pl/109/58/s1252/i/1], added subsec. (e).
+    Subsec. (e). [Pub. L. 109–58][/us/pl/109/58], § 1252(i)(1), added subsec. (e).
 
-    Subsec. (f). [Pub. L. 109–58, § 1254(b)(3)(A)][/us/pl/109/58/s1254/b/3/A], added subsec. (f).
+    Subsec. (f). [Pub. L. 109–58][/us/pl/109/58], § 1254(b)(3)(A), added subsec. (f).
 
     1992—Subsec. (b)(1), (2). [Pub. L. 102–486][/us/pl/102/486] inserted “(or after October 24, 1992, in the case of standards under paragraphs (7), (8), and (9) of [section 2621(d) of this title][/us/usc/t16/s2621/d])”.
 
@@ -180,15 +180,15 @@
 [/us/usc/t16/s2621/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2621%2Fd
 [/us/usc/t16/s2621/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2621%2Fd
 [/us/usc/t16/s2621/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2621%2Fd
-[/us/pl/95/617/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs112
+[/us/pl/95/617/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtI
 [/us/stat/92/3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3122
-[/us/pl/102/486/s111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs111%2Fc
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2795
-[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F963
-[/us/pl/110/140/s1307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1307%2Fb
+[/us/pl/110/140/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXIII
 [/us/stat/121/1793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1793
-[/us/pl/111/5/s408/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs408%2Fb
+[/us/pl/111/5/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtIV
 [/us/stat/123/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F146
 [/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
 [/us/stat/92/3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3120
@@ -196,21 +196,21 @@
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
-[/us/pl/110/140/s1307/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1307%2Fb%2F1
-[/us/pl/110/140/s1307/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1307%2Fb%2F2
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/usc/t16/s2621/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2621%2Fd
-[/us/pl/110/140/s1307/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1307%2Fb%2F3
-[/us/pl/109/58/s1251/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1251%2Fb%2F1
-[/us/pl/109/58/s1252/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1252%2Fg
-[/us/pl/109/58/s1254/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1254%2Fb%2F1
-[/us/pl/109/58/s1254/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1254%2Fb%2F2
-[/us/pl/109/58/s1252/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1252%2Fh
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/usc/t16/s2621/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2621%2Fd
-[/us/pl/109/58/s1251/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1251%2Fb%2F2
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/usc/t16/s2621/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2621%2Fd
-[/us/pl/109/58/s1251/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1251%2Fb%2F3%2FA
-[/us/pl/109/58/s1252/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1252%2Fi%2F1
-[/us/pl/109/58/s1254/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1254%2Fb%2F3%2FA
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/usc/t16/s2621/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2621%2Fd
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140

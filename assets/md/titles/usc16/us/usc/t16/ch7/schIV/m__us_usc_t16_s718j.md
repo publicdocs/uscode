@@ -67,7 +67,7 @@
 
             (B) to attempt to pursue, hunt, shoot, capture, collect, or kill.
 
-([Mar. 16, 1934, ch. 71, § 10][/us/act/1934-03-16/ch71/s10], as added [Pub. L. 109–266, § 10(h)][/us/pl/109/266/s10/h], Aug. 3, 2006, [120 Stat. 678][/us/stat/120/678].)
+([Mar. 16, 1934, ch. 71][/us/act/1934-03-16/ch71], § 10, as added [Pub. L. 109–266][/us/pl/109/266], § 10(h), Aug. 3, 2006, [120 Stat. 678][/us/stat/120/678].)
 
  __References in Text__ 
 
@@ -77,7 +77,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 718j, [Mar. 16, 1934, ch. 71, § 10][/us/act/1934-03-16/ch71/s10], as added [Pub. L. 97–307][/us/pl/97/307], Oct. 14, 1982, [96 Stat. 1450][/us/stat/96/1450], related to crediting of funds received as fees for entering migratory-bird hunting and conservation stamp contest prior to repeal by [Pub. L. 109–266, § 10(h)][/us/pl/109/266/s10/h], Aug. 3, 2006, [120 Stat. 677][/us/stat/120/677].
+    A prior section 718j, [Mar. 16, 1934, ch. 71][/us/act/1934-03-16/ch71], § 10, as added [Pub. L. 97–307][/us/pl/97/307], Oct. 14, 1982, [96 Stat. 1450][/us/stat/96/1450], related to crediting of funds received as fees for entering migratory-bird hunting and conservation stamp contest prior to repeal by [Pub. L. 109–266][/us/pl/109/266], § 10(h), Aug. 3, 2006, [120 Stat. 677][/us/stat/120/677].
 
 ----------
 
@@ -89,8 +89,8 @@
 [/us/usc/t16/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs715
 [/us/usc/t16/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs703
 [/us/usc/t16/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs703
-[/us/act/1934-03-16/ch71/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-16%2Fch71%2Fs10
-[/us/pl/109/266/s10/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266%2Fs10%2Fh
+[/us/act/1934-03-16/ch71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-16%2Fch71
+[/us/pl/109/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266
 [/us/stat/120/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F678
 [/us/act/1929-02-18/ch257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-18%2Fch257
 [/us/stat/45/1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1222
@@ -98,10 +98,10 @@
 [/us/act/1918-07-03/ch128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-07-03%2Fch128
 [/us/stat/40/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F755
 [/us/usc/t16/s710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs710
-[/us/act/1934-03-16/ch71/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-16%2Fch71%2Fs10
+[/us/act/1934-03-16/ch71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-16%2Fch71
 [/us/pl/97/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F307
 [/us/stat/96/1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1450
-[/us/pl/109/266/s10/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266%2Fs10%2Fh
+[/us/pl/109/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266
 [/us/stat/120/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F677
 
 

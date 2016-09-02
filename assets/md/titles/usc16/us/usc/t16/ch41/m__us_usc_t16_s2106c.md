@@ -85,11 +85,11 @@
 
         (2) such sums as are necessary for fiscal years thereafter.
 
-([Pub. L. 95–313, § 10A][/us/pl/95/313/s10A], as added [Pub. L. 107–171, title VIII, § 8003(b)][/us/pl/107/171/s8003/b], May 13, 2002, [116 Stat. 473][/us/stat/116/473].)
+([Pub. L. 95–313][/us/pl/95/313], § 10A, as added [Pub. L. 107–171, title VIII][/us/pl/107/171/tVIII], § 8003(b), May 13, 2002, [116 Stat. 473][/us/stat/116/473].)
 
  __Findings for Enhanced Community Fire Protection__ 
 
-[Pub. L. 107–171, title VIII, § 8003(a)][/us/pl/107/171/s8003/a], May 13, 2002, [116 Stat. 473][/us/stat/116/473], provided that: 
+[Pub. L. 107–171, title VIII][/us/pl/107/171/tVIII], § 8003(a), May 13, 2002, [116 Stat. 473][/us/stat/116/473], provided that: 
 
 > “Congress finds the following:
 
@@ -112,10 +112,10 @@
 ----------
 ----------
 
-[/us/pl/95/313/s10A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313%2Fs10A
-[/us/pl/107/171/s8003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs8003%2Fb
+[/us/pl/95/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313
+[/us/pl/107/171/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVIII
 [/us/stat/116/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F473
-[/us/pl/107/171/s8003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs8003%2Fa
+[/us/pl/107/171/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVIII
 [/us/stat/116/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F473
 
 

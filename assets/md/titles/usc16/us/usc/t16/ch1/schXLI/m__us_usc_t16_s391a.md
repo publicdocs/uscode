@@ -51,7 +51,7 @@
 
     16. One hundred and ninety-nine degrees twenty-three minutes ten thousand seven hundred and twenty-six feet along the remaining portion of the land of Kalialinui to the point of beginning, passing over a concrete monument marked Number 22 at a distance of six thousand four hundred thirty-six and seven-tenths feet; including portions of the lands of Kealahou 3 and 4, Pulehunui, Kalialinui, Kaupo, Nuu, Nakula, Kahikinui and Papaanui, Island of Maui, and containing seventeen thousand one hundred and thirty acres, more or less; and all of those lands lying within the boundary above described are included in and made a part of the Hawaii National Park subject to all laws and regulations pertaining to said park.
 
-([Feb. 12, 1927, ch. 111, § 1][/us/act/1927-02-12/ch111/s1], [44 Stat. 1087][/us/stat/44/1087].)
+([Feb. 12, 1927, ch. 111][/us/act/1927-02-12/ch111], § 1, [44 Stat. 1087][/us/stat/44/1087].)
 
  __Haleakala̅ National Park__ 
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/act/1927-02-12/ch111/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-12%2Fch111%2Fs1
+[/us/act/1927-02-12/ch111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-12%2Fch111
 [/us/stat/44/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1087
 [/us/usc/t16/s396b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs396b
 

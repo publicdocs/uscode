@@ -21,7 +21,7 @@
 
     (b) The President of the United States is authorized to provide for the transfer to the Corporation of the use, possession, and control of such other real or personal property of the United States as he may from time to time deem necessary and proper for the purposes of the Corporation as herein stated.
 
-([May 18, 1933, ch. 32, § 7][/us/act/1933-05-18/ch32/s7], [48 Stat. 63][/us/stat/48/63].)
+([May 18, 1933, ch. 32][/us/act/1933-05-18/ch32], § 7, [48 Stat. 63][/us/stat/48/63].)
 
  __Delegation of Functions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1933-05-18/ch32/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32%2Fs7
+[/us/act/1933-05-18/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32
 [/us/stat/48/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F63
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 

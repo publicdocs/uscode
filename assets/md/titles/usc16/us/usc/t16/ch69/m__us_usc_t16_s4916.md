@@ -21,7 +21,7 @@
 
     (2) is consistent with the international obligations of the United States.
 
-([Pub. L. 102–440, title I, § 117][/us/pl/102/440/s117], Oct. 23, 1992, [106 Stat. 2233][/us/stat/106/2233].)
+([Pub. L. 102–440, title I][/us/pl/102/440/tI], § 117, Oct. 23, 1992, [106 Stat. 2233][/us/stat/106/2233].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/102/440/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2Fs117
+[/us/pl/102/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2FtI
 [/us/stat/106/2233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2233
 
 

@@ -23,7 +23,7 @@
 
     (3) The cost of making surveys and investigations and of preparing reports concerning the conservation and development of wildlife resources shall be borne by the Secretary of the Interior out of funds appropriated to his Department.
 
-([Aug. 4, 1954, ch. 656, § 12][/us/act/1954-08-04/ch656/s12], as added [Pub. L. 85–624, § 3][/us/pl/85/624/s3], Aug. 12, 1958, [72 Stat. 567][/us/stat/72/567].)
+([Aug. 4, 1954, ch. 656][/us/act/1954-08-04/ch656], § 12, as added [Pub. L. 85–624][/us/pl/85/624], § 3, Aug. 12, 1958, [72 Stat. 567][/us/stat/72/567].)
 
  __Transfer of Functions__ 
 
@@ -37,8 +37,8 @@
 ----------
 
 [/us/usc/t16/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1003
-[/us/act/1954-08-04/ch656/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-04%2Fch656%2Fs12
-[/us/pl/85/624/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F624%2Fs3
+[/us/act/1954-08-04/ch656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-04%2Fch656
+[/us/pl/85/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F624
 [/us/stat/72/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F567
 [/us/usc/t16/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1002
 

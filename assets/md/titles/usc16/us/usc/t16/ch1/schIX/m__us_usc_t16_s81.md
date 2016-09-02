@@ -17,7 +17,7 @@
 
     Upon proclamation of the President, as herein provided, sufficient of the areas hereinafter specified for the purposes of this subchapter shall be established and set apart as the Colonial National Historical Park for the preservation of the historical structures and remains thereon and for the benefit and enjoyment of the people.
 
-([July 3, 1930, ch. 837, § 1][/us/act/1930-07-03/ch837/s1], [46 Stat. 855][/us/stat/46/855]; [June 5, 1936, ch. 525, § 2][/us/act/1936-06-05/ch525/s2], [49 Stat. 1483][/us/stat/49/1483].)
+([July 3, 1930, ch. 837][/us/act/1930-07-03/ch837], § 1, [46 Stat. 855][/us/stat/46/855]; [June 5, 1936, ch. 525][/us/act/1936-06-05/ch525], § 2, [49 Stat. 1483][/us/stat/49/1483].)
 
  __Codification__ 
 
@@ -25,7 +25,7 @@
 
  __Change of Name__ 
 
-[Act June 5, 1936, ch. 525, § 2][/us/act/1936-06-05/ch525/s2], [49 Stat. 1483][/us/stat/49/1483], provided: 
+[Act June 5, 1936, ch. 525][/us/act/1936-06-05/ch525], § 2, [49 Stat. 1483][/us/stat/49/1483], provided: 
 
 > “That the area now within the Colonial National Monument, together with such additions as may hereafter be made thereto, pursuant to section 1 hereof \[[section 81b of this title][/us/usc/t16/s81b]\], shall be known as the ‘Colonial National Historical Park’, under which name the aforesaid national park shall be entitled to receive and to use all moneys heretofore or hereafter appropriated for the Colonial National Monument.”
 
@@ -317,7 +317,7 @@
 
 >     “There are authorized to be appropriated such sums as are necessary to carry out this Act.”
 
-    [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 127\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–229, 2763A–359, enacted provisions substantially identical to those enacted by [Pub. L. 106–565][/us/pl/106/565], set out above.
+    [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 127\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–229, 2763A–359, enacted provisions substantially identical to those enacted by [Pub. L. 106–565][/us/pl/106/565], set out above.
 
 ----------
 
@@ -326,12 +326,12 @@
 ----------
 ----------
 
-[/us/act/1930-07-03/ch837/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-07-03%2Fch837%2Fs1
+[/us/act/1930-07-03/ch837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-07-03%2Fch837
 [/us/stat/46/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F855
-[/us/act/1936-06-05/ch525/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-05%2Fch525%2Fs2
+[/us/act/1936-06-05/ch525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-05%2Fch525
 [/us/stat/49/1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1483
 [/us/usc/t16/s443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs443
-[/us/act/1936-06-05/ch525/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-05%2Fch525%2Fs2
+[/us/act/1936-06-05/ch525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-05%2Fch525
 [/us/stat/49/1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1483
 [/us/usc/t16/s81b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs81b
 [/us/pl/106/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F565
@@ -342,7 +342,7 @@
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/106/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F565
 

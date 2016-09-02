@@ -53,11 +53,11 @@
 
         The term “United States Section” means the United States representatives on the joint management committee.
 
-([Pub. L. 109–479, title VI, § 602][/us/pl/109/479/s602], Jan. 12, 2007, [120 Stat. 3644][/us/stat/120/3644].)
+([Pub. L. 109–479, title VI][/us/pl/109/479/tVI], § 602, Jan. 12, 2007, [120 Stat. 3644][/us/stat/120/3644].)
 
  __Short Title__ 
 
-[Pub. L. 109–479, title VI, § 601][/us/pl/109/479/s601], Jan. 12, 2007, [120 Stat. 3644][/us/stat/120/3644], provided that: 
+[Pub. L. 109–479, title VI][/us/pl/109/479/tVI], § 601, Jan. 12, 2007, [120 Stat. 3644][/us/stat/120/3644], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Pacific Whiting Act of 2006’.”
 
@@ -68,9 +68,9 @@
 ----------
 ----------
 
-[/us/pl/109/479/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs602
+[/us/pl/109/479/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtVI
 [/us/stat/120/3644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3644
-[/us/pl/109/479/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs601
+[/us/pl/109/479/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtVI
 [/us/stat/120/3644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3644
 
 

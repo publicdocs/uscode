@@ -27,7 +27,7 @@
 
     (5) to recognize the significant contributions of Julia Billings, Mary Billings French, Mary French Rockefeller, and Laurance Spelman Rockefeller in perpetuating the Marsh-Billings-Rockefeller heritage.
 
-([Pub. L. 102–350, § 2][/us/pl/102/350/s2], Aug. 26, 1992, [106 Stat. 934][/us/stat/106/934]; [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title I, § 143\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–267.)
+([Pub. L. 102–350][/us/pl/102/350], § 2, Aug. 26, 1992, [106 Stat. 934][/us/stat/106/934]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title I, § 143\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–267.)
 
  __Amendments__ 
 
@@ -35,7 +35,7 @@
 
  __Short Title__ 
 
-[Pub. L. 102–350, § 1][/us/pl/102/350/s1], Aug. 26, 1992, [106 Stat. 934][/us/stat/106/934], as amended by [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title I, § 143\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–267, provided that: 
+[Pub. L. 102–350][/us/pl/102/350], § 1, Aug. 26, 1992, [106 Stat. 934][/us/stat/106/934], as amended by [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title I, § 143\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–267, provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘Marsh-Billings-Rockefeller National Historical Park Establishment Act’.”
 
@@ -46,14 +46,14 @@
 ----------
 ----------
 
-[/us/pl/102/350/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F350%2Fs2
+[/us/pl/102/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F350
 [/us/stat/106/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F934
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/102/350/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F350%2Fs1
+[/us/pl/102/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F350
 [/us/stat/106/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F934
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 
 

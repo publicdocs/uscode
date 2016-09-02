@@ -17,7 +17,7 @@
 
     The Congress finds that the high altitude and freedom from air pollution and night luminosity caused by human activity, make the research site uniquely suited to the conduct of research probes into thunder clouds and for other atmospheric and astronomical research purposes.
 
-([Pub. L. 96–550, title II, § 202][/us/pl/96/550/s202], Dec. 19, 1980, [94 Stat. 3225][/us/stat/94/3225].)
+([Pub. L. 96–550, title II][/us/pl/96/550/tII], § 202, Dec. 19, 1980, [94 Stat. 3225][/us/stat/94/3225].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/550/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F550%2Fs202
+[/us/pl/96/550/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F550%2FtII
 [/us/stat/94/3225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3225
 
 

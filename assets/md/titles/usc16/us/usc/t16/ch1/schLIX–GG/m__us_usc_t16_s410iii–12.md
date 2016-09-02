@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated such sums as are necessary to carry out this subchapter.
 
-([Pub. L. 107–373, § 14][/us/pl/107/373/s14], Dec. 19, 2002, [116 Stat. 3110][/us/stat/116/3110].)
+([Pub. L. 107–373][/us/pl/107/373], § 14, Dec. 19, 2002, [116 Stat. 3110][/us/stat/116/3110].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/373/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F373%2Fs14
+[/us/pl/107/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F373
 [/us/stat/116/3110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3110
 
 

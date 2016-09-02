@@ -57,7 +57,7 @@
 
         (3) If at any time the State fails to comply with the material requirements of the agreement referred to in paragraph (2)(B), all right, title, and interest in the land described in paragraph (1)(E) shall revert to the United States for administration by the Secretary as part of the park. Such reversion shall take effect upon the delivery by the Secretary of notice to the State respecting such failure to comply without further notice or requirement for physical entry by the Secretary unless an action for judicial review is brought in the United States Court of Appeals for the appropriate circuit within ninety days following such notice. In any such action the court may issue such orders as are appropriate to carry out the requirements of this subsection.
 
-([Pub. L. 91–661, § 102][/us/pl/91/661/s102], Jan. 8, 1971, [84 Stat. 1970][/us/stat/84/1970]; [Pub. L. 97–405, § 1(1)][/us/pl/97/405/s1/1], (2), Jan. 3, 1983, [96 Stat. 2028][/us/stat/96/2028].)
+([Pub. L. 91–661][/us/pl/91/661], § 102, Jan. 8, 1971, [84 Stat. 1970][/us/stat/84/1970]; [Pub. L. 97–405][/us/pl/97/405], § 1(1), (2), Jan. 3, 1983, [96 Stat. 2028][/us/stat/96/2028].)
 
  __Codification__ 
 
@@ -65,9 +65,9 @@
 
  __Amendments__ 
 
-    1983—Subsec. (a). [Pub. L. 97–405, § 1(1)][/us/pl/97/405/s1/1], substituted “(a) Except as provided in subsection (b) of this section, the park” for “The park”.
+    1983—Subsec. (a). [Pub. L. 97–405][/us/pl/97/405], § 1(1), substituted “(a) Except as provided in subsection (b) of this section, the park” for “The park”.
 
-    Subsec. (b). [Pub. L. 97–405, § 1(2)][/us/pl/97/405/s1/2], added subsec. (b).
+    Subsec. (b). [Pub. L. 97–405][/us/pl/97/405], § 1(2), added subsec. (b).
 
 ----------
 
@@ -76,14 +76,14 @@
 ----------
 ----------
 
-[/us/pl/91/661/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F661%2Fs102
+[/us/pl/91/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F661
 [/us/stat/84/1970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1970
-[/us/pl/97/405/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F405%2Fs1%2F1
+[/us/pl/97/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F405
 [/us/stat/96/2028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2028
 [/us/pl/91/661/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F661%2Fs102
 [/us/usc/t16/s160a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs160a
 [/us/pl/97/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F405
-[/us/pl/97/405/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F405%2Fs1%2F1
-[/us/pl/97/405/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F405%2Fs1%2F2
+[/us/pl/97/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F405
+[/us/pl/97/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F405
 
 

@@ -143,7 +143,7 @@
 
         There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-([Pub. L. 95–313, § 7][/us/pl/95/313/s7], as added [Pub. L. 101–624, title XII, § 1217][/us/pl/101/624/s1217], Nov. 28, 1990, [104 Stat. 3528][/us/stat/104/3528]; amended [Pub. L. 102–237, title X, § 1018(a)(2)][/us/pl/102/237/s1018/a/2], Dec. 13, 1991, [105 Stat. 1905][/us/stat/105/1905]; [Pub. L. 104–127, title III, § 374][/us/pl/104/127/s374], Apr. 4, 1996, [110 Stat. 1015][/us/stat/110/1015]; [Pub. L. 108–108, title III, § 336][/us/pl/108/108/s336], Nov. 10, 2003, [117 Stat. 1313][/us/stat/117/1313].)
+([Pub. L. 95–313][/us/pl/95/313], § 7, as added [Pub. L. 101–624, title XII][/us/pl/101/624/tXII], § 1217, Nov. 28, 1990, [104 Stat. 3528][/us/stat/104/3528]; amended [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1018(a)(2), Dec. 13, 1991, [105 Stat. 1905][/us/stat/105/1905]; [Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 374, Apr. 4, 1996, [110 Stat. 1015][/us/stat/110/1015]; [Pub. L. 108–108, title III][/us/pl/108/108/tIII], § 336, Nov. 10, 2003, [117 Stat. 1313][/us/stat/117/1313].)
 
  __References in Text__ 
 
@@ -159,11 +159,11 @@
 
     1996—Subsecs. (l), (m). [Pub. L. 104–127][/us/pl/104/127] added subsec. (l) and redesignated former subsec. (l) as (m).
 
-    1991—Subsec. (d)(2). [Pub. L. 102–237, § 1018(a)(2)(A)][/us/pl/102/237/s1018/a/2/A], substituted “November 28, 1991” for “1 year after November 28, 1990”.
+    1991—Subsec. (d)(2). [Pub. L. 102–237][/us/pl/102/237], § 1018(a)(2)(A), substituted “November 28, 1991” for “1 year after November 28, 1990”.
 
-    Subsec. (e). [Pub. L. 102–237, § 1018(a)(2)(B)][/us/pl/102/237/s1018/a/2/B], substituted “Not later than November 28, 1991, and in consultation with State Forest Stewardship Coordinating Committees established under section 2113(b)” for “Within 1 year from November 28, 1990, and in consultation with State Forest Stewardship Advisory Committees established under section 15(b)”.
+    Subsec. (e). [Pub. L. 102–237][/us/pl/102/237], § 1018(a)(2)(B), substituted “Not later than November 28, 1991, and in consultation with State Forest Stewardship Coordinating Committees established under section 2113(b)” for “Within 1 year from November 28, 1990, and in consultation with State Forest Stewardship Advisory Committees established under section 15(b)”.
 
-    Subsec. (f). [Pub. L. 102–237, § 1018(a)(2)(C)][/us/pl/102/237/s1018/a/2/C], substituted “subsection (e)” for “subsection (d)”.
+    Subsec. (f). [Pub. L. 102–237][/us/pl/102/237], § 1018(a)(2)(C), substituted “subsection (e)” for “subsection (d)”.
 
 ----------
 
@@ -177,14 +177,14 @@
 [/us/pl/100/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F446
 [/us/usc/t16/s2113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2113%2Fb
 [/us/usc/t16/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs515
-[/us/pl/95/313/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313%2Fs7
-[/us/pl/101/624/s1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1217
+[/us/pl/95/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313
+[/us/pl/101/624/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXII
 [/us/stat/104/3528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3528
-[/us/pl/102/237/s1018/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1018%2Fa%2F2
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1905
-[/us/pl/104/127/s374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs374
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1015
-[/us/pl/108/108/s336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2Fs336
+[/us/pl/108/108/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108%2FtIII
 [/us/stat/117/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1313
 [/us/pl/100/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F446
 [/us/pl/100/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F446
@@ -193,8 +193,8 @@
 [/us/usc/t16/s2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2106
 [/us/pl/108/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F108
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
-[/us/pl/102/237/s1018/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1018%2Fa%2F2%2FA
-[/us/pl/102/237/s1018/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1018%2Fa%2F2%2FB
-[/us/pl/102/237/s1018/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1018%2Fa%2F2%2FC
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 
 

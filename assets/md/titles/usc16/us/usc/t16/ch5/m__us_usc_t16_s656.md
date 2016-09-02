@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 1976 derived from [act Mar. 5, 1872, ch. 31, § 3][/us/act/1872-03-05/ch31/s3], [17 Stat. 35][/us/stat/17/35].
+    R.S. § 1976 derived from [act Mar. 5, 1872, ch. 31][/us/act/1872-03-05/ch31], § 3, [17 Stat. 35][/us/stat/17/35].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1872-03-05/ch31/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-03-05%2Fch31%2Fs3
+[/us/act/1872-03-05/ch31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1872-03-05%2Fch31
 [/us/stat/17/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F17%2F35
 
 

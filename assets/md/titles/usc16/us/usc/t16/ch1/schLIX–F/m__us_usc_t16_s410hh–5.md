@@ -17,7 +17,7 @@
 
     Subject to valid existing rights, and except as explicitly provided otherwise in this Act, the Federal lands within units of the National Park System established or expanded by or pursuant to this Act are hereby withdrawn from all forms of appropriation or disposal under the public land laws, including location, entry, and patent under the United States mining laws, disposition under the mineral leasing laws, and from future selections by the State of Alaska and Native Corporations.
 
-([Pub. L. 96–487, title II, § 206][/us/pl/96/487/s206], Dec. 2, 1980, [94 Stat. 2384][/us/stat/94/2384].)
+([Pub. L. 96–487, title II][/us/pl/96/487/tII], § 206, Dec. 2, 1980, [94 Stat. 2384][/us/stat/94/2384].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/96/487/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs206
+[/us/pl/96/487/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtII
 [/us/stat/94/2384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2384
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371

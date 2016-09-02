@@ -17,7 +17,7 @@
 
     For the purpose of preserving certain historic properties associated with the Fort Vancouver National Historic Site, established pursuant to sections 450ff to 450ff–2 of this title, the Secretary of the Interior may revise the boundaries of the historic site to include therein not more than one hundred and thirty additional acres of land adjacent to, contiguous to, or in the vicinity of, the existing historic site.
 
-([Pub. L. 87–78, § 1][/us/pl/87/78/s1], June 30, 1961, [75 Stat. 196][/us/stat/75/196].)
+([Pub. L. 87–78][/us/pl/87/78], § 1, June 30, 1961, [75 Stat. 196][/us/stat/75/196].)
 
  __Change of Name__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/87/78/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F78%2Fs1
+[/us/pl/87/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F78
 [/us/stat/75/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F196
 [/us/pl/87/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F78
 [/us/usc/t16/s450ff–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450ff%E2%80%936

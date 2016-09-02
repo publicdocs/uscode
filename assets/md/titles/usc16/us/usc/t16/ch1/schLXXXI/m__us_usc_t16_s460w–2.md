@@ -17,7 +17,7 @@
 
     The Secretary may acquire within the boundaries of the lakeshore lands and interests therein by donation, purchase with donated or appropriated funds, or exchange, but lands and interests in lands owned by the State of Wisconsin may be acquired only by donation. Notwithstanding any other provision of law, any Federal property located within the boundaries of the lakeshore is hereby transferred without transfer of funds to the administrative jurisdiction of the Secretary for the purposes of the lakeshore: Provided, That the United States Coast Guard may retain a right to utilize a portion of such land and facilities for use as navigational aids so long as may be required.
 
-([Pub. L. 91–424, § 3][/us/pl/91/424/s3], Sept. 26, 1970, [84 Stat. 880][/us/stat/84/880]; [Pub. L. 99–497, § 1(2)][/us/pl/99/497/s1/2], Oct. 17, 1986, [100 Stat. 1267][/us/stat/100/1267].)
+([Pub. L. 91–424][/us/pl/91/424], § 3, Sept. 26, 1970, [84 Stat. 880][/us/stat/84/880]; [Pub. L. 99–497][/us/pl/99/497], § 1(2), Oct. 17, 1986, [100 Stat. 1267][/us/stat/100/1267].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/91/424/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F424%2Fs3
+[/us/pl/91/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F424
 [/us/stat/84/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F880
-[/us/pl/99/497/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F497%2Fs1%2F2
+[/us/pl/99/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F497
 [/us/stat/100/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1267
 [/us/pl/99/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F497
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

@@ -17,7 +17,7 @@
 
     A statement of the acreage and value of such property as may have been transferred pursuant to sections 667b to 667d of this title during the preceding fiscal year shall be annually prepared by the Administrator of General Services.
 
-([May 19, 1948, ch. 310, § 3][/us/act/1948-05-19/ch310/s3], [62 Stat. 241][/us/stat/62/241]; [June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title I, § 105, [63 Stat. 381][/us/stat/63/381]; [Pub. L. 104–66, title II, § 2091(b)][/us/pl/104/66/s2091/b], Dec. 21, 1995, [109 Stat. 730][/us/stat/109/730].)
+([May 19, 1948, ch. 310][/us/act/1948-05-19/ch310], § 3, [62 Stat. 241][/us/stat/62/241]; [June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title I, § 105, [63 Stat. 381][/us/stat/63/381]; [Pub. L. 104–66, title II][/us/pl/104/66/tII], § 2091(b), Dec. 21, 1995, [109 Stat. 730][/us/stat/109/730].)
 
  __Amendments__ 
 
@@ -25,7 +25,7 @@
 
  __Transfer of Functions__ 
 
-    Functions, records, property, etc., of War Assets Administration transferred to General Services Administration, functions of War Assets Administrator transferred to Administrator of General Services, and War Assets Administration and office of War Assets Administrator abolished by section 105 of act June 30, 1949. Transfer of functions effective July 1, 1949, see section 605, formerly § 505, of [act June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], [63 Stat. 403][/us/stat/63/403]; renumbered by [act Sept. 5, 1950, ch. 849, § 6(a)][/us/act/1950-09-05/ch849/s6/a], (b), [64 Stat. 583][/us/stat/64/583].
+    Functions, records, property, etc., of War Assets Administration transferred to General Services Administration, functions of War Assets Administrator transferred to Administrator of General Services, and War Assets Administration and office of War Assets Administrator abolished by section 105 of act June 30, 1949. Transfer of functions effective July 1, 1949, see section 605, formerly § 505, of [act June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], [63 Stat. 403][/us/stat/63/403]; renumbered by [act Sept. 5, 1950, ch. 849][/us/act/1950-09-05/ch849], § 6(a), (b), [64 Stat. 583][/us/stat/64/583].
 
 ----------
 
@@ -34,16 +34,16 @@
 ----------
 ----------
 
-[/us/act/1948-05-19/ch310/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-05-19%2Fch310%2Fs3
+[/us/act/1948-05-19/ch310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-05-19%2Fch310
 [/us/stat/62/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F241
 [/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
 [/us/stat/63/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F381
-[/us/pl/104/66/s2091/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs2091%2Fb
+[/us/pl/104/66/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtII
 [/us/stat/109/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F730
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
 [/us/stat/63/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F403
-[/us/act/1950-09-05/ch849/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-05%2Fch849%2Fs6%2Fa
+[/us/act/1950-09-05/ch849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-05%2Fch849
 [/us/stat/64/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F583
 
 

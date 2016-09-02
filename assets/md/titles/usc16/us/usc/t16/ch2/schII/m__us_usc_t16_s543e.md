@@ -73,7 +73,7 @@
 
         The Board shall terminate ten years from the date of its first meeting.
 
-([Pub. L. 98–425, title III, § 306][/us/pl/98/425/s306], Sept. 28, 1984, [98 Stat. 1637][/us/stat/98/1637].)
+([Pub. L. 98–425, title III][/us/pl/98/425/tIII], § 306, Sept. 28, 1984, [98 Stat. 1637][/us/stat/98/1637].)
 
 ----------
 
@@ -83,7 +83,7 @@
 ----------
 
 [/us/usc/t16/s543c/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs543c%2Ff
-[/us/pl/98/425/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F425%2Fs306
+[/us/pl/98/425/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F425%2FtIII
 [/us/stat/98/1637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1637
 
 

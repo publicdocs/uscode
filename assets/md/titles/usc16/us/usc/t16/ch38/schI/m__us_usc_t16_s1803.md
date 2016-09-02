@@ -31,7 +31,7 @@
 
     (7) $396,875,000 for fiscal year 2013.
 
-([Pub. L. 94–265, § 4][/us/pl/94/265/s4], as added [Pub. L. 104–297, title I, § 103][/us/pl/104/297/s103], Oct. 11, 1996, [110 Stat. 3563][/us/stat/110/3563]; amended [Pub. L. 109–479, § 7][/us/pl/109/479/s7], Jan. 12, 2007, [120 Stat. 3579][/us/stat/120/3579].)
+([Pub. L. 94–265][/us/pl/94/265], § 4, as added [Pub. L. 104–297, title I][/us/pl/104/297/tI], § 103, Oct. 11, 1996, [110 Stat. 3563][/us/stat/110/3563]; amended [Pub. L. 109–479][/us/pl/109/479], § 7, Jan. 12, 2007, [120 Stat. 3579][/us/stat/120/3579].)
 
  __References in Text__ 
 
@@ -48,10 +48,10 @@
 ----------
 ----------
 
-[/us/pl/94/265/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs4
-[/us/pl/104/297/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs103
+[/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
+[/us/pl/104/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtI
 [/us/stat/110/3563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3563
-[/us/pl/109/479/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs7
+[/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
 [/us/stat/120/3579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3579
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331

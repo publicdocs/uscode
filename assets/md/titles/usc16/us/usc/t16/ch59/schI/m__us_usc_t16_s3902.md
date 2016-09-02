@@ -33,11 +33,11 @@
 
     (5) The term “wetland” means land that has a predominance of hydric soils and that is inundated or saturated by surface or groundwater at a frequency and duration sufficient to support, and that under normal circumstances does support, a prevalence of hydrophytic vegetation typically adapted for life in saturated soil conditions.
 
-([Pub. L. 99–645, § 3][/us/pl/99/645/s3], Nov. 10, 1986, [100 Stat. 3583][/us/stat/100/3583]; [Pub. L. 103–437, § 6(d)(41)][/us/pl/103/437/s6/d/41], Nov. 2, 1994, [108 Stat. 4585][/us/stat/108/4585].)
+([Pub. L. 99–645][/us/pl/99/645], § 3, Nov. 10, 1986, [100 Stat. 3583][/us/stat/100/3583]; [Pub. L. 103–437][/us/pl/103/437], § 6(d)(41), Nov. 2, 1994, [108 Stat. 4585][/us/stat/108/4585].)
 
  __References in Text__ 
 
-    [Section 3911 of this title][/us/usc/t16/s3911], referred to in par. (2), was repealed by [Pub. L. 108–447, div. J, title VIII, § 813(c)][/us/pl/108/447/s813/c], Dec. 8, 2004, [118 Stat. 3390][/us/stat/118/3390].
+    [Section 3911 of this title][/us/usc/t16/s3911], referred to in par. (2), was repealed by [Pub. L. 108–447, div. J, title VIII][/us/pl/108/447/dJ/tVIII], § 813(c), Dec. 8, 2004, [118 Stat. 3390][/us/stat/118/3390].
 
  __Amendments__ 
 
@@ -54,12 +54,12 @@
 ----------
 ----------
 
-[/us/pl/99/645/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F645%2Fs3
+[/us/pl/99/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F645
 [/us/stat/100/3583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3583
-[/us/pl/103/437/s6/d/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fd%2F41
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4585
 [/us/usc/t16/s3911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3911
-[/us/pl/108/447/s813/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs813%2Fc
+[/us/pl/108/447/dJ/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtVIII
 [/us/stat/118/3390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3390
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/104/14/s1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fb%2F3

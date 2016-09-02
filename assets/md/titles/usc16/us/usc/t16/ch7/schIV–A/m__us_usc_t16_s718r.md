@@ -55,7 +55,7 @@
 
         A State may not require that an individual purchase a State hunting license as a condition of issuing an electronic stamp under this subchapter.
 
-([Pub. L. 113–239, § 5][/us/pl/113/239/s5], Dec. 18, 2014, [128 Stat. 2848][/us/stat/128/2848].)
+([Pub. L. 113–239][/us/pl/113/239], § 5, Dec. 18, 2014, [128 Stat. 2848][/us/stat/128/2848].)
 
 ----------
 
@@ -65,7 +65,7 @@
 ----------
 
 [/us/usc/t16/s718s/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs718s%2Fc
-[/us/pl/113/239/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F239%2Fs5
+[/us/pl/113/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F239
 [/us/stat/128/2848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2848
 
 

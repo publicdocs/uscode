@@ -17,7 +17,7 @@
 
     Any owner of property acquired by the Secretary which on the date of acquisition is used for agricultural or single-family residential purposes, or for commercial purposes which he finds are compatible with the use and development of the park or the recreation areas, may, as a condition of such acquisition, retain the right of use and occupancy of the property for the same purposes for which it was used on such date, for a period ending at the death of the owner or the death of his spouse, whichever occurs later, or for a fixed term of not to exceed twenty-five years, whichever the owner may elect. Any right so retained may during its existence be transferred or assigned. Any right so retained may be terminated by the Secretary at any time after the date upon which any use of the property occurs which he finds is a use other than one which existed on the date of acquisition. In the event the Secretary terminates a right of use and occupancy under this section, he shall pay to the owner of the right the fair market value of the portion of said right which remains unexpired on the date of termination.
 
-([Pub. L. 90–544, title III, § 303][/us/pl/90/544/s303], Oct. 2, 1968, [82 Stat. 928][/us/stat/82/928].)
+([Pub. L. 90–544, title III][/us/pl/90/544/tIII], § 303, Oct. 2, 1968, [82 Stat. 928][/us/stat/82/928].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/544/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F544%2Fs303
+[/us/pl/90/544/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F544%2FtIII
 [/us/stat/82/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F928
 
 

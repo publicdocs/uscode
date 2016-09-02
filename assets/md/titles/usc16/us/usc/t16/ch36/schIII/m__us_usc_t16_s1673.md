@@ -35,7 +35,7 @@
 
         For the purposes of this subchapter, the term “State” means any one of the fifty States, the Commonwealth of Puerto Rico, Guam, the District of Columbia, and the Virgin Islands of the United States.
 
-([Pub. L. 95–306, § 4][/us/pl/95/306/s4], June 30, 1978, [92 Stat. 350][/us/stat/92/350]; [Pub. L. 104–127, title VIII, § 802(b)(3)][/us/pl/104/127/s802/b/3], Apr. 4, 1996, [110 Stat. 1159][/us/stat/110/1159].)
+([Pub. L. 95–306][/us/pl/95/306], § 4, June 30, 1978, [92 Stat. 350][/us/stat/92/350]; [Pub. L. 104–127, title VIII][/us/pl/104/127/tVIII], § 802(b)(3), Apr. 4, 1996, [110 Stat. 1159][/us/stat/110/1159].)
 
  __References in Text__ 
 
@@ -59,9 +59,9 @@
 [/us/usc/t7/s3123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3123
 [/us/stat/26/417-419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F417-419
 [/us/usc/t7/s321–326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs321%E2%80%93326
-[/us/pl/95/306/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F306%2Fs4
+[/us/pl/95/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F306
 [/us/stat/92/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F350
-[/us/pl/104/127/s802/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs802%2Fb%2F3
+[/us/pl/104/127/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVIII
 [/us/stat/110/1159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1159
 [/us/stat/76/806-807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F806-807
 [/us/pl/87/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F788

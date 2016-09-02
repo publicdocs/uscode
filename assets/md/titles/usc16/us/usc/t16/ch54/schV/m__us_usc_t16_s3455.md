@@ -59,11 +59,11 @@
 
         The Secretary may withdraw technical assistance and financial assistance with respect to any area plan if the Secretary determines that the assistance is no longer necessary or that sufficient progress has not been made toward developing or implementing the elements of the area plan.
 
-([Pub. L. 97–98, title XV, § 1532][/us/pl/97/98/s1532], as added [Pub. L. 107–171, title II, § 2504][/us/pl/107/171/s2504], May 13, 2002, [116 Stat. 272][/us/stat/116/272].)
+([Pub. L. 97–98, title XV][/us/pl/97/98/tXV], § 1532, as added [Pub. L. 107–171, title II][/us/pl/107/171/tII], § 2504, May 13, 2002, [116 Stat. 272][/us/stat/116/272].)
 
  __Prior Provisions__ 
 
-    A prior section 3455, [Pub. L. 97–98, title XV, § 1532][/us/pl/97/98/s1532], Dec. 22, 1981, [95 Stat. 1339][/us/stat/95/1339], related to authority of the Secretary to carry out provisions of this subchapter, prior to the general amendment of this subchapter by [Pub. L. 107–171][/us/pl/107/171].
+    A prior section 3455, [Pub. L. 97–98, title XV][/us/pl/97/98/tXV], § 1532, Dec. 22, 1981, [95 Stat. 1339][/us/stat/95/1339], related to authority of the Secretary to carry out provisions of this subchapter, prior to the general amendment of this subchapter by [Pub. L. 107–171][/us/pl/107/171].
 
 ----------
 
@@ -72,10 +72,10 @@
 ----------
 ----------
 
-[/us/pl/97/98/s1532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1532
-[/us/pl/107/171/s2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2504
+[/us/pl/97/98/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXV
+[/us/pl/107/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtII
 [/us/stat/116/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F272
-[/us/pl/97/98/s1532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs1532
+[/us/pl/97/98/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2FtXV
 [/us/stat/95/1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1339
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 

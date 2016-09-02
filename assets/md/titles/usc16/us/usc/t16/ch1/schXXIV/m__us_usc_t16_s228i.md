@@ -53,7 +53,7 @@
 
         By the enactment of sections 228a to 228j of this title, the Congress recognizes and declares that all right, title, and interest in any lands not otherwise declared to be held in trust for the Havasupai Tribe or otherwise covered by sections 228a to 228j of this title is extinguished.
 
-([Pub. L. 93–620, § 10][/us/pl/93/620/s10], Jan. 3, 1975, [88 Stat. 2091][/us/stat/88/2091]; [Pub. L. 103–437, § 6(a)(2)][/us/pl/103/437/s6/a/2], Nov. 2, 1994, [108 Stat. 4583][/us/stat/108/4583].)
+([Pub. L. 93–620][/us/pl/93/620], § 10, Jan. 3, 1975, [88 Stat. 2091][/us/stat/88/2091]; [Pub. L. 103–437][/us/pl/103/437], § 6(a)(2), Nov. 2, 1994, [108 Stat. 4583][/us/stat/108/4583].)
 
  __Codification__ 
 
@@ -72,9 +72,9 @@
 
 [/us/usc/t16/s228b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs228b
 [/us/usc/t16/s228b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs228b
-[/us/pl/93/620/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F620%2Fs10
+[/us/pl/93/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F620
 [/us/stat/88/2091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2091
-[/us/pl/103/437/s6/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fa%2F2
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4583
 [/us/stat/40/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1177
 [/us/usc/t16/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs223

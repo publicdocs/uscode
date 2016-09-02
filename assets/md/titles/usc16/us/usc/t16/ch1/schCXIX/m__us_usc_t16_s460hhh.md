@@ -29,11 +29,11 @@
 
         The term “Secretary” means the Secretary of Agriculture.
 
-([Pub. L. 103–63, § 2][/us/pl/103/63/s2], Aug. 4, 1993, [107 Stat. 297][/us/stat/107/297].)
+([Pub. L. 103–63][/us/pl/103/63], § 2, Aug. 4, 1993, [107 Stat. 297][/us/stat/107/297].)
 
  __Short Title__ 
 
-[Pub. L. 103–63, § 1][/us/pl/103/63/s1], Aug. 4, 1993, [107 Stat. 297][/us/stat/107/297], provided that: 
+[Pub. L. 103–63][/us/pl/103/63], § 1, Aug. 4, 1993, [107 Stat. 297][/us/stat/107/297], provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘Spring Mountains National Recreation Area Act’.”
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/usc/t16/s1609/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1609%2Fa
-[/us/pl/103/63/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F63%2Fs2
+[/us/pl/103/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F63
 [/us/stat/107/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F297
-[/us/pl/103/63/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F63%2Fs1
+[/us/pl/103/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F63
 [/us/stat/107/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F297
 
 

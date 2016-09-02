@@ -25,7 +25,7 @@
 
     (4) preserve and interpret the region’s commercial and agricultural history, especially in relation to the Mississippi River and cotton.
 
-([Pub. L. 100–479, § 1][/us/pl/100/479/s1], Oct. 7, 1988, [102 Stat. 2324][/us/stat/102/2324].)
+([Pub. L. 100–479][/us/pl/100/479], § 1, Oct. 7, 1988, [102 Stat. 2324][/us/stat/102/2324].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/100/479/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F479%2Fs1
+[/us/pl/100/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F479
 [/us/stat/102/2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2324
 
 

@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated such sums as may be necessary to carry out sections 430h–10 to 430h–13 of this title.
 
-([Pub. L. 107–238, § 5][/us/pl/107/238/s5], Oct. 11, 2002, [116 Stat. 1487][/us/stat/116/1487].)
+([Pub. L. 107–238][/us/pl/107/238], § 5, Oct. 11, 2002, [116 Stat. 1487][/us/stat/116/1487].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/238/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F238%2Fs5
+[/us/pl/107/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F238
 [/us/stat/116/1487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1487
 
 

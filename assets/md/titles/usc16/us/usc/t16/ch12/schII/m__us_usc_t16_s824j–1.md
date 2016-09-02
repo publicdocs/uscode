@@ -69,7 +69,7 @@
 
         Nothing in this section authorizes the Commission to require an unregulated transmitting utility to transfer control or operational control of its transmitting facilities to a Transmission Organization that is designated to provide nondiscriminatory transmission access.
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 211A, as added [Pub. L. 109–58, title XII, § 1231][/us/pl/109/58/s1231], Aug. 8, 2005, [119 Stat. 955][/us/stat/119/955].)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. II, § 211A, as added [Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1231, Aug. 8, 2005, [119 Stat. 955][/us/stat/119/955].)
 
 ----------
 
@@ -84,7 +84,7 @@
 [/us/usc/t16/s824j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824j
 [/us/usc/t26/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs141
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
-[/us/pl/109/58/s1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1231
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F955
 
 

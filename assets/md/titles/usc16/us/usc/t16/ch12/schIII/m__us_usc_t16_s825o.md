@@ -23,21 +23,21 @@
 
         Any person who willfully and knowingly violates any rule, regulation, restriction, condition, or order made or imposed by the Commission under authority of this chapter, or any rule or regulation imposed by the Secretary of the Army under authority of subchapter I of this chapter shall, in addition to any other penalties provided by law, be punished upon conviction thereof by a fine of not exceeding $25,000 for each and every day during which such offense occurs.
 
-([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. III, § 316, as added [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, § 213, [49 Stat. 862][/us/stat/49/862]; amended [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]; [Pub. L. 102–486, title VII, § 725(a)][/us/pl/102/486/s725/a], Oct. 24, 1992, [106 Stat. 2920][/us/stat/106/2920]; [Pub. L. 109–58, title XII, § 1284(d)][/us/pl/109/58/s1284/d], Aug. 8, 2005, [119 Stat. 980][/us/stat/119/980].)
+([June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], pt. III, § 316, as added [Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], title II, § 213, [49 Stat. 862][/us/stat/49/862]; amended [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]; [Pub. L. 102–486, title VII][/us/pl/102/486/tVII], § 725(a), Oct. 24, 1992, [106 Stat. 2920][/us/stat/106/2920]; [Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1284(d), Aug. 8, 2005, [119 Stat. 980][/us/stat/119/980].)
 
  __Amendments__ 
 
-    2005—Subsec. (a). [Pub. L. 109–58, § 1284(d)(1)][/us/pl/109/58/s1284/d/1], substituted “$1,000,000” for “$5,000” and “5 years” for “two years”.
+    2005—Subsec. (a). [Pub. L. 109–58][/us/pl/109/58], § 1284(d)(1), substituted “$1,000,000” for “$5,000” and “5 years” for “two years”.
 
-    Subsec. (b). [Pub. L. 109–58, § 1284(d)(2)][/us/pl/109/58/s1284/d/2], substituted “$25,000” for “$500”.
+    Subsec. (b). [Pub. L. 109–58][/us/pl/109/58], § 1284(d)(2), substituted “$25,000” for “$500”.
 
-    Subsec. (c). [Pub. L. 109–58, § 1284(d)(3)][/us/pl/109/58/s1284/d/3], struck out subsec. (c) which read as follows: “This subsection shall not apply in the case of any provision of section 824j, 824k, 824l, or 824m of this title or any rule or order issued under any such provision.”
+    Subsec. (c). [Pub. L. 109–58][/us/pl/109/58], § 1284(d)(3), struck out subsec. (c) which read as follows: “This subsection shall not apply in the case of any provision of section 824j, 824k, 824l, or 824m of this title or any rule or order issued under any such provision.”
 
     1992—Subsec. (c). [Pub. L. 102–486][/us/pl/102/486] added subsec. (c).
 
  __Change of Name__ 
 
-    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
+    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343, title II][/us/act/1947-07-26/ch343/tII], [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
 
  __State Authorities; Construction__ 
 
@@ -55,15 +55,15 @@
 [/us/stat/49/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F862
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
-[/us/pl/102/486/s725/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs725%2Fa
+[/us/pl/102/486/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtVII
 [/us/stat/106/2920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2920
-[/us/pl/109/58/s1284/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1284%2Fd
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F980
-[/us/pl/109/58/s1284/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1284%2Fd%2F1
-[/us/pl/109/58/s1284/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1284%2Fd%2F2
-[/us/pl/109/58/s1284/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1284%2Fd%2F3
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
+[/us/act/1947-07-26/ch343/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtII
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641

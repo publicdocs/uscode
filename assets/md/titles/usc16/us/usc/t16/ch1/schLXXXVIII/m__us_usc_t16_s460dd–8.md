@@ -17,7 +17,7 @@
 
     Within two years from October 27, 1972, the Secretary shall report to the President, in accordance with subsections 3(c) and 3(d) of the Wilderness Act \[[16 U.S.C. 1132(c)][/us/usc/t16/s1132/c] and (d)\], his recommendations as to the suitability or nonsuitability of any area within the recreation area for preservation as wilderness, and any designation of any such area as wilderness shall be in accordance with said Wilderness Act \[[16 U.S.C. 1131][/us/usc/t16/s1131] et seq.\].
 
-([Pub. L. 92–593, § 9][/us/pl/92/593/s9], Oct. 27, 1972, [86 Stat. 1313][/us/stat/86/1313].)
+([Pub. L. 92–593][/us/pl/92/593], § 9, Oct. 27, 1972, [86 Stat. 1313][/us/stat/86/1313].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t16/s1132/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1132%2Fc
 [/us/usc/t16/s1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1131
-[/us/pl/92/593/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F593%2Fs9
+[/us/pl/92/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F593
 [/us/stat/86/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1313
 [/us/pl/88/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F577
 [/us/stat/78/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F890

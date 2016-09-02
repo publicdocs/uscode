@@ -47,7 +47,7 @@
 
         The provisions of section 661 to 666c of this title shall not be applicable to those projects for the impoundment of water where the maximum surface area of such impoundments is less than ten acres, nor to activities for or in connection with programs primarily for land management and use carried out by Federal agencies with respect to Federal lands under their jurisdiction.
 
-([Mar. 10, 1934, ch. 55, § 2][/us/act/1934-03-10/ch55/s2], [48 Stat. 401][/us/stat/48/401]; 1939 Reorg. Plan No. II, § 4(e), (f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; [Aug. 14, 1946, ch. 965][/us/act/1946-08-14/ch965], [60 Stat. 1080][/us/stat/60/1080]; [Pub. L. 85–624, § 2][/us/pl/85/624/s2], Aug. 12, 1958, [72 Stat. 564][/us/stat/72/564]; [Pub. L. 89–72, § 6(b)][/us/pl/89/72/s6/b], July 9, 1965, [79 Stat. 216][/us/stat/79/216].)
+([Mar. 10, 1934, ch. 55][/us/act/1934-03-10/ch55], § 2, [48 Stat. 401][/us/stat/48/401]; 1939 Reorg. Plan No. II, § 4(e), (f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; [Aug. 14, 1946, ch. 965][/us/act/1946-08-14/ch965], [60 Stat. 1080][/us/stat/60/1080]; [Pub. L. 85–624][/us/pl/85/624], § 2, Aug. 12, 1958, [72 Stat. 564][/us/stat/72/564]; [Pub. L. 89–72][/us/pl/89/72], § 6(b), July 9, 1965, [79 Stat. 216][/us/stat/79/216].)
 
  __References in Text__ 
 
@@ -73,14 +73,14 @@
 ----------
 
 [/us/usc/t16/s663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs663
-[/us/act/1934-03-10/ch55/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-10%2Fch55%2Fs2
+[/us/act/1934-03-10/ch55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-10%2Fch55
 [/us/stat/48/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F401
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
 [/us/act/1946-08-14/ch965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-14%2Fch965
 [/us/stat/60/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1080
-[/us/pl/85/624/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F624%2Fs2
+[/us/pl/85/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F624
 [/us/stat/72/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F564
-[/us/pl/89/72/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F72%2Fs6%2Fb
+[/us/pl/89/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F72
 [/us/stat/79/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F216
 [/us/pl/85/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F624
 [/us/usc/t16/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs661

@@ -23,7 +23,7 @@
 
         Lands and interests in lands within the boundary depicted on the maps referred to in subsection (a) as “Existing Park Boundary” but outside of the boundary depicted as “Proposed Park Boundary” are hereby excluded from the park, in accordance with the provisions of section 425l(b) of this title. The Secretary of the Interior (hereinafter referred to as the “Secretary”) may relinquish to the Commonwealth of Virginia exclusive or concurrent legislative jurisdiction over lands excluded from the park by this section by filing with the Governor a notice of relinquishment. Such relinquishment shall take effect upon acceptance thereof, or as the laws of the Commonwealth may otherwise provide.
 
-([Pub. L. 101–214, § 2][/us/pl/101/214/s2], Dec. 11, 1989, [103 Stat. 1849][/us/stat/103/1849]; [Pub. L. 102–541, § 2(a)][/us/pl/102/541/s2/a], Oct. 27, 1992, [106 Stat. 3565][/us/stat/106/3565]; [Pub. L. 106–150, § 1(c)][/us/pl/106/150/s1/c], Dec. 9, 1999, [113 Stat. 1730][/us/stat/113/1730].)
+([Pub. L. 101–214][/us/pl/101/214], § 2, Dec. 11, 1989, [103 Stat. 1849][/us/stat/103/1849]; [Pub. L. 102–541][/us/pl/102/541], § 2(a), Oct. 27, 1992, [106 Stat. 3565][/us/stat/106/3565]; [Pub. L. 106–150][/us/pl/106/150], § 1(c), Dec. 9, 1999, [113 Stat. 1730][/us/stat/113/1730].)
 
  __Amendments__ 
 
@@ -33,23 +33,23 @@
 
  __Effective Date of 1992 Amendment__ 
 
-    [Pub. L. 102–541, § 2(a)(2)][/us/pl/102/541/s2/a/2], Oct. 27, 1992, [106 Stat. 3565][/us/stat/106/3565], provided in part that amendment of this section by [Pub. L. 102–541][/us/pl/102/541] was not to be effective until the lands included within the proposed new boundaries of the Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park pursuant to [Pub. L. 102–541][/us/pl/102/541] had been donated to the Secretary of the Interior, prior to repeal by [Pub. L. 106–150, § 1(a)][/us/pl/106/150/s1/a], Dec. 9, 1999, [113 Stat. 1730][/us/stat/113/1730].
+    [Pub. L. 102–541][/us/pl/102/541], § 2(a)(2), Oct. 27, 1992, [106 Stat. 3565][/us/stat/106/3565], provided in part that amendment of this section by [Pub. L. 102–541][/us/pl/102/541] was not to be effective until the lands included within the proposed new boundaries of the Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park pursuant to [Pub. L. 102–541][/us/pl/102/541] had been donated to the Secretary of the Interior, prior to repeal by [Pub. L. 106–150][/us/pl/106/150], § 1(a), Dec. 9, 1999, [113 Stat. 1730][/us/stat/113/1730].
 
  __Short Title__ 
 
-[Pub. L. 101–214, § 1][/us/pl/101/214/s1], Dec. 11, 1989, [103 Stat. 1849][/us/stat/103/1849], provided that: 
+[Pub. L. 101–214][/us/pl/101/214], § 1, Dec. 11, 1989, [103 Stat. 1849][/us/stat/103/1849], provided that: 
 
 > “This Act \[enacting this section and sections 425l to 425o of this title\] may be cited as the ‘Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park Expansion Act of 1989’.”
 
  __Congressional Findings Relating to Park Expansion__ 
 
-[Pub. L. 102–541, § 1][/us/pl/102/541/s1], Oct. 27, 1992, [106 Stat. 3565][/us/stat/106/3565], provided that: 
+[Pub. L. 102–541][/us/pl/102/541], § 1, Oct. 27, 1992, [106 Stat. 3565][/us/stat/106/3565], provided that: 
 
 > “Congress finds that the land area near Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park, Virginia, located south and west of the intersection of the Orange Plank Road and Brock Road in Spotsylvania County was strategically significant ground associated with the battle of the Civil War known as the Battle of the Wilderness, and that the tract of land adjacent to such area known as ‘Longstreet’s Flank Attack’ was also strategically significant to that battle.”
 
  __Acquisition of Certain Lands by Donation Only__ 
 
-    [Pub. L. 102–541, § 2(b)][/us/pl/102/541/s2/b], Oct. 27, 1992, [106 Stat. 3565][/us/stat/106/3565], provided that lands included within the boundaries of the Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park pursuant to that section, amending this section and enacting provisions formerly set out as a note above, could be acquired only by donation, prior to repeal by [Pub. L. 106–150, § 1(b)(2)][/us/pl/106/150/s1/b/2], Dec. 9, 1999, [113 Stat. 1730][/us/stat/113/1730].
+    [Pub. L. 102–541][/us/pl/102/541], § 2(b), Oct. 27, 1992, [106 Stat. 3565][/us/stat/106/3565], provided that lands included within the boundaries of the Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park pursuant to that section, amending this section and enacting provisions formerly set out as a note above, could be acquired only by donation, prior to repeal by [Pub. L. 106–150][/us/pl/106/150], § 1(b)(2), Dec. 9, 1999, [113 Stat. 1730][/us/stat/113/1730].
 
 ----------
 
@@ -58,27 +58,27 @@
 ----------
 ----------
 
-[/us/pl/101/214/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F214%2Fs2
+[/us/pl/101/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F214
 [/us/stat/103/1849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1849
-[/us/pl/102/541/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F541%2Fs2%2Fa
+[/us/pl/102/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F541
 [/us/stat/106/3565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3565
-[/us/pl/106/150/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F150%2Fs1%2Fc
+[/us/pl/106/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F150
 [/us/stat/113/1730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1730
 [/us/pl/106/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F150
 [/us/pl/102/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F541
-[/us/pl/102/541/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F541%2Fs2%2Fa%2F2
+[/us/pl/102/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F541
 [/us/stat/106/3565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3565
 [/us/pl/102/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F541
 [/us/pl/102/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F541
-[/us/pl/106/150/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F150%2Fs1%2Fa
+[/us/pl/106/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F150
 [/us/stat/113/1730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1730
-[/us/pl/101/214/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F214%2Fs1
+[/us/pl/101/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F214
 [/us/stat/103/1849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1849
-[/us/pl/102/541/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F541%2Fs1
+[/us/pl/102/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F541
 [/us/stat/106/3565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3565
-[/us/pl/102/541/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F541%2Fs2%2Fb
+[/us/pl/102/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F541
 [/us/stat/106/3565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3565
-[/us/pl/106/150/s1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F150%2Fs1%2Fb%2F2
+[/us/pl/106/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F150
 [/us/stat/113/1730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1730
 
 

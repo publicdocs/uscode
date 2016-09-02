@@ -27,7 +27,7 @@
 
         The Tumacacori National Monument is hereby abolished and any funds available for purposes of the monument shall be available for purposes of the park.
 
-([Pub. L. 101–344, § 1][/us/pl/101/344/s1], Aug. 6, 1990, [104 Stat. 393][/us/stat/104/393]; [Pub. L. 107–218, § 3][/us/pl/107/218/s3], Aug. 21, 2002, [116 Stat. 1328][/us/stat/116/1328].)
+([Pub. L. 101–344][/us/pl/101/344], § 1, Aug. 6, 1990, [104 Stat. 393][/us/stat/104/393]; [Pub. L. 107–218][/us/pl/107/218], § 3, Aug. 21, 2002, [116 Stat. 1328][/us/stat/116/1328].)
 
  __Amendments__ 
 
@@ -35,13 +35,13 @@
 
  __Short Title of 2002 Amendment__ 
 
-[Pub. L. 107–218, § 1][/us/pl/107/218/s1], Aug. 21, 2002, [116 Stat. 1328][/us/stat/116/1328], provided that: 
+[Pub. L. 107–218][/us/pl/107/218], § 1, Aug. 21, 2002, [116 Stat. 1328][/us/stat/116/1328], provided that: 
 
 > “This Act \[amending this section and enacting provisions set out as a note under this section\] may be cited as the ‘Tumacacori National Historical Park Boundary Revision Act of 2002’.”
 
  __Findings and Purposes__ 
 
-[Pub. L. 107–218, § 2][/us/pl/107/218/s2], Aug. 21, 2002, [116 Stat. 1328][/us/stat/116/1328], provided that:
+[Pub. L. 107–218][/us/pl/107/218], § 2, Aug. 21, 2002, [116 Stat. 1328][/us/stat/116/1328], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -68,14 +68,14 @@
 ----------
 ----------
 
-[/us/pl/101/344/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F344%2Fs1
+[/us/pl/101/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F344
 [/us/stat/104/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F393
-[/us/pl/107/218/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F218%2Fs3
+[/us/pl/107/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F218
 [/us/stat/116/1328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1328
 [/us/pl/107/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F218
-[/us/pl/107/218/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F218%2Fs1
+[/us/pl/107/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F218
 [/us/stat/116/1328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1328
-[/us/pl/107/218/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F218%2Fs2
+[/us/pl/107/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F218
 [/us/stat/116/1328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1328
 
 

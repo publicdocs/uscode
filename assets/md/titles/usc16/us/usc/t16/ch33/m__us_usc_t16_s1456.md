@@ -93,47 +93,47 @@
 
         (3) Fees collected under this subsection shall be deposited into the Coastal Zone Management Fund established under [section 1456a of this title][/us/usc/t16/s1456a].
 
-([Pub. L. 89–454, title III, § 307][/us/pl/89/454/s307], as added [Pub. L. 92–583][/us/pl/92/583], Oct. 27, 1972, [86 Stat. 1285][/us/stat/86/1285]; amended [Pub. L. 94–370, § 6][/us/pl/94/370/s6], July 26, 1976, [90 Stat. 1018][/us/stat/90/1018]; [Pub. L. 95–372, title V, § 504][/us/pl/95/372/s504], Sept. 18, 1978, [92 Stat. 693][/us/stat/92/693]; [Pub. L. 101–508, title VI, § 6208][/us/pl/101/508/s6208], Nov. 5, 1990, [104 Stat. 1388–307][/us/stat/104/1388-307]; [Pub. L. 102–587, title II, § 2205(b)(13)][/us/pl/102/587/s2205/b/13], (14), Nov. 4, 1992, [106 Stat. 5051][/us/stat/106/5051].)
+([Pub. L. 89–454, title III][/us/pl/89/454/tIII], § 307, as added [Pub. L. 92–583][/us/pl/92/583], Oct. 27, 1972, [86 Stat. 1285][/us/stat/86/1285]; amended [Pub. L. 94–370][/us/pl/94/370], § 6, July 26, 1976, [90 Stat. 1018][/us/stat/90/1018]; [Pub. L. 95–372, title V][/us/pl/95/372/tV], § 504, Sept. 18, 1978, [92 Stat. 693][/us/stat/92/693]; [Pub. L. 101–508, title VI][/us/pl/101/508/tVI], § 6208, Nov. 5, 1990, [104 Stat. 1388–307][/us/stat/104/1388-307]; [Pub. L. 102–587, title II][/us/pl/102/587/tII], § 2205(b)(13), (14), Nov. 4, 1992, [106 Stat. 5051][/us/stat/106/5051].)
 
  __References in Text__ 
 
     The Outer Continental Shelf Lands Act, referred to in subsec. (c)(3)(B), is [act Aug. 7, 1953, ch. 345][/us/act/1953-08-07/ch345], [67 Stat. 462][/us/stat/67/462], as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43][/us/usc/t43/s1301] and Tables.
 
-    The Federal Water Pollution Control Act, referred to in subsec. (f), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
+    The Federal Water Pollution Control Act, referred to in subsec. (f), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
 
     The Clean Air Act, referred to in subsec. (f), is [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], [69 Stat. 322][/us/stat/69/322], as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42][/us/usc/t42/s7401] and Tables.
 
  __Codification__ 
 
-    In subsec. (d), “[section 6506 of title 31][/us/usc/t31/s6506]” substituted for “title IV of the Intergovernmental Coordination \[Cooperation\] Act of 1968 \[[42 U.S.C. 4231][/us/usc/t42/s4231] et seq.\]” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (d), “[section 6506 of title 31][/us/usc/t31/s6506]” substituted for “title IV of the Intergovernmental Coordination \[Cooperation\] Act of 1968 \[[42 U.S.C. 4231][/us/usc/t42/s4231] et seq.\]” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
-    1992—Subsec. (c)(3)(B). [Pub. L. 102–587, § 2205(b)(13)][/us/pl/102/587/s2205/b/13], made technical amendment to directory language of [Pub. L. 101–508, § 6208(b)(3)(B)][/us/pl/101/508/s6208/b/3/B]. See 1990 Amendment note below.
+    1992—Subsec. (c)(3)(B). [Pub. L. 102–587][/us/pl/102/587], § 2205(b)(13), made technical amendment to directory language of [Pub. L. 101–508][/us/pl/101/508], § 6208(b)(3)(B). See 1990 Amendment note below.
 
-    Subsec. (i). [Pub. L. 102–587, § 2205(b)(14)][/us/pl/102/587/s2205/b/14], designated existing provisions as par. (1), added pars. (2) and (3), and struck out at end of par. (1) “The Secretary shall collect such other fees as are necessary to recover the full costs of administering and processing such appeals under subsection (c) of this section.”
+    Subsec. (i). [Pub. L. 102–587][/us/pl/102/587], § 2205(b)(14), designated existing provisions as par. (1), added pars. (2) and (3), and struck out at end of par. (1) “The Secretary shall collect such other fees as are necessary to recover the full costs of administering and processing such appeals under subsection (c) of this section.”
 
-    1990—Subsec. (c)(1). [Pub. L. 101–508, § 6208(a)][/us/pl/101/508/s6208/a], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Each Federal agency conducting or supporting activities directly affecting the coastal zone shall conduct or support those activities in a manner which is, to the maximum extent practicable, consistent with approved state management programs.”
+    1990—Subsec. (c)(1). [Pub. L. 101–508][/us/pl/101/508], § 6208(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Each Federal agency conducting or supporting activities directly affecting the coastal zone shall conduct or support those activities in a manner which is, to the maximum extent practicable, consistent with approved state management programs.”
 
-    Subsec. (c)(2). [Pub. L. 101–508, § 6208(b)(1)][/us/pl/101/508/s6208/b/1], which directed the insertion of “the enforceable policies of” before “approved State management programs”, was executed by making the insertion before “approved state management programs” to reflect the probable intent of Congress.
+    Subsec. (c)(2). [Pub. L. 101–508][/us/pl/101/508], § 6208(b)(1), which directed the insertion of “the enforceable policies of” before “approved State management programs”, was executed by making the insertion before “approved state management programs” to reflect the probable intent of Congress.
 
-    Subsec. (c)(3)(A). [Pub. L. 101–508, § 6208(b)(2)][/us/pl/101/508/s6208/b/2], in first sentence inserted “, in or outside of the coastal zone,” after “to conduct an activity”, substituted “any land or water use or natural resource of” for “land or water uses in”, and inserted “the enforceable policies of” after “the proposed activity complies with”.
+    Subsec. (c)(3)(A). [Pub. L. 101–508][/us/pl/101/508], § 6208(b)(2), in first sentence inserted “, in or outside of the coastal zone,” after “to conduct an activity”, substituted “any land or water use or natural resource of” for “land or water uses in”, and inserted “the enforceable policies of” after “the proposed activity complies with”.
 
-    Subsec. (c)(3)(B). [Pub. L. 101–508, § 6208(b)(3)(A)][/us/pl/101/508/s6208/b/3/A], substituted “land or water use or natural resource of” for “land use or water use in” in first sentence.
+    Subsec. (c)(3)(B). [Pub. L. 101–508][/us/pl/101/508], § 6208(b)(3)(A), substituted “land or water use or natural resource of” for “land use or water use in” in first sentence.
 
-    [Pub. L. 101–508, § 6208(b)(3)(B)][/us/pl/101/508/s6208/b/3/B], as amended by [Pub. L. 102–587, § 2205(b)(13)][/us/pl/102/587/s2205/b/13], inserted “the enforceable policies of” after “such plan complies with” in first sentence.
+    [Pub. L. 101–508][/us/pl/101/508], § 6208(b)(3)(B), as amended by [Pub. L. 102–587][/us/pl/102/587], § 2205(b)(13), inserted “the enforceable policies of” after “such plan complies with” in first sentence.
 
-    Subsec. (d). [Pub. L. 101–508, § 6208(b)(4)][/us/pl/101/508/s6208/b/4], substituted “, in or outside of the coastal zone, affecting any land or water use of natural resource of” for “affecting” and inserted “the enforceable policies of” after “that are inconsistent with”.
+    Subsec. (d). [Pub. L. 101–508][/us/pl/101/508], § 6208(b)(4), substituted “, in or outside of the coastal zone, affecting any land or water use of natural resource of” for “affecting” and inserted “the enforceable policies of” after “that are inconsistent with”.
 
-    Subsec. (i). [Pub. L. 101–508, § 6208(c)][/us/pl/101/508/s6208/c], added subsec. (i).
+    Subsec. (i). [Pub. L. 101–508][/us/pl/101/508], § 6208(c), added subsec. (i).
 
     1978—Subsec. (c)(3)(B)(ii). [Pub. L. 95–372][/us/pl/95/372] inserted “, except if such state fails to concur with or object to such certification within three months after receipt of its copy of such certification and supporting information, such state shall provide the Secretary, the appropriate federal agency, and such person with a written statement describing the status of review and the basis for further delay in issuing a final decision, and if such statement is not so provided, concurrence by such state with such certification shall be conclusively presumed” after “as provided for in subparagraph (A)”.
 
-    1976—Subsec. (b). [Pub. L. 94–370, § 6(2)][/us/pl/94/370/s6/2], struck out provisions requiring that in case of serious disagreement between Federal agency and state in development of program, Secretary shall seek to mediate the differences in cooperation with the Executive Office of the President and incorporated such provision into subsec. (h).
+    1976—Subsec. (b). [Pub. L. 94–370][/us/pl/94/370], § 6(2), struck out provisions requiring that in case of serious disagreement between Federal agency and state in development of program, Secretary shall seek to mediate the differences in cooperation with the Executive Office of the President and incorporated such provision into subsec. (h).
 
-    Subsec. (c)(3). [Pub. L. 94–370, § 6(3)][/us/pl/94/370/s6/3], designated existing provisions as subpar. (A) and added subpar. (B).
+    Subsec. (c)(3). [Pub. L. 94–370][/us/pl/94/370], § 6(3), designated existing provisions as subpar. (A) and added subpar. (B).
 
-    Subsec. (h). [Pub. L. 94–370, § 6(4)][/us/pl/94/370/s6/4], added subsec. (h) which incorporates former provision of subsec. (b) relating to mediation by Secretary of disagreements between Federal agencies and state.
+    Subsec. (h). [Pub. L. 94–370][/us/pl/94/370], § 6(4), added subsec. (h) which incorporates former provision of subsec. (b) relating to mediation by Secretary of disagreements between Federal agencies and state.
 
 ----------
 
@@ -153,22 +153,22 @@
 [/us/usc/t16/s1454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1454
 [/us/usc/t16/s1455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1455
 [/us/usc/t16/s1456a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1456a
-[/us/pl/89/454/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2Fs307
+[/us/pl/89/454/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454%2FtIII
 [/us/pl/92/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F583
 [/us/stat/86/1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1285
-[/us/pl/94/370/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F370%2Fs6
+[/us/pl/94/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F370
 [/us/stat/90/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1018
-[/us/pl/95/372/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F372%2Fs504
+[/us/pl/95/372/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F372%2FtV
 [/us/stat/92/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F693
-[/us/pl/101/508/s6208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6208
+[/us/pl/101/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVI
 [/us/stat/104/1388-307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-307
-[/us/pl/102/587/s2205/b/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2205%2Fb%2F13
+[/us/pl/102/587/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2FtII
 [/us/stat/106/5051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5051
 [/us/act/1953-08-07/ch345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-07%2Fch345
 [/us/stat/67/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F462
 [/us/usc/t43/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1301
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F816
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
@@ -176,22 +176,22 @@
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/usc/t31/s6506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6506
 [/us/usc/t42/s4231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4231
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/102/587/s2205/b/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2205%2Fb%2F13
-[/us/pl/101/508/s6208/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6208%2Fb%2F3%2FB
-[/us/pl/102/587/s2205/b/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2205%2Fb%2F14
-[/us/pl/101/508/s6208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6208%2Fa
-[/us/pl/101/508/s6208/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6208%2Fb%2F1
-[/us/pl/101/508/s6208/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6208%2Fb%2F2
-[/us/pl/101/508/s6208/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6208%2Fb%2F3%2FA
-[/us/pl/101/508/s6208/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6208%2Fb%2F3%2FB
-[/us/pl/102/587/s2205/b/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587%2Fs2205%2Fb%2F13
-[/us/pl/101/508/s6208/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6208%2Fb%2F4
-[/us/pl/101/508/s6208/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs6208%2Fc
+[/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/95/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F372
-[/us/pl/94/370/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F370%2Fs6%2F2
-[/us/pl/94/370/s6/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F370%2Fs6%2F3
-[/us/pl/94/370/s6/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F370%2Fs6%2F4
+[/us/pl/94/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F370
+[/us/pl/94/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F370
+[/us/pl/94/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F370
 
 

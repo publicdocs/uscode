@@ -23,7 +23,7 @@
 
     Tract “L” and block 34, comprising 9.09 and 1.65 acres, respectively, lying in or in the vicinity of Everglades City, Florida.
 
-([Pub. L. 86–269, § 1][/us/pl/86/269/s1], Sept. 14, 1959, [73 Stat. 553][/us/stat/73/553].)
+([Pub. L. 86–269][/us/pl/86/269], § 1, Sept. 14, 1959, [73 Stat. 553][/us/stat/73/553].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/86/269/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F269%2Fs1
+[/us/pl/86/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F269
 [/us/stat/73/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F553
 
 

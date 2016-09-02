@@ -27,13 +27,13 @@
 
         Roads constructed on National Forest System lands shall be designed to standards appropriate for the intended uses, considering safety, cost of transportation, and impacts on land and resources.
 
-([Pub. L. 93–378, § 10][/us/pl/93/378/s10], formerly § 9, Aug. 17, 1974, [88 Stat. 479][/us/stat/88/479], renumbered § 10 and amended [Pub. L. 94–588][/us/pl/94/588], §§ 2, 8, Oct. 22, 1976, [90 Stat. 2949][/us/stat/90/2949], 2956; [Pub. L. 97–100, title II, § 201][/us/pl/97/100/s201], Dec. 23, 1981, [95 Stat. 1405][/us/stat/95/1405].)
+([Pub. L. 93–378][/us/pl/93/378], § 10, formerly § 9, Aug. 17, 1974, [88 Stat. 479][/us/stat/88/479], renumbered § 10 and amended [Pub. L. 94–588][/us/pl/94/588], §§ 2, 8, Oct. 22, 1976, [90 Stat. 2949][/us/stat/90/2949], 2956; [Pub. L. 97–100, title II][/us/pl/97/100/tII], § 201, Dec. 23, 1981, [95 Stat. 1405][/us/stat/95/1405].)
 
  __Amendments__ 
 
     1981—Subsec. (a). [Pub. L. 97–100][/us/pl/97/100] substituted “Provided, That limitations on the level of obligations for construction of forest roads by timber purchasers shall be established in annual appropriation Acts” for “, except that the financing of forest development roads as authorized by clause (2) of [section 535 of this title][/us/usc/t16/s535], shall be deemed ‘budget authority’ and ‘budget outlays’ as those terms are defined in [section 1302(a) of title 31][/us/usc/t31/s1302/a], and shall be effective for any fiscal year only in the manner required for new spending authority as specified by [section 1351(a) of title 31][/us/usc/t31/s1351/a]”.
 
-    1976—[Pub. L. 94–588, § 8][/us/pl/94/588/s8], designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+    1976—[Pub. L. 94–588][/us/pl/94/588], § 8, designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
  __Transfer of Functions__ 
 
@@ -41,7 +41,7 @@
 
  __County Payment Mitigation; Transportation System Moratorium__ 
 
-[Pub. L. 105–174, title III, § 3006][/us/pl/105/174/s3006], May 1, 1998, [112 Stat. 85][/us/stat/112/85], provided that:
+[Pub. L. 105–174, title III][/us/pl/105/174/tIII], § 3006, May 1, 1998, [112 Stat. 85][/us/stat/112/85], provided that:
 
 >     “(a)
 
@@ -94,19 +94,19 @@
 ----------
 ----------
 
-[/us/pl/93/378/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F378%2Fs10
+[/us/pl/93/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F378
 [/us/stat/88/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F479
 [/us/pl/94/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588
 [/us/stat/90/2949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2949
-[/us/pl/97/100/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F100%2Fs201
+[/us/pl/97/100/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F100%2FtII
 [/us/stat/95/1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1405
 [/us/pl/97/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F100
 [/us/usc/t16/s535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs535
 [/us/usc/t31/s1302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1302%2Fa
 [/us/usc/t31/s1351/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1351%2Fa
-[/us/pl/94/588/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588%2Fs8
+[/us/pl/94/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F588
 [/us/usc/t16/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1601
-[/us/pl/105/174/s3006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F174%2Fs3006
+[/us/pl/105/174/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F174%2FtIII
 [/us/stat/112/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F85
 [/us/usc/t16/s500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs500
 

@@ -107,7 +107,7 @@
 
         (2) In addition to those sums appropriated prior to November 12, 1996, for land acquisition and development, there is hereby authorized to be appropriated an additional $2,000,000.
 
-([Pub. L. 96–607, title XVI, § 1601][/us/pl/96/607/s1601], Dec. 28, 1980, [94 Stat. 3546][/us/stat/94/3546]; [Pub. L. 98–402][/us/pl/98/402], Aug. 28, 1984, [98 Stat. 1478][/us/stat/98/1478]; [Pub. L. 100–475, § 1][/us/pl/100/475/s1], Oct. 6, 1988, [102 Stat. 2303][/us/stat/102/2303]; [Pub. L. 104–333, div. I, title V, § 505][/us/pl/104/333/s505], Nov. 12, 1996, [110 Stat. 4155][/us/stat/110/4155]; [Pub. L. 106–258, § 1][/us/pl/106/258/s1], Aug. 8, 2000, [114 Stat. 655][/us/stat/114/655].)
+([Pub. L. 96–607, title XVI][/us/pl/96/607/tXVI], § 1601, Dec. 28, 1980, [94 Stat. 3546][/us/stat/94/3546]; [Pub. L. 98–402][/us/pl/98/402], Aug. 28, 1984, [98 Stat. 1478][/us/stat/98/1478]; [Pub. L. 100–475][/us/pl/100/475], § 1, Oct. 6, 1988, [102 Stat. 2303][/us/stat/102/2303]; [Pub. L. 104–333, div. I, title V][/us/pl/104/333/dI/tV], § 505, Nov. 12, 1996, [110 Stat. 4155][/us/stat/110/4155]; [Pub. L. 106–258][/us/pl/106/258], § 1, Aug. 8, 2000, [114 Stat. 655][/us/stat/114/655].)
 
  __References in Text__ 
 
@@ -119,11 +119,11 @@
 
  __Amendments__ 
 
-    2000—Subsec. (c)(8). [Pub. L. 106–258, § 1(b)][/us/pl/106/258/s1/b], substituted “Main” for “Williams”.
+    2000—Subsec. (c)(8). [Pub. L. 106–258][/us/pl/106/258], § 1(b), substituted “Main” for “Williams”.
 
-    Subsec. (d). [Pub. L. 106–258, § 1(a)][/us/pl/106/258/s1/a], in first sentence struck out before period at end “, except that the Secretary may not acquire the fee simple title to the land comprising the sites designated in paragraphs (7) and (9) of subsection (c) of this section” and struck out last sentence which read as follows: “Within two years of the acquisition of the property listed in subsection (c)(8) of this section the Secretary shall have removed all structures from the property that are not relevant to the historic integrity of the McClintock House.”
+    Subsec. (d). [Pub. L. 106–258][/us/pl/106/258], § 1(a), in first sentence struck out before period at end “, except that the Secretary may not acquire the fee simple title to the land comprising the sites designated in paragraphs (7) and (9) of subsection (c) of this section” and struck out last sentence which read as follows: “Within two years of the acquisition of the property listed in subsection (c)(8) of this section the Secretary shall have removed all structures from the property that are not relevant to the historic integrity of the McClintock House.”
 
-    1996—Subsec. (c). [Pub. L. 104–333, § 505(a)][/us/pl/104/333/s505/a], inserted heading and amended text generally. Prior to amendment, text read as follows: “To carry out the purpose of this section there is hereby established the Women’s Rights National Historical Park (hereinafter in this section referred to as the ‘park’). The park shall consist initially of the following designated sites in Seneca Falls and Waterloo, New York:
+    1996—Subsec. (c). [Pub. L. 104–333][/us/pl/104/333], § 505(a), inserted heading and amended text generally. Prior to amendment, text read as follows: “To carry out the purpose of this section there is hereby established the Women’s Rights National Historical Park (hereinafter in this section referred to as the ‘park’). The park shall consist initially of the following designated sites in Seneca Falls and Waterloo, New York:
 
     “(1) Stanton House, 32 Washington Street, Seneca Falls;
 
@@ -143,13 +143,13 @@
 
     “(9) Hunt House, 401 East Main Street, Waterloo.”
 
-    Subsec. (i). [Pub. L. 104–333, § 505(b)][/us/pl/104/333/s505/b], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (i). [Pub. L. 104–333][/us/pl/104/333], § 505(b), designated existing provisions as par. (1) and added par. (2).
 
     1988—Subsec. (i). [Pub. L. 100–475][/us/pl/100/475] substituted “$700,000” for “$490,000”.
 
-    1984—Subsec. (c)(8). [Pub. L. 98–402, § 1(a)][/us/pl/98/402/s1/a], substituted “McClintock House and related structures, 14 and 16 East Williams Street” for “McClintock House, 16 East Williams Street”.
+    1984—Subsec. (c)(8). [Pub. L. 98–402][/us/pl/98/402], § 1(a), substituted “McClintock House and related structures, 14 and 16 East Williams Street” for “McClintock House, 16 East Williams Street”.
 
-    Subsec. (d). [Pub. L. 98–402, § 1(b)][/us/pl/98/402/s1/b], substituted “paragraphs (7) and (9)” for “paragraphs (7) through (9)”, and inserted “Within two years of the acquisition of the property listed in subsection (c)(8) of this section the Secretary shall have removed all structures from the property that are not relevant to the historic integrity of the McClintock House.”
+    Subsec. (d). [Pub. L. 98–402][/us/pl/98/402], § 1(b), substituted “paragraphs (7) and (9)” for “paragraphs (7) through (9)”, and inserted “Within two years of the acquisition of the property listed in subsection (c)(8) of this section the Secretary shall have removed all structures from the property that are not relevant to the historic integrity of the McClintock House.”
 
  __General Management Plans; Submittal to Congressional Committees__ 
 
@@ -166,15 +166,15 @@
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/stat/49/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F666
 [/us/usc/t16/s461–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461%E2%80%937
-[/us/pl/96/607/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607%2Fs1601
+[/us/pl/96/607/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607%2FtXVI
 [/us/stat/94/3546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3546
 [/us/pl/98/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F402
 [/us/stat/98/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1478
-[/us/pl/100/475/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F475%2Fs1
+[/us/pl/100/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F475
 [/us/stat/102/2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2303
-[/us/pl/104/333/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs505
+[/us/pl/104/333/dI/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtV
 [/us/stat/110/4155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4155
-[/us/pl/106/258/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F258%2Fs1
+[/us/pl/106/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F258
 [/us/stat/114/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F655
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
@@ -194,13 +194,13 @@
 [/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
 [/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/pl/96/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607
-[/us/pl/106/258/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F258%2Fs1%2Fb
-[/us/pl/106/258/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F258%2Fs1%2Fa
-[/us/pl/104/333/s505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs505%2Fa
-[/us/pl/104/333/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs505%2Fb
+[/us/pl/106/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F258
+[/us/pl/106/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F258
+[/us/pl/104/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333
+[/us/pl/104/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333
 [/us/pl/100/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F475
-[/us/pl/98/402/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F402%2Fs1%2Fa
-[/us/pl/98/402/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F402%2Fs1%2Fb
+[/us/pl/98/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F402
+[/us/pl/98/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F402
 [/us/pl/96/607/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607%2Fs501
 [/us/pl/96/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F607
 [/us/usc/t16/s1a–7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%937%2Fb

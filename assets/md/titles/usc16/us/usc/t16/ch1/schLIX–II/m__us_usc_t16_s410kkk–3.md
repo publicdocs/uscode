@@ -17,7 +17,7 @@
 
     Any reference in any law (other than this subchapter), regulation, document, record, map or other paper of the United States to “Fort Clatsop National Memorial” shall be considered a reference to the “Lewis and Clark National Historical Park”.
 
-([Pub. L. 108–387, title I, § 105(b)][/us/pl/108/387/s105/b], Oct. 30, 2004, [118 Stat. 2236][/us/stat/118/2236].)
+([Pub. L. 108–387, title I][/us/pl/108/387/tI], § 105(b), Oct. 30, 2004, [118 Stat. 2236][/us/stat/118/2236].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/108/387/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F387%2Fs105%2Fb
+[/us/pl/108/387/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F387%2FtI
 [/us/stat/118/2236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2236
 [/us/pl/108/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F387
 [/us/stat/118/2234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2234

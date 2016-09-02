@@ -35,7 +35,7 @@
 
         The Secretary may provide, on a reimbursable or other basis, such administrative or technical assistance as a council may request for purposes of the initial organization and subsequent operation of the council.
 
-([Pub. L. 99–659, title II, § 212][/us/pl/99/659/s212], Nov. 14, 1986, [100 Stat. 3726][/us/stat/100/3726].)
+([Pub. L. 99–659, title II][/us/pl/99/659/tII], § 212, Nov. 14, 1986, [100 Stat. 3726][/us/stat/100/3726].)
 
 ----------
 
@@ -48,7 +48,7 @@
 [/us/usc/t16/s4010/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4010%2Fc
 [/us/usc/t16/s4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4016
 [/us/usc/t16/s4009/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4009%2Ff
-[/us/pl/99/659/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs212
+[/us/pl/99/659/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtII
 [/us/stat/100/3726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3726
 
 

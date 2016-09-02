@@ -43,7 +43,7 @@
 
         The Commission may obtain by purchase, rental, donation, or otherwise, such property, facilities, and services as may be needed to carry out its duties. Any acquisition of property by the Commission shall be in accordance with [section 410cc–34 of this title][/us/usc/t16/s410cc–34]: Provided, however, That the Commission may not acquire lands or interests therein pursuant to this subsection by condemnation. Upon the termination of the Commission, all property, personal and real, and unexpended funds shall be transferred to the Department of the Interior.
 
-([Pub. L. 95–290, title III, § 305][/us/pl/95/290/s305], June 5, 1978, [92 Stat. 302][/us/stat/92/302].)
+([Pub. L. 95–290, title III][/us/pl/95/290/tIII], § 305, June 5, 1978, [92 Stat. 302][/us/stat/92/302].)
 
 ----------
 
@@ -54,7 +54,7 @@
 
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/usc/t16/s410cc–34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410cc%E2%80%9334
-[/us/pl/95/290/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F290%2Fs305
+[/us/pl/95/290/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F290%2FtIII
 [/us/stat/92/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F302
 
 

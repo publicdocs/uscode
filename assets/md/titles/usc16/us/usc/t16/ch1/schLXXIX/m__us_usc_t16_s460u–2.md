@@ -17,7 +17,7 @@
 
     As soon as practicable after November 5, 1966, and following the acquisition by the Secretary of an acreage within the boundaries of the area described in [section 460u of this title][/us/usc/t16/s460u] which in his opinion is efficiently administrable for the purposes of this subchapter, he shall establish the Indiana Dunes National Lakeshore by publication of notice thereof in the Federal Register. By no later than October 1, 1977, the Secretary shall publish in the Federal Register a detailed description of the boundaries of the lakeshore and shall from time to time so publish any additional boundary changes as may occur. Following such establishment and subject to the limitations and conditions prescribed in [section 460u of this title][/us/usc/t16/s460u], the Secretary may continue to acquire lands and interests in lands for the lakeshore.
 
-([Pub. L. 89–761, § 3][/us/pl/89/761/s3], Nov. 5, 1966, [80 Stat. 1309][/us/stat/80/1309]; [Pub. L. 94–549, § 1(2)][/us/pl/94/549/s1/2], Oct. 18, 1976, [90 Stat. 2529][/us/stat/90/2529].)
+([Pub. L. 89–761][/us/pl/89/761], § 3, Nov. 5, 1966, [80 Stat. 1309][/us/stat/80/1309]; [Pub. L. 94–549][/us/pl/94/549], § 1(2), Oct. 18, 1976, [90 Stat. 2529][/us/stat/90/2529].)
 
  __Amendments__ 
 
@@ -32,9 +32,9 @@
 
 [/us/usc/t16/s460u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460u
 [/us/usc/t16/s460u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460u
-[/us/pl/89/761/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761%2Fs3
+[/us/pl/89/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F761
 [/us/stat/80/1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1309
-[/us/pl/94/549/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549%2Fs1%2F2
+[/us/pl/94/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549
 [/us/stat/90/2529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2529
 [/us/pl/94/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F549
 

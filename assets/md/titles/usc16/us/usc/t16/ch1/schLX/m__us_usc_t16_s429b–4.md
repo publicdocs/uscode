@@ -23,7 +23,7 @@
 
         It is the express intent of Congress that, except for property referred to in [section 429b–1(b) of this title][/us/usc/t16/s429b–1/b], the Secretary shall acquire property and interests therein under sections 429b to 429b–5 of this title within two complete fiscal years after October 13, 1980.
 
-([Apr. 17, 1954, ch. 153, § 5][/us/act/1954-04-17/ch153/s5], as added [Pub. L. 96–442, § 2][/us/pl/96/442/s2], Oct. 13, 1980, [94 Stat. 1886][/us/stat/94/1886].)
+([Apr. 17, 1954, ch. 153][/us/act/1954-04-17/ch153], § 5, as added [Pub. L. 96–442][/us/pl/96/442], § 2, Oct. 13, 1980, [94 Stat. 1886][/us/stat/94/1886].)
 
  __References in Text__ 
 
@@ -37,8 +37,8 @@
 ----------
 
 [/us/usc/t16/s429b–1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs429b%E2%80%931%2Fb
-[/us/act/1954-04-17/ch153/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-04-17%2Fch153%2Fs5
-[/us/pl/96/442/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F442%2Fs2
+[/us/act/1954-04-17/ch153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-04-17%2Fch153
+[/us/pl/96/442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F442
 [/us/stat/94/1886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1886
 [/us/pl/88/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F578
 [/us/stat/78/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F897

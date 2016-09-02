@@ -35,7 +35,7 @@
 
         (3) The Secretary may terminate a right of use and occupancy retained pursuant to subsection (d)(1) upon his determination that such use and occupancy is being, or may be, exercised in a manner inconsistent with the purposes for which they were included within the park and upon tender to the holder of such right of the amount equal to the value of that portion of the right which remains unexpired on the date of termination.
 
-([Pub. L. 87–750, § 2][/us/pl/87/750/s2], Oct. 5, 1962, [76 Stat. 747][/us/stat/76/747]; [Pub. L. 95–348, § 7(b)(1)][/us/pl/95/348/s7/b/1]–(3), Aug. 18, 1978, [92 Stat. 494][/us/stat/92/494].)
+([Pub. L. 87–750][/us/pl/87/750], § 2, Oct. 5, 1962, [76 Stat. 747][/us/stat/76/747]; [Pub. L. 95–348][/us/pl/95/348], § 7(b)(1)–(3), Aug. 18, 1978, [92 Stat. 494][/us/stat/92/494].)
 
  __Amendments__ 
 
@@ -43,7 +43,7 @@
 
  __Caneel Bay Lease Authorization__ 
 
-[Pub. L. 111–261, § 1][/us/pl/111/261/s1], Oct. 8, 2010, [124 Stat. 2777][/us/stat/124/2777], provided that:
+[Pub. L. 111–261][/us/pl/111/261], § 1, Oct. 8, 2010, [124 Stat. 2777][/us/stat/124/2777], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -156,12 +156,12 @@
 ----------
 ----------
 
-[/us/pl/87/750/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F750%2Fs2
+[/us/pl/87/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F750
 [/us/stat/76/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F747
-[/us/pl/95/348/s7/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F348%2Fs7%2Fb%2F1
+[/us/pl/95/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F348
 [/us/stat/92/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F494
 [/us/pl/95/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F348
-[/us/pl/111/261/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F261%2Fs1
+[/us/pl/111/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F261
 [/us/stat/124/2777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2777
 [/us/pl/91/383/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F383%2Fs3
 [/us/usc/t16/s1a–2/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%932%2Fk

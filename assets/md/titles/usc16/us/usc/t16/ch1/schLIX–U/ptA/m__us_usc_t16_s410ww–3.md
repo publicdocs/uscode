@@ -21,7 +21,7 @@
 
     (2) Wright Company Factory, Dayton, Ohio. A report of the study of such properties shall be submitted as part of the general management plan required by [section 410ww–2 of this title][/us/usc/t16/s410ww–2].
 
-([Pub. L. 102–419, title I, § 104][/us/pl/102/419/s104], Oct. 16, 1992, [106 Stat. 2142][/us/stat/106/2142].)
+([Pub. L. 102–419, title I][/us/pl/102/419/tI], § 104, Oct. 16, 1992, [106 Stat. 2142][/us/stat/106/2142].)
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t16/s410ww–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410ww%E2%80%932
-[/us/pl/102/419/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F419%2Fs104
+[/us/pl/102/419/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F419%2FtI
 [/us/stat/106/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2142
 
 

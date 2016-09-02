@@ -67,7 +67,7 @@
 
     (21) The term “demand side management” includes load management techniques.
 
-([Pub. L. 95–617, § 3][/us/pl/95/617/s3], Nov. 9, 1978, [92 Stat. 3119][/us/stat/92/3119]; [Pub. L. 102–486, title I, § 111(d)][/us/pl/102/486/s111/d], Oct. 24, 1992, [106 Stat. 2796][/us/stat/106/2796].)
+([Pub. L. 95–617][/us/pl/95/617], § 3, Nov. 9, 1978, [92 Stat. 3119][/us/stat/92/3119]; [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 111(d), Oct. 24, 1992, [106 Stat. 2796][/us/stat/106/2796].)
 
  __References in Text__ 
 
@@ -104,9 +104,9 @@
 [/us/usc/t15/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs8
 [/us/usc/t15/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs13
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
-[/us/pl/95/617/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs3
+[/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
 [/us/stat/92/3119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3119
-[/us/pl/102/486/s111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs111%2Fd
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2796
 [/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
 [/us/stat/92/3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3117

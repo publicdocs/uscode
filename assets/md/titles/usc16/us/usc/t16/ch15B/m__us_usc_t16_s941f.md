@@ -43,7 +43,7 @@
 
         Not later than June 30, 2007, the Director shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources of the House of Representatives the 2002 report required under this section as in effect on the day before October 11, 2006.
 
-([Pub. L. 101–537, title I, § 1008][/us/pl/101/537/s1008], Nov. 8, 1990, [104 Stat. 2374][/us/stat/104/2374]; [Pub. L. 101–646, title II, § 2008][/us/pl/101/646/s2008], Nov. 29, 1990, [104 Stat. 4777][/us/stat/104/4777]; [Pub. L. 104–332, § 2(h)(1)][/us/pl/104/332/s2/h/1], Oct. 26, 1996, [110 Stat. 4091][/us/stat/110/4091]; [Pub. L. 105–265][/us/pl/105/265], §§ 3(b), 7, Oct. 19, 1998, [112 Stat. 2358][/us/stat/112/2358], 2361; [Pub. L. 109–326, § 7][/us/pl/109/326/s7], Oct. 11, 2006, [120 Stat. 1765][/us/stat/120/1765].)
+([Pub. L. 101–537, title I][/us/pl/101/537/tI], § 1008, Nov. 8, 1990, [104 Stat. 2374][/us/stat/104/2374]; [Pub. L. 101–646, title II][/us/pl/101/646/tII], § 2008, Nov. 29, 1990, [104 Stat. 4777][/us/stat/104/4777]; [Pub. L. 104–332][/us/pl/104/332], § 2(h)(1), Oct. 26, 1996, [110 Stat. 4091][/us/stat/110/4091]; [Pub. L. 105–265][/us/pl/105/265], §§ 3(b), 7, Oct. 19, 1998, [112 Stat. 2358][/us/stat/112/2358], 2361; [Pub. L. 109–326][/us/pl/109/326], § 7, Oct. 11, 2006, [120 Stat. 1765][/us/stat/120/1765].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 
  __Codification__ 
 
-    Title I of [Pub. L. 101–537][/us/pl/101/537] and title II of [Pub. L. 101–646][/us/pl/101/646] enacted substantially identical sections. Title II of [Pub. L. 101–646][/us/pl/101/646] was repealed by [Pub. L. 105–265, § 3(b)][/us/pl/105/265/s3/b].
+    Title I of [Pub. L. 101–537][/us/pl/101/537] and title II of [Pub. L. 101–646][/us/pl/101/646] enacted substantially identical sections. Title II of [Pub. L. 101–646][/us/pl/101/646] was repealed by [Pub. L. 105–265][/us/pl/105/265], § 3(b).
 
  __Amendments__ 
 
@@ -65,7 +65,7 @@
 
     1998—[Pub. L. 105–265][/us/pl/105/265] amended section generally, substituting present provisions for provisions which had required report not later than 1 year after date of enactment and annually thereafter.
 
-    1996—[Pub. L. 104–332][/us/pl/104/332] made technical amendment to [Pub. L. 101–646, § 2008][/us/pl/101/646/s2008], which enacted this section.
+    1996—[Pub. L. 104–332][/us/pl/104/332] made technical amendment to [Pub. L. 101–646][/us/pl/101/646], § 2008, which enacted this section.
 
  __Change of Name__ 
 
@@ -84,27 +84,27 @@
 [/us/usc/t16/s941c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs941c
 [/us/usc/t16/s941c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs941c
 [/us/usc/t16/s941d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs941d
-[/us/pl/101/537/s1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F537%2Fs1008
+[/us/pl/101/537/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F537%2FtI
 [/us/stat/104/2374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2374
-[/us/pl/101/646/s2008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs2008
+[/us/pl/101/646/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2FtII
 [/us/stat/104/4777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4777
-[/us/pl/104/332/s2/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332%2Fs2%2Fh%2F1
+[/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
 [/us/stat/110/4091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4091
 [/us/pl/105/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F265
 [/us/stat/112/2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2358
-[/us/pl/109/326/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F326%2Fs7
+[/us/pl/109/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F326
 [/us/stat/120/1765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1765
 [/us/usc/t33/s1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1268
 [/us/pl/101/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F537
 [/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
 [/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
-[/us/pl/105/265/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F265%2Fs3%2Fb
+[/us/pl/105/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F265
 [/us/pl/109/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F326
 [/us/usc/t16/s941c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs941c
 [/us/usc/t16/s941c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs941c
 [/us/usc/t16/s941d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs941d
 [/us/pl/105/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F265
 [/us/pl/104/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F332
-[/us/pl/101/646/s2008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646%2Fs2008
+[/us/pl/101/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F646
 
 

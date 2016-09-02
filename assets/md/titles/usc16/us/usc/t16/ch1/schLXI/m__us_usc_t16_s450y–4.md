@@ -17,7 +17,7 @@
 
     Upon submission of title satisfactory to him, the Secretary of the Interior, on behalf of the United States, may accept lands and interests in lands which are within the memorial area but are not in Federal ownership and which are offered to the United States without cost.
 
-([Aug. 18, 1941, ch. 365, § 5][/us/act/1941-08-18/ch365/s5], [55 Stat. 631][/us/stat/55/631].)
+([Aug. 18, 1941, ch. 365][/us/act/1941-08-18/ch365], § 5, [55 Stat. 631][/us/stat/55/631].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1941-08-18/ch365/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-08-18%2Fch365%2Fs5
+[/us/act/1941-08-18/ch365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-08-18%2Fch365
 [/us/stat/55/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F631
 
 

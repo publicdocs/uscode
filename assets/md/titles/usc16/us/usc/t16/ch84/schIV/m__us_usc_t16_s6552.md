@@ -67,7 +67,7 @@
 
         (B) the Secretary of the Interior, acting through appropriate offices of the United States Geological Survey, with respect to federally owned land administered by the Secretary of the Interior.
 
-([Pub. L. 108–148, title IV, § 402][/us/pl/108/148/s402], Dec. 3, 2003, [117 Stat. 1908][/us/stat/117/1908].)
+([Pub. L. 108–148, title IV][/us/pl/108/148/tIV], § 402, Dec. 3, 2003, [117 Stat. 1908][/us/stat/117/1908].)
 
  __References in Text__ 
 
@@ -81,7 +81,7 @@
 ----------
 
 [/us/usc/t7/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs321
-[/us/pl/108/148/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2Fs402
+[/us/pl/108/148/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2FtIV
 [/us/stat/117/1908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1908
 [/us/act/1890-08-30/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-08-30%2Fch841
 [/us/stat/26/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F417

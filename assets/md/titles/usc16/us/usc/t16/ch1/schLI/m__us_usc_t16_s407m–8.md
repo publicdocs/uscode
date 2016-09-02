@@ -17,7 +17,7 @@
 
     The administrative boundary between Independence National Historical Park and the United States Customs House along the Moravian Street Walkway in Philadelphia, Pennsylvania, is hereby modified as generally depicted on the drawing entitled “Exhibit 1, Independence National Historical Park, Boundary Adjustment”, and dated May 1987, which shall be on file and available for public inspection in the Office of the National Park Service, Department of the Interior. The Secretary of the Interior is authorized to accept and transfer jurisdiction over property in accord with such administrative boundary, as modified by this section.
 
-([Pub. L. 104–333, div. I, title II, § 204][/us/pl/104/333/s204], Nov. 12, 1996, [110 Stat. 4106][/us/stat/110/4106].)
+([Pub. L. 104–333, div. I, title II][/us/pl/104/333/dI/tII], § 204, Nov. 12, 1996, [110 Stat. 4106][/us/stat/110/4106].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/104/333/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs204
+[/us/pl/104/333/dI/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtII
 [/us/stat/110/4106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4106
 [/us/act/1948-06-28/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-28%2Fch687
 [/us/stat/62/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1061

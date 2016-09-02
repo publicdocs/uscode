@@ -69,7 +69,7 @@
 
         (7) except for circumstances involving force majeure and other emergencies involving the health or safety of crew members or the safety of the vessel, to use an aircraft in association with the fishing activities of a vessel unless it is identified in the license application for the vessel, or any amendment thereto.
 
-([Pub. L. 100–330, § 5][/us/pl/100/330/s5], June 7, 1988, [102 Stat. 592][/us/stat/102/592].)
+([Pub. L. 100–330][/us/pl/100/330], § 5, June 7, 1988, [102 Stat. 592][/us/stat/102/592].)
 
 ----------
 
@@ -82,7 +82,7 @@
 [/us/usc/t16/s973p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs973p
 [/us/usc/t16/s973d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs973d
 [/us/usc/t16/s973i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs973i
-[/us/pl/100/330/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F330%2Fs5
+[/us/pl/100/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F330
 [/us/stat/102/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F592
 
 

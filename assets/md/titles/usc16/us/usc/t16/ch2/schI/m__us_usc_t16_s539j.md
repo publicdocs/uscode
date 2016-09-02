@@ -45,7 +45,7 @@
 
         During the revision of the Land and Resource Management Plan for the Arapaho National Forest, the Forest Service shall develop a management plan for the protection area, after providing for public comment.
 
-([Pub. L. 103–77, § 6][/us/pl/103/77/s6], Aug. 13, 1993, [107 Stat. 761][/us/stat/107/761].)
+([Pub. L. 103–77][/us/pl/103/77], § 6, Aug. 13, 1993, [107 Stat. 761][/us/stat/107/761].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 
  __Definitions__ 
 
-[Pub. L. 103–77, § 1(b)][/us/pl/103/77/s1/b], Aug. 13, 1993, [107 Stat. 756][/us/stat/107/756], provided that:
+[Pub. L. 103–77][/us/pl/103/77], § 1(b), Aug. 13, 1993, [107 Stat. 756][/us/stat/107/756], provided that:
 
 >     “(1) As used in this Act \[see Short Title note set out under [section 539i of this title][/us/usc/t16/s539i]\] with reference to lands in the National Forest System, the term ‘the Secretary’ means the Secretary of Agriculture.
 
@@ -67,12 +67,12 @@
 ----------
 
 [/us/usc/t16/s1133/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1133%2Fd%2F1
-[/us/pl/103/77/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F77%2Fs6
+[/us/pl/103/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F77
 [/us/stat/107/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F761
 [/us/pl/103/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F77
 [/us/stat/107/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F756
 [/us/usc/t16/s539i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs539i
-[/us/pl/103/77/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F77%2Fs1%2Fb
+[/us/pl/103/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F77
 [/us/stat/107/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F756
 [/us/usc/t16/s539i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs539i
 

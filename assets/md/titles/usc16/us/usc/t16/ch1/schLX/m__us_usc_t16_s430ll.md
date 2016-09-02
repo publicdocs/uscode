@@ -23,7 +23,7 @@
 
         In order to provide for the proper development and maintenance of the park, the Secretary of the Interior shall construct and maintain therein such roads, trails, markers, buildings, and other improvements, and such facilities for the care and accommodation of visitors, as he may deem necessary.
 
-([Pub. L. 86–434, § 2][/us/pl/86/434/s2], Apr. 22, 1960, [74 Stat. 76][/us/stat/74/76]; [Pub. L. 91–554, § 1(a)][/us/pl/91/554/s1/a], Dec. 16, 1970, [84 Stat. 1441][/us/stat/84/1441].)
+([Pub. L. 86–434][/us/pl/86/434], § 2, Apr. 22, 1960, [74 Stat. 76][/us/stat/74/76]; [Pub. L. 91–554][/us/pl/91/554], § 1(a), Dec. 16, 1970, [84 Stat. 1441][/us/stat/84/1441].)
 
  __References in Text__ 
 
@@ -42,9 +42,9 @@
 
 [/us/usc/t16/s430kk]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs430kk
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
-[/us/pl/86/434/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F434%2Fs2
+[/us/pl/86/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F434
 [/us/stat/74/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F76
-[/us/pl/91/554/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F554%2Fs1%2Fa
+[/us/pl/91/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F554
 [/us/stat/84/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1441
 [/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
 [/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408

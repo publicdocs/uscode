@@ -271,7 +271,7 @@
 
         (4) Not later than 30 days after issuing an exemption under paragraph (1) or an additional exemption under paragraph (3), the Secretary of Defense shall submit to the Committee on Armed Services of the House of Representatives and the Committee on Armed Services of the Senate notice describing the exemption and the reasons therefor. The notice may be provided in classified form if the Secretary of Defense determines that use of the classified form is necessary for reasons of national security.
 
-([Pub. L. 92–522, title I, § 101][/us/pl/92/522/s101], Oct. 21, 1972, [86 Stat. 1029][/us/stat/86/1029]; [Pub. L. 93–205, § 13(e)(2)][/us/pl/93/205/s13/e/2], Dec. 28, 1973, [87 Stat. 903][/us/stat/87/903]; [Pub. L. 97–58, § 2][/us/pl/97/58/s2], Oct. 9, 1981, [95 Stat. 979][/us/stat/95/979]; [Pub. L. 98–364, title I, § 101][/us/pl/98/364/s101], July 17, 1984, [98 Stat. 440][/us/stat/98/440]; [Pub. L. 99–659, title IV, § 411(a)][/us/pl/99/659/s411/a], Nov. 14, 1986, [100 Stat. 3741][/us/stat/100/3741]; [Pub. L. 100–711][/us/pl/100/711], §§ 4(a), 5(c), (e)(1), Nov. 23, 1988, [102 Stat. 4765][/us/stat/102/4765], 4769, 4771; [Pub. L. 101–627, title IX, § 901(g)][/us/pl/101/627/s901/g], Nov. 28, 1990, [104 Stat. 4467][/us/stat/104/4467]; [Pub. L. 102–582, title I, § 103][/us/pl/102/582/s103], title IV, § 401(b), Nov. 2, 1992, [106 Stat. 4903][/us/stat/106/4903], 4909; [Pub. L. 103–238, § 4][/us/pl/103/238/s4], Apr. 30, 1994, [108 Stat. 532][/us/stat/108/532]; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41; [Pub. L. 105–18, title II, § 2003][/us/pl/105/18/s2003], June 12, 1997, [111 Stat. 174][/us/stat/111/174]; [Pub. L. 105–42, § 4(a)][/us/pl/105/42/s4/a]–(c), Aug. 15, 1997, [111 Stat. 1123][/us/stat/111/1123], 1124; [Pub. L. 108–136, div. A, title III, § 319(b)][/us/pl/108/136/s319/b], (c), Nov. 24, 2003, [117 Stat. 1434][/us/stat/117/1434].)
+([Pub. L. 92–522, title I][/us/pl/92/522/tI], § 101, Oct. 21, 1972, [86 Stat. 1029][/us/stat/86/1029]; [Pub. L. 93–205][/us/pl/93/205], § 13(e)(2), Dec. 28, 1973, [87 Stat. 903][/us/stat/87/903]; [Pub. L. 97–58][/us/pl/97/58], § 2, Oct. 9, 1981, [95 Stat. 979][/us/stat/95/979]; [Pub. L. 98–364, title I][/us/pl/98/364/tI], § 101, July 17, 1984, [98 Stat. 440][/us/stat/98/440]; [Pub. L. 99–659, title IV][/us/pl/99/659/tIV], § 411(a), Nov. 14, 1986, [100 Stat. 3741][/us/stat/100/3741]; [Pub. L. 100–711][/us/pl/100/711], §§ 4(a), 5(c), (e)(1), Nov. 23, 1988, [102 Stat. 4765][/us/stat/102/4765], 4769, 4771; [Pub. L. 101–627, title IX][/us/pl/101/627/tIX], § 901(g), Nov. 28, 1990, [104 Stat. 4467][/us/stat/104/4467]; [Pub. L. 102–582, title I][/us/pl/102/582/tI], § 103, title IV, § 401(b), Nov. 2, 1992, [106 Stat. 4903][/us/stat/106/4903], 4909; [Pub. L. 103–238][/us/pl/103/238], § 4, Apr. 30, 1994, [108 Stat. 532][/us/stat/108/532]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41; [Pub. L. 105–18, title II][/us/pl/105/18/tII], § 2003, June 12, 1997, [111 Stat. 174][/us/stat/111/174]; [Pub. L. 105–42][/us/pl/105/42], § 4(a)–(c), Aug. 15, 1997, [111 Stat. 1123][/us/stat/111/1123], 1124; [Pub. L. 108–136, div. A, title III][/us/pl/108/136/dA/tIII], § 319(b), (c), Nov. 24, 2003, [117 Stat. 1434][/us/stat/117/1434].)
 
  __References in Text__ 
 
@@ -289,27 +289,27 @@
 
  __Amendments__ 
 
-    2003—Subsec. (a)(5)(A). [Pub. L. 108–136, § 319(c)(1)][/us/pl/108/136/s319/c/1], designated existing provisions as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, redesignated former subcls. (I) and (II) of former cl. (ii) as items (aa) and (bb) of subcl. (II), respectively, and added cls. (ii) and (iii).
+    2003—Subsec. (a)(5)(A). [Pub. L. 108–136][/us/pl/108/136], § 319(c)(1), designated existing provisions as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, redesignated former subcls. (I) and (II) of former cl. (ii) as items (aa) and (bb) of subcl. (II), respectively, and added cls. (ii) and (iii).
 
-    Subsec. (a)(5)(D)(vi), (vii). [Pub. L. 108–136, § 319(c)(2)][/us/pl/108/136/s319/c/2], added cls. (vi) and (vii).
+    Subsec. (a)(5)(D)(vi), (vii). [Pub. L. 108–136][/us/pl/108/136], § 319(c)(2), added cls. (vi) and (vii).
 
-    Subsec. (a)(5)(F). [Pub. L. 108–136, § 319(c)(3)][/us/pl/108/136/s319/c/3], added subpar. (F).
+    Subsec. (a)(5)(F). [Pub. L. 108–136][/us/pl/108/136], § 319(c)(3), added subpar. (F).
 
-    Subsec. (f). [Pub. L. 108–136, § 319(b)][/us/pl/108/136/s319/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 108–136][/us/pl/108/136], § 319(b), added subsec. (f).
 
-    1997—Subsec. (a)(2). [Pub. L. 105–42, § 4(a)][/us/pl/105/42/s4/a], (b)(4), in introductory provisions, inserted after first sentence “Such authorizations may be granted under subchapter IV with respect to purse seine fishing for yellowfin tuna in the eastern tropical Pacific Ocean, subject to regulations prescribed under that subchapter by the Secretary without regard to [section 1373 of this title][/us/usc/t16/s1373].” and struck out “; provided that this goal shall be satisfied in the case of the incidental taking of marine mammals in the course of purse seine fishing for yellowfin tuna by a continuation of the application of the best marine mammal safety techniques and equipment that are economically and technologically practicable” after “serious injury rate” and, in closing provisions, substituted “For purposes of subparagraph (F)” for “For purposes of subparagraph (E)”.
+    1997—Subsec. (a)(2). [Pub. L. 105–42][/us/pl/105/42], § 4(a), (b)(4), in introductory provisions, inserted after first sentence “Such authorizations may be granted under subchapter IV with respect to purse seine fishing for yellowfin tuna in the eastern tropical Pacific Ocean, subject to regulations prescribed under that subchapter by the Secretary without regard to [section 1373 of this title][/us/usc/t16/s1373].” and struck out “; provided that this goal shall be satisfied in the case of the incidental taking of marine mammals in the course of purse seine fishing for yellowfin tuna by a continuation of the application of the best marine mammal safety techniques and equipment that are economically and technologically practicable” after “serious injury rate” and, in closing provisions, substituted “For purposes of subparagraph (F)” for “For purposes of subparagraph (E)”.
 
-    Subsec. (a)(2)(B). [Pub. L. 105–42, § 4(b)(1)][/us/pl/105/42/s4/b/1], added subpar. (B) and struck out former subpar. (B) which contained requirement that nations exporting yellowfin tuna harvested with purse seines in eastern tropical Pacific Ocean provide documentary evidence of adoption of regulatory program governing incidental taking of other mammals and comparison of the average rates of incidental taking between harvesting nation and United States.
+    Subsec. (a)(2)(B). [Pub. L. 105–42][/us/pl/105/42], § 4(b)(1), added subpar. (B) and struck out former subpar. (B) which contained requirement that nations exporting yellowfin tuna harvested with purse seines in eastern tropical Pacific Ocean provide documentary evidence of adoption of regulatory program governing incidental taking of other mammals and comparison of the average rates of incidental taking between harvesting nation and United States.
 
-    Subsec. (a)(2)(C) to (F). [Pub. L. 105–42, § 4(b)(2)][/us/pl/105/42/s4/b/2], (3), added subpar. (C) and redesignated former subpars. (C) to (E) as (D) to (F), respectively.
+    Subsec. (a)(2)(C) to (F). [Pub. L. 105–42][/us/pl/105/42], § 4(b)(2), (3), added subpar. (C) and redesignated former subpars. (C) to (E) as (D) to (F), respectively.
 
     Subsec. (d). [Pub. L. 105–18][/us/pl/105/18] added subsec. (d).
 
-    Subsec. (e). [Pub. L. 105–42, § 4(c)][/us/pl/105/42/s4/c], added subsec. (e).
+    Subsec. (e). [Pub. L. 105–42][/us/pl/105/42], § 4(c), added subsec. (e).
 
     1996—Subsec. (a)(5)(E)(i). [Pub. L. 104–208][/us/pl/104/208] made technical amendment to reference in original act which appears in text as reference to [section 1824(b) of this title][/us/usc/t16/s1824/b].
 
-    1994—Subsec. (a)(1). [Pub. L. 103–238, § 4(a)(1)][/us/pl/103/238/s4/a/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Consistent with the provisions of [section 1374 of this title][/us/usc/t16/s1374], permits may be issued by the Secretary for taking and importation for purposes of scientific research, public display, or enhancing the survival or recovery of a species or stock if—
+    1994—Subsec. (a)(1). [Pub. L. 103–238][/us/pl/103/238], § 4(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Consistent with the provisions of [section 1374 of this title][/us/usc/t16/s1374], permits may be issued by the Secretary for taking and importation for purposes of scientific research, public display, or enhancing the survival or recovery of a species or stock if—
 
     “(A) the taking proposed in the application for any such permit, or
 
@@ -317,11 +317,11 @@
 
     is first reviewed by the Marine Mammal Commission and the Committee of Scientific Advisors on Marine Mammals established under subchapter III of this chapter. The Commission and Committee shall recommend any proposed taking or importation which is consistent with the purposes and policies of [section 1361 of this title][/us/usc/t16/s1361]. The Secretary shall, if he grants approval for importation, issue to the importer concerned a certificate to that effect which shall be in such form as the Secretary of the Treasury prescribes and such importation may be made upon presentation of the certificate to the customs officer concerned.”
 
-    Subsec. (a)(2). [Pub. L. 103–238, § 4(a)(2)][/us/pl/103/238/s4/a/2], inserted before period at end of first sentence “, or in lieu of such permits, authorizations may be granted therefor under [section 1387 of this title][/us/usc/t16/s1387], subject to regulations prescribed under that section by the Secretary without regard to [section 1373 of this title][/us/usc/t16/s1373]”.
+    Subsec. (a)(2). [Pub. L. 103–238][/us/pl/103/238], § 4(a)(2), inserted before period at end of first sentence “, or in lieu of such permits, authorizations may be granted therefor under [section 1387 of this title][/us/usc/t16/s1387], subject to regulations prescribed under that section by the Secretary without regard to [section 1373 of this title][/us/usc/t16/s1373]”.
 
-    Subsec. (a)(3)(B). [Pub. L. 103–238, § 4(a)(3)][/us/pl/103/238/s4/a/3], inserted “, photography for educational or commercial purposes,” after “purposes” and “or as provided for under paragraph (5) of this subsection,” after “subsection,”.
+    Subsec. (a)(3)(B). [Pub. L. 103–238][/us/pl/103/238], § 4(a)(3), inserted “, photography for educational or commercial purposes,” after “purposes” and “or as provided for under paragraph (5) of this subsection,” after “subsection,”.
 
-    Subsec. (a)(4). [Pub. L. 103–238, § 4(a)(4)][/us/pl/103/238/s4/a/4], amended par. (4) generally. Prior to amendment, par. (4) read as follows:
+    Subsec. (a)(4). [Pub. L. 103–238][/us/pl/103/238], § 4(a)(4), amended par. (4) generally. Prior to amendment, par. (4) read as follows:
 
     “(4)(A) During any period of five consecutive years, the Secretary shall allow the incidental, but not the intentional, taking, by citizens of the United States while engaging in commercial fishing operations, of small numbers of marine mammals of a species or population stock that is not depleted if the Secretary, after notice and opportunity for public comment—
 
@@ -337,43 +337,43 @@
 
     Sections 1373 and 1374 of this title shall not apply to the taking of marine mammals under the authority of this paragraph.”
 
-    Subsec. (a)(5)(D), (E). [Pub. L. 103–238, § 4(a)(5)][/us/pl/103/238/s4/a/5], added subpars. (D) and (E).
+    Subsec. (a)(5)(D), (E). [Pub. L. 103–238][/us/pl/103/238], § 4(a)(5), added subpars. (D) and (E).
 
-    Subsec. (a)(6). [Pub. L. 103–238, § 4(a)(6)][/us/pl/103/238/s4/a/6], added par. (6).
+    Subsec. (a)(6). [Pub. L. 103–238][/us/pl/103/238], § 4(a)(6), added par. (6).
 
-    Subsec. (b). [Pub. L. 103–238, § 4(b)][/us/pl/103/238/s4/b], inserted at end “In promulgating any regulation or making any assessment pursuant to a hearing or proceeding under this subsection or [section 1386(b)(2) of this title][/us/usc/t16/s1386/b/2], or in making any determination of depletion under this subsection or finding regarding unmitigable adverse impacts under subsection (a)(5) that affects stocks or persons to which this subsection applies, the Secretary shall be responsible for demonstrating that such regulation, assessment, determination, or finding is supported by substantial evidence on the basis of the record as a whole. The preceding sentence shall only be applicable in an action brought by one or more Alaska Native organizations representing persons to which this subsection applies.”
+    Subsec. (b). [Pub. L. 103–238][/us/pl/103/238], § 4(b), inserted at end “In promulgating any regulation or making any assessment pursuant to a hearing or proceeding under this subsection or [section 1386(b)(2) of this title][/us/usc/t16/s1386/b/2], or in making any determination of depletion under this subsection or finding regarding unmitigable adverse impacts under subsection (a)(5) that affects stocks or persons to which this subsection applies, the Secretary shall be responsible for demonstrating that such regulation, assessment, determination, or finding is supported by substantial evidence on the basis of the record as a whole. The preceding sentence shall only be applicable in an action brought by one or more Alaska Native organizations representing persons to which this subsection applies.”
 
-    Subsec. (c). [Pub. L. 103–238, § 4(c)][/us/pl/103/238/s4/c], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “In order to minimize undue economic hardship to persons subject to this chapter, other than those engaged in commercial fishing operations referred to in subsection (a)(2) of this section, the Secretary, upon any such person filing an application with him and upon filing such information as the Secretary may require showing, to his satisfaction, such hardship, may exempt such person or class of persons from provisions of this chapter for no more than one year from October 21, 1972, as he determines to be appropriate.”
+    Subsec. (c). [Pub. L. 103–238][/us/pl/103/238], § 4(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “In order to minimize undue economic hardship to persons subject to this chapter, other than those engaged in commercial fishing operations referred to in subsection (a)(2) of this section, the Secretary, upon any such person filing an application with him and upon filing such information as the Secretary may require showing, to his satisfaction, such hardship, may exempt such person or class of persons from provisions of this chapter for no more than one year from October 21, 1972, as he determines to be appropriate.”
 
-    1992—Subsec. (a)(2). [Pub. L. 102–582, § 103(2)][/us/pl/102/582/s103/2], inserted before period at end “, except that, until January 1, 1994, the term ‘driftnet’ does not include the use in the northeast Atlantic Ocean of gillnets with a total length not to exceed five kilometers if the use is in accordance with regulations adopted by the European Community pursuant to the October 28, 1991, decision by the Council of Fisheries Ministers of the Community”.
+    1992—Subsec. (a)(2). [Pub. L. 102–582][/us/pl/102/582], § 103(2), inserted before period at end “, except that, until January 1, 1994, the term ‘driftnet’ does not include the use in the northeast Atlantic Ocean of gillnets with a total length not to exceed five kilometers if the use is in accordance with regulations adopted by the European Community pursuant to the October 28, 1991, decision by the Council of Fisheries Ministers of the Community”.
 
-    Subsec. (a)(2)(C). [Pub. L. 102–582, § 401(b)][/us/pl/102/582/s401/b], amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “shall require the government of any intermediary nation from which yellowfin tuna or tuna products will be exported to the United States to certify and provide reasonable proof that it has acted to prohibit the importation of such tuna and tuna products from any nation from which direct export to the United States of such tuna and tuna products is banned under this section within sixty days following the effective date of such ban on importation to the United States;”.
+    Subsec. (a)(2)(C). [Pub. L. 102–582][/us/pl/102/582], § 401(b), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “shall require the government of any intermediary nation from which yellowfin tuna or tuna products will be exported to the United States to certify and provide reasonable proof that it has acted to prohibit the importation of such tuna and tuna products from any nation from which direct export to the United States of such tuna and tuna products is banned under this section within sixty days following the effective date of such ban on importation to the United States;”.
 
-    Subsec. (a)(2)(E)(i). [Pub. L. 102–582, § 103(1)][/us/pl/102/582/s103/1], substituted “January 1, 1993” for “July 1, 1992”.
+    Subsec. (a)(2)(E)(i). [Pub. L. 102–582][/us/pl/102/582], § 103(1), substituted “January 1, 1993” for “July 1, 1992”.
 
     1990—Subsec. (a)(2). [Pub. L. 101–627][/us/pl/101/627] added subpar. (E) and concluding provisions.
 
-    1988—Subsec. (a)(1). [Pub. L. 100–711, § 5(c)][/us/pl/100/711/s5/c], which directed that par. (1) be amended generally to read as follows: “(1) Consistent with the provisions of [section 1374 of this title][/us/usc/t16/s1374], permits may be issued by the Secretary for taking and importation for purposes of scientific research, public display, or enhancing the survival or recovery of a species or stock if—”, was executed as the probable intent of Congress by substituting such provisions for provisions of par. (1) before subpar. (A) which read as follows: “Permits may be issued by the Secretary for taking and importation for purposes of scientific research and for public display if—”.
+    1988—Subsec. (a)(1). [Pub. L. 100–711][/us/pl/100/711], § 5(c), which directed that par. (1) be amended generally to read as follows: “(1) Consistent with the provisions of [section 1374 of this title][/us/usc/t16/s1374], permits may be issued by the Secretary for taking and importation for purposes of scientific research, public display, or enhancing the survival or recovery of a species or stock if—”, was executed as the probable intent of Congress by substituting such provisions for provisions of par. (1) before subpar. (A) which read as follows: “Permits may be issued by the Secretary for taking and importation for purposes of scientific research and for public display if—”.
 
-    Subsec. (a)(2). [Pub. L. 100–711, § 4(a)][/us/pl/100/711/s4/a], inserted provisions at end of subpar. (B) relating to finding by Secretary that regulatory program, or average rate of incidental taking by vessels, of harvesting nation is comparable to that of United States, and added subpars. (C) and (D).
+    Subsec. (a)(2). [Pub. L. 100–711][/us/pl/100/711], § 4(a), inserted provisions at end of subpar. (B) relating to finding by Secretary that regulatory program, or average rate of incidental taking by vessels, of harvesting nation is comparable to that of United States, and added subpars. (C) and (D).
 
-    Subsec. (a)(3)(B). [Pub. L. 100–711, § 5(e)(1)][/us/pl/100/711/s5/e/1], inserted “or enhancing the survival or recovery of a species or stock” after “scientific research purposes”.
+    Subsec. (a)(3)(B). [Pub. L. 100–711][/us/pl/100/711], § 5(e)(1), inserted “or enhancing the survival or recovery of a species or stock” after “scientific research purposes”.
 
-    1986—Subsec. (a)(5)(A). [Pub. L. 99–659, § 411(a)(1)][/us/pl/99/659/s411/a/1], in provisions preceding cl. (i) struck out “that is not depleted” after “population stock”.
+    1986—Subsec. (a)(5)(A). [Pub. L. 99–659][/us/pl/99/659], § 411(a)(1), in provisions preceding cl. (i) struck out “that is not depleted” after “population stock”.
 
-    Subsec. (a)(5)(A)(i). [Pub. L. 99–659, § 411(a)(2)][/us/pl/99/659/s411/a/2], substituted “will not have an unmitigable adverse impact” for “its habitat, and”, and inserted “or, in the case of a cooperative agreement under both this chapter and the Whaling Convention Act of 1949 ([16 U.S.C. 916][/us/usc/t16/s916] et seq.), pursuant to [section 1382(c) of this title][/us/usc/t16/s1382/c]”.
+    Subsec. (a)(5)(A)(i). [Pub. L. 99–659][/us/pl/99/659], § 411(a)(2), substituted “will not have an unmitigable adverse impact” for “its habitat, and”, and inserted “or, in the case of a cooperative agreement under both this chapter and the Whaling Convention Act of 1949 ([16 U.S.C. 916][/us/usc/t16/s916] et seq.), pursuant to [section 1382(c) of this title][/us/usc/t16/s1382/c]”.
 
-    Subsec. (a)(5)(A)(ii)(I). [Pub. L. 99–659, § 411(a)(3)][/us/pl/99/659/s411/a/3], inserted “, and on the availability of such species or stock for subsistence uses”.
+    Subsec. (a)(5)(A)(ii)(I). [Pub. L. 99–659][/us/pl/99/659], § 411(a)(3), inserted “, and on the availability of such species or stock for subsistence uses”.
 
     1984—Subsec. (a)(2). [Pub. L. 98–364][/us/pl/98/364] amended last sentence generally, restating existing provisions in cl. (A) and adding cl. (B).
 
-    1981—Subsec. (a)(2). [Pub. L. 97–58, § 2(1)(A)][/us/pl/97/58/s2/1/A], provided that the immediate goal of reducing to insignificant levels approaching a zero mortality and serious injury rate the incidental kill or serious injury of marine mammals permitted in the course of commercial fishing operations be satisfied in the case of purse seine fishing for yellowfin tuna by a continuation of the application of the best marine mammal safety techniques and equipment that are economically and technologically practicable.
+    1981—Subsec. (a)(2). [Pub. L. 97–58][/us/pl/97/58], § 2(1)(A), provided that the immediate goal of reducing to insignificant levels approaching a zero mortality and serious injury rate the incidental kill or serious injury of marine mammals permitted in the course of commercial fishing operations be satisfied in the case of purse seine fishing for yellowfin tuna by a continuation of the application of the best marine mammal safety techniques and equipment that are economically and technologically practicable.
 
-    Subsec. (a)(3)(B). [Pub. L. 97–58, § 2(1)(B)][/us/pl/97/58/s2/1/B], struck out “is classified as belonging to an endangered species or threatened species pursuant to the Endangered Species Act of 1973 or” after “the taking of any marine mammal which”.
+    Subsec. (a)(3)(B). [Pub. L. 97–58][/us/pl/97/58], § 2(1)(B), struck out “is classified as belonging to an endangered species or threatened species pursuant to the Endangered Species Act of 1973 or” after “the taking of any marine mammal which”.
 
-    Subsec. (a)(4), (5). [Pub. L. 97–58, § 2(1)(C)][/us/pl/97/58/s2/1/C], added pars. (4) and (5).
+    Subsec. (a)(4), (5). [Pub. L. 97–58][/us/pl/97/58], § 2(1)(C), added pars. (4) and (5).
 
-    Subsec. (b). [Pub. L. 97–58, § 2(2)][/us/pl/97/58/s2/2], substituted “Except as provided in [section 1379 of this title][/us/usc/t16/s1379], the provisions of this chapter shall not apply with respect to the taking of any marine mammal by any Indian, Aleut, or Eskimo who resides in Alaska and” for “The provisions of this chapter shall not apply with respect to the taking of any marine mammal by any Indian, Aleut, or Eskimo” in provisions preceding par. (1) and, in par. (1), substituted “is for subsistence purposes; or” for “is for subsistence purposes by Alaskan natives who reside in Alaska, or”.
+    Subsec. (b). [Pub. L. 97–58][/us/pl/97/58], § 2(2), substituted “Except as provided in [section 1379 of this title][/us/usc/t16/s1379], the provisions of this chapter shall not apply with respect to the taking of any marine mammal by any Indian, Aleut, or Eskimo who resides in Alaska and” for “The provisions of this chapter shall not apply with respect to the taking of any marine mammal by any Indian, Aleut, or Eskimo” in provisions preceding par. (1) and, in par. (1), substituted “is for subsistence purposes; or” for “is for subsistence purposes by Alaskan natives who reside in Alaska, or”.
 
     1973—Subsec. (a)(3)(B). [Pub. L. 93–205][/us/pl/93/205] substituted “or threatened species pursuant to the Endangered Species Act of 1973” for “pursuant to the Endangered Species Conservation Act of 1969”.
 
@@ -383,7 +383,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-    [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
  __Effective Date of 1973 Amendment__ 
 
@@ -446,31 +446,31 @@
 [/us/usc/t16/s1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1373
 [/us/usc/t16/s1386/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1386%2Fb%2F2
 [/us/usc/t16/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1802
-[/us/pl/92/522/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs101
+[/us/pl/92/522/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2FtI
 [/us/stat/86/1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1029
-[/us/pl/93/205/s13/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205%2Fs13%2Fe%2F2
+[/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F903
-[/us/pl/97/58/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58%2Fs2
+[/us/pl/97/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58
 [/us/stat/95/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F979
-[/us/pl/98/364/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2Fs101
+[/us/pl/98/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364%2FtI
 [/us/stat/98/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F440
-[/us/pl/99/659/s411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs411%2Fa
+[/us/pl/99/659/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtIV
 [/us/stat/100/3741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3741
 [/us/pl/100/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711
 [/us/stat/102/4765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4765
-[/us/pl/101/627/s901/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs901%2Fg
+[/us/pl/101/627/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtIX
 [/us/stat/104/4467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4467
-[/us/pl/102/582/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2Fs103
+[/us/pl/102/582/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2FtI
 [/us/stat/106/4903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4903
-[/us/pl/103/238/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs4
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
 [/us/stat/108/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F532
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
-[/us/pl/105/18/s2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2Fs2003
+[/us/pl/105/18/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2FtII
 [/us/stat/111/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F174
-[/us/pl/105/42/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs4%2Fa
+[/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
 [/us/stat/111/1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1123
-[/us/pl/108/136/s319/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs319%2Fb
+[/us/pl/108/136/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtIII
 [/us/stat/117/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1434
 [/us/pl/92/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522
 [/us/pl/92/522/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522%2Fs4
@@ -492,55 +492,55 @@
 [/us/usc/t16/s718b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs718b
 [/us/usc/t16/s668dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd
 [/us/usc/t16/s1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1536
-[/us/pl/108/136/s319/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs319%2Fc%2F1
-[/us/pl/108/136/s319/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs319%2Fc%2F2
-[/us/pl/108/136/s319/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs319%2Fc%2F3
-[/us/pl/108/136/s319/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs319%2Fb
-[/us/pl/105/42/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs4%2Fa
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
 [/us/usc/t16/s1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1373
-[/us/pl/105/42/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs4%2Fb%2F1
-[/us/pl/105/42/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs4%2Fb%2F2
+[/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
+[/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
 [/us/pl/105/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18
-[/us/pl/105/42/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs4%2Fc
+[/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t16/s1824/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1824%2Fb
-[/us/pl/103/238/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs4%2Fa%2F1
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
 [/us/usc/t16/s1374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1374
 [/us/usc/t16/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1361
-[/us/pl/103/238/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs4%2Fa%2F2
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
 [/us/usc/t16/s1387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1387
 [/us/usc/t16/s1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1373
-[/us/pl/103/238/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs4%2Fa%2F3
-[/us/pl/103/238/s4/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs4%2Fa%2F4
-[/us/pl/103/238/s4/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs4%2Fa%2F5
-[/us/pl/103/238/s4/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs4%2Fa%2F6
-[/us/pl/103/238/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs4%2Fb
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
 [/us/usc/t16/s1386/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1386%2Fb%2F2
-[/us/pl/103/238/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238%2Fs4%2Fc
-[/us/pl/102/582/s103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2Fs103%2F2
-[/us/pl/102/582/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2Fs401%2Fb
-[/us/pl/102/582/s103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2Fs103%2F1
+[/us/pl/103/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F238
+[/us/pl/102/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582
+[/us/pl/102/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582
+[/us/pl/102/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582
 [/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
-[/us/pl/100/711/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711%2Fs5%2Fc
+[/us/pl/100/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711
 [/us/usc/t16/s1374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1374
-[/us/pl/100/711/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711%2Fs4%2Fa
-[/us/pl/100/711/s5/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711%2Fs5%2Fe%2F1
-[/us/pl/99/659/s411/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs411%2Fa%2F1
-[/us/pl/99/659/s411/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs411%2Fa%2F2
+[/us/pl/100/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711
+[/us/pl/100/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F711
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
 [/us/usc/t16/s916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs916
 [/us/usc/t16/s1382/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1382%2Fc
-[/us/pl/99/659/s411/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs411%2Fa%2F3
+[/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
 [/us/pl/98/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F364
-[/us/pl/97/58/s2/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58%2Fs2%2F1%2FA
-[/us/pl/97/58/s2/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58%2Fs2%2F1%2FB
-[/us/pl/97/58/s2/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58%2Fs2%2F1%2FC
-[/us/pl/97/58/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58%2Fs2%2F2
+[/us/pl/97/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58
+[/us/pl/97/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58
+[/us/pl/97/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58
+[/us/pl/97/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F58
 [/us/usc/t16/s1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1379
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
 [/us/pl/105/42/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs8
 [/us/usc/t16/s1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1362
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/pl/93/205/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205%2Fs16

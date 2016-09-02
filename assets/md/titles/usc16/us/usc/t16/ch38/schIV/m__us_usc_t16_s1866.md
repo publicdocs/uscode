@@ -17,7 +17,7 @@
 
     Except to the extent determined by the Secretary, or under State law, as presenting no public health hazard or safety risk, or when conducted as part of a research program funded in whole or in part by appropriated funds, it is unlawful to introduce, or attempt to introduce, food or any other substance into the water to attract sharks for any purpose other than to harvest sharks within the Exclusive Economic Zone seaward of the State of Hawaii and of the Commonwealths, territories, and possessions of the United States in the Pacific Ocean Area.
 
-([Pub. L. 94–265, title III, § 317][/us/pl/94/265/s317], as added [Pub. L. 109–479, title I, § 119][/us/pl/109/479/s119], Jan. 12, 2007, [120 Stat. 3607][/us/stat/120/3607].)
+([Pub. L. 94–265, title III][/us/pl/94/265/tIII], § 317, as added [Pub. L. 109–479, title I][/us/pl/109/479/tI], § 119, Jan. 12, 2007, [120 Stat. 3607][/us/stat/120/3607].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/94/265/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2Fs317
-[/us/pl/109/479/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs119
+[/us/pl/94/265/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265%2FtIII
+[/us/pl/109/479/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtI
 [/us/stat/120/3607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3607
 
 

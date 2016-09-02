@@ -17,7 +17,7 @@
 
     The Siskiwit Islands Bird Reservation is abolished and shall after March 6, 1942, be a part of the Isle Royale National Park.
 
-([Mar. 6, 1942, ch. 152, § 2][/us/act/1942-03-06/ch152/s2], [56 Stat. 138][/us/stat/56/138].)
+([Mar. 6, 1942, ch. 152][/us/act/1942-03-06/ch152], § 2, [56 Stat. 138][/us/stat/56/138].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1942-03-06/ch152/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-03-06%2Fch152%2Fs2
+[/us/act/1942-03-06/ch152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-03-06%2Fch152
 [/us/stat/56/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F138
 
 

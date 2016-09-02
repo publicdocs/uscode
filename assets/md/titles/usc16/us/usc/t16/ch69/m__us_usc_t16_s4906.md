@@ -35,7 +35,7 @@
 
         (6) All birds exported from the facility are bred at the facility.
 
-([Pub. L. 102–440, title I, § 107][/us/pl/102/440/s107], Oct. 23, 1992, [106 Stat. 2228][/us/stat/106/2228].)
+([Pub. L. 102–440, title I][/us/pl/102/440/tI], § 107, Oct. 23, 1992, [106 Stat. 2228][/us/stat/106/2228].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t16/s4909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4909
-[/us/pl/102/440/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2Fs107
+[/us/pl/102/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F440%2FtI
 [/us/stat/106/2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2228
 
 

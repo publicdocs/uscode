@@ -27,7 +27,7 @@
 
         Except for officials of the United States Government, individuals described in subsection (b) of this section shall not be considered to be Federal employees while engaged in the actual performance of duties, except for the purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 71  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be chapter “171”. </sup></sup>  of title 28.
 
-([Pub. L. 104–43, title VII, § 709][/us/pl/104/43/s709], Nov. 3, 1995, [109 Stat. 395][/us/stat/109/395].)
+([Pub. L. 104–43, title VII][/us/pl/104/43/tVII], § 709, Nov. 3, 1995, [109 Stat. 395][/us/stat/109/395].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/104/43/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs709
+[/us/pl/104/43/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtVII
 [/us/stat/109/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F395
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 

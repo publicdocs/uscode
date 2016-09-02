@@ -17,7 +17,7 @@
 
     For the acquisition of lands or interests in lands designated by [section 410z of this title][/us/usc/t16/s410z], as components of the Boston National Historical Park, there is authorized to be appropriated not to exceed $2,740,000. For development of the components designated as paragraphs 1 through 6 in [section 410z of this title][/us/usc/t16/s410z], there is authorized to be appropriated not more than $12,818,000. For the development of the component designated as paragraph 7 in [section 410z of this title][/us/usc/t16/s410z], there is authorized to be appropriated not more than $11,500,000.
 
-([Pub. L. 93–431, § 7][/us/pl/93/431/s7], Oct. 1, 1974, [88 Stat. 1186][/us/stat/88/1186].)
+([Pub. L. 93–431][/us/pl/93/431], § 7, Oct. 1, 1974, [88 Stat. 1186][/us/stat/88/1186].)
 
 ----------
 
@@ -29,7 +29,7 @@
 [/us/usc/t16/s410z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410z
 [/us/usc/t16/s410z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410z
 [/us/usc/t16/s410z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410z
-[/us/pl/93/431/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F431%2Fs7
+[/us/pl/93/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F431
 [/us/stat/88/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1186
 
 

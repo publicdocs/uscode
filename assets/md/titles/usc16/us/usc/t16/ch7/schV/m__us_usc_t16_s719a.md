@@ -65,7 +65,7 @@
 
             (G) expenses for marketing and educational materials developed to promote the Program;  <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup> 
 
-([Pub. L. 103–340, § 3][/us/pl/103/340/s3], Oct. 6, 1994, [108 Stat. 3119][/us/stat/108/3119]; [Pub. L. 109–166, § 2][/us/pl/109/166/s2], Jan. 10, 2006, [119 Stat. 3576][/us/stat/119/3576].)
+([Pub. L. 103–340][/us/pl/103/340], § 3, Oct. 6, 1994, [108 Stat. 3119][/us/stat/108/3119]; [Pub. L. 109–166][/us/pl/109/166], § 2, Jan. 10, 2006, [119 Stat. 3576][/us/stat/119/3576].)
 
  __Amendments__ 
 
@@ -93,9 +93,9 @@
 ----------
 
 [/us/pl/109/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F166
-[/us/pl/103/340/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F340%2Fs3
+[/us/pl/103/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F340
 [/us/stat/108/3119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3119
-[/us/pl/109/166/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F166%2Fs2
+[/us/pl/109/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F166
 [/us/stat/119/3576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3576
 [/us/pl/109/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F166
 

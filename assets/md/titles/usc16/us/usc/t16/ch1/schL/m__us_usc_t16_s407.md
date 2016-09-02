@@ -17,7 +17,7 @@
 
     The tract of land known prior to May 14, 1930, as the Carlsbad Cave National Monument, in the State of New Mexico, established and designated as a national monument under the Act of June 8, 1906, entitled “An Act for the preservation of American antiquities,”  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and by presidential proclamation of October 25, 1923, is declared to be a national park and dedicated as a public park for the benefit and enjoyment of the people under the name of the Carlsbad Caverns National Park, under which name the aforesaid national park shall be entitled to receive and to use all moneys heretofore or hereafter appropriated for the Carlsbad Cave National Monument.
 
-([May 14, 1930, ch. 272, § 1][/us/act/1930-05-14/ch272/s1], [46 Stat. 279][/us/stat/46/279].)
+([May 14, 1930, ch. 272][/us/act/1930-05-14/ch272], § 1, [46 Stat. 279][/us/stat/46/279].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1930-05-14/ch272/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-14%2Fch272%2Fs1
+[/us/act/1930-05-14/ch272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-14%2Fch272
 [/us/stat/46/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F279
 [/us/act/1906-06-08/ch3060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-08%2Fch3060
 [/us/stat/34/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F225

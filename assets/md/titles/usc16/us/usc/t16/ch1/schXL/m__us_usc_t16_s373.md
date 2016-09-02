@@ -17,7 +17,7 @@
 
     Any person who shall, within the tract mentioned in [section 372 of this title][/us/usc/t16/s372], commit any damage, injury, or spoliation to or upon any building, fence, hedge, gate, guidepost, tree, wood, underwood, timber, garden, crops, vegetables, plants, land, springs, mineral deposits, natural curiosities, or other matter or thing growing or being thereon, or situated therein, shall be deemed guilty of a misdemeanor, and, upon conviction thereof, shall be subject to a fine of not more than $100 and be adjudged to pay all costs of the proceedings.
 
-([Apr. 20, 1904, ch. 1400, § 3][/us/act/1904-04-20/ch1400/s3], [33 Stat. 187][/us/stat/33/187].)
+([Apr. 20, 1904, ch. 1400][/us/act/1904-04-20/ch1400], § 3, [33 Stat. 187][/us/stat/33/187].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs372
-[/us/act/1904-04-20/ch1400/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1904-04-20%2Fch1400%2Fs3
+[/us/act/1904-04-20/ch1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1904-04-20%2Fch1400
 [/us/stat/33/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F187
 
 

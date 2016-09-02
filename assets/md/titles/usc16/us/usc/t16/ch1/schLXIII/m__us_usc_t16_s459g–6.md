@@ -17,7 +17,7 @@
 
     On or before January 1, 1978, the Secretary shall review the area within the seashore and shall report to the President, in accordance with section 1132(c) and (d) of this title, his recommendations as to the suitability or nonsuitability of any area within the seashore for preservation as wilderness, and any designation of any such areas as a wilderness shall be accomplished in accordance with section 1132(c) and (d) of this title.
 
-([Pub. L. 89–366, § 7][/us/pl/89/366/s7], Mar. 10, 1966, [80 Stat. 35][/us/stat/80/35]; [Pub. L. 93–477, title IV, § 406(4)][/us/pl/93/477/s406/4], Oct. 26, 1974, [88 Stat. 1449][/us/stat/88/1449].)
+([Pub. L. 89–366][/us/pl/89/366], § 7, Mar. 10, 1966, [80 Stat. 35][/us/stat/80/35]; [Pub. L. 93–477, title IV][/us/pl/93/477/tIV], § 406(4), Oct. 26, 1974, [88 Stat. 1449][/us/stat/88/1449].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/89/366/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F366%2Fs7
+[/us/pl/89/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F366
 [/us/stat/80/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F35
-[/us/pl/93/477/s406/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F477%2Fs406%2F4
+[/us/pl/93/477/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F477%2FtIV
 [/us/stat/88/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1449
 [/us/pl/93/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F477
 

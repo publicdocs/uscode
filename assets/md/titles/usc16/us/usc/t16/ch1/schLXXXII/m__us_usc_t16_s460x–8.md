@@ -45,7 +45,7 @@
 
         The approval of any bylaw or amendment pursuant to subsection (d) shall not be withdrawn or revoked by the Secretary for so long as such bylaw or amendment remains in effect as approved. Any such bylaw or amendment so approved shall not be retroactive in its application.
 
-([Pub. L. 91–479, § 9][/us/pl/91/479/s9], Oct. 21, 1970, [84 Stat. 1078][/us/stat/84/1078].)
+([Pub. L. 91–479][/us/pl/91/479], § 9, Oct. 21, 1970, [84 Stat. 1078][/us/stat/84/1078].)
 
 ----------
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t16/s460x–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460x%E2%80%9312
-[/us/pl/91/479/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F479%2Fs9
+[/us/pl/91/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F479
 [/us/stat/84/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1078
 
 

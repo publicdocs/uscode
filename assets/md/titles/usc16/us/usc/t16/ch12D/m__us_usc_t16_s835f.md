@@ -17,7 +17,7 @@
 
     Funds deposited to the credit of allottees, their heirs or devisees may be used in the discretion of the Secretary of the Interior, for the acquisition of other lands and improvements, or the relocation of existing improvements or construction of new improvements on the lands so acquired for the allottees or heirs whose lands and improvements are acquired under the provisions of sections 835d to 835h of this title. Lands so acquired shall be held in the same status as those from which the funds were derived, and shall be nontaxable until otherwise provided by Congress.
 
-([June 29, 1940, ch. 460, § 3][/us/act/1940-06-29/ch460/s3], [54 Stat. 703][/us/stat/54/703].)
+([June 29, 1940, ch. 460][/us/act/1940-06-29/ch460], § 3, [54 Stat. 703][/us/stat/54/703].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1940-06-29/ch460/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-29%2Fch460%2Fs3
+[/us/act/1940-06-29/ch460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-29%2Fch460
 [/us/stat/54/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F703
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

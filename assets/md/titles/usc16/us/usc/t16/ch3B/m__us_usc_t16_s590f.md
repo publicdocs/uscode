@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590e.md) | [Next](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590g.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590f)
+[Previous](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590e–1 _us_usc_t16_s590e–2.md) | [Next](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590g.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590f)
 
 ## § 590f. Authorization of appropriations and conservation technical assistance funds
 
@@ -41,7 +41,7 @@
 
             (C) remain available until expended.
 
-([Apr. 27, 1935, ch. 85, § 6][/us/act/1935-04-27/ch85/s6], [49 Stat. 164][/us/stat/49/164]; [Sept. 21, 1944, ch. 412][/us/act/1944-09-21/ch412], title III, § 302(a), [58 Stat. 738][/us/stat/58/738]; [Pub. L. 113–67, div. A, title VII, § 705(b)][/us/pl/113/67/s705/b], Dec. 26, 2013, [127 Stat. 1193][/us/stat/127/1193].)
+([Apr. 27, 1935, ch. 85][/us/act/1935-04-27/ch85], § 6, [49 Stat. 164][/us/stat/49/164]; [Sept. 21, 1944, ch. 412][/us/act/1944-09-21/ch412], title III, § 302(a), [58 Stat. 738][/us/stat/58/738]; [Pub. L. 113–67, div. A, title VII][/us/pl/113/67/dA/tVII], § 705(b), Dec. 26, 2013, [127 Stat. 1193][/us/stat/127/1193].)
 
  __Amendments__ 
 
@@ -51,18 +51,18 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590e.md) | [Next](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590g.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590f)
+[Previous](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590e–1 _us_usc_t16_s590e–2.md) | [Next](./../../../..//us/usc/t16/ch3B/m__us_usc_t16_s590g.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590f)
 
 ----------
 ----------
 
 [/us/usc/t16/s590c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590c%2F4
 [/us/usc/t31/s3717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3717
-[/us/act/1935-04-27/ch85/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-04-27%2Fch85%2Fs6
+[/us/act/1935-04-27/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-04-27%2Fch85
 [/us/stat/49/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F164
 [/us/act/1944-09-21/ch412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-09-21%2Fch412
 [/us/stat/58/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F738
-[/us/pl/113/67/s705/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs705%2Fb
+[/us/pl/113/67/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdA%2FtVII
 [/us/stat/127/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1193
 [/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 

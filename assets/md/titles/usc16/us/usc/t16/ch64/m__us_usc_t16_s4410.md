@@ -17,7 +17,7 @@
 
     The Secretary shall, in 1998 and at five-year intervals thereafter, undertake with the appropriate officials in Canada and Mexico to revise the goals and other elements of the Plan in accordance with the information required under [section 4409 of this title][/us/usc/t16/s4409] and with the other provisions of this chapter.
 
-([Pub. L. 101–233, § 11][/us/pl/101/233/s11], Dec. 13, 1989, [103 Stat. 1976][/us/stat/103/1976]; [Pub. L. 103–375, § 2(c)][/us/pl/103/375/s2/c], Oct. 19, 1994, [108 Stat. 3494][/us/stat/108/3494].)
+([Pub. L. 101–233][/us/pl/101/233], § 11, Dec. 13, 1989, [103 Stat. 1976][/us/stat/103/1976]; [Pub. L. 103–375][/us/pl/103/375], § 2(c), Oct. 19, 1994, [108 Stat. 3494][/us/stat/108/3494].)
 
  __Amendments__ 
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/usc/t16/s4409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4409
-[/us/pl/101/233/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F233%2Fs11
+[/us/pl/101/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F233
 [/us/stat/103/1976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1976
-[/us/pl/103/375/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375%2Fs2%2Fc
+[/us/pl/103/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375
 [/us/stat/108/3494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3494
 [/us/pl/103/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375
 

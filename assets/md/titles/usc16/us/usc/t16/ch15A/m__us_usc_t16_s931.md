@@ -27,17 +27,17 @@
 
     (e) “Great Lakes” means any of the following bodies of water: Lake Ontario (including the Saint Lawrence River from Lake Ontario to the forty-fifth parallel of latitude), Lake Erie, Lake Huron (including Lake Saint Clair), Lake Michigan, or Lake Superior.
 
-([June 4, 1956, ch. 358, § 2][/us/act/1956-06-04/ch358/s2], [70 Stat. 242][/us/stat/70/242].)
+([June 4, 1956, ch. 358][/us/act/1956-06-04/ch358], § 2, [70 Stat. 242][/us/stat/70/242].)
 
  __Short Title__ 
 
-[Act June 4, 1956, ch. 358, § 1][/us/act/1956-06-04/ch358/s1], [70 Stat. 242][/us/stat/70/242], provided: 
+[Act June 4, 1956, ch. 358][/us/act/1956-06-04/ch358], § 1, [70 Stat. 242][/us/stat/70/242], provided: 
 
 > “That this Act \[enacting this chapter\] may be cited as the ‘Great Lakes Fishery Act of 1956’.”
 
  __Separability__ 
 
-[Act June 4, 1956, ch. 358, § 14][/us/act/1956-06-04/ch358/s14], [70 Stat. 244][/us/stat/70/244], provided that: 
+[Act June 4, 1956, ch. 358][/us/act/1956-06-04/ch358], § 14, [70 Stat. 244][/us/stat/70/244], provided that: 
 
 > “If any provision of this Act \[this chapter\] or the application of such provision to any circumstances or persons shall be held invalid, the validity of the remainder of the Act and the applicability of such provision to other circumstances or persons shall not be affected thereby”.
 
@@ -48,11 +48,11 @@
 ----------
 ----------
 
-[/us/act/1956-06-04/ch358/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-04%2Fch358%2Fs2
+[/us/act/1956-06-04/ch358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-04%2Fch358
 [/us/stat/70/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F242
-[/us/act/1956-06-04/ch358/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-04%2Fch358%2Fs1
+[/us/act/1956-06-04/ch358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-04%2Fch358
 [/us/stat/70/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F242
-[/us/act/1956-06-04/ch358/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-04%2Fch358%2Fs14
+[/us/act/1956-06-04/ch358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-04%2Fch358
 [/us/stat/70/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F244
 
 

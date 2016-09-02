@@ -17,23 +17,23 @@
 
     There is authorized to be constructed by the Secretary of the Interior upon the Jefferson National Expansion Memorial National Historic Site, Saint Louis, Missouri, an appropriate national memorial to those persons who made possible the territorial expansion of the United States, including President Thomas Jefferson and his aides, Livingston and Monroe, who negotiated the Louisiana Purchase, the great explorers, Lewis and Clark, and the hardy hunters, trappers, frontiersmen, pioneers, and others who contributed to such expansion.
 
-([May 17, 1954, ch. 204, § 1][/us/act/1954-05-17/ch204/s1], [68 Stat. 98][/us/stat/68/98].)
+([May 17, 1954, ch. 204][/us/act/1954-05-17/ch204], § 1, [68 Stat. 98][/us/stat/68/98].)
 
  __Short Title of 1984 Amendment__ 
 
-[Pub. L. 98–398, title II, § 203][/us/pl/98/398/s203], Aug. 24, 1984, [98 Stat. 1472][/us/stat/98/1472], provided that: 
+[Pub. L. 98–398, title II][/us/pl/98/398/tII], § 203, Aug. 24, 1984, [98 Stat. 1472][/us/stat/98/1472], provided that: 
 
 > “This title \[enacting sections 450jj–3 to 450jj–9 of this title, enacting provisions set out as a note under [section 450jj–3 of this title][/us/usc/t16/s450jj–3], and amending provisions set out as a note under this section\] may be cited as the ‘Jefferson National Expansion Memorial Amendments Act of 1984’.”
 
  __Disposition of Funds Received by National Park Service as Reimbursement for Costs Incurred__ 
 
-[Pub. L. 99–500, § 101(h)][/us/pl/99/500/s101/h] \[title I, § 100\], Oct. 18, 1986, [100 Stat. 1783–242][/us/stat/100/1783-242], 1783–251, and [Pub. L. 99–591, § 101(h)][/us/pl/99/591/s101/h] \[title I, § 100\], Oct. 30, 1986, [100 Stat. 3341–242][/us/stat/100/3341-242], 3341–251, provided: 
+[Pub. L. 99–500][/us/pl/99/500], § 101(h) \[title I, § 100\], Oct. 18, 1986, [100 Stat. 1783–242][/us/stat/100/1783-242], 1783–251, and [Pub. L. 99–591][/us/pl/99/591], § 101(h) \[title I, § 100\], Oct. 30, 1986, [100 Stat. 3341–242][/us/stat/100/3341-242], 3341–251, provided: 
 
 > “That notwithstanding any other provision of law, hereafter funds received by the National Park Service as reimbursement for the cost of providing security, law enforcement, interpretive, and other services with respect to the operation of facilities at the Jefferson National Expansion Memorial National Historic Site shall be credited to the appropriation bearing the cost of providing such services.”
 
  __Authorization of Appropriations; Federal and Non-Federal Ratio of Expenditures__ 
 
-Section 11, formerly section 4, of act May 17, 1954, as amended by [Pub. L. 85–936][/us/pl/85/936], Sept. 6, 1958, [72 Stat. 1794][/us/stat/72/1794]; [Pub. L. 89–269][/us/pl/89/269], Oct. 19, 1965, [79 Stat. 991][/us/stat/79/991]; [Pub. L. 94–578, title II, § 201(6)][/us/pl/94/578/s201/6], Oct. 21, 1976, [90 Stat. 2733][/us/stat/90/2733]; and renumbered § 11 and amended by [Pub. L. 98–398, title II, § 201(b)][/us/pl/98/398/s201/b], Aug. 24, 1984, [98 Stat. 1471][/us/stat/98/1471]; [Pub. L. 102–355, § 1(3)][/us/pl/102/355/s1/3], Aug. 26, 1992, [106 Stat. 947][/us/stat/106/947], provided that:
+Section 11, formerly section 4, of act May 17, 1954, as amended by [Pub. L. 85–936][/us/pl/85/936], Sept. 6, 1958, [72 Stat. 1794][/us/stat/72/1794]; [Pub. L. 89–269][/us/pl/89/269], Oct. 19, 1965, [79 Stat. 991][/us/stat/79/991]; [Pub. L. 94–578, title II][/us/pl/94/578/tII], § 201(6), Oct. 21, 1976, [90 Stat. 2733][/us/stat/90/2733]; and renumbered § 11 and amended by [Pub. L. 98–398, title II][/us/pl/98/398/tII], § 201(b), Aug. 24, 1984, [98 Stat. 1471][/us/stat/98/1471]; [Pub. L. 102–355][/us/pl/102/355], § 1(3), Aug. 26, 1992, [106 Stat. 947][/us/stat/106/947], provided that:
 
 >     “(a) There is hereby authorized to be appropriated not to exceed $32,750,000 to carry out the purposes of this Act \[sections 450jj to 450jj–9 of this title\]: Provided, That funds authorized to be appropriated by this Act shall be expended by the United States for construction of the memorial in the ratio of $3 of Federal funds for each $1 of money contributed hereafter by the city of Saint Louis or other non-Federal source for purposes of the memorial, and for such purposes the Secretary is authorized to accept from the said city or other non-Federal sources, and to utilize for purposes of this Act, any money so contributed: Provided further, That the value of any land hereafter contributed by the city of Saint Louis shall be excluded from the computation of the city’s share.
 
@@ -54,24 +54,24 @@ Section 11, formerly section 4, of act May 17, 1954, as amended by [Pub. L. 85�
 ----------
 ----------
 
-[/us/act/1954-05-17/ch204/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-17%2Fch204%2Fs1
+[/us/act/1954-05-17/ch204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-17%2Fch204
 [/us/stat/68/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F98
-[/us/pl/98/398/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F398%2Fs203
+[/us/pl/98/398/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F398%2FtII
 [/us/stat/98/1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1472
 [/us/usc/t16/s450jj–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs450jj%E2%80%933
-[/us/pl/99/500/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fh
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-242
-[/us/pl/99/591/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fh
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-242
 [/us/pl/85/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F936
 [/us/stat/72/1794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1794
 [/us/pl/89/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F269
 [/us/stat/79/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F991
-[/us/pl/94/578/s201/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2Fs201%2F6
+[/us/pl/94/578/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2FtII
 [/us/stat/90/2733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2733
-[/us/pl/98/398/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F398%2Fs201%2Fb
+[/us/pl/98/398/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F398%2FtII
 [/us/stat/98/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1471
-[/us/pl/102/355/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F355%2Fs1%2F3
+[/us/pl/102/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F355
 [/us/stat/106/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F947
 
 

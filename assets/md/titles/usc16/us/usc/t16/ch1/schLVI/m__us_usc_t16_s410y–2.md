@@ -17,7 +17,7 @@
 
     The Secretary shall take into account comprehensive local or State development, land use, or recreational plans affecting or relating to areas in the vicinity of the canal, and shall, wherever practicable, consistent with the purposes of this subchapter, exercise the authority granted by this subchapter, in a manner which he finds will not conflict with such local or State plans.
 
-([Pub. L. 91–664, § 4][/us/pl/91/664/s4], Jan. 8, 1971, [84 Stat. 1979][/us/stat/84/1979].)
+([Pub. L. 91–664][/us/pl/91/664], § 4, Jan. 8, 1971, [84 Stat. 1979][/us/stat/84/1979].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/664/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F664%2Fs4
+[/us/pl/91/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F664
 [/us/stat/84/1979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1979
 
 

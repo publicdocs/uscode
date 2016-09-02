@@ -53,7 +53,7 @@
 
         For purposes of this section, all living marine resources found on board a high seas fishing vessel and which are seized in connection with an act prohibited by [section 5505 of this title][/us/usc/t16/s5505] are presumed to have been taken or retained in violation of this chapter, but the presumption can be rebutted by an appropriate showing of evidence to the contrary.
 
-([Pub. L. 104–43, title I, § 110][/us/pl/104/43/s110], Nov. 3, 1995, [109 Stat. 375][/us/stat/109/375].)
+([Pub. L. 104–43, title I][/us/pl/104/43/tI], § 110, Nov. 3, 1995, [109 Stat. 375][/us/stat/109/375].)
 
 ----------
 
@@ -66,7 +66,7 @@
 [/us/usc/t16/s5506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5506
 [/us/usc/t16/s5506/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5506%2Fb
 [/us/usc/t16/s5505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5505
-[/us/pl/104/43/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs110
+[/us/pl/104/43/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtI
 [/us/stat/109/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F375
 
 

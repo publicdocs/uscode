@@ -17,7 +17,7 @@
 
     It shall be lawful for the Secretary of the Interior to grant permits under the provisions of [section 607 of this title][/us/usc/t16/s607], to citizens of Washington County and of Kane County, Utah, to cut timber on the public lands of the counties of Mohave and Coconino, Arizona, for agricultural, mining, or other domestic purposes, and remove the timber so cut to said Washington County and Kane County, Utah.
 
-([Mar. 3, 1891, ch. 561, § 8][/us/act/1891-03-03/ch561/s8] (part), as added [Feb. 27, 1922, ch. 82][/us/act/1922-02-27/ch82], [42 Stat. 398][/us/stat/42/398].)
+([Mar. 3, 1891, ch. 561][/us/act/1891-03-03/ch561], § 8 (part), as added [Feb. 27, 1922, ch. 82][/us/act/1922-02-27/ch82], [42 Stat. 398][/us/stat/42/398].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t16/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs607
-[/us/act/1891-03-03/ch561/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch561%2Fs8
+[/us/act/1891-03-03/ch561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch561
 [/us/act/1922-02-27/ch82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-02-27%2Fch82
 [/us/stat/42/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F398
 [/us/usc/t16/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs607

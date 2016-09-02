@@ -41,7 +41,7 @@
 
         (3) As used in this subchapter, the term “member of the immediate family” means spouse, brother, sister, or child, including persons bearing such relationships through adoption, and step-child.
 
-([Pub. L. 91–479, § 10][/us/pl/91/479/s10], Oct. 21, 1970, [84 Stat. 1079][/us/stat/84/1079]; [Pub. L. 97–361, § 1][/us/pl/97/361/s1], Oct. 22, 1982, [96 Stat. 1720][/us/stat/96/1720].)
+([Pub. L. 91–479][/us/pl/91/479], § 10, Oct. 21, 1970, [84 Stat. 1079][/us/stat/84/1079]; [Pub. L. 97–361][/us/pl/97/361], § 1, Oct. 22, 1982, [96 Stat. 1720][/us/stat/96/1720].)
 
  __Amendments__ 
 
@@ -61,9 +61,9 @@
 [/us/usc/t16/s460x–10/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460x%E2%80%9310%2Fa%2F2
 [/us/usc/t16/s460x–10/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460x%E2%80%9310%2Fa%2F2
 [/us/usc/t16/s460x–10/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460x%E2%80%9310%2Fc%2F3
-[/us/pl/91/479/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F479%2Fs10
+[/us/pl/91/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F479
 [/us/stat/84/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1079
-[/us/pl/97/361/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F361%2Fs1
+[/us/pl/97/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F361
 [/us/stat/96/1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1720
 [/us/pl/97/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F361
 [/us/usc/t16/s460x–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460x%E2%80%9310

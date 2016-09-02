@@ -31,7 +31,7 @@
 
         The Secretary, in consultation with State foresters or equivalent State officials, may provide assistance directly to other State and local natural resource management agencies and land grant universities in implementing this chapter in cases in which the State foresters or equivalent State officials are not able to make fund transfers to other State and local agencies.
 
-([Pub. L. 95–313, § 20][/us/pl/95/313/s20], as added [Pub. L. 101–624, title XII, § 1223][/us/pl/101/624/s1223], Nov. 28, 1990, [104 Stat. 3542][/us/stat/104/3542].)
+([Pub. L. 95–313][/us/pl/95/313], § 20, as added [Pub. L. 101–624, title XII][/us/pl/101/624/tXII], § 1223, Nov. 28, 1990, [104 Stat. 3542][/us/stat/104/3542].)
 
 ----------
 
@@ -40,8 +40,8 @@
 ----------
 ----------
 
-[/us/pl/95/313/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313%2Fs20
-[/us/pl/101/624/s1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1223
+[/us/pl/95/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313
+[/us/pl/101/624/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXII
 [/us/stat/104/3542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3542
 
 

@@ -17,7 +17,7 @@
 
     Funds deposited to the credit of allottees, their heirs, or devisees may be used, in the discretion of the Secretary of the Interior, for the acquisition of other lands and improvements, or the relocation of existing improvements or construction of new improvements on the lands so acquired for the allottees or heirs whose lands and improvements are acquired under the provisions of sections 833l to 833p of this title. Lands so acquired shall be held in the same status as those from which the funds were derived, and shall be nontaxable until otherwise provided by Congress.
 
-([Apr. 23, 1946, ch. 199, § 3][/us/act/1946-04-23/ch199/s3], [60 Stat. 118][/us/stat/60/118].)
+([Apr. 23, 1946, ch. 199][/us/act/1946-04-23/ch199], § 3, [60 Stat. 118][/us/stat/60/118].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1946-04-23/ch199/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-04-23%2Fch199%2Fs3
+[/us/act/1946-04-23/ch199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-04-23%2Fch199
 [/us/stat/60/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F118
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 

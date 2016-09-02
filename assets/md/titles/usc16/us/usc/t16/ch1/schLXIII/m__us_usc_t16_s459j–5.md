@@ -33,7 +33,7 @@
 
         Members of the Commission shall serve without compensation, as such, but the Secretary may pay, upon vouchers signed by the Chairman, the expenses reasonably incurred by the Commission and its members in carrying out their responsibilities under this section.
 
-([Pub. L. 93–626, § 6][/us/pl/93/626/s6], Jan. 3, 1975, [88 Stat. 2124][/us/stat/88/2124]; [Pub. L. 94–398][/us/pl/94/398], Sept. 4, 1976, [90 Stat. 1204][/us/stat/90/1204].)
+([Pub. L. 93–626][/us/pl/93/626], § 6, Jan. 3, 1975, [88 Stat. 2124][/us/stat/88/2124]; [Pub. L. 94–398][/us/pl/94/398], Sept. 4, 1976, [90 Stat. 1204][/us/stat/90/1204].)
 
  __Amendments__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/93/626/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F626%2Fs6
+[/us/pl/93/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F626
 [/us/stat/88/2124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2124
 [/us/pl/94/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F398
 [/us/stat/90/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1204

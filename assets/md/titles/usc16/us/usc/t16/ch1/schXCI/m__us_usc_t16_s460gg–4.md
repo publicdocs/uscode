@@ -31,7 +31,7 @@
 
     (7) such management, utilization, and disposal of natural resources on federally owned lands, including, but not limited to, timber harvesting by selective cutting, mining, and grazing and the continuation of such existing uses and developments as are compatible with the provisions of this subchapter.
 
-([Pub. L. 94–199, § 7][/us/pl/94/199/s7], Dec. 31, 1975, [89 Stat. 1118][/us/stat/89/1118].)
+([Pub. L. 94–199][/us/pl/94/199], § 7, Dec. 31, 1975, [89 Stat. 1118][/us/stat/89/1118].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t16/s460gg–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460gg%E2%80%931
 [/us/usc/t16/s460gg–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460gg%E2%80%937
-[/us/pl/94/199/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F199%2Fs7
+[/us/pl/94/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F199
 [/us/stat/89/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1118
 [/us/pl/94/199/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F199%2Fs3
 [/us/usc/t16/s1274/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1274%2Fa

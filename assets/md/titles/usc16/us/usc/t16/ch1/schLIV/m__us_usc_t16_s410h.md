@@ -17,7 +17,7 @@
 
     In any action caused by the Secretary of the Interior to be commenced for the acquisition of lands under the provisions hereof, reasonable diligence shall be exercised by him to ascertain whether owners elect to retain reservations in accordance with the provisions of sections 410e to 410h of this title. If, after the exercise of such reasonable diligence, owners cannot be located, or do not appear in judicial proceedings to acquire the lands, so that it may be ascertained whether they desire to retain reservations in accordance with the provisions hereof, the Secretary may acquire the fee simple title to their lands free and clear of reservations as set forth in subsections (1) and (2) of [section 410e of this title][/us/usc/t16/s410e].
 
-([Oct. 10, 1949, ch. 659, § 4][/us/act/1949-10-10/ch659/s4], [63 Stat. 734][/us/stat/63/734].)
+([Oct. 10, 1949, ch. 659][/us/act/1949-10-10/ch659], § 4, [63 Stat. 734][/us/stat/63/734].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t16/s410e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410e
-[/us/act/1949-10-10/ch659/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-10%2Fch659%2Fs4
+[/us/act/1949-10-10/ch659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-10%2Fch659
 [/us/stat/63/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F734
 
 

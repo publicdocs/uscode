@@ -15,7 +15,7 @@
 
 ## § 398b. Repealed. [Pub. L. 85–404][/us/pl/85/404], May 16, 1958, [72 Stat. 112][/us/stat/72/112]
 
-    Section, [act Aug. 2, 1956, ch. 885, § 3][/us/act/1956-08-02/ch885/s3], [70 Stat. 941][/us/stat/70/941], authorized an appropriation for capital improvements and an annual appropriation for administration of the Virgin Islands National Park.
+    Section, [act Aug. 2, 1956, ch. 885][/us/act/1956-08-02/ch885], § 3, [70 Stat. 941][/us/stat/70/941], authorized an appropriation for capital improvements and an annual appropriation for administration of the Virgin Islands National Park.
 
 ----------
 
@@ -26,7 +26,7 @@
 
 [/us/pl/85/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F404
 [/us/stat/72/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F112
-[/us/act/1956-08-02/ch885/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch885%2Fs3
+[/us/act/1956-08-02/ch885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch885
 [/us/stat/70/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F941
 
 

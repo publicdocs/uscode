@@ -27,7 +27,7 @@
 
         The head of any agency administering a component of the national wild and scenic rivers system shall cooperate with the Administrator, Environmental Protection Agency and with the appropriate State water pollution control agencies for the purpose of eliminating or diminishing the pollution of waters of the river.
 
-([Pub. L. 90–542, § 12][/us/pl/90/542/s12], Oct. 2, 1968, [82 Stat. 917][/us/stat/82/917]; [Pub. L. 95–625, title VII, § 762][/us/pl/95/625/s762], Nov. 10, 1978, [92 Stat. 3533][/us/stat/92/3533]; [Pub. L. 99–590, title V, § 509][/us/pl/99/590/s509], Oct. 30, 1986, [100 Stat. 3337][/us/stat/100/3337].)
+([Pub. L. 90–542][/us/pl/90/542], § 12, Oct. 2, 1968, [82 Stat. 917][/us/stat/82/917]; [Pub. L. 95–625, title VII][/us/pl/95/625/tVII], § 762, Nov. 10, 1978, [92 Stat. 3533][/us/stat/92/3533]; [Pub. L. 99–590, title V][/us/pl/99/590/tV], § 509, Oct. 30, 1986, [100 Stat. 3337][/us/stat/100/3337].)
 
  __Amendments__ 
 
@@ -47,11 +47,11 @@
 ----------
 
 [/us/usc/t16/s1273/a/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1273%2Fa%2Fii
-[/us/pl/90/542/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F542%2Fs12
+[/us/pl/90/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F542
 [/us/stat/82/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F917
-[/us/pl/95/625/s762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs762
+[/us/pl/95/625/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtVII
 [/us/stat/92/3533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3533
-[/us/pl/99/590/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F590%2Fs509
+[/us/pl/99/590/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F590%2FtV
 [/us/stat/100/3337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3337
 [/us/pl/99/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F590
 [/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625

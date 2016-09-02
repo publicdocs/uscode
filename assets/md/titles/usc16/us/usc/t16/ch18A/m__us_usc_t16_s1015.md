@@ -109,7 +109,7 @@
 
         (E) advances any other goals associated with water quality or quantity that the Secretary determines to be appropriate.
 
-([Pub. L. 111–11, title VI, § 6001][/us/pl/111/11/s6001], Mar. 30, 2009, [123 Stat. 1165][/us/stat/123/1165].)
+([Pub. L. 111–11, title VI][/us/pl/111/11/tVI], § 6001, Mar. 30, 2009, [123 Stat. 1165][/us/stat/123/1165].)
 
 ----------
 
@@ -120,7 +120,7 @@
 
 [/us/usc/t16/s1015a/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1015a%2Fc%2F2
 [/us/usc/t16/s1015a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1015a%2Fa
-[/us/pl/111/11/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs6001
+[/us/pl/111/11/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVI
 [/us/stat/123/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1165
 
 

@@ -25,7 +25,7 @@
 
     All of those lands lying within the boundary lines above described and the present boundary lines are included in and made a part of the Lassen Volcanic National Park.
 
-([Jan. 19, 1929, ch. 75, § 1][/us/act/1929-01-19/ch75/s1], [45 Stat. 1081][/us/stat/45/1081].)
+([Jan. 19, 1929, ch. 75][/us/act/1929-01-19/ch75], § 1, [45 Stat. 1081][/us/stat/45/1081].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1929-01-19/ch75/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-01-19%2Fch75%2Fs1
+[/us/act/1929-01-19/ch75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-01-19%2Fch75
 [/us/stat/45/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1081
 
 

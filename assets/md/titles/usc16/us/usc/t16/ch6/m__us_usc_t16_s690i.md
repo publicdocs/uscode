@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Apr. 23, 1928, ch. 413, § 8][/us/act/1928-04-23/ch413/s8], [45 Stat. 450][/us/stat/45/450], authorized the appropriation of $350,000 for purposes of sections 690 to 690h of this title, including $50,000 for purchase of land and improvements thereon.
+    Section, [act Apr. 23, 1928, ch. 413][/us/act/1928-04-23/ch413], § 8, [45 Stat. 450][/us/stat/45/450], authorized the appropriation of $350,000 for purposes of sections 690 to 690h of this title, including $50,000 for purchase of land and improvements thereon.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1928-04-23/ch413/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-04-23%2Fch413%2Fs8
+[/us/act/1928-04-23/ch413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-04-23%2Fch413
 [/us/stat/45/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F450
 
 

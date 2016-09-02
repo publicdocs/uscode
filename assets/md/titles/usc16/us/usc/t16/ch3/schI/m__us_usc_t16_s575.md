@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture is authorized in cases of emergency to incur such expenses as may be necessary in searching for persons lost in the national forests and in transporting persons seriously ill, injured, or who die within the national forests to the nearest place where the sick or injured person, or the body, may be transferred to interested parties or local authorities.
 
-([May 27, 1930, ch. 337, § 3][/us/act/1930-05-27/ch337/s3], [46 Stat. 387][/us/stat/46/387].)
+([May 27, 1930, ch. 337][/us/act/1930-05-27/ch337], § 3, [46 Stat. 387][/us/stat/46/387].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1930-05-27/ch337/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-27%2Fch337%2Fs3
+[/us/act/1930-05-27/ch337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-27%2Fch337
 [/us/stat/46/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F387
 
 

@@ -31,7 +31,7 @@
 
         Regulations issued under subsection (a) or (b) of this section shall remain in effect until the Secretary implements regulations under [section 5103(b) of this title][/us/usc/t16/s5103/b] to implement a coastal fishery management plan for American lobster.
 
-([Pub. L. 103–206, title VIII, § 810][/us/pl/103/206/s810], as added [Pub. L. 104–297, title IV, § 404(c)][/us/pl/104/297/s404/c], Oct. 11, 1996, [110 Stat. 3620][/us/stat/110/3620]; amended [Pub. L. 106–555, title I, § 122(b)(3)][/us/pl/106/555/s122/b/3], Dec. 21, 2000, [114 Stat. 2766][/us/stat/114/2766].)
+([Pub. L. 103–206, title VIII][/us/pl/103/206/tVIII], § 810, as added [Pub. L. 104–297, title IV][/us/pl/104/297/tIV], § 404(c), Oct. 11, 1996, [110 Stat. 3620][/us/stat/110/3620]; amended [Pub. L. 106–555, title I][/us/pl/106/555/tI], § 122(b)(3), Dec. 21, 2000, [114 Stat. 2766][/us/stat/114/2766].)
 
  __References in Text__ 
 
@@ -59,10 +59,10 @@
 [/us/usc/t16/s1851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1851
 [/us/usc/t16/s5103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5103%2Fb
 [/us/usc/t16/s5103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5103%2Fb
-[/us/pl/103/206/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs810
-[/us/pl/104/297/s404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs404%2Fc
+[/us/pl/103/206/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtVIII
+[/us/pl/104/297/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtIV
 [/us/stat/110/3620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3620
-[/us/pl/106/555/s122/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F555%2Fs122%2Fb%2F3
+[/us/pl/106/555/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F555%2FtI
 [/us/stat/114/2766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2766
 [/us/pl/103/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206
 [/us/stat/107/2447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2447

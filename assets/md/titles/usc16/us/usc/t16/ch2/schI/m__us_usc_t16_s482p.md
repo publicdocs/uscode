@@ -17,7 +17,7 @@
 
     On and after July 12, 1951, all patents issued under the United States mining laws affecting lands within the above-described area shall convey title to the mineral deposits within the claim, together with the right to cut and remove so much of the mature timber therefrom as may be needed in extracting and removing and beneficiation of the mineral deposits, if the timber is cut under sound principles of forest management as defined by such rules and regulations, but each patent shall reserve to the United States all title in or to the surface of the lands and products thereof, and no use of the surface of the claim or the resources therefrom not reasonably required for carrying on mining or prospecting shall be allowed except under the rules and regulations of the Department of Agriculture or the Department of the Interior, respectively.
 
-([July 12, 1951, ch. 222, § 2][/us/act/1951-07-12/ch222/s2], [65 Stat. 118][/us/stat/65/118].)
+([July 12, 1951, ch. 222][/us/act/1951-07-12/ch222], § 2, [65 Stat. 118][/us/stat/65/118].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1951-07-12/ch222/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-07-12%2Fch222%2Fs2
+[/us/act/1951-07-12/ch222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-07-12%2Fch222
 [/us/stat/65/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F118
 
 

@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture shall execute the provisions of sections 689 to 689d of this title, and he is authorized to make all needful rules and regulations for the administration of such game preserves in accordance with the purposes of said sections, including regulations for hunting, capturing, or killing predatory animals, such as wolves, coyotes, cougar, and other species destructive to livestock or wildlife within the limits of said game preserve.
 
-([July 3, 1926, ch. 776, § 4][/us/act/1926-07-03/ch776/s4], [44 Stat. 889][/us/stat/44/889].)
+([July 3, 1926, ch. 776][/us/act/1926-07-03/ch776], § 4, [44 Stat. 889][/us/stat/44/889].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1926-07-03/ch776/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-03%2Fch776%2Fs4
+[/us/act/1926-07-03/ch776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-07-03%2Fch776
 [/us/stat/44/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F889
 
 

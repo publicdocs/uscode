@@ -47,13 +47,13 @@
 
         Nothing in subsection (d) of this section shall be deemed applicable to any person with respect to the removal of arrowheads located on the surface of the ground.
 
-([Pub. L. 96–95, § 6][/us/pl/96/95/s6], Oct. 31, 1979, [93 Stat. 724][/us/stat/93/724]; [Pub. L. 100–588, § 1(b)][/us/pl/100/588/s1/b], (c), Nov. 3, 1988, [102 Stat. 2983][/us/stat/102/2983].)
+([Pub. L. 96–95][/us/pl/96/95], § 6, Oct. 31, 1979, [93 Stat. 724][/us/stat/93/724]; [Pub. L. 100–588][/us/pl/100/588], § 1(b), (c), Nov. 3, 1988, [102 Stat. 2983][/us/stat/102/2983].)
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–588, § 1(b)][/us/pl/100/588/s1/b], inserted “, or attempt to excavate, remove, damage, or otherwise alter or deface” after “deface”.
+    1988—Subsec. (a). [Pub. L. 100–588][/us/pl/100/588], § 1(b), inserted “, or attempt to excavate, remove, damage, or otherwise alter or deface” after “deface”.
 
-    Subsec. (d). [Pub. L. 100–588, § 1(c)][/us/pl/100/588/s1/c], substituted “$500” for “$5,000”.
+    Subsec. (d). [Pub. L. 100–588][/us/pl/100/588], § 1(c), substituted “$500” for “$5,000”.
 
 ----------
 
@@ -65,11 +65,11 @@
 [/us/usc/t16/s470cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470cc
 [/us/usc/t16/s470cc/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470cc%2Fh%2F2
 [/us/usc/t16/s470cc/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470cc%2Fg%2F1
-[/us/pl/96/95/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95%2Fs6
+[/us/pl/96/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F95
 [/us/stat/93/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F724
-[/us/pl/100/588/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F588%2Fs1%2Fb
+[/us/pl/100/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F588
 [/us/stat/102/2983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2983
-[/us/pl/100/588/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F588%2Fs1%2Fb
-[/us/pl/100/588/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F588%2Fs1%2Fc
+[/us/pl/100/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F588
+[/us/pl/100/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F588
 
 

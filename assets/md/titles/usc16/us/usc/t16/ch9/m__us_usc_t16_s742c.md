@@ -57,11 +57,11 @@
 
         The Secretary is authorized under such terms and conditions and pursuant to regulations prescribed by him to use the funds appropriated under this section to make loans to commercial fishermen for the purpose of chartering fishing vessels pending the construction or repair of vessels lost, destroyed, or damaged by the earthquake of March 27, 1964, and subsequent tidal waves related thereto: Provided, That any loans made under this subsection shall only be repaid from the net profits of the operations of such chartered vessels, which profits shall be reduced by such reasonable amount as determined by the Secretary for the salary of the fishermen chartering such vessels. The funds authorized herein shall not be available for such loans after June 30, 1966.
 
-([Aug. 8, 1956, ch. 1036, § 4][/us/act/1956-08-08/ch1036/s4], [70 Stat. 1121][/us/stat/70/1121]; [Pub. L. 85–888][/us/pl/85/888], Sept. 2, 1958, [72 Stat. 1710][/us/stat/72/1710]; [Pub. L. 88–309, § 9][/us/pl/88/309/s9], May 20, 1964, [78 Stat. 199][/us/stat/78/199]; [Pub. L. 89–85][/us/pl/89/85], §§ 1–4, July 24, 1965, [79 Stat. 262][/us/stat/79/262]; [Pub. L. 91–279, § 9][/us/pl/91/279/s9], June 12, 1970, [84 Stat. 309][/us/stat/84/309]; [Pub. L. 91–387][/us/pl/91/387], §§ 1, 2, Aug. 24, 1970, [84 Stat. 829][/us/stat/84/829]; [Pub. L. 94–273, § 2(8)][/us/pl/94/273/s2/8], Apr. 21, 1976, [90 Stat. 375][/us/stat/90/375]; [Pub. L. 96–478, § 16(a)][/us/pl/96/478/s16/a], Oct. 21, 1980, [94 Stat. 2303][/us/stat/94/2303]; [Pub. L. 97–347, § 1][/us/pl/97/347/s1], Oct. 18, 1982, [96 Stat. 1652][/us/stat/96/1652]; [Pub. L. 98–44, title I, § 103(a)(1)][/us/pl/98/44/s103/a/1], July 12, 1983, [97 Stat. 216][/us/stat/97/216]; [Pub. L. 98–498, title IV, § 430(1)][/us/pl/98/498/s430/1], Oct. 19, 1984, [98 Stat. 2310][/us/stat/98/2310]; [Pub. L. 99–659, title IV, § 409][/us/pl/99/659/s409], Nov. 14, 1986, [100 Stat. 3740][/us/stat/100/3740].)
+([Aug. 8, 1956, ch. 1036][/us/act/1956-08-08/ch1036], § 4, [70 Stat. 1121][/us/stat/70/1121]; [Pub. L. 85–888][/us/pl/85/888], Sept. 2, 1958, [72 Stat. 1710][/us/stat/72/1710]; [Pub. L. 88–309][/us/pl/88/309], § 9, May 20, 1964, [78 Stat. 199][/us/stat/78/199]; [Pub. L. 89–85][/us/pl/89/85], §§ 1–4, July 24, 1965, [79 Stat. 262][/us/stat/79/262]; [Pub. L. 91–279][/us/pl/91/279], § 9, June 12, 1970, [84 Stat. 309][/us/stat/84/309]; [Pub. L. 91–387][/us/pl/91/387], §§ 1, 2, Aug. 24, 1970, [84 Stat. 829][/us/stat/84/829]; [Pub. L. 94–273][/us/pl/94/273], § 2(8), Apr. 21, 1976, [90 Stat. 375][/us/stat/90/375]; [Pub. L. 96–478][/us/pl/96/478], § 16(a), Oct. 21, 1980, [94 Stat. 2303][/us/stat/94/2303]; [Pub. L. 97–347][/us/pl/97/347], § 1, Oct. 18, 1982, [96 Stat. 1652][/us/stat/96/1652]; [Pub. L. 98–44, title I][/us/pl/98/44/tI], § 103(a)(1), July 12, 1983, [97 Stat. 216][/us/stat/97/216]; [Pub. L. 98–498, title IV][/us/pl/98/498/tIV], § 430(1), Oct. 19, 1984, [98 Stat. 2310][/us/stat/98/2310]; [Pub. L. 99–659, title IV][/us/pl/99/659/tIV], § 409, Nov. 14, 1986, [100 Stat. 3740][/us/stat/100/3740].)
 
  __Codification__ 
 
-    In subsec. (b)(8), “[section 50501 of title 46][/us/usc/t46/s50501]” substituted for “section 2 of the Shipping Act, 1916, as amended,” on authority of [Pub. L. 109–304, § 18(c)][/us/pl/109/304/s18/c], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 50501 of Title 46][/us/usc/t46/s50501], Shipping.
+    In subsec. (b)(8), “[section 50501 of title 46][/us/usc/t46/s50501]” substituted for “section 2 of the Shipping Act, 1916, as amended,” on authority of [Pub. L. 109–304][/us/pl/109/304], § 18(c), Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], which Act enacted [section 50501 of Title 46][/us/usc/t46/s50501], Shipping.
 
  __Amendments__ 
 
@@ -79,19 +79,19 @@
 
     1970—Subsec. (b)(2). [Pub. L. 91–279][/us/pl/91/279] provided maturity period of fourteen years for loans for all or part of costs of constructing new fishing vessels.
 
-    Subsec. (b)(7). [Pub. L. 91–387, § 2][/us/pl/91/387/s2], permitted a national of the United States to be an applicant for a fishery loan.
+    Subsec. (b)(7). [Pub. L. 91–387][/us/pl/91/387], § 2, permitted a national of the United States to be an applicant for a fishery loan.
 
-    Subsec. (b)(8). [Pub. L. 91–387, § 2][/us/pl/91/387/s2], substituted provision for Secretary’s determination of United States citizenship of a corporation, partnership, or association by satisfactorily meeting all requirements set forth in [section 802 of title 46][/us/usc/t46/s802] for determination of citizenship of such entity operating a vessel in coastwise trade, for prior provision for establishment of such citizenship within meaning of [section 802 of title 46][/us/usc/t46/s802] to satisfaction of the Secretary.
+    Subsec. (b)(8). [Pub. L. 91–387][/us/pl/91/387], § 2, substituted provision for Secretary’s determination of United States citizenship of a corporation, partnership, or association by satisfactorily meeting all requirements set forth in [section 802 of title 46][/us/usc/t46/s802] for determination of citizenship of such entity operating a vessel in coastwise trade, for prior provision for establishment of such citizenship within meaning of [section 802 of title 46][/us/usc/t46/s802] to satisfaction of the Secretary.
 
-    Subsec. (b)(9). [Pub. L. 91–387, § 2][/us/pl/91/387/s2], added par. (9).
+    Subsec. (b)(9). [Pub. L. 91–387][/us/pl/91/387], § 2, added par. (9).
 
-    Subsec. (c). [Pub. L. 91–387, § 1][/us/pl/91/387/s1], extended term for making fisheries loans, substituting “June 30, 1980” for “June 30, 1970” wherever appearing.
+    Subsec. (c). [Pub. L. 91–387][/us/pl/91/387], § 1, extended term for making fisheries loans, substituting “June 30, 1980” for “June 30, 1970” wherever appearing.
 
-    1965—Subsec. (a). [Pub. L. 89–85, § 1][/us/pl/89/85/s1], substituted “financing or refinancing of the cost of purchasing, constructing, equipping, maintaining, repairing, or operating new or used commercial fishing vessels or gear” for “financing and refinancing of operations, maintenance, replacement, repair, and equipment of fishing gear and vessels” and struck out provision for research into basic problems of fisheries.
+    1965—Subsec. (a). [Pub. L. 89–85][/us/pl/89/85], § 1, substituted “financing or refinancing of the cost of purchasing, constructing, equipping, maintaining, repairing, or operating new or used commercial fishing vessels or gear” for “financing and refinancing of operations, maintenance, replacement, repair, and equipment of fishing gear and vessels” and struck out provision for research into basic problems of fisheries.
 
     Subsec. (b). [Pub. L. 89–85][/us/pl/89/85], §§ 2, 3, substituted in par. (1) provision respecting determination of interest rate taking into consideration average market yield on outstanding Treasury obligations of comparable maturity plus additional charge toward coverage of other costs of program for former provision prescribing an interest rate of not less than 3 per centum per annum and added pars. (4) to (8), respectively.
 
-    Subsec. (c). [Pub. L. 89–85, § 4][/us/pl/89/85/s4], extended term for making fisheries loans from June 30, 1965, to June 30, 1970, required Secretary to pay at end of each fiscal year into miscellaneous receipts of the Treasury interest on cumulative amount of appropriations available as capital to fund after July 1, 1965, less average undispersed cash balance in fund during the year, provided formula for determination of rate of interest, and authorized deferral of interest payments but with payment of interest on deferred payments.
+    Subsec. (c). [Pub. L. 89–85][/us/pl/89/85], § 4, extended term for making fisheries loans from June 30, 1965, to June 30, 1970, required Secretary to pay at end of each fiscal year into miscellaneous receipts of the Treasury interest on cumulative amount of appropriations available as capital to fund after July 1, 1965, less average undispersed cash balance in fund during the year, provided formula for determination of rate of interest, and authorized deferral of interest payments but with payment of interest on deferred payments.
 
     1964—Subsec. (e). [Pub. L. 88–309][/us/pl/88/309] added subsec. (e).
 
@@ -99,19 +99,19 @@
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–478, § 16(b)][/us/pl/96/478/s16/b], Oct. 21, 1980, [94 Stat. 2304][/us/stat/94/2304], provided that: 
+[Pub. L. 96–478][/us/pl/96/478], § 16(b), Oct. 21, 1980, [94 Stat. 2304][/us/stat/94/2304], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect on September 1, 1980.”
 
  __Effective Date of 1970 Amendment; Fisheries Loan Fund Available for Loans From__  __July 1, 1970__  __to Close of__  __June 30, 1980__ 
 
-[Pub. L. 91–387, § 3][/us/pl/91/387/s3], Aug. 24, 1970, [84 Stat. 829][/us/stat/84/829], provided that: 
+[Pub. L. 91–387][/us/pl/91/387], § 3, Aug. 24, 1970, [84 Stat. 829][/us/stat/84/829], provided that: 
 
 > “The provisions of this Act \[amending this section\] shall be effective July 1, 1970. Notwithstanding the provisions of section 4(c) of the Fish and Wildlife Act of 1956, as amended \[subsec. (c) of this section\], any balance remaining in the fisheries loan fund at the close of June 30, 1970, shall be available to make loans for the purposes of section 4 of said Act \[this section\] from July 1, 1970, to the close of June 30, 1980.”
 
  __Effective Date of 1965 Amendment; Remaining Funds; Availability for Loans__ 
 
-[Pub. L. 89–85, § 5][/us/pl/89/85/s5], July 24, 1965, [79 Stat. 263][/us/stat/79/263], provided that: 
+[Pub. L. 89–85][/us/pl/89/85], § 5, July 24, 1965, [79 Stat. 263][/us/stat/79/263], provided that: 
 
 > “The provisions of this Act \[amending this section\] shall be effective July 1, 1965. Notwithstanding the provisions of section 4(c) of the Fish and Wildlife Act of 1956, as amended \[subsec. (c) of this section\], any balance remaining in the fisheries loan fund at the close of June 30, 1965, shall be available to make loans for the purposes of section 4 of said Act \[this section\] from July 1, 1965, to the close of June 30, 1970.”
 
@@ -121,7 +121,7 @@
 
  __Loans Under Fish and Wildlife Act of 1956__ 
 
-    [Pub. L. 96–561, title II, § 221][/us/pl/96/561/s221], Dec. 22, 1980, [94 Stat. 3295][/us/stat/94/3295], as amended by [Pub. L. 98–44, title I, § 103(b)][/us/pl/98/44/s103/b], July 12, 1983, [97 Stat. 216][/us/stat/97/216]; [Pub. L. 98–498, title IV, § 431][/us/pl/98/498/s431], Oct. 19, 1984, [98 Stat. 2310][/us/stat/98/2310], provided that during the period beginning Dec. 22, 1980, through the close of Sept. 30, 1986, the Secretary of Commerce could make loans from the fisheries loan fund established under subsec. (c) of this section only for the purpose of assisting obligors to avoid default on obligations covering fishing vessels and to cover operating losses.
+    [Pub. L. 96–561, title II][/us/pl/96/561/tII], § 221, Dec. 22, 1980, [94 Stat. 3295][/us/stat/94/3295], as amended by [Pub. L. 98–44, title I][/us/pl/98/44/tI], § 103(b), July 12, 1983, [97 Stat. 216][/us/stat/97/216]; [Pub. L. 98–498, title IV][/us/pl/98/498/tIV], § 431, Oct. 19, 1984, [98 Stat. 2310][/us/stat/98/2310], provided that during the period beginning Dec. 22, 1980, through the close of Sept. 30, 1986, the Secretary of Commerce could make loans from the fisheries loan fund established under subsec. (c) of this section only for the purpose of assisting obligors to avoid default on obligations covering fishing vessels and to cover operating losses.
 
 ----------
 
@@ -131,32 +131,32 @@
 ----------
 
 [/us/usc/t46/s50501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs50501
-[/us/act/1956-08-08/ch1036/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1036%2Fs4
+[/us/act/1956-08-08/ch1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1036
 [/us/stat/70/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1121
 [/us/pl/85/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F888
 [/us/stat/72/1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1710
-[/us/pl/88/309/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F309%2Fs9
+[/us/pl/88/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F309
 [/us/stat/78/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F199
 [/us/pl/89/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F85
 [/us/stat/79/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F262
-[/us/pl/91/279/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F279%2Fs9
+[/us/pl/91/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F279
 [/us/stat/84/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F309
 [/us/pl/91/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F387
 [/us/stat/84/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F829
-[/us/pl/94/273/s2/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs2%2F8
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F375
-[/us/pl/96/478/s16/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F478%2Fs16%2Fa
+[/us/pl/96/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F478
 [/us/stat/94/2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2303
-[/us/pl/97/347/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F347%2Fs1
+[/us/pl/97/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F347
 [/us/stat/96/1652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1652
-[/us/pl/98/44/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F44%2Fs103%2Fa%2F1
+[/us/pl/98/44/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F44%2FtI
 [/us/stat/97/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F216
-[/us/pl/98/498/s430/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2Fs430%2F1
+[/us/pl/98/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2FtIV
 [/us/stat/98/2310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2310
-[/us/pl/99/659/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs409
+[/us/pl/99/659/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtIV
 [/us/stat/100/3740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3740
 [/us/usc/t46/s50501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs50501
-[/us/pl/109/304/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
 [/us/usc/t46/s50501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs50501
 [/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
@@ -166,30 +166,30 @@
 [/us/pl/96/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F478
 [/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/pl/91/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F279
-[/us/pl/91/387/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F387%2Fs2
-[/us/pl/91/387/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F387%2Fs2
+[/us/pl/91/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F387
+[/us/pl/91/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F387
 [/us/usc/t46/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs802
 [/us/usc/t46/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs802
-[/us/pl/91/387/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F387%2Fs2
-[/us/pl/91/387/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F387%2Fs1
-[/us/pl/89/85/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F85%2Fs1
+[/us/pl/91/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F387
+[/us/pl/91/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F387
 [/us/pl/89/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F85
-[/us/pl/89/85/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F85%2Fs4
+[/us/pl/89/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F85
+[/us/pl/89/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F85
 [/us/pl/88/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F309
 [/us/pl/85/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F888
-[/us/pl/96/478/s16/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F478%2Fs16%2Fb
+[/us/pl/96/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F478
 [/us/stat/94/2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2304
-[/us/pl/91/387/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F387%2Fs3
+[/us/pl/91/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F387
 [/us/stat/84/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F829
-[/us/pl/89/85/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F85%2Fs5
+[/us/pl/89/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F85
 [/us/stat/79/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F263
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
 [/us/usc/t16/s742b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs742b
-[/us/pl/96/561/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs221
+[/us/pl/96/561/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtII
 [/us/stat/94/3295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3295
-[/us/pl/98/44/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F44%2Fs103%2Fb
+[/us/pl/98/44/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F44%2FtI
 [/us/stat/97/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F216
-[/us/pl/98/498/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2Fs431
+[/us/pl/98/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2FtIV
 [/us/stat/98/2310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2310
 
 

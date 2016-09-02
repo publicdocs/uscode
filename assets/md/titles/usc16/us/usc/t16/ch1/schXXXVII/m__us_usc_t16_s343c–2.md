@@ -41,7 +41,7 @@
 
     Said land, upon acceptance of title thereto, shall become a part of the Acadia National Park.
 
-([Pub. L. 90–262, § 1][/us/pl/90/262/s1], Mar. 4, 1968, [82 Stat. 40][/us/stat/82/40].)
+([Pub. L. 90–262][/us/pl/90/262], § 1, Mar. 4, 1968, [82 Stat. 40][/us/stat/82/40].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/90/262/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F262%2Fs1
+[/us/pl/90/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F262
 [/us/stat/82/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F40
 
 

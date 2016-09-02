@@ -17,11 +17,11 @@
 
     On and after May 11, 1934, mining locations made under the United States mining laws upon lands within the Mount Hood National Forest in the State of Oregon shall confer on the locator the right to occupy and use so much of the surface of the land covered by the location as may be reasonably necessary to carry on prospecting and mining, including the taking of mineral deposits and timber required by or in the mining operations, and no permit shall be required or charge made for such use or occupancy: Provided, however, That the cutting and removal of timber, except where clearing is necessary in connection with mining operations or to provide space for buildings or structures used in connection with mining operations, shall be conducted in accordance with the rules for timber cutting on adjoining national-forest land, and no use of the surface of the claim or the resources therefrom not reasonably required for carrying on mining or prospecting shall be allowed except under the national-forest rules and regulations, nor shall the locator prevent or obstruct other occupancy of the surface or use of surface resources under authority of national-forest regulations, or permits issued thereunder, if such occupancy or use is not in conflict with mineral development.
 
-([May 11, 1934, ch. 280, § 1][/us/act/1934-05-11/ch280/s1], [48 Stat. 773][/us/stat/48/773].)
+([May 11, 1934, ch. 280][/us/act/1934-05-11/ch280], § 1, [48 Stat. 773][/us/stat/48/773].)
 
  __Bull Run Watershed Management Unit__ 
 
-[Pub. L. 95–200][/us/pl/95/200], Nov. 23, 1977, [91 Stat. 1425][/us/stat/91/1425], as amended by [Pub. L. 104–208, div. B, title VI][/us/pl/104/208], §§ 601 to 604, Sept. 30, 1996, [110 Stat. 3009–541][/us/stat/110/3009-541]; [Pub. L. 104–333, div. I, title X, § 1026(a)][/us/pl/104/333/s1026/a], Nov. 12, 1996, [110 Stat. 4228][/us/stat/110/4228]; [Pub. L. 107–30][/us/pl/107/30], §§ 1, 2(a), (c), Aug. 20, 2001, [115 Stat. 210][/us/stat/115/210], 211, provided that:
+[Pub. L. 95–200][/us/pl/95/200], Nov. 23, 1977, [91 Stat. 1425][/us/stat/91/1425], as amended by [Pub. L. 104–208, div. B, title VI][/us/pl/104/208/dB/tVI], §§ 601 to 604, Sept. 30, 1996, [110 Stat. 3009–541][/us/stat/110/3009-541]; [Pub. L. 104–333, div. I, title X][/us/pl/104/333/dI/tX], § 1026(a), Nov. 12, 1996, [110 Stat. 4228][/us/stat/110/4228]; [Pub. L. 107–30][/us/pl/107/30], §§ 1, 2(a), (c), Aug. 20, 2001, [115 Stat. 210][/us/stat/115/210], 211, provided that:
 
 >  __“preamble__ 
 
@@ -132,13 +132,13 @@
 ----------
 ----------
 
-[/us/act/1934-05-11/ch280/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-11%2Fch280%2Fs1
+[/us/act/1934-05-11/ch280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-11%2Fch280
 [/us/stat/48/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F773
 [/us/pl/95/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F200
 [/us/stat/91/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1425
-[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdB%2FtVI
 [/us/stat/110/3009-541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-541
-[/us/pl/104/333/s1026/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2Fs1026%2Fa
+[/us/pl/104/333/dI/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F333%2FdI%2FtX
 [/us/stat/110/4228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F4228
 [/us/pl/107/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F30
 [/us/stat/115/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F210

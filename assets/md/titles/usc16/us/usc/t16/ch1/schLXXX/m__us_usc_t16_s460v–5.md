@@ -17,7 +17,7 @@
 
     The boundaries of the Ashley National Forest are hereby extended to include all of the lands not presently within such boundaries lying within the recreation area as described in accordance with sections 460v and 460v–2 of this title.
 
-([Pub. L. 90–540, § 6][/us/pl/90/540/s6], Oct. 1, 1968, [82 Stat. 905][/us/stat/82/905].)
+([Pub. L. 90–540][/us/pl/90/540], § 6, Oct. 1, 1968, [82 Stat. 905][/us/stat/82/905].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/540/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F540%2Fs6
+[/us/pl/90/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F540
 [/us/stat/82/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F905
 
 

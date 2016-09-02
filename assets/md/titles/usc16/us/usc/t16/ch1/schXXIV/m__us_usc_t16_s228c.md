@@ -19,7 +19,7 @@
 
     (b) Federal lands within the boundaries of such park are hereby transferred to the jurisdiction of the Secretary for the purposes of sections 228a to 228j of this title.
 
-([Pub. L. 93–620, § 4][/us/pl/93/620/s4], Jan. 3, 1975, [88 Stat. 2090][/us/stat/88/2090].)
+([Pub. L. 93–620][/us/pl/93/620], § 4, Jan. 3, 1975, [88 Stat. 2090][/us/stat/88/2090].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/93/620/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F620%2Fs4
+[/us/pl/93/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F620
 [/us/stat/88/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2090
 
 

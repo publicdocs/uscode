@@ -23,7 +23,7 @@
 
     (c) The term “major transmission facilities” means transmission facilities intended to be used to provide services not previously provided by the Bonneville Power Administration with its own facilities.
 
-([Pub. L. 93–454, § 3][/us/pl/93/454/s3], Oct. 18, 1974, [88 Stat. 1376][/us/stat/88/1376].)
+([Pub. L. 93–454][/us/pl/93/454], § 3, Oct. 18, 1974, [88 Stat. 1376][/us/stat/88/1376].)
 
  __Transfer of Functions__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/93/454/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F454%2Fs3
+[/us/pl/93/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F454
 [/us/stat/88/1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1376
 
 

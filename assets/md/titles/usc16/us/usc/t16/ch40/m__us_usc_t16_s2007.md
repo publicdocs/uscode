@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such funds as may be necessary to carry out the purposes of this chapter.
 
-([Pub. L. 95–192, § 8][/us/pl/95/192/s8], Nov. 18, 1977, [91 Stat. 1411][/us/stat/91/1411].)
+([Pub. L. 95–192][/us/pl/95/192], § 8, Nov. 18, 1977, [91 Stat. 1411][/us/stat/91/1411].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/192/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F192%2Fs8
+[/us/pl/95/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F192
 [/us/stat/91/1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1411
 
 

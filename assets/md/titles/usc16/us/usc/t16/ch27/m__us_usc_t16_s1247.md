@@ -35,11 +35,11 @@
 
         Such trails may be designated and suitably marked as parts of the nationwide system of trails by the States, their political subdivisions, or other appropriate administering agencies with the approval of the Secretary of the Interior.
 
-([Pub. L. 90–543, § 8][/us/pl/90/543/s8], Oct. 2, 1968, [82 Stat. 925][/us/stat/82/925]; [Pub. L. 95–625, title V, § 551(22)][/us/pl/95/625/s551/22], Nov. 10, 1978, [92 Stat. 3516][/us/stat/92/3516]; [Pub. L. 98–11, title II, § 208][/us/pl/98/11/s208], Mar. 28, 1983, [97 Stat. 48][/us/stat/97/48]; [Pub. L. 104–88, title III, § 317(1)][/us/pl/104/88/s317/1], Dec. 29, 1995, [109 Stat. 949][/us/stat/109/949]; [Pub. L. 113–287, § 5(d)(24)][/us/pl/113/287/s5/d/24], Dec. 19, 2014, [128 Stat. 3266][/us/stat/128/3266].)
+([Pub. L. 90–543][/us/pl/90/543], § 8, Oct. 2, 1968, [82 Stat. 925][/us/stat/82/925]; [Pub. L. 95–625, title V][/us/pl/95/625/tV], § 551(22), Nov. 10, 1978, [92 Stat. 3516][/us/stat/92/3516]; [Pub. L. 98–11, title II][/us/pl/98/11/tII], § 208, Mar. 28, 1983, [97 Stat. 48][/us/stat/97/48]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 317(1), Dec. 29, 1995, [109 Stat. 949][/us/stat/109/949]; [Pub. L. 113–287][/us/pl/113/287], § 5(d)(24), Dec. 19, 2014, [128 Stat. 3266][/us/stat/128/3266].)
 
  __References in Text__ 
 
-    Section 701 of the Housing Act of 1954, referred to in subsec. (b), was classified to section 461 of former Title 40, Public Buildings, Property, and Works, prior to repeal by [Pub. L. 97–35, title III, § 313(b)][/us/pl/97/35/s313/b], Aug. 13, 1981, [95 Stat. 398][/us/stat/95/398].
+    Section 701 of the Housing Act of 1954, referred to in subsec. (b), was classified to section 461 of former Title 40, Public Buildings, Property, and Works, prior to repeal by [Pub. L. 97–35, title III][/us/pl/97/35/tIII], § 313(b), Aug. 13, 1981, [95 Stat. 398][/us/stat/95/398].
 
     The Housing Act of 1961, referred to in subsec. (b), is [Pub. L. 87–70][/us/pl/87/70], June 30, 1961, [75 Stat. 149][/us/stat/75/149], as amended. Title VII of the Housing Act of 1961 was classified generally to chapter 8C (§ 1500 et seq.) of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to [section 5316 of Title 42][/us/usc/t42/s5316] which terminated authority to make grants or loans under such title VII after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 12][/us/usc/t12/s1701], Banks and Banking, and Tables.
 
@@ -51,7 +51,7 @@
 
     1995—Subsec. (d). [Pub. L. 104–88][/us/pl/104/88] substituted “Chairman of the Surface Transportation Board” for “Chairman of the Interstate Commerce Commission” and “the Board” for “the Commission”.
 
-    1983—Subsecs. (d), (e). [Pub. L. 98–11, § 208(2)][/us/pl/98/11/s208/2], added subsec. (d) and redesignated former subsec. (d) as (e).
+    1983—Subsecs. (d), (e). [Pub. L. 98–11][/us/pl/98/11], § 208(2), added subsec. (d) and redesignated former subsec. (d) as (e).
 
     1978—Subsec. (a). [Pub. L. 95–625][/us/pl/95/625] inserted “and historic” after “establishing park, forest, and other recreation” and “administered by States, and recreation”, and directed the Secretary to encourage States to consider in their plans and proposals the needs and opportunities for establishing historic trails.
 
@@ -68,17 +68,17 @@
 
 [/us/usc/t42/s1500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1500
 [/us/usc/t45/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs801
-[/us/pl/90/543/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F543%2Fs8
+[/us/pl/90/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F543
 [/us/stat/82/925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F925
-[/us/pl/95/625/s551/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs551%2F22
+[/us/pl/95/625/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtV
 [/us/stat/92/3516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3516
-[/us/pl/98/11/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2Fs208
+[/us/pl/98/11/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2FtII
 [/us/stat/97/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F48
-[/us/pl/104/88/s317/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs317%2F1
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F949
-[/us/pl/113/287/s5/d/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F24
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3266
-[/us/pl/97/35/s313/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs313%2Fb
+[/us/pl/97/35/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtIII
 [/us/stat/95/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F398
 [/us/pl/87/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70
 [/us/stat/75/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F149
@@ -91,7 +91,7 @@
 [/us/stat/80/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F915
 [/us/stat/77/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F49
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
-[/us/pl/98/11/s208/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11%2Fs208%2F2
+[/us/pl/98/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F11
 [/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2

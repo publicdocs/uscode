@@ -27,7 +27,7 @@
 
         The Secretary is authorized to make grants to, and enter into cooperative agreements, contracts or leases with the National Constitution Center, Philadelphia, Pennsylvania, which shall operate the Center as provided in this subchapter in order to carry out the purposes of this subchapter. Funds authorized to be appropriated under this subchapter may be made available to the National Constitution Center only to the extent that they are matched by such entity with funds from nonfederal sources.
 
-([Pub. L. 100–433, § 4][/us/pl/100/433/s4], Sept. 16, 1988, [102 Stat. 1641][/us/stat/102/1641].)
+([Pub. L. 100–433][/us/pl/100/433], § 4, Sept. 16, 1988, [102 Stat. 1641][/us/stat/102/1641].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/100/433/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F433%2Fs4
+[/us/pl/100/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F433
 [/us/stat/102/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1641
 
 

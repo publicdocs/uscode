@@ -137,7 +137,7 @@
 
             (ii) the rights, title, and interests in land that are reserved to the landowner.
 
-([Pub. L. 99–198, title XII, § 1265A][/us/pl/99/198/s1265A], as added [Pub. L. 113–79, title II, § 2301(a)][/us/pl/113/79/s2301/a], Feb. 7, 2014, [128 Stat. 732][/us/stat/128/732].)
+([Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1265A, as added [Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2301(a), Feb. 7, 2014, [128 Stat. 732][/us/stat/128/732].)
 
 ----------
 
@@ -152,8 +152,8 @@
 [/us/usc/t26/s509/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs509%2Fa
 [/us/usc/t26/s509/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs509%2Fa%2F3
 [/us/usc/t26/s509/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs509%2Fa%2F2
-[/us/pl/99/198/s1265A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1265A
-[/us/pl/113/79/s2301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2301%2Fa
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F732
 
 

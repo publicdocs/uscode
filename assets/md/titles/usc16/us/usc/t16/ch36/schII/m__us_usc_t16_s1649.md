@@ -45,7 +45,7 @@
 
         There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-([Pub. L. 95–307, § 10][/us/pl/95/307/s10], as added [Pub. L. 101–624, title XII, § 1252][/us/pl/101/624/s1252], Nov. 28, 1990, [104 Stat. 3553][/us/stat/104/3553].)
+([Pub. L. 95–307][/us/pl/95/307], § 10, as added [Pub. L. 101–624, title XII][/us/pl/101/624/tXII], § 1252, Nov. 28, 1990, [104 Stat. 3553][/us/stat/104/3553].)
 
 ----------
 
@@ -54,8 +54,8 @@
 ----------
 ----------
 
-[/us/pl/95/307/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F307%2Fs10
-[/us/pl/101/624/s1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1252
+[/us/pl/95/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F307
+[/us/pl/101/624/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXII
 [/us/stat/104/3553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3553
 
 

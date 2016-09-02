@@ -65,7 +65,7 @@
 
             The Secretary shall, by regulation, prescribe such procedures as may be necessary to preserve the confidentiality of information submitted in compliance with any requirement or regulation under this Act, except that the Secretary may release or make public any such information in any aggregate or summary form that does not directly or indirectly disclose the identity or business of any person. Nothing in this subsection shall be interpreted or construed to prevent the use for conservation and management purposes by the Secretary of any information submitted in compliance with any requirement or regulation under this Act.
 
-([Pub. L. 109–479, title V, § 506][/us/pl/109/479/s506], Jan. 12, 2007, [120 Stat. 3640][/us/stat/120/3640]; [Pub. L. 114–81, title I, § 105(1)][/us/pl/114/81/s105/1], Nov. 5, 2015, [129 Stat. 657][/us/stat/129/657].)
+([Pub. L. 109–479, title V][/us/pl/109/479/tV], § 506, Jan. 12, 2007, [120 Stat. 3640][/us/stat/120/3640]; [Pub. L. 114–81, title I][/us/pl/114/81/tI], § 105(1), Nov. 5, 2015, [129 Stat. 657][/us/stat/129/657].)
 
  __References in Text__ 
 
@@ -98,9 +98,9 @@
 [/us/usc/t16/s1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1821
 [/us/usc/t16/s971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs971
 [/us/usc/t16/s1826g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826g
-[/us/pl/109/479/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs506
+[/us/pl/109/479/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2FtV
 [/us/stat/120/3640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3640
-[/us/pl/114/81/s105/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs105%2F1
+[/us/pl/114/81/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2FtI
 [/us/stat/129/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F657
 [/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
 [/us/stat/120/3575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3575

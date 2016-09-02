@@ -17,7 +17,7 @@
 
     Surveys, field notes, and plats returned from the survey of public lands designated as national forests undertaken under the supervision of the Director of the United States Geological Survey in accordance with provisions of Act June 4, 1897, chapter 2, section 1, thirtieth Statutes, page 34, shall have the same legal force and effect as surveys, field notes, and plats returned through the Field Surveying Service; and such surveys, which include subdivision surveys under the rectangular system, approved by the Secretary of the Interior or such officer as he may designate as in other cases, and properly certified copies thereof shall be filed in the respective land offices of the districts in which such lands are situated, as in other cases. All laws inconsistent with the provisions hereof are declared inoperative as respects such survey. A copy of every topographic map and other maps showing the distribution of the forests, together with such field notes as may be taken relating thereto, shall be certified thereto by the Director of the Survey and filed in the Bureau of Land Management.
 
-([June 4, 1897, ch. 2, § 1][/us/act/1897-06-04/ch2/s1], [30 Stat. 34][/us/stat/30/34]; [Mar. 3, 1925, ch. 462][/us/act/1925-03-03/ch462], [43 Stat. 1144][/us/stat/43/1144]; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, [60 Stat. 1100][/us/stat/60/1100]; [Pub. L. 102–154, title I][/us/pl/102/154], Nov. 13, 1991, [105 Stat. 1000][/us/stat/105/1000].)
+([June 4, 1897, ch. 2][/us/act/1897-06-04/ch2], § 1, [30 Stat. 34][/us/stat/30/34]; [Mar. 3, 1925, ch. 462][/us/act/1925-03-03/ch462], [43 Stat. 1144][/us/stat/43/1144]; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, [60 Stat. 1100][/us/stat/60/1100]; [Pub. L. 102–154, title I][/us/pl/102/154/tI], Nov. 13, 1991, [105 Stat. 1000][/us/stat/105/1000].)
 
  __References in Text__ 
 
@@ -44,12 +44,12 @@
 ----------
 ----------
 
-[/us/act/1897-06-04/ch2/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-06-04%2Fch2%2Fs1
+[/us/act/1897-06-04/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-06-04%2Fch2
 [/us/stat/30/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F34
 [/us/act/1925-03-03/ch462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch462
 [/us/stat/43/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1144
 [/us/stat/60/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1100
-[/us/pl/102/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154
+[/us/pl/102/154/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154%2FtI
 [/us/stat/105/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1000
 [/us/act/1897-06-04/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-06-04%2Fch2
 [/us/stat/30/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F34

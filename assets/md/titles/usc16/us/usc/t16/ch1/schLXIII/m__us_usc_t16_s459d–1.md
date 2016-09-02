@@ -27,11 +27,11 @@
 
         In exercising his authority to acquire property by exchange, the Secretary may accept title to any non-Federal property located within such area and convey to the grantor of such property any federally owned property under the jurisdiction of the Secretary within such area. The properties so exchanged shall be approximately equal in fair market value: Provided, That the Secretary may accept cash from or pay cash to the grantor in such an exchange in order to equalize the values of the properties exchanged.
 
-([Pub. L. 87–712, § 2][/us/pl/87/712/s2], Sept. 28, 1962, [76 Stat. 650][/us/stat/76/650].)
+([Pub. L. 87–712][/us/pl/87/712], § 2, Sept. 28, 1962, [76 Stat. 650][/us/stat/76/650].)
 
  __Revision of Boundaries; Addition and Deletion of Acreage__ 
 
-[Pub. L. 94–578, title I, § 101(13)][/us/pl/94/578/s101/13], Oct. 21, 1976, [90 Stat. 2733][/us/stat/90/2733], as amended [Pub. L. 96–199, title I, § 111][/us/pl/96/199/s111], Mar. 5, 1980, [94 Stat. 70][/us/stat/94/70], provided in part that: 
+[Pub. L. 94–578, title I][/us/pl/94/578/tI], § 101(13), Oct. 21, 1976, [90 Stat. 2733][/us/stat/90/2733], as amended [Pub. L. 96–199, title I][/us/pl/96/199/tI], § 111, Mar. 5, 1980, [94 Stat. 70][/us/stat/94/70], provided in part that: 
 
 > “The Secretary of the Interior is authorized to revise the boundary of the seashore \[Padre Island National Seashore, Texas\] to add approximately two hundred and seventy-four acres and to delete approximately two thousand acres, and sections 302 and 303 of the Act of April 11, 1972 ([86 Stat. 120][/us/stat/86/120], 121) \[[Pub. L. 92–272][/us/pl/92/272], which sections were not classified to the Code\], shall apply to the boundary revision authorized herein.”
 
@@ -44,11 +44,11 @@
 
 [/us/usc/t16/s459d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459d
 [/us/usc/t16/s459d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs459d%E2%80%932
-[/us/pl/87/712/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F712%2Fs2
+[/us/pl/87/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F712
 [/us/stat/76/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F650
-[/us/pl/94/578/s101/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2Fs101%2F13
+[/us/pl/94/578/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F578%2FtI
 [/us/stat/90/2733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2733
-[/us/pl/96/199/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199%2Fs111
+[/us/pl/96/199/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F199%2FtI
 [/us/stat/94/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F70
 [/us/stat/86/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F120
 [/us/pl/92/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F272

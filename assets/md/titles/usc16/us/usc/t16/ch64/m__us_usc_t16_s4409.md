@@ -31,7 +31,7 @@
 
     (2) an annual assessment of the status of wetlands conservation projects, including an accounting of expenditures by Federal, State, and other United States entities, and expenditures by Canadian and Mexican sources to carry out these projects.
 
-([Pub. L. 101–233, § 10][/us/pl/101/233/s10], Dec. 13, 1989, [103 Stat. 1976][/us/stat/103/1976]; [Pub. L. 103–375, § 2(b)][/us/pl/103/375/s2/b], Oct. 19, 1994, [108 Stat. 3494][/us/stat/108/3494]; [Pub. L. 107–308, § 8(a)(12)][/us/pl/107/308/s8/a/12], (13), Dec. 2, 2002, [116 Stat. 2448][/us/stat/116/2448].)
+([Pub. L. 101–233][/us/pl/101/233], § 10, Dec. 13, 1989, [103 Stat. 1976][/us/stat/103/1976]; [Pub. L. 103–375][/us/pl/103/375], § 2(b), Oct. 19, 1994, [108 Stat. 3494][/us/stat/108/3494]; [Pub. L. 107–308][/us/pl/107/308], § 8(a)(12), (13), Dec. 2, 2002, [116 Stat. 2448][/us/stat/116/2448].)
 
  __References in Text__ 
 
@@ -39,9 +39,9 @@
 
  __Amendments__ 
 
-    2002—Par. (1)(C). [Pub. L. 107–308, § 8(a)(12)][/us/pl/107/308/s8/a/12], substituted “Western Hemisphere” for “western hemisphere” and made technical amendment to reference in original act which appears in text as reference to [section 4413 of this title][/us/usc/t16/s4413].
+    2002—Par. (1)(C). [Pub. L. 107–308][/us/pl/107/308], § 8(a)(12), substituted “Western Hemisphere” for “western hemisphere” and made technical amendment to reference in original act which appears in text as reference to [section 4413 of this title][/us/usc/t16/s4413].
 
-    Par. (1)(D). [Pub. L. 107–308, § 8(a)(13)][/us/pl/107/308/s8/a/13], substituted “; and” for period at end.
+    Par. (1)(D). [Pub. L. 107–308][/us/pl/107/308], § 8(a)(13), substituted “; and” for period at end.
 
     1994—Par. (1)(D). [Pub. L. 103–375][/us/pl/103/375] added subpar. (D).
 
@@ -53,19 +53,19 @@
 ----------
 
 [/us/usc/t16/s4413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4413
-[/us/pl/101/233/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F233%2Fs10
+[/us/pl/101/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F233
 [/us/stat/103/1976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1976
-[/us/pl/103/375/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375%2Fs2%2Fb
+[/us/pl/103/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375
 [/us/stat/108/3494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3494
-[/us/pl/107/308/s8/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308%2Fs8%2Fa%2F12
+[/us/pl/107/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308
 [/us/stat/116/2448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2448
 [/us/usc/t16/s4413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4413
 [/us/pl/101/233/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F233%2Fs16
 [/us/usc/t16/s4413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4413
 [/us/usc/t16/s2912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2912
-[/us/pl/107/308/s8/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308%2Fs8%2Fa%2F12
+[/us/pl/107/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308
 [/us/usc/t16/s4413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4413
-[/us/pl/107/308/s8/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308%2Fs8%2Fa%2F13
+[/us/pl/107/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F308
 [/us/pl/103/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F375
 
 

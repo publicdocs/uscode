@@ -17,7 +17,7 @@
 
     The Secretary of the Interior is authorized to make further adjustments in the boundaries of the park along United States Highways Numbered 10 and 85 as he deems advisable and in the public interest if and when the alinement of these highways is changed: Provided, That not to exceed five hundred acres may be added to the park and not to exceed two thousand acres may be excluded from the park by such adjustments. Boundary adjustments made pursuant to this section shall be effective upon publication thereof in the Federal Register and all Federal land excluded from the park pursuant to sections 241c to 241f of this title shall be transferred to the Secretary of Agriculture for administration or disposition in accordance with title III of the Bankhead-Jones Farm Tenant Act \[[7 U.S.C. 1010][/us/usc/t7/s1010] et seq.\].
 
-([Mar. 24, 1956, ch. 94, § 3][/us/act/1956-03-24/ch94/s3], [70 Stat. 56][/us/stat/70/56].)
+([Mar. 24, 1956, ch. 94][/us/act/1956-03-24/ch94], § 3, [70 Stat. 56][/us/stat/70/56].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t7/s1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1010
-[/us/act/1956-03-24/ch94/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-03-24%2Fch94%2Fs3
+[/us/act/1956-03-24/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-03-24%2Fch94
 [/us/stat/70/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F56
 [/us/act/1937-07-22/ch517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-07-22%2Fch517
 [/us/stat/50/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F522

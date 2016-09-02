@@ -23,21 +23,21 @@
 
     (3) to authorize to be appropriated sums necessary to carry out the responsibilities of the United States under such agreement.
 
-([Pub. L. 104–43, title VII, § 702][/us/pl/104/43/s702], Nov. 3, 1995, [109 Stat. 392][/us/stat/109/392].)
+([Pub. L. 104–43, title VII][/us/pl/104/43/tVII], § 702, Nov. 3, 1995, [109 Stat. 392][/us/stat/109/392].)
 
  __Short Title of 2004 Amendment__ 
 
-[Pub. L. 108–219, title III, § 301][/us/pl/108/219/s301], Apr. 13, 2004, [118 Stat. 616][/us/stat/118/616], provided that: 
+[Pub. L. 108–219, title III][/us/pl/108/219/tIII], § 301, Apr. 13, 2004, [118 Stat. 616][/us/stat/118/616], provided that: 
 
 > “This title \[amending [section 5727 of this title][/us/usc/t16/s5727] and [section 1977 of Title 22][/us/usc/t22/s1977], Foreign Relations and Intercourse\] may be cited as the ‘International Fisheries Reauthorization Act of 2004’.”
 
  __Short Title__ 
 
-[Pub. L. 104–43, title VII, § 701][/us/pl/104/43/s701], Nov. 3, 1995, [109 Stat. 392][/us/stat/109/392], provided that: 
+[Pub. L. 104–43, title VII][/us/pl/104/43/tVII], § 701, Nov. 3, 1995, [109 Stat. 392][/us/stat/109/392], provided that: 
 
 > “This title \[enacting this subchapter\] may be cited as the ‘Yukon River Salmon Act of 1995’.”
 
-[Pub. L. 106–450, title II, § 201][/us/pl/106/450/s201], Nov. 7, 2000, [114 Stat. 1941][/us/stat/114/1941], provided that: 
+[Pub. L. 106–450, title II][/us/pl/106/450/tII], § 201, Nov. 7, 2000, [114 Stat. 1941][/us/stat/114/1941], provided that: 
 
 > “This title \[enacting subchapter II of this chapter\] may be cited as the ‘Yukon River Salmon Act of 2000’.”
 
@@ -48,15 +48,15 @@
 ----------
 ----------
 
-[/us/pl/104/43/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs702
+[/us/pl/104/43/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtVII
 [/us/stat/109/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F392
-[/us/pl/108/219/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F219%2Fs301
+[/us/pl/108/219/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F219%2FtIII
 [/us/stat/118/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F616
 [/us/usc/t16/s5727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5727
 [/us/usc/t22/s1977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1977
-[/us/pl/104/43/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2Fs701
+[/us/pl/104/43/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43%2FtVII
 [/us/stat/109/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F392
-[/us/pl/106/450/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F450%2Fs201
+[/us/pl/106/450/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F450%2FtII
 [/us/stat/114/1941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1941
 
 

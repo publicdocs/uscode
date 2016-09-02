@@ -29,7 +29,7 @@
 
         (3) include assurances satisfactory to the Secretary that adequate measures are being taken to protect the confidentiality of such information and to ensure the protection of the significant cave from destruction by vandalism and unauthorized use.
 
-([Pub. L. 100–691, § 5][/us/pl/100/691/s5], Nov. 18, 1988, [102 Stat. 4548][/us/stat/102/4548].)
+([Pub. L. 100–691][/us/pl/100/691], § 5, Nov. 18, 1988, [102 Stat. 4548][/us/stat/102/4548].)
 
 ----------
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/100/691/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F691%2Fs5
+[/us/pl/100/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F691
 [/us/stat/102/4548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4548
 
 

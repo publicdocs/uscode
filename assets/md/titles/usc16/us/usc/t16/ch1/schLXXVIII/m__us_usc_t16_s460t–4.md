@@ -17,7 +17,7 @@
 
     There is hereby authorized to be appropriated not more than $780,000 for the acquisition of land and interests in land pursuant to this subchapter.
 
-([Pub. L. 89–664, § 5][/us/pl/89/664/s5], Oct. 15, 1966, [80 Stat. 914][/us/stat/80/914]; [Pub. L. 92–272, title I, § 101(3)][/us/pl/92/272/s101/3], Apr. 11, 1972, [86 Stat. 120][/us/stat/86/120].)
+([Pub. L. 89–664][/us/pl/89/664], § 5, Oct. 15, 1966, [80 Stat. 914][/us/stat/80/914]; [Pub. L. 92–272, title I][/us/pl/92/272/tI], § 101(3), Apr. 11, 1972, [86 Stat. 120][/us/stat/86/120].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/89/664/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F664%2Fs5
+[/us/pl/89/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F664
 [/us/stat/80/914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F914
-[/us/pl/92/272/s101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F272%2Fs101%2F3
+[/us/pl/92/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F272%2FtI
 [/us/stat/86/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F120
 [/us/pl/92/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F272
 

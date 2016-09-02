@@ -17,7 +17,7 @@
 
     For development of the Wilson’s Creek National Battlefield, there are authorized to be appropriated not more than $5,640,000. There are authorized to be appropriated such sums as may be necessary to carry out [section 430kk(b) of this title][/us/usc/t16/s430kk/b].
 
-([Pub. L. 86–434, § 3][/us/pl/86/434/s3], Apr. 22, 1960, [74 Stat. 76][/us/stat/74/76]; [Pub. L. 91–554, § 1(b)][/us/pl/91/554/s1/b], Dec. 16, 1970, [84 Stat. 1441][/us/stat/84/1441]; [Pub. L. 95–625, title I, § 101(29)][/us/pl/95/625/s101/29], Nov. 10, 1978, [92 Stat. 3472][/us/stat/92/3472]; [Pub. L. 108–394, § 2(b)][/us/pl/108/394/s2/b], Oct. 30, 2004, [118 Stat. 2248][/us/stat/118/2248].)
+([Pub. L. 86–434][/us/pl/86/434], § 3, Apr. 22, 1960, [74 Stat. 76][/us/stat/74/76]; [Pub. L. 91–554][/us/pl/91/554], § 1(b), Dec. 16, 1970, [84 Stat. 1441][/us/stat/84/1441]; [Pub. L. 95–625, title I][/us/pl/95/625/tI], § 101(29), Nov. 10, 1978, [92 Stat. 3472][/us/stat/92/3472]; [Pub. L. 108–394][/us/pl/108/394], § 2(b), Oct. 30, 2004, [118 Stat. 2248][/us/stat/118/2248].)
 
  __Amendments__ 
 
@@ -35,13 +35,13 @@
 ----------
 
 [/us/usc/t16/s430kk/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs430kk%2Fb
-[/us/pl/86/434/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F434%2Fs3
+[/us/pl/86/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F434
 [/us/stat/74/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F76
-[/us/pl/91/554/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F554%2Fs1%2Fb
+[/us/pl/91/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F554
 [/us/stat/84/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1441
-[/us/pl/95/625/s101/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs101%2F29
+[/us/pl/95/625/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtI
 [/us/stat/92/3472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3472
-[/us/pl/108/394/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F394%2Fs2%2Fb
+[/us/pl/108/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F394
 [/us/stat/118/2248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2248
 [/us/pl/108/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F394
 [/us/pl/95/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625

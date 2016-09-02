@@ -17,7 +17,7 @@
 
     Lands acquired pursuant to the exchange authority contained herein shall be administered as a part of Olympic National Park in accordance with the laws and regulations applicable to the park.
 
-([Pub. L. 85–455, § 2][/us/pl/85/455/s2], June 11, 1958, [72 Stat. 185][/us/stat/72/185].)
+([Pub. L. 85–455][/us/pl/85/455], § 2, June 11, 1958, [72 Stat. 185][/us/stat/72/185].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/85/455/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F455%2Fs2
+[/us/pl/85/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F455
 [/us/stat/72/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F185
 [/us/pl/85/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F455
 [/us/stat/72/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F185

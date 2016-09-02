@@ -31,7 +31,7 @@
 
         No recommendations may be presented to the Secretary by the advisory council without the agreement of at least nine members of the advisory council.
 
-([Pub. L. 106–399, title I, § 132][/us/pl/106/399/s132], Oct. 30, 2000, [114 Stat. 1665][/us/stat/114/1665].)
+([Pub. L. 106–399, title I][/us/pl/106/399/tI], § 132, Oct. 30, 2000, [114 Stat. 1665][/us/stat/114/1665].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/106/399/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2Fs132
+[/us/pl/106/399/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2FtI
 [/us/stat/114/1665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1665
 
 

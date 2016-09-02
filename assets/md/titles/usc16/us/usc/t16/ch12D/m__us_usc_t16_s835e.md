@@ -17,7 +17,7 @@
 
     As lands or interests in lands are designated from time to time under sections 835d to 835h of this title, the Secretary of the Interior shall determine the amount of money to be paid to the Indians as just and equitable compensation therefor. As to the tribal lands, the amounts so determined shall be transferred in the Treasury of the United States from the funds now or hereafter made available for the construction of the Columbia Basin project to the credit of the appropriate tribe pursuant to the provisions of [section 155 of title 25][/us/usc/t25/s155]. The amounts due individual landowners or their heirs or devisees shall be paid from funds now or hereafter made available for the construction of said project to the superintendent of the Colville Indian Agency or such other officer as shall be designated by the Secretary of the Interior for credit on the books of said agency to the accounts of the individuals concerned.
 
-([June 29, 1940, ch. 460, § 2][/us/act/1940-06-29/ch460/s2], [54 Stat. 703][/us/stat/54/703]; [May 27, 1937, ch. 269, § 1][/us/act/1937-05-27/ch269/s1], [50 Stat. 208][/us/stat/50/208]; [Mar. 10, 1943, ch. 14][/us/act/1943-03-10/ch14], [57 Stat. 14][/us/stat/57/14].)
+([June 29, 1940, ch. 460][/us/act/1940-06-29/ch460], § 2, [54 Stat. 703][/us/stat/54/703]; [May 27, 1937, ch. 269][/us/act/1937-05-27/ch269], § 1, [50 Stat. 208][/us/stat/50/208]; [Mar. 10, 1943, ch. 14][/us/act/1943-03-10/ch14], [57 Stat. 14][/us/stat/57/14].)
 
  __Change of Name__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t25/s155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs155
-[/us/act/1940-06-29/ch460/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-29%2Fch460%2Fs2
+[/us/act/1940-06-29/ch460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-29%2Fch460
 [/us/stat/54/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F703
-[/us/act/1937-05-27/ch269/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-27%2Fch269%2Fs1
+[/us/act/1937-05-27/ch269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-27%2Fch269
 [/us/stat/50/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F208
 [/us/act/1943-03-10/ch14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-03-10%2Fch14
 [/us/stat/57/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F14

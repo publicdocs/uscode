@@ -617,7 +617,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs695" data-uslm-ref="/us/usc/t16/s695">695</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs695l" data-uslm-ref="/us/usc/t16/s695l">695l.</a>  </td>
 
     <td> Dedication of lands within boundaries of refuges to wildlife conservation; administration of lands for waterfowl management and optimum agricultural use; homestead entry prohibition; inclusion of other public lands; property of the United States.  </td>
 
@@ -641,7 +641,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs695" data-uslm-ref="/us/usc/t16/s695">695</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs695o" data-uslm-ref="/us/usc/t16/s695o">695o.</a>  </td>
 
     <td> Limitation on reduction of areas by diking or other construction.  </td>
 
@@ -801,7 +801,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs698" data-uslm-ref="/us/usc/t16/s698">698</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs698l" data-uslm-ref="/us/usc/t16/s698l">698l.</a>  </td>
 
     <td> Review of Big Cypress Preserve area and Addition area by Secretary; report to President.  </td>
 
@@ -857,7 +857,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs698" data-uslm-ref="/us/usc/t16/s698">698</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs698o" data-uslm-ref="/us/usc/t16/s698o">698o.</a>  </td>
 
     <td> Protection of significant historic assets.  </td>
 

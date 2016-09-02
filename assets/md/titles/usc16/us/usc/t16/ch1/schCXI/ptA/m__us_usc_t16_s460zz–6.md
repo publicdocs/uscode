@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated such sums as may be necessary to carry out this part.
 
-([Pub. L. 100–696, title VII, § 707][/us/pl/100/696/s707], Nov. 18, 1988, [102 Stat. 4607][/us/stat/102/4607].)
+([Pub. L. 100–696, title VII][/us/pl/100/696/tVII], § 707, Nov. 18, 1988, [102 Stat. 4607][/us/stat/102/4607].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/696/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2Fs707
+[/us/pl/100/696/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2FtVII
 [/us/stat/102/4607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4607
 
 

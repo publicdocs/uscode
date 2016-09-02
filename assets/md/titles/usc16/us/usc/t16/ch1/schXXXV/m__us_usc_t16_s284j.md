@@ -25,7 +25,7 @@
 
     (4) “Foundation” means the Wolf Trap Foundation for the Performing Arts organized pursuant to the District of Columbia Nonprofit Organization Act.
 
-([Pub. L. 89–671, § 11][/us/pl/89/671/s11], as added [Pub. L. 97–310][/us/pl/97/310], Oct. 14, 1982, [96 Stat. 1458][/us/stat/96/1458]; [Pub. L. 107–219, § 1(a)(1)][/us/pl/107/219/s1/a/1], Aug. 21, 2002, [116 Stat. 1330][/us/stat/116/1330].)
+([Pub. L. 89–671][/us/pl/89/671], § 11, as added [Pub. L. 97–310][/us/pl/97/310], Oct. 14, 1982, [96 Stat. 1458][/us/stat/96/1458]; [Pub. L. 107–219][/us/pl/107/219], § 1(a)(1), Aug. 21, 2002, [116 Stat. 1330][/us/stat/116/1330].)
 
  __References in Text__ 
 
@@ -42,10 +42,10 @@
 ----------
 ----------
 
-[/us/pl/89/671/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F671%2Fs11
+[/us/pl/89/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F671
 [/us/pl/97/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F310
 [/us/stat/96/1458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1458
-[/us/pl/107/219/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F219%2Fs1%2Fa%2F1
+[/us/pl/107/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F219
 [/us/stat/116/1330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1330
 [/us/pl/87/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F569
 [/us/stat/76/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F265

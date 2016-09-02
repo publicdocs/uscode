@@ -97,11 +97,11 @@
 
             There are hereby authorized to be appropriated annually $10,000,000 to implement this subsection.
 
-([Pub. L. 95–313, § 8][/us/pl/95/313/s8], formerly § 5, July 1, 1978, [92 Stat. 368][/us/stat/92/368]; renumbered § 8 and amended [Pub. L. 101–624, title XII][/us/pl/101/624], §§ 1215(1), 1218, Nov. 28, 1990, [104 Stat. 3525][/us/stat/104/3525], 3531.)
+([Pub. L. 95–313][/us/pl/95/313], § 8, formerly § 5, July 1, 1978, [92 Stat. 368][/us/stat/92/368]; renumbered § 8 and amended [Pub. L. 101–624, title XII][/us/pl/101/624/tXII], §§ 1215(1), 1218, Nov. 28, 1990, [104 Stat. 3525][/us/stat/104/3525], 3531.)
 
  __Codification__ 
 
-    In subsec. (f)(2), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (f)(2), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Prior Provisions__ 
 
@@ -113,17 +113,17 @@
 
  __Stewardship End Result Contracting Projects__ 
 
-[Pub. L. 107–63, title III, § 332][/us/pl/107/63/s332], Nov. 5, 2001, [115 Stat. 471][/us/stat/115/471], provided in part that: 
+[Pub. L. 107–63, title III][/us/pl/107/63/tIII], § 332, Nov. 5, 2001, [115 Stat. 471][/us/stat/115/471], provided in part that: 
 
 > “The authority to enter into stewardship and end result contracts provided to the Forest Service in accordance with \[former\] section 347 of title III of section 101(e) of division A of [Public Law 105–277][/us/pl/105/277] \[formerly set out as a note below\] is hereby expanded to authorize the Forest Service to enter into an additional 28 contracts subject to the same terms and conditions as provided in that section: Provided, That of the additional contracts authorized by this section at least 9 shall be allocated to Region 1 and at least 3 to Region 6.”
 
-    Similar provisions were contained in [Pub. L. 106–291, title III, § 338][/us/pl/106/291/s338], Oct. 11, 2000, [114 Stat. 998][/us/stat/114/998], as amended by [Pub. L. 107–20, title II, § 2604][/us/pl/107/20/s2604], July 24, 2001, [115 Stat. 178][/us/stat/115/178].
+    Similar provisions were contained in [Pub. L. 106–291, title III][/us/pl/106/291/tIII], § 338, Oct. 11, 2000, [114 Stat. 998][/us/stat/114/998], as amended by [Pub. L. 107–20, title II][/us/pl/107/20/tII], § 2604, July 24, 2001, [115 Stat. 178][/us/stat/115/178].
 
-    [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title III, § 347\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–298, as amended by [Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title III, § 341\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–201; [Pub. L. 107–63, title III, § 332][/us/pl/107/63/s332], Nov. 5, 2001, [115 Stat. 471][/us/stat/115/471]; [Pub. L. 108–7, div. F, title III, § 323][/us/pl/108/7/s323], Feb. 20, 2003, [117 Stat. 275][/us/stat/117/275]; [Pub. L. 113–76, div. G, title IV, § 434][/us/pl/113/76/s434], Jan. 17, 2014, [128 Stat. 346][/us/stat/128/346], which authorized the Forest Service and the Bureau of Land Management, until Sept. 30, 2014, to enter into stewardship contracting projects with private persons or other public or private entities to perform services to achieve certain land management goals, was repealed by [Pub. L. 113–79, title VIII, § 8205(b)][/us/pl/113/79/s8205/b], Feb. 7, 2014, [128 Stat. 921][/us/stat/128/921]. See [section 6591c of this title][/us/usc/t16/s6591c].
+    [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title III, § 347\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–298, as amended by [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(3) \[title III, § 341\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–201; [Pub. L. 107–63, title III][/us/pl/107/63/tIII], § 332, Nov. 5, 2001, [115 Stat. 471][/us/stat/115/471]; [Pub. L. 108–7, div. F, title III][/us/pl/108/7/dF/tIII], § 323, Feb. 20, 2003, [117 Stat. 275][/us/stat/117/275]; [Pub. L. 113–76, div. G, title IV][/us/pl/113/76/dG/tIV], § 434, Jan. 17, 2014, [128 Stat. 346][/us/stat/128/346], which authorized the Forest Service and the Bureau of Land Management, until Sept. 30, 2014, to enter into stewardship contracting projects with private persons or other public or private entities to perform services to achieve certain land management goals, was repealed by [Pub. L. 113–79, title VIII][/us/pl/113/79/tVIII], § 8205(b), Feb. 7, 2014, [128 Stat. 921][/us/stat/128/921]. See [section 6591c of this title][/us/usc/t16/s6591c].
 
  __Herger-Feinstein Quincy Library Group Forest Recovery__ 
 
-[Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title IV\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–305, as amended by [Pub. L. 107–171, title VI, § 6201(d)(5)][/us/pl/107/171/s6201/d/5], May 13, 2002, [116 Stat. 419][/us/stat/116/419]; [Pub. L. 110–161, div. F, title IV, § 434][/us/pl/110/161/s434], Dec. 26, 2007, [121 Stat. 2153][/us/stat/121/2153]; [Pub. L. 111–8, div. E, title IV, § 428][/us/pl/111/8/s428], Mar. 11, 2009, [123 Stat. 749][/us/stat/123/749], provided that:
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title IV\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–305, as amended by [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6201(d)(5), May 13, 2002, [116 Stat. 419][/us/stat/116/419]; [Pub. L. 110–161, div. F, title IV][/us/pl/110/161/dF/tIV], § 434, Dec. 26, 2007, [121 Stat. 2153][/us/stat/121/2153]; [Pub. L. 111–8, div. E, title IV][/us/pl/111/8/dE/tIV], § 428, Mar. 11, 2009, [123 Stat. 749][/us/stat/123/749], provided that:
 
 > “Sec. 401.  __Pilot Project for Plumas, Lassen, and Tahoe National Forests to Implement Quincy Library Group Proposal__  __.__ 
 
@@ -309,9 +309,9 @@
 
  [Section 401 of this title][/us/usc/t16/s401] may be cited as the ‘Herger-Feinstein Quincy Library Group Forest Recovery Act’.”
 
-\[[Pub. L. 108–7, div. F, title III, § 338][/us/pl/108/7/s338], Feb. 20, 2003, [117 Stat. 278][/us/stat/117/278], provided that: 
+\[[Pub. L. 108–7, div. F, title III][/us/pl/108/7/dF/tIII], § 338, Feb. 20, 2003, [117 Stat. 278][/us/stat/117/278], provided that: 
 
-> “Congress reaffirms its original intent that the Herger-Feinstein Quincy Library Group Forest Recovery Act of 1998 \[[Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title IV, § 401\], set out above\] be implemented, and hereby extends the expiration of the Quincy Library Group Act by 5 years.”
+> “Congress reaffirms its original intent that the Herger-Feinstein Quincy Library Group Forest Recovery Act of 1998 \[[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title IV, § 401\], set out above\] be implemented, and hereby extends the expiration of the Quincy Library Group Act by 5 years.”
 
 \]
 
@@ -323,52 +323,52 @@
 ----------
 
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/95/313/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313%2Fs8
+[/us/pl/95/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313
 [/us/stat/92/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F368
-[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXII
 [/us/stat/104/3525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3525
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/95/313/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313%2Fs8
 [/us/usc/t16/s2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2107
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
-[/us/pl/107/63/s332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63%2Fs332
+[/us/pl/107/63/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63%2FtIII
 [/us/stat/115/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F471
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/106/291/s338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2Fs338
+[/us/pl/106/291/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291%2FtIII
 [/us/stat/114/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F998
-[/us/pl/107/20/s2604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20%2Fs2604
+[/us/pl/107/20/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20%2FtII
 [/us/stat/115/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F178
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
-[/us/pl/106/113/s1000/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F3
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/107/63/s332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63%2Fs332
+[/us/pl/107/63/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63%2FtIII
 [/us/stat/115/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F471
-[/us/pl/108/7/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs323
+[/us/pl/108/7/dF/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtIII
 [/us/stat/117/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F275
-[/us/pl/113/76/s434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs434
+[/us/pl/113/76/dG/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdG%2FtIV
 [/us/stat/128/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F346
-[/us/pl/113/79/s8205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8205%2Fb
+[/us/pl/113/79/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVIII
 [/us/stat/128/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F921
 [/us/usc/t16/s6591c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6591c
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
-[/us/pl/107/171/s6201/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6201%2Fd%2F5
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F419
-[/us/pl/110/161/s434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs434
+[/us/pl/110/161/dF/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdF%2FtIV
 [/us/stat/121/2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2153
-[/us/pl/111/8/s428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs428
+[/us/pl/111/8/dE/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdE%2FtIV
 [/us/stat/123/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F749
 [/us/pl/108/148/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148%2Fs106
 [/us/usc/t16/s6516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6516
 [/us/pl/108/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F148
 [/us/usc/t16/s6514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6514
 [/us/usc/t16/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs401
-[/us/pl/108/7/s338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs338
+[/us/pl/108/7/dF/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdF%2FtIII
 [/us/stat/117/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F278
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 
 

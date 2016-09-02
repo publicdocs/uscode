@@ -27,7 +27,7 @@
 
         Moneys deposited under this section shall be covered into the Treasury and shall constitute a special fund, which is made available until expended for payment of the cost of work performed by the Forest Service and for refunds to depositors of amounts deposited by them in excess of their share of said cost: Provided, That when deposits are received for a number of similar types of work on adjacent or overlapping areas, or on areas which in the aggregate are determined to cover a single work unit, they may be expended on such combined areas for the purposes for which deposited, in which event refunds to the depositors of the total amount of the excess deposits involved will be made on a proportionate basis: Provided further, That when so provided by written agreement payment for work undertaken pursuant to this section may be made from any Forest Service appropriation available for similar types of work, and reimbursement received from said agencies, organizations, institutions, or persons covering their proportionate share of the cost and the funds received as reimbursement shall be deposited to the credit of the Forest Service appropriation from which initially paid or to appropriations for similar purposes currently available at the time of deposit: Provided further, That when by the terms of a written agreement either party thereto furnishes materials, supplies, equipment, or services for fire emergencies in excess of its proportionate share, adjustment may be made by reimbursement or by replacement in kind of supplies, materials, and equipment consumed or destroyed in excess of the furnishing party’s proportionate share.
 
-([Mar. 3, 1925, ch. 457, § 1][/us/act/1925-03-03/ch457/s1], [43 Stat. 1132][/us/stat/43/1132]; [Apr. 24, 1950, ch. 97, § 5][/us/act/1950-04-24/ch97/s5], [64 Stat. 83][/us/stat/64/83].)
+([Mar. 3, 1925, ch. 457][/us/act/1925-03-03/ch457], § 1, [43 Stat. 1132][/us/stat/43/1132]; [Apr. 24, 1950, ch. 97][/us/act/1950-04-24/ch97], § 5, [64 Stat. 83][/us/stat/64/83].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/act/1925-03-03/ch457/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch457%2Fs1
+[/us/act/1925-03-03/ch457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch457
 [/us/stat/43/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1132
-[/us/act/1950-04-24/ch97/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-24%2Fch97%2Fs5
+[/us/act/1950-04-24/ch97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-24%2Fch97
 [/us/stat/64/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F83
 [/us/act/1927-01-18/ch39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-01-18%2Fch39
 [/us/stat/44/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F991

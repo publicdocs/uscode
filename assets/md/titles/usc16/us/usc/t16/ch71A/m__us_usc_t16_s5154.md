@@ -55,7 +55,7 @@
 
         The Secretaries may issue regulations to implement this section.
 
-([Pub. L. 98–613, § 5][/us/pl/98/613/s5], Oct. 31, 1984, [98 Stat. 3189][/us/stat/98/3189]; [Pub. L. 99–432, § 3][/us/pl/99/432/s3], Oct. 1, 1986, [100 Stat. 990][/us/stat/100/990]; [Pub. L. 100–589, § 6(g)(2)][/us/pl/100/589/s6/g/2], Nov. 3, 1988, [102 Stat. 2988][/us/stat/102/2988]; [Pub. L. 102–130, § 2(a)][/us/pl/102/130/s2/a], Oct. 17, 1991, [105 Stat. 626][/us/stat/105/626]; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41; [Pub. L. 105–146, § 2][/us/pl/105/146/s2], Dec. 16, 1997, [111 Stat. 2674][/us/stat/111/2674].)
+([Pub. L. 98–613][/us/pl/98/613], § 5, Oct. 31, 1984, [98 Stat. 3189][/us/stat/98/3189]; [Pub. L. 99–432][/us/pl/99/432], § 3, Oct. 1, 1986, [100 Stat. 990][/us/stat/100/990]; [Pub. L. 100–589][/us/pl/100/589], § 6(g)(2), Nov. 3, 1988, [102 Stat. 2988][/us/stat/102/2988]; [Pub. L. 102–130][/us/pl/102/130], § 2(a), Oct. 17, 1991, [105 Stat. 626][/us/stat/105/626]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41; [Pub. L. 105–146][/us/pl/105/146], § 2, Dec. 16, 1997, [111 Stat. 2674][/us/stat/111/2674].)
 
  __Amendments__ 
 
@@ -67,13 +67,13 @@
 
     1988—Subsecs. (c)(2), (d)(2). [Pub. L. 100–589][/us/pl/100/589] substituted “Magnuson Act” for “Act of 1976”.
 
-    1986—[Pub. L. 99–432, § 3(b)][/us/pl/99/432/s3/b], which directed the substitution of “Secretaries” for “Secretary”, was executed by making the substitution in subsec. (a)(2), in three places in subsec. (c), and in two places in subsec. (e) to reflect the probable intent of Congress.
+    1986—[Pub. L. 99–432][/us/pl/99/432], § 3(b), which directed the substitution of “Secretaries” for “Secretary”, was executed by making the substitution in subsec. (a)(2), in three places in subsec. (c), and in two places in subsec. (e) to reflect the probable intent of Congress.
 
-    [Pub. L. 99–432, § 3(a)][/us/pl/99/432/s3/a], which directed the substitution of “section 5153(b)” for “section 5153(d)”, was executed by making the substitution in subsecs. (a)(1), (2), (b)(3), and (e) to reflect the probable intent of Congress.
+    [Pub. L. 99–432][/us/pl/99/432], § 3(a), which directed the substitution of “section 5153(b)” for “section 5153(d)”, was executed by making the substitution in subsecs. (a)(1), (2), (b)(3), and (e) to reflect the probable intent of Congress.
 
  __Effective Date of 1996 Amendment__ 
 
-    [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
  __Transfer of Functions__ 
 
@@ -91,25 +91,25 @@
 [/us/usc/t16/s1860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1860
 [/us/usc/t16/s1861/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1861%2Fb
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
-[/us/pl/98/613/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F613%2Fs5
+[/us/pl/98/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F613
 [/us/stat/98/3189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3189
-[/us/pl/99/432/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F432%2Fs3
+[/us/pl/99/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F432
 [/us/stat/100/990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F990
-[/us/pl/100/589/s6/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F589%2Fs6%2Fg%2F2
+[/us/pl/100/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F589
 [/us/stat/102/2988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2988
-[/us/pl/102/130/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F130%2Fs2%2Fa
+[/us/pl/102/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F130
 [/us/stat/105/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F626
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
-[/us/pl/105/146/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F146%2Fs2
+[/us/pl/105/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F146
 [/us/stat/111/2674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2674
 [/us/pl/105/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F146
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/102/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F130
 [/us/pl/100/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F589
-[/us/pl/99/432/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F432%2Fs3%2Fb
-[/us/pl/99/432/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F432%2Fs3%2Fa
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/99/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F432
+[/us/pl/99/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F432
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

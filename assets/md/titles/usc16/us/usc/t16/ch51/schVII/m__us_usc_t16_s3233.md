@@ -35,7 +35,7 @@
 
         Except as otherwise provided in this section the provisions of [section 719f(d) of title 15][/us/usc/t15/s719f/d] shall apply to the consideration of the resolution.
 
-([Pub. L. 96–487, title XV, § 1503][/us/pl/96/487/s1503], Dec. 2, 1980, [94 Stat. 2550][/us/stat/94/2550].)
+([Pub. L. 96–487, title XV][/us/pl/96/487/tXV], § 1503, Dec. 2, 1980, [94 Stat. 2550][/us/stat/94/2550].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t15/s719f/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719f%2Fd
-[/us/pl/96/487/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs1503
+[/us/pl/96/487/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtXV
 [/us/stat/94/2550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2550
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

@@ -17,11 +17,11 @@
 
     It is a violation of this section intentionally to engage in any physical conduct that significantly hinders a lawful hunt.
 
-([Pub. L. 103–322, title XXXII, § 320802][/us/pl/103/322/s320802], Sept. 13, 1994, [108 Stat. 2121][/us/stat/108/2121].)
+([Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320802, Sept. 13, 1994, [108 Stat. 2121][/us/stat/108/2121].)
 
  __Short Title__ 
 
-[Pub. L. 103–322, title XXXII, § 320801][/us/pl/103/322/s320801], Sept. 13, 1994, [108 Stat. 2121][/us/stat/108/2121], provided that: 
+[Pub. L. 103–322, title XXXII][/us/pl/103/322/tXXXII], § 320801, Sept. 13, 1994, [108 Stat. 2121][/us/stat/108/2121], provided that: 
 
 > “This subtitle \[subtitle H (§§ 320801–320808) of title XXXII of [Pub. L. 103–322][/us/pl/103/322], enacting this chapter\] may be cited as the ‘Recreational Hunting Safety and Preservation Act of 1994’.”
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/103/322/s320802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320802
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2121
-[/us/pl/103/322/s320801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs320801
+[/us/pl/103/322/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtXXXII
 [/us/stat/108/2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2121
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 

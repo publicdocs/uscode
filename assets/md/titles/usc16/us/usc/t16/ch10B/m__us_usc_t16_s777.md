@@ -35,7 +35,7 @@
 
             As used in this subsection, the term “coastal State” means any one of the States of Alabama, Alaska, California, Connecticut, Delaware, Florida, Georgia, Hawaii, Louisiana, Maine, Maryland, Massachusetts, Mississippi, New Hampshire, New Jersey, New York, North Carolina, Oregon, Rhode Island, South Carolina, Texas, Virginia, and Washington. The term also includes the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-([Aug. 9, 1950, ch. 658, § 1][/us/act/1950-08-09/ch658/s1], [64 Stat. 430][/us/stat/64/430]; [Pub. L. 98–369, div. A, title X, § 1014(a)(1)][/us/pl/98/369/s1014/a/1], July 18, 1984, [98 Stat. 1015][/us/stat/98/1015]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–448, § 6(c)(1)][/us/pl/100/448/s6/c/1], Sept. 28, 1988, [102 Stat. 1840][/us/stat/102/1840].)
+([Aug. 9, 1950, ch. 658][/us/act/1950-08-09/ch658], § 1, [64 Stat. 430][/us/stat/64/430]; [Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1014(a)(1), July 18, 1984, [98 Stat. 1015][/us/stat/98/1015]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–448][/us/pl/100/448], § 6(c)(1), Sept. 28, 1988, [102 Stat. 1840][/us/stat/102/1840].)
 
  __Amendments__ 
 
@@ -53,51 +53,51 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–448, § 6(e)][/us/pl/100/448/s6/e], Sept. 28, 1988, [102 Stat. 1841][/us/stat/102/1841], provided that: 
+[Pub. L. 100–448][/us/pl/100/448], § 6(e), Sept. 28, 1988, [102 Stat. 1841][/us/stat/102/1841], provided that: 
 
 > “This section \[enacting section 777l of this title, amending this section, sections 9503 and 9504 of Title 26, Internal Revenue Code, and sections 13102 and 13106 of Title 46, Shipping, enacting provisions set out as a note under [section 13101 of Title 46][/us/usc/t46/s13101], and repealing provisions set out as a note under [section 13103 of Title 46][/us/usc/t46/s13103]\] shall take effect October 1, 1988.”
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title X, § 1014(b)][/us/pl/98/369/s1014/b], July 18, 1984, [98 Stat. 1016][/us/stat/98/1016], provided that: 
+[Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1014(b), July 18, 1984, [98 Stat. 1016][/us/stat/98/1016], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section and sections 777b, 777c to 777e, 777g, and 777k of this title\] shall take effect on October 1, 1984, and shall apply with respect to fiscal years beginning after September 30, 1984.”
 
  __Effective Date__ 
 
-    [Act Aug. 9, 1950, ch. 658, § 13][/us/act/1950-08-09/ch658/s13], [64 Stat. 434][/us/stat/64/434], which provided that the effective date of this chapter was July 1, 1950, was repealed by [Pub. L. 106–408, title I, § 122(a)(1)][/us/pl/106/408/s122/a/1], Nov. 1, 2000, [114 Stat. 1772][/us/stat/114/1772].
+    [Act Aug. 9, 1950, ch. 658][/us/act/1950-08-09/ch658], § 13, [64 Stat. 434][/us/stat/64/434], which provided that the effective date of this chapter was July 1, 1950, was repealed by [Pub. L. 106–408, title I][/us/pl/106/408/tI], § 122(a)(1), Nov. 1, 2000, [114 Stat. 1772][/us/stat/114/1772].
 
  __Short Title of 2012 Amendment__ 
 
-[Pub. L. 112–141, div. C, title IV, § 34001][/us/pl/112/141/s34001], July 6, 2012, [126 Stat. 841][/us/stat/126/841], provided that: 
+[Pub. L. 112–141, div. C, title IV][/us/pl/112/141/dC/tIV], § 34001, July 6, 2012, [126 Stat. 841][/us/stat/126/841], provided that: 
 
 > “This title \[amending [section 777c of this title][/us/usc/t16/s777c]\] may be cited as the ‘Sport Fish Restoration and Recreational Boating Safety Act of 2012’.”
 
  __Short Title of 2005 Amendments__ 
 
-[Pub. L. 109–74, § 1][/us/pl/109/74/s1], Sept. 29, 2005, [119 Stat. 2030][/us/stat/119/2030], provided that: 
+[Pub. L. 109–74][/us/pl/109/74], § 1, Sept. 29, 2005, [119 Stat. 2030][/us/stat/119/2030], provided that: 
 
 > “This Act \[amending sections 777c and 777n of this title, [section 9504 of Title 26][/us/usc/t26/s9504], Internal Revenue Code, and [section 13106 of Title 46][/us/usc/t46/s13106], Shipping, enacting provisions set out as notes under [section 777b of this title][/us/usc/t16/s777b] and [section 9504 of Title 26][/us/usc/t26/s9504], and repealing provisions set out as a note under [section 777b of this title][/us/usc/t16/s777b]\] may be cited as the ‘Sportfishing and Recreational Boating Safety Amendments Act of 2005’.”
 
-[Pub. L. 109–59, title X, § 10101][/us/pl/109/59/s10101], Aug. 10, 2005, [119 Stat. 1926][/us/stat/119/1926], provided that: 
+[Pub. L. 109–59, title X][/us/pl/109/59/tX], § 10101, Aug. 10, 2005, [119 Stat. 1926][/us/stat/119/1926], provided that: 
 
 > “This subtitle \[subtitle A (§§ 10101–10143) of title X of [Pub. L. 109–59][/us/pl/109/59], enacting [section 777n of this title][/us/usc/t16/s777n], amending sections 777b, 777c, 777g, 777g–1, 777h, 777k, and 777m of this title and sections 13102, 13104, and 13106 of Title 46, Shipping, enacting provisions set out as a note under [section 777b of this title][/us/usc/t16/s777b], and amending provisions set out as a note under this section and [section 1322 of Title 33][/us/usc/t33/s1322], Navigation and Navigable Waters\] may be cited as the ‘Sportfishing and Recreational Boating Safety Act of 2005’.”
 
  __Short Title of 1998 Amendment__ 
 
-[Pub. L. 105–178, title VII, § 7401(a)][/us/pl/105/178/s7401/a], June 9, 1998, [112 Stat. 482][/us/stat/112/482], provided that: 
+[Pub. L. 105–178, title VII][/us/pl/105/178/tVII], § 7401(a), June 9, 1998, [112 Stat. 482][/us/stat/112/482], provided that: 
 
 > “This subtitle \[subtitle D (§§ 7401–7405) of title VII of [Pub. L. 105–178][/us/pl/105/178], enacting [section 777g–1 of this title][/us/usc/t16/s777g–1] and amending sections 777a, 777c, and 777g of this title and sections 13104 and 13106 of Title 46, Shipping\] may be cited as the ‘Sportfishing and Boating Safety Act of 1998’.”
 
  __Short Title of 1970 Amendment__ 
 
-[Pub. L. 91–503, title II, § 204][/us/pl/91/503/s204], Oct. 23, 1970, [84 Stat. 1104][/us/stat/84/1104], provided that: 
+[Pub. L. 91–503, title II][/us/pl/91/503/tII], § 204, Oct. 23, 1970, [84 Stat. 1104][/us/stat/84/1104], provided that: 
 
 > “This title \[amending sections 777c, 777e to 777g, and 777k of this title\] may be cited as the ‘Federal Aid in Fish Restoration Act Amendments of 1970’.”
 
  __Short Title__ 
 
-[Act Aug. 9, 1950, ch. 658, § 15][/us/act/1950-08-09/ch658/s15], formerly § 16, formerly § 15, as added by [Pub. L. 106–408, title I, § 101(c)][/us/pl/106/408/s101/c], Nov. 1, 2000, [114 Stat. 1763][/us/stat/114/1763]; renumbered § 16, [Pub. L. 109–59, title X, § 10119][/us/pl/109/59/s10119], Aug. 10, 2005, [119 Stat. 1929][/us/stat/119/1929]; renumbered § 15, [Pub. L. 114–94, div. A, title X, § 10001(g)(2)][/us/pl/114/94/s10001/g/2], Dec. 4, 2015, [129 Stat. 1621][/us/stat/129/1621], provided that: 
+[Act Aug. 9, 1950, ch. 658][/us/act/1950-08-09/ch658], § 15, formerly § 16, formerly § 15, as added by [Pub. L. 106–408, title I][/us/pl/106/408/tI], § 101(c), Nov. 1, 2000, [114 Stat. 1763][/us/stat/114/1763]; renumbered § 16, [Pub. L. 109–59, title X][/us/pl/109/59/tX], § 10119, Aug. 10, 2005, [119 Stat. 1929][/us/stat/119/1929]; renumbered § 15, [Pub. L. 114–94, div. A, title X][/us/pl/114/94/dA/tX], § 10001(g)(2), Dec. 4, 2015, [129 Stat. 1621][/us/stat/129/1621], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Dingell-Johnson Sport Fish Restoration Act’.”
 
@@ -109,7 +109,7 @@
 
  __Fisheries Restoration and Irrigation Mitigation__ 
 
-[Pub. L. 106–502][/us/pl/106/502], Nov. 13, 2000, [114 Stat. 2294][/us/stat/114/2294], as amended by [Pub. L. 111–11, title XIII, § 13002][/us/pl/111/11/s13002], Mar. 30, 2009, [123 Stat. 1447][/us/stat/123/1447], provided that:
+[Pub. L. 106–502][/us/pl/106/502], Nov. 13, 2000, [114 Stat. 2294][/us/stat/114/2294], as amended by [Pub. L. 111–11, title XIII][/us/pl/111/11/tXIII], § 13002, Mar. 30, 2009, [123 Stat. 1447][/us/stat/123/1447], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -334,62 +334,62 @@
 ----------
 ----------
 
-[/us/act/1950-08-09/ch658/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch658%2Fs1
+[/us/act/1950-08-09/ch658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch658
 [/us/stat/64/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F430
-[/us/pl/98/369/s1014/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1014%2Fa%2F1
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1015
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/100/448/s6/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448%2Fs6%2Fc%2F1
+[/us/pl/100/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448
 [/us/stat/102/1840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1840
 [/us/pl/100/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448
 [/us/usc/t26/s4161/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4161%2Fa
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/100/448/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448%2Fs6%2Fe
+[/us/pl/100/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F448
 [/us/stat/102/1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1841
 [/us/usc/t46/s13101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs13101
 [/us/usc/t46/s13103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs13103
-[/us/pl/98/369/s1014/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1014%2Fb
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1016
-[/us/act/1950-08-09/ch658/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch658%2Fs13
+[/us/act/1950-08-09/ch658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch658
 [/us/stat/64/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F434
-[/us/pl/106/408/s122/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2Fs122%2Fa%2F1
+[/us/pl/106/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2FtI
 [/us/stat/114/1772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1772
-[/us/pl/112/141/s34001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs34001
+[/us/pl/112/141/dC/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtIV
 [/us/stat/126/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F841
 [/us/usc/t16/s777c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777c
-[/us/pl/109/74/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F74%2Fs1
+[/us/pl/109/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F74
 [/us/stat/119/2030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2030
 [/us/usc/t26/s9504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9504
 [/us/usc/t46/s13106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs13106
 [/us/usc/t16/s777b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777b
 [/us/usc/t26/s9504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9504
 [/us/usc/t16/s777b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777b
-[/us/pl/109/59/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10101
+[/us/pl/109/59/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtX
 [/us/stat/119/1926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1926
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t16/s777n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777n
 [/us/usc/t16/s777b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777b
 [/us/usc/t33/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1322
-[/us/pl/105/178/s7401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7401%2Fa
+[/us/pl/105/178/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtVII
 [/us/stat/112/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F482
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/usc/t16/s777g–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs777g%E2%80%931
-[/us/pl/91/503/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F503%2Fs204
+[/us/pl/91/503/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F503%2FtII
 [/us/stat/84/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1104
-[/us/act/1950-08-09/ch658/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch658%2Fs15
-[/us/pl/106/408/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2Fs101%2Fc
+[/us/act/1950-08-09/ch658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch658
+[/us/pl/106/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2FtI
 [/us/stat/114/1763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1763
-[/us/pl/109/59/s10119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10119
+[/us/pl/109/59/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtX
 [/us/stat/119/1929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1929
-[/us/pl/114/94/s10001/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs10001%2Fg%2F2
+[/us/pl/114/94/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdA%2FtX
 [/us/stat/129/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1621
 [/us/act/1950-08-09/ch658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-09%2Fch658
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
 [/us/pl/106/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F502
 [/us/stat/114/2294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2294
-[/us/pl/111/11/s13002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs13002
+[/us/pl/111/11/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXIII
 [/us/stat/123/1447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1447
 
 

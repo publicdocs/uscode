@@ -69,7 +69,7 @@
 
         The district courts of the United States shall have exclusive jurisdiction over any case or controversy arising under the provisions of this chapter.
 
-([Pub. L. 100–330, § 10][/us/pl/100/330/s10], June 7, 1988, [102 Stat. 597][/us/stat/102/597].)
+([Pub. L. 100–330][/us/pl/100/330], § 10, June 7, 1988, [102 Stat. 597][/us/stat/102/597].)
 
 ----------
 
@@ -80,7 +80,7 @@
 
 [/us/usc/t16/s973e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs973e
 [/us/usc/t14/s89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs89
-[/us/pl/100/330/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F330%2Fs10
+[/us/pl/100/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F330
 [/us/stat/102/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F597
 
 

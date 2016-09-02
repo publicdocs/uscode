@@ -89,7 +89,7 @@
 
         The Secretary may make revisions to the boundary of the Conservation Area following acquisition of land necessary to accomplish the purposes for which the Conservation Area was designated.
 
-([Pub. L. 106–76, § 7][/us/pl/106/76/s7], Oct. 21, 1999, [113 Stat. 1129][/us/stat/113/1129]; [Pub. L. 108–128, § 3][/us/pl/108/128/s3], Nov. 17, 2003, [117 Stat. 1356][/us/stat/117/1356].)
+([Pub. L. 106–76][/us/pl/106/76], § 7, Oct. 21, 1999, [113 Stat. 1129][/us/stat/113/1129]; [Pub. L. 108–128][/us/pl/108/128], § 3, Nov. 17, 2003, [117 Stat. 1356][/us/stat/117/1356].)
 
  __References in Text__ 
 
@@ -111,9 +111,9 @@
 ----------
 
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
-[/us/pl/106/76/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F76%2Fs7
+[/us/pl/106/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F76
 [/us/stat/113/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1129
-[/us/pl/108/128/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F128%2Fs3
+[/us/pl/108/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F128
 [/us/stat/117/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1356
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
 [/us/stat/90/2743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2743

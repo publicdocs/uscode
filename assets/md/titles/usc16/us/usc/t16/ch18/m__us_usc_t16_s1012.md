@@ -133,7 +133,7 @@
 
             Not later than 90 days after the completion of a specific rehabilitation project for which assistance is provided under this section, the local organization that received the assistance shall make a report to the Secretary giving the status of any rehabilitation effort undertaken using financial assistance provided under this section.
 
-([Aug. 4, 1954, ch. 656, § 14][/us/act/1954-08-04/ch656/s14], as added [Pub. L. 106–472, title III, § 313][/us/pl/106/472/s313], Nov. 9, 2000, [114 Stat. 2077][/us/stat/114/2077]; amended [Pub. L. 107–171, title II, § 2505][/us/pl/107/171/s2505], May 13, 2002, [116 Stat. 274][/us/stat/116/274]; [Pub. L. 110–234, title II, § 2803][/us/pl/110/234/s2803], May 22, 2008, [122 Stat. 1086][/us/stat/122/1086]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2803, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1814; [Pub. L. 113–79, title II, § 2505][/us/pl/113/79/s2505], Feb. 7, 2014, [128 Stat. 752][/us/stat/128/752].)
+([Aug. 4, 1954, ch. 656][/us/act/1954-08-04/ch656], § 14, as added [Pub. L. 106–472, title III][/us/pl/106/472/tIII], § 313, Nov. 9, 2000, [114 Stat. 2077][/us/stat/114/2077]; amended [Pub. L. 107–171, title II][/us/pl/107/171/tII], § 2505, May 13, 2002, [116 Stat. 274][/us/stat/116/274]; [Pub. L. 110–234, title II][/us/pl/110/234/tII], § 2803, May 22, 2008, [122 Stat. 1086][/us/stat/122/1086]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title II, § 2803, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1814; [Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2505, Feb. 7, 2014, [128 Stat. 752][/us/stat/128/752].)
 
  __References in Text__ 
 
@@ -149,13 +149,13 @@
 
  __Amendments__ 
 
-    2014—Subsec. (h)(1)(H). [Pub. L. 113–79, § 2505(a)][/us/pl/113/79/s2505/a], added subpar. (H).
+    2014—Subsec. (h)(1)(H). [Pub. L. 113–79][/us/pl/113/79], § 2505(a), added subpar. (H).
 
-    Subsec. (h)(2)(E). [Pub. L. 113–79, § 2505(b)][/us/pl/113/79/s2505/b], substituted “2018” for “2012”.
+    Subsec. (h)(2)(E). [Pub. L. 113–79][/us/pl/113/79], § 2505(b), substituted “2018” for “2012”.
 
-    2008—Subsec. (h)(1)(G). [Pub. L. 110–246, § 2803(a)][/us/pl/110/246/s2803/a], added subpar. (G).
+    2008—Subsec. (h)(1)(G). [Pub. L. 110–246][/us/pl/110/246], § 2803(a), added subpar. (G).
 
-    Subsec. (h)(2)(E). [Pub. L. 110–246, § 2803(b)][/us/pl/110/246/s2803/b], substituted “each of fiscal years 2008 through 2012” for “fiscal year 2007”.
+    Subsec. (h)(2)(E). [Pub. L. 110–246][/us/pl/110/246], § 2803(b), substituted “each of fiscal years 2008 through 2012” for “fiscal year 2007”.
 
     2002—Subsec. (h). [Pub. L. 107–171][/us/pl/107/171] added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows: “There is authorized to be appropriated to the Secretary to provide financial and technical assistance under this section—
 
@@ -185,16 +185,16 @@
 [/us/stat/58/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F905
 [/us/stat/67/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F214
 [/us/usc/t16/s3451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3451
-[/us/act/1954-08-04/ch656/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-04%2Fch656%2Fs14
-[/us/pl/106/472/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2Fs313
+[/us/act/1954-08-04/ch656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-04%2Fch656
+[/us/pl/106/472/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F472%2FtIII
 [/us/stat/114/2077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2077
-[/us/pl/107/171/s2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2505
+[/us/pl/107/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtII
 [/us/stat/116/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F274
-[/us/pl/110/234/s2803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2803
+[/us/pl/110/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtII
 [/us/stat/122/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1086
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2505
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F752
 [/us/act/1944-12-22/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-12-22%2Fs13
 [/us/act/1944-12-22/ch665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-12-22%2Fch665
@@ -207,10 +207,10 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s2505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2505%2Fa
-[/us/pl/113/79/s2505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2505%2Fb
-[/us/pl/110/246/s2803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2803%2Fa
-[/us/pl/110/246/s2803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2803%2Fb
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

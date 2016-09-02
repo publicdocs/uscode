@@ -29,7 +29,7 @@
 
         (4) a statement setting forth the actions which have been and should be taken to assure appropriate protection, interpretation, and management of the areas known as Big Oak Island and Couba Island.
 
-([Pub. L. 95–625, title IX, § 908][/us/pl/95/625/s908], Nov. 10, 1978, [92 Stat. 3537][/us/stat/92/3537].)
+([Pub. L. 95–625, title IX][/us/pl/95/625/tIX], § 908, Nov. 10, 1978, [92 Stat. 3537][/us/stat/92/3537].)
 
  __Change of Name__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/95/625/s908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs908
+[/us/pl/95/625/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtIX
 [/us/stat/92/3537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3537
 [/us/pl/95/625/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs2
 [/us/usc/t16/s45f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs45f

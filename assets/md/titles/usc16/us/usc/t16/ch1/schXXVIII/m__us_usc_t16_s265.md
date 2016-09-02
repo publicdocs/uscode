@@ -31,7 +31,7 @@
 
     Thence leaving Little Yellow Creek and along the center of Davis Branch, 400 feet, more or less, to the south margin of Avondale Avenue; thence with the south right-of-way of Avondale Avenue south 55 degrees 44 minutes east, 5 feet, more or less, to the point of beginning, said tract containing 9.0 acres, more or less.
 
-([Pub. L. 87–111, § 1][/us/pl/87/111/s1], July 26, 1961, [75 Stat. 224][/us/stat/75/224].)
+([Pub. L. 87–111][/us/pl/87/111], § 1, July 26, 1961, [75 Stat. 224][/us/stat/75/224].)
 
  __Codification__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/87/111/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F111%2Fs1
+[/us/pl/87/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F111
 [/us/stat/75/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F224
 [/us/act/1940-06-11/ch304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-11%2Fch304
 [/us/stat/54/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F262

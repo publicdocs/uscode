@@ -33,7 +33,7 @@
 
     (h) Persons residing in or on any of the said lands embraced in said Shenandoah National Park shall have the right to establish a voting residence in Virginia by reason thereof, and the consequent right to vote at all elections within the county or city in which said land or lands upon which they reside are located upon like terms and conditions, and to the same extent, as they would be entitled to vote in such county or city if the said lands on which they reside had not been deeded or conveyed to the United States of America. All fugitives from justice taking refuge in the park shall be subject to the same laws as refugees from justice found in the Commonwealth of Virginia.
 
-([Aug. 19, 1937, ch. 703, § 1][/us/act/1937-08-19/ch703/s1], [50 Stat. 700][/us/stat/50/700]; [June 5, 1942, ch. 343][/us/act/1942-06-05/ch343], [56 Stat. 321][/us/stat/56/321].)
+([Aug. 19, 1937, ch. 703][/us/act/1937-08-19/ch703], § 1, [50 Stat. 700][/us/stat/50/700]; [June 5, 1942, ch. 343][/us/act/1942-06-05/ch343], [56 Stat. 321][/us/stat/56/321].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/act/1937-08-19/ch703/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-19%2Fch703%2Fs1
+[/us/act/1937-08-19/ch703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-19%2Fch703
 [/us/stat/50/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F700
 [/us/act/1942-06-05/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-06-05%2Fch343
 [/us/stat/56/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F321

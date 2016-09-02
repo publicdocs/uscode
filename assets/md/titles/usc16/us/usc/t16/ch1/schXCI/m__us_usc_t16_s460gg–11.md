@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall diminish, enlarge, or modify any right of the States of Idaho, Oregon, or any political subdivisions thereof, to exercise civil and criminal jurisdiction within the recreation area or of rights to tax persons, corporations, franchises, or property, including mineral or other interests, in or on lands or waters within the recreation area.
 
-([Pub. L. 94–199, § 14][/us/pl/94/199/s14], Dec. 31, 1975, [89 Stat. 1122][/us/stat/89/1122].)
+([Pub. L. 94–199][/us/pl/94/199], § 14, Dec. 31, 1975, [89 Stat. 1122][/us/stat/89/1122].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/199/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F199%2Fs14
+[/us/pl/94/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F199
 [/us/stat/89/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1122
 
 

@@ -17,7 +17,7 @@
 
     The Secretary shall establish a program to increase public awareness about the significance of paleontological resources.
 
-([Pub. L. 111–11, title VI, § 6303][/us/pl/111/11/s6303], Mar. 30, 2009, [123 Stat. 1173][/us/stat/123/1173].)
+([Pub. L. 111–11, title VI][/us/pl/111/11/tVI], § 6303, Mar. 30, 2009, [123 Stat. 1173][/us/stat/123/1173].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/11/s6303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs6303
+[/us/pl/111/11/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtVI
 [/us/stat/123/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1173
 
 

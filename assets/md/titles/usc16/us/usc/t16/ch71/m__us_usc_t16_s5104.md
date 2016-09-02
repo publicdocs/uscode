@@ -37,7 +37,7 @@
 
         The Commission shall, at least annually, review each State’s implementation and enforcement of coastal fishery management plans for the purpose of determining whether such State is effectively implementing and enforcing each such plan. Upon completion of such reviews, the Commission shall report the results of the reviews to the Secretaries.
 
-([Pub. L. 103–206, title VIII, § 805][/us/pl/103/206/s805], Dec. 20, 1993, [107 Stat. 2450][/us/stat/107/2450].)
+([Pub. L. 103–206, title VIII][/us/pl/103/206/tVIII], § 805, Dec. 20, 1993, [107 Stat. 2450][/us/stat/107/2450].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/103/206/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2Fs805
+[/us/pl/103/206/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F206%2FtVIII
 [/us/stat/107/2450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2450
 
 

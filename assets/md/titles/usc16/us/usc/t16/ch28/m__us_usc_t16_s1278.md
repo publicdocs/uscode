@@ -39,7 +39,7 @@
 
         Nothing in this section with respect to the making of a loan or grant shall apply to grants made under chapter 2003 of title 54.
 
-([Pub. L. 90–542, § 7][/us/pl/90/542/s7], Oct. 2, 1968, [82 Stat. 913][/us/stat/82/913]; [Pub. L. 93–279, § 1(b)(3)][/us/pl/93/279/s1/b/3], (4), May 10, 1974, [88 Stat. 123][/us/stat/88/123]; [Pub. L. 93–621, § 1(c)][/us/pl/93/621/s1/c], Jan. 3, 1975, [88 Stat. 2096][/us/stat/88/2096]; [Pub. L. 94–407, § 1(2)][/us/pl/94/407/s1/2], Sept. 11, 1976, [90 Stat. 1238][/us/stat/90/1238]; [Pub. L. 95–91, title IV, § 402(a)(1)(A)][/us/pl/95/91/s402/a/1/A], Aug. 4, 1977, [91 Stat. 583][/us/stat/91/583]; [Pub. L. 99–590, title V, § 505][/us/pl/99/590/s505], Oct. 30, 1986, [100 Stat. 3336][/us/stat/100/3336]; [Pub. L. 103–437, § 6(a)(7)][/us/pl/103/437/s6/a/7], Nov. 2, 1994, [108 Stat. 4583][/us/stat/108/4583]; [Pub. L. 113–287, § 5(d)(30)][/us/pl/113/287/s5/d/30], Dec. 19, 2014, [128 Stat. 3267][/us/stat/128/3267].)
+([Pub. L. 90–542][/us/pl/90/542], § 7, Oct. 2, 1968, [82 Stat. 913][/us/stat/82/913]; [Pub. L. 93–279][/us/pl/93/279], § 1(b)(3), (4), May 10, 1974, [88 Stat. 123][/us/stat/88/123]; [Pub. L. 93–621][/us/pl/93/621], § 1(c), Jan. 3, 1975, [88 Stat. 2096][/us/stat/88/2096]; [Pub. L. 94–407][/us/pl/94/407], § 1(2), Sept. 11, 1976, [90 Stat. 1238][/us/stat/90/1238]; [Pub. L. 95–91, title IV][/us/pl/95/91/tIV], § 402(a)(1)(A), Aug. 4, 1977, [91 Stat. 583][/us/stat/91/583]; [Pub. L. 99–590, title V][/us/pl/99/590/tV], § 505, Oct. 30, 1986, [100 Stat. 3336][/us/stat/100/3336]; [Pub. L. 103–437][/us/pl/103/437], § 6(a)(7), Nov. 2, 1994, [108 Stat. 4583][/us/stat/108/4583]; [Pub. L. 113–287][/us/pl/113/287], § 5(d)(30), Dec. 19, 2014, [128 Stat. 3267][/us/stat/128/3267].)
 
  __References in Text__ 
 
@@ -55,23 +55,23 @@
 
     1994—Subsec. (b)(i). [Pub. L. 103–437][/us/pl/103/437] substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives” for “Committees on Interior and Insular Affairs of the United States Congress”.
 
-    1986—Subsec. (a). [Pub. L. 99–590, § 505(a)][/us/pl/99/590/s505/a], substituted provisions relating to values present in the area on the date of designation of a river as a component of the System, for provisions relating to values present in the area on Oct. 2, 1968.
+    1986—Subsec. (a). [Pub. L. 99–590][/us/pl/99/590], § 505(a), substituted provisions relating to values present in the area on the date of designation of a river as a component of the System, for provisions relating to values present in the area on Oct. 2, 1968.
 
-    Subsec. (b). [Pub. L. 99–590, § 505(b)][/us/pl/99/590/s505/b], added cl. (ii), redesignated former cl. (ii) as (iii), and substituted provisions relating to values present in the area on the date of designation of a river for study pursuant to [section 1276 of this title][/us/usc/t16/s1276] for provisions relating to values present in the area on the date of approval of this chapter.
+    Subsec. (b). [Pub. L. 99–590][/us/pl/99/590], § 505(b), added cl. (ii), redesignated former cl. (ii) as (iii), and substituted provisions relating to values present in the area on the date of designation of a river for study pursuant to [section 1276 of this title][/us/usc/t16/s1276] for provisions relating to values present in the area on the date of approval of this chapter.
 
     1976—Subsec. (a). [Pub. L. 94–407][/us/pl/94/407] inserted provision relating to licenses issued affecting the New River of North Carolina.
 
     1975—Subsec. (b)(i). [Pub. L. 93–621][/us/pl/93/621] inserted proviso that if any Act provides a time period for study in excess of the three fiscal year period, that period shall be substituted for the three complete fiscal year period provision of cl. (i).
 
-    1974—Subsec. (b)(i). [Pub. L. 93–279, § 1(b)(3)][/us/pl/93/279/s1/b/3], substituted provisions that construction projects may not be licensed or assisted before Oct. 2, 1978, or for a three year period following inclusion of a river in the list of rivers for potential addition to the national wild and scenic river system, unless, prior to that period, the Secretary of the Interior or the Secretary of Agriculture, as the case may be, determined that such river should not be so included and notified the Committees on Interior and Insular Affairs, before publication in the Federal Register, for provisions that such projects may not be licensed or assisted before Oct. 2, 1973, unless, prior to that period, the Secretary of the Interior or the Secretary of Agriculture, as the case may be, concluded that such river should not be so included and published notice to that effect in the Federal Register.
+    1974—Subsec. (b)(i). [Pub. L. 93–279][/us/pl/93/279], § 1(b)(3), substituted provisions that construction projects may not be licensed or assisted before Oct. 2, 1978, or for a three year period following inclusion of a river in the list of rivers for potential addition to the national wild and scenic river system, unless, prior to that period, the Secretary of the Interior or the Secretary of Agriculture, as the case may be, determined that such river should not be so included and notified the Committees on Interior and Insular Affairs, before publication in the Federal Register, for provisions that such projects may not be licensed or assisted before Oct. 2, 1973, unless, prior to that period, the Secretary of the Interior or the Secretary of Agriculture, as the case may be, concluded that such river should not be so included and published notice to that effect in the Federal Register.
 
-    Subsec. (b)(ii). [Pub. L. 93–279, § 1(b)(4)][/us/pl/93/279/s1/b/4], substituted “the report for which is submitted to the President and the Congress, is necessary” for “which is recommended to the President and the Congress for inclusion in the national wild and scenic rivers system, is necessary”.
+    Subsec. (b)(ii). [Pub. L. 93–279][/us/pl/93/279], § 1(b)(4), substituted “the report for which is submitted to the President and the Congress, is necessary” for “which is recommended to the President and the Congress for inclusion in the national wild and scenic rivers system, is necessary”.
 
  __Transfer of Functions__ 
 
     Enforcement functions of Secretary or other official in Department of the Interior related to compliance with system activities requiring coordination and approval under this chapter and such functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(e), (f), 203(a), 44 F.R. 33663, 33666, [93 Stat. 1373][/us/stat/93/1373], 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by [section 3012(b) of Pub. L. 102–486][/us/pl/102/486/s3012/b], set out as an Abolition of Office of Federal Inspector note under [section 719e of Title 15][/us/usc/t15/s719e], Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by [section 720d(f) of Title 15][/us/usc/t15/s720d/f].
 
-    “Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsecs. (a), (b), and (c) pursuant to [Pub. L. 95–91, § 402(a)(1)(A)][/us/pl/95/91/s402/a/1/A], which is classified to [section 7172(a)(1)(A) of Title 42][/us/usc/t42/s7172/a/1/A], The Public Health and Welfare.
+    “Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsecs. (a), (b), and (c) pursuant to [Pub. L. 95–91][/us/pl/95/91], § 402(a)(1)(A), which is classified to [section 7172(a)(1)(A) of Title 42][/us/usc/t42/s7172/a/1/A], The Public Health and Welfare.
 
     Federal Power Commission terminated and its functions with regard to licenses and permits for dams, reservoirs, or other works for development and improvement of navigation and for development and utilization of power across, along, from, or in navigable waters under part I of Federal Power Act ([16 U.S.C. 792][/us/usc/t16/s792] et seq.) transferred to Federal Energy Regulatory Commission by sections 7172(a)(1)(A) and 7293 of Title 42.
 
@@ -91,21 +91,21 @@
 [/us/usc/t16/s1273/a/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1273%2Fa%2Fii
 [/us/usc/t16/s1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1276
 [/us/usc/t16/s1276/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1276%2Fa
-[/us/pl/90/542/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F542%2Fs7
+[/us/pl/90/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F542
 [/us/stat/82/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F913
-[/us/pl/93/279/s1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F279%2Fs1%2Fb%2F3
+[/us/pl/93/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F279
 [/us/stat/88/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F123
-[/us/pl/93/621/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F621%2Fs1%2Fc
+[/us/pl/93/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F621
 [/us/stat/88/2096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2096
-[/us/pl/94/407/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F407%2Fs1%2F2
+[/us/pl/94/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F407
 [/us/stat/90/1238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1238
-[/us/pl/95/91/s402/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs402%2Fa%2F1%2FA
+[/us/pl/95/91/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIV
 [/us/stat/91/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F583
-[/us/pl/99/590/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F590%2Fs505
+[/us/pl/99/590/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F590%2FtV
 [/us/stat/100/3336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3336
-[/us/pl/103/437/s6/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs6%2Fa%2F7
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4583
-[/us/pl/113/287/s5/d/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F30
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3267
 [/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
 [/us/stat/41/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1063
@@ -115,18 +115,18 @@
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
-[/us/pl/99/590/s505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F590%2Fs505%2Fa
-[/us/pl/99/590/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F590%2Fs505%2Fb
+[/us/pl/99/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F590
+[/us/pl/99/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F590
 [/us/usc/t16/s1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1276
 [/us/pl/94/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F407
 [/us/pl/93/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F621
-[/us/pl/93/279/s1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F279%2Fs1%2Fb%2F3
-[/us/pl/93/279/s1/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F279%2Fs1%2Fb%2F4
+[/us/pl/93/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F279
+[/us/pl/93/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F279
 [/us/stat/93/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1373
 [/us/pl/102/486/s3012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3012%2Fb
 [/us/usc/t15/s719e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719e
 [/us/usc/t15/s720d/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs720d%2Ff
-[/us/pl/95/91/s402/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs402%2Fa%2F1%2FA
+[/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/usc/t42/s7172/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7172%2Fa%2F1%2FA
 [/us/usc/t16/s792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs792
 

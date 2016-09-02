@@ -243,7 +243,7 @@
 
         There are hereby authorized to be appropriated $30,000,000 for each of the fiscal years 1991 through 1995, and such sums as may be necessary for each fiscal year thereafter, for the implementation of this section.
 
-([Pub. L. 95–313, § 9][/us/pl/95/313/s9], formerly § 6, July 1, 1978, [92 Stat. 369][/us/stat/92/369]; renumbered § 9 and amended [Pub. L. 101–624, title XII][/us/pl/101/624], §§ 1215(1), 1219(a), Nov. 28, 1990, [104 Stat. 3525][/us/stat/104/3525], 3533; [Pub. L. 102–237, title X, § 1018(a)(3)][/us/pl/102/237/s1018/a/3], Dec. 13, 1991, [105 Stat. 1905][/us/stat/105/1905]; [Pub. L. 110–234, title VII, § 7511(c)(36)][/us/pl/110/234/s7511/c/36], May 22, 2008, [122 Stat. 1271][/us/stat/122/1271]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7511(c)(36), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2032.)
+([Pub. L. 95–313][/us/pl/95/313], § 9, formerly § 6, July 1, 1978, [92 Stat. 369][/us/stat/92/369]; renumbered § 9 and amended [Pub. L. 101–624, title XII][/us/pl/101/624/tXII], §§ 1215(1), 1219(a), Nov. 28, 1990, [104 Stat. 3525][/us/stat/104/3525], 3533; [Pub. L. 102–237, title X][/us/pl/102/237/tX], § 1018(a)(3), Dec. 13, 1991, [105 Stat. 1905][/us/stat/105/1905]; [Pub. L. 110–234, title VII][/us/pl/110/234/tVII], § 7511(c)(36), May 22, 2008, [122 Stat. 1271][/us/stat/122/1271]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title VII, § 7511(c)(36), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2032.)
 
  __Codification__ 
 
@@ -253,13 +253,13 @@
 
  __Amendments__ 
 
-    2008—Subsec. (g)(2)(A)(viii). [Pub. L. 110–246, § 7511(c)(36)][/us/pl/110/246/s7511/c/36], substituted “National Institute of Food and Agriculture” for “Extension Service”.
+    2008—Subsec. (g)(2)(A)(viii). [Pub. L. 110–246][/us/pl/110/246], § 7511(c)(36), substituted “National Institute of Food and Agriculture” for “Extension Service”.
 
-    1991—Subsec. (g)(1)(C), (3)(E). [Pub. L. 102–237, § 1018(a)(3)(A)][/us/pl/102/237/s1018/a/3/A], (B), substituted “subsection (f)” for “subsection (e)”.
+    1991—Subsec. (g)(1)(C), (3)(E). [Pub. L. 102–237][/us/pl/102/237], § 1018(a)(3)(A), (B), substituted “subsection (f)” for “subsection (e)”.
 
-    Subsec. (h)(1). [Pub. L. 102–237, § 1018(a)(3)(C)][/us/pl/102/237/s1018/a/3/C], substituted “subsection (g)” for “subsection (f)”.
+    Subsec. (h)(1). [Pub. L. 102–237][/us/pl/102/237], § 1018(a)(3)(C), substituted “subsection (g)” for “subsection (f)”.
 
-    Subsec. (h)(2). [Pub. L. 102–237, § 1018(a)(3)(D)][/us/pl/102/237/s1018/a/3/D], substituted “subsection (g)(3)” for “subsection (f)(3)”.
+    Subsec. (h)(2). [Pub. L. 102–237][/us/pl/102/237], § 1018(a)(3)(D), substituted “subsection (g)(3)” for “subsection (f)(3)”.
 
     1990—[Pub. L. 101–624][/us/pl/101/624] amended section generally, substituting present provisions for provisions relating to Congressional findings concerning urban forestry assistance, financial, technical, and related assistance to State foresters or equivalent State officials to encourage planning of urban forestry programs, and authorization of appropriations.
 
@@ -282,25 +282,25 @@
 
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/usc/t16/s1601/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1601%2Fd
-[/us/pl/95/313/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313%2Fs9
+[/us/pl/95/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F313
 [/us/stat/92/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F369
-[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXII
 [/us/stat/104/3525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3525
-[/us/pl/102/237/s1018/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1018%2Fa%2F3
+[/us/pl/102/237/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2FtX
 [/us/stat/105/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1905
-[/us/pl/110/234/s7511/c/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs7511%2Fc%2F36
+[/us/pl/110/234/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtVII
 [/us/stat/122/1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1271
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s7511/c/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fc%2F36
-[/us/pl/102/237/s1018/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1018%2Fa%2F3%2FA
-[/us/pl/102/237/s1018/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1018%2Fa%2F3%2FC
-[/us/pl/102/237/s1018/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs1018%2Fa%2F3%2FD
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
+[/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

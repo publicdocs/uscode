@@ -23,7 +23,7 @@
 
         All permits issued under this chapter shall remain in effect until they expire in accordance with the terms of those permits.
 
-([Pub. L. 95–541, § 14][/us/pl/95/541/s14], as added [Pub. L. 104–227, title I, § 107][/us/pl/104/227/s107], Oct. 2, 1996, [110 Stat. 3042][/us/stat/110/3042].)
+([Pub. L. 95–541][/us/pl/95/541], § 14, as added [Pub. L. 104–227, title I][/us/pl/104/227/tI], § 107, Oct. 2, 1996, [110 Stat. 3042][/us/stat/110/3042].)
 
  __Prior Provisions__ 
 
@@ -37,8 +37,8 @@
 ----------
 
 [/us/usc/t16/s2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2405
-[/us/pl/95/541/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F541%2Fs14
-[/us/pl/104/227/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2Fs107
+[/us/pl/95/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F541
+[/us/pl/104/227/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F227%2FtI
 [/us/stat/110/3042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3042
 [/us/pl/95/541/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F541%2Fs14
 [/us/stat/92/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2057

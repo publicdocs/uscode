@@ -37,7 +37,7 @@
 
         (2) the Secretary of Agriculture shall modify the boundaries of the Sequoia National Forest to exclude the land from the forest boundaries.
 
-([Pub. L. 106–574, § 1][/us/pl/106/574/s1], Dec. 28, 2000, [114 Stat. 3062][/us/stat/114/3062].)
+([Pub. L. 106–574][/us/pl/106/574], § 1, Dec. 28, 2000, [114 Stat. 3062][/us/stat/114/3062].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/106/574/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F574%2Fs1
+[/us/pl/106/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F574
 [/us/stat/114/3062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3062
 
 

@@ -17,7 +17,7 @@
 
     Nothing herein contained shall affect any valid existing claim, location, or entry under the land laws of the United States, whether for homestead, mineral, right of way, or any other purpose whatsoever, or shall affect the rights of any such claimant, locator, or entryman to the full use and enjoyment of his land.
 
-([Feb. 26, 1917, ch. 121, § 2][/us/act/1917-02-26/ch121/s2], [39 Stat. 938][/us/stat/39/938].)
+([Feb. 26, 1917, ch. 121][/us/act/1917-02-26/ch121], § 2, [39 Stat. 938][/us/stat/39/938].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1917-02-26/ch121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-02-26%2Fch121%2Fs2
+[/us/act/1917-02-26/ch121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-02-26%2Fch121
 [/us/stat/39/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F938
 
 

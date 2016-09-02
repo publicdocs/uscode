@@ -25,7 +25,7 @@
 
     (b) Subject to valid existing rights, lands added to the Tongass and Chugach National Forests by this section shall be administered by the Secretary in accordance with the applicable provisions of this Act and the laws, rules, and regulations applicable to the national forest system: Provided, That the conservation of fish and wildlife and their habitat shall be the primary purpose for the management of the Copper/Rude River addition and the Copper River-Bering River portion of the existing Chugach National Forest, as generally depicted on the map appropriately referenced and dated October 1978: Provided, That the taking of fish and wildlife shall be permitted within zones established by this subsection pursuant to the provisions of this Act and other applicable State and Federal law. Multiple use activities shall be permitted in a manner consistent with the conservation of fish and wildlife and their habitat as set forth in special regulations which shall be promulgated by the Secretary.
 
-([Pub. L. 96–487, title V, § 501][/us/pl/96/487/s501], Dec. 2, 1980, [94 Stat. 2398][/us/stat/94/2398].)
+([Pub. L. 96–487, title V][/us/pl/96/487/tV], § 501, Dec. 2, 1980, [94 Stat. 2398][/us/stat/94/2398].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 
  __Chugach National Forest Boundary Change__ 
 
-[Pub. L. 102–415, § 6][/us/pl/102/415/s6], Oct. 14, 1992, [106 Stat. 2113][/us/stat/106/2113], as amended by [Pub. L. 113–287, § 5(d)(12)][/us/pl/113/287/s5/d/12], Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265], provided that:
+[Pub. L. 102–415][/us/pl/102/415], § 6, Oct. 14, 1992, [106 Stat. 2113][/us/stat/106/2113], as amended by [Pub. L. 113–287][/us/pl/113/287], § 5(d)(12), Dec. 19, 2014, [128 Stat. 3265][/us/stat/128/3265], provided that:
 
 >     “(a)  __Boundary Adjustment__  __.—__ 
 
@@ -60,14 +60,14 @@
 ----------
 ----------
 
-[/us/pl/96/487/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2Fs501
+[/us/pl/96/487/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487%2FtV
 [/us/stat/94/2398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2398
 [/us/pl/96/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F487
 [/us/stat/94/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2371
 [/us/usc/t16/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3101
-[/us/pl/102/415/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F415%2Fs6
+[/us/pl/102/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F415
 [/us/stat/106/2113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2113
-[/us/pl/113/287/s5/d/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fd%2F12
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3265
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/usc/t54/s100506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100506

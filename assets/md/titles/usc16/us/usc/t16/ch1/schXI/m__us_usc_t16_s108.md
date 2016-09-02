@@ -17,7 +17,7 @@
 
     The provisions of the Act of March 2, 1899, entitled, “An Act to set aside a portion of certain lands in the State of Washington, now known as the ‘Pacific Forest Reserve,’ as a public park, to be known as the ‘Mount Rainier National Park,’ ” the Act of June 10, 1916, entitled “An Act to accept the cession by the State of Washington of exclusive jurisdiction over the lands embraced within the Mount Rainier National Park, and for other purposes,” the Act of August 25, 1916, entitled “An Act to establish a national park service, and for other purposes,”  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and all Acts supplementary to and amendatory of said Acts are made applicable to and extended over the lands added to the park by [section 107 of this title][/us/usc/t16/s107]: Provided, That the provisions of the Federal Power Act \[[16 U.S.C. 791a][/us/usc/t16/s791a] et seq.\], shall not apply to or extend over such lands.
 
-([May 28, 1926, ch. 410, § 2][/us/act/1926-05-28/ch410/s2], [44 Stat. 669][/us/stat/44/669].)
+([May 28, 1926, ch. 410][/us/act/1926-05-28/ch410], § 2, [44 Stat. 669][/us/stat/44/669].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t16/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs107
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
-[/us/act/1926-05-28/ch410/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-28%2Fch410%2Fs2
+[/us/act/1926-05-28/ch410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-28%2Fch410
 [/us/stat/44/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F669
 [/us/act/1899-03-02/ch377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1899-03-02%2Fch377
 [/us/stat/30/993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F993

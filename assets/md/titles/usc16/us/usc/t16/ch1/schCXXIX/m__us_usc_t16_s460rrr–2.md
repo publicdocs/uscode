@@ -91,7 +91,7 @@
 
         The Secretary and the heads of other Federal agencies shall, to the maximum extent practicable, provide any information and technical services requested by the Commission to assist in carrying out the duties of the Commission.
 
-([Pub. L. 109–337, § 4][/us/pl/109/337/s4], Oct. 12, 2006, [120 Stat. 1777][/us/stat/120/1777].)
+([Pub. L. 109–337][/us/pl/109/337], § 4, Oct. 12, 2006, [120 Stat. 1777][/us/stat/120/1777].)
 
 ----------
 
@@ -101,7 +101,7 @@
 ----------
 
 [/us/usc/t16/s460rrr–4/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460rrr%E2%80%934%2Fb%2F2%2FA
-[/us/pl/109/337/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F337%2Fs4
+[/us/pl/109/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F337
 [/us/stat/120/1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1777
 
 

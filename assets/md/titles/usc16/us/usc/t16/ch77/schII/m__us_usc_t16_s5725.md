@@ -27,7 +27,7 @@
 
         Except for officials of the United States Government, all Panel members, alternate Panel members, and members of any advisory committee established under [section 5722 of this title][/us/usc/t16/s5722] shall not be considered to be Federal employees while engaged in the actual performance of duties, except for the purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 71  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “171”. </sup></sup>  of title 28.
 
-([Pub. L. 106–450, title II, § 206][/us/pl/106/450/s206], Nov. 7, 2000, [114 Stat. 1943][/us/stat/114/1943].)
+([Pub. L. 106–450, title II][/us/pl/106/450/tII], § 206, Nov. 7, 2000, [114 Stat. 1943][/us/stat/114/1943].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t16/s5722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5722
 [/us/usc/t16/s5722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5722
-[/us/pl/106/450/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F450%2Fs206
+[/us/pl/106/450/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F450%2FtII
 [/us/stat/114/1943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1943
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 

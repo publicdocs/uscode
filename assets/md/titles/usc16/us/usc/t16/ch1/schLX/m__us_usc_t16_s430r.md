@@ -17,7 +17,7 @@
 
     The Secretary of the Interior shall have the power to make all needful rules and regulations for the care of the park, and for the establishment and marking of lines of battle and other historical features of the park.
 
-([June 21, 1934, ch. 694, § 9][/us/act/1934-06-21/ch694/s9], [48 Stat. 1200][/us/stat/48/1200].)
+([June 21, 1934, ch. 694][/us/act/1934-06-21/ch694], § 9, [48 Stat. 1200][/us/stat/48/1200].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1934-06-21/ch694/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-21%2Fch694%2Fs9
+[/us/act/1934-06-21/ch694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-21%2Fch694
 [/us/stat/48/1200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1200
 
 

@@ -17,7 +17,7 @@
 
     The Federal Energy Regulatory Commission shall not license the construction of any dam, water conduit, reservoir, powerhouse, transmission line, or other project works under the Federal Power Act ([41 Stat. 1063][/us/stat/41/1063]) as amended ([16 U.S.C. 791a][/us/usc/t16/s791a] et seq.), on or directly affecting the New River Gorge National River, and no department or agency of the United States shall assist by loan, grant, license, or otherwise in the construction of any water resources project that would have a direct and adverse effect on the values for which such river was established, as determined by the Secretary. Nothing contained in the foregoing sentence, however, shall preclude licensing of, or assistance to, developments below or above the New River Gorge National River or on any stream tributary thereto which will not invade the area or diminish the scenic, recreation, and fish and wildlife values present in the area on November 10, 1978. No department or agency of the United States shall recommend authorization of any water resources project that would have a direct and adverse effect on the values for which such river was established, as determined by the Secretary, or request appropriations to begin construction on any such project whether heretofore or hereafter authorized, without advising the Secretary in writing of its intention to do so at least sixty days in advance, and without specifically reporting to the Congress in writing at the time it makes its recommendation or request in what respect construction of such proj­ect would be in conflict with the purposes of this section and would effect  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “affect”. </sup></sup>  the national river and the values to be protected by it under this section.
 
-([Pub. L. 95–625, title XI, § 1107][/us/pl/95/625/s1107], Nov. 10, 1978, [92 Stat. 3547][/us/stat/92/3547].)
+([Pub. L. 95–625, title XI][/us/pl/95/625/tXI], § 1107, Nov. 10, 1978, [92 Stat. 3547][/us/stat/92/3547].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/stat/41/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1063
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
-[/us/pl/95/625/s1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs1107
+[/us/pl/95/625/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2FtXI
 [/us/stat/92/3547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3547
 [/us/stat/41/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1063
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a

@@ -17,7 +17,7 @@
 
     For each fiscal year, the Secretary of the Interior shall certify, at the time at which a deduction or apportionment is made, to the Secretary of the Treasury and to each State fish and game department the sum which he has estimated to be deducted for administering this chapter and the Migratory Bird Conservation Act \[[16 U.S.C. 715][/us/usc/t16/s715] et seq.\] and the sum which he has apportioned to each State. Any State desiring to avail itself of the benefits of this chapter shall notify the Secretary of the Interior to this effect within sixty days after it has received the certification referred to in this section. The sum apportioned to any State which fails to notify the Secretary of the Interior as herein provided is authorized to be made available for expenditure by the Secretary of the Interior in carrying out the provisions of the Migratory Bird Conservation Act.
 
-([Sept. 2, 1937, ch. 899, § 5][/us/act/1937-09-02/ch899/s5], [50 Stat. 918][/us/stat/50/918]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; [Pub. L. 91–503, title I, § 102][/us/pl/91/503/s102], Oct. 23, 1970, [84 Stat. 1098][/us/stat/84/1098]; [Pub. L. 106–408, title I, § 114][/us/pl/106/408/s114], Nov. 1, 2000, [114 Stat. 1769][/us/stat/114/1769].)
+([Sept. 2, 1937, ch. 899][/us/act/1937-09-02/ch899], § 5, [50 Stat. 918][/us/stat/50/918]; 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; [Pub. L. 91–503, title I][/us/pl/91/503/tI], § 102, Oct. 23, 1970, [84 Stat. 1098][/us/stat/84/1098]; [Pub. L. 106–408, title I][/us/pl/106/408/tI], § 114, Nov. 1, 2000, [114 Stat. 1769][/us/stat/114/1769].)
 
  __References in Text__ 
 
@@ -41,12 +41,12 @@
 ----------
 
 [/us/usc/t16/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs715
-[/us/act/1937-09-02/ch899/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-02%2Fch899%2Fs5
+[/us/act/1937-09-02/ch899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-09-02%2Fch899
 [/us/stat/50/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F918
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
-[/us/pl/91/503/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F503%2Fs102
+[/us/pl/91/503/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F503%2FtI
 [/us/stat/84/1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1098
-[/us/pl/106/408/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2Fs114
+[/us/pl/106/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F408%2FtI
 [/us/stat/114/1769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1769
 [/us/act/1929-02-18/ch257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-02-18%2Fch257
 [/us/stat/45/1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1222

@@ -25,7 +25,7 @@
 
     (4) a statement specifying all funds which have been apportioned pursuant to [section 4104(a) of this title][/us/usc/t16/s4104/a] and are available for obligation by a State or the Secretary but which have not been obligated.
 
-([Pub. L. 99–659, title III, § 307][/us/pl/99/659/s307], Nov. 14, 1986, [100 Stat. 3735][/us/stat/100/3735].)
+([Pub. L. 99–659, title III][/us/pl/99/659/tIII], § 307, Nov. 14, 1986, [100 Stat. 3735][/us/stat/100/3735].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t16/s4104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4104%2Fa
-[/us/pl/99/659/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs307
+[/us/pl/99/659/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtIII
 [/us/stat/100/3735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3735
 [/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
 [/us/stat/100/3731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3731

@@ -27,7 +27,7 @@
 
         In order to provide for a cost-effective transfer of the law enforcement responsibilities between the Forest Service and the Tennessee Valley Authority, the law enforcement authorities designated under [section 831c–3 of this title][/us/usc/t16/s831c–3] are hereby granted to special agents and law enforcement officers of the Forest Service. The law enforcement authorities designated under [section 551 of this title][/us/usc/t16/s551], [section 559 of this title][/us/usc/t16/s559], the National Forest System Drug Control Act of 1986 ([16 U.S.C. 559b–559g][/us/usc/t16/s559b–559g]) are hereby granted to law enforcement agents of the Tennessee Valley Authority, within the boundaries of the Recreation Area, for a period of 1 year from October 21, 1998.
 
-([Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title V, § 512\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–313.)
+([Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title V, § 512\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–313.)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 [/us/usc/t16/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs551
 [/us/usc/t16/s559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs559
 [/us/usc/t16/s559b–559g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs559b%E2%80%93559g
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
 [/us/act/1911-03-01/ch186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-01%2Fch186
 [/us/stat/36/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F961

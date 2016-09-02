@@ -61,7 +61,7 @@
 
         There are hereby authorized to be appropriated such sums as may be necessary to carry out the activities set forth in this section.
 
-([Pub. L. 93–440, § 12][/us/pl/93/440/s12], as added [Pub. L. 100–301, § 8][/us/pl/100/301/s8], Apr. 29, 1988, [102 Stat. 446][/us/stat/102/446].)
+([Pub. L. 93–440][/us/pl/93/440], § 12, as added [Pub. L. 100–301][/us/pl/100/301], § 8, Apr. 29, 1988, [102 Stat. 446][/us/stat/102/446].)
 
 ----------
 
@@ -70,8 +70,8 @@
 ----------
 ----------
 
-[/us/pl/93/440/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F440%2Fs12
-[/us/pl/100/301/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301%2Fs8
+[/us/pl/93/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F440
+[/us/pl/100/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F301
 [/us/stat/102/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F446
 
 

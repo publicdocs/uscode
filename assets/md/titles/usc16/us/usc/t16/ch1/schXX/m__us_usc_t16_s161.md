@@ -17,7 +17,7 @@
 
     The tract of land in the State of Montana particularly described by metes and bounds as follows, to wit: Commencing at a point on the international boundary between the United States and the Dominion of Canada at the middle of the Flathead River; thence following southerly along and with the middle of the Flathead River to its confluence with the Middle Fork of the Flathead River; thence following the north bank of said Middle Fork of the Flathead River to where it is crossed by the north boundary of the right-of-way of the Great Northern Railroad; thence following the said right-of-way to where it intersects the west boundary of the Blackfeet Indian Reservation; thence northerly along said west boundary to its intersection with the international boundary; thence along said international boundary to the place of beginning, is reserved and withdrawn from settlement, occupancy, or disposal under the laws of the United States, and dedicated and set apart as a public park or pleasure ground for the benefit and enjoyment of the people of the United States under the name of “The Glacier National Park.” All persons who shall locate or settle upon or occupy the same, or any part thereof, except as hereinafter provided, shall be considered trespassers and removed therefrom. Nothing herein contained shall affect any valid claim, location, or entry existing under the land laws of the United States before May 11, 1910, or the rights of any such claimant, locator, or entryman to the full use and enjoyment of his land. The United States Reclamation Service may enter upon and utilize for flowage or other purposes any area within said park which may be necessary for the development and maintenance of a Government reclamation project. No lands within the limits of Glacier National Park belonging to or claimed by any railroad or other corporation having or claiming before May 11, 1910, the right of indemnity selection by virtue of any law or contract whatsoever shall be used as a basis for indemnity selection in any State or Territory whatsoever for any loss sustained by reason of the creation of Glacier National Park.
 
-([May 11, 1910, ch. 226, § 1][/us/act/1910-05-11/ch226/s1], [36 Stat. 354][/us/stat/36/354]; [Jan. 26, 1931, ch. 47, § 5][/us/act/1931-01-26/ch47/s5], [46 Stat. 1043][/us/stat/46/1043].)
+([May 11, 1910, ch. 226][/us/act/1910-05-11/ch226], § 1, [36 Stat. 354][/us/stat/36/354]; [Jan. 26, 1931, ch. 47][/us/act/1931-01-26/ch47], § 5, [46 Stat. 1043][/us/stat/46/1043].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
  __Permits for Existing Natural Gas Pipelines__ 
 
-[Pub. L. 112–268, § 1][/us/pl/112/268/s1], Jan. 14, 2013, [126 Stat. 2441][/us/stat/126/2441], provided that:
+[Pub. L. 112–268][/us/pl/112/268], § 1, Jan. 14, 2013, [126 Stat. 2441][/us/stat/126/2441], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -62,14 +62,14 @@
 ----------
 ----------
 
-[/us/act/1910-05-11/ch226/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-05-11%2Fch226%2Fs1
+[/us/act/1910-05-11/ch226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-05-11%2Fch226
 [/us/stat/36/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F354
-[/us/act/1931-01-26/ch47/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-01-26%2Fch47%2Fs5
+[/us/act/1931-01-26/ch47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-01-26%2Fch47
 [/us/stat/46/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1043
 [/us/act/1910-05-11/ch226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-05-11%2Fch226
 [/us/stat/36/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F354
 [/us/usc/t16/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs162
-[/us/pl/112/268/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F268%2Fs1
+[/us/pl/112/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F268
 [/us/stat/126/2441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2441
 
 

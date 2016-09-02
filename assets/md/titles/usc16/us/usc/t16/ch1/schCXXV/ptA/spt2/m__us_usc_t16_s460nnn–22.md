@@ -61,7 +61,7 @@
 
             Nothing in this subchapter shall have the effect of terminating any valid existing right-of-way on Federal lands included in the Cooperative Management and Protection Area.
 
-([Pub. L. 106–399, title I, § 112][/us/pl/106/399/s112], Oct. 30, 2000, [114 Stat. 1660][/us/stat/114/1660].)
+([Pub. L. 106–399, title I][/us/pl/106/399/tI], § 112, Oct. 30, 2000, [114 Stat. 1660][/us/stat/114/1660].)
 
  __References in Text__ 
 
@@ -75,7 +75,7 @@
 ----------
 
 [/us/usc/t43/s1782/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1782%2Fc
-[/us/pl/106/399/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2Fs112
+[/us/pl/106/399/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399%2FtI
 [/us/stat/114/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1660
 [/us/pl/106/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F399
 [/us/stat/114/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1655

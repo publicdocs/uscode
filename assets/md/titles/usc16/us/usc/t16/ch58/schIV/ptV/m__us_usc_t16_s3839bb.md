@@ -147,7 +147,7 @@
 
         There is authorized to be appropriated to carry out this section $60,000,000 for each of fiscal years 2002 through 2018.
 
-([Pub. L. 99–198, title XII, § 1240M][/us/pl/99/198/s1240M], as added [Pub. L. 104–127, title III, § 335][/us/pl/104/127/s335], Apr. 4, 1996, [110 Stat. 1002][/us/stat/110/1002]; amended [Pub. L. 107–171, title II, § 2502(a)][/us/pl/107/171/s2502/a], May 13, 2002, [116 Stat. 264][/us/stat/116/264]; [Pub. L. 110–234, title II, § 2601][/us/pl/110/234/s2601], May 22, 2008, [122 Stat. 1068][/us/stat/122/1068]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2601, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1796; [Pub. L. 113–79, title II, § 2501][/us/pl/113/79/s2501], Feb. 7, 2014, [128 Stat. 751][/us/stat/128/751].)
+([Pub. L. 99–198, title XII][/us/pl/99/198/tXII], § 1240M, as added [Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 335, Apr. 4, 1996, [110 Stat. 1002][/us/stat/110/1002]; amended [Pub. L. 107–171, title II][/us/pl/107/171/tII], § 2502(a), May 13, 2002, [116 Stat. 264][/us/stat/116/264]; [Pub. L. 110–234, title II][/us/pl/110/234/tII], § 2601, May 22, 2008, [122 Stat. 1068][/us/stat/122/1068]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title II, § 2601, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1796; [Pub. L. 113–79, title II][/us/pl/113/79/tII], § 2501, Feb. 7, 2014, [128 Stat. 751][/us/stat/128/751].)
 
  __References in Text__ 
 
@@ -161,7 +161,7 @@
 
     2014—Subsec. (e). [Pub. L. 113–79][/us/pl/113/79] substituted “2018” for “2012”.
 
-    2008—Subsec. (e). [Pub. L. 110–246, § 2601][/us/pl/110/246/s2601], substituted “2012” for “2007”.
+    2008—Subsec. (e). [Pub. L. 110–246][/us/pl/110/246], § 2601, substituted “2012” for “2007”.
 
     2002—[Pub. L. 107–171][/us/pl/107/171] amended section catchline and text generally. Prior to amendment, section required the Secretary to establish conservation farm option pilot programs for producers of wheat, feed grains, cotton, and rice.
 
@@ -178,16 +178,16 @@
 
 [/us/usc/t7/s2903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2903
 [/us/usc/t7/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs601
-[/us/pl/99/198/s1240M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1240M
-[/us/pl/104/127/s335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs335
+[/us/pl/99/198/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXII
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1002
-[/us/pl/107/171/s2502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2502%2Fa
+[/us/pl/107/171/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtII
 [/us/stat/116/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F264
-[/us/pl/110/234/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs2601
+[/us/pl/110/234/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtII
 [/us/stat/122/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1068
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/113/79/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2501
+[/us/pl/113/79/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtII
 [/us/stat/128/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F751
 [/us/act/1933-05-12/ch25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-12%2Fch25
 [/us/stat/48/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F31
@@ -197,7 +197,7 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/pl/110/246/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2601
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

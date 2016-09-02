@@ -23,7 +23,7 @@
 
         The Secretary may cooperate with all Federal and State authorities and agencies that have programs which will hasten completion of the recreation area and render services which will aid him in evaluating and effectuating the establishment of adequate summer and winter outdoor recreation facilities.
 
-([Pub. L. 89–438, § 4][/us/pl/89/438/s4], May 31, 1966, [80 Stat. 191][/us/stat/80/191].)
+([Pub. L. 89–438][/us/pl/89/438], § 4, May 31, 1966, [80 Stat. 191][/us/stat/80/191].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t16/s460r–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460r%E2%80%931
-[/us/pl/89/438/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F438%2Fs4
+[/us/pl/89/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F438
 [/us/stat/80/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F191
 
 

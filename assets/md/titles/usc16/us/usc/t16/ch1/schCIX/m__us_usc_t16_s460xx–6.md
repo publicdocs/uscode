@@ -17,7 +17,7 @@
 
     There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this subchapter.
 
-([Pub. L. 100–696, title I, § 107][/us/pl/100/696/s107], Nov. 18, 1988, [102 Stat. 4573][/us/stat/102/4573].)
+([Pub. L. 100–696, title I][/us/pl/100/696/tI], § 107, Nov. 18, 1988, [102 Stat. 4573][/us/stat/102/4573].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/696/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2Fs107
+[/us/pl/100/696/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F696%2FtI
 [/us/stat/102/4573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4573
 
 

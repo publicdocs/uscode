@@ -57,7 +57,7 @@
 
         The Advisory Committee shall terminate on the date ten years after October 26, 1988, notwithstanding the Federal Advisory Committee Act (Act of October 6, 1972; [86 Stat. 776][/us/stat/86/776]). The provisions of section 14(b) of such Act (relating to the charter of the Committee) are hereby waived with respect to this Advisory Committee.
 
-([Pub. L. 100–534, title II, § 206][/us/pl/100/534/s206], Oct. 26, 1988, [102 Stat. 2705][/us/stat/102/2705].)
+([Pub. L. 100–534, title II][/us/pl/100/534/tII], § 206, Oct. 26, 1988, [102 Stat. 2705][/us/stat/102/2705].)
 
  __References in Text__ 
 
@@ -73,7 +73,7 @@
 ----------
 
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776
-[/us/pl/100/534/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F534%2Fs206
+[/us/pl/100/534/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F534%2FtII
 [/us/stat/102/2705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2705
 [/us/pl/100/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F534
 [/us/stat/102/2699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2699
