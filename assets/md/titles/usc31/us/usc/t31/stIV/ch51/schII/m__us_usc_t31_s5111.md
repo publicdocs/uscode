@@ -333,6 +333,12 @@ July 23, 1965, Pub. L. 89–81, §§ 103(a), 105, 106, 79 Stat. 255.  </td>
 
 Provisions authorizing commemorative medals were contained in the following acts:
 
+    [Pub. L. 113–120][/us/pl/113/120], June 10, 2014, [128 Stat. 1187][/us/stat/128/1187], recognizing the 65th Infantry Regiment of the United States Army, known as the “Borinqueneers”.
+
+    [Pub. L. 113–116][/us/pl/113/116], June 9, 2014, [128 Stat. 1179][/us/stat/128/1179], recognizing the Monuments Men.
+
+    [Pub. L. 113–114][/us/pl/113/114], June 9, 2014, [128 Stat. 1175][/us/stat/128/1175], recognizing Shimon Peres.
+
     [Pub. L. 113–108][/us/pl/113/108], May 30, 2014, [128 Stat. 1164][/us/stat/128/1164], recognizing World War II members of the Civil Air Patrol.
 
     [Pub. L. 113–106][/us/pl/113/106], May 23, 2014, [128 Stat. 1160][/us/stat/128/1160], recognizing the World War II members of the 17th Bombardment Group (Medium) who became known as the “Doolittle Tokyo Raiders”.
@@ -347,7 +353,7 @@ Provisions authorizing commemorative medals were contained in the following acts
 
     [Pub. L. 112–76][/us/pl/112/76], Dec. 23, 2011, [125 Stat. 1275][/us/stat/125/1275], recognizing the fallen heroes who perished as a result of the terrorist attacks on the United States on Sept. 11, 2001.
 
-    [Pub. L. 112–59][/us/pl/112/59], Nov. 23, 2011, [125 Stat. 749][/us/stat/125/749], recognizing the Montford Point Marines.
+    [Pub. L. 112–59][/us/pl/112/59], Nov. 23, 2011, [125 Stat. 749][/us/stat/125/749]; [Pub. L. 113–118, § 3][/us/pl/113/118/s3], June 9, 2014, [128 Stat. 1183][/us/stat/128/1183], recognizing the Montford Point Marines.
 
     [Pub. L. 111–254][/us/pl/111/254], Oct. 5, 2010, [124 Stat. 2637][/us/stat/124/2637], recognizing the 100th Infantry Battalion, the 442nd Regimental Combat Team, and the Military Intelligence Service, United States Army, for service during World War II.
 
@@ -379,9 +385,9 @@ Provisions authorizing commemorative medals were contained in the following acts
 
     [Pub. L. 109–213][/us/pl/109/213], Apr. 11, 2006, [120 Stat. 322][/us/stat/120/322], recognizing the Tuskegee Airmen.
 
-    [Pub. L. 108–447, div. B, title I, § 124][/us/pl/108/447/s124], Dec. 8, 2004, [118 Stat. 2871][/us/stat/118/2871], as amended by [Pub. L. 109–13, div. A, title VI, § 6060][/us/pl/109/13/s6060], May 11, 2005, [119 Stat. 297][/us/stat/119/297], recognizing members of public safety agencies killed in the terrorist attacks in the United States on Sept. 11, 2001.
+    [Pub. L. 108–447, div. B, title I, § 124][/us/pl/108/447/s124], Dec. 8, 2004, [118 Stat. 2871][/us/stat/118/2871]; [Pub. L. 109–13, div. A, title VI, § 6060][/us/pl/109/13/s6060], May 11, 2005, [119 Stat. 297][/us/stat/119/297], recognizing members of public safety agencies killed in the terrorist attacks in the United States on Sept. 11, 2001.
 
-    [Pub. L. 108–368][/us/pl/108/368], Oct. 25, 2004, [118 Stat. 1746][/us/stat/118/1746], recognizing Reverend Doctor Martin Luther King, Jr., and his widow Coretta Scott King.
+    [Pub. L. 108–368][/us/pl/108/368], Oct. 25, 2004, [118 Stat. 1746][/us/stat/118/1746]; [Pub. L. 113–118, § 2][/us/pl/113/118/s2], June 9, 2014, [128 Stat. 1183][/us/stat/128/1183], recognizing Reverend Doctor Martin Luther King, Jr., and his widow Coretta Scott King.
 
     [Pub. L. 108–180][/us/pl/108/180], Dec. 15, 2003, [117 Stat. 2645][/us/stat/117/2645], recognizing Reverend Joseph A. DeLaine, Harry and Eliza Briggs, and Levi Pearson.
 
@@ -481,6 +487,12 @@ Provisions authorizing commemorative medals were contained in the following acts
 [/us/pl/102/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390
 [/us/pl/100/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274
 [/us/usc/t31/s5136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5136
+[/us/pl/113/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F120
+[/us/stat/128/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1187
+[/us/pl/113/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F116
+[/us/stat/128/1179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1179
+[/us/pl/113/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F114
+[/us/stat/128/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1175
 [/us/pl/113/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F108
 [/us/stat/128/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1164
 [/us/pl/113/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F106
@@ -497,6 +509,8 @@ Provisions authorizing commemorative medals were contained in the following acts
 [/us/stat/125/1275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1275
 [/us/pl/112/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F59
 [/us/stat/125/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F749
+[/us/pl/113/118/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F118%2Fs3
+[/us/stat/128/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1183
 [/us/pl/111/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F254
 [/us/stat/124/2637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2637
 [/us/pl/111/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F253
@@ -533,6 +547,8 @@ Provisions authorizing commemorative medals were contained in the following acts
 [/us/stat/119/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F297
 [/us/pl/108/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F368
 [/us/stat/118/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1746
+[/us/pl/113/118/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F118%2Fs2
+[/us/stat/128/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1183
 [/us/pl/108/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F180
 [/us/stat/117/2645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2645
 [/us/pl/108/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F162
