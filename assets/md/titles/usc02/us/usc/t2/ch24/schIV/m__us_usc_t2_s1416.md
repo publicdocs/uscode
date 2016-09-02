@@ -21,11 +21,11 @@
 
     (b) __Mediation__ 
 
-        All mediation shall be strictly confidential.
+        All mediation shall be strictly confidential, and the Executive Director shall notify each person participating in the mediation of the confidentiality requirement and of the sanctions applicable to any person who violates the confidentiality requirement.
 
     (c) __Hearings and deliberations__ 
 
-        Except as provided in subsections (d), (e), and (f), all proceedings and deliberations of hearing officers and the Board, including any related records, shall be confidential. This subsection shall not apply to proceedings under [section 1341 of this title][/us/usc/t2/s1341], but shall apply to the deliberations of hearing officers and the Board under that section.
+        Except as provided in subsections (d), (e), and (f), all proceedings and deliberations of hearing officers and the Board, including any related records, shall be confidential. This subsection shall not apply to proceedings under [section 1341 of this title][/us/usc/t2/s1341], but shall apply to the deliberations of hearing officers and the Board under that section. The Executive Director shall notify each person participating in a proceeding or deliberation to which this subsection applies of the requirements of this subsection and of the sanctions applicable to any person who violates the requirements of this subsection.
 
     (d) __Release of records for judicial action__ 
 
@@ -39,11 +39,21 @@
 
         A final decision entered under section 1405(g) or 1406(e) of this title shall be made public if it is in favor of the complaining covered employee, or in favor of the charging party under [section 1331 of this title][/us/usc/t2/s1331], or if the decision reverses a decision of a hearing officer which had been in favor of the covered employee or charging party. The Board may make public any other decision at its discretion.
 
-([Pub. L. 104–1, title IV, § 416][/us/pl/104/1/s416], Jan. 23, 1995, [109 Stat. 38][/us/stat/109/38].)
+([Pub. L. 104–1, title IV, § 416][/us/pl/104/1/s416], Jan. 23, 1995, [109 Stat. 38][/us/stat/109/38]; [Pub. L. 114–6, § 2(c)][/us/pl/114/6/s2/c], Mar. 20, 2015, [129 Stat. 81][/us/stat/129/81].)
+
+ __Amendments__ 
+
+    2015—Subsec. (b). [Pub. L. 114–6, § 2(c)(1)][/us/pl/114/6/s2/c/1], inserted before period at end “, and the Executive Director shall notify each person participating in the mediation of the confidentiality requirement and of the sanctions applicable to any person who violates the confidentiality requirement”.
+
+    Subsec. (c). [Pub. L. 114–6, § 2(c)(2)][/us/pl/114/6/s2/c/2], inserted at end “The Executive Director shall notify each person participating in a proceeding or deliberation to which this subsection applies of the requirements of this subsection and of the sanctions applicable to any person who violates the requirements of this subsection.”
 
  __Change of Name__ 
 
     Committee on Standards of Official Conduct of House of Representatives changed to Committee on Ethics of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–6][/us/pl/114/6] applicable with respect to mediations and other proceedings first initiated after Mar. 20, 2015, see [section 2(d) of Pub. L. 114–6][/us/pl/114/6/s2/d], set out as a note under [section 1403 of this title][/us/usc/t2/s1403].
 
 ----------
 
@@ -57,5 +67,12 @@
 [/us/usc/t2/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1331
 [/us/pl/104/1/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs416
 [/us/stat/109/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F38
+[/us/pl/114/6/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F6%2Fs2%2Fc
+[/us/stat/129/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F81
+[/us/pl/114/6/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F6%2Fs2%2Fc%2F1
+[/us/pl/114/6/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F6%2Fs2%2Fc%2F2
+[/us/pl/114/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F6
+[/us/pl/114/6/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F6%2Fs2%2Fd
+[/us/usc/t2/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1403
 
 
