@@ -19,6 +19,10 @@
 
 (Added [Pub. L. 104–199, § 3(a)][/us/pl/104/199/s3/a], Sept. 21, 1996, [110 Stat. 2419][/us/stat/110/2419].)
 
+ __Constitutionality__ 
+
+For information regarding constitutionality of this section, as added by [section 3(a) of Pub. L. 104–199][/us/pl/104/199/s3/a], see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+
 ----------
 
 [Previous](./../../../..//us/usc/t1/ch1/m__us_usc_t1_s6.md) | [Next](./../../../..//us/usc/t1/ch1/m__us_usc_t1_s8.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs7)
@@ -28,5 +32,6 @@
 
 [/us/pl/104/199/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F199%2Fs3%2Fa
 [/us/stat/110/2419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2419
+[/us/pl/104/199/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F199%2Fs3%2Fa
 
 
