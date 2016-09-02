@@ -245,7 +245,7 @@ Pub. L. 89–4, title II, § 201, Mar. 9, 1965, 79 Stat. 10; Pub. L. 89–670,
 
  __Appalachian Development Highway System__ 
 
-[Pub. L. 112–141, div. A, title I, § 1528][/us/pl/112/141/s1528], July 6, 2012, [126 Stat. 582][/us/stat/126/582], provided that:
+[Pub. L. 112–141, div. A, title I, § 1528][/us/pl/112/141/s1528], July 6, 2012, [126 Stat. 582][/us/stat/126/582], as amended by [Pub. L. 114–94, div. A, title I, § 1435][/us/pl/114/94/s1435], Dec. 4, 2015, [129 Stat. 1430][/us/stat/129/1430], provided that:
 
 >     “(a)  __Sense of the Senate__  __.—__ 
 
@@ -253,11 +253,11 @@ Pub. L. 89–4, title II, § 201, Mar. 9, 1965, 79 Stat. 10; Pub. L. 89–670,
 
 >     “(b)  __Modified Federal Share for Projects on ADHS__  __.—__ 
 
->     For fiscal years 2012 through 2021, the Federal share payable for the cost of constructing highways and access roads on the Appalachian development highway system under [section 14501 of title 40][/us/usc/t40/s14501], United States Code, with funds made available to a State for fiscal year 2012 or a previous fiscal year for the Appalachian development highway system program, or with funds made available for fiscal year 2012 or a previous fiscal year for a specific project, route, or corridor on that system, shall be 100 percent.
+>     For fiscal years 2012 through 2050, the Federal share payable for the cost of constructing highways and access roads on the Appalachian development highway system under [section 14501 of title 40][/us/usc/t40/s14501], United States Code, with funds made available to a State for fiscal year 2012 or a previous fiscal year for the Appalachian development highway system program, or with funds made available for fiscal year 2012 or a previous fiscal year for a specific project, route, or corridor on that system, shall be up to 100 percent, as determined by the State.
 
 >     “(c)  __Federal Share for Other Funds Used on ADHS__  __.—__ 
 
->     For fiscal years 2012 through 2021, the Federal share payable for the cost of constructing highways and access roads on the Appalachian development highway system under [section 14501 of title 40][/us/usc/t40/s14501], United States Code, with Federal funds apportioned to a State for a program other than the Appalachian development highway system program shall be 100 percent.
+>     For fiscal years 2012 through 2050, the Federal share payable for the cost of constructing highways and access roads on the Appalachian development highway system under [section 14501 of title 40][/us/usc/t40/s14501], United States Code, with Federal funds apportioned to a State for a program other than the Appalachian development highway system program shall be up to 100 percent, as determined by the State.
 
 >     “(d)  __Completion Plan__  __.—__ 
 
@@ -283,6 +283,8 @@ Pub. L. 89–4, title II, § 201, Mar. 9, 1965, 79 Stat. 10; Pub. L. 89–670,
 [/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
 [/us/pl/112/141/s1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs1528
 [/us/stat/126/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F582
+[/us/pl/114/94/s1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs1435
+[/us/stat/129/1430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1430
 [/us/usc/t40/s14501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs14501
 [/us/usc/t40/s14501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs14501
 
