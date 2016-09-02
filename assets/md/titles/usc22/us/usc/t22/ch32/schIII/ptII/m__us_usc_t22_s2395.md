@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch32/schIII/ptII/m__us_usc_t22_s2394b.md) | [Next](./../../../../../..//us/usc/t22/ch32/schIII/ptII/m__us_usc_t22_s2395a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2395)
+[Previous](./../../../../../..//us/usc/t22/ch32/schIII/ptII/m__us_usc_t22_s2394c.md) | [Next](./../../../../../..//us/usc/t22/ch32/schIII/ptII/m__us_usc_t22_s2395a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2395)
 
 ## § 2395. General authorities
 
@@ -175,7 +175,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch32/schIII/ptII/m__us_usc_t22_s2394b.md) | [Next](./../../../../../..//us/usc/t22/ch32/schIII/ptII/m__us_usc_t22_s2395a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2395)
+[Previous](./../../../../../..//us/usc/t22/ch32/schIII/ptII/m__us_usc_t22_s2394c.md) | [Next](./../../../../../..//us/usc/t22/ch32/schIII/ptII/m__us_usc_t22_s2395a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2395)
 
 ----------
 ----------

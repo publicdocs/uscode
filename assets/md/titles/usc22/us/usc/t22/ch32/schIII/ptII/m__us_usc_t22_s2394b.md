@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch32/schIII/ptII/m__us_usc_t22_s2394a.md) | [Next](./../../../../../..//us/usc/t22/ch32/schIII/ptII/m__us_usc_t22_s2395.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394b)
+[Previous](./../../../../../..//us/usc/t22/ch32/schIII/ptII/m__us_usc_t22_s2394a.md) | [Next](./../../../../../..//us/usc/t22/ch32/schIII/ptII/m__us_usc_t22_s2394c.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394b)
 
 ## § 2394b. HELP Commission
 
@@ -269,7 +269,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t22/ch32/schIII/ptII/m__us_usc_t22_s2394a.md) | [Next](./../../../../../..//us/usc/t22/ch32/schIII/ptII/m__us_usc_t22_s2395.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394b)
+[Previous](./../../../../../..//us/usc/t22/ch32/schIII/ptII/m__us_usc_t22_s2394a.md) | [Next](./../../../../../..//us/usc/t22/ch32/schIII/ptII/m__us_usc_t22_s2394c.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394b)
 
 ----------
 ----------

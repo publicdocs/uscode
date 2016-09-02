@@ -91,6 +91,12 @@
 
 > “The amendments made by this Act \[see Short Title of 1978 Amendment note below\] shall take effect on October 1, 1978.”
 
+ __Short Title of 2016 Amendment__ 
+
+[Pub. L. 114–191][/us/pl/114/191], § 1, July 15, 2016, [130 Stat. 666][/us/stat/130/666], provided that: 
+
+> “This Act \[enacting [section 2394c of this title][/us/usc/t22/s2394c] and provisions set out as notes under [section 2394c of this title][/us/usc/t22/s2394c]\] may be cited as the ‘Foreign Aid Transparency and Accountability Act of 2016’.”
+
  __Short Title of 2014 Amendment__ 
 
 [Pub. L. 113–289][/us/pl/113/289], § 1, Dec. 19, 2014, [128 Stat. 3283][/us/stat/128/3283], provided that: 
@@ -3290,6 +3296,10 @@ Sec. 2. National Action Plan. A National Action Plan shall be created pursuant t
 [/us/usc/t22/s2385a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2385a
 [/us/pl/95/424/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424%2FtVI
 [/us/stat/92/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F961
+[/us/pl/114/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F191
+[/us/stat/130/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F666
+[/us/usc/t22/s2394c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394c
+[/us/usc/t22/s2394c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2394c
 [/us/pl/113/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F289
 [/us/stat/128/3283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3283
 [/us/usc/t22/s2152h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2152h

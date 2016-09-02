@@ -2609,6 +2609,14 @@ Part II—Administrative Provisions  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2394c" data-uslm-ref="/us/usc/t22/s2394c">2394c.</a>  </td>
+
+    <td> Information on covered United States foreign assistance programs.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs2395" data-uslm-ref="/us/usc/t22/s2395">2395.</a>  </td>
 
     <td> General authorities.  </td>
