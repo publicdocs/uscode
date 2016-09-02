@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch136/schIII/ptO/m__us_usc_t42_s14044b.md) | [Next](./../../../../../..//us/usc/t42/ch136/schIII/ptO/m__us_usc_t42_s14044d.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14044c)
+[Previous](./../../../../../..//us/usc/t42/ch136/schIII/ptO/m__us_usc_t42_s14044b–1.md) | [Next](./../../../../../..//us/usc/t42/ch136/schIII/ptO/m__us_usc_t42_s14044d.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14044c)
 
 ## § 14044c. Enhancing State and local efforts to combat trafficking in persons
 
@@ -81,7 +81,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch136/schIII/ptO/m__us_usc_t42_s14044b.md) | [Next](./../../../../../..//us/usc/t42/ch136/schIII/ptO/m__us_usc_t42_s14044d.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14044c)
+[Previous](./../../../../../..//us/usc/t42/ch136/schIII/ptO/m__us_usc_t42_s14044b–1.md) | [Next](./../../../../../..//us/usc/t42/ch136/schIII/ptO/m__us_usc_t42_s14044d.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14044c)
 
 ----------
 ----------

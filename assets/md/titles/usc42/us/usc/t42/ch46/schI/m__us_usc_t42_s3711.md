@@ -41,6 +41,12 @@
 
 >         “(2) Section 609Z \[repealing [section 204 of Pub. L. 98–411][/us/pl/98/411/s204], which had amended sections 3796 to 3796b of this title and enacted provisions set out as a note under [section 3796 of this title][/us/usc/t42/s3796]\] shall take effect on October 1, 1984.”
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–22, title X, § 1001][/us/pl/114/22/s1001], May 29, 2015, [129 Stat. 266][/us/stat/129/266], provided that: 
+
+> “This title \[amending [section 3796dd of this title][/us/usc/t42/s3796dd]\] may be cited as the ‘Human Trafficking Survivors Relief and Empowerment Act of 2015’.”
+
  __Short Title of 2013 Amendment__ 
 
 [Pub. L. 112–239, div. A, title X, § 1086(a)][/us/pl/112/239/s1086/a], Jan. 2, 2013, [126 Stat. 1964][/us/stat/126/1964], provided that: 
@@ -249,6 +255,9 @@
 [/us/stat/98/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2107
 [/us/pl/98/411/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F411%2Fs204
 [/us/usc/t42/s3796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796
+[/us/pl/114/22/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs1001
+[/us/stat/129/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F266
+[/us/usc/t42/s3796dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796dd
 [/us/pl/112/239/s1086/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1086%2Fa
 [/us/stat/126/1964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1964
 [/us/usc/t42/s3791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3791

@@ -123,7 +123,7 @@
 
                 (ii) online enticement of children for sexual acts;
 
-                (iii) child prostitution;
+                (iii) child sex trafficking, including child prostitution;
 
                 (iv) sex tourism involving children;
 
@@ -181,7 +181,7 @@
 
         Nothing contained in this subchapter shall be construed to grant to the Administrator any law enforcement responsibility or supervisory authority over any other Federal agency.
 
-([Pub. L. 93–415, title IV, § 404][/us/pl/93/415/s404], as added [Pub. L. 98–473, title II, § 660][/us/pl/98/473/s660], Oct. 12, 1984, [98 Stat. 2126][/us/stat/98/2126]; amended [Pub. L. 100–690, title VII, § 7285][/us/pl/100/690/s7285], Nov. 18, 1988, [102 Stat. 4459][/us/stat/102/4459]; [Pub. L. 101–204, title X, § 1004(2)][/us/pl/101/204/s1004/2], Dec. 7, 1989, [103 Stat. 1828][/us/stat/103/1828]; [Pub. L. 106–71, § 2(c)][/us/pl/106/71/s2/c], Oct. 12, 1999, [113 Stat. 1034][/us/stat/113/1034]; [Pub. L. 107–273, div. C, title II, § 12221(b)(2)][/us/pl/107/273/s12221/b/2], Nov. 2, 2002, [116 Stat. 1894][/us/stat/116/1894]; [Pub. L. 108–21, title III][/us/pl/108/21], §§ 321(b), 323, Apr. 30, 2003, [117 Stat. 664][/us/stat/117/664], 665; [Pub. L. 108–96, title II, § 202(a)][/us/pl/108/96/s202/a], Oct. 10, 2003, [117 Stat. 1172][/us/stat/117/1172]; [Pub. L. 110–240, § 3][/us/pl/110/240/s3], June 3, 2008, [122 Stat. 1561][/us/stat/122/1561]; [Pub. L. 113–38, § 2(b)][/us/pl/113/38/s2/b], Sept. 30, 2013, [127 Stat. 527][/us/stat/127/527].)
+([Pub. L. 93–415, title IV, § 404][/us/pl/93/415/s404], as added [Pub. L. 98–473, title II, § 660][/us/pl/98/473/s660], Oct. 12, 1984, [98 Stat. 2126][/us/stat/98/2126]; amended [Pub. L. 100–690, title VII, § 7285][/us/pl/100/690/s7285], Nov. 18, 1988, [102 Stat. 4459][/us/stat/102/4459]; [Pub. L. 101–204, title X, § 1004(2)][/us/pl/101/204/s1004/2], Dec. 7, 1989, [103 Stat. 1828][/us/stat/103/1828]; [Pub. L. 106–71, § 2(c)][/us/pl/106/71/s2/c], Oct. 12, 1999, [113 Stat. 1034][/us/stat/113/1034]; [Pub. L. 107–273, div. C, title II, § 12221(b)(2)][/us/pl/107/273/s12221/b/2], Nov. 2, 2002, [116 Stat. 1894][/us/stat/116/1894]; [Pub. L. 108–21, title III][/us/pl/108/21], §§ 321(b), 323, Apr. 30, 2003, [117 Stat. 664][/us/stat/117/664], 665; [Pub. L. 108–96, title II, § 202(a)][/us/pl/108/96/s202/a], Oct. 10, 2003, [117 Stat. 1172][/us/stat/117/1172]; [Pub. L. 110–240, § 3][/us/pl/110/240/s3], June 3, 2008, [122 Stat. 1561][/us/stat/122/1561]; [Pub. L. 113–38, § 2(b)][/us/pl/113/38/s2/b], Sept. 30, 2013, [127 Stat. 527][/us/stat/127/527]; [Pub. L. 114–22, title II, § 211][/us/pl/114/22/s211], May 29, 2015, [129 Stat. 249][/us/stat/129/249].)
 
  __References in Text__ 
 
@@ -192,6 +192,8 @@
     A prior [section 404 of Pub. L. 93–415][/us/pl/93/415/s404] amended [section 3882 of this title][/us/usc/t42/s3882], and was repealed by [Pub. L. 95–115, § 10][/us/pl/95/115/s10], Oct. 3, 1977, [91 Stat. 1061][/us/stat/91/1061], and [Pub. L. 107–273, div. C, title II, § 12221(a)(4)][/us/pl/107/273/s12221/a/4], Nov. 2, 2002, [116 Stat. 1894][/us/stat/116/1894].
 
  __Amendments__ 
+
+    2015—Subsec. (b)(1)(P)(iii). [Pub. L. 114–22][/us/pl/114/22] substituted “child sex trafficking, including child prostitution” for “child prostitution”.
 
     2013—Subsec. (a)(4). [Pub. L. 113–38, § 2(b)(1)(C)][/us/pl/113/38/s2/b/1/C], added par. (4). Former par. (4) redesignated (5).
 
@@ -296,6 +298,8 @@
 [/us/stat/122/1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1561
 [/us/pl/113/38/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38%2Fs2%2Fb
 [/us/stat/127/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F527
+[/us/pl/114/22/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs211
+[/us/stat/129/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F249
 [/us/pl/93/380/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs513
 [/us/stat/88/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F571
 [/us/usc/t20/s1232g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232g
@@ -306,6 +310,7 @@
 [/us/stat/91/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1061
 [/us/pl/107/273/s12221/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12221%2Fa%2F4
 [/us/stat/116/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1894
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
 [/us/pl/113/38/s2/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38%2Fs2%2Fb%2F1%2FC
 [/us/pl/113/38/s2/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38%2Fs2%2Fb%2F1%2FB
 [/us/pl/113/38/s2/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38%2Fs2%2Fb%2F1%2FA

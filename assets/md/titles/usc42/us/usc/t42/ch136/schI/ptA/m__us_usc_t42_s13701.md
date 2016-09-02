@@ -37,6 +37,10 @@
 
  __Short Title of 2015 Amendment__ 
 
+[Pub. L. 114–22, title IV, § 401][/us/pl/114/22/s401], May 29, 2015, [129 Stat. 256][/us/stat/129/256], provided that: 
+
+> “This title \[enacting part N–2 (§ 14043h et seq.) of subchapter III of this chapter\] may be cited as the ‘Rape Survivor Child Custody Act’.”
+
 [Pub. L. 114–12, § 1][/us/pl/114/12/s1], May 19, 2015, [129 Stat. 192][/us/stat/129/192], provided that: 
 
 > “This Act \[enacting part F (§ 14165 et seq.) of subchapter IX of this chapter\] may be cited as the ‘Rafael Ramos and Wenjian Liu National Blue Alert Act of 2015’.”
@@ -200,6 +204,8 @@
 [/us/pl/103/322/s20101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20101
 [/us/stat/108/1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1815
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/114/22/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs401
+[/us/stat/129/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F256
 [/us/pl/114/12/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F12%2Fs1
 [/us/stat/129/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F192
 [/us/pl/113/242/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F242%2Fs1

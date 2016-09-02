@@ -41,13 +41,21 @@
 
         (G) to assist in developing school policy that addresses crime and to recommend procedural changes.
 
-([Pub. L. 90–351, title I, § 1709][/us/pl/90/351/s1709], as added [Pub. L. 103–322, title I, § 10003(a)(3)][/us/pl/103/322/s10003/a/3], Sept. 13, 1994, [108 Stat. 1813][/us/stat/108/1813]; amended [Pub. L. 105–302, § 1(2)][/us/pl/105/302/s1/2], Oct. 27, 1998, [112 Stat. 2841][/us/stat/112/2841].)
+    (5) “commercial sex act” has the meaning given the term in [section 7102 of title 22][/us/usc/t22/s7102].
+
+    (6) “minor” means an individual who has not attained the age of 18 years.
+
+    (7) “severe form of trafficking in persons” has the meaning given the term in [section 7102 of title 22][/us/usc/t22/s7102].
+
+([Pub. L. 90–351, title I, § 1709][/us/pl/90/351/s1709], as added [Pub. L. 103–322, title I, § 10003(a)(3)][/us/pl/103/322/s10003/a/3], Sept. 13, 1994, [108 Stat. 1813][/us/stat/108/1813]; amended [Pub. L. 105–302, § 1(2)][/us/pl/105/302/s1/2], Oct. 27, 1998, [112 Stat. 2841][/us/stat/112/2841]; [Pub. L. 114–22, title VI, § 601(2)][/us/pl/114/22/s601/2], May 29, 2015, [129 Stat. 259][/us/stat/129/259].)
 
  __References in Text__ 
 
     The Alaska Native Claims Settlement Act, referred to in par. (3), is [Pub. L. 92–203, § 2][/us/pl/92/203/s2], Dec. 18, 1971, [85 Stat. 688][/us/stat/85/688], as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43][/us/usc/t43/s1601] and Tables.
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–22][/us/pl/114/22] added pars. (5) to (7).
 
     1998—[Pub. L. 105–302][/us/pl/105/302] designated first three undesignated paragraphs as pars. (1) to (3), respectively, and added par. (4).
 
@@ -59,14 +67,19 @@
 ----------
 
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
+[/us/usc/t22/s7102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7102
+[/us/usc/t22/s7102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7102
 [/us/pl/90/351/s1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1709
 [/us/pl/103/322/s10003/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs10003%2Fa%2F3
 [/us/stat/108/1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1813
 [/us/pl/105/302/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F302%2Fs1%2F2
 [/us/stat/112/2841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2841
+[/us/pl/114/22/s601/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs601%2F2
+[/us/stat/129/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F259
 [/us/pl/92/203/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203%2Fs2
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
 [/us/pl/105/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F302
 
 

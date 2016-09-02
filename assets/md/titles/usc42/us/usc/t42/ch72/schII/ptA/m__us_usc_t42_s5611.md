@@ -91,6 +91,20 @@
 
     Amendment by [Pub. L. 95–115][/us/pl/95/115] effective Oct. 1, 1977, see [section 263(c) of Pub. L. 93–415][/us/pl/93/415/s263/c], as added by [Pub. L. 95–115][/us/pl/95/115], set out as a note under [section 5601 of this title][/us/usc/t42/s5601].
 
+ __Education and Outreach to Trafficking Survivors__ 
+
+[Pub. L. 114–22, title I, § 119][/us/pl/114/22/s119], May 29, 2015, [129 Stat. 247][/us/stat/129/247], provided that: 
+
+> “The Attorney General shall make available, on the website of the Office of Juvenile Justice and Delinquency Prevention, a database for trafficking victim advocates, crisis hotline personnel, foster parents, law enforcement personnel, and crime survivors that contains information on—
+
+>     “(1) counseling and hotline resources;
+
+>     “(2) housing resources;
+
+>     “(3) legal assistance; and
+
+>     “(4) other services for trafficking survivors.”
+
  __Mentoring Matches for Youth__ 
 
 [Pub. L. 109–248, title VI][/us/pl/109/248], subtitle A, July 27, 2006, [120 Stat. 631][/us/stat/120/631], 632, provided that:
@@ -209,6 +223,8 @@
 [/us/pl/93/415/s263/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs263%2Fc
 [/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
 [/us/usc/t42/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5601
+[/us/pl/114/22/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs119
+[/us/stat/129/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F247
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 [/us/stat/120/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F631
 

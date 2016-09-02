@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch151/schI/ptA/m__us_usc_t42_s16927.md) | [Next](./../../../../../..//us/usc/t42/ch151/schI/ptA/m__us_usc_t42_s16929.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16928)
+[Previous](./../../../../../..//us/usc/t42/ch151/schI/ptA/m__us_usc_t42_s16927.md) | [Next](./../../../../../..//us/usc/t42/ch151/schI/ptA/m__us_usc_t42_s16928a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16928)
 
 ## § 16928. Registration of sex offenders entering the United States
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch151/schI/ptA/m__us_usc_t42_s16927.md) | [Next](./../../../../../..//us/usc/t42/ch151/schI/ptA/m__us_usc_t42_s16929.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16928)
+[Previous](./../../../../../..//us/usc/t42/ch151/schI/ptA/m__us_usc_t42_s16927.md) | [Next](./../../../../../..//us/usc/t42/ch151/schI/ptA/m__us_usc_t42_s16928a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16928)
 
 ----------
 ----------

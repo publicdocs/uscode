@@ -63,6 +63,12 @@
 
     1975—Subsec. (c). [Pub. L. 93–644][/us/pl/93/644] added subsec. (c).
 
+ __Short Title of 2015 Amendment__ 
+
+Pub. L. 114—22, title VIII, § 801, May 29, 2015, [129 Stat. 263][/us/stat/129/263], provided that: 
+
+> “This title \[amending sections 5106a and 5106g of this title, enacting provisions set out as a note under [section 5106a of this title][/us/usc/t42/s5106a], and amending provisions set out as a note under this section\] may be cited as the ‘Ensuring a Better Response for Victims of Child Sex Trafficking’.”
+
  __Short Title of 2010 Amendment__ 
 
 [Pub. L. 111–341, § 1][/us/pl/111/341/s1], Dec. 22, 2010, [124 Stat. 3606][/us/stat/124/3606], provided that: 
@@ -215,7 +221,7 @@
 
  __Congressional Findings__ 
 
-[Section 2 of Pub. L. 93–247][/us/pl/93/247/s2], as added by [Pub. L. 102–295, title I, § 102(a)][/us/pl/102/295/s102/a], May 28, 1992, [106 Stat. 188][/us/stat/106/188], and amended by [Pub. L. 104–235, title I, § 100][/us/pl/104/235/s100], Oct. 3, 1996, [110 Stat. 3064][/us/stat/110/3064]; [Pub. L. 108–36, title I, § 101][/us/pl/108/36/s101], June 25, 2003, [117 Stat. 801][/us/stat/117/801]; [Pub. L. 111–320, title I, § 101][/us/pl/111/320/s101], Dec. 20, 2010, [124 Stat. 3459][/us/stat/124/3459], provided that: 
+[Pub. L. 93–247, § 2][/us/pl/93/247/s2], as added by [Pub. L. 102–295, title I, § 102(a)][/us/pl/102/295/s102/a], May 28, 1992, [106 Stat. 188][/us/stat/106/188], and amended by [Pub. L. 104–235, title I, § 100][/us/pl/104/235/s100], Oct. 3, 1996, [110 Stat. 3064][/us/stat/110/3064]; [Pub. L. 108–36, title I, § 101][/us/pl/108/36/s101], June 25, 2003, [117 Stat. 801][/us/stat/117/801]; [Pub. L. 111–320, title I, § 101][/us/pl/111/320/s101], Dec. 20, 2010, [124 Stat. 3459][/us/stat/124/3459], provided that: 
 
 > “Congress finds that—
 
@@ -291,7 +297,7 @@
 
  __Definitions__ 
 
-[Pub. L. 93–247, § 3][/us/pl/93/247/s3], as added by [Pub. L. 111–320, title I, § 142(a)][/us/pl/111/320/s142/a], Dec. 20, 2010, [124 Stat. 3482][/us/stat/124/3482], provided that: 
+[Pub. L. 93–247, § 3][/us/pl/93/247/s3], as added by [Pub. L. 111–320, title I, § 142(a)][/us/pl/111/320/s142/a], Dec. 20, 2010, [124 Stat. 3482][/us/stat/124/3482], as amended by [Pub. L. 114–22, title VIII, § 802(c)(2)][/us/pl/114/22/s802/c/2], May 29, 2015, [129 Stat. 264][/us/stat/129/264], provided that: 
 
 > “In this Act \[see Short Title note above\]—
 
@@ -316,6 +322,8 @@
 >     “(7) except as provided in section 106(f) \[[42 U.S.C. 5106a(f)][/us/usc/t42/s5106a/f]\], the term ‘State’ means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands; and
 
 >     “(8) the term ‘unaccompanied homeless youth’ means an individual who is described in paragraphs (2) and (6) of section 725 of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11434a][/us/usc/t42/s11434a]).”
+
+    \[[Pub. L. 114–22, title VIII, § 802(a)][/us/pl/114/22/s802/a], (c)(2), May 29, 2015, [129 Stat. 263][/us/stat/129/263], 264, provided that, effective 2 years after May 29, 2015, [section 3 of Pub. L. 93–247][/us/pl/93/247/s3], set out above, is amended in par. (2) by inserting “(including sexual abuse as determined under section 111 \[[42 U.S.C. 5106g][/us/usc/t42/s5106g]\])” after “sexual abuse or exploitation”.\]
 
 ----------
 
@@ -359,6 +367,8 @@
 [/us/pl/95/266/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F266%2Fs101%2F2
 [/us/pl/95/266/s101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F266%2Fs101%2F3
 [/us/pl/93/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F644
+[/us/stat/129/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F263
+[/us/usc/t42/s5106a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5106a
 [/us/pl/111/341/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F341%2Fs1
 [/us/stat/124/3606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3606
 [/us/usc/t42/s5119a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5119a
@@ -446,10 +456,16 @@
 [/us/pl/93/247/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2Fs3
 [/us/pl/111/320/s142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs142%2Fa
 [/us/stat/124/3482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3482
+[/us/pl/114/22/s802/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs802%2Fc%2F2
+[/us/stat/129/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F264
 [/us/usc/t20/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1401
 [/us/usc/t20/s1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1432
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/usc/t42/s5106a/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5106a%2Ff
 [/us/usc/t42/s11434a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11434a
+[/us/pl/114/22/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs802%2Fa
+[/us/stat/129/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F263
+[/us/pl/93/247/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2Fs3
+[/us/usc/t42/s5106g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5106g
 
 

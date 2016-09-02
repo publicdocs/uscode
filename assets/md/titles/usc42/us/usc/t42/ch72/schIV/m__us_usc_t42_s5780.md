@@ -19,7 +19,7 @@
 
     (1) ensure that no law enforcement agency within the State establishes or maintains any policy that requires the observance of any waiting period before accepting a missing child or unidentified person report;
 
-    (2) ensure that no law enforcement agency within the State establishes or maintains any policy that requires the removal of a missing person entry from its State law enforcement system or the National Crime Information Center computer database based solely on the age of the person; and  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The word “and” probably should not appear. </sup></sup> 
+    (2) ensure that no law enforcement agency within the State establishes or maintains any policy that requires the removal of a missing person entry from its State law enforcement system or the National Crime Information Center computer database based solely on the age of the person;
 
     (3)
 
@@ -27,29 +27,51 @@
 
         (A) the name, date of birth, sex, race, height, weight, and eye and hair color of the child;
 
-        (B) the date and location of the last known contact with the child; and
+        (B) a recent photograph of the child, if available;
 
-        (C) the category under which the child is reported missing;
+        (C) the date and location of the last known contact with the child; and
+
+        (D) the category under which the child is reported missing;
 
         is entered within 2 hours of receipt into the State law enforcement system and the National Crime Information Center computer networks and made available to the Missing Children Information Clearinghouse within the State or other agency designated within the State to receive such reports; and
 
     (4)
 
-     provide that after receiving reports as provided in paragraph (2), the law enforcement agency that entered the report into the National Crime Information Center shall—
+     provide that after receiving reports as provided in paragraph (3), the law enforcement agency that entered the report into the National Crime Information Center shall—
 
-        (A) no later than 60 days after the original entry of the record into the State law enforcement system and National Crime Information Center computer networks, verify and update such record with any additional information, including, where available, medical and dental records;
+        (A) no later than 30 days after the original entry of the record into the State law enforcement system and National Crime Information Center computer networks, verify and update such record with any additional information, including, where available, medical and dental records and a photograph taken during the previous 180 days;
 
-        (B) institute or assist with appropriate search and investigative procedures; and
+        (B) institute or assist with appropriate search and investigative procedures;
 
-        (C) maintain close liaison with the National Center for Missing and Exploited Children for the exchange of information and technical assistance in the missing children cases.
+        (C) notify the National Center for Missing and Exploited Children of each report received relating to a child reported missing from a foster care family home or childcare institution;
 
-([Pub. L. 101–647, title XXXVII, § 3702][/us/pl/101/647/s3702], Nov. 29, 1990, [104 Stat. 4967][/us/stat/104/4967]; [Pub. L. 109–248, title I, § 154(a)][/us/pl/109/248/s154/a], July 27, 2006, [120 Stat. 611][/us/stat/120/611].)
+        (D) maintain close liaison with State and local child welfare systems and the National Center for Missing and Exploited Children for the exchange of information and technical assistance in the missing children cases; and
+
+        (E) grant permission to the National Crime Information Center Terminal Contractor for the State to update the missing person record in the National Crime Information Center computer networks with additional information learned during the investigation relating to the missing person.
+
+([Pub. L. 101–647, title XXXVII, § 3702][/us/pl/101/647/s3702], Nov. 29, 1990, [104 Stat. 4967][/us/stat/104/4967]; [Pub. L. 109–248, title I, § 154(a)][/us/pl/109/248/s154/a], July 27, 2006, [120 Stat. 611][/us/stat/120/611]; [Pub. L. 114–22, title I, § 116(b)][/us/pl/114/22/s116/b], May 29, 2015, [129 Stat. 244][/us/stat/129/244].)
 
  __Codification__ 
 
     Section was enacted as part of the Crime Control Act of 1990, and not as part of the Missing Children’s Assistance Act which comprises this subchapter, nor as part of the Juvenile Justice and Delinquency Prevention Act of 1974 which comprises this chapter.
 
  __Amendments__ 
+
+    2015—Par. (2). [Pub. L. 114–22, § 116(b)(1)][/us/pl/114/22/s116/b/1], struck out “and” at end.
+
+    Par. (3)(B) to (D). [Pub. L. 114–22, § 116(b)(2)][/us/pl/114/22/s116/b/2], added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
+
+    Par. (4). [Pub. L. 114–22, § 116(b)(3)(A)][/us/pl/114/22/s116/b/3/A], substituted “paragraph (3)” for “paragraph (2)” in introductory provisions.
+
+    Par. (4)(A). [Pub. L. 114–22, § 116(b)(3)(B)][/us/pl/114/22/s116/b/3/B], substituted “30 days” for “60 days” and inserted “and a photograph taken during the previous 180 days” after “dental records”.
+
+    Par. (4)(B), (C). [Pub. L. 114–22, § 116(b)(3)(C)][/us/pl/114/22/s116/b/3/C], (E), struck out “and” at end of subpar. (B) and added subpar. (C). Former subpar. (C) redesignated (D).
+
+    Par. (4)(D). [Pub. L. 114–22, § 116(b)(3)(F)][/us/pl/114/22/s116/b/3/F], inserted “State and local child welfare systems and” before “the National Center for Missing and Exploited Children” and substituted “; and” for period at end.
+
+    [Pub. L. 114–22, § 116(b)(3)(D)][/us/pl/114/22/s116/b/3/D], redesignated subpar. (C) as (D).
+
+    Par. (4)(E). [Pub. L. 114–22, § 116(b)(3)(G)][/us/pl/114/22/s116/b/3/G], added subpar. (E).
 
     2006—[Pub. L. 109–248][/us/pl/109/248] added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and substituted “within 2 hours of receipt” for “immediately” in concluding provisions of par. (3).
 
@@ -65,6 +87,16 @@
 [/us/stat/104/4967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4967
 [/us/pl/109/248/s154/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs154%2Fa
 [/us/stat/120/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F611
+[/us/pl/114/22/s116/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs116%2Fb
+[/us/stat/129/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F244
+[/us/pl/114/22/s116/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs116%2Fb%2F1
+[/us/pl/114/22/s116/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs116%2Fb%2F2
+[/us/pl/114/22/s116/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs116%2Fb%2F3%2FA
+[/us/pl/114/22/s116/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs116%2Fb%2F3%2FB
+[/us/pl/114/22/s116/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs116%2Fb%2F3%2FC
+[/us/pl/114/22/s116/b/3/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs116%2Fb%2F3%2FF
+[/us/pl/114/22/s116/b/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs116%2Fb%2F3%2FD
+[/us/pl/114/22/s116/b/3/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs116%2Fb%2F3%2FG
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 
 

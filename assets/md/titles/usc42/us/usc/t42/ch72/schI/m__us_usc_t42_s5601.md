@@ -163,6 +163,12 @@
 
     [Pub. L. 93–415, title II, § 263(a)][/us/pl/93/415/s263/a], (b), Sept. 7, 1974, [88 Stat. 1129][/us/stat/88/1129], as amended by [Pub. L. 94–273, § 32(a)][/us/pl/94/273/s32/a], Apr. 21, 1976, [90 Stat. 380][/us/stat/90/380]; [Pub. L. 95–115, § 6(d)(1)][/us/pl/95/115/s6/d/1], Oct. 3, 1977, [91 Stat. 1058][/us/stat/91/1058], which provided that (a) except as provided by subsections (b) and (c) (set out as an Effective Date of 1977 Amendment note above), the foregoing provisions of such Act (enacting subchapters I and II of this chapter and amending [section 5108 of Title 5][/us/usc/t5/s5108], Government Organization and Employees) were to take effect on Sept. 7, 1974, and that (b) section 5614(b)(5) and 5614(b)(6) of this title was to become effective at the close of the thirty-first day of the twelfth calendar month of 1974 and section 5614(l) of this title was to become effective at the close of the thirtieth day of the eleventh month of 1976, was repealed by [Pub. L. 100–690, title VII, § 7266(2)][/us/pl/100/690/s7266/2], Nov. 18, 1988, [102 Stat. 4449][/us/stat/102/4449].
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–22, title I, § 116(a)][/us/pl/114/22/s116/a], May 29, 2015, [129 Stat. 244][/us/stat/129/244], provided that: 
+
+> “This section \[amending [section 5780 of this title][/us/usc/t42/s5780]\] may be cited as the ‘Bringing Missing Children Home Act’.”
+
  __Short Title of 2013 Amendment__ 
 
 [Pub. L. 113–38, § 1][/us/pl/113/38/s1], Sept. 30, 2013, [127 Stat. 527][/us/stat/127/527], provided that: 
@@ -316,6 +322,9 @@
 [/us/usc/t5/s5108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5108
 [/us/pl/100/690/s7266/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7266%2F2
 [/us/stat/102/4449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4449
+[/us/pl/114/22/s116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs116%2Fa
+[/us/stat/129/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F244
+[/us/usc/t42/s5780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5780
 [/us/pl/113/38/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38%2Fs1
 [/us/stat/127/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F527
 [/us/usc/t42/s5776a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5776a

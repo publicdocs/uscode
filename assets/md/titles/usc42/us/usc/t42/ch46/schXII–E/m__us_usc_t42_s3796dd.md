@@ -59,7 +59,43 @@
 
     (c) __Preferential consideration of applications for certain grants__ 
 
-        In awarding grants under this subchapter, the Attorney General may give preferential consideration, where feasible, to applications for hiring and rehiring additional career law enforcement officers that involve a non-Federal contribution exceeding the 25 percent minimum under subsection (g) of this section.
+    In awarding grants under this subchapter, the Attorney General may give preferential consideration, where feasible, to an application—
+
+        (1) for hiring and rehiring additional career law enforcement officers that involves a non-Federal contribution exceeding the 25 percent minimum under subsection (g);
+
+        (2)
+
+         from an applicant in a State that has in effect a law that—
+
+            (A) treats a minor who has engaged in, or has attempted to engage in, a commercial sex act as a victim of a severe form of trafficking in persons;
+
+            (B) discourages or prohibits the charging or prosecution of an individual described in subparagraph (A) for a prostitution or sex trafficking offense, based on the conduct described in subparagraph (A); and
+
+            (C) encourages the diversion of an individual described in subparagraph (A) to appropriate service providers, including child welfare services, victim treatment programs, child advocacy centers, rape crisis centers, or other social services; or
+
+        (3)
+
+         from an applicant in a State that has in effect a law—
+
+            (A)
+
+             that—
+
+                (i) provides a process by which an individual who is a human trafficking survivor can move to vacate any arrest or conviction records for a non-violent offense committed as a direct result of human trafficking, including prostitution or lewdness;
+
+                (ii)
+
+                 establishes a rebuttable presumption that any arrest or conviction of an individual for an offense associated with human trafficking is a result of being trafficked, if the individual—
+
+                    (I) is a person granted nonimmigrant status pursuant to [section 1101(a)(15)(T)(i) of title 8][/us/usc/t8/s1101/a/15/T/i];
+
+                    (II) is the subject of a certification by the Secretary of Health and Human Services under [section 7105(b)(1)(E) of title 22][/us/usc/t22/s7105/b/1/E]; or
+
+                    (III) has other similar documentation of trafficking, which has been issued by a Federal, State, or local agency; and
+
+                (iii) protects the identity of individuals who are human trafficking survivors in public and court records; and
+
+            (B) that does not require an individual who is a human trafficking survivor to provide official documentation as described in subclause (I), (II), or (III) of subparagraph (A)(ii) in order to receive protection under the law.
 
     (d) __Technical assistance__ 
 
@@ -127,7 +163,7 @@
 
         (3) __an explanation of how the practice of community policing and the broken windows theory can most effectively be applied in remote tribal locations.__ 
 
-([Pub. L. 90–351, title I, § 1701][/us/pl/90/351/s1701], as added [Pub. L. 103–322, title I, § 10003(a)(3)][/us/pl/103/322/s10003/a/3], Sept. 13, 1994, [108 Stat. 1808][/us/stat/108/1808]; amended [Pub. L. 105–119, title I, § 119][/us/pl/105/119/s119], Nov. 26, 1997, [111 Stat. 2468][/us/stat/111/2468]; [Pub. L. 105–302, § 1(1)][/us/pl/105/302/s1/1], Oct. 27, 1998, [112 Stat. 2841][/us/stat/112/2841]; [Pub. L. 108–21, title III, § 341][/us/pl/108/21/s341], Apr. 30, 2003, [117 Stat. 665][/us/stat/117/665]; [Pub. L. 109–162, title XI, § 1163(a)][/us/pl/109/162/s1163/a], Jan. 5, 2006, [119 Stat. 3119][/us/stat/119/3119]; [Pub. L. 111–211, title II, § 243][/us/pl/111/211/s243], July 29, 2010, [124 Stat. 2292][/us/stat/124/2292].)
+([Pub. L. 90–351, title I, § 1701][/us/pl/90/351/s1701], as added [Pub. L. 103–322, title I, § 10003(a)(3)][/us/pl/103/322/s10003/a/3], Sept. 13, 1994, [108 Stat. 1808][/us/stat/108/1808]; amended [Pub. L. 105–119, title I, § 119][/us/pl/105/119/s119], Nov. 26, 1997, [111 Stat. 2468][/us/stat/111/2468]; [Pub. L. 105–302, § 1(1)][/us/pl/105/302/s1/1], Oct. 27, 1998, [112 Stat. 2841][/us/stat/112/2841]; [Pub. L. 108–21, title III, § 341][/us/pl/108/21/s341], Apr. 30, 2003, [117 Stat. 665][/us/stat/117/665]; [Pub. L. 109–162, title XI, § 1163(a)][/us/pl/109/162/s1163/a], Jan. 5, 2006, [119 Stat. 3119][/us/stat/119/3119]; [Pub. L. 111–211, title II, § 243][/us/pl/111/211/s243], July 29, 2010, [124 Stat. 2292][/us/stat/124/2292]; [Pub. L. 114–22, title VI, § 601(1)][/us/pl/114/22/s601/1], title X, § 1002, May 29, 2015, [129 Stat. 258][/us/stat/129/258], 266.)
 
  __References in Text__ 
 
@@ -138,6 +174,10 @@
     A prior [section 1701 of Pub. L. 90–351][/us/pl/90/351/s1701] was renumbered section 2601 and is classified to [section 3797 of this title][/us/usc/t42/s3797].
 
  __Amendments__ 
+
+    2015—Subsec. (c). [Pub. L. 114–22, § 601(1)][/us/pl/114/22/s601/1], substituted “where feasible, to an application—” for “where feasible, to applications for hiring and rehiring additional career law enforcement officers that involve a non-Federal contribution exceeding the 25 percent minimum under subsection (g) of this section.” and added pars. (1) and (2).
+
+    Subsec. (c)(3). [Pub. L. 114–22, § 1002][/us/pl/114/22/s1002], added par. (3).
 
     2010—Subsec. (b). [Pub. L. 111–211, § 243(1)(A)][/us/pl/111/211/s243/1/A], inserted “to” after each par. designation.
 
@@ -262,6 +302,8 @@
 ----------
 ----------
 
+[/us/usc/t8/s1101/a/15/T/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15%2FT%2Fi
+[/us/usc/t22/s7105/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7105%2Fb%2F1%2FE
 [/us/usc/t42/s3796dd–1/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796dd%E2%80%931%2Fc%2F8
 [/us/usc/t42/s3793/a/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3793%2Fa%2F11%2FB
 [/us/usc/t42/s3796dd–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796dd%E2%80%932
@@ -278,11 +320,15 @@
 [/us/stat/119/3119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3119
 [/us/pl/111/211/s243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs243
 [/us/stat/124/2292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2292
+[/us/pl/114/22/s601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs601%2F1
+[/us/stat/129/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F258
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/stat/108/1807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1807
 [/us/usc/t42/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3711
 [/us/pl/90/351/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs1701
 [/us/usc/t42/s3797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3797
+[/us/pl/114/22/s601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs601%2F1
+[/us/pl/114/22/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs1002
 [/us/pl/111/211/s243/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs243%2F1%2FA
 [/us/pl/111/211/s243/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs243%2F1%2FB
 [/us/pl/111/211/s243/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs243%2F1%2FG

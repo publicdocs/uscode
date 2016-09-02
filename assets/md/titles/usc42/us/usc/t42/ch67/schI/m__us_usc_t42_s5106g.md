@@ -49,13 +49,37 @@
 
         (C) the provision of such treatment would be virtually futile in terms of the survival of the infant and the treatment itself under such circumstances would be inhumane;  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The semicolon probably should be a period. </sup></sup> 
 
-([Pub. L. 93–247, title I, § 111][/us/pl/93/247/s111], formerly § 14, as added [Pub. L. 100–294, title I, § 101][/us/pl/100/294/s101], Apr. 25, 1988, [102 Stat. 116][/us/stat/102/116]; renumbered title I, § 113, and amended [Pub. L. 101–126, § 3(a)(1)][/us/pl/101/126/s3/a/1], (2), (b)(7), Oct. 25, 1989, [103 Stat. 764][/us/stat/103/764], 765; renumbered § 111 and amended [Pub. L. 104–235, title I][/us/pl/104/235], §§ 110, 113(a)(1)(B), Oct. 3, 1996, [110 Stat. 3078][/us/stat/110/3078], 3079; [Pub. L. 111–320, title I][/us/pl/111/320], §§ 119, 142(b), Dec. 20, 2010, [124 Stat. 3477][/us/stat/124/3477], 3483.)
+([Pub. L. 93–247, title I, § 111][/us/pl/93/247/s111], formerly § 14, as added [Pub. L. 100–294, title I, § 101][/us/pl/100/294/s101], Apr. 25, 1988, [102 Stat. 116][/us/stat/102/116]; renumbered title I, § 113, and amended [Pub. L. 101–126, § 3(a)(1)][/us/pl/101/126/s3/a/1], (2), (b)(7), Oct. 25, 1989, [103 Stat. 764][/us/stat/103/764], 765; renumbered § 111 and amended [Pub. L. 104–235, title I][/us/pl/104/235], §§ 110, 113(a)(1)(B), Oct. 3, 1996, [110 Stat. 3078][/us/stat/110/3078], 3079; [Pub. L. 111–320, title I][/us/pl/111/320], §§ 119, 142(b), Dec. 20, 2010, [124 Stat. 3477][/us/stat/124/3477], 3483; [Pub. L. 114–22, title VIII, § 802(c)(1)][/us/pl/114/22/s802/c/1], (3), May 29, 2015, [129 Stat. 264][/us/stat/129/264].)
+
+ __Amendment of Section__ 
+
+    [Pub. L. 114–22, title VIII, § 802(a)][/us/pl/114/22/s802/a], (c)(1), (3), May 29, 2015, [129 Stat. 263][/us/stat/129/263], 264, provided that, effective 2 years after May 29, 2015, this section is amended—
+
+    (1) by striking “For purposes” and inserting the following:
+
+    “(a) Definitions.—For purposes”;
+
+    (2) by adding at the end the following:
+
+    “(b) Special Rule.—
+
+    “(1) In general.—For purposes of section 3(2) and subsection (a)(4), a child shall be considered a victim of ‘child abuse and neglect’ and of ‘sexual abuse’ if the child is identified, by a State or local agency employee of the State or locality involved, as being a victim of sex trafficking (as defined in paragraph (10) of [section 7102 of title 22][/us/usc/t22/s7102]) or a victim of severe forms of trafficking in persons described in paragraph (9)(A) of that section.
+
+    “(2) State option.—Notwithstanding the definition of ‘child’ in section 3(1), a State may elect to define that term for purposes of the application of paragraph (1) to section 3(2) and subsection (a)(4) as a person who has not attained the age of 24.”; and
+
+    (3) in subsection (a)(5)(C), as so designated, by striking “inhumane;” and inserting “inhumane.”
+
+    See 2015 Amendment notes below.
 
  __Prior Provisions__ 
 
     A prior [section 111 of Pub. L. 93–247][/us/pl/93/247/s111] was renumbered section 109 and is classified to [section 5106e of this title][/us/usc/t42/s5106e].
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–22, § 802(c)(1)][/us/pl/114/22/s802/c/1], designated existing provisions as subsec. (a) and inserted heading and added subsec. (b).
+
+    Subsec. (a)(5)(C). [Pub. L. 114–22, § 802(c)(3)][/us/pl/114/22/s802/c/3], substituted period for semicolon at end.
 
     2010—Pars. (1), (2). [Pub. L. 111–320, § 142(b)(1)][/us/pl/111/320/s142/b/1], (2), redesignated pars. (7) and (8) as (1) and (2), respectively, and struck out former pars. (1) and (2) which read as follows:
 
@@ -115,6 +139,10 @@
 
     Pars. (1), (2), (9). [Pub. L. 101–126, § 3(b)(7)(B)][/us/pl/101/126/s3/b/7/B]–(D), made technical amendments to references to sections 5101, 5102, and 5103 of this title to reflect renumbering of corresponding sections of original act.
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–22][/us/pl/114/22] effective 2 years after May 29, 2015, see [section 802(a) of Pub. L. 114–22][/us/pl/114/22/s802/a], set out as a note under [section 5106a of this title][/us/usc/t42/s5106a].
+
 ----------
 
 [Previous](./../../../../..//us/usc/t42/ch67/schI/m__us_usc_t42_s5106f–1.md) | [Next](./../../../../..//us/usc/t42/ch67/schI/m__us_usc_t42_s5106h.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5106g)
@@ -134,8 +162,15 @@
 [/us/stat/110/3078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3078
 [/us/pl/111/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320
 [/us/stat/124/3477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3477
+[/us/pl/114/22/s802/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs802%2Fc%2F1
+[/us/stat/129/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F264
+[/us/pl/114/22/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs802%2Fa
+[/us/stat/129/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F263
+[/us/usc/t22/s7102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7102
 [/us/pl/93/247/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2Fs111
 [/us/usc/t42/s5106e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5106e
+[/us/pl/114/22/s802/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs802%2Fc%2F1
+[/us/pl/114/22/s802/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs802%2Fc%2F3
 [/us/pl/111/320/s142/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs142%2Fb%2F1
 [/us/pl/111/320/s142/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs142%2Fb%2F1
 [/us/pl/111/320/s142/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs142%2Fb%2F4
@@ -164,5 +199,8 @@
 [/us/pl/104/235/s110/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F235%2Fs110%2F2%2FB
 [/us/pl/101/126/s3/b/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F126%2Fs3%2Fb%2F7%2FA
 [/us/pl/101/126/s3/b/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F126%2Fs3%2Fb%2F7%2FB
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
+[/us/pl/114/22/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs802%2Fa
+[/us/usc/t42/s5106a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5106a
 
 

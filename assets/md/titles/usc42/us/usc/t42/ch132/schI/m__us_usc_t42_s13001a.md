@@ -25,7 +25,7 @@
 
     (4) the term “census region” means 1 of the 4 census regions (northeast, south, midwest, and west) that are designated as census regions by the Bureau of the Census as of November 4, 1992;
 
-    (5) the term “child abuse” means physical or sexual abuse or neglect of a child;
+    (5) the term “child abuse” means physical or sexual abuse or neglect of a child, including human trafficking and the production of child pornography;
 
     (6) the term “Director” means the Director of the National Center on Child Abuse and Neglect;
 
@@ -35,11 +35,15 @@
 
     (9) the term “regional children’s advocacy program” means the children’s advocacy program established under [section 13001b(a) of this title][/us/usc/t42/s13001b/a].
 
-([Pub. L. 101–647, title II, § 212][/us/pl/101/647/s212], as added [Pub. L. 102–586, § 6(b)(2)][/us/pl/102/586/s6/b/2], Nov. 4, 1992, [106 Stat. 5029][/us/stat/106/5029].)
+([Pub. L. 101–647, title II, § 212][/us/pl/101/647/s212], as added [Pub. L. 102–586, § 6(b)(2)][/us/pl/102/586/s6/b/2], Nov. 4, 1992, [106 Stat. 5029][/us/stat/106/5029]; amended [Pub. L. 114–22, title I, § 104(1)][/us/pl/114/22/s104/1], May 29, 2015, [129 Stat. 236][/us/stat/129/236].)
 
  __Prior Provisions__ 
 
     A prior [section 212 of Pub. L. 101–647][/us/pl/101/647/s212] was renumbered section 214 and is classified to [section 13002 of this title][/us/usc/t42/s13002].
+
+ __Amendments__ 
+
+    2015—Par. (5). [Pub. L. 114–22][/us/pl/114/22] inserted “, including human trafficking and the production of child pornography” before semicolon at end.
 
 ----------
 
@@ -54,7 +58,10 @@
 [/us/pl/101/647/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs212
 [/us/pl/102/586/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs6%2Fb%2F2
 [/us/stat/106/5029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5029
+[/us/pl/114/22/s104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs104%2F1
+[/us/stat/129/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F236
 [/us/pl/101/647/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs212
 [/us/usc/t42/s13002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13002
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
 
 

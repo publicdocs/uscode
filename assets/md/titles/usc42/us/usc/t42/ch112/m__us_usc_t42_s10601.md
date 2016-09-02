@@ -87,7 +87,7 @@
 
              Of the sums remaining in the Fund in any particular fiscal year after compliance with paragraph (2), such sums as may be necessary shall be available only for—
 
-                (i) the United States Attorneys Offices and the Federal Bureau of Investigation to provide and improve services for the benefit of crime victims in the Federal criminal justice system (as described in 3771  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be preceded by “section”. </sup></sup>  of title 18 and [section 10607 of this title][/us/usc/t42/s10607]) through victim coordinators, victims’ specialists, and advocates, including for the administrative support of victim coordinators and advocates providing such services; and
+                (i) the United States Attorneys Offices and the Federal Bureau of Investigation to provide and improve services for the benefit of crime victims in the Federal criminal justice system (as described in [section 3771 of title 18][/us/usc/t18/s3771] and [section 10607 of this title][/us/usc/t42/s10607]) through victim coordinators, victims’ specialists, and advocates, including for the administrative support of victim coordinators and advocates providing such services; and
 
                 (ii) a Victim Notification System.
 
@@ -137,9 +137,9 @@
 
         (2) The Attorney General may use 5 percent of the funds available under subsection (d)(2) of this section (prior to distribution) for grants to Indian tribes to establish child victim assistance programs, as appropriate.
 
-        (3) As used in this subsection, the term “tribe”  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “ ‘Indian tribe’ ”. </sup></sup>  has the meaning given that term in section 450b(b) 1 of title 25.
+        (3) As used in this subsection, the term “tribe”  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “ ‘Indian tribe’ ”. </sup></sup>  has the meaning given that term in section 450b(b) 1 of title 25.
 
-([Pub. L. 98–473, title II, § 1402][/us/pl/98/473/s1402], Oct. 12, 1984, [98 Stat. 2170][/us/stat/98/2170]; [Pub. L. 99–401, title I, § 102(b)(1)][/us/pl/99/401/s102/b/1], (2), Aug. 27, 1986, [100 Stat. 904][/us/stat/100/904]; [Pub. L. 99–646, § 82][/us/pl/99/646/s82], Nov. 10, 1986, [100 Stat. 3619][/us/stat/100/3619]; [Pub. L. 100–690, title VII][/us/pl/100/690], §§ 7121, 7124, Nov. 18, 1988, [102 Stat. 4419][/us/stat/102/4419], 4422; [Pub. L. 101–647, title V, § 504][/us/pl/101/647/s504], Nov. 29, 1990, [104 Stat. 4822][/us/stat/104/4822]; [Pub. L. 102–572, title X, § 1001][/us/pl/102/572/s1001], Oct. 29, 1992, [106 Stat. 4520][/us/stat/106/4520]; [Pub. L. 103–121, title I, § 110(a)][/us/pl/103/121/s110/a], Oct. 27, 1993, [107 Stat. 1164][/us/stat/107/1164]; [Pub. L. 103–322, title XXIII, § 230201][/us/pl/103/322/s230201], title XXXIII, § 330025(a), Sept. 13, 1994, [108 Stat. 2079][/us/stat/108/2079], 2151; [Pub. L. 104–132, title II][/us/pl/104/132], §§ 232(b), (c)(1), 236, Apr. 24, 1996, [110 Stat. 1243][/us/stat/110/1243], 1244, 1247; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title I, § 112\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–21; [Pub. L. 105–119, title I, § 109(a)][/us/pl/105/119/s109/a], Nov. 26, 1997, [111 Stat. 2457][/us/stat/111/2457]; [Pub. L. 106–113, div. B, § 1000(a)(1)][/us/pl/106/113/s1000/a/1] \[title I, § 119\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–22; [Pub. L. 106–177, title I, § 104(a)][/us/pl/106/177/s104/a], Mar. 10, 2000, [114 Stat. 36][/us/stat/114/36]; [Pub. L. 106–386, div. C, § 2003(b)][/us/pl/106/386/s2003/b], (c)(2), (d), Oct. 28, 2000, [114 Stat. 1544][/us/stat/114/1544], 1546; [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title I, § 113, formerly § 114\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–68, renumbered [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. A, § 213(a)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–179; [Pub. L. 107–56, title VI, § 621(a)][/us/pl/107/56/s621/a]–(d), Oct. 26, 2001, [115 Stat. 370][/us/stat/115/370], 371; [Pub. L. 107–77, title I, § 111][/us/pl/107/77/s111], Nov. 28, 2001, [115 Stat. 765][/us/stat/115/765]; [Pub. L. 109–162, title XI, § 1132][/us/pl/109/162/s1132], Jan. 5, 2006, [119 Stat. 3107][/us/stat/119/3107]; [Pub. L. 109–435, title I, § 102(b)][/us/pl/109/435/s102/b], Dec. 20, 2006, [120 Stat. 3200][/us/stat/120/3200]; [Pub. L. 113–163, § 3][/us/pl/113/163/s3], Aug. 8, 2014, [128 Stat. 1866][/us/stat/128/1866].)
+([Pub. L. 98–473, title II, § 1402][/us/pl/98/473/s1402], Oct. 12, 1984, [98 Stat. 2170][/us/stat/98/2170]; [Pub. L. 99–401, title I, § 102(b)(1)][/us/pl/99/401/s102/b/1], (2), Aug. 27, 1986, [100 Stat. 904][/us/stat/100/904]; [Pub. L. 99–646, § 82][/us/pl/99/646/s82], Nov. 10, 1986, [100 Stat. 3619][/us/stat/100/3619]; [Pub. L. 100–690, title VII][/us/pl/100/690], §§ 7121, 7124, Nov. 18, 1988, [102 Stat. 4419][/us/stat/102/4419], 4422; [Pub. L. 101–647, title V, § 504][/us/pl/101/647/s504], Nov. 29, 1990, [104 Stat. 4822][/us/stat/104/4822]; [Pub. L. 102–572, title X, § 1001][/us/pl/102/572/s1001], Oct. 29, 1992, [106 Stat. 4520][/us/stat/106/4520]; [Pub. L. 103–121, title I, § 110(a)][/us/pl/103/121/s110/a], Oct. 27, 1993, [107 Stat. 1164][/us/stat/107/1164]; [Pub. L. 103–322, title XXIII, § 230201][/us/pl/103/322/s230201], title XXXIII, § 330025(a), Sept. 13, 1994, [108 Stat. 2079][/us/stat/108/2079], 2151; [Pub. L. 104–132, title II][/us/pl/104/132], §§ 232(b), (c)(1), 236, Apr. 24, 1996, [110 Stat. 1243][/us/stat/110/1243], 1244, 1247; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title I, § 112\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–21; [Pub. L. 105–119, title I, § 109(a)][/us/pl/105/119/s109/a], Nov. 26, 1997, [111 Stat. 2457][/us/stat/111/2457]; [Pub. L. 106–113, div. B, § 1000(a)(1)][/us/pl/106/113/s1000/a/1] \[title I, § 119\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–22; [Pub. L. 106–177, title I, § 104(a)][/us/pl/106/177/s104/a], Mar. 10, 2000, [114 Stat. 36][/us/stat/114/36]; [Pub. L. 106–386, div. C, § 2003(b)][/us/pl/106/386/s2003/b], (c)(2), (d), Oct. 28, 2000, [114 Stat. 1544][/us/stat/114/1544], 1546; [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title I, § 113, formerly § 114\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–68, renumbered [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. A, § 213(a)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–179; [Pub. L. 107–56, title VI, § 621(a)][/us/pl/107/56/s621/a]–(d), Oct. 26, 2001, [115 Stat. 370][/us/stat/115/370], 371; [Pub. L. 107–77, title I, § 111][/us/pl/107/77/s111], Nov. 28, 2001, [115 Stat. 765][/us/stat/115/765]; [Pub. L. 109–162, title XI, § 1132][/us/pl/109/162/s1132], Jan. 5, 2006, [119 Stat. 3107][/us/stat/119/3107]; [Pub. L. 109–435, title I, § 102(b)][/us/pl/109/435/s102/b], Dec. 20, 2006, [120 Stat. 3200][/us/stat/120/3200]; [Pub. L. 113–163, § 3][/us/pl/113/163/s3], Aug. 8, 2014, [128 Stat. 1866][/us/stat/128/1866]; [Pub. L. 114–22, title I, § 113(b)][/us/pl/114/22/s113/b], May 29, 2015, [129 Stat. 241][/us/stat/129/241].)
 
  __References in Text__ 
 
@@ -156,6 +156,8 @@
     [Section 450b of title 25][/us/usc/t25/s450b], referred to in subsec. (g)(3), has been amended, and subsec. (b) of section 450b no longer defines the term “Indian tribe”. However, such term is defined elsewhere in that section.
 
  __Amendments__ 
+
+    2015—Subsec. (d)(3)(A)(i). [Pub. L. 114–22][/us/pl/114/22] inserted “section” before “3771”.
 
     2014—Subsec. (d)(3). [Pub. L. 113–163][/us/pl/113/163] designated existing provisions as subpar. (A), substituted “available only for—” for “available for the United States Attorneys Offices and the Federal Bureau of Investigation to improve services for the benefit of crime victims in the Federal criminal justice system, and for a Victim Notification System.”, added cls. (i) and (ii) of subpar. (A), and added subpar. (B).
 
@@ -433,6 +435,7 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/111/2457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2457
 [/us/usc/t42/s10603a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10603a
 [/us/usc/t42/s10603a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10603a
+[/us/usc/t18/s3771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3771
 [/us/usc/t42/s10607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10607
 [/us/usc/t42/s10602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10602
 [/us/usc/t42/s10603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10603%2Fa
@@ -482,6 +485,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/120/3200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3200
 [/us/pl/113/163/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F163%2Fs3
 [/us/stat/128/1866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1866
+[/us/pl/114/22/s113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs113%2Fb
+[/us/stat/129/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F241
 [/us/act/1938-06-25/ch680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch680
 [/us/stat/52/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1094
 [/us/usc/t45/s367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs367
@@ -493,6 +498,7 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/100/3600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3600
 [/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
 [/us/pl/113/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F163
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/pl/109/162/s1132/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs1132%2F1

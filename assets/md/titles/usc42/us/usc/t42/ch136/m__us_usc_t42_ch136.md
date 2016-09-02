@@ -1435,6 +1435,78 @@ Part N–1—Sexual Assault Services  </td>
 
     <td> 
 
+Part N–2—Rape Survivor Child Custody  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14043h" data-uslm-ref="/us/usc/t42/s14043h">14043h.</a>  </td>
+
+    <td> Definitions.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14043h%E2%80%931" data-uslm-ref="/us/usc/t42/s14043h–1">14043h–1.</a>  </td>
+
+    <td> Findings.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14043h%E2%80%932" data-uslm-ref="/us/usc/t42/s14043h–2">14043h–2.</a>  </td>
+
+    <td> Increased funding for formula grants authorized.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14043h%E2%80%933" data-uslm-ref="/us/usc/t42/s14043h–3">14043h–3.</a>  </td>
+
+    <td> Application.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14043h%E2%80%934" data-uslm-ref="/us/usc/t42/s14043h–4">14043h–4.</a>  </td>
+
+    <td> Grant increase.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14043h%E2%80%935" data-uslm-ref="/us/usc/t42/s14043h–5">14043h–5.</a>  </td>
+
+    <td> Period of increase.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14043h%E2%80%936" data-uslm-ref="/us/usc/t42/s14043h–6">14043h–6.</a>  </td>
+
+    <td> Allocation of increased formula grant funds.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14043h%E2%80%937" data-uslm-ref="/us/usc/t42/s14043h–7">14043h–7.</a>  </td>
+
+    <td> Authorization of appropriations.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
 Part O—Combatting Domestic Trafficking in Persons  </td>
 
   </tr>
@@ -1459,7 +1531,15 @@ Part O—Combatting Domestic Trafficking in Persons  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14044b" data-uslm-ref="/us/usc/t42/s14044b">14044b.</a>  </td>
 
-    <td> Protection of juvenile victims of trafficking in persons.  </td>
+    <td> Victim-centered child human trafficking deterrence block grant program.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14044b%E2%80%931" data-uslm-ref="/us/usc/t42/s14044b–1">14044b–1.</a>  </td>
+
+    <td> Grant accountability.  </td>
 
   </tr>
 
@@ -1492,6 +1572,22 @@ Part O—Combatting Domestic Trafficking in Persons  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14044f" data-uslm-ref="/us/usc/t42/s14044f">14044f.</a>  </td>
 
     <td> Grants for law enforcement training programs.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14044g" data-uslm-ref="/us/usc/t42/s14044g">14044g.</a>  </td>
+
+    <td> Combat Human Trafficking Act.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs14044h" data-uslm-ref="/us/usc/t42/s14044h">14044h.</a>  </td>
+
+    <td> Establishing a National Strategy to Combat Human Trafficking.  </td>
 
   </tr>
 

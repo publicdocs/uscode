@@ -217,6 +217,14 @@ Part A—Sex Offender Registration and Notification  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16928a" data-uslm-ref="/us/usc/t42/s16928a">16928a.</a>  </td>
+
+    <td> Registration of sex offenders released from military corrections facilities or upon conviction.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16929" data-uslm-ref="/us/usc/t42/s16929">16929.</a>  </td>
 
     <td> Immunity for good faith conduct.  </td>

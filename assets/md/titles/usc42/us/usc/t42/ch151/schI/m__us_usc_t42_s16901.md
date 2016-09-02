@@ -57,6 +57,12 @@
 
     This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 109–248][/us/pl/109/248], July 27, 2006, [120 Stat. 587][/us/stat/120/587], known as the Adam Walsh Child Protection and Safety Act of 2006. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–22, title V, § 501][/us/pl/114/22/s501], May 29, 2015, [129 Stat. 258][/us/stat/129/258], provided that: 
+
+> “This title \[enacting [section 16928a of this title][/us/usc/t42/s16928a]\] may be cited as the ‘Military Sex Offender Reporting Act of 2015’.”
+
  __Short Title of 2008 Amendment__ 
 
 [Pub. L. 110–400, § 1][/us/pl/110/400/s1], Oct. 13, 2008, [122 Stat. 4224][/us/stat/122/4224], provided that: 
@@ -84,6 +90,9 @@
 [/us/stat/120/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F590
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 [/us/stat/120/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F587
+[/us/pl/114/22/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs501
+[/us/stat/129/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F258
+[/us/usc/t42/s16928a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16928a
 [/us/pl/110/400/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F400%2Fs1
 [/us/stat/122/4224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4224
 [/us/usc/t42/s16981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16981

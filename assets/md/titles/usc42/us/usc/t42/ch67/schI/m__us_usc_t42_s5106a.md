@@ -469,7 +469,27 @@
 
             Notwithstanding paragraphs (2) and (4), except as provided in paragraph (3), no State or territory shall receive a grant under this section in an amount that is less than the amount such State or territory received under this section for fiscal year 2009.
 
-([Pub. L. 93–247, title I, § 106][/us/pl/93/247/s106], formerly § 8, as added [Pub. L. 100–294, title I, § 101][/us/pl/100/294/s101], Apr. 25, 1988, [102 Stat. 110][/us/stat/102/110]; renumbered title I, § 107, [Pub. L. 101–126, § 3(a)(1)][/us/pl/101/126/s3/a/1], (2), Oct. 25, 1989, [103 Stat. 764][/us/stat/103/764]; amended [Pub. L. 102–295, title I, § 114(a)][/us/pl/102/295/s114/a]–(c), May 28, 1992, [106 Stat. 192][/us/stat/106/192], 195; [Pub. L. 102–586, § 9(b)][/us/pl/102/586/s9/b], Nov. 4, 1992, [106 Stat. 5037][/us/stat/106/5037]; renumbered § 106 and amended [Pub. L. 104–235, title I][/us/pl/104/235], §§ 107, 113(a)(1)(A), Oct. 3, 1996, [110 Stat. 3071][/us/stat/110/3071], 3079; [Pub. L. 108–36, title I, § 114(a)][/us/pl/108/36/s114/a]–(d), June 25, 2003, [117 Stat. 808–812][/us/stat/117/808-812]; [Pub. L. 111–320, title I, § 115][/us/pl/111/320/s115], Dec. 20, 2010, [124 Stat. 3467][/us/stat/124/3467].)
+([Pub. L. 93–247, title I, § 106][/us/pl/93/247/s106], formerly § 8, as added [Pub. L. 100–294, title I, § 101][/us/pl/100/294/s101], Apr. 25, 1988, [102 Stat. 110][/us/stat/102/110]; renumbered title I, § 107, [Pub. L. 101–126, § 3(a)(1)][/us/pl/101/126/s3/a/1], (2), Oct. 25, 1989, [103 Stat. 764][/us/stat/103/764]; amended [Pub. L. 102–295, title I, § 114(a)][/us/pl/102/295/s114/a]–(c), May 28, 1992, [106 Stat. 192][/us/stat/106/192], 195; [Pub. L. 102–586, § 9(b)][/us/pl/102/586/s9/b], Nov. 4, 1992, [106 Stat. 5037][/us/stat/106/5037]; renumbered § 106 and amended [Pub. L. 104–235, title I][/us/pl/104/235], §§ 107, 113(a)(1)(A), Oct. 3, 1996, [110 Stat. 3071][/us/stat/110/3071], 3079; [Pub. L. 108–36, title I, § 114(a)][/us/pl/108/36/s114/a]–(d), June 25, 2003, [117 Stat. 808–812][/us/stat/117/808-812]; [Pub. L. 111–320, title I, § 115][/us/pl/111/320/s115], Dec. 20, 2010, [124 Stat. 3467][/us/stat/124/3467]; [Pub. L. 114–22, title VIII, § 802(b)][/us/pl/114/22/s802/b], May 29, 2015, [129 Stat. 263][/us/stat/129/263].)
+
+ __Amendment of Section__ 
+
+    [Pub. L. 114–22, title VIII, § 802(a)][/us/pl/114/22/s802/a], (b), May 29, 2015, [129 Stat. 263][/us/stat/129/263], provided that, effective 2 years after May 29, 2015, this section is amended—
+
+    (1) in subsection (b)(2)(B)—
+
+    (A) in clause (xxii), by striking “and” at the end; and
+
+    (B) by adding at the end the following:
+
+    “(xxiv) provisions and procedures requiring identification and assessment of all reports involving children known or suspected to be victims of sex trafficking (as defined in [section 7102(10) of title 22][/us/usc/t22/s7102/10]); and
+
+    “(xxv) provisions and procedures for training child protective services workers about identifying, assessing, and providing comprehensive services for children who are sex trafficking victims, including efforts to coordinate with State law enforcement, juvenile justice, and social service agencies such as runaway and homeless youth shelters to serve this population;”; and
+
+    (2) in subsection (d), by adding at the end the following:
+
+    “(17) The number of children determined to be victims described in subsection (b)(2)(B)(xxiv).”
+
+    See 2015 Amendment notes below.
 
  __References in Text__ 
 
@@ -484,6 +504,10 @@
     A prior [section 106 of Pub. L. 93–247][/us/pl/93/247/s106] was renumbered section 105 and is classified to [section 5106 of this title][/us/usc/t42/s5106].
 
  __Amendments__ 
+
+    2015—Subsec. (b)(2)(B)(xxiv), (xxv). [Pub. L. 114–22, § 802(b)(1)][/us/pl/114/22/s802/b/1], added cls. (xxiv) and (xxv).
+
+    Subsec. (d)(17). [Pub. L. 114–22, § 802(b)(2)][/us/pl/114/22/s802/b/2], added par. (17).
 
     2010—[Pub. L. 111–320, § 115(a)][/us/pl/111/320/s115/a], substituted “child abuse or neglect” for “child abuse and neglect” in section catchline.
 
@@ -681,6 +705,12 @@
 
     Subsecs. (e) to (g). [Pub. L. 102–295, § 114(b)(1)][/us/pl/102/295/s114/b/1], redesignated subsecs. (d) to (f) as (e) to (g), respectively.
 
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–22, title VIII, § 802(a)][/us/pl/114/22/s802/a], May 29, 2015, [129 Stat. 263][/us/stat/129/263], provided that: 
+
+> “The amendments to the Child Abuse Prevention and Treatment Act ([42 U.S.C. 5101][/us/usc/t42/s5101] et seq.) made by this section \[amending this section and [section 5106g of this title][/us/usc/t42/s5106g] and provisions set out as a note under [section 5101 of this title][/us/usc/t42/s5101]\] shall take effect 2 years after the date of the enactment of this Act \[May 29, 2015\].”
+
  __Effective Date of 1992 Amendment__ 
 
 [Pub. L. 102–295, title I, § 114(d)][/us/pl/102/295/s114/d], May 28, 1992, [106 Stat. 195][/us/stat/106/195], as amended by [Pub. L. 103–171, § 9(a)][/us/pl/103/171/s9/a], Dec. 2, 1993, [107 Stat. 1994][/us/stat/107/1994], provided that: 
@@ -759,6 +789,11 @@
 [/us/stat/117/808-812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F808-812
 [/us/pl/111/320/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs115
 [/us/stat/124/3467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3467
+[/us/pl/114/22/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs802%2Fb
+[/us/stat/129/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F263
+[/us/pl/114/22/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs802%2Fa
+[/us/stat/129/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F263
+[/us/usc/t22/s7102/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7102%2F10
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
@@ -770,6 +805,8 @@
 [/us/usc/t42/s11301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11301
 [/us/pl/93/247/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247%2Fs106
 [/us/usc/t42/s5106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5106
+[/us/pl/114/22/s802/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs802%2Fb%2F1
+[/us/pl/114/22/s802/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs802%2Fb%2F2
 [/us/pl/111/320/s115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs115%2Fa
 [/us/pl/111/320/s115/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs115%2Fb%2F1
 [/us/pl/111/320/s115/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs115%2Fb%2F2
@@ -871,6 +908,11 @@
 [/us/pl/102/295/s114/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs114%2Fb%2F1
 [/us/pl/102/295/s114/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs114%2Fc
 [/us/pl/102/295/s114/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs114%2Fb%2F1
+[/us/pl/114/22/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs802%2Fa
+[/us/stat/129/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F263
+[/us/usc/t42/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5101
+[/us/usc/t42/s5106g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5106g
+[/us/usc/t42/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5101
 [/us/pl/102/295/s114/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F295%2Fs114%2Fd
 [/us/stat/106/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F195
 [/us/pl/103/171/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F171%2Fs9%2Fa
