@@ -421,7 +421,7 @@
 
  __Unavailable Collections__ 
 
-[Section 122(a) of Pub. L. 105–61][/us/pl/105/61/s122/a] provided that: 
+[Pub. L. 105–61, title I, § 122(a)][/us/pl/105/61/s122/a], Oct. 10, 1997, [111 Stat. 1289][/us/stat/111/1289], provided that: 
 
 > “The Secretary of the Treasury is authorized to receive all unavailable collections transferred from the Special Forfeiture Fund established by section 26073 \[6073\] of the Anti-Drug Abuse Act of 1988 ([21 U.S.C. 1509][/us/usc/t21/s1509]) by the Director of the Office of Drug Control Policy as a deposit into the Treasury Forfeiture Fund ([31 U.S.C. 9703(a)][/us/usc/t31/s9703/a]), to become available for obligation on October 1, 1998, as revenue available for purposes identified under [31 U.S.C. 9703(g)(4)(B)][/us/usc/t31/s9703/g/4/B].”
 
@@ -515,6 +515,7 @@
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/pl/105/61/s122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2Fs122%2Fa
+[/us/stat/111/1289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1289
 [/us/usc/t21/s1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1509
 [/us/usc/t31/s9703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9703%2Fa
 [/us/usc/t31/s9703/g/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9703%2Fg%2F4%2FB

@@ -37,6 +37,8 @@
 
 >             “(E) The List of Excluded Individuals/Entities of the Office of Inspector General of the Department of Health and Human Services.
 
+>             “(F) Information regarding incarcerated individuals maintained by the Commissioner of Social Security under sections 202(x) and 1611(e) of the Social Security Act \[[42 U.S.C. 402(x)][/us/usc/t42/s402/x], 1382(e)\].
+
 >     “(b) __Do Not Pay Initiative.—__ 
 
 >         “(1)  __Establishment__  __.—__ 
@@ -210,6 +212,7 @@
 ----------
 ----------
 
+[/us/usc/t42/s402/x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fx
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/usc/t5/s552a/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a%2Fu
 [/us/usc/t5/s552a/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a%2Fu

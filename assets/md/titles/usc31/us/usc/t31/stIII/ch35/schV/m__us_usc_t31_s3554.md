@@ -103,7 +103,7 @@
 
         (2) Not later than January 31 of each year, the Comptroller General shall transmit to the Congress a report containing a summary of each instance in which a Federal agency did not fully implement a recommendation of the Comptroller General under subsection (b) or (c) during the preceding year. The report shall also describe each instance in which a final decision in a protest was not rendered within 100 days after the date the protest is submitted to the Comptroller General. The report shall also include a summary of the most prevalent grounds for sustaining protests during such preceding year.
 
-(Added [Pub. L. 98–369, div. B, title VII, § 2741(a)][/us/pl/98/369/s2741/a], July 18, 1984, [98 Stat. 1201][/us/stat/98/1201]; amended [Pub. L. 100–463, title VIII, § 8139][/us/pl/100/463/s8139], Oct. 1, 1988, [102 Stat. 2270–47][/us/stat/102/2270-47]; [Pub. L. 103–355, title I, § 1403(a)][/us/pl/103/355/s1403/a]–(b)(3), Oct. 13, 1994, [108 Stat. 3289][/us/stat/108/3289], 3290; [Pub. L. 104–106, div. D, title XLIII, § 4321(d)(3)][/us/pl/104/106/s4321/d/3], div. E, title LV, § 5501(2), Feb. 10, 1996, [110 Stat. 674][/us/stat/110/674], 698; [Pub. L. 111–84, div. A, title III, § 327(c)][/us/pl/111/84/s327/c], Oct. 28, 2009, [123 Stat. 2255][/us/stat/123/2255]; [Pub. L. 112–239, div. A, title VIII][/us/pl/112/239] § 867, Jan. 2, 2013, [126 Stat. 1862][/us/stat/126/1862].)
+(Added [Pub. L. 98–369, div. B, title VII, § 2741(a)][/us/pl/98/369/s2741/a], July 18, 1984, [98 Stat. 1201][/us/stat/98/1201]; amended [Pub. L. 100–463, title VIII, § 8139][/us/pl/100/463/s8139], Oct. 1, 1988, [102 Stat. 2270–47][/us/stat/102/2270-47]; [Pub. L. 103–355, title I, § 1403(a)][/us/pl/103/355/s1403/a]–(b)(3), Oct. 13, 1994, [108 Stat. 3289][/us/stat/108/3289], 3290; [Pub. L. 104–106, div. D, title XLIII, § 4321(d)(3)][/us/pl/104/106/s4321/d/3], div. E, title LV, § 5501(2), Feb. 10, 1996, [110 Stat. 674][/us/stat/110/674], 698; [Pub. L. 111–84, div. A, title III, § 327(c)][/us/pl/111/84/s327/c], Oct. 28, 2009, [123 Stat. 2255][/us/stat/123/2255]; [Pub. L. 112–239, div. A, title VIII, § 867][/us/pl/112/239/s867], Jan. 2, 2013, [126 Stat. 1862][/us/stat/126/1862].)
 
  __References in Text__ 
 
@@ -198,7 +198,7 @@
 [/us/stat/110/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F674
 [/us/pl/111/84/s327/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs327%2Fc
 [/us/stat/123/2255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2255
-[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239/s867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs867
 [/us/stat/126/1862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1862
 [/us/usc/t15/s632/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fa
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
