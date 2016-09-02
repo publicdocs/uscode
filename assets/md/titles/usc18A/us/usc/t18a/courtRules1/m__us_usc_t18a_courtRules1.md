@@ -15,7 +15,7 @@
 
 ## FEDERAL RULES OF CRIMINAL PROCEDURE
 
-(As amended to December 1, 2015)
+(As amended to January 3, 2016)
 
  __Historical Note__ 
 
