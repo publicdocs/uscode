@@ -25,7 +25,7 @@
 
         (3) The War Orphans’ Educational Assistance Act of 1956.
 
-        (4) Chapters 30, 32, 33, 34, 35, and 36.
+        (4) Chapters 30, 32, 33, 34, and 36.
 
         (5) Chapters 107, 1606, 1607, and 1611 of title 10.
 
@@ -37,19 +37,9 @@
 
     (b) No person may receive assistance under chapter 31 of this title in combination with assistance under any of the provisions of law cited in subsection (a) of this section in excess of 48 months (or the part-time equivalent thereof) unless the Secretary determines that additional months of benefits under chapter 31 of this title are necessary to accomplish the purposes of a rehabilitation program (as defined in [section 3101(5) of this title][/us/usc/t38/s3101/5]) in the individual case.
 
-(Added [Pub. L. 90–631, § 1(d)(1)][/us/pl/90/631/s1/d/1], Oct. 23, 1968, [82 Stat. 1331][/us/stat/82/1331], § 1791; renumbered § 1795 and amended [Pub. L. 92–540, title III, § 316(2)][/us/pl/92/540/s316/2], title IV, § 403(13), Oct. 24, 1972, [86 Stat. 1086][/us/stat/86/1086], 1090; [Pub. L. 96–466, title I, § 103][/us/pl/96/466/s103], Oct. 17, 1980, [94 Stat. 2187][/us/stat/94/2187]; [Pub. L. 98–223, title II, § 203(c)(2)][/us/pl/98/223/s203/c/2], Mar. 2, 1984, [98 Stat. 41][/us/stat/98/41]; [Pub. L. 98–525, title VII, § 703(d)][/us/pl/98/525/s703/d], Oct. 19, 1984, [98 Stat. 2564][/us/stat/98/2564]; [Pub. L. 101–237, title IV, § 423(a)(8)(B)][/us/pl/101/237/s423/a/8/B], (b)(1)(A), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3695 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 106–65, div. A, title V, § 551(b)][/us/pl/106/65/s551/b], Oct. 5, 1999, [113 Stat. 614][/us/stat/113/614]; [Pub. L. 107–103, title V, § 509(d)][/us/pl/107/103/s509/d], Dec. 27, 2001, [115 Stat. 997][/us/stat/115/997]; [Pub. L. 107–107, div. A, title X, § 1048(i)(8)][/us/pl/107/107/s1048/i/8], Dec. 28, 2001, [115 Stat. 1229][/us/stat/115/1229]; [Pub. L. 108–375, div. A, title V, § 527(b)(2)][/us/pl/108/375/s527/b/2], Oct. 28, 2004, [118 Stat. 1894][/us/stat/118/1894]; [Pub. L. 110–252, title V, § 5003(b)(1)(B)][/us/pl/110/252/s5003/b/1/B], June 30, 2008, [122 Stat. 2375][/us/stat/122/2375]; [Pub. L. 112–154, title IV, § 401(a)][/us/pl/112/154/s401/a], Aug. 6, 2012, [126 Stat. 1188][/us/stat/126/1188].)
-
- __Amendment of Section__ 
-
-[Pub. L. 112–154, title IV, § 401(a)][/us/pl/112/154/s401/a], (b), Aug. 6, 2012, [126 Stat. 1188][/us/stat/126/1188], provided that effective on Oct. 1, 2013, section is amended as follows:
-
-(1) in subsection (a)(4), by striking “35,”; and
-
-(2) by adding at the end the following new subsection:
-
     (c) The aggregate period for which any person may receive assistance under chapter 35 of this title, on the one hand, and any of the provisions of law referred to in subsection (a), on the other hand, may not exceed 81 months (or the part-time equivalent thereof).
 
-See 2012 Amendment notes below.
+(Added [Pub. L. 90–631, § 1(d)(1)][/us/pl/90/631/s1/d/1], Oct. 23, 1968, [82 Stat. 1331][/us/stat/82/1331], § 1791; renumbered § 1795 and amended [Pub. L. 92–540, title III, § 316(2)][/us/pl/92/540/s316/2], title IV, § 403(13), Oct. 24, 1972, [86 Stat. 1086][/us/stat/86/1086], 1090; [Pub. L. 96–466, title I, § 103][/us/pl/96/466/s103], Oct. 17, 1980, [94 Stat. 2187][/us/stat/94/2187]; [Pub. L. 98–223, title II, § 203(c)(2)][/us/pl/98/223/s203/c/2], Mar. 2, 1984, [98 Stat. 41][/us/stat/98/41]; [Pub. L. 98–525, title VII, § 703(d)][/us/pl/98/525/s703/d], Oct. 19, 1984, [98 Stat. 2564][/us/stat/98/2564]; [Pub. L. 101–237, title IV, § 423(a)(8)(B)][/us/pl/101/237/s423/a/8/B], (b)(1)(A), Dec. 18, 1989, [103 Stat. 2092][/us/stat/103/2092]; renumbered § 3695 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 106–65, div. A, title V, § 551(b)][/us/pl/106/65/s551/b], Oct. 5, 1999, [113 Stat. 614][/us/stat/113/614]; [Pub. L. 107–103, title V, § 509(d)][/us/pl/107/103/s509/d], Dec. 27, 2001, [115 Stat. 997][/us/stat/115/997]; [Pub. L. 107–107, div. A, title X, § 1048(i)(8)][/us/pl/107/107/s1048/i/8], Dec. 28, 2001, [115 Stat. 1229][/us/stat/115/1229]; [Pub. L. 108–375, div. A, title V, § 527(b)(2)][/us/pl/108/375/s527/b/2], Oct. 28, 2004, [118 Stat. 1894][/us/stat/118/1894]; [Pub. L. 110–252, title V, § 5003(b)(1)(B)][/us/pl/110/252/s5003/b/1/B], June 30, 2008, [122 Stat. 2375][/us/stat/122/2375]; [Pub. L. 112–154, title IV, § 401(a)][/us/pl/112/154/s401/a], Aug. 6, 2012, [126 Stat. 1188][/us/stat/126/1188].)
 
  __References in Text__ 
 
@@ -164,8 +154,6 @@ See 2012 Amendment notes below.
 [/us/stat/118/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1894
 [/us/pl/110/252/s5003/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs5003%2Fb%2F1%2FB
 [/us/stat/122/2375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2375
-[/us/pl/112/154/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs401%2Fa
-[/us/stat/126/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1188
 [/us/pl/112/154/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs401%2Fa
 [/us/stat/126/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1188
 [/us/act/1943-03-24/ch22/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-03-24%2Fch22%2Fs2
