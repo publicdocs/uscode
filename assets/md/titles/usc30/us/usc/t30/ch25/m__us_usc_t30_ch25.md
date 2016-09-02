@@ -713,6 +713,14 @@ SUBCHAPTER VII—ADMINISTRATIVE AND MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1308b" data-uslm-ref="/us/usc/t30/s1308b">1308b.</a>  </td>
+
+    <td> Transfer of computer hardware, software and other technical equipment.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1309" data-uslm-ref="/us/usc/t30/s1309">1309.</a>  </td>
 
     <td> Certification and training of blasters.  </td>

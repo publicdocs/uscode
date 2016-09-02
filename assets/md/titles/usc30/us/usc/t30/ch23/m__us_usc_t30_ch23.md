@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t30/ch22/schV/m__us_usc_t30_s965.md) | [Next](./../../../..//us/usc/t30/ch23/m__us_usc_t30_s1001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fch23)
+[Previous](./../../../..//us/usc/t30/ch22/schV/m__us_usc_t30_s966.md) | [Next](./../../../..//us/usc/t30/ch23/m__us_usc_t30_s1001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fch23)
 
 ## CHAPTER 23—GEOTHERMAL RESOURCES
 
@@ -259,7 +259,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t30/ch22/schV/m__us_usc_t30_s965.md) | [Next](./../../../..//us/usc/t30/ch23/m__us_usc_t30_s1001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fch23)
+[Previous](./../../../..//us/usc/t30/ch22/schV/m__us_usc_t30_s966.md) | [Next](./../../../..//us/usc/t30/ch23/m__us_usc_t30_s1001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fch23)
 
 ----------
 ----------
