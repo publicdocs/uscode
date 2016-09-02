@@ -111,9 +111,21 @@
 
  __Limitation on Awards and Bonuses Paid to Employees of Department of Veterans Affairs__ 
 
-[Pub. L. 113–146, title VII][/us/pl/113/146/tVII], § 705, Aug. 7, 2014, [128 Stat. 1798][/us/stat/128/1798], provided that: 
+[Pub. L. 113–146, title VII][/us/pl/113/146/tVII], § 705, Aug. 7, 2014, [128 Stat. 1798][/us/stat/128/1798], as amended by [Pub. L. 114–198, title IX][/us/pl/114/198/tIX], § 951, July 22, 2016, [130 Stat. 778][/us/stat/130/778], provided that:
 
-> “In each of fiscal years 2015 through 2024, the Secretary of Veterans Affairs shall ensure that the aggregate amount of awards and bonuses paid by the Secretary in a fiscal year under chapter 45 or 53 of title 5, United States Code, or any other awards or bonuses authorized under such title does not exceed $360,000,000.”
+>     “(a)  __Limitation__  __.—__ 
+
+>     The Secretary of Veterans Affairs shall ensure that the aggregate amount of awards and bonuses paid by the Secretary in a fiscal year under chapter 45 or 53 of title 5, United States Code, or any other awards or bonuses authorized under such title or title 38, United States Code, does not exceed the following amounts:
+
+>         “(1) With respect to each of fiscal years 2017 through 2018, $230,000,000.
+
+>         “(2) With respect to each of fiscal years 2019 through 2021, $225,000,000.
+
+>         “(3) With respect to each of fiscal years 2022 through 2024, $360,000,000.
+
+>     “(b)  __Sense of Congress__  __.—__ 
+
+>     It is the sense of Congress that the limitation under subsection (a) should not disproportionately impact lower-wage employees and that the Department of Veterans Affairs is encouraged to use bonuses to incentivize high-performing employees in areas in which retention is challenging.”
 
 ----------
 
@@ -133,5 +145,7 @@
 [/us/usc/t38/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1701
 [/us/pl/113/146/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2FtVII
 [/us/stat/128/1798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1798
+[/us/pl/114/198/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198%2FtIX
+[/us/stat/130/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F778
 
 

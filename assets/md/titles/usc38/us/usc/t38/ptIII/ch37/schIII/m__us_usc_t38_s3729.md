@@ -45,7 +45,9 @@
 
             <td> 
 
-        Active duty veteran  </td>
+        Active duty
+
+        veteran  </td>
 
             <td> 
 
@@ -53,7 +55,9 @@
 
             <td> 
 
-        Other obligor  </td>
+        Other
+
+        obligor  </td>
 
   </tr>
 

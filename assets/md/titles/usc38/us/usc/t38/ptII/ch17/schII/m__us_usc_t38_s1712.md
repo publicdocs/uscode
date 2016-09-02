@@ -433,91 +433,7 @@
 
  __Pilot Program on Provision of Dental Insurance Plans to Veterans and Survivors and Dependents of Veterans__ 
 
-[Pub. L. 111–163, title V][/us/pl/111/163/tV], § 510, May 5, 2010, [124 Stat. 1162][/us/stat/124/1162], provided that:
-
->     “(a)  __Pilot Program Required__  __.—__ 
-
->     The Secretary of Veterans Affairs shall carry out a pilot program to assess the feasibility and advisability of providing a dental insurance plan to veterans and survivors and dependents of veterans described in subsection (b).
-
->     “(b)  __Covered Veterans and Survivors and Dependents__  __.—__ 
-
->     The veterans and survivors and dependents of veterans described in this subsection are as follows:
-
->         “(1) Any veteran who is enrolled in the system of annual patient enrollment under [section 1705 of title 38][/us/usc/t38/s1705], United States Code.
-
->         “(2) Any survivor or dependent of a veteran who is eligible for medical care under section 1781 of such title.
-
->     “(c)  __Duration of Program__  __.—__ 
-
->     The pilot program shall be carried out during the 3-year period beginning on the date that is 270 days after the date of the enactment of this Act \[May 5, 2010\].
-
->     “(d)  __Locations__  __.—__ 
-
->     The pilot program shall be carried out in such Veterans Integrated Services Networks as the Secretary considers appropriate for purposes of the pilot program.
-
->     “(e)  __Administration__  __.—__ 
-
->     The Secretary shall contract with a dental insurer to administer the dental insurance plan provided under the pilot program.
-
->     “(f)  __Benefits__  __.—__ 
-
->     The dental insurance plan under the pilot program shall provide such benefits for dental care and treatment as the Secretary considers appropriate for the dental insurance plan, including diagnostic services, preventative services, endodontics and other restorative services, surgical services, and emergency services.
-
->     “(g) __Enrollment.—__ 
-
->         “(1)  __Voluntary__  __.—__ 
-
->         Enrollment in the dental insurance plan under the pilot program shall be voluntary.
-
->         “(2)  __Minimum period__  __.—__ 
-
->         Enrollment in the dental insurance plan shall be for such minimum period as the Secretary shall prescribe for purposes of this section.
-
->     “(h) __Premiums.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         Premiums for coverage under the dental insurance plan under the pilot program shall be in such amount or amounts as the Secretary shall prescribe to cover all costs associated with the pilot program.
-
->         “(2)  __Annual adjustment__  __.—__ 
-
->         The Secretary shall adjust the premiums payable under the pilot program for coverage under the dental insurance plan on an annual basis. Each individual covered by the dental insurance plan at the time of such an adjustment shall be notified of the amount and effective date of such adjustment.
-
->         “(3)  __Responsibility for payment__  __.—__ 
-
->         Each individual covered by the dental insurance plan shall pay the entire premium for coverage under the dental insurance plan, in addition to the full cost of any copayments.
-
->     “(i) __Voluntary Disenrollment.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         With respect to enrollment in the dental insurance plan under the pilot program, the Secretary shall—
-
->             “(A) permit the voluntary disenrollment of an individual in the dental insurance plan if the disenrollment occurs during the 30-day period beginning on the date of the enrollment of the individual in the dental insurance plan; and
-
->             “(B) permit the voluntary disenrollment of an individual in the dental insurance plan for such circumstances as the Secretary shall prescribe for purposes of this subsection, but only to the extent such disenrollment does not jeopardize the fiscal integrity of the dental insurance plan.
-
->         “(2)  __Allowable circumstances__  __.—__ 
-
->         The circumstances prescribed under paragraph (1)(B) shall include the following:
-
->             “(A) If an individual enrolled in the dental insurance plan relocates to a location outside the jurisdiction of the dental insurance plan that prevents use of the benefits under the dental insurance plan.
-
->             “(B) If an individual enrolled in the dental insurance plan is prevented by a serious medical condition from being able to obtain benefits under the dental insurance plan.
-
->             “(C) Such other circumstances as the Secretary shall prescribe for purposes of this subsection.
-
->         “(3)  __Establishment of procedures__  __.—__ 
-
->         The Secretary shall establish procedures for determinations on the permissibility of voluntary disenrollments under paragraph (1)(B). Such procedures shall ensure timely determinations on the permissibility of such disenrollments.
-
->     “(j)  __Relationship to Dental Care Provided by Secretary__  __.—__ 
-
->     Nothing in this section shall affect the responsibility of the Secretary to provide dental care under [section 1712 of title 38][/us/usc/t38/s1712], United States Code, and the participation of an individual in the dental insurance plan under the pilot program shall not affect the individual’s entitlement to outpatient dental services and treatment, and related dental appliances, under that section.
-
->     “(k)  __Regulations__  __.—__ 
-
->     The dental insurance plan under the pilot program shall be administered under such regulations as the Secretary shall prescribe.”
+    [Pub. L. 111–163, title V][/us/pl/111/163/tV], § 510, May 5, 2010, [124 Stat. 1162][/us/stat/124/1162], required the Secretary of Veterans Affairs to carry out a pilot program to assess the feasibility and advisability of providing a dental insurance plan to certain veterans and survivors and dependents of veterans, prior to repeal by [Pub. L. 114–218][/us/pl/114/218], § 2(b)(1), July 29, 2016, [130 Stat. 843][/us/stat/130/843]. See [section 1712C of this title][/us/usc/t38/s1712C].
 
  __Ratification of Actions During Period of Expired Authority__ 
 
@@ -861,8 +777,9 @@
 [/us/usc/t38/s1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710
 [/us/pl/111/163/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F163%2FtV
 [/us/stat/124/1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1162
-[/us/usc/t38/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1705
-[/us/usc/t38/s1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1712
+[/us/pl/114/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F218
+[/us/stat/130/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F843
+[/us/usc/t38/s1712C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1712C
 [/us/pl/104/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F110
 [/us/pl/104/110/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F110%2Fs103
 [/us/usc/t38/s1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1710

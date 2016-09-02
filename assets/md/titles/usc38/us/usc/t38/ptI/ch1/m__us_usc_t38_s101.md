@@ -437,6 +437,14 @@
 
  __Short Title of 2016 Amendment__ 
 
+[Pub. L. 114–218][/us/pl/114/218], § 1, July 29, 2016, [130 Stat. 842][/us/stat/130/842], provided that: 
+
+> “This Act \[enacting [section 1712C of this title][/us/usc/t38/s1712C] and repealing provisions set out as a note under [section 1712 of this title][/us/usc/t38/s1712]\] may be cited as the ‘Department of Veterans Affairs Dental Insurance Reauthorization Act of 2016’.”
+
+[Pub. L. 114–197][/us/pl/114/197], § 1, July 22, 2016, [130 Stat. 693][/us/stat/130/693], provided that: 
+
+> “This Act \[enacting provisions set out as notes under [section 1114 of this title][/us/usc/t38/s1114]\] may be cited as the ‘Veterans’ Compensation COLA Act of 2016’.”
+
 [Pub. L. 114–188][/us/pl/114/188], § 1, June 30, 2016, [130 Stat. 611][/us/stat/130/611], provided that: 
 
 > “This Act \[amending [section 1709B of this title][/us/usc/t38/s1709B]\] may be cited as the ‘Female Veteran Suicide Prevention Act’.”
@@ -1577,6 +1585,13 @@
 [/us/stat/81/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F191
 [/us/pl/89/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F311
 [/us/pl/89/311/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F311%2Fs9
+[/us/usc/t38/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1114
+[/us/pl/114/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F218
+[/us/stat/130/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F842
+[/us/usc/t38/s1712C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1712C
+[/us/usc/t38/s1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1712
+[/us/pl/114/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F197
+[/us/stat/130/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F693
 [/us/usc/t38/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1114
 [/us/pl/114/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F188
 [/us/stat/130/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F611

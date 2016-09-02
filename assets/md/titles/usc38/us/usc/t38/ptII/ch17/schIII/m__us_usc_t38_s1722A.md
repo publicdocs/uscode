@@ -31,6 +31,8 @@
 
             (C) to a veteran whose annual income (as determined under [section 1503 of this title][/us/usc/t38/s1503]) does not exceed the maximum annual rate of pension which would be payable to such veteran if such veteran were eligible for pension under [section 1521 of this title][/us/usc/t38/s1521].
 
+        (4) Paragraph (1) does not apply to opioid antagonists furnished under this chapter to a veteran who is at high risk for overdose of a specific medication or substance in order to reverse the effect of such an overdose.
+
     (b)
 
      The Secretary, pursuant to regulations which the Secretary shall prescribe, may—
@@ -41,9 +43,11 @@
 
     (c) Amounts collected under this section shall be deposited in the Department of Veterans Affairs Medical Care Collections Fund.
 
-(Added [Pub. L. 101–508, title VIII][/us/pl/101/508/tVIII], § 8012(a)(1), Nov. 5, 1990, [104 Stat. 1388–345][/us/stat/104/1388-345], § 622A; renumbered § 1722A, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; amended [Pub. L. 102–139, title V][/us/pl/102/139/tV], § 518(a), Oct. 28, 1991, [105 Stat. 779][/us/stat/105/779]; [Pub. L. 102–229, title I][/us/pl/102/229/tI], Dec. 12, 1991, [105 Stat. 1709][/us/stat/105/1709]; [Pub. L. 102–568, title VI][/us/pl/102/568/tVI], §§ 605(a), 606(a), Oct. 29, 1992, [106 Stat. 4343][/us/stat/106/4343]; [Pub. L. 103–66, title XII][/us/pl/103/66/tXII], § 12002(b), Aug. 10, 1993, [107 Stat. 414][/us/stat/107/414]; [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1201(e)(7), Nov. 2, 1994, [108 Stat. 4685][/us/stat/108/4685]; [Pub. L. 105–33, title VIII][/us/pl/105/33/tVIII], §§ 8021(b), 8023(b)(3), Aug. 5, 1997, [111 Stat. 665][/us/stat/111/665], 667; [Pub. L. 106–117, title II][/us/pl/106/117/tII], § 201(a), Nov. 30, 1999, [113 Stat. 1560][/us/stat/113/1560]; [Pub. L. 108–7, div. K, title I][/us/pl/108/7/dK/tI], § 113(c), Feb. 20, 2003, [117 Stat. 482][/us/stat/117/482]; [Pub. L. 108–170, title I][/us/pl/108/170/tI], § 101(b), Dec. 6, 2003, [117 Stat. 2043][/us/stat/117/2043].)
+(Added [Pub. L. 101–508, title VIII][/us/pl/101/508/tVIII], § 8012(a)(1), Nov. 5, 1990, [104 Stat. 1388–345][/us/stat/104/1388-345], § 622A; renumbered § 1722A, [Pub. L. 102–83][/us/pl/102/83], § 5(a), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; amended [Pub. L. 102–139, title V][/us/pl/102/139/tV], § 518(a), Oct. 28, 1991, [105 Stat. 779][/us/stat/105/779]; [Pub. L. 102–229, title I][/us/pl/102/229/tI], Dec. 12, 1991, [105 Stat. 1709][/us/stat/105/1709]; [Pub. L. 102–568, title VI][/us/pl/102/568/tVI], §§ 605(a), 606(a), Oct. 29, 1992, [106 Stat. 4343][/us/stat/106/4343]; [Pub. L. 103–66, title XII][/us/pl/103/66/tXII], § 12002(b), Aug. 10, 1993, [107 Stat. 414][/us/stat/107/414]; [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1201(e)(7), Nov. 2, 1994, [108 Stat. 4685][/us/stat/108/4685]; [Pub. L. 105–33, title VIII][/us/pl/105/33/tVIII], §§ 8021(b), 8023(b)(3), Aug. 5, 1997, [111 Stat. 665][/us/stat/111/665], 667; [Pub. L. 106–117, title II][/us/pl/106/117/tII], § 201(a), Nov. 30, 1999, [113 Stat. 1560][/us/stat/113/1560]; [Pub. L. 108–7, div. K, title I][/us/pl/108/7/dK/tI], § 113(c), Feb. 20, 2003, [117 Stat. 482][/us/stat/117/482]; [Pub. L. 108–170, title I][/us/pl/108/170/tI], § 101(b), Dec. 6, 2003, [117 Stat. 2043][/us/stat/117/2043]; [Pub. L. 114–198, title IX][/us/pl/114/198/tIX], § 915(a), July 22, 2016, [130 Stat. 765][/us/stat/130/765].)
 
  __Amendments__ 
+
+    2016—Subsec. (a)(4). [Pub. L. 114–198][/us/pl/114/198] added par. (4).
 
     2003—Subsec. (a)(3)(B), (C). [Pub. L. 108–170][/us/pl/108/170] added subpar. (B) and redesignated former subpar. (B) as (C).
 
@@ -126,6 +130,9 @@
 [/us/stat/117/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F482
 [/us/pl/108/170/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170%2FtI
 [/us/stat/117/2043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2043
+[/us/pl/114/198/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198%2FtIX
+[/us/stat/130/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F765
+[/us/pl/114/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198
 [/us/pl/108/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F170
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7

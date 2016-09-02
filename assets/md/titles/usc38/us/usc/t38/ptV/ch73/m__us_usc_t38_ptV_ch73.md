@@ -105,6 +105,14 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7309A" data-uslm-ref="/us/usc/t38/s7309A">7309A.</a>  </td>
+
+    <td> Office of Patient Advocacy.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 SUBCHAPTER II—GENERAL AUTHORITY AND ADMINISTRATION  </td>
@@ -411,6 +419,8 @@ SUBCHAPTER IV—RESEARCH CORPORATIONS  </td>
 
  __Amendments__ 
 
+    2016—[Pub. L. 114–198, title IX][/us/pl/114/198/tIX], § 924(b), July 22, 2016, [130 Stat. 769][/us/stat/130/769], added item 7309A.
+
     2013—[Pub. L. 112–239, div. A, title VII][/us/pl/112/239/dA/tVII], § 728(b), Jan. 2, 2013, [126 Stat. 1813][/us/stat/126/1813], added item 7309.
 
     2010—[Pub. L. 111–275, title X][/us/pl/111/275/tX], § 1001(n)(1), Oct. 13, 2010, [124 Stat. 2897][/us/stat/124/2897], substituted “the human immunodeficiency virus” for “human immunodeficiency virus” in item 7333.
@@ -484,6 +494,8 @@ SUBCHAPTER IV—RESEARCH CORPORATIONS  </td>
 ----------
 ----------
 
+[/us/pl/114/198/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198%2FtIX
+[/us/stat/130/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F769
 [/us/pl/112/239/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVII
 [/us/stat/126/1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1813
 [/us/pl/111/275/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtX

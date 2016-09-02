@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t38/ptV/ch73/schI/m__us_usc_t38_s7309.md) | [Next](./../../../../../..//us/usc/t38/ptV/ch73/schII/m__us_usc_t38_s7311.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2FptV%2Fch73%2FschII)
+[Previous](./../../../../../..//us/usc/t38/ptV/ch73/schI/m__us_usc_t38_s7309A.md) | [Next](./../../../../../..//us/usc/t38/ptV/ch73/schII/m__us_usc_t38_s7311.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2FptV%2Fch73%2FschII)
 
 #### SUBCHAPTER II—GENERAL AUTHORITY AND ADMINISTRATION
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t38/ptV/ch73/schI/m__us_usc_t38_s7309.md) | [Next](./../../../../../..//us/usc/t38/ptV/ch73/schII/m__us_usc_t38_s7311.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2FptV%2Fch73%2FschII)
+[Previous](./../../../../../..//us/usc/t38/ptV/ch73/schI/m__us_usc_t38_s7309A.md) | [Next](./../../../../../..//us/usc/t38/ptV/ch73/schII/m__us_usc_t38_s7311.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2FptV%2Fch73%2FschII)
 
 ----------
 ----------

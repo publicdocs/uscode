@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t38/ptV/ch73/schI/m__us_usc_t38_s7308.md) | [Next](./../../../../../..//us/usc/t38/ptV/ch73/schII/m__us_usc_t38_ptV_ch73_schII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7309)
+[Previous](./../../../../../..//us/usc/t38/ptV/ch73/schI/m__us_usc_t38_s7308.md) | [Next](./../../../../../..//us/usc/t38/ptV/ch73/schI/m__us_usc_t38_s7309A.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7309)
 
 ## § 7309. Readjustment Counseling Service
 
@@ -85,7 +85,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t38/ptV/ch73/schI/m__us_usc_t38_s7308.md) | [Next](./../../../../../..//us/usc/t38/ptV/ch73/schII/m__us_usc_t38_ptV_ch73_schII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7309)
+[Previous](./../../../../../..//us/usc/t38/ptV/ch73/schI/m__us_usc_t38_s7308.md) | [Next](./../../../../../..//us/usc/t38/ptV/ch73/schI/m__us_usc_t38_s7309A.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7309)
 
 ----------
 ----------

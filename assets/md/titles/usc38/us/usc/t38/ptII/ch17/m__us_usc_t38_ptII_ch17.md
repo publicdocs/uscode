@@ -209,6 +209,14 @@ SUBCHAPTER II—HOSPITAL, NURSING HOME, OR DOMICILIARY CARE AND MEDICAL TREATMEN
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1712C" data-uslm-ref="/us/usc/t38/s1712C">1712C.</a>  </td>
+
+    <td> Dental insurance plan for veterans and survivors and dependents of veterans.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1713" data-uslm-ref="/us/usc/t38/s1713">1713.</a>  </td>
 
     <td> Renumbered.]  </td>
@@ -683,6 +691,8 @@ SUBCHAPTER VIII—HEALTH CARE OF PERSONS OTHER THAN VETERANS  </td>
 
  __Amendments__ 
 
+    2016—[Pub. L. 114–218][/us/pl/114/218], § 2(a)(2), July 29, 2016, [130 Stat. 843][/us/stat/130/843], added item 1712C.
+
     2015—[Pub. L. 114–2][/us/pl/114/2], § 2(a)(2), Feb. 12, 2015, [129 Stat. 31][/us/stat/129/31], added item 1709B.
 
     2012—[Pub. L. 112–154, title I][/us/pl/112/154/tI], §§ 102(b)(2), 103(b), 106(b), 108(a)(2), Aug. 6, 2012, [126 Stat. 1168][/us/stat/126/1168], 1169, 1173, 1174, added items 1709, 1709A, 1722B, and 1787.
@@ -780,6 +790,8 @@ SUBCHAPTER VIII—HEALTH CARE OF PERSONS OTHER THAN VETERANS  </td>
 ----------
 ----------
 
+[/us/pl/114/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F218
+[/us/stat/130/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F843
 [/us/pl/114/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F2
 [/us/stat/129/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F31
 [/us/pl/112/154/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2FtI

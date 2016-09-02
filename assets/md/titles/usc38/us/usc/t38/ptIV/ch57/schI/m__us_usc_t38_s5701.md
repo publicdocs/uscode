@@ -161,15 +161,17 @@
 
         (2) In this subsection, the term “organ procurement organization” has the meaning given the term “qualified organ procurement organization” in section 371(b) of the Public Health Service Act ([42 U.S.C. 273(b)][/us/usc/t42/s273/b]).
 
-    (l) Under regulations the Secretary shall prescribe, the Secretary may disclose information about a veteran or the dependent of a veteran to a State controlled substance monitoring program, including a program approved by the Secretary of Health and Human Services under section 399O of the Public Health Service Act ([42 U.S.C. 280g–3][/us/usc/t42/s280g–3]), to the extent necessary to prevent misuse and diversion of prescription medicines.
+    (l) Under regulations the Secretary shall prescribe, the Secretary shall disclose information about a veteran or the dependent of a veteran to a State controlled substance monitoring program, including a program approved by the Secretary of Health and Human Services under section 399O of the Public Health Service Act ([42 U.S.C. 280g–3][/us/usc/t42/s280g–3]), to the extent necessary to prevent misuse and diversion of prescription medicines.
 
-([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1236][/us/stat/72/1236], § 3301; [Pub. L. 87–671][/us/pl/87/671], § 2, Sept. 19, 1962, [76 Stat. 557][/us/stat/76/557]; [Pub. L. 91–24][/us/pl/91/24], § 11, June 11, 1969, [83 Stat. 34][/us/stat/83/34]; [Pub. L. 92–540, title IV][/us/pl/92/540/tIV], § 412, Oct. 24, 1972, [86 Stat. 1093][/us/stat/86/1093]; [Pub. L. 94–321][/us/pl/94/321], § 1(a), June 29, 1976, [90 Stat. 713][/us/stat/90/713]; [Pub. L. 94–581, title II][/us/pl/94/581/tII], § 210(b), Oct. 21, 1976, [90 Stat. 2863][/us/stat/90/2863]; [Pub. L. 96–466, title VI][/us/pl/96/466/tVI], § 606, Oct. 17, 1980, [94 Stat. 2212][/us/stat/94/2212]; [Pub. L. 101–94, title III][/us/pl/101/94/tIII], § 302(a), Aug. 16, 1989, [103 Stat. 628][/us/stat/103/628]; renumbered § 5701 and amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83][/us/pl/102/83], §§ 2(c)(6), 4(a)(1), (2)(A)(xi), (3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, [105 Stat. 402–406][/us/stat/105/402-406]; [Pub. L. 107–14][/us/pl/107/14], § 8(a)(13), June 5, 2001, [115 Stat. 35][/us/stat/115/35]; [Pub. L. 109–461, title II][/us/pl/109/461/tII], § 204(a), Dec. 22, 2006, [120 Stat. 3411][/us/stat/120/3411]; [Pub. L. 112–74, div. H, title II][/us/pl/112/74/dH/tII], § 230(a), Dec. 23, 2011, [125 Stat. 1159][/us/stat/125/1159].)
+([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1236][/us/stat/72/1236], § 3301; [Pub. L. 87–671][/us/pl/87/671], § 2, Sept. 19, 1962, [76 Stat. 557][/us/stat/76/557]; [Pub. L. 91–24][/us/pl/91/24], § 11, June 11, 1969, [83 Stat. 34][/us/stat/83/34]; [Pub. L. 92–540, title IV][/us/pl/92/540/tIV], § 412, Oct. 24, 1972, [86 Stat. 1093][/us/stat/86/1093]; [Pub. L. 94–321][/us/pl/94/321], § 1(a), June 29, 1976, [90 Stat. 713][/us/stat/90/713]; [Pub. L. 94–581, title II][/us/pl/94/581/tII], § 210(b), Oct. 21, 1976, [90 Stat. 2863][/us/stat/90/2863]; [Pub. L. 96–466, title VI][/us/pl/96/466/tVI], § 606, Oct. 17, 1980, [94 Stat. 2212][/us/stat/94/2212]; [Pub. L. 101–94, title III][/us/pl/101/94/tIII], § 302(a), Aug. 16, 1989, [103 Stat. 628][/us/stat/103/628]; renumbered § 5701 and amended [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(b)(1), (d)(1), May 7, 1991, [105 Stat. 238][/us/stat/105/238], 239; [Pub. L. 102–83][/us/pl/102/83], §§ 2(c)(6), 4(a)(1), (2)(A)(xi), (3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, [105 Stat. 402–406][/us/stat/105/402-406]; [Pub. L. 107–14][/us/pl/107/14], § 8(a)(13), June 5, 2001, [115 Stat. 35][/us/stat/115/35]; [Pub. L. 109–461, title II][/us/pl/109/461/tII], § 204(a), Dec. 22, 2006, [120 Stat. 3411][/us/stat/120/3411]; [Pub. L. 112–74, div. H, title II][/us/pl/112/74/dH/tII], § 230(a), Dec. 23, 2011, [125 Stat. 1159][/us/stat/125/1159]; [Pub. L. 114–198, title IX][/us/pl/114/198/tIX], § 914, July 22, 2016, [130 Stat. 765][/us/stat/130/765].)
 
  __References in Text__ 
 
     Section 264 of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (k)(1)(A)(ii), is [section 264 of title II of Pub. L. 104–191][/us/pl/104/191/tII/s264], Aug. 21, 1996, [110 Stat. 2033][/us/stat/110/2033], which is set out as a note under [section 1320d–2 of Title 42][/us/usc/t42/s1320d–2], The Public Health and Welfare.
 
  __Amendments__ 
+
+    2016—Subsec. (l). [Pub. L. 114–198][/us/pl/114/198] substituted “shall disclose” for “may disclose”.
 
     2011—Subsec. (l). [Pub. L. 112–74][/us/pl/112/74] added subsec. (l).
 
@@ -341,9 +343,12 @@
 [/us/stat/120/3411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3411
 [/us/pl/112/74/dH/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdH%2FtII
 [/us/stat/125/1159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1159
+[/us/pl/114/198/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198%2FtIX
+[/us/stat/130/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F765
 [/us/pl/104/191/tII/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtII%2Fs264
 [/us/stat/110/2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2033
 [/us/usc/t42/s1320d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932
+[/us/pl/114/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F198
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/pl/109/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461
 [/us/pl/107/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F14
